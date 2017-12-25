@@ -1,0 +1,560 @@
+html {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-weight: normal;
+  font-variant: normal; }
+
+h1 h2 h3 h4 .nohyphen {
+  -epub-hyphens: manual;
+  -webkit-hyphens: manual;
+  hyphens: manual; }
+
+body {
+  -epub-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto; }
+
+h1 {
+  padding: 0;
+  margin: 3em 0 3em 0;
+  text-align: center;
+  text-indent: 0;
+  font-size:  120%;
+  font-weight: normal; }
+
+h1 + h1 {
+  margin: -2em 0 3em 0; }
+
+h2 {
+  padding: 0;
+  margin: 2em 0 2em 0;
+  text-align: center;
+  text-indent: 0;
+  font-size: 100%; 
+  font-weight: normal; }
+
+h2 + h2 {
+  margin: -1em 0 2em 0; }
+
+h3 {
+  padding: 0;
+  margin: 2em 0 1em 0;
+  text-align: center;
+  text-indent: 0;
+  font-size: 100%; 
+  font-weight: normal;
+  page-break-after: avoid; }
+
+h3 + h3 {
+  margin: 1em 0 1em 0; }
+
+h4 {
+  padding: 0;
+  margin: 1em 0 1em 0;
+  text-align: center;
+  text-indent: 0;
+  font-size: 100%; 
+  font-weight: normal;
+  page-break-after: avoid; }
+
+    
+
+div.recto {
+  page-break-before: left; }
+
+div.cadre {
+  margin: 1em 2em 1em 2em;
+  padding: 1em 1em 1em 1em;
+  border: 1pt solid; }
+
+p {
+  orphans: 1;
+  widows: 1;
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  text-indent: 1em; }
+
+p.initcap {
+  text-indent: -0.8em; }
+  
+img.initcap {
+  width: auto;
+  float: left;
+  margin: 0 1em 0 0; }
+
+
+
+p.img {
+  text-align: center;
+  text-indent: 0;
+  padding: 0;
+  margin: 1em 0 1em 0; }
+
+.figure {
+  padding: 0;
+  margin: 1em 0 1em 0;
+  font-size: 90%; }
+
+.figure img {
+  max-width: 100%; }
+
+
+a {
+  color: inherit;
+  text-decoration: none; }
+
+
+.r {
+  font-weight: normal;
+  font-style: normal;
+  font-variant-caps: normal; }
+
+i {
+  font-weight: normal;
+  font-style: italic;
+  font-variant-caps: normal; }
+
+b {
+  font-weight: bold;
+  font-style: normal;
+  font-variant-caps: normal; }
+
+.smcp {
+  font-weight: 300;
+  font-style: normal;
+  font-variant-caps: all-small-caps; }
+
+
+ 
+.left {
+  text-align: left; }
+
+.sommaire {
+  text-indent: -1em;
+  padding-left: 1em; }
+
+.sommaire2 {
+  text-indent: -2em;
+  padding-left: 2em; }
+
+.insommaire {
+  text-indent: 1em;
+  padding-left: 1em; }
+
+.cont {
+  text-indent: 0; }
+
+.l0 {
+  text-indent: 0;
+  padding: 0 3em 0 0;
+  text-align: left; }
+
+.l3 {
+  text-indent: 0;
+  padding: 0 3em 0 3em;
+  text-align: left;  }
+
+.l1 {
+  text-indent: 0;
+  padding: 0 3em 0 1em;
+  text-align: left; }
+
+.c {
+  text-indent: 0;
+  text-align: center; }
+
+.r3 {
+  text-indent: 0;
+  padding: 0 3em 0 3em;
+  text-align: right; }
+
+.r1 {
+  text-indent: 0;
+  padding: 0 1em 0 1em;
+  text-align: right; }
+
+.r0 {
+  text-indent: 0;
+  padding: 0 0 0 3em;
+  text-align: right; }
+
+hr.rule {
+  margin: 1em 33% 1em 33%;
+  border-top: 1px solid; }
+
+hr.fullwidth-rule {
+  margin: 1em 0 1em 0;
+  border-top: 1px solid; }
+
+hr.ruletop {
+  margin: 1em 0 0 0;
+  border-top: 1px solid; }
+
+hr.rulebottom {
+  margin: 0 0 1em 0;
+  border-top: 1px solid; }
+
+
+
+blockquote {
+  padding: 0;
+  margin: 1em 0 1em 0; }
+
+.smaller {
+  font-size: 90%; }
+
+.avantepigraphe, .apresepigraphe {
+  clear: both; }
+
+.epigraphe {
+  margin: 2em 0em 2em 33%;
+  font-size: 90%;
+  float: right; }
+
+.epigraphe .r3 {
+  text-indent:0;
+  margin: 0 1em 0 1em;
+  text-align: right; }
+
+
+.fullpageimage-wrapper {
+  height: 99%;
+  width: 100%;
+  text-align: center;
+  page-break-before: always;
+  page-break-after: always;
+  page-break-inside: avoid;
+}
+
+img.fullpageimage {
+  display: inline-block;
+  height: 100%;
+  margin: 0 auto;
+}
+
+img.center, img.center100 {
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center; }
+
+img.center90 {
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center; }
+
+img.center66 {
+  max-width: 66%;
+  max-height: 90%;
+  text-align: center; }
+
+img.center90 {
+  max-width: 50%;
+  max-height: 90%;
+  text-align: center; }
+
+img.left33 {
+  float: left;
+  max-width: 33%;
+  max-height: 100%;
+  margin: 0 1em 0 0; 
+  padding: 0; }
+  
+img.left50 {
+  float: left;
+  max-width: 50%;
+  max-height: 100%;
+  margin: 0 1em 0 0; 
+  padding: 0; }
+  
+img.left66 {
+  float: left;
+  max-width: 66%;
+  max-height: 100%;
+  margin: 0 1em 0 0; 
+  padding: 0; }
+
+img.right33 {
+  float: right;
+  max-width: 33%;
+  max-height: 100%;
+  margin: 0 0 0 1em; 
+  padding: 0; }
+  
+img.right50 {
+  float: right;
+  max-width: 50%;
+  max-height: 100%;
+  margin: 0 0 0 1em; 
+  padding: 0; }
+  
+img.right66 {
+  float: right;
+  max-width: 66%;
+  max-height: 100%;
+  margin: 0 0 0 1em; 
+  padding: 0; }
+  
+td {
+  vertical-align: text-top; }
+
+sup {
+  font-size: 65%;
+  vertical-align: 0.5em;
+  line-height: 0; }
+
+.date {
+  margin: 1em 0 1em 0;
+  font-size: 90%;
+  text-indent: 0; 
+  page-break-after: avoid; }
+
+.sig {
+  margin: 1em 1em 1em 0;
+  text-align: right; }
+
+.index {
+  margin: 0 0 0 2em; 
+  text-indent: -2em; }
+
+.entree {
+  margin: 1em 0 0 2em; 
+  text-indent: -2em; }
+
+
+
+.letter {
+  margin: 1em 0 1em 0; }
+
+.salutation {
+  margin: 0.5em 0 0.5em 2em; }
+
+.signature {
+  margin: 0.5em 3em 0.5em 0;
+  text-align: right;
+  page-break-before: avoid; }
+
+blockquote .poem {
+  margin: 0 0 0 2em;  }
+
+.poem-inner {
+  margin-left: auto;
+  margin-right: auto; }
+
+.lg {
+  margin: 1em 0 1em 0; }
+
+.l_, .l_0 {
+  margin: 0 0 0 4em;
+  text-align: left;
+  text-indent: -4em; }
+
+.l_1 {
+  margin: 0 0 0 5em;
+  text-align: left;
+  text-indent: -4em; }
+
+.l_2 {
+  margin: 0 0 0 6em;
+  text-align: left;
+  text-indent: -4em; }
+
+.l_3 {
+  margin: 0 0 0 7em;
+  text-align: left;
+  text-indent: -4em; }
+
+.l_4 {
+  margin: 0 0 0 8em;
+  text-align: left;
+  text-indent: -4em; }
+
+.l_5 {
+  margin: 0 0 0 9em;
+  text-align: left;
+  text-indent: -4em; }
+
+.l_c {
+  text-indent: 0em;
+  text-align: center; }
+
+.poem .r3 {
+  margin: 0 3em 0 2em;
+  text-align: right; }
+
+.poem .c {
+  margin: 0 0 0 0;
+  text-indent: 0;
+  text-align: center; }
+
+
+
+.notes {
+  orphans:1;
+  widows:1;
+  margin: 0.5em 1em 0.5em 2em;
+  padding: 0;
+  font-size: 90%; }
+
+h2 + .notes {
+  margin: 0.5em 1em 2em 2em; }
+
+.note {
+  clear: left; }
+
+.numero-de-note {
+  float: left; 
+  width: 1em;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  text-align: right; }
+
+.texte-de-note {
+  padding: 0 0 0 0.5em;
+  margin: 0 0 0 1.3em;
+  border-left:1px black solid; }
+
+.premier-alinea {
+  text-indent: 0; }
+
+
+
+
+.numero-de-page {
+  /*  border:1px black solid; */ }
+
+.entree {
+  margin: 1em 0 0 2em; 
+  text-indent: -2em; }
+
+
+.split {
+  page-break-after: always; }
+
+
+
+p.cast {
+  margin: 0 0 1em 1em;
+  text-indent: -1em;
+  text-align: center; }
+
+.epigraphe .hstage {
+  margin: 0;
+  text-indent: 0;
+  text-align: center;
+  page-break-after: avoid; }
+
+.hstage {
+  margin: 0.8em 2em 0.4em 2em;
+  text-indent: 0;
+  text-align: center;
+  page-break-after: avoid; }
+
+.pstage {
+  text-align: left;
+  text-indent: 1em;
+  margin: 0 0 0 2em; }
+
+.speaker { 
+  font-variant-caps: all-small-caps;
+  font-style: normal;
+  font-weight: 300; }
+
+.stage {
+  font-size: 90%;
+  font-style: italic; }
+
+
+.bonlt {
+  margin-top: 3px;
+  border-left: 1px solid;
+  padding-left: 0.5em;
+}
+
+.bonlb {
+    margin-bottom: 3px;
+  border-left: 1px solid;
+  padding-left: 0.5em;
+}
+
+.leftbrace, .rightbrace {
+  display: none;
+  text-indent: 0; }
+
+.braceleft {
+  display: inline-block;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  border-left: 1px solid;
+  padding-left: 0.5em;
+  vertical-align: middle;
+}
+
+.braceright {
+  display: inline-block;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  border-right: 1px solid;
+  padding-right: 0.5em;
+  vertical-align: middle;
+}
+
+.braceboth {
+  display: inline-block;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  vertical-align: middle;
+}
+
+.braceelem {
+  display: block;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+
+
+table.xxx {
+  border-collapse: collapse;
+}
+
+table {
+ border-collapse: separate; 
+ border-spacing: 0.5em 0.5em;
+}
+
+/*
+
+.td {
+  height: 100%;
+}
+
+.brace-left {
+  width: 0.5em;
+  border-left: 1px solid;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  height: 100%;
+}
+
+.brace-right {
+  width: 0.5em;
+  border-right: 1px solid;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  height: 100%;
+}
+
+*/
+
+
+.vsep-svg {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-indent: 0;
+  text-align: center; }

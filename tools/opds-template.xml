@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feed xmlns:thr="http://purl.org/syndication/thread/1.0"
+      xmlns="http://www.w3.org/2005/Atom"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/"
+      xmlns:dcterms="http://purl.org/dc/terms/"
+      xmlns:app="http://www.w3.org/2007/app"
+      xmlns:opds="http://opds-spec.org/2010/catalog"
+      xml:lang="fr">
+
+  <id>http://efele.net/ebooks/recent.atom</id>
+  <title>New Releases</title>
+  <updated>2014-07-03T17:34:36Z</updated>
+<!--
+  <icon>http://assets1.feedbooks.net/images/favicon.ico?t=1404375156</icon>
+-->
+  <author>
+    <name>ÉFÉLÉ</name>
+    <uri>http://efele.net/ebooks</uri>
+    <email>livres@efele.net</email>
+  </author>
+
+<!--
+  <link type="application/atom+xml; profile=opds-catalog; kind=acquisition" href="http://www.feedbooks.com/books/recent.atom" title="New Releases" rel="self"/>
+  <link type="application/atom+xml;profile=opds-catalog;kind=navigation" href="http://www.feedbooks.com/catalog.atom" title="Home" rel="start"/>
+  <link type="application/opensearchdescription+xml" href="http://www.feedbooks.com/opensearch.xml" title="Search on Feedbooks" rel="search"/>
+  <link type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://www.feedbooks.com/user/bookshelf.atom" title="Bookshelf" rel="http://opds-spec.org/shelf"/>
+<opensearch:totalResults>3482</opensearch:totalResults>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<link type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="http://www.feedbooks.com/books/recent.atom?lang=en&amp;page=2" title="Next Page" rel="next"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="/books/recent.atom?lang=en" title="English" rel="http://opds-spec.org/facet" thr:count="3482" opds:activeFacet="true" opds:facetGroup="Language"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="/books/recent.atom?lang=fr" title="French" rel="http://opds-spec.org/facet" thr:count="1222" opds:facetGroup="Language"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="/books/recent.atom?lang=de" title="German" rel="http://opds-spec.org/facet" thr:count="154" opds:facetGroup="Language"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="/books/recent.atom?lang=es" title="Spanish" rel="http://opds-spec.org/facet" thr:count="268" opds:facetGroup="Language"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="/books/recent.atom?lang=it" title="Italian" rel="http://opds-spec.org/facet" thr:count="216" opds:facetGroup="Language"/>
+-->
+
+  <atoms/>
+</feed>

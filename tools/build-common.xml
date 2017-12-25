@@ -1,0 +1,775 @@
+<?xml version='1.0'?>
+
+<project name='book-common' default='all'>
+
+  <property name='imagemagick'
+            value='C:/Program Files (x86)/ImageMagick-6.8.1-Q16/convert.exe'/>
+  <property name='kindlegen'
+            value='c:/users/emuller/home/eric/epub/kindlegen/2.9/kindlegen.exe'/>
+  <property name='rnv'
+            value='c:/Program Files (x86)/rnv-1.7.9/rnv.exe'/>
+  <property name='epubcheck11'
+            value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-1.1/epubcheck-1.1.jar'/>
+  <property name='epubcheck30'
+            value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-3.0b1/epubcheck-3.0b1.jar'/>
+  <property name='epubcheck402'
+            value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-4.0.2/epubcheck.jar'/>
+
+  <property name='exportdir'
+            value='c:/users/emuller/home/eric/efele.net/ebooks/livres'/>
+
+  <path id='classpath'>
+    <pathelement path="c:/program files/java/icu4j/icu4j-4_8_1_1.jar"/>
+    <pathelement path="c:/Users/emuller/home/afe/cafe/outside/aglj40.jar"/>
+    <pathelement path="C:/Users/emuller/home/afe/rideau/bin/release"/>
+    <pathelement path="C:/Users/emuller/home/afe/cafe/bin/release"/>
+    <pathelement path="c:/users/emuller/home/eric/epub/esciurus"/>
+    <pathelement path="c:/users/emuller/home/eric/epub/net.efele.epub/bin"/>
+    <pathelement path="c:/users/emuller/home/unicode/software/publication"/>
+    <pathelement path='C:/Program Files/Java/saxonhe9-3-0-5j/saxon9he.jar'/>
+  </path>
+
+
+  <property name='tools'        value='../../../tools'/>
+  <property name='schema'       value='${tools}/bml.rnc'/>
+  <property name='toefele_xsl'  value='${tools}/toefele.xsl'/>
+
+  <property name='correction' value='['/>
+  <property name='review' value='no'/>
+  <property name='endnotes' value='no'/>
+  <property name='dotoi'  value='no'/>
+
+  <property name='collectionId'   value=''/>
+  <property name='collectionName' value=''/>
+
+  <macrodef name='xquery'>
+    <attribute name='src'/>
+    <attribute name='q'/>
+    <attribute name='prop'/>
+    <sequential>
+      <java classname="net.sf.saxon.Query" fork="true" outputproperty='@{prop}'>
+        <classpath refid="classpath"/>
+        <arg value="-s:@{src}"/>
+        <arg value="{@{q}}"/>
+        <arg value="!method=text"/>
+      </java>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='toefele'>
+    <attribute name='src'/>
+    <attribute name='dest'/>
+    <attribute name='endnotes'/>
+    <attribute name='review'/>
+    <attribute name='mobi' default='no'/>
+    <attribute name='tirage'/>
+    <attribute name='correction'/>
+
+    <sequential>
+      <xquery src='edition.xml' q='data(//*:style/@colophon)' prop='tirage-font'/>
+
+      <java classname="net.sf.saxon.Transform" fork="true">
+        <classpath refid="classpath"/>
+        <arg value="-o:@{dest}"/>
+        <arg value="-xsl:${toefele_xsl}"/>
+        <arg value="colophon=@{src}.colophon"/>
+        <arg value="tirage-font=${tirage-font}"/>
+        <arg value="correction=@{correction}"/>
+        <arg value="mobi=@{mobi}"/>
+        <arg value="endnotes=@{endnotes}"/>
+        <arg value="review=@{review}"/>
+        <arg value="dotoi=${dotoi}"/>
+        <arg value="-s:@{src}.bml"/>
+      </java>
+    </sequential>      
+  </macrodef>
+
+  <macrodef name='epubzip'>
+    <attribute name='epubfile'/>
+    <attribute name='dir'/>
+
+    <sequential>
+      <delete file="@{epubfile}"/>
+
+      <zip destfile='@{epubfile}' 
+           compress='true' level='9' basedir='@{dir}' includes='META-INF/**'/>
+
+      <zip destfile='@{epubfile}' update='true' keepcompression='true' 
+           compress='true' level='9' basedir='@{dir}' includes='OEBPS/**'/>
+
+      <!-- last, to get it first in the zip -->
+      <zip destfile='@{epubfile}' update='true' keepcompression='true' 
+           compress='false' basedir='@{dir}' includes='mimetype'/>
+    </sequential>
+  </macrodef>
+
+
+  <macrodef name='epub2check'>
+    <attribute name='epub'/>
+    <sequential>
+      <java jar='${epubcheck402}' fork='true'>
+        <arg value="@{epub}"/>
+      </java>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='epub3check'>
+    <attribute name='epub'/>
+    <sequential>
+      <java jar='{epubcheck30}' fork='true'>
+        <arg value="@{epub}"/>
+      </java>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='spacehandler'>
+    <attribute name='mode'/>
+    <attribute name='src'/>
+    <attribute name='dest'/>
+
+    <sequential>
+      <java classname='net.efele.epub.SpaceHandler' fork='true'
+            outputProperty='spaceoutput' logError='true'>
+        <classpath refid='classpath'/>
+        <arg value='@{mode}'/>
+        <arg value='@{src}'/>
+        <arg value='@{dest}'/>
+      </java>
+    </sequential>
+  </macrodef>
+
+
+
+
+
+  <macrodef name='dovalidate'>
+    <attribute name='src'/>
+    <attribute name='schema'/>
+    <sequential>
+      <exec executable='${rnv}'>
+        <arg value="-q"/>
+        <arg value="@{schema}"/>
+        <arg value="@{src}"/>
+      </exec>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='validate-schema'>
+    <attribute name='src'/>
+    <sequential>
+      <dovalidate src='@{src}' schema='${schema}'/>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='validate-bml'>
+    <attribute name='src'/>
+    <sequential>
+      <dovalidate src='@{src}' schema='${tools}/bml.rnc'/>
+    </sequential>
+  </macrodef>
+
+
+
+
+  <macrodef name='images'>
+    <attribute name='src'/>
+    <attribute name='dest'/>
+
+    <sequential>
+      <java classname="net.sf.saxon.Transform" fork="true"
+            outputproperty='images.@{dest}'>
+        <classpath refid="classpath"/>
+        <arg value="-xsl:${tools}/bml2images.xsl"/>
+        <arg value="-s:@{src}"/>
+      </java>
+      
+      <copy todir='@{dest}/images' flatten='true'>
+        <filelist dir="." files='${images.@{dest}}'/>
+      </copy>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='fonts'>
+    <attribute name='font-files'/>
+    <attribute name='id'/>
+    <attribute name='x'/>
+
+    <sequential>
+      <java classname="net.efele.epub.FontEmbedder2" fork="true">
+        <classpath refid="classpath"/>
+        <arg value='results/@{id}/@{x}.epub'/>
+        <arg value='build/@{id}/epub/epub/OEBPS'/>
+        <arg line='@{font-files}'/>
+      </java>
+    </sequential>
+  </macrodef>
+
+    
+  <macrodef name='validate'>
+    <attribute name='x'/>
+    <sequential>
+      <validate-bml x="@{x}"/>
+    </sequential>
+  </macrodef>
+
+
+
+
+  <macrodef name='process-books'>
+    <attribute name='a'/>
+    <sequential>
+      <antcall target='books'>
+        <param name='action' value='@{a}'/>
+      </antcall>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='book'>
+    <attribute name='x'/>
+
+    <sequential>
+      <xquery src='@{x}.bml' q="substring-after(data(//*:metadata/*:electronique/@identificateur),'livres/')" prop='@{x}.myid'/>
+
+      <antcall target='${action}'>
+        <param name='id'          value='${@{x}.myid}'/>
+        <param name='x'           value='@{x}'/>
+      </antcall>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='bookwithid'>
+    <attribute name='x'/>
+    <attribute name='id'/>
+
+    <sequential>
+      <antcall target='${action}'>
+        <param name='id'          value='@{id}'/>
+        <param name='x'           value='@{x}'/>
+      </antcall>
+    </sequential>
+  </macrodef>
+
+
+  <macrodef name='process-collections'>
+    <attribute name='a'/>
+    <sequential>
+      <antcall target='collections'>
+        <param name='action' value='@{a}'/>
+      </antcall>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='collection'>
+    <attribute name='x'/>
+
+    <sequential>
+      <xquery src='@{x}.xml' q="substring-after(data(//*:collection/@id),'livres/')" prop='@{x}.myid'/>
+
+      <antcall target='${action}'>
+        <param name='id'           value='${@{x}.myid}'/>
+        <param name='x'            value='@{x}'/>
+      </antcall>
+    </sequential>
+  </macrodef>
+
+
+
+  <target name='collections'/>
+
+  <target name='build'>
+    <process-books a='build-book'/>
+    <process-collections a='build-collection'/>
+  </target>
+
+  <target name='build-book' depends='tirages-book,thumbnail-book,newsfeedentry-book,catalog-book,desc-book,opds-book'/>
+
+  <target name='build-collection' depends='tirages-collection,thumbnail-collection,catalog-collection,desc-collection,opds-collection'/>
+
+
+  <target name='tirages'>
+    <process-books a='tirages-book'/>
+    <process-collections a='tirages-collection'/>
+  </target>
+
+  <target name='tirages-book'>
+    <bv id='${id}' x='${x}'/>
+    <antcall target='zipsources-book'/>
+  </target>
+
+
+  <target name='tirages-collection'>
+    <mkdir dir='results'/>
+    <delete dir='results/${id}'/>
+    <mkdir dir='results/${id}'/>
+
+    <zip-tirage tirage='epub'      ext=''/>
+    <zip-tirage tirage='mobi'      ext=''/>
+    <zip-tirage tirage='daisy'     ext='.zip'/>
+
+    <antcall target='zipsources'/>
+  </target>
+
+  <macrodef name='zip-tirage'>
+    <attribute name='tirage'/>
+    <attribute name='ext'/>
+    <sequential>
+      <zip destfile="results/${id}/${x}.@{tirage}@{ext}.zip" encoding="UTF-8">
+        <mappedresources>
+          <fileset dir="results" includes="*/*@{tirage}@{ext}"/>
+          <flattenmapper/>
+        </mappedresources>
+      </zip>
+
+    </sequential>
+  </macrodef>
+
+
+
+
+  <target name='zipsources'>
+    <delete file='results/${id}/${x}.sources.zip'/>
+    <zip destfile="results/${id}/${x}.sources.zip">
+      <zipfileset dir="${tools}" includes="bml.rnc"/>
+      <zipfileset dir="." includes="*.xsl"/>
+      <zipfileset dir="." includes="*.rnc"/>
+      <zipfileset dir="." includes="*.bml"/>
+      <zipfileset dir="." includes="images/*"/>
+    </zip>
+  </target>
+
+  <target name='zipsources-book' depends='zipsources'/>
+
+
+  <target name='thumbnail'>
+    <process-books a='thumbnail-book'/>
+    <process-collections a='thumbnail-collection'/>
+  </target>
+
+  <target name='thumbnail-book'>
+    <mkdir dir='results'/>
+    <mkdir dir='results/${id}'/>
+
+    <xquery src='${x}.bml' q='data(//*:bml/*:cover/@src)' prop='mycover'/>
+    <dothumbnail src='${mycover}' dest='results/${id}'/>
+  </target>
+
+  <target name='thumbnail-collection'>
+    <mkdir dir='results'/>
+    <mkdir dir='results/${id}'/>
+
+    <xquery src='${x}.xml' q='data(//*:collection/@cover)' prop='mycover'/>
+    <dothumbnail src='${mycover}' dest='results/${id}'/>
+  </target>
+
+  <macrodef name='dothumbnail'>
+    <attribute name='src'/>
+    <attribute name='dest'/>
+
+    <sequential>
+      <exec executable='${imagemagick}'>
+        <arg line="@{src}"/>
+        <arg line="-resize x120"/>
+        <arg line="-bordercolor black -border 1 -matte"/>
+        <arg line="( +clone -background grey -shadow 80x3+3+3 ) +swap -background none -mosaic"/>
+        <arg line="@{dest}/thumbnail.png"/>
+      </exec>
+
+      <exec executable='${imagemagick}'>
+        <arg line="@{src}"/>
+        <arg line="-resize 240x> -resize x240>"/>
+        <arg line="-gravity center -extent 240x240"/>
+        <arg line="@{dest}/thumbnail-tw.png"/>
+      </exec>
+    </sequential>
+  </macrodef>
+
+
+  <target name='newsfeedentry'>
+    <process-books a='newsfeedentry-book'/>
+  </target>
+
+  <target name='newsfeedentry-book'>
+    <echo>----------------------------------- ${id} ${x}</echo>
+
+    <mkdir dir='results'/>
+    <mkdir dir='results/${id}'/>
+
+    <java classname="net.sf.saxon.Transform" fork="true">
+      <classpath refid="classpath"/>
+      <arg value="-o:results/${id}/newsfeedentry.xml"/>
+      <arg value="-xsl:${tools}/bml2newsfeedentry.xsl"/>
+      <arg value="-s:${x}.bml"/>
+    </java>
+  </target>
+
+
+  <target name='validate'>
+    <process-books a='validate-book'/>
+  </target>
+
+  <target name='validate-book'>
+    <validate-schema src='${x}.bml'/>
+
+    <java classname="net.sf.saxon.Transform" fork="true">
+      <classpath refid="classpath"/>
+      <arg value="-xsl:${tools}/checknotes.xsl"/>
+      <arg value="-s:${x}.bml"/>
+    </java>
+  </target>
+
+
+  <target name='foo'>
+    <process-books a='foo-book'/>
+  </target>
+
+  <target name='foo-book'>
+    <echo>----------------------------------- ${id} ${x}</echo>
+      <java classname="net.sf.saxon.Transform" fork="true">
+        <classpath refid="classpath"/>
+        <arg value="-xsl:${tools}/foo.xsl"/>
+        <arg value="-o:foo"/>
+        <arg value="-s:${x}.bml"/>
+      </java>
+  </target>
+
+
+  <target name='catalog'>
+    <process-books a='catalog-book'/>
+    <process-collections a='catalog-collection'/>
+  </target>
+
+  <target name='catalog-book'>
+    <echo>----------------------------------- ${id} ${x}</echo>
+
+    <mkdir dir='results'/>
+    <mkdir dir='results/${id}'/>
+    <delete file='results/${id}/catalog.txt'/>
+
+    <java classname="net.sf.saxon.Transform" fork="true">
+      <classpath refid="classpath"/>
+      <arg value="-o:results/${id}/catalog.txt"/>
+      <arg value="-xsl:${tools}/bml2catalog.xsl"/>
+      <arg value="-s:${x}.bml"/>
+    </java>
+  </target>
+
+  <target name='catalog-collection'>
+    <echo>----------------------------------- ${id} ${x}</echo>
+    <mkdir dir='results'/>
+    <mkdir dir='results/${id}'/>
+
+    <java classname='net.sf.saxon.Transform' fork='true'>
+      <classpath refid='classpath'/>
+      <arg value="-o:results/${id}/catalog.txt"/>
+      <arg value="-xsl:${tools}/catalog2catalog.xsl"/>
+      <arg value="-s:${x}.xml"/>
+    </java>
+  </target>
+
+
+  <target name='opds'>
+    <process-books a='opds-book'/>
+  </target>
+
+  <target name='opds-book'>
+    <echo>----------------------------------- ${id} ${x}</echo>
+
+    <mkdir dir='results'/>
+    <mkdir dir='results/${id}'/>
+
+    <java classname="net.sf.saxon.Transform" fork="true">
+      <classpath refid="classpath"/>
+      <arg value="-o:results/${id}/${id}.opds.xml"/>
+      <arg value="-xsl:${tools}/bml2opds.xsl"/>
+      <arg value='file=${x}'/>
+      <arg value="-s:${x}.bml"/>
+    </java>
+  </target>
+
+  <target name='opds-collection'/>
+
+
+  <target name='desc'>
+    <process-books a='desc-book'/>
+    <process-collections a='desc-collection'/>
+  </target>
+
+  <target name='desc-book'>
+    <echo>----------------------------------- ${id} ${x}</echo>
+    <mkdir dir='results'/>
+    <mkdir dir='results/${id}'/>
+    <java classname="net.sf.saxon.Transform" fork="true">
+      <classpath refid="classpath"/>
+      <arg value="-o:results/${id}/index.html"/>
+      <arg value="-xsl:${tools}/bml2desc.xsl"/>
+      <arg value="desc=${x}.notes"/>
+      <arg value="id=${id}"/>
+      <arg value="collectionId=${collectionId}"/>
+      <arg value="collectionName=${collectionName}"/>
+      <arg value="bookFile=${x}"/>
+      <arg value="-s:${x}.bml"/>
+    </java>
+  </target>
+  
+  <target name='desc-collection'>
+    <echo>----------------------------------- ${id} ${x}</echo>
+    <mkdir dir='results'/>
+    <mkdir dir='results/${id}'/>
+    <copy todir='results/${id}'>
+      <fileset dir='.'>
+        <include name='index.html'/>
+      </fileset>
+    </copy>
+  </target>
+
+
+  <target name='descf'>
+    <process-books a='descf-book'/>
+    <process-collections a='descf-collection'/>
+  </target>
+
+  <target name='descf-book'>
+    <echo>----------------------------------- ${id} ${x}</echo>
+    <mkdir dir='results'/>
+    <mkdir dir='results/${id}'/>
+    <java classname="net.sf.saxon.Transform" fork="true">
+      <classpath refid="classpath"/>
+      <arg value="-s:${x}.bml"/>
+      <arg value="-xsl:${tools}/bml2descf.xsl"/>
+      <arg value="collectionId=${collectionId}"/>
+      <arg value="collectionName=${collectionName}"/>
+      <arg value="bookFile={$x}"/>
+      <arg value="-o:results/${id}/descf.html"/>
+    </java>
+  </target>
+  
+  <target name='descf-collection'>
+    <echo>----------------------------------- ${id} ${x}</echo>
+    <mkdir dir='results'/>
+    <mkdir dir='results/${id}'/>
+    <copy todir='results/${id}'>
+      <fileset dir='.'>
+        <include name='descf.html'/>
+      </fileset>
+    </copy>
+  </target>
+
+
+
+
+  <target name='export'>
+    <process-books a='export-either'/>
+    <process-collections a='export-either'/>
+  </target>
+
+  <target name='export-either'>
+    <delete  dir='${exportdir}/${id}'/>
+    <mkdir  dir='${exportdir}/${id}'/>
+    <copy todir='${exportdir}/${id}' preservelastmodified="true">
+      <fileset dir='results/${id}/'>
+        <include name='*'/>
+      </fileset>
+    </copy>
+  </target>
+
+
+  <macrodef name='bv'>
+    <attribute name='x'/>
+    <attribute name='id'/>
+
+    <sequential>
+      <echo>----------------------------------- @{id} @{x}</echo>
+
+      <mkdir dir='results'/>
+      <delete dir='results/@{id}'/>
+      <mkdir dir='results/@{id}'/>
+
+      <mkdir dir='build'/>
+      <delete dir='build/@{id}'/>
+      <mkdir dir='build/@{id}'/>
+
+    <parallel>
+
+      <!--============================================================= EPUB -->
+
+      <sequential>
+      <echo>== epub</echo>
+      <mkdir dir='build/@{id}/epub'/>
+
+      <toefele src='@{x}' dest='build/@{id}/epub/text.bml' 
+           endnotes='${endnotes}' review='${review}'
+           correction='${correction}'
+           tirage='${tirage-epub-font}'/>
+
+      <spacehandler mode='rich'
+                    src='build/@{id}/epub/text.bml' 
+                    dest='build/@{id}/epub/text3.bml'/>
+      
+      <validate-bml src='build/@{id}/epub/text3.bml'/>
+
+      <java classname="net.sf.saxon.Transform" fork="true"
+            outputproperty='font-files'>
+        <classpath refid="classpath"/>
+        <arg value="-xsl:${tools}/bml2fonts.xsl"/>
+        <arg value="-s:edition.xml"/>
+      </java>
+      
+      <java classname="net.sf.saxon.Transform" fork="true">
+        <classpath refid="classpath"/>
+        <arg value="-xsl:${tools}/bml2epub.xsl"/>
+        <arg value="targetdir=build/@{id}/epub/epub"/>
+        <arg value="page-template=page-template.xpgt"/>
+        <arg value="fonts=yes"/>
+        <arg value="epub-fonts=${font-files}"/>
+        <arg value="review=${review}"/>
+        <arg value="eml=../../../edition.xml"/>
+        <arg value="-s:build/@{id}/epub/text3.bml"/>
+      </java>
+
+      <copy todir='build/@{id}/epub/epub/OEBPS'>
+        <fileset dir='${tools}'>
+          <include name='style-common.css'/>
+          <include name='page-template.xpgt'/>
+        </fileset>
+      </copy>
+
+      <copy todir='build/@{id}/epub/epub/META-INF'>
+        <fileset dir='${tools}'>
+          <include name='com.apple.ibooks.display-options.xml'/>
+        </fileset>
+      </copy>
+
+      <images src='build/@{id}/epub/text3.bml'
+              dest='build/@{id}/epub/epub/OEBPS'/>
+
+      <epubzip epubfile='results/@{id}/@{x}.epub' 
+               dir='build/@{id}/epub/epub'/>
+
+      <fonts font-files='${font-files}'
+             id='@{id}'
+             x='@{x}'/>
+
+      <epubzip epubfile='results/@{id}/@{x}.epub' 
+               dir='build/@{id}/epub/epub'/>
+
+      <epub2check epub='results/@{id}/@{x}.epub'/>
+
+      <!-- verify the size of component files -->
+      <length property="bigfiles" mode="each">
+        <fileset dir='build/@{id}/epub/epub/OEBPS' includes='*.xml'>
+          <size value='280' units='Ki' when='more'/>
+        </fileset>
+      </length>
+
+      <echo level='error'>${bigfiles}</echo>
+
+      </sequential>
+
+      <!--============================================================ DAISY -->
+
+      <sequential>
+      <echo>== daisy</echo>
+      <mkdir dir='build/@{id}/daisy'/>
+
+      <toefele src='@{x}' dest='build/@{id}/daisy/text.bml' 
+           endnotes='no' review='${review}'
+           correction='${correction}'
+           tirage='${tirage-daisy}'/>
+
+      <spacehandler mode='plain' src='build/@{id}/daisy/text.bml'
+                    dest='build/@{id}/daisy/text3.bml'/>
+
+      <validate-bml src='build/@{id}/daisy/text3.bml'/>
+
+      <java classname="net.sf.saxon.Transform" fork="true">
+        <classpath refid="classpath"/>
+        <arg value="-o:build/@{id}/daisy/text4.bml"/>
+        <arg value="-xsl:${tools}/bmlpagenum.xsl"/>
+        <arg value="-s:build/@{id}/daisy/text3.bml"/>
+      </java>
+
+      <java classname="net.sf.saxon.Transform" fork="true">
+        <classpath refid="classpath"/>
+        <arg value="-xsl:${tools}/bml2daisy.xsl"/>
+        <arg value="targetdir=build/@{id}/daisy/daisy/@{x}.daisy"/>
+        <arg value="style1=style-plain.css"/>
+        <arg value="style2=style-common.css"/>
+        <arg value="review=${review}"/>
+        <arg value="-s:build/@{id}/daisy/text4.bml"/>
+      </java>
+
+      <copy todir='build/@{id}/daisy/daisy/@{x}.daisy'>
+        <fileset dir='${tools}'>
+          <include name='style-common.css'/>
+          <include name='style-plain.css'/>
+          <include name='page-template.xpgt'/>
+          <include name='resource.res'/>
+        </fileset>
+      </copy>
+
+      <images src='build/@{id}/daisy/text3.bml'
+              dest='build/@{id}/daisy/daisy/@{x}.daisy'/>
+
+      <zip destfile='results/@{id}/@{x}.daisy.zip' basedir="build/@{id}/daisy/daisy"/>
+      </sequential>
+
+    </parallel>
+
+      <echo>== mobi</echo>
+
+      <exec executable='${kindlegen}'
+            output='build/@{id}/mobi.log' resultproperty='mobi-result'
+            errorproperty='nowhere'
+            dir='results/@{id}'>
+        <arg value='@{x}.epub'/>
+        <arg value='-o'/>
+        <arg value='@{x}.mobi'/>
+      </exec>
+      <fail>
+        <condition>
+          <equals arg1="${mobi-result}" arg2="2"/>
+        </condition>
+      </fail>
+
+
+</sequential>
+
+  </macrodef>
+
+
+
+  <target name='tidy'>
+    <delete dir='build'/>
+  </target>
+
+  <target name='clean' depends="tidy">
+    <delete dir='results'/>
+  </target>
+
+
+
+
+  <macrodef name='thumbnail-from-text'>
+    <attribute name='id' default='${id}'/>
+    <attribute name="auteur"/>
+    <attribute name="titre"/>
+
+    <sequential>
+      <exec executable='${imagemagick}'>
+        <arg line="-size 110"/>
+        <arg line="-gravity north -font 'calibri'  -pointsize 20       caption:' '         -append"/>
+        <arg line="-gravity north -font 'calibri-italic' -pointsize 24 caption:'@{auteur}' -append"/>
+        <arg line="-gravity north -font 'calibri'        caption:' '         -append"/>
+        <arg line="-gravity north -font 'calibri'        caption:'@{titre}'  -append"/>
+        <arg line="-extent 140x190"/>
+
+        <arg line="-bordercolor white -border 5"/>
+        <arg line="-bordercolor black -border 1"/>
+        <arg line="-matte ( +clone -background grey -shadow 80x3+3+3 ) +swap -background none -mosaic"/>
+        <arg line="results/@{id}/thumbnail.png"/>
+      </exec>
+    </sequential>
+  </macrodef>
+
+</project>
+

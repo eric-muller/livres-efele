@@ -1,0 +1,595 @@
+default namespace bml = "http://efele.net/2010/ns/bml"
+namespace dc="http://purl.org/dc/elements/1.1/"
+namespace opf="http://www.idpf.org/2007/opf"
+
+start = 
+  element bml {
+    metadata,
+    toc,
+    cover?,
+    page-sequences }
+
+
+common-attributes |=
+  attribute id { text }?
+
+common-attributes |=
+  attribute xml:lang { text }?
+ 
+#common-attributes |= 
+#  attribute mode { text }
+
+#------------------------------------------------------------------ metadata ---
+
+metadata = element metadata {
+    ( monographie | article )
+  & volume*
+  & publication }
+
+
+article = element article {
+
+   element periodique {
+        attribute bnf { text }?
+      & element titre { text } }
+
+  & element numero {
+        element nom { inline+ }
+      & element date { 
+           attribute iso { text },
+           text } }
+
+  & element titre { text }
+
+  & element auteur { auteur } +
+
+  & element langue { text }
+}
+
+monographie = element monographie {
+    attribute bnf { text }?
+
+  & element titre { text }
+
+  & element auteur { auteur } +
+
+  & element editeur {
+        element nom { inline* }
+      & element ville { inline* }}+
+
+  & element edition { text }?
+  & element date { text }
+  & element langue { text }
+  }
+
+
+auteur =
+      attribute bnf { text }?
+    & attribute role { "aui" | "aut" | "edt" | "ill" | "trl" }?
+
+    & element nom-bibliographie { text }?
+    & element dates { text }?
+    & element nom-couverture    { inline* }
+
+
+volume = element volume {
+    attribute id { text }?
+
+  & element date { text }?
+  & element edition { text }?
+  & element partie { text }?
+  & element facsimile {
+      attribute href { text},
+      attribute pages { facsimile-pagination }}?
+  }
+
+
+publication = element electronique {
+    attribute identificateur { text }
+  & attribute creation { text }
+  & attribute modification { text }?
+
+  & element auteur    { inline* }?
+
+  & element surtitre  { inline* }*
+  & element titre     { inline* }
+  & element soustitre { inline* }*
+
+  & element titre-catalogue { inline* }?
+
+  & element collection {
+      attribute id { text }
+    & attribute volume { text }?
+    & element titre { text }}?
+
+  & element producteur { 
+      element nom { inline* }
+    & element email { text }}+
+
+  & element merci { block+ }?
+  & element note { block+ }?
+  }
+  
+#----------------------------------------------------------------------- toc ---
+ 
+# table of content as meta data (i.e. not part of the text itself); 
+# produces EPUB navigation, PDF bookmarks, etc
+
+toc =
+  element toc {
+    tocentry* }
+
+tocentry |=
+  element tocentry {
+    attribute label { text },
+    attribute idref { string },
+    tocentry*  }
+
+tocentry |=
+  element tocentry {
+    attribute label { text },
+    attribute v { string }?,
+    attribute pageref { string },
+    tocentry*  }
+
+#--------------------------------------------------------------------- cover ---
+
+cover =
+  element cover {
+    attribute src { string },
+    attribute alt { string } }
+
+#--------------------------------------------------------------------- pages ---
+
+page-sequences =
+  element page-sequences {
+    element page-sequence { 
+      common-attributes,
+      attribute recto { "true" }?,
+      block*, script* } * }
+
+script =
+  element script { 
+    attribute type { "text/javascript" },
+    text }
+
+#--------------------------------------------------------------- generic div ---
+
+division =
+  element div {
+    common-attributes,
+    attribute class { text }?,
+    block* }
+
+block |= division
+
+
+
+#------------------------------------------------------------ poetry & plays ---
+
+poem = 
+  element poem {
+    common-attributes,
+    ( linegroup
+    | line
+    | vsep
+    | notes
+    | blockimage
+    | figure
+    | header
+    | hstage | pstage
+    | pagination )+ }
+
+linegroup =
+  element lg {
+    common-attributes,
+    ( line
+    | vsep
+    | pagination )+ }
+
+line =
+  element l {
+     common-attributes,
+     attribute class {
+       list { ("smaller")?,
+              ( "c" | "r3")? }}?,
+     attribute cont { "true" }?,
+     attribute indent { "0" | "1" | "2" | "3" | "4" | "5" | "c" }?,
+     inline+ }
+
+cast =
+  element cast {
+    common-attributes,
+    inline* }
+
+# header for a stage directive (typically a speaker)
+hstage =
+  element hstage {
+    common-attributes,
+    inline* }
+
+# just the speaker, in an hs
+speaker =
+  element speaker {
+    common-attributes,
+    inline* }
+
+# paragraph for a stage directive
+pstage =
+  element pstage {
+    common-attributes,
+    attribute class { "insommaire" | "r1" }?,
+    inline* }
+
+# inline stage directive
+stage =
+  element stage { 
+    common-attributes,
+    inline* }
+
+
+block  |= poem | hstage | pstage | line | cast
+inline |= speaker | stage
+
+#--------------------------------------------------------------------- notes ---
+
+notes =
+  element notes {
+    common-attributes,
+    ( note | pagenum )+ }
+
+note =
+  element note {
+    common-attributes,
+    attribute label { string }?,
+    attribute type { "e" | "v" }?,
+    block+ }
+
+noteref =
+  element noteref {
+    common-attributes,
+    attribute noteid { string },
+    inline* }
+
+block  |= notes
+inline |= noteref
+
+#-------------------------------------------------------------- page numbers ---
+
+# description of the pagination of a facsimile
+pagenumber-range =  
+    xsd:string { pattern="[A-Zn][0-9]+" }         # not paginated
+  | xsd:string { pattern="[ivxlc]+(-[ivxlc]+)?" } # roman number
+  | xsd:string { pattern="[IVXLC]+(-[IVXLC]+)?" } # roman number
+  | xsd:string { pattern="[0-9]+(-[0-9]+)?" }     # european number
+           
+facsimile-pagination =
+  list { pagenumber-range + }
+
+# a link to a page
+#
+# if @v is present, it is an idref to a volume
+
+pageref =
+  element pageref {
+    attribute v { text }?,
+    attribute num { text },
+    inline* }
+
+# a page break between words. The implicit space materialized by the 
+# page break (if any) is explicitly in the text, before or afer  the <pagenum>.
+#
+# if @v is present, it is an idref to a volume
+
+pagenum |= 
+  element pagenum {
+    attribute v { text }?,
+    attribute num { text } }
+
+# a page break with hyphenation. To account for spelling changes in 
+# hyphenation and varying marks of hyphenation, we represent both
+# the hyphenated form (@b and @a) and the non-hyphenated form (content)
+#
+# if @v is present, it is an idref to a volume
+
+pagenum |= 
+  element pagenum {
+    attribute v { text }?,
+    attribute num { text },
+    attribute b { text },     # hyphenated part before the page break (inc. -)
+    attribute a { text },     # hyphenated part after the page break
+    inline* }                 # non-hyphenated spelling
+
+# similarly for column breaks
+
+colnum |=
+  element colnum {
+    attribute num { text } }
+
+colnum |=
+  element colnum {
+    attribute num { text },
+    attribute b { text },
+    attribute a { text },
+    inline* }
+
+# either one
+
+pagination = pagenum | colnum
+
+block  |= pagination
+inline |= pagination | pageref
+
+#---------------------------------------------------------------- correction ---
+
+# typographic errors, spelling errors, etc.
+
+correction =
+  element correction {
+    attribute silent { "yes" }?,   # minor and uncontroversial
+    attribute original { text },   # original text
+    inline }                       # corrected text
+
+sic =
+  element sic {
+    inline }
+
+inline |= correction | sic
+
+#------------------------------------------------------- vertical separators ---
+
+# typographic effects that provide vertical separation
+
+vsep |=
+  element vsep { 
+    common-attributes,
+    attribute class { 
+         "emptyline" 
+       | "fewlines" 
+       | "onestar" 
+       | "threestars" 
+       | "threestarsrow" 
+       | "dots" 
+       | "rule"
+       | "fullwidth-rule"
+       | "tilderule"
+       | "doublerule"}}
+
+
+block |= vsep
+
+
+#-------------------------------------------------------------------- lists ---
+
+unordered_list =
+  element ul {
+    common-attributes,
+
+    element li {
+      common-attributes,
+       block * }* }
+
+block |= unordered_list
+
+toc_list =
+  element tl {
+    common-attributes,
+    attribute label-align { "right" }?,
+
+    ( element li {
+      common-attributes,
+      element label { inline }?,
+      element p { inline* },
+      toc_list ? } | pagenum )+}
+
+block |= toc_list
+
+#------------------------------------------------------------------ epigraph ---
+
+epigraph =
+  element epigraphe {
+    common-attributes,
+    block* }
+
+block |= epigraph
+
+#------------------------------------------------------------------- headers ---
+
+header-attributes =
+  attribute class {
+    list { ("smaller")?, ("hidden")?, ("l1")? }}?
+
+header |=
+  element h1 { 
+    common-attributes,
+    header-attributes,
+    inline* }
+
+header |=
+  element h2 { 
+    common-attributes,
+    header-attributes,
+    inline* }
+
+header |=
+  element h3 { 
+    common-attributes,
+    header-attributes,
+    inline* }
+
+#header |=
+#  element h4 {
+#    common-attributes,
+#    inline* }
+
+block |= header
+
+#-------------------------------------------------------------------- tables ---
+
+table |=
+  element table {
+    common-attributes,
+    attribute style { text }?,
+    attribute class { "center" }?,
+    attribute text-align { "left" | "center" | "right" }?,
+    attribute vertical-align { "top" | "middle" | "bottom" }?,
+    element col {
+      attribute width { text }?,
+      attribute align { text }?,
+      attribute vertical-align { "top" | "middle" | "bottom" }? }*,
+    element thead {
+      (tr | pagenum)+ }?,
+    element tbody {
+      (tr | pagenum)+ }}
+
+tr =
+  element tr {
+    element td {
+      attribute colspan { text }?,
+      attribute rowspan { text }?,
+      attribute text-align { "left" | "center" | "right" }?,
+      attribute vertical-align { "top" | "middle" | "bottom" }?,
+      attribute style { text }?,
+      (inline* | block*) }* }
+
+block |= table
+
+bracelist = 
+  element bl {
+    attribute class { "braceleft" | "braceright" | "braceboth" },
+    element li {
+      common-attributes,
+      attribute class { text }?,
+      (inline* | block*) }* }
+
+inline |= bracelist
+
+#-------------------------------------------------------------------- images ---
+
+figure =
+  element figure {
+    common-attributes,
+    block* }
+
+block |= figure
+
+blockimage =
+  element img {
+    common-attributes,
+    attribute src { text },
+    attribute class { "fullpageimage" 
+                    | "left33" | "left50" | "left66" 
+                    | "center50" | "center66" | "center90" | "center100" | "center"
+                    | "right66" | "right50" | "right33" }?, 
+    attribute alt { text }}
+
+inlineimage |=
+  element img {
+    common-attributes,
+    attribute src { text },
+    attribute class { "left33" | "left50" | "left66" 
+                    | "right66" | "right50" | "right33" }?, 
+    attribute alt { text }}
+
+block |=  blockimage
+inline |= inlineimage
+
+#------------------------------------------------------------------------------
+
+block |=        
+  element salutation {
+    common-attributes,
+    inline* }
+
+block |=
+  element letter {
+    common-attributes,
+    ( block | date)+ }
+
+block |=
+  element signature {
+    common-attributes,
+    inline* }
+
+block |=
+  element blockquote {
+    common-attributes,
+    attribute class { list { ("smaller")?, ("c")? }}?,
+    block* }
+
+block |=
+  element smaller {
+    common-attributes,
+    block* }
+
+block |= date
+
+date =
+  element date { 
+    common-attributes,
+    attribute class { "l0" | "l1" | "l3" | "c" | "r3" | "r1" | "r0" }?,
+    ( inline | element br { empty } )+ }
+ 
+block |=
+  element p {
+    common-attributes,
+    attribute class { 
+      list { ("smaller")?, 
+             ("cont" | "l0" | "l3" | "c" | "r3" | "r1"
+                | "date2" | "sig" | "entree" | "index"
+                | "sommaire" | "insommaire"
+                | "leftbrace" | "rightbrace" )?,
+             ("left")? }}?,
+    inline* }
+
+
+inline |= element br { empty }
+
+#-------------------------------------------------------------------- inline ---
+
+inline |= 
+  text
+
+inline |= 
+  element span { 
+    common-attributes,
+    inline+ }
+
+#--------------------------------------------------------------------- font ---
+
+inline |=
+    element r { common-attributes, inline* }      # roman
+  | element i { common-attributes, inline* }      # italic
+  | element b { common-attributes, inline* }      # bold
+  | element s { common-attributes, inline* }      # small caps
+
+#inline |=
+#  element u { inline* }      # underline
+
+inline |=
+  element sup { inline* }    # superior
+
+inline |=
+  element initcap {
+    attribute img { text },
+    attribute height { text },
+    inline* }
+
+#------------------------------------------------------------------- links ---
+
+link =
+  element a {
+    ( attribute idref { text }   # internal link
+    | attribute href { text }    # external link
+    ),
+    inline* }
+
+inline |= link
+
+#------------------------------------------------------------------- leader ---
+
+leader =
+  element leader { empty }
+
+inline |= leader
+

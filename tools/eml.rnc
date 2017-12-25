@@ -1,0 +1,38 @@
+default namespace bml = "http://efele.net/2010/ns/bml"
+namespace dc="http://purl.org/dc/elements/1.1/"
+namespace opf="http://www.idpf.org/2007/opf"
+
+start = 
+  element edition {
+    element style {
+      fonts,
+      element css { text }? },
+    element extracts {
+      element extract { 
+        block+ }+ }
+
+    element words {
+      element word {
+        element example {
+          inline* },
+        element definition {
+          inline* }}}? }
+fonts |=
+  element fonts {
+    attribute href { text }}
+
+fonts |=
+  element fonts {
+    attribute c { text },
+    font+
+
+font =
+  element font {
+    attribute f { text },
+    attribute w { "normal" | "300" | "700" },
+    attribute s { "normal" | "italic" },
+    attribute u { text }}
+
+css =
+  element css { text }
+
