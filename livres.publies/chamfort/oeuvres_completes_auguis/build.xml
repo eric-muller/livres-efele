@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+<!--
+    <book x='00_avant_propos'/>
+    <book x='01_notice_historique'/>
+    <book x='02_eloge_de_moliere'/>
+    <book x='03_eloge_de_la_fontaine'/>
+    <book x='04_discours_de_reception'/>
+    <book x='05_maximes_et_pensees'/>
+    <book x='06_precis_historique_des_revolutions'/>
+    <book x='07_caracteres_et_anecdotes'/>
+    <book x='08_tableaux_historiques'/>
+    <book x='10_melanges_de_litterature'/>
+-->
+<book x='12_theatre'/>
+  </target>
+
+<!--
+  <target name='collections'>
+    <collection  x='romans_et_nouvelles'/>
+  </target>
+-->
+
+</project>
+

@@ -1,0 +1,4223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000481"
+        creation="2016-12-28T13:36:38-08:00"
+        modification="2016-12-30T12:11:50-08:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>L’étourdi, ou les Contre-Temps</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='6'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="acte1" label="Acte I">
+      <tocentry idref="acte1sc01" label="Scène I"/>
+      <tocentry idref="acte1sc02" label="Scène II"/>
+      <tocentry idref="acte1sc03" label="Scène III"/>
+      <tocentry idref="acte1sc04" label="Scène IV"/>
+      <tocentry idref="acte1sc05" label="Scène V"/>
+      <tocentry idref="acte1sc06" label="Scène VI"/>
+      <tocentry idref="acte1sc07" label="Scène VII"/>
+      <tocentry idref="acte1sc08" label="Scène VIII"/>
+      <tocentry idref="acte1sc09" label="Scène IX"/>
+      <tocentry idref="acte1sc10" label="Scène X"/>
+      <tocentry idref="acte1sc11" label="Scène XI"/>
+    </tocentry>
+    <tocentry idref="acte2" label="Acte II">
+      <tocentry idref="acte2sc01" label="Scène I"/>
+      <tocentry idref="acte2sc02" label="Scène II"/>
+      <tocentry idref="acte2sc03" label="Scène III"/>
+      <tocentry idref="acte2sc04" label="Scène IV"/>
+      <tocentry idref="acte2sc05" label="Scène V"/>
+      <tocentry idref="acte2sc06" label="Scène VI"/>
+      <tocentry idref="acte2sc07" label="Scène VII"/>
+      <tocentry idref="acte2sc08" label="Scène VIII"/>
+      <tocentry idref="acte2sc09" label="Scène IX"/>
+      <tocentry idref="acte2sc10" label="Scène X"/>
+      <tocentry idref="acte2sc11" label="Scène XI"/>
+      <tocentry idref="acte2sc12" label="Scène XII"/>
+      <tocentry idref="acte2sc13" label="Scène XIII"/>
+      <tocentry idref="acte2sc14" label="Scène XIV"/>
+    </tocentry>
+    <tocentry idref="acte3" label="Acte III">
+      <tocentry idref="acte3sc01" label="Scène I"/>
+      <tocentry idref="acte3sc02" label="Scène II"/>
+      <tocentry idref="acte3sc03" label="Scène III"/>
+      <tocentry idref="acte3sc04" label="Scène IV"/>
+      <tocentry idref="acte3sc05" label="Scène V"/>
+      <tocentry idref="acte3sc06" label="Scène VI"/>
+      <tocentry idref="acte3sc07" label="Scène VII"/>
+      <tocentry idref="acte3sc08" label="Scène VIII"/>
+      <tocentry idref="acte3sc09" label="Scène IX"/>
+      <tocentry idref="acte3sc10" label="Scène X"/>
+      <tocentry idref="acte3sc11" label="Scène XI"/>
+      <tocentry idref="acte3sc12" label="Scène XII"/>
+      <tocentry idref="acte3sc13" label="Scène XIII"/>
+    </tocentry>
+    <tocentry idref="acte4" label="Acte IV">
+      <tocentry idref="acte4sc01" label="Scène I"/>
+      <tocentry idref="acte4sc02" label="Scène II"/>
+      <tocentry idref="acte4sc03" label="Scène III"/>
+      <tocentry idref="acte4sc04" label="Scène IV"/>
+      <tocentry idref="acte4sc05" label="Scène V"/>
+      <tocentry idref="acte4sc06" label="Scène VI"/>
+      <tocentry idref="acte4sc07" label="Scène VII"/>
+      <tocentry idref="acte4sc08" label="Scène VIII"/>
+      <tocentry idref="acte4sc09" label="Scène IX"/>
+    </tocentry>
+    <tocentry idref="acte5" label="Acte V">
+      <tocentry idref="acte5sc01" label="Scène I"/>
+      <tocentry idref="acte5sc02" label="Scène II"/>
+      <tocentry idref="acte5sc03" label="Scène III"/>
+      <tocentry idref="acte5sc04" label="Scène IV"/>
+      <tocentry idref="acte5sc05" label="Scène V"/>
+      <tocentry idref="acte5sc06" label="Scène VI"/>
+      <tocentry idref="acte5sc07" label="Scène VII"/>
+      <tocentry idref="acte5sc08" label="Scène VIII"/>
+      <tocentry idref="acte5sc09" label="Scène IX"/>
+      <tocentry idref="acte5sc10" label="Scène X"/>
+      <tocentry idref="acte5sc11" label="Scène XI"/>
+      <tocentry idref="acte5sc12" label="Scène XII"/>
+      <tocentry idref="acte5sc13" label="Scène XIII"/>
+      <tocentry idref="acte5sc14" label="Scène XIV"/>
+      <tocentry idref="acte5sc15" label="Scène XV"/>
+      <tocentry idref="acte5sc16" label="Scène XVI"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="30"/>
+
+<img src="images/frise4.png" class="center100" alt="frise"/>
+
+<h1>L’ÉTOURDI OU LES CONTRE-TEMPS</h1>
+
+<h2>COMÉDIE EN CINQ ACTES</h2>
+
+<h2><s>REPRÉSENTÉE A LYON EN 1653 ET A PARIS EN 1658</s></h2>
+
+<vsep class="rule"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">LÉLIE, fils de Pandolfe.</p>
+<p class="sommaire">CÉLIE, esclave de Trufaldin.</p>
+<p class="sommaire">MASCARILLE, valet de Lélie. </p>
+<p class="sommaire">HIPPOLYTE, fille d’Anselme.</p>
+<p class="sommaire">ANSELME, père d’Hippolyte.</p>
+<p class="sommaire">TRUFALDIN, vieillard.</p>
+<p class="sommaire">PANDOLFE, père de Lélie.</p>
+<p class="sommaire">LÉANDRE, fils de famille.</p>
+<p class="sommaire">ANDRÈS, cru Égyptien.</p>
+<p class="sommaire">ERGASTE, ami de Mascarille.</p>
+<p class="sommaire">U<s>N COURRIER</s>.</p>
+<p class="sommaire">D<s>EUX TROUPES DE</s> M<s>ASQUES</s>.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est à Messine.</p>
+
+<vsep class="rule"/>
+
+<h2 id="acte1">ACTE PREMIER</h2>
+
+<h3 id="acte1sc01">SCÈNE I. — LÉLIE, <i>seul</i>.</h3>
+
+<l>Eh bien, Léandre, eh bien, il faudra contester ;</l>
+<l>Nous verrons de nous deux qui pourra l’emporter ;</l>
+<l>Qui, dans nos soins communs pour ce jeune miracle,</l>
+<l>Aux vœux de son rival portera plus d’obstacle :</l>
+<l>Préparez vos efforts, et vous défendez bien,</l>
+<l>Sûr que de mon côté je n’épargnerai rien.</l>
+
+<pagenum num="31"/>
+
+<h3 id="acte1sc02">SCÈNE II. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! Mascarille !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Quoi ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Voici bien des affaires ;</l>
+<l>J’ai dans ma passion toutes choses contraires :</l>
+<l>Léandre aime Célie, et, par un trait fatal,</l>
+<l>Malgré mon changement, est encor mon rival.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Léandre aime Célie !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Il l’adore, te dis-je.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Tant pis.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Eh, oui, tant pis ; c’est là ce qui m’afflige.</l>
+<l>Toutefois j’aur<oa/>is tort de me désespérer ;</l>
+<l>Puisque j’ai ton secours, je puis me rassurer ;</l>
+<l>Je sais que ton esprit, en intrigues fertile,</l>
+<l>N’a jamais rien trouvé qui lui fût difficile ;</l>
+<l>Et qu’en toute la terre...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Eh ! trêve de douceurs.</l>
+<l>Quand nous faisons besoin, nous autres misérables,</l>
+<l>Nous sommes les chéris et les incomparables ;</l>
+<l>Et dans un autre temps, dès le moindre courroux,</l>
+<l>Nous sommes les coquins qu’il faut rouer de coups.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ma foi ! tu me fais tort avec cette invective.</l>
+<l>Mais enfin discourons un peu de ma captive :</l>
+<l>Dis si les plus cruels et plus durs sentiments</l>
+<l>Ont rien d’impénétrable à des traits si charmants<noteref noteid="note.31.1"/>.</l>
+<l>Pour moi, dans ses discours, comme dans son visage,</l>
+<l>Je vois pour sa naissance un noble témoignage ;</l>
+<l>Et je crois que le ciel dedans un rang si bas</l>
+<l>Cache son origine, et ne l’en tire pas.</l>
+
+<notes>
+  <note id="note.31.1">
+    <p>Est-il un cœur assez dur pour ne pas l’aimer ? C’est là le sens de ces deux vers assez embrouillés.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous êtes romanesque avecque vos chimères.</l>
+<pagenum num="32"/>
+<l>Mais que fera Pandolfe en toutes ces affaires ?</l>
+<l>C’est, monsieur, votre père, au moins à ce qu’il dit ;</l>
+<l>Vous savez que sa bile assez souvent s’aigrit ;</l>
+<l>Qu’il peste contre vous d’une belle manière,</l>
+<l>Quand vos déportements lui blessent la visière.</l>
+<l>Il est avec Anselme en parole pour vous</l>
+<l>Que de son Hipolyte on vous fera l’époux,</l>
+<l>S’imaginant que c’est dans le seul mariage</l>
+<l>Qu’il pourra rencontrer de quoi vous faire sage ;</l>
+<l>Et, s’il vient à savoir que, rebutant son choix,</l>
+<l>D’un objet inconnu vous recevez les lois,</l>
+<l>Que de ce fol amour la fatale puissance</l>
+<l>Vous soustrait aux devoirs de votre obéissance,</l>
+<l>Dieu sait quelle tempête alors éclatera,</l>
+<l>Et de quels beaux sermons on vous régalera.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! trêve, je vous prie, à votre rhétorique !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Mais vous, trêve plutôt à votre politique !</l>
+<l>Elle n’est pas fort bonne, et vous devriez tâcher...</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Sais-tu qu’on n’acquiert rien de bon à me fâcher,</l>
+<l>Que chez moi les avis ont de tristes salaires,</l>
+<l>Qu’un valet conseiller y fait mal ses affaires ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<pstage>A part.</pstage>
+<l>Il se met en courroux. <stage>Haut</stage> Tout ce que j’en ai dit</l>
+<l>N’ét<oa/>it rien que pour rire et vous sonder l’esprit.</l>
+<l>D’un censeur de plaisirs ai-je fort l’encolure ?</l>
+<l>Et Mascarille est-il ennemi de nature ?</l>
+<l>Vous savez le contraire, et qu’il est très certain</l>
+<l>Qu’on ne peut me taxer que d’être trop humain.</l>
+<l>Moquez-vous des sermons d’un vieux barbon de père</l>
+<l>Poussez votre bidet, vous dis-je, et laissez faire.</l>
+<l>Ma foi ! j’en suis d’avis, que ces pénards chagrins</l>
+<l>Nous viennent étourdir de leurs contes badins,</l>
+<l>Et, vertueux par force, espèrent, par envie,</l>
+<l>Oter aux jeunes gens les plaisirs de la vie.</l>
+<l>Vous savez mon talent, je m’offre à vous servir.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! c’est par ces discours que tu peux me ravir.</l>
+<l>Au reste, mon amour, quand je l’ai fait par<oa/>ître,</l>
+<pagenum num="33"/>
+<l>N’a point été mal vu des yeux qui l’ont fait naître.</l>
+<l>Mais Léandre, à l’instant, vient de me déclarer</l>
+<l>Qu’à me ravir Célie il se va préparer :</l>
+<l>C’est pourquoi dépêchons, et cherche dans ta tête</l>
+<l>Les moyens les plus prompts d’en faire ma conquête.</l>
+<l>Trouve ruses, détours, fourbes, inventions.</l>
+<l>Pour fruster mon rival de ses prétentions.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Laissez-moi quelque temps rêver à cette affaire.</l>
+<pstage>A part.</pstage>
+<l>Que pourr<oa/>is-je inventer pour ce coup nécessaire ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Eh bien, le stratagème ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Ah ! comme vous courez !</l>
+<l>Ma cervelle toujours marche à pas mesurés.</l>
+<l>J’ai trouvé votre fait : il faut... Non, je m’abuse.</l>
+<l>Mais si vous alliez...</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Où ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">C’est une f<oa/>ible ruse.</l>
+<l>J’en songe<oa/>is une...</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Et quelle ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Elle n’ir<oa/>it pas bien.</l>
+<l>Mais ne pourriez-vous pas...</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Quoi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Vous ne pourriez rien.</l>
+<l>Parlez avec Anselme.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Et que lui puis-je dire ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Il est vrai, c’est tomber d’un mal dedans un pire.</l>
+<l>Il faut pourtant l’avoir. Allez chez Trufaldin.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Que faire ?</l>
+
+<pagenum num="34"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Je ne sais.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">C’en est trop à la fin,</l>
+<l>Et tu me mets à bout par ces contes frivoles.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Monsieur, si vous aviez en main force pistoles,</l>
+<l>Nous n’aurions pas besoin maintenant de rêver</l>
+<l>A chercher les biais que nous devons trouver,</l>
+<l>Et pourrions, par un prompt achat de cette esclave,</l>
+<l>Empêcher qu’un rival vous prévienne et vous brave.</l>
+<l>De ces Égyptiens qui la mirent ici</l>
+<l>Trufaldin, qui la garde, est en quelque souci ;</l>
+<l>Et, trouvant son argent, qu’ils lui font trop attendre,</l>
+<l>Car enfin en vrai ladre il a toujours vécu ;</l>
+<l>Il se fer<oa/>it fesser pour moins d’un quart d’écu,</l>
+<l>Et l’argent est le dieu que surtout il révère :</l>
+<l>Mais le mal, c’est...</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Quoi ? c’est...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Que monsieur votre père</l>
+<l>Est un autre vilain qui ne vous laisse pas,</l>
+<l>Comme vous voudriez bien, manier ses ducats ;</l>
+<l>Qu’il n’est point de ressort qui, pour votre ressource,</l>
+<l>Pût faire maintenant ouvrir la moindre bourse.</l>
+<l>Mais tâchons de parler à Célie un moment,</l>
+<l>Pour savoir là-dessus quel est son sentiment.</l>
+<l>La fenêtre est ici.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Mais Trufaldin, pour elle,</l>
+<l>Fait de nuit et de jour exacte sentinelle.</l>
+<l>Prends garde.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Dans ce coin demeurons en repos.</l>
+<l>O bonheur ! la voilà qui sort tout à propos.</l>
+
+<h3 id="acte1sc03">SCÈNE III. — CÉLIE, LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! que le ciel m’oblige, en offrant à ma vue</l>
+<l>Les célestes attraits dont vous êtes pourvue !</l>
+<pagenum num="35"/>
+<l>Et, quelque mal cuisant que m’aient causé vos yeux,</l>
+<l>Que je prends de plaisir à les voir en ces lieux !</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Mon cœur, qu’avec raison votre discours étonne,</l>
+<l>N’entend pas que mes yeux fassent mal à personne,</l>
+<l>Et, si dans quelque chose ils vous ont outragé,</l>
+<l>Je puis vous assurer que c’est sans mon congé.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! leurs coups sont trop beaux pour me faire une injure !</l>
+<l>Je mets toute ma gloire à chérir leur blessure ;</l>
+<l>Et...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Vous le prenez là d’un ton un peu trop haut ;</l>
+<l>Ce style maintenant n’est pas ce qu’il nous faut.</l>
+<l>Profitons mieux du temps, et sachons vite d’elle</l>
+<l>Ce que...</l>
+
+<hstage><speaker>TRUFALDIN</speaker>, dans sa maison.</hstage>
+<l cont="true">Célie.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à Lélie.</hstage>
+<l cont="true">Eh bien !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">O rencontre cruelle !</l>
+<l>Ce malheureux vieillard dev<oa/>it-il nous troubler ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Allez, retirez-vous, je saurai lui parler.</l>
+
+<h3 id="acte1sc04">SCÈNE IV. — TRUFALDIN, CÉLIE ; LÉLIE, <i>retiré dans un coin</i> ; MASCARILLE</h3>
+
+<hstage><speaker>TRUFALDIN</speaker>, à Célie.</hstage>
+<l>Que faites-vous dehors ? et quel soin vous talonne,</l>
+<l>Vous à qui je défends de parler à personne ?</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Autrefois j’ai connu cet honnête garçon,</l>
+<l>Et vous n’avez pas lieu d’en prendre aucun soupçon.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Est-ce là le seigneur Trufaldin ?</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l cont="true">Oui, lui-même.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Monsieur, je suis tout vôtre, et ma joie est extrême</l>
+<l>De pouvoir saluer en toute humilité</l>
+<l>Un homme dont le nom est partout si vanté.</l>
+
+<pagenum num="36"/>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Très humble serviteur.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">J’incommode peut-être ;</l>
+<l>Mais je l’ai vue ailleurs, où m’ayant fait conn<oa/>ître</l>
+<l>Les grands talents qu’elle a pour savoir l’avenir,</l>
+<l>Je voul<oa/>is sur un point un peu l’entretenir,</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Quoi ! te mêler<oa/>is-tu d’un peu de diablerie ?</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Non, tout ce que je sais n’est que blanche magie.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Voici donc ce que c’est. Le maître que je sers</l>
+<l>Languit pour un objet qui le tient dans ses fers.</l>
+<l>Il aur<oa/>it bien voulu du feu qui le dévore</l>
+<l>Pouvoir entretenir la beauté qu’il adore ;</l>
+<l>Mais un dragon, veillant sur ce rare trésor,</l>
+<l>N’a pu, quoi qu’il ait fait, le lui permettre encor :</l>
+<l>Et ce qui plus le gêne et le rend misérable,</l>
+<l>Il vient de découvrir un rival redoutable ;</l>
+<l>Si bien que, pour savoir si ses soins amoureux</l>
+<l>Ont sujet d’espérer quelque succès heureux,</l>
+<l>Je viens vous consulter, sûr que de votre bouche</l>
+<l>Je puis apprendre au vrai le secret qui nous touche.</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Sous quel astre ton maître a-t-il reçu le jour ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Sous un astre à jamais ne changer son amour.</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Sans me nommer l’objet pour qui son cœur soupire,</l>
+<l>La science que j’ai m’en peut assez instruire.</l>
+<l>Cette fille a du cœur, et, dans l’adversité,</l>
+<l>Elle sait conserver une noble fierté ;</l>
+<l>Elle n’est pas d’humeur à trop faire conn<oa/>ître</l>
+<l>Les secrets sentiments qu’en son cœur ont fait naître :</l>
+<l>Mais je les sais comme elle, et, d’un esprit plus doux,</l>
+<l>Je vais en peu de mots te les découvrir tous.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>O merveilleux pouvoir de la vertu magique !</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Si ton maître en ce point de constance se pique,</l>
+<l>Et que la vertu seule anime son dessein,</l>
+<l>Qu’il n’appréhende plus de soupirer en vain ;</l>
+<pagenum num="37"/>
+<l>Il a lieu d’espérer, et le fort qu’il veut prendre</l>
+<l>N’est pas sourd aux traités, et voudra bien se rendre.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>C’est beaucoup ; mais ce fort dépend d’un gouverneur</l>
+<l>Difficile à gagner.</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l cont="true">C’est là tout le malheur.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à part, regardant Lélie.</hstage>
+<l>Au diable le fâcheux qui toujours nous éclaire<noteref noteid="note.37.1"/> !</l>
+
+<notes>
+  <note id="note.37.1">
+    <l><i>Éclairer</i> dans le sens d’<i>espionner</i>.</l>
+  </note>
+</notes>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Je vais vous enseigner ce que vous devez faire.</l>
+
+<hstage><speaker>LÉLIE</speaker>, en les joignant.</hstage>
+<l>Cessez, ô Trufaldin ! de vous inquiéter</l>
+<l>C’est par mon ordre seul qu’il vous vient visiter,</l>
+<l>Et je vous l’envoy<oa/>is, ce serviteur fidèle,</l>
+<l>Vous offrir mon service, et vous parler pour elle,</l>
+<l>Dont je vous veux dans peu payer la liberté,</l>
+<l>Pourvu qu’entre nous deux le prix soit arrêté.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>La peste soit la bête !</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">Oh ! oh ! qui des deux croire ?</l>
+<l>Ce discours au premier est fort contradictoire.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Monsieur, ce galant homme a le cerveau blessé :</l>
+<l>Ne le savez-vous pas ?</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">Je sais ce que je sai.</l>
+<l>J’ai crainte ici dessous de quelque manigance.</l>
+<pstage>A Célie.</pstage>
+<l>Rentrez, et ne prenez jamais cette licence.</l>
+<l>Et vous, filous fieffés, ou je me trompe fort,</l>
+<l>Mettez, pour me jouer, vos flûtes mieux d’accord.</l>
+
+<h3 id="acte1sc05">SCÈNE V. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>C’est bien fait. Je voudr<oa/>is qu’encor, sans flatterie,</l>
+<l>Il nous eût d’un bâton chargés de compagnie.</l>
+<l>A quoi bon se montrer, et, comme un étourdi,</l>
+<l>Me venir démentir de tout ce que je di ?</l>
+
+<pagenum num="38"/>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Je pens<oa/>is faire bien.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Oui, c’ét<oa/>it fort l’entendre.</l>
+<l>Mais quoi ! cette action ne me doit point surprendre.</l>
+<l>Vous êtes si fertile en pareils contre-temps,</l>
+<l>Que vos écarts d’esprit n’étonnent plus les gens.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! mon Dieu ! pour un rien me voilà bien coupable !</l>
+<l>Le mal est-il si grand qu’il soit irréparable ?</l>
+<l>Enfin, si tu ne mets Célie entre mes mains,</l>
+<l>Songe au moins de Léandre à rompre les desseins ;</l>
+<l>Qu’il ne puisse acheter avant moi cette belle.</l>
+<l>De peur que ma présence encor soit criminelle,</l>
+<l>Je te laisse.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, seul.</hstage>
+<l cont="true">Fort bien. A dire vrai, l’argent</l>
+<l>Ser<oa/>it dans notre affaire un sûr et fort agent ;</l>
+<l>Mais, ce ressort manquant, il faut user d’un autre.</l>
+
+<h3 id="acte1sc06">SCÈNE VI. — ANSELME, MASCARILLE</h3>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Par mon chef, c’est un siècle étrange que le nôtre !</l>
+<l>J’en suis confus. Jamais tant d’amour pour le bien,</l>
+<l>Et jamais tant de peine à retirer le sien !</l>
+<l>Les dettes aujourd’hui, quelque soin qu’on emploie,</l>
+<l>Sont comme les enfants, que l’on conçoit en joie,</l>
+<l>Et dont avecque peine on fait l’accouchement.</l>
+<l>L’argent dans une bourse entre agréablement ;</l>
+<l>Mais, le terme venu que nous devons le rendre,</l>
+<l>C’est lors que les douleurs commencent à nous prendre.</l>
+<l>Baste ! ce n’est pas peu que deux mille francs, dus</l>
+<l>Depuis deux ans entiers, me soient enfin rendus ;</l>
+<l>Encore est-ce un bonheur.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à part les quatre premiers vers.</hstage>
+<l cont="true">O Dieu ! la belle proie</l>
+<l>A tirer en volant ! Chut, il faut que je voie</l>
+<l>Si je pourr<oa/>is un peu de près le caresser.</l>
+<l>Je sais bien les discours dont il le faut bercer...</l>
+<l>Je viens de voir, Anselme...</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Et qui ?</l>
+
+<pagenum num="39"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Votre Nérine.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Que dit-elle de moi, cette gente assassine ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Pour vous elle est de flamme.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Elle ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Et vous aime tant,</l>
+<l>Que c’est grande pitié.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Que tu me rends content !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Peu s’en faut que d’amour la pauvrette ne meure.</l>
+<l>Anselme, mon mignon, crie-t-elle à toute heure,</l>
+<l>Quand est-ce que l’hymen unira nos deux cœurs,</l>
+<l>Et que tu daigneras éteindre mes ardeurs ?</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Mais pourquoi jusqu’ici me les avoir celées ?</l>
+<l>Les filles, par ma foi, sont bien dissimulées.</l>
+<l>Mascarille, en effet, qu’en dis-tu ? quoique vieux,</l>
+<l>J’ai de la mine encore assez pour plaire aux yeux.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Oui, vraiment, ce visage est encor fort mettable ;</l>
+<l>S’il n’est pas des plus beaux, il est des-agréable.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Si donc bien...</l>
+
+<hstage><speaker>MASCARILLE</speaker> veut prendre la bourse.</hstage>
+<l cont="true">Si bien donc qu’elle est sotte de vous,</l>
+<l>Ne vous regarde plus...</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Quoi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Que comme un époux ;</l>
+<l>Et vous veut...</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Et me veut... ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Et vous veut, quoi qu’il tienne,</l>
+<l>Prendre la bourse...</l>
+
+<pagenum num="40"/>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">La...?</l>
+
+<hstage><speaker>MASCARILLE</speaker> prend la bourse, et la laisse tomber.</hstage>
+<l cont="true">La bouche avec la sienne.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Ah ! je t’entends. Viens çà : lorsque tu la verras,</l>
+<l>Vante-lui mon mérite autant que tu pourras.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Laissez-moi faire.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Adieu.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Que le ciel vous conduise !</l>
+
+<hstage><speaker>ANSELME</speaker>, revenant.</hstage>
+<l>Ah ! vraiment, je fais<oa/>is une étrange sottise,</l>
+<l>Et tu pouv<oa/>is pour toi m’accuser de froideur :</l>
+<l>Je t’engage à servir mon amoureuse ardeur,</l>
+<l>Je reçois par ta bouche une bonne nouvelle,</l>
+<l>Sans du moindre présent récompenser ton zèle !</l>
+<l>Tiens tu te souviendras...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Ah ! non pas, s’il vous plaît.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Laisse-moi...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Point du tout. J’agis sans intérêt.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Je le sais ; mais pourtant...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Non, Anselme, vous dis-je,</l>
+<l>Je suis homme d’honneur, cela me désoblige.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Adieu donc, Mascarille.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à part.</hstage>
+<l cont="true">O long discours !</l>
+
+<hstage><speaker>ANSELME</speaker>, revenant.</hstage>
+<l cont="true">Je veux</l>
+<l>Régaler par tes mains cet objet de mes vœux ;</l>
+<l>Et je vais te donner de quoi faire pour elle</l>
+<l>L’achat de quelque bague, ou telle bagatelle</l>
+<l>Que tu trouveras bon.</l>
+
+<pagenum num="41"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Non, laissez votre argent :</l>
+<l>Sans vous mettre en souci, je ferai le présent ;</l>
+<l>Et l’on m’a mis en main une bague à la mode,</l>
+<l>Qu’après vous payerez, si cela l’accommode.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Soit ; donne-la pour moi : mais surtout fais si bien</l>
+<l>Qu’elle garde toujours l’ardeur de me voir sien.</l>
+
+<h3 id="acte1sc07">SCÈNE VII. — LÉLIE, ANSELME, MASCARILLE</h3>
+
+<hstage><speaker>LÉLIE</speaker>, ramassant la bourse</hstage>
+<l>A qui la bourse ?</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Ah ! dieux ! elle m’ét<oa/>it tombée,</l>
+<l>Et j’aur<oa/>is, après, cru qu’on me l’eût dérobée !</l>
+<l>Je vous suis bien tenu de ce soin obligeant,</l>
+<l>Qui m’épargne un grand trouble et me rend mon argent.</l>
+<l>Je vais m’en décharger au logis tout à l’heure.</l>
+
+<h3 id="acte1sc08">SCÈNE VIII. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>C’est être officieux, et très fort, ou je meure.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ma foi ! sans moi, l’argent ét<oa/>it perdu pour lui.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Certes, vous faites rage, et payez aujourd’hui</l>
+<l>D’un jugement très rare et d’un bonheur extrême ;</l>
+<l>Nous avancerons fort, continuez de même.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Qu’est-ce donc ? Qu’ai-je fait ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Le sot, en bon franç<oa/>is,</l>
+<l>Puisque je puis le dire, et qu’enfin je le dois.</l>
+<l>Il sait bien l’impuissance où son père le laisse ;</l>
+<l>Qu’un rival qu’il doit craindre étrangement nous presse.</l>
+<l>Cependant quand je tente un coup pour l’obliger,</l>
+<l>Dont je cours moi tout seul la honte et le danger...</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quoi ! c’ét<oa/>it...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Oui, bourreau, c’ét<oa/>it pour la captive</l>
+<l>Que j’attrap<oa/>is l’argent dont votre soin nous prive.</l>
+
+<pagenum num="42"/>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>S’il est ainsi, j’ai tort ; mais qui l’eût deviné ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Il fall<oa/>it, en effet, être bien raffiné !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tu me dev<oa/>is par signe avertir de l’affaire.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Oui, je dev<oa/>is au dos avoir mon luminaire.</l>
+<l>Au nom de Jupiter, laissez-nous en repos,</l>
+<l>Et ne nous chantez plus d’impertinents propos.</l>
+<l>Un autre, après cela, quitter<oa/>it tout peut-être ;</l>
+<l>Mais j’av<oa/>is médité tantôt un coup de maître,</l>
+<l>Dont tout présentement je veux voir les effets,</l>
+<l>A la charge que si...</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Non, je te le promets,</l>
+<l>De ne me mêler plus de rien dire ou rien faire.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Allez donc ; votre vue excite ma colère.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Mais surtout, hâte-toi, de peur qu’en ce dessein...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Allez, encore un coup ; j’y vais mettre la main.</l>
+<pstage>Lélie sort.</pstage>
+<l>Menons bien ce projet ; la fourbe sera fine,</l>
+<l>S’il faut qu’elle succède<noteref noteid="note.42.1"/> ainsi que j’imagine.</l>
+<l>Allons voir... Bon, voici mon homme justement.</l>
+
+<notes>
+  <note id="note.42.1">
+    <p><i>Succéder</i>, pour <i>réussir</i></p>
+  </note>
+</notes>
+
+<h3 id="acte1sc09">SCÈNE IX. — PANDOLFE, MASCARILLE</h3>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>Mascarille !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Monsieur ?</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l cont="true">A parler franchement,</l>
+<l>Je suis mal satisfait de mon fils.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">De mon maître ?</l>
+<l>Vous n’êtes pas le seul qui se plaigne de l’être :</l>
+<pagenum num="43"/>
+<l>Sa mauvaise conduite, insupportable en tout,</l>
+<l>Met à chaque moment ma patience à bout.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>Je vous croyais pourtant assez d’intelligence</l>
+<l>Ensemble.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Moi, monsieur ? perdez cette croyance ;</l>
+<l>Toujours de son devoir je tâche à l’avertir,</l>
+<l>Et l’on nous voit sans cesse avoir maille à partir.</l>
+<l>A l’heure même encor nous avons eu querelle</l>
+<l>Sur l’hymen d’Hippolyte, où je le vois rebelle,</l>
+<l>Où, par l’indignité d’un refus criminel,</l>
+<l>Je le vois offenser le respect paternel.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>Querelle ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Oui, querelle, et bien avant poussée.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>Je me trompais donc bien ; car j’av<oa/>is la pensée</l>
+<l>Qu’à tout ce qu’il fais<oa/>it tu donn<oa/>is de l’appui.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Moi ? Voyez ce que ç’est que du monde aujourd’hui,</l>
+<l>Et comme l’innocence est toujours opprimée !</l>
+<l>Si mon intégrité vous ét<oa/>it confirmée,</l>
+<l>Je suis auprès de lui gagé pour serviteur,</l>
+<l>Vous me voudriez encor payer pour précepteur.</l>
+<l>Oui, vous ne pourriez pas lui dire davantage</l>
+<l>Que ce que je lui dis pour le faire être sage.</l>
+<l>Monsieur, au nom de Dieu, lui fais-je assez souvent,</l>
+<l>Cessez de vous laisser conduire au premier vent,</l>
+<l>Réglez-vous ; regardez l’honnête homme de père</l>
+<l>Que vous avez du ciel, comme on le considère ;</l>
+<l>Cessez de lui vouloir donner la mort au cœur,</l>
+<l>Et, comme lui, vivez en personne d’honneur.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>C’est parler comme il faut. Et que peut-il répondre ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Répondre ? Des chansons, dont il me vient confondre</l>
+<l>Ce n’est pas qu’en effet, dans le fond de son cœur,</l>
+<l>Il ne tienne de vous des semences d’honneur ;</l>
+<l>Mais sa raison n’est pas maintenant la maîtresse,</l>
+<pagenum num="44"/>
+<l>Si je pouv<oa/>is parler avecque hardiesse,</l>
+<l>Vous le verriez dans peu soumis sans nul effort.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>Parle.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">C’est un secret qui m’importer<oa/>it fort<noteref noteid="note.44.1"/></l>
+<l>S’il ét<oa/>it découvert ; mais à votre prudence</l>
+<l>Je le puis confier avec toute assurance.</l>
+
+<notes>
+  <note id="note.44.1">
+    <p><i>Cela m’importerait</i> dans le sens de <i>cela ser<oa/>it fâcheux pour moi</i>. (A.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>Tu dis bien.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Sachez donc que vos vœux sont trahis</l>
+<l>Par l’amour qu’une esclave imprime à votre fils.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>On m’en av<oa/>it parlé ; mais l’action me touche</l>
+<l>De voir que je l’apprenne encore par ta bouche.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous voyez si je suis le secret confident...</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>Vraiment je suis ravi de cela.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Cependant,</l>
+<l>A son devoir, sans bruit, désirez-vous le rendre ?</l>
+<l>Il faut... J’ai toujours peur qu’on nous vienne surprendre.</l>
+<l>Ce ser<oa/>it fait de moi, s’il sav<oa/>it ce discours.</l>
+<l>Il faut, dis-je, pour rompre à toute chose cours</l>
+<l>Acheter sourdement l’esclave idolâtrée,</l>
+<l>Et la faire passer en une autre contrée.</l>
+<l>Anselme a grand accès auprès de Trufaldin ;</l>
+<l>Qu’il aille l’acheter pour vous dès ce matin :</l>
+<l>Après, si vous voulez en mes mains la remettre,</l>
+<l>Je conn<oa/>is des marchands, et puis bien vous promettre</l>
+<l>D’en retirer l’argent qu’elle pourra coûter,</l>
+<l>Et, malgré votre fils, de la faire écarter ;</l>
+<l>Car enfin, si l’on veut qu’à l’hymen il se range,</l>
+<l>A cet amour naissant il faut donner le change ;</l>
+<l>Et de plus, quand bien même il ser<oa/>it résolu,</l>
+<l>Qu’il aur<oa/>it pris le joug que vous avez voulu,</l>
+<l>Cet autre objet, pouvant réveiller son caprice,</l>
+<l>Au mariage encor peut porter préjudice.</l>
+
+<pagenum num="45"/>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>C’est très bien raisonner ; ce conseil me plaît fort...</l>
+<l>Je vois Anselme ; va, je m’en vais faire effort</l>
+<l>Pour avoir promptement cette esclave funeste,</l>
+<l>Et la mettre en tes mains pour achever le reste.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, seul.</hstage>
+<l>Bon ; allons avertir mon maître de ceci.</l>
+<l>Vive la fourberie, et les fourbes aussi !</l>
+
+<h3 id="acte1sc10">SCÈNE X. — HIPPOLYTE, MASCARILLE</h3>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Oui, traître, c’est ainsi que tu me rends service !</l>
+<l>Je viens de tout entendre, et voir ton artifice.</l>
+<l>A moins que de cela, l’eussé-je soupçonné ?</l>
+<l>Tu couches d’imposture, et tu m’en as donné.</l>
+<l>Tu m’av<oa/>is promis, lâche, et j’av<oa/>is lieu d’attendre</l>
+<l>Qu’on te verr<oa/>it servir mes ardeurs pour Léandre ;</l>
+<l>Que du choix de Lélie, où l’on veut m’obliger,</l>
+<l>Ton adresse et tes soins saur<oa/>ient me dégager ;</l>
+<l>Que tu m’affranchir<oa/>is du projet de mon père ;</l>
+<l>Et cependant ici tu fais tout le contraire !</l>
+<l>Mais tu t’abuseras ; je sais un sûr moyen</l>
+<l>Pour rompre cet achat où tu pousses si bien,</l>
+<l>Et je vais de ce pas...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Ah ! que vous êtes prompte !</l>
+<l>La mouche tout d’un coup à la tête vous monte,</l>
+<l>Et, sans considérer s’il a raison ou non,</l>
+<l>Votre esprit contre moi fait le petit démon.</l>
+<l>J’ai tort, et je devr<oa/>is, sans finir mon ouvrage,</l>
+<l>Vous faire dire vrai, puisque ainsi l’on m’outrage.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Par quelle illusion penses-tu m’éblouir ?</l>
+<l>Traître, peux-tu nier ce que je viens d’ouïr ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non. Mais il faut savoir que tout cet artifice</l>
+<l>Ne va directement qu’à vous rendre service ;</l>
+<l>Que ce conseil adroit, qui semble être sans fard,</l>
+<l>Jette dans le panneau l’un et l’autre vieillard ;</l>
+<l>Que mon soin par leurs mains ne veut avoir Célie</l>
+<l>Qu’à dessein de la mettre au pouvoir de Lélie ;</l>
+<l>Et faire que, l’effet de cette invention</l>
+<pagenum num="46"/>
+<l>Dans le dernier excès portant sa passion,</l>
+<l>Anselme, rebuté de son prétendu gendre,</l>
+<l>Puisse tourner son choix du côté de Léandre.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Quoi ! tout ce grand projet qui m’a mise en courroux,</l>
+<l>Tu l’as formé pour moi, Mascarille ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Oui, pour vous,</l>
+<l>Mais, puisqu’on reconn<oa/>ît si mal mes bons offices,</l>
+<l>Qu’il me faut de la sorte essuyer vos caprices,</l>
+<l>Et que, pour récompense, on s’en vient, de hauteur,</l>
+<l>Me traiter de faquin, de lâche, d’imposteur,</l>
+<l>Je m’en vais réparer l’erreur que j’ai commise,</l>
+<l>Et, dès ce même pas, rompre mon entreprise.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker>, l’arrêtant.</hstage>
+<l>Eh ! ne me traite pas si rigoureusement,</l>
+<l>Et pardonne aux transports d’un premier mouvement.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non, non, laissez-moi faire ; il est en ma puissance</l>
+<l>De détourner le coup qui si fort vous offense.</l>
+<l>Vous ne vous plaindrez point de mes soins désormais ;</l>
+<l>Oui, vous aurez mon maître et je vous le promets.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Eh ! mon pauvre garçon, que ta colère cesse.</l>
+<l>J’ai mal jugé de toi, j’ai tort, je le confesse.</l>
+<pstage>Tirant sa bourse.</pstage>
+<l>Mais je veux réparer ma faute avec ceci.</l>
+<l>Pourr<oa/>is-tu te résoudre à me quitter ainsi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non, je ne le saur<oa/>is, quelque effort que je fasse ;</l>
+<l>Mais votre promptitude est de mauvaise grâce.</l>
+<l>Apprenez qu’il n’est rien qui blesse un noble cœur</l>
+<l>Comme quand il peut voir qu’on le touche en l’honneur</l>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Il est vrai, je t’ai dit de trop grosses injures :</l>
+<l>Mais que ces deux louis guérissent tes blessures.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Eh ! tout cela n’est rien ; je suis tendre à ces coups.</l>
+<l>Mais déjà je commence à perdre mon courroux.</l>
+<l>Il faut de ses amis endurer quelque chose.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Pourras-tu mettre à fin ce que je me propose ?</l>
+<pagenum num="47"/>
+<l>Et crois-tu que l’effet de tes desseins hardis</l>
+<l>Produise à mon amour le succès que tu dis ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>N’ayez point pour ce fait l’esprit sur des épines.</l>
+<l>J’ai des ressorts tout prêts pour diverses machines ;</l>
+<l>Et, quand ce stratagème à nos vœux manquerait,</l>
+<l>Ce qu’il ne fer<oa/>it pas, un autre le fer<oa/>it.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Crois qu’Hippolyte au moins ne sera pas ingrate.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>L’espérance du gain n’est pas ce qui me flatte.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Ton maître te fait signe, et veut parler à toi :</l>
+<l>Je te quitte ; mais songe à bien agir pour moi.</l>
+
+<h3 id="acte1sc11">SCÈNE XI. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Que diable fais-tu là ? tu me promets merveille ;</l>
+<l>Mais ta lenteur d’agir est pour moi sans pareille.</l>
+<l>Sans que mon bon génie au-devant m’a poussé,</l>
+<l>Déjà tout mon bonheur eût été renversé ;</l>
+<l>C’ét<oa/>it fait de mon bien, c’ét<oa/>it fait de ma joie ;</l>
+<l>D’un regret éternel je deven<oa/>is la proie :</l>
+<l>Bref, si je ne me fusse en ces lieux rencontré</l>
+<l>Anselme av<oa/>it l’esclave, et j’en ét<oa/>is frustré ;</l>
+<l>Il l’emmen<oa/>it chez lui. Mais j’ai paré l’atteinte,</l>
+<l>J’ai détourné le coup, et tant fait, que, par crainte,</l>
+<l>Le pauvre Trufaldin l’a retenue.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Et trois :</l>
+<l>Quand nous serons à dix, nous ferons une croix.</l>
+<l>C’ét<oa/>it par mon adresse, ô cervelle incurable !</l>
+<l>Qu’Anselme entrepren<oa/>it cet achat favorable ;</l>
+<l>Entre mes propres mains on la dev<oa/>it livrer,</l>
+<l>Et vos soins endiablés nous en viennent sevrer.</l>
+<l>Et puis pour votre amour je m’emploier<oa/>is encore !</l>
+<l>J’aimerais mieux cent fois être grosse pécore,</l>
+<l>Devenir cruche, chou, lanterne, loup-garou,</l>
+<l>Et que monsieur Satan vous vînt tordre le cou.</l>
+
+<hstage><speaker>LÉLIE</speaker>, seul.</hstage>
+<l>Il nous le faut mener en quelque hôtellerie,</l>
+<l>Et faire sur les pots décharger sa furie.</l>
+
+<vsep class="rule"/>
+
+<pagenum num="48"/>
+
+<h2 id="acte2">ACTE SECOND</h2>
+
+<h3 id="acte2sc01">SCÈNE I. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>A vos désirs enfin il a fallu se rendre :</l>
+<l>Malgré tous mes serments, je n’ai pu m’en défendre,</l>
+<l>Et pour vos intérêts, que je voul<oa/>is laisser,</l>
+<l>En de nouveaux périls viens de m’embarrasser.</l>
+<l>Je suis ainsi facile ; et si de Mascarille</l>
+<l>Madame la nature av<oa/>it fait une fille,</l>
+<l>Je vous laisse à penser ce que ç’aur<oa/>it été.</l>
+<l>Toutefois n’allez pas, sur cette sûreté,</l>
+<l>Donner de vos revers au projet que je tente,</l>
+<l>Me faire une bévue, et rompre mon attente.</l>
+<l>Auprès d’Anselme encor nous vous excuserons,</l>
+<l>Pour en pouvoir tirer ce que nous désirons ;</l>
+<l>Mais, si dorénavant votre imprudence éclate,</l>
+<l>Adieu, vous dis, mes soins pour l’objet qui vous flatte.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Non, je serai prudent, te dis-je ; ne crains rien :</l>
+<l>Tu verras seulement...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Souvenez-vous-en bien ;</l>
+<l>J’ai commencé pour vous un hardi stratagème.</l>
+<l>Votre père fait voir une paresse extrême</l>
+<l>A rendre par sa mort tous vos désirs contents.</l>
+<l>Je viens de le tuer (de parole, j’entends) :</l>
+<l>Je fais courir le bruit que d’une apoplexie</l>
+<l>Le bonhomme surpris a quitté cette vie.</l>
+<l>Mais avant, pour pouvoir mieux feindre ce trépas ;</l>
+<l>J’ai fait que vers sa grange il a porté ses pas ;</l>
+<l>On est venu lui dire, et par mon artifice,</l>
+<l>Que les ouvriers qui sont après son édifice,</l>
+<l>Parmi les fondements qu’ils en jettent encor,</l>
+<l>Av<oa/>ient fait par hasard rencontre d’un trésor.</l>
+<l>Il a volé d’abord ; et, comme à la campagne</l>
+<l>Tout son monde à présent, hors nous deux, l’accompagne,</l>
+<l>Dans l’esprit d’un chacun je le tue aujourd’hui,</l>
+<l>Et produis un fantôme enseveli pour lui.</l>
+<l>Enfin je vous ai dit à quoi je vous engage :</l>
+<l>Jouez bien votre rôle ; et, pour mon personnage,</l>
+<pagenum num="49"/>
+<l>Si vous apercevez que j’y manque d’un mot,</l>
+<l>Dites absolument que je ne suis qu’un sot.</l>
+
+<h3 id="acte2sc02">SCÈNE II. — LÉLIE, <i>seul</i>.</h3>
+
+<l>Son esprit, il est vrai, trouve une étrange voie</l>
+<l>Pour adresser mes vœux au comble de leur joie ;</l>
+<l>Mais, quand d’un bel objet on est bien amoureux,</l>
+<l>Que ne fer<oa/>it-on pas pour devenir heureux ?</l>
+<l>Si l’amour est au crime une assez belle excuse,</l>
+<l>Il en peut bien servir à la petite ruse</l>
+<l>Que sa flamme aujourd’hui me force d’approuver,</l>
+<l>Par la douceur du bien qui m’en doit arriver.</l>
+<l>Juste ciel ! qu’ils sont prompts ! Je les vois en parole<noteref noteid="note.49.1"/>.</l>
+<l>Allons nous préparer à jouer notre rôle.</l>
+
+<notes>
+  <note id="note.49.1">
+    <p><i>Être en parole</i>, pour <i>converser, s’entretenir</i>.</p>
+  </note>
+</notes>
+
+<h3 id="acte2sc03">SCÈNE III. — ANSELME, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>La nouvelle a sujet de vous surprendre fort.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Être mort de la sorte !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Il a, certes, grand tort :</l>
+<l>Je lui sais mauvais gré d’une telle incartade.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>N’avoir pas seulement le temps d’être malade !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non, jamais homme n’eut si hâte de mourir.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Et Lélie ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Il se bat, et ne peut rien souffrir ;</l>
+<l>Il s’est fait en maints lieux contusion et bosse,</l>
+<l>Et veut accompagner son papa dans la fosse :</l>
+<l>Enfin, pour achever l’excès de son transport</l>
+<l>M’a fait en grande hâte ensevelir le mort,</l>
+<l>De peur que cet objet, qui le rend hypocondre,</l>
+<l>A faire un vilain coup ne me l’allât semondre<noteref noteid="note.49.2"/>.</l>
+
+<notes>
+  <note id="note.49.2">
+    <p><i>Semondre</i>, de <i>submonere</i>, inviter, convier.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>N’importe, tu dev<oa/>is attendre jusqu’au soir ;</l>
+<pagenum num="50"/>
+<l>Outre qu’encore un coup j’aur<oa/>is voulu le voir,</l>
+<l>Qui tôt ensevelit bien souvent assassine,</l>
+<l>Et tel est cru défunt qui n’en a que la mine.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je vous le garantis trépassé comme il faut.</l>
+<l>Au reste, pour venir au discours de tantôt,</l>
+<l>Lélie (et l’action lui sera salutaire)</l>
+<l>D’un bel enterrement veut régaler son père,</l>
+<l>Et consoler un peu ce défunt de son sort</l>
+<l>Par le plaisir de voir faire honneur à sa mort.</l>
+<l>Il hérite beaucoup ; mais, comme en ces affaires</l>
+<l>Il se trouve assez neuf et ne voit encor guères,</l>
+<l>Que son bien la plupart n’est point en ces quartiers,</l>
+<l>Ou que ce qu’il y tient consiste en des papiers,</l>
+<l>Il voudr<oa/>it vous prier, ensuite de l’instance,</l>
+<l>D’excuser de tantôt son trop de violence,</l>
+<l>De lui prêter au moins pour ce dernier devoir...</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Tu me l’as déjà dit, et je m’en vais le voir.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, seul.</hstage>
+<l>Jusques ici du moins tout va le mieux du monde.</l>
+<l>Tâchons à ce progrès que le reste réponde ;</l>
+<l>Et, de peur de trouver dans le port un écueil,</l>
+<l>Conduisons le vaisseau de la main et de l’œil.</l>
+
+<h3 id="acte2sc04">SCÈNE IV. — ANSELME, LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Sortons ; je ne saur<oa/>is qu’avec douleur très forte</l>
+<l>Le voir empaqueté de cette étrange sorte.</l>
+<l>Las ! en si peu de temps ! il viv<oa/>it ce matin !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>En peu de temps parfois on fait bien du chemin.</l>
+
+<hstage><speaker>LÉLIE</speaker>, pleurant.</hstage>
+<l>Ah !</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Mais quoi, cher Lélie ! enfin il ét<oa/>it homme.</l>
+<l>On n’a point pour la mort de dispense de Rome ;</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah !</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Sans leur dire gare, elle abat les humains</l>
+<l>Et contre eux de tout temps a de mauvais desseins.</l>
+
+<pagenum num="51"/>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah !</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Ce fier animal, pour toutes les prières,</l>
+<l>Ne perdr<oa/>it pas un coup de ses dents meurtrières</l>
+<l>Tout le monde y passe.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Ah !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Vous avez beau prêcher,</l>
+<l>Ce deuil enraciné ne se peut arracher.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Si, malgré ces raisons, votre ennui persévère,</l>
+<l>Mon cher Lélie, au moins, faites qu’il se modère.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Il n’en fera rien, je conn<oa/>is son humeur.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Au reste, sur l’avis de votre serviteur,</l>
+<l>J’apporte ici l’argent qui vous est nécessaire</l>
+<l>Pour faire célébrer les obsèques d’un père.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! Ah !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Comme à ce mot s’augmente sa douleur !</l>
+<l>Il ne peut, sans mourir, songer à ce malheur.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Je sais que vous verrez aux papiers du bonhomme</l>
+<l>Que je suis débiteur d’une plus grande somme ;</l>
+<l>Mais, quand par ces raisons je ne vous devr<oa/>is rien,</l>
+<l>Vous pourriez librement disposer de mon bien.</l>
+<l>Tenez, je suis tout vôtre, et le ferai par<oa/>ître.</l>
+
+<hstage><speaker>LÉLIE</speaker>, s’en allant.</hstage>
+<l>Ah !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Le grand déplaisir que sent monsieur mon maître !</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Mascarille, je crois qu’il serait à propos</l>
+<l>Qu’il me fît de sa main un reçu de deux mots ;</l>
+
+<pagenum num="52"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ah !</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Des événements l’incertitude est grande.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ah !</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Faisons-lui signer le mot que je demande.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Las ! en l’état qu’il est, comment vous contenter ?</l>
+<l>Donnez-lui le loisir de se désattrister ;</l>
+<l>Et, quand ses déplaisirs prendront quelque allégeance,</l>
+<l>J’aurai soin d’en tirer d’abord votre assurance.</l>
+<l>Adieu. Je sens mon cœur qui se gonfle d’ennui.</l>
+<l>Et m’en vais tout mon saoûl pleurer avecque lui.</l>
+<l>Ah !</l>
+
+<hstage><speaker>ANSELME</speaker>, seul.</hstage>
+<l cont="true">Le monde est rempli de beaucoup de traverses ;</l>
+<l>Chaque homme tous les jours en ressent de diverses ;</l>
+<l>Et jamais ici-bas...</l>
+
+<h3 id="acte2sc05">SCÈNE V. — PANDOLFE, ANSELME</h3>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Ah ! bon Dieu ! je frémi !</l>
+<l>Pandolfe qui revient ! Fût-il bien endormi !</l>
+<l>Comme depuis sa mort sa face est amaigrie !</l>
+<l>Las ! ne m’approchez pas de plus près, je vous prie !</l>
+<l>J’ai trop de répugnance à coudoyer un mort.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>D’où peut donc provenir ce bizarre transport ?</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Dites-moi de bien loin quel sujet vous amène.</l>
+<l>Si pour me dire adieu vous prenez tant de peine,</l>
+<l>C’est trop de courtoisie, et véritablement</l>
+<l>Je me ser<oa/>is passé de votre compliment.</l>
+<l>Si votre âme est en peine et cherche des prières,</l>
+<l>Las ! je vous en promets, et ne m’effrayez guères !</l>
+<l>Foi d’homme épouvanté, je vais faire à l’instant</l>
+<l>Prier tant Dieu pour vous, que vous serez content.</l>
+<l indent="2">Dispar<oa/>issez donc, je vous prie,</l>
+<l indent="2">Et que le ciel, par sa bonté,</l>
+<pagenum num="53"/>
+<l indent="2">Comble de joie et de santé</l>
+<l indent="2">Votre défunte seigneurie !</l>
+
+<hstage><speaker>PANDOLFE</speaker>, riant.</hstage>
+<l>Malgré tout mon dépit, il m’y faut prendre part.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Las ! pour un trépassé vous êtes bien gaillard.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>Est-ce jeu, dites-nous, ou bien si c’est folie,</l>
+<l>Qui traite de défunt une personne en vie ?</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Hélas ! vous êtes mort, et je viens de vous voir.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>Quoi ! j’aur<oa/>is trépassé sans m’en apercevoir ?</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Sitôt que Mascarille en a dit la nouvelle,</l>
+<l>J’en ai senti dans l’âme une douleur mortelle.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>Mais enfin, dormez-vous ? êtes-vous éveillé ?</l>
+<l>Me conn<oa/>issez-vous pas ?</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Vous êtes habillé</l>
+<l>D’un corps aérien qui contrefait le vôtre,</l>
+<l>Mais qui dans un moment peut devenir tout autre.</l>
+<l>Je crains fort de vous voir comme un géant grandir,</l>
+<l>Et tout votre visage affreusement laidir.</l>
+<l>Pour Dieu ! ne prenez point de vilaine figure,</l>
+<l>J’ai prou de ma frayeur en cette conjoncture.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>En une autre saison, cette naïveté</l>
+<l>Dont vous accompagnez votre crédulité,</l>
+<l>Anselme, me ser<oa/>it un charmant badinage,</l>
+<l>Et j’en prolonger<oa/>is le plaisir davantage :</l>
+<l>Mais, avec cette mort, un trésor supposé,</l>
+<l>Dont parmi les chemins on m’a désabusé,</l>
+<l>Fomentent dans mon âme un soupçon légitime.</l>
+<l>Mascarille est un fourbe, et fourbe fourbissime,</l>
+<l>Sur qui ne peuvent rien la crainte et le remords,</l>
+<l>Et qui pour ses desseins a d’étranges ressorts.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>M’aur<oa/>it-on joué pièce et fait supercherie !</l>
+<l>Ah ! vraiment, ma raison, vous seriez fort jolie !</l>
+<pagenum num="54"/>
+<l>Touchons un peu pour voir : en effet, c’est bien lui.</l>
+<l>Malepeste du sot que je suis aujourd’hui !</l>
+<l>De grâce, n’allez pas divulguer un tel conte ;</l>
+<l>On en fer<oa/>it jouer quelque farce à ma honte,</l>
+<l>Mais, Pandolfe, aidez-moi vous-même à retirer</l>
+<l>L’argent que j’ai donné pour vous faire enterrer.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l>De l’argent, dites-vous ? Ah ! voilà l’enclouure !</l>
+<l>C’est là le nœud secret de toute l’aventure.</l>
+<l>A votre dam. Pour moi, sans m’en mettre en souci,</l>
+<l>Je vais faire informer de cette affaire-ci</l>
+<l>Contre ce Mascarille ; et, si l’on peut le prendre,</l>
+<l>Quoi qu’il puisse coûter, je le veux faire pendre.</l>
+
+<hstage><speaker>ANSELME</speaker>, seul.</hstage>
+<l>Et moi, la bonne dupe à trop croire un vaurien,</l>
+<l>Il faut donc qu’aujourd’hui je perde et sens et bien.</l>
+<l>Il me sied bien, ma foi, de porter tête grise,</l>
+<l>Et d’être encor si prompt à faire une sottise ;</l>
+<l>D’examiner si peu sur un premier rapport...</l>
+<l>Mais je vois...</l>
+
+<h3 id="acte2sc06">SCÈNE VI. — LÉLIE, ANSELME</h3>
+
+<hstage><speaker>LÉLIE</speaker>, sans voir Anselme.</hstage>
+<l cont="true">Maintenant, avec ce passe-port,</l>
+<l>Je puis à Trufaldin rendre aisément visite.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>A ce que je puis voir, votre douleur vous quitte ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Que dites-vous ? Jamais elle ne quittera</l>
+<l>Un cœur qui chèrement toujours la gardera.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Je reviens sur mes pas vous dire avec franchise</l>
+<l>Que tantôt avec vous j’ai fait une méprise ;</l>
+<l>Que parmi ces louis, quoiqu’ils semblent très beaux,</l>
+<l>J’en ai, sans y penser, mêlé que je tiens faux ;</l>
+<l>Et j’apporte sur moi de quoi mettre en leur place.</l>
+<l>De nos faux monnoyeurs l’insupportable audace</l>
+<l>Pullule en cet État d’une telle façon,</l>
+<l>Qu’on ne reçoit plus rien qui soit hors de soupçon.</l>
+<l>Mon Dieu, qu’on fer<oa/>it bien de les faire tous pendre !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Vous me faites plaisir de les vouloir reprendre ;</l>
+<pagenum num="55"/>
+<l>Mais je n’en ai point vu de faux, comme je croi.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Je les conn<oa/>îtrai bien, montrez, montrez-les-moi.</l>
+<l>Est-ce tout ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Oui.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">Tant mieux. Enfin je vous raccroche,</l>
+<l>Mon argent bien-aimé ; rentrez dedans ma poche.</l>
+<l>Et vous, mon brave escroc, vous ne tenez plus rien.</l>
+<l>Vous tuez donc des gens qui se portent fort bien ?</l>
+<l>Et qu’auriez-vous donc fait sur moi, chétif beau-père ?</l>
+<l>Ma foi ! je m’engendr<oa/>is d’une belle manière,</l>
+<l>Et j’all<oa/>is prendre en vous un beau-fils fort discret !</l>
+<l>Allez, allez mourir de honte et de regret !</l>
+
+<hstage><speaker>LÉLIE</speaker>, seul.</hstage>
+<l>Il faut dire : J’en tiens. Quelle surprise extrême !</l>
+<l>D’où peut-il avoir su sitôt le stratagème ?</l>
+
+<h3 id="acte2sc07">SCÈNE VII. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quoi ! vous étiez sorti ? Je vous cherch<oa/>is partout.</l>
+<l>Eh bien, en sommes-nous enfin venus à bout ?</l>
+<l>Je le donne en six coups au fourbe le plus brave.</l>
+<l>Çà, donnez-moi, que j’aille acheter notre esclave ;</l>
+<l>Votre rival après sera bien étonné,</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! mon pauvre garçon, la chance a bien tourné !</l>
+<l>Pourr<oa/>is-tu de mon sort deviner l’injustice ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quoi ! que ser<oa/>it-ce ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Anselme, instruit de l’artifice,</l>
+<l>M’a repris maintenant tout ce qu’il nous prêt<oa/>it,</l>
+<l>Sous couleur de changer de l’or que l’on dout<oa/>it.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous vous moquez peut-être ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Il est trop véritable.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Tout de bon ?</l>
+
+<pagenum num="56"/>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Tout de bon ; j’en suis inconsolable.</l>
+<l>Tu te vas emporter d’un courroux sans égal.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Moi, monsieur ! quelque sot<noteref noteid="note.56.1"/> : la colère fait mal,</l>
+<l>Et je veux me choyer, quoi qu’enfin il arrive.</l>
+<l>Que Célie, après tout, soit ou libre ou captive,</l>
+<l>Que Léandre l’achète, ou qu’elle reste là,</l>
+<l>Pour moi, je m’en soucie autant que de cela.</l>
+
+<notes>
+  <note id="note.56.1">
+    <p>Location elliptique, très commune dans nos anciennes comédies. Quelque sot le fer<oa/>it mais je ne le ferai pas.</p>
+  </note>
+</notes>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! n’aye point pour moi si grande indifférence,</l>
+<l>Et sois plus indulgent à ce peu d’imprudence !</l>
+<l>Sans ce dernier malheur, ne m’avoueras-tu pas</l>
+<l>Que j’av<oa/>is fait merveille, et qu’en ce feint trépas</l>
+<l>J’élud<oa/>is un chacun d’un deuil si vraisemblable,</l>
+<l>Que les plus clairvoyants l’aur<oa/>ient cru véritable.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous avez en effet sujet de vous louer.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Eh bien, je suis coupable, et je veux l’avouer ;</l>
+<l>Mais, si jamais mon bien te fut considérable.</l>
+<l>Répare ce malheur, et me sois secourable.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je vous baise les mains ; je n’ai pas le loisir.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Mascarille, mon fils.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Point.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Fais-moi ce plaisir.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non, je n’en ferai rien,</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Si tu m’es inflexible,</l>
+<l>Je m’en vais me tuer.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Soit ; il vous est loisible.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Je ne puis te fléchir ?</l>
+
+<pagenum num="57"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Non.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Vois-tu le fer prêt ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Je vais le pousser.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Faites ce qu’il vous plaît.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tu n’auras pas regret de m’arracher la vie ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Adieu, Mascarille.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Adieu, monsieur Lélie.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quoi !...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Tuez-vous donc vite. Ah ! que de longs devis !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tu voudr<oa/>is bien, ma foi, pour avoir mes habits,</l>
+<l>Que je fisse le sot, et que je me tuasse.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Sav<oa/>is-je pas qu’enfin ce n’ét<oa/>it que grimace ;</l>
+<l>Et, quoi que ces esprits jurent d’effectuer,</l>
+<l>Qu’on n’est point aujourd’hui si prompt à se tuer ?</l>
+
+<h3 id="acte2sc08">SCÈNE VIII. — TRUFALDIN, LÉANDRE, LÉLIE, MASCARILLE</h3>
+
+<pstage>Trufaldin parle bas à Lêandre dans le fond du théâtre.</pstage>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Que vois-je ? mon rival et Trufaldin ensemble !</l>
+<l>Il achète Célie ; ah ! de frayeur je tremble !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Il ne faut point douter qu’il fera ce qu’il peut,</l>
+<l>Et, s’il a de l’argent, qu’il pourra ce qu’il veut.</l>
+<pagenum num="58"/>
+<l>Pour moi, j’en suis ravi. Voilà la récompense</l>
+<l>De vos brusques erreurs, de votre impatience.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Que dois-je faire ? dis ; veuille me conseiller.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je ne sais.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Laisse-moi, je vais le quereller<noteref noteid="note.58.1"/>.</l>
+
+<notes>
+  <note id="note.58.1">
+    <p>Dans le sens de <i>défier, provoquer</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Qu’en arrivera-t-il ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Que veux-tu que je fasse</l>
+<l>Pour empêcher ce coup ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Allez, je vous fais grâce ;</l>
+<l>Je jette encore un œil pitoyable sur vous.</l>
+<l>Laissez-moi l’observer ; par des moyens plus doux</l>
+<l>Je vais, comme je crois, savoir ce qu’il projette.</l>
+<pstage>Lélie sort.</pstage>
+
+<hstage><speaker>TRUFALDIN</speaker>, à Lêandre.</hstage>
+<l>Quand on viendra tantôt, c’est une affaire faite.</l>
+<pstage>Trufaldin sort.</pstage>
+
+<hstage><speaker>MASCARILLE</speaker>, à part, en s’en allant.</hstage>
+<l>Il faut que je l’attrape, et que de ses desseins</l>
+<l>Je sois le confident pour mieux les rendre vains.</l>
+
+<hstage><speaker>LÉANDRE</speaker>, seul.</hstage>
+<l>Grâces au ciel, voilà mon bonheur hors d’atteinte !</l>
+<l>J’ai su me l’assurer, et je n’ai plus de crainte.</l>
+<l>Quoi que désormais puisse entreprendre un rival,</l>
+<l>Il n’est plus en pouvoir de me faire du mal.</l>
+
+<h3 id="acte2sc09">SCÈNE IX. — LÉANDRE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker>, dit ces deux vers dans la maison, et entre sur le théâtre.</hstage>
+<l>Aïe ! aïe ! à l’aide ! au meurtre ! au secours ! on m’assomme !</l>
+<l>Ah ! ah ! ah ! ah ! ah ! ah ! O traître ! ô bourreau d’homme !</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>D’où procède cela ? Qu’est-ce ? que te fait-on ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>On vient de me donner deux cents coups de bâton.</l>
+
+<pagenum num="59"/>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Qui ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Lélie.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Et pourquoi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Pour une bagatelle.</l>
+<l>Il me chasse, et me bat d’une façon cruelle.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Ah ! vraiment, il a tort.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Mais, ou je ne pourrai,</l>
+<l>Ou je jure bien fort que je m’en vengerai.</l>
+<l>Oui, je te ferai voir, batteur que Dieu confonde,</l>
+<l>Que ce n’est pas pour rien qu’il faut rouer le monde,</l>
+<l>Que je suis un valet, mais fort homme d’honneur</l>
+<l>Et qu’après m’avoir eu quatre ans pour serviteur,</l>
+<l>Il ne me fall<oa/>it pas payer en coups de gaules,</l>
+<l>Et me faire un affront si sensible aux épaules :</l>
+<l>Je te le dis encor, je saurai m’en venger ;</l>
+<l>Une esclave te plaît, tu voul<oa/>is m’engager</l>
+<l>A la mettre en tes mains ; et je veux faire en sorte</l>
+<l>Qu’un autre te l’enlève, ou le diable m’emporte.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Écoute, Mascarille, et quitte ce transport.</l>
+<l>Tu m’as plu de tout temps, et je souhait<oa/>is fort</l>
+<l>Qu’un garçon comme toi, plein d’esprit et fidèle,</l>
+<l>A mon service un jour pût attacher son zèle,</l>
+<l>Enfin, si le parti te semble bon pour toi,</l>
+<l>Si tu veux me servir, je t’arrête avec moi.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Oui, monsieur, d’autant mieux que le destin propice</l>
+<l>M’offre à me bien venger, en vous rendant service ;</l>
+<l>Et que, dans mes efforts pour vos contentements,</l>
+<l>Je puis à mon brutal trouver des châtiments ;</l>
+<l>De Célie, en un mot, par mon adresse extrême...</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Mon amour s’est rendu cet office lui-même.</l>
+<l>Enflammé d’un objet qui n’a point de défaut,</l>
+<l>Je viens de l’acheter moins encor qu’il ne vaut.</l>
+
+<pagenum num="60"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quoi ! Célie est à vous ?</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Tu la verr<oa/>is par<oa/>ître,</l>
+<l>Si de mes actions j’ét<oa/>is tout à fait maître ;</l>
+<l>Mais quoi ! mon père l’est : comme il a volonté,</l>
+<l>Ainsi que je l’apprends d’un paquet apporté,</l>
+<l>De me déterminer à l’hymen d’Hippolyte,</l>
+<l>J’empêche qu’un rapport de tout ceci l’irrite.</l>
+<l>Donc avec Trufaldin (car je sors de chez lui)</l>
+<l>J’ai voulu tout exprès agir au nom d’autrui,</l>
+<l>Et, l’achat fait, ma bague est la marque choisie</l>
+<l>Sur laquelle au premier il doit livrer Célie.</l>
+<l>Je songe auparavant à chercher les moyens</l>
+<l>D’ôter aux yeux de tous ce qui charme les miens ;</l>
+<l>A trouver promptement un endroit favorable</l>
+<l>Où puisse être en secret cette captive aimable.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Hors de la ville un peu, je puis avec raison</l>
+<l>D’un vieux parent que j’ai vous offrir la maison ;</l>
+<l>Là, vous pourrez la mettre avec toute assurance,</l>
+<l>Et de cette action nul n’aura conn<oa/>issance.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Oui, ma foi, tu me fais un plaisir souhaité.</l>
+<l>Tiens donc, et va pour moi prendre cette beauté.</l>
+<l>Dès que par Trufaldin ma bague sera vue,</l>
+<l>Aussitôt en tes mains elle sera rendue,</l>
+<l>Et dans cette maison tu me la conduiras,</l>
+<l>Quand... Mais chut ! Hippolyte est ici sur nos pas.</l>
+
+<h3 id="acte2sc10">SCÈNE X. — HIPPOLYTE, LÉANDRE, MASCARILLE</h3>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Je dois vous annoncer, Léandre, une nouvelle ;</l>
+<l>Mais la trouverez-vous agréable ou cruelle ?</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Pour en pouvoir juger et répondre soudain,</l>
+<l>Il faudr<oa/>it la savoir.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l cont="true">Donnez-moi donc la main</l>
+<l>Jusqu’au temple ; en marchant je pourrai vous l’apprendre</l>
+
+<hstage><speaker>LÉANDRE</speaker>, à Mascarille.</hstage>
+<l>Va, va-t’en me servir, sans davantage attendre.</l>
+
+<pagenum num="61"/>
+
+<h3 id="acte2sc11">SCÈNE XI. — MASCARILLE, <i>seul</i>.</h3>
+
+<l>Oui, je te vais servir d’un plat de ma façon.</l>
+<l>Fut-il jamais au monde un plus heureux garçon ?</l>
+<l>Oh ! que dans un moment Lélie aura de joie !</l>
+<l>Sa maîtresse en nos mains tomber par cette voie</l>
+<l>Recevoir tout son bien d’où l’on attend son mal,</l>
+<l>Et devenir heureux par la main d’un rival !</l>
+<l>Après ce rare exploit, je veux que l’on s’apprête</l>
+<l>A me peindre en héros, un laurier sur la tête,</l>
+<l>Et qu’au bas du portrait on mette en lettres d’or :</l>
+<l><i>Vivat Mascarillus, fourbûm imperator !</i></l>
+
+<h3 id="acte2sc12">SCÈNE XII. — TRUFALDIN, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Holà !</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">Que voulez-vous ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Cette bague connue</l>
+<l>Vous dira le sujet qui cause ma venue.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Oui, je reconn<oa/>is bien la bague que voilà.</l>
+<l>Je vais quérir l’esclave ; arrêtez un peu là.</l>
+
+<h3 id="acte2sc13">SCÈNE XIII. — TRUFALDIN, UN COURRIER, MASCARILLE</h3>
+
+<hstage><speaker>LE COURRIER</speaker>, à Trufaldin.</hstage>
+<l>Seigneur, obligez-moi de m’enseigner un homme...</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Et qui ?</l>
+
+<hstage><speaker>LE COURRIER</speaker></hstage>
+<l cont="true">Je crois que c’est Trufaldin qu’il se nomme,</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Et que lui voulez-vous ? Vous le voyez ici.</l>
+
+<hstage><speaker>LE COURRIER</speaker></hstage>
+<l>Lui rendre seulement la lettre que voici.</l>
+
+<hstage><speaker>TRUFALDIN</speaker> lit.</hstage>
+<l>« Le ciel, dont la bonté prend souci de ma vie,</l>
+<l>« Vient de me faire ouïr, par un bruit assez doux,</l>
+<l>« Que ma fille, à quatre ans par des voleurs ravie.</l>
+<pagenum num="62"/>
+<l>« Sous le nom de Célie est esclave chez vous.</l>
+<l>« Si vous sûtes jamais ce que c’est qu’être père,</l>
+<l>« Et vous trouvez sensible aux tendresses du sang,</l>
+<l>« Conservez-moi chez vous cette fille si chère,</l>
+<l>« Comme si de la vôtre elle ten<oa/>it le rang.</l>
+<l>« Pour l’aller retirer je pars d’ici moi-même,</l>
+<l>« Et vous vais de vos soins récompenser si bien,</l>
+<l>« Que par votre bonheur, que je veux rendre extrême,</l>
+<l>« Vous bénirez le jour où vous causez le mien.</l>
+<l indent="2">« De Madrid</l>
+
+<l class="r3">« D<s>ON</s> P<s>EDRO DE</s> G<s>USMAN</s>,</l>
+<l class="r3">« Marquis de Montalcane, »</l>
+
+<pstage>Il continue.</pstage>
+
+<l>Quoiqu’à leur nation bien peu de foi soit due,</l>
+<l>Ils me l’av<oa/>ient bien dit, ceux qui me l’ont vendue,</l>
+<l>Que je verr<oa/>is dans peu quelqu’un la retirer,</l>
+<l>Et que je n’aur<oa/>is pas sujet d’en murmurer ;</l>
+<l>Et cependant j’all<oa/>is, par mon impatience,</l>
+<l>Perdre aujourd’hui les fruits d’une haute espérance.</l>
+<pstage>Au Courrier.</pstage>
+<l>Un seul moment plus tard tous vos pas ét<oa/>ient vains,</l>
+<l>J’all<oa/>is mettre à l’instant cette fille en ses mains.</l>
+<l>Mais suffit ; j’en aurai tout le soin qu’on désire.</l>
+<pstage>Le Courrier sort.</pstage>
+<pstage>A Mascarille.</pstage>
+<l>Vous-même vous voyez ce que je viens de lire.</l>
+<l>Vous direz à celui qui vous a fait venir</l>
+<l>Que je ne lui saur<oa/>is ma parole tenir ;</l>
+<l>Qu’il vienne retirer son argent.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Mais l’outrage</l>
+<l>Que vous lui faites...</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">Va, sans causer davantage.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, seul.</hstage>
+<l>Ah ! le fâcheux paquet que nous venons d’avoir !</l>
+<l>Le sort a bien donné la baie à mon espoir ;</l>
+<l>Et bien à la male heure est-il venu d’Espagne,</l>
+<l>Ce courrier, que la foudre ou la grêle accompagne !</l>
+<l>Jamais, certes, jamais plus beau commencement</l>
+<l>N’eut en si peu de temps plus triste événement.</l>
+
+<pagenum num="63"/>
+
+<h3 id="acte2sc14">SCÈNE XIV. — LÉLIE, <i>riant ;</i> MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quel beau transport de joie à présent vous inspire ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Laisse-m’en rire encore avant que te le dire.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Çà, rions donc bien fort, nous en avons sujet.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! je ne serai plus de tes plaintes l’objet :</l>
+<l>Tu ne me diras plus, toi qui toujours me cries,</l>
+<l>Que je gâte, en brouillon toutes tes fourberies.</l>
+<l>J’ai bien joué moi-même un tour des plus adroits.</l>
+<l>Il est vrai, je suis prompt, et m’emporte parfois ;</l>
+<l>Mais pourtant, quand je veux, j’ai l’imaginative</l>
+<l>Aussi bonne, en effet, que personne qui vive,</l>
+<l>Et toi-même avoueras que ce que j’ai fait part</l>
+<l>D’une pointe d’esprit où peu de monde a part.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Sachons donc ce qu’a fait cette imaginative.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tantôt, l’esprit ému d’une frayeur bien vive</l>
+<l>D’avoir vu Trufaldin avecque mon rival,</l>
+<l>Je songe<oa/>is à trouver un remède à ce mal,</l>
+<l>Lorsque, me ramassant tout entier en moi-même,</l>
+<l>J’ai conçu, digéré, produit un stratagème</l>
+<l>Devant qui tous les tiens, dont tu fais tant de cas,</l>
+<l>Doivent, sans contredit, mettre pavillon bas.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Mais qu’est-ce ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Ah ! s’il te plaît, donne-toi patience.</l>
+<l>J’ai donc feint une lettre avecque diligence,</l>
+<l>Comme d’un grand seigneur écrite à Trufaldin,</l>
+<l>Qui mande qu’ayant su, par un heureux destin,</l>
+<l>Qu’une esclave qu’il tient sous le nom de Célie</l>
+<l>Est sa fille, autrefois par des voleurs ravie,</l>
+<l>Il veut la venir prendre, et le conjure au moins</l>
+<l>De la garder toujours, de lui rendre ses soins ;</l>
+<l>Qu’à ce sujet il part d’Espagne, et doit pour elle</l>
+<l>Par de si grands présents reconn<oa/>ître son zèle,</l>
+<l>Qu’il n’aura point regret de causer son bonheur.</l>
+
+<pagenum num="64"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Fort bien.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Écoute donc, voici bien le meilleur.</l>
+<l>La lettre que je dis a donc été remise ;</l>
+<l>Mais sais-tu bien comment ? en saison si bien prise,</l>
+<l>Que le porteur m’a dit que, sans ce trait falot<noteref noteid="note.64.1"/>,</l>
+<l>Un homme l’emmen<oa/>it, qui s’est trouvé fort sot.</l>
+
+<notes>
+  <note id="note.64.1">
+    <p>Plaisant.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous avez fait ce coup sans vous donner au diable ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Oui. D’un tour si subtil m’aur<oa/>is-tu cru capable ?</l>
+<l>Loue au moins mon adresse, et la dextérité</l>
+<l>Dont je romps d’un rival le dessein concerté.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>A vous pouvoir louer selon votre mérite,</l>
+<l>Je manque d’éloquence, et ma force est petite.</l>
+<l>Oui, pour bien étaler cet effort relevé,</l>
+<l>Ce bel exploit de guerre à nos yeux achevé,</l>
+<l>Ce grand et rare effet d’une imaginative</l>
+<l>Qui ne cède en vigueur à personne qui vive,</l>
+<l>Ma langue est impuissante, et je voudr<oa/>is avoir</l>
+<l>Celles de tous les gens du plus exquis savoir,</l>
+<l>Pour vous dire en beaux vers, ou bien en docte prose,</l>
+<l>Que vous serez toujours, quoi que l’on se propose,</l>
+<l>Tout ce que vous avez été durant vos jours :</l>
+<l>C’est-à-dire un esprit chaussé tout à rebours,</l>
+<l>Une raison malade et toujours en débauche,</l>
+<l>Un envers du bon sens, un jugement à gauche,</l>
+<l>Un brouillon, une bête, un brusque, un étourdi,</l>
+<l>Que sais-je ? un... cent fois plus encor que je ne di.</l>
+<l>C’est faire en abrégé votre panégyrique.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Apprends-moi le sujet qui contre moi te pique ;</l>
+<l>Ai-je fait quelque chose ? Éclaircis-moi ce point.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non, vous n’avez rien fait ; mais ne me suivez point.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Je te suivrai partout, pour savoir ce mystère.</l>
+
+<pagenum num="65"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Oui ? Sus donc, préparez vos jambes à bien faire ;</l>
+<l>Car je vais vous fournir de quoi les exercer.</l>
+
+<hstage><speaker>LÉLIE</speaker>, seul.</hstage>
+<l>Il m’échappe. O malheur qui ne se peut forcer !</l>
+<l>Au discours qu’il m’a fait que saur<oa/>is-je comprendre ?</l>
+<l>Et quel mauvais office aur<oa/>is-je pu me rendre ?</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte3">ACTE TROISIÈME</h2>
+
+<h3 id="acte3sc01">SCÈNE I. — MASCARILLE, <i>seul</i></h3>
+
+<l>Taisez-vous, ma bonté, cessez votre entretien,</l>
+<l>Vous êtes une sotte, et je n’en ferai rien.</l>
+<l>Oui, vous avez raison, mon courroux, je l’avoue ;</l>
+<l>Relier tant de fois ce qu’un brouillon dénoue,</l>
+<l>C’est trop de patience, et je dois en sortir,</l>
+<l>Après de si beaux coups qu’il a su divertir.</l>
+<l>Mais aussi raisonnons un peu sans violence :</l>
+<l>Si je suis maintenant ma juste impatience,</l>
+<l>On dira que je cède à la difficulté ;</l>
+<l>Que je me trouve à bout de ma subtilité :</l>
+<l>Et que deviendra lors cette publique estime,</l>
+<l>Qui te vante partout pour un fourbe sublime,</l>
+<l>Et que tu t’es acquise en tant d’occasions,</l>
+<l>A ne t’être jamais vu court d’inventions ?</l>
+<l>L’honneur, ô Mascarille ! est une belle chose.</l>
+<l>A tes nobles travaux ne fais aucune pause ;</l>
+<l>Et, quoi qu’un maître ait fait pour te faire enrager,</l>
+<l>Achève pour ta gloire, et non pour l’obliger.</l>
+<l>Mais quoi ! que feras-tu que de l’eau toute claire ?</l>
+<l>Traversé sans repos par ce démon contraire,</l>
+<l>Tu vois qu’à chaque instant il te fait déchanter</l>
+<l>Et que c’est battre l’eau de prétendre arrêter</l>
+<l>Ce torrent effréné qui de tes artifices</l>
+<l>Renverse en un moment les plus beaux édifices.</l>
+<l>Eh bien, pour toute grâce encore un coup du moins,</l>
+<l>Au hasard du succès sacrifions des soins ;</l>
+<l>Et, s’il poursuit encore à rompre notre chance,</l>
+<l>J’y consens, ôtons-lui toute notre assistance.</l>
+<l>Cependant notre affaire encor n’ir<oa/>it pas mal,</l>
+<l>Si par là nous pouvions perdre notre rival,</l>
+<pagenum num="66"/>
+<l>Et que Léandre enfin, lassé de sa poursuite,</l>
+<l>Nous laissât jour entier pour ce que je médite.</l>
+<l>Oui, je roule en ma tête un trait ingénieux,</l>
+<l>Dont je promettr<oa/>is bien un succès glorieux,</l>
+<l>Si je puis n’avoir plus cet obstacle à combattre.</l>
+<l>Bon, voyons si son feu se rend opiniâtre.</l>
+
+<h3 id="acte3sc02">SCÈNE II. — LÉANDRE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Monsieur, j’ai perdu temps, votre homme se dédit.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>De la chose lui-même il m’a fait le récit ;</l>
+<l>Mais c’est bien plus : j’ai su que tout ce beau mystère</l>
+<l>D’un rapt d’Égyptiens, d’un grand seigneur pour père,</l>
+<l>Qui doit partir d’Espagne et venir en ces lieux,</l>
+<l>N’est qu’un pur stratagème, un trait facétieux,</l>
+<l>Une histoire à plaisir, un conte dont Lélie</l>
+<l>A voulu détourner notre achat de Célie.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Voyez un peu la fourbe !</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Et pourtant Trufaldin</l>
+<l>Est si bien imprimé<noteref noteid="note.66.1"/> de ce conte badin,</l>
+<l>Mord si bien à l’appât de cette f<oa/>ible ruse,</l>
+<l>Qu’il ne veut point souffrir que l’on le désabuse.</l>
+
+<notes>
+  <note id="note.66.1">
+    <p><i>Imprimé</i>, dans le sens de <i>pénétré, impressionné</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>C’est pourquoi désormais il la gardera bien,</l>
+<l>Et je ne vois pas lieu d’y prétendre plus rien.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Si d’abord à mes yeux elle parut aimable,</l>
+<l>Je viens de la trouver tout à fait adorable ;</l>
+<l>Et je suis en suspens si, pour me l’acquérir,</l>
+<l>Aux extrêmes moyens je ne dois point courir,</l>
+<l>Par le don de ma foi rompre sa destinée,</l>
+<l>Et changer ses liens en ceux de l’hyménée.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous pourriez l’épouser ?</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Je ne sais, mais enfin,</l>
+<l>Si quelque obscurité se trouve en son destin,</l>
+<pagenum num="67"/>
+<l>Sa grâce et sa vertu sont de douces amorces,</l>
+<l>Qui, pour tirer les cœurs, ont d’incroyables forces.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Sa vertu, dites-vous ?</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Quoi ? que murmures-tu ?</l>
+<l>Achève, explique-toi sur ce mot de vertu.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Monsieur, votre visage en un moment s’altère,</l>
+<l>Et je ferai bien mieux peut-être de me taire.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Non, non, parle.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Eh bien donc, très charitablement</l>
+<l>Je vous veux retirer de votre aveuglement.</l>
+<l>Cette fille...</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Poursuis.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">N’est rien moins qu’inhumaine ;</l>
+<l>Dans le particulier elle oblige sans peine,</l>
+<l>Et son cœur, croyez-moi, n’est point roche, après tout,</l>
+<l>A quiconque la sait prendre par le bon bout.</l>
+<l>Elle fait la sucrée, et veut passer pour prude ;</l>
+<l>Mais je puis en parler avecque certitude :</l>
+<l>Vous savez que je suis quelque peu d’un métier</l>
+<l>A me devoir conn<oa/>ître en un pareil gibier.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Célie...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Oui, sa pudeur n’est que franche grimace,</l>
+<l>Qu’une ombre de vertu qui garde mal la place,</l>
+<l>Et qui s’évanouit, comme l’on peut savoir,</l>
+<l>Aux rayons du soleil qu’une bourse fait voir.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Las ! que dis-tu ? Croirai-je un discours de la sorte ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Monsieur, les volontés sont libres ; que m’importe</l>
+<l>Non, ne me croyez pas, suivez votre dessein,</l>
+<l>Prenez cette matoise, et lui donnez la main ;</l>
+<pagenum num="68"/>
+<l>Toute la ville en corps reconn<oa/>îtra ce zèle,</l>
+<l>Et vous épouserez le bien public en elle.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Quelle surprise étrange !</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à part.</hstage>
+<l cont="true">Il a pris l’hameçon.</l>
+<l>Courage ! s’il se peut enferrer tout de bon,</l>
+<l>Nous nous ôtons du pied une fâcheuse épine.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Oui, d’un coup étonnant ce discours m’assassine.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quoi ! vous pourriez...</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Va-t’en jusqu’à la poste, et voi</l>
+<l>Je ne sais quel paquet qui doit venir pour moi.</l>
+<pstage>Seul, après avoir rêvé.</pstage>
+<l>Qui ne s’y fût trompé ? jamais l’air d’un visage,</l>
+<l>Si ce qu’il dit est vrai, n’imposa davantage.</l>
+
+<h3 id="acte3sc03">SCÈNE III. — LÉLIE, LÉANDRE</h3>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Du chagrin qui vous tient quel peut être l’objet ?</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Moi ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Vous-même.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Pourtant je n’en ai point sujet.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Je vois bien ce que c’est, Célie en est la cause.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Mon esprit ne court pas après si peu de chose.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Pour elle vous aviez pourtant de grands desseins ;</l>
+<l>Mais il faut dire ainsi, lorsqu’ils se trouvent vains.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Si j’ét<oa/>is assez sot pour chérir ses caresses,</l>
+<l>Je me moquer<oa/>is bien de toutes vos finesses.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quelles finesses donc ?</l>
+
+<pagenum num="69"/>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Mon Dieu ! nous savons tout.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quoi ?</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Votre procédé de l’un à l’autre bout.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>C’est de l’hébreu pour moi, je n’y puis rien comprendre.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Feignez, si vous voulez, de ne me pas entendre ;</l>
+<l>Mais, croyez-moi, cessez de craindre pour un bien</l>
+<l>Où je ser<oa/>is fâché de vous disputer rien.</l>
+<l>J’aime fort la beauté qui n’est point profanée,</l>
+<l>Et ne veux point brûler pour une abandonnée.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tout beau, tout beau, Léandre !</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Ah ! que vous êtes bon !</l>
+<l>Allez, vous dis-je encor, servez-la sans soupçon ;</l>
+<l>Vous pourrez vous nommer homme à bonnes fortunes.</l>
+<l>Il est vrai, sa beauté n’est pas des plus communes ;</l>
+<l>Mais en revanche aussi le reste est fort commun.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Léandre, arrêtons là ce discours importun.</l>
+<l>Contre moi tant d’efforts qu’il vous plaira pour elle,</l>
+<l>Mais, surtout, retenez cette atteinte mortelle.</l>
+<l>Sachez que je m’impute à trop de lâcheté</l>
+<l>D’entendre mal parler de ma divinité ;</l>
+<l>Et que j’aurai toujours bien moins de répugnance</l>
+<l>A souffrir votre amour qu’un discours qui l’offense.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Ce que j’avance ici me vient de bonne part.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quiconque vous l’a dit est un lâche, un pendard.</l>
+<l>On ne peut imposer de tache à cette fille,</l>
+<l>Je conn<oa/>is bien son cœur.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Mais, enfin, Mascarille,</l>
+<l>D’un semblable procès est juge compétent ;</l>
+<l>Ç’est lui qui la condamne,</l>
+
+<pagenum num="70"/>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Oui ?</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Lui-même.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Il prétend</l>
+<l>D’une fille d’honneur insolemment médire,</l>
+<l>Et que peut-être encor je n’en ferai que rire !</l>
+<l>Gage qu’il se dédit.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Et moi, gage que non.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Parbleu ! je le fer<oa/>is mourir sous le bâton,</l>
+<l>S’il m’av<oa/>it soutenu des faussetés pareilles.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Moi, je lui couper<oa/>is sur-le-champ les oreilles,</l>
+<l>S’il n’ét<oa/>it pas garant de tout ce qu’il m’a dit.</l>
+
+<h3 id="acte3sc04">SCÈNE IV. — LÉLIE, LÉANDRE, MASCARILLE</h3>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! bon, bon, le voilà. Venez çà, chien maudit !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quoi ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Langue de serpent, fertile en impostures,</l>
+<l>Vous osez sur Célie attacher vos morsures,</l>
+<l>Et lui calomnier la plus rare vertu</l>
+<l>Qui puisse faire éclat sous un sort abattu ?</l>
+
+<hstage><speaker>MASCARILLE</speaker>, bas, à Lélie.</hstage>
+<l>Doucement, ce discours est de mon industrie.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Non, non, point de clin d’œil et point de raillerie ;</l>
+<l>Je suis aveugle à tout, sourd à quoi que ce soit ;</l>
+<l>Fût-ce mon propre frère, il me la payer<oa/>it ;</l>
+<l>Et sur ce que j’adore oser porter le blâme,</l>
+<l>C’est me faire une plaie au plus tendre de l’âme.</l>
+<l>Tous ces signes sont vains. Quels discours as-tu faits ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Mon Dieu ! ne cherchons point querelle, ou je m’en vais.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tu n’échapperas pas.</l>
+
+<pagenum num="71"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Aï</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Parle donc, confesse.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, bas, à Lélie.</hstage>
+<l>Laissez-moi, je vous dis que c’est un tour d’adresse.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Dépêche ; qu’as-tu dit ? Vide entre nous ce point.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, bas, à Lélie.</hstage>
+<l>J’ai dit ce que j’ai dit : ne vous emportez point.</l>
+
+<hstage><speaker>LÉLIE</speaker>, mettant l’épée à la main.</hstage>
+<l>Ah ! je vous ferai bien parler d’une autre sorte !</l>
+
+<hstage><speaker>LÉANDRE</speaker>, l’arrêtant.</hstage>
+<l>Halte un peu, retenez l’ardeur qui vous emporte.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à part.</hstage>
+<l>Fut-il jamais au monde un esprit moins sensé ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Laissez-moi contenter mon courage offensé.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>C’est trop que de vouloir le battre en ma présence.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quoi ! châtier mes gens n’est pas en ma puissance ?</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Comment, vos gens ?</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à part.</hstage>
+<l cont="true">Encore ! Il va tout découvrir.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quand j’aur<oa/>is volonté de le battre à mourir,</l>
+<l>Eh bien, c’est mon valet.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">C’est maintenant le nôtre.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Le trait est admirable ! Et comment donc le vôtre ?</l>
+<l>Sans doute...</l>
+
+<hstage><speaker>MASCARILLE</speaker>, bas, à Lélie.</hstage>
+<l cont="true">Doucement.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Hem ! que veux-tu conter ?</l>
+
+<pagenum num="72"/>
+
+<hstage><speaker>MASCARILLE</speaker>, à part.</hstage>
+<l>Ah le double bourreau, qui me va tout gâter,</l>
+<l>Et qui ne comprend rien, quelque signe qu’on donne !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Vous rêvez bien, Léandre, et me la baillez bonne.</l>
+<l>Il n’est pas mon valet ?</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Pour quelque mal commis</l>
+<l>Hors de votre service il n’a pas été mis ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Je ne sais ce que c’est.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Et, plein de violence,</l>
+<l>Vous n’avez pas chargé son dos avec outrance ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Point du tout. Moi, chassé, roué de coups !</l>
+<l>Vous vous moquez de moi, Léandre, ou lui de vous.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à part.</hstage>
+<l>Pousse, pousse, bourreau ; tu fais bien tes affaires !</l>
+
+<hstage><speaker>LÉANDRE</speaker>, à Mascarille.</hstage>
+<l>Donc les coups de bâton ne sont qu’imaginaires ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Il ne sait ce qu’il dit ; sa mémoire...</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l cont="true">Non, non,</l>
+<l>Tous ces signes pour toi ne disent rien de bon.</l>
+<l>Oui, d’un tour délicat mon esprit te soupçonne ;</l>
+<l>Mais pour l’invention, va je te la pardonne.</l>
+<l>C’est bien assez pour moi qu’il m’ait désabusé,</l>
+<l>De voir par quels motifs tu m’av<oa/>is imposé,</l>
+<l>Et que, m’étant commis à ton zèle hypocrite,</l>
+<l>A si bon compte encor je m’en sois trouvé quitte.</l>
+<l>Ceci doit s’appeler un <i>avis au lecteur</i>.</l>
+<l>Adieu, Lélie, adieu ; très humble serviteur.</l>
+
+<h3 id="acte3sc05">SCÈNE V. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Courage, mon garçon ! tout heur nous accompagne :</l>
+<l>Mettons flamberge au vent, et bravoure en campagne ;</l>
+<l>Faisons l’<i>Olibrius</i>, l’<i>occiseur d’innocents</i>.</l>
+
+<pagenum num="73"/>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Il t’av<oa/>it accusé de discours médisants</l>
+<l>Contre...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Et vous ne pouviez souffrir mon artifice,</l>
+<l>Lui laisser son erreur, qui vous rend<oa/>it service,</l>
+<l>Et par qui son amour s’en ét<oa/>it presque allé ?</l>
+<l>Non, il a l’esprit franc, et point dissimulé.</l>
+<l>Enfin chez son rival je m’ancre avec adresse,</l>
+<l>Cette fourbe en mes mains va mettre sa maîtresse,</l>
+<l>Il me la fait manquer avec de faux rapports.</l>
+<l>Je veux de son rival ralentir les transports,</l>
+<l>Mon brave incontinent vient qui le désabuse :</l>
+<l>J’ai beau lui faire signe, et montrer que c’est ruse :</l>
+<l>Point d’affaire ; il poursuit sa pointe jusqu’au bout</l>
+<l>Et n’est point satisfait qu’il n’ait découvert tout.</l>
+<l>Grand et sublime effort d’une imaginative</l>
+<l>Qui ne le cède point à personne qui vive !</l>
+<l>C’est une rare pièce, et digne, sur ma foi,</l>
+<l>Qu’on en fasse présent au cabinet d’un roi.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Je ne m’étonne pas si je romps tes attentes :</l>
+<l>A moins d’être informé des choses que tu tentes,</l>
+<l>J’en fer<oa/>is encor cent de la sorte.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Tant pis.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Au moins pour t’emporter à de justes dépits,</l>
+<l>Fais-moi dans tes desseins entrer de quelque chose.</l>
+<l>Mais que de leurs ressorts la porte me soit close,</l>
+<l>C’est ce qui fait toujours que je suis pris sans vert.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ah ! voilà tout le mal : c’est cela qui nous perd.</l>
+<l>Ma foi, mon cher patron, je vous le dis encore,</l>
+<l>Vous ne serez jamais qu’une pauvre pécore.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Puisque la chose est faite, il n’y faut plus penser.</l>
+<l>Mon rival, en tout cas, ne peut me traverser ;</l>
+<l>Et, pourvu que tes soins, en qui je me repose...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Laissons là ce discours, et parlons d’autre chose.</l>
+<l>Je ne m’apaise pas, non, si facilement ;</l>
+<pagenum num="74"/>
+<l>Je suis trop en colère. Il faut premièrement</l>
+<l>Me rendre un bon office, et nous verrons ensuite</l>
+<l>Si je dois de vos feux reprendre la conduite.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>S’il ne tient qu’à cela, je n’y résiste pas.</l>
+<l>As-tu besoin, dis-moi, de mon sang, de mon bras ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>De quelle vision sa cervelle est frappée !</l>
+<l>Vous êtes de l’humeur de ces amis d’épée</l>
+<l>Que l’on trouve toujours plus prompts à dégainer</l>
+<l>Qu’à tirer un teston s’il fall<oa/>it le donner.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Que puis-je donc pour toi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">C’est que de votre père</l>
+<l>Il faut absolument apaiser la colère.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Nous avons fait la paix.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Oui ; mais non pas pour nous.</l>
+<l>Je l’ai fait, ce matin, mort pour l’amour de vous ;</l>
+<l>La vision le choque, et de pareilles teintes</l>
+<l>Aux vieillards comme lui sont de dures atteintes,</l>
+<l>Qui, sur l’état prochain de leur condition,</l>
+<l>Leur font faire à regret triste réflexion.</l>
+<l>Le bonhomme, tout vieux, chérit fort la lumière,</l>
+<l>Et ne veut point de jeu dessus cette matière ;</l>
+<l>Il craint le pronostic, et, contre moi fâché,</l>
+<l>On m’a dit qu’en justice il m’av<oa/>it recherché.</l>
+<l>J’ai peur, si le logis du roi fait ma demeure,</l>
+<l>De m’y trouver si bien dès le premier quart d’heure,</l>
+<l>Que j’aye peine aussi d’en sortir par après.</l>
+<l>Contre moi dès longtemps l’on a force décrets ;</l>
+<l>Car enfin la vertu n’est jamais sans envie,</l>
+<l>Et dans ce maudit siècle est toujours poursuivie.</l>
+<l>Allez donc le fléchir.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Oui, nous le fléchirons :</l>
+<l>Mais aussi tu promets...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Ah ! mon Dieu, nous verrons.</l>
+<pstage>Lélie sort.</pstage>
+<pagenum num="75"/>
+<l>Ma foi, prenons haleine après tant de fatigues.</l>
+<l>Cessons pour quelque temps le cours de nos intrigues</l>
+<l>Et de nous tourmenter de même qu’un lutin.</l>
+<l>Léandre, pour nous nuire, est hors de garde enfin,</l>
+<l>Et Célie arrêtée avecque l’artifice...</l>
+
+<h3 id="acte3sc06">SCÈNE VI. — ERGASTE, MASCARILLE</h3>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Je te cherch<oa/>is partout pour te rendre un service,</l>
+<l>Pour te donner avis d’un secret important.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quoi donc ?</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l cont="true">N’avons-nous point ici quelque écoutant ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l cont="true">Nous.sommes amis autant qu’on le peut être :</l>
+<l>Je sais tous tes desseins et l’amour de ton maître :</l>
+<l>Songez à vous tantôt. Léandre fait parti</l>
+<l>Pour enlever Célie ; et j’en suis averti</l>
+<l>Qu’il a mis ordre à tout, et qu’il se persuade</l>
+<l>D’entrer chez Trufaldin par une mascarade,</l>
+<l>Ayant su qu’en ce temps, assez souvent le soir,</l>
+<l>Des femmes du quartier en masque l’all<oa/>ient voir.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Oui ! Suffit ; il n’est pas au comble de sa joie ;</l>
+<l>Je pourrai bien tantôt lui souffler cette proie ;</l>
+<l>Et contre cet assaut je sais un coup fourré</l>
+<l>Par qui je veux qu’il soit de lui-même enferré.</l>
+<l>Il ne sait pas les dons dont mon âme est pourvue.</l>
+<l>Adieu ; nous boirons pinte à la première vue.</l>
+
+<h3 id="acte3sc07">SCÈNE VII. — MASCARILLE, <i>seul</i></h3>
+
+<l>Il faut, il faut tirer à nous ce que d’heureux</l>
+<l>Pourr<oa/>it avoir en soi ce projet amoureux,</l>
+<l>Et, par une surprise adroite et non commune,</l>
+<l>Sans courir le danger, en tenter la fortune.</l>
+<l>Si je vais me masquer pour devancer ses pas,</l>
+<l>Léandre assurément ne nous bravera pas,</l>
+<l>Et là, premier que lui, si nous faisons la prise,</l>
+<pagenum num="76"/>
+<l>Il aura fait pour nous les frais de l’entreprise,</l>
+<l>Puisque par son dessein déjà presque éventé</l>
+<l>Le soupçon tombera toujours de son côté,</l>
+<l>Et que nous, à couvert de toutes ses poursuites,</l>
+<l>De ce coup hasardeux ne craindrons point de suites.</l>
+<l>C’est ne se point commettre à faire de l’éclat,</l>
+<l>Et tirer les marrons de la patte du chat.</l>
+<l>Allons donc nous masquer avec quelques bons frères ;</l>
+<l>Pour prévenir nos gens, il ne faut tarder guères.</l>
+<l>Je sais où gît le lièvre, et me puis, sans travail,</l>
+<l>Fournir en un moment d’hommes et d’attirail.</l>
+<l>Croyez que je mets bien mon adresse en usage :</l>
+<l>Si j’ai reçu du ciel les fourbes en partage,</l>
+<l>Je ne suis point au rang de ces esprits mal nés</l>
+<l>Qui cachent les talents que Dieu leur a donnés.</l>
+
+<h3 id="acte3sc08">SCÈNE VIII. — LÉLIE, ERGASTE</h3>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Il prétend l’enlever avec sa mascarade ?</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Il n’est rien plus certain. Quelqu’un de sa brigade</l>
+<l>M’ayant de ce dessein instruit, sans m’arrêter</l>
+<l>A Mascarille alors j’ai couru tout conter,</l>
+<l>Qui s’en va, m’a-t-il dit, rompre cette partie</l>
+<l>Par une invention dessus le champ bâtie ;</l>
+<l>Et, comme je vous ai rencontré par hasard,</l>
+<l>J’ai cru que je dev<oa/>is de tout vous faire part.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tu m’obliges par trop avec cette nouvelle :</l>
+<l>Va, je reconn<oa/>îtrai ce service fidèle.</l>
+
+<h3 id="acte3sc09">SCÈNE IX. — LÉLIE, <i>seul</i>.</h3>
+
+<l>Mon drôle assurément leur jouera quelque trait,</l>
+<l>Mais je veux de ma part seconder son projet.</l>
+<l>Il ne sera pas dit qu’en un fait qui me touche</l>
+<l>Je ne me sois non plus remué qu’une souche.</l>
+<l>Voici l’heure, ils seront surpris à mon aspect.</l>
+<l>Foin ! Que n’ai-je avec moi pris mon porte-respect !</l>
+<l>Mais vienne qui voudra contre notre personne,</l>
+<l>J’ai deux bons pistolets, et mon épée est bonne,</l>
+<l>Holà ! qnelqu’un, un mot !</l>
+
+<pagenum num="77"/>
+
+<h3 id="acte3sc10">SCÈNE X. — TRUFALDIN, <i>à sa fenêtre</i> ; LÉLIE</h3>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">Qu’est-ce ? qui me vient voir ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Fermez soigneusement votre porte ce soir.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Pourquoi ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Certaines gens font une mascarade</l>
+<l>Pour vous venir donner une fâcheuse aubade ;</l>
+<l>Ils veulent enlever votre Célie.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">O dieux !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Et sans doute bientôt ils viennent en ces lieux.</l>
+<l>Demeurez ; vous pourrez voir tout de la fenêtre.</l>
+<l>Eh bien, qu’av<oa/>is-je dit ? Les voyez-vous par<oa/>ître ?</l>
+<l>Chut ! je veux à vos yeux leur en faire l’affront.</l>
+<l>Nous allons voir beau jeu, si la corde ne rompt.</l>
+
+<h3 id="acte3sc11">SCÈNE XI. — LÉLIE, TRUFALDIN : MASCARILLE <i>et sa suite, masqués</i>.</h3>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Oh ! les plaisants robins, qui pensent me surprendre !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Masques, où courez-vous ? Le pourrait-on apprendre ?</l>
+<l>Trufaldin, ouvrez-leur pour jouer un momon.</l>
+<pstage>A Mascarille, déguisé en femme.</pstage>
+<l>Bon Dieu, qu’elle est jolie, et qu’elle a l’air mignon !</l>
+<l>Eh quoi ! vous murmurez ? mais, sans vous faire outrage,</l>
+<l>Peut-on lever le masque, et voir votre visage ?</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Allez, fourbes méchants, retirez-vous d’ici,</l>
+<l>Canaille ! et vous, seigneur, bonsoir et grand merci.</l>
+
+<h3 id="acte3sc12">SCÈNE XII. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>LÉLIE</speaker>, après avoir démasqué Mascarille.</hstage>
+<l>Mascarille, est-ce toi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Nenni dà, c’est quelque autre.</l>
+
+<pagenum num="78"/>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Hélas ! quelle surprise ! et quel sort est le nôtre !</l>
+<l>L’aur<oa/>is-je deviné, n’étant point averti</l>
+<l>Des secrètes raisons qui t’av<oa/>ient travesti ?</l>
+<l>Malheureux que je suis d’avoir, dessous ce masque,</l>
+<l>Été, sans y penser, te faire cette frasque !</l>
+<l>Il me prendr<oa/>it envie, en mon juste courroux,</l>
+<l>De me battre moi-même, et me donner cent coups.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Adieu, sublime esprit, rare imaginative.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Las ! si de ton secours ta colère me prive,</l>
+<l>A quel saint me vouerai-je ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Au grand diable d’enfer.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! si ton cœur pour moi n’est de bronze ou de fer,</l>
+<l>Qu’encore un coup du moins mon imprudence ait grâce.</l>
+<l>S’il faut pour l’obtenir que tes genoux j’embrasse,</l>
+<l>Vois-moi...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Tarare ! Allons, camarades, allons :</l>
+<l>J’entends venir des gens qui sont sur nos talons.</l>
+
+<h3 id="acte3sc13">SCÈNE XIII. — LÉANDRE <i>et sa suite, masqués</i></h3>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Sans bruit ; ne faisons rien que de la bonne sorte.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Quoi ! masques toute nuit assiégeront ma porte !</l>
+<l>Messieurs, ne gagnez point de rhumes à plaisir ;</l>
+<l>Tout cerveau qui le fait est certes de loisir.</l>
+<l>Il est un peu trop tard pour enlever Célie ;</l>
+<l>Dispensez-l’en ce soir, elle vous en supplie ;</l>
+<l>La belle est dans le lit, et ne peut vous parler ;</l>
+<l>J’en suis fâché pour vous. Mais, pour vous régaler</l>
+<l>Du souci qui pour elle ici vous inquiète,</l>
+<l>Elle vous fait présent de cette cassolette.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Fi ! cela sent mauvais, et je suis tout gâté.</l>
+<l>Nous sommes découverts, tirons de ce côté.</l>
+
+<vsep class="rule"/>
+
+<pagenum num="79"/>
+
+<h2 id="acte4">ACTE QUATRIÈME</h2>
+
+<h3 id="acte4sc01">SCÈNE I. — LÉLIE, <i>déguisé en Arménien ;</i> MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous voilà fagoté d’une plaisante sorte !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tu ranimes par là mon espérance morte.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Toujours de ma colère on me voit revenir ;</l>
+<l>J’ai beau jurer, pester, je ne m’en puis tenir.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Aussi crois, si jamais je suis dans la puissance,</l>
+<l>Que tu seras content de ma reconn<oa/>issance,</l>
+<l>Et que, quand je n’aur<oa/>is qu’un seul morceau de pain...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Baste ; songez à vous dans ce nouveau dessein.</l>
+<l>Au moins, si l’on vous voit commettre une sottise</l>
+<l>Vous n’imputerez plus l’erreur à la surprise ;</l>
+<l>Votre rôle en ce jeu par cœur doit être su.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Mais comment Trufaldin chez lui t’a-t-il reçu ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>D’un zèle simulé j’ai bridé le bon sire ;</l>
+<l>Avec empressement je suis venu lui dire,</l>
+<l>S’il ne songe<oa/>it à lui, que l’on le surprendr<oa/>it,</l>
+<l>Que l’on couch<oa/>it en joue, et de plus d’un endroit,</l>
+<l>Celle dont il a vu qu’une lettre en avance</l>
+<l>Av<oa/>it si faussement divulgué la naissance ;</l>
+<l>Qu’on av<oa/>it bien voulu m’y mêler quelque peu ;</l>
+<l>Mais que j’av<oa/>is tiré mon épingle du jeu,</l>
+<l>Et que, touché d’ardeur pour ce qui le regarde,</l>
+<l>Je ven<oa/>is l’avertir de se donner de garde.</l>
+<l>De là, moralisant, j’ai fait de grands discours</l>
+<l>Sur les fourbes qu’on voit ici-bas tous les jours ;</l>
+<l>Que, pour moi, las du monde et de sa vie infâme,</l>
+<l>Je voul<oa/>is travailler au salut de mon âme,</l>
+<l>A m’éloigner du trouble, et pouvoir longuement</l>
+<l>Près de quelque honnête homme être paisiblement :</l>
+<l>Que, s’il le trouv<oa/>it bon, je n’aur<oa/>is d’autre envie</l>
+<l>Que de passer chez lui le reste de ma vie ;</l>
+<pagenum num="80"/>
+<l>Et que même à tel point il m’av<oa/>it su ravir,</l>
+<l>Que, sans lui demander gages pour le servir,</l>
+<l>Je mettrais en ses mains, que je ten<oa/>is certaines,</l>
+<l>Quelque bien de mon père, et le fruit de mes peines.</l>
+<l>Dont, avenant<noteref noteid="note.80.1"/> que Dieu de ce monde m’ôtât,</l>
+<l>J’entend<oa/>is tout de bon que lui seul héritât.</l>
+<l>C’ét<oa/>it le vrai moyen d’acquérir sa tendresse.</l>
+<l>Et comme, pour résoudre avec votre maîtresse</l>
+<l>Des biais qu’on doit prendre à terminer vos vœux,</l>
+<l>Je voul<oa/>is en secret vous aboucher tous deux,</l>
+<l>Lui-même a su m’ouvrir une voie assez belle</l>
+<l>De pouvoir hautement vous loger avec elle,</l>
+<l>Venant m’entretenir d’un fils privé du jour,</l>
+<l>Dont, cette nuit, en songe, il a vu le retour.</l>
+<l>A ce propos, voici l’histoire qu’il m’a dite,</l>
+<l>Et sur qui j’ai tantôt notre fourbe construite.</l>
+
+<notes>
+  <note id="note.80.1">
+    <p>S’il arriv<oa/>it.</p>
+</note>
+</notes>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>C’est assez, je sais tout : tu me l’as dit deux fois.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Oui, oui ; mais, quand j’aur<oa/>is passé jusques à trois,</l>
+<l>Peut-être encor qu’avec toute sa suffisance</l>
+<l>Votre esprit manquera dans quelque circonstance.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Mais à tant différer je me fais de l’effort.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ah ! de peur de tomber, ne courons pas si fort ; </l>
+<l>Voyez-vous ? vous avez la caboche un peu dure.</l>
+<l>Rendez-vous affermi dessus cette aventure.</l>
+<l>Autrefois Trufaldin de Naples est sorti.</l>
+<l>Et s’appel<oa/>it alors Zanobio Ruberti,</l>
+<l>Un parti qui causa quelque émeute civile,</l>
+<l>Dont il fut seulement soupçonné dans sa ville</l>
+<l>(De fait il n’est pas homme à troubler un État)</l>
+<l>L’obligea d’en sortir une nuit sans éclat.</l>
+<l>Une fille fort jeune et sa femme laissées,</l>
+<l>A quelques pas de là se trouvant trépassées,</l>
+<l>Il en eut la nouvelle, et, dans ce grand ennui,</l>
+<l>Voulant dans quelque ville emmener avec lui,</l>
+<l>Outre ses biens, l’espoir qui restait de sa race,</l>
+<l>Un sien fils, écolier, qui se nomm<oa/>it Horace,</l>
+<pagenum num="81"/>
+<l>Il écrit à Bologne, où, pour mieux être instruit,</l>
+<l>Un certain maître Albert, jeune, l’avoit conduit ;</l>
+<l>Mais, pour se joindre tous, le rendez-vous qu’il donne</l>
+<l>Durant deux ans entiers ne lui fit voir personne :</l>
+<l>Si bien que, les jugeant morts après ce temps-là,</l>
+<l>Il vint en cette ville et prit le nom qu’il a,</l>
+<l>Sans que de cet Albert, ni de ce fils Horace,</l>
+<l>Douze ans aient découvert jamais la moindre trace.</l>
+<l>Voilà l’histoire en gros, redite seulement</l>
+<l>Afin de vous servir ici de fondement.</l>
+<l>Maintenant vous serez un marchand d’Arménie,</l>
+<l>Qui les aurez vus sains l’un et l’autre en Turquie.</l>
+<l>Si j’ai, plutôt qu’aucun, un tel moyen trouvé,</l>
+<l>Pour les ressusciter sur ce qu’il a rêvé,</l>
+<l>C’est qu’en fait d’aventure il est très ordinaire</l>
+<l>De voir gens pris sur mer par quelque Turc corsaire,</l>
+<l>Puis être à leur famille à point nommé rendus,</l>
+<l>Après quinze ou vingt ans qu’on les a crus perdus.</l>
+<l>Pour moi, j’ai vu déjà cent contes de la sorte.</l>
+<l>Sans nous alambiquer, servons-nous-en ; qu’importe ?</l>
+<l>Vous leur aurez ouï leur disgrâce conter,</l>
+<l>Et leur aurez fourni de quoi se racheter ;</l>
+<l>Mais que, parti plus tôt pour chose nécessaire,</l>
+<l>Horace vous chargea de voir ici son père</l>
+<l>Dont il a su le sort, et chez qui vous devez</l>
+<l>Attendre quelques jours qu’ils y soient arrivés.</l>
+<l>Je vous ai fait tantôt des leçons étendues.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ces répétitions ne sont que superflues :</l>
+<l>Dès l’abord mon esprit a compris tout le fait.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je m’en vais là dedans donner le premier trait.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Écoute, Mascarille, un seul point me chagrine :</l>
+<l>S’il all<oa/>it de son fils me demander la mine ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Belle difficulté ! Devez-vous pas savoir</l>
+<l>Qu’il ét<oa/>it fort petit alors qu’il l’a pu voir ?</l>
+<l>Et puis, outre cela, le temps et l’esclavage</l>
+<l>Pourr<oa/>ient-ils pas avoir changé tout son visage ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Il est vrai. Mais dis-moi, s’il conn<oa/>ît qu’il m’a vu,</l>
+<pagenum num="82"/>
+<l>Que faire ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">De mémoire êtes-vous dépourvu ?</l>
+<l>Nous avons dit tantôt qu’outre que votre image</l>
+<l>N’av<oa/>it dans son esprit pu faire qu’un passage,</l>
+<l>Pour ne vous avoir vu que durant un moment,</l>
+<l>Et le poil et l’habit déguis<oa/>ient grandement.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Fort bien. Mais, à propos, cet endroit de Turquie...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Tout, vous dis-je, est égal, Turquie ou Barbarie.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Mais le nom de la ville où j’aurai pu les voir ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Tunis. Il me tiendra, je crois, jusques au soir !</l>
+<l>La répétition, dit-il, est inutile,</l>
+<l>Et j’ai déjà nommé douze fois cette ville.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Va, va-t’en commencer ; il ne me faut plus rien.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Au moins soyez prudent et vous conduisez bien ;</l>
+<l>Ne donnez point ici de l’imaginative.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Laisse-moi gouverner. Que ton âme est craintive !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Horace dans Bologne écolier, Trufaldin</l>
+<l>Zanobio Ruberti dans Naples citadin,</l>
+<l>Le précepteur Albert...</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Ah ! c’est me faire honte</l>
+<l>Que de me tant prêcher ! Suis-je un sot, à ton compte ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non, pas du tout ; mais bien quelque chose approchant.</l>
+
+<h3 id="acte4sc02">SCÈNE II. — LÉLIE, <i>seul</i>.</h3>
+
+<l>Quand il m’est inutile, il fait le chien couchant ;</l>
+<l>Mais, parce qu’il sent bien le secours qu’il me donne,</l>
+<l>Sa familiarité jusque-là s’abandonne.</l>
+<l>Je vais être de près éclairé des beaux yeux</l>
+<l>Dont la force m’impose un joug si précieux ;</l>
+<l>Je m’en vais sans obstacle, avec des traits de flamme,</l>
+<pagenum num="83"/>
+<l>Peindre à cette beauté les tourments de mon âme :</l>
+<l>Je saurai quel arrêt je dois... Mais les voici.</l>
+
+<h3 id="acte4sc03">SCÈNE III. — TRUFALDIN, LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Sois béni, juste ciel, de mon sort adouci !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>C’est à vous de rêver et de faire des songes,</l>
+<l>Puisqu’en vous il est faux que songes sont mensonges.</l>
+
+<hstage><speaker>TRUFALDIN</speaker>, à Lélie.</hstage>
+<l>Quelle grâce, quels biens vous rendrai-je, seigneur,</l>
+<l>Vous, que je dois nommer l’ange de mon bonheur ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ce sont soins superflus, et je vous en dispense.</l>
+
+<hstage><speaker>TRUFALDIN</speaker>, à Mascarille.</hstage>
+<l>J’ai, je ne sais pas où, vu quelque ressemblance</l>
+<l>De cet Arménien.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">C’est ce que je dis<oa/>is ;</l>
+<l>Mais on voit des rapports admirables parfois.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Vous avez vu ce fils où mon espoir se fonde ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Oui, seigneur Trufaldin, le plus gaillard du monde.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Il vous a dit sa vie, et parlé fort de moi ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Plus de dix mille fois.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Quelque peu moins, je crois.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Il vous a dépeint tel que je vous vois par<oa/>ître,</l>
+<l>Le visage, le port...</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">Cela pourr<oa/>it-il être,</l>
+<l>Si, lorsqu’il m’a pu voir, il n’av<oa/>it que sept ans,</l>
+<l>Et si son précepteur même, depuis ce temps,</l>
+<l>Aur<oa/>it peine à pouvoir conn<oa/>ître mon visage ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Le sang, bien autrement, conserve cette image ;</l>
+<pagenum num="84"/>
+<l>Par des traits si profonds ce portrait est tracé,</l>
+<l>Que mon père...</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">Suffit. Où l’avez-vous laissé ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>En Turquie, à Turin.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">Turin ? Mais cette ville</l>
+<l>Est, je pense, en Piémont.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à part.</hstage>
+<l cont="true">O cerveau malhabile !</l>
+<pstage>A Trufaldin.</pstage>
+<l>Vous ne l’entendez pas, il veut dire Tunis,</l>
+<l>Et c’est en effet là qu’il laissa votre fils ;</l>
+<l>Mais les Arméniens ont tous, par habitude,</l>
+<l>Certain vice de langue à nous autres fort rude :</l>
+<l>C’est que dans tous les mots ils changent <i>nis</i> en <i>rin</i>,</l>
+<l>Et pour dire Tunis, ils prononcent Turin.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Il fall<oa/>it, pour l’entendre, avoir cette lumière,</l>
+<l>Quel moyen vous dit-il de rencontrer son père ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<pstage>A part.</pstage>
+<l>Voyez s’il répondra.</l>
+<pstage>A Trufaldin, après s’être escrimé.</pstage>
+<l cont="true">Je repass<oa/>is un peu</l>
+<l>Quelque leçon d’escrime : autrefois en ce jeu</l>
+<l>Il n’ét<oa/>it point d’adresse à mon adresse égale,</l>
+<l>Et j’ai battu le fer en mainte et mainte salle.</l>
+
+<hstage><speaker>TRUFALDIN</speaker>, à Mascarille.</hstage>
+<l>Ce n’est pas maintenant ce que je veux savoir.</l>
+<pstage>A Lélie.</pstage>
+<l>Quel autre nom dit-il que je dev<oa/>is avoir ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ah ! seigneur Zanobio Ruberti, quelle joie</l>
+<l>Est celle maintenant que le ciel vous envoie !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>C’est là votre vrai nom, et l’autre est emprunté.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Mais où vous a-t-il dit qu’il reçut la clarté ?</l>
+
+<pagenum num="85"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Naples est un séjour qui par<oa/>ît agréable ;</l>
+<l>Mais pour vous ce doit être un lieu fort haïssable.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Ne peux-tu, sans parler, souffrir notre discours ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Dans Naples son destin a commencé son cours.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Où l’envoyai-je jeune, et sous quelle conduite ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ce pauvre maître Albert a beaucoup de mérite</l>
+<l>D’avoir depuis Bologne accompagné ce fils,</l>
+<l>Qu’à sa discrétion vos soins av<oa/>ient commis !</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Ah !</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à part.</hstage>
+<l cont="true">Nous sommes perdus si cet entretien dure.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Je voudr<oa/>is bien savoir de vous leur aventure,</l>
+<l>Sur quel vaisseau le sort, qui m’a su travailler...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je ne sais ce que c’est, je ne sais que bâiller ;</l>
+<l>Mais, seigneur Trufaldin, songez-vous que peut-être</l>
+<l>Ce monsieur l’étranger a besoin de repaître,</l>
+<l>Et qu’il est tard aussi ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Pour moi, point de repas.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Entrez donc.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Après vous.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à Trufaldin.</hstage>
+<l cont="true">Monsieur, en Arménie</l>
+<l>Les maîtres du logis sont sans cérémonie.</l>
+<pstage>A Lélie, après que Trufaldin est entré dans sa maison.</pstage>
+<l>Pauvre esprit ! Pas deux mots !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">D’abord il m’a surpris ;</l>
+<l>Mais n’appréhende plus, je reprends mes esprits,</l>
+<l>Et m’en vais débiter avecque hardiesse...</l>
+
+<pagenum num="86"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Voici notre rival, qui ne sait pas la pièce.</l>
+<pstage>Ils entrent dans la maison de Trufaldin.</pstage>
+
+<h3 id="acte4sc04">SCÈNE IV. — ANSELME, LÉANDRE</h3>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>Arrêtez-vous, Léandre, et souffrez un discours</l>
+<l>Qui cherche le repos et l’honneur de vos jours.</l>
+<l>Je ne vous parle point en père de ma fille,</l>
+<l>En homme intéressé pour ma propre famille,</l>
+<l>Mais comme votre père ému pour votre bien,</l>
+<l>Sans vouloir vous flatter et vous déguiser rien ;</l>
+<l>Bref, comme je voudr<oa/>is, d’une âme franche et pure,</l>
+<l>Que l’on fît à mon sang en pareille aventure.</l>
+<l>Savez-vous de quel œil chacun voit cet amour,</l>
+<l>Qui dedans une nuit vient d’éclater au jour ?</l>
+<l>A combien de discours et de traits de risée</l>
+<l>Votre entreprise d’hier est partout exposée ?</l>
+<l>Quel jugement on fait du choix capricieux</l>
+<l>Qui pour femme, dit-on, vous désigne en ces fieux</l>
+<l>Un rebut de l’Égypte, une fille coureuse,</l>
+<l>De qui le noble emploi n’est qu’un métier de gueuse ?</l>
+<l>J’en ai rougi pour vous encor plus que pour moi,</l>
+<l>Qui me trouve compris dans l’éclat que je voi.</l>
+<l>Moi, dis-je, dont la fille, à vos ardeurs promise,</l>
+<l>Ne peut, sans quelque affront, souffrir qu’on la méprise.</l>
+<l>Ah ! Léandre, sortez de cet abaissement !</l>
+<l>Ouvrez un peu les yeux sur votre aveuglement.</l>
+<l>Si notre esprit n’est pas sage à toutes les heures,</l>
+<l>Les plus courtes erreurs sont toujours les meilleures.</l>
+<l>Quand on ne prend en dot que la seule beauté,</l>
+<l>Le remords est bien près de la solennité,</l>
+<l>Et la plus belle femme a très peu de défense</l>
+<l>Contre cette tiédeur qui suit la jouissance.</l>
+<l>Je vous le dis encor, ces bouillants mouvements,</l>
+<l>Ces ardeurs de jeunesse et ces emportements</l>
+<l>Nous font trouver d’abord quelques nuits agréables ;</l>
+<l>Mais ces félicités ne sont guère durables,</l>
+<l>Et notre passion, alentissant son cours,</l>
+<l>Après ces bonnes nuits donne de mauvais jours ;</l>
+<l>De là viennent les soins, les soucis, les misères,</l>
+<l>Les fils déshérités par le courroux des pères.</l>
+
+<pagenum num="87"/>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Dans tout votre discours je n’ai rien écouté</l>
+<l>Que mon esprit déjà ne m’ait représenté.</l>
+<l>Je sais combien je dois à cet honneur insigne</l>
+<l>Que vous me voulez faire, et dont je suis indigne ;</l>
+<l>Et vois, malgré l’effort dont je suis combattu,</l>
+<l>Ce que vaut votre fille et quelle est sa vertu :</l>
+<l>Aussi veux-je tâcher...</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l cont="true">On ouvre cette porte :</l>
+<l>Retirons-nous plus loin, de crainte qu’il n’en sorte</l>
+<l>Quelque secret poison dont vous seriez surpris.</l>
+
+<h3 id="acte4sc05">SCÈNE V. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Bientôt de notre fourbe on verra le débris,</l>
+<l>Si vous continuez des sottises si grandes.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Dois-je éternellement ouïr tes réprimandes ?</l>
+<l>De quoi te peux-tu plaindre ? Ai-je pas réussi</l>
+<l>En tout ce que j’ai dit depuis ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Couci-couci.</l>
+<l>Témoin les Turcs par vous appelés hérétiques,</l>
+<l>Et que vous assurez, par serments authentiques,</l>
+<l>Adorer pour leurs dieux la lune et le soleil ;</l>
+<l>Passe. Ce qui me donne un dépit non pareil,</l>
+<l>C’est qu’ici votre amour étrangement s’oublie :</l>
+<l>Près de Célie, il est ainsi que la bouillie,</l>
+<l>Qui par un trop grand feu s’enfle, croît jusqu’aux bords</l>
+<l>Et de tous les côtés se répand au dehors.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Pourr<oa/>it-on se forcer à plus de retenue ?</l>
+<l>Je ne l’ai presque point encore entretenue.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Oui, mais ce n’est pas tout que de ne parler pas ;</l>
+<l>Par vos gestes, durant un moment de repas,</l>
+<l>Vous avez aux soupçons donné plus de matière</l>
+<l>Que d’autres ne fer<oa/>ient dans une année entière.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Et comment donc ?</l>
+
+<pagenum num="88"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Comment ? Chacun a pu le voir.</l>
+<l>A table, où Trufaldin l’oblige de se seoir,</l>
+<l>Vous n’avez toujours fait qu’avoir les yeux sur elle.</l>
+<l>Rouge, tout interdit, jouant de la prunelle,</l>
+<l>Sans prendre jamais garde à ce qu’on vous serv<oa/>it,</l>
+<l>Vous n’aviez point de soif qu’alors qu’elle buv<oa/>it ;</l>
+<l>Et dans ses propres mains vous saisissant du verre,</l>
+<l>Sans le vouloir rincer, sans rien jeter à terre,</l>
+<l>Vous buviez sur son reste, et montriez d’affecter</l>
+<l>Le côté qu’à sa bouche elle av<oa/>it su porter.</l>
+<l>Sur les morceaux touchés de sa main délicate,</l>
+<l>Ou mordus de ses dents, vous étendiez la patte</l>
+<l>Plus brusquement qu’un chat dessus une souris,</l>
+<l>Et les avaliez tout ainsi que des pois gris.</l>
+<l>Puis, outre tout cela, vous faisiez sous la table</l>
+<l>Un bruit, un triquetrac de pieds insupportable,</l>
+<l>Dont Trufaldin, heurté de deux coups trop pressants,</l>
+<l>A puni par deux fois deux chiens très innocents,</l>
+<l>Qui, s’ils eussent osé, vous eussent fait querelle.</l>
+<l>Et puis après cela votre conduite est belle ?</l>
+<l>Pour moi, j’en ai souffert la gêne sur mon corps.</l>
+<l>Malgré le froid, je sue encor de mes efforts.</l>
+<l>Attaché dessus vous comme un joueur de boule</l>
+<l>Après le mouvement de la sienne qui roule,</l>
+<l>Je pens<oa/>is retenir toutes vos actions,</l>
+<l>En faisant de mon corps mille contorsions.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Mon Dieu ! qu’il t’est aisé de condamner des choses</l>
+<l>Dont tu ne ressens point les agréables causes !</l>
+<l>Je veux bien néanmoins, pour te plaire une fois,</l>
+<l>Faire force à l’amour qui m’impose des lois.</l>
+<l>Désormais...</l>
+
+<h3 id="acte4sc06">SCÈNE VI. — TRUFALDIN, LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Nous parlions des fortunes d’Horace.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>C’est bien fait.</l>
+<pstage>A Lélie.</pstage>
+<l cont="true">Cependant me feriez-vous la grâce</l>
+<l>Que je puisse lui dire un seul mot en secret ?</l>
+
+<pagenum num="89"/>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Il faudr<oa/>it autrement être fort indiscret.</l>
+<pstage>Lélie entre dans la maison de Trufaldin.</pstage>
+
+<h3 id="acte4sc07">SCÈNE VII. — TRUFALDIN, MASCARILLE</h3>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Écoute : sais-tu bien ce que je viens de faire ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non ; mais, si vous voulez, je ne tarderai guère,</l>
+<l>Sans doute, à le savoir.</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">D’un chêne grand et fort</l>
+<l>Dont près de deux cents ans ont fait déjà le sort,</l>
+<l>Je viens de détacher une branche admirable,</l>
+<l>Choisie expressément de grosseur raisonnable,</l>
+<l>Dont j’ai fait sur-le-champ, avec beaucoup d’ardeur,</l>
+<pstage>Il montre son bras.</pstage>
+<l>Un bâton à peu près... oui, de cette grandeur,</l>
+<l>Moins gros par l’un des bouts, mais, plus que trente gaules</l>
+<l>Propre, comme je pense, à rosser les épaules ;</l>
+<l>Car il est bien en main, vert, noueux, et massif.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Mais pour qui, je vous prie, un tel préparatif ?</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Pour toi, premièrement ; puis pour ce bon apôtre</l>
+<l>Qui veut m’en donner d’une, et m’en jouer d’une autre,</l>
+<l>Pour cet Arménien, ce marchand déguisé,</l>
+<l>Introduit sous l’appât d’un accent supposé.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quoi ! vous ne croyez pas...</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">Ne cherche point d’excuse,</l>
+<l>Lui-même heureusement a découvert sa ruse ;</l>
+<l>Et, disant à Célie, en lui serrant la main,</l>
+<l>Que pour elle il ven<oa/>it sous ce prétexte vain,</l>
+<l>Il n’a pas aperçu Jeannette, ma fillole,</l>
+<l>Laquelle a tout ouï, parole pour parole ;</l>
+<l>Et je ne doute point, quoiqu’il n’en ait rien dit,</l>
+<l>Que tu ne sois de tout le complice maudit.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ah ! vous me faites tort. S’il faut qu’on vous affronte</l>
+<l>Croyez qu’il m’a trompé le premier à ce conte.</l>
+
+<pagenum num="90"/>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Veux-tu me faire voir que tu dis vérité ?</l>
+<l>Qu’à le chasser mon bras soit du tien assisté,</l>
+<l>Donnons-en à ce fourbe et du long et du large,</l>
+<l>Et de tout crime après mon esprit te décharge.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Oui-da, très volontiers, je l’épousterai bien,</l>
+<l>Et par là vous verrez que je n’y trempe en rien.</l>
+<pstage>A part.</pstage>
+<l>Ah ! vous serez rossé, monsieur de l’Arménie,</l>
+<l>Qui toujours gâtez tout !</l>
+
+<h3 id="acte4sc08">SCÈNE VIII. — LÉLIE, TRUFALDIN, MASCARILLE</h3>
+
+<hstage><speaker>TRUFALDIN</speaker>, à Lélie, après avoir heurté à sa porte.</hstage>
+<l cont="true">Un mot, je vous supplie.</l>
+<l>Donc, monsieur l’imposteur, vous osez aujourd’hui</l>
+<l>Duper un honnête homme, et vous jouer de lui ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Feindre avoir vu son fils en une autre contrée,</l>
+<l>Pour vous donner chez lui plus aisément entrée !</l>
+
+<hstage><speaker>TRUFALDIN</speaker> bat Lélie.</hstage>
+<l>Vidons, vidons sur l’heure !</l>
+
+<hstage><speaker>LÉLIE</speaker>, à Mascarille, qui le bat aussi.</hstage>
+<l cont="true">Ah ! coquin !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">C’est ainsi</l>
+<l>Que les fourbes...</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Bourreau !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Sont ajustés ici.</l>
+<l>Gardez-moi bien cela.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Quoi donc ! je ser<oa/>is homme...</l>
+
+<hstage><speaker>MASCARILLE</speaker>, le battant toujours en le chassant.</hstage>
+<l>Tirez, tirez, vous dis-je, ou bien je vous assomme !</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Voilà qui me plaît fort ; rentre, je suis content. </l>
+<pstage>Mascarille suit Trufaldin, qui rentre dans sa maison.</pstage>
+
+<hstage><speaker>LÉLIE</speaker>, revenant.</hstage>
+<l>A moi, par un valet, cet affront éclatant !</l>
+<pagenum num="91"/>
+<l>L’aur<oa/>it-on pu prévoir, l’action de ce traître,</l>
+<l>Qui vient insolemment de maltraiter son maître ?</l>
+
+<hstage><speaker>MASCARILLE</speaker>, à la fenêtre de Trufaldin.</hstage>
+<l>Peut-on vous demander comment va votre dos ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quoi ! tu m’oses encor tenir un tel propos !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Voilà, voilà que c’est de ne voir pas Jeannette,</l>
+<l>Et d’avoir en tout temps une langue indiscrète.</l>
+<l>Mais, pour cette fois-ci, je n’ai point de courroux.</l>
+<l>Je cesse d’éclater, de pester contre vous ;</l>
+<l>Quoique de l’action l’imprudence soit haute,</l>
+<l>Ma main sur votre échine a lavé votre faute.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! je me vengerai de ce trait déloyal !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous vous êtes causé vous-même tout le mal.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Moi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Si vous n’étiez pas une cervelle folle,</l>
+<l>Quand vous avez parlé naguère à votre idole,</l>
+<l>Vous auriez aperçu Jeannette sur vos pas,</l>
+<l>Dont l’oreille subtile a découvert le cas.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>On aur<oa/>it pu surprendre un mot dit à Célie ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Et d’où doncques viendr<oa/>it cette prompte sortie ?</l>
+<l>Oui, vous n’êtes dehors que par votre caquet.</l>
+<l>Je ne sais si souvent vous jouez au piquet :</l>
+<l>Mais au moins faites-vous des écarts admirables.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>O le plus malheureux de tous les misérables !</l>
+<l>Mais encore, pourquoi me voir chassé par toi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je ne fis jamais mieux que d’en prendre l’emploi :</l>
+<l>Par là, j’empêche au moins que de cet artifice</l>
+<l>Je ne sois soupçonné d’être auteur ou complice.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tu dev<oa/>is donc, pour toi, frapper plus doucement.</l>
+
+<pagenum num="92"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quelque sot. Trufaldin lorgn<oa/>it exactement.</l>
+<l>Et puis, je vous dirai, sous ce prétexte utile,</l>
+<l>Je n’ét<oa/>is point fâché d’évaporer ma bile.</l>
+<l>Enfin la chose est faite ; et, si j’ai votre foi</l>
+<l>Qu’on ne vous verra point vouloir venger sur moi,</l>
+<l>Soit ou directement, ou par quelque autre voie,</l>
+<l>Les coups sur votre râble assénés avec joie,</l>
+<l>Je vous promets, aidé par le poste où je suis,</l>
+<l>De contenter vos vœux avant qu’il soit deux nuits.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quoique ton traitement ait eu trop de rudesse,</l>
+<l>Qu’est-ce que dessus moi ne peut cette promesse ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous le promettez donc ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Oui, je te le promets.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ce n’est pas encor tout. Promettez que jamais</l>
+<l>Vous ne vous mêlerez dans quoi que j’entreprenne.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Soit.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Si vous y manquez, votre fièvre quartaine !</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Mais tiens-moi donc parole, et songe à mon repos.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Allez quitter l’habit, et graisser votre dos.</l>
+
+<hstage><speaker>LÉLIE</speaker>, seul.</hstage>
+<l>Faut-il que le malheur qui me suit à la trace</l>
+<l>Me fasse voir toujours disgrâce sur disgrâce !</l>
+
+<hstage><speaker>MASCARILLE</speaker>, sortant de chez Trufaldin.</hstage>
+<l>Quoi ! vous n’êtes pas loin ? Sortez vite d’ici ;</l>
+<l>Mais surtout gardez-vous de prendre aucun souci :</l>
+<l>Puisque je fais pour vous, que cela vous suffise ;</l>
+<l>N’aidez point mon projet de la moindre entreprise,</l>
+<l>Demeurez en repos.</l>
+
+<hstage><speaker>LÉLIE</speaker>, en sortant.</hstage>
+<l cont="true">Oui, va, je m’y tiendrai.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, seul.</hstage>
+<l>Il faut voir maintenant quel biais je prendrai.</l>
+
+<pagenum num="93"/>
+
+<h3 id="acte4sc09">SCÈNE IX. — ERGASTE, MASCARILLE</h3>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Mascarille, je viens te dire une nouvelle</l>
+<l>Qui donne à tes desseins une atteinte cruelle.</l>
+<l>A l’heure que je parle, un jeune Égyptien,</l>
+<l>Qui n’est pas noir pourtant et sent assez son bien,</l>
+<l>Arrive, accompagné d’une vieille fort hâve,</l>
+<l>Et vient chez Trufaldin racheter cette esclave</l>
+<l>Que vous vouliez ; pour elle il par<oa/>ît fort zélé.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Sans doute c’est l’amant dont Célie a parlé.</l>
+<l>Fut-il jamais destin plus brouillé que le nôtre ?</l>
+<l>Sortant d’un embarras, nous entrons dans un autre.</l>
+<l>En vain nous apprenons que Léandre est au point</l>
+<l>De quitter la partie, et ne nous troubler point :</l>
+<l>Que son père, arrivé contre toute espérance,</l>
+<l>Du côté d’Hippolyte emporte la balance,</l>
+<l>Qu’il a tout fait changer par son autorité,</l>
+<l>Et va dès aujourd’hui conclure le traité ;</l>
+<l>Lorsqu’un rival s’éloigne, un autre plus funeste</l>
+<l>S’en vient nous enlever tout l’espoir qui nous reste.</l>
+<l>Toutefois, par un trait merveilleux de mon art,</l>
+<l>Je crois que je pourrai retarder leur départ</l>
+<l>Et me donner le temps qui sera nécessaire</l>
+<l>Pour tâcher de finir cette fameuse affaire.</l>
+<l>Il s’est fait un grand vol ; par qui ? l’on n’en sait rien.</l>
+<l>Eux autres rarement passent pour gens de bien :</l>
+<l>Je veux adroitement, sur un soupçon frivole,</l>
+<l>Faire pour quelques jours emprisonner ce drôle.</l>
+<l>Je sais des officiers, de justice altérés,</l>
+<l>Qui sont pour de tels coups de vrais délibérés ;</l>
+<l>Dessus l’avide espoir de quelque paraguante,</l>
+<l>Il n’est rien que leur art aveuglément ne tente ;</l>
+<l>Et du plus innocent toujours à leur profit</l>
+<l>La bourse est criminelle et paye son délit.</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte5">ACTE CINQUIÈME</h2>
+
+<h3 id="acte5sc01">SCÈNE I. — MASCARILLE, ERGASTE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ah ! chien ! ah ! double chien ! mâtine de cervelle !</l>
+<l>Ta persécution sera-t-elle éternelle ?</l>
+
+<pagenum num="94"/>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Par les soins vigilants de l’exempt Balafré,</l>
+<l>Ton affaire all<oa/>it bien, le drôle ét<oa/>it coffré,</l>
+<l>Si ton maître au moment ne fut venu lui-même,</l>
+<l>En vrai désespéré, rompre ton stratagème :</l>
+<l>Je ne saur<oa/>is souffrir, a-t-il dit hautement,</l>
+<l>Qu’un honnête homme soit traîné honteusement.</l>
+<l>J’en réponds sur sa mine, et je le cautionne :</l>
+<l>Et, comme on résist<oa/>it à lâcher sa personne,</l>
+<l>D’abord il a chargé si bien sur les recors,</l>
+<l>Qui sont gens d’ordinaire à craindre pour leur corps,</l>
+<l>Qu’à l’heure que je parle ils sont encore en fuite</l>
+<l>Et pensant tous avoir un Lélie à leur suite.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Le traître ne sait pas que cet Égyptien</l>
+<l>Est déjà là dedans pour lui ravir son bien.</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Adieu. Certaine affaire à te quitter m’oblige.</l>
+
+<h3 id="acte5sc02">SCÈNE II. — MASCARILLE, <i>seul</i>.</h3>
+
+<l>Oui, je suis stupéfait de ce dernier prodige.</l>
+<l>On dir<oa/>it (et pour moi j’en suis persuadé)</l>
+<l>Que ce démon brouillon dont il est possédé</l>
+<l>Se plaise à me braver, et me l’aille conduire</l>
+<l>Partout où sa présence est capable de nuire.</l>
+<l>Pourtant je veux poursuivre, et, malgré tous ces coups,</l>
+<l>Voir qui l’emportera de ce diable ou de nous.</l>
+<l>Célie est quelque peu de notre intelligence,</l>
+<l>Et ne voit son départ qu’avecque répugnance.</l>
+<l>Je tâche à profiter de cette occasion.</l>
+<l>Mais ils viennent ; songeons à l’exécution.</l>
+<l>Cette maison meublée est en ma bienséance,</l>
+<l>Je puis en disposer avec grande licence :</l>
+<l>Si le sort nous en dit, tout sera bien réglé ;</l>
+<l>Nul que moi ne s’y tient, et j’en garde la clé.</l>
+<l>O Dieu ! qu’en peu de temps on a vu d’aventures,</l>
+<l>Et qu’un fourbe est contraint de prendre de figures !</l>
+
+<h3 id="acte5sc03">SCÈNE III. — CÉLIE, ANDRÈS</h3>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Vous le savez, Célie, il n’est rien que mon cœur</l>
+<l>N’ait fait pour vous prouver l’excès de son ardeur.</l>
+<pagenum num="95"/>
+<l>Chez les Vénitiens, dès un assez jeune âge,</l>
+<l>La guerre en quelque estime av<oa/>it mis mon courage,</l>
+<l>Et j’y pouv<oa/>is un jour, sans trop croire de moi,</l>
+<l>Prétendre, en les servant, un honorable emploi,</l>
+<l>Lorsqu’on me vit pour vous oublier toute chose,</l>
+<l>Et que le prompt effet d’une métamorphose</l>
+<l>Qui suivit de mon cœur le soudain changement,</l>
+<l>Parmi vos compagnons sut ranger votre amant,</l>
+<l>Sans que mille accidents, ni votre indifférence,</l>
+<l>Aient pu me détacher de ma persévérance.</l>
+<l>Depuis, par un hasard d’avec vous séparé</l>
+<l>Pour beaucoup plus de temps que je n’eusse auguré,</l>
+<l>Je n’ai, pour vous rejoindre, épargné temps ni peine.</l>
+<l>Enfin, ayant trouvé la vieille Égyptienne,</l>
+<l>Et plein d’impatience apprenant votre sort,</l>
+<l>Que pour certain argent qui leur import<oa/>it fort,</l>
+<l>Et qui de tous vos gens détourna le naufrage,</l>
+<l>Vous aviez en ces lieux été mise en otage,</l>
+<l>J’accours vite y briser ces chaînes d’intérêt,</l>
+<l>Et recevoir de vous les ordres qu’il vous plaît :</l>
+<l>Cependant on vous voit une morne tristesse,</l>
+<l>Alors que dans vos yeux doit briller l’allégresse.</l>
+<l>Si pour vous la retraite av<oa/>it quelques appas,</l>
+<l>Venise, du butin fait parmi les combats,</l>
+<l>Me garde pour tous deux de quoi pouvoir y vivre ;</l>
+<l>Que si, comme devant, il vous faut encor suivre,</l>
+<l>J’y consens, et mon cœur n’ambitionnera</l>
+<l>Que d’être auprès de vous tout ce qu’il vous plaira.</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Votre zèle pour moi visiblement éclate :</l>
+<l>Pour en par<oa/>ître triste, il faudr<oa/>it être ingrate ;</l>
+<l>Et mon visage aussi, par son émotion,</l>
+<l>N’explique point mon cœur en cette occasion.</l>
+<l>Une douleur de tête y peint sa violence ;</l>
+<l>Et, si j’av<oa/>is sur vous quelque peu de puissance,</l>
+<l>Notre voyage, au moins pour trois ou quatre jours,</l>
+<l>Attendr<oa/>it que ce mal eût pris un autre cours.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Autant que vous voudrez faites qu’il se diffère.</l>
+<l>Toutes mes volontés ne buttent qu’à vous plaire.</l>
+<l>Cherchons une maison à vous mettre en repos.</l>
+<l>L’écriteau que voici s’offre tout à propos.</l>
+
+<pagenum num="96"/>
+
+<h3 id="acte5sc04">SCÈNE IV. — CÉLIE, ANDRÈS ; MASCARILLE, <i>déguisé en Suisse</i>.</h3>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Seigneur Suisse, êtes-vous de ce logis le maître ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Moi pour serfir à fous.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l cont="true">Pourrions-nous y bien être ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Oui ; moi pour d’étrancher chafons champre garni.</l>
+<l>Mais che non point locher te gens te méchant vi.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Je crois votre maison franche de tout ombrage.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Fous nouvieau dans sti fil, moi foir à la fissage.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">La matame est-il mariage al monsieur ?</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Quoi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">S’il être son famé, ou s’il être son sœur ?</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Mon foi, pien choli ; fenir pour marchantisse.</l>
+<l>Ou pien pour temanter à la palais choustice ?</l>
+<l>La procès il faut rien ; il coûter tant t’archant</l>
+<l>La procurair larron, l’afocat pien méchant.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Ce n’est pas pour cela.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Fous tonc mener sti file</l>
+<l>Pour fenir pourmener et recarter la file ?</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Il n’importe.</l>
+<pstage>A Célie.</pstage>
+<l cont="true">Je suis à vous dans un moment.</l>
+<l>Je vais faire venir la vieille promptement,</l>
+<l>Contremander aussi notre voiture prête.</l>
+
+<pagenum num="97"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Li ne porte pas pien.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l cont="true">Elle a mal à la tête.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Moi chafoir te bon fin, et te fromage pon.</l>
+<l>Entre fous, entre fous tans mon petit maisson.</l>
+<pstage>Célie, Andrès et Mascarille entrent dans la maison.</pstage>
+
+<h3 id="acte5sc05">SCÈNE V. — LÉLIE, <i>seul</i>.</h3>
+
+<l>Quel que soit le transport d’une âme impatiente,</l>
+<l>Ma parole m’engage à rester en attente,</l>
+<l>A laisser faire un autre, et voir, sans rien oser,</l>
+<l>Comme de mes destins le ciel veut disposer.</l>
+
+<h3 id="acte5sc06">SCÈNE VI. — ANDRÈS, LÉLIE</h3>
+
+<hstage><speaker>LÉLIE</speaker>, à Andrès, qui sort de la maison.</hstage>
+<l>Demandiez-vous quelqu’un dedans cette demeure ?</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>C’est un logis garni que j’ai pris tout à l’heure.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>A mon père pourtant la maison appartient,</l>
+<l>Et mon valet la nuit pour la garder s’y tient.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Je ne sais ; l’écriteau marque au moins qu’on la loue ;</l>
+<l>Lisez.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Certes, ceci me surprend, je l’avoue.</l>
+<l>Qui diantre l’aurait mis ? et par quel intérêt ?...</l>
+<l>Ah ! ma foi, je devine à peu près ce que c’est !</l>
+<l>Cela ne peut venir que de ce que j’augure.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Peut-on vous demander quelle est cette aventure ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Je voudr<oa/>is à tout autre en faire un grand secret ;</l>
+<l>Mais pour vous il n’importe, et vous serez discret.</l>
+<l>Sans doute l’écriteau que vous voyez par<oa/>ître.</l>
+<l>Comme je conjecture au moins, ne saur<oa/>it être</l>
+<l>Que quelque invention du valet que je di,</l>
+<l>Que quelque nœud subtil qu’il doit avoir ourdi</l>
+<l>Pour mettre en mon pouvoir certaine Égyptienne</l>
+<pagenum num="98"/>
+<l>Dont j’ai l’âme piquée et qu’il faut que j’obtienne.</l>
+<l>Je l’ai déjà manquée, et même plusieurs coups.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Vous l’appelez... ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">Célie.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l cont="true">Eh ! que ne disiez-vous ?</l>
+<l>Vous n’aviez qu’à parler, je vous aur<oa/>is sans doute</l>
+<l>Épargné tous les soins que ce projet vous coûte.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quoi ! vous la conn<oa/>issez ?</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l cont="true">C’est moi qui maintenant</l>
+<l>Viens de la racheter.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">O discours surprenant !</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Sa santé de partir ne nous pouvant permettre,</l>
+<l>Au logis que voilà je ven<oa/>is de la mettre ;</l>
+<l>Et je suis très ravi, dans cette occasion,</l>
+<l>Que vous m’ayez instruit de votre intention.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Quoi ! j’obtiendr<oa/>is de vous le bonheur que j’espère ?</l>
+<l>Vous pourriez...</l>
+
+<hstage><speaker>ANDRÈS</speaker>, allant frapper à la porte.</hstage>
+<l cont="true">Tout à l’heure on va vous satisfaire.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Que pourr<oa/>is-je vous dire ? Et quel remercîment...</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Non, ne m’en faites point, je n’en veux nullement.</l>
+
+<h3 id="acte5sc07">SCÈNE VII. — LÉLIE, ANDRÈS, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker>, à part.</hstage>
+<l>Eh bien, ne voilà pas mon enragé de maître !</l>
+<l>Il nous va faire encor quelque nouveau bissêtre.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Sous ce grotesque habit qui l’aur<oa/>it reconnu ?</l>
+<l>Approche, Mascarille, et sois le bienvenu.</l>
+<pagenum num="99"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Moi souis ein chant t’honneur, moi non point Maquerille ;</l>
+<l>Chai point fentre chamais le fame ni le fille.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Le plaisant baragouin ! il est bon, sur ma foi !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Allez fous pourmener, sans toi rire te moi.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Va, va, lève le masque, et reconn<oa/>is ton maître</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Partié, tiable, mon foi, chamais toi chai conn<oa/>ître.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tout est accommodé, ne te déguise point.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Si toi point t’en aller, che paille ein coup te poing.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ton jargon allemand est superflu, te dis-je ;</l>
+<l>Car nous sommes d’accord, et sa bonté m’oblige.</l>
+<l>J’ai tout ce que mes vœux lui peuvent demander,</l>
+<l>Et tu n’as pas sujet de rien appréhender.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Si vous êtes d’accord par un bonheur extrême,</l>
+<l>Je me dessuisse donc, et redeviens moi-même.</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Ce valet vous serv<oa/>it avec beaucoup de feu :</l>
+<l>Mais je reviens à vous, demeurez quelque peu.</l>
+
+<h3 id="acte5sc08">SCÈNE VIII. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Eh bien, que diras-tu ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Que j’ai l’âme ravie</l>
+<l>De voir d’un beau succès notre peine suivie.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Tu feign<oa/>is à sortir de ton déguisement,</l>
+<l>Et ne pouv<oa/>is me croire en cet événement.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Comme je vous conn<oa/>is, j’ét<oa/>is dans l’épouvante,</l>
+<l>Et trouve l’aventure aussi fort surprenante.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Mais confesse qu’enfin c’est avoir fait beaucoup.</l>
+<pagenum num="100"/>
+<l>Au moins j’ai réparé mes fautes à ce coup,</l>
+<l>Et j’aurai cet honneur d’avoir fini l’ouvrage.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Soit ; vous aurez été bien plus heureux que sage.</l>
+
+<h3 id="acte5sc09">SCÈNE IX. — CÉLIE, ANDRÈS, LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>N’est-ce pas là l’objet dont vous m’avez parlé ?</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Ah ! quel bonheur au mien pourr<oa/>it être égalé ?</l>
+
+<hstage><speaker>ANDRÈS</speaker></hstage>
+<l>Il est vrai, d’un bienfait je vous suis redevable :</l>
+<l>Si je ne l’avou<oa/>is, je ser<oa/>is condamnable ;</l>
+<l>Mais enfin ce bienfait aur<oa/>it trop de rigueur,</l>
+<l>S’il fall<oa/>it le payer aux dépens de mon cœur.</l>
+<l>Jugez, dans le transport où sa beauté me jette,</l>
+<l>Si je dois, à ce prix, vous acquitter ma dette ;</l>
+<l>Vous êtes généreux, vous ne le voudriez pas :</l>
+<l>Adieu. Pour quelques jours retournons sur nos pas.</l>
+
+<h3 id="acte5sc10">SCÈNE X. — LÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker>, après avoir chanté.</hstage>
+<l>Je chante, et toutefois je n’en ai guère envie.</l>
+<l>Vous voilà bien d’accord, il vous donne Célie ;</l>
+<l>Hem, vous m’entendez bien.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l cont="true">C’est trop ; je ne veux plus</l>
+<l>Te demander pour moi de secours superflus.</l>
+<l>Je suis un chien, un traître, un bourreau détestable,</l>
+<l>Indigne d’aucun soin, de rien faire incapable !</l>
+<l>Va, cesse tes efforts pour un m%alencontreux</l>
+<l>Qui ne saur<oa/>it souffrir que l’on le rende heureux.</l>
+<l>Après tant de malheurs, après mon imprudence,</l>
+<l>Le trépas me doit seul prêter son assistance.</l>
+
+<h3 id="acte5sc11">SCÈNE XI. — MASCARILLE, <i>seul</i>.</h3>
+
+<l>Voilà le vrai moyen d’achever son destin ;</l>
+<l>Il ne lui manque plus que de mourir enfin</l>
+<l>Pour le couronnement de toutes ses sottises.</l>
+<l>Mais en vain son dépit pour ses fautes commises</l>
+<l>Lui fait licencier mes soins et mon appui,</l>
+<pagenum num="101"/>
+<l>Je veux, quoi qu’il en soit, le servir malgré lui,</l>
+<l>Et dessus son lutin obtenir la victoire.</l>
+<l>Plus l’obstacle est puissant, plus on reçoit de gloire ;</l>
+<l>Et les difficultés dont on est combattu</l>
+<l>Sont les dames d’atour qui parent la vertu.</l>
+
+<h3 id="acte5sc12">SCÈNE XII. — CÉLIE, MASCARILLE</h3>
+
+<hstage><speaker>CÉLIE</speaker>, à Mascarille, qui lui a parlé bas.</hstage>
+<l>Quoi que tu veuilles dire, et que l’on se propose,</l>
+<l>De ce retardement j’attends fort peu de chose.</l>
+<l>Ce qu’on voit de succès peut bien persuader</l>
+<l>Qu’ils ne sont pas encor fort près de s’accorder.</l>
+<l>Et je t’ai déjà dit qu’un cœur comme le nôtre</l>
+<l>Ne voudr<oa/>it pas pour l’un faire injustice à l’autre,</l>
+<l>Et que très fortement, par de différents nœuds,</l>
+<l>Je me trouve attachée au parti de tous deux :</l>
+<l>Si Lélie a pour lui l’amour et sa puissance,</l>
+<l>Andrès pour son partage a la reconn<oa/>issance,</l>
+<l>Qui ne souffrira point que mes pensers secrets</l>
+<l>Consultent jamais rien contre ses intérêts.</l>
+<l>Oui, s’il ne peut avoir plus de place en mon âme,</l>
+<l>Si le don de mon cœur ne couronne sa flamme,</l>
+<l>Au moins dois-je ce prix à ce qu’il fait pour moi,</l>
+<l>De n’en choisir point d’autre, au mépris de sa foi,</l>
+<l>Et de faire à mes vœux autant de violence</l>
+<l>Que j’en fais aux désirs qu’il met en évidence.</l>
+<l>Sur ces difficultés qu’oppose mon devoir,</l>
+<l>Juge ce que tu peux te permettre d’espoir.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ce sont, à dire vrai, de très fâcheux obstacles,</l>
+<l>Et je ne sais point l’art de faire des miracles ;</l>
+<l>Mais je vais employer mes efforts plus puissants,</l>
+<l>Remuer terre et ciel, m’y prendre de tout sens</l>
+<l>Pour tâcher de trouver un biais salutaire,</l>
+<l>Et vous dirai bientôt ce qui se pourra faire.</l>
+
+<h3 id="acte5sc13">SCÈNE XIII. — HIPPOLYTE, CÉLIE</h3>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Depuis votre séjour, les dames de ces lieux</l>
+<l>Se plaignent justement des larcins de vos yeux,</l>
+<l>Si vous leur dérobez leurs conquêtes plus belles</l>
+<l>Et de tous leurs amants faites des infidèles :</l>
+<pagenum num="102"/>
+<l>Il n’est guère de cœurs qui puissent échapper</l>
+<l>Aux traits dont à l’abord vous savez les frapper ;</l>
+<l>Et mille libertés, à vos chaînes offertes,</l>
+<l>Semblent vous enrichir chaque jour de nos pertes.</l>
+<l>Quant à moi, toutefois, je ne me plaindr<oa/>is pas</l>
+<l>Du pouvoir absolu de vos rares appas,</l>
+<l>Si, lorsque mes amants sont devenus les vôtres,</l>
+<l>Un seul m’eût consolé de la perte des autres.</l>
+<l>Mais qu’inhumainement vous me les ôtiez tous,</l>
+<l>C’est un dur procédé dont je me plains à vous.</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Voilà d’un air galant faire une raillerie :</l>
+<l>Mais épargnez un peu celle qui vous en prie.</l>
+<l>Vos yeux, vos propres yeux, se conn<oa/>issent trop bien,</l>
+<l>Pour pouvoir de ma part redouter jamais rien ;</l>
+<l>Ils sont fort assurés du pouvoir de leurs charmes,</l>
+<l>Et ne prendront jamais de pareilles alarmes.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Pourtant en ce discours je n’ai rien avancé</l>
+<l>Qui dans tous les esprits ne soit déjà passé ;</l>
+<l>Et, sans parler du reste, on sait bien que Célie</l>
+<l>A causé des désirs à Léandre et Lélie.</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Je crois qu’étant tombés dans cet aveuglement,</l>
+<l>Vous vous consoleriez de leur perte aisément,</l>
+<l>Et trouveriez pour vous l’amant peu souhaitable</l>
+<l>Qui d’un si mauvais choix se trouver<oa/>it capable.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Au contraire, j’agis d’un air tout différent,</l>
+<l>Et trouve en vos beautés un mérite si grand,</l>
+<l>J’y vois tant de raisons capables de défendre</l>
+<l>L’inconstance de ceux qui s’en laissent surprendre,</l>
+<l>Que je ne puis blâmer la nouveauté des feux</l>
+<l>Dont envers moi Léandre a parjuré ses vœux,</l>
+<l>Et le vais voir tantôt, sans haine et sans colère,</l>
+<l>Ramené sous mes lois par le pouvoir d’un père.</l>
+
+<h3 id="acte5sc14">SCÈNE XIV. — CÉLIE, HIPPOLYTE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Grande, grande nouvelle, et succès surprenant,</l>
+<l>Que ma bouche vous vient annoncer maintenant !</l>
+
+<pagenum num="103"/>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Qu’est-ce donc ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Écoutez, voici sans flatterie..,</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Quoi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">La fin d’une vraie et pure comédie.</l>
+<l>La vieille Égyptienne à l’heure même...</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l cont="true">Eh bien ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Pass<oa/>it dedans la place, et ne songe<oa/>it à rien,</l>
+<l>Alors qu’une autre vieille assez défigurée,</l>
+<l>L’ayant de près au nez longtemps considérée,</l>
+<l>Par un bruit enroué de mots injurieux</l>
+<l>A donné le signal d’un combat furieux,</l>
+<l>Qui pour armes pourtant, mousquets, dagues ou flèches,</l>
+<l>Ne fais<oa/>it voir en l’air que quatre griffes sèches,</l>
+<l>Dont ces deux combattants s’efforç<oa/>ient d’arracher</l>
+<l>Ce peu que sur leurs os les ans laissent de chair.</l>
+<l>On n’entend que ces mots : chienne ! louve ! bagasse !</l>
+<l>D’abord leurs escoffions<noteref noteid="note.103.1"/> ont volé par la place,</l>
+<l>Et, laissant voir à nu deux têtes sans cheveux,</l>
+<l>Ont rendu le combat risiblement affreux.</l>
+<l>Andrès et Trufaldin, à l’éclat du murmure,</l>
+<l>Ainsi que force monde, accourus d’aventure,</l>
+<l>Ont à les décharpir eu de la peine assez,</l>
+<l>Tant leurs esprits ét<oa/>ient par la fureur poussés !</l>
+<l>Cependant que chacune, après cette tempête,</l>
+<l>Songe à cacher aux yeux la honte de sa tête,</l>
+<l>Et que l’on veut savoir qui caus<oa/>it cette humeur,</l>
+<l>Celle qui la première av<oa/>it fait la rumeur,</l>
+<l>Malgré la passion dont elle ét<oa/>it émue,</l>
+<l>Ayant sur Trufaldin tenu longtemps la vue :</l>
+<l>C’est vous, si quelque erreur n’abuse ici mes yeux,</l>
+<l>Qu’on m’a dit qui viviez inconnu dans ces lieux,</l>
+<l>A-t-elle dit tout haut ; ô rencontre opportune !</l>
+<l>Oui, seigneur Zanobio Ruberti, la fortune</l>
+<l>Me fait vous reconn<oa/>ître, et dans le même instant</l>
+<l>Que pour votre intérêt je me tourment<oa/>is tant.</l>
+<pagenum num="104"/>
+<l>Lorsque Naples nous vit quitter votre famille,</l>
+<l>J’av<oa/>is, vous le savez, en mes mains votre fille,</l>
+<l>Dont j’élev<oa/>is l’enfance, et qui, par mille traits,</l>
+<l>Fais<oa/>it voir, dès quatre ans, sa grâce et ses attraits.</l>
+<l>Celle que vous voyez, cette infâme sorcière,</l>
+<l>Dedans notre maison se rendant familière,</l>
+<l>Me vola ce trésor. Hélas ! de ce malheur</l>
+<l>Votre femme, je crois, conçut tant de douleur,</l>
+<l>Que cela servit fort pour avancer sa vie.</l>
+<l>Si bien qu’entre mes mains cette fille ravie</l>
+<l>Me faisant redouter un reproche fâcheux,</l>
+<l>Je vous fis annoncer la mort de toutes deux ;</l>
+<l>Mais il faut maintenant, puisque je l’ai connue,</l>
+<l>Qu’elle fasse savoir ce qu’elle est devenue.</l>
+<l>Au nom de Zanobio Ruberti, que sa voix,</l>
+<l>Pendant tout ce récit, répét<oa/>it plusieurs fois.</l>
+<l>Andrès, ayant changé quelque temps de visage,</l>
+<l>A Trufaldin surpris a tenu ce langage :</l>
+<l>Quoi donc ! le ciel me fait trouver heureusement</l>
+<l>Celui que jusqu’ici j’ai cherché vainement,</l>
+<l>Et que j’av<oa/>is pu voir, sans pourtant reconn<oa/>ître,</l>
+<l>La source de mon sang et l’auteur de mon être !</l>
+<l>Oui, mon père, je suis Horace votre fils.</l>
+<l>D’Albert, qui me gard<oa/>it, les jours étant finis,</l>
+<l>Me sentant naître au cœur d’autres inquiétudes,</l>
+<l>Je sortis de Bologne, et, quittant mes études,</l>
+<l>Portai durant six ans mes pas en divers lieux,</l>
+<l>Selon que me pouss<oa/>it un désir curieux.</l>
+<l>Pourtant, après ce temps, une secrète envie</l>
+<l>Me pressa de revoir les miens et ma patrie ;</l>
+<l>Mais dans Naples, hélas ! je ne vous trouvai plus,</l>
+<l>Et n’y sus votre sort que par des bruits confus :</l>
+<l>Si bien qu’à votre quête ayant perdu mes peines,</l>
+<l>Venise pour un temps borna mes courses vaines ;</l>
+<l>Et j’ai vécu depuis, sans que de ma maison</l>
+<l>J’eusse d’autres clartés que d’en avoir le nom,</l>
+<l>Je vous laisse à juger si, pendant ces affaires,</l>
+<l>Trufaldin ressent<oa/>it des transports ordinaires.</l>
+<l>Enfin, pour retrancher ce que plus à loisir</l>
+<l>Vous aurez le moyen de vous faire éclaircir</l>
+<l>Par la confession de votre Égyptienne,</l>
+<l>Trufaldin maintenant vous reconn<oa/>ît pour sienne ;</l>
+<l>Andrès est votre frère ; et, comme de sa sœur</l>
+<pagenum num="105"/>
+<l>Il ne peut plus songer à se voir possesseur,</l>
+<l>Une obligation qu’il prétend reconn<oa/>ître</l>
+<l>A fait qu’il vous obtient pour épouse à mon maître.</l>
+<l>Dont le père, témoin de tout l’événement,</l>
+<l>Donne à cet hyménée un plein consentement,</l>
+<l>Et, pour mettre un joie entière en sa famille,</l>
+<l>Pour le nouvel Horace a proposé sa fille.</l>
+<l>Voyez que d’incidents à la fois enfantés !</l>
+
+
+<notes>
+  <note id="note.103.1">
+    <p><i>Escoffion</i>, nom d’une ancienne coiffe de femme.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Je demeure immobile à tant de nouveautés.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Tous viennent sur mes pas, hors les deux championnes,</l>
+<l>Qui du combat encor remettent leurs personnes.</l>
+<l>Léandre est de la troupe, et votre père aussi.</l>
+<l>Moi, je vais avertir mon maître de ceci,</l>
+<l>Et que, lorsqu’à ses vœux on croit le plus d’obstacle,</l>
+<l>Le ciel en sa faveur produit comme un miracle.</l>
+<pstage>Mascarille sort.</pstage>
+
+<hstage><speaker>HIPPOLYTE</speaker></hstage>
+<l>Un tel ravissement rend mes esprits confus,</l>
+<l>Que pour mon propre sort je n’en aur<oa/>is pas plus.</l>
+<l>Mais les voici venir.</l>
+
+<h3 id="acte5sc15">SCÈNE XV. — TRUFALDIN, ANSELME, PANDOLFE, CÉLIE, HIPPOLYTE, LÉANDRE, ANDRÈS</h3>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l cont="true">Ah ! ma fille !</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l cont="true">Ah ! mon père !</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Sais-tu déjà comment le ciel nous est prospère ?</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Je viens d’entendre ici ce succès merveilleux.</l>
+
+<hstage><speaker>HIPPOLYTE</speaker>, à Léandre.</hstage>
+<l>En vain vous parleriez pour excuser vos feux,</l>
+<l>Si j’ai devant les yeux ce que vous pouvez dire.</l>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<l>Un généreux pardon est ce que je désire ;</l>
+<l>Mais j’atteste les cieux qu’en ce retour soudain</l>
+<l>Mon père fait bien moins que mon propre dessein.</l>
+
+<pagenum num="106"/>
+
+<hstage><speaker>ANDRÈS</speaker>, à Célie.</hstage>
+<l>Qui l’aur<oa/>it jamais cru, que cette ardeur si pure</l>
+<l>Pût être condamnée un jour par la nature ?</l>
+<l>Toutefois tant d’honneur la sut toujours régir,</l>
+<l>Qu’en y changeant fort peu je puis la retenir.</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Pour moi, je me blâm<oa/>is, et croyais faire faute,</l>
+<l>Quand je n’av<oa/>is pour vous qu’une estime très haute.</l>
+<l>Je ne pouv<oa/>is savoir quel obstacle puissant</l>
+<l>M’arrêt<oa/>it sur un pas si doux et si glissant,</l>
+<l>Et détourn<oa/>it mon cœur de l’aveu d’une flamme</l>
+<l>Que mes sens s’efforç<oa/>ient d’introduire en mon âme.</l>
+
+<hstage><speaker>TRUFALDIN</speaker>, à Célie.</hstage>
+<l>Mais en te recouvrant, que diras-tu de moi,</l>
+<l>Si je songe aussitôt à me priver de toi,</l>
+<l>Et t’engage à son fils sous les lois d’hyménée ?</l>
+
+<hstage><speaker>CÉLIE</speaker></hstage>
+<l>Que de vous maintenant dépend ma destinée.</l>
+
+<h3 id="acte5sc16">SCÈNE XVI. — TRUFALDIN, ANSELME, PANDOLFE, CÉLIE, HIPPOLYTE, LÉLIE, LÉANDRE, ANDRÈS, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker>, à Lélie</hstage>
+<l>Voyons si votre diable aura bien le pouvoir</l>
+<l>De détruire à ce coup un si solide espoir ;</l>
+<l>Et si, contre l’excès du bien qui nous arrive,</l>
+<l>Vous armerez encor votre imaginative.</l>
+<l>Par un coup imprévu des destins les plus doux</l>
+<l>Vos vœux sont couronnés, et Célie est à vous.</l>
+
+<hstage><speaker>LÉLIE</speaker></hstage>
+<l>Croirai-je que du ciel la puissance absolue...</l>
+
+<hstage><speaker>TRUFALDIN</speaker></hstage>
+<l>Oui, mon gendre, il est vrai.</l>
+
+<hstage><speaker>PANDOLFE</speaker></hstage>
+<l cont="true">La chose est résolue.</l>
+
+<hstage><speaker>ANDRÈS</speaker>, à Lélie.</hstage>
+<l>Je m’acquitte par là de ce que je vous dois.</l>
+
+<hstage><speaker>LÉLIE</speaker>, à Mascarille</hstage>
+<l>Il faut que je t’embrasse et mille et mille fois,</l>
+<l>Dans cette joie...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Aïe ! aï ! doucement, je vous prie.</l>
+<pagenum num="107"/>
+<l>Il m’a presque étouffé. Je crains fort pour Célie,</l>
+<l>Si vous la caressez avec tant de transport.</l>
+<l>De vos embrassements on se passer<oa/>it fort.</l>
+
+<hstage><speaker>TRUFALDIN</speaker>, à Lélie.</hstage>
+<l>Vous savez le bonheur que le ciel me renvoie ;</l>
+<l>Mais, puisqu’un même jour nous met tous dans la joie,</l>
+<l>Ne nous séparons point qu’il ne soit terminé,</l>
+<l>Et que son père aussi nous soit vite amené.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous voilà tous pourvus. N’est-il point quelque fille</l>
+<l>Qui pût accommoder le pauvre Mascarille ?</l>
+<l>A voir chacun se joindre à sa chacune ici,</l>
+<l>J’ai des démangeaisons de mariage aussi.</l>
+
+<hstage><speaker>ANSELME</speaker></hstage>
+<l>J’ai ton fait.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Allons donc ; et que les cieux prospères</l>
+<l>Nous donnent des enfants dont nous soyons les pères.</l>
+
+</page-sequence>
+</page-sequences>
+</bml>

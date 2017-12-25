@@ -1,0 +1,329 @@
+<?xml version='1.0'?>
+
+<project name='books' default='build'>
+
+  <path id='classpath'>
+    <pathelement path="c:/program files/java/icu4j/icu4j-4_8_1_1.jar"/>
+    <pathelement path="c:/Users/emuller/home/afe/cafe/outside/aglj40.jar"/>
+    <pathelement path="C:/Users/emuller/home/afe/rideau/bin/release"/>
+    <pathelement path="C:/Users/emuller/home/afe/cafe/bin/release"/>
+    <pathelement path="c:/users/emuller/home/eric/epub/esciurus"/>
+    <pathelement path="c:/users/emuller/home/eric/epub/net.efele.epub/bin"/>
+    <pathelement path="c:/users/emuller/home/unicode/software/publication"/>
+    <pathelement path='C:/Program Files/Java/saxonhe9-3-0-5j/saxon9he.jar'/>
+  </path>
+
+  <macrodef name="iterate">
+    <attribute name="target"/>
+
+    <sequential>
+    <parallel threadCount="6">
+      <ant target='@{target}' dir='balzac/la_comedie_humaine'/>
+      <ant target='@{target}' dir='montesquieu/oeuvres_completes'/>
+      <ant target='@{target}' dir='zola/les_rougon_macquart'/>
+      <ant target='@{target}' dir='loti/oeuvres_completes'/>
+      <ant target='@{target}' dir='hugo/hetzel_romans'/>
+      <ant target='@{target}' dir='stendhal/romans_et_nouvelles'/>
+      <ant target='@{target}' dir='verlaine/oeuvres_completes'/>
+      <ant target='@{target}' dir='verlaine/oeuvres_posthumes'/>
+      <ant target='@{target}' dir='barbara/histoires_emouvantes'/>
+      <ant target='@{target}' dir='barbara/mes_petites_maisons'/>
+      <ant target='@{target}' dir='maupassant/conard'/>
+      <ant target='@{target}' dir='hugo/hetzel_actes_et_paroles'/>
+      <ant target='@{target}' dir='hugo/choses_vues'/>
+      <ant target='@{target}' dir='rolland/l_ame_enchantee'/>
+      <ant target='@{target}' dir='regnier/oeuvres'/>
+      <ant target='@{target}' dir='rolland/jean_christophe'/>
+      <ant target='@{target}' dir='moliere/oeuvres_completes'/>
+      <ant target='@{target}' dir='coppee/oeuvres_completes'/>
+
+      <ant target='@{target}' dir='about/ces_coquins_d_agents_de_change'/>
+      <ant target='@{target}' dir='about/le_roi_des_montagnes'/>
+      <ant target='@{target}' dir='about/les_mariages_de_paris'/>
+      <ant target='@{target}' dir='about/les_mariages_de_province'/>
+      <ant target='@{target}' dir='about/madelon'/>
+      <ant target='@{target}' dir='about/maitre_pierre'/>
+      <ant target='@{target}' dir='about/lettres_d_un_bon_jeune_homme'/>
+      <ant target='@{target}' dir='adam/le_trust'/>
+      <ant target='@{target}' dir='allais/l_affaire_blaireau'/>
+      <ant target='@{target}' dir='allary/au_pays_des_cigales'/>
+      <ant target='@{target}' dir='apollinaire/alcools'/>
+      <ant target='@{target}' dir='apollinaire/la_femme_assise'/>
+      <ant target='@{target}' dir='apollinaire/le_flaneur_des_deux_rives'/>
+      <ant target='@{target}' dir='apollinaire/le_poete_assassine'/>
+      <ant target='@{target}' dir='arene/la_chevre_d_or'/>
+      <ant target='@{target}' dir='arnauld-lancelot/grammaire_de_port_royal_1810'/>
+      <ant target='@{target}' dir='bachelin/le_serviteur'/>
+      <ant target='@{target}' dir='bachelin/la_guerre_sur_le_hameau'/>
+      <ant target='@{target}' dir='bachelin/le_belier_la_brebis_et_le_mouton'/>
+      <ant target='@{target}' dir='bachelin/le_village'/>
+      <ant target='@{target}' dir='bachelin/les_rustres'/>
+      <ant target='@{target}' dir='bachelin/pas_comme_les_autres'/>
+      <ant target='@{target}' dir='bachelin/robes_noires'/>
+      <ant target='@{target}' dir='barbey/les_diaboliques'/>
+      <ant target='@{target}' dir='barbara/les_orages_de_la_vie'/>
+      <ant target='@{target}' dir='barbara/l_assassinat_du_pont_rouge'/>
+      <ant target='@{target}' dir='barbara/l_ombre_du_mancenillier'/>
+      <ant target='@{target}' dir='barbara/ronde_fantastique'/>
+      <ant target='@{target}' dir='barbara/mademoiselle_de_sainte_luce'/>
+      <ant target='@{target}' dir='barbusse/ce_qui_fut_sera'/>
+      <ant target='@{target}' dir='barbusse/le_feu'/>
+      <ant target='@{target}' dir='barbusse/lettres_a_sa_femme'/>
+      <ant target='@{target}' dir='barbusse/j_accuse'/>
+      <ant target='@{target}' dir='barbusse/l_illusion'/>
+      <ant target='@{target}' dir='barbusse/nous_autres'/>
+      <ant target='@{target}' dir='baudelaire/les_fleurs_du_mal_1857'/>
+      <ant target='@{target}' dir='baudelaire/les_fleurs_du_mal_1861'/>
+      <ant target='@{target}' dir='bloy/exegese_des_lieux_communs'/>
+      <ant target='@{target}' dir='bloy/exegese_nouvelle_serie'/>
+      <ant target='@{target}' dir='bourgeois/solidarite'/>
+      <ant target='@{target}' dir='bourgeois/les_applications_de_la_solidarite_sociale'/>
+      <ant target='@{target}' dir='boutmy/dictionnaire_de_l_argot_des_typographes'/>
+      <ant target='@{target}' dir='breton/physiologie_du_correcteur_d_imprimerie'/>
+      <ant target='@{target}' dir='buchon/scenes_franc_comtoises'/>
+      <ant target='@{target}' dir='chamfort/oeuvres_completes_auguis'/>
+      <ant target='@{target}' dir='champsaur/dinah_samuel'/>
+      <ant target='@{target}' dir='chenu/de_l_arriere_a_l_avant'/>
+      <ant target='@{target}' dir='christophe/souvenirs_d_un_vieux_typographe'/>
+      <ant target='@{target}' dir='combette/l_isolement'/>
+      <ant target='@{target}' dir='courteline/les_femmes_d_amis'/>
+      <ant target='@{target}' dir='couvreur/la_graine'/>
+      <ant target='@{target}' dir='cremieux/le_premier_de_la_classe'/>
+      <ant target='@{target}' dir='dabit/l_hotel_du_nord'/>
+      <ant target='@{target}' dir='darwin/journal_of_researches'/>
+      <ant target='@{target}' dir='daudet/lettres_de_mon_moulin'/>
+      <ant target='@{target}' dir='decembre-alonnier/typographes_et_gens_de_lettres'/>
+      <ant target='@{target}' dir='derennes/l_enfant_dans_l_herbe'/>
+      <ant target='@{target}' dir='duprat/histoire_de_l_imprimerie_imperiale'/>
+      <ant target='@{target}' dir='elder/le_peuple_de_la_mer'/>
+      <ant target='@{target}' dir='estaunie/l_epave'/>
+      <ant target='@{target}' dir='estaunie/le_ferment'/>
+      <ant target='@{target}' dir='estaunie/un_simple'/>
+      <ant target='@{target}' dir='faure/l_orateur_populaire'/>
+      <ant target='@{target}' dir='flaubert/madame_bovary'/>
+      <ant target='@{target}' dir='gilbert_de_voisins/la_petite_angoisse'/>
+      <ant target='@{target}' dir='gilbert_de_voisins/les_jardins_le_faune_et_le_poete'/>
+      <ant target='@{target}' dir='gilbert_de_voisins/les_moments_perdus_de_john_shag'/>
+      <ant target='@{target}' dir='gobineau/les_pleiades'/>
+      <ant target='@{target}' dir='goldman/anarchism_and_other_essays'/>
+      <ant target='@{target}' dir='huysmans/a_vau_l_eau'/>
+      <ant target='@{target}' dir='huysmans/en_menage'/>
+      <ant target='@{target}' dir='huysmans/en_rade'/>
+      <ant target='@{target}' dir='huysmans/marthe'/>
+      <ant target='@{target}' dir='janin/un_hiver_a_paris'/>
+      <ant target='@{target}' dir='journet/l_ere_de_la_femme'/>
+      <ant target='@{target}' dir='kock/l_enfant_de_ma_femme'/>
+      <ant target='@{target}' dir='kock/un_mari_perdu'/>
+      <ant target='@{target}' dir='kropotkine/la_morale_anarchiste'/>
+      <ant target='@{target}' dir='lafargue/pamphlets_socialistes'/>
+      <ant target='@{target}' dir='laforgue/les_complaintes'/>
+      <ant target='@{target}' dir='lautreamont/les_chants_de_maldoror'/>
+      <ant target='@{target}' dir='lessig/free_culture'/>
+      <ant target='@{target}' dir='leyret/en_plein_faubourg'/>
+      <ant target='@{target}' dir='lintier/le_tube_1233'/>
+      <ant target='@{target}' dir='liquier/le_trac_d_un_gendre'/>
+      <ant target='@{target}' dir='liquier/mon_futur'/>
+      <ant target='@{target}' dir='mac_orlan/a_bord_de_l_etoile_matutine'/>
+      <ant target='@{target}' dir='mac_orlan/le_chant_de_l_equipage'/>
+      <ant target='@{target}' dir='mac_orlan/petit_manuel_du_parfait_aventurier'/>
+      <ant target='@{target}' dir='margueritte_paul/simple_histoire'/>
+      <ant target='@{target}' dir='margueritte_victor/la_garconne'/>
+      <ant target='@{target}' dir='margueritte_victor/le_soleil_dans_la_geole'/>
+      <ant target='@{target}' dir='marinetti/manifeste_du_futurisme'/>
+      <ant target='@{target}' dir='marinetti/mafarka_le_futuriste'/>
+      <ant target='@{target}' dir='marx/manifeste_du_parti_communiste'/>
+      <ant target='@{target}' dir='michel/memoires_de_louise_michel'/>
+      <ant target='@{target}' dir='moselly/jean_des_brebis'/>
+      <ant target='@{target}' dir='moselly/terres_lorraines'/>
+      <ant target='@{target}' dir='muller/mon_dernier_combat'/>
+      <ant target='@{target}' dir='murger/les_buveurs_d_eau'/>
+      <ant target='@{target}' dir='nau/force_ennemie'/>
+      <ant target='@{target}' dir='nerval/oeuvres_completes'/>
+      <ant target='@{target}' dir='otlet/l_afrique_aux_noirs'/>
+      <ant target='@{target}' dir='pawlowski/histoires_montmartroises'/>
+      <ant target='@{target}' dir='pawlowski/inventions_nouvelles'/>
+      <ant target='@{target}' dir='pawlowski/ma_voiture_de_course'/>
+      <ant target='@{target}' dir='pawlowski/on_se_moque_de_nous'/>
+      <ant target='@{target}' dir='pawlowski/paysages_animes'/>
+      <ant target='@{target}' dir='pawlowski/paysages_chimeriques'/>
+      <ant target='@{target}' dir='pawlowski/polochon'/>
+      <ant target='@{target}' dir='pawlowski/voyage_au_pays_de_la_quatrieme_dimension'/>
+      <ant target='@{target}' dir='pellerin/la_jeune_fille_aux_pinceaux'/>
+      <ant target='@{target}' dir='philippe/bubu_de_montparnasse'/>
+      <ant target='@{target}' dir='proudhon/theorie_de_la_propriete'/>
+      <ant target='@{target}' dir='porche/a_chaque_jour'/>
+      <ant target='@{target}' dir='porche/le_poeme_de_la_tranchee'/>
+      <ant target='@{target}' dir='rameau/la_vie_et_la_mort'/>
+      <ant target='@{target}' dir='rebell/les_nuits_chaudes_du_cap_francais'/>
+      <ant target='@{target}' dir='reboul/le_pere_bacchus'/>
+      <ant target='@{target}' dir='reclus/a_mon_frere_le_paysan'/>
+      <ant target='@{target}' dir='reclus/l_evolution_la_revolution_et_l_ideal_anarchique'/>
+      <ant target='@{target}' dir='renard/l_ecornifleur'/>
+      <ant target='@{target}' dir='robert/papa'/>
+      <ant target='@{target}' dir='rolland/au_dessus_de_la_melee'/>
+      <ant target='@{target}' dir='rostand/cyrano_de_bergerac'/>
+      <ant target='@{target}' dir='roussel/chiquenaude'/>
+      <ant target='@{target}' dir='roussel/impressions_d_afrique'/>
+      <ant target='@{target}' dir='roussel/la_doublure'/>
+      <ant target='@{target}' dir='roussel/la_vue'/>
+      <ant target='@{target}' dir='roussel/locus_solus'/>
+      <ant target='@{target}' dir='roussel/nouvelles_impressions_d_afrique'/>
+      <ant target='@{target}' dir='savignon/filles_de_la_pluie'/>
+      <ant target='@{target}' dir='schwob/le_roi_au_masque_d_or'/>
+      <ant target='@{target}' dir='sebillot/la_republique_c_est_la_tranquillite'/>
+      <ant target='@{target}' dir='segalen/les_immemoriaux'/>
+      <ant target='@{target}' dir='sorel/reflexions_sur_la_violence'/>
+      <ant target='@{target}' dir='stendhal/le_rouge_et_le_noir'/>
+      <ant target='@{target}' dir='stendhal/la_chartreuse_de_parme'/>
+      <ant target='@{target}' dir='stephane/aphorismes'/>
+      <ant target='@{target}' dir='stephane/savants_devis'/>
+      <ant target='@{target}' dir='stirner/l_unique_et_sa_propriete'/>
+      <ant target='@{target}' dir='tailhade/discours_civiques'/>
+      <ant target='@{target}' dir='tailhade/discours_pour_la_paix'/>
+      <ant target='@{target}' dir='tarde/psychologie_economique'/>
+      <ant target='@{target}' dir='tinan/erythree'/>
+      <ant target='@{target}' dir='theuriet/la_fortune_d_angele'/>
+      <ant target='@{target}' dir='trotsky/ou_va_la_france'/>
+      <ant target='@{target}' dir='varlet/aux_iles_bienheureuses'/>
+      <ant target='@{target}' dir='verhaeren/les_flamandes'/>
+      <ant target='@{target}' dir='vigny/oeuvres_completes'/>
+      <ant target='@{target}' dir='violeau/histoires_de_chez_nous'/>
+      <ant target='@{target}' dir='zola/lettre_a_m_felix_faure'/>
+      <ant target='@{target}' dir='zola/lettre_a_la_jeunesse'/>
+    </parallel>
+    </sequential>
+  </macrodef>
+
+
+
+  <target name='foo'>             <iterate target="foo"/>           </target>
+
+  <target name='build'>           <iterate target="build"/>         </target>
+  <target name='tirages'>         <iterate target="tirages"/>       </target>
+  <target name='thumbnail'>       <iterate target="thumbnail"/>     </target>
+  <target name='newsfeedentry'>   <iterate target="newsfeedentry"/> </target>
+  <target name='catalog'>         <iterate target='catalog'/>       </target>
+  <target name='opds'>            <iterate target="opds"/>          </target>
+  <target name='desc'>            <iterate target="desc"/>          </target>
+  <target name='descf'>           <iterate target="descf"/>         </target>
+  <target name='zipsources'>      <iterate target="zipsources"/>    </target>
+  <target name='validate'>        <iterate target='validate'/>      </target>
+  <target name='tidy'>            <iterate target='tidy'/>          </target>
+  <target name='export-books'>    <iterate target='export'/>        </target>
+
+
+  <target name='clean'>
+    <iterate target='clean'/>
+    <delete file='feed.xml'/>
+    <delete file='efele_catalogue_commun.txt'/>
+    <delete file='sources.zip'/>
+  </target>
+
+
+
+
+  <target name='feed.xml'>
+    <delete dir='temp'/>
+    <mkdir dir='temp'/>
+
+    <pathconvert pathsep=' ' dirsep='/' property='xx'>
+      <fileset dir='.' includes='*/*/results/*/newsfeedentry.xml'/>
+    </pathconvert>
+
+    <echo file='temp/theatoms' message='${xx}'/>
+
+    <copy todir='temp'>
+      <fileset dir='../tools' includes='build-feed.xsl'/>
+    </copy>
+
+    <java classname="net.sf.saxon.Transform" fork="true">
+      <classpath refid="classpath"/>
+      <arg value="-o:feed.xml"/>
+      <arg value="-xsl:temp/build-feed.xsl"/>
+      <arg value="-s:../tools/feed-template.xml"/>
+    </java>
+
+    <delete dir='temp'/>
+  </target>    
+
+  <target name='opds.xml'>
+    <delete dir='temp'/>
+    <mkdir dir='temp'/>
+
+    <pathconvert pathsep=' ' dirsep='/' property='xx'>
+      <fileset dir='.' includes='*/*/results/*/*.opds.xml'/>
+    </pathconvert>
+
+    <echo file='temp/theatoms' message='${xx}'/>
+
+    <copy todir='temp'>
+      <fileset dir='../tools' includes='build-opds.xsl'/>
+    </copy>
+
+    <java classname="net.sf.saxon.Transform" fork="true">
+      <classpath refid="classpath"/>
+      <arg value="-o:opds.xml"/>
+      <arg value="-xsl:temp/build-opds.xsl"/>
+      <arg value="-s:../tools/opds-template.xml"/>
+    </java>
+
+    <!--delete dir='temp'/-->
+  </target>    
+
+
+  <target name='efele_catalogue_commun.txt'>
+    <concat destfile='efele_catalogue_commun.txt' 
+            binary='true'
+            overwrite='yes'>
+      <fileset dir='../tools' includes='catalog_head.txt'/>
+      <fileset dir='.' includes='*/*/results/*/catalog.txt'/>
+    </concat>
+  </target>
+
+  <target name='listes'>
+    <exec executable="sh">
+      <arg value='../tools/listes.sh'/>
+      <arg value='sources'/>
+      <arg value='sources.zip'/>
+    </exec>
+
+    <exec executable="sh">
+      <arg value='../tools/listes.sh'/>
+      <arg value='epub'/>
+      <arg value='epub'/>
+    </exec>
+
+    <exec executable="sh">
+      <arg value='../tools/listes.sh'/>
+      <arg value='mobipocket'/>
+      <arg value='mobi'/>
+    </exec>
+
+    <exec executable="sh">
+      <arg value='../tools/listes.sh'/>
+      <arg value='daisy'/>
+      <arg value='daisy.zip'/>
+    </exec>
+
+  </target>
+
+  <target name='export-me' depends='feed.xml,efele_catalogue_commun.txt, listes'>
+    <copy todir='c:/users/emuller/home/eric/efele.net/ebooks'>
+      <fileset dir='.' includes='index.html'/>
+      <fileset dir='.' includes='style.css'/>
+      <fileset dir='.' includes='feed.xml'/>
+      <fileset dir='../tools' includes='feed-icon-14x14.png'/>
+      <fileset dir='../tools' includes='twitter.png'/>
+      <fileset dir='.' includes='efele_catalogue_commun.txt'/>
+      <fileset dir='.' includes='liste.*.html'/>
+    </copy>
+    <copy todir='c:/users/emuller/home/eric/efele.net/ebooks' 
+            encoding='UTF-16'
+            outputencoding='UTF-16'>
+      <fileset dir='.' includes='efele_catalogue_commun.txt'/>
+    </copy>
+  </target>
+
+  <target name='export-all' depends='export-books, export-me'/>
+
+</project>

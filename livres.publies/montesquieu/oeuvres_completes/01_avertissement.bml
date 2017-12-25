@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb309702138">
+
+      <titre>Œuvres complètes de Montesquieu</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119166485">
+        <nom-bibliographie>Montesquieu, Charles-Louis de Secondat</nom-bibliographie>
+        <dates>1689-1755</dates>
+        <nom-couverture>Montesquieu</nom-couverture>
+      </auteur>
+      
+      <auteur role='edt' bnf="http://catalogue.bnf.fr/ark:/12148/cb12280806q">
+        <nom-bibliographie>Laboulaye, Édouard</nom-bibliographie>
+        <dates>1811-1883</dates>
+        <nom-couverture>Édouard Laboulaye</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>Garnier Frères</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1875-1879</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume id="v1">
+      <facsimile href="http://books.google.com/books?id=BAUvAAAAMAAJ"
+                 pages="n13 i ii iii iv v vi vii viii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000100"
+        creation="2010-09-18T00:00:00-08:00"
+        modification="2014-12-31T18:14:29-08:00">
+
+      <surtitre>Œuvres complètes</surtitre>
+      <titre>Avertissement sur cette nouvelle édition</titre>
+
+      <titre-catalogue>Œuvres complètes — Avertissement sur cette nouvelle édition</titre-catalogue>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+
+      <collection id='c00002'>
+        <titre>Œuvres complètes de Montesquieu, édition Laboulaye</titre>
+      </collection>
+
+      <merci>
+        <p>Merci à Mohamed Sebaa pour les erreurs qu’il a signalées.</p>
+      </merci>
+
+      <note>
+        <p>L’orthographe a été modernisée en remplaçant <i>oi</i> par <i>ai</i> (par example <i>étoit</i> remplacé par <i>était</i>).</p>
+
+        <p>Les notes de Montesquieu ainsi que les notes éditoriales de Laboulaye suivent immédiatement le texte, et sont numérotées 1, 2, 3,... Les variantes sont placées à la fin du volume, et son numérotées a, b, c,... Dans les deux cas, l’appel de note et le numéro de la note sont hyperliés.</p>
+      </note>
+
+    </electronique>
+  </metadata>
+
+  <toc/>
+
+  <cover src="images/couverture-1.png" alt=""/>
+
+<page-sequences>
+
+<div id='avertissement' toc='Avertissement'>
+
+<pagenum v="v1" num='i'/>
+
+<h1>AVERTISSEMENT SUR CETTE NOUVELLE ÉDITION.</h1>
+
+<p>Il est peu d’écrivains qui aient eu des fortunes aussi diverses que Montesquieu. Tantôt on l’a porté aux nues, comme le maître de la science politique, comme l’homme de génie qui a retrouvé les titres du genre humain ; tantôt on l’a dénoncé comme l’adorateur du passé, l’apôtre du privilége, le défenseur des abus. Au milieu de ce bruit, l’auteur de l’<i>Esprit des lois</i> a traversé toutes nos révolutions, sans s’amoindrir. Abandonné et maudit dans les mauvais jours, il reparaît aussitôt que la France reprend goût à la liberté. On relit alors et on aime celui qui a fait de la modération la vertu du législateur.</p>
+
+<p>Jusqu’en 1789, c’est-à-dire durant un demi-siècle, Montesquieu, attaqué et défendu avec vivacité, jouit d’une autorité sans égale. On invoque son nom comme celui de ces anciens législateurs qui ont fondé des États. Son livre<pagenum v="v1" num='ii'/> dont les éditions se multiplient rapidement, est le code de la raison et de la liberté. Au début de la révolution il inspire le parti constitutionnel ; Mounier, Clermont-Tonnerre, Lally-Tollendal, Malouet, Mirabeau lui-même, quoiqu’il soit plus près des économistes, sont des disciples de Montesquieu. Mais aussitôt que l’emporte l’école de Rousseau, et surtout celle du baron d’Holbach, dont l’influence n’a pas été assez remarquée, aussitôt qu’on s’adresse à la raison et à la philosophie seules pour inventer une constitution applicable à tous les peuples de la terre, le nom de Montesquieu s’éclipse ; il disparaît avec la liberté. On ne veut plus d’un homme qui compte avec les faits, et qui ne veut pas rompre brusquement avec le passé. Montesquieu n’est plus un sage, un politique, un citoyen ; c’est un homme de robe, gentilhomme et bel esprit. On le relègue dédaigneusement avec les aristocrates et les suppôts de la monarchie.</p>
+
+<p>Il en est tout autrement quand la constitution de l’an III, imitée de la constitution des États-Unis, remet en faveur les idées de modération. Montesquieu revient à la mode ; c’est la grande autorité du jour ; on publie six éditions de ses œuvres en quatre ans. Sous le consulat et sous l’empire l’auteur de l’<i>Esprit des lois</i> rentre dans l’ombre, mais pour en sortir avec éclat en 1814. La Charte lui donne raison ; le régime constitutionnel est tout entier dans le fameux chapitre <i>De la constitution d’Angleterre<noteref noteid='1.iii-1'/></i>. <pagenum v="v1" num='iii'/>La théorie des trois pouvoirs défraye pendant quinze ans la politique libérale.</p>
+
+<p>C’est alors qu’on réimprime et qu’on annote avec une espèce de furie les œuvres de Montesquieu, et que pour la première fois on s’occupe de la critique du texte. Les éditions publiées par Lequien en 1819, par Dalibon en 1822, par Lefèvre en 1826, sont vraiment recommandables. M. Parrelle, qui a soigné l’édition Lefèvre, a bien mérité de Montesquieu. Après lui on ne peut guère citer que M. Ravenel qui, en 1834, a donné chez Debure une bonne édition des œuvres complètes, en un volume. Depuis lors on n’a que des réimpressions.</p>
+
+<p>Le moment paraît favorable pour rappeler l’attention sur un de nos plus grands esprits. On cite souvent Montesquieu, mais on le cite plutôt qu’on ne le lit ; cela se voit de reste par les citations qu’on en fait, citations qui ne prouvent pas une grande familiarité avec l’auteur. Montesquieu a employé le mot de vertu dans l’acception antique, et comme synonyme de patriotisme ; il est revenu vingt fois sur le sens particulier qu’il attache à ce mot ; cela n’empêche pas que vingt fois par an, dans des discours d’apparat, on ne nous répète que Montesquieu s’est trompé quand il a fait de la vertu, le principe du gouvernement républicain, et qu’on peut être aussi vertueux <pagenum v="v1" num='iv'/>dans les monarchies que dans les républiques. Ceux qui parlent avec tant d’assurance se doutent-ils qu’ils prouvent éloquemment qu’ils n’ont pas même lu les premières pages de l’<i>Esprit des lois ?</i> Peut-être comptent-ils sur l’ignorance du public, et ils n’ont pas tort.</p>
+
+<p>Il y a, je l’avoue, une raison qui explique pourquoi on ne lit pas davantage Montesquieu. C’est que dans son langage il y a souvent quelque chose d’énigmatique ; il n’est pas toujours aisé de saisir à première vue la pensée de l’auteur.</p>
+
+<p>Ce défaut qui tient au temps où il écrivait, aux précautions qu’il lui fallait prendre pour ne pas effrayer un pouvoir ombrageux, nous avons cherché à le corriger en joignant au texte un assez grand nombre de notes, qui ne ressemblent point à celles des commentateurs ordinaires. Nous n’entendons pas contredire Montesquieu, ni lui reprocher de n’avoir point connu des vérités qui aujourd’hui sont vulgaires ; nous ne cherchons pas à refaire l’<i>Esprit des lois ;</i> nous laissons à l’auteur la responsabilité de ses opinions. Mais il est une foule d’allusions, de sous-entendus que comprenait à demi-mot le lecteur du <s>XVIII</s><sup>e</sup> siècle, car il s’agissait de choses qu’il avait sous les yeux, et qui aujourd’hui sont des énigmes pour nous. Ces finesses transparentes, que M<sup>me</sup> Du Deffand appelait de l’<i>Esprit sur les lois</i>, abondent également dans les <i>Lettres Persanes</i>, et en rendent la lecture difficile à<pagenum v="v1" num='v'/> cent cinquante ans de distance. C’est cette difficulté que nous avons essayé d’écarter, en donnant en note le mot de ces allusions, de façon qu’il soit aisé d’en saisir aujourd’hui la portée. Le lecteur moderne se trouve ainsi mis au point de vue de l’auteur ; il peut ressentir quelque chose du plaisir qu’éprouvaient nos pères, quand ils voyaient tant de grâce et de malice joint à tant de bon sens.</p>
+
+<p>A ces notes nous avons ajouté les variantes des premières éditions. M. Parrelle était entré dans cette voie, M. Ravenel l’y a suivi ; mais tous deux ont marché timidement, et avec raison, car de leur temps on tenait plus à la dernière forme de la pensée d’un auteur qu’à ses premiers tâtonnements. Aujourd’hui on est plus curieux ; on aime à suivre dans le moindre détail la pensée de l’écrivain, et à la saisir en quelque façon dans le travail même de l’enfantement. Cette étude, ne fit-elle que montrer avec quel amour Montesquieu soignait son style, aura toujours de l’intérêt pour le lecteur.</p>
+
+<p>Nous avons aussi respecté la ponctuation des premières éditions. C’est encore là un détail qu’il ne faut point négliger. La ponctuation nous donne le mouvement de l’idée, et nous fait entendre la voix de l’auteur. Celle de Montesquieu est particulière ; la phrase est brève, hachée ; on y sent jusqu’à l’accent gascon du président. Conserver la ponctuation primitive, c’est une façon de rendre plus vivant encore cet esprit original, qui, dans<pagenum v="v1" num='vi'/> ses écrits, a gardé, non moins que Montaigne, le goût du terroir.</p>
+
+<p>En tête du premier volume on trouvera l’éloge de Montesquieu par Maupertuis. Moins connu que celui de d’Alembert, et moins remarquable, quoiqu’il soit écrit avec plus de simplicité, l’éloge de Maupertuis a le mérite de nous avoir conservé la première impression produite par la mort de Montesquieu ; et de plus il contient des faits curieux sur la vie et la mort de ce grand homme. Du reste, dans le dernier volume, qui contiendra la correspondance, nous donnerons l’éloge de d’Alembert, et les témoignages contemporains que nous avons pu réunir sur la personne et les écrits de Montesquieu.</p>
+
+<p>Nous avons dit dans quel esprit est conçue cette nouvelle édition. Si, en rajeunissant Montesquieu, nous pouvons le faire lire par les générations nouvelles, nous croirons avoir rendu service à la science et au pays. Nous savons par expérience tout ce qu’on gagne à vivre en compagnie avec cet esprit puissant, sage et bon ; nous voudrions appeler le lecteur à partager ce plaisir délicat. Aujourd’hui le <s>XVII</s><sup>e</sup> siècle est à la mode ; on donne d’excellentes éditions de ses classiques ; on a raison ; mais le <s>XVIII</s><sup>e</sup> siècle a aussi de beaux noms littéraires, qu’il ne faut pas oublier. Si ses écrivains ne sont pas aussi purs que ceux du règne de Louis XIV, ils ont le mérite de remuer des idées plus vivantes ; ce sont eux qui ont préparé <pagenum v="v1" num='vii'/> la civilisation moderne, et qui ont fait triompher les idées de tolérance, de liberté, d’humanité. Corneille est un Romain et un Espagnol ; c’est un Lucain avec plus de génie ; Racine et Fénelon sont les vrais fils de la Grèce ; Bossuet est un Père de l’Église latine, mais Montesquieu est un ancêtre, et nous vivons de sa pensée. C’est bien le moins qu’en donnant une édition de ses œuvres nous lui élevions un monument qui le rappelle au souvenir et à la reconnaissance de nos contemporains.</p>
+
+<vsep class="emptyline"/>
+
+<p class="r3">É<s>D</s>. L<s>ABOULAYE</s>.</p>
+
+<vsep class="emptyline"/>
+
+<p>Paris, avril 1875.</p>
+</div>
+
+<note id='1.iii-1' type='e'><p><i>Esprit des lois</i>, XI, 6.</p></note>
+
+</page-sequences>
+</bml>
+

@@ -1,0 +1,66 @@
+default namespace bml = "http://efele.net/2010/ns/bml"
+
+include "../../../tools/bml.rnc" {
+  start = 
+    element bml {
+       metadata,
+       toc,
+       cover,
+       element page-sequences {
+         block+ }}
+
+    note =
+      element note {
+        attribute id { string },
+        attribute type { "e" | "v" | "m" }?,
+        block+ }
+}
+
+inline |= element oa { empty }
+inline |= element OA { empty }
+
+block |=
+  note
+
+block |= 
+  element div {
+    attribute id { text }?,
+    attribute class { "chapter" }?,
+    attribute toc { text }?,
+    block+ }
+
+block |=
+  element lettre {
+    attribute id { text },
+
+    pagenum?,
+
+    element entete {
+      element titre { inline+ }?,
+      element dea   { inline+ }?,
+      element lieu  { inline+ }? },
+
+    block+,
+
+    element lune { inline+ },
+
+    block* }
+
+block |=
+  element entree { inline+ }
+
+block |= 
+  element partie {
+    attribute p { text },
+    block+ }
+
+block |=
+  element livre {
+    attribute l { text },
+    block+ }
+
+block |=
+  element chapitre {
+    attribute ch { text },
+    block+ }
+

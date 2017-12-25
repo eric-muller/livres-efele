@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+
+<project name='balzac' default='build'>
+
+  <property name='dotoi' value='yes'/>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_Avant-propos'/>
+    <book x='02_La_maison_du_chat-qui-pelote'/>
+    <book x='03_Le_bal_de_Sceaux'/>
+    <book x='04_La_bourse'/>
+    <book x='05_La_vendetta'/>
+    <book x='06_Madame_Firmiani'/>
+    <book x='07_Une_double_famille'/>
+    <book x='08_La_paix_du_menage'/>
+    <book x='09_La_fausse_maitresse'/>
+    <book x='10_Etude_de_femme'/>
+    <book x='11_Albert_Savarus'/>
+
+    <book x='12_Memoires_de_deux_jeunes_mariees'/>
+    <book x='13_Une_fille_d_Eve'/>
+    <book x='14_La_femme_abandonnee'/>
+    <book x='15_La_Grenadiere'/>
+    <book x='16_Le_message'/>
+    <book x='17_Gobseck'/>
+    <book x='18_Autre_etude_de_femme'/>
+
+    <book x='19_La_femme_de_trente_ans'/>
+    <book x='20_Le_contrat_de_mariage'/>
+    <book x='21_Beatrix'/>
+    <book x='22_La_grande_Breteche'/>
+    <book x='23_Modeste_Mignon'/>
+    <book x='24_Honorine'/>
+    <book x='25_Un_debut_dans_la_vie'/>
+
+    <book x='26_Ursule_Mirouet'/>
+    <book x='27_Eugenie_Grandet'/>
+    <book x='28_Pierrette'/>
+
+    <book x='29_Le_cure_de_Tours'/>
+    <book x='30_Un_menage_de_garcon'/>
+    <book x='31_L_illustre_Gaudissart'/>
+    <book x='32_La_muse_du_departement'/>
+    <book x='33_La_vieille_fille'/>
+    <book x='34_Le_Cabinet_des_Antiques'/>
+    <book x='35_Le_lys_dans_la_vallee'/>
+
+    <book x='36_Les_deux_poetes'/>
+    <book x='37_Un_grand_homme_de_province_a_Paris'/>
+    <book x='38_Eve_et_David'/>
+
+    <book x='39_Ferragus'/>
+    <book x='40_La_duchesse_de_Langeais'/>
+    <book x='41_La_fille_aux_yeux_d_or'/>
+    <book x='42_Le_pere_Goriot'/>
+
+    <book x='43_Le_colonel_Chabert'/>
+    <book x='44_Facino_Cane'/>
+    <book x='45_La_messe_de_l_athee'/>
+    <book x='46_Sarrasine'/>
+    <book x='47_L_interdiction'/>
+    <book x='48_Cesar_Birotteau'/>
+
+    <book x='49_La_maison_Nucingen'/>
+    <book x='50_Pierre_Grassou'/>
+    <book x='51_Les_secrets_de_la_princesse_de_Cadignan'/>
+    <book x='52_Les_employes_ou_la_femme_superieure'/>
+    <book x='53_Esther_heureuse'/>
+    <book x='54_A_combien_l_amour_revient_aux_vieillards'/>
+
+    <book x='55_Ou_menent_les_mauvais_chemins'/>
+    <book x='57_Un_prince_de_la_boheme'/>
+    <book x='58_Esquisse_d_homme_d_affaires_d_apres_nature'/>
+    <book x='59_Gaudissart_II'/>
+    <book x='60_Les_comediens_sans_le_savoir'/>
+    <book x='63_Un_episode_sous_la_terreur'/>
+    <book x='64_Une_tenebreuse_affaire'/>
+    <book x='65_Z_Marcas'/>
+    <book x='66_L_envers_de_l_histoire_contemporaine'/>
+
+    <book x='67_Les_Chouans'/>
+    <book x='68_Une_passion_dans_le_desert'/>
+    <book x='69_Le_medecin_de_campagne'/>
+    <book x='70_Le_cure_de_village'/>
+
+    <book x='72_La_peau_de_chagrin'/>
+    <book x='73_Jesus_Christ_en_Flandre'/>
+    <book x='74_Melmoth_reconcilie'/>
+    <book x='75_Le_chef_d_oeuvre_inconnu'/>
+    <book x='76_La_recherche_de_l_absolu'/>
+
+    <book x='77_Massimilla_Doni'/>
+    <book x='78_Gambara'/>
+    <book x='79_L_enfant_maudit'/>
+    <book x='80_Les_Marana'/>
+    <book x='81_Adieu'/>
+    <book x='82_Le_requisitionnaire'/>
+    <book x='83_El_verdugo'/>
+    <book x='84_Un_drame_au_bord_de_la_mer'/>
+    <book x='85_L_auberge_rouge'/>
+    <book x='86_L_elixir_de_longue_vie'/>
+    <book x='87_Maitre_Cornelius'/>
+    <book x='88_Sur_Catherine_de_Medicis'/>
+
+    <book x='89_Les_proscrits'/>
+    <book x='90_Louis_Lambert'/>
+    <book x='91_Seraphita'/>
+    <book x='92_Physiologie_du_mariage'/>
+
+    <book x='61_La_cousine_Bette'/>
+    <book x='62_Le_cousin_Pons'/>
+
+    <book x='56_La_derniere_incarnation_de_Vautrin'/>
+    <book x='71_Les_paysans'/>
+    <book x='93_Petites_miseres_de_la_vie_conjugale'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='la_comedie_humaine'/>
+  </target>
+
+  <target name='zipsources-book'/>
+</project>

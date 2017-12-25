@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_dedicace'/>
+    <book x='02_esquisse_de_la_vie_d_un_virtuose'/>
+    <book x='03_le_major_whittington'/>
+    <book x='04_romanzoff'/>
+    <book x='05_l_homme_qui_nourrit_des_papillons'/>
+    <book x='06_irma_gilquin'/>
+    <book x='07_les_sourds'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='mes_petites_maisons'/>
+  </target>
+
+  <target name='zipsources-book'/>
+
+</project>

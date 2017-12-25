@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+
+<project name='livew' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+
+    <book x='01_poemes_saturniens'/>
+    <book x='02_fetes_galantes'/>
+    <book x='03_la_bonne_chanson'/>
+    <book x='04_romances_sans_paroles'/>
+    <book x='05_sagesse'/>
+    <book x='06_jadis_et_naguere'/>
+
+    <book x='07_amour'/>
+    <book x='08_bonheur'/>
+    <book x='09_parallelement'/>
+    <book x='10_chansons_pour_elle'/>
+    <book x='11_liturgies_intimes'/>
+    <book x='12_odes_en_son_honneur'/>
+
+    <book x='13_elegies'/>
+    <book x='14_dans_les_limbes'/>
+    <book x='15_dedicaces'/>
+    <book x='16_epigrammes'/>
+    <book x='17_chair'/>
+    <book x='18_invectives'/>
+
+    <book x='19_les_poetes_maudits'/>
+    <book x='20_louise_leclercq'/>
+    <book x='21_les_memoires_d_un_veuf'/>
+    <book x='22_mes_hopitaux'/>
+    <book x='23_mes_prisons'/>
+
+    <book x='24_confessions'/>
+    <book x='25_quinze_jours_en_hollande'/>
+    <book x='26_biographies_de_poetes_et_litterateurs'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='verlaine_leon_vanier'/> 
+  </target>
+  <target name='zipsources-book'/>
+
+</project>

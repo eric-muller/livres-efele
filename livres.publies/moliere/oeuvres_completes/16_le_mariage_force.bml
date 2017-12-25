@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000493"
+        creation="2017-03-18T14:25:21-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Le Mariage forçé</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='16'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="sc01" label="Scène I"/>
+    <tocentry idref="sc02" label="Scène II"/>
+    <tocentry idref="sc03" label="Scène III"/>
+    <tocentry idref="sc04" label="Scène IV"/>
+    <tocentry idref="sc05" label="Scène V"/>
+    <tocentry idref="sc06" label="Scène VI"/>
+    <tocentry idref="sc07" label="Scène VII"/>
+    <tocentry idref="sc08" label="Scène VIII"/>
+    <tocentry idref="sc09" label="Scène IX"/>
+    <tocentry idref="sc10" label="Scène X"/>
+    <tocentry idref="sc11" label="Scène XI"/>
+    <tocentry idref="sc12" label="Scène XII"/>
+    <tocentry idref="sc13" label="Scène XIII"/>
+    <tocentry idref="sc14" label="Scène XIV"/>
+    <tocentry idref="sc15" label="Scène XV"/>
+    <tocentry idref="sc16" label="Scène XVI"/>
+    <tocentry idref="sc17" label="Scène XVII"/>
+    <tocentry idref="ballet" label="Ballet"/>
+  </toc>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="505"/>
+
+<h1>LE MARIAGE FORCÉ</h1>
+
+<h2>COMÉDIE EN UN ACTE</h2>
+<h2>1664</h2>
+
+<vsep class="rule"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">SGANARELLE.</p>
+<p class="sommaire">GÉRONIMO.</p>
+<p class="sommaire">DORIMÈNE, jeune coquette, promise à Sganarelle.</p>
+<p class="sommaire">ALCANTOR, père de Dorimène.</p>
+<p class="sommaire">ALCIDAS, frère de Dorimène.</p>
+<p class="sommaire">LYCASTE, amant de Dorimène.</p>
+<p class="sommaire">PANCRACE, docteur aristotélicien.</p>
+<p class="sommaire">MARPHURIUS, docteur pyrrhonien.</p>
+<p class="sommaire">D<s>EUX</s> É<s>GYPTIENNES</s>.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est dans une place publique.</p>
+
+<vsep class="rule"/>
+
+<h3 id="sc01">SCÈNE I. — SGANARELLE, <i>parlant à ceux qui sont dans sa maison</i>.</h3>
+
+<p>Je suis de retour dans un moment. Que l’on ait bien soin du logis, et que tout aille comme il faut. Si l’on m’apporte de l’argent, que l’on me vienne quérir vite chez le seigneur Géronimo ; et, si l’on vient m’en demander, qu’on dise que je suis sorti, et que je ne dois revenir de toute la journée.</p>
+
+<h3 id="sc02">SCÈNE II. — SGANARELLE, GÉRONIMO</h3>
+
+<hstage><speaker>GÉRONIMO</speaker>, ayant entendu les dernières paroles de Sganarelle.</hstage>
+<p>Voilà un ordre fort prudent.</p>
+
+<pagenum num="506"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! seigneur Géronimo, je vous trouve à propos ; et j’allois chez vous vous chercher.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Et pour quel sujet, s’il vous plaît ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Pour vous communiquer une affaire que j’ai en tête, et vous prier de m’en dire votre avis.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Très volontiers. Je suis bien aise de cette rencontre, et nous pouvons parler ici en toute liberté.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mettez donc dessus, s’il vous plaît. Il s’agit d’une chose de conséquence que l’on m’a proposée ; et il est bon de ne rien faire sans le conseil de ses amis.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Je vous suis obligé de m’avoir choisi pour cela. Vous n’avez qu’à me dire ce que c’est.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mais, auparavant, je vous conjure de ne me point flatter du tout, et de me dire nettement votre pensée.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Je le ferai, puisque vous le voulez.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je ne vois rien de plus condamnable qu’un ami qui ne nous parle pas franchement.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Vous avez raison.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Et dans ce siècle on trouve peu d’amis sincères.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Cela est vrai.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Promettez-moi donc, seigneur Géronimo, de me parler avec toute sorte de franchise.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Je vous le promets.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Jurez-en votre foi.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Oui, foi d’ami. Dites-moi seulement votre affaire.</p>
+
+<pagenum num="507"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est que je veux savoir de vous si je ferai bien de me marier.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Qui, vous ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui, moi-même, en propre personne. Quel est votre avis là-dessus ?</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Je vous prie auparavant de me dire une chose,</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Et quoi ?</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Quel âge pouvez-vous bien avoir maintenant ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Moi ?</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, je ne sais, mais je me porte bien.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Quoi ! vous ne savez pas à peu près votre âge ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non : est-ce qu’on songe à cela ?</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Eh ! dites-moi un peu, s’il vous plaît : combien aviez-vous d’années lorsque nous fîmes connoissance ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, je n’avois que vingt ans alors.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Combien fûmes-nous ensemble à Rome ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Huit ans.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Quel temps avez-vous demeuré en Angleterre.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Sept ans.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Et en Hollande, où vous fûtes ensuite ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Cinq ans et demi.</p>
+
+<pagenum num="508"/>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Combien y a-t-il que vous êtes revenu ici ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je revins en cinquante-deux.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>De cinquante-deux à soixante-quatre, il y a douze ans, ce me semble. Cinq en Hollande font dix-sept ; sept en Angleterre font vingt-quatre, huit dans notre séjour à Rome font trente-deux ; et vingt que vous aviez lorsque nous nous connûmes, cela fait justement cinquante-deux. Si bien, seigneur Sganarelle, que, sur votre propre confession, vous êtes environ à votre cinquante-deuxième ou cinquante-troisième année.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qui, moi ? cela ne se peut pas.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Mon Dieu ! le calcul est juste ; et là-dessus je vous dirai franchement et en ami, comme vous m’avez fait promettre de vous parler, que le mariage n’est guère votre fait. C’est une chose à laquelle il faut que les jeunes gens pensent bien mûrement avant que de la faire ; mais les gens de votre âge n’y doivent point penser du tout : et, si l’on dit que la plus grande de toutes les folies est celle de se marier, je ne vois rien de plus mal à propos que de la faire, cette folie, dans la saison où nous devons être plus sages. Enfin, je vous en dis nettement ma pensée. Je ne vous conseille point de songer au mariage ; et je vous trouverois le plus ridicule du monde si, ayant été libre jusqu’à cette heure, vous alliez vous charger maintenant de la plus pesante des chaînes.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Et moi, je vous dis que je suis résolu de me marier, et que je ne serai point ridicule en épousant la fille que je recherche.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Ah ! c’est une autre chose ! Vous ne m’aviez pas dit cela.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est une fille qui me plaît, et que j’aime de tout mon cœur.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Vous l’aimez de tout votre cœur ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Sans doute, et je l’ai demandée à son père.</p>
+
+<pagenum num="509"/>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Vous l’avez demandée ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui. C’est un mariage qui doit se conclure ce soir ; et j’ai donné ma parole.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Oh ! mariez-vous donc ! je ne dis plus mot.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je quitterois le dessein que j’ai fait ! Vous semble-t-il, seigneur Géronimo, que je ne sois plus propre à songer à une femme ? Ne parlons point de l’âge que je puis avoir, mais regardons seulement les choses. Y a-t-il un homme de trente ans qui paroisse plus frais et plus vigoureux que vous me voyez ? N’ai-je pas tous les mouvements de mon corps aussi bons que jamais ; et voit-on que j’aie besoin de carrosse ou de chaise pour cheminer ? N’ai-je pas encore toutes mes dents les meilleures du monde ? <stage>Il montre ses dents.</stage> Ne fais-je pas vigoureusement mes quatre repas par jour, et peut-on voir un estomac qui ait plus de force que le mien ? <stage>Il tousse.</stage> Hem, hem, hem. Eh ! qu’en dites-vous ?</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Vous avez raison, je m’étois trompé. Vous ferez bien de vous marier.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>J’y ai répugné autrefois ; mais j’ai maintenant de puissantes raisons pour cela. Outre la joie que j’aurai de posséder une belle femme, qui me fera mille caresses, qui me dorlotera, et me viendra frotter lorsque je serai las ; outre cette joie, dis-je, je considère qu’en demeurant comme je suis, je laisse périr dans le monde la race des Sganarelles ; et qu’en me mariant je pourrai me voir revivre en d’autres moi-même ; que j’aurai le plaisir de voir des créatures qui seront sorties de moi, de petites figures qui me ressembleront comme deux gouttes d’eau, qui se joueront continuellement dans la maison, qui m’appelleront leur papa quand je reviendrai de la ville, et me diront de petites folies les plus agréables du monde. Tenez, il me semble déjà que j’y suis, et que j’en vois une demi-douzaine autour de moi.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Il n’y a rien de plus agréable que cela, et je vous conseille de vous marier le plus vite que vous pourrez.</p>
+
+<pagenum num="510"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tout de bon, vous me le conseillez ?</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Assurément. Vous ne sauriez mieux faire.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vraiment, je suis ravi que vous me donniez ce conseil en véritable ami.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Eh ! quelle est la personne, s’il vous plaît, avec qui vous allez vous marier ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Dorimène.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Cette jeune Dorimène, si galante et si bien parée ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Fille du seigneur Alcantor ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Justement.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Et sœur d’un certain Alcidas, qui se mêle de porter l’épée.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est cela.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Vertu de ma vie !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Q’en dites-vous ?</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Bon parti ! Mariez-vous promptement.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>N’ai-je pas raison d’avoir fait ce choix ?</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Sans doute ! Ah ! que vous serez bien marié ! Dépêchez-vous de l’être.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous me comblez de joie de me dire cela. Je vous remercie de votre conseil et je vous invite ce soir à mes noces.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Je n’y manquerai pas ; et je veux y aller en masque, afin de les mieux honorer.</p>
+
+<pagenum num="511"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Serviteur.</p>
+
+<hstage><speaker>GÉRONIMO</speaker>, à part.</hstage>
+<p>La jeune Dorimène, fille du seigneur Alcantor, avec le seigneur Sganarelle, qui n’a que cinquante-trois ans ! O le beau mariage ! ô le beau mariage ! <stage>Ce qu’il répète plusieurs fois en s’en allant.</stage></p>
+
+<h3 id="sc03">SCÈNE III. — SGANARELLE, <i>seul</i>.</h3>
+
+<p>Ce mariage doit être heureux, car il donne de la joie à tout le monde, et je fais rire tous ceux à qui j’en parle. Me voilà maintenant le plus content des hommes.</p>
+
+<h3 id="sc04">SCÈNE IV. — DORIMÈNE, SGANARELLE</h3>
+
+<hstage><speaker>DORIMÈNE</speaker>, dans le fond du théâtre, à un petit laquais qui la suit.</hstage>
+<p>Allons, petit garçon, qu’on tienne bien ma queue, et qu’on ne s’amuse pas à badiner.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part, apercevant Dorimène.</hstage>
+<p>Voici ma maîtresse qui vient. Ah ! qu’elle est agréable ! Quel air et quelle taille ! Peut-il y avoir un homme qui n’ait, en la voyant, des démangeaisons de se marier ? <stage>A Dorimène.</stage> Où allez-vous, belle mignonne, chère épouse future de votre époux futur ?</p>
+
+<hstage><speaker>DORIMÈNE</speaker></hstage>
+<p>Je vais faire quelques emplettes.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh bien, ma belle, c’est maintenant que nous allons être heureux l’un et l’autre. Vous ne serez plus en droit de me rien refuser ; et je pourrai faire avec vous tout ce qu’il me plaira, sans que personne s’en scandalise. Vous allez être à moi depuis la tête jusqu’aux pieds, et je serai maître de tout : de vos petits yeux éveillés, de votre petit nez fripon, de vos lèvres appétissantes, de vos oreilles amoureuses, de votre petit menton joli, de vos petits tetons rondelets, de votre... Enfin, toute votre personne sera à ma discrétion, et je serai à même pour vous caresser comme je voudrai. N’êtes-vous pas bien aise de ce mariage, mon aimable pouponne ?</p>
+
+<hstage><speaker>DORIMÈNE</speaker></hstage>
+<p>Tout à fait aise, je vous jure. Car enfin la sévérité de mon père m’a tenue jusques ici dans une sujétion la plus fâcheuse du monde. Il y a je ne sais combien que j’enrage du peu de liberté qu’il me donne, et j’ai cent fois souhaité qu’il me <pagenum num="512"/>mariât, pour sortir promptement de la contrainte où j’étois avec lui, et me voir en état de faire ce que je voudrai. Dieu merci, vous êtes venu heureusement pour cela, et je me prépare désormais à me donner du divertissement, et à réparer, comme il faut, le temps que j’ai perdu. Comme vous êtes un fort galant homme, et que vous savez comme il faut vivre, je crois que nous ferons le meilleur ménage du monde ensemble, et que vous ne serez point de ces maris incommodes, qui veulent que leurs femmes vivent comme des loups-garous. Je vous avoue que je ne m’accommoderois pas de cela, et que la solitude me désespère. J’aime le jeu, les visites, les assemblées, les cadeaux et les promenades ; en un mot, toutes les choses de plaisir : et vous devez être ravi d’avoir une femme de mon humeur. Nous n’aurons jamais aucun démêlé ensemble ; et je ne vous contraindrai point dans vos actions, comme j’espère que, de votre côté, vous ne me contraindrez point dans les miennes ; car, pour moi, je tiens qu’il faut avoir une complaisance mutuelle, et qu’on ne se doit point marier pour se faire enrager l’un l’autre. Enfin, nous vivrons, étant mariés, comme deux personnes qui savent leur monde. Aucun soupçon jaloux ne nous troublera la cervelle ; et c’est assez que vous serez assuré de ma fidélité, comme je serai persuadée de la vôtre. Mais qu’avez-vous ? je vous vois tout changé de visage.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ce sont quelques vapeurs qui me viennent de monter à la tête.</p>
+
+<hstage><speaker>DORIMÈNE</speaker></hstage>
+<p>C’est un mal aujourd’hui qui attaque beaucoup de gens ; mais notre mariage vous dissipera tout cela. Adieu. Il me tarde déjà que je n’aie des habits raisonnables, pour quitter vite ces guenilles. Je m’en vais de ce pas achever d’acheter toutes les choses qu’il me faut, et je vous enverrai les marchands.</p>
+
+<h3 id="sc05">SCÈNE V. — GÉRONIMO, SGANARELLE</h3>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Ah ! seigneur Sganarelle, je suis ravi de vous trouver encore ici, et j’ai rencontré un orfèvre, qui, sur le bruit que vous cherchez quelque beau diamant en bague pour faire un présent à votre épouse, m’a fort prié de vous venir parler pour lui, et de vous dire qu’il en a un à vendre, le plus parfait du monde.</p>
+
+<pagenum num="513"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mon Dieu ! cela n’est pas pressé.</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Comment ! Que veut dire cela ? Où est l’ardeur que vous montriez tout à l’heure ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il m’est venu, depuis un moment, de petits scrupules sur le mariage. Avant que de passer plus avant, je voudrois bien agiter à fond cette matière, et que l’on m’expliquât un songe que j’ai fait cette nuit, et qui vient tout à l’heure de me revenir dans l’esprit. Vous savez que les songes sont comme des miroirs, où l’on découvre quelquefois tout ce qui nous doit arriver. Il me sembloit que j’étois dans un vaisseau, sur une mer bien agitée, et que...</p>
+
+<hstage><speaker>GÉRONIMO</speaker></hstage>
+<p>Seigneur Sganarelle, j’ai maintenant quelque petite affaire qui m’empêche de vous ouïr. Je n’entends rien du tout aux songes ; et quant au raisonnement du mariage, vous avez deux savants, deux philosophes, vos voisins, qui sont gens à vous débiter tout ce qu’on peut dire sur ce sujet. Comme ils sont de sectes différentes, vous pouvez examiner leurs diverses opinions là-dessus. Pour moi, je me contente de ce que je vous ai dit tantôt, et demeure votre serviteur.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Il a raison. Il faut que je consulte un peu ces gens-là sur l’incertitude où je suis.</p>
+
+<h3 id="sc06">SCÈNE VI. — PANCRACE, SGANARELLE</h3>
+
+<hstage><speaker>PANCRACE</speaker>, se tournant du côté où il est entré, et sans voir Sganarelle.</hstage>
+<p>Allez, vous êtes un impertinent, mon ami, un homme ignare de toute bonne discipline, bannissable de la république des lettres.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! bon, en voici un fort à propos.</p>
+
+<hstage><speaker>PANCRACE</speaker>, de même, sans voir Sganarelle.</hstage>
+<p>Oui, je te soutiendrai par vives raisons, je te montrerai par Aristote, le philosophe des philosophes, que tu es un ignorant, un ignorantissime, ignorantifiant et ignorantifié, par tous les cas et modes imaginables.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Il a pris querelle contre quelqu’un, <stage>A Pancrace.</stage> Seigneur...</p>
+
+<pagenum num="514"/>
+
+<hstage><speaker>PANCRACE</speaker>, de même, sans voir Sganarelle.</hstage>
+<p>Tu veux te mêler de raisonner, et tu ne sais pas seulement les éléments de la raison.......</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>La colère l’empêche de me voir. <stage>A Pancrace.</stage> Seigneur...</p>
+
+<hstage><speaker>PANCRACE</speaker>, de même, sans voir Sganarelle.</hstage>
+<p>C’est une proposition condamnable dans toutes les terres de la philosophie.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Il faut qu’on l’ait fort irrité. <stage>A Pancrace.</stage> Je...</p>
+
+<hstage><speaker>PANCRACE</speaker>, de même, sans voir Sganarelle.</hstage>
+<p><i>Toto cœlo, tota via aberras.</i></p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je baise les mains à monsieur le docteur.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Serviteur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Peut-on...</p>
+
+<hstage><speaker>PANCRACE</speaker>, se retournant vers l’endroit par où il est entré.</hstage>
+<p>Sais-tu bien ce que tu as fait ? un syllogisme <i>in Balordo</i>.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous...</p>
+
+<hstage><speaker>PANCRACE</speaker>, de même.</hstage>
+<p>La majeure en est inepte, la mineure impertinente, et la conclusion ridicule.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je...</p>
+
+<hstage><speaker>PANCRACE</speaker>, de même.</hstage>
+<p>Je crèverois plutôt que d’avouer ce que tu dis ; et je soutiendrai mon opinion jusqu’à la dernière goutte de mon encre.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Puis-je...</p>
+
+<hstage><speaker>PANCRACE</speaker>, de même.</hstage>
+<p>Oui, je défendrai cette proposition <i>pugnis et calcibus, uniguibus et rostro</i>.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Seigneur Aristote, peut-on savoir ce qui vous met si fort en colère ?</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Un sujet le plus juste du monde.</p>
+
+<pagenum num="515"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Et quoi encore ?</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Un ignorant m’a voulu soutenir une proposition erronée, une proposition épouvantable, effroyable, exécrable.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Puis-je demander ce que c’est ?</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Ah ! seigneur Sganarelle, tout est renversé aujourd’hui, et le monde est tombé dans une corruption générale. Une licence épouvantable règne partout ; et les magistrats, qui sont établis pour maintenir l’ordre dans cet État, devroient mourir de honte, en souffrant un scandale aussi intolérable que celui dont je veux parler.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quoi donc ?</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>N’est-ce pas une chose horrible, une chose qui crie vengeance au ciel, que d’endurer qu’on dise publiquement la forme d’un chapeau ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Comment !</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Je soutiens qu’il faut dire la figure d’un chapeau, et non pas la forme ; d’autant qu’il y a cette différence entre la forme et la figure, que la forme est la disposition extérieure des corps qui sont animés, et la figure la disposition extérieure des corps qui sont inanimés : et, puisque le chapeau est un corps inanimé, il faut dire la figure d’un chapeau, et non pas la forme. <stage>Se retournant encore du côté par où il est entré.</stage> Oui, ignorant que vous êtes, c’est ainsi qu’il faut parler ; et ce sont les termes exprès d’Aristote dans le chapitre de la qualité.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Je pensois que tout fût perdu. <stage>A Pancrace.</stage> Seigneur docteur, ne songez plus à tout cela. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Je suis dans une colère, que je ne me sens pas.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Laissez la forme et le chapeau en paix. J’ai quelque chose à vous communiquer. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Impertinent fieffé !</p>
+
+<pagenum num="516"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>De grâce, remettez-vous. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Ignorant !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! mon Dieu ! Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Me vouloir soutenir une proposition de la sorte !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il a tort. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Une proposition condamnée par Aristote !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Cela est vrai. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>En termes exprès !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous avez raison. <stage>Se tournant du côté par où Pancrace est entré.</stage> Oui, vous êtes un sot et un impudent, de vouloir disputer contre un docteur qui sait lire et écrire. Voilà qui est fait : je vous prie de m’écouter. Je viens vous consulter sur une affaire qui m’embarrasse. J’ai dessein de prendre une femme, pour me tenir compagnie dans mon ménage. La personne est belle et bien faite ; elle me plaît beaucoup, et est ravie de m’épouser. Son père me l’a accordée ; mais je crains un peu ce que vous savez, la disgrâce dont on ne plaint personne ; et je voudrois bien vous prier, comme philosophe, de me dire votre sentiment. Eh ! quel est votre avis là-dessus ?</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Plutôt que d’accorder qu’il faille dire la forme d’un chapeau, j’accorderois que <i>datur vacuum, in rerum natura</i>, et que je ne suis qu’une bête.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>La peste soit de l’homme ! <stage>A Pancrace.</stage> Eh ! monsieur le docteur, écoutez un peu les gens. On vous parle une heure durant, et vous ne répondez point à ce qu’on vous dit.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Je vous demande pardon. Une juste colère m’occupe l’esprit.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! laissez tout cela, et prenez la peine de m’écouter.</p>
+
+<pagenum num="517"/>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Soit. Que voulez-vous me dire ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je veux vous parler de quelque chose.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Et de quelle langue voulez-vous vous servir avec moi ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>De quelle langue ?</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Parbleu ! de la langue que j’ai dans ma bouche. Je crois que je n’irai pas emprunter celle de mon voisin.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Je vous dis, de quel idiome, de quel langage ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! c’est une autre affaire.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Voulez-vous me parler italien ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Espagnol ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Allemand ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Anglois ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Latin ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Grec ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non.</p>
+
+<pagenum num="518"/>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Hébreu ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Syriaque ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Arabe ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, non, françois, françois, françois.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Ah ! françois !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Passez donc de l’autre côté ; car cette oreille-ci est destinée pour les langues scientifiques et étrangères, et l’autre est pour la vulgaire et la maternelle.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Il faut bien des cérémonies avec ces sortes de gens-ci !</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Que voulez-vous ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous consulter sur une petite difficulté.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Ah ! ah ! sur une difficulté de philosophie, sans doute ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Pardonnez-moi. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Vous voulez peut-être savoir si la substance et l’accident sont termes synonymes ou équivoques à l’égard de l’être ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Point du tout. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Si la logique est un art ou une science ?</p>
+
+<pagenum num="519"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ce n’est pas cela. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Si elle a pour objet les trois opérations de l’esprit où la troisième seulement ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>S’il y a dix catégories, ou s’il n’y en a qu’une ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Point. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Si la conclusion est de l’essence du syllogisme ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non. Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Si le bien se réciproque avec la fin ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh non ! Je...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Si la fin nous peut émouvoir par son être réel, où par son être intentionnel ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, non, non, non, non, de par tous les diables, non !</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Expliquez donc votre pensée, car je ne puis la deviner.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous la veux expliquer aussi ; mais il faut m’écouter. <stage>Pendant que Sganarelle dit :</stage> L’affaire que j’ai à vous dire, c’est que j’ai envie de me marier avec une fille qui est jeune et belle. Je l’aime fort, et l’ai demandée à son père ; mais, comme j’appréhende... .</p>
+
+<hstage><speaker>PANCRACE</speaker> dit en même temps, sans écouter Sganarelle :</hstage>
+<p>La parole a été donnée à l’homme pour expliquer sa pensée ; et, tout ainsi que les pensées sont les portraits des choses, de même nos paroles sont-elles les portraits de nos pensées. <pagenum num="520"/> <stage>Sganarelle, impatienté, ferme la bouche du docteur avec sa main à plusieurs reprises, et le docteur continue de parler d’abord que Sganarelle ôte sa main.</stage> Mais ces portraits diffèrent des autres portraits en ce que les autres portraits sont distingués partout de leurs originaux, et que la parole renferme en soi son original, puisqu’elle n’est autre chose que la pensée expliquée par un signe extérieur ; d’où vient que ceux qui pensent bien sont aussi ceux qui parlent le mieux. Expliquez-moi donc votre pensée par la parole, qui est le plus intelligible de tous les signes.</p>
+
+<hstage><speaker>SGANARELLE</speaker> pousse le docteur dans sa maison, et tire la porte pour l’empêcher de sortir.</hstage>
+<p>Peste de l’homme !</p>
+
+<hstage><speaker>PANCRACE</speaker>, au dedans de sa maison.</hstage>
+<p>Oui, la parole est <i>animi index et speculum</i>. C’est le truchement du cœur, c’est l’image de l’âme. <stage>Il monte à la fenêtre, et continue.</stage> C’est un miroir qui nous présente naïvement les secrets les plus arcanes de nos individus ; et, puisque vous avez la faculté de ratiociner et de parler tout ensemble, à quoi tient-il que vous ne vous serviez de la parole pour me faire entendre votre pensée ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est ce que je veux faire ; mais vous ne voulez par m’écouter.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Je vous écoute, parlez.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je dis donc, monsieur le docteur, que...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Mais surtout soyez bref.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je le serai.</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Évitez la prolixité.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! monsi...</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Tranchez-moi votre discours d’un apophthegme à la laconienne.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous...</p>
+
+<pagenum num="521"/>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Point d’ambages, de circonlocution.</p>
+
+<pstage>Sganarelle, de dépit de ne point parler, ramasse des pierres pour en casser la tête du docteur.</pstage>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Eh quoi ! vous vous emportez, au lieu de vous expliquer ! Allez, vous êtes plus impertinent que celui qui m’a voulu soutenir qu’il faut dire la forme d’un chapeau ; et je vous prouverai, en toute rencontre, par raisons démonstratives et convaincantes, et par arguments <i>in Barbara</i>, que vous n’êtes et ne serez jamais qu’une pécore, et que je suis et serai toujours, <i>in utroque jure</i><noteref noteid="note.521.1"/>, le docteur Pancrace.</p>
+
+<notes>
+  <note id="note.521.1">
+    <p>Le droit civil et le droit canon.</p>
+  </note>
+</notes>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quel diable de babillard !</p>
+
+<hstage><speaker>PANCRACE</speaker>, en rentrant sur le théâtre.</hstage>
+<p>Homme de lettres, homme d’érudition.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Encore ?</p>
+
+<hstage><speaker>PANCRACE</speaker></hstage>
+<p>Homme de suffisance, homme de capacité ; <stage>S’en allant.</stage> homme consommé dans toutes les sciences naturelles, morales et politiques ; <stage>Revenant.</stage> homme savant, savantissime, <i>per omnes modos et casus ;</i> <stage>S’en allant.</stage> homme qui possède <i>superlative</i>, fables, mythologies et histoires, <stage>Revenant.</stage> grammaire, poésie, rhétorique, dialectique et sophistique, <stage>S’en allant.</stage> mathématique, arithmétique, optique, onirocritique, physique et mathématique, <stage>Revenant.</stage> cosmométrie, géométrie, architecture, spéculoire et spéculatoire, <stage>S’en allant.</stage> médecine, astronomie, astrologie, physionomie, métoposcopie, chiromancie, géomancie, etc.</p>
+
+<h3 id="sc07">SCÈNE VII. — SGANARELLE, <i>seul</i>.</h3>
+
+<p>Au diable les savants qui ne veulent point écouter les gens ! On me l’avoit bien dit, que son maître Aristote n’étoit rien qu’un bavard. Il faut que j’aille trouver l’autre ; peut-être qu’il sera plus posé et plus raisonnable. Holà !</p>
+
+<h3 id="sc08">SCÈNE VIII. — MARPHURIUS, SGANARELLE</h3>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Que voulez-vous de moi, seigneur Sganarelle ?</p>
+
+<pagenum num="522"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Seigneur docteur, j’aurois besoin de votre conseil sur une petite affaire, dont il s’agit, et je suis venu ici pour cela. <stage>A part.</stage> Ah ! voilà qui va bien. Il écoute le monde, celui-ci.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Seigneur Sganarelle, changez, s’il vous plaît, cette façon de parler. Notre philosophie ordonne de ne point énoncer de proposition décisive, de parler de tout avec incertitude, de suspendre toujours son jugement ; et, par cette raison, vous ne devez pas dire : Je suis venu ; mais : Il me semble que je suis venu.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il me semble ?</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Parbleu ! il faut bien qu’il me semble, puisque cela est.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Ce n’est pas une conséquence ; et il peut vous le sembler, sans que la chose soit véritable.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Comment ! il n’est pas vrai que je suis venu ?</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Cela est incertain, et nous devons douter de tout.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quoi ! je ne suis pas ici, et vous ne me parlez pas ?</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Il m’apparoît que vous êtes là, et il me semble que je vous parle : mais il n’est pas assuré que cela soit.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! que diable ! vous vous moquez. Me voilà, et vous voilà bien nettement, et il n’y a point de <i>me semble</i> à tout cela. Laissons ces subtilités, je vous prie, et parlons de mon affaire. Je viens vous dire que j’ai envie de me marier,</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Je n’en sais rien.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous le dis.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Il se peut faire.</p>
+
+<pagenum num="523"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>La fille que je veux prendre est fort jeune et fort belle.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Il n’est pas impossible.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ferai-je bien ou mal de l’épouser ?</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>L’un ou l’autre.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Ah ! ah ! voici une autre musique. <stage>A Marphurius.</stage> je vous demande si je ferai bien d’épouser la fille dont je vous parle.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Selon la rencontre.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ferai-je mal ?</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Par aventure.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>De grâce, répondez-moi comme il faut.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>C’est mon dessein.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>J’ai une grande inclination pour la fille.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Cela peut être.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Le père me l’a accordée,</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Il se pourroit.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mais, en l’épousant, je crains d’être cocu.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>La chose est faisable.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qu’en pensez-vous ?</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Il n’y a pas d’impossibilité.</p>
+
+<hstage><speaker>SGANARALLE</speaker></hstage>
+<p>Mais que feriez-vous si vous étiez à ma place ?</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Je ne sais.</p>
+
+<pagenum num="524"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Que me conseillez-vous de faire ?</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Ce qu’il vous plaira.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>J’enrage !</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Je m’en lave les mains.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Au diable soit le rêveur !</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Il en sera ce qui pourra.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>La peste du bourreau ! Je te ferai changer de note, chien de philosophe enragé ! <stage>Il donne des coups de bâton à Marphurius.</stage></p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Ah ! ah ! ah !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Te voilà payé de ton galimatias, et me voilà content.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Comment ! Quelle insolence ! M’outrager de la sorte ! Avoir eu l’audace de battre un philosophe comme moi !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Corrigez, s’il vous plaît, cette manière de parler. Il faut douter de toutes choses ; et vous ne devez pas dire que je vous ai battu, mais qu’il vous semble que je vous ai battu.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Ah ! je m’en vais faire ma plainte au commissaire du quartier, des coups que j’ai reçus.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je m’en lave les mains.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>J’en ai les marques sur ma personne.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il se peut faire.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>C’est toi qui m’as traité ainsi.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il n’y a pas d’impossibilité.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>J’aurai un décret contre toi.</p>
+
+<pagenum num="525"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je n’en sais rien.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Et tu seras condamné en justice.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il en sera ce qui pourra.</p>
+
+<hstage><speaker>MARPHURIUS</speaker></hstage>
+<p>Laisse-moi faire.</p>
+
+<h3 id="sc09">SCÈNE IX. — SGANARELLE, <i>seul</i>.</h3>
+
+<p>Comment ! on ne sauroit tirer une parole positive de ce chien d’homme-là, et l’on est aussi savant à la fin qu’au commencement. Que dois-je faire dans l’incertitude des suites de mon mariage ? Jamais homme ne fut plus embarrassé que je suis. Ah ! voici des Égyptiennes ; il faut que je me fasse dire par elles ma bonne aventure.</p>
+
+<h3 id="sc10">SCÈNE X. — DEUX ÉGYPTIENNES, SGANARELLE</h3>
+
+<pstage>Les Égyptiennes avec leurs tambours de basque entrent en chantant et en dansant.</pstage>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Elles sont gaillardes. Écoutez, vous autres, y a-t-il moyen de me dire ma bonne fortune ?</p>
+
+<hstage><speaker>PREMIÈRE ÉGYPTIENNE</speaker></hstage>
+<p>Oui, mon beau monsieur, nous voici deux qui te la dirons.</p>
+
+<hstage><speaker>DEUXIÈME ÉGYPTIENNE</speaker></hstage>
+<p>Tu n’as seulement qu’à nous donner ta main, avec la croix dedans<noteref noteid="note.525.1"/>, et nous te dirons quelque chose pour ton bon profit.</p>
+
+<notes>
+  <note id="note.525.1">
+    <p>C’est-à-dire une pièce <i>à la croix</i>, par allusion à la croix représentée sur certaines pièces de monnaie. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tenez, les voilà, toutes deux avec ce que vous demandez.</p>
+
+<hstage><speaker>PREMIÈRE ÉGYPTIENNE</speaker></hstage>
+<p>Tu as une bonne physionomie, mon bon monsieur, une bonne physionomie.</p>
+
+<hstage><speaker>DEUXIÈME ÉGYPTIENNE</speaker></hstage>
+<p>Oui, une bonne physionomie ; physionomie d’un homme qui sera un jour quelque chose.</p>
+
+<hstage><speaker>PREMIÈRE ÉGYPTIENNE</speaker></hstage>
+<p>Tu seras marié avant qu’il soit peu, mon bon monsieur, tu seras marié avant qu’il soit peu.</p>
+
+<pagenum num="526"/>
+
+<hstage><speaker>DEUXIÈME ÉGYPTIENNE</speaker></hstage>
+<p>Tu épouseras une femme gentille, une femme gentille.</p>
+
+<hstage><speaker>PREMIÈRE ÉGYPTIENNE</speaker></hstage>
+<p>Oui, une femme qui sera chérie et aimée de tout le monde.</p>
+
+<hstage><speaker>DEUXIÈME ÉGYPTIENNE</speaker></hstage>
+<p>Une femme qui te fera beaucoup d’amis, mon bon monsieur, qui te fera beaucoup d’amis.</p>
+
+<hstage><speaker>PREMIÈRE ÉGYPTIENNE</speaker></hstage>
+<p>Une femme qui fera venir l’abondance chez toi.</p>
+
+<hstage><speaker>DEUXIÈME ÉGYPTIENNE</speaker></hstage>
+<p>Une femme qui te donnera une grande réputation.</p>
+
+<hstage><speaker>PREMIÈRE ÉGYPTIENNE</speaker></hstage>
+<p>Tu seras considéré par elle, mon bon monsieur, tu seras considéré par elle.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Voilà qui est bien. Mais dites-moi un peu : suis-je menacé d’être cocu ?</p>
+
+<hstage><speaker>DEUXIÈME ÉGYPTIENNE</speaker></hstage>
+<p>Cocu ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>PREMIÈRE ÉGYPTIENNE</speaker></hstage>
+<p>Cocu ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui, si je suis menacé d’être cocu ? <stage>Les deux Égyptiennes dansent et chantent.</stage> Que diable ! ce n’est pas là me répondre ! Venez çà. Je vous demande à toutes deux si je serai cocu ?</p>
+
+<hstage><speaker>DEUXIÈME ÉGYPTIENNE</speaker></hstage>
+<p>Cocu ? vous ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui, si je serai cocu ?</p>
+
+<hstage><speaker>PREMIÈRE ÉGYPTIENNE</speaker></hstage>
+<p>Vous ? cocu ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui, si je le serai, ou non. <stage>Les deux Égyptiennes sortent en chantant et en dansant.</stage></p>
+
+<h3 id="sc11">SCÈNE XI. — SGANARELLE, <i>seul</i>.</h3>
+
+<p>Peste soit des carognes qui me laissent dans l’inquiétude ! Il faut absolument que je sache la destinée de mon mariage ; et pour cela je veux aller trouver ce grand magicien dont tout <pagenum num="527"/>le monde parle tant, et qui, par son art admirable, fait voir tout ce que l’on souhaite. Ma foi, je crois que je n’ai que faire d’aller au magicien, et voici qui me montre tout ce que je puis demander.</p>
+
+<h3 id="sc12">SCÈNE XII. — DORIMÈNE, LYCASTE ; SGANARELLE <i>retiré dans un coin du théâtre sans être vu</i>.</h3>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<p>Quoi ! belle Dorimène, c’est sans raillerie que vous parlez ?</p>
+
+<hstage><speaker>DORIMÈNE</speaker></hstage>
+<p>Sans raillerie.</p>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<p>Vous vous mariez tout de bon ?</p>
+
+<hstage><speaker>DORIMÈNE</speaker></hstage>
+<p>Tout de bon.</p>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<p>Et vos noces se feront dès ce soir ?</p>
+
+<hstage><speaker>DORIMÈNE</speaker></hstage>
+<p>Dès ce soir.</p>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<p>Et vous pouvez, cruelle que vous êtes, oublier de la sorte l’amour que j’ai pour vous, et les obligeantes paroles que vous m’aviez données ?</p>
+
+<hstage><speaker>DORIMÈNE</speaker></hstage>
+<p>Moi ? point du tout. Je vous considère toujours de même, et ce mariage ne doit point vous inquiéter : c’est un homme que je n’épouse point par amour, et sa seule richesse me fait résoudre à l’accepter. Je n’ai point de bien, vous n’en avez point aussi, et vous savez que sans cela on passe mal le temps au monde, et qu’à quelque prix que ce soit il faut tâcher d’en avoir. J’ai embrassé cette occasion-ci de me mettre à mon aise ; et je l’ai fait sur l’espérance de me voir bientôt délivrée du barbon que je prends. C’est un homme qui mourra avant qu’il soit peu, et qui n’a tout au plus que six mois dans le ventre. Je vous le garantis défunt dans le temps que je dis ; et je n’aurai pas longuement à demander pour moi au ciel l’heureux état de veuve. <stage>A Sganarelle, qu’elle aperçoit.</stage> Ah ! nous parlions de vous, et nous en disions tout le bien qu’on en sauroit dire.</p>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<p>Est-ce là monsieur...</p>
+
+<pagenum num="528"/>
+
+<hstage><speaker>DORIMÈNE</speaker></hstage>
+<p>Oui, c’est monsieur qui me prend pour femme.</p>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<p>Agréez, monsieur, que je vous félicite de votre mariage, et vous présente en même temps mes très humbles services. Je vous assure que vous épousez là une très honnête personne : et vous, mademoiselle, je me réjouis avec vous aussi de l’heureux choix que vous avez fait. Vous ne pouviez pas mieux trouver, et monsieur a toute la mine d’être un fort bon mari. Oui, monsieur, je veux faire amitié avec vous, et lier ensemble un petit commerce de visites et de divertissements.</p>
+
+<hstage><speaker>DORIMÈNE</speaker></hstage>
+<p>C’est trop d’honneur que vous nous faites à tous deux. Mais allons, le temps me presse, et nous aurons tout le loisir de nous entretenir ensemble.</p>
+
+<h3 id="sc13">SCÈNE XIII. — SGANARELLE, <i>seul</i>.</h3>
+
+<p>Me voilà tout à fait dégoûté de mon mariage ; et je crois que je ne ferai pas mal de m’aller dégager de ma parole. Il m’en a coûté quelque argent ; mais il vaut encore mieux perdre cela que de m’exposer à quelque chose de pis. Tâchons adroitement de nous débarrasser de cette affaire. Holà ! <stage>Il frappe à la porte de la maison d’Alcantor.</stage></p>
+
+<h3 id="sc14">SCÈNE XIV. — ALCANTOR, SGANARELLE</h3>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Ah ! mon gendre, soyez le bienvenu !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, votre serviteur.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Vous venez pour conclure le mariage ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Excusez-moi.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Je vous promets que j’en ai autant d’impatience que vous.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je viens ici pour autre sujet.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>J’ai donné ordre à toutes les choses nécessaires pour cette fête.</p>
+
+<pagenum num="529"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il n’est pas question de cela.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Les violons sont retenus, le festin est commandé, et ma fille est parée pour vous recevoir.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ce n’est pas ce qui m’amène.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Enfin, vous allez être satisfait ; et rien ne peut retarder votre contentement.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mon Dieu ! c’est autre chose.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Allons, entrez donc, mon gendre.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>J’ai un petit mot à vous dire.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Ah ! mon Dieu, ne faisons point de cérémonie ! Entrez vite, s’il vous plaît.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, vous dis-je, je vous veux parler auparavant.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Vous voulez me dire quelque chose ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Et quoi ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Seigneur Alcantor, j’ai demandé votre fille en mariage, il est vrai, et vous me l’avez accordée ; mais je me trouve un peu avancé en âge pour elle, et je considère que je ne suis point du tout son fait.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Pardonnez-moi, ma fille vous trouve bien comme vous êtes ; et je suis sûr qu’elle vivra fort contente avec vous.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Point. J’ai parfois des bizarreries épouvantables, et elle auroit trop à souffrir de ma mauvaise humeur.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Ma fille a de la complaisance, et vous verrez qu’elle s’accommodera entièrement à vous.</p>
+
+<pagenum num="530"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>J’ai quelques infirmités sur mon corps qui pourraient la dégoûter.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Cela n’est rien. Une honnête femme ne se dégoûte jamais de son mari.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Enfin, voulez-vous que je vous dise ? je ne vous conseille pas de me la donner.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Vous moquez-vous ? J’aimerois mieux mourir que d’avoir manqué à ma parole.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mon Dieu ! Je vous en dispense, et je...</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Point du tout. Je vous l’ai promise, et vous l’aurez en dépit de tous ceux qui y prétendent.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Que diable !</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Voyez-vous, j’ai une estime et une amitié pour vous toute particulière ; et je refuserois ma fille à un prince pour vous la donner.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Seigneur Alcantor, je vous suis obligé de l’honneur que vous me faites ; mais je vous déclare que je ne me veux point marier.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Qui, vous ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui, moi.</p>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Et la raison ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>La raison ? C’est que je ne me sens point propre pour le mariage, et que je veux imiter mon père, et tous ceux de ma race, qui ne se sont jamais voulu marier<noteref noteid="note.530.1"/>.</p>
+
+<notes>
+  <note id="note.530.1">
+    <p>Ménage prétend que Molière a imité cet endroit d’une épigramme de Malleville :</p>
+    <blockquote>
+      <poem>
+        <l>Mais sais-tu ce que tu dois faire</l>
+        <l>Pour mettre ton esprit en paix ?</l>
+        <l>Résous-toi d’imiter ton père :</l>
+        <l>Tu ne te marieras jamais.</l>
+      </poem>
+    </blockquote>
+  </note>
+</notes>
+
+<pagenum num="531"/>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Écoutez. Les volontés sont libres ; et je suis homme à ne contraindre jamais personne. Vous vous êtes engagé avec moi pour épouser ma fille, et tout est préparé pour cela ; mais, puisque vous voulez retirer votre parole, je vais voir ce qu’il y a à faire ; et vous aurez bientôt de mes nouvelles.</p>
+
+<h3 id="sc15">SCÈNE XV. — SGANARELLE, <i>seul</i></h3>
+
+<p>Encore est-il plus raisonnable que je ne pensois, et je croyois avoir bien plus de peine à m’en dégager. Ma foi, quand j’y songe, j’ai fait fort sagement de me tirer de cette affaire, et j’allois faire un pas dont je me serois peut-être longtemps repenti. Mais voici le fils qui me vient rendre réponse.</p>
+
+<h3 id="sc16">SCÈNE XVI. — ALCIDAS, SGANARELLE</h3>
+
+<hstage><speaker>ALCIDAS</speaker>, parlant d’un ton doucereux.</hstage>
+<p>Monsieur, je suis votre serviteur très humble.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, je suis le vôtre de tout mon cœur.</p>
+
+<hstage><speaker>ALCIDAS</speaker>, toujours avec le même ton.</hstage>
+<p>Mon père m’a dit, monsieur, que vous vous étiez venu dégager de la parole que vous aviez donnée.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui, monsieur ; c’est avec regret, mais...</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Oh ! monsieur, il n’y pas de mal à cela.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>J’en suis fâché, je vous assure ; et je souhaiterois...</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Cela n’est rien, vous dis-je. <stage>Alcidas présente à Sganarelle deux épées.</stage> Monsieur, prenez la peine de choisir, de ces deux épées, laquelle vous voulez.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>De ces deux épées ?</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Oui, s’il vous plaît.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>A quoi bon ?</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Monsieur, comme vous refusez d’épouser ma sœur après la <pagenum num="532"/>parole donnée, je crois que vous ne trouverez pas mauvais le petit compliment que je viens vous faire.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>D’autres gens feroient du bruit, et s’emporteroient contre vous ; mais nous sommes personnes à traiter les choses dans la douceur ; et je viens vous dire civilement qu’il faut, si vous le trouvez bon, que nous nous coupions la gorge ensemble.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Voilà un compliment fort mal tourné.</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Allons, monsieur, choisissez, je vous prie.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je suis votre valet, je n’ai point de gorge à couper. <stage>A part.</stage> La vilaine façon de parler que voilà !</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Monsieur, il faut que cela soit, s’il vous plaît.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! monsieur, rengainez ce compliment, je vous prie.</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Dépêchons vite, monsieur. J’ai une petite affaire qui m’attend.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je ne veux point de cela, vous dis-je.</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Vous ne voulez pas vous battre ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Nenni, ma foi.</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Tout de bon ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tout de bon.</p>
+
+<hstage><speaker>ALCIDAS</speaker>, après lui avoir donné des coups de bâton.</hstage>
+<p>Au moins, monsieur, vous n’avez pas lieu de vous plaindre ; vous voyez que je fais les choses dans l’ordre. Vous nous manquez de parole, je me veux battre contre vous ; vous refusez de vous battre, je vous donne des coups de bâton ; tout cela est dans les formes ; et vous êtes trop honnête homme pour ne pas approuver mon procédé.</p>
+
+<pagenum num="533"/>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Quel diable d’homme est-ce ci ?</p>
+
+<hstage><speaker>ALCIDAS</speaker>, lui présente encore les deux épées.</hstage>
+<p>Allons, monsieur, faites les choses galamment, et sans vous faire tirer l’oreille.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Encore ?</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Monsieur, je ne contrains personne ; mais il faut que vous vous battiez, ou que vous épousiez ma sœur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, je ne puis faire ni l’un ni l’autre, je vous assure.</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Assurément ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Assurément.</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Avec votre permission donc... <stage>Alcidas lui donne encore des coups de bâton.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! ah ! ah !</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Monsieur, j’ai tous les regrets du monde d’être obligé d’en user ainsi avec vous ; mais je ne cesserai point, s’il vous plaît, que vous n’ayez promis de vous battre, ou d’épouser ma sœur. <stage>Alcidas lève le bâton.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh bien, j’épouserai, j’épouserai.</p>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Ah ! monsieur, je suis ravi que vous vous mettiez à la raison, et que les choses se passent doucement. Car enfin vous êtes l’homme du monde que j’estime le plus, je vous jure ; et j’aurois été au désespoir que vous m’eussiez contraint à vous maltraiter. Je vais appeler mon père, pour lui dire que tout est d’accord. <stage>Il va frapper à la porte d’Alcantor.</stage></p>
+
+<h3 id="sc17">SCÈNE XVII. — ALCANTOR, DORIMÈNE, ALCIDAS, SGANARELLE</h3>
+
+<hstage><speaker>ALCIDAS</speaker></hstage>
+<p>Mon père, voilà monsieur qui est tout à fait raisonnable. Il a voulu faire les choses de bonne grâce, et vous pouvez lui donner ma sœur.</p>
+
+<pagenum num="534"/>
+
+<hstage><speaker>ALCANTOR</speaker></hstage>
+<p>Monsieur, voilà sa main ; vous n’avez qu’à donner la vôtre. Loué soit le ciel ! m’en voilà déchargé, et c’est vous désormais que regarde le soin de sa conduite. Allons nous réjouir, et célébrer cet heureux mariage<noteref noteid="note.534.1"/>.</p>
+
+
+<notes>
+  <note id="note.534.1">
+    <p>Dénouement bien simple, mais excellent dans son genre. Le pauvre Sganarelle ne dit mot et c’est ce qu’il a de mieux à faire. <i>Célébrer cet heurewc mariage</i> est un trait des plus comiques.</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h1 id="ballet">LE MARIAGE FORCÉ<noteref noteid="note.534.2"/></h1>
+<h2>BALLET DU ROI</h2>
+
+<h2><s>DANSÉ PAR SA MAJESTÉ LE 29<sup>e</sup> JOUR DE JANVIER 1664</s></h2>
+
+<notes>
+  <note id="note.534.2">
+    <p>Lorsque Molière fit représenter le <i>Mariage forcé</i> sur le théâtre du Palais-Royal, il supprima les récits et les entrées de ballet et réduisit sa pièce en un acte. Nous rétablissons ici tous les morceaux supprimés.</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h3>PERSONNAGES</h3>
+
+<p class="sommaire">SGANARELLE.</p>
+<p class="sommaire">GÉRONIMO.</p>
+<p class="sommaire">DORIMÈNE.</p>
+<p class="sommaire">ALCANTOR.</p>
+<p class="sommaire">LYCANTE.</p>
+<p class="sommaire">P<s>REMIÈRE</s> B<s>OHÉMIENNE</s>.</p>
+<p class="sommaire">S<s>ECONDE</s> B<s>OHÉMIENNE</s>.</p>
+<p class="sommaire">P<s>REMIER</s> D<s>OCTEUR</s>.</p>
+<p class="sommaire">S<s>ECOND</s> D<s>OCTEUR</s>.</p>
+
+<vsep class="rule"/>
+
+<h3>ARGUMENT</h3>
+
+<p>Comme il n’y a rien au monde qui soit si commun que le mariage, et que c’est une chose sur laquelle les hommes ordinairement se tournent le plus en ridicule, il n’est pas merveilleux que ce soit toujours la matière de la plupart des comédies aussi bien que des ballets, qui sont des comédies muettes ; et c’est par là qu’on a pris l’idée de cette comédie-mascarade.</p>
+
+<vsep class="rule"/>
+
+<h2>ACTE PREMIER</h2>
+
+<h3>SCÈNE I</h3>
+
+<p>Sganarelle demande conseil au seigneur Géronimo s’il se doit marier ou non : cet ami lui dit franchement que le mariage n’est guère le fait d’un homme de cinquante ans ; <pagenum num="535"/>mais Sganarelle lui répond qu’il est résolu au mariage ; et l’autre, voyant cette extravagance de demander conseil après une résolution prise, lui conseille hautement de se marier, et le quitte en riant.</p>
+
+<h3>SCÈNE II</h3>
+
+<p>La maîtresse de Sganarelle arrive, qui lui dit qu’elle est ravie de se marier avec lui, pour pouvoir sortir promptement de la sujétion de son père et avoir désormais toutes ses coudées franches ; et là-dessus elle lui conte la manière dont elle prétend vivre avec lui, qui sera proprement la naïve peinture d’une coquette achevée. Sganarelle reste seul, assez étonné ; il se plaint, après ce discours, d’une pesanteur de tête épouvantable ; et, se mettant en un coin du théâtre pour dormir, il voit en songe une femme représentée par mademoiselle Hi-laire, qui chante ce récit :</p>
+
+<h3>RÉCIT DE LA BEAUTÉ.</h3>
+
+<blockquote>
+<poem>
+<lg>
+<l>Si l’amour vous soumet à ses lois inhumaines,</l>
+<l>Choisissez, en aimant, un objet plein d’appas :</l>
+<l>Portez au moins de belles chaînes ;</l>
+<l>Et, puisqu’il faut mourir, mourez d’un beau trépas.</l>
+</lg>
+<lg>
+<l>Si l’objet de vos feux ne mérite vos peines,</l>
+<l>Sous l’empire d’Amour ne vous engagez pas :</l>
+<l>Portez-au moins de belles chaînes ;</l>
+<l>Et, puisqu’il faut mourir, mourez d’un beau trépas.</l>
+</lg>
+</poem>
+</blockquote>
+
+
+<h3>PREMIÈRE ENTRÉE</h3>
+<h3>LA JALOUSIE, LES CHAGRINS et LES SOUPÇONS</h3>
+
+<p>La Jalousie, le sieur Dolive.</p>
+<p>Les Chagrins, les sieurs Saint-André et Desbrosses.</p>
+<p>Les Soupçons, les sieurs de Lorge et le Chantre.</p>
+
+<h3>SECONDE ENTRÉE</h3>
+<h3>QUATRE PLAISANTS, ou GOGUENARDS</h3>
+<p>Le comte d’Armagnac, MM. d’Heureux, Beauchamp et Des-Airs le jeune.</p>
+
+<vsep class="rule"/>
+
+<h2>ACTE SECOND</h2>
+
+<h3>SCÈNE I</h3>
+
+<p>Le seigneur Géronimo éveille Sganarelle, qui lui veut conter <pagenum num="536"/>le songe qu’il vient de faire ; mais il lui répond qu’il n’entend rien aux songes, et que, sur le sujet du mariage, il peut consulter deux savants qui sont connus de lui, dont l’un suit la philosophie d’Aristote, et l’autre est pyrrhonien.</p>
+
+<h3>SCÈNE II</h3>
+
+<p>Il trouve le premier, qui l’étourdit de son caquet, et ne le laisse point parler ; ce qui l’oblige à le maltraiter.</p>
+
+<h3>SCÈNE III.</h3>
+
+<p>Ensuite il rencontre l’autre, qui ne lui répond, suivant sa doctrine, qu’en termes qui ne décident rien ; il le chasse avec colère, et là-dessus arrivent deux Égyptiens et quatre Égyptiennes.</p>
+
+<h3>TROISIÈME ENTRÉE</h3>
+
+<h3>DEUX ÉGYPTIENS, QUATRE ÉGYPTIENNES</h3>
+
+<p>D<s>EUX</s> É<s>GYPTIENS</s>, le ROI, le marquis de Villeroy.</p>
+<p>É<s>GYPTIENNES</s>, le marquis de Rassan, les sieurs Raynal, Noblet et la Pierre.</p>
+
+<p>Il prend fantaisie à Sganarelle de se faire dire sa bonne aventure, et, rencontrant deux bohémiennes, il leur demande s’il sera heureux en son mariage ; pour réponse, elles se mettent à danser, en se moquant de lui, ce qui l’oblige d’aller trouver un magicien. ’</p>
+
+<h3>RÉCIT D’UN MAGICIEN</h3>
+<h3><s>CHANTÉ PAR M. DESTIVAL.</s></h3>
+
+<p>Holà !</p>
+<p>Qui va là !</p>
+<p>Dis-moi vite quel souci Te peut amener ici.</p>
+<p><i>Mariage</i><noteref noteid="note.536.1"/></p>
+<p>Ce sont de grands mystères</p>
+<p>Que ces sortes d’affaires.</p>
+<p><i>Destinée</i>.</p>
+<p>Je te vais, pour cela, par mes charmes profonds,</p>
+<p>Faire venir quatre démons.</p>
+<p><i>Ces gens-là</i>.</p>
+<p>Non, non, n’ayez aucune peur.</p>
+<p>Je leur ôterai la laideur.</p>
+<pagenum num="537"/>
+<p><i>N’effrayez pas</i>.</p>
+<p>Des puissances invincibles,</p>
+<p>Rendent depuis longtemps tous les démons muets,</p>
+<p>Mais par signes intelligibles</p>
+<p>Ils répondront à tes souhaits.</p>
+
+<notes>
+  <note id="note.536.1">
+    <p>Il ne reste des demandes de Sganarelle au magicien que ce qu’on appelle, en terms de théâtre, les <i>répliques</i>.</p>
+  </note>
+</notes>
+
+<h3>QUATRIÈME ENTRÉE</h3>
+
+<h3>UN MAGICIEN, qui fait sortir QUATRE DÉMONS</h3>
+
+<p>L<s>E</s> M<s>AGICIEN</s>, M. Beauchamp.</p>
+<p>Q<s>UATRE</s> D<s>ÉMONS</s>, MM. d’Heureux, de Lorge, Des-Airs l’aîné et le Mercier.</p>
+
+<p>Sganarelle les interroge ; ils répondent par signes, et sortent en lui faisant les cornes.</p>
+
+<vsep class="rule"/>
+
+<h2>ACTE TROISIÈME</h2>
+
+<h3>SCÈNE I</h3>
+
+<p>Sganarelle, effrayé de ce présage, veut s’aller dégager au père, qui, ayant ouï la proposition, lui répond qu’il n’a rien à lui dire, et qu’il lui va tout à l’heure envoyer sa réponse.</p>
+
+<h3>SCÈNE II</h3>
+
+<p>Cette réponse est un brave doucereux, son fils, qui vient avec civilité à Sganarelle, et lui fait un petit compliment pour se couper la gorge ensemble. Sganarelle l’ayant refusé, il lui donne quelques coups de bâton, le plus civilement du mondé ; et tes coups de bâton lé portent à demeurer d’accord d’épouser la fille.</p>
+
+<h3>SCÈNE III</h3>
+
+<p>Sganarelle touche les mains à la fille.</p>
+
+<h3>CINQUIÈME ENTRÉE</h3>
+<p>Un maître à danser, représenté par M. Dolivet, qui vient enseigner une courante à Sganarelle.</p>
+
+<h3>SCÈNE IV</h3>
+
+<p>Le seigneur Géronimo vient se réjouir avec son ami, et lui dit que les jeunes gens de la ville ont préparé une mascarade pour honorer ses noces.</p>
+
+<pagenum num="538"/>
+
+<h3>CONCERT ESPAGNOL</h3>
+
+<h3><s>CHANTÉ PAR LA SIGNORA ANNA BERGEROTTI, BORDIGONI, CHIÀRINI, JON AGUSTIN, TAILLAVACA, ANGELO MICHAEL.</s></h3>
+
+<poem>
+<lg>
+<l>Ciego me tienes, Belisa ;</l>
+<l>Mas bien tus rigores veo</l>
+<l>Porque es tu desden tan claro,</l>
+<l>Que pueden verle los ciegos.</l>
+</lg>
+<lg>
+<l>Aunque mi amor es tan grande,</l>
+<l>Como mi dolor no es menos,</l>
+<l>Si calla el uno dormido,</l>
+<l>Sé que ya es el otro despierto.</l>
+</lg>
+<lg>
+<l>Favores tuyos, Belisa,</l>
+<l>Tuvieralos yo secretos ;</l>
+<l>Mas ya de dolores mios</l>
+<l>No puedo hacer lo que quiero<noteref noteid="note.538.1"/> !</l>
+</lg>
+</poem>
+
+<notes>
+  <note id="note.538.1">
+    <p>Voici la traduction de ces couplets :</p>
+
+    <p>« Tu prétends, Bélise, que je suis aveugle, cependant je vois bien tes rigueurs. Ton dédain est si sensible, qu’il ne faut pas d’yeux pour l’apercevoir.</p>
+
+    <p>« Mon amour est bien grand ; mais ma douleur n’est pas moindre. Le sommeil calme celle-ci ; rien ne peut assoupir l’autre.</p>
+  </note>
+</notes>
+
+
+<h3>SIXIÈME ENTRÉE</h3>
+
+<h3>DEUX ESPAGNOLS et DEUX ESPAGNOLES</h3>
+
+<p>MM. du Pille et Tartas, Espagnols.</p>
+<p>MM. de la Lanne et de Saint-André, Espagnoles.</p>
+
+<h3>SEPTIÈME ENTRÉE</h3>
+<h3><s>UN CHARIVARI GROTESQUE.</s></h3>
+
+<p>M. Lulli, les sieurs Balthasard, Vagnac, Bonnard, la Pierre, Descouteaux, et les trois Opterres, frères.</p>
+
+<h3>HUITIÈME ENTRÉE</h3>
+<p>QUATRE GALANTS, cajolant la femme de Sganarelle.</p>
+<p>M. le Duc. M, le duc de Saint-Aignan, MM. Beauchamp et Raynal.</p>
+
+</page-sequence>
+</page-sequences>
+</bml>

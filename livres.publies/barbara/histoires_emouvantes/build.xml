@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_les_jumeaux'/>
+    <book x='02_la_lecon_de_musique'/>
+    <book x='03_vieille_histoire'/>
+    <book x='04_le_rideau'/>
+    <book x='05_extrait_des_rapports'/>
+    <book x='06_une_chanteuse_des_rues'/>
+    <book x='07_heloise'/>
+    <book x='08_les_douleurs_d_un_nom'/>
+    <book x='09_le_billet_de_mille_francs'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='histoires_emouvantes'/>
+  </target>
+
+  <target name='zipsources-book'/>
+
+</project>

@@ -1,0 +1,51 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_le_reliquaire'/>
+    <book x='02_poemes_divers'/>
+    <book x='03_intimites'/>
+<!--
+    <book x='04_poemes_modernes'/>
+-->
+    <book x='05_les_humbles'/>
+<!--
+    <book x='06_le_cahier_rouge'/>
+    <book x='07_olivier'/>
+    <book x='08_les_recits_et_les_elegies'/>
+    <book x='09_contes_en_vers'/>
+-->
+    <book x='10_arriere_saison'/>
+<!--
+    <book x='11_feuilles_volantes'/>
+-->
+    <book x='12_les_paroles_sinceres'/>
+    <book x='13_dans_la_priere_et_dans_la_lutte'/>
+    <book x='14_de_pieces_et_de_morceaux'/>
+<!--
+    <book x='15_des_vers_francais'/>
+-->
+    <book x='16_une_idylle_pendant_le_siege'/>
+    <book x='17_contes_en_prose'/>
+    <book x='18_vingt_contes_nouveaux'/>
+<!--
+    <book x='19_le_critique_en_vacances'/>
+-->
+    <book x='20_gustave_flaubert_declamateur'/>
+<!--
+    <book x='21_contes_rapides'/>
+    <book x='22_henriette'/>
+    <book x='23_tout_une_jeunesse'/>
+    <book x='24_les_vrais_riches'/>
+    <book x='25_longues_et_breves'/>
+-->
+  </target>
+
+  <target name='collections'>
+    <collection x='coppee_oeuvres_completes_lemerre'/>
+  </target>
+
+  <target name='zipsources-book'/>
+</project>

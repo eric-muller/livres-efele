@@ -1,0 +1,4106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5714615q"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000502"
+        creation="2017-05-29T10:28:46-07:00"
+        modification="2017-12-05T21:08:37-08:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>L’Imposteur, ou le Tartuffe</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='25'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+      <merci>
+        <p>Merci à Thomas Berard pour les erreurs qu’il a signalées.</p>
+      </merci>
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="Préface"/>
+    <tocentry idref="p02" label="Premier placet présenté au Roi"/>
+    <tocentry idref="p03" label="Second placet présenté au Roi"/>
+    <tocentry idref="p04" label="Troisième placet présenté au Roi"/>
+    <tocentry idref="p05" label="Personnages"/>
+    <tocentry idref="p06" label="Acte premier">
+      <tocentry idref="p07" label="Scène I"/>
+      <tocentry idref="p08" label="Scène II"/>
+      <tocentry idref="p09" label="Scène III"/>
+      <tocentry idref="p10" label="Scène IV"/>
+      <tocentry idref="p11" label="Scène V"/>
+      <tocentry idref="p12" label="Scène VI"/>
+    </tocentry>
+    <tocentry idref="p13" label="Acte second">
+      <tocentry idref="p14" label="Scène I"/>
+      <tocentry idref="p15" label="Scène II"/>
+      <tocentry idref="p16" label="Scène III"/>
+      <tocentry idref="p17" label="Scène IV"/>
+    </tocentry>
+    <tocentry idref="p18" label="Acte troisième">
+      <tocentry idref="p19" label="Scène I"/>
+      <tocentry idref="p20" label="Scène II"/>
+      <tocentry idref="p21" label="Scène III"/>
+      <tocentry idref="p22" label="Scène IV"/>
+      <tocentry idref="p23" label="Scène V"/>
+      <tocentry idref="p24" label="Scène VI"/>
+      <tocentry idref="p25" label="Scène VII"/>
+    </tocentry>
+    <tocentry idref="p26" label="Acte quatrième">
+      <tocentry idref="p27" label="Scène I"/>
+      <tocentry idref="p28" label="Scène II"/>
+      <tocentry idref="p29" label="Scène III"/>
+      <tocentry idref="p30" label="Scène IV"/>
+      <tocentry idref="p31" label="Scène V"/>
+      <tocentry idref="p32" label="Scène VI"/>
+      <tocentry idref="p33" label="Scène VII"/>
+      <tocentry idref="p34" label="Scène VIII"/>
+    </tocentry>
+    <tocentry idref="p35" label="Acte cinquième">
+      <tocentry idref="p36" label="Scène I"/>
+      <tocentry idref="p37" label="Scène II"/>
+      <tocentry idref="p38" label="Scène III"/>
+      <tocentry idref="p39" label="Scène IV"/>
+      <tocentry idref="p40" label="Scène V"/>
+      <tocentry idref="p41" label="Scène VI"/>
+      <tocentry idref="p42" label="Scène VII"/>
+      <tocentry idref="p43" label="Scène VIII"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_2.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome second. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="307"/>
+
+<img src="images/frise9.png" class="center100" alt="frise"/>
+
+<h1>L’IMPOSTEUR OU LE TARTUFFE</h1>
+
+<h2>COMÉDIE EN CINQ ACTES</h2>
+
+<h2>1667</h2>
+
+<vsep class="rule"/>
+
+<h3 id="p01">PREFACE</h3>
+
+<p>Voici une comédie dont on a fait beaucoup de bruit, qui a été longtemps persécutée, et les gens qu’elle joue ont bien fait voir qu’ils étoient plus puissants en France que tous ceux que j’ai joués jusques ici. Les marquis, les précieuses, les cocus et les médecins, ont souffert doucement qu’on les ait représentés, et ils ont fait semblant de se divertir, avec tout le monde, des peintures que l’on a faites d’eux ; mais les hypocrites n’ont point entendu raillerie ; ils se sont effarouchés d’abord, et ont trouvé étrange que j’eusse la hardiesse de jouer leurs grimaces et de vouloir décrier un métier dont tant d’honnêtes gens se mêlent. C’est un crime qu’ils ne sauroient me pardonner ; et ils se sont tous armés contre ma comédie avec une fureur épouvantable. Ils n’ont eu garde de l’attaquer par le côté qui les a blessés : ils sont trop politiques pour cela, et savent trop bien vivre pour découvrir le fond de leur âme. Suivant leur louable coutume, ils ont couvert leurs intérêts de la cause de Dieu ; et le <i>Tartuffe</i>, dans leur bouche, est une pièce qui offense la piété. Elle est, d’un bout à l’autre, pleine d’abominations, et l’on n’y trouve rien qui ne mérite le feu. Toutes les syllabes en sont impies ; les gestes mêmes y sont criminels ; et le moindre coup d’œil, le moindre branlement de tête, le moindre pas à droite ou à gauche, y cachent des mystères qu’ils trouvent moyen d’expliquer à mon désavantage.</p>
+
+<p>J’ai eu beau la soumettre aux lumières de mes amis, et à la censure de tout le monde ; les corrections que j’y ai pu faire ; le jugement du roi et de la reine, qui l’ont vue ; l’approbation des grands princes et de messieurs les ministres, qui l’ont honorée publiquement de leur présence ; le témoignage des gens de bien, qui l’ont trouvée profitable, tout cela n’a de rien servi. Ils n’en veulent point démordre ; et, tous les jours encore, ils font crier en public des zélés indiscrets, qui me disent des injures pieusement, et me damnent par charité.</p>
+
+<p>Je me soucierois fort peu de tout ce qu’ils peuvent dire, n’étoit l’artifice qu’ils ont de me faire des ennemis que je respecte, et de jeter dans leur parti de véritables gens de bien, dont ils préviennent la bonne foi, et qui, par la chaleur qu’ils ont pour les intérêts du ciel, sont faciles à recevoir les <pagenum num="308"/>impressions qu’on, veut leur donner. Voilà ce qui m’oblige à me défendre. C’est aux vrais dévots que je veux partout me justifier sur la conduite de ma comédie ; et je les conjure, de tout mon cœur, de ne point condamner les choses avant que de les voir, de se défaire de toute prévention, et de ne point servir la passion de ceux dont les grimaces les déshonorent.</p>
+
+<p>Si l’on prend la peine d’examiner de bonne foi ma comédie, on verra sans doute que mes intentions y sont partout innocentes, et qu’elle ne tend nullement à jouer les choses que l’on doit révérer ; que je l’ai traitée avec toutes les précautions que demandoit la délicatesse de la matière ; et que j’ai mis tout l’art et tous les soins qu’il m’a été possible pour bien distinguer le personnage de l’hypocrite d’avec celui du vrai dévot. J’ai employé pour cela deux actes entiers à préparer la venue de mon scélérat. Il ne tient pas un seul moment l’auditeur en balance ; on le connoît d’abord aux marques que je lui donne ; et, d’un bout à l’autre, il ne dit pas un mot, il ne fait pas une action, qui ne peigne aux spectateurs le caractère d’un méchant homme, et ne fasse éclater celui du véritable homme de bien que je lui oppose.</p>
+
+<p>Je sais bien que, pour réponse, ces messieurs tâchent d’insinuer que ce n’est point au théâtre à parler de ces matières ; mais je leur demande, avec leur permission, sur quoi ils fondent cette belle maxime. C’est une proposition qu’ils ne font que supposer, et qu’ils ne prouvent en aucune façon ; et, sans doute, il ne seroit pas difficile de leur faire voir que la comédie, chez les anciens, a pris son origine de la religion, et faisoit partie de leurs mystères ; que les Espagnols, nos voisins, ne célèbrent guère de fêtes où la comédie ne soit mêlée, et que même, parmi nous, elle doit sa naissance aux soins d’une confrérie à qui appartient encore aujourd’hui l’hôtel de Bourgogne ; que c’est un lieu qui fut donné pour y représenter les plus importants mystères de notre foi ; qu’on en voit encore des comédies imprimées en lettres gothiques, sous le nom d’un docteur de Sorbonne et, sans aller chercher si loin que l’on a joué, de notre temps, des pièces saintes de M. de Corneille<noteref noteid="note.308.1"/>, qui ont été l’admiration de toute la France.</p>
+
+<notes>
+  <note id="note.308.1">
+    <p><i>Polyeucte</i> et <i>Théodore, vierge et martyre.</i></p>
+  </note>
+</notes>
+
+<p>Si l’emploi de la comédie est de corriger les vices des hommes, je ne vois pas par quelle raison il y en aura de privilégiés. Celui-ci est, dans l’État, d’une conséquence bien plus dangereuse que tous les autres ; et nous avons vu que le théâtre a une grande vertu pour la correction. Les plus beaux traits d’une sérieuse morale sont moins puissants, le plus souvent, que ceux de la satire ; et rien ne reprend mieux la plupart des hommes que la peinture de leurs défauts. C’est une grande atteinte aux vices, que de les exposer à la risée de tout le monde. On souffre aisément des répréhensions ; mais on ne souffre point la raillerie. On veut bien être méchant ; mais on ne veut point être ridicule.</p>
+
+<p>On me reproche d’avoir mis des termes de piété dans la bouche de mon imposteur Eh ! pouvois-je m’en empêcher, pour bien représenter le caractère d’un hypocrite ? Il suffit, ce me semble, que je fasse connoître les motifs criminels qui lui font dire les choses, et que j’en aie retranché les termes consacrés, dont on auroit eu peine à lui entendre faire un mauvais usage — Mais il débite au quatrième acte une morale pernicieuse. — Mais cette morale est-elle quelque chose dont tout le monde n’eût les oreilles rebattues ? Dit-elle rien de nouveau dans ma comédie ? Et peut-on craindre que des choses si généralement détestées fassent quelque impression dans les esprits ; que je les rende dangereuses en les faisant monter sur le théâtre ; qu’elles reçoivent quelque autorité de la bouche d’un scélérat ? Il n’y a nulle apparence à cela ; et l’on doit approuver la comédie du <i>Tartuffe,</i> ou condamner généralement toutes les comédies.</p>
+
+<pagenum num="309"/>
+
+<p>C’est à quoi l’on s’attache furieusement depuis un temps ; et jamais on ne s’étoit si fort déchaîné contre le théâtre. Je ne puis pas nier qu’il n’y ait eu des Pères de l’Église qui ont condamné la comédie ; mais on ne peut pas me nier aussi qu’il n’y en ait eu quelques-uns qui l’ont traitée un peu plus doucement. Ainsi l’autorité dont on prétend appuyer la censure est détruite par ce partage : et toute la conséquence qu’on peut tirer de cette diversité d’opinions en des esprits éclairés des mêmes lumières, c’est qu’ils ont pris la comédie différemment, et que les uns l’ont considérée dans sa pureté, lorsque les autres l’ont regardée dans sa corruption, et confondue avec tous ces vilains spectacles qu’on a eu raison de nommer des spectacles de turpitude.</p>
+
+<p>Et, en effet, puisqu’on doit discourir des choses et non pas des mots, et que la plupart des contrariétés viennent de ne pas entendre et d’envelopper dans un même mot des choses opposées, il ne faut qu’ôter le voile de l’équivoque, et regarder ce qu’est la comédie en soi, pour voir si elle est condamnable. On connoîtra, sans doute, que, n’étant autre chose qu’un poème ingénieux, qui, par des leçons agréables, reprend les défauts des hommes, on ne sauroit la censurer sans injustice ; et, si nous voulons ouïr là-dessus le témoignage de l’antiquité, elle nous dira que ses plus célèbres philosophes ont donné des louanges à la comédie, eux qui faisoient profession d’une sagesse si austère, et qui crioient sans cesse après les vices de leur siècle. Elle nous fera voir qu’Aristote a consacré des veilles au théâtre, et s’est donné le soin de réduire en préceptes l’art de faire des comédies. Elle nous apprendra que ses plus grands hommes, et des premiers en dignité, ont fait gloire d’en composer eux-mêmes, qu’il y en a eu d’autres qui n’ont pas dédaigné de réciter en public celles qu’ils avoient composées ; que la Grèce a fait pour cet art éclater son estime par les prix glorieux et par les superbes théâtres dont elle a voulu l’honorer ; et que, dans Rome enfin, ce même art a reçu aussi des honneurs extraordinaires : je ne dis pas dans Rome débauchée, et sous la licence des empereurs, mais dans Rome disciplinée, sous la sagesse des consuls, et dans le temps de la vigueur de la vertu romaine.</p>
+
+<p>J’avoue qu’il y a eu des temps où la comédie s’est corrompue. Et qu’est-ce que dans le monde on ne corrompt point tous les jours ? Il n’y a chose si innocente où les hommes ne puissent porter du crime ; point d’art si salutaire dont ils ne soient capables de renverser les intentions ; rien de si bon en soi qu’ils ne puissent tourner à de mauvais usages. La médecine est un art profitable, et chacun la révère comme une des plus excellentes choses que nous ayons ; et cependant il y a eu des temps où elle s’est rendue odieuse, et souvent on en a fait un art d’empoisonner les hommes. La philosophie est un présent du ciel ; elle nous a été donnée pour porter nos esprits à la connoissance d’un Dieu par la contemplation des merveilles de la nature ; et pourtant on n’ignore pas que souvent on l’a détournée de son emploi, et qu’on l’a occupée publiquement à soutenir l’impiété. Les choses mêmes les plus saintes ne sont point à couvert de la corruption des hommes ; et nous voyons des scélérats qui, tous les jours, abusent de la piété et la font servir méchamment aux crimes les plus grands. Mais on ne laisse pas pour cela de faire les distinctions qu’il est besoin de faire. On n’enveloppe point dans une fausse conséquence la bonté des choses que l’on corrompt, avec la malice des corrupteurs. On sépare toujours le mauvais usage d’avec l’intention de l’art ; et, comme on ne s’avise point de défendre la médecine pour avoit été bannie de Rome, ni la philosophie pour avoir été condamnée publiquement dans Athènes, on ne doit point aussi vouloir interdire la comédie pour avoir été censurée en de certains temps. Cette censure a eu ses raisons, qui ne subsistent point ici. Elle <pagenum num="310"/>s’est renfermée dans ce qu’elle a pu voir ; et nous ne devons point la tirer des bornes qu’elle s’est données, l’étendre plus loin qu’il ne faut, et lui faire embrasser l’innocent avec le coupable. La comédie qu’elle a eu dessein d’attaquer n’est point du tout la comédie que nous voulons défendre. Il se faut bien garder de confondre celle-là avec celle-ci. Ce sont deux personnes de qui les mœurs sont tout à fait opposées. Elle n’ont aucun rapport l’une avec l’autre que la ressemblance du nom ; et ce seroit une injustice épouvantable que de vouloir condamner Olympe, qui est femme de bien, parce qu’il y a une Olympe qui a été une débauchée. De semblables arrêts, sans doute, feroient un grand désordre dans le monde. Il n’y auroit rien par là qui ne fût condamné ; et, puisque l’on ne garde point cette rigueur à tant de choses dont on abuse tous les jours, on doit bien faire la même grâce à la comédie, et approuver les pièces de théâtre où l’on verra régner l’instruction et l’honnêteté.</p>
+
+<p>Je sais qu’il y a des esprits dont la délicatesse ne peut souffrir aucune comédie ; qui disent que les plus honnêtes sont les plus dangereuses ; que les passions que l’on y dépeint sont d’autant plus touchantes qu’elles sont pleines de vertu, et que les âmes sont attendries par ces sortes de représentations. Je ne vois pas quel grand crime c’est que de s’attendrir à la vue d’une passion honnête ; et c’est un haut étage de vertu que cette pleine insensibilité où ils veulent faire monter notre âme. Je doute qu’une si grande perfection soit dans les forces de la nature humaine ; et je ne sais s’il n’est pas mieux de travailler à rectifier et adoucir les passions des hommes que de vouloir les retrancher entièrement. J’avoue qu’il y a des lieux qu’il vaut mieux fréquenter que le théâtre ; et, si l’on veut blâmer toutes les choses qui ne regardent pas directement Dieu et notre salut, il est certain que la comédie en doit être, et je ne trouve point mauvais qu’elle soit condamnée avec le reste ; mais, supposé, comme il est vrai, que les exercices de la piété souffrent des intervalles et que les hommes aient besoin de divertissement, je soutiens qu’on ne leur en peut trouver un qui soit plus innocent que la comédie. Je me suis étendu trop loin. Finissons par un mot d’un grand prince<noteref noteid="note.310.1"/> sur la comédie du <i>Tartuffe.</i></p>
+
+<notes>
+  <note id="note.310.1">
+    <p>Le grand Condé.</p>
+  </note>
+</notes>
+
+<p>Huit jours après qu’elle eut été défendue, on représenta devant la cour une pièce intitulée <i>Scaramouche ermite ;</i> et le roi, en sortant, dit au grand prince que je veux dire : « Je voudrois bien savoir pourquoi les gens qui se scandalisent si fort de la comédie de Molière ne disent mot de celle de <i>Scaramouche</i> » ; à quoi le prince répondit : « La raison de cela, c’est que la comédie de <i>Scaramouche</i> joue le ciel et la religion, dont ces messieurs-là ne se soucient point ; mais celle de Molière les joue eux-mêmes ; c’est ce qu’ils ne peuvent souffrir ».</p>
+
+<vsep class="rule"/>
+
+<h3 id="p02">PREMIER PLACET PRÉSENTÉ AU ROI</h3>
+
+<h3>Sur la comédie du <i>Tartuffe,</i> qui n’avoit pas encore été représentée en public<noteref noteid="note.310.2"/> »</h3>
+
+<notes>
+  <note id="note.310.2">
+    <p>On ne sait de quelle date est ce premier placet.</p>
+  </note>
+</notes>
+
+<salutation>S<s>IRE</s>,</salutation>
+
+<p>Le devoir de la comédie étant de corriger les hommes en les divertissant, j’ai cru que, dans l’emploi où je me trouve<noteref noteid="note.310.3"/>, je n’avois rien de mieux <pagenum num="311"/>à faire que d’attaquer par des peintures ridicules les vices de mon siècle ; et, comme l’hypocrisie, sans doute, en est un des plus en usage, des plus incommodes et des plus dangereux, j’avois eu, S<s>IRE</s>, la pensée que je ne rendrais pas un petit service à tous les honnêtes gens de votre royaume, si je faisois une comédie qui décriât les hypocrites, et mit en vue, comme il faut, toutes les grimaces étudiées de ces gens de bien à outrance, toutes les friponneries couvertes de ces faux monnoyeurs en dévotion, qui veulent attraper les hommes avec un zèle contrefait et une charité sophistiquée.</p>
+
+<notes>
+  <note id="note.310.3">
+    <p>Cet emploi est celui de chef de la troupe du roi.</p>
+  </note>
+</notes>
+
+<p>Je l’ai faite, S<s>IRE</s>, cette comédie, avec tout le soin, comme je crois, et toutes les circonspections que pouvoit demander la délicatesse de la matière ; et, pour mieux conserver l’estime et le respect qu’on doit aux vrais dévots, j’en ai distingué le plus que j’ai pu le caractère que j’avois à toucher. Je n’ai point laissé d’équivoque, j’ai ôté ce qui pouvoit confondre le bien avec le mal, et ne me suis servi dans cette peinture que des couleurs expresses et des traits essentiels qui font reconnoître d’abord un véritable et franc hypocrite.</p>
+
+<p>Cependant toutes mes précautions ont été inutiles. On a profité, S<s>IRE</s>, de la délicatesse de votre âme sur les matières de religion, et l’on a su vous prendre par l’endroit seul que vous êtes prenable, je veux dire par le respect des choses saintes. Les tartuffes, sous main, ont eu l’adresse de trouver grâce auprès de V<s>OTRE</s> M<s>AJESTÉ</s> ; et les originaux enfin ont fait supprimer la copie, quelque innocente qu’elle fût, et quelque ressemblante qu’on la trouvât.</p>
+
+<p>Bien que ce m’eût été un coup sensible que la suppression de cet ouvrage, mon malheur pourtant étoit adouci, par la manière dont V<s>OTRE</s> M<s>AJESTÉ</s> s’étoit expliquée sur ce sujet ; et j’ai cru, S<s>IRE</s>, qu’elle m’ôtoit tout lieu de me plaindre, ayant eu la bonté de déclarer qu’elle ne trouvoit rien à dire dans cette comédie qu’elle me défendoit de produire en public.</p>
+
+<p>Mais, malgré cette glorieuse déclaration du plus grand roi du monde et du plus éclairé, malgré l’approbation encore de M. le légat, et de la plus grande partie de nos prélats, qui tous, dans les lectures particulières que je leur ai faites de mon ouvrage se sont trouvés d’accord avec les sentiments de V<s>OTRE</s> M<s>AJESTÉ</s> ; malgré tout cela, dis-je, on voit un livre composé par le curé de...<noteref noteid="note.311.1"/>, qui donne hautement un démenti à tous ces augustes témoignages. V<s>OTRE</s> M<s>AJESTÉ</s> a beau dire, et M. le légat et MM. les prélats ont beau donner leur jugement, ma comédie, sans l’avoir vue est diabolique, et diabolique mon cerveau ; je suis un démon vêtu de chair et habillé en homme, un libertin, un impie digne d’un supplice exemplaire. Ce n’est pas assez que le feu expie en public mon offense, j’en serois quitte à trop bon marché ; le zèle charitable de ce galant homme de bien n’a garde de demeurer là ; il ne veut point que j’aie de miséricorde auprès de Dieu ; il veut absolument que je sois damné, c’est une affaire résolue.</p>
+
+<notes>
+  <note id="note.311.1">
+    <p>Le curé de Saint-Barthélemy, auteur du libelle intitulé le <i>Roi glorieux du monde. Contre la comédie de l’<r>Hypocrite</r> que Molière a faite et que Sa Majesté lui a défendu de représenter.</i> (Ch. Louandre.)</p>
+  </note>
+</notes>
+
+<p>Ce livre, S<s>IRE</s>, a été présenté à V<s>OTRE</s> M<s>AJESTÉ</s> ; et, sans doute, elle juge bien elle-même combien il m’est fâcheux de me voir exposé tous les jours aux insultes de ces messieurs ; quel tort me feront dans le monde de telles calomnies, s’il faut qu’elles soient tolérées ; et quel intérêt j’ai enfin à me purger de son imposture, et à faire voir au public que ma comédie n’est rien moins que ce qu’on veut qu’elle soit. Je ne dirai point, S<s>IRE</s>, ce que j’aurais à demander pour ma réputation et pour justifier à tout le monde l’innocence de mon ouvrage : les rois éclairés comme vous n’ont pas besoin <pagenum num="312"/>qu’on leur marque ce qu’on souhaite ; ils voient, comme Dieu, ce qu’il nous faut, et savent mieux que nous ce qu’ils nous doivent accorder. Il me suffit de mettre mes intérêts entre les mains de Votre Majesté ; et j’attends d’elle, avec respect, tout ce qu’il lui plaira d’ordonner là dessus.</p>
+
+<vsep class="rule"/>
+
+<h3 id="p03">SECOND PLACET PRÉSENTÉ AU ROI</h3>
+
+<p class='sommaire'>Dans son camp devant la ville de Lille en Flandre, par les nommés <s>DE LA</s> T<s>HORILLIÈRE</s> et <s>DE LA</s> G<s>RANGE</s>, comédiens de Sa Majesté, et compagnons du sieur M<s>OLIÈRE</s>, sur la défense qui fut faite, le 6 août 1667, de représenter le <i>Tartuffe</i> jusques à nouvel ordre de S<s>A</s> M<s>AJESTÉ</s>.</p>
+
+<salutation>S<s>IRE</s>,</salutation>
+
+<p>C’est une chose bien téméraire à moi que de venir importuner un grand monarque au milieu de ses glorieuses conquêtes ; mais, dans l’état où je me vois, où trouver, S<s>IRE</s>, une protection qu’au lieu où je la viens chercher ? et qui puis-je solliciter contre l’autorité de la puissance qui m’accable, que la source de la puissance et de l’autorité, que le juste dispensateur des ordres absolus, que le souverain juge et le maître de toutes choses ?</p>
+
+<p>Ma comédie, S<s>IRE</s>, n’a pu jouir ici des bontés de V<s>OTRE</s> M<s>AJESTÉ</s>. En vain je l’ai produite sous le titre de l’<i>Imposteur,</i> et déguisé le personnage sous l’ajustement d’un homme du monde ; j’ai eu beau lui donner un petit chapeau, de grands cheveux, un grand collet, une épée, et des dentelles sur tout l’habit, mettre en plusieurs endroits des adoucissements, et retrancher avec soin tout ce que j’ai jugé capable de fournir l’ombre d’un prétexte aux célèbres originaux du portrait que je voulois faire : tout cela n’a de rien servi. La cabale s’est réveillée aux simples conjectures qu’ils ont pu avoir de la chose. Ils ont trouvé moyen de surprendre des esprits qui, dans toute autre matière, font une haute profession de ne se point laisser surprendre. Ma comédie n’a pas plutôt paru, qu’elle s’est vue foudroyée par le coup d’un pouvoir qui doit imposer du respect ; et tout ce que j’ai pu faire en cette rencontre pour me sauver moi-même de l’éclat de cette tempête, c’est de dire que V<s>OTRE</s> M<s>AJESTÉ</s> avoit eu la bonté de m’en permettre la représentation, et que je n’avois pas cru qu’il fût besoin de demander cette permission à d’autres, puisqu’il n’y avoit qu’elle seule qui me l’eût défendue.</p>
+
+<p>Je ne doute point, S<s>IRE</s>, que les gens que je peins dans ma comédie ne remuent bien des ressorts auprès de V<s>OTRE</s> M<s>AJESTÉ</s>, et ne jettent dans leur parti, comme ils l’ont déjà fait, de véritables gens de bien, qui sont d’autant plus prompts à se laisser tromper qu’ils jugent d’autrui par eux-mêmes. Ils ont l’art de donner de belles couleurs à toutes leurs intentions. Quelque mine qu’ils fassent, ce n’est point du tout l’intérêt de Dieu qui les peut émouvoir : ils l’ont assez montré dans les comédies qu’ils ont souffert qu’on ait jouées tant de fois en public, sans en dire le moindre mot. Celles-là n’attaquoient que la piété et la religion, dont ils se soucient fort peu : mais celle-ci les attaque et les joue eux-mêmes ; et c’est ce qu’ils ne peuvent souffrir. Ils ne sauroient me pardonner de dévoiler leurs impostures aux yeux de tout le monde ; et, sans doute, on ne manquera pas de dire à V<s>OTRE</s> M<s>AJESTÉ</s> que chacun s’est scandalisé de ma comédie. Mais la vérité pure, S<s>IRE</s>, c’est que tout Paris ne s’est scandalisé que de la défense qu’on en a faite, que les plus scrupuleux en ont trouvé la représentation <pagenum num="313"/>profitable, et qu’on s’est étonné que des personnes d’une probité si connue aient eu une si grande déférence pour des gens qui devraient être l’horreur de tout le monde et sont si opposés à la véritable piété, dont elles font profession.</p>
+
+<p>J’attends avec respect l’arrêt que V<s>OTRE</s> M<s>AJESTÉ</s> daignera prononcer sur cette matière : mais il est très assuré, S<s>IRE</s>, qu’il ne faut plus que je songe à faire des comédies, si les tartuffes ont l’avantage ; qu’ils prendront droit par là de me persécuter plus que jamais, et voudront trouver à redire aux choses les plus innocentes qui pourront sortir de ma plume.</p>
+
+<p>Daignent vos bontés, S<s>IRE</s>, me donner une protection contre leur rage envenimée ? et puissé-je, au retour d’une campagne si glorieuse, délasser V<s>OTRE</s> M<s>AJESTÉ</s> des fatigues de ses conquêtes, lui donner d’innocents plaisirs après de si nobles travaux, et faire rire le monarque qui fait trembler toute l’Europe !</p>
+
+<vsep class="rule"/>
+
+<h3 id="p04">TROISIÈME PLACET PRÉSENTÉ AU ROI</h3>
+
+<h3><s>LE 5 FÉVRIER 1669</s></h3>
+
+<salutation>S<s>IRE</s>,</salutation>
+
+<p>Un fort honnête médecin<noteref noteid="note.313.1"/>, dont j’ai l’honneur d’être le malade, me promet et veut s’obliger par-devant notaire de me faire vivre encore trente années, si je puis lui obtenir une grâce de V<s>OTRE</s> M<s>AJESTÉ</s>. Je lui ai dit, sur sa promesse, que je ne lui demandois pas tant, et que je serais satisfait de lui pourvu qu’il s’obligeât de ne me point tuer. Cette grâce, S<s>IRE</s>, est un canonicat de votre chapelle royale de Vincennes, vacant par la mort de...</p>
+
+<notes>
+  <note id="note.313.1">
+    <p>Il se nommait Mauvilain. C’est en parlant de Mauvilain que Louis XIV dit un jour à Molière : « Vous avez un médecin ; que vous fait-il ? — Sire, répondit Molière, nous causons ensemble ; il m’ordonne des remèdes ; je ne les fais point et je guéris ». (Grimarest.) — Molière obtint le canonicat qu’il demandait pour le fils de ce médecin. (Anger.)</p>
+  </note>
+</notes>
+
+<p>Oserois-je demander encore cette grâce à V<s>OTRE</s> M<s>AJESTÉ</s> le propre jour de la grande résurrection de <i>Tartuffe,</i> ressuscité par vos bontés ? Je suis, par cette première faveur, réconcilié avec les dévots ; et je le serais, par cette seconde, avec les médecins. C’est pour moi, sans doute, trop de grâces à la fois ; mais peut-être n’en est-ce pas trop pour V<s>OTRE</s> M<s>AJESTÉ</s> ; et j’attends, avec un peu d’espérance respectueuse, la réponse de mon placet.</p>
+
+<vsep class="rule"/>
+
+<h3 id="p05">PERSONNAGES</h3>
+
+<p class="sommaire">MADAME PERNELLE, mère d’Orgon.</p>
+<p class="sommaire">ORGON, mari d’Elmire.</p>
+<p class="sommaire">ELMIRE, femme d’Orgon.</p>
+<p class="sommaire">DAMIS, fils d’Orgon.</p>
+<p class="sommaire">MARIANE, fille d’Orgon et amante de Valère.</p>
+<p class="sommaire">VALÈRE, amant de Mariane.</p>
+<p class="sommaire">CLÉANTE, beau-frère d’Orgon.</p>
+<p class="sommaire">TARTUFFE, faux dévot.</p>
+<p class="sommaire">DORINE, suivante de Mariane.</p>
+<pagenum num="314"/>
+<p class="sommaire">M. LOYAL, sergent.</p>
+<p class="sommaire">UN EXEMPT.</p>
+<p class="sommaire">FLIPOTE. servante de madame Pernelle.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est à Paris, dans la maison d’Orgon.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p06">ACTE PREMIER</h2>
+
+<h3 id="p07">SCÈNE I. — MADAME PERNELLE, ELMIRE, MARIANE, CLÉANTE, DAMIS, DORINE, FLIPOTE</h3>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Allons, Flipote, allons ; que d’eux je me délivre.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Vous marchez d’un tel pas, qu’on a peine à vous suivre.</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Laissez, ma bru, laissez ; ne venez pas plus loin ;</l>
+<l>Ce sont toutes façons dont je n’ai pas besoin.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>De ce que l’on vous doit envers vous on s’acquitte.</l>
+<l>Mais, ma mère, d’où vient que vous sortez si vite ?</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>C’est que je ne puis voir tout ce ménage-ci,</l>
+<l>Et que de me complaire on ne prend nul souci.</l>
+<l>Oui, je sors de chez vous fort mal édifiée :</l>
+<l>Dans toutes mes leçons j’y suis contrariée ;</l>
+<l>On n’y respecte rien, chacun y parle haut.</l>
+<l>Et c’est tout justement la cour du roi Pétaud<noteref noteid="note.314.1"/>.</l>
+
+<notes>
+  <note id="note.314.1">
+    <p>Lorsque toutes les corporations avaient leur chef, autrement leur <i>roi</i>, les mendiants avaient le leur, qu’ils appelaient Pétaud, par corruption du latin <i>peto</i> (je demande). Comme on a supposé que le roi des gueux avait peu d’autorité sur sa nation, on a nommé <i>cour du roi Pétaud</i>, et, plus brièvement, <i>pétaudière</i>, toute société, toute maison où chacun est maître. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Si...</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l cont='true'>Vous êtes, ma mie, une fille suivante,</l>
+<l>Un peu trop forte en gueule, et fort impertinente ;</l>
+<l>Vous vous mêlez sur tout de dire votre avis.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Mais...</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l cont='true'>Vous êtes un sot en trois lettres, mon fils ;</l>
+<pagenum num="315"/>
+<l>C’est moi qui vous le dis, qui suis votre grand’mère ;</l>
+<l>Et j’ai prédit cent fois à mon fils, votre père,</l>
+<l>Que vous preniez tout l’air d’un méchant garnement,</l>
+<l>Et ne lui donneriez jamais que du tourment.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Je crois...</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l cont='true'>Mon Dieu ! sa sœur, vous faites la discrète,</l>
+<l>Et vous n’y touchez pas, tant vous semblez doucette ;</l>
+<l>Mais il n’est, comme on dit, pire eau que l’eau qui dort,</l>
+<l>Et vous menez, sous chape<noteref noteid="note.315.1"/>, un train que je hais fort.</l>
+
+<notes>
+  <note id="note.315.1">
+    <p><i>Sous chape</i> ou <i>sous cape</i>, en secret. La cape ou chape, le <i>bardocucullus</i> des Gaulois, était un manteau à capuchon. On rabattait ce capuchon pour se cacher le visage, lorsqu’on voulait n’être point reconnu ; et métaphoriquement on vivait sous cape, quand on cachait ses actions. (Ch. Louandre.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Mais, ma mère...</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l cont='true'>Ma bru, qu’il ne vous en déplaise,</l>
+<l>Votre conduite, en tout, est tout à fait mauvaise :</l>
+<l>Vous devriez leur mettre un bon exemple aux yeux ;</l>
+<l>Et leur défunte mère en usoit beaucoup mieux.</l>
+<l>Vous êtes dépensière ; et cet état me blesse,</l>
+<l>Que vous alliez vêtue ainsi qu’une princesse.</l>
+<l>Quiconque à son mari veut plaire seulement,</l>
+<l>Ma bru, n’a pas besoin de tant d’ajustement.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Mais, madame, après tout...</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l cont='true'>Pour vous, monsieur son frère,</l>
+<l>Je vous estime fort, vous aime et vous révère ;</l>
+<l>Mais enfin, si j’étois de mon fils son époux,</l>
+<l>Je vous prierois bien fort de n’entrer point chez nous.</l>
+<l>Sans cesse vous prêchez des maximes de vivre</l>
+<l>Qui par d’honnêtes gens ne se doivent point suivre.</l>
+<l>Je vous parle un peu franc ; mais c’est là mon humeur,</l>
+<l>Et je ne mâche point ce que j’ai sur le cœur.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Votre monsieur Tartuffe est bien heureux, sans doute.</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>C’est un homme de bien qu’il faut que l’on écoute ;</l>
+<l>Et je ne puis souffrir, sans me mettre en courroux,</l>
+<pagenum num="316"/>
+<l>De le voir querellé par un fou comme vous.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Quoi ! je souffrirai, moi, qu’un cagot de critique</l>
+<l>Vienne usurper céans un pouvoir tyrannique ;</l>
+<l>Et que nous ne puissions à rien nous divertir.</l>
+<l>Si ce beau monsieur-là n’y daigne consentir ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>S’il le faut écouter, et croire à ses maximes.</l>
+<l>On ne peut faire rien, qu’on ne fasse des crimes ;</l>
+<l>Car il contrôle tout, ce critique zélé.</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Et tout ce qu’il contrôle est fort bien contrôlé.</l>
+<l>C’est au chemin du ciel qu’il prétend vous conduire :</l>
+<l>Et mon fils à l’aimer vous devroit tous induire.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Non, voyez-vous, ma mère, il n’est père ni rien,</l>
+<l>Qui me puisse obliger à lui vouloir du bien :</l>
+<l>Je trahirois mon cœur de parler d’autre sorte,</l>
+<l>Sur ses façons de faire à tous coups je m’emporte :</l>
+<l>J’en prévois une suite, et qu’avec ce pied-plat</l>
+<l>Il faudra que j’en vienne à quelque grand éclat.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Certes, c’est une chose aussi qui scandalise</l>
+<l>De voir qu’un inconnu céans s’impatronise.</l>
+<l>Qu’un gueux, qui, quand il vint, n’avoit pas de souliers,</l>
+<l>Et dont l’habit entier valoit bien six deniers,</l>
+<l>En vienne jusque-là que de se méconnoître,</l>
+<l>De contrarier tout, et de faire le maître.</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Eh ! merci de ma vie, il en iroit bien mieux</l>
+<l>Si tout se gouvernoit par ses ordres pieux.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Il passe pour un saint dans votre fantaisie :</l>
+<l>Tout son fait, croyez-moi, n’est rien qu’hypocrisie.</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Voyez la langue !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>A lui, non plus qu’à son Laurent,</l>
+<l>Je ne me fierois, moi, que sur un bon garant.</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>J’ignore ce qu’au fond le serviteur peut être ;</l>
+<pagenum num="317"/>
+<l>Mais pour homme de bien je garantis le maître.</l>
+<l>Vous ne lui voulez mal et ne le rebutez</l>
+<l>Qu’à cause qu’il vous dit à tous vos vérités.</l>
+<l>C’est contre le péché que son cœur se courrouce,</l>
+<l>Et l’intérêt du ciel est tout ce qui le pousse.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Oui ; mais pourquoi, surtout depuis un certain temps.</l>
+<l>Ne sauroit-il souffrir qu’aucun hante céans ?</l>
+<l>En quoi blesse le ciel une visite honnête,</l>
+<l>Pour en faire un vacarme à nous rompre la tête ?</l>
+<l>Veut-on que là-dessus je m’explique entre nous ?...</l>
+<pstage>Montrant Elmire.</pstage>
+<l>Je crois que de madame il est, ma foi, jaloux<noteref noteid="note.317.1"/>.</l>
+
+<notes>
+  <note id="note.317.1">
+    <p>Ce vers jeté en manière de saillie, annonce toute l’action de la pièce. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Taisez-vous, et songez aux choses que vous dites.</l>
+<l>Ce n’est pas lui tout seul qui blâme ces visites :</l>
+<l>Tout ce tracas qui suit les gens que vous hantez,</l>
+<l>Ces carrosses sans cesse à la porte plantés,</l>
+<l>Et de tant de laquais le bruyant assemblage,</l>
+<l>Font un éclat fâcheux dans tout le voisinage.</l>
+<l>Je veux croire qu’au fond il ne se passe rien ;</l>
+<l>Mais enfin on en parle, et cela n’est pas bien.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Eh ! voulez-vous, madame, empêcher qu’on ne cause ?</l>
+<l>Ce seroit dans la vie une fâcheuse chose,</l>
+<l>Si, pour les sots discours où l’on peut être mis,</l>
+<l>Il falloit renoncer à ses meilleurs amis.</l>
+<l>Et, quand même on pourroit se résoudre à le faire,</l>
+<l>Croiriez-vous obliger tout le monde à se taire ?</l>
+<l>Contre la médisance il n’est point de rempart.</l>
+<l>A tous les sots caquets n’ayons donc nul égard ;</l>
+<l>Efforçons-nous de vivre avec toute innocence,</l>
+<l>Et laissons aux causeurs une pleine licence.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Daphné, notre voisine, et son petit époux,</l>
+<l>Ne seroient-ils point ceux qui parlent mal de nous ?</l>
+<l>Ceux de qui la conduite offre le plus à rire</l>
+<l>Sont toujours sur autrui les premiers à médire :</l>
+<l>Ils ne manquent jamais de saisir promptement</l>
+<l>L’apparente lueur du moindre attachement,</l>
+<pagenum num="318"/>
+<l>D’en semer la nouvelle avec beaucoup de joie,</l>
+<l>Et d’y donner le tour qu’ils veulent qu’on y croie ;</l>
+<l>Des actions d’autrui, teintes de leurs couleurs,</l>
+<l>Ils pensent dans le monde autoriser les leurs,</l>
+<l>Et, sous le faux espoir de quelque ressemblance,</l>
+<l>Aux intrigues qu’ils ont donner de l’innocence,</l>
+<l>Ou faire ailleurs tomber quelques traits partagés</l>
+<l>De ce blâme public dont ils sont trop chargés.</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Tous ces raisonnements ne font rien à l’affaire.</l>
+<l>On sait qu’Orante mène une vie exemplaire ;</l>
+<l>Tous ses soins vont au ciel ; et j’ai su, par des gens,</l>
+<l>Qu’elle condamne fort le train qui vient céans.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>L’exemple est admirable, et cette dame est bonne !</l>
+<l>Il est vrai qu’elle vit en austère personne ;</l>
+<l>Mais l’âge, dans son âme, a mis ce zèle ardent,</l>
+<l>Et l’on sait qu’elle est prude, à son corps défendant.</l>
+<l>Tant qu’elle a pu des cœurs attirer les hommages,</l>
+<l>Elle a fort bien joui de tous ses avantages ;</l>
+<l>Mais, voyant de ses yeux tous les brillants baisser,</l>
+<l>Au monde qui la quitte elle veut renoncer,</l>
+<l>Et du voile pompeux d’une haute sagesse</l>
+<l>De ses attraits usés déguiser la foiblesse.</l>
+<l>Ce sont là les retours des coquettes du temps ;</l>
+<l>Il leur est dur de voir déserter les galants.</l>
+<l>Dans un tel abandon leur sombre inquiétude</l>
+<l>Ne voit d’autre recours que le métier de prude ;</l>
+<l>Et la sévérité de ces femmes de bien</l>
+<l>Censure toute chose et ne pardonne à rien.</l>
+<l>Hautement d’un chacun elles blâment la vie,</l>
+<l>Non point par charité, mais par un trait d’envie,</l>
+<l>Qui ne sauroit souffrir qu’une autre ait les plaisirs</l>
+<l>Dont le penchant<noteref noteid="note.318.1"/> de l’âge a sevré leurs désirs.</l>
+
+<notes>
+  <note id="note.318.1">
+    <p><i>Penchant</i>, déclin.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADAME PERNELLE</speaker>, à Elmire.</hstage>
+<l>Voilà les contes bleus qu’il vous faut, pour vous plaire,</l>
+<l>Ma bru. L’on est chez vous contrainte de se taire :</l>
+<l>Car madame, à jaser, tient le dé tout le jour.</l>
+<l>Mais enfin je prétends discourir à mon tour :</l>
+<l>Je vous dis que mon fils n’a rien fait de plus sage</l>
+<l>Qu’en recueillant chez soi ce dévot personnage ;</l>
+<pagenum num="319"/>
+<l>Que le ciel au besoin l’a céans envoyé</l>
+<l>Pour redresser à tous votre esprit fourvoyé ;</l>
+<l>Que, pour votre salut, vous le devez entendre,</l>
+<l>Et qu’il ne reprend rien qui ne soit à reprendre.</l>
+<l>Ces visites, ces bals, ces conversations,</l>
+<l>Sont du malin esprit toutes inventions.</l>
+<l>Là, jamais on n’entend de pieuses paroles ;</l>
+<l>Ce sont propos oisifs, chansons et fariboles :</l>
+<l>Bien souvent le prochain en a sa bonne part,</l>
+<l>Et l’on y sait médire et du tiers et du quart.</l>
+<l>Enfin les gens sensés ont leurs têtes troublées</l>
+<l>De la confusion de telles assemblées ;</l>
+<l>Mille caquets divers s’y font en moins de rien ;</l>
+<l>Et, comme l’autre jour un docteur dit fort bien,</l>
+<l>C’est véritablement la tour de Babylone<noteref noteid="note.319.1"/>,</l>
+<l>Car chacun y babille, et tout du long de l’aune ;</l>
+<l>Et, pour conter l’histoire où ce point l’engagea...</l>
+<pstage>Montrant Cléante.</pstage>
+<l>Voilà-t-il pas monsieur qui ricane déjà !</l>
+<l>Allez chercher vos fous qui vous donnent à rire,</l>
+<pstage>A Elmire.</pstage>
+<l>Et sans... Adieu, ma bru ; je ne veux plus rien dire.</l>
+<l>Sachez que pour céans j’en rabats de moitié,</l>
+<l>Et qu’il fera beau temps quand j’y mettrai le pied.</l>
+<pstage>Donnant un soufflet à Flipote.</pstage>
+<l>Allons, vous, vous rêvez et bayez aux corneilles.</l>
+<l>Jour de Dieu ! je saurai vous frotter les oreilles.</l>
+<l>Marchons, gaupe, marchons<noteref noteid="note.319.2"/> !</l>
+
+<notes>
+  <note id="note.319.1">
+    <p>La bonne femme, trompée par la ressemblance de <i>babil</i> et de <i>Babylone</i> dit <i>la tour de Babylone</i> pour la <i>tour de Babel.</i>.</p>
+  </note>
+  <note id="note.319.2">
+    <p>Cette exposition est peut-être la meilleure de Molière, qui n’en a fait que d’excellentes. (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p08">SCÈNE II. — CLÉANTE, DORINE</h3>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Je n’y veux point aller</l>
+<l>De peur qu’elle ne vînt encor me quereller,</l>
+<l>Que cette bonne femme...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Ah ! certes, c’est dommage</l>
+<l>Qu’elle ne vous ouït tenir un tel langage :</l>
+<l>Elle vous diroit bien qu’elle vous trouve bon,</l>
+<l>Et qu’elle n’est point d’âge à lui donner ce nom !</l>
+
+<pagenum num="320"/>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Comme elle s’est pour rien contre nous échauffée !</l>
+<l>Et que de son Tartuffe elle paroît coiffée !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Oh ! vraiment, tout cela n’est rien au prix du fils :</l>
+<l>Et, si vous l’aviez vu, vous diriez : C’est bien pis !</l>
+<l>Nos troubles l’avoient mis sur le pied d’homme sage,</l>
+<l>Et, pour servir son prince, il montra du courage.</l>
+<l>Mais il est devenu comme un homme hébété</l>
+<l>Depuis que de Tartuffe on le voit entêté ;</l>
+<l>Il l’appelle son frère, et l’aime dans son âme</l>
+<l>Cent fois plus qu’il ne fait mère, fils, fille et femme,</l>
+<l>C’est de tous ses secrets l’unique confident,</l>
+<l>Et de ses actions le directeur prudent.</l>
+<l>Il le choie, il l’embrasse ; et pour une maîtresse,</l>
+<l>On ne sauroit, je pense, avoir plus de tendresse :</l>
+<l>A table, au plus haut bout il veut qu’il soit assis ;</l>
+<l>Avec joie il l’y voit manger autant que six ;</l>
+<l>Les bons morceaux de tout, il faut qu’on les lui cède,</l>
+<l>Et, s’il vient à roter, il lui dit : Dieu vous aide !</l>
+<l>Enfin il en est fou ; c’est son tout, son héros ;</l>
+<l>Il l’admire à tous coups, le cite à tous propos ;</l>
+<l>Ses moindres actions lui semblent des miracles,</l>
+<l>Et tous les mots qu’il dit sont pour lui des oracles.</l>
+<l>Lui, qui connoît sa dupe, et qui veut en jouir,</l>
+<l>Par cent dehors fardés a l’art de l’éblouir ;</l>
+<l>Son cagotisme en tire à toute heure des sommes,</l>
+<l>Et prend droit de gloser sur tous tant que nous sommes.</l>
+<l>Il n’est pas jusqu’au fat qui lui sert de garçon,</l>
+<l>Qui ne se mêle aussi de nous faire leçon ;</l>
+<l>Il vient nous sermonner avec des yeux farouches,</l>
+<l>Et jeter nos rubans, notre rouge, et nos mouches.</l>
+<l>Le traître l’autre jour nous rompît de ses mains,</l>
+<l>Un mouchoir qu’il trouva dans une <i>Fleur des Saints</i><noteref noteid="note.320.1"/>,</l>
+<l>Disant que nous mêlions, par un crime effroyable,</l>
+<l>Avec la sainteté les parures du diable.</l>
+
+<notes>
+  <note id="note.320.1">
+    <p>Ouvrage d’un jésuite espagnol.</p>
+  </note>
+</notes>
+
+<h3 id="p09">SCÈNE III. — ELMIRE, MARIANE, DAMIS, CLÉANTE, DORINE</h3>
+
+<hstage><speaker>ELMIRE</speaker>, à Clêante.</hstage>
+<l>Vous êtes bien heureux de n’être point venu</l>
+<pagenum num="321"/>
+<l>Au discours qu’à la porte elle nous a tenu.</l>
+<l>Mais j’ai vu mon mari ; comme il ne m’a point vue,</l>
+<l>Je veux aller là haut attendre sa venue.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Moi, je l’attends ici pour moins d’amusement ;</l>
+<l>Et je vais lui donner le bonjour seulement.</l>
+
+<h3 id="p10">SCÈNE IV. — CLÉANTE, DAMIS, DORINE</h3>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>De l’hymen de ma sœur touchez-lui quelque chose :</l>
+<l>J’ai soupçon que Tartuffe à son effet s’oppose,</l>
+<l>Qu’il oblige mon père à des détours si grands ;</l>
+<l>Et vous n’ignorez pas quel intérêt j’y prends...</l>
+<l>Si même ardeur enflamme et ma sœur et Valère,</l>
+<l>La sœur de cet ami, vous le savez, m’est chère ;</l>
+<l>Et s’il falloit...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Il entre.</l>
+
+<h3 id="p11">SCÈNE V. — ORGON, CLÉANTE, DORINE</h3>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Ah ! mon frère, bonjour.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Je sortois, et j’ai joie à vous voir de retour.</l>
+<l>La campagne à présent n’est pas beaucoup fleurie ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<pstage>A Cléante.</pstage>
+<l>Donne... Mon beau-frère, attendez, je vous prie.</l>
+<l>Vous voulez bien souffrir pour m’ôter de souci,</l>
+<l>Que je m’informe un peu des nouvelles d’ici ?</l>
+<pstage>A Dorine.</pstage>
+<l>Tout s’est-il, ces deux jours, passé de bonne sorte ?</l>
+<l>Qu’est-ce qu’on fait céans ? comme est-ce qu’on s’y porte ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Madame eut avant-hier la fièvre jusqu’au soir,</l>
+<l>Avec un mal de tête étrange à concevoir.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Et Tartuffe ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Tartuffe ! il se porte à merveille,</l>
+<l>Gros et gras, le teint frais, et la bouche vermeille.</l>
+
+<pagenum num="322"/>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Le pauvre homme !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Le soir elle eut un grand dégoût.</l>
+<l>Et ne put, au souper, toucher à rien du tout,</l>
+<l>Tant sa douleur de tête étoit encor cruelle !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Et Tartuffe ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Il soupa, lui tout seul, devant elle ;</l>
+<l>Et fort dévotement il mangea deux perdrix,</l>
+<l>Avec une moitié de gigot en hachis.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Le pauvre homme !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>La nuit se passa tout entière</l>
+<l>Sans qu’elle pût fermer un moment la paupière ;</l>
+<l>Des chaleurs l’empêchoient de pouvoir sommeiller,</l>
+<l>Et jusqu’au jour, près d’elle, il nous fallut veiller.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Et Tartuffe ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Pressé d’un sommeil agréable,</l>
+<l>Il passa dans sa chambre au sortir de la table ;</l>
+<l>Et dans son lit bien chaud il se mit tout soudain,</l>
+<l>Où, sans trouble, il dormit jusques au lendemain.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Le pauvre homme !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>A la fin, par nos raisons gagnée,</l>
+<l>Elle se résolut à souffrir la saignée ;</l>
+<l>Et le soulagement suivit tout aussitôt.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Et Tartuffe ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Il reprit courage comme il faut ;</l>
+<l>Et, contre tous les maux fortifiant son âme,</l>
+<l>Pour réparer le sang qu’avoit perdu madame,</l>
+<l>But, à son déjeuner, quatre grands coups de vin.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Le pauvre homme !</l>
+
+<pagenum num="323"/>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Tous deux se portent bien enfin.</l>
+<l>Et je vais à madame annoncer, par avance,</l>
+<l>La part que vous prenez à sa convalescence.</l>
+
+<h3 id="p12">SCÈNE VI. — ORGON, CLÉANTE</h3>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>A votre nez, mon frère, elle se rit de vous :</l>
+<l>Et, sans avoir dessein de vous mettre en courroux.</l>
+<l>Je vous dirai tout franc que c’est avec justice.</l>
+<l>A-t-on jamais parlé d’un semblable caprice ?</l>
+<l>Et se peut-il qu’un homme ait un charme aujourd’hui</l>
+<l>A vous faire oublier toutes choses pour lui ?</l>
+<l>Qu’après avoir chez vous réparé sa misère,</l>
+<l>Vous en veniez au point...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Halte-là, mon beau-frère,</l>
+<l>Vous ne connoissez pas celui dont vous parlez.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Je ne le connois pas, puisque vous le voulez ;</l>
+<l>Mais enfin, pour savoir quel homme ce peut être...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Mon frère, vous seriez charmé de le connoître ;</l>
+<l>Et vos ravissements ne prendraient point de fin.</l>
+<l>C’est un homme... qui... ah !... un homme... un homme enfin...</l>
+<l>Qui suit bien ses leçons, goûte une paix profonde,</l>
+<l>Et comme du fumier regarde tout le monde.</l>
+<l>Oui, je deviens tout autre avec son entretien ;</l>
+<l>Il m’enseigne à n’avoir affection pour rien ;</l>
+<l>De toutes amitiés il détache mon âme ;</l>
+<l>Et je verrais mourir frère, enfants, mère, et femme,</l>
+<l>Que je m’en soucierais autant que de cela.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Les sentiments humains, mon frère, que voilà !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ah ! si vous aviez vu comme j’en fis rencontre,</l>
+<l>Vous auriez pris pour lui l’amitié que je montre.</l>
+<l>Chaque jour à l’église il venoit, d’un air doux,</l>
+<l>Tout vis-à-vis de moi se mettre à deux genoux.</l>
+<l>Il attirait les yeux de l’assemblée entière</l>
+<l>Par l’ardeur dont au ciel il poussoit sa prière ;</l>
+<pagenum num="324"/>
+<l>Il faisoit des soupirs, de grands élancements,</l>
+<l>Et baisoit humblement la terre à tous moments ;</l>
+<l>Et, lorsque je sortois, il me devançoit vite</l>
+<l>Pour m’aller, à la porte, offrir de l’eau bénite.</l>
+<l>Instruit par son garçon, qui dans tout l’imitoit,</l>
+<l>Et de son indigence, et de ce qu’il étoit,</l>
+<l>Je lui faisois des dons ; mais, avec modestie,</l>
+<l>Il me vouloit toujours en rendre une partie.</l>
+<l><i>C’est trop,</i> me disoit-il, <i>c’est trop de la moitié ;</i></l>
+<l><i>Je ne mérite pas de vous faire pitié.</i></l>
+<l>Et, quand je refusois de le vouloir reprendre,</l>
+<l>Aux pauvres, à mes yeux, il alloit le répandre.</l>
+<l>Enfin le ciel chez moi me le fit retirer,</l>
+<l>Et depuis ce temps-là tout semble y prospérer.</l>
+<l>Je vois qu’il reprend tout, et qu’à ma femme même</l>
+<l>Il prend, pour mon <correction original="honheur">honneur</correction>, un intérêt extrême ;</l>
+<l>Il m’avertit des gens qui lui font les yeux doux,</l>
+<l>Et plus que moi six fois il s’en montre jaloux.</l>
+<l>Mais vous ne croiriez point jusqu’où monte son zèle :</l>
+<l>Il s’impute à péché la moindre bagatelle ;</l>
+<l>Un rien presque suffit pour le scandaliser,</l>
+<l>Jusque-là qu’il se vint l’autre jour accuser</l>
+<l>D’avoir pris une puce en faisant sa prière,</l>
+<l>Et de l’avoir tuée avec trop de colère.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Parbleu, vous êtes fou, mon frère, que je croi.</l>
+<l>Avec de tels discours vous moquez-vous de moi ?</l>
+<l>Et que prétendez-vous ? Que tout ce badinage...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Mon frère, ce discours sent le libertinage :</l>
+<l>Vous en êtes un peu dans votre âme entiché ;</l>
+<l>Et, comme je vous l’ai plus de dix fois prêché.</l>
+<l>Vous vous attirerez quelque méchante affaire.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Voilà de vos pareils le discours ordinaire :</l>
+<l>Ils veulent que chacun soit aveugle comme eux.</l>
+<l>C’est être libertin<noteref noteid="note.324.1"/> que d’avoir de bons yeux,</l>
+<l>Et qui n’adore pas de vaines simagrées,</l>
+<l>N’a ni respect ni foi pour les choses sacrées.</l>
+<pagenum num="325"/>
+<l>Allez, tous vos discours ne me font point de peur,</l>
+<l>Je sais comme je parle, et le ciel voit mon cœur.</l>
+<l>De tous vos façonniers on n’est point les esclaves.</l>
+<l>Il est de faux dévots ainsi que de faux braves :</l>
+<l>Et, comme on ne voit pas qu’où l’honneur les conduit,</l>
+<l>Les vrais braves soient ceux qui font beaucoup de bruit.</l>
+<l>Les bons et vrais dévots, qu’on doit suivre à la trace,</l>
+<l>Ne sont pas ceux aussi qui font tant de grimace.</l>
+<l>Eh quoi ! vous ne ferez nulle distinction</l>
+<l>Entre l’hypocrisie et la dévotion ?</l>
+<l>Vous les voulez traiter d’un semblable langage,</l>
+<l>Et rendre même honneur au masque qu’au visage ;</l>
+<l>Égaler l’artifice à la sincérité,</l>
+<l>Confondre l’apparence avec la vérité,</l>
+<l>Estimer le fantôme autant que la personne,</l>
+<l>Et la fausse monnoie à l’égal de la bonne ?</l>
+<l>Les hommes, la plupart, sont étrangement faits ;</l>
+<l>Dans la juste nature on ne les voit jamais ;</l>
+<l>La raison a pour eux des bornes trop petites ;</l>
+<l>En chaque caractère ils passent ses limites,</l>
+<l>Et la plus noble chose, ils la gâtent souvent</l>
+<l>Pour la vouloir outrer et pousser trop avant.</l>
+<l>Que cela vous soit dit en passant, mon beau-frère.</l>
+
+<notes>
+  <note id="note.324.1">
+    <p><i>Libertin</i>, aujourd’hui restreint à la débauche des femmes, signifiait dans l’origine un esprit fort, un libre-penseur ; on le disait aussi des personnes indépendantes par caractère, et ennemies de la contrainte. (P. Génin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Oui, vous êtes, sans doute, un docteur qu’on révère ;</l>
+<l>Tout le savoir du monde est chez vous retiré ;</l>
+<l>Vous êtes le seul sage et le seul éclairé.</l>
+<l>Un oracle, un Caton, dans le siècle où nous sommes ;</l>
+<l>Et près de vous ce sont des sots que tous les hommes.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Je ne suis point, mon frère, un docteur révéré.</l>
+<l>Et le savoir chez moi n’est point tout retiré.</l>
+<l>Mais, en un mot, je sais, pour toute ma science.</l>
+<l>Du faux avec le vrai faire la différence.</l>
+<l>Et, comme je ne vois nul genre de héros</l>
+<l>Qui soient plus à priser que les parfaits dévots,</l>
+<l>Aucune chose au monde et plus noble, et plus belle,</l>
+<l>Que la sainte ferveur d’un véritable zèle ;</l>
+<l>Aussi ne vois-je rien qui soit plus odieux</l>
+<l>Que le dehors plâtré d’un zèle spécieux,</l>
+<l>Que ces francs charlatans, que ces dévots de place,</l>
+<l>De qui la sacrilège et trompeuse grimace</l>
+<pagenum num="326"/>
+<l>Abuse impunément, et se joue, à leur gré,</l>
+<l>De ce qu’ont les mortels de plus saint et sacré ;</l>
+<l>Ces gens qui, par une âme à l’intérêt soumise,</l>
+<l>Font de dévotion métier et marchandise.</l>
+<l>Et veulent acheter crédit et dignités</l>
+<l>A prix de faux clins d’yeux et d’élans affectés ;</l>
+<l>Ces gens, dis-je, qu’on voit, d’une ardeur non commune,</l>
+<l>Par le chemin du ciel courir à leur fortune ;</l>
+<l>Qui, brûlants et priants, demandent chaque jour,</l>
+<l>Et prêchent la retraite au milieu de la cour ;</l>
+<l>Qui savent ajuster leur zèle avec leurs vices,</l>
+<l>Sont prompts, vindicatifs, sans foi, pleins d’artifices,</l>
+<l>Et, pour perdre quelqu’un, couvrent insolemment</l>
+<l>De l’intérêt du ciel leur fier ressentiment ;</l>
+<l>D’autant plus dangereux dans leur âpre colère,</l>
+<l>Qu’ils prennent contre nous des armes qu’on révère,</l>
+<l>Et que leur passion, dont on leur sait bon gré,</l>
+<l>Veut nous assassiner avec un fer sacré :</l>
+<l>De ce faux caractère on en voit trop paroître.</l>
+<l>Mais les dévots de cœur sont aisés à connoître.</l>
+<l>Notre siècle, mon frère, en expose à nos yeux</l>
+<l>Qui peuvent nous servir d’exemples glorieux.</l>
+<l>Regardez Ariston, regardez Périandre,</l>
+<l>Oronte, Alcidamas, Polydore, Clitandre ;</l>
+<l>Ce titre par aucun ne leur est débattu ;</l>
+<l>Ce ne sont point du tout fanfarons de vertu ;</l>
+<l>On ne voit point en eux ce faste insupportable.</l>
+<l>Et leur dévotion est humaine, est traitable :</l>
+<l>Ils ne censurent point toutes nos actions,</l>
+<l>Ils trouvent trop d’orgueil dans ces corrections ;</l>
+<l>Et, laissant la fierté des paroles aux autres,</l>
+<l>C’est par leurs actions qu’ils reprennent les nôtres.</l>
+<l>L’apparence du mal a chez eux peu d’appui.</l>
+<l>Et leur âme est portée à juger bien d’autrui.</l>
+<l>Point de cabale en eux, point d’intrigues à suivre ;</l>
+<l>On les voit, pour tous soins, se mêler de bien vivre.</l>
+<l>Jamais contre un pécheur ils n’ont d’acharnement,</l>
+<l>Ils attachent leur haine au péché seulement,</l>
+<l>Et ne veulent point prendre, avec un zèle extrême,</l>
+<l>Les intérêts du ciel, plus qu’il ne veut lui-même.</l>
+<l>Voilà mes gens, voilà comme il en faut user,</l>
+<l>Voilà l’exemple enfin qu’il se faut proposer.</l>
+<l>Votre homme, à dire vrai, n’est pas de ce modèle ;</l>
+<pagenum num="327"/>
+<l>C’est de fort bonne foi que vous vantez son zèle :</l>
+<l>Mais par un faux éclat je vous crois ébloui<noteref noteid="note.327.1"/>.</l>
+
+<notes>
+  <note id="note.327.1">
+    <p>La distinction entre la vraie piété et la fausse dévotion, si solidement établie par Cléante est en même temps la morale de la pièce et l’apologie de l’auteur. (La Harpe.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Monsieur mon cher beau-frère, avez-vous tout dit ?</l>
+
+<hstage><speaker>CLEANTE</speaker></hstage>
+<l cont='true'>Oui.</l>
+
+<hstage><speaker>ORGON</speaker>, s’en allant.</hstage>
+<l>Je suis votre valet.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>De grâce, un mot, mon frère.</l>
+<l>Laissons là ce discours. Vous savez que Valère,</l>
+<l>Pour être votre gendre a parole de vous.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Vous aviez pris jour pour un lien si doux.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Il est vrai.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Pourquoi donc en différer la fête ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Je ne sais.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Auriez-vous autre pensée en tête ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Peut-être.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Vous voulez manquer à votre foi ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Je ne dis pas cela.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Nul obstacle, je croi,</l>
+<l>Ne vous peut empêcher d’accomplir vos promesses.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Selon.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Pour dire un mot faut-il tant de finesses ?</l>
+<l>Valère, sur ce point, me fait vous visiter.</l>
+
+<pagenum num="328"/>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Le ciel en soit loué !</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Mais que lui reporter ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Tout ce qu’il vous plaira.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Mais il est nécessaire</l>
+<l>De savoir vos desseins. Quels sont-ils donc ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>De faire</l>
+<l>Ce que le ciel voudra.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Mais parlons tout de bon.</l>
+<l>Valère a votre foi ; la tiendrez-vous, ou non ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Adieu.</l>
+
+<hstage><speaker>CLÉANTE</speaker>, seul.</hstage>
+<l cont='true'>Pour son amour je crains une disgrâce,</l>
+<l>Et je dois l’avertir de tout ce qui se passe.</l>
+
+<vsep class="rule"/>
+
+<h2 id="p13">ACTE SECOND</h2>
+
+<h3 id="p14">SCÈNE I. — ORGON, MARIANE</h3>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Mariane !</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Mon père ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Approchez ; j’ai de quoi</l>
+<l>Vous parler en secret.</l>
+
+<hstage><speaker>MARIANE</speaker>, à Orgon, qui regarde dans un cabinet.</hstage>
+<l cont='true'>Que chezchez-vous ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Je voi</l>
+<l>Si quelqu’un n’est point là qui pourroit nous entendre,</l>
+<l>Car ce petit endroit est propre pour surprendre.</l>
+<l>Or sus, nous voilà bien. J’ai, Mariane, en vous,</l>
+<l>Reconnu de tout temps un esprit assez doux,</l>
+<l>Et de tout temps aussi vous m’avez été chère.</l>
+
+<pagenum num="329"/>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Je suis fort redevable à cet amour de père.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>C’est fort bien dit, ma fille ; et, pour le mériter,</l>
+<l>Vous devez n’avoir soin que de me contenter.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>C’est où je mets aussi ma gloire la plus haute.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Fort bien. Que dites-vous de Tartuffe notre hôte ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Qui, moi ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Vous. Voyez bien comme vous répondrez.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Hélas ! j’en dirai, moi, tout ce que vous voudrez.</l>
+
+<h3 id="p15">SCÈNE II. — ORGON, MARIANE ; DORINE, <i>entrant doucement, et se tenant derrière Orgon, sans être vue.</i></h3>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>C’est parler sagement... Dites-moi donc, ma fille,</l>
+<l>Qu’en toute sa personne un haut mérite brille,</l>
+<l>Qu’il touche votre cœur, et qu’il vous seroit doux</l>
+<l>De le voir, par mon choix, devenir votre époux.</l>
+<l>Eh ?</l>
+<pstage>Mariane se recule avec surprise.</pstage>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Eh ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Qu’est-ce ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Plaît-il ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Quoi ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Me suis-je méprise ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Qui voulez-vous, mon père, que je dise</l>
+<l>Qui me touche le cœur, et qu’il me seroit doux</l>
+<l>De voir, par votre choix, devenir mon époux ?</l>
+
+<pagenum num="330"/>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Tartuffe.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Il n’en est rien, mon père, je vous jure.</l>
+<l>Pourquoi me faire dire une telle imposture ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Mais je veux que cela soit une vérité ;</l>
+<l>Et c’est assez pour vous que je l’aie arrêté.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Quoi ! vous voulez, mon père...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Oui, je prétends, ma fille,</l>
+<l>Unir, par votre hymen, Tartuffe à ma famille.</l>
+<l>Il sera votre époux, j’ai résolu cela ;</l>
+<pstage>Apercevant Dorine.</pstage>
+<l>Et, comme sur vos vœux je... Que faites-vous là ?</l>
+<l>La curiosité qui vous presse est bien forte,</l>
+<l>Ma mie, à nous venir écouter de la sorte.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Vraiment, je ne sais pas si c’est un bruit qui part</l>
+<l>De quelque conjecture ou d’un coup de hasard ;</l>
+<l>Mais de ce mariage on m’a dit la nouvelle,</l>
+<l>Et j’ai traité cela de pure bagatelle.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Quoi donc ! la chose est-elle incroyable ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>A tel point,</l>
+<l>Que vous-même, monsieur, je ne vous en crois point.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Je sais bien le moyen de vous le faire croire.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Oui ! oui ! vous nous contez une plaisante histoire !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Je conte justement ce qu’on verra dans peu.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Chansons !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Ce que je dis, ma fille, n’est point jeu.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Allez, ne croyez point à monsieur votre père ;</l>
+<l>Il raille.</l>
+
+<pagenum num="331"/>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Je vous dis...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Non, vous avez beau faire,</l>
+<l>On ne vous croira point.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>A la fin, mon courroux...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Eh bien, on vous croit donc ; et c’est tant pis pour vous.</l>
+<l>Quoi ! se peut-il, monsieur, qu’avec l’air d’homme sage,</l>
+<l>Et cette large barbe au milieu du visage,</l>
+<l>Vous soyez assez fou pour vouloir ?...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Écoutez :</l>
+<l>Vous avez pris céans certaines privautés</l>
+<l>Qui ne me plaisent point ; je vous le dis, ma mie.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Parlons sans nous fâcher, monsieur, je vous supplie.</l>
+<l>Vous moquez-vous des gens d’avoir fait ce complot ?</l>
+<l>Votre fille n’est point l’affaire d’un bigot :</l>
+<l>Il a d’autres emplois auxquels il faut qu’il pense.</l>
+<l>Et puis, que vous apporte une telle alliance ?</l>
+<l>A quel sujet aller, avec tout votre bien,</l>
+<l>Choisir un gendre gueux ?...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Taisez-vous. S’il n’a rien,</l>
+<l>Sachez que c’est par là qu’il faut qu’on le révère.</l>
+<l>Sa misère est sans doute une honnête misère ;</l>
+<l>Au-dessus des grandeurs elle doit l’élever,</l>
+<l>Puisque enfin de son bien il s’est laissé priver</l>
+<l>Par son trop peu de soin des choses temporelles</l>
+<l>Et sa puissante attache aux choses éternelles.</l>
+<l>Mais mon secours pourra lui donner les moyens</l>
+<l>De sortir d’embarras et rentrer dans ses biens :</l>
+<l>Ce sont fiefs qu’à bon titre au pays on renomme,</l>
+<l>Et, tel que l’on le voit, il est bien gentilhomme.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Oui, c’est lui qui le dit ; et cette vanité,</l>
+<l>Monsieur, ne sied pas bien avec la piété.</l>
+<l>Qui d’une sainte vie embrasse l’innocence</l>
+<l>Ne doit pas tant prôner son nom et sa naissance ;</l>
+<l>Et l’humble procédé de la dévotion</l>
+<pagenum num="332"/>
+<l>Souffre mal les éclats de cette ambition.</l>
+<l>A quoi bon cet orgueil ?... Mais ce discours vous blesse ;</l>
+<l>Parlons de sa personne, et laissons sa noblesse.</l>
+<l>Ferez-vous possesseur, sans quelque peu d’ennui,</l>
+<l>D’une fille comme elle un homme comme lui ?</l>
+<l>Et ne devez-vous pas songer aux bienséances,</l>
+<l>Et de cette union prévoir les conséquences ?</l>
+<l>Sachez que d’une fille on risque la vertu,</l>
+<l>Lorsque dans son hymen son goût est combattu,</l>
+<l>Que le dessein d’y vivre en honnête personne</l>
+<l>Dépend des qualités du mari qu’on lui donne,</l>
+<l>Et que ceux dont partout on montre au doigt le front</l>
+<l>Font leurs femmes souvent ce qu’on voit qu’elles sont.</l>
+<l>Il est bien difficile enfin d’être fidèle</l>
+<l>A de certains maris faits d’un certain modèle ;</l>
+<l>Et qui donne à sa fille un homme qu’elle hait</l>
+<l>Est responsable au ciel des fautes qu’elle fait.</l>
+<l>Songez à quels périls votre dessein vous livre.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Je vous dis qu’il me faut apprendre d’elle à vivre !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Vous n’en feriez que mieux de suivre mes leçons.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ne nous amusons point, ma fille, à ces chansons ;</l>
+<l>Je sais ce qu’il vous faut, et je suis votre père.</l>
+<l>J’avois donné pour vous ma parole à Valère :</l>
+<l>Mais, outre qu’à jouer on dit qu’il est enclin,</l>
+<l>Je le soupçonne encor d’être un peu libertin ;</l>
+<l>Je ne remarque point qu’il hante les églises.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Voulez-vous qu’il y coure à vos heures précises,</l>
+<l>Comme ceux qui n’y vont que pour être aperçus ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Je ne demande pas votre avis là-dessus.</l>
+<l>Enfin, avec le ciel l’autre est le mieux du monde,</l>
+<l>Et c’est une richesse à nulle autre seconde.</l>
+<l>Cet hymen de tous biens comblera vos désirs,</l>
+<l>Il sera tout confit en douceurs et plaisirs.</l>
+<l>Ensemble vous vivrez, dans vos ardeurs fidèles,</l>
+<l>Comme deux vrais enfants, comme deux tourterelles.</l>
+<l>A nul fâcheux débat jamais vous n’en viendrez ;</l>
+<l>Et vous ferez de lui tout ce que vous voudrez.</l>
+
+<pagenum num="333"/>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Elle ? Elle n’en fera qu’un sot<noteref noteid="note.333.1"/>, je vous assure.</l>
+
+<notes>
+  <note id="note.333.1">
+    <p>On sait quel ridicule s’attache chez nous au mari d’une femme infidèle ; faudrait-il une autre preuve que l’acception dans laquelle <i>sot</i> est pris ici par Dorine ? (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ouais ! quels discours !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Je dis qu’il en a l’encolure,</l>
+<l>Et que son ascendant, monsieur, l’emportera</l>
+<l>Sur toute la vertu que votre fille aura.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Cessez de m’interrompre, et songez à vous taire,</l>
+<l>Sans mettre votre nez où vous n’avez que faire.</l>
+
+<hstage><speaker>DORINE</speaker> ; elle l’interrompt toujours au moment où il se retourne pour parler à sa fille.</hstage>
+<l>Je n’en parle, monsieur, que pour votre intérêt.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>C’est prendre trop de soin ; taisez-vous, s’il vous plaît !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Si l’on ne vous aimoit...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Je ne veux pas qu’on m’aime.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Et je veux vous aimer, monsieur, malgré vous-même.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ah !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Votre honneur m’est cher, et je ne puis souffrir</l>
+<l>Qu’aux brocards d’un chacun vous alliez vous offrir.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Vous ne vous tairez point ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>C’est une conscience</l>
+<l>Que de vous laisser faire une telle alliance.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Te tairas-tu, serpent, dont les traits effrontés...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Ah ! vous êtes dévot, et vous vous emportez !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Oui, ma bile s’échauffe à toutes ces fadaises,</l>
+<pagenum num="334"/>
+<l>Et tout résolument je veux que tu te taises.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Soit. Mais, ne disant mot, je n’en pense pas moins.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Pense, si tu le veux ; mais applique tes soins</l>
+<pstage>Se retournant vers sa fille.</pstage>
+<l>A ne m’en point parler, ou... Suffit... Comme sage,</l>
+<l>J’ai pesé mûrement toutes choses.</l>
+
+<hstage><speaker>DORINE</speaker>, à part.</hstage>
+<l cont='true'>J’enrage</l>
+<l>De ne pouvoir parler !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Sans être damoiseau,</l>
+<l>Tartuffe est fait de sorte...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Oui, c’est un beau museau !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Que, quand tu n’aurois même aucune sympathie</l>
+<l>Pour tous les autres dons...</l>
+
+<hstage><speaker>DORINE</speaker>, à part.</hstage>
+<l cont='true'>La voilà bien lotie !</l>
+<pstage>Orgon se tourne du côté de Dorine, et, les bras croisés, l’écoute et la regarde en face.</pstage>
+<l>Si j’étois en sa place, un homme assurément</l>
+<l>Ne m’épouseroit pas de force impunément ;</l>
+<l>Et je lui ferois voir, bientôt après la fête,</l>
+<l>Qu’une femme a toujours une vengeance prête.</l>
+
+<hstage><speaker>ORGON</speaker>, à Dorine.</hstage>
+<l>Donc, de ce que je dis on ne fera nul cas ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>De quoi vous plaignez-vous ? Je ne vous parle pas,</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Qu’est-ce que tu fais donc ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Je me parle à moi-même.</l>
+
+<hstage><speaker>ORGON, à part.</speaker></hstage>
+<l>Fort bien. Pour châtier son insolence extrême,</l>
+<l>Il faut que je lui donne un revers de ma main.</l>
+<pstage>Il se met en posture de donner un soufflet à Dorine, et, à chaque mot qu’il dit à sa fille, il se tourne pour regarder Dorine, qui se tient droite sans parler.</pstage>
+<pagenum num="335"/>
+<l>Ma fille, vous devez approuver mon dessein...</l>
+<l>Croire que le mari... que j’ai su vous élire...</l>
+<pstage>A Dorine.</pstage>
+<l>Que ne te parles-tu ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Je n’ai rien à me dire.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Encore un petit mot.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Il ne me plaît pas, moi.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Certes, je t’y guettois.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Quelque sotte, ma foi !...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Enfin, ma fille, il faut payer d’obéissance ;</l>
+<l>Et montrer pour mon choix entière déférence.</l>
+
+<hstage><speaker>DORINE</speaker>, en s’enfuyant.</hstage>
+<l>Je me moquerois fort de prendre un tel époux.</l>
+
+<hstage><speaker>ORGON</speaker>, après avoir manqué de donner un soufflet à Dorine.</hstage>
+<l>Vous avez là, ma fille, une peste avec vous,</l>
+<l>Avec qui, sans péché, je ne saurois plus vivre.</l>
+<l>Je me sens hors d’état maintenant de poursuivre :</l>
+<l>Ses discours insolents m’ont mis l’esprit en feu,</l>
+<l>Et je vais prendre l’air pour me rasseoir un peu.</l>
+
+<h3 id="p16">SCÈNE III. — MARIANE, DORINE</h3>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Avez-vous donc perdu, dites-moi, la parole ?</l>
+<l>Et faut-il qu’en ceci je fasse votre rôle ?</l>
+<l>Souffrir qu’on vous propose un projet insensé,</l>
+<l>Sans que du moindre mot vous l’ayez repoussé !</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Contre un père absolu que veux-tu que je fasse ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Ce qu’il faut pour parer une telle menace.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Quoi ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Lui dire qu’un cœur n’aime point par autrui,</l>
+<l>Que vous vous mariez pour vous, non pas pour lui,</l>
+<pagenum num="336"/>
+<l>Qu’étant celle pour qui se fait toute l’affaire,</l>
+<l>C’est à vous, non à lui, que le mari doit plaire ;</l>
+<l>Et que, si son Tartuffe est pour lui si charmant,</l>
+<l>Il le peut épouser sans nul empêchement.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Un père, je l’avoue, a sur nous tant d’empire,</l>
+<l>Que je n’ai jamais eu la force de rien dire.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Mais raisonnons. Valère a fait pour vous des pas :</l>
+<l>L’aimez-vous, je vous prie, ou ne l’aimez-vous pas ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Ah ! qu’envers mon amour ton injustice est grande, Dorine !</l>
+<l>Me dois-tu faire cette demande ?</l>
+<l>T’ai-je pas là-dessus ouvert cent fois mon cœur ?</l>
+<l>Et sais-tu pas pour lui jusqu’où va mon ardeur ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Que sais-je si le cœur a parlé par la bouche,</l>
+<l>Et si c’est tout de bon que cet amant vous touche ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Tu me fais un grand tort, Dorine, d’en douter ;</l>
+<l>Et mes vrais sentiments ont su trop éclater.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Enfin, vous l’aimez donc ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Oui, d’une ardeur extrême</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Et, selon l’apparence, il vous aime de même.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Je le crois.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Et tous deux brûlez également</l>
+<l>De vous voir mariés ensemble ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Assurément.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Sur cette autre union quelle est donc votre attente ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>De me donner la mort, si l’on me violente.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Fort bien. C’est un recours où je ne songeois pas ;</l>
+<pagenum num="337"/>
+<l>Vous n’avez qu’à mourir pour sortir d’embarras.</l>
+<l>Le remède, sans doute, est merveilleux. J’enrage</l>
+<l>Lorsque j’entends tenir ces sortes de langage !</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Mon Dieu ! de quelle humeur, Dorine, tu te rends !</l>
+<l>Tu ne compatis point aux déplaisirs des gens.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Je ne compatis point à qui dit des sornettes,</l>
+<l>Et dans l’occasion mollit comme vous faites.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Mais que veux-tu ? si j’ai de la timidité...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Mais l’amour dans un cœur veut de la fermeté.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Mais n’en gardé-je pas pour les feux de Valère ?</l>
+<l>Et n’est-ce pas à lui de m’obtenir d’un père ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Mais quoi ! si votre père est un bourru fieffé,</l>
+<l>Qui s’est de son Tartuffe entièrement coiffé,</l>
+<l>Et manque à l’union qu’il avoit arrêtée,</l>
+<l>La faute à votre amant doit-elle être imputée ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Mais, par un haut refus et d’éclatants mépris</l>
+<l>Ferai-je, dans mon choix, voir un cœur trop épris ?</l>
+<l>Sortirai-je pour lui, quelque éclat dont il brille.</l>
+<l>De la pudeur du sexe et du devoir de fille ?</l>
+<l>Et veux-tu que mes feux sur le monde étalés...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Non, non, je ne veux rien. Je vois que vous voulez</l>
+<l>Être à monsieur Tartuffe ; et j’aurois, quand j’y pense,</l>
+<l>Tort de vous détourner d’une telle alliance.</l>
+<l>Quelle raison aurois-je à combattre vos vœux ?</l>
+<l>Le parti de soi-même est fort avantageux.</l>
+<l>Monsieur Tartuffe ! oh ! oh ! n’est-ce rien qu’on propose ?</l>
+<l>Certes, monsieur Tartuffe, à bien prendre la chose,</l>
+<l>N’est pas un homme, non, qui se mouche du pied ;</l>
+<l>Et ce n’est pas peu d’heur que d’être sa moitié.</l>
+<l>Tout le monde déjà de gloire le couronne ;</l>
+<l>Il est noble chez lui, bien fait de sa personne ;</l>
+<l>Il a l’oreille rouge et le teint bien fleuri :</l>
+<l>Vous vivrez trop contente avec un tel mari.</l>
+
+<pagenum num="338"/>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Mon Dieu !...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Quelle allégresse aurez-vous dans votre âme,</l>
+<l>Quand d’un époux si beau vous vous verrez la femme !</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Ah ! cesse, je te prie, un semblable discours,</l>
+<l>Et contre cet hymen ouvre-moi du secours.</l>
+<l>C’en est fait, je me rends, et suis prête à tout faire.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Non, il faut qu’une fille obéisse à son père,</l>
+<l>Voulût-il lui donner un singe pour époux.</l>
+<l>Votre sort est fort beau, de quoi vous plaignez-vous ?</l>
+<l>Vous irez par le coche en sa petite ville,</l>
+<l>Qu’en oncles et cousins vous trouverez fertile,</l>
+<l>Et vous vous plairez fort à les entretenir.</l>
+<l>D’abord chez le beau monde on vous fera venir ;</l>
+<l>Vous irez visiter, pour votre bienvenue,</l>
+<l>Madame la baillive et madame l’élue,</l>
+<l>Qui d’un siège pliant vous feront honorer.</l>
+<l>Là, dans le carnaval, vous pourrez espérer</l>
+<l>Le bal et la grand’bande, assavoir<noteref noteid="note.338.1"/>, deux musettes,</l>
+<l>Et parfois Fagotin<noteref noteid="note.338.2"/>, et les marionnettes ;</l>
+<l>Si pourtant votre époux...</l>
+
+<notes>
+  <note id="note.338.1">
+    <p>Toutes les éditions portent à tort : <i>à savoir ;</i> c’est l’ancien infinitif <i>assavoir.</i> (P. Génin.)</p>
+  </note>
+  <note id="note.338.2">
+    <p>Singe fameux par sa souplesse et sa dextérité.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Ah ! tu me fais mourir !</l>
+<l>De tes conseils plutôt songe à me secourir.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Je suis votre servante.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Eh ! Dorine, de grâce...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Il faut, pour vous punir, que cette affaire passe.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Ma pauvre fille !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Non.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Si mes vœux déclarés...</l>
+
+<pagenum num="339"/>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Point. Tartuffe est votre homme, et vous en tâterez.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Tu sais qu’à toi toujours je me suis confiée :</l>
+<l>Fais-moi...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Non, vous serez, ma foi, tartuffiée.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Eh bien, puisque mon sort ne sauroit t’émouvoir,</l>
+<l>Laisse-moi désormais toute à mon désespoir :</l>
+<l>C’est de lui que mon cœur empruntera de l’aide ;</l>
+<l>Et je sais de mes maux l’infaillible remède.</l>
+
+<pstage>Elle veut s’en aller.</pstage>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Eh ! la, la, revenez. Je quitte mon courroux.</l>
+<l>Il faut, nonobstant tout, avoir pitié de vous.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Vois-tu, si l’on m’expose à ce cruel martyre,</l>
+<l>Je te le dis, Dorine, il faudra que j’expire.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Ne vous tourmentez point. On peut adroitement</l>
+<l>Empêcher... Mais voici Valère, votre amant.</l>
+
+<h3 id="p17">SCÈNE IV. — VALÈRE, MARIANE, DORINE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>On vient de débiter, madame, une nouvelle</l>
+<l>Que je ne savois pas, et qui sans doute est belle.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Quoi ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Que vous épousez Tartuffe.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Il est certain</l>
+<l>Que mon père s’est mis en tête ce dessein.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Votre père, madame...</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>A changé de visée :</l>
+<l>La chose vient par lui de m’être proposée.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Quoi ! sérieusement ?</l>
+
+<pagenum num="340"/>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Oui, sérieusement.</l>
+<l>Il s’est pour cet hymen déclaré hautement.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Et quel est le dessein où votre âme s’arrête,</l>
+<l>Madame ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Je ne sais.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>La réponse est honnête :</l>
+<l>Vous ne savez ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Non.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Non ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Que me conseillez-vous ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Je vous conseille, moi, de prendre cet époux.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Vous me le conseillez ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Oui.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Tout de bon ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Sans doute.</l>
+<l>Le choix est glorieux, et vaut bien qu’on l’écoute.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Eh bien, c’est un conseil, monsieur, que je reçois.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Vous n’aurez pas grand’peine à le suivre, je crois.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Pas plus qu’à le donner n’en a souffert votre âme.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Moi, je vous l’ai donné pour vous plaire, madame.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Et moi, je le suivrai pour vous faire plaisir.</l>
+
+<hstage><speaker>DORINE</speaker>, se retirant dans le fond du théâtre.</hstage>
+<l>Voyons ce qui pourra de ceci réussir.</l>
+
+<pagenum num="341"/>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>C’est donc ainsi qu’on aime ? Et c’étoit tromperie</l>
+<l>Quand vous...</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Ne parlons point de cela, je vous prie ;</l>
+<l>Vous m’avez dit tout franc que je dois accepter</l>
+<l>Celui que pour époux on me veut présenter,</l>
+<l>Et je déclare, moi, que je prétends le faire,</l>
+<l>Puisque vous m’en donnez le conseil salutaire.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Ne vous excusez point sur mes intentions.</l>
+<l>Vous aviez pris déjà vos résolutions ;</l>
+<l>Et vous vous saisissez d’un prétexte frivole</l>
+<l>Pour vous autoriser à manquer de parole.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Il est vrai, c’est bien dit.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Sans doute ; et votre cœur,</l>
+<l>N’a jamais eu pour moi de véritable ardeur.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Hélas ! permis à vous d’avoir cette pensée.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Oui, oui, permis à moi : mais mon âme offensée</l>
+<l>Vous préviendra peut-être en un pareil dessein ;</l>
+<l>Et je sais où porter et mes vœux et ma main.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Ah ! je n’en doute point ; et les ardeurs qu’excite</l>
+<l>Le mérite...</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Mon Dieu ! laissons là le mérite.</l>
+<l>J’en ai fort peu sans doute, et vous en faites foi.</l>
+<l>Mais j’espère aux bontés qu’une autre aura pour moi ;</l>
+<l>Et j’en sais de qui l’âme, à ma retraite ouverte,</l>
+<l>Consentira sans honte à réparer ma perte.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>La perte n’est pas grande ; et de ce changement</l>
+<l>Vous vous consolerez assez facilement.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>J’y ferai mon possible, et vous le pouvez croire.</l>
+<l>Un cœur qui nous oublie engage notre gloire ;</l>
+<l>Il faut à l’oublier mettre aussi tous nos soins ;</l>
+<pagenum num="342"/>
+<l>Si l’on n’en vient à bout, on le doit feindre au moins,</l>
+<l>Et cette lâcheté jamais ne se pardonne,</l>
+<l>De montrer de l’amour pour qui nous abandonne.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Ce sentiment sans doute est noble et relevé.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Fort bien ; et d’un chacun il doit être approuvé.</l>
+<l>Eh quoi ! vous voudriez qu’à jamais dans mon âme</l>
+<l>Je gardasse pour vous les ardeurs de ma flamme.</l>
+<l>Et vous visse, à mes yeux, passer en d’autres bras,</l>
+<l>Sans mettre ailleurs un cœur dont vous ne voulez pas ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Au contraire ; pour moi, c’est ce que je souhaite ;</l>
+<l>Et je voudrois déjà que la chose fût faite.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Vous le voudriez ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Oui.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>C’est assez m’insulter,</l>
+<l>Madame ; et, de ce pas, je vais vous contenter.</l>
+<pstage>Il fait un pas pour s’en aller.</pstage>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Fort bien.</l>
+
+<hstage><speaker>VALÈRE</speaker>, revenant.</hstage>
+<l cont='true'>Souvenez-vous au moins que c’est vous-même</l>
+<l>Qui contraignez mon cœur à cet effort extrême.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>VALÈRE</speaker>, revenant encore.</hstage>
+<l cont='true'>Et que le dessein que mon âme conçoit</l>
+<l>N’est rien qu’à votre exemple.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>A mon exemple, soit.</l>
+
+<hstage><speaker>VALÈRE</speaker>, en sortant.</hstage>
+<l>Suffit : vous allez être à point nommé servie.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Tant mieux.</l>
+
+<hstage><speaker>VALÈRE</speaker>, revenant encore.</hstage>
+<l cont='true'>Vous me voyez, c’est pour toute ma vie.</l>
+
+<pagenum num="343"/>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>A la bonne heure.</l>
+
+<hstage><speaker>VALÈRE</speaker> s’en va, et, lorsqu’il est vers la porte, il se retourne.</hstage>
+<l cont='true'>Eh ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Quoi ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Ne m’appelez-vous pas ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Moi ! Vous rêvez.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Eh bien, je poursuis donc mes pas.</l>
+<l>Adieu, madame.</l>
+<pstage>Il s’en va lentement.</pstage>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Adieu, monsieur.</l>
+
+<hstage><speaker>DORINE</speaker>, à Mariane.</hstage>
+<l cont='true'>Pour moi, je pense</l>
+<l>Que vous perdez l’esprit par cette extravagance :</l>
+<l>Et je vous ai laissés tout du long quereller,</l>
+<l>Pour voir où tout cela pourroit enfin aller.</l>
+<l>Holà ! seigneur Valère.</l>
+<pstage>Elle arrête Valère par le bras.</pstage>
+
+<hstage><speaker>VALÈRE</speaker>, feignant de résister.</hstage>
+<l cont='true'>Eh ? que veux-tu, Dorine ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Venez ici.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Non, non, le dépit me domine.</l>
+<l>Ne me détourne point de ce qu’elle a voulu.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Arrêtez.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Non, vois-tu, c’est un point résolu.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Ah !</l>
+
+<hstage><speaker>MARIANE</speaker>, à part.</hstage>
+<l cont='true'>Il souffre à me voir, ma présence le chasse ;</l>
+<l>Et je ferai bien mieux de lui quitter la place.</l>
+
+<hstage><speaker>DORINE</speaker>, quittant Valère, et courant après Mariane.</hstage>
+<l>A l’autre ! Où courez-vous ?</l>
+
+<pagenum num="344"/>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Laisse.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Il faut revenir.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Non, non, Dorine ; en vain tu veux me retenir.</l>
+
+<hstage><speaker>VALÈRE</speaker>, à part.</hstage>
+<l>Je vois bien que ma vue est pour elle un supplice.</l>
+<l>Et, sans doute, il vaut mieux que je l’en affranchisse.</l>
+
+<hstage><speaker>DORINE</speaker>, quittant Mariane, et courant après Valère.</hstage>
+<l>Encor ! Diantre soit fait de vous ! Si. je le veux.</l>
+<l>Cessez ce badinage ; et venez çà tous deux.</l>
+<pstage>Elle prend Valère et Mariane par la main et les ramène.</pstage>
+
+<hstage><speaker>VALÈRE</speaker>, à Dorine.</hstage>
+<l>Mais quel est ton dessein ?</l>
+
+<hstage><speaker>MARIANE</speaker>, à Dorine.</hstage>
+<l cont='true'>Qu’est-ce que tu veux faire ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Vous bien remettre ensemble, et vous tirer d’affaire.</l>
+<pstage>A Valère.</pstage>
+<l>Êtes-vous fou d’avoir un pareil démêlé ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>N’as-tu pas entendu comme elle m’a parlé ?</l>
+
+<hstage><speaker>DORINE</speaker>, à Mariane.</hstage>
+<l>Êtes-vous folle, vous, de vous être emportée ?</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>N’as-tu pas vu la chose, et comme il m’a traitée ?</l>
+
+<hstage><speaker>DORINE</speaker>, à Valère.</hstage>
+<l>Sottise des deux parts. Elle n’a d’autre soin</l>
+<l>Que de se conserver à vous, j’en suis témoin.</l>
+<pstage>A Mariane.</pstage>
+<l>Il n’aime que vous seule, et n’a point d’autre envie</l>
+<l>Que d’être votre époux ; j’en réponds sur ma vie.</l>
+
+<hstage><speaker>MARIANE</speaker>, à Valère.</hstage>
+<l>Pourquoi donc me donner un semblable conseil ?</l>
+
+<hstage><speaker>VALÈRE</speaker>, à Mariane.</hstage>
+<l>Pourquoi m’en demander sur un sujet pareil ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Vous êtes fous tous deux. Ça, la main l’un et l’autre.</l>
+<pagenum num="345"/>
+<pstage>A Valère.</pstage>
+<l>Allons, vous.</l>
+
+<hstage><speaker>VALÈRE</speaker>, en donnant sa main à Dorine.</hstage>
+<l cont='true'>A quoi bon ma main ?</l>
+
+<hstage><speaker>DORINE</speaker>, à Mariane.</hstage>
+<l cont='true'>Ah çà ! la vôtre.</l>
+
+<hstage><speaker>MARIANE</speaker>, en donnant aussi sa main.</hstage>
+<l>De quoi sert tout cela ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Mon Dieu ! vite, avancez.</l>
+<l>Vous vous aimez tous deux, plus que vous ne pensez.</l>
+<pstage>Valère et Mariane se tiennent quelque temps par la main sans se regarder.</pstage>
+
+<hstage><speaker>VALÈRE</speaker>, se tournant vers Mariane.</hstage>
+<l>Mais ne faites donc point les choses avec peine ;</l>
+<l>Et regardez un peu les gens sans nulle haine.</l>
+<pstage>Mariane se tourne du côté de Valère en lui souriant.</pstage>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>A vous dire le vrai, les amants sont bien fous !</l>
+
+<hstage><speaker>VALÈRE</speaker>, à Mariane.</hstage>
+<l>Oh çà ! n’ai-je pas lieu de me plaindre de vous<noteref noteid="note.345.1"/> ?</l>
+<l>Et, pour n’en point mentir, n’êtes-vous pas méchante</l>
+<l>De vous plaire à me dire une chose affligeante ?</l>
+
+<notes>
+  <note id="note.345.1">
+    <p>Voilà le trait le plus charmant de cette scène délicieuse. Ce n’est pas là un mot plaisant, un joli vers ; c’est la nature prise sur le fait par le génie.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Mais vous, n’êtes-vous pas l’homme le plus ingrat ?...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Pour une autre saison laissons tout ce débat,</l>
+<l>Et songeons à parer ce fâcheux mariage.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Dis-nous donc quels ressorts il faut mettre en usage.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Nous en ferons agir de toutes les façons.</l>
+<pstage>A Mariane.</pstage>
+<l>Votre père se moque,</l>
+<pstage>A Valère.</pstage>
+<l cont='true'>et ce sont des chansons.</l>
+<pstage>A Mariane.</pstage>
+<l>Mais, pour vous, il vaut mieux qu’à son extravagance</l>
+<l>D’un doux consentement vous prêtiez l’apparence,</l>
+<pagenum num="346"/>
+<l>Afin qu’en cas d’alarme il vous soit plus aisé</l>
+<l>De tirer en longueur cet hymen proposé.</l>
+<l>En attrapant du temps, à tout on remédie.</l>
+<l>Tantôt vous payerez de quelque maladie</l>
+<l>Qui viendra tout à coup, et voudra des délais ;</l>
+<l>Tantôt vous payerez de présages mauvais ;</l>
+<l>Vous aurez fait d’un mort la rencontre fâcheuse,</l>
+<l>Cassé quelque miroir, ou songé d’eau bourbeuse.</l>
+<l>Enfin, le bon de tout, c’est qu’à d’autres qu’à lui,</l>
+<l>On ne vous peut lier que vous ne disiez oui.</l>
+<l>Mais, pour mieux réussir, il est bon, ce me semble,</l>
+<l>Qu’on ne vous trouve point tous deux parlant ensemble.</l>
+<pstage>A Valère.</pstage>
+<l>Sortez ; et, sans tarder, employez vos amis</l>
+<l>Pour vous faire tenir ce qu’on vous a promis.</l>
+<l>Nous allons réveiller les efforts de son frère,</l>
+<l>Et dans notre parti jeter la belle-mère.</l>
+<l>Adieu.</l>
+
+<hstage><speaker>VALÈRE</speaker>, à Mariane.</hstage>
+<l cont='true'>Quelques efforts que nous préparions tous,</l>
+<l>Ma plus grande espérance, à vrai dire, est en vous.</l>
+
+<hstage><speaker>MARIANE</speaker>, à Valère.</hstage>
+<l>Je ne vous réponds pas des volontés d’un père ;</l>
+<l>Mais je ne serai point à d’autre qu’à Valère.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Que vous me comblez d’aise ! et, quoi que puisse oser...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Ah ! jamais les amants ne sont las de jaser.</l>
+<l>Sortez, vous dis-je.</l>
+
+<hstage><speaker>VALÈRE</speaker> ; il fait un pas et revient.</hstage>
+<l cont='true'>Enfin...</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Quel caquet est le vôtre !</l>
+<l>Tirez de cette part ; et vous, tirez de l’autre.</l>
+<pstage>Dorine les pousse chacun par l’épaule et les oblige de se séparer.</pstage>
+
+<vsep class="rule"/>
+<pagenum num="347"/>
+
+<h2 id="p18">ACTE TROISIÈME</h2>
+
+<h3 id="p19">SCÈNE I. — DAMIS, DORINE</h3>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Que la foudre, sur l’heure, achève mes destins,</l>
+<l>Qu’on me traite partout du plus grand des faquins,</l>
+<l>S’il est aucun respect ni pouvoir qui m’arrête,</l>
+<l>Et si je ne fais pas quelque coup de ma tête !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>De grâce, modérez un tel emportement :</l>
+<l>Votre père n’a fait qu’en parler simplement.</l>
+<l>On n’exécute pas tout ce qui se propose ;</l>
+<l>Et le chemin est long du projet à la chose.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Il faut que de ce fat j’arrête les complots,</l>
+<l>Et qu’à l’oreille un peu je lui dise deux mots.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Ah ! tout doux ! envers lui, comme envers votre père.</l>
+<l>Laissez agir les soins de votre belle-mère.</l>
+<l>Sur l’esprit de Tartuffe elle a quelque crédit,</l>
+<l>Il se rend complaisant à tout ce qu’elle dit,</l>
+<l>Et pourroit bien avoir douceur de cœur pour elle.</l>
+<l>Plût à Dieu qu’il fût vrai ! la chose seroit belle<noteref noteid="note.347.1"/>.</l>
+<l>Enfin, votre intérêt l’oblige à le mander :</l>
+<l>Sur l’hymen qui vous trouble elle veut le sonder,</l>
+<l>Savoir ses sentiments, et lui faire connoître</l>
+<l>Quels fâcheux démêlés il pourra faire naître,</l>
+<l>S’il faut qu’à ce dessein il prête quelque espoir.</l>
+<l>Son valet dit qu’il prie, et je n’ai pu le voir,</l>
+<l>Mais ce valet m’a dit qu’il s’en alloit descendre.</l>
+<l>Sortez donc, je vous prie, et me laissez l’attendre.</l>
+
+<notes>
+  <note id="note.347.1">
+    <p>Déjà trois fois les spectateurs ont été prévenus des sentiments de Tartufe pour Elmire : ils le seront encore une quatrième, et la déclaration suivra aussitôt. Molière avait besoin d’avertir le public d’une scène aussi extraordinaire ; et c’est en lui promettant longtemps d’avance un plaisir, celui de surprendre les secrets de l’hypocrite, qu’il prépare cette scène et qu’il en établit la vraisemblance. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Je puis être présent à tout cet entretien.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Point. Il faut qu’ils soient seuls.</l>
+
+<pagenum num="348"/>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l cont='true'>Je ne lui dirai rien.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Vous vous moquez : on sait vos transports ordinaires ;</l>
+<l>Et c’est le vrai moyen de gâter les affaires.</l>
+<l>Sortez.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l cont='true'>Non ; je veux voir, sans me mettre en courroux.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Que vous êtes fâcheux ! il vient. Retirez-vous.</l>
+<pstage>Damis va se cacher dans un cabinet qui est au fond du théâtre.</pstage>
+
+<h3 id="p20">SCÈNE II. — TARTUFFE. DORINE</h3>
+
+<hstage><speaker>TARTUFFE</speaker>, parlant haut à son valet, qui est dans la maison, dès qu’il aperçoit Dorine.</hstage>
+<l>Laurent, serrez ma haire avec ma discipline,</l>
+<l>Et priez que toujours le ciel vous illumine.</l>
+<l>Si l’on vient pour me voir, je vais aux prisonniers</l>
+<l>Des aumônes que j’ai partager les deniers.</l>
+
+<hstage><speaker>DORINE</speaker>, à part.</hstage>
+<l>Que d’affectation et de forfanterie !</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Que voulez-vous ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Vous dire...</l>
+
+<hstage><speaker>TARTUFFE</speaker>, tirant un mouchoir de sa poche.</hstage>
+<l cont='true'>Ah ! mon Dieu ! je vous prie,</l>
+<l>Avant que de parler, prenez-moi ce mouchoir.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Comment !</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l cont='true'>Couvrez ce sein que je ne saurois voir.</l>
+<l>Par de pareils objets les âmes sont blessées,</l>
+<l>Et cela fait venir de coupables pensées.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Vous êtes donc bien tendre à la tentation,</l>
+<l>Et la chair sur vos sens fait grande impression !</l>
+<l>Certes, je ne sais pas quelle chaleur vous monte :</l>
+<l>Mais, à convoiter, moi, je ne suis point si prompte,</l>
+<l>Et je vous verrois nu du haut jusques en bas,</l>
+<pagenum num="349"/>
+<l>Que toute votre peau ne me tenterait pas.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Mettez dans vos discours un peu de modestie<noteref noteid="note.349.1"/>,</l>
+<l>Ou je vais sur-le-champ vous quitter la partie.</l>
+
+<notes>
+  <note id="note.349.1">
+    <p>Donné par un autre que Tartuffe, l’avis ne semblerait pas déplacé. Mais aussi à un autre que Tartuffe, Dorine ne parlerait pas de ce ton.</p>
+  </note>
+</notes>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Non, non, c’est moi qui vais vous laisser en repos,</l>
+<l>Et je n’ai seulement qu’à vous dire deux mots.</l>
+<l>Madame va venir dans cette salle basse,</l>
+<l>Et d’un mot d’entretien vous demande la grâce.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Hélas ! très volontiers.</l>
+
+<hstage><speaker>DORINE</speaker>, à part.</hstage>
+<l cont='true'>Comme il se radoucit !</l>
+<l>Ma foi, je suis toujours pour ce que j’en ai dit.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Viendra-t-elle bientôt ?</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Je l’entends, ce me semble.</l>
+<l>Oui, c’est elle en personne, et je vous laisse ensemble.</l>
+
+<h3 id="p21">SCÈNE III. — ELMIRE, TARTUFFE</h3>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Que le ciel à jamais, par sa toute bonté,</l>
+<l>Et de l’âme et du corps vous donne la santé,</l>
+<l>Et bénisse vos jours autant que le désire</l>
+<l>Le plus humble de ceux que son amour inspire !</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Je suis fort obligée à ce souhait pieux.</l>
+<l>Mais prenons une chaise, afin d’être un peu mieux.</l>
+
+<hstage><speaker>TARTUFFE</speaker>, assis.</hstage>
+<l>Comment de votre mal vous sentez-vous remise ?</l>
+
+<hstage><speaker>ELMIRE</speaker>, assise.</hstage>
+<l>Fort bien ; et cette fièvre a bientôt quitté prise.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Mes prières n’ont pas le mérite qu’il faut</l>
+<l>Pour avoir attiré cette grâce d’en haut ;</l>
+<l>Mais je n’ai fait au ciel nulle dévote instance</l>
+<l>Qui n’ait eu pour objet votre convalescence.</l>
+
+<pagenum num="350"/>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Votre zèle pour moi s’est trop inquiété.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>On ne peut trop chérir votre chère santé ;</l>
+<l>Et, pour la rétablir, j’aurois donné la mienne.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>C’est pousser bien avant la charité chrétienne ;</l>
+<l>Et je vous dois beaucoup pour toutes ces bontés.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Je fais bien moins pour vous que vous ne méritez.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>J’ai voulu vous parler en secret d’une affaire,</l>
+<l>Et suis bien aise, ici, qu’aucun ne nous éclaire.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>J’en suis ravi de même ; et, sans doute, il m’est doux,</l>
+<l>Madame, de me voir seul à seul avec vous.</l>
+<l>C’est une occasion qu’au ciel j’ai demandée,</l>
+<l>Sans que, jusqu’à cette heure, il me l’ait accordée.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Pour moi, ce que je veux, c’est un mot d’entretien.</l>
+<l>Où tout votre cœur s’ouvre, et ne me cache rien.</l>
+<pstage>Damis, sans se montrer, entr’ouvre la porte du cabinet dans lequel il s’étoit retiré, pour entendre la conversation.</pstage>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Et je ne veux aussi, pour grâce singulière,</l>
+<l>Que montrer à vos yeux mon âme tout entière.</l>
+<l>Et vous faire serment que les bruits que j’ai faits</l>
+<l>Des visites qu’ici reçoivent vos attraits</l>
+<l>Ne sont pas envers vous l’effet d’aucune haine,</l>
+<l>Mais plutôt d’un transport de zèle qui m’entraîne,</l>
+<l>Et d’un pur mouvement...</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l cont='true'>Je le prends bien aussi,</l>
+<l>Et crois que mon salut vous donne ce souci.</l>
+
+<hstage><speaker>TARTUFFE</speaker>, prenant la main d’Elmire, et lui serrant les doigts.</hstage>
+<l>Oui, madame, sans doute, et ma ferveur est telle...</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Ouf ! vous me serrez trop.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l cont='true'>C’est par excès de zèle.</l>
+<pagenum num="351"/>
+<l>De vous faire aucun mal je n’eus jamais dessein,</l>
+<l>Et j’aurois bien plutôt...</l>
+<pstage>Il met la main sur les genoux d’Elmire.</pstage>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l cont='true'>Que fait là votre main ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Je tâte votre habit : l’étoffe en est moelleuse.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Ah ! de grâce, laissez, je suis fort chatouilleuse.</l>
+<pstage>Elmire recule son fauteuil, et Tartuffe se rapproche d’elle.</pstage>
+
+<hstage><speaker>TARTUFFE</speaker>, maniant le fichu d’Elmire</hstage>
+<l>Mon Dieu ! que de ce point l’ouvrage est merveilleux !</l>
+<l>On travaille aujourd’hui d’un air miraculeux :</l>
+<l>Jamais, en toute chose, on n’a vu si bien faire.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Il est vrai. Mais parlons un peu de notre affaire.</l>
+<l>On tient que mon mari veut dégager sa foi,</l>
+<l>Et vous donner sa fille. Est-il vrai ? dites-moi.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Il m’en a dit deux mots : mais, madame, à vrai dire,</l>
+<l>Ce n’est pas le bonheur après quoi je soupire ;</l>
+<l>Et je vois autre part les merveilleux attraits</l>
+<l>De la félicité qui fait tous mes souhaits.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>C’est que vous n’aimez rien des choses de la terre.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Mon sein n’enferme pas un cœur qui soit de pierre.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Pour moi, je crois qu’au ciel tendent tous vos soupirs,</l>
+<l>Et que rien ici-bas n’arrête vos désirs.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>L’amour qui nous attache aux beautés éternelles</l>
+<l>N’étouffe pas en nous l’amour des temporelles :</l>
+<l>Nos sens facilement peuvent être charmés</l>
+<l>Des ouvrages parfaits que le ciel a formés.</l>
+<l>Ses attraits réfléchis brillent dans vos pareilles ;</l>
+<l>Mais il étale en vous ses plus rares merveilles :</l>
+<l>Il a sur votre face épanché des beautés</l>
+<l>Dont les yeux sont surpris et les cœurs transportés,</l>
+<l>Et je n’ai pu vous voir, parfaite créature.</l>
+<pagenum num="352"/>
+<l>Sans admirer en vous l’Auteur de la nature,</l>
+<l>Et d’une ardente amour sentir mon cœur atteint,</l>
+<l>Au plus beau des portraits où lui-même il s’est peint.</l>
+<l>D’abord j’appréhendai que cette ardeur secrète</l>
+<l>Ne fût du noir esprit une surprise adroite ;</l>
+<l>Et même à fuir vos yeux mon cœur se résolut,</l>
+<l>Vous croyant un obstacle à faire mon salut.</l>
+<l>Mais enfin je connus, ô beauté tout aimable !</l>
+<l>Que cette passion peut n’être point coupable,</l>
+<l>Que je puis l’ajuster avecque la pudeur,</l>
+<l>Et c’est ce qui m’y fait abandonner mon cœur.</l>
+<l>Ce m’est, je le confesse, une audace bien grande</l>
+<l>Que d’oser de ce cœur vous adresser l’offrande ;</l>
+<l>Mais j’attends en mes vœux tout de votre bonté,</l>
+<l>Et rien des vains efforts de mon infirmité.</l>
+<l>En vous est mon espoir, mon bien, ma quiétude ;</l>
+<l>De vous dépend ma peine ou ma béatitude ;</l>
+<l>Et je vais être enfin, par votre seul arrêt,</l>
+<l>Heureux, si vous voulez ; malheureux, s’il vous plaît.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>La déclaration est tout à fait galante ;</l>
+<l>Mais elle est, à vrai dire, un peu bien surprenante.</l>
+<l>Vous deviez, ce me semble, armer mieux votre sein,</l>
+<l>Et raisonner un peu sur un pareil dessein.</l>
+<l>Un dévot comme vous, et que partout on nomme...</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Ah ! pour être dévot, je n’en suis pas moins homme ;</l>
+<l>Et, lorsqu’on vient à voir vos célestes appas,</l>
+<l>Un cœur se laisse prendre et ne raisonne pas.</l>
+<l>Je sais qu’un tel discours de moi paroît étrange :</l>
+<l>Mais, madame, après tout, je ne suis pas un ange,</l>
+<l>Et, si vous condamnez l’aveu que je vous fais,</l>
+<l>Vous devez vous en prendre à vos charmants attraits.</l>
+<l>Dès que j’en vis briller la splendeur plus qu’humaine,</l>
+<l>De mon intérieur vous fûtes souveraine ;</l>
+<l>De vos regards divins l’ineffable douceur</l>
+<l>Força la résistance où s’obstinoit. mon cœur ;</l>
+<l>Elle surmonta tout, jeûnes, prières, larmes,</l>
+<l>Et tourna tous mes vœux du côté de vos charmes.</l>
+<l>Mes yeux et mes soupirs vous l’ont dit mille fois ;</l>
+<l>Et, pour mieux m’expliquer, j’emploie ici la voix.</l>
+<l>Que si vous contemplez, d’une âme un peu bénigne,</l>
+<pagenum num="353"/>
+<l>Les tribulations de votre esclave indigne ;</l>
+<l>S’il faut que vos bontés veuillent me consoler,</l>
+<l>Et jusqu’à mon néant daignent se ravaler,</l>
+<l>J’aurai toujours pour vous, ô suave merveille !</l>
+<l>Une dévotion à nulle autre pareille.</l>
+<l>Votre honneur avec moi ne court point de hasard,</l>
+<l>Et n’a nulle disgrâce à craindre de ma part.</l>
+<l>Tous ces galants de cour, dont les femmes sont folles,</l>
+<l>Sont bruyants dans leurs faits et vains dans leurs paroles ;</l>
+<l>De leurs progrès sans cesse on les voit se targuer ;</l>
+<l>Ils n’ont point de faveurs qu’ils n’aillent divulguer ;</l>
+<l>Et leur langue indiscrète, en qui l’on se confie,</l>
+<l>Déshonore l’autel où leur cœur sacrifie.</l>
+<l>Mais les gens comme nous brûlent d’un feu discret,</l>
+<l>Avec qui, pour toujours, on est sûr du secret.</l>
+<l>Le soin que nous prenons de notre renommée</l>
+<l>Répond de toute chose à la personne aimée ;</l>
+<l>Et c’est en nous qu’on trouve, acceptant notre cœur,</l>
+<l>De l’amour sans scandale et du plaisir sans peur.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Je vous écoute dire, et votre rhétorique</l>
+<l>En termes assez forts à mon âme s’explique.</l>
+<l>N’appréhendez-vous point que je ne sois d’humeur</l>
+<l>A dire à mon mari cette galante ardeur,</l>
+<l>Et que le prompt avis d’un amour de la sorte</l>
+<l>Ne pût bien altérer l’amitié qu’il vous porte ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Je sais que vous avez trop de bénignité,</l>
+<l>Et que vous ferez grâce à ma témérité ;</l>
+<l>Que vous m’excuserez, sur l’humaine foiblesse,</l>
+<l>Des violents transports d’un amour qui vous blesse,</l>
+<l>Et considérerez, en regardant votre air,</l>
+<l>Que l’on n’est pas aveugle, et qu’un homme est de chair.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>D’autres prendroient cela d’autre façon peut-être ;</l>
+<l>Mais ma discrétion se veut faire paroître.</l>
+<l>Je ne redirai point l’affaire à mon époux ;</l>
+<l>Mais je veux, en revanche, une chose de vous :</l>
+<l>C’est de presser tout franc, et sans nulle chicane,</l>
+<l>L’union de Valère avecque Mariane,</l>
+<l>De renoncer vous-même à l’injuste pouvoir</l>
+<pagenum num="354"/>
+<l>Qui veut du bien d’un autre enrichir votre espoir.</l>
+<l>Et...</l>
+
+<h3 id="p22">SCÈNE IV. — ELMIRE, DAMIS, TARTUFFE</h3>
+
+<hstage><speaker>DAMIS</speaker>, sortant du cabinet où il s’étoit retiré.</hstage>
+<l cont='true'>Non, madame, non ; ceci doit se répandre.</l>
+<l>J’étois en cet endroit, d’où j’ai pu tout entendre ;</l>
+<l>Et la bonté du ciel m’y semble avoir conduit</l>
+<l>Pour confondre l’orgueil d’un traître qui me nuit,</l>
+<l>Pour m’ouvrir une voie à prendre la vengeance</l>
+<l>De son hypocrisie et de son insolence,</l>
+<l>A détromper mon père, et lui mettre en plein jour</l>
+<l>L’âme d’un scélérat qui vous parle d’amour.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Non, Damis, il suffit qu’il se rende plus sage</l>
+<l>Et tâche à mériter la grâce où je m’engage.</l>
+<l>Puisque je l’ai promis, ne m’en dédites pas.</l>
+<l>Ce n’est point mon humeur de faire des éclats,</l>
+<l>Une femme se rit de sottises pareilles,</l>
+<l>Et jamais d’un mari n’en trouble les oreilles.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Vous avez vos raisons pour en user ainsi,</l>
+<l>Et pour faire autrement j’ai les miennes aussi.</l>
+<l>Le vouloir épargner est une raillerie ;</l>
+<l>Et l’insolent orgueil de sa cagoterie</l>
+<l>N’a triomphé que trop de mon juste courroux</l>
+<l>Et que trop excité de désordre chez nous.</l>
+<l>Le fourbe trop longtemps a gouverné mon père</l>
+<l>Et desservi mes feux avec ceux de Valère.</l>
+<l>Il faut que du perfide il soit désabusé ;</l>
+<l>Et le ciel, pour cela, m’offre un moyen aisé.</l>
+<l>De cette occasion je lui suis redevable.</l>
+<l>Et, pour la négliger, elle est trop favorable :</l>
+<l>Ce seroit mériter qu’il me la vînt ravir,</l>
+<l>Que de l’avoir en main et ne m’en pas servir.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Damis...</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l cont='true'>Non, s’il vous plaît, il faut que je me croie.</l>
+<l>Mon âme est maintenant au comble de sa joie ;</l>
+<l>Et vos discours en vain prétendent m’obliger</l>
+<l>A quitter le plaisir de me pouvoir venger.</l>
+<pagenum num="355"/>
+<l>Sans aller plus avant, je vais vider l’affaire ;</l>
+<l>Et voici justement de quoi me satisfaire.</l>
+
+<h3 id="p23">SCÈNE V. — ORGON, ELMIRE, DAMIS, TARTUFFE</h3>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Nous allons régaler, mon père, votre abord</l>
+<l>D’un incident tout frais qui vous surprendra fort.</l>
+<l>Vous êtes bien payé de toutes vos caresses,</l>
+<l>Et monsieur d’un beau prix reconnoît vos tendresses.</l>
+<l>Son grand zèle pour vous vient de se déclarer ;</l>
+<l>Il ne va pas à moins qu’à vous déshonorer ;</l>
+<l>Et je l’ai surpris là qui faisoit à madame</l>
+<l>L’injurieux aveu d’une coupable flamme.</l>
+<l>Elle est d’une humeur douce, et son cœur trop discret</l>
+<l>Vouloit à toute force en garder le secret ;</l>
+<l>Mais je ne puis flatter une telle impudence,</l>
+<l>Et crois que vous la taire est vous faire une offense.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Oui, je tiens que jamais de tous ces vains propos</l>
+<l>On ne doit d’un mari traverser le repos ;</l>
+<l>Que ce n’est point de là que l’honneur peut dépendre,</l>
+<l>Et qu’il suffit, pour nous, de savoir nous défendre.</l>
+<l>Ce sont mes sentiments ; et vous n’auriez rien dit,</l>
+<l>Damis, si j’avais eu sur vous quelque crédit,</l>
+
+<h3 id="p24">SCÈNE VI. — ORGON, DAMIS, TARTUFFE</h3>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ce que je viens d’entendre, ô ciel ! est-il croyable ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Oui, mon frère, je suis un méchant, un coupable,</l>
+<l>Un malheureux pécheur, tout plein d’iniquité,</l>
+<l>Le plus grand scélérat qui jamais ait été.</l>
+<l>Chaque instant de ma vie est chargé de souillures ;</l>
+<l>Elle n’est qu’un amas de crimes et d’ordures ;</l>
+<l>Et je vois que le ciel, pour ma punition,</l>
+<l>Me veut mortifier en cette occasion.</l>
+<l>De quelque grand forfait qu’on me puisse reprendre.</l>
+<l>Je n’ai garde d’avoir l’orgueil de m’en défendre.</l>
+<l>Croyez ce qu’on vous dit, armez votre courroux.</l>
+<l>Et comme un criminel chassez-moi de chez vous ;</l>
+<l>Je ne saurois avoir tant de honte en partage,</l>
+<l>Que je n’en aie encor mérité davantage.</l>
+
+<pagenum num="356"/>
+
+<hstage><speaker>ORGON</speaker>, à son fils.</hstage>
+<l>Ah ! traître, oses-tu bien, par cette fausseté,</l>
+<l>Vouloir de sa vertu ternir la pureté ?</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Quoi ! la feinte douceur de cette âme hypocrite<noteref noteid="note.356.1"/></l>
+<l>Vous fera démentir...</l>
+
+<notes>
+  <note id="note.356.1">
+    <p>V<s>AR</s>. Quoi ! la feinte <i>douleur</i> de cette âme hypocrite.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Tais-toi, peste maudite !</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Ah ! laissez-le parler ; vous l’accusez à tort,</l>
+<l>Et vous ferez bien mieux de croire à son rapport.</l>
+<l>Pourquoi, sur un tel fait, m’être si favorable ?</l>
+<l>Savez-vous, après tout, de quoi je suis capable ?</l>
+<l>Vous fiez-vous, mon frère, à mon extérieur ?</l>
+<l>Et, pour tout ce qu’on voit, me croyez-vous meilleur ?</l>
+<l>Non, non : vous vous laissez tromper à l’apparence,</l>
+<l>Et je ne suis rien moins, hélas ! que ce qu’on pense.</l>
+<l>Tout le monde me prend pour un homme de bien ;</l>
+<l>Mais la vérité pure est que je ne vaux rien.</l>
+<pstage>S’adressant à Damis.</pstage>
+<l>Oui, mon cher fils, parlez ; traitez-moi de perfide,</l>
+<l>D’infâme, de perdu, de voleur, d’homicide ;</l>
+<l>Accablez-moi de noms encor plus détestés :</l>
+<l>Je n’y contredis point, je les ai mérités ;</l>
+<l>Et j’en veux à genoux souffrir l’ignominie,</l>
+<l>Comme une honte due aux crimes de ma vie.</l>
+
+<hstage><speaker>ORGON</speaker>, à Tartuffe.</hstage>
+<l>Mon frère, c’en est trop.</l>
+<pstage>A son fils.</pstage>
+<l cont='true'>Ton cœur ne se rend point,</l>
+<l>Traître !</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l cont='true'>Quoi ! ses discours vous séduiront au point...</l>
+
+<hstage><speaker>ORGON</speaker>, relevant Tartuffe.</hstage>
+<l>Tais-toi, pendard ! Mon frère, eh ! levez-vous, de grâce !</l>
+<pstage>A son fils.</pstage>
+<l>Infâme !</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l cont='true'>Il peut...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Tais-toi !</l>
+
+<pagenum num="357"/>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l cont='true'>J’enrage ! Quoi ! je passe...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Si tu dis un seul mot, je te romprai les bras.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Mon frère, au nom de Dieu, ne vous emportez pas !</l>
+<l>J’aimerois mieux souffrir la peine la plus dure</l>
+<l>Qu’il eût reçu pour moi la moindre égratignure.</l>
+
+<hstage><speaker>ORGON</speaker>, à son fils.</hstage>
+<l>Ingrat !</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l cont='true'>Laissez-le en paix. S’il faut, à deux genoux,</l>
+<l>Vous demander sa grâce...</l>
+
+<hstage><speaker>ORGON</speaker>, se jetant aussi à genoux et embrassant Tartuffe.</hstage>
+<l>Hélas ! vous moquez-vous ?</l>
+<pstage>A son fils.</pstage>
+<l>Coquin ! vois sa bonté !</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l cont='true'>Donc...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Paix !</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l cont='true'>Quoi ! je...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Paix, dis-je</l>
+<l>Je sais bien quel motif à l’attaquer t’oblige.</l>
+<l>Vous le haïssez tous, et je vois aujourd’hui</l>
+<l>Femme, enfants et valets déchaînés contre lui.</l>
+<l>On met impudemment toute chose en usage</l>
+<l>Pour ôter de chez moi ce dévot personnage :</l>
+<l>Mais plus on fait d’efforts afin de l’en bannir,</l>
+<l>Plus j’en veux employer à l’y mieux retenir ;</l>
+<l>Et je vais me hâter de lui donner ma fille,</l>
+<l>Pour confondre l’orgueil de toute ma famille.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>A recevoir sa main on pense l’obliger ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Oui, traître, et dès ce soir, pour vous faire enrager.</l>
+<l>Ah ! je vous brave tous, et vous ferai connoître</l>
+<l>Qu’il faut qu’on m’obéisse, et que je suis le maître.</l>
+<l>Allons, qu’on se rétracte, et qu’à l’instant, fripon,</l>
+<pagenum num="358"/>
+<l>On se jette à ses pieds pour demander pardon.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Qui ? moi ! de ce coquin, qui, par ses impostures...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ah ! tu résistes, gueux, et lui dis des injures !</l>
+<l>Un bâton ! un bâton !</l>
+<pstage>A Tartuffe.</pstage>
+<l cont='true'>Ne me retenez pas.</l>
+<pstage>A son fils.</pstage>
+<l>Sus, que de ma maison on sorte de ce pas,</l>
+<l>Et que d’y revenir on n’ait jamais l’audace !</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Oui, je sortirai ; mais...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Vite, quittons la place !</l>
+<l>Je te prive, pendard, de ma succession,</l>
+<l>Et te donne, de plus, ma malédiction !</l>
+
+<h3 id="p25">SCÈNE VII. — ORGON, TARTUFFE</h3>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Offenser de la sorte une sainte personne !</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>O ciel ! pardonne-lui comme je lui pardonne.</l>
+<pstage>A Orgon.</pstage>
+<l>Si vous pouviez savoir avec quel déplaisir</l>
+<l>Je vois qu’envers mon frère on tâche à me noircir !...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Hélas !</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l cont='true'>Le seul penser de cette ingratitude</l>
+<l>Fait souffrir à mon âme un supplice si rude..</l>
+<l>L’horreur que j’en conçois... J’ai le cœur si serré,</l>
+<l>Que je ne puis parler, et crois que j’en mourrai.</l>
+
+<hstage><speaker>ORGON</speaker>, courant tout en larmes à la porte par où il a chassé son fils.</hstage>
+<l>Coquin ! je me repens que ma main t’ait fait grâce.</l>
+<l>Et ne t’ait pas d’abord assommé sur la place !</l>
+<pstage>A Tartuffe.</pstage>
+<l>Remettez-vous, mon frère, et ne vous fâchez pas.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Rompons, rompons le cours de ces fâcheux débats.</l>
+<pagenum num="359"/>
+<l>Je regarde céans quels grands troubles j’apporte,</l>
+<l>Et crois qu’il est besoin, mon frère, que j’en sorte.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Comment ! vous moquez-vous ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l cont='true'>On m’y hait, et je voi</l>
+<l>Qu’on cherche à vous donner des soupçons de ma foi.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Qu’importe ? Voyez-vous que mon cœur les écoute ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>On ne manquera pas de poursuivre, sans doute ;</l>
+<l>Et ces mêmes rapports qu’ici vous rejetez,</l>
+<l>Peut-être, une autre fois, seront-ils écoutés.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Non, mon frère, jamais.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l cont='true'>Ah ! mon frère, une femme</l>
+<l>Aisément d’un mari peut bien surprendre l’âme.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Non, non.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l cont='true'>Laissez-moi vite, en m’éloignant d’ici,</l>
+<l>Leur ôter tout sujet de m’attaquer ainsi.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Non, vous demeurerez ; il y va de ma vie.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Eh bien, il faudra donc que je me mortifie.</l>
+<l>Pourtant, si vous vouliez...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Ah !</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l cont='true'>Soit : n’en parlons plus.</l>
+<l>Mais je sais comme il faut en user là-dessus.</l>
+<l>L’honneur est délicat, et l’amitié m’engage</l>
+<l>A prévenir les bruits et les sujets d’ombrage.</l>
+<l>Je fuirai votre épouse, et vous ne me verrez...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Non, en dépit de tous, vous la fréquenterez.</l>
+<l>Faire enrager le monde est ma plus grande joie ;</l>
+<l>Et je veux qu’à toute heure avec elle on vous voie.</l>
+<pagenum num="360"/>
+<l>Ce n’est pas tout encor : pour les mieux braver tous,</l>
+<l>Je ne veux point avoir d’autre héritier que vous ;</l>
+<l>Et je vais de ce pas, en fort bonne manière,</l>
+<l>Vous faire de mon bien donation entière.</l>
+<l>Un bon et franc ami, que pour gendre je prends,</l>
+<l>M’est bien plus cher que fils, que femme, et que parents.</l>
+<l>N’accepterez-vous pas ce que je vous propose ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>La volonté du ciel soit faite en toute chose !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Le pauvre homme ! Allons vite en dresser un écrit,</l>
+<l>Et que puisse l’envie en crever de dépit !</l>
+
+<vsep class="rule"/>
+
+<h2 id="p26">ACTE QUATRIÈME</h2>
+
+<h3 id="p27">SCÈNE I. — CLÉANTE, TARTUFFE</h3>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Oui, tout le monde en parle, et, vous m’en pouvez croire.</l>
+<l>L’éclat que fait ce bruit n’est point à votre gloire :</l>
+<l>Et je vous ai trouvé, monsieur fort à propos</l>
+<l>Pour vous en dire net ma pensée en deux mots.</l>
+<l>Je n’examine point à fond ce qu’on expose ;</l>
+<l>Je passe là-dessus, et prends au pis la chose.</l>
+<l>Supposons que Damis n’en ait pas bien usé,</l>
+<l>Et que ce soit à tort qu’on vous ait accusé :</l>
+<l>N’est-il pas d’un chrétien de pardonner l’offense,</l>
+<l>Et d’éteindre en son cœur tout désir de vengeance ?</l>
+<l>Et devez-vous souffrir, pour votre démêlé,</l>
+<l>Que du logis d’un père un fils soit exilé ?</l>
+<l>Je vous le dis encore, et parle avec franchise,</l>
+<l>Il n’est petit ni grand qui ne s’en scandalise ;</l>
+<l>Et, si vous m’en croyez, vous pacifierez tout,</l>
+<l>Et ne pousserez point les affaires à bout.</l>
+<l>Sacrifiez à Dieu toute votre colère,</l>
+<l>Et remettez le fils en grâce avec le père.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Hélas ! je le voudrois, quant à moi, de bon cœur ;</l>
+<l>Je ne garde pour lui, monsieur, aucune aigreur ;</l>
+<l>Je lui pardonne tout ; de rien je ne le blâme,</l>
+<l>Et voudrois le servir du meilleur de mon âme :</l>
+<l>Mais l’intérêt du ciel n’y sauroit consentir ;</l>
+<pagenum num="361"/>
+<l>Et, s’il rentre céans, c’est à moi d’en sortir.</l>
+<l>Après son action, qui n’eut jamais d’égale,</l>
+<l>Le commerce entre nous porteroit du scandale :</l>
+<l>Dieu sait ce que d’abord tout le monde en croiroit :</l>
+<l>A pure politique on me l’imputeroit,</l>
+<l>Et l’on diroit partout que, me sentant coupable,</l>
+<l>Je feins, pour qui m’accuse, un zèle charitable ;</l>
+<l>Que mon cœur l’appréhende, et veut le ménager,</l>
+<l>Pour le pouvoir, sous main, au silence engager.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Vous nous payez ici d’excuses colorées ;</l>
+<l>Et toutes vos raisons, monsieur, sont trop tirées.</l>
+<l>Des intérêts du ciel pourquoi vous chargez-vous ?</l>
+<l>Pour punir le coupable a-t-il besoin de nous ?</l>
+<l>Laissez-lui, laissez-lui le soin de ses vengeances :</l>
+<l>Ne songez qu’au pardon qu’il prescrit des offenses,</l>
+<l>Et ne regardez point aux jugements humains,</l>
+<l>Quand vous suivez du ciel les ordres souverains.</l>
+<l>Quoi ! le foible intérêt de ce qu’on pourra croire</l>
+<l>D’une bonne action empêchera la gloire ?</l>
+<l>Non, non ; faisons toujours ce que le ciel prescrit,</l>
+<l>Et d’aucun autre soin ne nous brouillons l’esprit.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Je vous ai déjà dit que mon cœur lui pardonne ;</l>
+<l>Et c’est faire, monsieur, ce que le ciel ordonne :</l>
+<l>Mais, après le scandale et l’affront d’aujourd’hui,</l>
+<l>Le ciel n’ordonne pas que je vive avec lui.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Et vous ordonne-t-il, monsieur, d’ouvrir l’oreille</l>
+<l>A ce qu’un pur caprice à son père conseille ?</l>
+<l>Et d’accepter le don qui vous est fait d’un bien</l>
+<l>Où le droit vous oblige à ne prétendre rien ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Ceux qui me connoîtront n’auront pas la pensée</l>
+<l>Que ce soit un effet d’une âme intéressée.</l>
+<l>Tous les biens de ce monde ont pour moi peu d’appas ;</l>
+<l>De leur éclat trompeur je ne m’éblouis pas :</l>
+<l>Et, si je me résous à recevoir du père</l>
+<l>Cette donation qu’il a voulu me faire,</l>
+<l>Ce n’est, à dire vrai, que parce que je crains</l>
+<l>Que tout ce bien ne tombe en de méchantes mains ;</l>
+<l>Qu’il ne trouve des gens qui, l’ayant en partage,</l>
+<pagenum num="362"/>
+<l>En fassent dans le monde un criminel usage.</l>
+<l>Et ne s’en servent pas, ainsi que j’ai dessein,</l>
+<l>Pour la gloire du ciel et le bien du prochain.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Eh ! monsieur, n’ayez point ces délicates craintes,</l>
+<l>Qui d’un juste héritier peuvent causer les plaintes.</l>
+<l>Souffrez, sans vous vouloir embarrasser de rien,</l>
+<l>Qu’il soit, à ses périls, possesseur de son bien ;</l>
+<l>Et songez qu’il vaut mieux encor qu’il en mésuse</l>
+<l>Que si de l’en frustrer il faut qu’on vous accuse.</l>
+<l>J’admire seulement que, sans confusion,</l>
+<l>Vous en ayez souffert la proposition.</l>
+<l>Car enfin le vrai zèle a-t-il quelque maxime</l>
+<l>Qui montre à dépouiller l’héritier légitime ?</l>
+<l>Et, s’il faut que le ciel dans votre cœur ait mis</l>
+<l>Un invincible obstacle à vivre avec Damis,</l>
+<l>Ne vaudroit-il pas mieux qu’en personne discrète</l>
+<l>Vous fissiez de céans une honnête retraite.</l>
+<l>Que de souffrir ainsi, contre toute raison,</l>
+<l>Qu’on en chasse pour vous le fils de la maison ?</l>
+<l>Croyez-moi, c’est donner de votre prudhommie,</l>
+<l>Monsieur...</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l cont='true'>Il est, monsieur, trois heures et demie :</l>
+<l>Certain devoir pieux me demande là-haut,</l>
+<l>Et vous m’excuserez de vous quitter sitôt.</l>
+
+<hstage><speaker>CLÉANTE</speaker>, seul.</hstage>
+<l>Ah !</l>
+
+<h3 id="p28">SCÈNE II. — ELMIRE, MARIANE, CLÉANTE, DORINE</h3>
+
+<hstage><speaker>DORINE</speaker>, à Cléante.</hstage>
+<l cont='true'>De grâce, avec nous employez-vous pour elle.</l>
+<l>Monsieur : son âme souffre une douleur mortelle ;</l>
+<l>Et l’accord que son père a conclu pour ce soir</l>
+<l>La fait, à tous moments, entrer en désespoir.</l>
+<l>Il va venir. Joignons nos efforts, je vous prie,</l>
+<l>Et tâchons d’ébranler, de force ou d’industrie,</l>
+<l>Ce malheureux dessein qui nous a tous troublés.</l>
+
+<h3 id="p29">SCÈNE III. — ORGON, ELMIRE, MARIANE, CLÉANTE, DORINE</h3>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ah ! je me réjouis de vous voir assemblés.</l>
+<pagenum num="363"/>
+<pstage>A Mariane.</pstage>
+<l>Je porte en ce contrat de quoi vous faire rire,</l>
+<l>Et vous savez déjà ce que cela veut dire.</l>
+
+<hstage><speaker>MARIANE</speaker>, aux genoux d’Orgon.</hstage>
+<l>Mon père, au nom du ciel, qui connoît ma douleur,</l>
+<l>Et par tout ce qui peut émouvoir votre cœur,</l>
+<l>Relâchez-vous un peu des droits de la naissance,</l>
+<l>Et dispensez mes vœux de cette obéissance.</l>
+<l>Ne me réduisez point, par cette dure loi,</l>
+<l>Jusqu’à me plaindre au ciel de ce que je vous doi ;</l>
+<l>Et cette vie, hélas ! que vous m’avez donnée,</l>
+<l>Ne me la rendez pas, mon père, infortunée.</l>
+<l>Si, contre un doux espoir que j’avois pu former,</l>
+<l>Vous me défendez d’être à ce que j’ose aimer,</l>
+<l>Au moins, par vos bontés qu’à vos genoux j’implore,</l>
+<l>Sauvez-moi du tourment d’être à ce que j’abhorre ;</l>
+<l>Et ne me portez point à quelque désespoir,</l>
+<l>En vous servant sur moi de tout votre pouvoir.</l>
+
+<hstage><speaker>ORGON</speaker>, se sentant attendrir.</hstage>
+<l>Allons, ferme, mon cœur ! point de foiblesse humaine !</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Vos tendresses pour lui ne me font point de peine ;</l>
+<l>Faites-les éclater, donnez-lui votre bien,</l>
+<l>Et, si ce n’est assez, joignez-y tout le mien :</l>
+<l>J’y consens de bon cœur, et je vous l’abandonne ;</l>
+<l>Mais, au moins, n’allez pas jusques à ma personne ;</l>
+<l>Et souffrez qu’un couvent, dans les austérités,</l>
+<l>Use les tristes jours que le ciel m’a comptés.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ah ! voilà justement de mes religieuses,</l>
+<l>Lorsqu’un père combat leurs flammes amoureuses.</l>
+<l>Debout. Plus votre cœur répugne à l’accepter,</l>
+<l>Plus ce sera pour vous matière à mériter.</l>
+<l>Mortifiez vos sens avec ce mariage,</l>
+<l>Et ne me rompez pas la tête davantage.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Mais quoi !...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Taisez-vous, vous ! Parlez à votre écot<noteref noteid="note.363.1"/>.</l>
+<l>Je vous défends, tout net, d’oser dire un seul mot.</l>
+
+<notes>
+  <note id="note.363.1">
+    <p><i>Parlez à votre écot</i>, c’est-à-dire : Parlez à ceux qui sont <i>de votre écot, de votre compagnie.</i> (Petitot.)</p>
+  </note>
+</notes>
+
+<pagenum num="364"/>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Si par quelque conseil vous souffrez qu’on réponde...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Mon frère, vos conseils sont les meilleurs du monde,</l>
+<l>Ils sont bien raisonnés, et j’en fais un grand cas ;</l>
+<l>Mais vous trouverez bon que je n’en use pas.</l>
+
+<hstage><speaker>ELMIRE</speaker>, à son mari.</hstage>
+<l>A voir ce que je vois, je ne sais plus que dire ;</l>
+<l>Et votre aveuglement fait que je vous admire.</l>
+<l>C’est être bien coiffé, bien prévenu de lui,</l>
+<l>Que de nous démentir sur le fait d’aujourd’hui !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Je suis votre valet, et crois les apparences.</l>
+<l>Pour mon fripon de fils je sais vos complaisances ;</l>
+<l>Et vous avez eu peur de le désavouer</l>
+<l>Du trait qu’à ce pauvre homme il a voulu jouer.</l>
+<l>Vous étiez trop tranquille, enfin, pour être crue ;</l>
+<l>Et vous auriez paru d’autre manière émue.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Est-ce qu’au simple aveu d’un amoureux transport</l>
+<l>Il faut que notre honneur se gendarme si fort ?</l>
+<l>Et ne peut-on répondre à tout ce qui le touche,</l>
+<l>Que le feu dans les yeux et l’injure à la bouche ?</l>
+<l>Pour moi, de tels propos je me ris simplement ;</l>
+<l>Et l’éclat, là-dessus, ne me plaît nullement.</l>
+<l>J’aime qu’avec douceur nous nous montrions sages,</l>
+<l>Et ne suis point du tout pour ces prudes sauvages</l>
+<l>Dont l’honneur est armé de griffes et de dents,</l>
+<l>Et veut au moindre mot dévisager les gens.</l>
+<l>Me préserve le ciel d’une telle sagesse !</l>
+<l>Je veux une vertu qui ne soit point diablesse,</l>
+<l>Et crois que d’un refus la discrète froideur</l>
+<l>N’en est pas moins puissante à rebuter un cœur.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Enfin je sais l’affaire, et ne prends point le change.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>J’admire, encore un coup, cette foiblesse étrange ;</l>
+<l>Mais que me répondroit votre incrédulité,</l>
+<l>Si je vous faisois voir qu’on vous dit vérité ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Voir ?</l>
+
+<pagenum num="365"/>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l cont='true'>Oui.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Chansons !</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l cont='true'>Mais quoi ! si je trouvois manière</l>
+<l>De vous le faire voir avec pleine lumière ?...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Contes en l’air !</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l cont='true'>Quel homme ! Au moins, répondez-moi.</l>
+<l>Je ne vous parle pas de nous ajouter foi ;</l>
+<l>Mais supposons ici que, d’un lieu qu’on peut prendre,</l>
+<l>On vous fît clairement tout voir et tout entendre :</l>
+<l>Que diriez-vous alors de votre homme de bien ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>En ce cas, je dirois que... Je ne dirois rien,</l>
+<l>Car cela ne se peut.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l cont='true'>L’erreur trop longtemps dure,</l>
+<l>Et c’est trop condamner ma bouche d’imposture.</l>
+<l>Il faut que, par plaisir, et sans aller plus loin,</l>
+<l>De tout ce qu’on vous dit je vous fasse témoin.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Soit. Je vous prends au mot. Nous verrons votre adresse,</l>
+<l>Et comment vous pourrez remplir cette promesse.</l>
+
+<hstage><speaker>ELMIRE</speaker>, à Dorine.</hstage>
+<l>Faites-le moi venir.</l>
+
+<hstage><speaker>DORINE</speaker>, à Elmire.</hstage>
+<l cont='true'>Son esprit est rusé,</l>
+<l>Et peut-être à surprendre il sera malaisé.</l>
+
+<hstage><speaker>ELMIRE</speaker>, à Dorine.</hstage>
+<l>Non ; on est aisément dupé par ce qu’on aime,</l>
+<l>Et l’amour-propre engage à se tromper soi-même.</l>
+<l>Faites-le moi descendre.</l>
+<pstage>A Clêante et à Mariane.</pstage>
+<l cont='true'>Et vous, retirez-vous.</l>
+
+<h3 id="p30">SCÈNE IV. — ELMIRE, ORGON</h3>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Approchons cette table, et vous mettez dessous.</l>
+
+<pagenum num="366"/>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Comment !</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l cont='true'>Vous bien cacher est un point nécessaire.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Pourquoi sous cette table ?</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l cont='true'>Ah ! mon Dieu ! laissez faire ;</l>
+<l>J’ai mon dessein en tête, et vous en jugerez.</l>
+<l>Mettez-vous là, vous dis-je ; et, quand vous y serez.</l>
+<l>Gardez qu’on ne vous voie et qu’on ne vous entende.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Je confesse qu’ici ma complaisance est grande :</l>
+<l>Mais de votre entreprise il vous faut voir sortir.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Vous n’aurez, que je crois, rien à me repartir.</l>
+<pstage>A son mari, qui est sous la table.</pstage>
+<l>Au moins, je vais toucher une étrange matière :</l>
+<l>Ne vous scandalisez en aucune manière.</l>
+<l>Quoi que je puisse dire, il doit m’être permis ;</l>
+<l>Et c’est pour vous convaincre, ainsi que j’ai promis.</l>
+<l>Je vais par des douceurs, puisque j’y suis réduite.</l>
+<l>Faire poser le masque à cette âme hypocrite,</l>
+<l>Flatter de son amour les désirs effrontés,</l>
+<l>Et donner un champ libre à ses témérités.</l>
+<l>Comme c’est pour vous seul, et pour mieux le confondre.</l>
+<l>Que mon âme à ses vœux va feindre de répondre,</l>
+<l>J’aurai lieu de cesser dès que vous vous rendrez,</l>
+<l>Et les choses n’iront que jusqu’où vous voudrez.</l>
+<l>C’est à vous d’arrêter son ardeur insensée,</l>
+<l>Quand vous croirez l’affaire assez avant poussée ;</l>
+<l>D’épargner votre femme, et de ne m’exposer</l>
+<l>Qu’à ce qu’il vous faudra pour vous désabuser.</l>
+<l>Ce sont vos intérêts, vous en serez le maître ;</l>
+<l>Et... L’on vient. Tenez-vous, et gardez de paroître.</l>
+
+<h3 id="p31">SCÈNE V. — TARTUFFE, ELMIRE, ORGON, <i>sous la table.</i></h3>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>On m’a dit qu’en ce lieu vous me vouliez parler.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Oui. L’on a des secrets à vous y révéler.</l>
+<pagenum num="367"/>
+<l>Mais tirez cette porte avant qu’on vous les dise ;</l>
+<l>Et regardez partout, de crainte de surprise.</l>
+<pstage>Tartuffe va fermer la porte, et revient.</pstage>
+<l>Une affaire pareille à celle de tantôt</l>
+<l>N’est pas assurément ici ce qu’il nous faut :</l>
+<l>Jamais il ne s’est vu de surprise de même.</l>
+<l>Damis m’a fait pour vous une frayeur extrême ;</l>
+<l>Et vous avez bien vu que j’ai fait mes efforts</l>
+<l>Pour rompre son dessein et calmer ses transports.</l>
+<l>Mon trouble, il est bien vrai, m’a si fort possédée,</l>
+<l>Que de le démentir je n’ai point eu l’idée :</l>
+<l>Mais par là, grâce au ciel, tout a bien mieux été,</l>
+<l>Et les choses en sont en plus de sûreté.</l>
+<l>L’estime où l’on vous tient a dissipé l’orage,</l>
+<l>Et mon mari de vous ne peut prendre d’ombrage.</l>
+<l>Pour mieux braver l’éclat des mauvais jugements,</l>
+<l>Il veut que nous soyons ensemble à tous moments.</l>
+<l>Et c’est par où je puis, sans peur d’être blâmée,</l>
+<l>Me trouver ici seule avec vous enfermée,</l>
+<l>Et ce qui m’autorise à vous ouvrir un cœur</l>
+<l>Un peu trop prompt peut-être à souffrir votre ardeur.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Ce langage à comprendre est assez difficile,</l>
+<l>Madame ; et vous parliez tantôt d’un autre style.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Ah ! si d’un tel refus vous êtes en courroux,</l>
+<l>Que le cœur d’une femme est mal connu de vous !</l>
+<l>Et que vous savez peu ce qu’il veut faire entendre</l>
+<l>Lorsque si foiblement on le voit se défendre !</l>
+<l>Toujours notre pudeur combat, dans ces moments,</l>
+<l>Ce qu’on peut nous donner de tendres sentiments.</l>
+<l>Quelque raison qu’on trouve à l’amour qui nous dompte,</l>
+<l>On trouve à l’avouer toujours un peu de honte.</l>
+<l>On s’en défend d’abord : mais de l’air qu’on s’y prend.</l>
+<l>On fait connoître assez que notre cœur se rend ;</l>
+<l>Qu’à nos vœux, par honneur, notre bouche s’oppose,</l>
+<l>Et que de tels refus promettent toute chose.</l>
+<l>C’est vous faire, sans doute, un assez libre aveu,</l>
+<l>Et sur notre pudeur me ménager bien peu.</l>
+<l>Mais, puisque la parole enfin en est lâchée,</l>
+<l>A retenir Damis me serois-je attachée,</l>
+<l>Aurois-je, je vous prie, avec tant de douceur</l>
+<pagenum num="368"/>
+<l>Écouté tout au long l’offre de votre cœur,</l>
+<l>Aurois-je pris la chose ainsi qu’on m’a vu faire,</l>
+<l>Si l’offre de ce cœur n’eût eu de quoi me plaire ?</l>
+<l>Et, lorsque j’ai voulu moi-même vous forcer</l>
+<l>A refuser l’hymen qu’on venoit d’annoncer,</l>
+<l>Qu’est-ce que cette instance a dû vous faire entendre,</l>
+<l>Que l’intérêt qu’en vous on s’avise de prendre,</l>
+<l>Et l’ennui qu’on auroit que ce nœud qu’on résout</l>
+<l>Vînt partager du moins un cœur que l’on veut tout ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>C’est sans doute, madame, une douceur extrême</l>
+<l>Que d’entendre ces mots d’une bouche qu’on aime ;</l>
+<l>Leur miel dans tous mes sens fait couler à longs traits</l>
+<l>Une suavité qu’on ne goûta jamais.</l>
+<l>Le bonheur de vous plaire est ma suprême étude,</l>
+<l>Et mon cœur, de vos vœux, fait sa béatitude ;</l>
+<l>Mais ce cœur vous demande ici la liberté</l>
+<l>D’oser douter un peu de sa félicité.</l>
+<l>Je puis croire ces mots un artifice honnête</l>
+<l>Pour m’obliger à rompre un hymen qui s’apprête ;</l>
+<l>Et, s’il faut librement m’expliquer avec vous.</l>
+<l>Je ne me fierai point à des propos si doux,</l>
+<l>Qu’un peu de vos faveurs, après quoi je soupire,</l>
+<l>Ne vienne m’assurer tout ce qu’ils m’ont pu dire,</l>
+<l>Et planter dans mon âme une constante foi</l>
+<l>Des charmantes bontés que vous avez pour moi.</l>
+
+<hstage><speaker>ELMIRE</speaker>, après avoir toussé pour avertir son mari.</hstage>
+<l>Quoi ! vous voulez aller avec cette vitesse,</l>
+<l>Et d’un cœur tout d’abord épuiser la tendresse ?</l>
+<l>On se tue à vous faire un aveu des plus doux,</l>
+<l>Cependant ce n’est pas encore assez pour vous ;</l>
+<l>Et l’on ne peut aller jusqu’à vous satisfaire,</l>
+<l>Qu’aux dernières faveurs on ne pousse l’affaire ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Moins on mérite un bien, moins on l’ose espérer.</l>
+<l>Nos vœux sur des discours ont peine à s’assurer.</l>
+<l>On soupçonne aisément un sort tout plein de gloire,</l>
+<l>Et l’on veut en jouir avant que de le croire.</l>
+<l>Pour moi, qui crois si peu mériter vos bontés,</l>
+<l>Je doute du bonheur de mes témérités ;</l>
+<l>Et je ne croirai rien, que vous n’ayez, madame,</l>
+<l>Par des réalités su convaincre ma flamme.</l>
+
+<pagenum num="369"/>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Mon Dieu ! que votre amour en vrai tyran agit !</l>
+<l>Et qu’en un trouble étrange il me jette l’esprit !</l>
+<l>Que sur les cœurs il prend un furieux empire,</l>
+<l>Et qu’avec violence il veut ce qu’il désire !</l>
+<l>Quoi ! de votre poursuite on ne peut se parer.</l>
+<l>Et vous ne donnez pas le temps de respirer ?</l>
+<l>Sied-il bien de tenir une rigueur si grande ?</l>
+<l>De vouloir sans quartier les choses qu’on demande,</l>
+<l>Et d’abuser ainsi, par vos efforts pressants,</l>
+<l>Du foible que pour vous vous voyez qu’ont les gens ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Mais, si d’un œil bénin vous voyez mes hommages,</l>
+<l>Pourquoi m’en refuser d’assurés témoignages ?</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Mais comment consentir à ce que vous voulez</l>
+<l>Sans offenser le ciel, dont toujours vous parlez ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Si ce n’est que le ciel qu’à mes vœux on oppose.</l>
+<l>Lever un tel obstacle est à moi peu de chose ;</l>
+<l>Et cela ne doit point retenir votre cœur.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Mais des arrêts du ciel on nous fait tant de peur !</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Je puis vous dissiper ces craintes ridicules,</l>
+<l>Madame, et je sais l’art de lever les scrupules.</l>
+<l>Le ciel défend, de vrai, certains contentements ;</l>
+<l>Mais on trouve avec lui des accommodements<noteref noteid="note.369.1"/>.</l>
+<l>Selon divers besoins, il est une science</l>
+<l>D’étendre les liens de notre conscience,</l>
+<l>Et de rectifier le mal de l’action</l>
+<l>Avec la pureté de notre intention.</l>
+<l>De ces secrets, madame, on saura vous instruire ;</l>
+<l>Vous n’avez seulement qu’à vous laisser conduire.</l>
+<l>Contentez mon désir, et n’ayez point d’effroi ;</l>
+<l>Je vous réponds de tout et prends le mal sur moi.</l>
+<pstage>Elmire tousse plus fort.</pstage>
+<l>Vous toussez fort, madame.</l>
+
+<notes>
+  <note id="note.369.1">
+    <p>C’est un scélérat qui parle. (Note de Molière.) — Il est probable que l’auteur avait cru cette observation nécessaire pour prévenir les interprétations calomnieuses de ses ennemis.</p>
+  </note>
+</notes>
+
+<pagenum num="370"/>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l cont='true'>Oui, je suis au supplice.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Vous plaît-il un morceau de ce jus de réglisse ?</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>C’est un rhume obstiné, sans doute ; et je vois bien</l>
+<l>Que tous les jus du monde ici ne feront rien.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Cela, certe, est fâcheux.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l cont='true'>Oui, plus qu’on ne peut dire.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Enfin votre scrupule est facile à détruire.</l>
+<l>Vous êtes assurée ici d’un plein secret,</l>
+<l>Et le mal n’est jamais que dans l’éclat qu’on fait.</l>
+<l>Le scandale du monde est ce qui fait l’offense,</l>
+<l>Et ce n’est pas pécher que pécher en silence.</l>
+
+<hstage><speaker>ELMIRE</speaker>, après avoir encore toussé et frappé sur la table.</hstage>
+<l>Enfin je vois qu’il faut se résoudre à céder ;</l>
+<l>Qu’il faut que je consente à vous tout accorder ;</l>
+<l>Et qu’à moins de cela je ne dois point prétendre</l>
+<l>Qu’on puisse être content et qu’on veuille se rendre.</l>
+<l>Sans doute il est fâcheux d’en venir jusque-là,</l>
+<l>Et c’est bien malgré moi que je franchis cela ;</l>
+<l>Mais, puisque l’on s’obstine à m’y vouloir réduire,</l>
+<l>Puisqu’on ne veut point croire à tout ce qu’on peut dire.</l>
+<l>Et qu’on veut des témoins qui soient plus convaincants,</l>
+<l>Il faut bien s’y résoudre, et contenter les gens.</l>
+<l>Si ce consentement porte en soi quelque offense,</l>
+<l>Tant pis pour qui me force à cette violence ;</l>
+<l>La faute assurément n’en doit point être à moi.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Oui, madame, on s’en charge ; et la chose de soi...</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Ouvrez un peu la porte, et voyez je vous prie,</l>
+<l>Si mon mari n’est point dans cette galerie.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Qu’est-il besoin pour lui du soin que vous prenez ?</l>
+<l>C’est un homme, entre nous, à mener par le nez.</l>
+<l>De tous nos entretiens il est pour faire gloire,</l>
+<l>Et je l’ai mis au point de voir tout sans rien croire.</l>
+
+<pagenum num="371"/>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Il n’importe ; sorte2, je vous prie, un moment ;</l>
+<l>Et partout là dehors voyez exactement.</l>
+
+<h3 id="p32">SCÈNE VI. — ORGON, ELMIRE</h3>
+
+<hstage><speaker>ORGON</speaker>, sortant de dessous la table.</hstage>
+<l>Voilà, je vous l’avoue, un abominable homme !</l>
+<l>Je n’en puis revenir, et tout ceci m’assomme.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Quoi ! vous sortez sitôt ? Vous vous moquez des gens.</l>
+<l>Rentrez sous le tapis, il n’est pas encor temps ;</l>
+<l>Attendez jusqu’au bout, pour voir les choses sûres,</l>
+<l>Et ne vous fiez point aux simples conjectures.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Non, rien de plus méchant n’est sorti de l’enfer !</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Mon Dieu ! l’on ne doit point croire trop de léger :</l>
+<l>Laissez-vous bien convaincre avant que de vous rendre,</l>
+<l>Et ne vous hâtez pas, de peur de vous méprendre.</l>
+<pstage>Elmire fait mettre Orgon derrière elle.</pstage>
+
+<h3 id="p33">SCÈNE VII. — TARTUFFE, ELMIRE, ORGON</h3>
+
+<hstage><speaker>TARTUFFE</speaker>, sans voir Orgon.</hstage>
+<l>Tout conspire, madame, à mon contentement.</l>
+<l>J’ai visité de l’œil tout cet appartement.</l>
+<l>Personne ne s’y trouve ; et mon âme ravie...</l>
+<pstage>Dans le temps que Tartuffe s’avance, les bras ouverts, pour embrasser Elmire, elle se retire, et Tartuffe aperçoit Orgon.</pstage>
+
+<hstage><speaker>ORGON</speaker>, arrêtant Tartuffe.</hstage>
+<l>Tout doux ! vous suivez trop votre amoureuse envie,</l>
+<l>Et vous ne devez pas vous tant passionner.</l>
+<l>Ah ! ah ! l’homme de bien, vous m’en voulez donner !</l>
+<l>Comme aux tentations s’abandonne votre âme !</l>
+<l>Vous épousiez ma fille, et convoitiez ma femme !</l>
+<l>J’ai douté fort longtemps que ce fût tout de bon,</l>
+<l>Et je croyois toujours qu’on changeroit de ton ;</l>
+<l>Mais c’est assez avant pousser le témoignage ;</l>
+<l>Je m’y tiens, et n’en veux, pour moi, pas davantage.</l>
+
+<hstage><speaker>ELMIRE</speaker>, à Tartuffe.</hstage>
+<l>C’est contre mon humeur que j’ai fait tout ceci ;</l>
+<pagenum num="372"/>
+<l>Mais on m’a mise au point de vous traiter ainsi.</l>
+
+<hstage><speaker>TARTUFFE</speaker>, à Orgon</hstage>
+<l>Quoi ! vous croyez...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Allons, point de bruit, je vous prie.</l>
+<l>Dénichons de céans, et sans cérémonie.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Mon dessein...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Ces discours ne sont plus de saison.</l>
+<l>Il faut, tout sur-le-champ, sortir de la maison.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>C’est à vous d’en sortir, vous qui parlez en maître :</l>
+<l>La maison m’appartient, je le ferai connoître,</l>
+<l>Et vous montrerai bien qu’en vain on a recours,</l>
+<l>Pour me chercher querelle, à ces lâches détours ;</l>
+<l>Qu’on n’est pas où l’on pense en me faisant injure ;</l>
+<l>Que j’ai de quoi confondre et punir l’imposture,</l>
+<l>Venger le ciel qu’on blesse, et faire repentir</l>
+<l>Ceux qui parlent ici de me faire sortir !</l>
+
+<h3 id="p34">SCÈNE VIII. — ELMIRE, ORGON</h3>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Quel est donc ce langage ? et qu’est-ce qu’il veut dire ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ma foi, je suis confus, et n’ai pas lieu de rire.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Je vois ma faute aux choses qu’il me dit ;</l>
+<l>Et la donation m’embarrasse l’esprit.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>La donation...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Oui. C’est une affaire faite.</l>
+<l>Mais j’ai quelque autre chose encor qui m’inquiète.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Et quoi ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Vous saurez tout. Mais voyons au plus tôt</l>
+<l>Si certaine cassette est encore là-haut.</l>
+
+<vsep class="rule"/>
+
+<pagenum num="373"/>
+
+<h2 id="p35">ACTE CINQUIÈME</h2>
+
+<h3 id="p36">SCÈNE I. — ORGON, CLÉANTE</h3>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Où voulez-vous courir ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l cont='true'>Las ! que sais-je ?</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Il me semble</l>
+<l>Que l’on doit commencer par consulter ensemble</l>
+<l>Les choses qu’on peut faire en cet événement.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Cette cassette-là me trouble entièrement.</l>
+<l>Plus que le reste encore elle me désespère.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Cette cassette est donc un important mystère ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>C’est un dépôt qu’Argas, cet ami que je plains,</l>
+<l>Lui-même en grand secret m’a mis entre les mains.</l>
+<l>Pour cela dans sa fuite il me voulut élire ;</l>
+<l>Et ce sont des papiers, à ce qu’il m’a pu dire,</l>
+<l>Où sa vie et ses biens se trouvent attachés.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Pourquoi donc les avoir en d’autres mains lâchés ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ce fut par un motif de cas de conscience.</l>
+<l>J’allai droit à mon traître en faire confidence ;</l>
+<l>Et son raisonnement me vint persuader</l>
+<l>De lui donner plutôt la cassette à garder,</l>
+<l>Afin que pour nier, en cas de quelque enquête,</l>
+<l>J’eusse d’un faux-fuyant la faveur toute prête,</l>
+<l>Par où ma conscience eût pleine sûreté</l>
+<l>A faire des serments contre la vérité.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Vous voilà mal, au moins, si j’en crois l’apparence ;</l>
+<l>Et la donation et cette confidence</l>
+<l>Sont, à vous en parler selon mon sentiment,</l>
+<l>Des démarches par vous faites légèrement.</l>
+<l>On peut vous mener loin avec de pareils gages ;</l>
+<l>Et cet homme sur vous ayant ces avantages,</l>
+<pagenum num="374"/>
+<l>Le pousser est encor grande imprudence à vous ;</l>
+<l>Et vous deviez chercher quelque biais plus doux.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Quoi ! sous un beau semblant de ferveur si touchante</l>
+<l>Cacher un cœur si double, une âme si méchante !</l>
+<l>Et moi, qui l’ai reçu gueusant et n’ayant rien...</l>
+<l>C’en est fait, je renonce à tous les gens de bien ;</l>
+<l>J’en aurai désormais une horreur effroyable,</l>
+<l>Et m’en vais devenir pour eux pire qu’un diable.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Eh bien, ne voilà pas de vos emportements !</l>
+<l>Vous ne gardez en rien les doux tempéraments.</l>
+<l>Dans la droite raison jamais n’entre la vôtre ;</l>
+<l>Et toujours d’un excès vous vous jetez dans l’autre.</l>
+<l>Vous voyez votre erreur, et vous avez connu</l>
+<l>Que par un zèle feint vous étiez prévenu ;</l>
+<l>Mais pour vous corriger quelle raison demande</l>
+<l>Que vous alliez passer dans une erreur plus grande,</l>
+<l>Et qu’avecque le cœur d’un perfide vaurien</l>
+<l>Vous confondiez les cœurs de tous les gens de bien ?</l>
+<l>Quoi ! parce qu’un fripon vous dupe avec audace,</l>
+<l>Sous le pompeux éclat d’une austère grimace,</l>
+<l>Vous voulez que partout on soit fait comme lui,</l>
+<l>Et qu’aucun vrai dévot ne se trouve aujourd’hui ?</l>
+<l>Laissez aux libertins ces sottes conséquences :</l>
+<l>Démêlez la vertu d’avec ses apparences,</l>
+<l>Ne hasardez jamais votre estime trop tôt,</l>
+<l>Et soyez pour cela dans le milieu qu’il faut.</l>
+<l>Gardez-vous, s’il se peut, d’honorer l’imposture ;</l>
+<l>Mais au vrai zèle aussi n’allez pas faire injure,</l>
+<l>Et, s’il vous faut tomber dans une extrémité,</l>
+<l>Péchez plutôt encor de cet autre côté.</l>
+
+<h3 id="p37">SCÈNE II. — ORGON, CLÉANTE, DAMIS</h3>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Quoi, mon père, est-il vrai qu’un coquin vous menace</l>
+<l>Qu’il n’est point de bienfait qu’en son âme il n’efface,</l>
+<l>Et que son lâche orgueil, trop digne de courroux,</l>
+<l>Se fait de vos bontés des armes contre vous ?</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Oui, mon fils ; et j’en sens des douleurs nonpareilles.</l>
+
+<pagenum num="375"/>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Laissez-moi, je lui veux couper les deux oreilles.</l>
+<l>Contre son insolence on ne doit point gauchir :</l>
+<l>C’est à moi tout d’un coup de vous en affranchir ;</l>
+<l>Et, pour sortir d’affaire, il faut que je l’assomme.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Voilà tout justement parler en vrai jeune homme.</l>
+<l>Modérez, s’il vous plaît, ces transports éclatants.</l>
+<l>Nous vivons sous un règne et sommes dans un temps</l>
+<l>Où par la violence on fait mal ses affaires.</l>
+
+<h3 id="p38">SCÈNE III. — MADAME PERNELLE, ORGON, ELMIRE, CLÉANTE, MARIANE, DAMIS, DORINE</h3>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Qu’est-ce ? J’apprends ici de terribles mystères !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Ce sont des nouveautés dont mes yeux sont témoins,</l>
+<l>Et vous voyez le prix dont sont payés mes soins.</l>
+<l>Je recueille avec zèle un homme en sa misère,</l>
+<l>Je le loge, et le tiens comme mon propre frère,</l>
+<l>De bienfaits chaque jour il est par moi chargé ;</l>
+<l>Je lui donne ma fille, et tout le bien que j’ai :</l>
+<l>Et, dans le même temps, le perfide, l’infâme,</l>
+<l>Tente le noir dessein de suborner ma femme ;</l>
+<l>Et, non content encor de ces lâches essais.</l>
+<l>Il m’ose menacer de mes propres bienfaits,</l>
+<l>Et veut, à ma ruine, user des avantages</l>
+<l>Dont le viennent d’armer mes bontés trop peu sages,</l>
+<l>Me chasser de mes biens où je l’ai transféré,</l>
+<l>Et me réduire au point d’où je l’ai retiré.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Le pauvre homme !</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l cont='true'>Mon fils, je ne puis du tout croire</l>
+<l>Qu’il ait voulu commettre une action si noire.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l cont='true'>Les gens de bien sont enviés toujours.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Que voulez-vous donc dire avec votre discours,</l>
+<l>Ma mère ?</l>
+
+<pagenum num="376"/>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l cont='true'>Que chez vous on vit d’étrange sorte,</l>
+<l>Et qu’on ne sait que trop la haine qu’on lui porte.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Qu’à cette haine à faire avec ce qu’on vous dit ?</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Je vous l’ai dit cent fois quand vous étiez petit :</l>
+<l>La vertu dans le monde est toujours poursuivie ;</l>
+<l>Les envieux mourront, mais non jamais l’envie.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Mais que fait ce discours aux choses d’aujourd’hui ?</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>On vous aura forgé cent sots contes de lui.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Je vous ai dit déjà que j’ai vu tout moi-même.</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Des esprits médisants la malice est extrême.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Vous me feriez damner, ma mère ! Je vous di</l>
+<l>Que j’ai vu de mes yeux un crime si hardi.</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Les langues ont toujours du venin à répandre,</l>
+<l>Et rien n’est ici-bas qui s’en puisse défendre.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>C’est tenir un propos de sens bien dépourvu.</l>
+<l>Je <correction original="j’ai">l’ai</correction> vu, dis-je, vu, de mes propres yeux vu,</l>
+<l>Ce qu’on appelle vu. Faut-il vous le rebattre</l>
+<l>Aux oreilles cent fois et crier comme quatre ?</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Mon Dieu ! le plus souvent l’apparence déçoit :</l>
+<l>Il ne faut pas toujours juger sur ce qu’on voit.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>J’enrage !</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l cont='true'>Aux faux soupçons la nature est sujette,</l>
+<l>Et c’est souvent à mal que le bien s’interprète.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Je dois interpréter à charitable soin</l>
+<l>Le désir d’embrasser ma femme !</l>
+
+<pagenum num="377"/>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Il est besoin,</l>
+<l>Pour accuser les gens, d’avoir de justes causes ;</l>
+<l>Et vous deviez attendre à vous voir sûr des choses.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Eh ! diantre ! le moyen de m’en assurer mieux ?</l>
+<l>Je devois donc, ma mère, attendre qu’à mes yeux</l>
+<l>Il eût... Vous me feriez dire quelque sottise.</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Enfin d’un trop pur zèle on voit son âme éprise ;</l>
+<l>Et je ne puis du tout me mettre dans l’esprit</l>
+<l>Qu’il ait voulu tenter les choses que l’on dit<noteref noteid="note.377.1"/>.</l>
+
+<notes>
+  <note id="note.377.1">
+    <p>Quel surcroît de comique, et comme l’auteur enchérit sur ce qu’il semble avoir épuisé, quand madame Pernelle joue avec Orgon le même rôle que ce même Orgon a joué avec les autres personnages de la pièce lorsqu’elle refuse de se rendre à toutes les preuves qu’il allègue contre Tartuffe ! Quelle progression d’effets comiques ! (La Harpe.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Allez, je ne sais pas, si vous n’étiez ma mère,</l>
+<l>Ce que je vous dirois, tant je suis en colère !</l>
+
+<hstage><speaker>DORINE</speaker>, à Orgon.</hstage>
+<l>Juste retour, monsieur, des choses d’ici-bas :</l>
+<l>Vous ne vouliez point croire, et l’on ne vous croit pas.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Nous perdons des moments en bagatelles pures,</l>
+<l>Qu’il faudroit employer à prendre des mesures.</l>
+<l>Aux menaces du fourbe on doit ne dormir point.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Quoi ! son effronterie iroit jusqu’à ce point ?</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Pour moi, je ne crois pas cette instance possible<noteref noteid="note.377.2"/>,</l>
+<l>Et son ingratitude est ici trop visible.</l>
+
+<notes>
+  <note id="note.377.2">
+    <p><i>Instance</i>, demande poursuite.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CLÉANTE</speaker>, à Orgon.</hstage>
+<l>Ne vous y fiez pas ; il aura des ressorts</l>
+<l>Pour donner contre vous raison à ses efforts.</l>
+<l>Et sur moins que cela le poids d’une cabale</l>
+<l>Embarrasse les gens dans un fâcheux dédale.</l>
+<l>Je vous le dis encore ; armé de ce qu’il a,</l>
+<l>Vous ne deviez jamais le pousser jusque-là.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Il est vrai ; mais qu’y faire ? A l’orgueil de ce traître,</l>
+<pagenum num="378"/>
+<l>De mes ressentiments je n’ai pas été maître.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Je voudrois de bon cœur qu’on pût entre nous deux</l>
+<l>De quelque ombre de paix raccommoder les nœuds.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Si j’avois su qu’en main il a de telles armes.</l>
+<l>Je n’aurois pas donné matière à tant d’alarmes ;</l>
+<l>Et mes...</l>
+
+<hstage><speaker>ORGON</speaker>, à Dorine, voyant entrer monsieur Loyal.</hstage>
+<l cont='true'>Que veut cet homme ? Allez tôt le savoir.</l>
+<l>Je suis bien en état que l’on me vienne voir !</l>
+
+<h3 id="p39">SCÈNE IV. — ORGON, MADAME PERNELLE, ELMIRE, MARIANE, CLÉANTE, DAMIS, DORINE, MONSIEUR LOYAL.</h3>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker>, à Dorine, dans le fond du théâtre.</hstage>
+<l>Bonjour, ma chère sœur<noteref noteid="note.378.1"/> ; faites, je vous supplie,</l>
+<l>Que je parle à monsieur.</l>
+
+<notes>
+  <note id="note.378.1">
+    <p>Cette salutation cénobitique et l’air de douceur hypocrite qui doit l’accompagner annoncent tout de suite que M. Loyal est un huissier digne d’<i>occuper</i> comme on dit, pour le <i>bon</i> M. Tartuffe. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Il est en compagnie ;</l>
+<l>Et je doute qu’il puisse à présent voir quelqu’un.</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l>Je ne suis pas pour être en ces lieux importun.</l>
+<l>Mon abord n’aura rien, je crois, qui lui déplaise ;</l>
+<l>Et je viens pour un fait dont il sera bien aise.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Votre nom ?</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l cont='true'>Dites-lui seulement que je vien</l>
+<l>De la part de monsieur Tartuffe, pour son bien.</l>
+
+<hstage><speaker>DORINE</speaker>, à Orgon.</hstage>
+<l>C’est un homme qui vient, avec douce manière.</l>
+<l>De la part de monsieur Tartuffe, pour affaire</l>
+<l>Dont vous serez, dit-il, bien aise.</l>
+
+<hstage><speaker>CLÉANTE</speaker>, à Orgon.</hstage>
+<l cont='true'>Il vous faut voir</l>
+<l>Ce que c’est que cet homme et ce qu’il peut vouloir.</l>
+
+<pagenum num="379"/>
+
+<hstage><speaker>ORGON</speaker>, à Cléante.</hstage>
+<l>Pour nous raccommoder il vient ici peut-être :</l>
+<l>Quels sentiments aurai-je à lui faire paroître ?</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Votre ressentiment ne doit point éclater ;</l>
+<l>Et, s’il parle d’accord, il le faut écouter.</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker>, à Orgon.</hstage>
+<l>Salut, monsieur ! Le ciel perde qui vous veut nuire,</l>
+<l>Et vous soit favorable autant que je désire !</l>
+
+<hstage><speaker>ORGON</speaker>, bas, à Cléante.</hstage>
+<l>Ce doux début s’accorde avec mon jugement</l>
+<l>Et présage déjà quelque accommodement.</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l>Toute votre maison m’a toujours été chère,</l>
+<l>Et j’étois serviteur de monsieur votre père.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Monsieur, j’ai grande honte et demande pardon</l>
+<l>D’être sans vous connoître ou savoir votre nom.</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l>Je m’appelle Loyal, natif de Normandie,</l>
+<l>Et suis hussier à verge, en dépit de l’envie.</l>
+<l>J’ai, depuis quarante ans, grâce au ciel, le bonheur</l>
+<l>D’en exercer la charge avec beaucoup d’honneur,</l>
+<l>Et je vous viens, monsieur, avec votre licence,</l>
+<l>Signifier l’exploit de certaine ordonnance...</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Quoi ! vous êtes ici...</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l cont='true'>Monsieur, sans passion,</l>
+<l>Ce n’est rien seulement qu’une sommation ;</l>
+<l>Un ordre de vider d’ici, vous et les vôtres,</l>
+<l>Mettre vos meubles hors, et faire place à d’autres,</l>
+<l>Sans délai ni remise, ainsi que besoin est.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Moi ! sortir de céans ?</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l cont='true'>Oui, monsieur, s’il vous plaît.</l>
+<l>La maison à présent, comme savez de reste,</l>
+<l>Au bon monsieur Tartuffe appartient sans conteste.</l>
+<l>De vos biens désormais il est maître et seigneur,</l>
+<l>En vertu d’un contrat duquel je suis porteur.</l>
+<pagenum num="380"/>
+<l>Il est en bonne forme, et l’on n’y peut rien dire.</l>
+
+<hstage><speaker>DAMIS</speaker>, à M. Loyal.</hstage>
+<l>Certes, cette impudence est grande, et je l’admire !</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker>, à Damis.</hstage>
+<l>Monsieur, je ne dois point avoir affaire à vous ;</l>
+<pstage>Montrant Orgon.</pstage>
+<l>C’est à monsieur : il est et raisonnable et doux,</l>
+<l>Et d’un homme de bien il sait trop bien l’office,</l>
+<l>Pour se vouloir du tout opposer à justice.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Mais...</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l cont='true'>Oui, monsieur, je sais que pour un million</l>
+<l>Vous ne voudriez pas faire rébellion,</l>
+<l>Et que vous souffrirez en honnête personne</l>
+<l>Que j’exécute ici les ordres qu’on me donne.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Vous pourriez bien ici sur votre noir jupon,</l>
+<l>Monsieur l’huissier à verge, attirer le bâton.</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker>, à Orgon.</hstage>
+<l>Faites que votre fils se taise ou se retire,</l>
+<l>Monsieur. J’aurois regret d’être obligé d’écrire,</l>
+<l>Et de vous voir couché dans mon procès-verbal.</l>
+
+<hstage><speaker>DORINE</speaker>, à part.</hstage>
+<l>Ce monsieur Loyal porte un air bien déloyal.</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l>Pour tous les gens de bien j’ai de grandes tendresses,</l>
+<l>Et ne me suis voulu, monsieur, charger des pièces</l>
+<l>Que pour vous obliger et vous faire plaisir ;</l>
+<l>Que pour ôter par là le moyen d’en choisir</l>
+<l>Qui, n’ayant pas pour vous le zèle qui me pousse,</l>
+<l>Auroient pu procéder d’une façon moins douce.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Et que peut-on de pis que d’ordonner aux gens</l>
+<l>De sortir de chez eux ?</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l cont='true'>On vous donne du temps ;</l>
+<l>Et jusques à demain je ferai surséance</l>
+<l>A l’exécution, monsieur, de l’ordonnance.</l>
+<l>Je viendrai seulement passer ici la nuit</l>
+<l>Avec dix de mes gens, sans scandale et sans bruit.</l>
+<pagenum num="381"/>
+<l>Pour la forme il faudra, s’il vous plaît, qu’on m’apporte</l>
+<l>Avant que se coucher, les clefs de votre porte.</l>
+<l>J’aurai soin de ne pas troubler votre repos,</l>
+<l>Et de ne rien souffrir qui ne soit à propos.</l>
+<l>Mais demain, du matin, il vous faut être habile</l>
+<l>A vider de céans jusqu’au moindre ustensile ;</l>
+<l>Mes gens vous aideront, et je les ai pris forts</l>
+<l>Pour vous faire service à tout mettre dehors.</l>
+<l>On n’en peut pas user mieux que je fais, je pense ;</l>
+<l>Et, comme je vous traite avec grande indulgence,</l>
+<l>Je vous conjure aussi, monsieur, d’en user bien,</l>
+<l>Et qu’au dû de ma charge on ne me trouble en rien.</l>
+
+<hstage><speaker>ORGON</speaker>, à part.</hstage>
+<l>Du meilleur de mon cœur je donnerois, sur l’heure,</l>
+<l>Les cent plus beaux louis de ce qui me demeure,</l>
+<l>Et pouvoir, à plaisir, sur ce muffle asséner</l>
+<l>Le plus grand coup de poing qui se puisse donner.</l>
+
+<hstage><speaker>CLÉANTE</speaker>, bas, à Orgon.</hstage>
+<l>Laissez, ne gâtons rien.</l>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l cont='true'>A cette audace étrange</l>
+<l>J’ai peine à me tenir, et la main me démange.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Avec un si bon dos, ma foi, monsieur Loyal,</l>
+<l>Quelques coups de bâton ne vous siéroient pas mal.</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l>On pourroit bien punir ces paroles infâmes,</l>
+<l>Ma mie ; et l’on décrète aussi contre les femmes.</l>
+
+<hstage><speaker>CLÉANTE</speaker>, à monsieur Loyal.</hstage>
+<l>Finissons tout cela, monsieur ; c’en est assez.</l>
+<l>Donnez tôt ce papier, de grâce, et nous laissez.</l>
+
+<hstage><speaker>MONSIEUR LOYAL</speaker></hstage>
+<l>Jusqu’au revoir. Le ciel vous tienne tous en joie !</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Puisse-t-il te confondre, et celui qui t’envoie !</l>
+
+<h3 id="p40">SCÈNE V. — ORGON, MADAME PERNELLE, ELMIRE, CLÉANTE, MARIANE, DAMIS, DORINE</h3>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Eh bien, vous le voyez, ma mère, si j’ai droit ;</l>
+<l>Et vous pouvez juger du reste par l’exploit,</l>
+<pagenum num="382"/>
+<l>Ses trahisons enfin vous sont-elles connues ?</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l>Je suis tout ébaubie, et je tombe des nues !</l>
+
+<hstage><speaker>DORINE</speaker>, à Orgon.</hstage>
+<l>Vous vous plaignez à tort, à tort vous le blâmez.</l>
+<l>Et ses pieux desseins par là sont confirmés.</l>
+<l>Dans l’amour du prochain sa vertu se consomme :</l>
+<l>Il sait que très souvent les biens corrompent l’homme.</l>
+<l>Et, par charité pure, il veut vous enlever</l>
+<l>Tout ce qui vous peut faire obstacle à vous sauver.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Taisez-vous. C’est le mot qu’il vous faut toujours dire.</l>
+
+<hstage><speaker>CLÉANTE</speaker>, à Orgon.</hstage>
+<l>Allons voir quel conseil on doit vous faire élire.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Allez faire éclater l’audace de l’ingrat.</l>
+<l>Ce procédé détruit la vertu du contrat ;</l>
+<l>Et sa déloyauté va paroître trop noire,</l>
+<l>Pour souffrir qu’il en ait le succès qu’on veut croire.</l>
+
+<h3 id="p41">SCÈNE VI. — VALÈRE, ORGON, MADAME PERNELLE, ELMIRE, CLÉANTE, MARIANE, DAMIS, DORINE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Avec regret, monsieur, je viens vous affliger ;</l>
+<l>Mais je m’y vois contraint par le pressant danger.</l>
+<l>Un ami, qui m’est joint d’une amitié fort tendre.</l>
+<l>Et qui sait l’intérêt qu’en vous j’ai lieu de prendre,</l>
+<l>A violé pour moi, par un pas délicat,</l>
+<l>Le secret que l’on doit aux affaires d’État,</l>
+<l>Et me vient d’envoyer un avis dont la suite</l>
+<l>Vous réduit au parti d’une soudaine fuite.</l>
+<l>Le fourbe qui longtemps a pu vous imposer</l>
+<l>Depuis une heure au prince a su vous accuser,</l>
+<l>Et remettre en ses mains, dans les traits qu’il vous jette,</l>
+<l>D’un criminel d’État l’importante cassette,</l>
+<l>Dont, au mépris, dit-il, du devoir d’un sujet,</l>
+<l>Vous avez conservé le coupable secret.</l>
+<l>J’ignore le détail du crime qu’on vous donne<noteref noteid="note.382.1"/> ;</l>
+<l>Mais un ordre est donné contre votre personne ;</l>
+<l>Et lui-même est chargé, pour mieux l’exécuter,</l>
+<pagenum num="383"/>
+<l>D’accompagner celui qui vous doit arrêter.</l>
+
+<notes>
+  <note id="note.382.1">
+    <p>Qu’on vous impute. Le mot <i>donne</i> semble impropre.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Voilà ses droits armés ; et c’est par où le traître</l>
+<l>De vos biens qu’il prétend cherche à se rendre maître.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>L’homme est, je l’avoue, un méchant animal !</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Le moindre amusement<noteref noteid="note.383.1"/> vous peut être fatal.</l>
+<l>J’ai, pour vous emmener, mon carrosse à la porte,</l>
+<l>Avec mille louis qu’ici je vous apporte.</l>
+<l>Ne perdons point de temps ; le trait est foudroyant ;</l>
+<l>Et ce sont de ces coups que l’on pare en fuyant.</l>
+<l>A vous mettre en lieu sûr je m’offre pour conduite,</l>
+<l>Et veux accompagner jusqu’au bout votre fuite.</l>
+
+<notes>
+  <note id="note.383.1">
+    <p>Retardement, perte de temps.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Las ! que ne dois-je point à vos soins obligeants !</l>
+<l>Pour vous en rendre grâce, il faut un autre temps ;</l>
+<l>Et je demande au ciel de m’être assez propice</l>
+<l>Pour reconnoître un jour ce généreux service.</l>
+<l>Adieu : prenez le soin, vous autres.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Allez tôt ;</l>
+<l>Nous songerons, mon frère, à faire ce qu’il faut.</l>
+
+<h3 id="p42">SCÈNE VII. — TARTUFFE, UN EXEMPT MADAME PERNELLE, ORGON, ELMIRE, CLÉANTE, MARIANE, VALÈRE, DAMIS, DORINE</h3>
+
+<hstage><speaker>TARTUFFE</speaker>, arrêtant Orgon.</hstage>
+<l>Tout beau, monsieur, tout beau, ne courez point si vite :</l>
+<l>Vous n’irez pas fort loin pour trouver votre gîte ;</l>
+<l>Et, de la part du prince, on vous fait prisonnier.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Traître ! tu me gardois ce trait pour le dernier ;</l>
+<l>C’est le coup, scélérat, par où tu m’expédies ;</l>
+<l>Et voilà couronner toutes tes perfidies !</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Vos injures n’ont rien à me pouvoir aigrir ;</l>
+<l>Et je suis, pour le ciel, appris à tout souffrir.</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>La modération est grande, je l’avoue.</l>
+
+<pagenum num="384"/>
+
+<hstage><speaker>DAMIS</speaker></hstage>
+<l>Comme du ciel l’infâme impudemment se joue !</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Tous vos emportements ne sauroient m’émouvoir ;</l>
+<l>Et je ne songe à rien qu’à faire mon devoir.</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l>Vous avez de ceci grande gloire à prétendre ;</l>
+<l>Et cet emploi pour vous est fort honnête à prendre.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Un emploi ne sauroit être que glorieux</l>
+<l>Quand il part du pouvoir qui m’envoie en ces lieux.</l>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Mais t’es-tu souvenu que ma main charitable,</l>
+<l>Ingrat, t’a retiré d’un état misérable ?</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Oui, je sais quels secours j’en ai pu recevoir ;</l>
+<l>Mais l’intérêt du prince est mon premier devoir.</l>
+<l>De ce devoir sacré la juste violence</l>
+<l>Étouffe dans mon cœur toute reconnoissance ;</l>
+<l>Et je sacrifierois à de si puissants nœuds</l>
+<l>Ami, femme, parents, et moi-même avec eux.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>L’imposteur !</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l cont='true'>Comme il sait, de traîtresse manière,</l>
+<l>Se faire un beau manteau de tout ce qu’on révère !</l>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l>Mais, s’il est si parfait que vous le déclarez,</l>
+<l>Ce zèle qui vous pousse et dont vous vous parez.</l>
+<l>D’où vient que pour paroître il s’avise d’attendre</l>
+<l>Qu’à poursuivre sa femme il ait su vous surprendre,</l>
+<l>Et que vous ne songez à l’aller dénoncer</l>
+<l>Que lorsque son honneur l’oblige à vous chasser ?</l>
+<l>Je ne vous parle point, pour devoir en distraire.</l>
+<l>Du don de tout son bien qu’il venoit de vous faire ;</l>
+<l>Mais, le voulant traiter en coupable aujourd’hui,</l>
+<l>Pourquoi consentiez-vous à rien prendre de lui ?</l>
+
+<hstage><speaker>TARTUFFE</speaker>, à l’exempt.</hstage>
+<l>Délivrez-moi, monsieur, de la criaillerie ;</l>
+<l>Et daignez accomplir votre ordre, je vous prie.</l>
+
+<pagenum num="385"/>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<l>Oui, c’est trop demeurer, sans doute, à l’accomplir,</l>
+<l>Votre bouche à propos m’invite à le remplir :</l>
+<l>Et, pour l’exécuter, suivez-moi tout à l’heure</l>
+<l>Dans la prison qu’on doit vous donner pour demeure<noteref noteid="note.385.1"/>.</l>
+
+<notes>
+  <note id="note.385.1">
+    <p>Voilà un coup de théâtre qui est pour ainsi dire, le pendant de celui du quatrième acte :</p>
+
+    <blockquote>
+      <l>C’est à vous d’en sortir, vous qui parlez en maître.</l>
+    </blockquote>
+
+    <p>Autant l’un a causé de terreur et de consternation, autant l’autre procure de soulagement et de plaisir. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l>Qui ? moi, monsieur ?</l>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<l cont='true'>Oui, vous.</l>
+
+<hstage><speaker>TARTUFFE</speaker></hstage>
+<l cont='true'>Pourquoi donc la prison ?</l>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<l>Ce n’est pas vous à qui j’en veux rendre raison.</l>
+<pstage>A Orgon.</pstage>
+<l>Remettez-vous, monsieur, d’une alarme si chaude.</l>
+<l>Nous vivons sous un prince ennemi de la fraude,</l>
+<l>Un prince dont les yeux se font jour dans les cœurs.</l>
+<l>Et que ne peut tromper tout l’art des imposteurs.</l>
+<l>D’un fin discernement sa grande âme pourvue</l>
+<l>Sur les choses toujours jette une droite vue ;</l>
+<l>Chez elle jamais rien ne surprend trop d’accès.</l>
+<l>Et sa ferme raison ne tombe en nul excès.</l>
+<l>Il donne aux gens de bien une gloire immortelle ;</l>
+<l>Mais sans aveuglement il fait briller ce zèle,</l>
+<l>Et l’amour pour les vrais ne ferme point son cœur</l>
+<l>A tout ce que les faux doivent donner d’horreur.</l>
+<l>Celui-ci n’étoit pas pour le pouvoir surprendre,</l>
+<l>Et de pièges plus fins on le voit se défendre.</l>
+<l>D’abord il a percé, par ses vives clartés.</l>
+<l>Des replis de son cœur toutes les lâchetés.</l>
+<l>Venant vous accuser, il s’est trahi lui-même,</l>
+<l>Et, par un juste trait de l’équité suprême,</l>
+<l>S’est découvert au prince un fourbe renommé,</l>
+<l>Dont sous un autre nom il étoit informé ;</l>
+<l>Et c’est un long détail d’actions toutes noires</l>
+<l>Dont on pourroit former des volumes d’histoires.</l>
+<l>Ce monarque, en un mot, a vers vous détesté</l>
+<pagenum num="386"/>
+<l>Sa lâche ingratitude et sa déloyauté ;</l>
+<l>A ses autres horreurs il a joint cette suite,</l>
+<l>Et ne m’a jusqu’ici soumis à sa conduite</l>
+<l>Que pour voir l’impudence aller jusques au bout.</l>
+<l>Et vous faire, par lui, faire raison de tout.</l>
+<l>Oui, de tous vos papiers dont il se dit le maître,</l>
+<l>Il veut qu’entre vos mains je dépouille le traître.</l>
+<l>D’un souverain pouvoir, il brise les liens</l>
+<l>Du contrat qui lui fait un don de tous vos biens.</l>
+<l>Et vous pardonne enfin cette offense secrète</l>
+<l>Où vous a d’un ami fait tomber la retraite :</l>
+<l>Et c’est le prix qu’il donne au zèle qu’autrefois</l>
+<l>On vous vit témoigner en appuyant ses droits,</l>
+<l>Pour montrer que son cœur sait, quand moins on y pense,</l>
+<l>D’une bonne action verser la récompense ;</l>
+<l>Que jamais le mérite avec lui ne perd rien ;</l>
+<l>Et que, mieux que du mal, il se souvient du bien.</l>
+
+<hstage><speaker>DORINE</speaker></hstage>
+<l>Que le ciel soit loué !</l>
+
+<hstage><speaker>MADAME PERNELLE</speaker></hstage>
+<l cont='true'>Maintenant je respire.</l>
+
+<hstage><speaker>ELMIRE</speaker></hstage>
+<l>Favorable succès !</l>
+
+<hstage><speaker>MARIANE</speaker></hstage>
+<l cont='true'>Qui l’auroit osé dire ?</l>
+
+<hstage><speaker>ORGON</speaker>, à Tartuffe, que l’exempt emmène.</hstage>
+<l>Eh bien, te voilà, traître !...</l>
+
+<h3 id="p43">SCÈNE VIII. — MADAME PERNELLE, ORGON, ELMIRE, MARIANE, CLÉANTE, VALÈRE, DAMIS, DORINE</h3>
+
+<hstage><speaker>CLÉANTE</speaker></hstage>
+<l cont='true'>Ah ! mon frère, arrêtez,</l>
+<l>Et ne descendez point à des indignités.</l>
+<l>A son mauvais destin laissez un misérable.</l>
+<l>Et ne vous joignez point au remords qui l’accable.</l>
+<l>Souhaitez bien plutôt que son cœur, en ce jour,</l>
+<l>Au sein de la vertu fasse un heureux retour ;</l>
+<l>Qu’il corrige sa vie en détestant son vice,</l>
+<l>Et puisse du grand prince adoucir la justice ;</l>
+<l>Tandis qu’à sa bonté, vous irez, à genoux,</l>
+<l>Rendre ce que demande un traitement si doux.</l>
+
+<pagenum num="387"/>
+
+<hstage><speaker>ORGON</speaker></hstage>
+<l>Oui, c’est bien dit. Allons à ses pieds avec joie</l>
+<l>Nous louer des bontés que son cœur nous déploie ;</l>
+<l>Puis, acquittés un peu de ce premier devoir,</l>
+<l>Aux justes soins d’un autre il nous faudra pourvoir,</l>
+<l>Et par un doux hymen couronner en Valère</l>
+<l>La flamme d’un amant généreux et sincère.</l>
+
+</page-sequence>
+</page-sequences>
+</bml>

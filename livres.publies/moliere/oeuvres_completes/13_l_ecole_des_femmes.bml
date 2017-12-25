@@ -1,0 +1,3678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000490"
+        creation="2017-01-29T08:35:52-08:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>L’École des Femmes</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='13'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="preface" label="Preface"/>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="acte1" label="Acte I">
+      <tocentry idref="acte1sc01" label="Scène I"/>
+      <tocentry idref="acte1sc02" label="Scène II"/>
+      <tocentry idref="acte1sc03" label="Scène III"/>
+      <tocentry idref="acte1sc04" label="Scène IV"/>
+      <tocentry idref="acte1sc05" label="Scène V"/>
+      <tocentry idref="acte1sc06" label="Scène VI"/>
+      <tocentry idref="acte1sc07" label="Scène VII"/>
+    </tocentry>
+    <tocentry idref="acte2" label="Acte II">
+      <tocentry idref="acte2sc01" label="Scène I"/>
+      <tocentry idref="acte2sc02" label="Scène II"/>
+      <tocentry idref="acte2sc03" label="Scène III"/>
+      <tocentry idref="acte2sc04" label="Scène IV"/>
+      <tocentry idref="acte2sc05" label="Scène V"/>
+      <tocentry idref="acte2sc06" label="Scène VI"/>
+    </tocentry>
+    <tocentry idref="acte3" label="Acte III">
+      <tocentry idref="acte3sc01" label="Scène I"/>
+      <tocentry idref="acte3sc02" label="Scène II"/>
+      <tocentry idref="acte3sc03" label="Scène III"/>
+      <tocentry idref="acte3sc04" label="Scène IV"/>
+      <tocentry idref="acte3sc05" label="Scène V"/>
+    </tocentry>
+    <tocentry idref="acte4" label="Acte IV">
+      <tocentry idref="acte4sc01" label="Scène I"/>
+      <tocentry idref="acte4sc02" label="Scène II"/>
+      <tocentry idref="acte4sc03" label="Scène III"/>
+      <tocentry idref="acte4sc04" label="Scène IV"/>
+      <tocentry idref="acte4sc05" label="Scène V"/>
+      <tocentry idref="acte4sc06" label="Scène VI"/>
+      <tocentry idref="acte4sc07" label="Scène VII"/>
+      <tocentry idref="acte4sc08" label="Scène VIII"/>
+      <tocentry idref="acte4sc09" label="Scène IX"/>
+    </tocentry>
+    <tocentry idref="acte5" label="Acte V">
+      <tocentry idref="acte5sc01" label="Scène I"/>
+      <tocentry idref="acte5sc02" label="Scène II"/>
+      <tocentry idref="acte5sc03" label="Scène III"/>
+      <tocentry idref="acte5sc04" label="Scène IV"/>
+      <tocentry idref="acte5sc05" label="Scène V"/>
+      <tocentry idref="acte5sc06" label="Scène VI"/>
+      <tocentry idref="acte5sc07" label="Scène VII"/>
+      <tocentry idref="acte5sc08" label="Scène VIII"/>
+      <tocentry idref="acte5sc09" label="Scène IV"/>
+      <tocentry idref="acte5sc10" label="Scène X"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="374"/>
+
+<img src="images/frise11.png" class="center100" alt="frise"/>
+
+<h1>L’ÉCOLE DES FEMMES</h1>
+<h2>COMÉDIE EN CINQ ACTES</h2>
+
+<vsep class="rule"/>
+
+<h3>A MADAME<noteref noteid="note.374.1"/></h3>
+
+<notes>
+  <note id="note.374.1">
+    <p>Henriette d’Angleterre, première femme de M<s>ONSIEUR</s>, frère de Louis XIV, petite-fille de Henri IV dont l’oraison funèbre a été prononcée par Bossuet. Elle mourut à Saint-Cloud le 30 juin 1670, à l’âge de vingt-six ans.</p>
+  </note>
+</notes>
+
+<letter>
+
+<salutation>Madame,</salutation>
+
+<p>Je suis le plus embarrassé homme du monde, lorsqu’il me faut dédier un livre, et je me trouve si peu fait au style d’épître dédicatoire, que je ne sais par où sortir de celle-ci. Un autre auteur, qui seroit en ma place, trouveroit d’abord cent belles choses à dire de V<s>OTRE</s> A<s>LTESSE</s> R<s>OYALE</s>, sur ce titre de l’<i>École des Femmes</i>, et l’offre qu’il vous en feroit. Mais, pour moi, M<s>ADAME</s>, je vous avoue mon foible. Je ne sais point cet art de trouver des rapports entre des choses si peu proportionnées ; et, quelques belles lumières que mes confrères les auteurs me donnent tous les jours sur de pareils sujets, je ne vois point ce que V<s>OTRE</s> A<s>LTESSE</s> R<s>OYALE</s> pourrait avoir à démêler avec la comédie que je lui présente. On n’est pas en peine, sans doute, comment il faut faire pour vous louer. La matière, M<s>ADAME</s>, ne saute que trop aux yeux ; et, de quelque côté qu’on vous regarde, on rencontre gloire sur gloire, et qualités sur qualités. Vous en avez, M<s>ADAME</s>, du côté du rang et de la naissance, qui vous font respecter de toute la terre. Vous en avez du côté des grâces, et de l’esprit, et du corps, qui vous font admirer de toutes les personnes qui vous voient. Vous en avez du côté de l’âme, qui, si l’on ose parler ainsi, vous font aimer de tous ceux qui ont l’honneur d’approcher de vous : je veux dire cette douceur pleine de charmes dont vous daignez tempérer la fierté des grands titres que vous portez ; cette bonté tout obligeante, cette affabilité généreuse que vous faites paraître pour tout le monde. Et ce sont particulièrement ces dernières pour qui je suis, et dont je sens fort bien que je ne me pourrai taire quelque jour. Mais encore une fois, M<s>ADAME</s>, je ne sais point le biais de faire entrer ici des vérités si éclatantes ; et ce sont choses, à mon avis, et d’une trop vaste étendue et d’un mérite trop élevé, pour les vouloir renfermer dans une épître et les mêler avec des bagatelles. Tout bien considéré, M<s>ADAME</s>, je ne vois rien à faire ici pour moi que de vous dédier <pagenum num="375" b="sim-" a="plement">simplement</pagenum> ma comédie, et de vous assurer, avec tout le respect qu’il m’est possible, que je suis,</p>
+
+<p>D<s>E</s> V<s>OTRE</s> A<s>LTESSE</s> R<s>OYALE</s>,</p>
+
+<p class="l3">M<s>ADAME>,</s></p>
+
+<p class="r3">Le très-humble, très-obéissant, et très-obligé serviteur,</p>
+
+<signature>M<s>OLIÈRE</s>.</signature>
+
+</letter>
+
+<vsep class="rule"/>
+
+<h3 id="preface">PRÉFACE</h3>
+
+<p>Bien des gens ont frondé d’abord cette comédie ; mais les rieurs ont été pour elle, et tout le mal qu’on en a pu dire n’a pu faire qu’elle n’ait eu un succès dont je me contente.</p>
+
+<p>Je sais qu’on attend de moi dans cette impression quelque préface qui réponde aux censeurs et rende raison de mon ouvrage ; et sans doute que je suis assez redevable à toutes les personnes qui lui ont donné leur approbation, pour me croire obligé de défendre leur jugement contre celui des autres ; mais il se trouve qu’une grande partie des choses que j’aurois à dire sur ce sujet est déjà dans une dissertation que j’ai faite en dialogue, et dont je ne sais encore ce que je ferai.</p>
+
+<p>L’idée de ce dialogue, ou, si l’on veut, de cette petite comédie<noteref noteid="note.375.1"/>, me vint après les deux où trois premières représentations de ma pièce.</p>
+
+<notes>
+  <note id="note.375.1">
+    <p>La <i>Critique de l’École des Femmes</i>, jouée le 1<sup>er</sup> juin 1663.</p>
+  </note>
+</notes>
+
+<p>Je la dis, cette idée, dans une maison où je me trouvai un soir, et d’abord une personne de qualité, dont l’esprit est assez connu dans le monde, et qui me fait l’honneur de m’aimer, trouva le projet assez à son gré, non-seulement pour me solliciter d’y mettre la main, mais encore pour l’y mettre lui-même ; et je fus étonné que deux jours après il me montra toute l’affaire exécutée d’une manière à la vérité beaucoup plus galante et plus spirituelle que je ne puis faire, mais où je trouvai des choses trop avantageuses pour moi ; et j’eus peur que, si je produisois cet ouvrage sur notre théâtre, on ne m’accusât d’avoir mendié les louanges qu’on m’y donnoit. Cependant cela m’empêcha, par quelque considération, d’achever ce que j’avois commencé. Mais tant de gens me pressent tous les jours de le faire, que je ne sais ce qui en sera ; et cette incertitude est cause que je ne mets point dans cette préface ce qu’on verra dans la <i>Critique</i>, en cas que je me résolve à la faire paroître. S’il faut que cela soit, je le dis encore, ce sera seulement pour venger le public du chagrin délicat de certaines gens ; car, pour moi, je m’en tiens assez vengé par la réussite de ma comédie ; et je souhaite que toutes celles que je pourrai faire soient traitées par eux comme celle-ci, pourvu que le reste soit de même.</p>
+
+<vsep class="rule"/>
+
+<pagenum num="376"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">ARNOLPHE, autrement M. DE LA SOUCHE.</p>
+<p class="sommaire">AGNÈS, jeune fille innocente élevée par Arnolphe.</p>
+<p class="sommaire">HORACE, amant d’Agnès.</p>
+<p class="sommaire">ALAIN, paysan, valet d’Arnolphe.</p>
+<p class="sommaire">GEORGETTE, paysanne, servante d’Arnolphe.</p>
+<p class="sommaire">CHRYSALDE, ami d’Arnolphe.</p>
+<p class="sommaire">ENRIQUE, beau-frère de Chrysalde.</p>
+<p class="sommaire">ORONTE, père d’Horace et grand ami d’Arnolphe.</p>
+<p class="sommaire">U<s>N</s> N<s>OTAIRE</s>.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est dans une place de ville.</p>
+
+<vsep class="rule"/>
+
+<h2 id="acte1">ACTE PREMIER</h2>
+
+<h3 id="acte1sc01">SCÈNE I. — CHRYSALDE, ARNOLPHE</h3>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Vous venez, dites-vous, pour lui donner la main ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oui. Je veux terminer la chose dans demain.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Nous sommes ici seuls, et l’on peut, ce me semble,</l>
+<l>Sans craindre d’être ouïs, y discourir ensemble.</l>
+<l>Voulez-vous qu’en ami je vous ouvre mon cœur ?</l>
+<l>Votre dessein, pour vous, me fait trembler de peur,</l>
+<l>Et, de quelque façon que vous tourniez l’affaire,</l>
+<l>Prendre femme est à vous un coup bien téméraire.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Il est vrai, notre ami. Peut-être que chez vous</l>
+<l>Vous trouvez des sujets de craindre pour chez nous ;</l>
+<l>Et votre front, je crois, veut que du mariage</l>
+<l>Les cornes soient partout l’infaillible apanage.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Ce sont coups de hasard, dont on n’est point garant ;</l>
+<l>Et bien sot, ce me semble, est le soin qu’on en prend.</l>
+<l>Mais, quand je crains pour vous, c’est cette raillerie</l>
+<l>Dont cent pauvres maris ont souffert la furie :</l>
+<l>Car enfin, vous savez qu’il n’est grands, ni petits,</l>
+<l>Que de votre critique on ait vus garantis ;</l>
+<l>Que vos plus grands plaisirs sont, partout où vous êtes,</l>
+<l>De faire cent éclats des intrigues secrètes...</l>
+
+<pagenum num="377"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Fort bien. Est-il au monde une autre ville aussi</l>
+<l>Où l’on ait des maris si patients qu’ici ?</l>
+<l>Est-ce qu’on n’en voit pas de toutes les espèces,</l>
+<l>Qui sont accommodés chez eux de toutes pièces ?</l>
+<l>L’un amasse du bien dont sa femme fait part</l>
+<l>A ceux qui prennent soin de le faire cornard ;</l>
+<l>L’autre, un peu plus heureux, mais non pas moins infâme,</l>
+<l>Voit faire tous les jours des présents à sa femme,</l>
+<l>Et d’aucun soin jaloux n’a l’esprit combattu,</l>
+<l>Parce qu’elle lui dit que c’est pour sa vertu.</l>
+<l>Dit qu’elle gagne au jeu l’argent qu’elle dépense ;</l>
+<l>Et le mari benêt, sans songer à quel jeu,</l>
+<l>Sur les gains qu’elle fait rend des grâces à Dieu :</l>
+<l>Enfin, ce sont partout des sujets de satire,</l>
+<l>Et, comme spectateur, ne puis-je pas en rire ?</l>
+<l>Puis-je pas de nos sots...</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l cont="true">Oui ; mais qui rit d’autrui</l>
+<l>Doit craindre qu’en revanche on rie aussi de lui.</l>
+<l>J’entends parler le monde, et des gens se délassent</l>
+<l>A venir débiter les choses qui se passent ;</l>
+<l>Mais, quoique l’on divulgue aux endroits où je suis,</l>
+<l>Jamais on ne m’a vu triompher de ces bruits.</l>
+<l>J’y suis assez modeste ; et bien qu’aux occurrences</l>
+<l>Je puisse condamner certaines tolérances,</l>
+<l>Que mon dessein ne soit de souffrir nullement</l>
+<l>Ce que quelques maris souffrent paisiblement,</l>
+<l>Pourtant je n’ai jamais affecté de le dire ;</l>
+<l>Car enfin il faut craindre un revers de satire,</l>
+<l>Et l’on ne doit jamais jurer sur de tels cas</l>
+<l>De ce qu’on pourra faire, ou bien ne faire pas.</l>
+<l>Ainsi, quand à mon front, par un sort qui tout mène,</l>
+<l>Il seroit arrivé quelque disgrâce humaine,</l>
+<pagenum num="378"/>
+<l>Après mon procédé, je suis presque certain</l>
+<l>Qu’on se contentera de s’en rire sous main ;</l>
+<l>Et peut-être qu’encor j’aurai cet avantage,</l>
+<l>Que quelques bonnes gens diront que c’est dommage.</l>
+<l>Mais de vous, cher compère, il en est autrement ;</l>
+<l>Je vous le dis encor, vous risquez diablement.</l>
+<l>Comme sur les maris accusés de souffrance</l>
+<l>De tout temps votre langue a daubé d’importance,</l>
+<l>Qu’on vous a vu contre eux un diable déchaîné,</l>
+<l>Vous devez marcher droit, pour n’être point berné ;</l>
+<l>Et, s’il faut que sur vous on ait la moindre prise,</l>
+<l>Gare qu’aux carrefours on ne vous tympanise,</l>
+<l>Et...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Mon Dieu ! notre ami, ne vous tourmentez point :</l>
+<l>Bien huppé qui pourra m’attraper sur ce point.</l>
+<l>Je sais les tours rusés et les subtiles trames</l>
+<l>Dont pour nous en planter savent user les femmes.</l>
+<l>Et comme on est dupé par leurs dextérités,</l>
+<l>Contre cet accident j’ai pris mes sûretés ;</l>
+<l>Et celle que j’épouse a toute l’innocence</l>
+<l>Qui peut sauver mon front de maligne influence.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Et que prétendez-vous qu’une sotte, en un mot...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Épouser une sotte est pour n’être point sot.</l>
+<l>Je crois, en bon chrétien, votre moitié fort sage ;</l>
+<l>Mais une femme habile est un mauvais présage ;</l>
+<l>Et je sais ce qu’il coûte à de certaines gens</l>
+<l>Pour avoir pris les leurs avec trop de talents.</l>
+<l>Moi, j’irois me charger d’une spirituelle</l>
+<l>Qui ne parleroit rien que cercle et que ruelle ;</l>
+<l>Qui de prose et de vers feroit de doux écrits,</l>
+<l>Et que visiteroient marquis et beaux esprits,</l>
+<l>Tandis que, sous le nom du mari de madame,</l>
+<l>Je serois comme un saint que pas un ne réclame ?</l>
+<l>Non, non, je ne veux point d’un esprit qui soit haut ;</l>
+<l>Et femme qui compose en sait plus qu’il ne faut.</l>
+<l>Je prétends que la mienne, en clartés<noteref noteid="note.378.1"/> peu sublime,</l>
+<l>Même ne sache pas ce que c’est qu’une rime :</l>
+<l>Et, s’il faut qu’avec elle on joue au corbillon,</l>
+<pagenum num="379"/>
+<l>Et qu’on vienne à lui dire à son tour : Qu’y met-on ?</l>
+<l>Je veux qu’elle réponde : Une tarte à la crème ;</l>
+<l>En un mot, qu’elle soit d’une ignorance extrême :</l>
+<l>Et c’est assez pour elle, à vous en bien parler,</l>
+<l>De savoir prier Dieu, m’aimer, coudre, et filer.</l>
+
+<notes>
+  <note id="note.378.1">
+    <p>Lumières, connaissances.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Une femme stupide est donc votre marotte ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Tant, que j’aimerois mieux une laide bien sotte</l>
+<l>Qu’une femme fort belle avec beaucoup d’esprit.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>L’esprit et la beauté...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">L’honnêteté suffit.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Mais comment voulez-vous, après tout, qu’une bête</l>
+<l>Puisse jamais savoir ce que c’est qu’être honnête ?</l>
+<l>Outre qu’il est assez ennuyeux, que je croi,</l>
+<l>D’avoir toute sa vie une bête avec soi,</l>
+<l>Pensez-vous le bien prendre, et que sur votre idée</l>
+<l>La sûreté d’un front puisse être bien fondée ?</l>
+<l>Une femme d’esprit peut trahir son devoir ;</l>
+<l>Mais il faut, pour le moins, qu’elle ose le vouloir :</l>
+<l>Et la stupide au sien peut manquer d’ordinaire,</l>
+<l>Sans en avoir l’envie et sans penser le faire.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>A ce bel argument, à ce discours profond,</l>
+<l>Ce que Pantagruel à Panurge répond :</l>
+<l>Pressez-moi de me joindre à femme autre que sotte,</l>
+<l>Prêchez, patrocinez<noteref noteid="note.379.1"/> jusqu’à la Pentecôte ;</l>
+<l>Vous serez ébahi, quand vous serez au bout,</l>
+<l>Que vous ne m’aurez rien persuadé du tout.</l>
+
+<notes>
+  <note id="note.379.1">
+    <p><i>Patrociner</i>, est le mot latin <i>patrocinari</i>, francisé par Rabelais. Il signifie plaider.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Je ne vous dis plus mot.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Chacun a sa méthode.</l>
+<l>En femme, comme en tout, je veux suivre ma mode :</l>
+<l>Je me vois riche assez pour pouvoir, que je croi,</l>
+<l>Choisir une moitié qui tienne tout de moi,</l>
+<l>Et de qui la soumise et pleine dépendance</l>
+<pagenum num="380"/>
+<l>N’ait à me reprocher aucun bien ni naissance.</l>
+<l>Un air doux et posé, parmi d’autres enfants,</l>
+<l>M’inspira de l’amour pour elle dès quatre ans.</l>
+<l>Sa mère se trouvant de pauvreté pressée,</l>
+<l>De la lui demander il me vint en pensée ;</l>
+<l>Et la bonne paysanne, apprenant mon désir,</l>
+<l>A s’ôter cette charge eut beaucoup de plaisir.</l>
+<l>Dans un petit couvent, loin de toute pratique<noteref noteid="note.380.1"/>,</l>
+<l>Je la fis élever selon ma politique ;</l>
+<l>C’est-à-dire, ordonnant quels soins on emploieroit</l>
+<l>Pour la rendre idiote autant qu’il se pourroit.</l>
+<l>Dieu merci, le succès a suivi mon attente ;</l>
+<l>Et, grande, je l’ai vue à tel point innocente,</l>
+<l>Que j’ai béni le ciel d’avoir trouvé mon fait,</l>
+<l>Pour me faire une femme au gré de mon souhait.</l>
+<l>Je l’ai donc retirée, et comme ma demeure</l>
+<l>A cent sortes de gens est ouverte à toute heure,</l>
+<l>Je l’ai mise à l’écart, comme il faut tout prévoir,</l>
+<l>Dans cette autre maison où nul ne me vient voir ;</l>
+<l>Et, pour ne point gâter sa bonté naturelle,</l>
+<l>Je n’y tiens que des gens tout aussi simples qu’elle.</l>
+<l>Vous me direz : Pourquoi cette narration ?</l>
+<l>C’est pour vous rendre instruit de ma précaution.</l>
+<l>Le résultat de tout est qu’en ami fidèle</l>
+<l>Ce soir je vous invite à souper avec elle ;</l>
+<l>Je veux que vous puissiez un peu l’examiner,</l>
+<l>Et voir si de mon choix on me doit condamner.</l>
+
+<notes>
+  <note id="note.380.1">
+    <p><i>Pratique</i> fréquentation, commerce.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>J’y consens.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Vous pourrez, dans cette conférence,</l>
+<l>Juger de sa personne et de son innocence.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Pour cet article-là, ce que vous m’avez dit</l>
+<l>Ne peut...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">La vérité passe encor mon récit.</l>
+<l>Dans ses simplicités à tous coups je l’admire,</l>
+<l>Et parfois elle en dit dont je pâme de rire.</l>
+<l>L’autre jour (pourroit-on se le persuader ?)</l>
+<l>Elle étoit fort en peine, et me vint demander,</l>
+<pagenum num="381"/>
+<l>Avec une innocence à nulle autre pareille,</l>
+<l>Si les enfants qu’on fait se faisoient par l’oreille.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Je me réjouis fort, seigneur Arnolphe...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Bon !</l>
+<l>Me voulez-vous toujours appeler de ce nom ?</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Ah ! malgré que j’en aie, il me vient à la bouche,</l>
+<l>Et jamais je ne songe à monsieur de la Souche.</l>
+<l>Qui diable vous a fait aussi vous aviser,</l>
+<l>A quarante-deux ans, de vous débaptiser,</l>
+<l>Et d’un vieux tronc pourri de votre métairie</l>
+<l>Vous faire dans le monde un nom de seigneurie ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Outre que la maison par ce nom se connoît,</l>
+<l>La Souche plus qu’Arnolphe à mes oreilles plaît<noteref noteid="note.381.1"/>.</l>
+
+<notes>
+  <note id="note.381.1">
+    <p>Saint Arnolphe fut longtemps regardé comme le patron des maris trompés.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Quel abus de quitter le vrai nom de ses pères,</l>
+<l>Pour en vouloir prendre un bâti sur des chimères !</l>
+<l>De la plupart des gens c’est la démangeaison ;</l>
+<l>Et, sans vous embrasser dans la comparaison,</l>
+<l>Je sais un paysan qu’on appelait Gros-Pierre.</l>
+<l>Qui, n’ayant pour tout bien qu’un seul quartier de terre,</l>
+<l>Y fit tout alentour faire un fossé bourbeux,</l>
+<l>Et de monsieur de l’Isle en prit le nom pompeux.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Vous pourriez vous passer d’exemples de la sorte.</l>
+<l>Mais enfin de la Souche est le nom que je porte :</l>
+<l>J’y vois de la raison, j’y trouve des appas ;</l>
+<l>Et m’appeler de l’autre est ne m’obliger pas.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Cependant la plupart ont peine à s’y soumettre,</l>
+<l>Et je vois même encor des adresses de lettre...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Je le souffre aisément de qui n’est pas instruit ;</l>
+<l>Mais vous...</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l cont="true">Soit : là-dessus nous n’aurons point de bruit ;</l>
+<l>Et je prendrai le soin d’accoutumer ma bouche</l>
+<pagenum num="382"/>
+<l>A ne plus vous nommer que monsieur de la Souche.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Adieu. Je frappe ici pour donner le bonjour,</l>
+<l>Et dire seulement que je suis de retour.</l>
+
+<hstage><speaker>CHRYSALDE</speaker>, à part, en s’en allant.</hstage>
+<l>Ma foi, je le tiens fou de toutes les manières.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Il est un peu blessé sur certaines matières.</l>
+<l>Chose étrange, de voir comme avec passion</l>
+<l>Un chacun est chaussé de son opinion !</l>
+<pstage>Il frappe à sa porte.</pstage>
+<l>Holà !</l>
+
+<h3 id="acte1sc02">SCÈNE II. — ARNOLPHE, ALAIN, GEORGETTE, <i>dans la maison</i>.</h3>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Qui heurte !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Ouvrez.</l>
+<pstage>A part.</pstage>
+<l cont="true">On aura, que je pense,</l>
+<l>Grande joie à me voir après dix jours d’absence.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Qui va là ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Moi.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Georgette !</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Eh bien ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Ouvre là-bas.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Vas-y, toi.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Vas-y, toi.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Ma foi, je n’irai pas.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Je n’irai pas aussi.</l>
+
+<pagenum num="383"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Belle cérémonie</l>
+<l>Pour me laisser dehors ! Holà ! ho ! je vous prie.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Qui frappe ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Votre maître.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Alain !</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Quoi ?</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">C’est monsieur.</l>
+<l>Ouvre vite.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Ouvre, toi.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Je souffle notre feu.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>J’empêche, peur du chat, que mon moineau ne sorte.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Quiconque de vous deux n’ouvrira pas la porte</l>
+<l>N’aura point à manger de plus de quatre jours.</l>
+<l>Ah !</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Par quelle raison y venir, quand j’y cours ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Pourquoi plutôt que moi ? Le plaisant stratagème !</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Ote-toi donc de là !</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Non, ôte-toi toi-même.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Je veux ouvrir la porte.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Et je veux l’ouvrir, moi.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Tu ne l’ouvriras pas.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Ni toi non plus.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Ni toi.</l>
+
+<pagenum num="384"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Il faut que j’aie ici l’âme bien patiente !</l>
+
+<hstage><speaker>ALAIN</speaker>, en entrant.</hstage>
+<l>Au moins c’est moi, monsieur.</l>
+
+<hstage><speaker>GEORGETTE</speaker>, en entrant.</hstage>
+<l cont="true">Je suis votre servante,</l>
+<l>C’est moi.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Sans le respect de monsieur que voilà,</l>
+<l>Je te... .</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, recevant un coup d’Alain.</hstage>
+<l cont="true">Peste !</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Pardon.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Voyez ce lourdaud-là !</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Mais elle aussi, monsieur...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Que tous deux on se taise.</l>
+<l>Songez à me répondre, et laissons la fadaise.</l>
+<l>Eh bien, Alain, comment se porte-t-on ici ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Monsieur, nous nous...</l>
+<pstage>Arnolphe ôte le chapeau de dessus la tête d’Alain.</pstage>
+<l cont="true">Monsieur, nous nous por...</l>
+<pstage>Arnolphe l’ôte encore.</pstage>
+<l cont="true">Dieu merci,</l>
+<l>Nous nous...</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, ôtant le chapeau d’Alain pour la troisième fois, et le jetant par terre.</hstage>
+<l cont="true">Qui vous apprend, impertinente bête,</l>
+<l>A parler devant moi le chapeau sur la tête ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Vous faites bien, j’ai tort.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à Alain.</hstage>
+<l cont="true">Faites descendre Agnès.</l>
+
+<h3 id="acte1sc03">SCÈNE III. — ARNOLPHE, GEORGETTE</h3>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Lorsque je m’en allai, fut-elle triste après ?</l>
+
+<pagenum num="385"/>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Triste ? Non.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Non ?</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Si fait.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Pourquoi donc ?...</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Oui, je meure</l>
+<l>Elle vous croyoit voir de retour à toute heure ;</l>
+<l>Et nous n’oyions jamais passer devant chez nous</l>
+<l>Cheval, âne ou mulet, qu’elle ne prit pour vous.</l>
+
+<h3 id="acte1sc04">SCÈNE IV. — ARNOLPHE, AGNÈS, ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>La besogne à la main ! c’est un bon témoignage.</l>
+<l>Eh bien, Agnès, je suis de retour du voyage</l>
+<l>En êtes-vous bien aise ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Oui, monsieur, Dieu merci,</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Et moi, de vous revoir je suis bien aise aussi.</l>
+<l>Vous vous êtes toujours, comme on voit, bien portée ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Hors les puces, qui m’ont la nuit inquiétée.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Ah ! vous aurez dans peu quelqu’un pour les chasser.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Vous me ferez plaisir.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Je le puis bien penser.</l>
+<l>Que faites-vous donc là ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Je me fais des cornettes.</l>
+<l>Vos chemises de nuit et vos coiffes sont faites.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Ah ! voilà qui va bien. Allez, montez là-haut :</l>
+<l>Ne vous ennuyez point, je reviendroi tantôt,</l>
+<l>Et je vous parlerai d’affaires importantes.</l>
+
+<pagenum num="386"/>
+
+<h3 id="acte1sc05">SCÈNE V. — ARNOLPHE, <i>seul</i>.</h3>
+
+<l>Héroïnes du temps, mesdames les savantes,</l>
+<l>Pousseuses de tendresse et de beaux sentiments,</l>
+<l>Je défie à la fois tous vos vers, vos romans,</l>
+<l>Vos lettres, billets doux, toute votre science,</l>
+<l>De valoir cette honnête et pudique ignorance.</l>
+<l>Ce n’est point par le bien qu’il faut être ébloui ;</l>
+<l>Et pourvu que l’honneur soit...</l>
+
+<h3 id="acte1sc06">SCÈNE VI. — HORACE, ARNOLPHE</h3>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Que vois-je ? Est-ce... Oui.</l>
+<l>Je me trompe... Nenni. Si fait. Non, c’est lui-même.</l>
+<l>Hor...</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Seigneur Ar...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Horace.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Arnolphe.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Ah ! joie extrême !</l>
+<l>Et depuis quand ici ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Depuis neuf jours.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Vraiment ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Je fus d’abord chez vous, mais inutilement ;</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>J’étois à la campagne ;</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Oui, depuis dix journées.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oh ! comme les enfants croissent en peu d’années !</l>
+<l>J’admire de le voir au point où le voilà,</l>
+<l>Après que je l’ai vu pas plus grand que cela.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Vous voyez ;</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Mais, de grâce, Oronte votre père ;</l>
+<pagenum num="387"/>
+<l>Mon bon et cher ami que j’estime et révère,</l>
+<l>Que fait-il à présent ? Est-il toujours gaillard ?</l>
+<l>A tout ce qui le touche il sait que je prends part :</l>
+<l>Nous ne nous sommes vus depuis quatre ans ensemble,</l>
+<l>Ni, qui plus est, écrit l’un à l’autre, me semble.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Il est, seigneur Arnolphe, encor plus gai que nous,</l>
+<l>Et j’avois de sa part une lettre pour vous ;</l>
+<l>Mais depuis, par une autre, il m’apprend sa venue,</l>
+<l>Et la raison encor ne m’en est pas connue.</l>
+<l>Savez-vous qui peut être un de vos citoyens</l>
+<l>Qui retourne en ces lieux avec beaucoup de biens </l>
+<l>Qu’il s’est en quatorze ans acquis dans l’Amérique ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Non. Mais vous a-t-on dit comme on le nomme ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Enrique ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Mon père m’en parle, et qu’il est revenu,</l>
+<l>Comme s’il devoit m’être entièrement connu,</l>
+<l>Et m’écrit qu’en chemin ensemble ils se vont mettre,</l>
+<l>Pour un fait important que ne dit point sa lettre.</l>
+<pstage>Horace remet la lettre d’Oronte à Arnolphe.</pstage>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>J’aurai certainement grande joie à le voir,</l>
+<l>Et pour le régaler je ferai mon pouvoir.</l>
+<pstage>Après avoir lu la lettre.</pstage>
+<l>Il faut pour des amis des lettres moins civiles,</l>
+<l>Et tous ces compliments sont choses inutiles.</l>
+<l>Sans qu’il prît le souci de m’en écrire rien,</l>
+<l>Vous pouvez librement disposer de mon bien.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Je suis homme à saisir les gens par leurs paroles,</l>
+<l>Et j’ai présentement besoin de cent pistoles.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Ma foi, c’est m’obliger que d’en user ainsi ;</l>
+<l>Et je me réjouis de les avoir ici.</l>
+<l>Gardez aussi la bourse.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Il faut...</l>
+
+<pagenum num="388"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Laissons ce style</l>
+<l>Eh bien, comment encor trouvez-vous cette ville ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Nombreuse en citoyens, superbe en bâtiments</l>
+<l>Et j’en crois merveilleux les divertissements.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Chacun a ses plaisirs qu’il se fait à sa guise ;</l>
+<l>Mais pour ceux que du nom de galants on baptise.</l>
+<l>Ils ont en ce pays de quoi se contenter,</l>
+<l>Car les femmes y sont faites à coqueter :</l>
+<l>On trouve d’humeur douce et la brune et la blonde,</l>
+<l>Et les maris aussi les plus bénins du monde.</l>
+<l>C’est un plaisir de prince, et des tours que je voi</l>
+<l>Je me donne souvent la comédie à moi.</l>
+<l>Peut-être en avez-vous déjà féru<noteref noteid="note.388.1"/> quelqu’une.</l>
+<l>Vous est-il point encore arrivé de fortune ?</l>
+<l>Les gens faits comme vous font plus que les écus</l>
+<l>Et vous êtes de taille à faire des cocus.</l>
+
+<notes>
+  <note id="note.388.1">
+    <p><i>Féru</i>, du verbe <i>férir</i> frapper, <i>ferire</i>. On dit qu’un homme est <i>féru</i> d’une femme pour exprimer la passion qu’il a pour elle. (Ménage.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>A ne vous rien cacher de la vérité pure,</l>
+<l>J’ai d’amour en ces lieux eu certaine aventure ;</l>
+<l>Et l’amitié m’oblige à vous en faire part.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l>Bon ! voici de nouveau quelque conte gaillard ;</l>
+<l>Et ce sera de quoi mettre sur mes tablettes.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Mais, de grâce, qu’au moins ces choses soient secrètes.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oh !</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Vous n’ignorez pas qu’en ces occasions</l>
+<l>Un secret éventé rompt nos prétentions.</l>
+<l>Je vous avouerai donc avec pleine franchise</l>
+<l>Qu’ici d’une beauté mon âme s’est éprise.</l>
+<l>Mes petits soins d’abord ont eu tant de succès,</l>
+<l>Que je me suis chez elle ouvert un doux accès ;</l>
+<l>Et, sans trop me vanter, ni lui faire une injure,</l>
+<l>Mes affaires y sont en fort bonne posture.</l>
+
+<pagenum num="389"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Et c’est... ?</l>
+
+<hstage><speaker>HORACE</speaker>, lui montrant le logis d’Agnès.</hstage>
+<l cont="true">Un jeune objet qui loge en ce logis,</l>
+<l>Dont vous voyez d’ici que les murs sont rougis :</l>
+<l>Simple, à la vérité, par l’erreur sans seconde</l>
+<l>D’un homme qui la cache au commerce du monde,</l>
+<l>Mais qui, dans l’ignorance où l’on veut l’asservir,</l>
+<l>Fait briller des attraits capables de ravir ;</l>
+<l>Un air tout engageant, je ne sais quoi de tendre</l>
+<l>Dont il n’est point de cœur qui se puisse défendre.</l>
+<l>Mais peut-être il n’est pas que vous n’ayez bien vu</l>
+<l>Ce jeune astre d’amour, de tant d’attraits pourvu :</l>
+<l>C’est Agnès qu’on l’appelle.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l cont="true">Ah ! je crève !</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Pour l’homme,</l>
+<l>C’est, je crois, de la Zousse, ou Source, qu’on le nomme ;</l>
+<l>Je ne me suis pas fort arrêté sur le nom :</l>
+<l>Riche, à ce qu’on m’a dit, mais des plus sensés, non ;</l>
+<l>Et l’on m’en a parlé comme d’un ridicule.</l>
+<l>Le connoissez-vous point ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l cont="true">La fâcheuse pilule !</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Eh ! vous ne dites mot ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Eh ! oui, je le connoi.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>C’est un fou, n’est-ce pas ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Eh...</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Qu’en dites-vous ? Quoi !</l>
+<l>Eh ! c’est-à-dire, oui ? Jaloux à faire rire ?</l>
+<l>Sot ? Je vois qu’il en est ce que l’on m’a pu dire.</l>
+<l>Enfin l’aimable Agnès a su m’assujettir.</l>
+<l>C’est un joli bijou, pour ne vous point mentir ;</l>
+<l>Et ce seroit péché qu’une beauté si rare</l>
+<l>Fût laissée au pouvoir de cet homme bizarre.</l>
+<l>Pour moi, tous mes efforts, tous mes vœux les plus doux.</l>
+<pagenum num="390"/>
+<l>Vont à m’en rendre maître en dépit du jaloux ;</l>
+<l>Et l’argent que de vous j’emprunte avec franchise</l>
+<l>N’est que pour mettre à bout cette juste entreprise.</l>
+<l>Vous savez mieux que moi, quels que soient nos efforts,</l>
+<l>Que l’argent est la clef de tous les grands ressorts,</l>
+<l>Et que ce doux métal, qui frappe tant de têtes</l>
+<l>En amour, comme en guerre, avance les conquêtes.</l>
+<l>Vous me semblez chagrin ! Seroit-ce qu’en effet</l>
+<l>Vous désapprouveriez le dessein que j’ai fait ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Non ; c’est que je songeois...</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Cet entretien vous lasse.</l>
+<l>Adieu. J’irai chez vous tantôt vous rendre grâce</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul.</hstage>
+<l>Ah ! faut-il...</l>
+
+<hstage><speaker>HORACE</speaker>, revenant.</hstage>
+<l cont="true">Derechef, veuillez être discret ;</l>
+<l>Et n’allez pas, de grâce, éventer mon secret.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul.</hstage>
+<l>Que je sens dans mon âme...</l>
+
+<hstage><speaker>HORACE</speaker>, revenant.</hstage>
+<l cont="true">Et surtout à mon père,</l>
+<l>Qui s’en feroit peut-être un sujet de colère.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, croyant qu’Horace revient encore.</hstage>
+<l>Oh !...</l>
+
+<h3 id="acte1sc07">SCÈNE VII. — ARNOLPHE, <i>seul</i>.</h3>
+
+<l cont="true">Oh ! que j’ai souffert durant cet entretien !</l>
+<l>Jamais trouble d’esprit ne fut égal au mien.</l>
+<l>Avec quelle imprudence et quelle hâte extrême</l>
+<l>Il m’est venu conter cette affaire à moi-même :</l>
+<l>Bien que mon autre nom le tienne dans l’erreur,</l>
+<l>Étourdi montra-t-il jamais tant de fureur ?</l>
+<l>Mais, ayant tant souffert, je devais me contraindre,</l>
+<l>Jusques à m’éclaircir de ce que je dois craindre,</l>
+<l>A pousser jusqu’au bout son caquet indiscret,</l>
+<l>Et savoir pleinement leur commerce secret.</l>
+<l>Tâchons à le rejoindre ; il n’est pas loin, je pense :</l>
+<l>Tirons-en de ce fait l’entière confidence.</l>
+<l>Je tremble du malheur qui m’en peut arriver,</l>
+<l>Et l’on cherche souvent plus qu’on ne veut trouver.</l>
+
+<vsep class="rule"/>
+
+<pagenum num="391"/>
+
+<h2 id="acte2">ACTE SECOND</h2>
+
+<h3 id="acte2sc01">SCÈNE I. — ARNOLPHE, <i>seul</i>.</h3>
+
+<l>Il m’est, lorsque j’y pense, avantageux sans doute</l>
+<l>D’avoir perdu mes pas, et pu manquer sa route :</l>
+<l>Car enfin de mon cœur le trouble impérieux</l>
+<l>N’eût pu se renfermer tout entier à ses yeux ;</l>
+<l>Il eût fait éclater l’ennui qui me dévore,</l>
+<l>Et je ne voudrois pas qu’il sût ce qu’il ignore.</l>
+<l>Mais je ne suis pas homme à gober le morceau,</l>
+<l>Et laisser un champ libre aux vœux du damoiseau.</l>
+<l>J’en veux rompre le cours, et, sans tarder, apprendre</l>
+<l>Jusqu’où l’intelligence entre eux a pu s’étendre :</l>
+<l>J’y prends pour mon honneur un notable intérêt ;</l>
+<l>Je la regarde en femme, aux termes qu’elle en est ;</l>
+<l>Elle n’a pu faillir sans me couvrir de honte,</l>
+<l>Et tout ce qu’elle fait enfin est sur mon compte</l>
+<l>Éloignement fatal ! voyage malheureux !</l>
+<pstage>Il frappe à sa porte</pstage>
+
+<h3 id="acte2sc02">SCÈNE II. — ARNOLPHE, ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Ah ! monsieur, cette fois...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Paix ! Venez çà tous deux.</l>
+<l>Passez là, passez là. Venez là, venez, dis-je.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Ah ! vous me faites peur, et tout mon sang se fige.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>C’est donc ainsi qu’absent vous m’avez obéi ?</l>
+<l>Et tous deux, de concert, vous m’avez donc trahi ?</l>
+
+<hstage><speaker>GEORGETTE</speaker>, tombant aux genoux d’Arnolphe.</hstage>
+<l>Eh ! ne me mangez pas, monsieur, je vous conjure.</l>
+
+<hstage><speaker>ALAIN</speaker>, à part.</hstage>
+<l>Quelque chien enragé l’a mordu, je m’assure.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l>Ouf ! je ne puis parler, tant je suis prévenu ;</l>
+<l>Je suffoque, et voudrois me pouvoir mettre nu.</l>
+<pstage>A Alain et à Georgette.</pstage>
+<l>Vous avez donc souffert, ô canaille maudite !</l>
+<pagenum num="392"/>
+<l>Qu’un homme soit venu...</l>
+<pstage>A Alain qui veut s’enfuir.</pstage>
+<l cont="true">Tu veux prendre la fuite !</l>
+<l>Il faut que sur-le-champ...</l>
+<pstage>A Georgette.</pstage>
+<l cont="true">Si tu bouges... Je veux</l>
+<l>Que vous me disiez...</l>
+<pstage>A Alain.</pstage>
+<l cont="true">Euh ! oui, je veux que tous deux...</l>
+<pstage>Alain et Georgette se lèvent, et veulent encore s’enfuir.</pstage>
+<l>Quiconque remuera, par la mort ! je l’assomme.</l>
+<l>Comme est-ce que chez moi s’est introduit cet homme ?</l>
+<l>Eh ! parlez. Dépêchez, vite, promptement, tôt,</l>
+<l>Sans rêver. Veut-on dire ?</l>
+
+<hstage><speaker>ALAIN</speaker> et <speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Ah ! Ah !</l>
+
+<hstage><speaker>GEORGETTE</speaker>, retombant aux genoux d’Arnolphe.</hstage>
+<l cont="true">Le cœur me faut<noteref noteid="note.392.1"/> !</l>
+
+<notes>
+  <note id="note.392.1">
+    <p><i>Faut</i>, de <i>faillir</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ALAIN</speaker>, retombant aux genoux d’Arnolphe.</hstage>
+<l>Je meurs !</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l cont="true">Je suis en eau : prenons un peu d’haleine ;</l>
+<l>Il faut que je m’évente et que je me promène.</l>
+<l>Aurois-je deviné, quand je l’ai vu petit,</l>
+<l>Qu’il croîtroit pour cela ? Ciel ! que mon cœur pâtit !</l>
+<l>Je pense qu’il vaut mieux que de sa propre bouche</l>
+<l>Je tire avec douceur l’affaire qui me touche.</l>
+<l>Tâchons à modérer notre ressentiment.</l>
+<l>Patience, mon cœur, doucement, doucement.</l>
+<pstage>A Alain et à Georgette.</pstage>
+<l>Levez-vous, et, rentrant, faites qu’Agnès descende.</l>
+<l>Arrêtez.</l>
+<pstage>A part.</pstage>
+<l cont="true">Sa surprise en deviendroit moins grande :</l>
+<l>Du chagrin qui me trouble ils iroient l’avertir,</l>
+<l>Et moi-même je veux l’aller faire sortir.</l>
+<pstage>A Alain et à Georgette.</pstage>
+<l>Que l’on m’attende ici.</l>
+
+<h3 id="acte2sc03">SCÈNE III. — ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Mon Dieu, qu’il est terrible !</l>
+<pagenum num="393"/>
+<l>Ses regards m’ont fait peur, mais une peur horrible,</l>
+<l>Et jamais je ne vis un plus hideux chrétien.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Ce monsieur l’a fâché ; je te le disois bien.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Mais que diantre est-ce là, qu’avec tant de rudesse</l>
+<l>Il nous fait au logis garder notre maîtresse ?</l>
+<l>D’où vient qu’à tout le monde il veut tant la cacher,</l>
+<l>Et qu’il ne sauroit voir personne en approcher ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>C’est que cette action le met en jalousie.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Mais d’où vient qu’il est pris de cette fantaisie ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Cela vient... Cela vient de ce qu’il est jaloux.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Oui ; mais pourquoi l’est-il ? et pourquoi ce courroux ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>C’est que la jalousie... entends-tu bien, Georgette,</l>
+<l>Est une chose... là... qui fait qu’on s’inquiète...</l>
+<l>Et qui chasse les gens d’autour d’une maison</l>
+<l>Je m’en vais te bailler une comparaison,</l>
+<l>Afin de concevoir la chose davantage.</l>
+<l>Dis-moi, n’est-il pas vrai, quand tu tiens ton potage</l>
+<l>Que si quelque affamé venoit pour en manger,</l>
+<l>Tu serois en colère, et voudrois le charger ?</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Oui, je comprends cela.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">C’est justement tout comme.</l>
+<l>La femme est en effet le potage de l’homme ;</l>
+<l>Et, quand un homme voit d’autres hommes parfois</l>
+<l>Qui veulent dans sa soupe aller tremper leurs doigts,</l>
+<l>Il en montre aussitôt une colère extrême.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Oui ; mais pourquoi chacun m’en fait-il pas de même,</l>
+<l>Et que nous en voyons qui paroissent joyeux</l>
+<l>Lorsque leurs femmes sont avec les biaux monsieux ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>C’est que chacun n’a pas cette amitié goulue</l>
+<l>Qui n’en veut que pour soi.</l>
+
+<pagenum num="394"/>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Si je n’ai la berlue,</l>
+<l>Je le vois qui revient.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Tes yeux sont bons, c’est lui.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Vois comme il est chagrin.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">C’est qu’il a de l’ennui.</l>
+
+<h3 id="acte2sc04">SCÈNE IV. — ARNOLPHE, ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l>Un certain Grec disoit à l’empereur Auguste,</l>
+<l>Comme une instruction utile autant que juste,</l>
+<l>Que lorsqu’une aventure en colère nous met,</l>
+<l>Nous devons, avant tout, dire notre alphabet,</l>
+<l>Afin que dans ce temps la bile se tempère,</l>
+<l>Et qu’on ne fasse rien que l’on ne doive faire.</l>
+<l>J’ai suivi sa leçon sur le sujet d’Agnès,</l>
+<l>Et je la fais venir dans ce lieu tout exprès,</l>
+<l>Sous prétexte d’y faire un tour de promenade,</l>
+<l>Afin que les soupçons de mon esprit malade</l>
+<l>Puissent sur le discours la mettre adroitement,</l>
+<l>Et, lui sondant le cœur, s’éclaircir doucement.</l>
+
+<h3 id="acte2sc05">SCÈNE V. — ARNOLPHE, AGNÈS, ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Venez, Agnès.</l>
+<pstage>A Alain et à Georgette.</pstage>
+<l cont="true">Rentrez.</l>
+
+<h3 id="acte2sc06">SCÈNE VI. — ARNOLPHE, AGNÈS</h3>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">La promenade est belle,</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Fort belle.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Le beau jour !</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Fort beau.</l>
+
+<pagenum num="395"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Quelle nouvelle ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Le petit chat est mort.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">C’est dommage ; mais quoi !</l>
+<l>Nous sommes tous mortels, et chacun est pour soi.</l>
+<l>Lorsque j’étois aux champs, n’a-t-il point fait de pluie ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Vous ennuyoit-il ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Jamais je ne m’ennuie.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Qu’avez-vous fait encor ces neuf ou dix jours-ci ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Six chemises, je pense, et six coiffes aussi.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, après avoir un peu rêvé.</hstage>
+<l>Le monde, chère Agnès, est une étrange chose !</l>
+<l>Voyez la médisance, et comme chacun cause !</l>
+<l>Quelques voisins m’ont dit qu’un jeune homme inconnu</l>
+<l>Étoit, en mon absence, à la maison venu ;</l>
+<l>Que vous aviez souffert sa vue et ses harangues.</l>
+<l>Mais je n’ai point pris foi sur ces méchantes langues,</l>
+<l>Et j’ai voulu gager que c’étoit faussement...</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Mon Dieu ! ne gagez pas, vous perdriez vraiment.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Quoi ! c’est la vérité qu’un homme...</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Chose sûre.</l>
+<l>Il n’a presque bougé de chez nous, je vous jure.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, bas, à part.</hstage>
+<l>Cet aveu qu’elle fait avec sincérité</l>
+<l>Me marque pour le moins son ingénuité.</l>
+<pstage>Haut.</pstage>
+<l>Mais il me semble, Agnès, si ma mémoire est bonne,</l>
+<l>Que j’avois défendu que vous vissiez personne.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Oui ; mais, quand je l’ai vu, vous ignoriez pourquoi ;</l>
+<pagenum num="396"/>
+<l>Et vous en auriez fait, sans doute, autant que moi.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Peut-être. Mais enfin contez-moi cette histoire.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Elle est fort étonnante, et difficile à croire.</l>
+<l>J’étois sur le balcon à travailler au frais,</l>
+<l>Lorsque je vis passer sous les arbres d’auprès</l>
+<l>Un jeune homme bien fait, qui, rencontrant ma vue,</l>
+<l>D’une humble révérence aussitôt me salue :</l>
+<l>Moi, pour ne point manquer à la civilité,</l>
+<l>Je fis la révérence aussi de mon côté.</l>
+<l>Soudain il me refait une autre révérence ;</l>
+<l>Moi, j’en refais de même une autre en diligence ;</l>
+<l>Et lui d’une troisième aussitôt repartant,</l>
+<l>D’une troisième aussi j’y repars à l’instant.</l>
+<l>Il passe, vient, repasse, et, toujours de plus belle</l>
+<l>Me fait à chaque fois révérence nouvelle ;</l>
+<l>Et moi, qui tous ces tours fixement regardois,</l>
+<l>Nouvelle révérence aussi je lui rendois :</l>
+<l>Tant que, si sur ce point la nuit ne fût venue,</l>
+<l>Toujours comme cela je me serois tenue,</l>
+<l>Ne voulant point céder, ni recevoir l’ennui</l>
+<l>Qu’il me pût estimer moins civile que lui.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Fort bien.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Le lendemain, étant sur notre porte,</l>
+<l>Une vieille m’aborde, en parlant de la sorte :</l>
+<l>« Mon enfant, le bon Dieu puisse-t-il vous bénir,</l>
+<l>« Et dans tous vos attraits longtemps vous maintenir !</l>
+<l>« Il ne vous a pas fait une belle personne,</l>
+<l>« Afin de mal user des choses qu’il vous donne ;</l>
+<l>« Et vous devez savoir que vous avez blessé</l>
+<l>« Un cœur qui de s’en plaindre est aujourd’hui forcé.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l>Air ! suppôt de Satan ! exécrable damnée !</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Moi, j’ai blessé quelqu’un ? fis-je tout étonnée.</l>
+<l>« Oui, dit-elle, blessé, mais blessé tout de bon ;</l>
+<l>« Et c’est l’homme qu’hier vous vîtes du balcon. »</l>
+<l>Hélas ! qui pourroit, dis-je, en avoir été cause ?</l>
+<l>Sur lui, sans y penser, fis-je choir quelque chose ?</l>
+<pagenum num="397"/>
+<l>« Non, dit-elle ; vos yeux ont fait ce coup fatal,</l>
+<l>« Et c’est de leurs regards qu’est venu tout son mal. »</l>
+<l>Eh, mon Dieu ! ma surprise est, fis-je, sans seconde ;</l>
+<l>Mes yeux ont-ils du mal, pour en donner au monde ?</l>
+<l>« Oui, fit-elle, vos yeux, pour causer le trépas,</l>
+<l>« Ma fille, ont un venin que vous ne savez pas,</l>
+<l>« En un mot, il languit, le pauvre misérable ;</l>
+<l>« Et s’il faut, poursuivit la vieille charitable,</l>
+<l>« Que votre cruauté lui refuse un secours,</l>
+<l>« C’est un homme à porter en terre dans deux jours. »</l>
+<l>Mon Dieu ! j’en aurois, dis-je, une douleur bien grande.</l>
+<l>Mais pour le secourir qu’est-ce qu’il me demande ?</l>
+<l>« Mon enfant, me dit-elle, il ne veut obtenir</l>
+<l>« Que le bien de vous voir et vous entretenir ;</l>
+<l>« Vos yeux peuvent eux seuls empêcher sa ruine,</l>
+<l>« Et du mal qu’ils ont fait être la médecine. »</l>
+<l>Hélas ! volontiers, dis-je ; et, puisqu’il est ainsi,</l>
+<l>Il peut, tant qu’il voudra, me venir voir ici.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l>Ah ! sorcière maudite, empoisonneuse d’âmes,</l>
+<l>Puisse l’enfer payer tes charitables trames !</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Voilà comme il me vit, et reçut guérison.</l>
+<l>Vous-même, à votre avis, n’ai-je pas eu raison</l>
+<l>Et pouvois-je, après tout, avoir la conscience</l>
+<l>De le laisser mourir faute d’une assistance ?</l>
+<l>Moi qui compatis tant aux gens qu’on fait souffrir,</l>
+<l>Et ne puis, sans pleurer, voir un poulet mourir.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, bas, à part.</hstage>
+<l>Tout cela n’est parti que d’une âme innocente ;</l>
+<l>Et j’en dois accuser mon absence imprudente,</l>
+<l>Qui sans guide a laissé cette bonté de mœurs</l>
+<l>Exposée aux aguets des rusés séducteurs.</l>
+<l>Je crains que le pendard, dans ses vœux téméraires,</l>
+<l>Un peu plus fort que jeu n’ait poussé les affaires.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Qu’avez-vous ? Vous grondez, ce me semble, un petit.</l>
+<l>Est-ce que c’est mal fait ce que je vous ai dit ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Non. Mais de cette vue apprenez-moi les suites,</l>
+<l>Et comme le jeune homme a passé ses visites.</l>
+
+<pagenum num="398"/>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Hélas ! si vous saviez comme il étoit ravi,</l>
+<l>Comme il perdit son mal sitôt que je le vi,</l>
+<l>Le présent qu’il m’a fait d’une belle cassette,</l>
+<l>Et l’argent qu’en ont eu notre Alain et Georgette,</l>
+<l>Vous l’aimeriez sans doute, et diriez comme nous...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oui, mais que faisoit-il étant seul avec vous ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Il disoit qu’il m’aimoit d’une amour sans seconde,</l>
+<l>Et me disoit des mots les plus gentils du monde,</l>
+<l>Des choses que jamais rien ne peut égaler,</l>
+<l>Et dont, toutes les fois que je l’entends parler,</l>
+<l>La douceur me chatouille, et là dedans remue</l>
+<l>Certain je ne sais quoi dont je suis tout émue.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, bas, à part.</hstage>
+<l>O fâcheux examen d’un mystère fatal,</l>
+<l>Où l’examinateur souffre seul tout le mal !</l>
+<pstage>Haut.</pstage>
+<l>Outre tous ces discours, toutes ces gentillesses,</l>
+<l>Ne vous faisoit-il point aussi quelques caresses ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Oh ! tant ! il me prenoit et les mains et les bras,</l>
+<l>Et de me les baiser il n’étoit jamais las.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Ne vous a-t-il point pris, Agnès, quelque autre chose ?</l>
+<pstage>La voyant interdite.</pstage>
+<l>Ouf !</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Eh ! il m’a...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Quoi ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Pris...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Euh ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Le...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Plaît-il ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Je n’ose,</l>
+<pagenum num="399"/>
+<l>Et vous vous fâcherez peut-être contre moi.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Si fait.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Mon Dieu ! non.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Jurez donc votre foi.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Ma foi, soit.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Il m’a pris... Vous serez en colère.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Si.</l>
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Non, non, non, non. Diantre ! que de mystère !</l>
+<l>Qu’est-ce qu’il vous a pris ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Il...</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l cont="true">Je souffre en damné.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Il m’a pris le ruban que vous m’aviez donné.</l>
+<l>A vous dire le vrai, je n’ai pu m’en défendre.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, reprenant haleine.</hstage>
+<l>Passe pour le ruban. Mais je voulois apprendre</l>
+<l>S’il ne vous a rien fait que vous baiser les bras.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Comment ! est-ce qu’on fait d’autres choses ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Non pas,</l>
+<l>Mais, pour guérir du mal qu’il dit qui le possède,</l>
+<l>N’a-t-il point exigé de vous d’autre remède ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Non. Vous pouvez juger, s’il en eût demandé,</l>
+<l>Que pour le secourir j’aurois tout accordé.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, bas, à part.</hstage>
+<l>Grâce aux bontés du ciel, j’en suis quitte à bon compte !</l>
+<l>Si j’y retombe plus, je veux bien qu’on m’affronte.</l>
+<pagenum num="400"/>
+<l>Chut.</l>
+<pstage>Haut.</pstage>
+<l cont="true">De votre innocence, Agnès, c’est un effet ;</l>
+<l>Je ne vous en dis mot. Ce qui s’est fait est fait.</l>
+<l>Je sais qu’en vous flattant le galant ne désire</l>
+<l>Que de vous abuser, et puis après s’en rire.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Oh ! point. Il me l’a dit plus de vingt fois à moi.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Ah ! vous ne savez pas ce que c’est que sa foi.</l>
+<l>Mais enfin apprenez qu’accepter des cassettes,</l>
+<l>Et de ces beaux blondins écouter les sornettes,</l>
+<l>Que se laisser par eux, à force de langueur,</l>
+<l>Baiser ainsi les mains et chatouiller le cœur,</l>
+<l>Est un péché mortel des plus gros qu’il se fasse.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Un péché, dites-vous ? Et la raison, de grâce ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>La raison ? La raison est l’arrêt prononcé</l>
+<l>Que par ces actions le ciel est courroucé.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Courroucé ! Mais pourquoi faut-il qu’il s’en courrouce ?</l>
+<l>C’est une chose, hélas ! si plaisante et si douce !</l>
+<l>J’admire quelle joie on goûte à tout cela ;</l>
+<l>Et je ne savois point encor ces choses-là.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oui, c’est un grand plaisir que toutes ces tendresses,</l>
+<l>Ces propos si gentils, et ces douces caresses ;</l>
+<l>Mais il faut le goûter en toute honnêteté,</l>
+<l>Et qu’en se mariant le crime en soit ôté.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>N’est-ce plus un péché lorsque l’on se marie ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Mariez-moi donc promptement, je vous prie.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Si vous le souhaitez, je le souhaite aussi ;</l>
+<l>Et pour vous marier on me revoit ici.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Est-il possible ?</l>
+
+<pagenum num="401"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Oui.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Que vous me ferez aise !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oui, je ne doute point que l’hymen ne vous plaise.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Vous nous voulez, nous deux...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Rien de plus assuré.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Que, si cela se fait, je vous caresserai !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Eh ! la chose sera de ma part réciproque.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Je ne reconnois point, pour moi, quand on se moque.</l>
+<l>Parlez-vous tout de bon ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Oui, vous le pourrez voir.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Nous serons mariés ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Oui.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Mais quand ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Dès ce soir.</l>
+
+<hstage><speaker>AGNÈS</speaker>, riant.</hstage>
+<l>Dès ce soir ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Dès ce soir. Cela vous fait donc rire ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Oui,</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Vous voir bien contente est ce que je désire.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Hélas ! que je vous ai grande obligation,</l>
+<l>Et qu’avec lui j’aurai de satisfaction !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Avec qui ?</l>
+
+<pagenum num="402"/>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Avec... Là...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Là... Là n’est pas mon compte,</l>
+<l>A choisir un mari vous êtes un peu prompte.</l>
+<l>C’est un autre, en un mot, que je vous tiens tout prêt,</l>
+<l>Et quant au monsieur là, je prétends, s’il vous plaît,</l>
+<l>Dût le mettre au tombeau le mal dont il vous berce,</l>
+<l>Qu’avec lui désormais vous rompiez tout commerce ;</l>
+<l>Que, venant au logis, pour votre compliment,</l>
+<l>Vous lui fermiez au nez la porte honnêtement ;</l>
+<l>Et lui jetant, s’il heurte, un grès par la fenêtre,</l>
+<l>L’obligiez tout de bon à ne plus y paroître.</l>
+<l>M’entendez-vous, Agnès ? Moi, caché dans un coin,</l>
+<l>De votre procédé je serai le témoin.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Las ! il est si bien fait ! C’est...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Ah ! que de langage !</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Je n’aurai pas le cœur...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Point de bruit davantage.</l>
+<l>Montez là-haut.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Mais quoi ! voulez-vous...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">C’est assez.</l>
+<l>Je suis maître, je parle ; allez, obéissez.</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte3">ACTE TROISIÈME</h2>
+
+<h3 id="acte3sc01">SCÈNE I. — ARNOLPHE, AGNÈS, ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oui, tout a bien été, ma joie est sans pareille :</l>
+<l>Vous avez là suivi mes ordres à merveille,</l>
+<l>Confondu de tout point le blondin séducteur ;</l>
+<l>Et voilà de quoi sert un sage directeur.</l>
+<l>Votre innocence, Agnès, avoit été surprise :</l>
+<l>Voyez, sans y penser, où vous vous étiez mise.</l>
+<pagenum num="403"/>
+<l>Vous enfiliez tout droit, sans mon instruction,</l>
+<l>Le grand chemin d’enfer et de perdition.</l>
+<l>De tous ces damoiseaux on sait trop les coutumes :</l>
+<l>Ils ont de beaux canons, force rubans et plumes,</l>
+<l>Grands cheveux, belles dents, et des propos fort doux ;</l>
+<l>Mais, comme je vous dis, la griffe est là-dessous ;</l>
+<l>Et ce sont vrais satans, dont la gueule altérée</l>
+<l>De l’honneur féminin cherche à faire curée.</l>
+<l>Mais, encore une fois, grâce au soin apporté,</l>
+<l>Vous en êtés sortie avec honnêteté.</l>
+<l>L’air dont je vous ai vu lui jeter cette pierre,</l>
+<l>Qui de tous ses desseins à mis l’espoir par terre,</l>
+<l>Me confirme encor mieux à ne point différer</l>
+<l>Les noces où je dis qu’il vous faut préparer.</l>
+<l>Mais, avant toute chose, il est bon de vous faire</l>
+<l>Quelque petit discours qui vous soit salutaire.</l>
+<l>Un siège au frais ici.</l>
+<pstage>A Georgette et à Alain.</pstage>
+<l cont="true">Vous, si jamais en rien...</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>De toutes vos leçons nous nous souviendrons bien,</l>
+<l>Cet autre monsieur-là nous en faisait accroire ;</l>
+<l>Mais...</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">S’il entre jamais, je veux jamais ne boire.</l>
+<l>Aussi bien est-ce un sot ; il nous a l’autre fois,</l>
+<l>Donné deux écus d’or qui n’étoient pas de poids.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Ayez donc pour souper tout ce que je désire ;</l>
+<l>Et pour notre contrat, comme je viens de dire,</l>
+<l>Faites venir ici, l’un ou l’autre, au retour,</l>
+<l>Le notaire qui loge au coin de ce carfour.</l>
+
+<h3 id="acte3sc02">SCÈNE II. — ARNOLPHE, AGNÈS</h3>
+
+<hstage><speaker>ARNOLPHE</speaker>, assis.</hstage>
+<l>Agnès, pour m’écouter, laissez là votre ouvrage :</l>
+<l>Levez un peu la tête, et tournez le visage :</l>
+<pstage>Mettant le doigt sur son front.</pstage>
+<l>Là, regardez-moi là durant cet entretien ;</l>
+<l>Et, jusqu’au moindre mot, imprimez-le-vous bien.</l>
+<l>Je vous épouse, Agnès ; et, cent fois la journée,</l>
+<l>Vous devez bénir l’heur de votre destinée,</l>
+<pagenum num="404"/>
+<l>Contempler la bassesse où vous avez été,</l>
+<l>Et dans le même temps admirer ma bonté,</l>
+<l>Qui, de ce vil état de pauvre villageoise,</l>
+<l>Vous fait monter au rang d’honorable bourgeoise,</l>
+<l>Et jouir de la couche et des embrassements</l>
+<l>D’un homme qui fuyoit tous ces engagements,</l>
+<l>Et dont à vingt partis, fort capables de plaire,</l>
+<l>Le cœur a refusé l’honneur qu’il veut vous faire.</l>
+<l>Vous devez toujours, dis-je, avoir devant les yeux</l>
+<l>Le peu que vous étiez sans ce nœud glorieux,</l>
+<l>Afin que cet objet d’autant mieux vous instruise,</l>
+<l>A mériter l’état où je vous aurai mise,</l>
+<l>A toujours vous connoître, et faire qu’à jamais</l>
+<l>Je puisse me louer de l’acte que je fais.</l>
+<l>Le mariage, Agnès, n’est pas un badinage :</l>
+<l>A d’austères devoirs le rang de femme engage ;</l>
+<l>Et vous n’y montez pas, à ce que je prétends,</l>
+<l>Pour être libertine et prendre du bon temps.</l>
+<l>Votre sexe n’est là que pour la dépendance :</l>
+<l>Du côté de la barbe est la toute-puissance.</l>
+<l>Bien qu’on soit deux moitiés de la société,</l>
+<l>Ces deux moitiés pourtant n’ont point d’égalité :</l>
+<l>L’une est moitié suprême, et l’autre subalterne ;</l>
+<l>L’une en tout est soumise à l’autre, qui gouverne ;</l>
+<l>Et ce que le soldat, dans son devoir instruit,</l>
+<l>Montre d’obéissance au chef qui le conduit,</l>
+<l>Le valet à son maître, un enfant à son père,</l>
+<l>A son supérieur le moindre petit frère,</l>
+<l>N’approche point encor de la docilité,</l>
+<l>Et de l’obéissance, et de l’humilité.</l>
+<l>Et du profond respect où la femme doit être</l>
+<l>Pour son mari, son chef, son seigneur et son maître.</l>
+<l>Lorsqu’il jette sur elle un regard sérieux,</l>
+<l>Son devoir aussitôt est de baisser les yeux,</l>
+<l>Et de n’oser jamais le regarder en face</l>
+<l>Que quand d’un doux regard il lui veut faire grâce.</l>
+<l>C’est ce qu’entendent mal les femmes d’aujourd’hui ;</l>
+<l>Mais ne vous gâtez pas sur l’exemple d’autrui.</l>
+<l>Gardez-vous d’imiter ces coquettes vilaines</l>
+<l>Dont par toute la ville on chante les fredaines,</l>
+<l>Et de vous laisser prendre aux assauts du malin,</l>
+<l>C’est-à-dire d’ouïr aucun jeune blondin.</l>
+<l>Songez qu’en vous faisant moitié de ma personne,</l>
+<pagenum num="405"/>
+<l>C’est mon honneur, Agnès, que je vous abandonne,</l>
+<l>Que cet honneur est tendre et se blesse de peu,</l>
+<l>Que sur un tel sujet il ne faut point de jeu ;</l>
+<l>Et qu’il est aux enfers des chaudières bouillantes</l>
+<l>Où l’on plonge à jamais les femmes mal vivantes.</l>
+<l>Ce que je vous dis là ne sont point des chansons ;</l>
+<l>Et vous devez du cœur dévorer ces leçons.</l>
+<l>Si votre âme les suit, et fuit d’être coquette,</l>
+<l>Elle sera toujours, comme un lis, blanche et nette ;</l>
+<l>Mais, s’il faut qu’à l’honneur elle fasse un faux bond,</l>
+<l>Elle deviendra lors noire comme un charbon ;</l>
+<l>Vous paroîtrez à tous un objet effroyable,</l>
+<l>Et vous irez un jour, vrai partage du diable,</l>
+<l>Bouillir dans les enfers à toute éternité,</l>
+<l>Dont veuille vous garder la céleste bonté !</l>
+<l>Faites là révérence. Ainsi qu’une novice</l>
+<l>Par cœur dans le couvent doit savoir son office,</l>
+<l>Entrant au mariage il en faut faire autant ;</l>
+<l>Et voici dans ma poche un écrit important,</l>
+<l>Qui vous enseignera l’office de la femme.</l>
+<l>J’en ignore l’auteur : mais c’est quelque bonne âme ;</l>
+<l>Et je veux que ce soit votre unique entretien.</l>
+<l>Tenez.</l>
+<pstage>Il se lève.</pstage>
+<l cont="true">Voyons un peu si vous le lirez bien.</l>
+
+<hstage><speaker>AGNÈS</speaker> lit.</hstage>
+
+<blockquote>
+<h2>LES MAXIMES DU MARIAGE OU LES DEVOIRS DE LA FEMME MARIÉE</h2>
+<h2><s>AVEC SON EXERCICE JOURNALIER</s></h2>
+
+<h3><s>PREMIÈRE MAXIME</s></h3>
+<l>« Celle qu’un lien honnête</l>
+<l>« Fait entrer au lit d’autrui,</l>
+<l>« Doit se mettre dans la tête,</l>
+<l>« Malgré le train d’aujourd’hui,</l>
+<l>« Que l’homme qui la prend ne la prend que pour lui.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Je vous expliquerai ce que cela veut dire ;</l>
+<l>Mais pour l’heure présente il ne faut rien que lire.</l>
+
+<hstage><speaker>AGNÈS</speaker> poursuit.</hstage>
+
+<h3><s>DEUXIÈME MAXIME</s></h3>
+<l>« Elle ne se doit parer</l>
+<pagenum num="406"/>
+<l>« Qu’autant que peut désirer</l>
+<l>« Le mari qui la possède :</l>
+<l>« C’est lui que touche seul le soin de sa beauté ;</l>
+<l>« Et pour rien doit être compté</l>
+<l>« Que les autres la trouvent laide.</l>
+
+<h3><s>TROISIÈME MAXIME</s></h3>
+<l>« Loin ces études d’œillades,</l>
+<l>« Ces eaux, ces blancs, ces pommades,</l>
+<l>« Et mille ingrédients qui font des teints fleuris :</l>
+<l>« A l’honneur, tous les jours, ce sont drogues mortelles ;</l>
+<l>« Et les soins de paroître belles</l>
+<l>« Se prennent peu pour les maris.</l>
+
+<h3><s>QUATRIÈME MAXIME</s></h3>
+<l>« Sous sa coiffe, en sortant, Comme l’honneur l’ordonne,</l>
+<l>« Il faut que de ses yeux elle étouffe les coups ;</l>
+<l>« Car, pour bien plaire à son époux,</l>
+<l>« Elle ne doit plaire à personne.</l>
+
+<h3><s>CINQUIÈME MAXIME</s></h3>
+<l>« Hors ceux dont au mari la visite se rend,</l>
+<l>« La bonne règle défend</l>
+<l>« De recevoir aucune âme :</l>
+<l>« Ceux qui de galante humeur</l>
+<l>« N’ont affaire qu’à madame</l>
+<l>« N’accommodent pas monsieur.</l>
+
+<h3><s>SIXIÈME MAXIME</s></h3>
+<l>« Il faut des présents des hommes</l>
+<l>« Qu’elle se défende bien ;</l>
+<l>« Car, dans le siècle où nous sommes,</l>
+<l>« On ne donne rien pour rien.</l>
+
+<h3><s>SEPTIÈME MAXIME</s></h3>
+<l>« Dans ses meubles, dût-elle en avoir de l’ennui,</l>
+<l>« Il ne faut écritoire, encre, papier, ni plumes :</l>
+<l>« Le mari doit, dans les bonnes coutumes,</l>
+<l>« Écrire tout ce qui s’écrit chez lui.</l>
+
+<h3><s>HUITIÈME MAXIME</s></h3>
+<l>« Ces sociétés déréglées,</l>
+<l>« Qu’on nomme belles assemblées,</l>
+<l>« Des femmes tous les jours corrompent les esprits.</l>
+<l>« En bonne politique on les doit interdire ;</l>
+<l>« Car c’est là que l’on conspire</l>
+<l>« Contre les pauvres maris.</l>
+<pagenum num="407"/>
+
+<h3><s>NEUVIÈME MAXIME</s></h3>
+<l>« Toute femme qui veut à l’honneur se vouer</l>
+<l>« Doit se défendre de jouer,</l>
+<l>« Comme d’une chose funeste ;</l>
+<l>« Car le jeu, fort décevant,</l>
+<l>« Pousse une femme souvent</l>
+<l>« A jouer de tout son reste.</l>
+
+<h3><s>DIXIÈME MAXIME</s></h3>
+<l>« Des promenades du temps,</l>
+<l>« Ou repas qu’on donne aux champs,</l>
+<l>« Il ne faut point qu’elle essaye ;</l>
+<l>« Selon les prudents cerveaux,</l>
+<l>« Le mari, dans ces cadeaux,</l>
+<l>« Est toujours celui qui paye.</l>
+
+<h3><s>ONZIÈME MAXIME...</s></h3>
+
+</blockquote>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Vous achèverez seule ; et, pas à pas, tantôt</l>
+<l>Je vous expliquerai ces choses comme il faut.</l>
+<l>Je me suis souvenu d’une petite affaire :</l>
+<l>Je n’ai qu’un mot à dire et ne tarderai guère ;</l>
+<l>Rentrez, et conservez ce livre chèrement.</l>
+<l>Si le notaire vient, qu’il m’attende un moment.</l>
+
+<h3 id="acte3sc03">SCÈNE III. — ARNOLPHE, <i>seul</i>.</h3>
+
+<l>Je ne puis faire mieux que d’en faire ma femme.</l>
+<l>Ainsi que je voudrai je tournerai cette âme ;</l>
+<l>Comme un morceau de cire entre mes mains elle est.</l>
+<l>Et je lui puis donner la forme qui me plaît.</l>
+<l>Il s’en est peu fallu que, durant mon absence,</l>
+<l>On ne m’ait attrapé par son trop d’innocence ;</l>
+<l>Mais il vaut beaucoup mieux, à dire vérité,</l>
+<l>Que la femme qu’on a pèche de ce côté.</l>
+<l>De ces sortes d’erreurs le remède est facile.</l>
+<l>Toute personne simple aux leçons est docile ;</l>
+<l>Et, si du bon chemin on l’a fait écarter,</l>
+<l>Deux mots incontinent l’y peuvent rejeter.</l>
+<l>Mais une femme habile est bien une autre bête,</l>
+<l>Notre sort ne dépend que de sa seule tête,</l>
+<l>De ce qu’elle s’y met rien ne la fait gauchir<noteref noteid="note.407.1"/>,</l>
+<l>Et nos enseignements ne font là que blanchir ;</l>
+<l>Son bel esprit lui sert à railler nos maximes,</l>
+<pagenum num="408"/>
+<l>A se faire souvent des vertus de ses crimes,</l>
+<l>Et trouver, pour venir à ses coupables fins,</l>
+<l>Des détours à duper l’adresse des plus fins.</l>
+<l>Pour se parer du coup en vain on se fatigue :</l>
+<l>Une femme d’esprit est un diable en intrigue ;</l>
+<l>Et, dès que son caprice a prononcé tout bas</l>
+<l>L’arrêt de notre honneur, il faut passer le pas :</l>
+<l>Beaucoup d’honnêtes gens en pourroient bien que dire.</l>
+<l>Enfin mon étourdi n’aura pas lieu d’en rire ;</l>
+<l>Par son trop de caquet il a ce qu’il lui faut.</l>
+<l>Voilà de nos François l’ordinaire défaut ;</l>
+<l>Dans la possession d’une bonne fortune,</l>
+<l>Le secret est toujours ce qui les importune,</l>
+<l>Et la vanité sotte a pour eux tant d’appas,</l>
+<l>Qu’ils se perdroient plutôt que de ne causer pas.</l>
+<l>Oh ! que les femmes sont du diable bien tentées,</l>
+<l>Lorsqu’elles vont choisir ces têtes éventées !</l>
+<l>Et que... Mais voici... Cachons-nous toujours bien,</l>
+<l>Et découvrons un peu quel chagrin est le sien.</l>
+
+<notes>
+  <note id="note.407.1">
+    <p><i>Gauchir</i>, au propre, aller à gauche ; au figuré, s’écarter, se départir.</p>
+  </note>
+</notes>
+
+<h3 id="acte3sc04">SCÈNE IV. — HORACE, ARNOLPHE</h3>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Je reviens de chez vous, et le destin me montre</l>
+<l>Qu’il n’a pas résolu que je vous y rencontre.</l>
+<l>Mais j’irai tant de fois, qu’enfin quelque moment...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Eh, mon Dieu ! n’entrons point dans ce vain compliment :</l>
+<l>Rien ne me fâche tant que ces cérémonies ;</l>
+<l>Et, si l’on m’en croyoit, elles seroient bannies.</l>
+<l>C’est un maudit usage, et la plupart des gens</l>
+<l>Y perdent sottement les deux tiers de leur temps.</l>
+<l>Mettons donc sans façon<noteref noteid="note.408.1"/>.</l>
+<pstage>Il se couvre.</pstage>
+<l cont="true">Eh bien, vos amourettes ?</l>
+<l>Puis-je, seigneur Horace, apprendre où vous en êtes ?</l>
+<l>J’étois tantôt distrait par quelque vision ;</l>
+<l>Mais depuis là-dessus j’ai fait réflexion.</l>
+<l>De vos premiers progrès j’admire la vitesse,</l>
+<l>Et dans l’événement mon âme s’intéresse.</l>
+
+<notes>
+  <note id="note.408.1">
+    <p>Pour inviter quelqu’un à mettre son chapeau sur la tête, on lui disait simplement <i>mettez</i>, ou bien <i>mettez dessus</i> comme on dit aujourd’hui <i>couvrez-vous</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Ma foi, depuis qu’à vous s’est découvert mon cœur,</l>
+<pagenum num="409"/>
+<l>Il est à mon amour arrivé du malheur.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oh ! oh ! comment cela ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">La fortune cruelle</l>
+<l>A ramené des champs le patron de la belle.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Quel malheur !</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Et de plus, à mon très grand regret,</l>
+<l>Il a su de nous deux le commerce secret.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>D’où diantre a-t-il sitôt appris cette aventure ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Je ne sais ; mais enfin c’est une chose sûre.</l>
+<l>Je pensois aller rendre, à mon heure à peu près,</l>
+<l>Ma petite visite à ses jeunes attraits,</l>
+<l>Lorsque, changeant pour moi de ton et de visage,</l>
+<l>Et servante et valet m’ont bouché le passage,</l>
+<l>Et d’un « Retirez-vous, vous nous importunez »,</l>
+<l>M’ont assez rudement fermé la porte au nez.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>La porte au nez !</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Au nez.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">La chose est un peu forte.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>J’ai voulu leur parler au travers de la porte ;</l>
+<l>Mais à tous mes propos ce qu’ils ont répondu,</l>
+<l>C’est : « Vous n’entrerez point ; monsieur l’a défendu ».</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Ils n’ont donc point ouvert ?</l>
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Non. Et de la fenêtre</l>
+<l>Agnès m’a confirmé le retour de ce maître.</l>
+<l>En me chassant de là d’un ton plein de fierté,</l>
+<l>Accompagné d’un grès que sa main a jeté.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Comment ! d’un grès ?</l>
+
+<pagenum num="410"/>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">D’un grès de taille non petite,</l>
+<l>Dont on a par ses mains régalé ma visite.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Diantre ! ce ne sont pas des prunes que cela !</l>
+<l>Et je trouve fâcheux l’état où vous voilà.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Il est vrai, je suis mal par ce retour funeste.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Certes, j’en suis fâché pour vous, je vous proteste.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Cet homme me rompt tout.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Oui ; mais cela n’est rien,</l>
+<l>Et de vous raccrocher vous trouverez moyen.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Il faut bien essayer, par quelque intelligence,</l>
+<l>De vaincre du jaloux l’exacte vigilance.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Cela vous est facile ; et la fille, après tout,</l>
+<l>Vous aime ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Assurément.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Vous en viendrez à bout.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Je l’espère.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Le grès vous a mis en déroute ;</l>
+<l>Mais cela ne doit pas vous étonner.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Sans doute ;</l>
+<l>Et j’ai compris d’abord que mon homme étoit là,</l>
+<l>Qui, sans se faire voir, conduisoit tout cela.</l>
+<l>Mais ce qui m’a surpris, et qui va vous surprendre,</l>
+<l>C’est un autre incident que vous allez entendre ;</l>
+<l>Un trait hardi qu’a fait cette jeune beauté,</l>
+<l>Et qu’on n’attendroit point de sa simplicité.</l>
+<l>Il le faut avouer, l’Amour est un grand maître :</l>
+<l>Ce qu’on ne fut jamais, il nous enseigne à l’être,</l>
+<l>Et souvent de nos mœurs l’absolu changement</l>
+<pagenum num="411"/>
+<l>Devient par ses leçons l’ouvrage d’un moment.</l>
+<l>De la nature en nous il force les obstacles,</l>
+<l>Et ses effets soudains ont de l’air des miracles.</l>
+<l>D’un avare à l’instant il fait un libéral,</l>
+<l>Un vaillant d’un poltron, un civil d’un brutal ;</l>
+<l>Il rend agile à tout l’âme la plus pesante</l>
+<l>Et donne de l’esprit à la plus innocente.</l>
+<l>Oui, ce dernier miracle éclate dans Agnès ;</l>
+<l>Car, tranchant avec moi par ces termes exprès :</l>
+<l>« Retirez-vous, mon âme aux visites renonce ;</l>
+<l>« Je sais tous vos discours, et voilà ma réponse »,</l>
+<l>Cette pierre ou ce grès dont vous vous étonnez</l>
+<l>Avec un mot de lettre est tombée à mes pieds ;</l>
+<l>Et j’admire de voir cette lettre ajustée</l>
+<l>Avec le sens des mots et la pierre jetée.</l>
+<l>D’une telle action n’êtes-vous pas surpris ?</l>
+<l>L’Amour sait-il pas l’art d’aiguiser les esprits ?</l>
+<l>Et peut-on me nier que ses flammes puissantes</l>
+<l>Ne fassent dans un cœur des choses étonnantes ?</l>
+<l>Que dites-vous du tour et de ce mot d’écrit ?</l>
+<l>Euh ! n’admirez-vous point cette adresse d’esprit ?</l>
+<l>Trouvez-vous pas plaisant de voir quel personnage</l>
+<l>A joué mon jaloux dans tout ce badinage ?</l>
+<l>Dites.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Oui, fort plaisant.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Riez-en donc un peu.</l>
+<pstage>Arnolphe rit d’un air forcé.</pstage>
+<l>Cet homme, gendarmé d’abord contre mon feu</l>
+<l>Qui chez lui se retranche, et de grès fait parade,</l>
+<l>Comme si j’y voulois entrer par escalade ;</l>
+<l>Qui, pour me repousser, dans son bizarre effroi,</l>
+<l>Anime du dedans tous ses gens contre moi,</l>
+<l>Et qu’abuse à ses yeux, par sa machine même,</l>
+<l>Celle qu’il veut tenir dans l’ignorance extrême !</l>
+<l>Pour moi, je vous l’avoue, encor que son retour</l>
+<l>En un grand embarras jette ici mon amour,</l>
+<l>Je tiens cela plaisant autant qu’on sauroit dire :</l>
+<l>Je ne puis y songer sans de bon cœur en rire ;</l>
+<l>Et vous n’en riez pas assez, à mon avis.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, avec un ris forcé.</hstage>
+<l>Pardonnez-moi, j’en ris tout autant que je puis.</l>
+
+<pagenum num="412"/>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Mais il faut qu’en ami je vous montre sa lettre.</l>
+<l>Tout ce que son cœur sent, sa main a su l’y mettre,</l>
+<l>Mais en termes touchants et tout pleins de bonté,</l>
+<l>De tendresse innocente et d’ingénuité,</l>
+<l>De la manière enfin que la pure nature</l>
+<l>Exprime de l’amour la première blessure.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, bas, à part.</hstage>
+<l>Voilà, friponne, à quoi l’écriture te sert ;</l>
+<l>Et, contre mon dessein, l’art t’en fut découvert.</l>
+
+<hstage><speaker>HORACE</speaker>, lit.</hstage>
+
+<p>« Je veux vous écrire, et je suis bien en peine par où je m’y prendrai. J’ai des pensées que je désirerois que vous sussiez ; mais je ne sais comment faire pour vous les dire, et je me défie de mes paroles. Comme je commence à connoître qu’on m’a toujours tenue dans l’ignorance, j’ai peur de mettre quelque chose qui ne soit pas bien, et d’en dire plus que je ne devrois. En vérité, je ne sais ce que vous m’avez fait, mais je sens que je suis fâchée à mourir de ce qu’on me fait faire contre vous, que j’aurai toutes les peines du monde à me passer de vous, et que je serois bien aise d’être à vous. Peut-être qu’il y a du mal à dire cela ; mais enfin je ne puis m’empêcher de le dire, et je voudrois que cela se pût faire sans qu’il y en eût. On me dit fort que tous les jeunes hommes sont des trompeurs, qu’il ne les faut point écouter, et que tout ce que vous me dites n’est que pour m’abuser ; mais je vous assure que je n’ai pu encore me figurer cela de vous, et je suis si touchée de vos paroles, que je ne saurois croire qu’elles soient menteuses. Dites-moi franchement ce qui en est : car enfin, comme je suis sans malice, vous auriez le plus grand tort du monde si vous me trompiez ; et je pense que j’en mourrois de déplaisir. »</p>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l>Ho ! chienne !</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Qu’avez-vous ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Moi ? rien. C’est que je tousse.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Avez-vous jamais vu d’expression plus douce ?</l>
+<l>Malgré les soins maudits d’un injuste pouvoir,</l>
+<l>Un plus beau naturel se peut-il faire voir ?</l>
+<pagenum num="413"/>
+<l>Et ce n’est pas sans doute un crime punissable,</l>
+<l>De gâter méchamment ce fond d’âme admirable ;</l>
+<l>D’avoir dans l’ignorance et la stupidité</l>
+<l>Voulu de cet esprit étouffer la clarté ?</l>
+<l>L’amour a commencé d’en déchirer le voile ;</l>
+<l>Et si, par la faveur de quelque bonne étoile,</l>
+<l>Je puis, comme j’espère, à ce franc animal,</l>
+<l>Ce traître, ce bourreau, ce faquin, ce brutal...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Adieu.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Comment ! si vite !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Il m’est dans la pensée</l>
+<l>Venu tout maintenant une affaire pressée.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Mais ne sauriez-vous point, comme on la tient de près,</l>
+<l>Qui dans cette maison pourroit avoir accès ?</l>
+<l>J’en use sans scrupule, et ce n’est pas merveille</l>
+<l>Qu’on se puisse, entre amis, servir à la pareille<noteref noteid="note.413.1"/>.</l>
+<l>Je n’ai plus là dedans que gens pour m’observer ;</l>
+<l>Et servante et valet, que je viens de trouver,</l>
+<l>N’ont jamais, de quelque air que je m’y sois pu prendre,</l>
+<l>Adouci leur rudesse à me vouloir entendre.</l>
+<l>J’avois pour de tels coups certaine vieille en main,</l>
+<l>D’un génie, à vrai dire, au-dessus de l’humain :</l>
+<l>Elle m’a dans l’abord servi de bonne sorte</l>
+<l>Mais, depuis quatre jours, la pauvre femme est morte.</l>
+<l>Ne me pourriez-vous point ouvrir quelque moyen ?</l>
+
+<notes>
+  <note id="note.413.1">
+    <p><i>A la pareille</i>, c’est-à-dire d’une façon pareille, à charge de revanche.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Non vraiment ; et sans moi vous en trouverez bien.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Adieu donc. Vous voyez ce que je vous confie.</l>
+
+<h3 id="acte3sc05">SCÈNE V. — ARNOLPHE, <i>seul</i>.</h3>
+
+<l>Comme il faut devant lui que je me mortifie !</l>
+<l>Quelle peine à cacher mon déplaisir cuisant !</l>
+<l>Quoi ! pour une innocente un esprit si présent !</l>
+<l>Elle a feint d’être telle à mes yeux, la traîtresse,</l>
+<l>Ou le diable à son âme a soufflé cette adresse.</l>
+<pagenum num="414"/>
+<l>Enfin, me voilà mort par ce funeste écrit.</l>
+<l>Je vois qu’il a, le traître, empaumé son esprit,</l>
+<l>Qu’à ma suppression il s’est ancré chez elle ;</l>
+<l>Et c’est mon désespoir et ma peine mortelle.</l>
+<l>Je souffre doublement dans le vol de son cœur ;</l>
+<l>Et l’amour y pâtit aussi bien que l’honneur.</l>
+<l>J’enrage de trouver cette place usurpée,</l>
+<l>Et j’enrage de voir ma prudence trompée.</l>
+<l>Je sais que, pour punir son amour libertin,</l>
+<l>Je n’ai qu’à laisser faire à son mauvais destin,</l>
+<l>Que je serai vengé d’elle par elle-même :</l>
+<l>Mais il est bien fâcheux de perdre ce qu’on aime.</l>
+<l>Ciel ! puisque pour un choix j’ai tant philosophé,</l>
+<l>Faut-il de ses appas m’être si fort coiffé ?</l>
+<l>Elle n’a ni parents, ni support, ni richesse ;</l>
+<l>Elle trahit mes soins, mes bontés, ma tendresse :</l>
+<l>Et cependant je l’aime, après ce lâche tour,</l>
+<l>Jusqu’à ne me pouvoir passer de cette amour.</l>
+<l>Sot, n’as-tu point de honte ? Ah ! je crève, j’enrage.</l>
+<l>Et je souffletterois mille fois mon visage !</l>
+<l>Je veux entrer un peu, mais seulement pour voir</l>
+<l>Quelle est sa contenance après un trait si noir,</l>
+<l>Ciel ! faites que mon front soit exempt de disgrâce ;</l>
+<l>Ou bien, s’il est écrit qu’il faille que j’y passe,</l>
+<l>Donnez-moi tout au moins, pour de tels accidents,</l>
+<l>La constance qu’on voit à de certaines gens !</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte4">ACTE QUATRIÈME</h2>
+
+<h3 id="acte4sc01">SCÈNE I. — ARNOLPHE, <i>seul</i>.</h3>
+
+<l>J’ai peine, je l’avoue, à demeurer en place,</l>
+<l>Et de mille soucis mon esprit s’embarrasse,</l>
+<l>Pour pouvoir mettre un ordre et dedans et dehors,</l>
+<l>Qui du godelureau rompe tous les efforts.</l>
+<l>De quel œil la traîtresse a soutenu ma vue !</l>
+<l>De tout ce qu’elle a fait elle n’est point émue ;</l>
+<l>Et, bien qu’elle me mette à deux doigts du trépas,</l>
+<l>On diroit, à la voir, qu’elle n’y touche pas.</l>
+<l>Plus, en la regardant, je la voyois tranquille,</l>
+<l>Plus je sentois en moi s’échauffer une bile ;</l>
+<l>Et ces bouillants transports dont s’enflammoit mon cœur</l>
+<pagenum num="415"/>
+<l>Y sembloient redoubler mon amoureuse ardeur.</l>
+<l>J’étois aigri, fâché, désespéré contre elle ;</l>
+<l>Et cependant jamais je ne la vis si belle,</l>
+<l>Jamais ses yeux aux miens n’ont paru si perçants,</l>
+<l>Jamais je n’eus pour eux des désirs si pressants ;</l>
+<l>Et je sens là dedans qu’il faudra que je crève,</l>
+<l>Si de mon triste sort la disgrâce s’achève.</l>
+<l>Quoi ! j’aurai dirigé son éducation</l>
+<l>Avec tant de tendresse et de précaution ;</l>
+<l>Je l’aurai fait passer chez moi dès son enfance,</l>
+<l>Et j’en aurai chéri la plus tendre espérance ;</l>
+<l>Mon cœur aura bâti sur ses attraits naissants,</l>
+<l>Et cru la mitonner pour moi durant treize ans,</l>
+<l>Afin qu’un jeune fou dont elle s’amourache</l>
+<l>Me la vienne enlever jusque sur la moustache,</l>
+<l>Lorsqu’elle est avec moi mariée à demi !</l>
+<l>Non, parbleu ! non, parbleu ! Petit sot, mon ami,</l>
+<l>Vous aurez beau tourner, ou j’y perdrai mes peines,</l>
+<l>Ou je rendrai, ma foi, vos espérances vaines,</l>
+<l>Et de moi tout à fait vous ne vous rirez point.</l>
+
+<h3 id="acte4sc02">SCÈNE II. — UN NOTAIRE, ARNOLPHE</h3>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>Ah ! le voilà ! Bonjour. Me voici tout à point</l>
+<l>Pour dresser le contrat que vous souhaitez faire.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul, et sans voir ni entendre le notaire.</hstage>
+<l>Comment faire ?</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l cont="true">Il le faut dans la forme ordinaire.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul.</hstage>
+<l>A mes précautions je veux songer de près.</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>Je ne passerai rien contre vos intérêts.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul.</hstage>
+<l>Il se faut garantir de toutes les surprises</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>Suffit qu’entre mes mains vos affaires soient mises.</l>
+<l>Il ne vous faudra point, de peur d’être déçu,</l>
+<l>Quittancer le contrat que vous n’ayez reçu.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul</hstage>
+<l>J’ai peur, si je vais faire éclater quelque chose,</l>
+<l>Que de cet incident par la ville on ne cause.</l>
+
+<pagenum num="416"/>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>Eh bien, il est aisé d’empêcher cet éclat,</l>
+<l>Et l’on peut en secret faire votre contrat.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul.</hstage>
+<l>Mais comment faudra-t-il qu’avec elle j’en sorte ?</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>Le douaire se règle au bien qu’on vous apporte.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul.</hstage>
+<l>Je l’aime, et cet amour est mon grand embarras.</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>On peut avantager une femme en ce cas.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul.</hstage>
+<l>Quel traitement lui faire en pareille aventure ?</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>L’ordre est que le futur doit douer la future</l>
+<l>Du tiers du dot qu’elle a ; mais cet ordre n’est rien,</l>
+<l>Et l’on va plus avant lorsque l’on le veut bien.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul.</hstage>
+<l>Si...</l>
+<pstage>Il aperçoit le notaire.</pstage>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>Pour le préciput, il les regarde ensemble.</l>
+<l>Je dis que le futur peut, comme bon lui semble,</l>
+<l>Douer la future.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Hé ?</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l cont="true">Il peut l’avantager</l>
+<l>Lorsqu’il l’aime beaucoup et qu’il veut l’obliger ;</l>
+<l>Et cela par douaire, ou préfix qu’on appelle<noteref noteid="note.416.1"/>,</l>
+<l>Qui demeure perdu par le trépas d’icelle ;</l>
+<l>Ou sans retour, qui va de ladite à ses hoirs ;</l>
+<l>Ou coutumier, selon les différents vouloirs ;</l>
+<l>Ou par donation dans le contrat formelle,</l>
+<l>Qu’on fait ou pure ou simple, ou qu’on fait mutuelle.</l>
+<l>Pourquoi hausser le dos ? Est-ce qu’on parle en fat.</l>
+<l>Et que l’on ne sait pas les formes d’un contrat ?</l>
+<l>Qui me les apprendra ? personne, je présume.</l>
+<pagenum num="417"/>
+<l>Sais-je pas qu’étant joints on est par la coutume</l>
+<l>Communs en meubles, biens, immeubles et conquêts,</l>
+<l>A moins que par un acte on n’y renonce exprès ?</l>
+<l>Sais-je pas que le tiers du bien de la future</l>
+<l>Entre en communauté pour...</l>
+
+<notes>
+  <note id="note.416.1">
+    <p>Le douaire préfix était celui qu’on avait réglé d’avance par une convention. Le douaire coutumier était celui qui était déterminé par la coutume, à défaut de convention.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Oui, c’est chose sûre,</l>
+<l>Vous savez tout cela ; mais qui vous en dit mot ?</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>Vous, qui me prétendez faire passer pour sot,</l>
+<l>En me haussant l’épaule et faisant la grimace.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>La peste soit fait l’homme, et sa chienne de face !</l>
+<l>Adieu. C’est le moyen de vous faire finir.</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>Pour dresser un contrat m’a-t-on pas fait venir ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oui, je vous ai mandé ; mais la chose est remise,</l>
+<l>Et l’on vous mandera quand l’heure sera prise.</l>
+<l>Voyez quel diable d’homme avec son entretien !</l>
+
+<hstage><speaker>LE NOTAIRE</speaker>, seul.</hstage>
+<l>Je pense qu’il en tient ; et je crois penser bien.</l>
+
+<h3 id="acte4sc03">SCÈNE III. — LE NOTAIRE, ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>LE NOTAIRE</speaker>, allant au-devant d’Alain et de Georgette.</hstage>
+<l>N’êtes-vous pas venu quérir pour votre maître ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l cont="true">J’ignore pour qui vous le pouvez connoître,</l>
+<l>Mais allez de ma part lui dire de ce pas</l>
+<l>Que c’est un fou fieffé.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Nous n’y manquerons pas.</l>
+
+<h3 id="acte4sc04">SCÈNE IV. — ARNOLPHE, ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Monsieur...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Approchez-vous ; vous êtes mes fidèles,</l>
+<l>Mes bons, mes vrais amis ; et j’en sais des nouvelles.</l>
+
+<pagenum num="418"/>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Le notaire...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Laissons, c’est pour quelque autre jour.</l>
+<l>On veut à mon honneur jouer d’un mauvais tour ;</l>
+<l>Et quel affront pour vous, mes enfants, pourroit-ce être</l>
+<l>Si l’on avoit ôté l’honneur à votre maître !</l>
+<l>Vous n’oseriez après paroître en nul endroit ;</l>
+<l>Et chacun, vous voyant, vous montreroit au doigt.</l>
+<l>Donc, puisque autant que moi l’affaire vous regarde,</l>
+<l>Il faut de votre part faire une telle garde,</l>
+<l>Que ce galant ne puisse en aucune façon...</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Vous nous avez tantôt montré notre leçon.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Mais à ses beaux discours gardez bien de vous rendre.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Oh ! vraiment...</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Nous savons comme il faut s’en défendre.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>S’il venoit doucement : Alain, mon pauvre cœur,</l>
+<l>Par un peu de secours soulage ma langueur !</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Vous êtes un sot.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à Georgette.</hstage>
+<l cont="true">Bon. Georgette, ma mignonne,</l>
+<l>Tu me parois si douce et si bonne personne...</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Vous êtes un nigaud.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à Alain.</hstage>
+<l cont="true">Bon. Quel mal trouves-tu</l>
+<l>Dans un dessein honnête et tout plein de vertu ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Vous êtes un fripon.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à Georgette.</hstage>
+<l cont="true">Fort bien. Ma mort est sûre</l>
+<l>Si tu ne prends pitié des peines que j’endure.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Vous êtes un benêt, un impudent.</l>
+
+<pagenum num="419"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Fort bien.</l>
+<pstage>A Alain.</pstage>
+<l>Je ne suis pas un homme à vouloir rien pour rien ;</l>
+<l>Je sais, quand on me sert, en garder la mémoire ;</l>
+<l>Cependant, par avance, Alain, voilà pour boire ;</l>
+<l>Et voilà pour t’avoir, Georgette, un cotillon.</l>
+<pstage>Ils tendent tous deux la main, et prennent l’argent.</pstage>
+<l>Ce n’est de mes bienfaits qu’un simple échantillon.</l>
+<l>Toute la courtoisie enfin dont je vous presse,</l>
+<l>C’est que je puisse voir votre belle maîtresse.</l>
+
+<hstage><speaker>GEORGETTE</speaker>, le poussant.</hstage>
+<l>A d’autres !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Bon cela.</l>
+
+<hstage><speaker>ALAIN</speaker>, le poussant.</hstage>
+<l cont="true">Hors d’ici !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Bon.</l>
+
+<hstage><speaker>GEORGETTE</speaker>, le poussant.</hstage>
+<l cont="true">Mais tôt !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Bon. Holà ! c’est assez.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Fais-je pas comme il faut ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Est-ce de la façon que vous voulez l’entendre ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oui, fort bien, hors l’argent, qu’il ne falloit pas prendre.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>Nous ne nous sommes pas souvenus de ce point.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Voulez-vous qu’à l’instant nous recommencions ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Point.</l>
+<l>Suffit. Rentrez tous deux.</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l cont="true">Vous n’avez rien qu’à dire.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Non, vous dis-je ; rentrez, puisque je le désire ;</l>
+<l>Je vous laisse l’argent. Allez ; je vous rejoins.</l>
+<pagenum num="420"/>
+<l>Ayez bien l’œil à tout, et secondez mes soins.</l>
+
+<h3 id="acte4sc05">SCÈNE V. — ARNOLPHE, <i>seul</i>.</h3>
+
+<l>Je veux, pour espion qui soit d’exacte vue,</l>
+<l>Prendre le savetier du coin de notre rue.</l>
+<l>Dans la maison toujours je prétends la tenir,</l>
+<l>Y faire bonne garde, et surtout en bannir</l>
+<l>Vendeuses de rubans, perruquières, coiffeuses,</l>
+<l>Faiseuses de mouchoirs, gantières, revendeuses,</l>
+<l>Tous ces gens qui sous main travaillent chaque jour</l>
+<l>A faire réussir les mystères d’amour.</l>
+<l>Enfin j’ai vu le monde, et j’en sais les finesses.</l>
+<l>Il faudra que mon homme ait de grandes adresses,</l>
+<l>Si message ou poulet de sa part peut entrer.</l>
+
+<h3 id="acte4sc06">SCÈNE VI. — HORACE, ARNOLPHE</h3>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>La place m’est heureuse à vous y rencontrer.</l>
+<l>Je viens de l’échapper bien belle, je vous jure.</l>
+<l>Au sortir d’avec vous, sans prévoir l’aventure,</l>
+<l>Seule dans son balcon j’ai vu paroître Agnès,</l>
+<l>Qui des arbres prochains prenoit un peu le frais.</l>
+<l>Après m’avoir fait signe, elle a su faire en sorte,</l>
+<l>Descendant au jardin, de m’en ouvrir la porte ;</l>
+<l>Mais à peine tous deux dans sa chambre étions-nous,</l>
+<l>Qu’elle a sur les degrés entendu son jaloux ;</l>
+<l>Et tout ce qu’elle a pu, dans un tel accessoire<noteref noteid="note.420.1"/>,</l>
+<l>C’est de me renfermer dans une grande armoire.</l>
+<l>Il est entré d’abord : je ne le voyois pas,</l>
+<l>Mais je l’oyois marcher, sans rien dire, à grands pas,</l>
+<l>Poussant de temps en temps des soupirs pitoyables,</l>
+<l>Et donnant quelquefois de grands coups sur les tables.</l>
+<l>Frappant un petit chien qui pour lui s’émouvoit,</l>
+<l>Et jetant brusquement les hardes qu’il trouvoit.</l>
+<l>Il a même cassé, d’une main mutinée,</l>
+<l>Des vases dont la belle ornoit sa cheminée ;</l>
+<l>Et sans doute il faut bien qu’à ce becque cornu<noteref noteid="note.420.2"/></l>
+<l>Du trait qu’elle a joué quelque jour soit venu.</l>
+<l>Enfin, après cent tours, ayant de la manière</l>
+<l>Sur ce qui n’en peut mais<noteref noteid="note.420.3"/> déchargé sa colère,</l>
+<pagenum num="421"/>
+<l>Mon jaloux inquiet, sans dire son ennui,</l>
+<l>Est sorti de la chambre, et moi, de mon étui.</l>
+<l>Nous n’avons point voulu, de peur du personnage,</l>
+<l>Risquer à nous tenir ensemble davantage :</l>
+<l>C’étoit trop hasarder ; mais je dois, cette nuit,</l>
+<l>Dans sa chambre un peu tard m’introduire sans bruit.</l>
+<l>En toussant par trois fois je me ferai connoître ;</l>
+<l>Et je dois au signal voir ouvrir la fenêtre,</l>
+<l>Dont, avec une échelle, et secondé d’Agnès,</l>
+<l>Mon amour tâchera de me gagner l’accès.</l>
+<l>Comme à mon seul ami je veux bien vous l’apprendre.</l>
+<l>L’allégresse du cœur s’augmente à la répandre ;</l>
+<l>Et goûtât-on cent fois un bonheur tout parfait,</l>
+<l>On n’en est pas content si quelqu’un ne le sait.</l>
+<l>Vous prendrez part, je pense, à l’heur de mes affaires.</l>
+<l>Adieu. Je vais songer aux choses nécessaires.</l>
+
+<notes>
+  <note id="note.420.1">
+    <p>Pour <i>embarras, danger</i>. Ne se dit plus en ce sens.</p>
+  </note>
+  <note id="note.420.2">
+    <p><i>Becque cornu</i>, de l’italien <i>becco cornuto</i>, littéralement <i>bouc cornu</i>.</p>
+  </note>
+  <note id="note.420.3">
+    <p><i>Mais</i> dans le sens de davantage, du latin <i>magis</i>.</p>
+  </note>
+</notes>
+
+<h3 id="acte4sc07">SCÈNE VII. — ARNOLPHE, <i>seul</i></h3>
+
+<l>Quoi ! l’astre qui s’obstine à me désespérer</l>
+<l>Ne me donnera pas le temps de respirer !</l>
+<l>Coup sur coup je verrai, par leur intelligence,</l>
+<l>De mes soins vigilants confondre la prudence !</l>
+<l>Et je serai la dupe, en ma maturité,</l>
+<l>D’une jeune innocente et d’un jeune éventé !</l>
+<l>En sage philosophe on m’a vu vingt années,</l>
+<l>Contempler des maris les tristes destinées,</l>
+<l>Et m’instruire avec soin de tous les accidents</l>
+<l>Qui font dans le malheur tomber les plus prudents ;</l>
+<l>Des disgrâces d’autrui profitant dans mon âme,</l>
+<l>J’ai cherché les moyens, voulant prendre une femme</l>
+<l>De pouvoir garantir mon front de tous affronts,</l>
+<l>Et le tirer de pair d’avec les autres fronts ;</l>
+<l>Pour ce noble dessein, j’ai cru mettre en pratique</l>
+<l>Tout ce que peut trouver l’humaine politique ;</l>
+<l>Et, comme si du sort il étoit arrêté</l>
+<l>Que nul homme ici-bas n’en seroit exempté,</l>
+<l>Après l’expérience et toutes les lumières,</l>
+<l>Que j’ai pu m’acquérir sur de telles matières,</l>
+<l>Après vingt ans et plus de méditation</l>
+<l>Pour me conduire en tout avec précaution,</l>
+<l>De tant d’autres maris j’aurois quitté la trace,</l>
+<l>Pour me trouver après dans <correction original="le">la</correction> même disgrâce !</l>
+<pagenum num="422"/>
+<l>Ah ! bourreau de destin, vous en aurez menti.</l>
+<l>De l’objet qu’on poursuit je suis encor nanti :</l>
+<l>Si son cœur m’est volé par ce blondin funeste,</l>
+<l>J’empêcherai du moins qu’on s’empare du reste ;</l>
+<l>Et cette nuit, qu’on prend pour ce galant exploit,</l>
+<l>Ne se passera pas si doucement qu’on croit.</l>
+<l>Ce m’est quelque plaisir, parmi tant de tristesse,</l>
+<l>Que l’on me donne avis du piège qu’on me dresse,</l>
+<l>Et que cet étourdi, qui veut m’être fatal,</l>
+<l>Fasse son confident de son propre rival.</l>
+
+<h3 id="acte4sc08">SCÈNE VIII. — CHRYSALDE, ARNOLPHE</h3>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Eh bien, souperons-nous avant la promenade ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Non. Je jeûne ce soir.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l cont="true">D’où vient cette boutade ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>De grâce, excusez-moi, j’ai quelque autre embarras.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Votre hymen résolu ne se fera-t-il pas ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>C’est trop s’inquiéter des affaires des autres.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Oh ! oh ! si brusquement ! Quels chagrins sont les vôtres ?</l>
+<l>Seroit-il point, compère, à votre passion</l>
+<l>Arrivé quelque peu de tribulation ?</l>
+<l>Je le jurerois presque, à voir votre visage.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Quoi qu’il m’arrive, au moins aurai-je l’avantage</l>
+<l>De ne pas ressembler à de certaines gens</l>
+<l>Qui souffrent doucement l’approche des galants.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>C’est un étrange fait, qu’avec tant de lumières</l>
+<l>Vous vous effarouchiez toujours sur ces matières,</l>
+<l>Qu’en cela vous mettiez le souverain bonheur,</l>
+<l>Et ne conceviez point au monde d’autre honneur.</l>
+<l>Être avare, brutal, fourbe, méchant et lâche,</l>
+<l>N’est rien, à votre avis, auprès de cette tache ;</l>
+<l>Et, de quelque façon qu’on puisse avoir vécu,</l>
+<pagenum num="423"/>
+<l>On est homme d’honneur quand on n’est point cocu.</l>
+<l>A le bien prendre au fond, pourquoi voulez-vous croire</l>
+<l>Que de ce cas fortuit dépende notre gloire,</l>
+<l>Et qu’une âme bien née ait à se reprocher</l>
+<l>L’injustice d’un mal qu’on ne peut empêcher ?</l>
+<l>Pourquoi voulez-vous, dis-je, en prenant une femme</l>
+<l>Qu’on soit digne, à son choix, de louange ou de blâme,</l>
+<l>Et qu’on s’aille former un monstre plein d’effroi</l>
+<l>De l’affront que nous fait son manquement de foi ?</l>
+<l>Mettez-vous dans l’esprit qu’on peut du cocuage</l>
+<l>Se faire en galant homme une plus douce image ;</l>
+<l>Que, des coups du hasard aucun n’étant garant,</l>
+<l>Cet accident de soi doit être indifférent,</l>
+<l>Et qu’enfin tout le mal, quoique le monde glose,</l>
+<l>N’est que dans la façon de recevoir la chose :</l>
+<l>Et, pour se bien conduire en ces difficultés,</l>
+<l>Il y faut, comme en tout, fuir les extrémités,</l>
+<l>N’imiter pas ces gens un peu trop débonnaires</l>
+<l>Qui tirent vanité de ces sortes d’affaires,</l>
+<l>De leurs femmes toujours vont citant les galants,</l>
+<l>En font partout l’éloge, et prônent leurs talents,</l>
+<l>Témoignent avec eux d’étroites sympathies,</l>
+<l>Sont de tous leurs cadeaux, de toutes leurs parties,</l>
+<l>Et font qu’avec raison les gens sont étonnés</l>
+<l>De voir leur hardiesse à montrer là leur nez.</l>
+<l>Ce procédé, sans doute, est tout à fait blâmable ;</l>
+<l>Mais l’autre extrémité n’est pas moins condamnable.</l>
+<l>Si je n’approuve pas ces amis des galants,</l>
+<l>Je ne suis pas aussi pour ces gens turbulents</l>
+<l>Dont l’imprudent chagrin, qui tempête et qui gronde,</l>
+<l>Attire au bruit qu’il fait les yeux de tout le monde,</l>
+<l>Et qui, par cet éclat, semblent ne pas vouloir</l>
+<l>Qu’aucun puisse ignorer ce qu’ils peuvent avoir.</l>
+<l>Entre ces deux partis il en est un honnête,</l>
+<l>Où, dans l’occasion, l’homme prudent s’arrête,</l>
+<l>Et, quand on le sait prendre, on n’a point à rougir</l>
+<l>Du pis dont une femme avec nous puisse agir.</l>
+<l>Quoi qu’on en puisse dire enfin, le cocuage</l>
+<l>Sous des traits moins affreux aisément s’envisage ;</l>
+<l>Et, comme je vous dis, toute l’habileté</l>
+<l>Ne va qu’à le savoir tourner du bon côté.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Après ce beau discours, toute la confrérie</l>
+<pagenum num="424"/>
+<l>Doit un remerciement à votre seigneurie ;</l>
+<l>Et quiconque voudra vous entendre parler</l>
+<l>Montrera de la joie à s’y voir enrôler.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Je ne dis pas cela ; car c’est ce que je blâme ;</l>
+<l>Mais, comme c’est le sort qui nous donne une femme,</l>
+<l>Je dis que l’on doit faire ainsi qu’au jeu de dés,</l>
+<l>Où, s’il ne vous vient pas ce que vous demandez,</l>
+<l>Il faut jouer d’adresse, et, d’une âme réduite,</l>
+<l>Corriger le hasard par la bonne conduite.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>C’est-à-dire dormir et manger toujours bien,</l>
+<l>Et se persuader que tout cela n’est rien.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Vous pensez vous moquer ; mais, à ne vous rien feindre,</l>
+<l>Dans le monde je vois cent choses plus à craindre,</l>
+<l>Et dont je me ferois un bien plus grand malheur</l>
+<l>Que de cet accident qui vous fait tant de peur.</l>
+<l>Pensez-vous qu’à choisir de deux choses prescrites,</l>
+<l>Je n’aimasse pas mieux être ce que vous dites,</l>
+<l>Que de me voir mari de ces femmes de bien</l>
+<l>Dont la mauvaise humeur fait un procès sur rien,</l>
+<l>Ces dragons de vertu, ces honnêtes diablesses,</l>
+<l>Se retranchant toujours sur leurs sages prouesses,</l>
+<l>Qui, pour un petit tort qu’elles ne nous font pas,</l>
+<l>Prennent droit de traiter les gens de haut en bas,</l>
+<l>Et veulent, sur le pied de nous être fidèles,</l>
+<l>Que nous soyons tenus à tout endurer d’elles ?</l>
+<l>Encore un coup, compère, apprenez qu’en effet</l>
+<l>Le cocuage n’est que ce que l’on le fait ;</l>
+<l>Qu’on peut le souhaiter pour de certaines causes,</l>
+<l>Et qu’il a ses plaisirs comme les autres choses<noteref noteid="note.424.1"/>.</l>
+
+<notes>
+  <note id="note.424.1">
+    <p>Arnolphe en a une peur ridicule ; mais Chrysalde s’y montre aussi par trop indifférent ; il combat un excès par un autre (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Si vous êtes d’humeur à vous en contenter,</l>
+<l>Quant à moi, ce n’est pas la mienne d’en tâter ;</l>
+<l>Et, plutôt que subir une telle aventure...</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Mon Dieu ! ne jurez point, de peur d’être parjure ;</l>
+<l>Si le sort l’a réglé, vos soins sont superflus,</l>
+<l>Et l’on ne prendra pas votre avis là-dessus.</l>
+
+<pagenum num="425"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Moi, je serois cocu ?</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l cont="true">Vous voilà bien malade !</l>
+<l>Mille gens le sont bien, sans vous faire bravade,</l>
+<l>Qui de mine, de cœur, de biens et de maison.</l>
+<l>Ne feroient avec vous nulle comparaison.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Et moi, je n’en voudrois avec eux faire aucune</l>
+<l>Mais cette raillerie, en un mot, m’importune ;</l>
+<l>Brisons là, s’il vous plaît.</l>
+
+<hstage><speaker>CRHYSALDE</speaker></hstage>
+<l cont="true">Vous êtes en courroux !</l>
+<l>Nous en saurons la cause. Adieu. Souvenez-vous,</l>
+<l>Quoi que sur ce sujet votre honneur vous inspire,</l>
+<l>Que c’est être à demi ce que l’on vient de dire</l>
+<l>Que de vouloir jurer qu’on ne le sera pas.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Moi, je le jure encore, et je vais de ce pas</l>
+<l>Contre cet accident trouver un bon remède.</l>
+<pstage>Il court heurter à sa porte.</pstage>
+
+<h3 id="acte4sc09">SCÈNE IX. — ARNOLPHE, ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Mes amis, c’est ici que j’implore votre aide.</l>
+<l>Je suis édifié de votre affection ;</l>
+<l>Mais il faut qu’elle éclate en cette occasion ;</l>
+<l>Et, si vous m’y servez selon ma confiance,</l>
+<l>Vous êtes assurés de votre récompense.</l>
+<l>L’homme que vous savez (n’en faites point de bruit)</l>
+<l>Veut comme je l’ai su, m’attraper cette nuit,</l>
+<l>Dans la chambre d’Agnès entrer par escalade ;</l>
+<l>Mais il lui faut, nous trois, dresser une embuscade.</l>
+<l>Je veux que vous preniez chacun un bon bâton,</l>
+<l>Et, quand il sera près du dernier échelon</l>
+<l>(Car dans le temps qu’il faut j’ouvrirai la fenêtre),</l>
+<l>Que tous deux à l’envi vous me chargiez ce traître,</l>
+<l>Mais d’un air dont son dos garde le souvenir,</l>
+<l>Et qui lui puisse apprendre à n’y plus revenir ;</l>
+<l>Sans me nommer pourtant en aucune manière,</l>
+<l>Ni faire aucun semblant que je serai derrière.</l>
+<l>Aurez-vous bien l’esprit de servir mon courroux ?</l>
+
+<pagenum num="426"/>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>S’il ne tient qu’à frapper, mon Dieu ! tout est a nous.</l>
+<l>Vous verrez, quand je bats, si j’y vais de main morte.</l>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l>La mienne, quoique aux yeux elle semble moins forte,</l>
+<l>N’en quitte pas sa part à le bien étriller.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Rentrez donc ; et surtout gardez de babiller,</l>
+<pstage>Seul.</pstage>
+<l>Voilà pour le prochain une leçon utile,</l>
+<l>Et, si tous les maris qui sont en cette ville</l>
+<l>De leurs femmes ainsi recevoient le galant,</l>
+<l>Le nombre des cocus ne seroit pas si grand.</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte5">ACTE CINQUIÈME</h2>
+
+<h3 id="acte5sc01">SCÈNE I. — ARNOLPHE, ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Traîtres ! qu’avez-vous fait par cette violence ?</l>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Nous vous avons rendu, monsieur, obéissance.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>De cette excuse en vain vous voulez vous armer ;</l>
+<l>L’ordre étoit de le battre, et non de l’assommer ;</l>
+<l>Et c’étoit sur le dos, et non pas sur la tête,</l>
+<l>Que j’avois commandé qu’on fît choir la tempête.</l>
+<l>Ciel ! dans quel accident me jette ici le sort !</l>
+<l>Et que puis-je résoudre à voir cet homme mort ?</l>
+<l>Rentrez dans la maison, et gardez de rien dire</l>
+<l>De cet ordre innocent que j’ai pu vous prescrire.</l>
+<pstage>Seul.</pstage>
+<l>Le jour s’en va paroître, et je vais consulter</l>
+<l>Comment dans ce malheur je me dois comporter.</l>
+<l>Hélas ! que deviendrai-je ? et que dira le père,</l>
+<l>Lorsque inopinément il saura cette affaire ?</l>
+
+<h3 id="acte5sc02">SCÈNE II. — HORACE, ARNOLPHE</h3>
+
+<hstage><speaker>HORACE</speaker>, à part.</hstage>
+<l>Il faut que j’aille un peu reconnoître qui c’est.</l>
+
+<pagenum num="427"/>
+
+<hstage><speaker>ARNOLPHE</speaker>, se croyant seul.</hstage>
+<l>Eût-on jamais prévu...</l>
+<pstage>Heurté par Horace, qu’il ne reconnoît pas.</pstage>
+<l cont="true">Qui va là, s’il vous plaît ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>C’est vous, seigneur Arnolphe ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Oui. Mais vous ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">C’est Horace.</l>
+<l>Je m’en allois chez vous vous prier d’une grâce.</l>
+<l>Vous sortez bon matin !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Quelle confusion !</l>
+<l>Est-ce un enchantement ? est-ce une illusion ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>J’étois, à dire vrai, dans une grande peine ;</l>
+<l>Et je bénis du ciel la bonté souveraine</l>
+<l>Qui fait qu’à point nommé je vous rencontre ainsi.</l>
+<l>Je viens vous avertir que tout a réussi,</l>
+<l>Et même beaucoup plus que je n’eusse osé dire,</l>
+<l>Et par un incident qui devoit tout détruire :</l>
+<l>Je ne sais point par où l’on a pu soupçonner</l>
+<l>Cette assignation qu’on m’avoit su donner ;</l>
+<l>Mais, étant sur le point d’atteindre à la fenêtre,</l>
+<l>J’ai, contre mon espoir, vu quelques gens paroître,</l>
+<l>Qui, sur moi brusquement levant chacun le bras,</l>
+<l>M’ont fait manquer le pied et tomber jusqu’en bas,</l>
+<l>Et ma chute, aux dépens de quelque meurtrissure,</l>
+<l>De vingt coups de bâton m’a sauvé l’aventure.</l>
+<l>Ces gens-là, dont étoit, je pense, mon jaloux,</l>
+<l>Ont imputé ma chute à l’effort de leurs coups ;</l>
+<l>Et, comme la douleur, un assez long espace,</l>
+<l>M’a fait sans remuer demeurer sur la place,</l>
+<l>Ils ont cru tout de bon qu’ils m’avoient assommé,</l>
+<l>Et chacun d’eux s’en est aussitôt alarmé.</l>
+<l>J’entendois tout leur bruit dans le profond silence :</l>
+<l>L’un l’autre ils s’accusoient de cette violence,</l>
+<l>Et, sans lumière aucune, en querellant le sort.</l>
+<l>Sont venus doucement tâter si j’étois mort.</l>
+<l>Je vous laisse à penser si, dans la nuit obscure,</l>
+<l>J’ai d’un vrai trépassé su tenir la figure.</l>
+<pagenum num="428"/>
+<l>Ils se sont retirés avec beaucoup d’effroi ;</l>
+<l>Et, comme je songeois à me retirer, moi,</l>
+<l>De cette feinte mort la jeune Agnès émue</l>
+<l>Avec empressement est devers moi venue.</l>
+<l>Car les discours qu’entre eux ces gens avoient tenus</l>
+<l>Jusques à son oreille étoient d’abord venus ;</l>
+<l>Et, pendant tout ce trouble étant moins observée.</l>
+<l>Du logis aisément elle s’étoit sauvée ;</l>
+<l>Mais, me trouvant sans mal, elle a fait éclater</l>
+<l>Un transport difficile à bien représenter.</l>
+<l>Que vous dirai-je enfin ? Cette aimable personne</l>
+<l>A suivi les conseils que son amour lui donne,</l>
+<l>N’a plus voulu songer à retourner chez soi,</l>
+<l>Et de tout son destin s’est commise à ma foi.</l>
+<l>Considérez un peu, par ce trait d’innocence,</l>
+<l>Où l’expose d’un fou la haute impertinence,</l>
+<l>Et quels fâcheux périls elle pourroit courir,</l>
+<l>Si j’étois maintenant homme à la moins chérir.</l>
+<l>Mais d’un trop pur amour mon âme est embrasée,</l>
+<l>J’aimerois mieux mourir que l’avoir abusée :</l>
+<l>Je lui vois des appas dignes d’un autre sort,</l>
+<l>Et rien ne m’en sauroit séparer que la mort.</l>
+<l>Je prévois là-dessus l’emportement d’un père ;</l>
+<l>Mais nous prendrons le temps d’apaiser sa colère.</l>
+<l>A des charmes si doux je me laisse emporter,</l>
+<l>Et dans la vie enfin il se faut contenter.</l>
+<l>Ce que je veux de vous, sous un secret fidèle,</l>
+<l>C’est que je puisse mettre en vos mains cette belle ;</l>
+<l>Que dans votre maison, en faveur de mes feux,</l>
+<l>Vous lui donniez retraite au moins un jour ou deux.</l>
+<l>Outre qu’aux yeux du monde il faut cacher sa fuite,</l>
+<l>Et qu’on en pourroit faire une exacte poursuite,</l>
+<l>Vous savez qu’une fille aussi de sa façon</l>
+<l>Donne avec un jeune homme un étrange soupçon ;</l>
+<l>Et, comme c’est à vous, sûr de votre prudence,</l>
+<l>Que j’ai fait de mes feux entière confidence,</l>
+<l>C’est à vous seul aussi, comme ami généreux,</l>
+<l>Que je puis confier ce dépôt amoureux.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Je suis, n’en doutez point, tout à votre service.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Vous voulez bien me rendre un si charmant office ?</l>
+
+<pagenum num="429"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Très volontiers, vous dis-je ; et je me sens ravir</l>
+<l>De cette occasion que j’ai de vous servir.</l>
+<l>Je rends grâces au ciel de ce qu’il me l’envoie,</l>
+<l>Et n’ai jamais rien fait avec si grande joie.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Que je suis redevable à toutes vos bontés !</l>
+<l>J’avois de votre part craint des difficultés ;</l>
+<l>Mais vous êtes du monde, et, dans votre sagesse,</l>
+<l>Vous savez excuser le feu de la jeunesse.</l>
+<l>Un de mes gens la garde au coin de ce détour.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Mais comment ferons-nous ? car il fait un peu jour.</l>
+<l>Si je la prends ici, l’on me verra peut-être ;</l>
+<l>Et, s’il faut que chez moi vous veniez à paroître,</l>
+<l>Des valets causeront. Pour jouer au plus sûr,</l>
+<l>Il faut me l’amener dans un lieu plus obscur.</l>
+<l>Mon allée est commode, et je l’y vais attendre.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Ce sont précautions qu’il est fort bon de prendre.</l>
+<l>Pour moi, je ne ferai que vous la mettre en main,</l>
+<l>Et chez moi sans éclat je retourne soudain.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, seul.</hstage>
+<l>Ah ! fortune, ce trait d’aventure propice</l>
+<l>Répare tous les maux que m’a faits ton caprice !</l>
+<pstage>Il s’enveloppe le nez de son manteau.</pstage>
+
+<h3 id="acte5sc03">SCÈNE III. — AGNÈS, ARNOLPHE, HORACE</h3>
+
+<hstage><speaker>HORACE</speaker>, à Agnès.</hstage>
+<l>Ne soyez point en peine où je vais vous mener ;</l>
+<l>C’est un logement sûr que je vous fais donner.</l>
+<l>Vous loger avec moi, ce seroit tout détruire :</l>
+<l>Entrez dans cette porte, et laissez-vous conduire.</l>
+<pstage>Arnolphe lui prend la main sans qu’elle le reconnoisse.</pstage>
+
+<hstage><speaker>AGNÈS</speaker>, à Horace.</hstage>
+<l>Pourquoi me quittez-vous ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Chère Agnès, il le faut.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Songez donc, je vous prie, à revenir bientôt.</l>
+
+<pagenum num="430"/>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>J’en suis assez pressé par ma flamme amoureuse.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Quand je ne vous vois point, je ne suis point joyeuse.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Hors de votre présence on me voit triste aussi.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Hélas ! s’il étoit vrai, vous resteriez ici.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Quoi ! vous pourriez douter de mon amour extrême ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Non, vous ne m’aimez pas autant que je vous aime.</l>
+<pstage>Arnolphe la tire.</pstage>
+<l>Ah ! l’on me tire trop.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">C’est qu’il est dangereux,</l>
+<l>Chère Agnès, qu’en ce lieu nous soyons vus tous deux,</l>
+<l>Et ce parfait ami de qui la main vous presse</l>
+<l>Suit le zèle prudent qui pour nous l’intéresse.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Mais suivre un inconnu que...</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">N’appréhendez rien :</l>
+<l>Entre de telles mains vous ne serez que bien.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Je me trouverois mieux entre celles d’Horace,</l>
+<l>Et j’aurois...</l>
+<pstage>A Arnolphe, qui la tire encore.</pstage>
+<l cont="true">Attendez.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Adieu. Le jour me chasse.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Quand vous verrai-je donc ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Bientôt, assurément.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Que je vais m’ennuyer jusques à ce moment !</l>
+
+<hstage><speaker>HORACE</speaker>, en s’en allant.</hstage>
+<l>Grâce au ciel, mon bonheur n’est plus en concurrence ;</l>
+<l>Et je puis maintenant dormir en assurance.</l>
+
+<pagenum num="431"/>
+
+<h3 id="acte5sc04">SCÈNE IV. — ARNOLPHE, AGNÈS</h3>
+
+<hstage><speaker>ARNOLPHE</speaker>, caché dans son manteau, et déguisant sa voix.</hstage>
+<l>Venez, ce n’est pas là que je vous logerai,</l>
+<l>Et votre gîte ailleurs est par moi préparé.</l>
+<l>Je prétends en lieu sûr mettre votre personne.</l>
+<pstage>Se faisant connoître.</pstage>
+<l>Me connoissez-vous ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Hai !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Mon visage, friponne,</l>
+<l>Dans cette occasion rend vos sens effrayés,</l>
+<l>Et c’est à contre-cœur qu’ici vous me voyez ;</l>
+<l>Je trouble en ses projets l’amour qui vous possède.</l>
+<pstage>Agnès regarde si elle ne verra point Horace.</pstage>
+<l>N’appelez point des yeux le galant à votre aide :</l>
+<l>Il est trop éloigné pour vous donner secours.</l>
+<l>Ah ! ah ! si jeune encor, vous jouez de ces tours !</l>
+<l>Votre simplicité, qui semble sans pareille,</l>
+<l>Demande si l’on fait les enfants par l’oreille ;</l>
+<l>Et vous savez donner des rendez-vous la nuit,</l>
+<l>Et pour suivre un galant vous évader sans bruit !</l>
+<l>Tudieu ! comme avec lui votre langue cajole</l>
+<l>Il faut qu’on vous ait mise à quelque bonne école !</l>
+<l>Qui diantre tout d’un coup vous en a tant appris ?</l>
+<l>Vous ne craignez donc plus de trouver des esprits ?</l>
+<l>Et ce galant, la nuit, vous à donc enhardie ?</l>
+<l>Ah ! coquine, en venir à cette perfidie !</l>
+<l>Malgré tous mes bienfaits former un tel dessein !</l>
+<l>Petit serpent que j’ai réchauffé dans mon sein,</l>
+<l>Et qui, dès qu’il le sent, par une humeur ingrate,</l>
+<l>Cherche à faire du mal à celui qui le flatte !</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Pourquoi me criez-vous<noteref noteid="note.431.1"/> ?</l>
+
+<notes>
+  <note id="note.431.1">
+    <p><i>Crier quelqu’un</i> dans le sens de <i>gronder</i> ne se dit plus.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">J’ai grand tort en effet !</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Je n’entends point de mal dans tout ce que j’ai fait.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Suivre un galant n’est pas une action infâme ?</l>
+
+<pagenum num="432"/>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>C’est un homme qui dit qu’il me veut pour sa femme :</l>
+<l>J’ai suivi vos leçons, et vous m’avez prêché</l>
+<l>Qu’il se faut marier pour ôter le péché !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oui. Mais pour femme, moi, je prétendois vous prendre :</l>
+<l>Et je vous l’avois fait, me semble, assez entendre.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Oui. Mais, à vous parler franchement entre nous,</l>
+<l>Il est plus pour cela selon mon goût que vous.</l>
+<l>Chez vous le mariage est fâcheux et pénible,</l>
+<l>Et vos discours en font une image terrible ;</l>
+<l>Mais, las ! il le fait, lui, si rempli de plaisirs,</l>
+<l>Que de se marier il donne des désirs.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Ah ! c’est que vous l’aimez, traîtresse !</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Oui, je l’aime.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Et vous avez le front de le dire à moi-même !</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Et pourquoi, s’il est vrai, ne le dirois-je pas ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Le deviez-vous aimer, impertinente ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Hélas !</l>
+<l>Est-ce que j’en puis mais ? Lui seul en est la cause,</l>
+<l>Et je n’y songeois pas lorsque se fit la chose.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Mais il falloit chasser cet amoureux désir.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Le moyen de chasser ce qui fait du plaisir ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Et ne savez-vous pas que c’étoit me déplaire ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Moi ? point du tout. Quel mal cela vous peut-il faire ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Il est vrai, j’ai sujet d’en être réjoui !</l>
+<l>Vous ne m’aimez donc pas, à ce compte ?</l>
+
+<pagenum num="433"/>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Vous ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Oui.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Hélas ! non.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Comment, non !</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Voulez-vous que je mente ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Pourquoi ne m’aimer pas, madame l’impudente ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Mon Dieu ! ce n’est pas moi que vous devez blâmer :</l>
+<l>Que ne vous êtes-vous, comme lui, fait aimer ?</l>
+<l>Je ne vous en ai pas empêché, que je pense.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Je m’y suis efforcé de toute ma puissance ;</l>
+<l>Mais les soins que j’ai pris, je les ai perdus tous,</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Vraiment, il en sait donc là-dessus plus que vous ;</l>
+<l>Car à se faire aimer il n’a point eu de peine.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l>Voyez comme raisonne et répond la vilaine !</l>
+<l>Peste ! une précieuse en diroit-elle plus ?</l>
+<l>Ah ! je l’ai mal connue ; ou, ma foi, là-dessus</l>
+<l>Une sotte en sait plus que le plus habile homme,</l>
+<pstage>A Agnès.</pstage>
+<l>Puisqu’en raisonnements votre esprit se consomme,</l>
+<l>La belle raisonneuse, est-ce qu’un si long temps</l>
+<l>Je vous aurai pour lui nourrie à mes dépens ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Non. Il vous rendra tout jusques au dernier double<noteref noteid="note.433.1"/>.</l>
+
+<notes>
+  <note id="note.433.1">
+    <p>Pièce de monnaie qui valait deux deniers.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ARNOLPHE</speaker>, bas, à part.</hstage>
+<l>Elle a de certains mots où mon dépit redouble.</l>
+<pstage>Haut.</pstage>
+<l>Me rendra-t-il, coquine, avec tout son pouvoir,</l>
+<l>Les obligations que vous pouvez m’avoir ?</l>
+
+<pagenum num="434"/>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Je ne vous en ai pas de si grandes qu’on pense.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>N’est-ce rien que les soins d’élever votre enfance ?</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Vous avez là dedans bien opéré vraiment,</l>
+<l>Et m’avez fait en tout instruire joliment !</l>
+<l>Croit-on que je me flatte, et qu’enfin, dans ma tête,</l>
+<l>Je ne juge pas bien que je suis une bête ?</l>
+<l>Moi-même j’en ai honte ; et, dans l’âge où je suis,</l>
+<l>Je ne veux plus passer pour sotte, si je puis.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Vous fuyez l’ignorance, et voulez, quoi qu’il coûte,</l>
+<l>Apprendre du blondin quelque chose.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Sans doute.</l>
+<l>C’est de lui que je sais ce que je puis savoir</l>
+<l>Et beaucoup plus qu’à vous je pense lui devoir.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Je ne sais qui me tient qu’avec une gourmade</l>
+<l>Ma main de ce discours ne venge la bravade.</l>
+<l>J’enrage quand je vois sa piquante froideur ;</l>
+<l>Et quelques coups de poing satisferoient mon cœur.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Hélas ! vous le pouvez, si cela peut vous plaire.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part.</hstage>
+<l>Ce mot et ce regard désarme ma colère,</l>
+<l>Et produit un retour de tendresse de cœur</l>
+<l>Qui de son action efface la noirceur.</l>
+<l>Chose étrange d’aimer, et que, pour ces traîtresses,</l>
+<l>Les hommes soient sujets à de telles foiblesses !</l>
+<l>Tout le monde connoît leur imperfection ;</l>
+<l>Ce n’est qu’extravagance et qu’indiscrétion ;</l>
+<l>Leur esprit est méchant, et leur âme fragile ;</l>
+<l>Il n’est rien de plus foible et de plus imbécile,</l>
+<l>Rien de plus infidèle : et, malgré tout cela.</l>
+<l>Dans le monde on fait tout pour ces animaux-là,</l>
+<pstage>A Agnès.</pstage>
+<l>Eh bien, faisons la paix. Va, petite traîtresse,</l>
+<l>Je te pardonne tout, et te rends ma tendresse ;</l>
+<l>Considère par là l’amour que j’ai pour toi,</l>
+<l>Et, me voyant si bon, en revanche aime-moi.</l>
+
+<pagenum num="435"/>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Du meilleur de mon cœur je voudrois vous complaire :</l>
+<l>Que me coûteroit-il, si je le pouvois faire ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Vois ce regard mourant, contemple ma personne,</l>
+<l>Et quitte ce morveux et l’amour qu’il te donne.</l>
+<l>C’est quelque sort qu’il faut qu’il ait jeté sur toi,</l>
+<l>Et tu seras cent fois plus heureuse avec moi.</l>
+<l>Ta forte passion est d’être brave et leste,</l>
+<l>Tu le seras toujours, va, je te le proteste ;</l>
+<l>Sans cesse, nuit et jour, je te caresserai,</l>
+<l>Je te bouchonnerai, baiserai, mangerai ;</l>
+<l>Tout comme tu voudras tu pourras te conduire :</l>
+<l>Je ne m’explique point, et cela, c’est tout dire.</l>
+<pstage>Bas, à part.</pstage>
+<l>Jusqu’où la passion peut-elle faire aller ?</l>
+<pstage>Haut.</pstage>
+<l>Enfin, à mon amour rien ne peut s’égaler :</l>
+<l>Quelle preuve veux-tu que je t’en donne, ingrate ?</l>
+<l>Me veux-tu voir pleurer ? veux-tu que je me batte ?</l>
+<l>Veux-tu que je m’arrache un côté de cheveux ?</l>
+<l>Veux-tu que je me tue ? Oui, dis si tu le veux ;</l>
+<l>Je suis tout prêt, cruelle, à te prouver ma flamme.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Tenez, tous vos discours ne me touchent point l’âme ;</l>
+<l>Horace avec deux mots en feroit plus que vous.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Ah ! c’est trop me braver, trop pousser mon courroux !</l>
+<l>Je suivrai mon dessein, bête trop indocile ;</l>
+<l>Et vous dénicherez à l’instant de la ville.</l>
+<l>Vous rebutez mes vœux, et me mettez à bout,</l>
+<l>Mais un cul de couvent me vengera de tout<noteref noteid="note.435.1"/>.</l>
+
+<notes>
+  <note id="note.435.1">
+    <p>Comme <i>cul de basse-fosse cul-de-sac</i>, c’est-à-dire sac, fosse, et courent sans issue par l’extrémité opposée à l’entrée. (F Génin.)</p>
+  </note>
+</notes>
+
+<h3 id="acte5sc05">SCÈNE V. — ARNOLPHE, AGNÈS, ALAIN</h3>
+
+<hstage><speaker>ALAIN</speaker></hstage>
+<l>Je ne sais ce que c’est, monsieur ; mais il me semble</l>
+<l>Qu’Agnès et le corps mort s’en sont allés ensemble.</l>
+
+<pagenum num="436"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>La voici. Dans ma chambre allez me la nicher.</l>
+<pstage>A part.</pstage>
+<l>Ce ne sera pas là qu’il la viendra chercher ;</l>
+<l>Et puis, c’est seulement pour une demi-heure.</l>
+<l>Je vais, pour lui donner une sûre demeure,</l>
+<l>Trouver une voiture.</l>
+<pstage>A Alain.</pstage>
+<l cont="true">Enfermez-vous des mieux,</l>
+<l>Et surtout gardez-vous de la quitter des yeux.</l>
+<pstage>Seul.</pstage>
+<l>Peut-être que son âme, étant dépaysée,</l>
+<l>Pourra de cet amour être désabusée.</l>
+
+<h3 id="acte5sc06">SCÈNE VI. — ARNOLPHE, HORACE</h3>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Ah ! je viens vous trouver, accablé de douleur.</l>
+<l>Le ciel, seigneur Arnolphe, a conclu mon malheur ;</l>
+<l>Et, par un trait fatal d’une injustice extrême,</l>
+<l>On me veut arracher de la beauté que j’aime.</l>
+<l>Pour arriver ici mon père a pris le frais<noteref noteid="note.436.1"/> ;</l>
+<l>J’ai trouvé qu’il mettoit pied à terre ici près :</l>
+<l>Et la cause, en un mot, d’une telle venue,</l>
+<l>Qui, comme je disois, ne m’étoit pas connue,</l>
+<l>C’est qu’il m’a marié sans m’en écrire rien,</l>
+<l>Et qu’il vient en ces lieux célébrer ce lien.</l>
+<l>Jugez, en prenant part à mon inquiétude,</l>
+<l>S’il pouvoit m’arriver un contre-temps plus rude.</l>
+<l>Cet Enrique, dont hier je m’informois à vous,</l>
+<l>Cause tout le malheur dont je ressens les coups :</l>
+<l>Il vient avec mon père achever ma ruine,</l>
+<l>Et c’est sa fille unique à qui l’on me destine.</l>
+<l>J’ai, dès leurs premiers mots, pensé m’évanouir :</l>
+<l>Et d’abord, sans vouloir plus longtemps les ouïr,</l>
+<l>Mon père ayant parlé de vous rendre visite,</l>
+<l>L’esprit plein de frayeur, je l’ai devancé vite.</l>
+<l>De grâce, gardez-vous de lui rien découvrir</l>
+<l>De mon engagement, qui le pourroit aigrir ;</l>
+<l>Et tâchez, comme en vous il prend grande créance,</l>
+<l>De le dissuader de cette autre alliance.</l>
+
+<notes>
+  <note id="note.436.1">
+    <p>C’est-à-dire a profité de la fraîcheur de la nuit. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<pagenum num="437"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oui-da.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Conseillez-lui de différer un peu,</l>
+<l>Et rendez, en ami, ce service à mon feu,</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Je n’y manquerai pas.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">C’est en vous que j’espère.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Fort bien.</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Et je vous tiens mon véritable père.</l>
+<l>Dites-lui que mon âge... Ah ! je le vois venir !</l>
+<l>Écoutez les raisons que je vous puis fournir.</l>
+
+<h3 id="acte5sc07">SCÈNE VII. — ENRIQUE, ORONTE, CHRYSALDE, HORACE, ARNOLPHE</h3>
+
+<pstage>Horace et Arnolphe se retirent dans un coin du théâtre, et parlent bas ensemble.</pstage>
+
+<hstage><speaker>ENRIQUE</speaker>, à Chrysalde.</hstage>
+<l>Aussitôt qu’à mes yeux je vous ai vu paroître,</l>
+<l>Quand on ne m’eût rien dit, j’aurois su vous connoître.</l>
+<l>Je vous vois tous les traits de cette aimable sœur</l>
+<l>Dont l’hymen autrefois m’avoit fait possesseur ;</l>
+<l>Et je serois heureux, si la Parque cruelle</l>
+<l>M’eût laissé ramener cette épouse fidèle,</l>
+<l>Pour jouir avec moi des sensibles douceurs</l>
+<l>De revoir tous les siens après nos longs malheurs.</l>
+<l>Mais, puisque du destin la fatale puissance</l>
+<l>Nous prive pour jamais de sa chère présence,</l>
+<l>Tâchons de nous résoudre, et de nous contenter</l>
+<l>Du seul fruit amoureux qui m’en ait pu rester.</l>
+<l>Il vous touche de près ; et, sans votre suffrage,</l>
+<l>J’aurois tort de vouloir disposer de ce gage.</l>
+<l>Le choix du fils d’Oronte est glorieux de soi ;</l>
+<l>Mais il faut que ce choix vous plaise comme à moi.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>C’est de mon jugement avoir mauvaise estime,</l>
+<l>Que douter si j’approuve un choix si légitime.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à part, à Horace.</hstage>
+<l>Qui, je veux vous servir de la bonne façon.</l>
+
+<pagenum num="438"/>
+
+<hstage><speaker>HORACE</speaker>, à part, à Arnolphe.</hstage>
+<l>Gardez, encore un coup...</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à Horace.</hstage>
+<l cont="true">N’ayez aucun soupçon.</l>
+<pstage>Arnolphe quitte Horace pour aller embrasser Oronte.</pstage>
+
+<hstage><speaker>ORONTE</speaker>, à Arnolphe.</hstage>
+<l>Ah ! que cette embrassade est pleine de tendresse !</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Que je sens à vous voir une grande allégresse !</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Je suis ici venu...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Sans m’en faire récit,</l>
+<l>Je sais ce qui vous mène.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">On vous l’a déjà dit ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">Tant mieux.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l cont="true">Votre fils à cet hymen résiste,</l>
+<l>Et son cœur prévenu n’y voit rien que de triste :</l>
+<l>Il m’a même prié de vous en détourner ;</l>
+<l>Et moi, tout le conseil que je vous puis donner,</l>
+<l>C’est de ne pas souffrir que ce nœud se diffère,</l>
+<l>Et de faire valoir l’autorité de père.</l>
+<l>Il faut avec rigueur ranger les jeunes gens,</l>
+<l>Et nous faisons contre eux à leur être indulgents.</l>
+
+<hstage><speaker>HORACE</speaker>, à part.</hstage>
+<l>Ah ! traître !</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l cont="true">Si son cœur a quelque répugnance,</l>
+<l>Je tiens qu’on ne doit pas lui faire résistance.</l>
+<l>Mon frère, que je crois, sera de mon avis.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Quoi ! se laissera-t-il gouverner par son fis ?</l>
+<l>Est-ce que vous voulez qu’un père ait la mollesse</l>
+<l>De ne savoir pas faire obéir la jeunesse ?</l>
+<l>Il seroit beau, vraiment, qu’on le rit aujourd’hui</l>
+<l>Prendre loi de qui doit la recevoir de lui !</l>
+<pagenum num="439"/>
+<l>Non, non : c’est mon intime, et sa gloire est la mienne ;</l>
+<l>Sa parole est donnée, il faut qu’il la maintienne.</l>
+<l>Qu’il fasse voir ici de fermes sentiments,</l>
+<l>Et force de son fils tous les attachements.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>C’est parler comme il faut, et, dans cette alliance,</l>
+<l>C’est moi qui vous réponds de son obéissance.</l>
+
+<hstage><speaker>CHRYSALDE</speaker>, à Arnolphe</hstage>
+<l>Je suis surpris, pour moi, du grand empressement</l>
+<l>Que vous me faites voir pour cet engagement,</l>
+<l>Et ne puis deviner quel motif vous inspire...</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Je sais ce que je fais, et dis ce qu’il faut dire.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Oui, oui, seigneur Arnolphe, il est...</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l cont="true">Ce nom l’aigrit ;</l>
+<l>C’est monsieur de la Souche, on vous l’a déjà dit.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Il n’importe.</l>
+
+<hstage><speaker>HORACE</speaker>, à part.</hstage>
+<l cont="true">Qu’entends-je ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, se retournant vers Horace.</hstage>
+<l cont="true">Oui, c’est là le mystère ;</l>
+<l>Et vous pouvez juger ce que je de vois faire.</l>
+
+<hstage><speaker>HORACE</speaker>, à part.</hstage>
+<l>En quel trouble...</l>
+
+<h3 id="acte5sc08">SCÈNE VIII. — ENRIQUE, ORONTE, CHRYSALDE, HORACE, ARNOLPHE, GEORGETTE</h3>
+
+<hstage><speaker>GEORGETTE</speaker></hstage>
+<l cont="true">Monsieur, si vous n’êtes auprès,</l>
+<l>Nous aurons de la peine à retenir Agnès ;</l>
+<l>Elle veut à tous coups s’échapper, et peut-être</l>
+<l>Qu’elle se pourroit bien jeter par la fenêtre.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Faites-la moi venir ; aussi bien de ce pas.</l>
+<l>Prétends-je l’emmener.</l>
+<pstage>A Horace.</pstage>
+<l cont="true">Ne vous en fâchez pas ;</l>
+<pagenum num="440"/>
+<l>Un bonheur continu rendroit l’homme superbe ;</l>
+<l>Et chacun a son tour, comme dit le proverbe.</l>
+
+<hstage><speaker>HORACE</speaker>, à part.</hstage>
+<l>Quels maux peuvent, ô ciel ! égaler mes ennuis !</l>
+<l>Et s’est-on jamais vu dans l’abîme où je suis ?</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, à Oronte.</hstage>
+<l>Pressez vite le jour de la cérémonie ;</l>
+<l>J’y prends part, et déjà moi-même je m’en prie.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>C’est bien là mon dessein.</l>
+
+<h3 id="acte5sc09">SCÈNE IX. — AGNÈS, ORONTE, ENRIQUE, ARNOLPHE, HORACE, CHRYSALDE, ALAIN, GEORGETTE</h3>
+
+<hstage><speaker>ARNOLPHE</speaker>, à Agnès.</hstage>
+<l cont="true">Venez, belle, venez,</l>
+<l>Qu’on ne sauroit tenir, et qui vous mutinez.</l>
+<l>Voici votre galant, à qui, pour récompense,</l>
+<l>Vous pouvez faire une humble et douce révérence.</l>
+<l>Adieu.</l>
+<pstage>A Horace.</pstage>
+<l cont="true">L’événement trompe un peu vos souhaits ;</l>
+<l>Mais tous les amoureux ne sont pas satisfaits.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l>Me laissez-vous, Horace, emmener de la sorte ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l>Je ne sais où j’en suis, tant ma douleur est forte.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Allons, causeuse, allons.</l>
+
+<hstage><speaker>AGNÈS</speaker></hstage>
+<l cont="true">Je veux rester ici.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Dites-nous ce que c’est que ce mystère-ci.</l>
+<l>Nous nous regardons tous, sans le pouvoir comprendre.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Avec plus de loisir je pourrai vous l’apprendre.</l>
+<l>Jusqu’au revoir.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">Où donc prétendez-vous aller ?</l>
+<l>Vous ne nous parlez point pomme il nous faut parler.</l>
+
+<pagenum num="441"/>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Je vous ai conseillé, malgré tout son murmure,</l>
+<l>D’achever l’hyménée.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">Oui. Mais pour le conclure.</l>
+<l>Si l’on vous a dit tout, ne vous a-t-on pas dit</l>
+<l>Que vous avez chez vous celle dont il s’agit,</l>
+<l>La fille qu’autrefois, de l’aimable Angélique,</l>
+<l>Sous des liens secrets, eut le seigneur Enrique ?</l>
+<l>Sur quoi votre discours étoit-il donc fondé ?</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Je m’étonnois aussi de voir son procédé.</l>
+
+<hstage><speaker>ARNOLPHE</speaker></hstage>
+<l>Quoi !</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l cont="true">D’un hymen secret ma sœur eut une fille,</l>
+<l>Dont on cacha le sort à toute la famille.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Et qui, sous de feints noms, pour ne rien découvrir,</l>
+<l>Par son époux aux champs fut donnée à nourrir.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Et dans ce temps, le sort, lui déclarant la guerre,</l>
+<l>L’obligea de sortir de sa natale terre.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Et d’aller essuyer mille périls divers,</l>
+<l>Dans ces lieux séparés de nous par tant de mers.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Où ses soins ont gagné ce que dans sa patrie</l>
+<l>Avoient pu lui ravir l’imposture et l’envie.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Et, de retour en France, il a cherché d’abord</l>
+<l>Celle à qui de sa fille il confia le sort.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Et cette paysanne a dit avec franchise</l>
+<l>Qu’en vos mains à quatre ans elle l’avoit remise.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Et qu’elle l’avoit fait sur votre charité,</l>
+<l>Par un accablement d’extrême pauvreté.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>Et lui, plein de transport, et l’allégresse en l’âme,</l>
+<l>A fait jusqu’en ces lieux conduire cette femme.</l>
+
+<pagenum num="442"/>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Et vous allez enfin la voir venir ici,</l>
+<l>Pour rendre aux yeux de tous ce mystère éclairci<noteref noteid="note.442.1"/>.</l>
+
+<notes>
+  <note id="note.442.1">
+    <p>Voltaire qualifie avec raison ce dénouement de <i>postiche</i>. A quoi La Harpe, admettant la justesse de cette critique, répond : « Comme dans la comédie il ne s’agit ordinairement que d’un mariage en dernier résultat, divertissez pendant cinq actes et amenez le mariage comme il vous plaira le spectateur ne s’y rendra pas difficile.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CHRYSALDE</speaker>, à Arnolphe.</hstage>
+<l>Je devine à peu près quel est votre supplice ;</l>
+<l>Mais le sort en cela ne vous est que propice.</l>
+<l>Si n’être point cocu vous semble un si grand bien,</l>
+<l>Ne vous point marier en est le vrai moyen.</l>
+
+<hstage><speaker>ARNOLPHE</speaker>, s’en allant tout transporté, et ne pouvant parler.</hstage>
+<l>Ouf !</l>
+
+<h3 id="acte5sc10">SCÈNE X. — ENRIQUE, ORONTE, CHRYSALDE, AGNÈS, HORACE</h3>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">D’où vient qu’il s’enfuit sans rien dire ?</l>
+
+<hstage><speaker>HORACE</speaker></hstage>
+<l cont="true">Ah ! mon père,</l>
+<l>Vous saurez pleinement ce surprenant mystère.</l>
+<l>Le hasard en ces lieux avoit exécuté</l>
+<l>Ce que votre sagesse avoit prémédité.</l>
+<l>J’étois, par les doux nœuds d’une amour mutuelle,</l>
+<l>Engagé de parole avecque cette belle ;</l>
+<l>Et c’est elle, en un mot, que vous venez chercher,</l>
+<l>Et pour qui mon refus a pensé vous fâcher.</l>
+
+<hstage><speaker>ENRIQUE</speaker></hstage>
+<l>Je n’en ai point douté d’abord que je l’ai vue,</l>
+<l>Et mon âme depuis n’a cessé d’être émue.</l>
+<l>Ah ! ma fille, je cède à des transports si doux.</l>
+
+<hstage><speaker>CHRYSALDE</speaker></hstage>
+<l>J’en ferois de bon cœur, mon frère, autant que vous ;</l>
+<l>Mais ces lieux et cela ne s’accommodent guères.</l>
+<l>Allons dans la maison débrouiller ces mystères,</l>
+<l>Payer à notre ami ses soins officieux,</l>
+<l>Et rendre grâce au ciel, qui fait tout pour le mieux.</l>
+
+</page-sequence>
+</page-sequences>
+</bml>

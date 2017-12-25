@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5673633r"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000512"
+        creation="2017-07-03T14:11:53-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>La Comtesse d’Escarbagnas</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='34'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="Personnages"/>
+    <tocentry idref="p02" label="Scène I"/>
+    <tocentry idref="p03" label="Scène II"/>
+    <tocentry idref="p04" label="Scène III"/>
+    <tocentry idref="p05" label="Scène IV"/>
+    <tocentry idref="p06" label="Scène V"/>
+    <tocentry idref="p07" label="Scène VI"/>
+    <tocentry idref="p08" label="Scène VII"/>
+    <tocentry idref="p09" label="Scène VIII"/>
+    <tocentry idref="p10" label="Scène IX"/>
+    <tocentry idref="p11" label="Scène X"/>
+    <tocentry idref="p12" label="Scène XI"/>
+    <tocentry idref="p13" label="Scène XII"/>
+    <tocentry idref="p14" label="Scène XIII"/>
+    <tocentry idref="p15" label="Scène XIV"/>
+    <tocentry idref="p16" label="Scène XV"/>
+    <tocentry idref="p17" label="Scène XVI"/>
+    <tocentry idref="p18" label="Scène XVII"/>
+    <tocentry idref="p19" label="Scène XVIII"/>
+    <tocentry idref="p20" label="Scène XIX"/>
+    <tocentry idref="p21" label="Scène XX"/>
+    <tocentry idref="p22" label="Scène XXI"/>
+    <tocentry idref="p23" label="Scène XXII"/>
+  </toc>
+  
+  <cover src="images/couverture_3.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome troisième. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="335"/>
+
+<img src="images/frise10.png" class="center100" alt="frise"/>
+
+<h1>LA COMTESSE D’ESCARBAGNAS</h1>
+<h2>COMÉDIE</h2>
+<h2>1671</h2>
+
+<vsep class="rule"/>
+
+<h3 id="p01">PERSONNAGES</h3>
+
+<p class='sommaire'>LA COMTESSE D’ESCARBAGNAS.</p>
+<p class='sommaire'>LE COMTE, fils de la comtesse d’Escarbagnas.</p>
+<p class='sommaire'>LE VICOMTE, amant de Julie.</p>
+<p class='sommaire'>JULIE, amante du vicomte.</p>
+<p class='sommaire'>MONSIEUR TIBAUDIER, conseiller, amant de la comtesse.</p>
+<p class='sommaire'>MONSIEUR HARPIN, receveur des tailles, autre amant de la comtesse.</p>
+<p class='sommaire'>MONSIEUR BOBINET, précepteur de M. le comte.</p>
+<p class='sommaire'>ANDRÉE, suivante de la comtesse.</p>
+<p class='sommaire'>JEANNOT, laquais de monsieur Tibaudier.</p>
+<p class='sommaire'>CRIQUET, laquais de la comtesse.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est à Angoulême.</p>
+
+<vsep class="rule"/>
+
+<h3 id="p02">SCÈNE I. — JULIE, LE VICOMTE</h3>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Eh quoi, madame ! vous êtes déjà ici ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Oui. Vous en devriez rougir, Cléante ; et il n’est guère honnête à un amant de venir le dernier au rendez-vous.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Je serois ici il y a une heure, s’il n’y avoit point de fâcheux au monde ; et j’ai été arrêté en chemin par un vieux importun de qualité, qui m’a demandé tout exprès des nouvelles de la cour, pour trouver moyen de m’en dire des plus extravagantes qu’on puisse débiter ; et c’est là, comme vous savez, le fléau des petites villes, que ces grands nouvellistes qui cherchent <pagenum num="336"/>partout, où répandre les contes qu’ils ramassent. Celui-ci m’a montré d’abord deux feuilles de papier, pleines jusques aux bords d’un grand fatras de balivernes, qui viennent, m’a-t-il dit, de l’endroit le plus sûr du monde. Ensuite, comme d’une chose fort curieuse, il m’a fait avec grand mystère une fatigante lecture de toutes les méchantes plaisanteries de la gazette de Hollande, dont il épouse les intérêts. Il tient que la France est battue en ruine par la plume de cet écrivain, et qu’il ne faut que ce bel esprit pour défaire toutes nos troupes ; et de là s’est jeté à corps perdu dans le raisonnement du ministère, dont il remarque tous les défauts, et d’ou j’ai cru qu’il ne sortiroit point. A l’entendre parler, il sait les secrets du cabinet mieux que ceux qui les font. La politique de l’État lui laisse voir tous ses desseins ; et elle ne fait pas un pas dont il ne pénètre les intentions. Il nous apprend les ressorts cachés de tout ce qui se fait, nous découvre les vues de la prudence de nos voisins, et remue, à sa fantaisie, toutes les affaires de l’Europe. Ses intelligences même s’étendent jusques en Afrique et en Asie ; et il est informé de tout ce qui s’agite dans le conseil d’en haut du Prêtre-Jean<noteref noteid="note.336.1"/> et du grand Mogol.</p>
+
+<notes>
+  <note id="note.336.1">
+    <p>On appela d’abord <i>Prêtre-Jean</i> un prince tartare qui combattit Gengis. Des religieux envoyés près de lui prétendirent qu’iis l’avaient converti, l’avaient nommé Jean au baptême, et même lui avaient conféré le sacerdoce ; de là cette qualification de <i>Prêtre-Jean</i> qui est devenue depuis, on ne sait pourquoi, celle d’un prince nègre, moitié chrétien schismatique, et moitié juif. C’est de ce dernier qu’il est question ici. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Vous parez votre excuse du mieux que vous pouvez, afin de la rendre agréable, et faire qu’elle soit plus aisément reçue.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>C’est là, belle Julie, la véritable cause de mon retardement ; et, si je voulois y donner une excuse galante, je n’aurois qu’à vous dire que le rendez-vous que vous voulez prendre peut autoriser la paresse dont vous me querellez ; que m’engager à faire l’amant de la maîtresse du logis, c’est me mettre en état de craindre de me trouver ici le premier ; que, cette feinte où je me force n’étant que pour vous plaire, j’ai lieu de ne vouloir en souffrir la contrainte que devant les yeux qui s’en divertissent ; que j’évite le tête-à-tête avec cette comtesse ridicule dont vous m’embarrassez ; et, en un mot, que ne venant ici que pour vous, j’ai toutes les raisons du monde d’attendre que vous y soyez.</p>
+
+<pagenum num="337"/>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Nous savons bien que vous ne manquerez jamais d’esprit pour donner de belles couleurs aux fautes que vous pourrez faire. Cependant, si vous étiez venu une demi-heure plus tôt, nous aurions profité de tous ces moments ; car j’ai trouvé, en arrivant, que la comtesse étoit sortie, et je ne doute point qu’elle ne soit allée par la ville se faire honneur de la comédie que vous me donnez sous son nom.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Mais tout de bon, madame, quand voulez-vous mettre fin à cette contrainte et me faire moins acheter le bonheur de vous voir ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Quand nos parents pourront être d’accord ; ce que je n’ose espérer. Vous savez, comme moi, que les démêlés de nos deux familles ne nous permettent point de nous voir autre part, et que mes frères, non plus que votre père, ne sont pas assez raisonnables pour souffrir notre attachement.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Mais pourquoi ne pas mieux jouir du rendez-vous que leur inimitié nous laisse, et me contraindre à perdre en une sotte feinte les moments que j’ai près de vous ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Pour mieux cacher notre amour ; et puis, à vous dire la vérité, cette feinte dont vous parlez m’est une comédie fort agréable ; et je ne sais si celle que vous nous donnez aujourd’hui me divertira davantage. Notre comtesse d’Escarbagnas, avec son perpétuel entêtement de qualité, est un aussi bon personnage qu’on en puisse mettre sur le théâtre. Le petit voyage qu’elle a fait à Paris l’a ramenée dans Angoulême plus achevée qu’elle n’étoit. L’approche de l’air de la cour a donné à son ridicule de nouveaux agréments, et sa sottise tous les jours ne fait que croître et embellir.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Oui ; mais vous ne considérez pas que le jeu qui vous divertit tient mon cœur au supplice, et qu’on n’est point capable de se jouer longtemps, lorsqu’on a dans l’esprit une passion aussi sérieuse que celle que je sens pour vous. Il est cruel, belle Julie, que cet amusement dérobe à mon amour un temps qu’il voudroit employer à vous expliquer son ardeur ; et, cette nuit, j’ai fait là-dessus quelques vers, que je ne puis m’empêcher de vous réciter sans que vous me le demandiez, <pagenum num="338"/>tant la démangeaison de dire ses ouvrages est un vice attaché à la qualité de poète !</p>
+
+<blockquote>
+<poem>
+<l>C’est trop longtemps, Iris, me mettre à la torture ;</l>
+</poem>
+</blockquote>
+
+<p>Iris, comme vous le voyez, est mis là pour Julie.</p>
+
+<blockquote>
+<poem>
+<l>C’est trop longtemps, Iris, me mettre à la torture,</l>
+<l>Et, si je suis vos lois, je les blâme tout bas</l>
+<l>De me forcer à taire un tourment que j’endure,</l>
+<l>Pour déclarer un mal que je ne ressens pas.</l>
+<l>Faut-il que vos beaux yeux, à qui je rends les armes,</l>
+<l>Veuillent se divertir de mes tristes soupirs ?</l>
+<l>Et n’est-ce pas assez de souffrir pour vos charmes.</l>
+<l>Sans me faire souffrir encor pour vos plaisirs ?</l>
+<l>C’en est trop à la fois que ce double martyre ;</l>
+<l>Et ce qu’il me faut taire et ce qu’il me faut dire</l>
+<l>Exerce sur mon cœur pareille cruauté.</l>
+<l>L’amour le met en feu, la contrainte le tue.</l>
+<l>Et, si par la pitié vous n’êtes combattue,</l>
+<l>Je meurs et de la feinte et de la vérité<noteref noteid="note.338.1"/>.</l>
+</poem>
+</blockquote>
+
+<notes>
+  <note id="note.338.1">
+    <p>C’est là un sonnet à l’italienne, plein de <i>concetti ;</i> mais le tour en est facile et agréable. Du reste, Cléante, qui ne se pique pas d’être poète, ne lit ses vers à sa maîtresse, pour qui ils ont été faits, qu’en se moquant lui-même de son empressement à les lui réciter. (A.)</p>
+  </note>
+</notes>
+
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je vois que vous vous faites là bien plus maltraité que vous n’êtes ; mais c’est une licence que prennent messieurs les poètes, de mentir de gaieté de cœur et de donner à leurs maîtresses des cruautés qu’elles n’ont pas, pour s’accommoder aux pensées qui leur peuvent venir. Cependant je serai bien aise que vous me donniez ces vers par écrit.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>C’est assez de vous les avoir dits, et je dois en demeurer là. Il est permis d’être parfois assez fou pour faire des vers, mais non pour vouloir qu’ils soient vus.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>C’est en vain que vous vous retranchez sur une fausse modestie ; on sait dans le monde que vous avez de l’esprit ; et je ne vois pas la raison qui vous oblige à cacher les vôtres.</p>
+
+<pagenum num="339"/>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Mon Dieu ! madame, marchons là-dessus, s’il vous plaît, avec beaucoup de retenue ; il est dangereux dans le monde de se mêler d’avoir de l’esprit. Il y a là dedans un certain ridicule qu’il est facile d’attraper, et nous avons de nos amis qui me font craindre leur exemple.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Mon Dieu ! Cléante, vous avez beau dire ; je vois avec tout cela que vous mourez d’envie de me les donner ; et je vous embarrasserois, si je faisois semblant de ne m’en pas soucier.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Moi, madame ? vous vous moquez ; et je ne suis pas si poète que vous pourriez bien croire, pour... Mais voici votre madame la comtesse d’Escarbagnas. Je sors par l’autre porte pour ne la point trouver et vais disposer tout mon monde au divertissement que je vous ai promis<noteref noteid="note.339.1"/>.</p>
+
+<notes>
+  <note id="note.339.1">
+    <p>Cette scène nous apprend qu’on va se moquer et que nous allons rire d’une comtesse provinciale, sottement entêtée de sa qualité et des grands airs qu’elle croit avoir rapportés de Paris : c’est là toute l’exposition possible d’une pièce qui ne doit pas avoir un autre sujet. (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p03">SCÈNE II. — LA COMTESSE, JULIE ; ANDRÉE <i>et</i> CRIQUET, <i>dans le fond du théâtre.</i></h3>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Ah ! mon Dieu ! madame, vous voilà toute seule ? Quelle pitié est-ce là ? Toute seule ! Il me semble que mes gens m’avoient dit que le vicomte étoit ici.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Il est vrai qu’il y est venu ; mais c’est assez pour lui de savoir que vous n’y étiez pas, pour l’obliger à sortir.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Comment ! il vous a vue ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Et il ne vous a rien dit ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Non, madame ; et il a voulu témoigner par là qu’il est tout entier à vos charmes.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Vraiment, je le veux quereller de cette action. Quelque amour que l’on ait pour moi, j’aime que ceux qui m’aiment rendent ce qu’ils doivent au sexe ; et je ne suis point de <pagenum num="340" b="l’hu-" a="meur">l’humeur</pagenum> de ces femmes injustes qui s’applaudissent des incivilités que leurs amants font aux autres belles.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Il ne faut point, madame, que vous soyez surprise de son procédé. L’amour que vous lui donnez éclate dans toutes ses actions, et l’empêche d’avoir des yeux que pour vous.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Je crois être en état de pouvoir faire naître une passion assez forte, et je me trouve pour cela assez de beauté, de jeunesse et de qualité. Dieu merci ; mais cela n’empêche pas qu’avec ce que j’inspire on ne puisse garder de l’honnêteté et de la complaisance pour les autres. <stage>Apercevant Criquet.</stage> Que faites-vous donc là, laquais ? Est-ce qu’il n’y a pas une antichambre où se tenir, pour venir quand on vous appelle ? Cela est étrange, qu’on ne puisse avoir en province un laquais qui sache son monde ! A qui est-ce donc que je parle ? Voulez-vous vous en aller là dehors, petit fripon !</p>
+
+<h3 id="p04">SCÈNE III. — LA COMTESSE, JULIE, ANDRÉE</h3>
+
+<hstage><speaker>LA COMTESSE</speaker>, à Andrée.</hstage>
+<p>Fille, approchez.</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Que vous plaît-il, madame ?</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Otez-moi mes coiffes. Doucement donc, maladroite : comme vous me saboulez la tête avec vos mains pesantes !</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Je fais, madame, le plus doucement que je puis.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Oui ; mais le plus doucement que vous pouvez est fort rudement pour ma tête, et vous me l’avez déboîtée. Tenez encore ce manchon ; ne laissez point traîner tout cela, et portez-le dans ma garde-robe. Eh bien ! où va-t-elle ? où va-t-elle ? Que veut-elle faire, cet oison bridé ?</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Je veux, madame, comme vous m’avez dit, porter cela aux garde-robes.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Ah ! mon Dieu, l’impertinente ! <stage>A Julie.</stage> Je vous demande pardon, madame. <stage>A Andrée.</stage> Je vous ai dit ma garde-robe, grosse bête, c’est-à-dire où sont mes habits.</p>
+
+<pagenum num="341"/>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Est-ce, madame, qu’à la cour une armoire s’appelle une garde-robe ?</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Oui, butorde ! on appelle ainsi le lieu où l’on met les habits.</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Je m’en ressouviendrai, madame, aussi bien que de votre grenier, qu’il faut appeler garde-meuble.</p>
+
+<h3 id="p05">SCÈNE IV. — LA COMTESSE, JULIE</h3>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Quelle peine il faut prendre pour instruire ces animaux-là !</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je les trouve bien heureux, madame, d’être sous votre discipline.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>C’est une fille de ma mère nourrice que j’ai mise à la chambre, et elle est toute neuve encore.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Cela est d’une belle âme, madame ; et il est glorieux de faire ainsi des créatures.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Allons, des sièges. Holà ! laquais, laquais, laquais ! En vérité, voilà qui est violent, de ne pouvoir avoir un laquais pour donner des sièges ! Filles, laquais, laquais, filles, quelqu’un ! Je pense que tous mes gens sont morts, et que nous serons contraintes de nous donner des sièges nous-mêmes.</p>
+
+<h3 id="p06">SCÈNE V. — LA COMTESSE, JULIE, ANDRÉE</h3>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Que voulez-vous, madame ?</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Il se faut bien égosiller avec vous autres !</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>J’enfermois votre manchon et vos coiffes dans votre armoi... dis-je, dans votre garde-robe.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Appelez-moi ce petit fripon de laquais.</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Holà ! Criquet !</p>
+
+<pagenum num="342"/>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Laissez là votre Criquet, bouvière ! et appelez : Laquais !</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Laquais donc, et non pas Criquet, venez parler à madame. Je pense qu’il est sourd. Criq... Laquais, laquais !</p>
+
+<h3 id="p07">SCÈNE VI. — LA COMTESSE, JULIE, ANDRÉE, CRIQUET</h3>
+
+<hstage><speaker>CRIQUET</speaker></hstage>
+<p>Plaît-il ?</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Où étiez-vous donc, petit coquin ?</p>
+
+<hstage><speaker>CRIQUET</speaker></hstage>
+<p>Dans la rue, madame.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Et pourquoi dans la rue ?</p>
+
+<hstage><speaker>CRIQUET</speaker></hstage>
+<p>Vous m’avez dit d’aller là dehors.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Vous êtes un petit impertinent, mon ami ; et vous devez savoir que là dehors, en termes de personnes de qualité, veut dire l’antichambre. Andrée, ayez soin tantôt de faire donner le fouet à ce petit fripon-là par mon écuyer ; c’est un petit incorrigible.</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Qu’est-ce que c’est, madame, que votre écuyer ? Est-ce maître Charles que vous appelez comme cela ?</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Taisez-vous, sotte que vous êtes ! vous ne sauriez ouvrir la bouche que vous ne disiez une impertinence ! <stage>A Criquet.</stage> Des sièges. <stage>A Andrée.</stage> Et vous, allumez deux bougies dans mes flambeaux d’argent : il se fait déjà tard. Qu’est-ce que c’est donc, que vous me regardez tout effarée ?</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Madame...</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Eh bien, madame... Qu’y a-t-il ?</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>C’est que...</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Quoi ?</p>
+
+<pagenum num="343"/>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>C’est que je n’ai point de bougie.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Comment ! Vous n’en avez point ?</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Non, madame, si ce n’est des bougies de suif.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>La bouvière ! Et où est donc la cire que je fis acheter ces jours passés ?</p>
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Je n’en ai point vu depuis que je suis céans.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Otez-vous de là, insolente ! Je vous renverrai chez vos parents. Apportez-moi un verre d’eau.</p>
+
+<h3 id="p08">SCÈNE VII. — LA COMTESSE <i>et</i> JULIE, <i>faisant des cérémonies pour s’asseoir</i>.</h3>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Madame !</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Madame !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Ah ! madame !</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Ah ! madame !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Mon Dieu ! madame !</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Mon Dieu ! madame !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Oh ! madame !</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Oh ! madame !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Eh ! madame !</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Eh ! madame !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Eh ! allons donc, madame !</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Eh ! allons donc, madame !</p>
+
+<pagenum num="344"/>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Je suis chez moi, madame. Nous sommes demeurées d’accord de cela. Me prenez-vous pour une provinciale, madame ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Dieu m’en garde ! madame !</p>
+
+<h3 id="p09">SCÈNE VIII. — LA COMTESSE, JULIE ; ANDRÉE, <i>apportant un verre d’eau ;</i> CRIQUET</h3>
+
+<hstage><speaker>LA COMTESSE</speaker>, à Andrée.</hstage>
+<p>Allez, impertinente : je bois avec une soucoupe. Je vous dis que vous m’alliez quérir une soucoupe pour boire.</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Criquet, qu’est-ce que c’est qu’une soucoupe ?</p>
+
+<hstage><speaker>CRIQUET</speaker></hstage>
+<p>Une soucoupe ?</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>CRIQUET</speaker></hstage>
+<p>Je ne sais.</p>
+
+<hstage><speaker>LA COMTESSE</speaker>, à Andrée.</hstage>
+<p>Vous ne vous grouillez pas<noteref noteid="note.344.1"/> ?</p>
+
+<notes>
+  <note id="note.344.1">
+    <p>Le mot <i>grouiller</i> est devenu trivial et grossier ; mais il était alors dans la bonne compagnie. (A. H.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Nous ne savons tous deux, madame, ce que c’est qu’une soucoupe.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Apprenez que c’est une assiette sur laquelle on met le verre.</p>
+
+<h3 id="p10">SCÈNE IX. — LA COMTESSE, JULIE</h3>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Vive Paris pour être bien servie ! On vous entend là au moindre coup d’œil.</p>
+
+<h3 id="p11">SCÈNE X. — LA COMTESSE, JULIE ; ANDRÉE, <i>apportant un verre d’eau avec une assiette dessus ;</i> CRIQUET</h3>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Eh bien ! vous ai-je dit comme cela, tête de bœuf ? C’est dessous qu’il faut mettre l’assiette.</p>
+
+<pagenum num="345"/>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Cela est bien aisé. <stage>Andrée casse le verre en le posant sur l’assiette.</stage></p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Eh bien, ne voilà pas l’étourdie ! En vérité, vous me payerez mon verre.</p>
+
+<hstage><speaker>ANDRÉE</speaker></hstage>
+<p>Eh bien, oui, madame, je le payerai.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Mais voyez cette maladroite ! cette bouvière ! cette butorde ! cette...</p>
+
+<hstage><speaker>ANDRÉE</speaker>, s’en allant.</hstage>
+<p>Dame ! madame, si je le paye, je ne veux point être querellée.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Otez-vous de devant mes yeux !</p>
+
+<h3 id="p12">SCÈNE XI. — LA COMTESSE, JULIE</h3>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>En vérité, madame, c’est une chose étrange que les petites villes ! On n’y sait point du tout son monde ; et je viens de faire deux ou trois visites, où ils ont pensé me désespérer par le peu de respect qu’ils rendent à ma qualité.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Où auroient-ils appris à vivre ? Ils n’ont point fait de voyage à Paris.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Ils ne laisseroient pas de l’apprendre, s’ils vouloient écouter les personnes ; mais le mal que j’y trouve, c’est qu’ils veulent en savoir autant que moi, qui ai été deux mois à Paris et ai vu toute la cour.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Les sottes gens que voilà !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Ils sont insupportables, avec les impertinentes égalités dont ils traitent les gens. Car, enfin, il faut qu’il y ait de la subordination dans les choses ; et ce qui me met hors de moi, c’est qu’un gentilhomme de ville de deux jours, ou de deux cents ans, aura l’effronterie de dire qu’il est aussi bien gentilhomme que feu monsieur mon mari, qui demeuroit à la campagne, qui avoit meute de chiens courants, et qui prenoit la qualité de comte dans tous les contrats qu’il passoit.</p>
+
+<pagenum num="346"/>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>On sait bien mieux vivre à Paris, dans ces hôtels dont la mémoire doit être si cbère. Cet hôtel de Mouhy, madame, cet hôtel de Lyon, cet hôtel de Hollande, les agréables demeures que voilà<noteref noteid="note.346.1"/> !</p>
+
+<notes>
+  <note id="note.346.1">
+    <p>Ces hôtels, dont la railleuse Julie fait sonner si haut les noms, n’étaient que des hôtels garnis, des auberges. (A.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Il est vrai qu’il y a bien de la différence de ces lieux-là à tout ceci. On y voit venir du beau monde, qui ne marchande point à vous rendre tous les respects qu’on sauroit souhaiter. On ne s’en lève pas, si l’on veut, de dessus son siège ; et, lorsque l’on veut voir la revue, ou le grand ballet de <i>Psyché</i>, on est servie à point nommé.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je pense, madame, que, durant votre séjour à Paris, vous avez bien fait des conquêtes de qualité.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Vous pouvez bien croire, madame, que tout ce qui s’appelle les galants de la cour n’a pas manqué de venir à ma porte et de m’en conter ; et je garde dans ma cassette de leurs billets, qui peuvent faire voir quelles propositions j’ai refusées ; il n’est pas nécessaire de vous dire leurs noms : on sait ce qu’on veut dire par galants de la cour.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je m’étonne madame, que de tous ces grands noms, que je devine, vous ayez pu redescendre à un monsieur Tibaudier, le conseiller, et à un monsieur Harpin, le receveur des tailles. La chute est grande, je vous l’avoue : car, pour monsieur votre vicomte, quoique vicomte de province, c’est toujours un vicomte, et il peut faire un voyage à Paris, s’il n’en a point fait ; mais un conseiller et un receveur sont des amants un peu bien minces pour une grande comtesse comme vous.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Ce sont gens qu’on ménage dans les provinces pour les besoins qu’on en peut avoir ; ils servent au moins à remplir les vides de la galanterie, à faire nombre de soupirants ; et il est bon, madame, de ne pas laisser un amant seul maître du terrain, de peur que, faute de rivaux, son amour ne s’endorme sur trop de confiance.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je vous avoue, madame, qu’il y a merveilleusement à <pagenum num="347" b="pro-" a="fiter">profiter</pagenum> de tout ce que vous dites ; c’est une école que votre conversation, et j’y viens tous les jours attraper quelque chose.</p>
+
+<h3 id="p13">SCÈNE XII. — LA COMTESSE, JULIE, ANDRÉE, CRIQUET</h3>
+
+<hstage><speaker>CRIQUET</speaker>, à la comtesse.</hstage>
+<p>Voilà Jeannot, de monsieur le conseiller, qui vous demande, madame.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Eh bien ! petit coquin, voilà encore de vos âneries ! Un laquais qui sauroit vivre auroit été parler tout bas à la demoiselle suivante, qui seroit venue dire doucement à l’oreille de sa maîtresse : Madame, voilà le laquais de monsieur un tel qui demande à vous dire un mot ; à quoi la maîtresse auroit répondu : Faites-le entrer.</p>
+
+<h3 id="p14">SCÈNE XIII. — LA COMTESSE, JULIE, ANDRÉE, CRIQUET, JEANNOT</h3>
+
+<hstage><speaker>CRIQUET</speaker></hstage>
+<p>Entrez, Jeannot.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Autre lourderie ! <stage>A Jeannot.</stage> Qu’y a-t-il, laquais ? que portes-tu là ?</p>
+
+<hstage><speaker>JEANNOT</speaker></hstage>
+<p>C’est monsieur le conseiller, madame, qui vous souhaite le bonjour et, auparavant que de venir, vous envoie des poires de son jardin, avec ce petit mot d’écrit.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>C’est du bon-chrétien, qui est fort beau. Andrée, faites porter cela à l’office.</p>
+
+<h3 id="p15">SCÈNE XIV. — LA COMTESSE, JULIE, CRIQUET, JEANNOT</h3>
+
+<hstage><speaker>LA COMTESSE</speaker>, donnant de l’argent à Jeannot.</hstage>
+<p>Tiens, mon enfant, voilà pour boire.</p>
+
+<hstage><speaker>JEANNOT</speaker></hstage>
+<p>Oh ! non, madame.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Tiens, te dis-je.</p>
+
+<hstage><speaker>JEANNOT</speaker></hstage>
+<p>Mon maître m’a défendu, madame, de rien prendre de vous.</p>
+
+<pagenum num="348"/>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Cela ne fait rien.</p>
+
+<hstage><speaker>JEANNOT</speaker></hstage>
+<p>Pardonnez-moi, madame.</p>
+
+<hstage><speaker>CRIQUET</speaker></hstage>
+<p>Eh ! prenez, Jeannot. Si vous n’en voulez pas, vous me le baillerez.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Dis à ton maître que je le remercie.</p>
+
+<hstage><speaker>CRIQUET</speaker>, à Jeannot, qui s’en va.</hstage>
+<p>Donne-moi donc cela.</p>
+
+<hstage><speaker>JEANNOT</speaker></hstage>
+<p>Oui. Quelque sot !</p>
+
+<hstage><speaker>CRIQUET</speaker></hstage>
+<p>C’est moi qui te l’ai fait prendre.</p>
+
+<hstage><speaker>JEANNOT</speaker></hstage>
+<p>Je l’aurois bien pris sans toi.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Ce qui me plaît de ce monsieur Tibaudier, c’est qu’il sait vivre avec les personnes de ma qualité, et qu’il est fort respectueux.</p>
+
+<h3 id="p16">SCÈNE XV. — LE VICOMTE, LA COMTESSE, JULIE, CRIQUET</h3>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Madame, je viens vous avertir que la comédie sera bientôt prête et que, dans un quart d’heure, nous pouvons passer dans la salle.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Je ne veux point de cohue, au moins. <stage>A Criquet.</stage> Que l’on dise à mon suisse qu’il ne laisse entrer personne.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>En ce cas, madame, je vous déclare que je renonce à la comédie ; et je n’y saurois prendre de plaisir, lorsque la compagnie n’est pas nombreuse. Croyez-moi, si vous voulez vous bien divertir, qu’on dise à vos gens de laisser entrer toute la ville.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Laquais, un siège. <stage>Au vicomte, après qu’il s’est assis.</stage> Vous voilà venu à propos pour recevoir un petit sacrifice que je veux bien vous faire. Tenez, c’est un billet de monsieur <pagenum num="349" b="Tibau-" a="dier">Tibaudier</pagenum> qui m’envoie des poires. Je vous donne la liberté de le lire tout haut ; je ne l’ai point encore vu.</p>
+
+<hstage><speaker>LE VICOMTE</speaker>, après avoir lu tout bas le billet.</hstage>
+<p>Voici un billet du beau style, madame, et qui mérite d’être bien écouté. « Madame, je n’aurois pas pu vous faire le présent que je vous envoie, si je ne recueillois pas plus de fruit de mon jardin que j’en recueille de mon amour. »</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Cela vous marque clairement qu’il ne se passe rien entre nous.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>« Les poires ne sont pas encore bien mûres ; mais elles en cadrent mieux avec la dureté de votre âme, qui, par ses continuels dédains, ne me promet pas poires molles. Trouvez bon, madame, que, sans m’engager dans une énumération de vos perfections et charmes, qui me jetteroit dans un progrès à l’infini, je conclue ce mot, en vous faisant considérer que je suis d’un aussi franc chrétien que les poires que je vous envoie, puisque je rends le bien pour le mal ; c’est-à-dire, madame, pour m’expliquer plus intelligiblement, puisque je vous présente des poires de bon-chrétien pour des poires d’angoisse, que vos cruautés me font avaler tous les jours.</p>
+
+<signature>« T<s>IBAUDIER</s>, votre esclave indigne. »</signature>
+<p>Voilà, madame, un billet à garder.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Il y a peut-être quelque mot qui n’est pas de l’Académie ; mais j’y remarque un certain respect qui me plaît beaucoup.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Vous avez raison, madame ; et, monsieur le vicomte, dût-il s’en offenser, j’aimerois un homme qui m’écriroit comme cela.</p>
+
+<h3 id="p17">SCÈNE XVI. — MONSIEUR TIBAUDIER, LE VICOMTE, LA COMTESSE, JULIE, CRIQUET</h3>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Approchez, monsieur Tibaudier ; ne craignez point d’entrer. Votre billet a été bien reçu, aussi bien que vos poires ; et voilà madame qui parle pour vous contre votre rival.</p>
+
+<hstage><speaker>MONSIEUR TIBAUDIER</speaker></hstage>
+<p>Je lui suis obligé, madame ; et, si elle a jamais quelque <pagenum num="350" b="pro-" a="cès">procès</pagenum> en notre siège, elle verra que je n’oublierai pas l’honneur qu’elle me fait, de se rendre auprès de vos beautés l’avocat de ma flamme.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Vous n’avez pas besoin d’avocat, monsieur, et votre cause est juste.</p>
+
+<hstage><speaker>MONSIEUR TIBAUDIER</speaker></hstage>
+<p>Ce néanmoins, madame, bon droit a besoin d’aide : et j’ai sujet d’appréhender de me voir supplanté par un tel rival, et que madame ne soit circonvenue par la qualité de vicomte.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>J’espérois quelque chose, monsieur Tibaudier, avant votre billet ; mais il me fait craindre pour mon amour.</p>
+
+<hstage><speaker>MONSIEUR TIBAUDIER</speaker></hstage>
+<p>Voici encore, madame, deux petits versets ou couplets que j’ai composés à votre honneur et gloire.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Ah ! je ne pensois pas que monsieur Tibaudier fût poète ; et voilà pour m’achever, que ces deux petits versets-là !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Il veut dire deux strophes. <stage>A Criquet.</stage> Laquais, donnez un siège à monsieur Tibaudier. <stage>Bas, à Criquet, qui apporte une chaise.</stage> Un pliant, petit animal<noteref noteid="note.350.1"/> ! Monsieur Tibaudier mettez-vous là, et nous lisez vos strophes.</p>
+
+<notes>
+  <note id="note.350.1">
+    <p>La différence des sièges, tels que fauteuils, chaises sans bras, pliants, tabourets était à la cour une manière de marquer graduellement le rang des personnes. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MONSIEUR TIBAUDIER</speaker></hstage>
+<poem>
+<l indent='c'>Une personne de qualité</l>
+<l indent='c'>Ravit mon âme.</l>
+<l indent='c'>Elle a de la beauté,</l>
+<l indent='c'>J’ai de la flamme ;</l>
+<l indent='c'>Mais je la blâme</l>
+<l indent='c'>D’avoir de la fierté<noteref noteid="note.350.2"/>.</l>
+</poem>
+
+<notes>
+  <note id="note.350.2">
+    <p>Les vers de monsieur Tibaudier sont de la même école que ceux de Turcaret. Le Sage, dans la peinture de ce personnage, s’est sans aucun doute rappelé Molière. (A.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Je suis perdu après cela.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Le premier vers est beau. « Une personne de qualité. »</p>
+
+<pagenum num="351"/>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je crois qu’il est un peu trop long ; mais on peut prendre une licence pour dire une belle pensée.</p>
+
+<hstage><speaker>LA COMTESSE</speaker>, à monsieur Tibaudier.</hstage>
+<p>Voyons l’autre strophe.</p>
+
+<hstage><speaker>MONSIEUR TIBAUDIER</speaker></hstage>
+<poem>
+<l indent='c'>Je ne sais pas si vous doutez de mon parfait amour,</l>
+<l indent='c'>Mais je sais bien que mon cœur, à toute heure,</l>
+<l indent='c'>Veut quitter sa chagrine demeure,</l>
+<l indent='c'>Pour aller, par respect, faire au vôtre sa cour.</l>
+<l indent='c'>Après cela pourtant, sûre de ma tendresse.</l>
+<l indent='c'>Et de ma foi, dont unique est l’espèce.</l>
+<l indent='c'>Vous devriez à votre tour,</l>
+<l indent='c'>Vous contentant d’être comtesse,</l>
+<l indent='c'>Vous dépouiller en ma faveur d’une peau de tigresse,</l>
+<l indent='c'>Qui couvre vos appas la nuit comme le jour.</l>
+</poem>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Me voilà supplanté, moi, par monsieur Tibaudier.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Ne pensez pas vous moquer ; pour des vers faits dans la province, ces vers-là sont fort beaux.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Comment ! madame, me moquer ? Quoique son rival, je trouve ces vers admirables, et ne les appelle pas seulement deux strophes, comme vous, mais deux épigrammes, aussi bonnes que toutes celles de Martial.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Quoi ! Martial fait-il des vers ? Je pensois qu’il ne fît que des gants<noteref noteid="note.351.1"/>.</p>
+
+<notes>
+  <note id="note.351.1">
+    <p>Ce <i>Martial, qui ne faisait point de vers</i>, était un valet de chambre de Monsieur, qui tenait à Paris une boutique de parfumerie et de ganterie fort achalandée.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MONSIEUR TIBAUDIER</speaker></hstage>
+<p>Ce n’est pas ce Martial-là, madame ; c’est un auteur qui vivoit il y a trente ou quarante ans.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Monsieur Tibaudier a lu les auteurs, comme vous le voyez. Mais allons voir, madame, si ma musique et ma comédie, avec mes entrées de ballet, pourront combattre dans votre esprit les progrès des deux strophes et du billet que nous venons de voir.</p>
+
+<pagenum num="352"/>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Il faut que mon fils le comte soit de la partie ; car il est arrivé ce matin de mon château, avec son précepteur, que je vois là dedans.</p>
+
+<h3 id="p18">SCÈNE XVII. — LA COMTESSE, JULIE, LE VICOMTE, MONSIEUR TIBAUDIER, MONSIEUR BOBINET, CRIQUET.</h3>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Holà ! monsieur Bobinet, monsieur Bobinet ! approchez-vous du monde.</p>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>Je donne le bon vespre<noteref noteid="note.352.1"/> à toute l’honorable compagnie. Que désire madame la comtesse d’Escarbagnas de son très humble serviteur Bobinet ?</p>
+
+<notes>
+  <note id="note.352.1">
+    <p>Le bonsoir.</p>
+  </note>
+</notes>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>A quelle heure, monsieur Bobinet, êtes-vous parti d’Escarbagnas avec mon fils le comte ?</p>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>A huit heures trois quarts, madame, comme votre commandement me l’avoit ordonné.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Comment se portent mes deux autres fils, le marquis et le commandeur ?</p>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>Ils sont, Dieu grâce, madame, en parfaite santé.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Où est le comte ?</p>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>Dans votre belle chambre à alcôve, madame.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Que fait-il, monsieur Bobinet ?</p>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>Il compose un thème, madame, que je viens de lui dicter sur une épître de Cicéron.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Faites-le venir, monsieur Bobinet.</p>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>Soit fait, madame, ainsi que vous le commandez.</p>
+
+<pagenum num="353"/>
+
+<h3 id="p19">SCÈNE XVIII. — LA COMTESSE, JULIE, LE VICOMTE, MONSIEUR TIBAUDIER</h3>
+
+<hstage><speaker>LE VICOMTE</speaker>, à la comtesse.</hstage>
+<p>Ce monsieur Bobinet, madame, a la mine fort sage ; et je crois qu’il a de l’esprit.</p>
+
+<h3 id="p20">SCÈNE XIX. — LA COMTESSE, JULIE, LE VICOMTE, LE COMTE, MONSIEUR BOBINET, MONSIEUR TIBAUDIER</h3>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>Allons, monsieur le comte, faites voir que vous profitez des bons documents qu’on vous donne. La révérence à toute l’honnête assemblée.</p>
+
+<hstage><speaker>LA COMTESSE</speaker>, montrant Julie.</hstage>
+<p>Comte, saluez madame ; faites la révérence à monsieur le vicomte ; saluez monsieur le conseiller.</p>
+
+<hstage><speaker>MONSIEUR TIBAUDIER</speaker></hstage>
+<p>Je suis ravi, madame, que vous me concédiez la grâce d’embrasser monsieur le comte votre fils. On ne peut pas aimer le tronc, qu’on n’aime aussi les branches.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Mon Dieu ! monsieur Tibaudier, de quelle comparaison vous servez-vous là ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>En vérité, madame, monsieur le comte a tout à fait bon air.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Voilà un jeune gentilhomme qui vient bien dans le monde.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Qui diroit que madame eût un si grand enfant ?</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Hélas ! quand je le fis, j’étois si jeune, que je me jouois encore avec une poupée.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>C’est monsieur votre frère, et non pas monsieur votre fils.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Monsieur Bobinet, ayez bien soin au moins de son éducation.</p>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>Madame, je n’oublierai aucune chose pour cultiver cette jeune plante, dont vos bontés m’ont fait l’honneur de me <pagenum num="354"/>confier la conduite ; et je tâcherai de lui inculquer les semences de la vertu.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Monsieur Bobinet, faites-lui un peu dire quelque petite galanterie de ce que vous lui apprenez.</p>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>Allons, monsieur le comte, récitez votre leçon d’hier au matin.</p>
+
+<hstage><speaker>LE COMTE</speaker></hstage>
+<poem>
+<l><i>Omne viro soli quod convertit esto virile,</i></l>
+<l><i>Omne viri...</i></l>
+</poem>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Fi ! monsieur Bobinet ; quelles sottises est-ce que vous lui apprenez là<noteref noteid="note.354.1"/> ?</p>
+
+<notes>
+  <note id="note.354.1">
+    <p>On croit que cette scène fut inspirée à Molière par une scène à peu près semblable qui s’étaît passée chez madame de Villarceaux, dont le mari avait la réputation de s’être fait aimer de Ninon. Un jour, madame de Villarceaux, voulant faire admirer son fils à une nombreuse compagnie qui se trouvait chez elle, le fit interroger par son précepteur. « Allons, monsieur le marquis, dit le grave pédagogue : <i>quem habuit successorem Belus, rex Assyriorum ? — Ninum, </i> » répondit le jeune marquis. Madame de Villarceaux, frappée de ce dernier mot : « Voilà, dit-elle, de belles instructions que vous donnez à mon fils! N’y a-t-il donc rien à lui apprendre que les folies de son père ? » Le précepteur eut beau lui assurer qu’il n’y entendait point malice, rien ne fut capable de lui faire entendre raison. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>C’est du latin, madame, et la première règle de Jean Despautère.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Mon Dieu ! ce Jean Despautère-là est un insolent, et je vous prie de lui enseigner du latin plus honnête que celui-là.</p>
+
+<hstage><speaker>MONSIEUR BOBINET</speaker></hstage>
+<p>Si vous voulez, madame, qu’il achève, la glose expliquera ce que cela veut dire.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Non, non : cela s’explique assez.</p>
+
+<h3 id="p21">SCÈNE XX. — LA COMTESSE, JULIE, LE VICOMTE, MONSIEUR TIBAUDIER, LE COMTE, MONSIEUR BOBINET, CRIQUET.</h3>
+
+<hstage><speaker>CRIQUET</speaker></hstage>
+<p>Les comédiens envoient dire qu’ils sont tout prêts.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Allons nous placer. <stage>Montrant Julie.</stage> Monsieur Tibaudier, prenez madame. <stage>Criquet range tous les sièges sur un des côtés <pagenum num="355"/>du théâtre ; la comtesse, Julie et le vicomte s’asseyent ; monsieur Tibaudier s’assied aux pieds de la comtesse.</stage></p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Il est nécessaire de dire que cette comédie n’a été faite que pour lier ensemble les différents morceaux de musique et de danse dont on a voulu composer ce divertissement, et que...</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Mon Dieu ! voyons l’affaire. On a assez d’esprit pour comprendre les choses.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Qu’on commence le plus tôt qu’on pourra, et qu’on empêche, s’il se peut, qu’aucun fâcheux ne vienne troubler notre divertissement. <stage>Les violons commencent une ouverture.</stage></p>
+
+<h3 id="p22">SCÈNE XXI. — LA COMTESSE, JULIE, LE VICOMTE, LE COMTE, MONSIEUR HARPIN, MONSIEUR TIBAUDIER, MONSIEUR BOBINET, CRIQUET.</h3>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>Parbleu ! la chose est belle, et je me réjouis de voir ce que je vois !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Holà ! monsieur le receveur, que voulez-vous donc dire avec l’action que vous faites ? Vient-on interrompre, comme cela, une comédie ?</p>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>Morbleu ! madame, je suis ravi de cette aventure ; et ceci me fait voir ce que je dois croire de vous, et l’assurance qu’il y a au don de votre cœur et aux serments que vous m’avez faits de sa fidélité !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Mais, vraiment, on ne vient point ainsi se jeter au travers d’une comédie et troubler un acteur qui parle<noteref noteid="note.355.1"/>.</p>
+
+<notes>
+  <note id="note.355.1">
+    <p>Dans la pièce, telle qu’elle fut représentée à Saint-Germain, il y avait, comme on l’a vu indiqué à la fin de la scène précédente, un divertissement dont le détail n’est point arrivé jusqu’à nous. C’est à cette circonstance que font allusion ces mots : <i>troubler un acteur qui parle</i>. (Ch. Louandre.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>Eh ! têtebleu ! la véritable comédie qui se fait ici, c’est celle que vous jouez ; et, si je vous trouble, c’est de quoi je me soucie peu.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>En vérité, vous ne savez ce que vous dites.</p>
+
+<pagenum num="356"/>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>Si fait, morbleu ! je le sais bien ; je le sais bien, morbleu ! et... <stage>Monsieur Bobinet, épouvanté, emporte le comte et s’enfuit ; il est suivi par Criquet.</stage></p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Eh ! fi, monsieur ! que cela est vilain, de jurer de la sorte !</p>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>Eh ! ventrebleu ! s’il y a ici quelque chose de vilain, ce ne sont point mes jurements ; ce sont vos actions ; et il vaudroit bien mieux que vous jurassiez, vous, la tête, la mort et le sang, que de faire ce que vous faites avec monsieur le vicomte.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Je ne sais pas, monsieur le receveur, de quoi vous vous plaignez ; et si...</p>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker>, au vicomte.</hstage>
+<p>Pour vous, monsieur, je n’ai rien à vous dire : vous faites bien de pousser votre pointe, cela est naturel, je ne le trouve point étrange, et je vous demande pardon si j’interromps votre comédie ; mais vous ne devez point trouver étrange aussi que je me plaigne de son procédé ; et nous avons raison tous deux de faire ce que nous faisons.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Je n’ai rien à dire à cela, et ne sais point les sujets de plainte que vous pouvez avoir contre madame la comtesse d’Escarbagnas.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Quand on a des chagrins jaloux, on n’en use point de la sorte ; et l’on vient doucement se plaindre à la personne que l’on aime.</p>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>Moi, me plaindre doucement !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Oui. L’on ne vient point crier de dessus un théâtre ce qui doit se dire en particulier.</p>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>J’y viens, moi, morbleu ! tout exprès ; c’est le lieu qu’il me faut ; et je souhaiterois que ce fût un théâtre public, pour vous dire avec plus d’éclat toutes vos vérités.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Faut-il faire un si grand vacarme pour une comédie que monsieur le vicomte me donne ? Vous voyez que <pagenum num="357" b="mon-" a="sieur">monsieur</pagenum> Tibaudier, qui m’aime, en use plus respectueusement que vous.</p>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>Monsieur Tibaudier en use comme il lui plaît : je ne sais pas de quelle façon monsieur Tibaudier a été avec vous ; mais monsieur Tibaudier n’est pas un exemple pour moi, et je ne suis point d’humeur à payer les violons pour faire danser les autres !</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Mais vraiment, monsieur le receveur, vous ne songez pas à ce que vous dites. On ne traite point de la sorte les femmes de qualité ; et ceux qui vous entendent croiroient qu’il y a quelque chose d’étrange entre vous et moi.</p>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>Eh ! ventrebleu ! madame, quittons la faribole.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Que voulez-vous donc dire avec votre : Quittons la faribole ?</p>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>Je veux dire que je ne trouve point étrange que vous vous rendiez au mérite de monsieur le vicomte ; vous n’êtes pas la première femme qui joue dans le monde de ces sortes de caractères, et qui ait auprès d’elle un monsieur le receveur, dont on lui voit trahir et la passion et la bourse pour le premier venu qui lui donnera dans la vue. Mais ne trouvez point étrange aussi que je ne sois point la dupe d’une infidélité si ordinaire aux coquettes du temps, et que je vienne vous assurer, devant bonne compagnie, que je romps commerce avec vous, et que monsieur le receveur ne sera plus pour vous monsieur le donneur.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Cela est merveilleux comme les amants emportés deviennent à la mode ! On ne voit autre chose de tous côtés. Là, là, monsieur le receveur, quittez votre colère, et venez prendre place pour voir la comédie.</p>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker></hstage>
+<p>Moi, morbleu ! prendre place ? <stage>Montrant monsieur Tibaudier.</stage> Cherchez vos benêts à vos pieds. Je vous laisse, madame la comtesse, à monsieur le vicomte ; et ce sera à lui que j’envoierai tantôt vos lettres. Voilà ma scène faite, voilà mon rôle joué. Serviteur à la compagnie.</p>
+
+<pagenum num="358"/>
+
+<hstage><speaker>MONSIEUR TIBAUDIER</speaker></hstage>
+<p>Monsieur le receveur, nous nous verrons autre part qu’ici ; et je vous ferai voir que je suis au poil et à la plume.</p>
+
+<hstage><speaker>MONSIEUR HARPIN</speaker>, en sortant.</hstage>
+<p>Tu as raison, monsieur Tibaudier<noteref noteid="note.358.1"/>.</p>
+
+<notes>
+  <note id="note.358.1">
+    <p>On ne peut guère douter que cette scène, où éclate la brutale colère d’un homme de finances qui se voit trahi par sa maîtresse, n’ait inspiré à le Sage, l’idée de la fameuse scène où Turcaret fait tapage chez son infidèle baronne, et lui casse pour trois cents pistoles de glaces et de porcelaines. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Pour moi, je suis confuse de cette insolence.</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Les jaloux, madame, sont comme ceux qui perdent leur procès : ils ont permission de tout dire. Prêtons silence à la comédie.</p>
+
+<h3 id="p23">SCÈNE XXII. — LA COMTESSE, LE VICOMTE, JULIE, MONSIEUR TIBAUDIER, JEANNOT</h3>
+
+<hstage><speaker>JEANNOT</speaker>, au vicomte.</hstage>
+<p>Voilà un billet, monsieur, qu’on nous a dit de vous donner vite.</p>
+
+<hstage><speaker>LE VICOMTE</speaker>, lisant.</hstage>
+<p>« En cas que vous ayez quelque mesure à prendre, je vous envoie promptement un avis. La querelle de vos parents et de ceux de Julie vient d’être accommodée ; et les conditions de cet accord, c’est le mariage de vous et d’elle. Bonsoir. » <stage>A Julie.</stage> Ma foi, madame, voilà notre comédie achevée aussi. <stage>Le vicomte, la comtesse, Julie et monsieur Tibaudier se lèvent.</stage></p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Ah ! Cléante, quel bonheur ! Notre amour eût-il osé espérer un si heureux succès ?</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Comment donc ? Qu’est-ce que cela veut dire ?</p>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>Cela veut dire, madame, que j’épouse Julie ; et, si vous me croyez, pour rendre la comédie complète de tout point, vous épouserez monsieur Tibaudier, et donnerez mademoiselle Andrée à son laquais, dont il fera son valet de chambre.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Quoi ! jouer de la sorte une personne de ma qualité !</p>
+
+<pagenum num="359"/>
+
+<hstage><speaker>LE VICOMTE</speaker></hstage>
+<p>C’est sans vous offenser, madame ; et les comédies veulent de ces sortes de choses.</p>
+
+<hstage><speaker>LA COMTESSE</speaker></hstage>
+<p>Oui, monsieur Tibaudier, je vous épouse pour faire enrager tout le monde.</p>
+
+<hstage><speaker>MONSIEUR TIBAUDIER</speaker></hstage>
+<p>Ce m’est bien de l’honneur, madame.</p>
+
+<hstage><speaker>LE VICOMTE</speaker>, à la comtesse.</hstage>
+<p>Souffrez, madame, qu’en enrageant, nous puissions voir ici le reste du spectacle.</p>
+
+</page-sequence>
+ </page-sequences>
+</bml>

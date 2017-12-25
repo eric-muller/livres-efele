@@ -1,0 +1,2067 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5714615q"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000494"
+        creation="2017-04-22T14:03:22-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>La princesse d’Élide</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='17'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="Personnages"/>
+    <tocentry idref="p02" label="Prologue">
+      <tocentry idref="p03" label="Scène I"/>
+      <tocentry idref="p04" label="Scène II"/>
+    </tocentry>
+    <tocentry idref="p05" label="Acte premier">
+      <tocentry idref="p06" label="Scène I"/>
+      <tocentry idref="p07" label="Scène II"/>
+      <tocentry idref="p08" label="Scène III"/>
+      <tocentry idref="p09" label="Scène IV"/>
+    </tocentry>
+    <tocentry idref="p10" label="Premier intermède">
+      <tocentry idref="p11" label="Scène I"/>
+      <tocentry idref="p12" label="Scène II"/>
+      <tocentry idref="p13" label="Scène III"/>
+      <tocentry idref="p14" label="Scène IV"/>
+    </tocentry>
+    <tocentry idref="p15" label="Entrée de ballet"/>
+    <tocentry idref="p16" label="Acte second">
+      <tocentry idref="p17" label="Scène I"/>
+      <tocentry idref="p18" label="Scène II"/>
+      <tocentry idref="p19" label="Scène III"/>
+      <tocentry idref="p20" label="Scène IV"/>
+      <tocentry idref="p21" label="Scène V"/>
+    </tocentry>
+    <tocentry idref="p22" label="Second intermède">
+      <tocentry idref="p23" label="Scène I"/>
+      <tocentry idref="p24" label="Scène II"/>
+      <tocentry idref="p25" label="Scène III"/>
+    </tocentry>
+    <tocentry idref="p26" label="Entrée de ballet"/>
+    <tocentry idref="p27" label="Acte troisième">
+      <tocentry idref="p28" label="Scène I"/>
+      <tocentry idref="p29" label="Scène II"/>
+      <tocentry idref="p30" label="Scène III"/>
+      <tocentry idref="p31" label="Scène IV"/>
+      <tocentry idref="p32" label="Scène V"/>
+    </tocentry>
+    <tocentry idref="p33" label="Troisième intermède">
+      <tocentry idref="p34" label="Scène I"/>
+      <tocentry idref="p35" label="Scène II"/>
+    </tocentry>
+    <tocentry idref="p36" label="Acte quatrième">
+      <tocentry idref="p37" label="Scène I"/>
+      <tocentry idref="p38" label="Scène II"/>
+      <tocentry idref="p39" label="Scène III"/>
+      <tocentry idref="p40" label="Scène IV"/>
+      <tocentry idref="p41" label="Scène V"/>
+      <tocentry idref="p42" label="Scène VI"/>
+      <tocentry idref="p43" label="Scène VII"/>
+    </tocentry>
+    <tocentry idref="p44" label="Quatrième intermède">
+      <tocentry idref="p45" label="Scène I"/>
+      <tocentry idref="p46" label="Scène II"/>
+    </tocentry>
+    <tocentry idref="p47" label="Acte cinquième">
+      <tocentry idref="p48" label="Scène I"/>
+      <tocentry idref="p49" label="Scène II"/>
+      <tocentry idref="p50" label="Scène III"/>
+      <tocentry idref="p51" label="Scène IV"/>
+    </tocentry>
+    <tocentry idref="p52" label="Cinquième intermède">
+      <tocentry idref="p53" label="Bergers et bergères"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_2.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome second. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="1"/>
+
+<img src="images/frise9.png" class="center100" alt="frise"/>
+
+<h1>LA PRINCESSE D’ÈLIDE<noteref noteid="note.1.1"/></h1>
+
+<h2>COMÉDIE-BALLET EN CINQ ACTES</h2>
+
+<h2>1664</h2>
+
+<notes>
+  <note id="note.1.1">
+    <p>Cette pièce fut jouée pour la première fois à Versailles, le 8 mai 1664. Elle fit partie des fêtes que Louis XIV donna à la reine sa mère à Marie-Thérèse son épouse, sous le titre des <i>Plaisirs de l’Ile enchantée.</i></p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h3 id="p01">PERSONNAGES DU PROLOGUE</h3>
+
+<p class="sommaire">L’AURORE.</p>
+<p class="sommaire">LYCISCAS, valet de chiens.</p>
+<p class="sommaire">T<s>ROIS</s> V<s>ALETS DE CHIENS</s> chantants.</p>
+<p class="sommaire">V<s>ALETS DE CHIENS</s> dansants.</p>
+
+<h3>PERSONNAGES DE LA COMÉDIE</h3>
+
+<p class="sommaire">LA PRINCESSE D’ÉLIDE.</p>
+<p class="sommaire">AGLANTE, cousine de la princesse.</p>
+<p class="sommaire">CYNTHIE, cousine de la princesse.</p>
+<p class="sommaire">PHILIS, suivante de la princesse,</p>
+<p class="sommaire">IPHITAS, père de la princesse.</p>
+<p class="sommaire">EURYALE, prince d’Ithaque.</p>
+<p class="sommaire">ARISTOMÈNE, prince de Messène.</p>
+<p class="sommaire">THÉOCLE, prince de Pyle.</p>
+<p class="sommaire">ARBATE, gouverneur du prince d’Ithaque.</p>
+<p class="sommaire">MORON, plaisant de la princesse.</p>
+<p class="sommaire">LYCAS, suivant d’Iphitas.</p>
+
+<pagenum num="2"/>
+
+<h3>PERSONNAGES DES INTERMÈDES</h3>
+
+<h3><s>PREMIER INTERMÈDE</s></h3>
+
+<p class="sommaire">MORON.</p>
+<p class="sommaire">C<s>HASSEURS</s> dansants.</p>
+
+<h3><s>SECOND INTERMÈDE</s></h3>
+
+<p class="sommaire">PHILIS.</p>
+<p class="sommaire">MORON.</p>
+<p class="sommaire">U<s>N</s> S<s>ATYRE</s> chantant.</p>
+<p class="sommaire">S<s>ATYRES</s> dansants.</p>
+
+<h3><s>TROISIÈME INTERMÈDE</s></h3>
+
+<p class="sommaire">PHILIS.</p>
+<p class="sommaire">TIRCIS, berger chantant.</p>
+<p class="sommaire">MORON.</p>
+
+<h3><s>QUATRIÈME INTERMÈDE</s></h3>
+
+<p class="sommaire">LA PRINCESSE.</p>
+<p class="sommaire">PHILIS.</p>
+<p class="sommaire">CLIMÈNE.</p>
+
+<h3><s>CINQUIÈME INTERMÈDE</s></h3>
+
+<p class="sommaire">B<s>ERGERS ET</s> B<s>ERGÈRES</s> chantants.</p>
+<p class="sommaire">B<s>ERGERS ET</s> B<s>ERGÈRES</s> dansants.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est en Élide.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p02">PROLOGUE</h2>
+
+<h3 id="p03">SCÈNE I. — L’AURORE ; LYCISCAS <i>et plusieurs autres</i>, VALETS DE CHIENS, <i>endormis et couchés sur l’herbe.</i></h3>
+
+<hstage><speaker>L’AURORE</speaker> chante.</hstage>
+<l indent='c'>Quand l’amour à vos yeux offre un choix agréable,</l>
+<l indent='c'>Jeunes beautés, laissez-vous enflammer ;</l>
+<l indent='c'>Moquez-vous d’affecter cet orgueil indomptable,</l>
+<l indent='c'>Dont on vous dit qu’il est beau de s’armer :</l>
+<l indent='c'>Dans l’âge où l’on est aimable.</l>
+<l indent='c'>Rien n’est si beau que d’aimer.</l>
+
+<vsep class="emptyline"/>
+
+<l indent='c'>Soupirez librement pour un amant fidèle,</l>
+<l indent='c'>Et bravez ceux qui voudroient vous blâmer ;</l>
+<l indent='c'>Un cœur tendre est aimable, et le nom de cruelle</l>
+<l indent='c'>N’est pas un nom à se faire estimer ;</l>
+<l indent='c'>Dans le temps où l’on est belle,</l>
+<l indent='c'>Rien n’est si beau que d’aimer.</l>
+
+<pagenum num="3"/>
+
+<h3 id="p04">SCÈNE II. — LYCISCAS <i>et autres</i> VALETS DE CHIENS, <i>endormis.</i></h3>
+
+<hstage><speaker>TROIS VALETS DE CHIENS</speaker>, réveillés par l’Aurore, chantent ensemble.</hstage>
+<l indent='c'>Holà ! holà ! Debout, debout, debout.</l>
+<l indent='c'>Pour la chasse ordonnée il faut préparer tout ;</l>
+<l indent='c'>Holà ! ho ! debout, vite debout.</l>
+
+<hstage><speaker>PREMIER</speaker></hstage>
+<l indent='c'>Jusqu’aux plus sombres lieux le jour se communique.</l>
+
+<hstage><speaker>DEUXIÈME</speaker></hstage>
+<l indent='c'>L’air sur les fleurs en perles se résout.</l>
+
+<hstage><speaker>TROISIÈME</speaker></hstage>
+<l indent='c'>Les rossignols commencent leur musique,</l>
+<l indent='c'>Et leurs petits concerts retentissent partout.</l>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Sus, sus, debout, vite debout.</l>
+<pstage>A Lyciscas endormi.</pstage>
+<l indent='c'>Qu’est-ce ci, Lyciscas ? Quoi ! tu ronfles encore,</l>
+<l indent='c'>Toi qui promettais tant de devancer l’aurore ?</l>
+<l indent='c'>Allons, debout, vite debout.</l>
+<l indent='c'>Pour la chasse ordonnée il faut préparer tout.</l>
+<l indent='c'>Debout, vite debout, dépêchons, debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker>, en s’éveillant.</hstage>
+<p>Par la morbleu ! vous êtes de grands braillards, vous autres, et vous avez la gueule ouverte de bon matin.</p>
+
+<hstage><speaker>TOUS ENSEMBLE</speaker></hstage>
+<l indent='c'>Ne vois-tu pas le jour qui se répand partout ?</l>
+<l indent='c'>Allons, debout, Lyciscas, debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Eh ! laissez-moi dormir encore un peu, je vous conjure.</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Non, non, debout, Lyciscas, debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Je ne vous demande plus qu’un petit quart d’heure.</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Point, point, debout, vite debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Eh ! je vous prie.</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Debout.</l>
+
+<pagenum num="4"/>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Un moment !</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>De grâce ?</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Eh !</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Je...</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>J’aurai fait incontinent.</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Non, non, debout, Lyciscas, debout,</l>
+<l indent='c'>Pour la chasse ordonnée il faut préparer tout.</l>
+<l indent='c'>Vite, debout, dépêchons, debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Eh bien, laisse-moi, je vais me lever. Vous êtes d’étranges gens de me tourmenter comme cela ? Vous serez cause que je ne me porterai pas bien de toute la journée : car voyez-vous, le sommeil est nécessaire à l’homme ; et, lorsqu’on ne dort pas sa réfection, il arrive... que... on n’est... <stage>Il se rendort.</stage></p>
+
+<hstage><speaker>PREMIER</speaker></hstage>
+<l indent='c'>Lyciscas !</l>
+
+<hstage><speaker>DEUXIÈME</speaker></hstage>
+<l indent='c'>Lyciscas !</l>
+
+<hstage><speaker>TROISIÈME</speaker></hstage>
+<l indent='c'>Lyciscas !</l>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Lyciscas !</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Diables soient les brailleurs ! Je voudrois que vous eussiez la gueule pleine de bouillie bien chaude.</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Debout, debout ;</l>
+<pagenum num="5"/>
+<l indent='c'>Vite, debout, dépêchons, debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Ah ! quelle fatigue de ne pas dormir son soûl !</p>
+
+<hstage><speaker>PREMIER</speaker></hstage>
+<l indent='c'>Holà ! ho !</l>
+
+<hstage><speaker>DEUXIÈME</speaker></hstage>
+<l indent='c'>Holà ! ho !</l>
+
+<hstage><speaker>TROISIÈME</speaker></hstage>
+<l indent='c'>Holà ! ho !</l>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Ho ! ho ! ho ! ho ! ho !</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Ho ! ho ! La peste soit des gens avec leurs chiens de hurlements ! Je me donne au diable si je ne vous assomme. Mais voyez un peu quel diable d’enthousiasme il leur prend de me venir chanter aux oreilles comme cela ! Je...</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Encore !</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker></hstage>
+<p>Le diable vous emporte !</p>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Debout.</l>
+
+<hstage><speaker>LYCISCAS</speaker>, en se levant.</hstage>
+<p>Quoi ! toujours ? A-t-on jamais vu une pareille furie de chanter ? Par la sambleu ! j’enrage ! Puisque me voilà éveillé, il faut que j’éveille les autres, et que je les tourmente comme on m’a fait. Allons, ho, messieurs, debout, debout, vite ; c’est trop dormir. Je vais faire un bruit de diable partout. <stage>Il crie de toute sa force.</stage> Debout, debout, debout ! Allons vite, ho ! ho ! ho ! debout ! debout ! Pour la chasse ordonnée il faut préparer tout : debout ! debout ! Lyciscas, debout ! Ho ! ho ! ho ! ho ! ho ! <stage>Plusieurs cors et trompes de chasse se font entendre : les valets de chiens que Lyciscas a réveillés dansent une entrée ; ils reprennent le son de leurs cors et trompes à certaines cadences.</stage></p>
+
+<vsep class="rule"/>
+
+<pagenum num="6"/>
+
+<h2 id="p05">ACTE PREMIER</h2>
+
+<h3 id="p06">SCÈNE I. — EURYALE, ARBATE</h3>
+
+<hstage><speaker>ARBATE</speaker></hstage>
+<l>Ce silence rêveur, dont la sombre habitude</l>
+<l>Vous fait à tous moments chercher la solitude ;</l>
+<l>Ces longs soupirs que laisse échapper votre cœur,</l>
+<l>Et ces fixes regards si chargés de langueur.</l>
+<l>Disent beaucoup, sans doute, à des gens de mon âge ;</l>
+<l>Et je pense, seigneur, entendre ce langage ;</l>
+<l>Mais, sans votre congé, de peur de trop risquer,</l>
+<l>Je n’ose m’enhardir jusques à l’expliquer.</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>Explique, explique, Arbate, avec toute licence,</l>
+<l>Ces soupirs, ces regards, et ce morne silence.</l>
+<l>Je te permets ici de dire que l’Amour</l>
+<l>M’a rangé sous ses lois, et me brave à son tour ;</l>
+<l>Et je consens encor que tu me fasses honte</l>
+<l>Des foiblesses d’un cœur qui souffre qu’on le dompte.</l>
+
+<hstage><speaker>ARBATE</speaker></hstage>
+<l>Moi, vous blâmer, seigneur, des tendres mouvements</l>
+<l>Où je vois qu’aujourd’hui penchent vos sentiments !</l>
+<l>Le chagrin des vieux jours ne peut aigrir mon âme</l>
+<l>Contre les doux transports de l’amoureuse flamme ;</l>
+<l>Et, bien que mon sort touche à ses derniers soleils.</l>
+<l>Je dirai que l’amour sied bien à vos pareils ;</l>
+<l>Que ce tribut qu’on rend aux traits d’un beau visage,</l>
+<l>De la beauté d’une âme est un clair témoignage.</l>
+<l>Et qu’il est malaisé que, sans être amoureux,</l>
+<l>Un jeune prince soit et grand et généreux.</l>
+<l>C’est une qualité que j’aime en un monarque ;</l>
+<l>La tendresse du cœur est une grande marque</l>
+<l>Que d’un prince à votre âge on peut tout présumer,</l>
+<l>Dès qu’on voit que son âme est capable d’aimer.</l>
+<l>Oui, cette passion, de toutes la plus belle,</l>
+<l>Traîne dans un esprit cent vertus après elle ;</l>
+<l>Aux nobles actions elle pousse les cœurs,</l>
+<l>Et tous les grands héros ont senti ses ardeurs.</l>
+<l>Devant mes yeux, seigneur, a passé votre enfance,</l>
+<l>Et j’ai de vos vertus vu fleurir l’espérance ;</l>
+<pagenum num="7"/>
+<l>Mes regards observoient en vous des qualités</l>
+<l>Où je reconnoissois le sang dont vous sortez ;</l>
+<l>J’y découvrais un fonds d’esprit et de lumière ;</l>
+<l>Je vous trouvois bien fait, l’air grand, et l’âme fière ;</l>
+<l>Votre cœur, votre adresse éclatoient chaque jour ;</l>
+<l>Mais je m’inquiétois de ne voir point d’amour ;</l>
+<l>Et, puisque les langueurs d’une plaie invincible</l>
+<l>Nous montrent que votre âme à ses traits est sensible,</l>
+<l>Je triomphe, et mon cœur, d’allégresse rempli,</l>
+<l>Vous regarde à présent comme un prince accompli.</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>Si de l’Amour un temps j’ai bravé la puissance,</l>
+<l>Hélas ! mon cher Arbate, il en prend bien vengeance !</l>
+<l>Et, sachant dans quels maux mon cœur s’est abîmé,</l>
+<l>Toi-même tu voudrais qu’il n’eût jamais aimé.</l>
+<l>Car enfin, vois le sort où mon astre me guide ;</l>
+<l>J’aime, j’aime ardemment la princesse d’Élide ;</l>
+<l>Et tu sais que l’orgueil, sous des traits si charmants,</l>
+<l>Arme contre l’amour ses jeunes sentiments,</l>
+<l>Et comment elle fuit en cette illustre fête</l>
+<l>Cette foule d’amants qui briguent sa conquête.</l>
+<l>Ah ! qu’il est bien peu vrai que ce qu’on doit aimer,</l>
+<l>Aussitôt qu’on le voit, prend droit de nous charmer,</l>
+<l>Et qu’un premier coup d’œil allume en nous les flammes</l>
+<l>Où le ciel, en naissant, a destiné nos âmes !</l>
+<l>A mon retour d’Argos, je passai dans ces lieux,</l>
+<l>Et ce passage offrit la princesse à mes yeux ;</l>
+<l>Je vis tous les appas dont elle est revêtue,</l>
+<l>Mais de l’œil dont on voit une belle statue,</l>
+<l>Leur brillante jeunesse observée à loisir,</l>
+<l>Ne porta dans mon âme aucun secret désir,</l>
+<l>Et d’Ithaque en repos je revis le rivage,</l>
+<l>Sans m’en être en deux ans rappellé nulle image.</l>
+<l>Un bruit vient cependant à répandre à ma cour</l>
+<l>Le célèbre mépris qu’elle fait de l’amour ;</l>
+<l>On publie en tous lieux que son âme hautaine</l>
+<l>Garde pour l’hyménée une invincible haine,</l>
+<l>Et qu’un arc à la main, sur l’épaule un carquois,</l>
+<l>Comme une autre Diane elle hante les bois,</l>
+<l>N’aime rien que la chasse, et de toute la Grèce,</l>
+<l>Fait soupirer en vain l’héroïque jeunesse.</l>
+<l>Admire nos esprits, et la fatalité !</l>
+<l>Ce que n’avoient point fait sa vue et sa beauté,</l>
+<pagenum num="8"/>
+<l>Le bruit de ses fiertés en mon âme fit naître</l>
+<l>Un transport inconnu dont je ne fus point maître :</l>
+<l>Ce dédain si fameux eut des charmes secrets</l>
+<l>A me faire avec soin rappeler tous ses traits ;</l>
+<l>Et mon esprit, jetant de nouveaux yeux sur elle,</l>
+<l>M’en refit une image et si noble et si belle,</l>
+<l>Me peignit tant de gloire et de telles douceurs</l>
+<l>A pouvoir triompher de toutes ses froideurs,</l>
+<l>Que mon cœur, aux brillants d’une telle victoire,</l>
+<l>Vit de sa liberté s’évanouir la gloire :</l>
+<l>Contre une telle amorce il eut beau s’indigner,</l>
+<l>Sa douceur sur mes sens prit tel droit de régner,</l>
+<l>Qu’entraîné par l’effort d’une occulte puissance,</l>
+<l>J’ai d’Ithaque en ces lieux fait voile en diligence :</l>
+<l>Et je couvre un effet de mes vœux enflammés</l>
+<l>Du désir de paroître à ces jeux renommés,</l>
+<l>Où l’illustre Iphitas, père de la princesse,</l>
+<l>Assemble la plupart des princes de la Grèce.</l>
+
+<hstage><speaker>ARBATE</speaker></hstage>
+<l>Mais à quoi bon, seigneur, les soins que vous prenez</l>
+<l>Et pourquoi ce secret où vous vous obstinez ?</l>
+<l>Vous aimez, dites-vous, cette illustre princesse,</l>
+<l>Et venez à ses yeux signaler votre adresse ;</l>
+<l>Et nuls empressements, paroles, ni soupirs,</l>
+<l>Ne l’ont instruite encor de vos brûlants désirs ?</l>
+<l>Pour moi, je n’entends rien à cette politique</l>
+<l>Qui ne veut point souffrir que votre cœur s’explique ;</l>
+<l>Et je ne sais quel fruit peut prétendre un amour</l>
+<l>Qui fuit tous les moyens de se produire au jour.</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>Et que ferai-je, Arbate, en déclarant ma peine,</l>
+<l>Qu’attirer les dédains de cette âme hautaine,</l>
+<l>Et me jeter au rang de ces princes soumis,</l>
+<l>Que le titre d’amant lui peint en ennemis ?</l>
+<l>Tu vois les souverains de Messine et de Pyle</l>
+<l>Lui faire de leurs cœurs un hommage inutile,</l>
+<l>Et de l’éclat pompeux des plus grandes vertus</l>
+<l>En appuyer en vain les respects assidus :</l>
+<l>Ce rebut de leurs soins, sous un triste silence,</l>
+<l>Retient de mon amour toute la violence :</l>
+<l>Je me tiens condamné dans ces rivaux fameux,</l>
+<l>Et je lis mon arrêt au mépris qu’on fait d’eux.</l>
+
+<pagenum num="9"/>
+
+<hstage><speaker>ARBATE</speaker></hstage>
+<l>Et c’est dans ce mépris et dans cette humeur fière</l>
+<l>Que votre âme à ses vœux doit voir plus de lumière,</l>
+<l>Puisque le sort vous donne à conquérir un cœur</l>
+<l>Que défend seulement une simple froideur,</l>
+<l>Et qui n’oppose point à l’ardeur qui vous presse</l>
+<l>De quelque attachement l’invincible tendresse.</l>
+<l>Un cœur préoccupé résiste puissamment ;</l>
+<l>Mais, quand une âme est libre, on la force aisément,</l>
+<l>Et toute la fierté de son indifférence</l>
+<l>N’a rien dont ne triomphe un peu de patience.</l>
+<l>Ne lui cachez donc plus le pouvoir de ses yeux,</l>
+<l>Faites de votre flamme un éclat glorieux ;</l>
+<l>Et, bien loin de trembler de l’exemple des autres,</l>
+<l>Du rebut de leurs vœux fortifiez les vôtres.</l>
+<l>Peut-être, pour toucher ses sévères appas,</l>
+<l>Aurez-vous des secrets que ces princes n’ont pas ;</l>
+<l>Et, si de ces fiertés l’impérieux caprice</l>
+<l>Ne vous fait éprouver un destin plus propice,</l>
+<l>Au moins est-ce un bonheur, en ces extrémités,</l>
+<l>Que de voir avec soi ses rivaux rebutés.</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>J’aime à te voir presser cet aveu de ma flamme :</l>
+<l>Combattant mes raisons, tu chatouilles mon âme ;</l>
+<l>Et, par ce que j’ai dit, je voulois pressentir</l>
+<l>Si de ce que j’ai fait tu pourrois m’applaudir.</l>
+<l>Car enfin, puisqu’il faut t’en faire confidence,</l>
+<l>On doit à la princesse expliquer mon silence ;</l>
+<l>Et peut-être, au moment que je t’en parle ici,</l>
+<l>Le secret de mon cœur, Arbate, est éclairci.</l>
+<l>Cette chasse, où, pour fuir la foule qui l’adore.</l>
+<l>Tu sais qu’elle est allée au lever de l’aurore,</l>
+<l>Est le temps que Moron, pour déclarer mon feu,</l>
+<l>A pris...</l>
+
+<hstage><speaker>ARBATE</speaker></hstage>
+<l cont="true">Moron, Seigneur !</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l cont="true">Ce choix t’étonne un peu :</l>
+<l>Par son titre de fou tu crois le bien connoître ;</l>
+<l>Mais sache qu’il l’est moins qu’il ne le veut paroître ;</l>
+<l>Et que, malgré l’emploi qu’il exerce aujourd’hui.</l>
+<l>Il a plus de bon sens que tel qui rit de lui.</l>
+<pagenum num="10"/>
+<l>La princesse se plaît à ses bouffonneries :</l>
+<l>Il s’en est fait aimer par cent plaisanteries,</l>
+<l>Et peut, dans cet accès, dire et persuader</l>
+<l>Ce que d’autres que lui n’oseroient hasarder ;</l>
+<l>Je le vois propre enfin à ce que j’en souhaite :</l>
+<l>Il a pour moi, dit-il, une amitié parfaite,</l>
+<l>Et veut, dans mes États ayant reçu le jour,</l>
+<l>Contre tous mes rivaux appuyer mon amour.</l>
+<l>Quelque argent mis en main pour soutenir ce zèle...</l>
+
+<h3 id="p07">SCÈNE II. — EURYALE, ARBATE, MORON</h3>
+
+<hstage><speaker>MORON</speaker>, derrière le théâtre.</hstage>
+<l>Au secours ! sauvez-moi de la bête cruelle !</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>Je pense ouïr sa voix.</l>
+
+<hstage><speaker>MORON</speaker>, derrière le théâtre.</hstage>
+<l cont="true">A moi ! de grâce, à moi !</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>C’est lui-même. Où court-il avec un tel effroi ?</l>
+
+<hstage><speaker>MORON</speaker>, entrant sans voir personne.</hstage>
+<l>Où pourrai-je éviter ce sanglier redoutable ?</l>
+<l>Grands dieux ! préservez-moi de sa dent effroyable !</l>
+<l>Je vous promets, pourvu qu’il ne m’attrape pas,</l>
+<l>Quatre livres d’encens, et deux veaux des plus gras.</l>
+<pstage>Rencontrant Euryale, que dans sa frayeur il prend pour le sanglier qu’il évite.</pstage><l>Ah ! je suis mort !</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l cont="true">Qu’as-tu ?</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l cont="true">Je vous croyois la bête</l>
+<l>Dont à me diffamer<noteref noteid="note.10.1"/> j’ai vu la gueule prête.</l>
+<l>Seigneur ; et je ne puis revenir de ma peur.</l>
+
+<notes>
+  <note id="note.10.1">
+    <p><i>Diffamer</i>, dans le sens de salir, gâter, <i>défigurer</i>. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>Qu’est-ce ?</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+
+<l cont="true">Oh ! que la princesse est d’une étrange humeur,</l>
+<l>Et qu’à suivre la chasse et ses extravagances</l>
+<l>Il nous faut essuyer de sottes complaisances !</l>
+<pagenum num="11"/>
+<l>Quel diable de plaisir trouvent tous les chasseurs</l>
+<l>De se voir exposés à mille et mille peurs ?</l>
+<l>Encore si c’étoit qu’on ne fût qu’à la chasse</l>
+<l>Des lièvres, des lapins, et des jeunes daims, passe :</l>
+<l>Ce sont des animaux d’un naturel fort doux,</l>
+<l>Et qui prennent toujours la fuite devant nous.</l>
+<l>Mais aller attaquer de ces bêtes vilaines</l>
+<l>Qui n’ont aucun respect pour les faces humaines,</l>
+<l>Et qui courent les gens qui les veulent courir ;</l>
+<l>C’est un sot passe-temps que je ne puis souffrir.</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>Dis-nous donc ce que c’est.</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l cont="true">Le pénible exercice</l>
+<l>Où de notre princesse a volé le caprice !</l>
+<l>J’en aurois bien juré qu’elle auroit fait le tour ;</l>
+<l>Et la course des chars se faisant en ce jour,</l>
+<l>Il falloit affecter ce contre-temps de chasse</l>
+<l>Pour mépriser ces jeux avec meilleure grâce,</l>
+<l>Et faire voir... Mais chut. Achevons mon récit,</l>
+<l>Et reprenons le fil de ce que j’avois dit.</l>
+<l>Qu’ai-je dit ?</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l cont="true">Tu parlois d’exercice pénible.</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l>Ah ! oui. Succombant donc à ce travail horrible</l>
+<l>(Car en chasseur fameux j’étois enharnaché,</l>
+<l>Et dès le point du jour je m’étois découché<noteref noteid="note.11.1"/>),</l>
+<l>Je me suis écarté de tous en galant homme,</l>
+<l>Et, trouvant un lieu propre à dormir d’un bon somme,</l>
+<l>J’essayois ma posture, et, m’ajustant bientôt,</l>
+<l>Prenois déjà mon ton pour ronfler comme il faut,</l>
+<l>Lorsqu’un murmure affreux m’a fait lever la vue,</l>
+<l>Et j’ai, d’un vieux buisson de la forêt touffue,</l>
+<l>Vu sortir un sanglier d’une énorme grandeur,</l>
+<l>Pour...</l>
+
+<notes>
+  <note id="note.11.1">
+    <p><i>Découcher,</i> dans le sens de quitter son lit, se lever, ne se dit plus.</p>
+  </note>
+</notes>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l cont="true">Qu’est-ce ?</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l cont="true">Ce n’est rien. N’ayez point de frayeur,</l>
+<l>Mais laissez-moi passer entre vous deux, pour cause ;</l>
+<pagenum num="12"/>
+<l>Je serai mieux en main pour vous conter la chose.</l>
+<l>J’ai donc vu ce sanglier, qui, par nos gens chassé,</l>
+<l>Avoit d’un air affreux tout son poil hérissé ;</l>
+<l>Ses deux yeux flamboyant ne lançaient que menace,</l>
+<l>Et sa gueule faisoit une laide grimace,</l>
+<l>Qui parmi de l’écume, à qui l’osoit presser,</l>
+<l>Montroit de certains crocs... je vous laisse à penser.</l>
+<l>A ce terrible aspect j’ai ramassé mes armes ;</l>
+<l>Mais le faux animal, sans en prendre d’alarmes,</l>
+<l>Est venu droit à moi, qui ne lui disois mot.</l>
+
+<hstage><speaker>ARBATE</speaker></hstage>
+<l>Et tu l’as de pied ferme attendu ?</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l cont="true">Quelque sot.</l>
+<l>J’ai jeté tout par terre et couru comme quatre.</l>
+
+<hstage><speaker>ARBATE</speaker></hstage>
+<l>Fuir devant un sanglier, ayant de quoi l’abattre !</l>
+<l>Ce trait, Moron, n’est pas généreux...</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l cont="true">J’y consens ;</l>
+<l>Il n’est pas généreux, mais il est de bon sens.</l>
+
+<hstage><speaker>ARBATE</speaker></hstage>
+<l>Mais, par quelques exploits si l’on ne s’éternise...</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l>Je suis votre valet. J’aime mieux que l’on dise :</l>
+<l>C’est ici qu’en fuyant, sans se faire prier,</l>
+<l>Moron sauva ses jours des fureurs d’un sanglier.</l>
+<l>Que si l’on y disoit : Voilà l’illustre place</l>
+<l>Où le brave Moron, signalant son audace,</l>
+<l>Affrontant d’un sanglier l’impétueux effort,</l>
+<l>Par un coup de ses dents vit terminer son sort.</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>Fort bien.</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l cont="true">Oui. J’aime mieux, n’en déplaise à la gloire,</l>
+<l>Vivre au monde deux jours, que mille ans dans l’histoire.</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>En effet, ton trépas fâcheroit tes amis ;</l>
+<l>Mais, si de ta frayeur ton esprit est remis,</l>
+<l>Puis-je te demander si du feu qui me brûle...</l>
+
+<pagenum num="13"/>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l>Il ne faut pas, seigneur, que je vous dissimule,</l>
+<l>Je n’ai rien fait encore, et n’ai point rencontré</l>
+<l>De temps pour lui parler qui fût selon mon gré.</l>
+<l>L’office de bouffon a des prérogatives ;</l>
+<l>Mais souvent on rabat nos libres tentatives.</l>
+<l>Le discours de vos feux est un peu délicat,</l>
+<l>Et c’est chez la princesse une affaire d’État.</l>
+<l>Vous savez de quel titre elle se glorifie.</l>
+<l>Et qu’elle a dans la tête une philosophie</l>
+<l>Qui déclare la guerre au conjugal lien.</l>
+<l>Et vous traite l’amour de déité de rien.</l>
+<l>Pour n’effaroucher point son humeur de tigresse,</l>
+<l>Il me faut manier la chose avec adresse ;</l>
+<l>Car on doit regarder comme l’on parle aux grands,</l>
+<l>Et vous êtes parfois d’assez fâcheuses gens.</l>
+<l>Laissez-moi doucement conduire cette trame.</l>
+<l>Je me sens là pour vous un zèle tout de flamme ;</l>
+<l>Vous êtes né mon prince, et quelques autres nœuds</l>
+<l>Pourroient contribuer au bien que je vous veux.</l>
+<l>Ma mère, dans son temps, passoit pour assez belle,</l>
+<l>Et naturellement n’étoit pas fort cruelle ;</l>
+<l>Feu votre père alors, ce prince généreux,</l>
+<l>Sur la galanterie étoit fort dangereux,</l>
+<l>Et je sais qu’Elpénor, qu’on appeloit mon père</l>
+<l>A cause qu’il étoit le mari de ma mère,</l>
+<l>Contoit pour grand honneur aux pasteurs d’aujourd’hui</l>
+<l>Que le prince autrefois étoit venu chez lui,</l>
+<l>Et que, durant ce temps, il avoit l’avantage</l>
+<l>De se voir salué de tous ceux du village.</l>
+<l>Baste. Quoi qu’il en soit, je veux par mes travaux...</l>
+<l>Mais voici la princesse et deux de vos rivaux.</l>
+
+<h3 id="p08">SCÈNE III. — LA PRINCESSE, AGLANTE, CYNTHIE, ARISTOMÈNE, THÉOCLE, EURYALE, PHILIS, ARBATE, MORON</h3>
+
+<hstage><speaker>ARISTOMÈNE</speaker></hstage>
+<l>Reprochez-vous, madame, à nos justes alarmes</l>
+<l>Ce péril dont tous deux avons sauvé vos charmes ?</l>
+<l>J’aurois pensé, pour moi, qu’abattre sous nos coups</l>
+<l>Ce sanglier qui portoit sa fureur jusqu’à vous</l>
+<l>Étoit une aventure (ignorant votre chasse)</l>
+<pagenum num="14"/>
+<l>Dont à nos bons destins nous dussions rendre grâce,</l>
+<l>Mais, à cette froideur, je connois clairement</l>
+<l>Que je dois concevoir un autre sentiment,</l>
+<l>Et quereller du sort la fatale puissance</l>
+<l>Qui me fait avoir part à ce qui vous offense.</l>
+
+<hstage><speaker>THÉOCLE</speaker></hstage>
+<l>Pour moi, je tiens, madame, à sensible bonheur</l>
+<l>L’action où pour vous a volé tout mon cœur,</l>
+<l>Et ne puis consentir, malgré votre murmure,</l>
+<l>A quereller le sort d’une telle aventure.</l>
+<l>D’un objet odieux je sais que tout déplaît ;</l>
+<l>Mais, dût votre courroux être plus grand qu’il n’est,</l>
+<l>C’est extrême plaisir, quand l’amour est extrême,</l>
+<l>De pouvoir d’un péril affranchir ce qu’on aime.</l>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<l>Et pensez-vous, seigneur, puisqu’il me faut parler,</l>
+<l>Qu’il eût eu, ce péril, de quoi tant m’ébranler ?</l>
+<l>Que l’arc et que le dard, pour moi si pleins de charmes,</l>
+<l>Ne soient entre mes mains que d’inutiles armes ?</l>
+<l>Et que je fasse enfin mes plus fréquents emplois</l>
+<l>De parcourir nos monts, nos plaines et nos bois,</l>
+<l>Pour n’oser, en chassant, concevoir l’espérance</l>
+<l>De suffire, moi seule, à ma propre défense ?</l>
+<l>Certes, avec le temps, j’aurois bien profité</l>
+<l>De ces soins assidus dont je fais vanité,</l>
+<l>S’il falloit que mon bras, dans une telle quête,</l>
+<l>Ne pût pas triompher d’une chétive bête !</l>
+<l>Du moins, si, pour prétendre à de sensibles coups,</l>
+<l>Le commun de mon sexe est trop mal avec vous,</l>
+<l>D’un étage plus haut accordez-moi la gloire :</l>
+<l>Et me faites tous deux cette grâce de croire,</l>
+<l>Seigneurs, que, quel que fût le sanglier d’aujourd’hui,</l>
+<l>J’en ai mis bas sans vous de plus méchants que lui.</l>
+
+<hstage><speaker>THÉOCLE</speaker></hstage>
+<l>Mais, madame...</l>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<l cont="true">Eh bien, soit. Je vois que votre envie</l>
+<l>Est de persuader que je vous dois la vie ;</l>
+<l>J’y consens. Oui, sans vous, c’étoit fait de mes jours,</l>
+<l>Je rends de tout mon cœur grâce à ce grand secours,</l>
+<l>Et je vais de ce pas au prince, pour lui dire</l>
+<pagenum num="15"/>
+<l>Les bontés que pour moi votre amour vous inspire<noteref noteid="note.15.1"/>.</l>
+
+<notes>
+  <note id="note.15.1">
+    <p>Quand Moron cesse d’être en scène, la pièce redevient sérieuse, froide et guindée. (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p09">SCÈNE IV. — EURYALE, ARBATE, MORON</h3>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l>Eh ! a-t-on jamais vu de plus farouche esprit ?</l>
+<l>De ce vilain sanglier l’heureux trépas l’aigrit.</l>
+<l>Oh ! comme volontiers j’aurois d’un beau salaire</l>
+<l>Récompensé tantôt qui m’en eût su défaire !</l>
+
+<hstage><speaker>ARBATE</speaker>, à Euryale.</hstage>
+<l>Je vous vois tout pensif, seigneur, de ses dédains ;</l>
+<l>Mais ils n’ont rien qui doive empêcher vos desseins.</l>
+<l>Son heure doit venir ; et c’est à vous, possible,</l>
+<l>Qu’est réservé l’honneur de la rendre sensible.</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<l>Il faut qu’avant la course elle apprenne vos feux ;</l>
+<l>Et je...</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l cont="true">Non. Ce n’est plus, Moron, ce que je veux :</l>
+<l>Garde-toi de rien dire, et me laisse un peu faire ;</l>
+<l>J’ai résolu de prendre un chemin tout contraire.</l>
+<l>Je vois trop que son cœur s’obstine à dédaigner</l>
+<l>Tous ces profonds respects qui pensent la gagner ;</l>
+<l>Et le dieu qui m’engage à soupirer pour elle</l>
+<l>M’inspire pour la vaincre une adresse nouvelle.</l>
+<l>Oui, c’est lui d’où me vient ce soudain mouvement,</l>
+<l>Et j’en attends de lui l’heureux événement.</l>
+
+<hstage><speaker>ARBATE</speaker></hstage>
+<l>Peut-on savoir, seigneur, par où votre espérance...</l>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<l>Tu le vas voir. Allons, et garde le silence.</l>
+
+<vsep class="rule"/>
+
+<h2 id="p10">PREMIER INTERMÈDE</h2>
+
+<h3 id="p11">SCÈNE I. — MORON, <i>seul.</i></h3>
+<p>Jusqu’au revoir ; pour moi, je reste ici, et j’ai une petite conversation à faire avec ces arbres et ces rochers.</p>
+
+<vsep class="emptyline"/>
+
+<l indent="c">Bois, prés, fontaines, fleurs, qui voyez mon teint blême,</l>
+<pagenum num="16"/>
+<l indent="c">Si vous ne le savez, je vous apprends que j’aime.</l>
+<l indent="c">Philis est l’objet charmant</l>
+<l indent="c">Qui tient mon cœur à l’attache ;</l>
+<l indent="c">Et je devins son amant</l>
+<l indent="c">La voyant traire une vache.</l>
+<l indent="c">Ses doigts, tout pleins de lait et plus blancs mille fois,</l>
+<l indent="c">Pressoient les bouts du pis, d’une grâce admirable</l>
+<l indent="c">Ouf ! cette idée est capable</l>
+<l indent="c">De me réduire aux abois.</l>
+<l indent="c">Ah ! Philis ! Philis ! Philis !</l>
+
+<h3 id="p12">SCÈNE II. — MORON, UN ÉCHO</h3>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>Philis.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ah !</p>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>Ah !</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Hem.</p>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>Hem.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ah ! Ah !</p>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>Ah !</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Hi, hi.</p>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>Hi.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Oh !</p>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>Oh !</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Oh !</p>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>Oh !</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Voilà un écho qui est bouffon.</p>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>On.</p>
+
+<pagenum num="17"/>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Hon.</p>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>Hon.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ah !</p>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>Ah.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Hu.</p>
+
+<hstage><speaker>L’ÉCHO</speaker></hstage>
+<p>Hu.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Voilà un écho qui est bouffon.</p>
+
+<h3 id="p13">SCÈNE III. — MORON, <i>seul, apercevant un ours qui vient à lui.</i></h3>
+
+<p>Ah ! monsieur l’ours, je suis votre serviteur de tout mon cœur. De grâce, épargnez-moi. Je vous assure que je ne vaux rien du tout à manger, je n’ai que la peau et les os, et je vois de certaines gens là-bas qui seroient bien mieux votre affaire. Hé ! hé ! hé ! monseigneur, tout doux, s’il vous plaît. Là, <stage>Il caresse l’ours, et tremble de frayeur.</stage> là, là, là, Ah ! monseigneur que votre altesse est jolie et bien faite ! Elle a tout à fait l’air galant, et la taille la plus mignonne du monde. Ah ! beau poil, belle tête, beaux yeux brillants et bien fendus ! Ah ! beau petit nez ! belle petite bouche ! petites quenottes jolies ! Ah ! belle gorge ! belles petites menottes î petits ongles bien faits ! <stage>L’ours se lève sur ses pattes de derrière.</stage> A l’aide ! au secours ! je suis mort ! Miséricorde ! Pauvre Moron ! Ah ! mon Dieu ! Eh ! vite, à moi, je suis perdu ! <stage>Moron monte sur un arbre.</stage></p>
+
+<h3 id="p14">SCÈNE IV. — MORON, CHASSEURS</h3>
+
+<hstage><speaker>MORON</speaker>, monté sur un arbre, aux chasseurs.</hstage>
+<p>Eh ! messieurs, ayez pitié de moi. <stage>Les chasseurs combattent l’ours.</stage> Bon, messieurs, tuez-moi ce vilain animal-là ! O ciel ! daigne les assister ! Bon ! le voilà qui fuit. Le voilà qui s’arrête, et qui se jette sur eux. Bon ! en voilà un qui vient de lui donner un coup dans la gueule. Les voilà tous à l’entour de lui. Courage ! ferme ! allons, mes amis ! Bon ! poussez fort ! Encore ! Ah ! le voilà qui est à terre ; c’en est <pagenum num="18"/>fait, il est mort ! Descendons maintenant pour lui donner cent coups. <stage>Moron descend de l’arbre.</stage>Serviteur, messieurs ! je vous rends grâce de m’avoir délivré de cette bete. Maintenant que vous l’avez tuée, je m’en vais l’achever et en triompher avec vous<noteref noteid="note.18.1"/>. <stage>Moron donne mille coups à l’ours qui est mort.</stage></p>
+
+<notes>
+  <note id="note.18.1">
+    <p>Cet intermède est bouffon plutôt que comique ; c’est de la farce, mais de la farce qui fait rire même les gens de goût. (Auger.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p15">ENTRÉE DE BALLET</h2>
+
+<p>Les chasseurs dansent, pour témoigner leur joie d’avoir remporté victoire.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p16">ACTE SECOND</h2>
+
+<h3 id="p17">SCÈNE I. — LA PRINCESSE, AGLANTE, CYNTHIE, PHILIS</h3>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<l>Oui, j’aime à demeurer dans ces paisibles lieux,</l>
+<l>On n’y découvre rien qui n’enchante les yeux ;</l>
+<l>Et de tous nos palais la savante structure</l>
+<l>Cède aux simples beautés qu’y forme la nature.</l>
+<l>Ces arbres, ces rochers, cette eau, ces gazons frais,</l>
+<l>Ont pour moi des appas à ne lasser jamais.</l>
+
+<hstage><speaker>AGLANTE</speaker></hstage>
+<l>Je chéris comme vous ces retraites tranquilles.</l>
+<l>Où l’on se vient sauver de l’embarras des villes.</l>
+<l>De mille objets charmants ces lieux sont embellis ;</l>
+<l>Et ce qui doit surprendre est qu’aux portes d’Élis</l>
+<l>La douce passion de fuir la multitude</l>
+<l>Rencontre une si belle et vaste solitude<noteref noteid="note.18.2"/>.</l>
+<l>Mais, à vous dire vrai, dans ces jours éclatants</l>
+<l>Vos retraites ici me semblent hors de temps ;</l>
+<l>Et c’est fort maltraiter l’appareil magnifique</l>
+<l>Que chaque prince a fait pour la fête publique.</l>
+<l>Ce spectacle pompeux de la course des chars</l>
+<l>Devoit bien mériter l’honneur de vos regards.</l>
+
+<notes>
+  <note id="note.18.2">
+    <p>Allusion évidente à la création du palais et du jardin de Versailles, alors toute nouvelle.</p>
+  </note>
+</notes>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<l>Quel droit ont-ils chacun d’y vouloir ma présence,</l>
+<pagenum num="19"/>
+<l>Et que dois-je, après tout, à leur magnificence ?</l>
+<l>Ce sont soins que produit l’ardeur de m’acquérir.</l>
+<l>Et mon cœur est le prix qu’ils veulent tous courir.</l>
+<l>Mais, quelque espoir qui flatte un projet de la sorte.</l>
+<l>Je me tromperai fort si pas un d’eux l’emporte.</l>
+
+<hstage><speaker>CYNTHIE</speaker></hstage>
+<l>Jusques à quand ce cœur veut-il s’effaroucher</l>
+<l>Des innocents desseins qu’on a de le toucher,</l>
+<l>Et regarder les soins que pour vous on se donne</l>
+<l>Comme autant d’attentats contre votre personne ?</l>
+<l>Je sais qu’en défendant le parti de l’amour </l>
+<l>On s’expose chez vous à faire mal sa cour ;</l>
+<l>Mais ce que par le sang j’ai l’honneur de vous être</l>
+<l>S’oppose aux duretés que vous faites paroître ;</l>
+<l>Et je ne puis nourrir d’un flatteur entretien</l>
+<l>Vos résolutions de n’aimer jamais rien.</l>
+<l>Est-il rien de plus beau que l’innocente flamme</l>
+<l>Qu’un mérite éclatant allume dans une âme ?</l>
+<l>Et seroit-ce un bonheur de respirer le jour,</l>
+<l>Si d’entre les mortels on bannissoit l’amour ?</l>
+<l>Non, non, tous les plaisirs se goûtent à le suivre ;</l>
+<l>Et vivre sans aimer n’est pas proprement vivre<noteref noteid="note.19.1"/>.</l>
+
+<notes>
+  <note id="note.19.1">
+    <p>Le dessein de l’auteur étoit de traiter ainsi toute la comédie. Mais un commandement du roi, qui pressa cette affaire, l’obligea d’achever tout le reste en prose, et de passer légèrement sur plusieurs scènes, qu’il auroit étendues davantage s’il avoit eu plus de loisir. (Note de Molière.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>AGLANTE</speaker></hstage>
+<p>Pour moi, je tiens que cette passion est la plus agréable affaire de la vie ; qu’il est nécessaire d’aimer pour vivre heureusement, et que tous les plaisirs sont fades, s’il ne s’y mêle un peu d’amour.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Pouvez-vous bien toutes deux, étant ce que vous êtes, prononcer ces paroles ? et ne devez-vous pas rougir d’appuyer une passion qui n’est qu’erreur, que foiblesse et qu’emportement, et dont tous les désordres ont tant de répugnance avec la gloire de notre sexe ? J’en prétends soutenir l’honneur jusqu’au dernier moment de ma vie, et ne veux point du tout me commettre à ces gens qui font les esclaves auprès de nous, pour devenir un jour nos tyrans. Toutes ces larmes, tous ces soupirs, tous ces hommages, tous ces respects, sont des embûches qu’on tend à notre cœur, et qui souvent l’engagent à commettre des lâchetés. Pour moi, quand je regarde <pagenum num="20"/>certains exemples, et les bassesses épouvantables où cette passion ravale les personnes sur qui elle étend sa puissance, je sens tout mon cœur qui s’émeut ; et je ne puis souffrir qu’une âme qui fait profession d’un peu de fierté ne trouve pas une honte horrible à de telles foiblesses.</p>
+
+<hstage><speaker>CYNTHIE</speaker></hstage>
+<p>Eh ! madame, il est de certaines foiblesses qui ne sont point honteuses, et qu’il est beau même d’avoir dans les plus hauts degrés de gloire. J’espère que vous changerez un jour de pensée ; et, s’il plaît au ciel, nous verrons votre cœur, avant qu’il soit peu...</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Arrêtez. N’achevez pas ce souhait étrange. J’ai une horreur trop invincible pour ces sortes d’abaissements ; et, si jamais j’étois capable d’y descendre, je serois personne, sans doute, à ne me le point pardonner.</p>
+
+<hstage><speaker>AGLANTE</speaker></hstage>
+<p>Prenez garde, madame, l’Amour sait se venger des mépris que l’on fait de lui ; et peut-être...</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Non, non, je brave tous ses traits ; et le grand pouvoir qu’on lui donne n’est rien qu’une chimère et qu’une excuse des foibles cœurs, qui le font invincible pour autoriser leur foiblesse.</p>
+
+<hstage><speaker>CYNTHIE</speaker></hstage>
+<p>Mais, enfin, toute la terre reconnoît sa puissance, et vous voyez que les dieux mêmes sont assujettis à son empire. On nous fait voir que Jupiter n’a pas aimé pour une fois, et que Diane même, dont vous affectez tant l’exemple, n’a pas rougi de pousser des soupirs d’amour.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Les croyances publiques sont toujours mêlées d’erreur, Les dieux ne sont point faits comme les fait le vulgaire ; et c’est leur manquer de respect que de leur attribuer les foiblesses des hommes.</p>
+
+<h3 id="p18">SCÈNE II. — LA PRINCESSE, AGLANTE, CYNTHIE, PHILIS, MORON</h3>
+
+<hstage><speaker>AGLANTE</speaker></hstage>
+<p>Viens, approche, Moron, viens nous aider à défendre l’amour contre les sentiments de la princesse.</p>
+
+<pagenum num="21"/>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Voilà votre parti fortifié d’un grand défenseur.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ma foi, madame, je crois qu’après mon exemple il n’y a plus rien à dire, et qu’il ne faut plus mettre en doute le pouvoir de l’amour. J’ai bravé ses armes assez longtemps, et fait de mon drôle comme un autre ; mais enfin ma fierté a baissé l’oreille, et vous <stage>Il montre Philis.</stage> avez une traîtresse qui m’a rendu plus doux qu’un agneau. Après cela, on ne doit plus faire aucun scrupule d’aimer ; et, puisque j’ai bien passé par là, il peut bien y en passer d’autres.</p>
+
+<hstage><speaker>CYNTHIE</speaker></hstage>
+<p>Quoi ! Moron se mêle d’aimer ?</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>CYNTHIE</speaker></hstage>
+<p>Et de vouloir être aimé ?</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Et pourquoi non ? Est-ce qu’on n’est pas assez bien fait pour cela ? Je pense que ce visage est assez passable, et que pour le bel air, Dieu merci, nous ne le cédons à personne.</p>
+
+<hstage><speaker>CYNTHIE</speaker></hstage>
+<p>Sans doute, on auroit tort.</p>
+
+<h3 id="p19">SCÈNE III. — LA PRINCESSE, AGLANTE, CYNTHIE, PHILIS, MORON, LYCAS</h3>
+
+<hstage><speaker>LYCAS</speaker></hstage>
+<p>Madame, le prince votre père vient vous trouver ici, et conduit avec lui les princes de Pyle et d’Ithaque, et celui de Messène.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>O ciel ! que prétend-il faire en me les amenant ? Auroit-il résolu ma perte, et voudroit-il bien me forcer au choix de quelqu’un d’eux ?</p>
+
+<h3 id="p20">SCÈNE IV. — IPHITAS, EURYALE, ARISTOMÈNE, THÉOCLE, LA PRINCESSE, AGLANTE, CYNTHIE, PHILIS, MORON</h3>
+
+<hstage><speaker>LA PRINCESSE</speaker>, à Iphitas.</hstage>
+<p>Seigneur, je vous demande la licence de prévenir par deux paroles la déclaration des pensées que vous pouvez avoir. <pagenum num="22"/>Il y a deux vérités, seigneur, aussi constantes l’une que l’autre, et dont je puis vous assurer également : l’une, que vous avez un absolu pouvoir sur moi, et que vous ne sauriez m’ordonner rien où je ne réponde aussitôt par une obéissance aveugle ; l’autre, que je regarde l’hymenée ainsi que le trépas, et qu’il m’est impossible de forcer cette aversion naturelle. Me donner un mari, et me donner la mort, c’est une même chose ; mais votre volonté va la première, et mon obéissance m’est bien plus chère que ma vie. Après cela parlez, seigneur ; prononcez librement ce que vous voulez.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Ma fille, tu as tort de prendre de telles alarmes ; et je me plains de toi, qui peux mettre dans ta pensée que je sois assez mauvais père pour vouloir faire violence à tes sentiments et me servir tyranniquement de la puissance que le ciel me donne sur toi. Je souhaite, à la vérité, que ton cœur puisse aimer quelqu’un. Tous mes vœux seroient satisfaits, si cela pouvoit arriver : et je n’ai proposé les fêtes et les jeux que je fais célébrer ici qu’afin d’y pouvoir attirer tout ce que la Grèce a d’illustre, et que, parmi cette noble jeunesse, tu puisses enfin rencontrer où arrêter tes yeux et déterminer tes pensées. Je ne demande, dis-je, au ciel autre bonheur que celui de te voir un époux. J’ai, pour obtenir cette grâce, fait encore ce matin un sacrifice à Vénus : et, si je sais bien expliquer le langage des dieux, elle m’a promis un miracle. Mais, quoi qu’il en soit, je veux en user avec toi en père qui chérit sa fille. Si tu trouves où attacher tes vœux, ton choix sera le mien, et je ne considérerai ni intérêt d’État, ni avantages d’alliance ; si ton cœur demeure insensible, je n’entreprendrai point de le forcer ; mais au moins sois complaisante aux civilités qu’on te rend, et ne m’oblige point à faire les excuses de ta froideur. Traite ces princes avec l’estime que tu leur dois, reçois avec rcconnoissance les témoignages de leur zèle, et viens voir cette course où leur adresse va paroître.</p>
+
+<hstage><speaker>THÉOCLE</speaker>, à la princesse.</hstage>
+<p>Tout le monde va faire des efforts pour remporter le prix de cette course. Mais, à vous dire vrai, j’ai peu d’ardeur pour la victoire, puisque ce n’est pas votre cœur qu’on y doit disputer.</p>
+
+<hstage><speaker>ARISTOMÈNE</speaker></hstage>
+<p>Pour moi, madame, vous êtes le seul prix que je me propose partout. C est vous que je crois disputer dans ces <pagenum num="23" b="com-" a="bats">combats</pagenum> d’adresse, et je n’aspire maintenant à remporter l’honneur de cette course que pour obtenir un degré de gloire qui m’approche de votre cœur.</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Pour moi, madame, je n’y vais point du tout avec cette pensée. Comme j’ai fait toute ma vie profession de ne rien aimer, tous les soins que je prends ne vont point où tendent les autres. Je n’ai aucune prétention sur votre cœur, et le seul honneur de la course est tout l’avantage où j’aspire.</p>
+
+<h3 id="p21">SCÈNE V. — LA PRINCESSE, AGLANTE, CYNTHIE, PHILIS, MORON</h3>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>D’où sort cette fierté où l’on ne s’attendoit point ? Princesses, que dites-vous de ce jeune prince ? Avez-vous remarqué de quel ton il l’a pris ?</p>
+
+<hstage><speaker>AGLANTE</speaker></hstage>
+<p>Il est vrai que cela est un peu fier.</p>
+
+<hstage><speaker>MORON</speaker>, à part.</hstage>
+<p>Ah ! quelle brave botte il vient là de lui porter !</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Ne trouvez-vous pas qu’il y auroit plaisir d’abaisser son orgueil, et de soumettre un peu ce cœur qui tranche tant du brave ?</p>
+
+<hstage><speaker>CYNTHIE</speaker></hstage>
+<p>Comme vous êtes accoutumée à ne jamais recevoir que des hommages et des adorations de tout le monde, un compliment pareil au sien doit vous surprendre, à la vérité.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Je vous avoue que cela m’a donné de l’émotion, et que je souhaiterois fort de trouver les moyens de châtier cette hauteur. Je n’avois pas beaucoup d’envie de me trouver à cette course ; mais j’y veux aller exprès, et employer toute chose pour lui donner de l’amour.</p>
+
+<hstage><speaker>CYNTHIE</speaker></hstage>
+<p>Prenez garde, madame. L’entreprise est périlleuse ; et, lorsqu’on veut donner de l’amour, on court risque d’en recevoir.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Ah ! n’appréhendez rien, je vous prie. Allons, je vous réponds de moi<noteref noteid="note.23.1"/>.</p>
+
+<notes>
+  <note id="note.23.1">
+    <p>Ce second acte, il faut l’avouer est d’une grande froideur : tout l’intérêt du sujet va porter sur le troisième.</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<pagenum num="24"/>
+
+<h2 id="p22">SECOND INTERMÈDE</h2>
+
+<h3 id="p23">SCÈNE I. — PHILIS, MORON</h3>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Philis, demeure ici.</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Non. Laisse-moi suivre les autres.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ah ! cruelle, si c’étoit Tircis qui t’en priât, tu demeurerois bien vite.</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Cela se pourroit faire, et je demeure d’accord que je trouve bien mieux mon compte avec l’un qu’avec l’autre ; car il me divertit avec sa voix, et toi, tu m’étourdis de ton caquet. Lorsque tu chanteras aussi bien que lui, je te promets de t’écouter.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Eh ! demeure un peu.</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Je ne saurois.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>De grâce !</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Point, te dis-je.</p>
+
+<hstage><speaker>MORON</speaker>, retenant Philis.</hstage>
+<p>Je ne te laisserai point aller.</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Ah ! que de façons !</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Je ne te demande qu’un moment à être avec toi.</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Eh bien, oui, j’y demeurerai, pourvu que tu me promettes une chose.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Et quelle ?</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>De ne me parler point du tout.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Eh ! Philis.</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>A moins que de cela, je ne demeurerai point avec toi.</p>
+
+<pagenum num="25"/>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Veux-tu me...</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Laisse-moi aller.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Eh bien, oui, demeure. Je ne te dirai mot.</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Prends-y bien garde, au moins ; car à la moindre parole je prends la fuite.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Soit. <stage>Après avoir fait une scène de gestes.</stage> Ah ! Philis !... Eh !...</p>
+
+<h3 id="p24">SCÈNE II. — MORON, <i>seul.</i></h3>
+
+<p>Elle s’enfuit, et je ne saurois l’attraper. Voilà ce que c’est. Si je savois chanter, j’en ferois bien mieux mes affaires. La plupart des femmes aujourd’hui se laissent prendre par les oreilles ; elles sont cause que tout le monde se mêle de musique, et l’on ne réussit auprès d’elles que par les petites chansons et les petits vers qu’on leur fait entendre. Il faut que j’apprenne à chanter, pour faire comme les autres. Bon, voici justement mon homme.</p>
+
+<h3 id="p25">SCÈNE III. — UN SATYRE, MORON</h3>
+
+<hstage><speaker>LE SATYRE</speaker> chante.</hstage>
+<p>La la, la.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ah ! satyre, mon ami, tu sais bien ce que tu m’as promis il y a longtemps. Apprends-moi à chanter, je te prie.</p>
+
+<hstage><speaker>LE SATYRE</speaker></hstage>
+<p>Je le veux ; mais auparavant écoute une chanson que je viens de faire.</p>
+
+<hstage><speaker>MORON</speaker>, bas, à part.</hstage>
+<p>Il est si accoutumé à chanter, qu’il ne sauroit parler d’autre façon. <stage>Haut.</stage> Allons, chante, j’écoute.</p>
+
+<hstage><speaker>LE SATYRE</speaker> chante.</hstage>
+<l indent="c">Je portois...</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Une chanson ? dis-tu.</p>
+
+<hstage><speaker>LE SATYRE</speaker></hstage>
+<l indent="c">Je port...</l>
+
+<pagenum num="26"/>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Une chanson à chanter ?</p>
+
+<hstage><speaker>LE SATYRE</speaker></hstage>
+ <l indent="c">Je port...</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Chanson amoureuse ? Peste !</p>
+
+<hstage><speaker>LE SATYRE</speaker></hstage>
+<l indent="c">Je portois dans une cage</l>
+<l indent="c">Deux moineaux que j’avois pris,</l>
+<l indent="c">Lorsque la jeune Chloris</l>
+<l indent="c">Fit, dans un sombre bocage,</l>
+<l indent="c">Briller à mes yeux surpris</l>
+<l indent="c">Les fleurs de son beau visage.</l>
+<l indent="c">Hélas ! dis-je aux moineaux, en recevant les coups</l>
+<l indent="c">De ses yeux si savants à faire des conquêtes,</l>
+<l indent="c">Consolez-vous, pauvres petites bêtes,</l>
+<l indent="c">Celui qui vous a pris est bien plus pris que vous.</l>
+
+<pstage>Moron demande au satyre une chanson plus passionnée, et le prie de lui dire celle qu’il lui avoit ouï chanter quelques jours auparavant.</pstage>
+
+<hstage><speaker>LE SATYRE</speaker> chante.</hstage>
+<l indent="c">Dans vos chants si doux</l>
+<l indent="c">Chantez à ma belle,</l>
+<l indent="c">Oiseaux, chantez tous</l>
+<l indent="c">Ma peine mortelle.</l>
+<l indent="c">Mais, si la cruelle</l>
+<l indent="c">Se met en courroux</l>
+<l indent="c">Au récit fidèle</l>
+<l indent="c">Des maux que je sens pour elle,</l>
+<l indent="c">Oiseaux, taisez-vous.</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ah ! qu’elle est belle ! apprends-la-moi !</p>
+
+<hstage><speaker>LE SATYRE</speaker></hstage>
+<p>La, la, la, la.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>La, la, la, la.</p>
+
+<hstage><speaker>LE SATYRE</speaker></hstage>
+<p>Fa, fa, fa, fa.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Fat toi-même<noteref noteid="note.26.1"/> !</p>
+
+<notes>
+  <note id="note.26.1">
+    <p>Voilà an intermède bien pauvre d’invention et de gaieté. Le besoin d’aller vite pour arriver à temps forçait Molière à s’emparer de la première idée qui s’offrait à lui. (Auger.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<pagenum num="27"/>
+
+<h3 id="p26">ENTRÉE DE BALLET</h3>
+
+<pstage>Le satyre, en colère, menace Moron, et plusieurs satyres dansent une entrée plaisante.</pstage>
+
+<vsep class="rule"/>
+
+<h2 id="p27">ACTE TROISIÈME</h2>
+
+<h3 id="p28">SCÈNE I. — LA PRINCESSE, AGLANTE, CYNTHIE, PHILIS</h3>
+
+<hstage><speaker>CYNTHIE</speaker></hstage>
+<p>Il est vrai, madame, que ce jeune prince a fait voir une adresse non commune, et que l’air dont il a paru a été quelque chose de surprenant. Il sort vainqueur de cette course. Mais je doute fort qu’il en sorte avec le même cœur qu’il y a porté ; car enfin vous lui avez tiré des traits dont il est difficile de se défendre ; et, sans parler de tout le reste, la grâce de votre danse et la douceur de votre voix ont eu des charmes aujourd’hui à toucher les plus insensibles.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Le voici qui s’entretient avec Moron ; nous saurons un peu de quoi il lui parle. Ne rompons point encore leur entretien, et prenons cette route pour revenir à leur rencontre.</p>
+
+<h3 id="p29">SCÈNE II. — EURYALE, ARBATE, MORON</h3>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Ah ! Moron, je te l’avoue, j’ai été enchanté ; et jamais tant de charmes n’ont frappé tout ensemble mes yeux et mes oreilles. Elle est adorable en tout temps, il est vrai ; mais ce moment l’a emporté sur tous les autres, et des grâces nouvelles ont redoublé l’éclat de ses beautés. Jamais son visage ne s’est paré de plus vives couleurs, ni ses yeux ne se sont armés de traits plus vifs et plus perçants. La douceur de sa voix a voulu se faire paroître dans un air tout charmant qu’elle a daigné chanter ; et les sons merveilleux qu’elle formoit passoient jusqu’au fond de mon âme et tenoient tous mes sens dans un ravissement à ne pouvoir en revenir. Elle a fait éclater ensuite une disposition toute divine, et ses pieds amoureux sur l’émail d’un tendre gazon traçoient d’aimables caractères qui m’enlevoient hors de moi-même, et <pagenum num="28"/> m’attachoient par des nœuds invincibles aux doux et justes mouvements dont tout son corps suivoit les mouvements de l’harmonie. Enfin, jamais âme n’a eu de plus puissantes émotions que la mienne ; et j ’ai pensé plus de vingt fois oublier ma résolution, pour me jeter à ses pieds, et lui faire un aveu sincère de l’ardeur que je sens pour elle.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Donnez-vous-en bien de garde, seigneur, si vous m’en voulez croire. Vous avez trouvé la meilleure invention du monde, et je me trompe fort si elle ne vous réussit. Les femmes sont des animaux d’un naturel bizarre ; nous les gâtons par nos douceurs ; et je crois tout de bon que nous les verrions nous courir, sans tous ces respects et ces soumissions où les hommes les acoquinent.</p>
+
+<hstage><speaker>ARBATE</speaker></hstage>
+<p>Seigneur, voici la princesse, qui s’est un peu éloignée de sa suite.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Demeurez ferme, au moins, dans le chemin que vous avez pris. Je m’en vais voir ce qu’elle me dira. Cependant promenez-nous ici dans ces petites routes, sans faire aucun semblant d’avoir envie de la joindre ; et, si vous l’abordez, demeurez avec elle le moins qu’il vous sera possible.</p>
+
+<h3 id="p30">SCÈNE III. — LA PRINCESSE, MORON</h3>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Tu as donc familiarité, Moron, avec le prince d’Ithaque ?</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ah ! madame, il y a longtemps que nous nous connoissons.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>D’où vient qu’il n’est pas venu jusqu’ici, et qu’il a pris cette autre route quand il m’a vue ?</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>C’est un homme bizarre, qui ne se plaît qu’à entretenir ses pensées.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Étois-tu tantôt au compliment qu’il m’a fait ?</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Oui, madame, j’y étois ; et je l’ai trouvé un peu impertinent, n’en déplaise à sa principauté.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Pour moi, je le confesse, Moron, cette fuite m’a choquée ; et <pagenum num="29"/>j’ai toutes les envies du monde de l’engager, pour rabattre un peu son orgueil.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ma foi, madame, vous ne feriez pas mal ; il le mériteroit bien ; mais, à vous dire vrai, je doute fort que vous y puissiez réussir.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+
+<p>Comment ? C’est le plus orgueilleux petit vilain que vous ayez jamais vu. Il lui semble qu’il n’y a personne au monde qui le mérite, et que la terre n’est pas digne de le porter.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Mais encore, ne t’a-t-il point parlé de moi ?</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Lui ? non.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Il ne t’a rien dit de ma voix et de ma danse !</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Pas le moindre mot.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Certes, ce mépris est choquant, et je ne puis souffrir cette hauteur étrange de ne rien estimer.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Il n’estime et n’aime que lui.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Il n’y a rien que je ne fasse pour le soumettre comme il faut.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Nous n’avons point de marbre dans nos montagnes qui soit plus dur et plus insensible que lui.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Le voilà.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Voyez-vous comme il passe, sans prendre garde à vous ?</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>De grâce, Moron, va le faire aviser que je suis ici, et l’oblige à me venir aborder.</p>
+
+<h3 id="p31">SCÈNE IV. — LA PRINCESSE, MORON, EURYALE</h3>
+
+<hstage><speaker>MORON</speaker>, allant au-devant d’Euryale, et lui parlant bas.</hstage>
+<p>Seigneur, je vous donne avis que tout va bien. La <pagenum num="30" b="prin-" a="cesse">princesse</pagenum> souhaite que vous l’abordiez ; mais songez bien à continuer votre rôle ; et, de peur de l’oublier, ne soyez pas longtemps avec elle.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Vous êtes bien solitaire, seigneur ; et c’est une humeur bien extraordinaire que la vôtre, de renoncer ainsi à notre sexe, et de fuir, à votre âge, cette galanterie dont se piquent tous vos pareils.</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Cette humeur, madame, n’est pas si extraordinaire qu’on n’en trouvât des exemples sans aller loin d’ici ; et vous ne sauriez condamner la résolution que j’ai prise de n’aimer jamais rien, sans condamner aussi vos sentiments.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Il y a grande différence ; et ce qui sied bien à un sexe ne sied pas bien à l’autre. Il est beau qu’une femme soit insensible, et conserve son cœur exempt des flammes de l’amour ; mais ce qui est vertu en elle devient un crime dans un homme ; et, comme la beauté est le partage de notre sexe, vous ne sauriez ne nous point aimer sans nous dérober les hommages qui nous sont dus, et commettre une offense dont nous devons toutes nous ressentir.</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Je ne vois pas, madame, que celles qui ne veulent point aimer doivent prendre aucun intérêt à ces sortes d’offenses.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Ce n’est pas une raison, seigneur ; et, sans vouloir aimer, on est toujours bien aise d’être aimé.</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Pour moi, je ne suis point de même ; et, dans le dessein où je suis de ne rien aimer, je serois fâché d’être aimé.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Et la raison ?</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>C’est qu’on a obligation à ceux qui nous aiment, et que je serois fâché d’être ingrat.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Si bien donc que, pour fuir l’ingratitude, vous aimeriez qui vous aimeroit ?</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Moi, madame ? Point du tout. Je dis bien que je serois <pagenum num="31"/>fâché d’être ingrat ; mais je me résoudrois plutôt de l’être que d’aimer.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Telle personne vous aimeroit peut-être, que votre cœur...</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Non, madame. Rien n’est capable de toucher mon cœur. Ma liberté est la seule maîtresse à qui je consacre mes vœux ; et, quand le ciel emploieroit ses soins à composer une beauté parfaite, quand il assembleroit en elle tous les dons les plus merveilleux et du corps et de l’âme, enfin quand il exposeroit à mes yeux un miracle d’esprit, d’adresse et de beauté, et que cette personne m’aimeroit avec toutes les tendresses imaginables, je vous l’avoue franchement, je ne l’aimerois pas.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker>, à part.</hstage>
+<p>A-t-on jamais rien vu de tel ?</p>
+
+<hstage><speaker>MORON</speaker>, à la princesse.</hstage>
+<p>Peste soit du petit brutal ! J’aurois bien envie de lui bailler un coup de poing.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker>, à part.</hstage>
+<p>Cet orgueil me confond, et j’ai un tel dépit, que je ne me sens pas.</p>
+
+<hstage><speaker>MORON</speaker>, bas, au prince.</hstage>
+<p>Bon courage, seigneur. Voilà qui va le mieux du monde.</p>
+
+<hstage><speaker>EURYALE</speaker>, bas, à Moron.</hstage>
+<p>Ah ! Moron, je n’en puis plus ! et je me suis fait des efforts étranges.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker>, à Euryale.</hstage>
+<p>C’est avoir une insensibilité bien grande, que de parler comme vous faites.</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Le ciel ne m’a pas fait d’une autre humeur. Mais, madame, j’interromps votre promenade, et mon respect doit m’avertir que vous aimez la solitude.</p>
+
+<h3 id="p32">SCÈNE V. — LA PRINCESSE, MORON</h3>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Il ne vous en doit rien, madame, en dureté de cœur.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Je donnerois volontiers tout ce que j’ai au monde, pour avoir l’avantage d’en triompher.</p>
+
+<pagenum num="32"/>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Je le crois.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Ne pourrois-tu, Moron, me servir dans un tel dessein ?</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Vous savez bien, madame, que je suis tout à votre service.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Parle-lui de moi dans tes entretiens ; vante-lui adroitement ma personne et les avantages de ma naissance, et tâche d’ébranler ses sentiments par la douceur de quelque espoir. Je te permets de dire tout ce que tu voudras pour tâcher à me l’engager.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Laissez-moi faire.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>C’est une chose qui me tient au cœur. Je souhaite ardemment qu’il m’aime.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Il est bien fait, oui, ce petit pendard-là ; il a bon air, bonne physionomie ; et je crois qu’il seroit assez le fait d’une jeune princesse.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Enfin, tu peux tout espérer de moi, si tu trouves moyen d’enflammer pour moi son cœur.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Il n’y a rien qui ne se puisse faire. Mais, madame, s’il venoit à vous aimer, que feriez-vous, s’il vous plaît ?</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Ah ! ce seroit lors que je prendrois plaisir à triompher pleinement de sa vanité, à punir son mépris par mes froideurs, et à exercer sur lui toutes les cruautés que je pourrois imaginer.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Il ne se rendra jamais.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Ah ! Moron, il faut faire en sorte qu’il se rende.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Non, il n’en fera rien. Je le connois ; ma peine seroit inutile.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Si faut-il pourtant tenter toute chose, et éprouver si son <pagenum num="33"/>âme est entièrement insensible. Allons. Je veux lui parler et suivre une pensée qui vient de me venir<noteref noteid="note.33.1"/>.</p>
+
+<notes>
+  <note id="note.33.1">
+    <p>Cet acte est bien conduit et bien rempli. (Auger.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p33">TROISIÈME INTERMÈDE</h2>
+
+<h3 id="p34">SCÈNE I. — PHILIS, TIRCIS</h3>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Viens, Tircis. Laissons-les aller, et me dis un peu ton martyre de la façon que tu sais faire. Il y a longtemps que tes yeux me parlent, mais je suis plus aise d’ouïr ta voix.</p>
+
+<hstage><speaker>TIRCIS</speaker> chante.</hstage>
+<l indent="c">Tu m’écoutes, hélas ! dans ma triste langueur ;</l>
+<l indent="c">Mais je n’en suis pas mieux, ô beauté sans pareille !</l>
+<l indent="c">Et je touche ton oreille,</l>
+<l indent="c">Sans que je touche ton cœur.</l>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Va, va, c’est déjà quelque chose que de toucher l’oreille, et le temps amène tout. Chante-moi cependant quelque plainte nouvelle que tu aies composée pour moi.</p>
+
+<h3 id="p35">SCÈNE II. — MORON, PHILIS, TIRCIS</h3>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ah ! ah ! je vous y prends, cruelle ! vous vous écartez des autres pour ouïr mon rival !</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Oui, je m’écarte pour cela. Je te le dis encore, je me plais avec lui ; et l’on écoute volontiers les amants lorsqu’ils se plaignent aussi agréablement qu’il fait. Que ne chantes-tu comme lui ? je prendrois plaisir à t’écouter.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Si je ne sais chanter, je sais faire autre chose ; et quand...</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Tais-toi. Je veux l’entendre. Dis, Tircis, ce que tu voudras.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ah ! cruelle !...</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Silence, dis-je, ou je me mettrai en colère.</p>
+
+<hstage><speaker>TIRCIS</speaker> chante.</hstage>
+<l indent="c">Arbres épais, et vous, prés émaillés,</l>
+<pagenum num="34"/>
+<l indent="c">La beauté dont l’hiver vous avoit dépouillés</l>
+<l indent="c">Par le printemps vous est rendue.</l>
+<l indent="c">Vous reprenez tous vos appas ;</l>
+<l indent="c">Mais mon âme ne reprend pas</l>
+<l indent="c">La joie, hélas ! que j’ai perdue.</l>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Morbleu ! que n’ai-je de la voix ! Ah ! nature marâtre, pourquoi ne m’as-tu pas donné de quoi chanter, comme à un autre ?</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>En vérité, Tircis, il ne se peut rien de plus agréable, et tu l’emportes sur tous les rivaux que tu as.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Mais pourquoi est-ce que je ne puis pas chanter ? N’ai-je pas un estomac, un gosier et une langue comme un autre ? Oui, oui, allons. Je veux chanter aussi, et te montrer que l’amour fait faire toutes choses. Voici une chanson que j’ai faite pour toi.</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Oui, dis. Je veux bien t’écouter, pour la rareté du fait.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Courage, Moron ! Il n’y a qu’à avoir de la hardiesse.</p>
+<pstage>Il chante.</pstage>
+<l indent="c">Ton extrême rigueur</l>
+<l indent="c">S’acharne sur mon cœur.</l>
+<l indent="c">Ah ! Philis, je trépasse ;</l>
+<l indent="c">Daigne me secourir.</l>
+<l indent="c">En seras-tu plus grasse</l>
+<l indent="c">De m’avoir fait mourir ?</l>
+
+<p><i>Vivat,</i> Moron !</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Voilà qui est le mieux du monde. Mais, Moron, je souhaiterais bien d’avoir la gloire que quelque amant fût mort pour moi. C’est un avantage dont je n’ai pas encore joui ; et je trouve que j’aimerois de tout mon cœur une personne qui m’aimerait assez pour se donner la mort.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Tu aimerais une personne qui se tuerait pour toi ?</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Il ne faut que cela pour te plaire ?</p>
+
+<pagenum num="35"/>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Voilà qui est fait. Je te veux montrer que je me sais tuer quand je veux.</p>
+
+<hstage><speaker>TIRCIS</speaker> chante.</hstage>
+<l indent="c">Ah ! quelle douceur extrême</l>
+<l indent="c">De mourir pour ce qu’on aime.</l>
+
+<hstage><speaker>MORON</speaker>, à Tircis.</hstage>
+<p>C’est un plaisir que vous aurez quand vous voudrez.</p>
+
+<hstage><speaker>TIRCIS</speaker> chante.</hstage>
+<l indent="c">Courage, Moron ! Meurs promptement,</l>
+<l indent="c">En généreux amant.</l>
+
+<hstage><speaker>MORON</speaker>, à Tircis.</hstage>
+<p>Je vous prie de vous mêler de vos affaires, et de me laisser tuer à ma fantaisie. Allons, je vais faire honte à tous les amants. <stage>A Philis.</stage> Tiens, je ne suis pas homme à faire tant de façons. Vois ce poignard. Prends bien garde comme je vais me percer le cœur. Je suis votre serviteur. Quelque niais.</p>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<p>Allons, Tircis. Viens-t’en me redire à l’écho ce que tu m’as chanté.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p36">ACTE QUATRIÈME</h2>
+
+<h3 id="p37">SCÈNE I. — LA PRINCESSE, EURYALE, MORON</h3>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Prince, comme jusqu’ici nous avons fait paraître une conformité de sentiments, et que le ciel a semblé mettre en nous mêmes attachements pour notre liberté et même aversion pour l’amour, je suis bien aise de vous ouvrir mon cœur, et de vous faire confidence d’un changement dont vous serez surpris. J’ai toujours regardé l’hymen comme une chose affreuse, et j’avois fait serment d’abandonner plutôt la vie que de me résoudre jamais à perdre cette liberté, pour qui j’avois des tendresses si grandes ; mais enfin un moment a dissipé toutes ces résolutions. Le mérite d’un prince m’a frappé aujourd’hui les yeux ; et mon âme tout d’un coup, comme par un miracle, est devenue sensible aux traits de cette passion que j’avois toujours méprisée... J’ai trouvé d’abord <pagenum num="36"/>des raisons pour autoriser ce changement, et je puis l’appuyer de ma volonté de répondre aux ardentes sollicitations d’un père et aux vœux de tout un État ; mais, à vous dire vrai, je suis en peine du jugement que vous ferez de moi, et je voudrois savoir si vous condamnerez ou non le dessein que j’ai de me donner un époux.</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Vous pourriez faire un tel choix, madame, que je l’approuverois sans doute.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Qui croyez-vous, à votre avis<noteref noteid="note.36.1"/>, que je veuille choisir ?</p>
+
+<notes>
+  <note id="note.36.1">
+    <p><i>A votre avis</i> est évidemment un pléonasme.</p>
+  </note>
+</notes>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Si j’étois dans votre cœur, je pourrois vous le dire ; mais, comme je n’y suis pas, je n’ai garde de vous répondre.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Devinez pour voir, et nommez quelqu’un.</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>J’aurois trop peur de me tromper.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Mais encore, pour qui souhaiteriez-vous que je me déclarasse ?</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Je sais bien, à vous dire vrai, pour qui je le souhaiterois ; mais, avant que de m’expliquer, je dois savoir votre pensée.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Eh bien, prince, je veux bien vous la découvrir. Je suis sûre que vous allez approuver mon choix ; et, pour ne point vous tenir en suspens davantage, le prince de Messène est celui de qui le mérite s’est attiré mes vœux.</p>
+
+<hstage><speaker>EURYALE</speaker>, à part.</hstage>
+<p>O ciel !</p>
+
+<hstage><speaker>LA PRINCESSE</speaker>, bas, à Moron.</hstage>
+<p>Mon invention a réussi, Moron. Le voilà qui se trouble.</p>
+
+<hstage><speaker>MORON</speaker>, à la princesse.</hstage>
+<p>Bon, madame. <stage>Au prince.</stage> Courage, seigneur. <stage>A la princesse.</stage> Il en tient. <stage>Au prince.</stage> Ne vous défaites pas<noteref noteid="note.36.2"/>.</p>
+
+<notes>
+  <note id="note.36.2">
+    <p>On disait alors <i>se défaire</i> dans le sens de demeurer embarrassé, interdit.</p>
+  </note>
+</notes>
+
+<hstage><speaker>LA PRINCESSE</speaker>, à Euryale.</hstage>
+<p>Ne trouvez-vous pas que j’ai raison, et que ce prince a tout le mérite qu’on peut avoir ?</p>
+
+<pagenum num="37"/>
+
+<hstage><speaker>MORON</speaker>, bas, au prince.</hstage>
+<p>Remettez-vous, et songez à répondre.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>D’où vient, prince, que vous ne dites mot, et semblez interdit ?</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Je le suis, à la vérité ; et j’admire, madame, comme le ciel a pu former deux âmes aussi semblables en tout que les nôtres, deux âmes en qui l’on ait vu une plus grande conformité de sentiments, qui aient fait éclater dans le même temps une résolution à braver les traits de l’Amour, et qui, dans le même moment, aient fait paroître une égale facilité à perdre le nom d’insensibles. Car enfin, madame, puisque votre exemple m’autorise, je ne feindrai point de vous dire que l’amour aujourd’hui s’est rendu maître de mon cœur, et qu’une des princesses, vos cousines, l’aimable et belle Aglante, a renversé d’un coup d’œil tous les projets de ma fierté. Je suis ravi, madame, que, par cette égalité de défaite, nous n’ayons rien à nous reprocher l’un à l’autre ; et je ne doute point que, comme je vous loue infiniment de votre choix, vous n’approuviez aussi le mien. Il faut que ce miracle éclate aux yeux de tout le monde, et nous ne devons point différer à nous rendre tous deux contents. Pour moi, madame, je vous sollicite de vos suffrages, pour obtenir celle que je souhaite, et vous trouverez bon que j’aille de ce pas en faire la demande au prince votre père.</p>
+
+<hstage><speaker>MORON</speaker>, bas, à Euryale.</hstage>
+<p>Ah ! digne, ah ! brave cœur !</p>
+
+<h3 id="p38">SCÈNE II. — LA PRINCESSE, MORON</h3>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Ah ! Moron, je n’en puis plus ; et ce coup, que je n’atten dois pas, triomphe absolument de toute ma fermeté.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Il est vrai que le coup est surprenant, et j’avois cru d’abord que votre stratagème avoit fait son effet.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Ah ! ce m’est un dépit à me désespérer, qu’une autre ait l’avantage de soumettre ce cœur que je voulois soumettre.</p>
+
+<h3 id="p39">SCÈNE III. — LA PRINCESSE, AGLANTE, MORON</h3>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Princesse, j’ai à vous prier d’une chose qu’il faut <pagenum num="38" b="absolu-" a="ment">absolument</pagenum> que vous m’accordiez. Le prince d’Ithaque vous aime et veut vous demander au prince mon père.</p>
+
+<hstage><speaker>AGLANTE</speaker></hstage>
+<p>Le prince d’Ithaque, madame ?</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Oui. Il vient de m’en assurer lui-même, et m’a demandé mon suffrage pour vous obtenir ; mais je vous conjure de rejeter cette proposition et de ne point prêter l’oreille à tout ce qu’il pourra vous dire.</p>
+
+<hstage><speaker>AGLANTE</speaker></hstage>
+<p>Mais, madame, s’il étoit vrai que ce prince m’aimât effectivement, pourquoi, n’ayant aucun dessein de vous engager, ne voudriez-vous pas souffrir...</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Non. Aglante. Je vous le demande. Faites-moi ce plaisir, je vous prie, et trouvez bon que, n’ayant pu avoir l’avantage de le soumettre, je lui dérobe la joie de vous obtenir.</p>
+
+<hstage><speaker>AGLANTE</speaker></hstage>
+<p>Madame, il faut vous obéir ; mais je croirois que la conquête d’un tel cœur ne seroit pas une victoire à dédaigner.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Non, non, il n’aura pas la joie de me braver entièrement.</p>
+
+<h3 id="p40">SCÈNE IV. — LA PRINCESSE, ARISTOMÈNE, AGLANTE, MORON</h3>
+
+<hstage><speaker>ARISTOMÈNE</speaker></hstage>
+<p>Madame, je viens à vos pieds rendre grâce à l’Amour de mes heureux destins, et vous témoigner avec mes transports le ressentiment où je suis des bontés surprenantes dont vous daignez favoriser le plus soumis de vos captifs.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>ARISTOMÈNE</speaker></hstage>
+<p>Le prince d’Ithaque, madame, vient de m’assurer tout à l’heure que votre cœur avoit eu la bonté de s’expliquer en ma faveur sur ce célèbre choix qu’attend toute la Grèce.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Il vous a dit qu’il tenoit cela de ma bouche ?</p>
+
+<hstage><speaker>ARISTOMÈNE</speaker></hstage>
+<p>Oui, madame.</p>
+
+<pagenum num="39"/>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>C’est un étourdi ; et vous êtes un peu trop crédule, prince, d’ajouter foi si promptement à ce qu’il vous a dit. Une pareille nouvelle méritoit bien, ce me semble, qu’on en doutât un peu de temps ; et c’est tout ce que vous pourriez faire de la croire, si je vous l’avois dite moi-même.</p>
+
+<hstage><speaker>ARISTOMÈNE</speaker></hstage>
+<p>Madame, si j’ai été trop prompt à me persuader...</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>De grâce, prince, brisons là ce discours ; et, si vous voulez m’obliger, souffrez que je puisse jouir de deux moments de solitude.</p>
+
+<h3 id="p41">SCÈNE V. — LA PRINCESSE, AGLANTE, MORON</h3>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Ah ! qu’en cette aventure le ciel me traite avec une rigueur étrange, au moins, princesse, souvenez-vous de la prière que je vous ai faite.</p>
+
+<hstage><speaker>AGLANTE</speaker></hstage>
+<p>Je vous l’ai dit, madame, il vous faut obéir.</p>
+
+<h3 id="p42">SCÈNE VI. — LA PRINCESSE, MORON</h3>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Mais, madame, s’il vous aimoit, vous n’en voudriez point, et cependant vous ne voulez pas qu’il soit à une autre. C’est faire justement comme le chien du jardinier<noteref noteid="note.39.1"/>.</p>
+
+<notes>
+  <note id="note.39.1">
+    <p>La phrase qui précède donne le sens de ce proverbe.</p>
+  </note>
+</notes>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Non, je ne puis souffrir qu’il soit heureux avec une autre ; et, si la chose étoit, je crois que j’en mourrois de déplaisir.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Ma foi, madame, avouons la dette<noteref noteid="note.39.2"/>. Vous voudriez qu’il fût à vous ; et, dans toutes vos actions, il est aisé de voir que vous aimez un peu ce jeune prince.</p>
+
+<notes>
+  <note id="note.39.2">
+    <p>C’est-à-dire, convenons du fait.</p>
+  </note>
+</notes>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Moi, je l’aime ! O ciel ! je l’aime ! Avez-vous l’insolence de prononcer ces paroles ? Sortez de ma vue, impudent, et ne vous présentez jamais devant moi !</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Madame...</p>
+
+<pagenum num="40"/>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Retirez-vous d’ici, vous dis-je, ou je vous en ferai retirer d’une autre manière !</p>
+
+<hstage><speaker>MORON</speaker>, bas, à part.</hstage>
+<p>Ma foi, son cœur en a sa provision ; et... <stage>Il rencontre un regard de la princesse, qui l’oblige à se retirer.</stage></p>
+
+<h3 id="p43">SCÈNE VII. — LA PRINCESSE, <i>seule.</i></h3>
+
+<p>De quelle émotion inconnue sens-je mon cœur atteint ? Et quelle inquiétude secrète est venue troubler tout d’un coup la tranquillité de mon âme ? Ne seroit-ce point aussi ce qu’on vient de me dire ? et, sans en rien savoir, n’aimerois-je point ce jeune prince ? Ah ! si cela étoit, je serois personne à me désespérer ! mais il est impossible que cela soit, et je vois bien que je ne puis pas l’aimer. Quoi ! je serois capable de cette lâcheté ! J’ai vu toute la terre à mes pieds avec la plus grande insensibilité du monde ; les respects, les hommages et les soumissions, n’ont jamais pu toucher mon âme, et la fierté et le dédain en auroient triomphé ! J’ai méprisé tous ceux qui m’ont aimée, et j’aimerois le seul qui me méprise ! Non, non, je sais bien que je ne l’aime pas. Il n’y a pas de raison à cela. Mais, si ce n’est pas de l’amour que ce que je sens maintenant, qu’est-ce donc que ce peut-être ! et d’où vient ce poison qui me court par toutes les veines, et ne me laisse point en repos avec moi-même ? Sors de mon cœur, qui que tu sois, ennemi qui te caches. Attaque-moi visiblement, et deviens à mes yeux la plus affreuse bête de tous nos bois, afin que mon dard et mes flèches me puissent défaire de toi.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p44">QUATRIÈME INTERMÈDE</h2>
+ 
+<h3 id="p45">SCÈNE I. — LA PRINCESSE, <i>seule.</i></h3>
+
+<p>O vous, admirables personnes, qui, par la douceur de vos chants, avez l’art d’adoucir les plus fâcheuses inquiétudes, approchez-vous d’ici, de grâce ; et tâchez de charmer, avec votre musique, le chagrin où je suis.</p>
+
+<h3 id="p46">SCÈNE II. — LA PRINCESSE, CLIMÈNE, PHILIS</h3>
+
+<hstage><speaker>CLIMÊNE</speaker> chante.</hstage>
+<l indent="c">Chère Philis, dis-moi, que crois-tu de l’amour ?</l>
+
+<pagenum num="41"/>
+
+<hstage><speaker>PHILIS</speaker> chante.</hstage>
+<l indent="c">Toi-même, qu’en crois-tu, ma compagne fidèle ?</l>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<l indent="c">On m’a dit que sa flamme est pire qu’un vautour,</l>
+<l indent="c">Et qu’on souffre, en aimant, une peine cruelle.</l>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<l indent="c">On m’a dit qu’il n’est point de passion plus belle,</l>
+<l indent="c">Et que ne pas aimer, c’est renoncer au jour.</l>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<l indent="c">A qui des deux donnerons-nous victoire ?</l>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<l indent="c">Qu’en croirons-nous, ou le mal, ou le bien ?</l>
+
+<hstage><speaker>TOUTES DEUX ENSEMBLE</speaker></hstage>
+<l indent="c">Aimons, c’est le vrai moyen</l>
+<l indent="c">De savoir ce qu’on en doit croire.</l>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<l indent="c">Chloris vante partout l’amour et ses ardeurs.</l>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<l indent="c">Amarante pour lui verse en tous lieux des larmes.</l>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<l indent="c">Si de tant de tourments il accable les cœurs,</l>
+<l indent="c">D’où vient qu’on aime à lui rendre les armes ?</l>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<l indent="c">Si sa flamme, Philis, est si pleine de charmes,</l>
+<l indent="c">Pourquoi nous défend-on d’en goûter les douceurs ?</l>
+
+<hstage><speaker>PHILIS</speaker></hstage>
+<l indent="c">A qui des deux donnerons-nous victoire ?</l>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<l indent="c">Qu’en croirons-nous, ou le mal, ou le bien ?</l>
+
+<hstage><speaker>TOUTES DEUX ENSEMBLE</speaker></hstage>
+<l indent="c">Aimons, c’est le vrai moyen</l>
+<l indent="c">De savoir ce qu’on en doit croire.</l>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Achevez seules, si vous voulez. Je ne saurais demeurer en repos ; et quelque douceur qu’aient vos chants, ils ne font que redoubler mon inquiétude.</p>
+
+<vsep class="rule"/>
+
+<pagenum num="42"/>
+
+<h2 id="p47">ACTE CINQUIÈME</h2>
+
+<h3 id="p48">SCÈNE I. — IPHITAS, EURYALE, AGLANTE, CYNTHIE, MORON</h3>
+
+<hstage><speaker>MORON</speaker>, à Iphitas.</hstage>
+<p>Oui, seigneur, ce n’est point raillerie ; j’en suis ce qu’on appelle disgracié. Il m’a fallu tirer mes chausses au plus vite<noteref noteid="note.42.1"/>, et jamais vous n’avez vu un emportement plus brusque que le sien.</p>
+
+<notes>
+  <note id="note.42.1">
+    <p>Expression proverbiale pour : s’enfuir, quitter un lieu.</p>
+  </note>
+</notes>
+
+<hstage><speaker>IPHITAS</speaker>, à Euryale.</hstage>
+<p>Ah ! prince, que je devrai de grâce à ce stratagème amoureux, s’il faut qu’il ait trouvé le secret de toucher son cœur !</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Quelque chose, seigneur, que l’on vienne de vous en dire, je n’ose encore, pour moi, me flatter de ce doux espoir ; mais enfin, si ce n’est pas à moi trop de témérité que d’oser aspirer à l’honneur de votre alliance, si ma personne et mes États...</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Prince, n’entrons point dans ces compliments. Je trouve en vous de quoi remplir tous les souhaits d’un père ; et, si vous avez le cœur de ma fille, il ne vous manque rien.</p>
+
+<h3 id="p49">SCÈNE II. — LA PRINCESSE, IPHITAS, EURYALE, AGLANTE, CYNTHIE, MORON</h3>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>O ciel ! que vois-je ici ?</p>
+
+<hstage><speaker>IPHITAS</speaker>, à Euryale.</hstage>
+<p>Oui, l’honneur de votre alliance m’est d’un prix très considérable, et je souscris aisément de tous mes suffrages à la demande que vous me faites.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker>, à Iphitas.</hstage>
+<p>Seigneur, je me jette à vos pieds pour vous demander une grâce. Vous m’avez toujours témoigné une tendresse extrême, et je crois vous devoir bien plus par les bontés que vous m’avez fait voir que par le jour que vous m’avez donné. Mais, si jamais vous avez eu de l’amitié pour moi, je vous en demande aujourd’hui la plus sensible preuve que vous me puissiez accorder ; c’est de n’écouter point, seigneur, la demande de ce prince, et de ne pas souffrir que la princesse Aglante soit unie avec lui.</p>
+
+<pagenum num="43"/>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Et par quelle raison, ma fille, voudrois-tu t’opposer à cette union ?</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Par la raison que je hais ce prince, et que je veux, si je puis, traverser ses desseins.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Tu le hais, ma fille ?</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Oui, et de tout mon cœur, je vous l’avoue.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Et que t’a-t-il fait ?</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Il m’a méprisée.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Et comment ?</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Il ne m’a pas trouvée assez bien faite pour m’adresser ses vœux.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Et quelle offense te fait cela ? tu ne veux accepter personne.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>N’importe. Il me devoit aimer comme les autres, et me laisser au moins la gloire de le refuser. Sa déclaration me fait un affront ; et ce m’est une honte sensible qu’à mes yeux, et au milieu de votre cour, il a recherché une autre que moi.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Mais quel intérêt dois-tu prendre à lui ?</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>J’en prends, seigneur, à me venger de son mépris ; et comme je sais bien qu’il aime Aglante avec beaucoup d’ardeur, je veux empêcher, s’il vous plaît, qu’il ne soit heureux avec elle.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Cela te tient donc bien au cœur ?</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Oui, seigneur, sans doute, et, s’il obtient ce qu’il demande, vous me verrez expirer à vos yeux.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Va, va, ma fille, avoue franchement la chose. Le mérite <pagenum num="44"/>de ce prince t’a fait ouvrir les yeux, et tu l’aimes enfin, quoi que tu puisses dire.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Moi, seigneur !</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Oui, tu l’aimes.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Je l’aime, dites-vous ? et vous m’imputez cette lacheté ! O ciel ! quelle est mon infortune ! Puis-je bien, sans mourir, entendre ces paroles ? Et faut-il que je sois si malheureuse, qu’on me soupçonne de l’aimer ? Ah ! si c’étoit un autre que vous, seigneur, qui me tînt ce discours, je ne sais pas ce que je ne ferois point !</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Eh bien, oui, tu ne l’aimes pas. Tu le hais, j’y consens, et je veux bien, pour te contenter, qu’il n’épouse pas la princesse Aglante.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Ah ! seigneur, vous me donnez la vie !</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Mais, afin d’empêcher qu’il ne puisse être jamais à elle, il faut que tu le prennes pour toi.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Vous vous moquez, seigneur, et ce n’est pas ce qu’il demande.</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Pardonnez-moi, madame, je suis assez téméraire pour cela, et je prends à témoin le prince votre père si ce n’est pas vous que j’ai demandée. C’est trop vous tenir dans l’erreur ; il faut lever le masque, et, dussiez-vous vous en prévaloir contre moi, découvrir à vos yeux les véritables sentiments de mon cœur. Je n’ai jamais aimé que vous, et jamais je n’aimerai que vous. C’est vous, madame, qui m’avez enlevé cette qualité d’insensible que j’avois toujours affectée ; et tout ce que j’ai pu vous dire n’a été qu’une feinte qu’un mouvement secret m’a inspirée, et que je n’ai suivie qu’avec toutes les violences imaginables. Il falloit qu’elle cessât bientôt, sans doute, et je m’étonne seulement qu’elle ait pu durer la moitié d’un jour ; car, enfin, je mourois, je brûlois dans l’âme, quand je vous déguisois mes sentiments ; et jamais cœur n’a souffert une contrainte égale à la mienne. Que si cette feinte, madame, a quelque chose qui vous offense, je suis tout prêt <pagenum num="45"/>de mourir pour vous en venger ; vous n’avez qu’à parler, et ma main sur-le-champ fera gloire d’exécuter l’arrêt que vous prononcerez.</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Non, non, prince, je ne vous sais pas mauvais gré de m’avoir abusée ; et tout ce que vous m’avez dit, je l’aime bien mieux une feinte que non pas une vérité.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Si bien donc, ma fille, que tu veux bien accepter ce prince pour époux ?</p>
+
+<hstage><speaker>LA PRINCESSE</speaker></hstage>
+<p>Seigneur, je ne sais pas encore ce que je veux. Donnez-moi le temps d’y songer, je vous prie, et m’épargnez un peu la confusion où je suis.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Vous jugez, prince, ce que cela veut dire, et vous pouvez fonder là-dessus.</p>
+
+<hstage><speaker>EURYALE</speaker></hstage>
+<p>Je l’attendrai tant qu’il vous plaira, madame, cet arrêt de ma destinée ; et, s’il me condamne à la mort, je le suivrai sans murmure.</p>
+
+<hstage><speaker>IPHITAS</speaker></hstage>
+<p>Viens, Moron. C’est ici un jour de paix, et je te remets en grâce avec la princesse.</p>
+
+<hstage><speaker>MORON</speaker></hstage>
+<p>Seigneur, je serai meilleur courtisan une autre fois, et je me garderai bien de dire ce que je pense.</p>
+
+<h3 id="p50">SCÈNE III. — ARISTOMÈNE, THÉOCLE, IPHITAS, LA PRINCESSE, EURYALE, AGLANTE, CYNTHIE, MORON</h3>
+
+<hstage><speaker>IPHITAS</speaker>, aux princes de Messène et de Pyle.</hstage>
+<p>Je crains bien, princes, que le choix de ma fille ne soit pas en votre faveur ; mais voilà deux princesses qui peuvent bien vous consoler de ce petit malheur.</p>
+
+<hstage><speaker>ARISTOMÈNE</speaker></hstage>
+<p>Seigneur, nous savons prendre notre parti ; et, si ces aimables princesses n’ont point trop de mépris pour des cœurs qu’on a rebutés, nous pouvons revenir par elles à l’honneur de votre alliance.</p>
+
+<pagenum num="46"/>
+
+<h3 id="p51">SCÈNE IV. — IPHITAS, LA PRINCESSE, AGLANTE, CYNTHIE, PHILIS, EURYALE, ARISTOMÈNE, THÉOCLE, MORON</h3>
+
+<hstage><speaker>PHILIS</speaker>, à Iphitas.</hstage>
+<p>Seigneur, la déesse Vénus vient d’annoncer partout le changement du cœur de la princesse. Tous les pasteurs et toutes les bergères en témoignent leur joie par des danses et des chansons ; et, si ce n’est point un spectacle que vous méprisiez, vous allez voir l’allégresse publique se répandre jusques ici<noteref noteid="note.46.1"/>.</p>
+
+<notes>
+  <note id="note.46.1">
+    <p>Ce cinquième acte manque d’ampleur et n’est pas même en proportion des précédents, qui sont pourtant assez courts. (Auger.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p52">CINQUIÈME INTERMÈDE</h2>
+
+<h3 id="p53">BERGERS et BERGÈRES</h3>
+
+<hstage><speaker>QUATRE BERGERS ET DEUX BERGÈRES HÉROÏQUES</speaker> chantent la chanson suivante sur l’air de laquelle dansent d’autres bergers et bergères.</hstage>
+
+<l indent="c">Usez mieux, ô beautés fières !</l>
+<l indent="c">Du pouvoir de tout charmer :</l>
+<l indent="c">Aimez, aimables bergères ;</l>
+<l indent="c">Quelque fort qu’on s’en défende,</l>
+<l indent="c">Il faut y venir un jour ;</l>
+<l indent="c">Il n’est rien qui ne se rende</l>
+<l indent="c">Aux doux charmes de l’amour.</l>
+
+<vsep class="emptyline"/>
+
+<l indent="c">Songez de bonne heure à suivre</l>
+<l indent="c">Le plaisir de s’enflammer ;</l>
+<l indent="c">Un cœur ne commence à vivre</l>
+<l indent="c">Que du jour qu’il sait aimer.</l>
+<l indent="c">Quelque fort qu’on s’en défende,</l>
+<l indent="c">Il faut y venir un jour ;</l>
+<l indent="c">Il n’est rien qui ne se rende</l>
+<l indent="c">Aux doux charmes de l’amour.</l>
+
+<vsep class="rule"/>
+
+</page-sequence>
+</page-sequences>
+</bml>

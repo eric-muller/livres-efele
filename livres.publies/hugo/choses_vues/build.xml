@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='choses_vues_1'/>
+    <book x='choses_vues_2'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='choses_vues'/>
+  </target>
+
+  <target name='zipsources-book'/>
+</project>
+

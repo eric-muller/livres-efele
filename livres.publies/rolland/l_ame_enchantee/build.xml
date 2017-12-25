@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_annette_et_sylvie'/>
+    <book x='02_l_ete'/>
+    <book x='03_mere_et_fils'/>
+    <book x='04_la_mort_d_un_monde'/>
+    <book x='05_l_enfantement'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='l_ame_enchantee'/>
+  </target>
+
+  <target name='zipsources-book'/>
+
+</project>

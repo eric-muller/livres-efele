@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+
+<project name='livew' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+
+  <target name='books'>
+    <book x='01_discours_de_reception'/>
+    <book x='02_le_mariage_de_loti'/>
+    <book x='03_aziyade'/>
+
+    <book x='04_le_roman_d_un_spahi'/>
+    <book x='05_fleurs_d_ennui'/>
+
+    <book x='06_mon_frere_yves'/>
+    <book x='07_pecheur_d_islande'/>
+
+    <book x='08_a_la_memoire_de_madame_lee_childe'/>
+    <book x='09_propos_d_exil'/>
+    <book x='10_madame_chrysantheme'/>
+    <book x='11_japoneries_d_automne'/>
+
+    <book x='12_au_maroc'/>
+    <book x='13_le_roman_d_un_enfant'/>
+    <book x='14_le_livre_de_la_pitie_et_de_la_mort'/>
+
+    <book x='15_fantome_d_orient'/>
+    <book x='16_matelot'/>
+    <book x='17_l_exilee'/>
+
+    <book x='18_le_desert'/>
+    <book x='19_jerusalem'/>
+    <book x='20_la_galilee'/>
+    <book x='21_la_mosquee_verte'/>
+
+    <book x='22_ramuntcho'/>
+    <book x='23_figures_et_choses_qui_passaient'/>
+    <book x='24_reflets_sur_la_route_sombre'/>
+
+    <book x='25_rapport_sur_les_prix_de_vertu'/>
+    <book x='26_les_derniers_jours_de_pekin'/>
+    <book x='27_l_inde_sans_les_anglais'/>
+
+    <book x='28_vers_ispahan'/>
+    <book x='29_la_troisieme_jeunesse_de_madame_prune'/>
+
+  </target>
+
+  <target name='collections'>
+    <collection x='loti_calmann_levy'/>
+  </target>
+
+  <target name='zipsources-book'/>
+
+</project>

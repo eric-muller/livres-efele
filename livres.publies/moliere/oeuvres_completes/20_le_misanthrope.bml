@@ -1,0 +1,3438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5714615q"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000497"
+        creation="2017-05-01T08:06:59-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Le Misanthrope</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='20'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="Personnages"/>
+    <tocentry idref="p02" label="Acte premier">
+      <tocentry idref="p03" label="Scène I"/>
+      <tocentry idref="p04" label="Scène II"/>
+      <tocentry idref="p05" label="Scène III"/>
+    </tocentry>
+    <tocentry idref="p06" label="Acte second">
+      <tocentry idref="p07" label="Scène I"/>
+      <tocentry idref="p08" label="Scène II"/>
+      <tocentry idref="p09" label="Scène III"/>
+      <tocentry idref="p10" label="Scène IV"/>
+      <tocentry idref="p11" label="Scène V"/>
+      <tocentry idref="p12" label="Scène VI"/>
+      <tocentry idref="p13" label="Scène VII"/>
+    </tocentry>
+    <tocentry idref="p14" label="Acte troisième">
+      <tocentry idref="p15" label="Scène I"/>
+      <tocentry idref="p16" label="Scène II"/>
+      <tocentry idref="p17" label="Scène III"/>
+      <tocentry idref="p18" label="Scène IV"/>
+      <tocentry idref="p19" label="Scène V"/>
+      <tocentry idref="p20" label="Scène VI"/>
+      <tocentry idref="p21" label="Scène VII"/>
+    </tocentry>
+    <tocentry idref="p22" label="Acte quatrième">
+      <tocentry idref="p23" label="Scène I"/>
+      <tocentry idref="p24" label="Scène II"/>
+      <tocentry idref="p25" label="Scène III"/>
+      <tocentry idref="p26" label="Scène IV"/>
+    </tocentry>
+    <tocentry idref="p27" label="Acte cinquième">
+      <tocentry idref="p28" label="Scène I"/>
+      <tocentry idref="p29" label="Scène II"/>
+      <tocentry idref="p30" label="Scène III"/>
+      <tocentry idref="p31" label="Scène IV"/>
+      <tocentry idref="p32" label="Scène V"/>
+      <tocentry idref="p33" label="Scène VI"/>
+      <tocentry idref="p34" label="Scène VII"/>
+      <tocentry idref="p35" label="Scène VIII"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_2.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome second. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="141"/>
+
+<img src="images/frise14.png" class="center100" alt="frise"/>
+
+<h1>LE MISANTHROPE</h1>
+
+<h2>COMÉDIE EN CINQ ACTES</h2>
+
+<h2>1666</h2>
+
+<vsep class="rule"/>
+
+<h3 id="p01">PERSONNAGES</h3>
+
+<p class="sommaire">ALCESTE, amant de Célimène.</p>
+<p class="sommaire">PHILINTE, ami d’Alceste.</p>
+<p class="sommaire">ORONTE, amant de Célimène.</p>
+<p class="sommaire">CÉLIMÈNE, amante d’Alceste.</p>
+<p class="sommaire">ÉLIANTE, cousine de Célimène.</p>
+<p class="sommaire">ACASTE, marquis.</p>
+<p class="sommaire">CLITANDRE, marquis.</p>
+<p class="sommaire">BASQUE, valet de Célimène.</p>
+<p class="sommaire">UN GARDE, de la maréchaussée de France.</p>
+<p class="sommaire">DUBOIS, valet d’Alceste.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène se passe à Paris, dans la maison de Célimène.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p02">ACTE PREMIER</h2>
+
+<h3 id="p03">SCÈNE I. — PHILINTE, ALCESTE</h3>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Qu’est-ce donc ? qu’avez-vous ?</l>
+
+<hstage><speaker>ALCESTE</speaker>, assis.</hstage>
+ <l>Laissez-moi, je vous prie.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais encor, dites-moi quelle bizarrerie...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Laissez-moi là, vous dis-je, et courez vous cacher.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais on entend les gens au moins sans se fâcher.</l>
+
+<pagenum num="142"/>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Moi, je veux me fâcher, et ne veux point entendre.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Dans vos brusques chagrins je ne puis vous comprendre !</l>
+<l>Et, quoique amis enfin, je suis tout des premiers...</l>
+
+<hstage><speaker>ALCESTE</speaker>, se levant brusquement.</hstage>
+<l>Moi, votre ami ! Rayez cela de vos papiers.</l>
+<l>J’ai fait jusques ici profession de l’être ;</l>
+<l>Mais, après ce qu’en vous je viens de voir paroître,</l>
+<l>Je vous déclare net que je ne le suis plus,</l>
+<l>Et ne veux nulle place en des cœurs corrompus.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Je suis donc bien coupable, Alceste, à votre compte ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Allez, vous devriez mourir de pure honte ;</l>
+<l>Une telle action ne sauroit s’excuser,</l>
+<l>Et tout homme d’honneur s’en doit scandaliser.</l>
+<l>Je vous vois accabler un homme de caresses,</l>
+<l>Et témoigner pour lui les dernières tendresses ;</l>
+<l>De protestations, d’offres et de serments,</l>
+<l>Vous chargez la fureur de vos empressements :</l>
+<l>Et, quand je vous demande après quel est cet homme,</l>
+<l>A peine pouvez-vous dire comme il se nomme ;</l>
+<l>Votre chaleur pour lui tombe en vous séparant,</l>
+<l>Et vous me le traitez, à moi, d’indifférent !</l>
+<l>Morbleu ! c’est une chose indigne, lâche, infâme,</l>
+<l>De s’abaisser ainsi jusqu’à trahir son âme ;</l>
+<l>Et si, par un malheur, j’en avois fait autant</l>
+<l>Je m’irois, de regret, pendre tout à l’instant.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Je ne vois pas, pour moi, que le cas soit pendable ;</l>
+<l>Et je vous supplierai d’avoir pour agréable</l>
+<l>Que je me fasse un peu grâce sur votre arrêt,</l>
+<l>Et ne me pende pas pour cela, s’il vous plaît.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Que la plaisanterie est de mauvaise grâce !</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais, sérieusement, que voulez-vous qu’on fasse ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je veux qu’on soit sincère, et qu’en homme d’honneur</l>
+<l>On ne lâche aucun mot qui ne parte du cœur.</l>
+
+<pagenum num="143"/>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Lorsqu’un homme vous vient embrasser avec joie,</l>
+<l>Il faut bien le payer de la même monnoie,</l>
+<l>Répondre, comme on peut, à ses empressements,</l>
+<l>Et rendre offre pour offre, et serments pour serments.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non, je ne puis souffrir cette lâche méthode</l>
+<l>Qu’affectent la plupart de vos gens à la mode,</l>
+<l>Et je ne hais rien tant que les contorsions</l>
+<l>De tous ces grands faiseurs de protestations :</l>
+<l>Ces affables donneurs d’embrassades frivoles,</l>
+<l>Ces obligeants diseurs d’inutiles paroles ;</l>
+<l>Qui de civilités avec tous font combat.</l>
+<l>Et traitent du même air l’honnête homme et le fat.</l>
+<l>Quel avantage a-t-on qu’un homme vous caresse,</l>
+<l>Vous jure amitié, foi, zèle, estime, tendresse,</l>
+<l>Et vous fasse de vous un éloge éclatant,</l>
+<l>Lorsqu’au premier faquin il court en faire autant ?</l>
+<l>Non, non, il n’est point d’âme un peu bien située</l>
+<l>Qui veuille d’une estime ainsi prostituée ;</l>
+<l>Et la plus glorieuse a des régals peu chers,</l>
+<l>Dès qu’on voit qu’on nous mêle avec tout l’univers ;</l>
+<l>Sur quelque préférence une estime se fonde,</l>
+<l>Et c’est n’estimer rien qu’estimer tout le monde.</l>
+<l>Puisque vous y donnez, dans ces vices du temps,</l>
+<l>Morbleu ! vous n’êtes pas pour être de mes gens ;</l>
+<l>Je refuse d’un cœur la vaste complaisance</l>
+<l>Qui ne fait de mérite aucune différence ;</l>
+<l>Je veux qu’on me distingue, et, pour le trancher net,</l>
+<l>L’ami du genre humain n’est point du tout mon fait.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais, quand on est du monde, il faut bien que l’on rende</l>
+<l>Quelques dehors civils que l’usage demande.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non, vous dis-je ; on devroit châtier sans pitié</l>
+<l>Ce commerce honteux de semblants d’amitié.</l>
+<l>Je veux que l’on soit homme, et qu’en toute rencontre</l>
+<l>Le fond de notre cœur dans son discours se montre,</l>
+<l>Que ce soit lui qui parle, et que nos sentiments</l>
+<l>Ne se masquent jamais sous de vains compliments.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Il est bien des endroits où la pleine franchise</l>
+<pagenum num="144"/>
+<l>Deviendroit ridicule et seroit peu permise ;</l>
+<l>Et parfois, n’en déplaise à votre austère honneur,</l>
+<l>Il est bon de cacher ce qu’on a dans le cœur.</l>
+<l>Seroit-il à propos, et de la bienséance,</l>
+<l>De dire à mille gens tout ce que d’eux on pense ?</l>
+<l>Et quand on a quelqu’un qu’on hait ou qui déplaît,</l>
+<l>Lui doit-on déclarer la chose comme elle est ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont='true'>Quoi ! vous iriez dire à la vieille Émilie</l>
+<l>Qu’à son âge il sied mal de faire la jolie,</l>
+<l>Et que le blanc qu’elle a scandalise chacun ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Sans doute.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont='true'>A Dorilas, qu’il est trop importun ;</l>
+<l>Et qu’il n’est, à la cour, oreille qu’il ne lasse</l>
+<l>A conter sa bravoure et l’éclat de sa race ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Fort bien.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Vous vous moquez.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Je ne me moque point ;</l>
+<l>Et je vais n’épargner personne sur ce point.</l>
+<l>Mes yeux sont trop blessés, et la cour et la ville</l>
+<l>Ne m’offrent rien qu’objets à m’échauffer la bile ;</l>
+<l>J’entre en une humeur noire, en un chagrin profond,</l>
+<l>Quand je vois vivre entre eux les hommes comme ils font.</l>
+<l>Je ne trouve partout que lâche flatterie,</l>
+<l>Qu’injustice, intérêt, trahison, fourberie ;</l>
+<l>Je n’y puis plus tenir, j’enrage ; et mon dessein</l>
+<l>Est de rompre en visière à tout le genre humain.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Ce chagrin philosophe est un peu trop sauvage.</l>
+<l>Je ris des noirs accès où je vous envisage,</l>
+<l>Et crois voir en nous deux, sous mêmes soins nourris,</l>
+<l>Les deux frères que peint l’<i>École des Maris</i>,</l>
+<l>Dont...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Mon Dieu ! laissons là vos comparaisons fades.</l>
+
+<pagenum num="145"/>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Non : tout de bon, quittez toutes ces incartades.</l>
+<l>Le monde par vos soins ne se changera pas :</l>
+<l>Et, puisque la franchise a pour vous tant d’appas,</l>
+<l>Je vous dirai tout franc que cette maladie</l>
+<l>Partout où vous allez donne la comédie ;</l>
+<l>Et qu’un si grand courroux contre les mœurs du temps</l>
+<l>Vous tourne en ridicule auprès de bien des gens.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Tant mieux, morbleu ! tant mieux, c’est ce que je demande.</l>
+<l>Ce m’est un fort bon signe, et ma joie en est grande.</l>
+<l>Tous les hommes me sont à tel point odieux,</l>
+<l>Que je serois fâché d’être sage à leurs yeux.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Vous voulez un grand mal à la nature humaine.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Oui, j’ai conçu pour elle une effroyable haine.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Tous les pauvres mortels, sans nulle exception,</l>
+<l>Seront enveloppés dans cette aversion ?</l>
+<l>Encore en est-il bien, dans le siècle où nous sommes...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non, elle est générale, et je hais tous les hommes :</l>
+<l>Les uns, parce qu’ils sont méchants et malfaisants,</l>
+<l>Et les autres, pour être aux méchants complaisants,</l>
+<l>Et n’avoir pas pour eux ces haines vigoureuses</l>
+<l>Que doit donner le vice aux âmes vertueuses.</l>
+<l>De cette complaisance on voit l’injuste excès</l>
+<l>Pour le franc scélérat avec qui j’ai procès.</l>
+<l>Au travers de son masque on voit à plein le traître :</l>
+<l>Partout il est connu pour tout ce qu’il peut être ;</l>
+<l>Et ses roulements d’yeux, et son ton radouci,</l>
+<l>N’imposent qu’à des gens qui ne sont point d’ici.</l>
+<l>On sait que ce pied-plat, digne qu’on le confonde,</l>
+<l>Par de sales emplois s’est poussé dans le monde,</l>
+<l>Et que par eux son sort, de splendeur revêtu,</l>
+<l>Fait gronder le mérite et rougir la vertu ;</l>
+<l>Quelques titres honteux qu’en tous lieux on lui donne,</l>
+<l>Son misérable honneur ne voit pour lui personne :</l>
+<l>Nommez-le fourbe, infâme, et scélérat maudit,</l>
+<l>Tout le monde en convient, et nul n’y contredit.</l>
+<l>Cependant sa grimace est partout bien venue ;</l>
+<pagenum num="146"/>
+<l>On l’accueille, on lui rit ; partout il s’insinue ;</l>
+<l>Et s’il est, par la brigue, un rang à disputer,</l>
+<l>Sur le plus honnête homme on le voit l’emporter.</l>
+<l>Têtebleu ! ce me sont de mortelles blessures,</l>
+<l>De voir qu’avec le vice on garde des mesures ;</l>
+<l>Et parfois il me prend des mouvements soudains</l>
+<l>De fuir dans un désert l’approche des humains.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mon Dieu ! des mœurs du temps mettons-nous moins en peine.</l>
+<l>Et faisons un peu grâce à la nature humaine ;</l>
+<l>Ne l’examinons point dans la grande rigueur,</l>
+<l>Et voyons ses défauts avec quelque douceur.</l>
+<l>Il faut, parmi le monde, une vertu traitable ;</l>
+<l>A force de sagesse, on peut être blâmable,</l>
+<l>La parfaite raison fuit toute extrémité.</l>
+<l>Et veut que l’on soit sage avec sobriété<noteref noteid="note.146.1"/>.</l>
+<l>Cette grande roideur des vertus des vieux âges</l>
+<l>Heurte trop notre siècle et les communs usages ;</l>
+<l>Elle veut aux mortels trop de perfection :</l>
+<l>Il faut fléchir au temps sans obstination ;</l>
+<l>Et c’est une folie à nulle autre seconde,</l>
+<l>De vouloir se mêler de corriger le monde.</l>
+<l>J’observe, comme vous, cent choses tous les jours,</l>
+<l>Qui pourroient mieux aller, prenant un autre cours ;</l>
+<l>Mais, quoi qu’à chaque pas je puisse voir paroître,</l>
+<l>En courroux, comme vous, on ne me voit point être,</l>
+<l>Je prends tout doucement les hommes comme ils sont ;</l>
+<l>J’accoutume mon âme à souffrir ce qu’ils font,</l>
+<l>Et je crois qu’à la cour, de même qu’à la ville,</l>
+<l>Mon flegme est philosophe autant que votre bile.</l>
+
+<notes>
+  <note id="note.146.1">
+    <p>C’est exactement la pensée et l’expression de saint Paul : <i>Sapere ad sobrietatem.</i></p>
+  </note>
+</notes>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Mais ce flegme, monsieur, qui raisonnez si bien<noteref noteid="note.146.2"/>,</l>
+<l>Ce flegme pourra-t-il ne s’échauffer de rien ?</l>
+<l>Et s’il faut, par hasard, qu’un ami vous trahisse,</l>
+<l>Que, pour avoir vos biens, on dresse un artifice,</l>
+<l>Ou qu’on tâche à semer de méchants bruits de vous,</l>
+<l>Verrez-vous tout cela sans vous mettre en courroux ?</l>
+
+<notes>
+  <note id="note.146.2">
+    <p>V<s>AR</s>. Qui <i>raisonne</i> si bien.</p>
+  </note>
+</notes>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Oui, je vois ces défauts, dont votre âme murmure,</l>
+<l>Comme vices unis à l’humaine nature ;</l>
+<pagenum num="147"/>
+<l>Et mon esprit enfin n’est pas plus offensé</l>
+<l>De voir un homme fourbe, injuste, intéressé,</l>
+<l>Que de voir des vautours affamés de carnage,</l>
+<l>Des singes malfaisants, et des loups pleins de rage.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je me verrai trahir, mettre en pièces, voler,</l>
+<l>Sans que je sois... Morbleu ! je ne veux point parler,</l>
+<l>Tant ce raisonnement est plein d’impertinence !</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Ma foi, vous ferez bien de garder le silence.</l>
+<l>Contre votre partie éclatez un peu moins,</l>
+<l>Et donnez au procès une part de vos soins.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je n’en donnerai point, c’est une chose dite.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais qui voulez-vous donc qui pour vous sollicite ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Qui je veux ? La raison, mon bon droit, l’équité.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Aucun juge par vous ne sera visité ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non. Est-ce que ma cause est injuste ou douteuse ?</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>J’en demeure d’accord ; mais la brigue est fâcheuse.</l>
+<l>Et...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Non. J’ai résolu de n’en pas faire un pas.</l>
+<l>J’ai tort ou j’ai raison.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Ne vous y fiez pas.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je ne remuerai point.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Votre partie est forte,</l>
+<l>Et peut, par sa cabale, entraîner...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Il n’importe.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Vous vous tromperez.</l>
+
+<pagenum num="148"/>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Soit. J’en veux voir le succès<noteref noteid="note.148.1"/> :</l>
+
+<notes>
+  <note id="note.148.1">
+    <p>Succès signifiait alors issue quelconque, bonne ou mauvaise.</p>
+  </note>
+</notes>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">J’aurai le plaisir de perdre mon procès.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais enfin...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Je verrai dans cette plaiderie</l>
+<l>Si les hommes auront assez d’effronterie,</l>
+<l>Seront assez méchants, scélérats et pervers.</l>
+<l>Pour me faire injustice aux yeux de l’univers.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Quel homme !</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Je voudrois, m’en coutât-t-il grand’chose.</l>
+<l>Pour la beauté du fait, avoir perdu ma cause<noteref noteid="note.148.2"/>.</l>
+
+<notes>
+  <note id="note.148.2">
+    <p>On rit, non de la vertu et des scrupules honorables d’Alceste, mais de sa morosité, qui ne croirait pas acheter trop cher de la perte de ses biens le plaisir de pester contre l’iniquité des hommes.</p>
+  </note>
+</notes>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>On se riroit de vous, Alceste, tout de bon.</l>
+<l>Si l’on vous entendoit parler de la façon.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Tant pis pour qui riroit.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Mais cette rectitude</l>
+<l>Que vous voulez en tout avec exactitude,</l>
+<l>Cette pleine droiture où vous vous renfermez,</l>
+<l>La trouvez-vous ici dans ce que vous aimez ?</l>
+<l>Je m’étonne, pour moi, qu’étant, comme il le semble,</l>
+<l>Vous et le genre humain, si fort brouillés ensemble,</l>
+<l>Malgré tout ce qui peut vous le rendre odieux,</l>
+<l>Vous ayez pris chez lui ce qui charme vos yeux ;</l>
+<l>Et ce qui me surprend encore davantage,</l>
+<l>C’est cet étrange choix où votre cœur s’engage.</l>
+<l>La sincère Éliante a du penchant pour vous ;</l>
+<l>La prude Arsinoé vous voit d’un œil fort doux ;</l>
+<l>Cependant à leurs vœux votre âme se refuse,</l>
+<l>Tandis qu’en ses liens Célimène l’amuse,</l>
+<pagenum num="149"/>
+<l>De qui l’humeur coquette et l’esprit médisant</l>
+<l>Semblent si fort donner dans les mœurs d’à présent.</l>
+<l>D’où vient que, leur portant une haine mortelle,</l>
+<l>Vous pouvez bien souffrir ce qu’en tient cette belle ?</l>
+<l>Ne sont-ce plus défauts dans un objet si doux ?</l>
+<l>Ne les voyez-vous pas, ou les excusez-vous<noteref noteid="note.149.1"/> ?</l>
+
+<notes>
+  <note id="note.149.1">
+    <p>Cette passion si peu raisonnable est un trait de génie, un coup de maître. C’est par là que le poète oppose dramatiquement la passion au caractère et les met aux prises l’une avec l’autre. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non. L’amour que je sens pour cette jeune veuve</l>
+<l>Ne ferme point mes yeux aux défauts qu’on lui treuve ;</l>
+<l>Et je suis, quelque ardeur qu’elle m’ait pu donner,</l>
+<l>Le premier à les voir, comme à les condamner.</l>
+<l>Mais avec tout cela, quoi que je puisse faire,</l>
+<l>Je confesse mon foible ; elle a l’art de me plaire :</l>
+<l>J’ai beau voir ses défauts, et j’ai beau l’en blâmer,</l>
+<l>En dépit qu’on en ait, elle se fait aimer ;</l>
+<l>Sa grâce est la plus forte ; et sans doute ma flamme</l>
+<l>De ces vices du temps pourra purger son âme.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Si vous faites cela, vous ne ferez pas peu.</l>
+<l>Vous croyez être donc aimé d’elle ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Oui parbleu !</l>
+<l>Je ne l’aimerois pas, si je ne croyois l’être.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais, si son amitié pour vous se fait paroître,</l>
+<l>D’où vient que vos rivaux vous causent de l’ennui ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>C’est qu’un cœur bien atteint veut qu’on soit tout à lui,</l>
+<l>Et je ne viens ici qu’à dessein de lui dire</l>
+<l>Tout ce que là-dessus ma passion m’inspire.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Pour moi, si je n’avois qu’à former des désirs,</l>
+<l>Sa cousine Éliante auroit tous mes soupirs :</l>
+<l>Son cœur, qui vous estime, est solide et sincère,</l>
+<l>Et ce choix plus conforme étoit mieux votre affaire.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Il est vrai : ma raison me le dit chaque jour ;</l>
+<l>Mais la raison n’est pas ce qui règle l’amour.</l>
+
+<pagenum num="150"/>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Je crains fort pour vos feux ; et l’espoir où vous êtes</l>
+<l>Pourroit...</l>
+
+<h3 id="p04">SCÈNE II. — ORONTE, ALCESTE, PHILINTE</h3>
+
+<hstage><speaker>ORONTE</speaker>, à Alceste.</hstage>
+<l cont="true">J’ai su là-bas que, pour quelques emplettes,</l>
+<l>Éliante est sortie, et Célimène aussi ;</l>
+<l>Mais, comme l’on m’a dit que vous étiez ici,</l>
+<l>J’ai monté pour vous dire, et d’un cœur véritable,</l>
+<l>Que j’ai conçu pour vous une estime incroyable,</l>
+<l>Et que, depuis longtemps, cette estime m’a mis</l>
+<l>Dans un ardent désir d’être de vos amis.</l>
+<l>Oui, mon cœur au mérite aime à rendre justice,</l>
+<l>Et je brûle qu’un nœud d’amitié nous unisse.</l>
+<l>Je crois qu’un ami chaud, et de ma qualité,</l>
+<l>N’est pas assurément pour être rejeté.</l>
+
+<pstage>Pendant le discours d’Oronte, Alceste est rêveur, et semble ne pas entendre que c’est à lui qu’on parle. Il ne sort de sa rêverie que quand Oronte lui dit :</pstage>
+
+<l>C’est à vous, s’il vous plaît, que ce discours s’adresse.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>A moi, monsieur ?</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">A vous. Trouvez-vous qu’il vous blesse ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non pas. Mais la surprise est fort grande pour moi,</l>
+<l>Et je n’attendois pas l’honneur que je reçoi<noteref noteid="note.150.1"/>.</l>
+
+<notes>
+  <note id="note.150.1">
+    <p>Ne voilà-t-il pas Alceste lui-même qui paye tribut à cette politesse contre laquelle il vient de se déchaîner si fort ? Cette sorte d’inconséquence est un trait comique de plus. (F. L.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>L’estime où je vous tiens ne doit pas vous surprendre,</l>
+<l>Et de tout l’univers vous la pouvez prétendre.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Monsieur...</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">L’État n’a rien qui ne soit au-dessous</l>
+<l>Du mérite éclatant que l’on découvre en vous.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Monsieur...</l>
+
+<pagenum num="151"/>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">Oui, de ma part, je vous tiens préférable</l>
+<l>A tout ce que j’y vois de plus considérable.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Monsieur...</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">Sois-je du ciel écrasé, si je mens !</l>
+<l>Et, pour vous confirmer ici mes sentiments,</l>
+<l>Souffrez qu’à cœur ouvert, monsieur, je vous embrasse,</l>
+<l>Et qu’en votre amitié je vous demande place.</l>
+<l>Touchez là, s’il vous plaît. Vous me la promettez,</l>
+<l>Votre amitié ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Monsieur...</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">Quoi ! vous y résistez ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Monsieur, c’est trop d’honneur que vous me voulez faire ;</l>
+<l>Mais l’amitié demande un peu plus de mystère ;</l>
+<l>Et c’est assurément en profaner le nom,</l>
+<l>Que de vouloir le mettre à toute occasion.</l>
+<l>Avec lumière et choix cette union veut naître ;</l>
+<l>Avant que nous lier, il faut nous mieux connoître ;</l>
+<l>Et nous pourrions avoir telles complexions,</l>
+<l>Que tous deux du marché nous nous repentirions.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Parbleu ! c’est là-dessus parler en homme sage,</l>
+<l>Et je vous en estime encore davantage.</l>
+<l>Souffrons donc que le temps forme des nœuds si doux ;</l>
+<l>Mais cependant je m’offre entièrement à vous.</l>
+<l>S’il faut faire à la cour pour vous quelque ouverture,</l>
+<l>On sait qu’auprès du roi je fais quelque figure ;</l>
+<l>Il m’écoute, et dans tout il en use, ma foi,</l>
+<l>Le plus honnêtement du monde avecque moi.</l>
+<l>Enfin je suis à vous de toutes les manières ;</l>
+<l>Et, comme votre esprit a de grandes lumières,</l>
+<l>Je viens, pour commencer entre nous ce beau nœud,</l>
+<l>Vous montrer un sonnet que j’ai fait depuis peu,</l>
+<l>Et savoir s’il est bon qu’au public je l’expose.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Monsieur, je suis mal propre à décider la chose.</l>
+<l>Veuillez m’en dispenser.</l>
+
+<pagenum num="152"/>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">Pourquoi ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">J’ai le défaut</l>
+<l>D’être un peu plus sincère en cela qu’il ne faut.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>C’est ce que je demande ; et j’aurois lieu de plainte,</l>
+<l>Si, m’exposant à vous pour me parler sans feinte.</l>
+<l>Vous alliez me trahir et me déguiser rien<noteref noteid="note.152.1"/>.</l>
+
+<notes>
+  <note id="note.152.1">
+    <p>C’est avec la même bonne foi que Sganarelle, dans le <i>Mariage forcé</i>, conjure Géronimo « de ne point le flatter du tout et de lui dire nettement sa pensée. » (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Puisqu’il vous plaît ainsi, monsieur, je le veux bien.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l><i>Sonnet.</i> C’est un sonnet... <i>L’Espoir...</i> C’est une dame</l>
+<l>Qui de quelque espérance avoit flatté ma flamme.</l>
+<l><i>L’Espoir...</i> Ce ne sont point de ces grands vers pompeux,</l>
+<l>Mais de petits vers doux, tendres et langoureux.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Nous verrons bien.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true"><i>L’Espoir...</i> Je ne sais si le style</l>
+<l>Pourra vous en paroître assez net et facile,</l>
+<l>Et si du choix des mots vous vous contenterez.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Nous allons voir, monsieur.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l cont="true">Au reste, vous saurez</l>
+<l>Que je n’ai demeuré qu’un quart d’heure à le faire.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Voyons, monsieur : le temps ne fait rien à l’affaire.</l>
+
+<hstage><speaker>ORONTE</speaker> lit.</hstage>
+<poem>
+<l>L’espoir, il est vrai, nous soulage,</l>
+<l>Et nous berce un temps notre ennui ;</l>
+<l>Mais Philis, le triste avantage,</l>
+<l>Lorsque rien ne marche après lui.</l>
+</poem>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Je suis déjà charmé de ce petit morceau.</l>
+
+<hstage><speaker>ALCESTE</speaker>, bas, à Philinte.</hstage>
+<l>Quoi ! vous avez le front de trouver cela beau !</l>
+
+<pagenum num="153"/>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<poem>
+<l>Vous eûtes de la complaisance ;</l>
+<l>Mais vous en deviez moins avoir,</l>
+<l>Et ne vous pas mettre en dépense</l>
+<l>Pour ne me donner que l’espoir.</l>
+</poem>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Ah ! qu’en termes galants ces choses-là sont mises !</l>
+
+<hstage><speaker>ALCESTE</speaker>, bas, à Philinte.</hstage>
+<l>Eh quoi ! vil complaisant, vous louez des sottises ?</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<poem>
+<lg>
+<l>S’il faut qu’une attente éternelle</l>
+<l>Pousse à bout l’ardeur de mon zèle,</l>
+<l>Le trépas sera mon recours.</l>
+</lg>
+<lg>
+<l>Vos soins ne m’en peuvent distraire :</l>
+<l>Belle Philis, on désespère,</l>
+<l>Alors qu’on espère toujours.</l>
+</lg>
+</poem>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>La chute en est jolie, amoureuse, admirable.</l>
+
+<hstage><speaker>ALCESTE</speaker>, bas, à part.</hstage>
+<l>La peste de ta chute, empoisonneur, au diable !</l>
+<l>En eusses-tu fait une à te casser le nez !</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Je n’ai jamais ouï de vers si bien tournés.</l>
+
+<hstage><speaker>ALCESTE</speaker>, bas, à part.</hstage>
+<l>Morbleu !</l>
+
+<hstage><speaker>ORONTE</speaker>, à Philinte.</hstage>
+<l cont="true">Vous me flattez, et vous croyez peut-être...</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Non, je ne flatte point.</l>
+
+<hstage><speaker>ALCESTE</speaker>, bas, à part.</hstage>
+<l cont="true">Eh ! que fais-tu donc, traître ?</l>
+
+<hstage><speaker>ORONTE</speaker>, à Alceste.</hstage>
+<l>Mais pour vous, vous savez quel est notre traité.</l>
+<l>Parlez-moi, je vous prie, avec sincérité.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Monsieur, cette matière est toujours délicate,</l>
+<l>Et sur le bel esprit nous aimons qu’on nous flatte.</l>
+<l>Mais, un jour, à quelqu’un dont je tairai le nom,</l>
+<l>Je disois, en voyant des vers de sa façon,</l>
+<l>Qu’il faut qu’un galant homme ait toujours grand empire</l>
+<pagenum num="154"/>
+<l>Sur les démangeaisons qui nous prennent d’écrire ;</l>
+<l>Qu’il doit tenir la bride aux grands empressements</l>
+<l>Qu’on a de faire éclat de tels amusements ;</l>
+<l>Et que, par la chaleur de montrer ses ouvrages,</l>
+<l>On s’expose à jouer de mauvais personnages.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Est-ce que vous voulez me déclarer par là</l>
+<l>Que j’ai tort de vouloir...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Je ne dis pas cela.</l>
+<l>Mais je lui disois, moi, qu’un froid écrit assomme,</l>
+<l>Qu’il ne faut que ce foible à décrier un homme,</l>
+<l>Et qu’eût-on d’autre part cent belles qualités,</l>
+<l>On regarde les gens par leurs méchants côtés.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Est-ce qu’à mon sonnet vous trouvez à redire ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je ne dis pas cela. Mais, pour ne point écrire,</l>
+<l>Je lui mettois aux yeux comme, dans notre temps,</l>
+<l>Cette soif a gâté de fort honnêtes gens.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Est-ce que j’écris mal, et leur ressemblerois-je ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je ne dis pas cela. Mais enfin, lui disois-je,</l>
+<l>Quel besoin si pressant avez-vous de rimer ?</l>
+<l>Et qui diantre vous pousse à vous faire imprimer ?</l>
+<l>Si l’on peut pardonner l’essor d’un mauvais livre,</l>
+<l>Ce n’est qu’aux malheureux qui composent pour vivre.</l>
+<l>Croyez-moi, résistez à vos tentations ;</l>
+<l>Dérobez au public ces occupations,</l>
+<l>Et n’allez point quitter, de quoi que l’on vous somme,</l>
+<l>Le nom que dans la cour vous avez d’honnête homme,</l>
+<l>Pour prendre, de la main d’un avide imprimeur,</l>
+<l>Celui de ridicule et misérable auteur.</l>
+<l>C’est ce que je tâchai de lui faire comprendre.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Voilà qui va fort bien, et je crois vous entendre.</l>
+<l>Mais ne puis-je savoir ce que dans mon sonnet...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Franchement, il est bon à mettre au cabinet.</l>
+<l>Vous vous êtes réglé sur de méchants modèles,</l>
+<pagenum num="155"/>
+<l>Et vos expressions ne sont point naturelles.</l>
+
+<l>Qu’est-ce que : <i>Nous berce un temps notre ennui ?</i></l>
+<l>Et que : <i>Rien ne marche après lui ?</i></l>
+<l>Que : <i>Ne vous pas mettre en dépense</i></l>
+<l><i>Pour ne me donner que l’espoir ?</i></l>
+<l>Et que : <i>Philis, on désespère</i>,</l>
+<l><i>Alors qu’on espère toujours ?</i></l>
+
+<l>Ce style figuré, dont on fait vanité,</l>
+<l>Sort du bon caractère et de la vérité ;</l>
+<l>Ce n’est que jeu de mots, qu’affectation pure,</l>
+<l>Et ce n’est point ainsi que parle la nature.</l>
+<l>Le méchant goût du siècle en cela me fait peur ;</l>
+<l>Nos pères, tout grossiers, l’avoient beaucoup meilleur ;</l>
+<l>Et je prise bien moins tout ce que l’on admire</l>
+<l>Qu’une vieille chanson que je m’en vais vous dire.</l>
+
+<poem>
+<l indent="c">Si le roi m’avoit donné</l>
+<l indent="c">Paris, sa grand’ville,</l>
+<l indent="c">Et qu’il me fallût quitter</l>
+<l indent="c">L’amour de ma mie,</l>
+<l indent="c">Je dirois au roi Henri :</l>
+<l indent="c">Reprenez votre Paris ;</l>
+<l indent="c">J’aime mieux ma mie, ô gué !</l>
+<l indent="c">J’aime mieux ma mie.</l>
+</poem>
+
+<l>La rime n’est pas riche, et le style en est vieux :</l>
+<l>Mais ne voyez-vous pas que cela vaut bien mieux</l>
+<l>Que ces colifichets dont le bon sens murmure,</l>
+<l>Et que la passion parle là toute pure ?</l>
+
+<poem>
+<l indent="c">Si le roi m’avoit donné</l>
+<l indent="c">Paris, sa grand’ville,</l>
+<l indent="c">Et qu’il me fallût quitter</l>
+<l indent="c">L’amour de ma mie,</l>
+<l indent="c">Je dirois au roi Henri :</l>
+<l indent="c">Reprenez votre Paris ;</l>
+<l indent="c">J’aime mieux ma mie, ô gué !</l>
+<l indent="c">J’aime mieux ma mie.</l>
+</poem>
+
+<l>Voilà ce que peut dire un cœur vraiment épris.</l>
+
+<pstage>A Philinte, qui rit.</pstage>
+
+<l>Oui, monsieur le rieur, malgré vos beaux esprits,</l>
+<l>J’estime plus cela que la pompe fleurie</l>
+<l>De tous ces faux brillants où chacun se récrie.</l>
+
+<pagenum num="156"/>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Et moi, je vous soutiens que mes vers sont fort bons.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Pour les trouver ainsi, vous avez vos raisons ;</l>
+<l>Mais vous trouverez bon que j’en puisse avoir d’autres</l>
+<l>Qui se dispenseront de se soumettre aux vôtres.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Il me suffit de voir que d’autres en font cas.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>C’est qu’ils ont l’art de feindre ; et moi, je ne l’ai pas.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Croyez-vous donc avoir tant d’esprit en partage ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Si je louois vos vers, j’en aurois davantage.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Je me passerai fort que vous les approuviez.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Il faut bien, s’il vous plaît, que vous vous en passiez.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Je voudrois bien, pour voir, que, de votre manière,</l>
+<l>Vous en composassiez sur la même matière.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>J’en pourrois, par malheur, faire d’aussi méchants ;</l>
+<l>Mais je me garderois de les montrer aux gens.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Vous me parlez bien ferme ; et cette suffisance...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Autre part que chez moi cherchez qui vous encense.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Mais, mon petit monsieur, prenez-le un peu moins haut.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ma foi, mon grand monsieur, je le prends comme il faut.</l>
+
+<hstage><speaker>PHILINTE</speaker>, se mettant entre deux.</hstage>
+<l>Eh ! messieurs, c’en est trop. Laissez cela, de grâce.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Ahl j’ai tort, je l’avoue, et je quitte la place.</l>
+<l>Je suis votre valet, monsieur, de tout mon cœur.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Et moi, je suis, monsieur, votre humble serviteur.</l>
+
+<pagenum num="157"/>
+
+<h3 id="p05">SCÈNE III. — PHILINTE, ALCESTE</h3>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Eh bien, vous le voyez. Pour être trop sincère,</l>
+<l>Vous voilà sur les bras une fâcheuse affaire :</l>
+<l>Et j’ai bien vu qu’Oronte, afin d’être flatté...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ne me parlez pas.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Mais...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Plus de société.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>C’est trop...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Laissez-moi là.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Si je...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Point de langage.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais quoi !...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Je n’entends rien.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Mais...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Encore !</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">On outrage.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ah ! parbleu ! c’en est trop. Ne suivez point mes pas.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Vous vous moquez de moi. Je ne vous quitte pas.</l>
+
+<vsep class="rule"/>
+
+<h2 id="p06">ACTE SECOND</h2>
+
+<h3 id="p07">SCÈNE I. — ALCESTE, CÉLIMÈNE</h3>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Madame, voulez-vous que je vous parle net ?</l>
+<pagenum num="158"/>
+<l>De vos façons d’agir je suis mal satisfait :</l>
+<l>Contre elles dans mon cœur trop de bile s’assemble,</l>
+<l>Et je sens qu’il faudra que nous rompions ensemble.</l>
+<l>Oui, je vous tromperois de parler autrement ;</l>
+<l>Tôt ou tard nous romprons indubitablement ;</l>
+<l>Et je vous promettrois mille fois le contraire,</l>
+<l>Que je ne serois pas en pouvoir de le faire.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>C’est pour me quereller donc, à ce que je voi</l>
+<l>Que vous avez voulu me ramener chez moi ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je ne querelle point. Mais votre humeur, madame,</l>
+<l>Ouvre au premier venu trop d’accès dans votre âme.</l>
+<l>Vous avez trop d’amants qu’on voit vous obséder,</l>
+<l>Et mon cœur de cela ne peut s’accommoder.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Des amants que je fais me rendez-vous coupable ?</l>
+<l>Puis-je empêcher les gens de me trouver aimable,</l>
+<l>Et, lorsque pour me voir ils font de doux efforts,</l>
+<l>Dois-je prendre un bâton pour les mettre dehors ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non, ce n’est pas, madame, un bâton qu’il faut prendre,</l>
+<l>Mais un cœur à leurs vœux moins facile et moins tendre.</l>
+<l>Je sais que vos appas vous suivent en tous lieux ;</l>
+<l>Mais votre accueil retient ceux qu’attirent vos yeux,</l>
+<l>Et sa douceur offerte à qui vous rend les armes</l>
+<l>Achève sur les cœurs l’ouvrage de vos charmes.</l>
+<l>Le trop riant espoir que vous leur présentez</l>
+<l>Attache autour de vous leurs assiduités ;</l>
+<l>Et votre complaisance, un peu moins étendue,</l>
+<l>De tant de soupirants chasserait la cohue.</l>
+<l>Mais, au moins, dites-moi, madame, par quel sort</l>
+<l>Votre Clitandre a l’heur<noteref noteid="note.158.1"/> de vous plaire si fort.</l>
+<l>Sur quel fonds de mérite et de vertu sublime</l>
+<l>Appuyez-vous en lui l’honneur de votre estime ?</l>
+<l>Est-ce par l’ongle long qu’il porte au petit doigt</l>
+<l>Qu’il s’est acquis chez vous l’estime où l’on le voit ?</l>
+<l>Vous êtes-vous rendue, avec tout le beau monde,</l>
+<l>Au mérite éclatant de sa perruque blonde ?</l>
+<l>Sont-ce ses grands canons qui vous le font aimer ?</l>
+<l>L’amas de ses rubans a-t-il su vous charmer ?</l>
+<pagenum num="159"/>
+<l>Est-ce par les appas de sa vaste rhingrave</l>
+<l>Qu’il a gagné votre âme en faisant votre esclave ?</l>
+<l>Ou sa façon de rire et son ton de fausset</l>
+<l>Ont-ils de vous toucher su trouver le secret ?</l>
+
+<notes>
+  <note id="note.158.1">
+    <p><i>Heur</i>, pour <i>bonheur ;</i> vieux mot regretté par La Bruyère.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Qu’injustement de lui vous prenez de l’ombrage !</l>
+<l>Ne savez-vous pas bien pourquoi je le ménage,</l>
+<l>Et que dans mon procès, ainsi qu’il m’a promis,</l>
+<l>Il peut intéresser tout ce qu’il a d’amis ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Perdez votre procès, madame, avec constance,</l>
+<l>Et ne ménagez point un rival qui m’offense.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Mais de tout l’univers vous devenez jaloux.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>C’est que tout l’univers est bien reçu de vous.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>C’est ce qui doit rasseoir votre âme effarouchée,</l>
+<l>Puisque ma complaisance est sur tous épanchée ;</l>
+<l>Et vous auriez plus lieu de vous en offenser,</l>
+<l>Si vous me la voyiez sur un seul ramasser.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Mais moi, que vous blâmez de trop de jalousie,</l>
+<l>Qu’ai-je de plus qu’eux tous, madame, je vous prie ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Le bonheur de savoir que vous êtes aimé.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Et quel lieu de le croire a<noteref noteid="note.159.1"/> mon cœur enflammé ?</l>
+
+<notes>
+  <note id="note.159.1">
+    <p>L’édition originale porte <i>à</i>, préposition, au lieu de <i>a</i>, verbe, que presque tous les autres éditeurs ont adopté. Auger préfère la leçon de l’édition originale. Il la trouve plus vive et plus expressive. (F. L.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Je pense qu’ayant pris le soin de vous le dire,</l>
+<l>Un aveu de la sorte a de quoi vous suffire.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Mais qui m’assurera que, dans le même instant,</l>
+<l>Vous n’en disiez, peut-être, aux autres tout autant ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Certes, pour un amant la fleurette est mignonne,</l>
+<l>Et vous me traitez là de gentille personne.</l>
+<l>Eh bien, pour vous ôter d’un semblable souci,</l>
+<pagenum num="160"/>
+<l>De tout ce que j’ai dit je me dédis ici ;</l>
+<l>Et rien ne sauroit plus vous tromper que vous-même :</l>
+<l>Soyez content.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Morbleu ! faut-il que je vous aime !</l>
+<l>Ah ! que si de vos mains je rattrape mon cœur,</l>
+<l>Je bénirai le ciel de ce rare bonheur !</l>
+<l>Je ne le cèle pas, je fais tout mon possible</l>
+<l>A rompre de ce cœur l’attachement terrible ;</l>
+<l>Mais mes plus grands efforts n’ont rien fait jusqu’ici</l>
+<l>Et c’est pour mes péchés que je vous aime ainsi.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Il est vrai, votre ardeur est pour moi sans seconde.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Oui, je puis là-dessus défier tout le monde.</l>
+<l>Mon amour ne se peut concevoir ; et jamais</l>
+<l>Personne n’a, madame, aimé comme je fais.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>En effet, la méthode en est toute nouvelle,</l>
+<l>Car vous aimez les gens pour leur faire querelle ;</l>
+<l>Ce n’est qu’en mots fâcheux qu’éclate votre ardeur,</l>
+<l>Et l’on n’a vu jamais un amant si grondeur.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Mais il ne tient qu’à vous que son chagrin ne passe,</l>
+<l>A tous nos démêlés coupons chemin, de grâce ;</l>
+<l>Parlons à cœur ouvert, et voyons d’arrêter...</l>
+
+<h3 id="p08">SCÈNE II. — CÉLIMÈNE, ALCESTE, BASOUE</h3>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Qu’est-ce ?</l>
+
+<hstage><speaker>BASQUE</speaker></hstage>
+<l cont="true">Acaste est là-bas.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Eh bien, faites monter.</l>
+
+<h3 id="p09">SCÈNE III. — CÉLIMÈNE, ALCESTE</h3>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Quoi ! l’on ne peut jamais vous parler tête à tête ?</l>
+<l>A recevoir le monde on vous voit toujours prête ;</l>
+<l>Et vous ne pouvez pas, un seul moment de tous,</l>
+<l>Vous résoudre à souffrir de n’être pas chez vous.</l>
+
+<pagenum num="161"/>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Voulez-vous qu’avec lui je me fasse une affaire ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Vous avez des égards qui ne sauroient me plaire.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>C’est un homme à jamais ne me le pardonner,</l>
+<l>S’il savoit que sa vue eût pu m’importuner.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Et que vous fait cela, pour vous gêner de sorte ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Mon Dieu ! de ses pareils la bienveillance importe,</l>
+<l>Et ce sont de ces gens qui, je ne sais comment,</l>
+<l>Ont gagné, dans la cour, de parler hautement.</l>
+<l>Dans tous les entretiens on les voit s’introduire,</l>
+<l>Ils ne sauroient servir, mais ils peuvent vous nuire,</l>
+<l>Et jamais, quelque appui qu’on puisse avoir d’ailleurs,</l>
+<l>On ne doit se brouiller avec ces grands brailleurs.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Enfin, quoi qu’il en soit, et sur quoi qu’on se fonde,</l>
+<l>Vous trouvez des raisons pour souffrir tout le monde,</l>
+<l>Et les précautions de votre jugement...</l>
+
+<h3 id="p10">SCÈNE IV. — ALCESTE, CÉLIMÈNE, BASQUE</h3>
+
+<hstage><speaker>BASQUE</speaker></hstage>
+<l>Voici Clitandre encor, madame.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Justement.</l>
+<pstage>Il témoigne s’en vouloir aller.</pstage>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Où courez-vous ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Je sors.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Demeurez.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Pourquoi faire ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Demeurez.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Je ne puis.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Je le veux.</l>
+
+<pagenum num="162"/>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Point d’affaire.</l>
+<l>Ces conversations ne font que m’ennuyer,</l>
+<l>Et c’est trop que vouloir me les faire essuyer.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Je le veux, je le veux.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Non, il m’est impossible.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Eh bien, allez, sortez, il vous est tout loisible.</l>
+
+<h3 id="p11">SCÈNE V. — ÉLIANTE, PHILINTE, ACASTE, CLITANDRE, ALCESTE, CÉLIMÈNE, BASQUE</h3>
+
+<hstage><speaker>ÉLIANTE</speaker>, à Célimène.</hstage>
+<l>Voici les deux marquis qui montent avec nous.</l>
+<l>Vous l’est-on venu dire ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker>, à Basque.</hstage>
+<l cont="true">Oui. Des sièges pour tous.</l>
+<pstage>Basque donne des sièges et sort.</pstage>
+<pstage>A Alceste.</pstage>
+<l>Vous n’êtes pas sorti ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Non ; mais je veux, madame,</l>
+<l>Ou pour eux, ou pour moi, faire expliquer votre âme.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Taisez-vous.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Aujourd’hui vous vous expliquerez.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Vous perdez le sens.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Point. Vous vous déclarerez.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Ah !</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Vous prendrez parti.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Vous vous moquez, je pense.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non. Mais vous choisirez : c’est trop de patience.</l>
+
+<pagenum num="163"/>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Parbleu ! je viens du Louvre, où Cléonte, au levé,</l>
+<l>Madame, a bien paru ridicule achevé.</l>
+<l>N’a-t-il point quelque ami qui pût, sur ses manières,</l>
+<l>D’un charitable avis lui prêter les lumières ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Dans le monde, à vrai dire, il se barbouille fort ;</l>
+<l>Partout il porte un air qui saute aux yeux d’abord ;</l>
+<l>Et, lorsqu’on le revoit après un peu d’absence,</l>
+<l>On le retrouve encor plus plein d’extravagance.</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Parbleu ! s’il faut parler de gens extravagants,</l>
+<l>Je viens d’en essuyer un des plus fatigants :</l>
+<l>Damon le raisonneur, qui m’a, ne vous déplaise,</l>
+<l>Une heure, au grand soleil, tenu hors de ma chaise.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>C’est un parleur étrange, et qui trouve toujours</l>
+<l>L’art de ne vous rien dire avec de grands discours ;</l>
+<l>Dans les propos qu’il tient on ne voit jamais goutte,</l>
+<l>Et ce n’est que du bruit que tout ce qu’on écoute.</l>
+
+<hstage><speaker>ÉLIANTE</speaker>, à Philinte.</hstage>
+<l>Ce début n’est pas mal ; et, contre le prochain,</l>
+<l>La conversation prend un assez bon train.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Timante encor, madame, est un bon caractère.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>C’est de la tête aux pieds un homme tout mystère,</l>
+<l>Qui vous jette, en passant, un coup d’œil égaré,</l>
+<l>Et, sans aucune affaire, est toujours affairé.</l>
+<l>Tout ce qu’il vous débite en grimaces abonde ;</l>
+<l>A force de façons, il assomme le monde :</l>
+<l>Sans cesse il a tout bas, pour rompre l’entretien,</l>
+<l>Un secret à vous dire, et ce secret n’est rien ;</l>
+<l>De la moindre vétille il fait une merveille,</l>
+<l>Et, jusques au bonjour, il dit tout à l’oreille.</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Et Géralde, madame ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">O l’ennuyeux conteur !</l>
+<l>Jamais on ne le voit sortir du grand seigneur.</l>
+<l>Dans le brillant commerce il se mêle sans cesse.</l>
+<pagenum num="164"/>
+<l>Et ne cite jamais que duc, prince, ou princesse.</l>
+<l>La qualité l’entête ; et tous ses entretiens</l>
+<l>Ne sont que de chevaux, d’équipage, et de chiens.</l>
+<l>Il tutaye en parlant ceux du plus haut étage,</l>
+<l>Et le nom de monsieur est chez lui hors d’usage.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>On dit qu’avec Bélise il est du dernier bien.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Le pauvre esprit de femme, et le sec entretien !</l>
+<l>Lorsqu’elle vient me voir, je souffre le martyre ;</l>
+<l>Il faut suer sans cesse à chercher que lui dire ;</l>
+<l>Et la stérilité de son expression</l>
+<l>Fait mourir à tous coups la conversation.</l>
+<l>En vain, pour attaquer son stupide silence,</l>
+<l>De tous les lieux communs vous prenez l’assistance :</l>
+<l>Le beau temps et la pluie, et le froid et le chaud,</l>
+<l>Sont des fonds qu’avec elle on épuise bientôt.</l>
+<l>Cependant sa visite, assez insupportable,</l>
+<l>Traîne en une longueur encore épouvantable :</l>
+<l>Et l’on demande l’heure, et l’on bâille vingt fois.</l>
+<l>Qu’elle grouille<noteref noteid="note.164.1"/> aussi peu qu’une pièce de bois.</l>
+
+<notes>
+  <note id="note.164.1">
+    <p>Qu’elle <i>s’émeut autant ;</i> — qu’elle <i>remue autant</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Que vous semble d’Adraste ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Ah ! quel orgueil extrême !</l>
+<l>C’est un homme gonflé de l’amour de soi-même.</l>
+<l>Son mérite jamais n’est content de la cour.</l>
+<l>Contre elle il fait métier de pester chaque jour.</l>
+<l>Et l’on ne donne emploi, charge, ni bénéfice,</l>
+<l>Qu’à tout ce qu’il se croit on ne fasse injustice.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Mais le jeune Cléon, chez qui vont aujourd’hui</l>
+<l>Nos plus honnêtes gens, que dites vous de lui ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Que de son cuisinier il s’est fait un mérite,</l>
+<l>Et que c’est à sa table à qui l’on rend visite.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Il prend soin d’y servir des mets fort délicats.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Oui, mais je voudrois bien qu’il ne s’y servît pas ;</l>
+<pagenum num="165"/>
+<l>C’est un fort méchant plat que sa sotte personne,</l>
+<l>Et qui gâte, à mon goût, tous les repas qu’il donne.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>On fait assez de cas de son oncle Damis ;</l>
+<l>Qu’en dites-vous, madame ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Il est de mes amis.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Je le trouve honnête homme, et d’un air assez sage.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Oui ; mais il veut avoir trop d’esprit, dont j’enrage.</l>
+<l>Il est guindé sans cesse ; et, dans tous ses propos,</l>
+<l>On voit qu’il se travaille à dire de bons mots.</l>
+<l>Depuis que dans la tête il s’est mis d’être habile,</l>
+<l>Rien ne touche son goût, tant il est difficile.</l>
+<l>Il veut voir des défauts à tout ce qu’on écrit,</l>
+<l>Et pense que louer n’est pas d’un bel esprit.</l>
+<l>Que c’est être savant que trouver à redire,</l>
+<l>Qu’il n’appartient qu’aux sots d’admirer et de rire,</l>
+<l>Et qu’en n’approuvant rien des ouvrages du temps</l>
+<l>Il se met au-dessus de tous les autres gens.</l>
+<l>Aux conversations même il trouve à reprendre.</l>
+<l>Ce sont propos trop bas pour y daigner descendre :</l>
+<l>Et, les deux bras croisés, du haut de son esprit,</l>
+<l>Il regarde en pitié tout ce que chacun dit.</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Dieu me damne, voilà son portrait véritable.</l>
+
+<hstage><speaker>CLITANDRE</speaker>, à Cêlimène.</hstage>
+<l>Pour bien peindre les gens vous êtes admirable.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Allons, ferme, poussez, mes bons amis de cour ;</l>
+<l>Vous n’en épargnez point, et chacun a son tour :</l>
+<l>Cependant aucun d’eux à vos yeux ne se montre,</l>
+<l>Qu’on ne vous voie en hâte aller à sa rencontre,</l>
+<l>Lui présenter la main, et d’un baiser flatteur</l>
+<l>Appuyer les serments d’être son serviteur.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Pourquoi s’en prendre à nous ? Si ce qu’on dit vous blesse,</l>
+<l>Il faut que le reproche à madame s’adresse,</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non, morbleu ! c’est à vous ; et vos ris complaisants</l>
+<pagenum num="166"/>
+<l>Tirent de son esprit tous ces traits médisants.</l>
+<l>Son humeur satirique est sans cesse nourrie</l>
+<l>Par le coupable encens de votre flatterie ;</l>
+<l>Et son cœur à railler trouveroit moins d’appas,</l>
+<l>S’il avoit observé qu’on ne l’applaudit pas.</l>
+<l>C’est ainsi qu’aux flatteurs on doit partout se prendre</l>
+<l>Des vices où l’on voit les humains se répandre.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais pourquoi pour ces gens un intérêt si grand,</l>
+<l>Vous qui condamneriez ce qu’en eux on reprend ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Eh ! ne faut-il pas bien que monsieur contredise ?</l>
+<l>A la commune voix veut-on qu’il se réduise,</l>
+<l>Et qu’il ne fasse pas éclater en tous lieux</l>
+<l>L’esprit contrariant qu’il a reçu des cieux ?</l>
+<l>Le sentiment d’autrui n’est jamais pour lui plaire :</l>
+<l>Il prend toujours en main l’opinion contraire,</l>
+<l>Et penseroit paroître un homme du commun.</l>
+<l>Si l’on voyoit qu’il fût de l’avis de quelqu’un.</l>
+<l>L’honneur de contredire a pour lui tant de charmes,</l>
+<l>Qu’il prend contre lui-même assez souvent les armes ;</l>
+<l>Et ses vrais sentiments sont combattus par lui,</l>
+<l>Aussitôt qu’il les voit dans la bouche d’autrui.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Les rieurs sont pour vous, madame, c’est tout dire ;</l>
+<l>Et vous pouvez pousser contre moi la satire.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais il est véritable aussi que votre esprit</l>
+<l>Se gendarme toujours contre tout ce qu’on dit ;</l>
+<l>Et que, par un chagrin que lui-même il avoue,</l>
+<l>Il ne sauroit souffrir qu’on blâme ni qu’on loue.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>C’est que jamais, morbleu ! les hommes n’ont raison,</l>
+<l>Que le chagrin contre eux est toujours de saison,</l>
+<l>Et que je vois qu’ils sont, sur toutes les affaires,</l>
+<l>Loueurs impertinents, ou censeurs téméraires.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Mais...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Non, madame, non, quand j’en devrois mourir,</l>
+<l>Vous avez des plaisirs que je ne puis souffrir ;</l>
+<pagenum num="167"/>
+<l>Et l’on a tort ici de nourrir dans votre âme</l>
+<l>Ce grand attachement aux défauts qu’on y blâme.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Pour moi, je ne sais pas, mais j’avouerai tout haut</l>
+<l>Que j’ai cru jusqu’ici madame sans défaut.</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>De grâces et d’attraits je vois qu’elle est pourvue ;</l>
+<l>Mais les défauts qu’elle a ne frappent point ma vue.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ils frappent tous la mienne ; et, loin de m’en cacher,</l>
+<l>Elle sait que j’ai soin de les lui reprocher.</l>
+<l>Plus on aime quelqu’un, moins il faut qu’on le flatte ;</l>
+<l>A ne rien pardonner le pur amour éclate ;</l>
+<l>Et je bannirois, moi, tous ces lâches amants</l>
+<l>Que je verrois soumis à tous mes sentiments,</l>
+<l>Et dont, à tout propos, les molles complaisances</l>
+<l>Donneroient de l’encens à mes extravagances.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Enfin, s’il faut qu’à vous s’en rapportent les cœurs,</l>
+<l>On doit, pour bien aimer, renoncer aux douceurs,</l>
+<l>Et du parfait amour mettre l’honneur suprême</l>
+<l>A bien injurier les personnes qu’on aime.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>L’amour, pour l’ordinaire, est peu fait à ces lois,</l>
+<l>Et l’on voit les amants vanter toujours leur choix.</l>
+<l>Jamais leur passion n’y voit rien de blâmable,</l>
+<l>Et, dans l’objet aimé, tout leur devient aimable.</l>
+<l>Ils comptent les défauts pour des perfections,</l>
+<l>Et savent y donner de favorables noms.</l>
+<l>La pâle est au jasmin en blancheur comparable ;</l>
+<l>La noire à faire peur, une brune adorable ;</l>
+<l>La maigre a de la taille et de la liberté ;</l>
+<l>La grasse est, dans son port, pleine de majesté ;</l>
+<l>La malpropre sur soi, de peu d’attraits chargée,</l>
+<l>Est mise sous le nom de beauté négligée ;</l>
+<l>La géante paroît une déesse aux yeux ;</l>
+<l>La naine, un abrégé des merveilles des cieux ;</l>
+<l>L’orgueilleuse a le cœur digne d’une couronne ;</l>
+<l>La fourbe a de l’esprit ; la sotte est toute bonne ;</l>
+<l>La trop grande parleuse est d’agréable humeur ;</l>
+<l>Et la muette garde une honnête pudeur.</l>
+<l>C’est ainsi qu’un amant dont l’ardeur est extrême</l>
+<pagenum num="168"/>
+<l>Aime jusqu’aux défauts des personnes qu’il aime<noteref noteid="note.168.1"/>.</l>
+
+<notes>
+  <note id="note.168.1">
+    <p>Cette charmante tirade est une imitation de <i>Lucrèce</i>. C’est le seul fragment qui nous reste d’une traduction libre que Molière avait faite des œuvres du grand poète latin. (F. L.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Et moi, je soutiens, moi...</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Brisons là ce discours,</l>
+<l>Et dans la galerie allons faire deux tours.</l>
+<l>Quoi ! vous vous en allez, messieurs ?</l>
+
+<hstage><speaker>CLITANDRE ET ACASTE</speaker></hstage>
+<l cont="true">Non pas, madame.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>La peur de leur départ occupe fort votre âme.</l>
+<l>Sortez quand vous voudrez, messieurs ; mais j’avertis</l>
+<l>Que je ne sors qu’après que vous serez sortis.</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>A moins de voir madame en être importunée,</l>
+<l>Rien ne m’appelle ailleurs de toute la journée.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Moi, pourvu que je puisse être au petit couché.</l>
+<l>Je n’ai point d’autre affaire où je sois attaché.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker>, à Alceste.</hstage>
+<l>C’est pour rire, je crois ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Non, en aucune sorte.</l>
+<l>Nous verrons si c’est moi que vous voudrez qui sorte.</l>
+
+<h3 id="p12">SCÈNE VI. — ALCESTE, CÉLIMÈNE, ÉLIANTE, ACASTE, PHILINTE, CLITANDRE, BASQUE</h3>
+
+<hstage><speaker>BASQUE</speaker>, à Alceste.</hstage>
+<l>Monsieur, un homme est là qui voudroit vous parler</l>
+<l>Pour affaire, dit-il, qu’on ne peut reculer.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Dis-lui que je n’ai point d’affaires si pressées.</l>
+
+<hstage><speaker>BASQUE</speaker></hstage>
+<l>Il porte une jaquette à grand’basques plissées,</l>
+<l>Avec du dor dessus<noteref noteid="note.168.2"/>.</l>
+
+<notes>
+  <note id="note.168.2">
+    <p>Les gens du peuple et de la campagne disaient, par corruption : <i>du dor</i>, pour : de l’or.</p>
+  </note>
+</notes>
+
+<pagenum num="169"/>
+
+<hstage><speaker>CÉLIMÈNE</speaker>, à Alceste.</hstage>
+<l cont="true">Allez voir ce que c’est.</l>
+<l>Ou bien faites-le entrer.</l>
+
+<h3 id="p13">SCÈNE VII. — ALCESTE, CÉLIMÈNE, ÉLIANTE ACASTE, PHILINTE, CLITANDRE, UN GARDE <i>de la maréchaussée.</i></h3>
+
+<hstage><speaker>ALCESTE</speaker>, allant au-devant du garde</hstage>
+<l cont="true">Qu’est-ce donc qu’il vous plaît ?</l>
+<l>Venez, monsieur.</l>
+
+<hstage><speaker>LE GARDE</speaker></hstage>
+<l cont="true">Monsieur, j’ai deux mots à vous dire.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Vous pouvez parler haut, monsieur, pour m’en instruire.</l>
+
+<hstage><speaker>LE GARDE</speaker></hstage>
+<l>Messieurs les maréchaux, dont j’ai commandement,</l>
+<l>Vous mandent de venir les trouver promptement,</l>
+<l>Monsieur.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Qui ? moi, monsieur ?</l>
+
+<hstage><speaker>LE GARDE</speaker></hstage>
+<l cont="true">Vous-même.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Et pourquoi faire ?</l>
+
+<hstage><speaker>PHILINTE</speaker>, à Alceste.</hstage>
+<l>C’est d’Oronte et de vous la ridicule affaire.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker>, à Philinte.</hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Oronte et lui se sont tantôt bravés</l>
+<l>Sur certains petits vers, qu’il n’a pas approuvés ;</l>
+<l>Et l’on veut assoupir la chose en sa naissance<noteref noteid="note.169.1"/>.</l>
+
+<notes>
+  <note id="note.169.1">
+    <p>Autrefois les maréchaux de France formaient un tribunal auquel était réservée la connaissance des affaires d’honneur entre gentilshommes ou officiers.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Moi, je n’aurai jamais de lâche complaisance.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais il faut suivre l’ordre ; allons, disposez-vous.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Quel accommodement veut-on faire entre nous ?</l>
+<l>La voix de ces messieurs me condamnera-t-elle</l>
+<pagenum num="170"/>
+<l>A trouver bons les vers qui font notre querelle ?</l>
+<l>Je ne me dédis point de ce que j’en ai dit,</l>
+<l>Je les trouve méchants.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Mais d’un plus doux esprit...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je n’en démordrai point, les vers sont exécrables.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Vous devez faire voir des sentiments traitables.</l>
+<l>Allons, venez.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">J’irai, mais rien n’aura pouvoir</l>
+<l>De me faire dédire.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Allons vous faire voir.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Hors qu’un commandement exprès du roi me vienne,</l>
+<l>De trouver bons les vers dont on se met en peine,</l>
+<l>Je soutiendrai toujours, morbleu ! qu’ils sont mauvais,</l>
+<l>Et qu’un homme est pendable après les avoir faits.</l>
+<pstage>A Clitandre et à Acaste, qui rient.</pstage>
+<l>Par le sangbleu ! messieurs, je ne croyois pas être</l>
+<l>Si plaisant que je suis.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Allez vite paroître</l>
+<l>Où vous devez.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">J’y vais, madame, et sur mes pas</l>
+<l>Je reviens en ce lieu pour vider nos débats.</l>
+
+<vsep class="rule"/>
+
+<h2 id="p14">ACTE TROISIÈME</h2>
+
+<h3 id="p15">SCÈNE I. — CLITANDRE, ACASTE</h3>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Cher marquis, je te vois l’âme bien satisfaite ;</l>
+<l>Toute chose t’égaye, et rien ne t’inquiète.</l>
+<l>En bonne foi, crois-tu, sans t’éblouir les yeux,</l>
+<l>Avoir de grands sujets de paraître joyeux ?</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Parbleu ! je ne vois pas, lorsque je m’examine,</l>
+<pagenum num="171"/>
+<l>Où prendre aucun sujet d’avoir l’âme chagrine ;</l>
+<l>J’ai du bien, je suis jeune, et sors d’une maison</l>
+<l>Qui se peut dire noble avec quelque raison ;</l>
+<l>Et je crois, par le rang que me donne ma race,</l>
+<l>Qu’il est fort peu d’emplois dont je ne sois en passe.</l>
+<l>Pour le cœur, dont surtout nous devons faire cas,</l>
+<l>On sait, sans vanité, que je n’en manque pas ;</l>
+<l>Et l’on m’a vu pousser dans le monde une affaire</l>
+<l>D’une assez vigoureuse et gaillarde manière.</l>
+<l>Pour de l’esprit, j’en ai, sans doute ; et du bon goût,</l>
+<l>A juger sans étude et raisonner de tout ;</l>
+<l>A faire aux nouveautés, dont je suis idolâtre,</l>
+<l>Figure de savant sur les bancs du théâtre ;</l>
+<l>Y décider en chef, et faire du fracas</l>
+<l>A tous les beaux endroits qui méritent des has<noteref noteid="note.171.1"/> !</l>
+<l>Je suis assez adroit ; j’ai bon air, bonne mine,</l>
+<l>Les dents belles surtout, et la taille fort fine.</l>
+<l>Quant à se mettre bien, je crois, sans me flatter,</l>
+<l>Qu’on seroit mal venu de me le disputer.</l>
+<l>Je me vois dans l’estime autant qu’on y puisse être,</l>
+<l>Fort aimé du beau sexe, et bien auprès du maître.</l>
+<l>Je crois qu’avec cela, mon cher marquis, je croi</l>
+<l>Qu’on peut, par tout pays, être content de soi.</l>
+
+<notes>
+  <note id="note.171.1">
+    <p>Molière fait ici de l’interjection <i>ha !</i> un substantif auquel il donne un pluriel.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Oui. Mais, trouvant ailleurs des conquêtes faciles,</l>
+<l>Pourquoi pousser ici des soupirs inutiles ?</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Moi ? Parbleu ! je ne suis de taille ni d’humeur</l>
+<l>A pouvoir d’une belle essuyer la froideur.</l>
+<l>C’est aux gens mal tournés, aux mérites vulgaires,</l>
+<l>A brûler constamment pour des beautés sévères,</l>
+<l>A languir à leurs pieds et souffrir leurs rigueurs,</l>
+<l>A chercher le secours des soupirs et des pleurs,</l>
+<l>Et tâcher, par des soins d’une très longue suite.</l>
+<l>D’obtenir ce qu’on nie à leur peu de mérite.</l>
+<l>Mais les gens de mon air, marquis, ne sont pas faits</l>
+<l>Pour aimer à crédit et faire tous les frais.</l>
+<l>Quelque rare que soit le mérite des belles,</l>
+<l>Je pense, Dieu merci, qu’on vaut son prix comme elles ;</l>
+<l>Que pour se faire honneur d’un cœur comme le mien,</l>
+<l>Ce n’est pas la raison qu’il ne leur coûte rien ;</l>
+<pagenum num="172"/>
+<l>Et qu’au moins, à tout mettre en de justes balances,</l>
+<l>Il faut qu’à frais communs se fassent les avances.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Tu penses donc, marquis, être fort bien ici ?</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>J’ai quelque lieu, marquis, de le penser ainsi.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Crois-moi, détache-toi de cette erreur extrême :</l>
+<l>Tu te flattes, mon cher, et t’aveugles toi-même.</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Il est vrai, je me flatte et m’aveugle en effet.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Mais qui te fait juger ton bonheur si parfait ?</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Je me flatte.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l cont="true">Sur quoi fonder tes conjectures ?</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Je m’aveugle.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l cont="true">En as-tu des preuves qui soient sûres ?</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Je m’abuse, te dis-je.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l cont="true">Est-ce que de ses vœux</l>
+<l>Célimène t’a fait quelques secrets aveux ?</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Non, je suis maltraité.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l cont="true">Réponds-moi, je te prie.</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Je n’ai que des rebuts.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l cont="true">Laissons la raillerie,</l>
+<l>Et me dis quel espoir on peut t’avoir donné.</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Je suis le misérable, et toi le fortuné ;</l>
+<l>On a pour ma personne une aversion grande,</l>
+<l>Et, quelqu’un de ces jours, il faut que je me pende.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Oh çà, veux-tu, marquis, pour ajuster nos vœux,</l>
+<pagenum num="173"/>
+<l>Que nous tombions d’accord d’une chose tous deux ?</l>
+<l>Que qui pourra montrer une marque certaine</l>
+<l>D’avoir meilleure part au cœur de Célimène,</l>
+<l>L’autre ici fera place au vainqueur prétendu,</l>
+<l>Et le délivrera d’un rival assidu ?</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Ah ! parbleu ! tu me plais avec un tel langage,</l>
+<l>Et du bon de mon cœur à cela je m’engage.</l>
+<l>Mais, chut.</l>
+
+<h3 id="p16">SCÈNE II. — CÉLIMÈNE, ACASTE, CLITANDRE</h3>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Encore ici ?</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l cont="true">L’amour retient nos pas.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Je viens d’ouïr entrer un carrosse là-bas.</l>
+<l>Savez-vous qui c’est ?</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l cont="true">Non.</l>
+
+<h3 id="p17">SCÈNE III. — CÉLIMÈNE, ACASTE, CLITANDRE, BASQUE</h3>
+
+<hstage><speaker>BASQUE</speaker></hstage>
+<l cont="true">Arsinoé, madame,</l>
+<l>Monte ici pour vous voir.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Que me veut cette femme ?</l>
+
+<hstage><speaker>BASQUE</speaker></hstage>
+<l>Éliante là-bas est à l’entretenir.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>De quoi s’avise-t-elle, et qui la fait venir ?</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Pour prude consommée en tous lieux elle passe ;</l>
+<l>Et l’ardeur de son zèle...</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Oui, oui, franche grimace.</l>
+<l>Dans l’âme elle est du monde ; et ses soins tentent tout</l>
+<l>Pour accrocher quelqu’un, sans en venir à bout.</l>
+<l>Elle ne sauroit voir qu’avec un œil d’envie</l>
+<l>Les amants déclarés dont une autre est suivie :</l>
+<l>Et son triste mérite, abandonné de tous,</l>
+<pagenum num="174"/>
+<l>Contre le siècle aveugle est toujours en courroux.</l>
+<l>Elle tâche à couvrir d’un faux voile de prude</l>
+<l>Ce que chez elle on voit d’affreuse solitude ;</l>
+<l>Et, pour sauver l’honneur de ses foibles appas,</l>
+<l>Elle attache du crime au pouvoir qu’ils n’ont pas.</l>
+<l>Cependant un amant plairoit fort à la dame ;</l>
+<l>Et même pour Alceste elle a tendresse d’âme.</l>
+<l>Ce qu’il me rend de soins outrage ses attraits ;</l>
+<l>Elle veut que ce soit un vol que je lui fais ;</l>
+<l>Et son jaloux dépit, qu’avec peine elle cache.</l>
+<l>En tous endroits sous main contre moi se détache.</l>
+<l>Enfin je n’ai rien vu de si sot à mon gré ;</l>
+<l>Elle est impertinente au suprême degré,</l>
+<l>Et...</l>
+
+<h3 id="p18">SCÈNE IV. — ARSINOÉ, CÉLIMÈNE, CLITANDRE, ACASTE</h3>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Ah ! quel heureux sort en ce lieu vous amène ?</l>
+<l>Madame, sans mentir, j’étois de vous en peine.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Je viens pour quelque avis que j’ai cru vous devoir.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Ah ! mon Dieu, que je suis contente de vous voir !</l>
+
+<pstage>Clitandre et Acaste sortent en riant.</pstage>
+
+<h3 id="p19">SCÈNE V. — ARSINOÉ, CÉLIMÈNE</h3>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Leur départ ne pouvoit plus à propos se faire.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Voulons-nous nous asseoir ?</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l cont="true">Il n’est pas nécessaire.</l>
+<l>Madame, l’amitié doit surtout éclater</l>
+<l>Aux choses qui le plus nous peuvent importer ;</l>
+<l>Et comme il n’en est point de plus grande importance</l>
+<l>Que celles de l’honneur et de la bienséance,</l>
+<l>Je viens, par un avis qui touche votre honneur,</l>
+<l>Témoigner l’amitié que pour vous a mon cœur.</l>
+<l>Hier j’étois chez des gens de vertu singulière,</l>
+<l>Où sur vous du discours on tourna la matière ;</l>
+<pagenum num="175"/>
+<l>Et là, votre conduite avec ses grands éclats.</l>
+<l>Madame, eut le malheur qu’on ne la loua pas.</l>
+<l>Cette foule de gens dont vous souffrez visite,</l>
+<l>Votre galanterie, et les bruits qu’elle excite,</l>
+<l>Trouvèrent des censeurs plus qu’il n’auroit fallu,</l>
+<l>Et bien plus rigoureux que je n’eusse voulu.</l>
+<l>Vous pouvez bien penser quel parti je sus prendre,</l>
+<l>Je fis ce que je pus pour vous pouvoir défendre ;</l>
+<l>Je vous excusai fort sur votre intention,</l>
+<l>Et voulus de votre âme être la caution.</l>
+<l>Mais vous savez qu’il est des choses dans la vie</l>
+<l>Qu’on ne peut excuser, quoiqu’on en ait envie ;</l>
+<l>Et je me vis contrainte à demeurer d’accord</l>
+<l>Que l’air dont vous vivez vous faisoit un peu tort,</l>
+<l>Qu’il prenoit dans le monde une méchante face ;</l>
+<l>Qu’il n’est conte fâcheux que partout on n’en fasse,</l>
+<l>Et que, si vous vouliez, tous vos déportements</l>
+<l>Pourroient moins donner prise aux mauvais jugements.</l>
+<l>Non que j’y croie au fond l’honnêteté blessée :</l>
+<l>Me préserve le ciel d’en avoir la pensée !</l>
+<l>Mais aux ombres du crime on prête aisément foi,</l>
+<l>Et ce n’est pas assez de bien vivre pour soi.</l>
+<l>Madame, je vous crois l’âme trop raisonnable</l>
+<l>Pour ne pas prendre bien cet avis profitable,</l>
+<l>Et pour l’attribuer qu’aux mouvements secrets</l>
+<l>D’un zèle qui m’attache à tous vos intérêts.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Madame, j’ai beaucoup de grâces à vous rendre.</l>
+<l>Un tel avis m’oblige : et, loin de le mal prendre,</l>
+<l>J’en prétends reconnoître à l’instant la faveur</l>
+<l>Par un avis aussi qui touche votre honneur,</l>
+<l>Et, comme je vous vois vous montrer mon amie,</l>
+<l>En m’apprenant les bruits que de moi l’on publie,</l>
+<l>Je veux suivre, à mon tour, un exemple si doux,</l>
+<l>En vous avertissant de ce qu’on dit de vous.</l>
+<l>En un lieu, l’autre jour, où je faisois visite,</l>
+<l>Je trouvai quelques gens d’un très rare mérite,</l>
+<l>Qui, parlant des vrais soins d’une âme qui vit bien,</l>
+<l>Firent tomber sur vous, madame, l’entretien.</l>
+<l>Là, votre pruderie et vos éclats de zèle</l>
+<l>Ne furent pas cités comme un fort bon modèle ;</l>
+<l>Cette affectation d’un grave extérieur,</l>
+<l>Vos discours éternels de sagesse et d’honneur,</l>
+<pagenum num="176"/>
+<l>Vos mines et vos cris aux ombres d’indécence</l>
+<l>Que d’un mot ambigu peut avoir l’innocence.</l>
+<l>Cette hauteur d’estime où vous êtes de vous,</l>
+<l>Et ces yeux de pitié que vous jetez sur tous,</l>
+<l>Vos fréquentes leçons et vos aigres censures</l>
+<l>Sur des choses qui sont innocentes et pures ;</l>
+<l>Tout cela, si je puis vous parler franchement,</l>
+<l>Madame, fut blâmé d’un commun sentiment.</l>
+<l>A quoi bon, disoient-ils, cette mine modeste,</l>
+<l>Et ce sage dehors que dément tout le reste ?</l>
+<l>Elle est à bien prier exacte au dernier point ;</l>
+<l>Mais elle bat ses gens et ne les paye point.</l>
+<l>Dans tous les lieux dévots elle étale un grand zèle,</l>
+<l>Mais elle met du blanc, et veut paraître belle.</l>
+<l>Elle fait des tableaux couvrir les nudités ;</l>
+<l>Mais elle a de l’amour pour les réalités.</l>
+<l>Pour moi, contre chacun je pris votre défense,</l>
+<l>Et leur assurai fort que c’étoit médisance ;</l>
+<l>Mais tous les sentiments combattirent le mien,</l>
+<l>Et leur conclusion fut que vous feriez bien</l>
+<l>De prendre moins de soin des actions des autres</l>
+<l>Et de vous mettre un peu plus en peine des vôtres ;</l>
+<l>Qu’on doit se regarder soi-même un fort long temps</l>
+<l>Avant que de songer à condamner les gens ;</l>
+<l>Qu’il faut mettre le poids d’une vie exemplaire</l>
+<l>Dans les corrections qu’aux autres on veut faire ;</l>
+<l>Et qu’encor vaut-il mieux s’en remettre, au besoin,</l>
+<l>A ceux à qui le ciel en a commis le soin.</l>
+<l>Madame, je vous crois aussi trop raisonnable</l>
+<l>Pour ne pas prendre bien cet avis profitable,</l>
+<l>Et pour l’attribuer qu’aux mouvements secrets</l>
+<l>D’un zèle qui m’attache à tous vos intérêts.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>A quoi qu’en reprenant on soit assujettie,</l>
+<l>Je ne m’attendois pas à cette repartie,</l>
+<l>Madame ; et je vois bien, par ce qu’elle a d’aigreur,</l>
+<l>Que mon sincère avis vous a blessée au cœur.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Au contraire, madame ; et, si l’on étoit sage.</l>
+<l>Ces avis mutuels seroient mis en usage.</l>
+<l>On détruirait par là, traitant de bonne foi,</l>
+<l>Ce grand aveuglement où chacun est pour soi.</l>
+<pagenum num="177"/>
+<l>Il ne tiendra qu’à vous qu’avec le même zèle</l>
+<l>Nous ne continuions cet office fidèle.</l>
+<l>Et ne prenions grand soin de nous dire, entre nous,</l>
+<l>Ce que nous entendrons, vous de moi, moi de vous.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Ah ! madame, de vous je ne puis rien entendre ;</l>
+<l>C’est en moi que l’on peut trouver fort à reprendre.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Madame, on peut, je crois, louer et blâmer tout ;</l>
+<l>Et chacun a raison, suivant l’âge ou le goût.</l>
+<l>Il est une saison pour la galanterie.</l>
+<l>Il en est une aussi propre à la pruderie.</l>
+<l>On peut, par politique, en prendre le parti.</l>
+<l>Quand de nos jeunes ans l’éclat est amorti ;</l>
+<l>Cela sert à couvrir de fâcheuses disgrâces.</l>
+<l>Je ne dis pas qu’un jour je ne suive vos traces ;</l>
+<l>L’âge amènera tout ; et ce n’est pas le temps,</l>
+<l>Madame, comme on sait, d’être prude à vingt ans.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Certes, vous vous targuez d’un bien foible avantage,</l>
+<l>Et vous faites sonner terriblement votre âge.</l>
+<l>Ce que de plus que vous on en pourroit avoir</l>
+<l>N’est pas un si grand cas pour s’en tant prévaloir,</l>
+<l>Et je ne sais pourquoi votre âme ainsi s’emporte,</l>
+<l>Madame, à me pousser de cette étrange sorte.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Et moi, je ne sais pas, madame, aussi pourquoi</l>
+<l>On vous voit en tous lieux vous déchaîner sur moi.</l>
+<l>Faut-il de vos chagrins sans cesse à moi vous prendre ?</l>
+<l>Et puis-je mais des soins qu’on ne va pas vous rendre ?</l>
+<l>Si ma personne aux gens inspire de l’amour.</l>
+<l>Et si l’on continue à m’offrir chaque jour</l>
+<l>Des vœux que votre cœur peut souhaiter qu’on m’ôte,</l>
+<l>Je n’y saurois que faire, et ce n’est pas ma faute ;</l>
+<l>Vous avez le champ libre, et je n’empêche pas</l>
+<l>Que, pour les attirer, vous n’ayez des appas.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Hélas ! et croyez-vous que l’on se mette en peine</l>
+<l>De ce nombre d’amants dont vous faites la vaine,</l>
+<l>Et qu’il ne nous soit pas fort aisé de juger</l>
+<l>A quel prix aujourd’hui l’on peut les engager ?</l>
+<l>Pensez-vous faire croire, à voir comme tout roule,</l>
+<pagenum num="178"/>
+<l>Que votre seul mérite attire cette foule ?</l>
+<l>Qu’ils ne brûlent pour vous que d’un honnête amour,</l>
+<l>Et que pour vos vertus ils vous font tous la cour ?</l>
+<l>On ne s’aveugle point par de vaines défaites ;</l>
+<l>Le monde n’est point dupe ; et j’en vois qui sont faites</l>
+<l>A pouvoir inspirer de tendres sentiments,</l>
+<l>Qui chez elles pourtant ne fixent point d’amants :</l>
+<l>Et de là nous pouvons tirer des conséquences</l>
+<l>Qu’on n’acquiert point leurs cœurs sans de grandes avances,</l>
+<l>Qu’aucun, pour nos beaux yeux, n’est notre soupirant.</l>
+<l>Et qu’il faut acheter tous les soins qu’on nous rend.</l>
+<l>Ne vous enflez donc pas d’une si grande gloire,</l>
+<l>Pour les petits brillants d’une foible victoire ;</l>
+<l>Et corrigez un peu l’orgueil de vos appas,</l>
+<l>De traiter pour cela les gens de haut en bas.</l>
+<l>Si nos yeux envioient les conquêtes des vôtres,</l>
+<l>Je pense qu’on pourroit faire comme les autres,</l>
+<l>Ne se point ménager, et vous faire bien voir</l>
+<l>Que l’on a des amants quand on en veut avoir.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Ayez-en donc, madame, et voyons cette affaire,</l>
+<l>Par ce rare secret efforcez-vous de plaire ;</l>
+<l>Et sans...</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l cont="true">Brisons, madame, un pareil entretien :</l>
+<l>Il pousseroit trop loin votre esprit et le mien ;</l>
+<l>Et j’aurois pris déjà le congé qu’il faut prendre,</l>
+<l>Si mon carosse encor ne m’obligeoit d’attendre.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Autant qu’il vous plaira vous pouvez arrêter,</l>
+<l>Madame, et là-dessus rien ne doit vous hâter.</l>
+<l>Mais, sans vous fatiguer de ma cérémonie,</l>
+<l>Je m’en vais vous donner meilleure compagnie ;</l>
+<l>Et monsieur, qu’à propos le hasard fait venir,</l>
+<l>Remplira mieux ma place à vous entretenir.</l>
+
+<h3 id="p20">SCÈNE VI. — ALCESTE, CÉLIMÈNE, ARSINOÉ</h3>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Alceste, il faut que j’aille écrire un mot de lettre,</l>
+<l>Que sans me faire tort je ne saurois remettre,</l>
+<l>Soyez avec madame ; elle aura la bonté</l>
+<l>D’excuser aisément mon incivilité.</l>
+
+<pagenum num="179"/>
+
+<h3 id="p21">SCÈNE VII. — ALCESTE, ARSINOÉ</h3>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Vous voyez, elle veut que je vous entretienne,</l>
+<l>Attendant un moment que mon carosse vienne ;</l>
+<l>Et jamais tous ses soins ne pouvoient m’offrir rien</l>
+<l>Qui me fût plus charmant qu’un pareil entretien.</l>
+<l>En vérité, les gens d’un mérite sublime</l>
+<l>Entraînent de chacun et l’amour et l’estime :</l>
+<l>Et le vôtre, sans doute, a des charmes secrets</l>
+<l>Qui font entrer mon cœur dans tous vos intérêts.</l>
+<l>Je voudrais que la cour, par un regard propice,</l>
+<l>A ce que vous valez rendît plus de justice.</l>
+<l>Vous avez à vous plaindre ; et je suis en courroux</l>
+<l>Quand je vois chaque jour qu’on ne fait rien pour vous.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Moi, madame ? Et sur quoi pourrois-je en rien prétendre ?</l>
+<l>Quel service à l’État est-ce qu’on m’a vu rendre ?</l>
+<l>Qu’ai-je fait, s’il vous plaît, de si brillant de soi,</l>
+<l>Pour me plaindre à la cour qu’on ne fait rien pour moi ?</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Tous ceux sur qui la cour jette des yeux propices</l>
+<l>N’ont pas toujours rendu de ces fameux services.</l>
+<l>Il faut l’occasion ainsi que le pouvoir ;</l>
+<l>Et le mérite enfin que vous nous faites voir</l>
+<l>Devrait...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Mon Dieu ! laissons mon mérite, de grâce :</l>
+<l>De quoi voulez-vous là que la cour s’embarrasse ?</l>
+<l>Elle aurait fort à faire, et ses soins seraient grands</l>
+<l>D’avoir à déterrer le mérite des gens.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Un mérite éclatant se déterre lui-même.</l>
+<l>Du vôtre en bien des lieux on fait un cas extrême ;</l>
+<l>Et vous saurez de moi qu’en deux fort bons endroits</l>
+<l>Vous fûtes hier loué par des gens d’un grand poids.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Eh ! madame, l’on loue aujourd’hui tout le monde,</l>
+<l>Et le siècle par là n’a rien qu’on ne confonde.</l>
+<l>Tout est d’un grand mérite également doué ;</l>
+<l>Ce n’est plus un honneur que de se voir loué ;</l>
+<l>D’éloges on regorge, à la tête on les jette,</l>
+<l>Et mon valet de chambre est mis dans la gazette.</l>
+
+<pagenum num="180"/>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Pour moi, je voudrois bien que, pour vous montrer mieux</l>
+<l>Une charge à la cour vous pût frapper les yeux.</l>
+<l>Pour peu que d’y songer vous nous fassiez les mines,</l>
+<l>On peut, pour vous servir, remuer des machines ;</l>
+<l>Et j’ai des gens en main que j’emploierai pour vous,</l>
+<l>Qui vous feront à tout un chemin assez doux.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Et que voudriez-vous, madame, que j’y fisse ?</l>
+<l>L’humeur dont je me sens veut que je m’en bannisse ;</l>
+<l>Le ciel ne m’a point fait, en me donnant le jour,</l>
+<l>Une âme compatible avec l’air de la cour.</l>
+<l>Je ne me trouve point les vertus nécessaires</l>
+<l>Pour y bien réussir et faire mes affaires.</l>
+<l>Être franc et sincère est mon plus grand talent ;</l>
+<l>Je ne sais point jouer les hommes en parlant ;</l>
+<l>Et qui n’a pas le don de cacher ce qu’il pense</l>
+<l>Doit faire en ce pays fort peu de résidence.</l>
+<l>Hors de la cour sans doute on n’a pas cet appui</l>
+<l>Et ces titres d’honneur qu’elle donne aujourd’hui.</l>
+<l>Mais on n’a pas aussi, perdant ces avantages,</l>
+<l>Le chagrin de jouer de fort sots personnages :</l>
+<l>On n’a point à souffrir mille rebuts cruels,</l>
+<l>On n’a point à louer les vers de messieurs tels,</l>
+<l>A donner de l’encens à madame une telle,</l>
+<l>Et de nos francs marquis essuyer la cervelle.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Laissons, puisqu’il vous plaît, ce chapitre de cour :</l>
+<l>Mais il faut que mon cœur vous plaigne en votre amour.</l>
+<l>Et, pour vous découvrir là-dessus mes pensées,</l>
+<l>Je souhaiterois fort vos ardeurs mieux placées.</l>
+<l>Vous méritez, sans doute, un sort beaucoup plus doux,</l>
+<l>Et celle qui vous charme est indigne de vous.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Mais, en disant cela, songez-vous, je vous prie,</l>
+<l>Que cette personne est, madame, votre amie ?</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Oui. Mais ma conscience est blessée en effet</l>
+<l>De souffrir plus longtemps le tort que l’on vous fait.</l>
+<l>L’état où je vous vois afflige trop mon âme,</l>
+<l>Et je vous donne avis qu’on trahit votre flamme.</l>
+
+<pagenum num="181"/>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>C’est me montrer, madame, un tendre mouvement,</l>
+<l>Et de pareils avis obligent un amant.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Oui, toute mon amie, elle est, et je la nomme,</l>
+<l>Indigne d’asservir le cœur d’un galant homme,</l>
+<l>Et le sien n’a pour vous que de feintes douceurs.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Cela se peut, madame, on ne voit pas les cœurs ;</l>
+<l>Mais votre charité se seroit bien passée</l>
+<l>De jeter dans le mien une telle pensée.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Si vous ne voulez pas être désabusé,</l>
+<l>Il faut ne vous rien dire ; il est assez aisé.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non. Mais sur ce sujet, quoi que l’on nous expose,</l>
+<l>Les doutes sont fâcheux plus que toute autre chose ;</l>
+<l>Et je voudrois, pour moi, qu’on ne me fît savoir</l>
+<l>Que ce qu’avec clarté l’on peut me faire voir.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Eh bien, c’est assez dit ; et sur cette matière</l>
+<l>Vous allez recevoir une pleine lumière.</l>
+<l>Oui, je veux que du tout vos yeux vous fassent foi.</l>
+<l>Donnez-moi seulement la main jusque chez moi ;</l>
+<l>Là, je vous ferai voir une preuve fidèle</l>
+<l>De l’infidélité<noteref noteid="note.181.1"/> du cœur de votre belle ;</l>
+<l>Et, si pour d’autres yeux le vôtre peut brûler,</l>
+<l>On pourra vous offrir de quoi vous consoler.</l>
+
+<notes>
+  <note id="note.181.1">
+    <p><i>Fidèle de l’infidélité :</i> ce jeu de mots a été justement désapprouvé par quelques critiques.</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p22">ACTE QUATRIÈME</h2>
+
+<h3 id="p23">SCÈNE I. — ÉLIANTE, PHILINTE</h3>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Non, l’on n’a point vu d’âme à manier si dure,</l>
+<l>Ni d’accommodement plus pénible à conclure :</l>
+<l>En vain de tous côtés on l’a voulu tourner,</l>
+<l>Hors de son sentiment on n’a pu l’entraîner ;</l>
+<l>Et jamais différend si bizarre, je pense,</l>
+<l>N’avoit de ces messieurs occupé la prudence.</l>
+<pagenum num="182"/>
+<l>« Non, messieurs, disoit-il, je ne me dédis point,</l>
+<l>« Et tomberai d’accord de tout, hors de ce point.</l>
+<l>« De quoi s’offense-t-il ? et que veut-il me dire ?</l>
+<l>« Y va-t-il de sa gloire à ne pas bien écrire ?</l>
+<l>« Que lui fait mon avis, qu’il a pris de travers ?</l>
+<l>« On peut être honnête homme, et faire mal des vers<noteref noteid="note.182.1"/>.</l>
+<l>« Ce n’est point à l’honneur que touchent ces matières.</l>
+<l>« Je le tiens galant homme en toutes les manières,</l>
+<l>« Homme de qualité, de mérite et de cœur,</l>
+<l>« Tout ce qu’il vous plaira, mais fort méchant auteur.</l>
+<l>« Je louerai, si l’on veut, son train et sa dépense,</l>
+<l>« Son adresse à cheval, aux armes, à la danse ;</l>
+<l>« Mais, pour louer ses vers, je suis son serviteur :</l>
+<l>« Et, lorsque d’en mieux faire on n’a pas le bonheur,</l>
+<l>« On ne doit de rimer avoir aucune envie,</l>
+<l>« Qu’on n’y soit condamné sur peine de la vie. »</l>
+<l>Enfin, toute la grâce et l’accommodement</l>
+<l>Où s’est avec effort plié son sentiment,</l>
+<l>C’est de dire, croyant adoucir bien son style ;</l>
+<l>« Monsieur, je suis fâché, d’être si difficile ;</l>
+<l>« Et, pour l’amour de vous, je voudrois, de bon cœur,</l>
+<l>« Avoir trouvé tantôt votre sonnet meilleur. »</l>
+<l>Et dans une embrassade, on leur a, pour conclure,</l>
+<l>Fait vite envelopper toute la procédure.</l>
+
+<notes>
+  <note id="note.182.1">
+    <p>Vers devenu proverbe.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Dans ses façons d’agir il est fort singulier ;</l>
+<l>Mais j’en fais, je l’avoue, un cas particulier ;</l>
+<l>Et la sincérité dont son âme se pique</l>
+<l>A quelque chose en soi de noble et d’héroïque ;</l>
+<l>C’est une vertu rare au siècle d’aujourd’hui,</l>
+<l>Et je la voudrois voir partout comme chez lui.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Pour moi, plus je le vois, plus surtout je m’étonne</l>
+<l>De cette passion où son cœur s’abandonne.</l>
+<l>De l’humeur dont le ciel a voulu le former,</l>
+<l>Je ne sais pas comment il s’avise d’aimer ;</l>
+<l>Et je sais moins encor comment votre cousine</l>
+<l>Peut être la personne où son penchant l’incline.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Cela fait assez voir que l’amour, dans les cœurs,</l>
+<l>N’est pas toujours produit par un rapport d’humeurs ;</l>
+<pagenum num="183"/>
+<l>Et toutes ces raisons de douces sympathies,</l>
+<l>Dans cet exemple-ci, se trouvent démenties.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais croyez-vous qu’on l’aime, aux choses qu’on peut voir ?</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>C’est un point qu’il n’est pas fort aisé de savoir.</l>
+<l>Comment pouvoir juger s’il est vrai qu’elle l’aime ?</l>
+<l>Son cœur de ce qu’il sent n’est pas bien sûr lui-même ;</l>
+<l>Il aime quelquefois sans qu’il le sache bien.</l>
+<l>Et croit aimer aussi, parfois, qu’il n’en est rien.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Je crois que notre ami, près de cette cousine,</l>
+<l>Trouvera des chagrins plus qu’il ne s’imagine :</l>
+<l>Et, s’il avoit mon cœur, à dire vérité,</l>
+<l>Il toumeroit ses vœux tout d’un autre côté ;</l>
+<l>Et, par un choix plus juste, on le verroit, madame,</l>
+<l>Profiter des bontés que lui montre votre âme.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Pour moi, je n’en fais point de façons, et je croi</l>
+<l>Qu’on doit sur de tels points être de bonne foi.</l>
+<l>Je ne m’oppose point à toute sa tendresse ;</l>
+<l>Au contraire, mon cœur pour elle s’intéresse ;</l>
+<l>Et, si c’étoit qu’à moi la chose pût tenir,</l>
+<l>Moi-même à ce qu’il aime on me verroit l’unir,</l>
+<l>Mais, si dans un tel choix, comme tout se peut faire,</l>
+<l>Son amour éprouvoit quelque destin contraire,</l>
+<l>S’il falloit que d’un autre on couronnât les feux,</l>
+<l>Je pourrois me résoudre à recevoir ses vœux ;</l>
+<l>Et le refus souffert en pareille occurrence</l>
+<l>Ne m’y feroit trouver aucune répugnance.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Et moi, de mon côté, je ne m’oppose pas.</l>
+<l>Madame, à ces bontés qu’ont pour lui vos appas ;</l>
+<l>Et lui-même, s’il veut, il peut bien vous instruire</l>
+<l>De ce que là-dessus j’ai pris soin de lui dire.</l>
+<l>Mais si, par un hymen qui les joindroit eux deux,</l>
+<l>Vous étiez hors d’état de recevoir ses vœux,</l>
+<l>Tous les miens tenteroient la faveur éclatante</l>
+<l>Qu’avec tant de bonté votre âme lui présente.</l>
+<l>Heureux si, quand son cœur s’y pourra dérober,</l>
+<l>Elle pouvoit sur moi, madame, retomber !</l>
+
+<pagenum num="184"/>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Vous vous divertissez, Philinte.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l cont="true">Non, madame,</l>
+<l>Et je vous parle ici du meilleur de mon âme.</l>
+<l>J’attends l’occasion de m’offrir hautement,</l>
+<l>Et, de tous mes souhaits, j’en presse le moment.</l>
+
+<h3 id="p24">SCÈNE II. — ALCESTE, ÉLIANTE, PHILINTE</h3>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ah ! faites-moi raison, madame, d’une offense</l>
+<l>Qui vient de triompher de toute ma constance.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Qu’est-ce donc ? Qu’avez-vous qui vous puisse émouvoir ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>J’ai ce que, sans mourir, je ne puis concevoir ;</l>
+<l>Et le déchaînement de toute la nature</l>
+<l>Ne m’accableroit pas comme cette aventure.</l>
+<l>C’en est fait... Mon amour... Je ne saurois parler.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Que votre esprit un peu tâche à se rappeler<noteref noteid="note.184.1"/>.</l>
+<notes>
+  <note id="note.184.1">
+    <p>Ce vers et les cinq précédents sont empruntés à <i>Don Garcie de Navarre</i>. La scène suivante est également empruntée à la même pièce.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>O juste ciel ! faut-il qu’on joigne à tant de grâces</l>
+<l>Les vices odieux des âmes les plus basses !</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Mais encor qui vous peut...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Ah ! tout est ruiné ;</l>
+<l>Je suis, je suis trahi, je suis assassiné.</l>
+<l>Célimène... (eût-on pu croire cette nouvelle ?)</l>
+<l>Célimène me trompe, et n’est qu’une infidèle.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Avez-vous, pour le croire, un juste fondement ?</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Peut-être est-ce un soupçon conçu légèrement ;</l>
+<l>Et votre esprit jaloux prend parfois des chimères...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ah ! morbleu ! mêlez-vous, monsieur, de vos affaires.</l>
+<pagenum num="185"/>
+<pstage>A Éliante.</pstage>
+<l>C’est de sa trahison n’être que trop certain,</l>
+<l>Que l’avoir, dans ma poche, écrite de sa main...</l>
+<l>Oui, madame, une lettre écrite pour Oronte</l>
+<l>A produit à mes yeux ma disgrâce et sa honte ;</l>
+<l>Oronte, dont j’ai cru qu’elle fuyoit les soins,</l>
+<l>Et que de mes rivaux je redoutois le moins.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Une lettre peut bien tromper par l’apparence,</l>
+<l>Et n’est pas quelquefois si coupable qu’on pense.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Monsieur, encore un coup, laissez-moi, s’il vous plaît.</l>
+<l>Et ne prenez souci que de votre intérêt.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Vous devez modérer vos transports ; et l’outrage...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Madame, c’est à vous qu’appartient cet ouvrage.</l>
+<l>C’est à vous que mon cœur a recours aujourd’hui,</l>
+<l>Pour pouvoir s’affranchir de son cuisant ennui.</l>
+<l>Vengez-moi d’une ingrate et perfide parente</l>
+<l>Qui trahit lâchement une ardeur si constante ;</l>
+<l>Vengez-moi de ce trait qui doit vous faire horreur.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Moi, vous venger ! comment ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">En recevant mon cœur.</l>
+<l>Acceptez-le, madame, au lieu de l’infidèle ;</l>
+<l>C’est par là que je puis prendre vengeance d’elle ;</l>
+<l>Et je la veux punir par les sincères vœux,</l>
+<l>Par le profond amour, les soins respectueux,</l>
+<l>Les devoirs empressés et l’assidu service,</l>
+<l>Dont ce cœur va vous faire un ardent sacrifice.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>Je compatis, sans doute, à ce que vous souffrez,</l>
+<l>Et ne méprise point le cœur que vous m’offrez ;</l>
+<l>Mais peut-être le mal n’est pas si grand qu’on pense,</l>
+<l>Et vous pourrez quitter ce désir de vengeance.</l>
+<l>Lorsque l’injure part d’un objet plein d’appas,</l>
+<l>On fait force desseins qu’on n’exécute pas :</l>
+<l>On a beau voir, pour rompre, une raison puissante,</l>
+<l>Une coupable aimée est bientôt innocente ;</l>
+<pagenum num="186"/>
+<l>Tout le mal qu’on lui veut se dissipe aisément,</l>
+<l>Et l’on sait ce que c’est qu’un courroux d’un amant.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non, non, madame, non. L’offense est trop mortelle :</l>
+<l>Il n’est point de retour, et je romps avec elle ;</l>
+<l>Rien ne sauroit changer le dessein que j’en fais,</l>
+<l>Et je me punirois de l’estimer jamais.</l>
+<l>La voici. Mon courroux redouble à cette approche,</l>
+<l>Je vais de sa noirceur lui faire un vif reproche,</l>
+<l>Pleinement la confondre, et vous porter après</l>
+<l>Un cœur tout dégagé de ses trompeurs attraits.</l>
+
+<h3 id="p25">SCÈNE III. — CÉLIMÈNE, ALCESTE</h3>
+
+<hstage><speaker>ALCESTE</speaker>, à part.</hstage>
+<l>O ciel ! de mes transports puis-je être ici le maître ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker>, à part.</hstage>
+<l>Ouais !</l>
+<pstage>A Alceste.</pstage>
+<l cont="true">Quel est donc le trouble où je vous vois paroître ?</l>
+<l>Et que me veulent dire, et ces soupirs poussés,</l>
+<l>Et ces sombres regards que sur moi vous lancez ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Que toutes les horreurs dont une âme est capable</l>
+<l>A vos déloyautés n’ont rien de comparable ;</l>
+<l>Que le sort, les démons, et le ciel en courroux,</l>
+<l>N’ont jamais rien produit de si méchant que vous.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Voilà certainement des douceurs que j’admire.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ah ! ne plaisantez point, il n’est pas temps de rire.</l>
+<l>Rougissez bien plutôt, vous en avez raison ;</l>
+<l>Et j’ai de sûrs témoins de votre trahison.</l>
+<l>Voilà ce que marquoient les troubles de mon âme ;</l>
+<l>Ce n’étoit pas en vain que s’alarmoit ma flamme ;</l>
+<l>Par ces fréquents soupçons qu’on trouvoit odieux,</l>
+<l>Je cherchois le malheur qu’ont rencontré mes yeux ;</l>
+<l>Et, malgré tous vos soins et votre adresse à feindre,</l>
+<l>Mon astre me disoit ce que j’avois à craindre.</l>
+<l>Mais ne présumez pas que, sans être vengé,</l>
+<l>Je souffre le dépit de me voir outragé.</l>
+<l>Je sais que sur les vœux on n’a point de puissance,</l>
+<pagenum num="187"/>
+<l>Que l’amour veut partout naître sans dépendance,</l>
+<l>Que jamais par la force on n’entra dans un cœur,</l>
+<l>Et que toute âme est libre à nommer son vainqueur.</l>
+<l>Aussi ne trouverois-je aucun sujet de plainte,</l>
+<l>Si pour moi votre bouche avoit parlé sans feinte,</l>
+<l>Et, rejetant mes vœux dès le premier abord,</l>
+<l>Mon cœur n’auroit eu droit de s’en prendre qu’au sort.</l>
+<l>Mais d’un aveu trompeur voir ma flamme applaudie,</l>
+<l>C’est une trahison, c’est une perfidie,</l>
+<l>Qui ne sauroit trouver de trop grands châtiments ;</l>
+<l>Et je puis tout permettre à mes ressentiments.</l>
+<l>Oui, oui, redoutez tout après un tel outrage ;</l>
+<l>Je ne suis plus à moi, je suis tout à la rage.</l>
+<l>Percé du coup mortel dont vous m’assassinez,</l>
+<l>Mes sens par la raison ne sont plus gouvernés ;</l>
+<l>Je cède aux mouvements d’une juste colère,</l>
+<l>Et je ne réponds pas de ce que je puis faire.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>D’où vient donc, je vous prie, un tel emportement ?</l>
+<l>Avez-vous, dites-moi, perdu le jugement ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Oui, oui, je l’ai perdu, lorsque dans votre vue,</l>
+<l>J’ai pris, pour mon malheur, le poison qui me tue,</l>
+<l>Et que j’ai cru trouver quelque sincérité</l>
+<l>Dans les traîtres appas dont je fus enchanté.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>De quelle trahison pouvez-vous donc vous plaindre ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ah ! que ce cœur est double et sait bien l’art de feindre !</l>
+<l>Mais, pour le mettre à bout, j’ai des moyens tout prêts.</l>
+<l>Jetez ici les yeux, et connoissez vos traits.</l>
+<l>Ce billet découvert suffit pour vous confondre,</l>
+<l>Et contre ce témoin on n’a rien à répondre.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Voilà donc le sujet qui vous trouble l’esprit ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Vous ne rougissez pas en voyant cet écrit !</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Et par quelle raison faut-il que j’en rougisse ?</l>
+
+<hstage><speaker>ACLESTE</speaker></hstage>
+<l>Quoi ! vous joignez ici l’audace à l’artifice !</l>
+<pagenum num="188"/>
+<l>Le désavouerez-vous pour n’avoir point de seing !</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Pourquoi désavouer un billet de ma main ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Et vous pouvez le voir sans demeurer confuse</l>
+<l>Du crime dont vers moi son style vous accuse !</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Vous êtes, sans mentir, un grand extravagant.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Quoi ! vous bravez ainsi ce témoin convaincant !</l>
+<l>Et ce qu’il m’a fait voir de douceur pour Oronte</l>
+<l>N’a donc rien qui m’outrage et qui vous fasse honte ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Oronte ! Qui vous dit que la lettre est pour lui ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Les gens qui dans mes mains l’ont remise aujourd’hui.</l>
+<l>Mais je veux consentir qu’elle soit pour un autre,</l>
+<l>Mon cœur en a-t-il moins à se plaindre du vôtre ?</l>
+<l>En serez-vous vers moi moins coupable en effet ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Mais si c’est une femme à qui va ce billet,</l>
+<l>En quoi vous blesse-t-il, et qu’a-t-il de coupable ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ah ! le détour est bon, et l’excuse admirable.</l>
+<l>Je ne m’attendois pas, je l’avoue, à ce trait.</l>
+<l>Et me voilà par là convaincu tout à fait.</l>
+<l>Osez-vous recourir à ces ruses grossières ?</l>
+<l>Et croyez-vous les gens si privés de lumières ?</l>
+<l>Voyons, voyons un peu par quel biais, de quel air.</l>
+<l>Vous voulez soutenir un mensonge si clair ;</l>
+<l>Et comment vous pourrez tourner pour une femme</l>
+<l>Tous les mots d’un billet qui montre tant de flamme.</l>
+<l>Ajustez, pour couvrir un manquement de foi,</l>
+<l>Ce que je m’en vais lire...</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Il ne me plaît pas, moi.</l>
+<l>Je vous trouve plaisant d’user d’un tel empire</l>
+<l>Et de me dire au nez ce que vous m’osez dire !</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non, non, sans s’emporter, prenez un peu souci</l>
+<l>De me justifier les termes que voici.</l>
+
+<pagenum num="189"/>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Non, je n’en veux rien faire ; et, dans cette occurrence,</l>
+<l>Tout ce que vous croirez m’est de peu d’importance.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>De grâce, montrez-moi, je serai satisfait,</l>
+<l>Qu’on peut, pour une femme, expliquer ce billet.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Non, il est pour Oronte ; et je veux qu’on le croie.</l>
+<l>Je reçois tous ses soins avec beaucoup de joie,</l>
+<l>J’admire ce qu’il dit, j’estime ce qu’il est,</l>
+<l>Et je tombe d’accord de tout ce qu’il vous plaît.</l>
+<l>Faites, prenez parti ; que rien ne vous arrête.</l>
+<l>Et ne me rompez pas davantage la tête.</l>
+
+<hstage><speaker>ALCESTE</speaker>, à part.</hstage>
+<l>Ciel ! rien de plus cruel peut-il être inventé,</l>
+<l>Et jamais cœur fut-il de la sorte traité ?</l>
+<l>Quoi ! d’un juste courroux je suis ému contre elle,</l>
+<l>C’est moi qui me viens plaindre, et c’est moi qu’on querelle !</l>
+<l>On pousse ma douleur et mes soupçons à bout,</l>
+<l>On me laisse tout croire, on fait gloire de tout ;</l>
+<l>Et cependant mon cœur est encore assez lâche</l>
+<l>Pour ne pouvoir briser la chaîne qui l’attache,</l>
+<l>Et pour ne pas s’armer d’un généreux mépris</l>
+<l>Contre l’ingrat objet dont il est trop épris !</l>
+<pstage>A Cêlimène.</pstage>
+<l>Ah ! que vous savez bien ici contre moi-même,</l>
+<l>Perfide, vous servir de ma foiblesse extrême,</l>
+<l>Et ménager pour vous l’excès prodigieux</l>
+<l>De ce fatal amour né de vos traîtres yeux !</l>
+<l>Défendez-vous au moins d’un crime qui m’accable,</l>
+<l>Et cessez d’affecter d’être envers moi coupable.</l>
+<l>Rendez-moi, s’il se peut, ce billet innocent ;</l>
+<l>A vous prêter les mains ma tendresse consent.</l>
+<l>Efforcez-vous ici de paroître fidèle,</l>
+<l>Et je m’efforcerai, moi, de vous croire telle.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Allez, vous êtes fou dans vos transports jaloux,</l>
+<l>Et ne méritez pas l’amour qu’on a pour vous.</l>
+<l>Je voudrois bien savoir qui pourroit me contraindre</l>
+<l>A descendre pour vous aux bassesses de feindre :</l>
+<l>Et pourquoi, si mon cœur penchoit d’autre côté,</l>
+<l>Je ne le dirois pas avec sincérité !</l>
+<pagenum num="190"/>
+<l>Quoi ! de mes sentiments l’obligeante assurance</l>
+<l>Contre tous vos soupçons ne prend pas ma défense ?</l>
+<l>Auprès d’un tel garant sont-ils de quelque poids ?</l>
+<l>N’est-ce pas m’outrager que d’écouter leurs voix ?</l>
+<l>Et, puisque notre cœur fait un effort extrême</l>
+<l>Lorsqu’il peut se résoudre à confesser qu’il aime ;</l>
+<l>Puisque l’honneur du sexe, ennemi de nos feux,</l>
+<l>S’oppose fortement à de pareils aveux,</l>
+<l>L’amant qui voit pour lui franchir un tel obstacle</l>
+<l>Doit-il impunément douter de cet oracle ?</l>
+<l>Et n’est-il pas coupable, en ne s’assurant pas</l>
+<l>A ce qu’on ne dit point qu’après de grands combats ?</l>
+<l>Allez, de tels soupçons méritent ma colère ;</l>
+<l>Et vous ne valez pas que l’on vous considère.</l>
+<l>Je suis sotte, et veux mal à ma simplicité</l>
+<l>De conserver encor pour vous quelque bonté ;</l>
+<l>Je devrois autre part attacher mon estime.</l>
+<l>Et vous faire un sujet de plainte légitime.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ah ! traîtresse ! mon foible est étrange pour vous ;</l>
+<l>Vous me trompez, sans doute, avec des mots si doux ;</l>
+<l>Mais il n’importe, il faut suivre ma destinée ;</l>
+<l>A votre foi mon âme est tout abandonnée ;</l>
+<l>Je veux voir jusqu’au bout quel sera votre cœur,</l>
+<l>Et si de me trahir il aura la noirceur.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Non, vous ne m’aimez point comme il faut que l’on aime.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ah ! rien n’est comparable à mon amour extrême ;</l>
+<l>Et dans l’ardeur qu’il a de se montrer à tous,</l>
+<l>Il va jusqu’à former des souhaits contre vous.</l>
+<l>Oui, je voudrois qu’aucun ne vous trouvât aimable,</l>
+<l>Que vous fussiez réduite en un sort misérable ;</l>
+<l>Que le ciel en naissant ne vous eût donné rien ;</l>
+<l>Que vous n’eussiez ni rang, ni naissance, ni bien ;</l>
+<l>Afin que de mon cœur l’éclatant sacrifice</l>
+<l>Vous pût d’un pareil sort réparer l’injustice ;</l>
+<l>Et que j’eusse la joie et la gloire en ce jour</l>
+<l>De vous voir tenir tout des mains de mon amour.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>C’est me vouloir du bien d’une étrange manière !</l>
+<pagenum num="191"/>
+<l>Me préserve le ciel que vous ayez matière...</l>
+<l>Voici monsieur Dubois plaisamment figuré.</l>
+
+<h3 id="p26">SCÈNE IV. — CÉLIMÈNE, ALCESTE, DUBOIS</h3>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Que veut cet équipage et cet air effaré ?</l>
+<l>Qu’as-tu ?</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l cont="true">Monsieur...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Eh bien ?</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l cont="true">Voici bien des mystères.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Qu’est-ce ?</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l cont="true">Nous sommes mal, monsieur, dans nos affaires.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Quoi ?</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l cont="true">Parlerai-je haut ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Oui, parle, et promptement.</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l>N’est-il point là quelqu’un ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Ah ! que d’amusement !</l>
+<l>Veux-tu parler ?</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l cont="true">Monsieur, il faut faire retraite.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l cont="true">Il faut d’ici déloger sans trompette.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Et pourquoi ?</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l cont="true">Je vous dis qu’il faut quitter ce lieu.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>La cause ?</l>
+
+<pagenum num="192"/>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l cont="true">Il faut partir, monsieur, sans dire adieu.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Mais par quelle raison me tiens-tu ce langage ?</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l>Par la raison, monsieur, qu’il faut plier bagage.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Ah ! je te casserai la tête assurément,</l>
+<l>Si tu ne veux, maraud, t’expliquer autrement.</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l>Monsieur, un homme noir et d’habit et de mine</l>
+<l>Est venu nous laisser, jusque dans la cuisine,</l>
+<l>Un papier griffonné d’une telle façon,</l>
+<l>Qu’il faudroit, pour le lire, être pis qu’un démon<noteref noteid="note.192.1"/>.</l>
+<l>C’est de votre procès, je n’en fais aucun doute ;</l>
+<l>Mais le diable d’enfer, je crois, n’y verroit goutte.</l>
+
+<notes>
+  <note id="note.192.1">
+    <p><s>VAR</s>. Il faudroit, pour le lire être pis <i>que</i> démon.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Eh bien, quoi ? Ce papier, qu’a-t-il à démêler,</l>
+<l>Traître, avec le départ dont tu viens me parler ?</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l>C’est pour vous dire ici, monsieur, qu’une heure ensuite,</l>
+<l>Un homme qui souvent vous vient rendre visite</l>
+<l>Est venu vous chercher avec empressement,</l>
+<l>Et, ne vous trouvant pas, m’a chargé doucement,</l>
+<l>Sachant que je vous sers avec beaucoup de zèle,</l>
+<l>De vous dire... Attendez, comme est-ce qu’il s’appelle ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Laisse là son nom, traître, et dis ce qu’il t’a dit.</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l>C’est un de vos amis ; enfin cela suffit.</l>
+<l>Il m’a dit que d’ici votre péril vous chasse,</l>
+<l>Et que d’être arrêté le sort vous y menace.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Mais quoi ! n’a-t-il voulu te rien spécifier ?</l>
+
+<hstage><speaker>DUBOIS</speaker></hstage>
+<l>Non. Il m’a demandé de l’encre et du papier.</l>
+<l>Et vous a fait un mot, où vous pourrez, je pense,</l>
+<l>Du fond de ce mystère avoir la connoissance.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Donne-le donc !</l>
+
+<pagenum num="193"/>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Que peut envelopper ceci ?</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je ne sais ; mais j’aspire à m’en voir éclairci.</l>
+<l>Auras-tu bientôt fait, impertinent au diable ?</l>
+
+<hstage><speaker>DUBOIS</speaker>, après avoir longtemps cherché le billet.</hstage>
+<l>Ma foi, je l’ai, monsieur, laissé sur votre table.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je ne sais qui me tient...</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Ne vous emportez pas,</l>
+<l>Et courez démêler un pareil embarras.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Il semble que le sort, quelque soin que je prenne.</l>
+<l>Ait juré d’empêcher que je vous entretienne ;</l>
+<l>Mais, pour en triompher, souffrez à mon amour</l>
+<l>De vous revoir, madame, avant la fin du jour.</l>
+
+<vsep class="rule"/>
+
+<h2 id="p27">ACTE CINQUIÈME</h2>
+
+<h3 id="p28">SCÈNE I. — ALCESTE, PHILINTE</h3>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>La résolution en est prise, vous dis-je.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais, quel que soit ce coup, faut-il qu’il vous oblige...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non, vous avez beau faire et beau me raisonner,</l>
+<l>Rien de ce que je dis ne peut me détourner ;</l>
+<l>Trop de perversité règne au siècle où nous sommes,</l>
+<l>Et je veux me tirer du commerce des hommes.</l>
+<l>Quoi ! contre ma partie on voit tout à la fois</l>
+<l>L’honneur, la probité, la pudeur et les lois ;</l>
+<l>On publie en tous lieux l’équité de ma cause ;</l>
+<l>Sur la foi de mon droit mon âme se repose ;</l>
+<l>Cependant je me vois trompé par le succès :</l>
+<l>J’ai pour moi la justice, et je perds mon procès !</l>
+<l>Un traître, dont on sait la scandaleuse histoire,</l>
+<l>Est sorti triomphant d’une fausseté noire !</l>
+<l>Toute la bonne foi cède à sa trahison !</l>
+<l>Il trouve, en m’égorgeant, moyen d’avoir raison !</l>
+<pagenum num="194"/>
+<l>Le poids de sa grimace, où brille l’artifice,</l>
+<l>Renverse le bon droit et tourne la justice !</l>
+<l>Il fait par un arrêt couronner son forfait !</l>
+<l>Et, non content encor du tort que l’on me fait,</l>
+<l>Il court parmi le monde un livre abominable,</l>
+<l>Et de qui la lecture est même condamnable.</l>
+<l>Un livre à mériter la dernière rigueur,</l>
+<l>Dont le fourbe a le front de me faire l’auteur !</l>
+<l>Et là-dessus on voit Oronte qui murmure,</l>
+<l>Et tâche méchamment d’appuyer l’imposture !</l>
+<l>Lui qui d’un honnête homme à la cour tient le rang,</l>
+<l>A qui je n’ai fait rien qu’être sincère et franc,</l>
+<l>Qui me vient malgré moi, d’une ardeur empressée.</l>
+<l>Sur des vers qu’il a faits demander ma pensée ;</l>
+<l>Et parce que j’en use avec honnêteté,</l>
+<l>Et ne le veux trahir, lui, ni la vérité,</l>
+<l>Il aide à m’accabler d’un crime imaginaire !</l>
+<l>Le voilà devenu mon plus grand adversaire !</l>
+<l>Et jamais de son cœur je n’aurai de pardon,</l>
+<l>Pour n’avoir pas trouvé que son sonnet fût bon !</l>
+<l>Et les hommes, morbleu ! sont faits de cette sorte !</l>
+<l>C’est à ces actions que la gloire les porte !</l>
+<l>Voilà la bonne foi, le zèle vertueux,</l>
+<l>La justice et l’honneur que l’on trouve chez eux !</l>
+<l>Allons, c’est trop souffrir les chagrins qu’on nous forge :</l>
+<l>Tirons-nous de ce bois et de ce coupe-gorge.</l>
+<l>Puisque entre humains ainsi vous vivez en vrais loups,</l>
+<l>Traîtres, vous ne m’aurez de ma vie avec vous.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Je trouve un peu bien prompt le dessein où vous êtes,</l>
+<l>Et tout le mal n’est pas si grand que vous le faites.</l>
+<l>Ce que votre partie ose vous imputer</l>
+<l>N’a point eu le crédit de vous faire arrêter ;</l>
+<l>On voit son faux rapport lui-même se détruire,</l>
+<l>Et c’est une action qui pourroit bien lui nuire.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Lui ? de semblables tours il ne craint point l’éclat :</l>
+<l>Il a permission d’être franc scélérat ;</l>
+<l>Et, loin qu’à son crédit nuise cette aventure,</l>
+<l>On l’en verra demain en meilleure posture.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Enfin il est constant qu’on n’a point trop donné</l>
+<pagenum num="195"/>
+<l>Au bruit que contre vous sa malice a tourné :</l>
+<l>De ce côté déjà vous n’avez rien à craindre ;</l>
+<l>Et pour votre procès, dont vous pouvez vous plaindre,</l>
+<l>Il vous est en justice aisé d’y revenir,</l>
+<l>Et contre cet arrêt...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Non, je veux m’y tenir.</l>
+<l>Quelque sensible tort qu’un tel arrêt me fasse,</l>
+<l>Je me garderai bien de vouloir qu’on le casse :</l>
+<l>On y voit trop à plein le bon droit maltraité,</l>
+<l>Et je veux qu’il demeure à la postérité</l>
+<l>Comme une marque insigne, un fameux témoignage</l>
+<l>De la méchanceté des hommes de notre âge.</l>
+<l>Ce sont vingt mille francs qu’il m’en pourra coûter ;</l>
+<l>Mais pour vingt mille francs j’aurai droit de pester</l>
+<l>Contre l’iniquité de la nature humaine,</l>
+<l>Et de nourrir pour elle une immortelle haine !</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais enfin...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Mais enfin, vos soins sont superflus.</l>
+<l>Que pouvez-vous, monsieur, me dire là-dessus ?</l>
+<l>Aurez-vous bien le front de me vouloir, en face,</l>
+<l>Excuser les horreurs de tout ce qui se passe ?</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Non, je tombe d’accord de tout ce qu’il vous plaît :</l>
+<l>Tout marche par cabale et par pur intérêt ;</l>
+<l>Ce n’est plus que la ruse aujourd’hui qui l’emporte,</l>
+<l>Et les hommes devroient être faits d’autre sorte.</l>
+<l>Mais est-ce une raison que leur peu d’équité,</l>
+<l>Pour vouloir se tirer de leur société ?</l>
+<l>Tous ces défauts humains nous donnent dans la vie</l>
+<l>Des moyens d’exercer notre philosophie :</l>
+<l>C’est le plus bel emploi que trouve la vertu ;</l>
+<l>Et, si de probité tout étoit revêtu,</l>
+<l>Si tous les cœurs étoient francs, justes et dociles,</l>
+<l>La plupart des vertus nous seroient inutiles,</l>
+<l>Puisqu’on en met l’usage à pouvoir sans ennui</l>
+<l>Supporter dans nos droits l’injustice d’autrui ;</l>
+<l>Et, de même qu’un cœur d’une vertu profonde...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je sais que vous parlez, monsieur, le mieux du monde ;</l>
+<pagenum num="196"/>
+<l>En beaux raisonnements vous abondez toujours ;</l>
+<l>Mais vous perdez le temps et tous vos beaux discours.</l>
+<l>La raison, pour mon bien, veut que je me retire.</l>
+<l>Je n’ai point sur ma langue un assez grand empire ;</l>
+<l>De ce que je dirois je ne répondrois pas,</l>
+<l>Et je me jetterois cent choses sur les bras.</l>
+<l>Laissez-moi, sans dispute, attendre Célimène.</l>
+<l>Il faut qu’elle consente au dessein qui m’amène ;</l>
+<l>Je vais voir si son cœur a de l’amour pour moi ;</l>
+<l>Et c’est ce moment-ci qui doit m’en faire foi.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Montons chez Éliante, attendant sa venue.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Non : de trop de souci je me sens l’âme émue.</l>
+<l>Allez-vous-en la voir, et me laissez enfin</l>
+<l>Dans ce petit coin sombre avec mon noir chagrin.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>C’est une compagnie étrange pour attendre ;</l>
+<l>Et je vais obliger Éliante à descendre.</l>
+
+<h3 id="p29">SCÈNE II. — CÉLIMÈNE, ORONTE, ALCESTE</h3>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Oui, c’est à vous de voir si, par des nœuds si doux,</l>
+<l>Madame, vous voulez m’attacher tout à vous.</l>
+<l>Il me faut de votre âme une pleine assurance :</l>
+<l>Un amant là-dessus n’aime point qu’on balance.</l>
+<l>Si l’ardeur de mes feux a pu vous émouvoir,</l>
+<l>Vous ne devez point feindre à me le faire voir ;</l>
+<l>Et la preuve, après tout, que je vous en demande,</l>
+<l>C’est de ne plus souffrir qu’Alceste vous prétende,</l>
+<l>De le sacrifier, madame, à mon amour,</l>
+<l>Et de chez vous enfin le bannir dès ce jour.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Mais quel sujet si grand contre lui vous irrite,</l>
+<l>Vous à qui j’ai tant vu parler de son mérite ?</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Madame, il ne faut point ces éclaircissements ;</l>
+<l>Il s’agit de savoir quels sont vos sentiments.</l>
+<l>Choisissez, s’il vous plaît, de garder l’un ou l’autre ;</l>
+<l>Ma résolution n’attend rien que la vôtre.</l>
+
+<hstage><speaker>ALCESTE</speaker>, sortant du coin où il étoit.</hstage>
+<l>Oui, monsieur a raison ; madame, il faut choisir ;</l>
+<pagenum num="197"/>
+<l>Et sa demande ici s’accorde à mon désir.</l>
+<l>Pareille ardeur me presse, et même soin m’amène ;</l>
+<l>Mon amour veut du vôtre une marque certaine :</l>
+<l>Les choses ne sont plus pour traîner en longueur,</l>
+<l>Et voici le moment d’expliquer votre cœur.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Je ne veux point, monsieur, d’une flamme importune</l>
+<l>Troubler aucunement votre bonne fortune.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je ne veux point, monsieur, jaloux ou non jaloux,</l>
+<l>Partager de son cœur rien du tout avec vous.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Si votre amour au mien, lui semble préférable...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Si du moindre penchant elle est pour vous capable...</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Je jure de n’y rien prétendre désormais.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Je jure hautement de ne la voir jamais.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Madame, c’est à vous de parler sans contrainte.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Madame, vous pouvez vous expliquer sans crainte.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Vous n’avez qu’à nous dire où s’attachent vos vœux,</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Vous n’avez qu’à trancher et choisir de nous deux.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Quoi ! sur un pareil choix vous semblez être en peine !</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Quoi ! votre âme balance et paroit incertaine !</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Mon Dieu ! que cette instance est là hors de saison !</l>
+<l>Et que vous témoignez tous deux peu de raison !</l>
+<l>Je sais prendre parti sur cette préférence,</l>
+<l>Et ce n’est pas mon cœur maintenant qui balance :</l>
+<l>Il n’est point suspendu sans doute entre vous deux,</l>
+<l>Et rien n’est si tôt fait que le choix de nos vœux ;</l>
+<l>Mais je souffre, à vrai dire, une gêne trop forte</l>
+<l>A prononcer en face un aveu de la sorte :</l>
+<l>Je trouve que ces mots, qui sont désobligeants,</l>
+<pagenum num="198"/>
+<l>Ne se doivent point dire en présence des gens ;</l>
+<l>Qu’un cœur de son penchant donne assez de lumière,</l>
+<l>Sans qu’on nous fasse aller jusqu’à rompre en visière.</l>
+<l>Et qu’il suffit enfin que de plus doux témoins<noteref noteid="note.198.1"/></l>
+<l>Instruisent un amant du malheur de ses soins.</l>
+
+<notes>
+  <note id="note.198.1">
+    <p><i>Témoin</i> est ici pour : preuves, témoignages.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Non, non, un franc aveu n’a rien que j’appréhende ;</l>
+<l>J’y consens pour ma part.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Et moi, je le demande ;</l>
+<l>C’est son éclat surtout qu’ici j’ose exiger.</l>
+<l>Et je ne prétends point vous voir rien ménager.</l>
+<l>Conserver tout le monde est votre grande étude ;</l>
+<l>Mais plus d’amusement et plus d’incertitude :</l>
+<l>Il faut vous expliquer nettement là-dessus,</l>
+<l>Ou bien pour un arrêt je prends votre refus ;</l>
+<l>Je saurai, de ma part, expliquer ce silence,</l>
+<l>Et me tiendrai pour dit tout le mal que j’en pense.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Je vous sais fort bon gré, monsieur, de ce courroux</l>
+<l>Et je lui dis ici même chose que vous.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Que vous me fatiguez avec un tel caprice !</l>
+<l>Ce que vous demandez a-t-il de la justice ?</l>
+<l>Et ne vous dis-je pas quel motif me retient ?</l>
+<l>J’en vais prendre pour juge Éliante, qui vient.</l>
+
+<h3 id="p30">SCÈNE III. — ÉLIANTE, PHILINTE, CÉLIMÈNE, ORONTE, ALCESTE</h3>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Je me vois, ma cousine, ici persécutée</l>
+<l>Par des gens dont l’humeur y paroît concertée.</l>
+<l>Ils veulent l’un et l’autre, avec même chaleur,</l>
+<l>Que je prononce entre eux le choix que fait mon cœur,</l>
+<l>Et que, par un arrêt qu’en face il me faut rendre,</l>
+<l>Je défende à l’un d’eux tous les soins qu’il peut prendre.</l>
+<l>Dites-moi si jamais cela se fait ainsi.</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l>N’allez point là-dessus me consulter ici ;</l>
+<l>Peut-être y pourriez-vous être mal adressée,</l>
+<pagenum num="199"/>
+<l>Et je suis pour les gens qui disent leur pensée.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Madame, c’est en vain que vous vous défendez.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Tous vos détours ici seront mal secondés.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Il faut, il faut parler, et lâcher la balance.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Il ne faut que poursuivre à garder le silence.</l>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Je ne veux qu’un seul mot pour finir nos débats.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Et moi, je vous entends, si vous ne parlez pas.</l>
+
+<h3 id="p31">SCÈNE IV. — ARSINOÉ, CÉLIMÈNE, ÉLIANTE, ALCESTE, PHILINTE, ACASTE, CLITANDRE, ORONTE</h3>
+
+<hstage><speaker>ACASTE</speaker>, à Cêlimène.</hstage>
+<l>Madame, nous venons tous deux, sans vous déplaire,</l>
+<l>Éclaircir avec vous une petite affaire.</l>
+
+<hstage><speaker>CLITANDRE</speaker>, à Oronte et à Alceste.</hstage>
+<l>Fort à propos, messieurs, vous vous trouvez ici,</l>
+<l>Et vous êtes mêlés dans cette affaire aussi.</l>
+
+<hstage><speaker>ARSINOÉ</speaker>, à Cêlimène.</hstage>
+<l>Madame, vous serez surprise de ma vue :</l>
+<l>Mais ce sont ces messieurs qui causent ma venue ;</l>
+<l>Tous deux ils m’ont trouvée, et se sont plaints à moi</l>
+<l>D’un trait à qui mon cœur ne sauroit prêter foi.</l>
+<l>J’ai du fond de votre âme une trop haute estime</l>
+<l>Pour vous croire jamais capable d’un tel crime :</l>
+<l>Mes yeux ont démenti leurs témoins les plus forts.</l>
+<l>Et, l’amitié passant sur de petits discords,</l>
+<l>J’ai bien voulu chez vous leur faire compagnie,</l>
+<l>Pour vous voir vous laver de cette calomnie.</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>Oui, madame, voyons, d’un esprit adouci,</l>
+<l>Comment vous vous prendrez à soutenir ceci.</l>
+<l>Cette lettre, par vous, est écrite à Clitandre.</l>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Vous avez pour Acaste écrit ce billet tendre.</l>
+
+<pagenum num="200"/>
+
+<hstage><speaker>ACASTE</speaker>, à Oronte et à Alceste</hstage>
+<l>Messieurs, ces traits pour vous n’ont point d’obscurité,</l>
+<l>Et je ne doute pas que sa civilité</l>
+<l>A connoître sa main n’ait trop su vous instruire.</l>
+<l>Mais ceci vaut assez la peine de le lire.</l>
+
+<p>« Vous êtes un étrange homme de condamner mon enjouement, et de me reprocher que je n’ai jamais tant de joie que lorsque je ne suis pas avec vous. Il n’y a rien de plus injuste ; et, si vous ne venez bien vite me demander pardon de cette offense, je ne vous la pardonnerai de ma vie. Notre grand flandrin de vicomte... »</p>
+
+<l>Il devroit être ici.</l>
+
+<p>« Notre grand flandrin de vicomte, par qui vous commencez vos plaintes, est un homme qui ne sauroit me revenir ; et, depuis que je l’ai vu, trois quarts d’heure durant, cracher dans un puits pour faire des ronds, je n’ai jamais pu prendre bonne opinion de lui. Pour le petit marquis... »</p>
+
+<l>C’est moi-même, messieurs, sans nulle vanité.</l>
+
+<p>« Pour le petit marquis, qui me tint hier longtemps la main, je trouve qu’il n’y a rien de si mince que toute sa personne ; et ce sont de ces mérites qui n’ont que la cape et l’épée. Pour l’homme aux rubans verts... »</p>
+
+<pstage>A Alceste.</pstage>
+
+<l>A vous le dé, monsieur.</l>
+
+<p>« Pour l’homme aux rubans verts<noteref noteid="note.200.1"/>, il me divertit quelquefois avec ses brusqueries et son chagrin bourru ; mais il est cent moments où je le trouve le plus fâcheux du monde. Et pour l’homme au sonnet... »</p>
+
+<pstage>A Oronte.</pstage>
+
+<l>Voici votre paquet.</l>
+
+<p>« Et pour l’homme au sonnet, qui s’est jeté dans le bel esprit et veut être auteur malgré tout le monde, je ne puis me donner la peine d’écouter ce qu’il dit, et sa prose me fatigue autant que ses vers. Mettez-vous donc en tête que je ne me divertis pas toujours si bien que vous pensez ; que je vous trouve à dire, plus que je ne voudrois, dans toutes les parties où l’on m’entraîne ; et que c’est un merveilleux assaisonnement aux plaisirs qu’on goûte que la présence des gens qu’on aime. »</p>
+
+<notes>
+  <note id="note.200.1">
+    <p>A cette époque, les jeunes seigneurs se paraient, comme les dames, de nœuds de rubans, et cette parure féminine entrait même dans leur toilette militaire.</p>
+  </note>
+</notes>
+
+<pagenum num="201"/>
+
+<hstage><speaker>CLITANDRE</speaker></hstage>
+<l>Me voici maintenant, moi.</l>
+
+<p>« Votre Clitandre, dont vous me parlez, et qui fait tant le doucereux, est le dernier des hommes pour qui j’aurois de l’amitié. Il est extravagant de se persuader qu’on l’aime, et vous l’êtes de croire qu’on ne vous aime pas. Changez, pour être raisonnable, vos sentiments contre les siens ; et voyez-moi le plus que vous pourrez, pour m’aider à porter le chagrin d’en être obsédée. »</p>
+
+<l>D’un fort beau caractère on voit là le modèle.</l>
+<l>Madame, et vous savez comment cela s’appelle.</l>
+<l>Il suffit. Nous allons l’un et l’autre, en tous lieux,</l>
+<l>Montrer de votre cœur le portrait glorieux.</l>
+
+<hstage><speaker>ACASTE</speaker></hstage>
+<l>J’aurois de quoi vous dire, et belle est la matière ;</l>
+<l>Mais je ne vous tiens pas digne de ma colère ;</l>
+<l>Et je vous ferai voir que les petits marquis</l>
+<l>Ont, pour se consoler, des cœurs du plus haut prix.</l>
+
+<h3 id="p32">SCÈNE V. — CÉLIMÈNE, ÉLIANTE, ARSINOÉ, ALCESTE, ORONTE, PHILINTE</h3>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<l>Quoi ! de cette façon je vois qu’on me déchire,</l>
+<l>Après tout ce qu’à moi je vous ai vu m’écrire !</l>
+<l>Et votre cœur, paré de beaux semblants d’amour,</l>
+<l>A tout le genre humain se promet tour à tour !</l>
+<l>Allez, j’étois trop dupe, et je vais ne plus l’être ;</l>
+<l>Vous me faites un bien, me faisant vous connoître ;</l>
+<l>J’y profite d’un cœur qu’ainsi vous me rendez,</l>
+<l>Et trouve ma vengeance en ce que vous perdez.</l>
+<pstage>A Alceste.</pstage>
+<l>Monsieur, je ne fais plus d’obstacle à votre flamme,</l>
+<l>Et vous pouvez conclure affaire avec madame.</l>
+
+<h3 id="p33">SCÈNE VI. — CÉLIMÈNE, ÉLIANTE, ARSINOÉ, ALCESTE, PHILINTE</h3>
+
+<hstage><speaker>ARSINOÉ</speaker>, à Célimène.</hstage>
+<l>Certes, voilà le trait du monde le plus noir ;</l>
+<l>Je ne m’en saurois taire, et me sens émouvoir.</l>
+<l>Voit-on des procédés qui soient pareils aux vôtres ?</l>
+<l>Je ne prends point de part aux intérêts des autres ;</l>
+<pagenum num="202"/>
+<pstage>Montrant Alceste.</pstage>
+<l>Mais monsieur, que chez vous fixoit votre bonheur,</l>
+<l>Un homme, comme lui, de mérite, et d’honneur,</l>
+<l>Et qui vous chérissoit avec idolâtrie,</l>
+<l>Devoit-il...</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Laissez-moi, madame, je vous prie,</l>
+<l>Vider mes intérêts moi-même là-dessus,</l>
+<l>Et ne vous chargez point de ces soins superflus.</l>
+<l>Mon cœur a beau vous voir prendre ici sa querelle,</l>
+<l>Il n’est pas en état de payer ce grand zèle ;</l>
+<l>Et ce n’est point à vous que je pourrai songer,</l>
+<l>Si par un autre choix je cherche à me venger.</l>
+
+<hstage><speaker>ARSINOÉ</speaker></hstage>
+<l>Eh ! croyez-vous, monsieur, qu’on ait cette pensée.</l>
+<l>Et que de vous avoir on soit tant empressée ?</l>
+<l>Je vous trouve un esprit bien plein de vanité,</l>
+<l>Si de cette créance il peut s’être flatté.</l>
+<l>Le rebut de madame est une marchandise</l>
+<l>Dont on auroit grand tort d’être si fort éprise.</l>
+<l>Détrompez-vous, de grâce, et portez-le moins haut.</l>
+<l>Ce ne sont pas des gens comme moi qu’il vous faut.</l>
+<l>Vous ferez bien encor de soupirer pour elle,</l>
+<l>Et je brûle de voir une union si belle.</l>
+
+<h3 id="p34">SCÈNE VII. — CÉLIMÈNE, ÉLIANTE, ALCESTE, PHILINTE</h3>
+
+<hstage><speaker>ALCESTE</speaker>, à Célimène.</hstage>
+<l>Eh bien, je me suis tu, malgré ce que je voi.</l>
+<l>Et j’ai laissé parler tout le monde avant moi.</l>
+<l>Ai-je pris sur moi-même un assez long empire ?</l>
+<l>Et puis-je maintenant...</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l cont="true">Oui, vous pouvez tout dire ;</l>
+<l>Vous en êtes en droit, lorsque vous vous plaindrez,</l>
+<l>Et de me reprocher tout ce que vous voudrez.</l>
+<l>J’ai tort, je le confesse ; et mon âme confuse</l>
+<l>Ne cherche à vous payer d’aucune vaine excuse.</l>
+<l>J’ai des autres ici méprisé le courroux ;</l>
+<l>Mais je tombe d’accord de mon crime envers vous.</l>
+<l>Votre ressentiment sans doute est raisonnable ;</l>
+<l>Je sais combien je dois vous paroître coupable.</l>
+<pagenum num="203"/>
+<l>Que toute chose dit que j’ai pu vous trahir,</l>
+<l>Et qu’enfin vous avez sujet de me haïr.</l>
+<l>Faites-le, j’y consens.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Eh ! le puis-je, traîtresse ?</l>
+<l>Puis-je ainsi triompher de toute ma tendresse ?</l>
+<l>Et, quoique avec ardeur je veuille vous haïr,</l>
+<l>Trouvé-je un cœur en moi tout prêt à m’obéir ?</l>
+<pstage>A Éliante et à Philinte.</pstage>
+<l>Vous voyez ce que peut une indigne tendresse,</l>
+<l>Et je vous fais tous deux témoins de ma foiblesse.</l>
+<l>Mais, à vous dire vrai, ce n’est pas encor tout,</l>
+<l>Et vous allez me voir la pousser jusqu’au bout.</l>
+<l>Montrer que c’est à tort que sages on nous nomme,</l>
+<l>Et que dans tous les cœurs il est toujours de l’homme.</l>
+<pstage>A Célimène.</pstage>
+<l>Oui, je veux bien, perfide, oublier vos forfaits ;</l>
+<l>J’en saurai, dans mon âme, excuser tous les traits,</l>
+<l>Et me les couvrivrai du nom d’une foiblesse</l>
+<l>Où le vice du temps porte votre jeunesse,</l>
+<l>Pourvu que votre cœur veuille donner les mains</l>
+<l>Au dessein que j’ai fait de fuir tous les humains,</l>
+<l>Et que dans mon désert où j’ai fait vœu de vivre,</l>
+<l>Vous soyez, sans tarder, résolue à me suivre,</l>
+<l>C’est par là seulement que, dans tous les esprits.</l>
+<l>Vous pouvez réparer le mal de vos écrits.</l>
+<l>Et qu’après cet éclat qu’un noble cœur abhorre,</l>
+<l>Il peut m’être permis de vous aimer encore.</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>Moi, renoncer au monde avant que de vieillir,</l>
+<l>Et dans votre désert aller m’ensevelir !</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Eh ! s’il faut qu’à mes feux votre flamme réponde,</l>
+<l>Que vous doit importer tout le reste du monde ?</l>
+<l>Vos désirs avec moi ne sont-ils pas contents ?</l>
+
+<hstage><speaker>CÉLIMÈNE</speaker></hstage>
+<l>La solitude effraye une âme de vingt ans.</l>
+<l>Je ne sens point la mienne assez grande, assez forte,</l>
+<l>Pour me résoudre à prendre un dessein de la sorte.</l>
+<l>Si le don de ma main peut contenter vos vœux,</l>
+<l>Je pourrai me résoudre à serrer de tels nœuds ;</l>
+<l>Et l’hymen...</l>
+
+<pagenum num="204"/>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l cont="true">Non, mon cœur à présent vous déteste</l>
+<l>Et ce refus lui seul fait plus que tout le reste.</l>
+<l>Puisque vous n’êtes point, en des liens si doux,</l>
+<l>Pour trouver tout en moi, comme moi tout en vous,</l>
+<l>Allez, je vous refuse ; et ce sensible outrage</l>
+<l>De vos indignes fers pour jamais me dégage.</l>
+
+<h3 id="p35">SCÈNE VIII. — ÉLIANTE, ALCESTE, PHILINTE</h3>
+
+<hstage><speaker>ALCESTE</speaker>, à Éliante.</hstage>
+<l>Madame, cent vertus ornent votre beauté,</l>
+<l>Et je n’ai vu qu’en vous de la sincérité ;</l>
+<l>De vous depuis longtemps je fais un cas extrême ;</l>
+<l>Mais laissez-moi toujours vous estimer de même,</l>
+<l>Et souffrez que mon cœur, dans ses troubles divers,</l>
+<l>Ne se présente point à l’honneur de vos fers ;</l>
+<l>Je m’en sens trop indigne, et commence à connoître</l>
+<l>Que le ciel pour ce nœud ne m’avoit point fait naître.</l>
+<l>Que ce seroit pour vous un hommage trop bas,</l>
+<l>Que le rebut d’un cœur qui ne vous valoit pas ;</l>
+<l>Et qu’enfin...</l>
+
+<hstage><speaker>ÉLIANTE</speaker></hstage>
+<l cont="true">Vous pouvez suivre cette pensée ;</l>
+<l>Ma main de se donner n’est pas embarrassée ;</l>
+<l>Et voilà votre ami, sans trop m’inquiéter.</l>
+<l>Qui, si je l’en priois, la pourrait accepter.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Ah ! cet honneur, madame, est toute mon envie,</l>
+<l>Et j’y sacrifierais et mon sang et ma vie.</l>
+
+<hstage><speaker>ALCESTE</speaker></hstage>
+<l>Puissiez-vous, pour goûter de vrais contentements,</l>
+<l>L’un pour l’autre à jamais garder ces sentiments.</l>
+<l>Trahi de toutes parts, accablé d’injustices,</l>
+<l>Je vais sortir d’un gouffre où triomphent les vices,</l>
+<l>Et chercher sur la terre un endroit écarté</l>
+<l>Où d’être homme d’honneur on ait la liberté.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Allons, madame, allons employer toute chose</l>
+<l>Pour rompre le dessein que son cœur se propose.</l>
+</page-sequence>
+</page-sequences>
+</bml>

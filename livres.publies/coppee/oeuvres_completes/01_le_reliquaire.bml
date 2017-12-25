@@ -1,0 +1,948 @@
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb30267616p">
+
+      <titre>Œuvres complètes de François Coppée</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11897612w">
+        <nom-bibliographie>Coppée, François</nom-bibliographie>
+        <dates>1842-1908</dates>
+        <nom-couverture>François Coppée</nom-couverture>
+      </auteur>
+      
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488218gg" role="ill">
+        <nom-bibliographie>Flameng, François</nom-bibliographie>
+        <dates>1856-1923</dates>
+        <nom-couverture>François Flameng</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488219t" role="ill">
+        <nom-bibliographie>Tofani, Oswaldo</nom-bibliographie>
+        <dates>1849-1915</dates>
+        <nom-couverture>Oswaldo Tofani</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb14967570r" role="ill">
+        <nom-bibliographie>Dawant, Albert Pierre</nom-bibliographie>
+        <dates>1852-1923</dates>
+        <nom-couverture>Albert Dawant</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>Édition Lemerre</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1885-1909</date>
+
+      <langue>fr</langue>
+    </monographie>
+    
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k4080369"
+                 pages="N4 A1 M1 1-1 3-3 5-74 B1 75-250 C1 251-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000526"
+        creation="2017-11-05T07:23:33-08:00">
+      
+      <titre>Le reliquaire</titre>
+
+      <collection id="c00018" volume="1">
+        <titre>Œuvres complètes de François Coppée, édition Lemerre</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+  
+  <toc>
+    <tocentry idref="p01" label="Prologue"/>
+    <tocentry idref="p02" label="Vers le passé"/>
+    <tocentry idref="p03" label="Solitude"/>
+    <tocentry idref="p04" label="Adagio"/>
+    <tocentry idref="p05" label="A tes yeux"/>
+    <tocentry idref="p06" label="Et nunc et semper"/>
+    <tocentry idref="p07" label="L’Étape"/>
+    <tocentry idref="p08" label="Sous les branches"/>
+    <tocentry idref="p09" label="La Trêve"/>
+    <tocentry idref="p10" label="Bouquetière"/>
+    <tocentry idref="p11" label="Le Cabaret"/>
+    <tocentry idref="p12" label="La Vague et la Cloche"/>
+    <tocentry idref="p13" label="Une Sainte"/>
+    <tocentry idref="p14" label="Rédemption"/>
+  </toc>
+  
+  <cover src="images/couverture1.png" alt="Œuvres complètes de François Coppée de l’Académie française. Édition ornée du portrait de l’auteur gravé par M. Léopold Flameng et illustrée de 10 dessins de M. François Flameng et de 2 dessins de M. Tofani gravés au burin par MM. Boisson, Boutelié, Dubouchet et Jules Jacquet. Poésies — Tome I. Édition Lemerre. Paris. L. Hébert, libraire. 7, rue Perronet, 7. 1885"/>
+
+ <page-sequences>
+ <page-sequence>
+ <pagenum num="A1"/>
+
+<img class="fullpageimage" src="images/img1.png" alt=""/>
+ </page-sequence>
+ <page-sequence>
+ 
+<pagenum num="1"/>
+
+<vsep class="fewlines"/>
+
+<h1>LE RELIQUAIRE</h1>
+
+<h2>1864-1866</h2>
+
+<pagenum num="2"/>
+ </page-sequence>
+ <page-sequence>
+ <pagenum num="3"/>
+
+<vsep class="fewlines"/>
+
+<h2>A MON CHER MAITRE</h2>
+
+<h1>LECONTE DE LISLE</h1>
+
+<h2>JE DÉDIE MES PREMIERS VERS</h2>
+
+<signature>F. C.</signature>
+
+<pagenum num="4"/>
+ </page-sequence>
+ <page-sequence id="p01">
+ <pagenum num="5"/>
+
+<h2>PROLOGUE</h2>
+
+<poem>
+<lg>
+<l><i>Comme les prêtres catholiques</i>,</l>
+<l><i>Sous les rideaux de pourpre, autour</i></l>
+<l><i>De la châsse où sont les reliques</i>,</l>
+</lg>
+
+<lg>
+<l><i>Brûlent, dans leur mystique amour</i>,</l>
+<l><i>Les longs cierges aux flammes pures</i>,</l>
+<l><i>Fauves la nuit, pâles le jour</i>,</l>
+</lg>
+
+<lg>
+<l><i>Qui jettent des lueurs obscures</i></l>
+<l><i>Sur les bijoux tristes et noirs</i></l>
+<l><i> Perdus dans l’or des ciselures ;</i></l>
+</lg>
+
+<pagenum num="6"/>
+
+<lg>
+<l><i>Et de même que, tous les soirs,</i></l>
+<l><i>Ils font autour du reliquaire</i></l>
+<l><i>Fumer les légers encensoirs ;</i></l>
+</lg>
+
+<lg>
+<l><i>Dédaignant la douleur vulgaire</i></l>
+<l><i>Qui pousse des cris importuns,</i></l>
+<l><i>Dans ces poèmes je veux faire</i></l>
+</lg>
+
+<lg>
+<l><i>A tous mes beaux rêves défunts,</i></l>
+<l><i>A toutes mes chères reliques,</i></l>
+<l><i>Une chapelle de parfums</i></l>
+</lg>
+
+<lg>
+<l><i>Et de cierges mélancoliques.</i></l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p02">
+ <pagenum num="7"/>
+
+<h2>VERS LE PASSÉ</h2>
+
+<poem>
+<lg>
+<l>Longuement poursuivi par le spleen détesté,</l>
+<l>Quand je vais dans les champs, par les beaux soirs d’été.</l>
+<l indent="2">Au grand air rafraîchir mes tempes,</l>
+<l>Je ris de voir, le long des bois, les fiancés</l>
+<l>Cheminer lentement, deux par deux, enlacés</l>
+<l indent="2">Comme dans les vieilles estampes.</l>
+</lg>
+
+<lg>
+<l>Car je dédaigne enfin les baisers puérils</l>
+<l>Et la foi des seize ans, fleur brève des avrils,</l>
+<l indent="2">Éphémère duvet des pêches,</l>
+<l>Qui fait qu’on se contente et qu’on est trop heureux,</l>
+<l>Si la femme qu’on aime a les bras amoureux,</l>
+<l indent="2">L’âme neuve et les lèvres fraîches.</l>
+</lg>
+
+<pagenum num="8"/>
+
+<lg>
+<l>Elle est évanouie à jamais la candeur</l>
+<l>Qui fait que l’on s’éprend d’un petit air boudeur</l>
+<l indent="2">Qui n’est bien qu’à travers le voile,</l>
+<l>Et qu’on n’a pas de mots assez ambitieux</l>
+<l>Pour dire à ses amis qu’elle a de jolis yeux</l>
+<l indent="2">Couleur de bleuet et d’étoile.</l>
+</lg>
+
+<lg>
+<l>Et c’est la fin. Mon cœur, quitté des anciens vœux,</l>
+<l>Ne saura plus le charme infini des aveux</l>
+<l indent="2">Et ce bonheur qui vous inonde</l>
+<l>Parce qu’un soir de mai, dans les bois, à Meudon,</l>
+<l>Sur votre épaule avec un geste d’abandon</l>
+<l indent="2">Elle a posé sa tête blonde.</l>
+</lg>
+
+<lg>
+<l>Et pourtant j’ai connu tout cela; j’ai connu</l>
+<l>Même ces doux projets de bonheur ingénu</l>
+<l indent="2">Dont l’âme si bien s’accommode :</l>
+<l>L’hiver, le coin du feu, la chambre aux sourds tapis,</l>
+<l>Et, dans un frais berceau, deux enfants assoupis</l>
+<l indent="2">Auprès de leur mère qui brode.</l>
+</lg>
+
+<lg>
+<l>Mais cet espoir, hélas ! d’un avenir doré,</l>
+<l>Ces apparitions, ces rêves ont duré</l>
+<l indent="2">Le temps d’une aube boréale,</l>
+<pagenum num="9"/>
+<l>Et mon esprit partit aux pays fabuleux</l>
+<l>Où l’on pense cueillir les camélias bleus</l>
+<l indent="2">Et trouver l'amour idéale.</l>
+</lg>
+
+<lg>
+<l>Là, j'ai beaucoup souffert, et j'en reviens meurtri.</l>
+<l>En d'indignes plaisirs à jamais j'ai flétri</l>
+<l indent="2">Les saintes blancheurs de mon âme.</l>
+<l>Je reviens du rivage où j'avais émigré,</l>
+<l>Et j’ai le front très pâle ; et cependant, malgré</l>
+<l indent="2">Ce que j'ai souffert par la femme,</l>
+</lg>
+
+<lg>
+<l>Malgré ce cœur brisé, sans espoir et sans foi,</l>
+<l>Ces débauches qu'on fait à la fin malgré soi</l>
+<l indent="2">Comme de hideuses besognes,</l>
+<l>Sans cesse je retourne à mon passé riant,</l>
+<l>Ainsi qu'aux premiers froids toujours vers l'Orient</l>
+<l indent="2">Reviennent les blanches cigognes.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p03">
+ <pagenum num="10"/>
+
+<h2>SOLITUDE</h2>
+
+<poem>
+<lg>
+<l>Je sais une chapelle horrible et diffamée,</l>
+<l>Dans laquelle autrefois un prêtre s’est pendu.</l>
+<l>Depuis ce sacrilège effroyable on a dû</l>
+<l>La tenir pour toujours aux fidèles fermée.</l>
+</lg>
+
+<lg>
+<l>Plus de croix sur l’autel, plus de cierge assidu,</l>
+<l>Plus d’encensoir perdant son âme parfumée.</l>
+<l>Sous les arceaux déserts une funèbre armée</l>
+<l>De feuilles mortes court en essaim éperdu.</l>
+</lg>
+
+<pagenum num="11"/>
+
+<lg>
+<l>Ma conscience est cette église de scandales ;</l>
+<l>Mes remords affolés bondissent sur les dalles ;</l>
+<l>Le doute, qui faisait mon orgueil, me punit.</l>
+</lg>
+
+<lg>
+<l>Obstiné sans grandeur, je reste morne et sombre,</l>
+<l>Et ne puis même plus mettre mon âme à l’ombre</l>
+<l>Du grand geste de Christ qui plane et qui bénit.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p04">
+ <pagenum num="12"/>
+
+<h2>ADAGIO</h2>
+
+<poem>
+<lg>
+<l>La rue était déserte et donnait sur les champs.</l>
+<l>Quand j’allais voir, l’été, les beaux soleils couchants</l>
+<l>Avec le rêve aimé qui partout m’accompagne,</l>
+<l>Je la suivais toujours pour gagner la campagne,</l>
+<l>Et j’avais remarqué que, dans une maison</l>
+<l>Qui fait l’angle et qui tient, ainsi qu’une prison,</l>
+<l>Fermée au vent du soir son étroite persienne,</l>
+<l>Toujours à la même heure, une musicienne</l>
+<l>Mystérieuse, et qui sans doute habitait là,</l>
+<l>Jouait l’adagio de la sonate en <i>la.</i></l>
+<l>Le ciel se nuançait de vert tendre et de rose.</l>
+<l>La rue était déserte ; et le flâneur morose</l>
+<l>Et triste, comme sont souvent les amoureux,</l>
+<l>Qui passait, l’œil fixé sur les gazons poudreux,</l>
+<pagenum num="13"/>
+<l>Toujours à la même heure, avait pris l’habitude</l>
+<l>D’entendre ce vieil air dans cette solitude.</l>
+<l>Le piano chantait sourd, doux, attendrissant,</l>
+<l>Rempli du souvenir douloureux de l’absent</l>
+<l>Et reprochant tout bas les anciennes extases.</l>
+<l>Et moi, je devinais des fleurs dans de grands vases,</l>
+<l>Des parfums, un profond et funèbre miroir,</l>
+<l>Un portrait d’homme à l’œil fier, magnétique et noir,</l>
+<l>Des plis majestueux dans les tentures sombres,</l>
+<l>Une lampe d’argent, discrète, sous les ombres,</l>
+<l>Le vieux clavier s’offrant dans sa froide pâleur,</l>
+<l>Et, dans cette atmosphère émue, une douleur</l>
+<l>Épanouie au charme ineffable et physique</l>
+<l>Du silence, de la fraîcheur, de la musique.</l>
+<l>Le piano chantait toujours plus bas, plus bas ;</l>
+<l>Puis, un certain soir d’août, je ne l’entendis pas.</l>
+</lg>
+
+<lg>
+<l>Depuis, je mène ailleurs mes promenades lentes.</l>
+<l>Moi qui hais et qui fuis les foules turbulentes,</l>
+<l>Je regrette parfois ce vieux coin négligé.</l>
+<l>Mais la vieille ruelle a, dit-on, bien changé :</l>
+<l>Les enfants d’alentour y vont jouer aux billes,</l>
+<l>Et d’autres pianos l’emplissent de quadrilles.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p05">
+ <pagenum num="14"/>
+
+<h2>A TES YEUX</h2>
+
+<poem>
+<lg>
+<l>Telle, sur une mer houleuse, la frégate</l>
+<l>Emporte vers le Nord les marins soucieux,</l>
+<l>Telle mon âme nage, abîmée en tes yeux,</l>
+<l>Parmi leur azur pâle aux tristesses d’agate.</l>
+</lg>
+<lg>
+<l>Car j’ai revu dans leur nuance délicate</l>
+<l>Le mirage lointain des Édens et des cieux</l>
+<l>Plus doux, que ferme à nos désirs audacieux</l>
+<l>La figure voilée et sombre d’une Hécate.</l>
+</lg>
+
+<pagenum num="15"/>
+
+<lg>
+<l>Hélas ! courbons le front sous le poids des exils !</l>
+<l>C’est en vain qu’aux genoux attiédis des amantes</l>
+<l>Nous cherchons l’infini sous l’ombre de leurs cils.</l>
+</lg>
+
+<lg>
+<l>Jamais rayon d’amour sur ces ondes dormantes</l>
+<l>Ne vibrera, sincère et pur, et les maudits</l>
+<l>Ne retrouveront pas les anciens paradis.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p06">
+ <pagenum num="16"/>
+
+<h2>ET NUNC ET SEMPER</h2>
+
+<poem>
+<lg>
+<l>Sous l’éclat blanc du jour, sous la fraîcheur des cèdres,</l>
+<l>Sous la nuit où poudroie un peuple de soleils,</l>
+<l>Longtemps j’ai promené mes souvenirs, pareils</l>
+<l>Aux tragiques douleurs des Saphos et des Phèdres ;</l>
+</lg>
+
+<lg>
+<l>Mais l’azur clair, les bois profonds, les blondes nuits</l>
+<l>En moi n’ont point versé leurs influences calmes ;</l>
+<l>Sous les astres, sous les rayons et sous les palmes,</l>
+<l>Sans espoir je promène encore mes ennuis.</l>
+</lg>
+
+<pagenum num="17"/>
+
+<lg>
+<l>Que la forêt frémisse ainsi qu’un chœur de harpes,</l>
+<l>Ou que le soir s’embaume aux calices ouverts,</l>
+<l>Le son ou le parfum des maux jadis soufferts</l>
+<l>Descend sur ma pensée en funèbres écharpes.</l>
+</lg>
+
+<lg>
+<l>Ames tristes des fleurs, chastes frissons des bois,</l>
+<l>Me haïssez-vous donc, puisqu’il faut que je sente</l>
+<l>Dans vos arômes chers les baisers de l’absente</l>
+<l>Et que j’entende en vos échos vibrer sa voix ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p07">
+ <pagenum num="18"/>
+
+<h2>L’ÉTAPE</h2>
+
+<h2><s>A ALBERT MÉRAT</s></h2>
+
+<poem>
+<lg>
+<l>Les longs récits autour du poêle, à la caserne,</l>
+<l>La guinguette et l’amour ne sont plus de saison.</l>
+<l>Boucle ton sac et sangle à tes reins la giberne ;</l>
+<l>Conscrit, le régiment change de garnison.</l>
+</lg>
+
+<lg>
+<l>La route est sèche et blanche, et lointain l’horizon ;</l>
+<l>Si tes pieds sont meurtris, marche dans la luzerne,</l>
+<l>Et ne regarde pas le houx de la taverne ;</l>
+<l>Les traînards ont la belle étoile pour maison.</l>
+</lg>
+
+<pagenum num="19"/>
+
+<lg>
+<l>— Je suis du régiment de misère. La tombe,</l>
+<l>Dernière étape, est loin encore, et je succombe</l>
+<l>De fatigue, de faim, de soif et de chaleur.</l>
+</lg>
+
+<lg>
+<l>Je marche, sans espoir que mon tourment s’apaise,</l>
+<l>Et, comme un soldat fait de l’arme qui lui pèse,</l>
+<l>Je ne puis que changer d’épaule ma douleur.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p08">
+ <pagenum num="20"/>
+
+<h2>SOUS LES BRANCHES</h2>
+
+<poem>
+<lg>
+<l>Palpitante encore du bal,</l>
+<l>Elle voulut, la blonde fille,</l>
+<l>M’accompagner jusqu’à la grille</l>
+<l>Où j’avais lié mon cheval.</l>
+</lg>
+
+<lg>
+<l>Malgré l’appel des ritournelles,</l>
+<l>Au jardin nous nous attardions,</l>
+<l>Et les choses que nous disions</l>
+<l>Étaient tristes et solennelles.</l>
+</lg>
+
+<pagenum num="21"/>
+
+<lg>
+<l>Nous avions pris le long chemin,</l>
+<l>Nous avions pris le chemin sombre.</l>
+<l>Je ne la voyais pas dans l’ombre,</l>
+<l>Mais je la tenais par la main.</l>
+</lg>
+
+<lg>
+<l>Nos baisers rythmaient nos paroles,</l>
+<l>Et nous suivions, tendres et las,</l>
+<l>La voûte obscure des lilas,</l>
+<l>Qui s’étoilait de lucioles.</l>
+</lg>
+
+<lg>
+<l>Et ma chevelure baignait,</l>
+<l>Comme dans l’eau les pleurs d’un saule,</l>
+<l>Son front posé sur mon épaule,</l>
+<l>Son doux front qui s’abandonnait.</l>
+</lg>
+
+<lg>
+<l>Et pour que l’opaque ramure</l>
+<l>Couvrît notre rêve enchanté</l>
+<l>De silence et d’obscurité,</l>
+<l>La brise apaisait son murmure.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p09">
+ <pagenum num="22"/>
+
+<h2>LA TRÊVE</h2>
+
+<poem>
+<lg>
+<l>La fatigue nous désenlace.</l>
+<l>Reste ainsi, mignonne. Je veux</l>
+<l>Voir reposer ta tête lasse</l>
+<l>Sur l’or épars de tes cheveux.</l>
+</lg>
+
+<lg>
+<l>Tais-toi. Ce que tu pourrais dire</l>
+<l>Sur le bonheur que tu ressens</l>
+<l>Jamais ne vaudrait ce sourire</l>
+<l>Chargé d’aveux reconnaissants.</l>
+</lg>
+
+<pagenum num="23"/>
+
+<lg>
+<l>Sous tes paupières abaissées</l>
+<l>Cherche plutôt à retenir,</l>
+<l>Pour en parfumer tes pensées,</l>
+<l>L’extase qui vient de finir.</l>
+</lg>
+
+<lg>
+<l>Et pendant ton doux rêve, amie,</l>
+<l>Accoudé parmi les coussins,</l>
+<l>Je regarderai l’accalmie</l>
+<l>Vaincre l’orage de tes seins.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p10">
+ <pagenum num="24"/>
+
+<h2>BOUQUETIÈRE</h2>
+
+<poem>
+<lg>
+<l>Un maître, de qui la palette</l>
+<l>Se plaisait aux sombres couleurs</l>
+<l>A peint un élégant squelette</l>
+<l>Portant un frais panier de fleurs.</l>
+</lg>
+
+<lg>
+<l>Près de lui la danse macabre,</l>
+<l>Comme les plis d’un noir drapeau,</l>
+<l>Ondoie ; et reîtres à grand sabre,</l>
+<l>Écoliers la pipe au chapeau,</l>
+</lg>
+
+<pagenum num="25"/>
+
+<lg>
+<l>Moines chauves, rois lourds d’hermine,</l>
+<l>Bourgeois à ventres de bedeaux,</l>
+<l>Mendiants fiers de leur vermine,</l>
+<l>L’emplâtre à l’œil, la loque au dos,</l>
+</lg>
+
+<lg>
+<l>Tous passent, enlaçant des filles,</l>
+<l>Ou marchant d’un air rogue et sec,</l>
+<l>Ou clochetant sur des béquilles,</l>
+<l>Au son du fifre et du rebec.</l>
+</lg>
+
+<lg>
+<l>Pourtant la bande tout entière</l>
+<l>Suspend sa danse et son caquet</l>
+<l>Devant la maigre bouquetière,</l>
+<l>Et chacun lui prend un bouquet.</l>
+</lg>
+
+<lg>
+<l>Vieil artiste mélancolique,</l>
+<l>Quels sont ces fous ? Dans quel dessein</l>
+<l>Cachent-ils comme une relique</l>
+<l>Ces fleurs mortelles dans leur sein ?</l>
+</lg>
+
+<lg>
+<l>Je ne sais. Mais sur ma poitrine,</l>
+<l>Souvenir des amours défunts,</l>
+<l>Une fleur jadis purpurine</l>
+<l>A vécu ses derniers parfums.</l>
+</lg>
+
+<pagenum num="26"/>
+
+<lg>
+<l>Ainsi qu’on fait d’une amulette,</l>
+<l>Je la garde là, mais j’en meurs :</l>
+<l>Et je songe au morne squelette</l>
+<l>Prodiguant ses funèbres fleurs.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p11">
+<pagenum num="27"/>
+
+<h2>LE CABARET</h2>
+
+<h2><s>A LÉON VALADE</s></h2>
+
+<poem>
+<lg>
+<l>Dans le bouge qu’emplit l’essaim insupportable</l>
+<l>Des mouches bourdonnant dans un chaud rayon d’août,</l>
+<l>L’ivrogne, un de ceux-là qu’un désespoir absout,</l>
+<l>Noyait au fond du vin son rêve détestable.</l>
+</lg>
+
+<lg>
+<l>Stupide, il remuait la bouche avec dégoût,</l>
+<l>Ainsi qu’un bœuf repu ruminant dans l’étable.</l>
+<l>Près de lui le flacon, renversé sur la table,</l>
+<l>Se dégorgeait avec les hoquets d’un égout.</l>
+</lg>
+
+<pagenum num="28"/>
+
+<lg>
+<l>Oh ! qu’il est lourd le poids des têtes accoudées</l>
+<l>Où se heurtent sans fin les confuses idées</l>
+<l>Avec le bruit tournant du plomb dans le grelot !</l>
+</lg>
+
+<lg>
+<l>Je m’approchai de lui, pressentant quelque drame,</l>
+<l>Et vis que dans le vin craché par le goulot</l>
+<l>Lentement il traçait du doigt un nom de femme.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p12">
+ <pagenum num="29"/>
+
+<h2>LA VAGUE ET LA CLOCHE</h2>
+
+<poem>
+<lg>
+<l>Une fois, terrassé par un puissant breuvage,</l>
+<l>J’ai rêvé que parmi les vagues et le bruit</l>
+<l>De la mer je voguais sans fanal dans la nuit,</l>
+<l>Morne rameur, n’ayant plus l’espoir du rivage.</l>
+</lg>
+
+<lg>
+<l>L’Océan me crachait ses baves sur le front</l>
+<l>Et le vent me glaçait d’horreur jusqu’aux entrailles ;</l>
+<l>Les lames s’écroulaient ainsi que des murailles,</l>
+<l>Avec ce rythme lent qu’un silence interrompt.</l>
+</lg>
+
+<pagenum num="30"/>
+
+<lg>
+<l>Puis tout changea. La mer et sa noire mêlée</l>
+<l>Sombrèrent. Sous mes pieds s’effondra le plancher</l>
+<l>De la barque... Et j’étais seul dans un vieux clocher,</l>
+<l>Chevauchant avec rage une cloche ébranlée.</l>
+</lg>
+
+<lg>
+<l>J’étreignais la criarde opiniâtrément,</l>
+<l>Convulsif, et fermant dans l’effort mes paupières ;</l>
+<l>Le grondement faisait trembler les vieilles pierres,</l>
+<l>Tant j’activais sans fin le lourd balancement.</l>
+</lg>
+
+<lg>
+<l>Pourquoi n’as-tu point dit, ô rêve ! où Dieu nous mène ?</l>
+<l>Pourquoi n’as-tu point dit s’ils ne finiraient pas,</l>
+<l>L’inutile travail et l’éternel fracas</l>
+<l>Dont est faite la vie, hélas ! la vie humaine ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p13">
+ <pagenum num="31"/>
+
+<h2>UNE SAINTE</h2>
+
+<h2><s>A MA MÈRE</s></h2>
+
+<poem>
+<lg>
+<l>C’est une vieille fille en cheveux blancs ; elle est</l>
+<l>Pâle et maigre ; un antique et grossier chapelet</l>
+<l>S’égrène, machinal, sous ses doigts à mitaines.</l>
+<l>Sans cesse remuant ses lèvres puritaines</l>
+<l>D’où tombent les <i>Pater noster</i> et les <i>Ave</i>,</l>
+<l>Et, laissant son tricot de laine inachevé,</l>
+<l>Droite, elle prie, assise au coin d’un feu de veuve,</l>
+<l>Dans sa robe de deuil rigide et toujours neuve.</l>
+</lg>
+
+<pagenum num="32"/>
+
+<lg>
+<l>Le logis est glacé comme elle. Le cordeau</l>
+<l>Semble avoir aligné les plis droits du rideau,</l>
+<l>Que blêmit le reflet pâle d’un jour d’automne ;</l>
+<l>Et, s’il vient un rayon de soleil, il détonne</l>
+<l>Et sur le sol découpe un grand carré brutal.</l>
+<l>Le lit est étriqué comme un lit d’hôpital.</l>
+<l>L’heure marche sans bruit sous son globe de verre.</l>
+<l>Tout est froid, triste, gris, monotone et sévère ;</l>
+<l>Et près du crucifix penché comme un fruit mûr,</l>
+<l>Deux béquilles d’enfant, en croix, pendent au mur.</l>
+</lg>
+
+<lg>
+<l>C’est une histoire simple et très mélancolique</l>
+<l>Que raconte l’étrange et lugubre relique :</l>
+<l>Les baisers sur les mains froides des vieux parents ;</l>
+<l>La bénédiction tremblante des mourants ;</l>
+<l>Et puis deux orphelins tout seuls, le petit frère</l>
+<l>Infirme, étiolé, qui souffre et qui se serre,</l>
+<l>Frileux, contre le sein d’un ange aux cheveux blonds</l>
+<l>La grande sœur, si pâle avec ses voiles longs,</l>
+<l>Qui, la veille, devant le linceul et le cierge,</l>
+<l>Jurait aux parents morts, à Jésus, à la Vierge,</l>
+<l>D’être une mère au pauvre enfant, frêle roseau ;</l>
+<l>Ce sont les petits bras tendus hors du berceau,</l>
+<l>La douleur apaisée un instant par un conte,</l>
+<l>L’insomnie et la voix de l’horloge qui compte</l>
+<pagenum num="33"/>
+<l>L’heure très lentement, les réveils pleins d’effrois,</l>
+<l>Les soins donnés, les pieds nus sur les carreaux froids,</l>
+<l>Les baisers appuyés sur la trace des larmes,</l>
+<l>Et la tisane offerte, et les folles alarmes,</l>
+<l>Et le petit malade à l’aurore n’offrant</l>
+<l>Qu’un front plus pâle et qu’un sourire plus navrant.</l>
+</lg>
+
+<lg>
+<l>Ce dévoûment obscur a duré dix années,</l>
+<l>Beauté, jeunesse, fleurs loin du soleil fanées,</l>
+<l>Tout fut sacrifié sans plainte et sans regret ;</l>
+<l>Et quand, par les beaux soirs, un instant elle ouvrait</l>
+<l>A la brise de mai charmante et parfumée</l>
+<l>La fenêtre toujours par prudence fermée</l>
+<l>Et laissait ses regards errer à l’horizon,</l>
+<l>Une toux de l’enfant refermait sa prison.</l>
+</lg>
+
+<lg>
+<l>Elle est libre aujourd’hui.</l>
+</lg>
+
+<lg>
+<l cont='true'>C’est une pauvre vieille,</l>
+<l>Toujours en deuil, dévote, ascétique, pareille</l>
+<l>Aux béguines qu’on voit errer dans le couvent.</l>
+<l>Libre ! Pauvre âme simple et douce ! Bien souvent</l>
+<l>Elle songe, très triste, à son cher esclavage,</l>
+<l>Et, tout bas, d’une voix sourde, presque sauvage,</l>
+<pagenum num="34"/>
+<l>Elle dit : « Il est mort ! » Puis elle s’attendrit,</l>
+<l>Et reprend : « Il avait déjà beaucoup d’esprit.</l>
+<l>Quand il était méchant, il m’appelait madame.</l>
+<l>Il est mort ! Le bon Dieu l’a pris. Sa petite âme</l>
+<l>A des ailes. Il est un ange au paradis.</l>
+<l>Sans quoi serait-il mort ? Quelquefois je me dis</l>
+<l>Que Dieu prend les enfants pour en faire des anges.</l>
+<l>Puis il avait des mots et des regards étranges :</l>
+<l>Peut-être qu’il était ange avant d’être né ?</l>
+<l>Tes pleurs de chaque jour, ô pauvre condamné,</l>
+<l>Valent bien tous les longs <i>Oremus</i> qu’on prodigue.</l>
+<l>Puis un signe de croix était une fatigue</l>
+<l>Pour son bras. Il savait souffrir, et non prier.</l>
+<l>Il est mort ! Une nuit, je l’entendis crier.</l>
+<l>J’accourus, je penchai la tête vers sa couche,</l>
+<l>Et sa dernière haleine a passé sur ma bouche.</l>
+<l>Et depuis ce temps-là je n’ai plus de gaîté.</l>
+<l>Le lendemain, des gens sombres l’ont emporté.</l>
+<l>Pauvre martyr ! Sa bière était toute petite !</l>
+<l>J’ai laissé sur son cœur sa médaille bénite.</l>
+<l>Cela fera plaisir au bon Dieu, n’est-ce pas ?</l>
+<l>Il est au ciel. Hélas ! est-il heureux là-bas ?</l>
+<l>Les anges, on se fait parfois de ces chimères,</l>
+<l>Ont-ils soin des enfants aussi bien que les mères ?</l>
+<l>Je doute. Pardonnez, Seigneur, à mon regret ! »</l>
+<pagenum num="35"/>
+<l>Et baissant ses grands yeux où l’âme transparaît,</l>
+<l>Elle active le cours rythmique et monotone.</l>
+<l>De son lent chapelet. Et le soleil d’automne,</l>
+<l>Qui dore les carreaux de ses rayons tremblants,</l>
+<l>Met de vagues lueurs parmi ses cheveux blancs.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p14">
+ <pagenum num="36"/>
+
+<h2>RÉDEMPTION</h2>
+
+<poem>
+<lg>
+<l>Pour aimer une fois encor, mais une seule,</l>
+<l indent="2">Je veux, libertin repentant,</l>
+<l>La vierge qui, rêveuse aux genoux d’une aïeule,</l>
+<l indent="2">Sans m’avoir jamais vu m’attend.</l>
+</lg>
+
+<lg>
+<l>Elle est pieuse et sage, elle dit ses prières</l>
+<l indent="2">Tous les soirs et tous les matins,</l>
+<l>Et ne livre jamais aux doigts des chambrières</l>
+<l indent="2">Ses modestes cheveux châtains.</l>
+</lg>
+
+<pagenum num="37"/>
+
+<lg>
+<l>Quelquefois, le dimanche, en robe étroite et grise,</l>
+<l indent="2">Elle sort au bras d’un vieillard,</l>
+<l>Laissant errer la vague extase et la surprise</l>
+<l indent="2">Innocente de son regard.</l>
+</lg>
+
+<lg>
+<l>Et les oisifs n’ont point de pensers d’infamies</l>
+<l indent="2">Devant ses yeux calmes et doux,</l>
+<l>Lorsque dans les jardins, chez les fleurs, ses amies,</l>
+<l indent="2">Elle arrive à ses rendez-vous.</l>
+</lg>
+
+<lg>
+<l>Elle est ainsi, n’aimant que les choses fleuries,</l>
+<l indent="2">Préférant, pour passer le soir,</l>
+<l>Les patients travaux de ses tapisseries</l>
+<l indent="2">Aux sourires de son miroir.</l>
+</lg>
+
+<lg>
+<l>Elle a le charme exquis de tout ce qui s’ignore,</l>
+<l indent="2">Elle est blanche, elle a dix-sept ans,</l>
+<l>Elle rayonne, elle a la clarté de l’aurore</l>
+<l indent="2">Comme elle a l’âge du printemps.</l>
+</lg>
+
+<lg>
+<l>Les heures des longs jours pour elle passent brèves</l>
+<l indent="2">Et, s’exhalant comme un parfum,</l>
+<l>Elle voit chaque nuit des blancheurs dans ses rêves,</l>
+<l indent="2">Et toute sa vie en est un.</l>
+</lg>
+
+<pagenum num="38"/>
+
+<lg>
+<l>Telle elle est, ou du moins je la devine telle,</l>
+<l indent="2">Lys candide, cygne ingénu.</l>
+<l>Je la cherche, et bientôt quand j’aurai dit : « C’est elle ! »</l>
+<l indent="2">Quand elle m’aura reconnu,</l>
+</lg>
+
+<lg>
+<l>Je veux lui donner tout, ma vie et ma pensée,</l>
+<l indent="2">Ma gloire et mon orgueil, et veux</l>
+<l>Choisir pour la nommer enfin ma fiancée</l>
+<l indent="2">Une nuit propice aux aveux.</l>
+</lg>
+
+<lg>
+<l>Elle viendra s’asseoir sur un vieux banc de pierre.</l>
+<l indent="2">Au fond du parc inexploré,</l>
+<l>Et me regardera sans baisser la paupière,</l>
+<l indent="2">Et moi, je m’agenouillerai.</l>
+</lg>
+
+<lg>
+<l>Doucement, dans mes mains, je presserai les siennes</l>
+<l indent="2">Comme on tient des oiseaux captifs,</l>
+<l>Et je lui conterai des choses très anciennes,</l>
+<l indent="2">Les choses des cœurs primitifs.</l>
+</lg>
+
+<lg>
+<l>Elle m’écoutera, pensive et sans rien dire,</l>
+<l indent="2">Mais fixant sur moi ses grands yeux,</l>
+<l>Avec tout ce qu’on peut mettre dans un sourire</l>
+<l indent="2">D’amour pur et religieux.</l>
+</lg>
+
+<pagenum num="39"/>
+
+<lg>
+<l>Et ses yeux me diront, éloquences muettes,</l>
+<l indent="2">Ce que disent à demi-voix</l>
+<l>Les amants dont on voit les claires silhouettes</l>
+<l indent="2">Blanchir l’obscurité des bois.</l>
+</lg>
+
+<lg>
+<l>Et sans bruit, pour que seul, oh ! seul, je puisse entendre</l>
+<l indent="2">L’ineffable vibration,</l>
+<l>Jusqu’à moi son baiser descendra, grave et tendre</l>
+<l indent="2">Comme une bénédiction.</l>
+</lg>
+
+<lg>
+<l>Et quand elle aura, pure, à ma coupable lèvre</l>
+<l indent="2">Donné le baiser baptismal,</l>
+<l>Sans doute je pourrai guérir enfin ma fièvre</l>
+<l indent="2">Et t’expulser, regret du mal.</l>
+</lg>
+
+<lg>
+<l>Oui, bien qu’autour de moi plane toujours et rôde</l>
+<l indent="2">L’épouvante de mon passé,</l>
+<l>Que mon lit garde encor ta place toute chaude,</l>
+<l indent="2">O désir vainement chassé,</l>
+</lg>
+
+<lg>
+<l>Je pourrai, je pourrai, Nixe horrible, Sirène,</l>
+<l indent="2">Secouer enfin la langueur</l>
+<l>De mes sens, et purger, ô femme, la gangrène</l>
+<l indent="2">Dont tu m’as saturé le cœur,</l>
+</lg>
+
+<pagenum num="40"/>
+
+<lg>
+<l>Ainsi que fait du fard brûlant dont il se grime</l>
+<l indent="2">L’histrion, chanteur d’opéras,</l>
+<l>Ou comme un spadassin essuie, après le crime,</l>
+<l indent="2">L’épée atroce sous son bras !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ </page-sequences>
+</bml>

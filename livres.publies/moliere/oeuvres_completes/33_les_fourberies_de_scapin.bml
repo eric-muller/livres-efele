@@ -1,0 +1,2755 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5673633r"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000511"
+        creation="2017-07-03T14:10:12-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Les Fourberies de Scapin</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='33'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="Personnages"/>
+    <tocentry idref="p02" label="Acte premier">
+      <tocentry idref="p03" label="Scène I"/>
+      <tocentry idref="p04" label="Scène II"/>
+      <tocentry idref="p05" label="Scène III"/>
+      <tocentry idref="p06" label="Scène IV"/>
+      <tocentry idref="p07" label="Scène V"/>
+      <tocentry idref="p08" label="Scène VI"/>
+      <tocentry idref="p09" label="Scène VII"/>
+    </tocentry>
+    <tocentry idref="p10" label="Acte second">
+      <tocentry idref="p11" label="Scène I"/>
+      <tocentry idref="p12" label="Scène II"/>
+      <tocentry idref="p13" label="Scène III"/>
+      <tocentry idref="p14" label="Scène IV"/>
+      <tocentry idref="p15" label="Scène V"/>
+      <tocentry idref="p16" label="Scène VI"/>
+      <tocentry idref="p17" label="Scène VII"/>
+      <tocentry idref="p18" label="Scène VIII"/>
+      <tocentry idref="p19" label="Scène IX"/>
+      <tocentry idref="p20" label="Scène X"/>
+      <tocentry idref="p21" label="Scène XI"/>
+      <tocentry idref="p22" label="Scène XII"/>
+    </tocentry>
+    <tocentry idref="p23" label="Acte troisième">
+      <tocentry idref="p24" label="Scène I"/>
+      <tocentry idref="p25" label="Scène II"/>
+      <tocentry idref="p26" label="Scène III"/>
+      <tocentry idref="p27" label="Scène IV"/>
+      <tocentry idref="p28" label="Scène V"/>
+      <tocentry idref="p29" label="Scène VI"/>
+      <tocentry idref="p30" label="Scène VII"/>
+      <tocentry idref="p31" label="Scène VIII"/>
+      <tocentry idref="p32" label="Scène IX"/>
+      <tocentry idref="p33" label="Scène X"/>
+      <tocentry idref="p34" label="Scène XI"/>
+      <tocentry idref="p35" label="Scène XII"/>
+      <tocentry idref="p36" label="Scène XIII"/>
+      <tocentry idref="p37" label="Scène XIV"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_3.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome troisième. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="272"/>
+
+<img src="images/frise11.png" class="center100" alt="frise"/>
+
+<h1>LES FOURBERIES DE SCAPIN</h1>
+
+<h2>COMÉDIE EN TROIS ACTES</h2>
+<h3>1671</h3>
+
+<vsep class="rule"/>
+
+<h3 id="p01">PERSONNAGES</h3>
+
+<p class='sommaire'>ARGANTE, père d’Octave et de Zerbinette.</p>
+<p class='sommaire'>GÉRONTE, père de Léandre et d’Hyacinte.</p>
+<p class='sommaire'>OCTAVE, fils d’Argante, et amant d’Hyacinte.</p>
+<p class='sommaire'>LÉANDRE, fils de Géronte, et amant de Zerbinette.</p>
+<p class='sommaire'>ZERBINETTE, crue Égyptienne, et reconnue fille d’Argante et amante de Léandre.</p>
+<p class='sommaire'>HYACINTE, fille de Géronte et amante d’Octave.</p>
+<p class='sommaire'>SCAPIN, valet de Léandre, et fourbe.</p>
+<p class='sommaire'>SYLVESTRE, valet d’Octave.</p>
+<p class='sommaire'>NÉRINE, nourrice d’Hyacinte.</p>
+<p class='sommaire'>CARLE, fourbe.</p>
+<p class='sommaire'>DEUX PORTEURS.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est à Naples.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p02">ACTE PREMIER</h2>
+
+<h3 id="p03">SCÈNE I. — OCTAVE, SYLVESTRE</h3>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ah ! fâcheuses nouvelles pour un cœur amoureux ! Dures extrémités où je me vois réduit ! Tu viens, Sylvestre, d’apprendre au port que mon père revient ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Qu’il arrive ce matin même ?</p>
+
+<pagenum num="273"/>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Ce matin même.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Et qu’il revient dans la résolution de me marier ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Avec une fille du seigneur Géronte ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Du seigneur Géronte.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Et que cette fille est mandée de Tarente ici pour cela ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Et tu tiens ces nouvelles de mon oncle ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>De votre oncle.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>A qui mon père les a mandées par une lettre ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Par une lettre.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Et cet oncle, dis-tu, sait toutes nos affaires ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Toutes nos affaires.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ah ! parle, si tu veux, et ne te fais point, de la sorte, arracher les mots de la bouche.</p>
+
+<hstage><speaker>SYLVESTRE .</speaker></hstage>
+<p>Qu’ai-je à parler davantage ? vous n’oubliez aucune circonstance, et vous dites les choses tout justement comme elles sont.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Conseille-moi, du moins, et me dis ce que je dois faire dans ces cruelles conjonctures.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Ma foi, je m’y trouve autant embarrassé que vous ; et j’aurois bon besoin que l’on me conseillât moi-même.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Je suis assassiné par ce maudit retour.</p>
+
+<pagenum num="274"/>
+
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Je ne le suis pas moins.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Lorsque mon père apprendra les choses, je vais voir fondre sur moi un orage soudain d’impétueuses réprimandes.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Les réprimandes ne sont rien ; et plût au ciel que j’en fusse quitte à ce prix ! mais j’ai bien la mine, pour moi, de payer plus cher vos folies ; et je vois se former, de loin, un nuage de coups de bâton qui crèvera sur mes épaules.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>O ciel ! par où sortir de l’embarras où je me trouve ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>C’est à quoi vous deviez songer avant que de vous y jeter.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ah ! tu me fais mourir par tes leçons hors de saison.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Vous me faites bien plus mourir par vos actions étourdies.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Que dois-je faire ? Quelle résolution prendre ? A quel remède recourir ?</p>
+
+<h3 id="p04">SCÈNE II. — OCTAVE, SCAPIN, SYLVESTRE</h3>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Qu’est-ce, seigneur Octave ? Qu’avez-vous ? Qu’y a-t-il ? Quel désordre est-ce là ? Je vous vois tout troublé.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ah ! mon pauvre Scapin, je suis perdu ; je suis désespéré ; je suis le plus infortuné de tous les hommes.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>N’as-tu rien appris de ce qui me regarde ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Mon père arrive avec le seigneur Géronte, et ils me veulent marier.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh bien, qu’y-a-t-il là de si funeste ?</p>
+
+<pagenum num="275"/>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Hélas ! tu ne sais pas la cause de mon inquiétude.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non ; mais il ne tiendra qu’à vous que je la sache bientôt ; et je suis homme consolatif, homme à m’intéresser aux affaires des jeunes gens.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ah ! Scapin, si tu pouvois trouver quelque invention, forger quelque machine, pour me tirer de la peine où je suis, je croirois t’être redevable de plus que la vie.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>A vous dire la vérité, il y a peu de choses qui me soient impossibles, quand je m’en veux mêler. J’ai sans doute reçu du ciel un génie assez beau pour toutes les fabriques de ces gentillesses d’esprit, de ces galanteries ingénieuses, à qui le vulgaire ignorant donne le nom de fourberies ; et je puis dire sans vanité, qu’on n’a guère vu d’homme qui fût plus habile ouvrier de ressorts et d’intrigues, qui ait acquis plus de gloire que moi dans ce noble métier. Mais, ma foi, le mérite est trop maltraité aujourd’hui, et j’ai renoncé à toutes choses depuis certain chagrin d’une affaire qui m’arriva.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Comment ? quelle affaire, Scapin ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Une aventure où je me brouillai avec la justice.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>La justice ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui. Nous eûmes un petit démêlé ensemble.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Toi et la justice ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui. Elle en usa fort mal avec moi ; et je me dépitai de telle sorte contre l’ingratitude du siècle, que je résolus de ne plus rien faire<noteref noteid="note.275.1"/>. Baste ! Ne laissez pas de me conter votre aventure.</p>
+
+<notes>
+  <note id="note.275.1">
+    <p>Ces valets si fourbes, et qui se vantent si impudemment de leurs exploits, appartiennent à la scène antique, d’où ils ont passé sur les théâtres modernes, où ils n’ont joué, à vrai dire, qu’un rôle de fantaisie et de convention, mais souvent avec une verve et un entrain qui les rendent fort amusants. (F. L.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Tu sais, Scapin, qu’il y a deux mois que le seigneur Géronte <pagenum num="276"/>et mon père s’embarquèrent ensemble pour un voyage qui regarde certain commerce où leurs intérêts sont mêlés<noteref noteid="note.276.1"/>.</p>
+
+<notes>
+  <note id="note.276.1">
+    <p>Tout le récit qui va suivre est tiré du <i>Phormion</i> de Térence.</p>
+  </note>
+</notes>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je sais cela.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Et que Léandre et moi nous fûmes laissés par nos pères, moi sous la conduite de Sylvestre, et Léandre sous ta direction.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui. Je me suis fort bien acquitté de ma charge.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Quelque temps après, Léandre fit rencontre d’une jeune Égyptienne dont il devint amoureux.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je sais cela encore.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Comme nous sommes grands amis, il me fit aussitôt confidence de son amour, et me mena voir cette fille, que je trouvai belle, à la vérité, mais non pas tant qu’il vouloit que je la trouvasse. Il ne m’entretenoit que d’elle chaque jour, m’exagéroit à tous moments sa beauté et sa grâce, me louoit son esprit, et me parloit avec tranport des charmes de son entretien, dont il me rapportoit jusqu’aux moindres paroles, qu’il s’efforçoit toujours de me faire trouver les plus spirituelles du monde. Il me querelloit quelquefois de n’être pas assez sensible aux choses qu’il me venoit dire et me blâmoit sans cesse de l’indifférence où j’étois pour les feux de l’amour.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je ne vois pas encore où ceci veut aller.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Un jour que je l’accompagnois pour aller chez les gens qui gardent l’objet de ses vœux, nous entendîmes, dans une petite maison d’une rue écartée, quelques plaintes mêlées de beaucoup de sanglots. Nous demandons ce que c’est ; une femme nous dit, en soupirant, que nous pouvions voir là quelque chose de pitoyable en des personnes étrangères, et qu’à moins que d’être insensibles nous en serions touchés.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Où est-ce que cela nous mène ?</p>
+
+<pagenum num="277"/>
+
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>La curiosité me fit presser Léandre de voir ce que c’étoit. Nous entrons dans une salle, où nous voyons une vieille femme mourante, assistée d’une servante qui faisoit des regrets, et d’une jeune fille toute fondante en larmes, la plus belle et la plus touchante qu’on puisse jamais voir.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Une autre auroit paru effroyable en l’état où elle étoit ; car elle n’avoit pour habillement qu’une méchante petite jupe, avec des brassières de nuit qui étoient de simple futaine ; et sa coiffure étoit une cornette jaune, retroussée au haut de sa tête, qui laissoit tomber en désordre ses cheveux sur ses épaules ; et cependant, faite comme cela, elle brilloit de mille attraits, et ce n’étoit qu’agréments et que charmes que toute sa personne.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je sens venir la chose.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Si tu l’avois vue, Scapin, en l’état que je te dis, tu l’aurois trouvée admirable.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oh ! je n’en doute point ; et, sans l’avoir vue, je vois bien qu’elle étoit tout à fait charmante.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ses larmes n’étoient point de ces larmes désagréables qui défigurent un visage ; elle avoit, à pleurer, une grâce touchante, et sa douleur étoit la plus belle du monde.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je vois tout cela.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Elle faisoit fondre chacun en larmes, en se jetant amoureusement sur le corps de cette mourante, qu’elle appeloit sa chère mère ; et il n’y avoit personne qui n’eût l’âme percée de voir un si bon naturel.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>En effet, cela est touchant ; et je vois bien que ce bon naturel-là vous la fit aimer.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ah ! Scapin, un barbare l’auroit aimée.</p>
+
+<pagenum num="278"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Assurément. Le moyen de s’en empêcher ?</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là ; et, demandant à Léandre ce qu’il lui sembloit de cette personne, il me répondit froidement qu’il la trouvoit assez jolie. Je fus piqué de la froideur avec laquelle il m’en parloit, et je ne voulus point lui découvrir l’effet que ses beautés avoient fait sur mon âme.</p>
+
+<hstage><speaker>SYLVESTRE</speaker>, à Octave.</hstage>
+<p>Si vous n’abrégez ce récit, nous en voilà pour jusqu’à demain. Laissez-le-moi finir en deux mots. <stage>A Scapin.</stage> Son cœur prend feu dès ce moment : il ne sauroit plus vivre qu’il n’aille consoler son aimable affligée. Ses fréquentes visites sont rejetées de la servante, devenue la gouvernante par le trépas de la mère. Voilà mon homme au désespoir ; il presse, supplie, conjure : point d’affaire. On lui dit que la fille, quoique sans bien et sans appui, est de famille honnête, et qu’à moins que de l’épouser on ne peut souffrir ses poursuites. Voilà son amour augmenté par les difficultés. Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution : le voilà marié avec elle depuis trois jours.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>J’entends.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Maintenant, mets avec cela le retour imprévu du père, qu’on n’attendoit que dans deux mois ; la découverte que l’oncle a faite du secret de notre mariage, et l’autre mariage qu’on veut faire de lui avec la fille que le seigneur Géronte a eue d’une seconde femme qu’on dit qu’il a épousée à Tarente.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Et, par-dessus tout cela, mets encore l’indigence où se trouve cette aimable personne, et l’impuissance où je me vois d’avoir de quoi la secourir.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Est-ce là tout ? Vous voilà bien embarrassés tous deux pour une bagatelle ! c’est bien là de quoi se tant alarmer ! N’as-tu point de honte, toi, de demeurer court à si peu de chose ? Que diable ! te voilà grand et gros comme père et mère, et tu ne saurois trouver dans ta tête, forger dans ton esprit quelque ruse galante, quelque honnête petit stratagème pour ajuster <pagenum num="279"/>vos affaires ! Fi ! peste soit du butor ! Je voudrois bien que l’on m’eût donné autrefois nos vieillards à duper ; je les aurois joués tous deux par-dessous la jambe : et je n’étois pas plus grand que cela, que je me signalois déjà par cent tours d’adresse jolis.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>J’avoue que le ciel ne m’a pas donné tes talents, et que je n’ai pas l’esprit, comme toi, de me brouiller avec la justice.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Voici mon aimable Hyacinte.</p>
+
+<h3 id="p05">SCÈNE III. — HYACINTE, OCTAVE, SCAPIN, SYLVESTRE</h3>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>Ah ! Octave, est-il vrai ce que Sylvestre vient de dire à Nérine, que votre père est de retour, et qu’il veut vous marier ?</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Oui, belle Hyacinte ; et ces nouvelles m’ont donné une atteinte cruelle. Mais que vois-je ? vous pleurez ! Pourquoi ces larmes ? Me soupçonnez-vous, dites-moi, de quelque infidélité ? et n’êtes-vous pas assurée de l’amour que j’ai pour vous ?</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>Oui, Octave, je suis sûre que vous m’aimez ; mais je ne le suis pas que vous m’aimiez toujours.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Eh ! peut-on vous aimer, qu’on ne vous aime toute sa vie ?</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>J’ai ouï dire, Octave, que votre sexe aime moins longtemps que le nôtre, et que les ardeurs que les hommes font voir sont des feux qui s’éteignent aussi facilement qu’ils naissent.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ah ! ma chère Hyacinte, mon cœur n’est donc pas fait comme celui des autres hommes ; et je sens bien, pour moi, que je vous aimerai jusqu’au tombeau.</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>Je veux croire que vous sentez ce que vous dites, et je ne doute point que vos paroles ne soient sincères ; mais je crains un pouvoir qui combattra dans votre cœur les tendres sentiments que vous pouvez avoir pour moi. Vous dépendez d’un père qui veut vous marier à une autre personne ; et je suis sûre que je mourrai si ce malheur m’arrive.</p>
+
+<pagenum num="280"/>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Non, belle Hyacinte, il n’y a point de père qui puisse me contraindre à vous manquer de foi ; et je me résoudrai à quitter mon pays, et le jour même, s’il est besoin, plutôt qu’à vous quitter. J’ai déjà pris, sans l’avoir vue, une aversion effroyable pour celle que l’on me destine ; et, sans être cruel, je souhaiterois que la mer l’écartât d’ici pour jamais. Ne pleurez donc point, je vous prie, mon aimable Hyacinte ; car vos larmes me tuent, et je ne les puis voir sans me sentir percer le cœur.</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>Puisque vous le voulez, je veux bien essuyer mes pleurs, et j’attendrai, d’un œil constant, ce qu’il plaira au ciel de résoudre de moi.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Le ciel nous sera favorable.</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>Il ne sauroit m’être contraire, si vous m’êtes fidèle.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Je le serai, assurément.</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>Je serai donc heureuse.</p>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Elle n’est pas tant sotte, ma foi ; et je la trouve assez passable.</p>
+
+<hstage><speaker>OCTAVE</speaker>, montrant Scapin.</hstage>
+<p>Voici un homme qui pourroit bien, s’il le vouloit, nous être, dans tous nos besoins, d’un secours merveilleux.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>J’ai fait de grands serments de ne me mêler plus du monde ; mais, si vous m’en priez bien fort tous deux, peut-être...</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ah ! s’il ne tient qu’à te prier bien fort pour obtenir ton aide, je te conjure de tout mon cœur de prendre la conduite de notre barque.</p>
+
+<hstage><speaker>SCAPIN</speaker>, à Hyacinte.</hstage>
+<p>Et, vous, ne me dites-vous rien ?</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>Je vous conjure, à son exemple, par tout ce qui vous est le plus cher au monde, de vouloir servir notre amour.</p>
+
+<pagenum num="281"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il faut se laisser vaincre, et avoir de l’humanité. Allez, je veux m’employer pour vous.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Crois que...</p>
+
+<hstage><speaker>SCAPIN</speaker>, à Octave.</hstage>
+<p>Chut ! <stage>A Hyacinte.</stage> Allez-vous-en, vous, et soyez en repos.</p>
+
+<h3 id="p06">SCÈNE IV. — OCTAVE, SCAPIN, SYLVESTRE</h3>
+
+<hstage><speaker>SCAPIN</speaker>, à Octave.</hstage>
+<p>Et vous, préparez-vous à soutenir avec fermeté l’abord de votre père.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Je t’avoue que cet abord me fait trembler par avance ; et j’ai une timidité naturelle que je ne saurois vaincre.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il faut pourtant paroître ferme au premier choc, de peur que, sur votre foiblesse, il ne prenne le pied<noteref noteid="note.281.1"/> de vous mener comme un enfant. Là, tâchez de vous composer par étude un peu de hardiesse, et songez à répondre résolument sur tout ce qu’il vous pourra dire.</p>
+
+<notes>
+  <note id="note.281.1">
+    <p>Cette location a vieilli. On dirait aujourd’hui : <i>ne se mette sur le pied.</i> (F. L.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Je ferai du mieux que je pourrai.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Çà, essayons un peu, pour vous accoutumer. Répétons un peu votre rôle, et voyons si vous ferez bien. Allons ; la mine résolue, la tête haute, les regards assurés.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Comme cela ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Encore un peu davantage.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ainsi ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Bon. Imaginez-vous que je suis votre père qui arrive, et répondez-moi fermement, comme si c’étoit à lui-même. Comment, pendard, vaurien, infâme, fils indigne d’un père comme moi ! oses-tu bien paroître devant mes yeux, après tes bons déportements, après le lâche tour que tu m’as joué pendant mon absence ? Est-ce là le fruit de mes soins, maraud ? est-ce là le fruit des mes soins ? le respect qui m’est dû ? le <pagenum num="282"/>respect que tu me conserves ? (Allons donc !) Tu as l’insolence, fripon, de t’engager sans le consentement de ton père, de contracter un mariage clandestin ! Réponds-moi, coquin, réponds-moi. Voyons un peu tes belles raisons... Oh ! que diable, vous demeurez interdit !</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>C’est que je m’imagine que c’est mon père que j’entends.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh ! oui ; c’est par cette raison qu’il ne faut pas être comme un innocent.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Je m’en vais prendre plus de résolution, et je répondrai fermement.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Assurément ?</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Assurément.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Voilà votre père qui vient.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>O ciel ! je suis perdu.</p>
+
+<h3 id="p07">SCÈNE V. — SCAPIN, SYLVESTRE</h3>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Holà, Octave ! demeurez, Octave. Le voilà enfui. Quelle pauvre espèce d’homme ! Ne laissons pas d’attendre le vieillard.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Que lui dirai-je ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Laisse-moi dire, moi, et ne fais que me suivre.</p>
+
+<h3 id="p08">SCÈNE VI. — ARGANTE ; SCAPIN <i>et</i> SYLVESTRE, <i>dans le fond du théâtre.</i></h3>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>A-t-on jamais ouï parler d’une action pareille à celle-là ?</p>
+
+<hstage><speaker>SCAPIN</speaker>, à Sylvestre.</hstage>
+<p>Il a déjà appris l’affaire ; et elle lui tient si fort en tête, que tout seul, il en parle haut.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>Voilà une témérité bien grande !</p>
+
+<pagenum num="283"/>
+
+<hstage><speaker>SCAPIN</speaker>, à Sylvestre.</hstage>
+<p>Écoutons-le un peu.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>Je voudrois bien savoir ce qu’ils me pourront dire sur ce beau mariage.</p>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Nous y avons songé.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>Tâcheront-ils de me nier la chose ?</p>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Non, nous n’y pensons pas.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>Ou s’ils entreprendront de l’excuser ?</p>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Celui-là se pourra faire.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>Prétendront-ils m’amuser par des contes en l’air ?</p>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Peut-être.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>Tous leurs discours seront inutiles.</p>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Nous allons voir.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>Ils ne m’en donneront point à garder.</p>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Ne jurons de rien.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>Je saurai mettre mon pendard de fils en lieu de sûreté.</p>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Nous y pourvoirons.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>Et pour le coquin de Sylvestre, je le rouerai de coups.</p>
+
+<hstage><speaker>SYLVESTRE</speaker>, à Scapin.</hstage>
+<p>J’étois bien étonné s’il m’oublioit.</p>
+
+<hstage><speaker>ARGANTE</speaker>, apercevant Sylvestre.</hstage>
+<p>Ah ! ah ! vous voilà donc, sage gouverneur de famille, beau directeur de jeunes gens !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, je suis ravi de vous voir de retour.</p>
+
+<pagenum num="284"/>
+
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Bonjour, Scapin. <stage>A Sylvestre.</stage> Vous avez suivi mes ordres vraiment d’une belle manière ! et mon fils s’est comporté fort sagement pendant mon absence !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous vous portez bien, à ce que je vois ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Assez bien. <stage>A Sylvestre.</stage> Tu ne dis mot, coquin ! tu ne dis mot !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Votre voyage a-t-il été bon ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Mon Dieu, fort bon ! Laisse-moi un peu quereller en repos.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous voulez quereller ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Oui, je veux quereller.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh ! qui, monsieur ?</p>
+
+<hstage><speaker>ARGANTE</speaker>, montrant Sylvestre.</hstage>
+<p>Ce maraud-là.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Pourquoi ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Tu n’as pas ouï parler de ce qui s’est passé dans mon absence ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>J’ai bien ouï parler de quelque petite chose.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Comment ! quelque petite chose ! Une action de cette nature ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous avez quelque raison.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Une hardiesse pareille à celle-là !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Cela est vrai.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Un fils qui se marie sans le consentement de son père !</p>
+
+<pagenum num="285"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui, il y a quelque chose à dire à cela. Mais je serois d’avis que vous ne fissiez point de bruit.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je ne suis pas de cet avis, moi ; et je veux faire du bruit tout mon soûl. Quoi ! tu ne trouves pas que j’aie tous les sujets du monde d’être en colère ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Si fait. J’y ai d’abord été, moi, lorsque j’ai su la chose ; et je me suis intéressé pour vous, jusqu’à quereller votre fils. Demandez-lui un peu quelles belles réprimandes je lui ai faites, et comme je l’ai chapitré sur le peu de respect qu’il gardoit à un père dont il devoit baiser les pas. On ne peut pas lui mieux parler, quand ce seroit vous-même. Mais quoi ! je me suis rendu à la raison, et j’ai considéré que, dans le fond, il n’a pas tant de tort qu’on pourroit le croire.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Que me viens-tu conter ? Il n’a pas tant de tort de s’aller marier de but en blanc avec une inconnue ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Que voulez-vous ? Il y a été poussé par sa destinée.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Ah ! ah ! Voici une raison la plus belle du monde. On n’a plus qu’à commettre tous les crimes imaginables, tromper, voler, assassiner, et dire, pour excuse, qu’on y a été poussé par sa destinée.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Mon Dieu ! vous prenez mes paroles trop en philosophe. Je veux dire qu’il s’est trouvé fatalement engagé dans cette affaire.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Et pourquoi s’y engageoit-il ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Voulez-vous qu’il soit aussi sage que vous ? Les jeunes gens sont jeunes, et n’ont pas toute la prudence qu’il leur faudroit pour ne rien faire que de raisonnable ; témoin notre Léandre, qui, malgré toutes mes leçons, malgré toutes mes remontrances, est allé faire, de son côté, pis encore que votre fils. Je voudrois bien savoir si vous-même n’avez pas été jeune, et n’avez pas, dans votre temps, fait des fredaines comme les autres. J’ai ouï dire, moi, que vous avez été autrefois un bon <pagenum num="286"/>compagnon parmi les femmes ; que vous faisiez de votre drôle avec les plus galantes de ce temps-là, et que vous n’en approchiez point que vous ne poussassiez à bout.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Cela est vrai ; j’en demeure d’accord ; mais je m’en suis toujours tenu à la galanterie, et je n’ai point été jusqu’à faire ce qu’il a fait.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Que vouliez-vous qu’il fît ? Il voit une jeune personne qui lui veut du bien (car il tient cela de vous, d’être aimé de toutes les femmes) ; il la trouve charmante, il lui rend des visites, lui conte des douceurs, soupire galamment, fait le passionné. Elle se rend à sa poursuite ; il pousse sa fortune. Le voilà surpris avec elle par ses parents, qui, la force à la main, le contraignent de l’épouser.</p>
+
+<hstage><speaker>SYLVESTRE</speaker>, à part.</hstage>
+<p>L’habile fourbe que voilà !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eussiez-vous voulu qu’il se fût laissé tuer ? Il vaut mieux encore être marié qu’être mort.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>On ne m’a pas dit que l’affaire se soit ainsi passée.</p>
+
+<hstage><speaker>SCAPIN</speaker>, montrant Sylvestre.</hstage>
+<p>Demandez-lui plutôt : il ne vous dira pas le contraire.</p>
+
+<hstage><speaker>ARGANTE</speaker>, à Sylvestre.</hstage>
+<p>C’est par force qu’il a été marié ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Oui, monsieur.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Voudrois-je vous mentir ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Il devoit donc aller tout aussitôt protester de violence chez un notaire.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>C’est ce qu’il n’a pas voulu faire.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Cela m’auroit donné plus de facilité à rompre ce mariage.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Rompre ce mariage ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Oui.</p>
+
+<pagenum num="287"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous ne le romprez point.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je ne le romprai point ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Quoi ! je n’aurai pas pour moi les droits de père, et la raison de la violence qu’on en a faite à mon fils ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>C’est une chose dont il ne demeurera pas d’accord.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Il n’en demeurera pas d’accord ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Mon fils ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Votre fils. Voulez-vous qu’il confesse qu’il ait été capable de crainte, et que ce soit par force qu’on lui ai fait faire les choses ? Il n’a garde d’aller avouer cela ; ce seroit se faire tort et se montrer indigne d’un père comme vous.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je me moque de cela.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il faut, pour son honneur et pour le vôtre, qu’il dise dans le monde que c’est de bon gré qu’il l’a épousée.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Et je veux, moi, pour mon honneur et pour le sien, qu’il dise le contraire.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non, je suis sûr qu’il ne le fera pas.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je l’y forcerai bien.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il ne le fera pas, vous dis-je.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Il le fera, ou je le déshériterai.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous ?</p>
+
+<pagenum num="288"/>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Moi.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Bon !</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Comment, bon ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous ne le déshériterez point.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je ne le déshériterai point ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Non ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Ouais ! voici qui est plaisant ! Je ne déshériterai pas mon fils ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non, vous dis-je.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Qui m’en empêchera ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous-même.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Moi ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui. Vous n’aurez pas ce cœur-là.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je l’aurai.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous vous moquez.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je ne me moque point.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>La tendresse paternelle fera son office.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Elle ne fera rien.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui, oui.</p>
+
+<pagenum num="289"/>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je vous dis que cela sera.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Bagatelles !</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Il ne faut point dire : Bagatelles !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Mon Dieu ! je vous connois ; vous êtes bon naturellement.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je ne suis point bon, et je suis méchant quand je veux<noteref noteid="note.289.1"/>. Finissons ce discours, qui m’échauffe la bile. <stage>A Sylvestre.</stage> Va-t’en, pendard ; va-t’en me chercher mon fripon, tandis que j’irai rejoindre le seigneur Géronte, pour lui conter ma disgrâce.</p>
+
+<notes>
+  <note id="note.289.1">
+    <p>Molière a emprunté au <i>Tartuffe</i> le motif d’une partie de cette scène, qui se trouva aussi mot à mot dans le <i>Malade imaginaire</i>. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, si je vous puis être utile en quelque chose, vous n’avez qu’à me commander.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je vous remercie. <stage>A part.</stage> Ah ! pourquoi faut-il qu’il soit fils unique ! et que n’ai-je à cette heure la fille que le ciel m’a ôtée, pour la faire mon héritière<noteref noteid="note.289.2"/> !</p>
+
+<notes>
+  <note id="note.289.2">
+    <p>Cette phrase, si naturelle dans la bouche d’un père mécontent de son fils, est une adroite préparation au dénoûment, qui doit nous présenter, dans cette même fille regrettée par Argante, la jeune Égyptienne aimée par Léandre. (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p09">SCÈNE VII. — SCAPIN, SYLVESTRE</h3>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>J’avoue que tu es un grand homme, et voilà l’affaire en bon train ; mais l’argent, d’autre part, nous presse pour notre subsistance, et nous avons de tous côtés des gens qui aboient après nous.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Laisse-moi faire, la machine est trouvée. Je cherche seulement dans ma tête un homme qui nous soit affidé, pour jouer un personnage dont j’ai besoin. Attends. Tiens-toi un peu. Enfonce ton bonnet en méchant garçon. Campe-toi sur un pied. Mets la main au côté. Fais les yeux furibonds. Marche un peu en roi de théâtre. Voilà qui est bien. Suis-moi. J’ai des secrets pour déguiser ton visage et ta voix.</p>
+
+<pagenum num="290"/>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Je te conjure, au moins, de ne m’aller point brouiller avec la justice.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Va, va, nous partagerons les périls en frères ; et trois ans de galères de plus ou de moins ne sont pas pour arrêter un noble cœur<noteref noteid="note.290.1"/>.</p>
+
+<notes>
+  <note id="note.290.1">
+    <p>Excellent premier acte, plein de naturel, de gaieté et de verve comique. (Auger.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p10">ACTE SECOND</h2>
+
+<h3 id="p11">SCÈNE I. — GÉRONTE, ARGANTE</h3>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui, sans doute, par le temps qu’il fait, nous aurons ici nos gens aujourd’hui ; et un matelot qui vient de Tarente m’a assuré qu’il avoit vu mon homme qui étoit près de s’embarquer. Mais l’arrivée de ma fille trouvera les choses mal disposées à ce que nous nous proposions ; et ce que vous venez de m’apprendre de votre fils rompt étrangement les mesures que nous avions prises ensemble.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Ne vous mettez pas en peine ; je vous réponds de renverser tout cet obstacle, et j’y vais travailler de ce pas.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ma foi, seigneur Argante, voulez-vous que je vous dise ? l’éducation des enfants est une chose à quoi il faut s’attacher fortement.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Sans doute. A quel propos cela ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>A propos de ce que les mauvais déportements des jeunes gens viennent le plus souvent de la mauvaise éducation que leurs pères leur donnent.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Cela arrive parfois. Mais que voulez-vous dire par là ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ce que je veux dire par là ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Oui.</p>
+
+<pagenum num="291"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Que si vous aviez, en brave père, bien morigéné votre fils, il ne vous auroit pas joué le tour qu’il vous a fait.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Fort bien. De sorte donc que vous avez bien mieux morigéné le vôtre ?</p>
+
+<hstage><speaker><correction original="ARGANTE">GÉRONTE</correction></speaker></hstage>
+<p>Sans doute, et je serois bien fâché qu’il m’eût rien fait approchant de cela.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Et si ce fils, que vous avez, en brave père, si bien morigéné, avoit fait pis encore que le mien ? Eh ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Qu’est-ce que cela veut dire ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Cela veut dire, seigneur Géronte, qu’il ne faut pas être si prompt à condamner la conduite des autres, et que ceux qui veulent gloser doivent bien regarder chez eux s’il n’y a rien qui cloche.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je n’entends point cette énigme.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>On vous l’expliquera.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Est-ce que vous auriez ouï dire quelque chose de mon fils ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Cela se peut faire.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Et quoi, encore ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Votre Scapin, dans mon dépit, ne m’a dit la chose qu’en gros, et vous pourrez de lui, ou de quelque autre, être instruit du détail. Pour moi, je vais vite consulter un avocat, et aviser des biais<noteref noteid="note.291.1"/> que j’ai à prendre. Jusqu’au revoir.</p>
+
+<notes>
+  <note id="note.291.1">
+    <p><i>Aviser</i>, dans le sens de consulter, délibérer, doit se construire avec la préposition <i>à</i>. On dit : Aviser <i>aux</i> moyens, et non <i>des</i> moyens.</p>
+  </note>
+</notes>
+
+<pagenum num="292"/>
+
+<h3 id="p12">SCÈNE II. — GÉRONTE, <i>seul.</i></h3>
+
+<p>Que pourroit-ce être que cette affaire-ci ? Pis encore que le sien ! Pour moi, je ne vois pas ce que l’on peut faire de pis ; et je trouve que se marier sans le consentement de son père est une action qui passe tout ce qu’on peut imaginer.</p>
+
+<h3 id="p13">SCÈNE III. — GÉRONTE, LÉANDRE</h3>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ah ! vous voilà !</p>
+
+<hstage><speaker>LÉANDRE</speaker>, courant à Gêronte, pour l’embrasser.</hstage>
+<p>Ah ! mon père, que j’ai de joie de vous voir de retour !</p>
+
+<hstage><speaker>GÉRONTE</speaker>, refusant d’embrasser Léandre.</hstage>
+<p>Doucement. Parlons un peu d’affaire.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Souffrez que je vous embrasse, et que...</p>
+
+<hstage><speaker>GÉRONTE</speaker>, le repoussant encore.</hstage>
+<p>Doucement, vous dis-je.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Quoi ! vous me refusez, mon père, de vous exprimer mon transport par mes embrassements ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui. Nous avons quelque chose à démêler ensemble.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Et quoi ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tenez-vous, que je vous voie en face.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Regardez-moi entre deux yeux.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Eh bien ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Qu’est-ce donc qu’il s’est passé ici ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Ce qui s’est passé ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui. Qu’avez-vous fait pendant mon absence ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Que voulez-vous, mon père, que j’aie fait ?</p>
+
+<pagenum num="293"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ce n’est pas moi qui veux que vous ayez fait, mais qui demande ce que c’est que vous avez fait.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Moi ? Je n’ai fait aucune chose dont vous ayez lieu de vous plaindre.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Aucune chose ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Vous êtes bien résolu !</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>C’est que je suis sûr de mon innocence.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Scapin pourtant m’a dit de vos nouvelles.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Scapin ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ah ! ah ! ce mot vous fait rougir.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Il vous a dit quelque chose de moi ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ce lieu n’est pas tout à fait propre à vider cette affaire, et nous allons l’examiner ailleurs. Qu’on se rende au logis ; j’y vais revenir tout à l’heure. Ah ! traître ! s’il faut que tu me déshonores, je te renonce pour mon fils, et tu peux bien, pour jamais, te résoudre à fuir de ma présence.</p>
+
+<h3 id="p14">SCÈNE IV. — LÉANDRE, <i>seul</i>.</h3>
+
+<p>Me trahir de cette manière ! Un coquin qui doit, par cent raisons, être le premier à cacher les choses que je lui confie, est le premier à les aller découvrir à mon père ? Ah ! je jure le ciel que cette trahison ne demeurera pas impunie.</p>
+
+<h3 id="p15">SCÈNE V. — OCTAVE, LÉANDRE, SCAPIN</h3>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Mon cher Scapin, que ne dois-je point à tes soins ! Que tu es un homme admirable ! et que le ciel m’est favorable de t’envoyer à mon secours !</p>
+
+<pagenum num="294"/>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Ah. ! ah ! vous voilà ! Je suis ravi de vous trouver, monsieur le coquin !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, votre serviteur. C’est trop d’honneur que vous me faites.</p>
+
+<hstage><speaker>LÉANDRE</speaker>, mettant l’épée à la main.</hstage>
+<p>Vous faites le méchant plaisant... Ah ! je vous apprendrai...</p>
+
+<hstage><speaker>SCAPIN</speaker>, se mettant à genoux.</hstage>
+<p>Monsieur !</p>
+
+<hstage><speaker>OCTAVE</speaker>, se mettant entre eux pour empêcher Léandre de frapper Scapin.</hstage>
+<p>Ah ! Léandre !</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Non, Octave, ne me retenez point, je vous prie.</p>
+
+<hstage><speaker>SCAPIN</speaker>, à Léandre.</hstage>
+<p>Hé ! monsieur !</p>
+
+<hstage><speaker>OCTAVE</speaker>, retenant Léandre.</hstage>
+<p>De grâce !</p>
+
+<hstage><speaker>LÉANDRE</speaker>, voulant frapper Scapin.</hstage>
+<p>Laissez-moi contenter mon ressentiment.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Au nom de l’amitié, Léandre, ne le maltraitez point.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, que vous ai-je fait ?</p>
+
+<hstage><speaker>LÉANDRE</speaker>, voulant frapper Scapin.</hstage>
+<p>Ce que tu m’as fait, traître !</p>
+
+<hstage><speaker>OCTAVE</speaker>, retenant encore Léandre.</hstage>
+<p>Hé ! doucement !</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Non, Octave, je veux qu’il me confesse lui-même, tout à l’heure, la perfidie qu’il m’a faite. Oui, coquin, je sais le trait que tu m’as joué ; on vient de me l’apprendre, et tu ne croyois pas peut-être que l’on me dût révéler ce secret ; mais je veux en avoir la confession de ta propre bouche, ou je vais te passer cette épée au travers du corps.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ah ! monsieur, auriez-vous bien ce cœur-là ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Parle donc.</p>
+
+<pagenum num="295"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je vous ai fait quelque chose, monsieur ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Oui, coquin, et ta conscience ne te dit que trop ce que c’est.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je vous assure que je l’ignore.</p>
+
+<hstage><speaker>LÉANDRE</speaker>, s’avançant pour frapper Scapin.</hstage>
+<p>Tu l’ignores !</p>
+
+<hstage><speaker>OCTAVE</speaker>, retenant Léandre.</hstage>
+<p>Léandre !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh bien, monsieur, puisque vous le voulez, je vous confesse que j’ai bu avec mes amis ce petit quartaut de vin d’Espagne dont on vous fit présent il y a quelques jours, et que c’est moi qui fis une fente au tonneau, et répandis de l’eau autour, pour faire croire que le vin s’étoit échappé.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>C’est toi, pendard, qui m’as bu mon vin d’Espagne, et qui as été cause que j’ai tant querellé la servante, croyant que c’étoit elle qui m’avoit fait le tour ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui, monsieur ; je vous en demande pardon.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Je suis bien aise d’apprendre cela. Mais ce n’est pas l’affaire dont il est question maintenant.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ce n’est pas cela, monsieur ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Non : c’est une autre affaire qui me touche bien plus, et je veux que tu me la dises.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, je ne me souviens pas d’avoir fait autre chose.</p>
+
+<hstage><speaker>LÉANDRE</speaker>, voulant frapper Scapin.</hstage>
+<p>Tu ne veux pas parler ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Hé !</p>
+
+<hstage><speaker>OCTAVE</speaker>, retenant Léandre.</hstage>
+<p>Tout doux !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui, monsieur ; il est vrai qu’il y a trois semaines que vous <pagenum num="296"/>m’envoyâtes porter, le soir, une petite montre à la jeune Égyptienne que vous aimez. Je revins au logis, mes habits tout couverts de boue, et le visage plein de sang, et vous dis que j’avois trouvé des voleurs qui m’avoient bien battu et m’avoient dérobé la montre. C’étoit moi, monsieur, qui l’avois retenue.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>C’est toi qui as retenu ma montre ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui, monsieur, afin de voir quelle heure il est.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Ah ! ah ! j’apprends ici de jolies choses, et j’ai un serviteur fort fidèle, vraiment ! Mais ce n’est pas cela encore que je demande.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ce n’est pas cela ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Non, infâme ! c’est autre chose encore que je veux que tu me confesses.</p>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Peste !</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Parle vite, j’ai hâte.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, voilà tout ce que j’ai fait.</p>
+
+<hstage><speaker>LÉANDRE</speaker>, voulant frapper Scapin.</hstage>
+<p>Voilà tout ?</p>
+
+<hstage><speaker>OCTAVE</speaker>, se mettant au-devant de Léandre.</hstage>
+<p>Hé !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh bien, oui, monsieur. Vous vous souvenez de ce loup-garou, il y a six mois, qui vous donna tant de coups de bâton la nuit, et vous pensa faire rompre le cou dans une cave où vous tombâtes en fuyant.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Eh bien ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>C’étoit moi, monsieur, qui faisois le loup-garou.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>C étoit toi, traître, qui faisois le loup-garou ?</p>
+
+<pagenum num="297"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui, monsieur, seulement pour vous faire peur, et vous ôter l’envie de nous faire courir toutes les nuits comme vous aviez coutume.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Je saurai me souvenir, en temps et lieu, de tout ce que je viens d’apprendre. Mais je veux venir au fait, et que tu me confesses ce que tu as dit à mon père.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>A votre père ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Oui, fripon, à mon père.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je ne l’ai pas seulement vu depuis son retour.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Tu ne l’as pas vu ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non, monsieur.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Assurément ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Assurément. C’est une chose que je vais vous faire dire par lui-même.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>C’est de sa bouche que je le tiens pourtant.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Avec votre permission, il n’a pas dit la vérité.</p>
+
+<h3 id="p16">SCÈNE VI. — LÉANDRE, OCTAVE, CARLE, SCAPIN</h3>
+
+<hstage><speaker>CARLE</speaker></hstage>
+<p>Monsieur, je vous apporte une nouvelle qui est fâcheuse pour votre amour.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>CARLE</speaker></hstage>
+<p>Vos Égyptiens sont sur le point de vous enlever Zerbinette ; et elle-même, les larmes aux yeux, m’a chargé de venir promptement vous dire que, si dans deux heures, vous ne songez à leur porter l’argent qu’ils vous ont demandé pour elle, vous l’allez perdre pour jamais.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Dans deux heures ?</p>
+
+<pagenum num="298"/>
+
+<hstage><speaker>CARLE</speaker></hstage>
+<p>Dans deux heures.</p>
+
+<h3 id="p17">SCÈNE VII. — LÉANDRE, OCTAVE, SCAPIN</h3>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Ah ! mon pauvre Scapin, j’implore ton secours.</p>
+
+<hstage><speaker>SCAPIN</speaker>, se levant, et passant fièrement devant Léandre.</hstage>
+<p>Ah ! mon pauvre Scapin ! Je suis mon pauvre Scapin, à cette heure qu’on a besoin de moi.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Va, je te pardonne tout ce que tu viens de me dire, et pis encore, si tu me l’as fait.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non, non ; ne me pardonnez rien ; passez-moi votre épée au travers du corps. Je serai ravi que vous me tuiez.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Non. Je te conjure plutôt de me donner la vie, en servant mon amour.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Point, point : vous ferez mieux de me tuer.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Tu m’es trop précieux ; et je te prie de vouloir bien employer pour moi ce génie admirable qui vient à bout de toutes choses.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non. Tuez-moi, vous dis-je.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Ah ! de grâce, ne songe plus à tout cela, et pense à me donner le secours que je te demande.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Scapin, il faut faire quelque chose pour lui.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Le moyen, après une avanie de la sorte ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Je te conjure d’oublier mon emportement et de me prêter ton adresse.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Je joins mes prières aux siennes.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>J’ai cette insulte-là sur le cœur.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Il faut quitter ton ressentiment.</p>
+
+<pagenum num="299"/>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Voudrois-tu m’abandonner, Scapin, dans la cruelle extrémité où se voit mon amour ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Me venir faire à l’improviste un affront comme celui-là !</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>J’ai tort, je le confesse.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Me traiter de coquin, de fripon, de pendard, d’infâme !</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>J’en ai tous les regrets du monde.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Me vouloir passer son épée au travers du corps !</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Je t’en demande pardon de tout mon cœur ; et, s’il ne tient qu’à me jeter à tes genoux, tu m’y vois, Scapin, pour te conjurer encore une fois de ne me point abandonner.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ah ! ma foi, Scapin, il se faut rendre à cela.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Levez-vous. Une autre fois ne soyez point si prompt.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Me promets-tu de travailler pour moi ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>On y songera.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Mais tu sais que le temps presse.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ne vous mettez pas en peine. Combien est-ce qu’il vous faut ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Cinq cents écus.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Et à vous ?</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Deux cents pistoles.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je veux tirer cet argent de vos pères. <stage>A Octave.</stage> Pour ce qui est du vôtre, la machine est déjà toute trouvée. <stage>A Léandre.</stage> Et, quant au vôtre, bien qu’avare au dernier degré, il faudra moins de façons encore ; car vous savez que, pour <pagenum num="300" b="l’es-" a="prit,">l’esprit,</pagenum> il n’en a pas, grâce à Dieu, grande provision ; et je le livre pour une espèce d’homme à qui l’on fera croire tout ce qu’on voudra. Cela ne vous offense point : il ne tombe entre lui et vous aucun soupçon de ressemblance ; et vous savez assez l’opinion de tout le monde, qui veut qu’il ne soit votre père que pour la forme.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Tout beau, Scapin !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Bon, bon, on fait bien scrupule de cela ! Vous moquez-vous ? Mais j’aperçois venir le père d’Octave. Commençons par lui, puisqu’il se présente. Allez-vous-en tous deux. <stage>A Octave.</stage> Et vous, avertissez votre Sylvestre de venir vite jouer son rôle.</p>
+
+<h3 id="p18">SCÈNE VIII. — ARGANTE, SCAPIN</h3>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Le voilà qui rumine.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se croyant seul.</hstage>
+<p>Avoir si peu de conduite et de considération ! s’aller jeter dans un engagement comme celui-là ! Ah ! ah ! jeunesse impertinente !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, votre serviteur !</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Bonjour, Scapin.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous rêvez à l’affaire de votre fils ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je t’avoue que cela me donne un furieux chagrin.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, la vie est mêlée de traverses ; il est bon de s’y tenir sans cesse préparé ; et j’ai ouï dire, il y a longtemps, une parole d’un ancien que j’ai toujours retenue.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Quoi ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Que, pour peu qu’un père de famille ait été absent de chez lui, il doit promener son esprit sur tous les fâcheux accidents que son retour peut rencontrer, se figurer sa maison brûlée, son argent dérobé, sa femme morte, son fils estropié, sa fille subornée ; et ce qu’il trouve qui ne lui est point arrivé, <pagenum num="301" b="l’im-" a="puter">l’imputer</pagenum> à bonne fortune. Pour moi, j’ai pratiqué toujours cette leçon dans ma petite philosophie ; et je ne suis jamais revenu au logis que je ne me sois tenu prêt à la colère de mes maîtres, aux réprimandes, aux injures, aux coups de pieds au cul, aux bastonnades, aux étrivières ; et ce qui a manqué à m’arriver, j’en ai rendu grâce à mon bon destin.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Voilà qui est bien ; mais ce mariage impertinent, qui trouble celui que nous voulons faire, est une chose que je ne puis souffrir, et je viens de consulter des avocats pour le faire casser.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ma foi, monsieur, si vous m’en croyez, vous tâcherez, par quelque autre voie, d’accommoder l’affaire. Vous savez ce que c’est que les procès en ce pays-ci, et vous allez vous enfoncer dans d’étranges épines.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Tu as raison, je le vois bien. Mais quelle autre voie ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je pense que j’en ai trouvé une. La compassion que m’a donnée tantôt votre chagrin m’a obligé à chercher dans ma tête quelque moyen pour vous tirer d’inquiétude ; car je ne saurois voir d’honnêtes pères chagrinés par leurs enfants, que cela ne m’émeuve ; et, de tout temps, je me suis senti pour votre personne une inclination particulière.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je te suis obligé.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>J’ai donc été trouver le frère de cette fille qui a été épousée. C’est un de ces braves de profession, de ces gens qui sont tout coups d’épée, qui ne parlent que d’échiner, et ne font non plus de conscience de tuer un homme que d’avaler un verre de vin. Je l’ai mis sur ce mariage, lui ai fait voir quelle facilité offroit la raison de la violence pour le faire casser, vos prérogatives du nom de père, et l’appui que vous donneroient auprès de la justice, et votre droit, et votre argent, et vos amis. Enfin, je l’ai tant tourné de tous les côtés, qu’il a prêté l’oreille aux propositions que je lui ai faites d’ajuster l’affaire pour quelque somme ; et il donnera son consentement à rompre le mariage, pourvu que vous lui donniez de l’argent.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Et qu’a-t-il demandé ?</p>
+
+<pagenum num="302"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oh ! d’abord des choses par-dessus les maisons.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Et quoi ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Des choses extravagantes.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Mais encore ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il ne parloit pas moins de cinq ou six cents pistoles.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Cinq ou six cents fièvres quartaines qui le puissent serrer ! Se moque-t-il des gens ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>C’est ce que je lui ai dit. J’ai rejeté bien loin de pareilles propositions, et je lui ai bien fait entendre que vous n’étiez point une dupe, pour vous demander des cinq ou six cents pistoles. Enfin, après plusieurs discours, voici où s’est réduit le résultat de notre conférence. Nous voilà au temps, m’a-t-il dit, que je dois partir pour l’armée ; je suis après à m’équiper, et le besoin que j’ai de quelque argent me fait consentir, malgré moi, à ce qu’on me propose. Il me faut un cheval de service, et je n’en saurois avoir un qui soit tant soit peu raisonnable<noteref noteid="note.302.1"/> à moins de soixante pistoles.</p>
+
+<notes>
+  <note id="note.302.1">
+    <p><i>Raisonnable</i> signifie ici convenable, tel qu’on doit s’en contenter. C’est en ce sens que Perrette, dans la fable, dit en parlant de son cochon :</p>
+    <blockquote>
+      <poem>
+        <l>Il étoit, quand je l’eus, de grosseur <i>raisonnable.</i></l>
+      </poem>
+    </blockquote>
+
+    <p>Mais cela n’empêche pas que <i>cheval raisonnable</i> ne soit une singulière expression. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Eh bien, pour soixante pistoles, je les donne.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il faudra les harnois et les pistolets ; et cela ira bien à vingt pistoles encore.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Vingt pistoles et soixante, ce seroit quatre-vingts.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Justement.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>C’est beaucoup ; mais, soit : je consens à cela.</p>
+
+<pagenum num="303"/>
+
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il lui faut aussi un cheval pour monter son valet, qui coûtera bien trente pistoles.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Comment, diantre ! Qu’il se promène, il n’aura rien du tout.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur !</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Non : c’est un impertinent !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Voulez-vous que son valet aille à pied ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Qu’il aille comme il lui plaira, et le maître aussi.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Mon Dieu, monsieur, ne vous arrêtez point à peu de chose. N’allez point plaider, je vous prie ; et donnez tout, pour vous sauver des mains de la justice.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Eh bien, soit ; je me résous à donner encore ces trente pistoles.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il me faut encore, a-t-il dit, un mulet pour porter...</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Oh ! qu’il aille au diable avec son mulet ! C’en est trop ; et nous irons devant les juges.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>De grâce, monsieur !</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Non, je n’en ferai rien.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, un petit mulet.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je ne lui donnerois pas seulement un âne.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Considérez...</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Non : j’aime mieux plaider.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh ! monsieur, de quoi parlez-vous là, et à quoi vous résolvez-vous ? Jetez les yeux sur les détours de la justice. <pagenum num="304"/>Voyez combien d’appels et de degrés de juridiction ; combien de procédures embarrassantes ; combien d’animaux ravissants par les griffes desquels il vous faudra passer : sergents, procureurs, avocats, greffiers, substituts, rapporteurs, juges, et leurs clercs. Il n’y a pas un de tous ces gens-là qui, pour la moindre chose, ne soit capable de donner un soufflet au meilleur droit du monde. Un sergent baillera de faux exploits sur quoi vous serez condamné sans que vous le sachiez. Votre procureur s’entendra avec votre partie, et vous vendra à beaux deniers comptants. Votre avocat, gagné de même, ne se trouvera point lorsqu’on plaidera votre cause, ou dira des raisons qui ne feront que battre la campagne et n’iront point au fait. Le greffier délivrera par contumace des sentences et arrêts contre vous. Le clerc du rapporteur soustraira des pièces, ou le rapporteur même ne dira pas ce qu’il a vu ; et quand, par les plus grandes précautions du monde, vous aurez paré tout cela, vous serez ébahi que vos juges auront été sollicités contre vous, ou par des gens dévots, ou par des femmes qu’ils aimeront. Eh ! monsieur, si vous le pouvez, sauvez-vous de cet enfer-là. C’est être damné dès ce monde que d’avoir à plaider ; et la seule pensée d’un procès seroit capable de me faire fuir jusqu’aux Indes.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>A combien est-ce qu’il fait monter le mulet ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, pour le mulet, pour son cheval et celui de son homme, pour le harnois et les pistolets, et pour payer quelque petite chose qu’il doit à son hôtesse, il demande en tout deux cents pistoles.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Deux cents pistoles !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>ARGANTE</speaker>, se promenant en colère.</hstage>
+<p>Allons, allons ; nous plaiderons.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Faites réflexion...</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je plaiderai.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ne vous allez pas jeter...</p>
+
+<pagenum num="305"/>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je veux plaider.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Mais pour plaider il vous faudra de l’argent. Il vous en faudra pour l’exploit ; il vous en faudra pour le contrôle ; il vous en faudra pour la procuration, pour la présentation, les conseils, productions, et journées du procureur. Il vous en faudra pour les consultations et plaidoiries des avocats, pour le droit de retirer le sac<noteref noteid="note.305.1"/> et pour les grosses d’écritures. Il vous en faudra pour le rapport des substituts, pour les épices de conclusion<noteref noteid="note.305.2"/>, pour l’enregistrement du greffier, façon d’appointement, sentences et arrêts, contrôles, signatures et expéditions de leurs clercs, sans parler de tous les présents qu’il vous faudra faire. Donnez cet argent-là à cet homme-ci, vous voilà hors d’affaire.</p>
+
+<notes>
+  <note id="note.305.1">
+    <p><i>Sac</i>, les pièces d’un procès, parce que, ordinairement, elles étaient renfermées dans un sac.</p>
+  </note>
+  <note id="note.305.2">
+    <p>Anciennement, les plaideurs donnaient aux juges des dragées et des confitures pour les remercier du gain d’un procès, et cela s’appelait des <i>épices</i> parce que, avant la découverte des Indes, on employait, dans ces friandises, les épices au lieu de sucre ; les épices du palais, qui n’étaient d’abord qu’un présent volontaire devinrent par la suite une véritable taxe qui se payait en argent, et n’en conservait pas moins le nom d’<i>épices</i>. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Comment ! deux cents pistoles !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui. Vous y gagnerez. J’ai fait un petit calcul, en moi-même, de tous les frais de la justice ; et j’ai trouvé qu’en donnant deux cents pistoles à votre homme vous en aurez de reste, pour le moins, cent cinquante, sans compter les soins, les pas et les chagrins que vous vous épargnerez. Quand il n’y auroit à essuyer que les sottises que disent devant tout le monde de méchants plaisants d’avocats, j’aimerois mieux donner trois cents pistoles que de plaider.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je me moque de cela, et je défie les avocats de rien dire de moi.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous ferez ce qu’il vous plaira ; mais, si j’étois que de vous, je fuirois les procès.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je ne donnerai point deux cents pistoles.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Voici l’homme dont il s’agit.</p>
+
+<pagenum num="306"/>
+
+<h3 id="p19">SCÈNE IX. — ARGANTE, SCAPIN ; SYLVESTRE, <i>déguisé en spadassin.</i></h3>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Scapin, faites-moi connoître un peu cet Argante qui est père d’Octave.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Pourquoi, monsieur ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Je viens d’apprendre qu’il veut me mettre en procès, et faire rompre par justice le mariage de ma sœur.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je ne sais pas s’il a cette pensée ; mais il ne veut point consentir aux deux cents pistoles que vous voulez ; et il dit que c’est trop.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Par la mort ! par la tête ! par le ventre ! si je le trouve, je le veux échiner, dussé-je être roué tout vif. <stage>Argante, pour n’être point vu, se tient en tremblant derrière Scapin.</stage></p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, ce père d’Octave a du cœur, et peut-être ne vous craindra-t-il point.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Lui, lui ? Par le sang ! par la tête ! s’il étoit là, je lui donnerois tout à l’heure de l’épée dans le ventre. <stage>Apercevant Argante.</stage> Qui est cet homme-là ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ce n’est pas lui, monsieur ; ce n’est pas lui.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>N’est-ce point quelqu’un de ses amis ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non, monsieur ; au contraire, c’est son ennemi capital.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Son ennemi capital ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Ah ! parbleu, j’en suis ravi. <stage>A Argante.</stage> Vous êtes ennemi, monsieur, de ce faquin d’Argante ? Eh ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui, oui ; je vous en réponds.</p>
+
+<pagenum num="307"/>
+
+<hstage><speaker>SYLVESTRE</speaker>, secouant rudement la main d’Argante.</hstage>
+<p>Touchez-là, touchez. Je vous donne ma parole, et vous jure sur mon honneur, par l’épée que je porte, par tous les serments que je saurois faire, qu’avant la fin du jour, je vous déferai de ce maraud fieffé, de ce faquin d’Argante. Reposez-vous sur moi.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur, les violences en ce pays ne sont guère souffertes.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Je me moque de tout, et je n’ai rien à perdre.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il se tiendra sur ses gardes, assurément ; il a des parents, des amis et des domestiques, dont il se fera un secours contre votre ressentiment.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>C’est ce que je demande, morbleu ! c’est ce que je demande ! <stage>Mettant l’épée à la main.</stage> Ah, tête ! ah, ventre ! Que ne le trouvé-je à cette heure avec tout son secours ! Que ne paroît-il à mes yeux au milieu de trente personnes ! Que ne les vois-je fondre sur moi les armes à la majn ! <stage>Se mettant en garde.</stage> Comment ! marauds, vous avez la hardiesse de vous attaquer à moi ! Allons, morbleu, tue ! <stage>Poussant de tous les côtés, comme s’il avoit plusieurs personnes à combattre.</stage> Point de quartier. Donnons. Ferme. Poussons. Bon pied, bon œil. Ah ! coquins ! ah ! canaille ! vous en voulez par là ! je vous en ferai tâter votre soûl. Soutenez, marauds, soutenez ! Allons ! A cette botte ! A cette autre ! <stage>Se tournant du côté d‘Argante et de Scapin.</stage> A celle-ci ! A celle-là ! Comment, vous reculez ! Pied ferme, morbleu ! pied ferme !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh ! eh ! eh ! monsieur, nous n’en sommes pas.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Voilà qui vous apprendra à vous oser jouer à moi !</p>
+
+<h3 id="p20">SCÈNE X. — ARGANTE, SCAPIN</h3>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh bien, vous voyez combien de personnes tuées pour deux cents pistoles. Or sus, je vous souhaite une bonne fortune.</p>
+
+<hstage><speaker>ARGANTE</speaker>, tout tremblant.</hstage>
+<p>Scapin.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Plaît-il ?</p>
+
+<pagenum num="308"/>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je me résous à donner les deux cents pistoles.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>J’en suis ravi pour l’amour de vous.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Allons le trouver ; je les ai sur moi.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous n’avez qu’à me les donner. Il ne faut pas, pour votre honneur, que vous paroissiez là, après avoir passé ici pour autre que ce que vous êtes ; et, de plus, je craindrois qu’en vous faisant connoître il n’allât s’aviser de vous demander davantage.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Oui ; mais j’aurois été bien aise de voir comme je donne mon argent.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Est-ce que vous vous défiez de moi ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Non pas ; mais...</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Parbleu ! monsieur, je suis un fourbe, ou je suis honnête homme, c’est l’un des deux. Est-ce que je voudrois vous tromper, et que, dans tout ceci, j’ai d’autre intérêt que le vôtre et celui de mon maître, à qui vous voulez vous allier ? Si je vous suis suspect, je ne me mêle plus de rien, et vous n’avez qu’à chercher dès cette heure qui accommodera vos affaires.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Tiens donc.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non, monsieur, ne me confiez point votre argent. Je serai bien aise que vous vous serviez de quelque autre.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Mon Dieu ! tiens.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non, vous dis-je, ne vous fiez point à moi. Que sait-on si je ne veux point vous attraper votre argent ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Tiens, te dis-je ; ne me fais point contester davantage. Mais songe à bien prendre tes sûretés avec lui.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Laissez-moi faire ; il n’a pas affaire à un sot.</p>
+
+<pagenum num="309"/>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je vais t’attendre chez moi.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je ne manquerai pas d’y aller. <stage>Seul.</stage> Et un. Je n’ai qu’à chercher l’autre. Ah ! ma foi, le voici. Il semble que le ciel, l’un après l’autre, les amène dans mes filets.</p>
+
+<h3 id="p21">SCÈNE XI. — GÉRONTE, SCAPIN</h3>
+
+<hstage><speaker>SCAPIN</speaker>, faisant semblant de ne point voir Géronte.</hstage>
+<p>O ciel ! ô disgrâce imprévue ! ô misérable père ! Pauvre Géronte, que feras-tu ?</p>
+
+<hstage><speaker>GÉRONTE</speaker>, à part.</hstage>
+<p>Que dit-il là de moi, avec ce visage affligé ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>N’y a-t-il personne qui puisse me dire où est le seigneur Géronte ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Qu’y a-t-il, Scapin ?</p>
+
+<hstage><speaker>SCAPIN</speaker>, courant sur le théâtre sans vouloir entendre ni voir Géronte.</hstage>
+<p>Où pourrai-je le rencontrer pour lui dire cette infortune ?</p>
+
+<hstage><speaker>GÉRONTE</speaker>, arrêtant Scapin.</hstage>
+<p>Qu’est-ce que c’est donc ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>En vain je cours de tous côtés pour le pouvoir trouver.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Me voici.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il faut qu’il soit caché en quelque endroit qu’on ne puisse point deviner.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, arrêtant Scapin.</hstage>
+<p>Holà ! Es-tu aveugle, que tu ne me vois pas ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ah ! monsieur, il n’y a pas moyen de vous rencontrer.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Il y a une heure que je suis devant toi. Qu’est-ce que c’est donc qu’il y a ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur...</p>
+
+<pagenum num="310"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Quoi ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Monsieur votre fils...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Eh bien, mon fils...</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Est tombé dans une disgrâce la plus étrange du monde.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Et quelle ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je l’ai trouvé tantôt tout triste de je ne sais quoi que vous lui avez dit, où vous m’avez mêlé assez mal à propos ; et, cherchant à divertir cette tristesse, nous nous sommes allés promener sur le port. Là, entre autres plusieurs choses, nous avons arrêté nos yeux sur une galère turque assez bien équipée. Un jeune Turc de bonne mine nous a invités d’y entrer, et nous a présenté la main. Nous y avons passé. Il nous a fait mille civilités, nous a donné la collation, où nous avons mangé des fruits les plus excellents qui se puissent voir, et bu du vin que nous avons trouvé le meilleur du monde.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Qu’y a-t-il de si affligeant à tout cela ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Attendez, monsieur, nous y voici. Pendant que nous mangions, il a fait mettre la galère en mer, et, se voyant éloigné du port, il m’a fait mettre dans un esquif, et m’envoie vous dire que si vous ne lui envoyez pas par moi, tout à l’heure, cinq cents écus, il va vous emmener votre fils en Alger.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Comment, diantre ! cinq cents écus !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui, monsieur ; et, de plus, il ne m’a donné pour cela que deux heures.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ah ! le pendard de Turc ! m’assassiner de la façon !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>C’est à vous, monsieur, d’aviser promptement aux moyens de sauver des fers un fils que vous aimez avec tant de tendresse.</p>
+
+<pagenum num="311"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Que diable alloit-il faire dans cette galère<noteref noteid="note.311.1"/> ?</p>
+
+<notes>
+  <note id="note.311.1">
+    <p>L’idée de cette scène si comique et si naturelle est empruntée au <i>Pédant joué</i>, de Cyrano de Bergerac. (F. L.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il ne songeoit pas à ce qui est arrivé.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Va-t’en, Scapin, va-t’en vite dire à ce Turc que je vais envoyer la justice après lui.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>La justice en pleine mer ! Vous moquez-vous des gens ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Que diable alloit-il faire dans cette galère ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Une méchante destinée conduit quelquefois les personnes.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Il faut, Scapin, il faut que tu fasses ici l’action d’un serviteur fidèle.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Quoi, monsieur ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Que tu ailles dire à ce Turc qu’il me renvoie mon fils, et que tu te mettes à sa place jusqu’à ce que j’aie amassé la somme qu’il demande.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh ! monsieur, songez-vous à ce que vous dites ? et vous figurez-vous que ceTurc ait si peu de sens que d’aller recevoir un misérable comme moi à la place de votre fils ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Que diable alloit-il faire dans cette galère ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Il ne devinoit pas ce malheur. Songez, monsieur, qu’il ne m’a donné que deux heures.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tu dis qu’il demande...</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Cinq cents écus.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Cinq cents écus ! N’a-t-il point de conscience ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vraiment oui, de la conscience à un Turc !</p>
+
+<pagenum num="312"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Sait-il bien ce que c’est que cinq cents écus ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui, monsieur ; il sait que c’est mille cinq cents livres.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Croit-il, le traître, que mille cinq cents livres se trouvent dans le pas d’un cheval ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ce sont des gens qui n’entendent point de raison,</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mais que diable alloit-il faire à cette galère ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>C’est vrai. Mais quoi ! on ne prévoyoit pas les choses. De grâce, monsieur, dépêchez !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tiens, voilà la clef de mon armoire.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Bon.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tu l’ouvriras.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tu trouveras une grosse clef du côté gauche, qui est celle de mon grenier.</p>
+
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tu iras prendre toutes les hardes qui sont dans cette grande manne, et tu les vendras aux fripiers pour aller racheter mon fils.</p>
+
+<hstage><speaker>SCAPIN</speaker>, en lui rendant la clef.</hstage>
+<p>Eh ! monsieur, rêvez-vous ? Je n’aurois pas cent francs de tout ce que vous dites ; et, de plus, vous savez le peu de temps qu’on m’a donné.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mais que diable alloit-il faire à cette galère ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oh ! que de paroles perdues ! Laissez là cette galère, et songez que le temps presse, et que vous courez risque de perdre votre fils. Hélas ! mon pauvre maître ! peut-être que je ne te <pagenum num="313"/>verrai de ma vie, et qu’à l’heure que je parle on t’emmène esclave en Alger. Mais le ciel me sera témoin que j’ai fait pour toi tout ce que j’ai pu, et que, si tu manques à être racheté, il n’en faut accuser que le peu d’amitié d’un père.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Attends, Scapin, je m’en vais quérir cette somme.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Dépêchez donc vite, monsieur ; je tremble que l’heure ne sonne.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>N’est-ce pas quatre cents écus que tu dis ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non. Cinq cents écus.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Cinq cents écus !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Que diable alloit-il faire à cette galère ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous avez raison ; mais hâtez-vous.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>N’y avoit-il point d’autre promenade ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Cela est vrai ; mais faites promptement.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ah ! maudite galère !</p>
+
+<hstage><speaker>SCAPIN</speaker>, à part.</hstage>
+<p>Cette galère lui tient au cœur.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tiens, Scapin, je ne me souvenois pas que je viens justement de recevoir cette somme en or, et je ne croyois pas qu’elle dût m’être sitôt ravie. <stage>Tirant sa bourse de sa poche et la présentant à Scapin.</stage> Tiens, va-t’en racheter mon fils.</p>
+
+<hstage><speaker>SCAPIN</speaker>, tendant la main.</hstage>
+<p>Oui, monsieur.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, retenant sa bourse, qu’il fait semblant de vouloir donner à Scapin.</hstage>
+<p>Mais dis à ce Turc que c’est un scélérat !</p>
+
+<pagenum num="314"/>
+
+<hstage><speaker>SCAPIN</speaker>, tendant encore la main.</hstage>
+<p>Oui.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, recommençant la même action.</hstage>
+<p>Un infâme !</p>
+
+<hstage><speaker>SCAPIN</speaker>, tendant toujours la main.</hstage>
+<p>Oui.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, de même.</hstage>
+<p>Un homme sans foi, un voleur !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Laissez-moi faire.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, de même.</hstage>
+<p>Qu’il me tire cinq cents écus contre toute sorte de droit !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, de même.</hstage>
+<p>Que je ne les lui donne ni à la mort ni à la vie !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, de même.</hstage>
+<p>Et que, si jamais je l’attrape, je saurai me venger de lui !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, remettant sa bourse dans sa poche et s’en allant.</hstage>
+<p>Va, va vite requérir mon fils.</p>
+
+<hstage><speaker>SCAPIN</speaker>, courant après Géronte.</hstage>
+<p>Holà, monsieur !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Quoi ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Où est donc cet argent ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ne te l’ai-je pas donné ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non, vraiment ; vous l’avez remis dans votre poche.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ah ! c’est la douleur qui me trouble l’esprit.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je le vois bien.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Que diable alloit-il faire dans cette galère ! Ah ! maudite galère ! traître de Turc ! à tous les diables !</p>
+
+<pagenum num="315"/>
+
+<hstage><speaker>SCAPIN</speaker>, seul.</hstage>
+<p>Il ne peut digérer les cinq cents écus que je lui arrache ; mais il n’est pas quitte envers moi ; et je veux qu’il me paye en une autre monnaie l’imposture qu’il m’a faite auprès de son fils.</p>
+
+<h3 id="p22">SCÈNE XII. — OCTAVE, LÉANDRE, SCAPIN</h3>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Eh bien, Scapin, as-tu réussi pour moi dans ton entreprise ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>As-tu fait quelque chose pour tirer mon amour de la peine où il est ?</p>
+
+<hstage><speaker>SCAPIN</speaker>, à Octave.</hstage>
+<p>Voilà deux cents pistoles que j’ai tirées de votre père.</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Ah ! que tu me donnes de joie !</p>
+
+<hstage><speaker>SCAPIN</speaker>, à Léandre.</hstage>
+<p>Pour vous, je n’ai pu faire rien.</p>
+
+<hstage><speaker>LÉANDRE</speaker>, voulant s’en aller.</hstage>
+<p>Il faut donc que j’aille mourir ; et je n’ai que faire de vivre, si Zerbinette m’est ôtée.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Holà ! holà ! tout doucement. Comme diantre vous allez vite !</p>
+
+<hstage><speaker>LÉANDRE</speaker>, se retournant.</hstage>
+<p>Que veux-tu que je devienne ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Allez, j’ai votre affaire ici.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Ah ! tu me redonnes la vie.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Mais à condition que vous me permettrez, à moi, une petite vengeance contre votre père, pour le tour qu’il m’a fait.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Tout ce que tu voudras.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous me le promettez devant témoin ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Tenez, voilà cinq cents écus.</p>
+
+<pagenum num="316"/>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Allons-en promptement acheter celle que j’adore<noteref noteid="note.316.1"/></p>
+
+<notes>
+  <note id="note.316.1">
+    <p>Acte bien tissu et bien rempli, dont toutes les scènes, habilement liées entre elles, forment un ensemble où rien ne languit. (Auger.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p23">ACTE TROISIÈME</h2>
+
+<h3 id="p24">SCÈNE I. — ZERBINETTE, HYACINTE, SCAPIN, SYLVESTRE</h3>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Oui, vos amants ont arrêté entre eux que vous fussiez ensemble ; nous nous acquittons de l’ordre qu’il nous ont donné.</p>
+
+<hstage><speaker>HYACINTHE</speaker>, à Zerbinette.</hstage>
+<p>Un tel ordre n’a rien qui ne me soit fort agréable. Je reçois avec joie une compagne de la sorte ; et il ne tiendra pas à moi que l’amitié qui est entre les personnes que nous aimons ne se répande entre nous deux.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>J’accepte la proposition, et ne suis point personne à reculer lorsqu’on m’attaque d’amitié.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Et lorsque c’est d’amour qu’on vous attaque ?</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Pour l’amour, c’est une autre chose ; on y court un peu plus de risque, et je n’y suis pas si hardie.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous l’êtes, que je crois, contre mon maître maintenant ; et ce qu’il vient de faire pour vous doit vous donner du cœur pour répondre comme il faut à sa passion.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Je ne m’y fie encore que de la bonne sorte ; et ce n’est pas assez pour m’assurer<noteref noteid="note.316.2"/> entièrement, que ce qu’il vient de faire. J’ai l’humeur enjouée, et sans cesse je ris ; mais, tout en riant, je suis sérieuse sur de certains chapitres ; et ton maître s’abusera, s’il croit qu’il lui suffise de m’avoir achetée, pour me voir toute à lui. Il doit lui en coûter autre chose que de l’argent ; et, pour répondre à son amour de la manière qu’il <pagenum num="317"/>souhaite, il me faut un don de sa foi, qui soit assaisonné de certaines cérémonies qu’on trouve nécessaires.</p>
+
+<notes>
+  <note id="note.316.2">
+    <p>Dans le sens de rassurer, donner de la confiance, de l’assurance, de la sécurité. (Auger.)</p>
+  </note>
+</notes>
+
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>C’est là aussi comme il l’entend. Il ne prétend à vous qu’en tout bien et en tout honneur ; et je n’aurois pas été homme à me mêler de cette affaire, s’il avoit une autre pensée.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>C’est ce que je veux croire, puisque vous me le dites ; mais, du côté du père, j’y prévois des empêchements.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Nous trouverons moyen d’accommoder les choses.</p>
+
+<hstage><speaker>HYACINTE</speaker>, à Zerbinette.</hstage>
+<p>La ressemblance de nos destins doit contribuer encore à faire naître notre amitié ; et nous nous voyons toutes deux dans les mêmes alarmes, toutes deux exposées à la même infortune.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Vous avez cet avantage au moins, que vous savez de qui vous êtes née, et que l’appui de vos parents, que vous pouvez faire connoître, est capable d’ajuster tout, peut assurer votre bonheur et faire donner le consentement au mariage qu’on trouve fait. Mais, pour moi, je ne rencontre aucun secours dans ce que je puis être ; et l’on me voit dans un état qui n’adoucira pas les volontés d’un père qui ne regarde que le bien.</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>Mais aussi avez-vous cet avantage, que l’on ne tente point, par un autre parti, celui que vous aimez.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Le changement du cœur d’un amant n’est pas ce qu’on peut le plus craindre. On se peut naturellement croire assez de mérite pour garder sa conquête ; et ce que je vois de plus redoutable dans ces sortes d’affaires, c’est la puissance paternelle, auprès de qui tout le mérite ne sert de rien.</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>Hélas ! pourquoi faut-il que de justes inclinations se trouvent traversées ? La douce chose que d’aimer, lorsque l’on ne voit point d’obstacles à ces aimables chaînes dont deux cœurs se lient ensemble !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Vous vous moquez ! la tranquillité en amour est un calme <pagenum num="318"/>désagréable. Un bonheur tout uni nous devient ennuyeux ; il faut du haut et du bas dans la vie ; et les difficultés qui se mêlent aux choses réveillent les ardeurs, augmentent les plaisirs.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Mon Dieu, Scapin, fais-nous un peu ce récit, qu’on m’a dit qui est si plaisant, du stratagème dont tu t’es avisé pour tirer de l’argent de ton vieillard avare. Tu sais qu’on ne perd point sa peine lorsqu’on me fait un conte, et que je le paye assez bien par la joie qu’on m’y voit prendre.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Voilà Sylvestre, qui s’en acquittera aussi bien que moi. J’ai dans la tête certaine petite vengeance dont je vais goûter le plaisir.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Pourquoi, de gaieté de cœur, veux-tu chercher à t’attirer de méchantes affaires ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je me plais à tenter des entreprises hasardeuses.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Je te l’ai déjà dit, tu quitterois le dessein que tu as, si tu m’en voulois croire.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui ; mais c’est moi que j’en croirai.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>A quoi diable te vas-tu amuser ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>De quoi diable te mets-tu en peine ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>C’est que je vois que, sans nécessité, tu vas courir risque de t’attirer une venue de coups de bâton.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh bien, c’est aux dépens de mon dos, et non pas du tien.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Il est vrai que tu es maître de tes épaules, et tu en disposeras, comme il te plaira.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ces sortes de périls ne m’ont jamais arrêté ; et je hais ces cœurs pusillanimes qui, pour trop prévenir les suites des choses, n’osent rien entreprendre.</p>
+
+<pagenum num="319"/>
+
+<hstage><speaker>ZERBINETTE</speaker>, à Scapin.</hstage>
+<p>Nous aurons besoin de tes soins.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Allez. Je vous irai bientôt rejoindre. Il ne sera pas dit qu’impunément on m’ait mis en état de me trahir moi-même et de découvrir des secrets qu’il étoit bon qu’on ne sût pas.</p>
+
+<h3 id="p25">SCÈNE II. — GÉRONTE, SCAPIN</h3>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Eh bien, Scapin, comment va l’affaire de mon fils ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Votre fils, monsieur, est en lieu de sûreté ; mais vous courez maintenant, vous, le péril le plus grand du monde, et je voudrois, pour beaucoup, que vous fussiez dans votre logis.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Comment donc ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>A l’heure que je parle, on vous cherche de toutes parts pour vous tuer.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Moi ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Et qui ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Le frère de cette personne qu’Octave a épousée. Il croit que le dessein que vous avez de mettre votre fille à la place que tient sa sœur, est ce qui vous pousse le plus fort à faire rompre leur mariage ; et, dans cette pensée, il a résolu hautement de décharger son désespoir sur vous et de vous ôter la vie pour venger son honneur. Tous ses amis, gens d’épée comme lui, vous cherchent de tous les côtés, et demandent de vos nouvelles. J’ai vu même, deçà et delà, des soldats de sa compagnie qui interrogent ceux qu’ils trouvent et occupent par pelotons toutes les avenues de votre maison : de sorte que vous ne sauriez aller chez vous, vous ne sauriez faire un pas, ni à droite, ni à gauche, que vous ne tombiez dans leurs mains.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Que feraî-je, mon pauvre Scapin ?</p>
+
+<pagenum num="320"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je ne sais pas, monsieur, et voici une étrange affaire. Je tremble pour vous depuis les pieds jusqu’à la tête, et... Attendez. <stage>Scapin fait semblant d’aller voir au fond du théâtre s’il n’y a personne.</stage></p>
+
+<hstage><speaker>GÉRONTE</speaker>, en tremblant.</hstage>
+<p>Eh ?</p>
+
+<hstage><speaker>SCAPIN</speaker>, revenant.</hstage>
+<p>Non, non, non, ce n’est rien.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ne saurois-tu trouver quelque moyen pour me tirer de peine ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>J’en imagine bien un ; mais je courrois risque, moi, de me faire assommer.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Eh ! Scapin, montre-toi serviteur zélé. Ne m’abandonne pas, je te prie.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je le veux bien. J’ai une tendresse pour vous qui ne sauroit souffrir que je vous laisse sans secours.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tu en seras récompensé, je t’assure ; et je te promets cet habit-ci quand je l’aurai un peu usé.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Attendez. Voici une affaire que je me suis trouvée fort à propos pour vous sauver. Il faut que vous vous mettiez dans ce sac, et que...</p>
+
+<hstage><speaker>GÉRONTE</speaker>, croyant voir quelqu’un.</hstage>
+<p>Ah !</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non, non, non, non, ce n’est personne. Il faut, dis-je, que vous vous mettiez là dedans, et que vous gardiez de remuer en aucune façon. Je vous chargerai sur mon dos comme un paquet de quelque chose, et je vous porterai ainsi au travers de vos ennemis jusque dans votre maison, où quand nous serons une fois, nous pourrons nous barricader et envoyer quérir main-forte contre la violence.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>L’invention est bonne.</p>
+
+<pagenum num="321"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>La meilleure du monde. Vous allez voir. <stage>A part.</stage> Tu me payeras l’imposture.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Eh ?</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Je dis que vos ennemis seront bien attrapés. Mettez-vous bien jusqu’au fond ; et surtout, prenez garde de ne vous point montrer et de ne branler pas, quelque chose qui puisse arriver.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Laisse-moi faire ; je saurai me tenir...</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Cachez-vous ; voici un spadassin qui vous cherche. <stage>En contrefaisant sa voix.</stage> « Quoi ! jé n’aurai pas l’abantage dé tuer cé Géronte, et quelqu’un, par charité, né m’enseignera pas où il est ! » <stage>A Géronte avec sa voix ordinaire.</stage> Ne branlez pas. « Cadédis, jé lé trouberai, sé cachât-il au centre de la terre ! » <stage>A Géronte avec son ton naturel.</stage> Ne vous montrez pas. <stage>Tout le langage gascon supposé de celui qu’il contrefait, et le reste de lui.</stage> « Oh ! l’homme au sac ! » Monsieur ? « Jé té vaille un louis, et m’enseigne où put être Géronte. » Vous cherchez le seigneur Géronte ? « Oui, mordi, jé lé cherche. » Et pour quelle affaire, monsieur ? « Pour quelle affaire ? » Oui. « Jé beux, cadédis, lé faire mourir sous les coups dé vaton. » Oh ! monsieur, les coups de bâton ne se donnent point à des gens comme lui, et ce n’est pas un homme à être traité de la sorte. « Qui ? cé fat dé Géronte, cé maraud, cé vélître ? » Le seigneur Géronte, monsieur, n’est ni fat, ni maraud, ni belître ; et vous devriez, s’il vous plaît, parler d’une autre façon. « Comment ! tu mé traites, à moi, avec cette hautur ? » Je défends, comme je dois, un homme d’honneur qu’on offense. « Est-ce que tu es des amis dé cé Géronte ? » Oui, monsieur, j’en suis. « Ah ! cadédis, tu es dé ses amis : à la vonne hure ! <stage>Donnant plusieurs coups de bâton sur le sac.</stage> « Tiens, boilà cé qué jé té vaille pour lui. » <stage>Criant comme s’il recevait les coups de bâton.</stage> Ah ! ah ! ah ! ah ! monsieur ! Ah ! ah ! monsieur, tout beau ! Ah ! doucement ! Ah ! ah ! ah ! « Va, porte-lui cela dé ma part. Adiusias. » Ah ! diable soit le Gascon ! Ah !</p>
+
+<hstage><speaker>GÉRONTE</speaker>, mettant la tête hors du sac.</hstage>
+<p>Ah ! Scapin, je n’en puis plus...</p>
+
+<pagenum num="322"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ah ! monsieur, je suis tout moulu, et les épaules me font un mal épouvantable.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Comment ! c’est sur les miennes qu’il a frappé.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Nénhi, monsieur, c’étoit sur mon dos qu’il frappoit.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Que veux-tu dire ? J’ai bien senti les coups et les sens bien encore.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Non, vous dis-je ; ce n’est que le bout de son bâton qui a été jusque sur vos épaules.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tu devois donc te retirer un peu plus loin pour m’épargner.</p>
+
+<hstage><speaker>SCAPIN</speaker>, lui remettant la tête dans le sac.</hstage>
+<p>Prenez garde ; en voici un autre qui a la mine d’un étranger. <stage>Cet endroit est le même que celui du Gascon pour le changement de langage et le jeu de théâtre.</stage> « Parti, moi courir comme une Basque, et moi ne pouvre point troufair de tout le jour sti diable de Gironte. » Cachez-vous bien. « Dites-moi un peu, fous, montsir l’homme, s’il ve plaît, fous safoir point où l’est sti Gironte que moi cherchair ? » Non, monsieur, je ne sais point où est Géronte. « Dites-moi-le, fous, frenchemente ; moi li fouloir pas grande chose à lui. L’est seulemnente pour lui donneir un petite régale sur le dos d’un douzaine de coups de bâtonne, et de trois ou quatre petites coups d’épée au trafers de son poitrine. » Je vous assure, monsieur, que je ne sais pas où il est. « Il me semble que ji foi remuair quelque chose dans sti sac. » Pardonnez-moi, monsieur. « Li est assurément quelque histoire là tetans. » Point du tout, monsieur. « Moi l’avoir enfie de tonner un coup d’épée dans sti sac. » Ah ! monsieur, gardez-vous-en bien ! « Montre-le-moi un peu, fous, ce que c’être là. » Tout beau, monsieur ! « Quement, tout beau ! » Vous n’avez que faire de vouloir voir ce que je porte. « Et moi, je le fouloir voir, moi ! » Vous ne le verrez point. « Ah ! que de badinemente ! » Ce sont hardes qui m’appartiennent. « Montre-moi, fous, te dis-je. » Je n’en ferai rien. « Toi ne faire rien ? » Non. « Moi pailler de ste bâtonne dessus les épaules de toi. » Je me moque de cela. « Ah ! toi faire le trôle ! » <stage>Donnant des coups de bâton sur le sac, et criant comme s’il les recevoit.</stage> Ahi ! ahi ! ahi ! Ah ! monsieur, ah ! ah ! ah ! ah ! <pagenum num="323"/>« Jusqu’au refoir : l’être là un petit leçon pour li apprendre à toi à parler insolentemente. » Ah ! peste soit du baragouineux ! Ah !</p>
+
+<hstage><speaker>GÉRONTE</speaker>, sortant sa tête du sac.</hstage>
+<p>Ah ! je suis roué...</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ah ! je suis mort...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Pourquoi diantre faut-il qu’ils frappent sur mon dos ?</p>
+
+<hstage><speaker>SCAPIN</speaker>, lui remettant la tête dans le sac.</hstage>
+<p>Prenez garde ; voici une demi-douzaine de soldats tout ensemble. <stage>Contrefaisant la voix de plusieurs personnes.</stage> « Allons, tâchons à trouver Géronte, cherchons partout. N’épargnons point nos pas. Courons toute la ville. N’oublions aucun lieu. Furetons de tous les côtés. Par où irons-nous ? Tournons par là. Non, par ici. A gauche. A droite, Nenni. Si fait. » <stage>A Géronte, avec sa voix ordinaire.</stage> Cachez-vous bien. « Ah ! camarades, voici son valet. Allons, coquin, il faut que tu nous enseignes où est ton maître. » Eh ! messieurs, ne me maltraitez point. « Allons, dis-nous où il est. Parle. Hâte-toi. Expédions. Dépêche vite. Tôt. » Eh ! messieurs, doucement. <stage>Géronte met doucement la tête hors du sac, et aperçoit la fourberie de Scapin.</stage> « Si tu ne nous fais trouver ton maître tout à l’heure, nous allons faire pleuvoir sur toi une ondée de coups de bâton. » J’aime mieux souffrir toute chose que de vous découvrir mon maître. « Nous allons t’assommer. » Faites tout ce qu’il vous plaira. « Tu as envie d’être battu ? » Je ne trahirai point mon maître. » Ah ! tu veux en tâter ? Voilà... » Oh ! <stage>Comme il est près de frapper, Géronte sort du sac, et Scapin s’enfuit.</stage></p>
+
+<hstage><speaker>GÉRONTE</speaker>, seul.</hstage>
+<p>Ah ! infâme ! ah ! traître ! ah ! scélérat ! C’est ainsi que tu m’assassines<noteref noteid="note.323.1"/> !</p>
+
+<notes>
+  <note id="note.323.1">
+    <p>On doit convenir que cette scène est d’un genre de bouffonnerie bien bas, bien ignoble. Molière l’a prise dans le recueil des œuvres de Tabarin, bouffon du commencement du dix-septième siècle, dont les plaisanteries grossières attiraient le peuple autour des tréteaux d’un charlatan nommé Mondor, qui vendait du baume sur le pont Neuf. Ce n’est donc pas sans raison que Boileau a reproché à Molière d’avoir à <i>Térence allié Tabarin</i>. (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p26">SCÈNE III. — ZERBINETTE, GÉRONTE</h3>
+
+<hstage><speaker>ZERBINETTE</speaker>, riant, sans voir Géronte.</hstage>
+<p>Ah ! ah ! Je veux prendre un peu l’air.</p>
+
+<pagenum num="324"/>
+
+<hstage><speaker>GÉRONTE</speaker>, à part, sans voir Zerbinette.</hstage>
+<p>Tu me le payeras, je te jure.</p>
+
+<hstage><speaker>ZERBINETTE</speaker>, sans voir Géronte.</hstage>
+<p>Ah ! ah ! ah ! ah ! La plaisante histoire ! et la bonne dupe que ce vieillard !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Il n’y a rien de plaisant à cela ; et vous n’avez que faire d’en rire.</p>
+
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Quoi ? Que voulez-vous dire, monsieur ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je veux dire que vous ne devez pas vous moquer de moi.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>De vous ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Comment ! qui songe à se moquer de vous ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Pourquoi venez-vous ici me rire au nez ?</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Cela ne vous regarde point, et je ris toute seule d’un conte qu’on vient de faire, le plus plaisant qu’on puisse entendre. Je ne sais pas si c’est parce que je suis intéressée dans la chose ; mais je n’ai jamais trouvé rien de si drôle qu’un tour qui vient d’être joué par un fils à son père pour en attraper de l’argent.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Par un fils à son père, pour en attraper de l’argent ?</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Oui. Pour peu que vous me pressiez, vous me trouverez assez disposée à vous dire l’affaire ; et j’ai une démangeaison naturelle à faire part des contes que je sais.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je vous prie de me dire cette histoire.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Je le veux bien. Je ne risquerai pas grand’chose à vous la dire, et c’est une aventure qui n’est pas pour être longtemps secrète. La destinée a voulu que je me trouvasse parmi une bande de ces personnes qu’on appelle Égyptiens, et qui, <pagenum num="325"/>rôdant de province en province, se mêlent de dire la bonne fortune, et quelquefois de beaucoup d’autres choses. En arrivant dans cette ville, un jeune homme me vit et conçut pour moi de l’amour. Dès ce moment, il s’attache à mes pas ; et le voilà d’abord comme tous les jeunes gens, qui croient qu’il n’y a qu’à parler et qu’au moindre mot qu’ils nous disent leurs affaires sont faites ; mais il trouva une fierté qui lui fit un peu corriger ses premières pensées. Il fit connoître sa passion aux gens qui me tenoient, et il les trouva disposés à me laisser à lui moyennant quelque somme. Mais le mal de l’affaire étoit que mon amant se trouvoit dans l’état où l’on voit très souvent la plupart des fils de famille, c’est-à-dire qu’il étoit un peu dénué d’argent. Il a un père qui, quoique riche, est un avaricieux fieffé, le plus vilain homme du monde. Attendez. Ne me saurois-je souvenir de son nom ? Haie ! Aidez-moi un peu. Ne pouvez-vous me nommer quelqu’un de cette ville qui soit connu pour être avare au dernier point ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Il y a à son nom du ron... ronte... Or... Oronte... Non. Gé... Géronte. Oui, Géronte, justement ; voilà mon vilain ; je l’ai trouvé : c’est ce ladre-là que je dis. Pour venir à notre conte, nos gens ont voulu aujourd’hui partir de cette ville ; et mon amant m’alloit perdre, faute d’argent, si, pour en tirer de son père, il n’avoit trouvé du secours dans l’industrie d’un serviteur qu’il a. Pour le nom du serviteur, je le sais à merveille. Il s’appelle Scapin ; c’est un homme incomparable, et il mérite toutes les louanges qu’on peut donner.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, à part.</hstage>
+<p>Ah ! coquin que tu es !</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Voici le stratagème dont il s’est servi pour attraper sa dupe. Ah ! ah ! ah ! ah ! Je ne saurois m’en souvenir, que je ne rie de tout mon cœur. Ah ! ah ! ah ! Il est allé trouver ce chien d’avare... ah ! ah ! ah ! et lui a dit qu’en se promenant sur le port avec son fils, hi ! hi ! ils avoient vu une galère turque, où on les avoit invités d’entrer ; qu’un jeune Turc leur y avoit donné la collation, ah ! que, tandis qu’ils mangeoient, on avoit mis la galère en mer, et que le Turc l’avoit renvoyé lui seul à terre dans un esquif, avec ordre de dire au père de son maître qu’il emmenoit son fils en Alger, s’il ne lui envoyoit <pagenum num="326"/>tout à l’heure cinq cents écus. Ah ! ah ! ah ! Voilà mon ladre, mon vilain, dans de furieuses angoisses ; et la tendresse qu’il a pour son fils fait un combat étrange avec son avarice. Cinq cents écus qu’on lui demande sont justement cinq cents coups de poignard qu’on lui donne. Ah ! ah ! ah ! Il ne peut se résoudre à tirer cette somme de ses entrailles ; et la peine qu’il souffre lui fait trouver cent moyens ridicules pour ravoir son fils. Ah ! ah ! ah ! Il veut envoyer la justice en mer après la galère du Turc. Ah ! ah ! ah ! Il sollicite son valet de s’aller offrir à tenir la place de son fils, jusqu’à ce qu’il ait amassé l’argent qu’il n’a pas envie de donner. Ah ! ah ! ah ! Il abandonne, pour faire les cinq cents écus, quatre ou cinq vieux habits qui n’en valent pas trente. Ah ! ah ! ah ! Le valet lui fait comprendre à tous coups l’impertinence de ses propositions ; et chaque réflexion est douloureusement accompagnée d’un : « Mais que diable alloit-il faite à cette galère ? Ah ! maudite galère ! Traître de Turc ! » Enfin, après plusieurs détours, après avoir longtemps gémi et soupiré... Mais il me semble que vous ne riez point de mon conte ; qu’en dites-vous ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je dis que le jeune homme est un pendard, un insolent, qui sera puni par son père du tour qu’il lui a fait ; que l’Égyptienne est une malavisée, une impertinente, de dire des injures à un homme d’honneur qui saura lui apprendre à venir ici débaucher les enfants de famille ; et que le valet est un scélérat, qui sera par Géronte envoyé au gibet avant qu’il soit demain.</p>
+
+<h3 id="p27">SCÈNE IV. — ZERBINETTE, SYLVESTRE</h3>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Où est-ce donc que vous vous échappez ? Savez-vous bien que vous venez de parler là au père de votre amant ?</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Je viens de m’en douter, et je me suis adressée à lui-même, sans penser, pour lui conter son histoire.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Comment, son histoire ?</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Oui. J’étois toute remplie du conte, et je brûlois de le redire. Mais qu’importe ? Tant pis pour lui. Je ne vois pas que les choses, pour nous, en puissent être ni pis ni mieux.</p>
+
+<pagenum num="327"/>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Vous aviez grande envie de babiller ; et c’est avoir bien de la langue que de ne pouvoir se taire de ses propres affaires.</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>N’auroit-il pas appris cela de quelque autre ?</p>
+
+<h3 id="p28">SCÈNE V. — ARGANTE, ZERBINETTE, SYLVESTRE</h3>
+
+<hstage><speaker>ARGANTE</speaker>, derrière le théâtre.</hstage>
+<p>Holà ! Sylvestre.</p>
+
+<hstage><speaker>SYLVESTRE</speaker>, à Zerbinette.</hstage>
+<p>Rentrez dans la maison. Voilà mon maître qui m’appelle.</p>
+
+<h3 id="p29">SCÈNE VI. — ARGANTE, SYLVESTRE</h3>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Vous vous êtes donc accordés, coquins, vous vous êtes accordés, Scapin, vous et mon fils, pour me fourber ; et vous croyez que je l’endure ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Ma foi, monsieur, si Scapin vous fourbe, je m’en lave les mains, et vous assure que je n’y trempe en aucune façon.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Nous verrons cette affaire, pendard, nous verrons cette affaire, et je ne prétends pas qu’on me fasse passer la plume par le bec<noteref noteid="note.327.1"/>.</p>
+
+<notes>
+  <note id="note.327.1">
+    <p>Pour empêcher les oisons de traverser les haies et d’entrer dans les jardins qu’elles entourent, on passe une plume par les deux ouvertures qui sont à la partie supérieure de leur bec. De là le proverbe <i>passer la plume par le bec</i>. (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p30">SCÈNE VII. — GÉRONTE, ARGANTE, SYLVESTRE</h3>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ah ! seigneur Argante, vous me voyez accablé de disgrâce.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Vous me voyez aussi dans un accablement horrible.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Le pendard de Scapin, par une fourberie, m’a attrapé cinq cents écus.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Le même pendard de Scapin, par une fourberie aussi, m’a attrapé deux cents pistoles.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Il ne s’est pas contenté de m’attraper cinq cents écus ; il <pagenum num="328"/>m’a traité d’une manière que j’ai honte de dire. Mais il me la payera.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je veux qu’il me fasse raison de la pièce qu’il m’a jouée.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Et je prétends faire de lui une vengeance exemplaire.</p>
+
+<hstage><speaker>SYLVESTRE</speaker>, à part.</hstage>
+<p>Plaise au ciel que, dans tout ceci, je n’aie point ma part !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mais ce n’est pas encore tout, seigneur Argante ; et un malheur nous est toujours l’avant-coureur d’un autre. Je me réjouissois aujourd’hui de l’espérance d’avoir ma fille, dont je faisois toute ma consolation ; et je viens d’apprendre de mon homme qu’elle est partie il y a longtemps de Tarente, et qu’on y croit qu’elle a péri dans le vaisseau où elle s’embarqua.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Mais pourquoi, s’il vous plaît, la tenir à Tarente, et ne vous être pas donné la joie de l’avoir avec vous ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>J’ai eu mes raisons pour cela ; et des intérêts de famille m’ont obligé jusques ici à tenir fort secret ce second mariage. Mais que vois-je ?</p>
+
+<h3 id="p31">SCÈNE VIII. — ARGANTE, GÉRONTE, NÉRINE, SYLVESTRE</h3>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ah ! te voilà, nourrice ?</p>
+
+<hstage><speaker>NÉRINE</speaker>, se jetant aux genoux de Géronte.</hstage>
+<p>Ah ! seigneur Pandolphe, que...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Appelle-moi Géronte, et ne te sers plus de ce nom. Les raisons ont cessé qui m’avoient obligé à le prendre parmi vous à Tarente.</p>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Las ! que ce changement de nom nous a causé de troubles et d’inquiétudes dans les soins que nous avons pris de vous venir chercher ici.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Où est ma fille et sa mère ?</p>
+
+<pagenum num="329"/>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Votre fille, monsieur, n’est pas loin d’ici ; mais, avant que de vous la faire voir, il faut que je vous demande pardon de l’avoir mariée, dans l’abandonnement où, faute de vous rencontrer ; je me suis trouvée avec elle.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ma fille mariée ?</p>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Oui, monsieur.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Et avec qui ?</p>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Avec une jeune homme nommé Octave, fils d’un certain seigneur Argante.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>O ciel !</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Quelle rencontre !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mène-nous, mène-nous promptement où elle est.</p>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Vous n’avez qu’à entrer dans ce logis.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Passe devant. Suivez-moi, suivez-moi, seigneur Argante.</p>
+
+<hstage><speaker>SYLVESTRE</speaker>, seul</hstage>
+<p>Voilà une aventure qui est tout à fait surprenante<noteref noteid="note.329.1"/>.</p>
+
+<notes>
+  <note id="note.329.1">
+    <p>Cette aventure, <i>surprenante</i> si l’on veut, mais qui nous paraît à nous trop romanesque, se trouve dans le <i>Phormion</i> avec toutes ses circonstances. Les comédies latines sont presques toutes dénouées par de semblables événements. L’état de la société, chez les anciens, les rendait assez fréquents, et il était naturel que la scène les retraçât. Sur nos théâtres ce ne sont que des romans sans vérité et sans intérêt. (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p32">SCÈNE IX. — SCAPIN, SYLVESTRE</h3>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Eh bien, Sylvestre, que font nos gens ?</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>J’ai deux avis à te donner. L’un, que l’affaire d’Octave est accommodée. Notre Hyacinte s’est trouvée la fille du seigneur Géronte ; et le hasard a fait ce que la prudence des pères avoit délibéré. L’autre avis, c’est que les deux vieillards font contre toi des menaces épouvantables, et surtout le seigneur Géronte.</p>
+
+<pagenum num="330"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Cela n’est rien. Les menaces ne m’ont jamais fait mal ; et ce sont des nuées qui passent bien loin sur nos têtes.</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Prends garde à toi. Les fils se pourroient bien raccommoder avec les pères, et toi demeurer dans la nasse.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Laisse-moi faire, je trouverai moyen d’apaiser leur courroux, et...</p>
+
+<hstage><speaker>SYLVESTRE</speaker></hstage>
+<p>Retire-toi, les voilà qui sortent.</p>
+
+<h3 id="p33">SCÈNE X. — GÉRONTE, ARGANTE, HYACINTE, ZERBINETTE, NÉRINE, SYLVESTRE</h3>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Allons, ma fille, venez chez moi. Ma joie auroit été parfaite, si j’y avois pu voir votre mère avec vous.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Voici Octave tout à propos.</p>
+
+<h3 id="p34">SCÈNE XI. — ARGANTE, GÉRONTE, OCTAVE, HYACINTE, ZERBINETTE, NÉRINE, SYLVESTRE</h3>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Venez, mon fils, venez vous réjouir avec nous de l’heureuse aventure de votre mariage. Le ciel...</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Non, mon père, toutes vos propositions de mariage ne serviront de rien. Je dois lever le masque avec vous, et l’on vous a dit mon engagement.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Oui. Mais tu ne sais pas...</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Je sais tout ce qu’il faut savoir.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Je te veux dire que la fille du seigneur Géronte...</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>La fille du seigneur Géronte ne me sera jamais de rien.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>C’est elle...</p>
+
+<pagenum num="331"/>
+
+<hstage><speaker>OCTAVE</speaker>, à Géronte.</hstage>
+<p>Non, monsieur ; je vous demande pardon ; mes résolutions sont prises.</p>
+
+<hstage><speaker>SYLVESTRE</speaker>, à Octave.</hstage>
+<p>Écoutez...</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Non. Tais-toi. Je n’écoute rien.</p>
+
+<hstage><speaker>ARGANTE</speaker>, à Octave.</hstage>
+<p>Ta femme...</p>
+
+<hstage><speaker>OCTAVE</speaker></hstage>
+<p>Non, vous dis-je, mon père ; je mourrai plutôt que de quitter mon aimable Hyacinte. <stage>Traversant le théâtre pour se mettre à côté d’Hyacinte.</stage> Oui. Vous avez beau faire ; la voilà, celle à qui ma foi est engagée. Je l’aimerai toute ma vie, et je ne veux point d’autre femme.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Eh bien, c’est elle qu’on te donne. Quel diable d’étourdi qui suit toujours sa pointe !</p>
+
+<hstage><speaker>HYACINTE</speaker>, montrant Géronte.</hstage>
+<p>Oui, Octave, voilà mon père que j’ai trouvé ; et nous nous voyons hors de peine.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Allons chez moi ; nous serons mieux qu’ici pour nous entretenir.</p>
+
+<hstage><speaker>HYACINTE</speaker>, montrant Zerbinette.</hstage>
+<p>Ah ! mon père, je vous demande par grâce, que je ne sois point séparée de l’aimable personne que vous voyez. Elle a un mérite qui vous fera concevoir de l’estime pour elle, quand il sera connu de vous.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tu veux que je tienne chez moi une personne qui est aimée de ton frère, et qui m’a dit tantôt au nez mille sottises de moi-même !</p>
+
+<hstage><speaker>ZERBINETTE</speaker></hstage>
+<p>Monsieur, je vous prie de m’excuser. Je n’aurois pas parlé de la sorte, si j’avois su que c’était vous ; et je ne vous connoissois que de réputation.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Comment ! que de réputation ?</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>Mon père, la passion que mon frère a pour elle n’a rien de criminel, et je réponds de sa vertu.</p>
+
+<pagenum num="332"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Voilà qui est fort bien. Ne voudroit-on point que je mariasse mon fils avec elle ? Une fille inconnue, qui fait le métier de coureuse !</p>
+
+<h3 id="p35">SCÈNE XII. — ARGANTE, GÉRONTE, LÉANDRE, OCTAVE, HYACINTE, ZERBINETTE, NÉRINE, SYLVESTRE.</h3>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Mon père, ne vous plaignez point que j’aime une inconnue, sans naissance et sans bien. Ceux de qui je l’ai rachetée viennent de me découvrir qu’elle est de cette ville, et d’honnête famille ; que ce sont eux qui l’y ont dérobée à l’âge de quatre ans : et voici un bracelet qu’ils m’ont donné, qui pourra nous aider à trouver ses parents.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Hélas ! à voir ce bracelet, c’est ma fille que je perdis à l’âge que vous dites.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Votre fille ?</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Oui, ce l’est ; et j’y vois tous les traits qui m’en peuvent rendre assuré. Ma chère fille !...</p>
+
+<hstage><speaker>HYACINTE</speaker></hstage>
+<p>O ciel ! que d’aventures extraordinaires !</p>
+
+<h3 id="p36">SCÈNE XIII. — ARGANTE, GÉRONTE, LÉANDRE, OCTAVE, HYACINTE, ZERBINETTE, NÉRINE, SYLVESTRE, CARLE.</h3>
+
+<hstage><speaker>CARLE</speaker></hstage>
+<p>Ah ! messieurs, il vient d’arriver un accident étrange.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Quoi ?</p>
+
+<hstage><speaker>CARLE</speaker></hstage>
+<p>Le pauvre Scapin...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>C’est un coquin que je veux faire pendre.</p>
+
+<hstage><speaker>CARLE</speaker></hstage>
+<p>Hélas ! monsieur, vous ne serez pas en peine de cela. En passant contre un bâtiment, il lui est tombé sur la tête un marteau de tailleur de pierre, qui lui a brisé l’os et découvert <pagenum num="333"/>toute la cervelle. Il se meurt, et il a prié qu’on l’apportât ici, pour vous pouvoir parler avant que de mourir.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Où est-il ?</p>
+
+<hstage><speaker>CARLE</speaker></hstage>
+<p>Le voilà.</p>
+
+<h3 id="p37">SCÈNE XIV. — ARGANTE, GÉRONTE, LÉANDRE, OCTAVE, HYACINTE, ZERBINETTE, NÉRINE, SCAPIN, SYLVESTRE, CARLE.</h3>
+
+<hstage><speaker>SCAPIN</speaker>, apporté par deux hommes, et la tête entourée de linges, comme s’il avoit été blessé.</hstage>
+<p>Ahi ! ahi ! Messieurs, vous me voyez... ahi ! vous me voyez dans un étrange état. Ahi ! Je n’ai pas voulu mourir sans venir demander pardon à toutes les personnes que je puis avoir offensées. Ahi ! Oui, messieurs, avant que de rendre le dernier soupir, je vous conjure de tout mon cœur de vouloir me pardonner tout ce que je puis avoir fait, et principalement le seigneur Argante et le seigneur Géronte. Ahi !</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Pour moi, je te pardonne ; va, meurs en repos.</p>
+
+<hstage><speaker>SCAPIN</speaker>, à Géronte.</hstage>
+<p>Cest vous, monsieur, que j’ai le plus offensé par les coups de bâton que...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ne parle point davantage, je te pardonne aussi.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ç’a été une témérité bien grande à moi, que les coups de bâton que je...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Laissons cela.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>J’ai, en mourant, une douleur inconcevable des coups de bâton que...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mon Dieu ! tais-toi.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Les malheureux coups de bâton que je vous...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tais-toi, te dis-je ; j’oublie tout.</p>
+
+<pagenum num="334"/>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Hélas ! quelle bonté ! Mais est-ce de bon cœur, monsieur, que vous me pardonnez ces coups de bâton que...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Eh ! oui. Ne parlons plus de rien ; je te pardonne tout : voilà qui est fait.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ah ! monsieur, je me sens tout soulagé depuis cette parole.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui ; mais je te pardonne à la charge que tu mourras.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Comment, monsieur !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je me dédis de ma parole, si tu réchappes.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Ahi ! ahi ! Voilà mes foiblesses qui me reprennent.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Seigneur Géronte, en faveur de notre joie, il faut lui pardonner sans condition.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Soit.</p>
+
+<hstage><speaker>ARGANTE</speaker></hstage>
+<p>Allons souper ensemble, pour mieux goûter notre plaisir.</p>
+
+<hstage><speaker>SCAPIN</speaker></hstage>
+<p>Et moi, qu’on me porte au bout de la table, en attendant que je meure<noteref noteid="note.334.1"/>.</p>
+
+<notes>
+  <note id="note.334.1">
+    <p>Ce dernier acte est fort inférieur aux deux autres, dont le premier est excellent de tout point, et le second renferme des scènes de la plus folle gaieté. La pièce, malgré les défauts que nous avons relevés, n’en est pas moins une des farces les plus divertissantes qui soient au théâtre. (Auger.)</p>
+  </note>
+</notes>
+
+</page-sequence>
+ </page-sequences>
+</bml>

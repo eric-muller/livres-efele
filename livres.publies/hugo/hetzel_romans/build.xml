@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+
+    <book x='han_d_islande'/>
+    <book x='bug_jargal'/>
+    <book x='les_miserables'/>
+    <book x='quatrevingt_treize'/>
+    <book x='le_dernier_jour_d_un_condamne'/>
+    <book x='claude_gueux'/>
+    <book x='l_homme_qui_rit'/>
+    <book x='l_archipel_de_la_manche'/>
+    <book x='les_travailleurs_de_la_mer'/>
+    <book x='notre_dame_de_paris'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='hugo_romans_hetzel'/>
+  </target>
+
+  <target name='zipsources-book'/>
+
+</project>
+

@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='esquisses_venitiennes'/>
+    <book x='histoires_incertaines'/>
+    <book x='l_amphisbene'/>
+    <book x='l_illusion_heroique_de_tito_bassi'/>
+    <book x='la_canne_de_jaspe'/>
+    <book x='la_double_maitresse'/>
+    <book x='la_peur_de_l_amour'/>
+    <book x='le_bon_plaisir'/>
+    <book x='le_mariage_de_minuit'/>
+    <book x='les_vacances_d_un_jeune_homme_sage'/>
+    <book x='le_passe_vivant'/>
+    <book x='le_plateau_de_laque'/>
+    <book x='le_trefle_blanc'/>
+    <book x='les_amants_singuliers'/>
+    <book x='les_bonheurs_perdus'/>
+    <book x='les_rencontres_de_m_de_breot'/>
+    <book x='portraits_et_souvenirs'/>
+    <book x='romaine_mirmault'/>
+    <book x='les_scrupules_de_sganarelle'/>
+    <book x='sujets_et_paysages'/>
+    <book x='le_vrai_bonheur'/>
+    <book x='proses_datees'/>
+
+    <book x='sites'/>
+    <book x='01_premiers_poemes'/>
+    <book x='02_poemes'/>
+    <book x='04_les_medailles_d_argile'/>
+    <book x='05_la_cite_des_eaux'/>
+    <book x='06_la_sandale_ailee'/>
+    <book x='08_1914_1916'/>
+    
+  </target>
+
+  <target name='collections'>
+    <collection x='regnier'/> 
+  </target>
+
+  <target name='zipsources-book'/>
+
+</project>

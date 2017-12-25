@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5714615q"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000501"
+        creation="2017-05-21T19:16:54-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Le Sicilien, ou l’Amour peintre</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='24'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="p01" label="Scène I"/>
+    <tocentry idref="p02" label="Scène II"/>
+    <tocentry idref="p03" label="Scène III"/>
+    <tocentry idref="p04" label="Scène IV">
+      <tocentry idref="p05" label="Fragment de comédie"/>
+    </tocentry>
+    <tocentry idref="p06" label="Scène I"/>
+    <tocentry idref="p07" label="Scène II"/>
+    <tocentry idref="p08" label="Scène V"/>
+    <tocentry idref="p09" label="Scène VI"/>
+    <tocentry idref="p10" label="Scène VII"/>
+    <tocentry idref="p11" label="Scène VIII"/>
+    <tocentry idref="p12" label="Scène IX">
+      <tocentry idref="p13" label="Première entrée de ballet"/>
+      <tocentry idref="p14" label="Seconde entrée de ballet"/>
+    </tocentry>
+    <tocentry idref="p15" label="Scène X"/>
+    <tocentry idref="p16" label="Scène XI"/>
+    <tocentry idref="p17" label="Scène XII"/>
+    <tocentry idref="p18" label="Scène XIII"/>
+    <tocentry idref="p19" label="Scène XIV"/>
+    <tocentry idref="p20" label="Scène XV"/>
+    <tocentry idref="p21" label="Scène XVI"/>
+    <tocentry idref="p22" label="Scène XVII"/>
+    <tocentry idref="p23" label="Scène XVIII"/>
+    <tocentry idref="p24" label="Scène XIX"/>
+    <tocentry idref="p25" label="Scène XX"/>
+    <tocentry idref="p26" label="Scène XXI"/>
+    <tocentry idref="p27" label="Scène XXII">
+      <tocentry idref="p28" label="Troisième entrée de ballet"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_2.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome second. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="283"/>
+
+<img src="images/frise10.png" class="center100" alt="frise"/>
+
+<h1>LE SICILIEN OU L’AMOUR PEINTRE</h1>
+
+<h2>COMÉDIE-BALLET EN UN ACTE</h2>
+
+<h2>1667</h2>
+
+<vsep class="rule"/>
+
+<h3 id="personnages">PERSONNAGES DE LA COMÉDIE</h3>
+
+<p class="sommaire">DON PÈDRE, gentilhomme sicilien.</p>
+<p class="sommaire">ADRASTE, gentilhomme françois, amant d’Isidore.</p>
+<p class="sommaire">ISIDORE, Grecque, esclave de don Pèdre.</p>
+<p class="sommaire">ZAÏDE, jeune esclave.</p>
+<p class="sommaire">UN SÉNATEUR.</p>
+<p class="sommaire">HALI, Turc, esclave d’Adraste.</p>
+<p class="sommaire">DEUX LAQUAIS.</p>
+
+<h3>PERSONNAGES DU BALLET</h3>
+
+<p class="sommaire">MUSICIENS.</p>
+<p class="sommaire">ESCLAVE chantant.</p>
+<p class="sommaire">ESCLAVES dansants.</p>
+<p class="sommaire">MAURES et MAURESQUES dansants.</p>
+
+<vsep class="rule"/>
+
+<h3 id="p01">SCÈNE I. — HALI, MUSICIENS</h3>
+
+<hstage><speaker>HALI</speaker>, aux musiciens.</hstage>
+
+<p>Chut. N’avancez pas davantage, et demeurez dans cet endroit, jusqu’à ce que je vous appelle.</p>
+
+<h3 id="p02">SCÈNE II. — HALI, <i>seul.</i></h3>
+
+<p>Il fait noir comme dans un four : le ciel s’est habillé ce soir en Scaramouche<noteref noteid="note.283.1"/>, et je ne vois pas une étoile qui montre le bout de son nez. Sotte condition que celle d’un esclave, de ne vivre jamais pour soi, et d’être toujours tout entier aux <pagenum num="284" b="pas-" a="sions">passions</pagenum> d’un maître, de n’être réglé que par ses humeurs, et de se voir réduit à faire ses propres affaires de tous les soucis qu’il peut prendre ! Le mien me fait ici épouser ses inquiétudes ; et, parce qu’il est amoureux, il faut que nuit et jour je n’aie aucun repos. Mais voici des flambeaux, et, sans doute, c’est lui.</p>
+
+<notes>
+  <note id="note.283.1">
+    <p><i>Scaramouche</i> était un personnage bouffon de l’ancien théâtre italien, qui était habillé de noir de la tête aux pieds, et dont le masque même était rayé de noir au front, aux joues et au menton (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p03">SCÈNE III. — ADRASTE ; DEUX LAQUAIS, <i>portant chacun un flambeau ;</i> HALI</h3>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Est-ce toi, Hali ?</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Et qui pourroit-ce être que moi ? A ces heures de nuit, hors vous et moi, monsieur, je ne crois pas que personne s’avise de courir maintenant les rues.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Aussi ne crois-je pas qu’on puisse voir personne qui sente dans son cœur la peine que je sens. Car, enfin, ce n’est rien d’avoir à combattre l’indifiérence ou les rigueurs d’une beauté qu’on aime, on a toujours au moins le plaisir de la plainte et la liberté des soupirs ; mais ne pouvoir trouver aucune occasion de parler à ce qu’on adore, ne pouvoir savoir d’une belle si l’amour qu’inspirent ses yeux est pour lui plaire ou lui déplaire, c’est la plus fâcheuse, à mon gré, de toutes les inquiétudes ; et c’est où me réduit l’incommode jaloux qui veille, avec tant de souci, sur ma charmante Grecque, et ne fait pas un pas sans la traîner à ses côtés.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Mais il est, en amour, plusieurs façons de se parler ; et il me semble, à moi, que vos yeux et les siens, depuis près de deux mois, se sont dit bien des choses.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Il est vrai qu’elle et moi souvent nous nous sommes parlé des yeux ; mais comment reconnoître que, chacun de notre côté, nous ayons, comme il faut, expliqué ce langage ? Et que sais-je, après tout, si elle entend bien tout ce que mes regards lui disent, et si les siens me disent ce que je crois parfois entendre ?</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Il faut chercher quelque moyen de se parler d’autre manière.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>As-tu là tes musiciens ?</p>
+
+<pagenum num="285"/>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Fais-les approcher. <stage>Seul.</stage> Je veux jusques au jour les faire ici chanter et voir si leur musique n’obligera point cette belle à paroître à quelque fenêtre.</p>
+
+<h3 id="p04">SCÈNE IV. — ADRASTE, HALI, MUSICIENS</h3>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Les voici. Que chanteront-ils ?</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Ce qu’ils jugeront de meilleur.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Il faut qu’ils chantent un trio qu’ils me chantèrent l’autre jour.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Non. Ce n’est pas ce qu’il me faut.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Ah ! monsieur, c’est du beau bécarre.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Que diantre veux-tu dire avec ton beau bécarre ?</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Monsieur, je tiens pour le bécarre. Vous savez que je m’y connois. Le bécarre me charme ; hors du bécarre, point de salut en harmonie. Écoutez un peu ce trio.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Non. Je veux quelque chose de tendre et de passionné, quelque chose qui m’entretienne dans une douce rêverie.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Je vois bien que vous êtes pour le bémol ; mais il y a moyen de nous contenter l’un et l’autre. Il faut qu’ils vous chantent une certaine scène d’une petite comédie que je leur ai vu essayer. Ce sont deux bergers amoureux, tout remplis de langueur, qui, sur bémol, viennent séparément faire leurs plaintes dans un bois, puis se découvrent l’un à l’autre la cruauté de leurs maîtresses ; et là-dessus vient un berger joyeux avec un bécarre admirable, qui se moque de leur foiblesse.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>J’y consens. Voyons ce que c’est.</p>
+
+<pagenum num="286"/>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Voici, tout juste, un lieu propre à servir de scène ; et voilà deux flambeaux pour éclairer la comédie.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Place-toi contre ce logis, afin qu’au moindre bruit que l’on fera dedans, je fasse cacher les lumières<noteref noteid="note.286.1"/>.</p>
+
+<notes>
+  <note id="note.286.1">
+    <p>L’espèce de sérénade que donne Adraste à la belle Isidore doit faire supposer que la scène se passe dans la rue. Les scènes chantées qui suivent furent mises en musique par Lulli. (Dret.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p05">FRAGMENT DE COMÉDIE</h2>
+
+<h2><s>CHANTÉ ET ACCOMPAGNÉ</s></h2>
+
+<h2>PAR LES MUSICIENS QU’HALI A AMENÉS</h2>
+
+<h3 id="p06">SCÈNE I</h3>
+
+<h3>PHILÈNE, TIRCIS</h3>
+
+<hstage><speaker>PREMIER MUSICIEN</speaker>, représentant Philène</hstage>
+<l indent='c'>Si du triste récit de mon inquiétude</l>
+<l indent='c'>Je trouble le repos de votre solitude,</l>
+<l indent='c'>Rochers, ne soyez point fâchés ;</l>
+<l indent='c'>Quand vous saurez l’excès de mes peines secrètes.</l>
+<l indent='c'>Tout rochers que vous êtes,</l>
+<l indent='c'>Vous en serez touchés.</l>
+
+<hstage><speaker>DEUXIÈME MUSICIEN</speaker>, représentant Tircis.</hstage>
+<l indent='c'>Les oiseaux réjouis, dès que le jour s’avance,</l>
+<l indent='c'>Recommencent leurs chants dans ces vastes forêts ;</l>
+<l indent='c'>Et moi, j’y recommence</l>
+<l indent='c'>Mes soupirs languissants et mes tristes regrets.</l>
+<l indent='c'>Ah ! mon cher Philène !</l>
+
+<hstage><speaker>PHILÈNE</speaker></hstage>
+<l indent='c'>Ah ! mon cher Tircis !</l>
+
+<hstage><speaker>TIRCIS</speaker></hstage>
+<l indent='c'>Que je sens de peine !</l>
+
+<hstage><speaker>PHILÈNE</speaker></hstage>
+<l indent='c'>Que j’ai de soucis !</l>
+
+<hstage><speaker>TIRCIS</speaker></hstage>
+<l indent='c'>Toujours sourde à mes vœux est l’ingrate Climène.</l>
+
+<hstage><speaker>PHILÈNE</speaker></hstage>
+<l indent='c'>Chloris n’a point pour moi de regards adoucis.</l>
+
+<pagenum num="287"/>
+
+<hstage><speaker>TOUS DEUX ENSEMBLE</speaker></hstage>
+<l indent='c'>O loi trop inhumaine !</l>
+<l indent='c'>Amour, si tu ne peux les contraindre d’aimer,</l>
+<l indent='c'>Pourquoi leur laisses-tu le pouvoir de charmer ?</l>
+
+<h3 id="p07">SCÈNE II</h3>
+<h3>PHILÈNE, TIRCIS, UN PATRE</h3>
+
+<hstage><speaker>TROISIÈME MUSICIEN</speaker>, représentant un pâtre.</hstage>
+<l indent='c'>Pauvres amants, quelle erreur</l>
+<l indent='c'>D’adorer des inhumaines !</l>
+<l indent='c'>Jamais les âmes bien saines</l>
+<l indent='c'>Ne se payent de rigueur,</l>
+<l indent='c'>Et les faveurs sont les chaînes</l>
+<l indent='c'>Qui doivent lier un cœur.</l>
+<l indent='c'>On voit cent belles ici,</l>
+<l indent='c'>Auprès de qui je m’empresse ;</l>
+<l indent='c'>A leur vouer ma tendresse</l>
+<l indent='c'>Je mets mon plus doux souci ;</l>
+<l indent='c'>Mais, lorsque l’on est tigresse,</l>
+<l indent='c'>Ma foi, je suis tigre aussi.</l>
+
+<hstage><speaker>PHILÈNE ET TIRCIS</speaker>, ensemble.</hstage>
+<l indent='c'>Heureux, hélas ! qui peut aimer ainsi !</l>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Monsieur, je viens d’ouïr quelque bruit au dedans.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Qu’on se retire vite, et qu’on éteigne les flambeaux.</p>
+
+<h3 id="p08">SCÈNE V. — DON PÈDRE, ADRASTE, HALI</h3>
+
+<hstage><speaker>DON PÈDRE</speaker>, sortant de sa maison, en bonnet de nuit et en robe de chambre, avec une épée sous son bras.</hstage>
+<p>Il y a quelque temps que j’entends chanter à ma porte ; et sans doute cela ne se fait pas pour rien. Il faut que, dans l’obscurité, je tâche à découvrir quelles gens ce peuvent être.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Hali !</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Quoi ?</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>N’entends-tu plus rien ?</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Non. <stage>Don Pèdre est derrière eux, qui les écoute.</stage></p>
+
+<pagenum num="288"/>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Quoi ! tous nos efforts ne pourront obtenir que je parle un moment à cette aimable Grecque ! et ce jaloux maudit, ce traître de Sicilien, me fermera toujours tout accès auprès d’elle !</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Je voudrois, de bon cœur, que le diable l’eût emporté, pour la fatigue qu’il nous donne, le fâcheux, le bourreau qu’il est ! Ah ! si nous le tenions ici, que je prendrois de joie à venger sur son dos tous les pas inutiles que sa jalousie nous fait faire !</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Si faut-il bien<noteref noteid="note.288.1"/>, pourtant, trouver quelque moyen, quelque invention, quelque ruse, pour attraper notre brutal. J’y suis trop engagé pour en avoir le démenti ; et, quand j’y devrois employer...</p>
+
+<notes>
+  <note id="note.288.1">
+    <p>Pour : encore faut il bien.</p>
+  </note>
+</notes>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Monsieur, je ne sais pas ce que cela veut dire, mais la porte est ouverte ; et, si vous le voulez, j’entrerai doucement pour découvrir d’où cela vient. <stage>Don Pèdre se retire sur sa porte.</stage></p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Oui, fais ; mais sans faire de bruit. Je ne m’éloigne pas de toi. Plût au ciel que ce fût la charmante Isidore !</p>
+
+<hstage><speaker>DON PÈDRE</speaker>, donnant un soufflet à Hali.</hstage>
+<p>Qui va là ?</p>
+
+<hstage><speaker>HALI</speaker>, rendant le soufflet à don Pèdre.</hstage>
+<p>Ami<noteref noteid="note.288.2"/>.</p>
+
+<notes>
+  <note id="note.288.2">
+    <p>Voilà une de ces saillies inattendues et vraiment comiques qui font éclater le rire le plus franc. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Holà ! Francisque, Dominique, Simon, Martin, Pierre, Thomas, Georges, Charles, Barthélémy ! Allons, promptement, mon épée, ma rondache, ma hallebarde, mes pistolets, mes mousquetons, mes fusils ! Vite, dépêchez ! Allons, tue, point de quartier !</p>
+
+<h3 id="p09">SCÈNE VI. — ADRASTE, HALI</h3>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Je n’entends remuer personne. Hali ! Hali !</p>
+
+<hstage><speaker>HALI</speaker>, caché dans un coin.</hstage>
+<p>Monsieur ?</p>
+
+<pagenum num="289"/>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Où donc te caches-tu ?</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Ces gens sont-ils sortis ?</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Non. Personne ne bouge.</p>
+
+<hstage><speaker>HALI</speaker>, sortant d’où il étoit caché.</hstage>
+<p>S’ils viennent, ils seront frottés.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Quoi ! tous nos soins seront donc inutiles ! Et toujours ce fâcheux jaloux se moquera de nos desseins !</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Non. Le courroux du point d’honneur me prend : il ne sera pas dit qu’on triomphe de mon adresse : ma qualité de fourbe s’indigne de tous ces obstacles, et je prétends faire éclater les talents que j’ai eus du ciel.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Je voudrois seulement que, par quelque moyen, par un billet, par quelque bouche, elle fût avertie des sentiments qu’on a pour elle, et savoir les siens là-dessus. Après, on peut frouver facilement les moyens...</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Laissez-moi faire seulement. J’en essayerai tant de toutes les manières, que quelque chose enfin nous pourra réussir. Allons, le jour paroît : je vais chercher mes gens, et venir attendre, en ce lieu, que notre jaloux sorte.</p>
+
+<h3 id="p10">SCÈNE VII. — DON PÈDRE, ISIDORE</h3>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Je ne sais pas quel plaisir vous prenez à me réveiller si matin. Cela s’ajuste assez mal, ce me semble, au dessein que vous avez pris de me faire peindre aujourd’hui ; et ce n’est guère pour avoir le teint frais et les yeux brillants, que se lever ainsi dès la pointe du jour.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>J’ai une affaire qui m’oblige à sortir à l’heure qu’il est.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Mais l’affaire que vous avez eût bien pu se passer, je crois, de ma présence ; et vous pouviez sans vous incommoder, me laisser goûter les douceurs du sommeil du matin.</p>
+
+<pagenum num="290"/>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Oui. Mais je suis bien aise de vous voir toujours avec moi. Il n’est pas mal de s’assurer un peu contre les soins des surveillants ; et, cette nuit encore, on est venu chanter sous nos fenêtres.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Il est vrai. La musique en étoit admirable.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>C’étoit pour vous que cela se faisoit.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Je le veux croire ainsi, puisque vous me le dites.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Vous savez qui étoit celui qui donnoit cette sérénade ?</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Non pas ; mais, qui que ce puisse être, je lui suis obligée.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Obligée ?</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Sans doute, puisqu’il cherche à me divertir.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Vous trouvez donc bon qu’il vous aime ?</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Fort bon. Cela n’est jamais qu’obligeant.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Et vous voulez du bien à tous ceux qui prennent ce soin ?</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Assurément.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>C’est dire fort net ses pensées.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>A quoi bon de dissimuler ? Quelque mine qu’on fasse, on est toujours bien aise d’être aimée. Ces hommages à nos appas ne sont jamais pour nous déplaire. Quoi qu’on en puisse dire, la grande ambition des femmes est, croyez-moi, d’inspirer de l’amour. Tous les soins qu’elles prennent ne sont que pour cela, et l’on n’en voit point de si fière qui ne s’applaudisse en son cœur des conquêtes que font ses yeux.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Mais, si vous prenez, vous, du plaisir à vous voir aimée, savez-vous bien, moi, qui vous aime, que je n’y en prends nullement ?</p>
+
+<pagenum num="291"/>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Je ne sais pourquoi cela ; et, si j’aimois quelqu’un, je n’aurois point de plus grand plaisir que de le voir aimé de tout le monde. Y a-t-il rien qui marque davantage la beauté du choix que l’on fait ? Et n’est-ce pas pour s’applaudir que ce que nous aimons soit trouvé fort aimable ?</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Chacun aime à sa guise, et ce n’est pas là ma méthode. Je serai fort ravi qu’on ne vous trouve point si belle, et vous m’obligerez de n’affecter pas tant de la<noteref noteid="note.291.1"/> paroître à d’autres yeux.</p>
+
+<notes>
+  <note id="note.291.1">
+    <p>Les grammairiens avaient signalé comme invariable le pronom <i>le</i>, quand il tient la place d’un adjectif ou d’un substantif pris adjectivement. Leur décision a prévalu. Molière et beaucoup d’autres écrivaiens ont manqué à cette règle. Madame de Sévigné aurait cru, disait-elle, avoir de la barbe si, à cette question : <i>Êtes-vous enrhumée ?</i> elle avait répondu : <i>Je le suis.</i></p>
+  </note>
+</notes>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Quoi ! jaloux de ces choses-là ?</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Oui, jaloux de ces choses-là, mais jaloux comme un tigre, et, si vous voulez, comme un diable. Mon amour vous veut toute à moi. Sa délicatesse s’offense d’un souris, d’un regard qu’on vous peut arracher ; et tous les soins qu’on me voit prendre ne sont que pour fermer tout accès aux galants et m’assurer la possession d’un cœur dont je ne puis souffrir qu’on me vole la moindre chose.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Certes, voulez-vous que je dise ? vous prenez un mauvais parti ; et la possession d’un cœur est fort mal assurée, lorsqu’on prétend le retenir par force. Pour moi, je vous l’avoue, si j’étois galant d’une femme qui fût au pouvoir de quelqu’un, je mettrois toute mon étude à rendre ce quelqu’un jaloux et l’obliger à veiller nuit et jour celle que je voudrois gagner. C’est un admirable moyen d’avancer ses affaires, et l’on ne tarde guère à profiter du chagrin et de la colère que donnent à l’esprit d’une femme la contrainte et la servitude.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Si bien donc que si quelqu’un vous en contoit, il vous trouveroit disposée à recevoir ses vœux ?</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Je ne vous dis rien là-dessus. Mais les femmes, enfin, n’aiment pas qu’on les gêne ; et c’est beaucoup risquer que de leur montrer des soupçons et de les tenir renfermées.</p>
+
+<pagenum num="292"/>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Vous reconnoissez peu ce que vous me devez ; et il me semble qu’une esclave que l’on a affranchie et dont on veut faire sa femme...</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Quelle obligation vous ai-je, si vous changez mon esclavage en un autre beaucoup plus rude, si vous ne me laissez jouir d’aucune liberté, et me fatiguez, comme on voit, d’une garde continuelle ?</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Mais tout cela ne part que d’un excès d’amour.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Si c’est votre façon d’aimer, je vous prie de me haïr.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Vous êtes aujourd’hui dans une humeur désobligeante ; et je pardonne ces paroles au chagrin où vous pouvez être de vous être levée matin.</p>
+
+<h3 id="p11">SCÈNE VIII. — DON PÈDRE, ISIDORE ; HALI, <i>habillé en Turc, faisant plusieurs révérences à don Pèdre.</i></h3>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Trêve aux cérémonies. Que voulez-vous ?</p>
+
+<hstage><speaker>HALI</speaker>, se mettant entre don Pèdre et Isidore. Il se tourne vers Isidore, à chaque parole qu’il dit à don Pèdre, et lui fait des signes pour lui faire connoître le dessein de son maître.</hstage>
+<p>Signor (avec la permission de la signore), je vous dirai (avec la permission de la signore) que je viens vous trouver (avec la permission de la signore), pour vous prier (avec la permission de la signore) de vouloir bien (avec la permission de la signore)...</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Avec la permission de la signore, passez un peu de ce côté. <stage>Don Pèdre se met entre Hali et Isidore.</stage></p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Signor, je suis un virtuose.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Je n’ai rien à donner.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Ce n’est pas ce que je demande. Mais, comme je me mêle <pagenum num="293"/>un peu de musique et de danse, j’ai instruit quelques esclaves qui voudroient bien trouver un maître qui se plût à ces choses ; et, comme je sais que vous êtes une personne considérable, je voudrois vous prier de les voir et de les entendre, pour les acheter, s’ils vous plaisent, ou pour leur enseigner quelqu’un de vos amis qui voulût s’en accommoder.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>C’est une chose à voir, et cela nous divertira. Faites-les nous venir.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Chala bala... Voici une chanson nouvelle, qui est du temps. Écoutez bien. Chala bala.</p>
+
+<h3 id="p12">SCÈNE IX. — DON PÈDRE, ISIDORE, HALI, ESCLAVES TURCS</h3>
+
+<hstage><speaker>UN ESCLAVE</speaker>, chantant à Isidore.</hstage>
+<l indent='c'>D’un cœur ardent en tous lieux,</l>
+<l indent='c'>Un amant suit une belle ;</l>
+<l indent='c'>Mais d’un jaloux odieux</l>
+<l indent='c'>La vigilance éternelle</l>
+<l indent='c'>Fait qu’il ne peut que des yeux</l>
+<l indent='c'>S’entretenir avec elle.</l>
+<l indent='c'>Est-il peine plus cruelle</l>
+<l indent='c'>Pour un cœur bien amoureux ?</l>
+<pstage>A don Pèdre.</pstage>
+<l indent='c'>Chiribirida ouch alla,</l>
+<l indent='c'>Star bon Turca,</l>
+<l indent='c'>Non aver danara ;</l>
+<l indent='c'>Ti voler comprara ?</l>
+<l indent='c'>Mi servi à ti,</l>
+<l indent='c'>Se pagar per mi ;</l>
+<l indent='c'>Far bona cucina,</l>
+<l indent='c'>Mi levar matina,</l>
+<l indent='c'>Far boller caldara.</l>
+<l indent='c'>Parlara, parlara,</l>
+<l indent='c'>Ti voler comprara<noteref noteid="note.293.1"/> ?</l>
+
+<notes>
+  <note id="note.293.1">
+    <p>Voici le sens de ce couplet : « Je suis bon Turc, je n’ai point d’argent. Voulez-vous m’acheter ? je vous servirai, si vous payez pour moi. Je ferai une bonne cuisine ; je me lèverai matin ; je ferai bouillir la marmite. Parlez, parlez, voulez-vous m’acheter ? (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p13">PREMIÈRE ENTRÉE DE BALLET</h3>
+<p>Danse des esclaves.</p>
+
+<pagenum num="294"/>
+
+<hstage><speaker>L’ESCLAVE</speaker>, à Isidore.</hstage>
+<l indent='c'>C’est un supplice, à tous coups,</l>
+<l indent='c'>Sous qui cet amant expire ;</l>
+<l indent='c'>Mais, si d’un œil un peu doux</l>
+<l indent='c'>La belle voit son martyre,</l>
+<l indent='c'>Et consent qu’aux yeux de tous</l>
+<l indent='c'>Pour ses attraits il soupire,</l>
+<l indent='c'>Il pourrait bientôt se rire</l>
+<l indent='c'>De tous les soins du jaloux.</l>
+<pstage>A don Pèdre.</pstage>
+<l indent='c'>Chiribirida ouch alla,</l>
+<l indent='c'>Star bon Turca,</l>
+<l indent='c'>Non aver danara :</l>
+<l indent='c'>Ti voler comprara ?</l>
+<l indent='c'>Mi servir à ti,</l>
+<l indent='c'>Se pagar per mi ;</l>
+<l indent='c'>Far bona cucina,</l>
+<l indent='c'>Mi levar matina,</l>
+<l indent='c'>Far boller caldara.</l>
+<l indent='c'>Parlara, parlara,</l>
+<l indent='c'>Ti voler comprara ?</l>
+
+<h3 id="p14">SECONDE ENTRÉE DE BALLET</h3>
+
+<p>Les esclaves recommencent leur danse.</p>
+
+<hstage><speaker>DON PÈDRE</speaker> chante.</hstage>
+<l indent='c'>Savez-vous, mes drôles,</l>
+<l indent='c'>Que cette chanson</l>
+<l indent='c'>Sent pour vos épaules</l>
+<l indent='c'>Les coups de bâton ?</l>
+<l indent='c'>Chiribirida ouch alla,</l>
+<l indent='c'>Mi ti non comprara,</l>
+<l indent='c'>Ma ti bastonara,</l>
+<l indent='c'>Si ti non andara ;</l>
+<l indent='c'>Andara, andara.</l>
+<l indent='c'>O ti bastonara<noteref noteid="note.294.1"/>.</l>
+
+<p>Oh ! oh ! quels égrillards ! <stage>A Isidore.</stage> Allons, rentrons ici : j’ai changé de pensée ; et puis, le temps se couvre un peu. <stage>A Hali, qui paroît encore.</stage> Ah ! fourbe ! que je vous y trouve !</p>
+
+<notes>
+  <note id="note.294.1">
+    <p>« Je ne t’achèterai pas ; mais je te bâtonnerai, si tu ne t’en va pas. Va-t’en, va-t’en ou je te bâtonnerai » (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Eh bien, oui, mon maître l’adore. Il n’a point de plus grand <pagenum num="295"/>désir que de lui montrer son amour ; et, si elle y consent, il la prendra pour femme.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Oui, oui. Je la lui garde.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Nous l’aurons malgré vous.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Comment ! coquin...</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Nous l’aurons, dis-je, en dépit de vos dents.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Si je prends...</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Vous avez beau faire la garde, j’en ai juré, elle sera à nous.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Laisse-moi faire, je t’attraperai sans courir.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>C’est nous qui vous attraperons. Elle sera notre femme, la chose est résolue. <stage>Seul.</stage> Il faut que j’y périsse, ou que j’en vienne à bout.</p>
+
+<h3 id="p15">SCÈNE X. — ADRASTE, HALI, DEUX LAQUAIS</h3>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Eh bien, Hali, nos affaires s’avancent-elles ?</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Monsieur, j’ai déjà fait quelque petite tentative ; mais je...</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Ne te mets point en peine ; j’ai trouvé, par hasard, tout ce que je voulois ; et je vais jouir du bonheur de voir chez elle cette belle. Je me suis rencontré chez le peintre Damon, qui m’a dit qu’aujourd’hui il venoit faire le portrait de cette adorable personne ; et, comme il est depuis longtemps de mes plus intimes amis, il a voulu servir mes feux, et m’envoie à sa place, avec un petit mot de lettre pour me faire accepter. Tu sais que, de tout temps, je me suis plu à la peinture, et que parfois je manie le pinceau, contre la coutume de France, qui ne veut pas qu’un gentilhomme sache rien faire : ainsi j’aurai la liberté de voir cette belle à mon aise. Mais je ne doute pas que mon jaloux fâcheux ne soit toujours présent, et n’empêche tous les propos que nous pourrions avoir ensemble ; et, pour te dire vrai, j’ai, par le moyen d’une jeune esclave, un <pagenum num="296"/>stratagème prêt pour tirer cette belle Grecque des mains de son jaloux, si je puis obtenir d’elle qu’elle y consente.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Laissez-moi faire, je veux vous faire un peu de jour à la pouvoir entretenir. <stage>Il parle bas à l’oreille d’Adraste.</stage> Il ne sera pas dit que je ne serve de rien dans cette afîaire-là. Quand y allez-vous ?</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Tout de ce pas, et j’ai déjà préparé toutes choses.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Je vais, de mon côté, me préparer aussi.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Je ne veux point perdre de temps. Holà ! il me tarde que je ne goûte le plaisir de la voir.</p>
+
+<h3 id="p16">SCÈNE XI. — DON PÈDRE, ADRASTE, DEUX LAQUAIS</h3>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Que cherchez-vous, cavalier, dans cette maison<noteref noteid="note.296.1"/> ?</p>
+
+<notes>
+  <note id="note.296.1">
+    <p>Jusqu’ici la scène a été dans la rue. Il est évident, d’après ces paroles de don Pèdre qu’elle est maintenant dans sa maison.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>J’y cherche le seigneur don Pèdre.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Vous l’avez devant vous.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Il prendra, s’il lui plaît, la peine de lire cette lettre.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>« Je vous envoie, au lieu de moi, pour le portrait que vous savez, ce gentilhomme françois, qui, comme curieux d’oblier les honnêtes gens, a bien voulu prendre ce soin, sur la proposition que je lui en ai faite. Il est, sans contredit, le premier homme du monde pour ces sortes d’ouvrages, et j’ai cru que je ne vous pouvois rendre un service plus agréable que de vous l’envoyer, dans le dessein que vous avez d’avoir un portrait achevé de la personne que vous aimez. Gardez-vous bien surtout de lui parler d’aucune récompense ; car c’est un homme qui s’en offenseroit, et qui ne fait les choses que pour la gloire et la réputation. »</p>
+
+<p>Seigneur François, c’est une grande grâce que vous me voulez faire, et je vous suis fort obligé.</p>
+
+<pagenum num="297"/>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Toute mon ambition est de rendre service aux gens de nom et de mérite.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Je vais faire venir la personne <correction original='doagit'>dont il s’agit</correction>.</p>
+
+
+<h3 id="p17">SCÈNE XII. — ISIDORE, DON PÈDRE, ADRASTE, DEUX LAQUAIS</h3>
+
+<hstage><speaker>DON PÈDRE</speaker>, à Isidore.</hstage>
+<p>Voici un gentilhomme que Damon nous envoie, qui se veut bien donner la peine de vous peindre. <stage>A Adraste, qui embrasse Isidore en la saluant.</stage> Holà ! seigneur François, cette façon de saluer n’est point d’usage en ce pays.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>C’est la manière de France.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>La manière de France est bonne pour vos femmes, mais, pour les nôtres, elle est un peu trop familière.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Je reçois cet honneur avec beaucoup de joie. L’aventure me surprend fort ; et, pour dire le vrai, je ne m’attendois pas d’avoir un peintre si illustre.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Il n’y a personne, sans doute, qui ne tînt à beaucoup de gloire de toucher à un tel ouvrage. Je n’ai pas grande habileté ; mais le sujet, ici, ne fournit que trop de lui-même, et il y a moyen de faire quelque chose de beau sur un original fait comme celui-là.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>L’original est peu de chose ; mais l’adresse du peintre en saura couvrir les défauts.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Le peintre n’y en voit aucun ; et tout ce qu’il souhaite est d’en pouvoir représenter les grâces aux yeux de tout le monde, aussi grandes qu’il les peut voir.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Si votre pinceau flatte autant que votre langue, vous allez me faire un portrait qui ne me ressemblera pas.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Le ciel, qui fit l’original, nous ôte le moyen d’en faire un portrait qui puisse flatter.</p>
+
+<pagenum num="298"/>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Le ciel, quoi que vous en disiez, ne...</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Finissons cela, de grâce. Laissons les compliments, et songeons au portrait.</p>
+
+<hstage><speaker>ADRASTE</speaker>, aux laquais.</hstage>
+<p>Allons, apportez tout. <stage>On apporte tout ce qu’il faut pour peindre Isidore.</stage></p>
+
+<hstage><speaker>ISIDORE</speaker>, à Adraste.</hstage>
+<p>Où voulez-vous que je me place ?</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Ici. Voici le lieu le plus avantageux, et qui reçoit le mieux les vues favorables de la lumière que nous cherchons.</p>
+
+<hstage><speaker>ISIDORE</speaker>, après s’être assise.</hstage>
+<p>Suis-je bien ainsi ?</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Oui. Levez-vous un peu, s’il vous plaît. Un peu plus de ce côté-là. Le corps tourné ainsi. La tête un peu levée, afin que la beauté du cou paroisse. Ceci un peu plus découvert. <stage>Il découvre un peu plus sa gorge.</stage> Bon. Là, un peu davantage ; encore tant soit peu.</p>
+
+<hstage><speaker>DON PÈDRE</speaker>, à Isidore.</hstage>
+<p>Il y a bien de la peine à vous mettre ; ne sauriez-vous vous tenir comme il faut ?</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Ce sont ici des choses toutes neuves pour moi ; et c’est à monsieur à me mettre de la façon qu’il veut.</p>
+
+<hstage><speaker>ADRASTE</speaker>, assis.</hstage>
+<p>Voilà qui va le mieux du monde, et vous vous tenez à merveille. <stage>La faisant tourner un peu vers lui.</stage> Comme cela, s’il vous plaît. Le tout dépend des attitudes qu’on donne aux personnes qu’on peint.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Un peu plus de ce côté. Vos yeux toujours tournés vers moi, je vous prie ; vos regards attachés aux miens.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Je ne suis pas comme ces femmes qui veulent, en se faisant peindre, des portraits qui ne sont point elles, et ne sont point satisfaites du peintre s’il ne les fait toujours plus belles <pagenum num="299"/>qu’elles ne sont<noteref noteid="note.299.1"/>. Il faudroit, pour les contenter, ne faire qu’un portrait pour toutes ; car toutes demandent les mêmes choses : un teint tout de lis et de roses, un nez bien fait, une petite bouche et de grands yeux vifs, bien fendus ; et surtout le visage pas plus gros que le poing, l’eussent-elles d’un pied de large. Pour moi, je vous demande un portrait qui soit moi, et qui n’oblige point à demander qui c’est.</p>
+
+<notes>
+  <note id="note.299.1">
+    <p>V<s>AR</s>. S’il ne les fait toujours plus belles <i>que le jour.</i></p>
+  </note>
+</notes>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Il seroit malaisé qu’on demandât cela du vôtre ; et vous avez des traits à qui fort peu d’autres ressemblent. Qu’ils ont de douceurs et de charmes, et qu’on court de risque à les peindre !</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Le nez me semble un peu trop gros.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>J’ai lu, je ne sais où, qu’Apelles peignit autrefois une maîtresse d’Alexandre d’une merveilleuse beauté, et qu’il en devint, la peignant, si éperdument amoureux, qu’il fut près d’en perdre la vie ; de sorte qu’Alexandre, par générosité, lui céda l’objet de ses vœux. <stage>A don Pèdre.</stage> Je pourrois faire ici ce qu’Apelles fit autrefois ; mais vous ne feriez pas, peut-être, ce que fit Alexandre. <stage>Don Pèdre fait la grimace.</stage></p>
+
+<hstage><speaker>ISIDORE</speaker>, à don Pèdre.</hstage>
+<p>Tout cela sent la nation ; et toujours messieurs les François ont un fonds de galanterie qui se répand partout.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>On ne se trompe guère à ces sortes de choses, et vous avez l’esprit trop éclairé pour ne pas voir de quelle source partent les choses qu’on vous dit. Oui, quand Alexandre seroit ici, et que ce seroit votre amant, je ne pourrois m’empêcher de vous dire que je n’ai rien vu de si beau que ce que je vois maintenant, et que...</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Seigneur François, vous ne devriez pas, ce me semble, tant parler ; cela vous détourne de votre ouvrage.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Ah ! point du tout. J’ai toujours de coutume de parler quand je peins ; et il est besoin, dans ces choses, d’un peu de conversation, pour réveiller l’esprit et tenir les visages dans la gaieté nécessaire aux personnes que l’on veut peindre.</p>
+
+<pagenum num="300"/>
+
+<h3 id="p18">SCÈNE XIII. — HALI, <i>vêtu en Espagnol ;</i> DON PÈDRE, ADRASTE, ISIDORE</h3>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Que veut cet homme-là ? Et qui laisse monter les gens sans nous en venir avertir ?</p>
+
+<hstage><speaker>HALI</speaker>, à don Pèdre.</hstage>
+<p>J’entre ici librement ; mais, entre cavaliers, telle liberté est permise. Seigneur, suis-je connu de vous ?</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Non, seigneur.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Je suis don Gilles d’Avalos ; et l’histoire d’Espagne vous doit avoir instruit de mon mérite.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Souhaitez-vous quelque chose de moi ?</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Oui, un conseil sur un fait d’honneur. Je sais qu’en ces matières il est malaisé de trouver un cavalier plus consommé que vous ; mais je vous demande, pour grâce, que nous nous tirions à l’écart.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Nous voilà assez loin.</p>
+
+<hstage><speaker>ADRASTE</speaker>, à don Pèdre, qui le surprend parlant bas à Isidore.</hstage>
+<p>J’observois de près la couleur de ses yeux.</p>
+
+<hstage><speaker>HALI</speaker>, tirant don Pèdre, pour l’éloigner d’Adraste et d’Isidore.</hstage>
+<p>Seigneur, j’ai reçu un soufflet. Vous savez ce qu’est un soufflet, lorsqu’il se donne à main ouverte, sur le beau milieu de la joue. J’ai ce soufflet fort sur le cœur ; et je suis dans l’incertitude, si, pour me venger de l’affront, je dois me battre avec mon homme, ou bien le faire assassiner.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Assassiner, c’est le plus sûr et le plus court chemin. Quel est votre ennemi ?</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Parlons bas, s’il vous plaît. <stage>Hali tient don Pèdre, en lui parlant, de façon qu’il ne peut voir Adraste.</stage></p>
+
+<hstage><speaker>ADRASTE</speaker>, aux genoux d’Isidore, pendant que don Pèdre et Hali parlent bas ensemble.</hstage>
+<p>Oui, charmante Isidore, mes regards vous le disent depuis plus de deux mois, et vous les avez entendus. Je vous aime <pagenum num="301"/>plus que tout ce que l’on peut aimer, et je n’ai point d’autre pensée, d’autre but, d’autre passion, que d’être à vous toute ma vie.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Je ne sais si vous dites vrai ; mais vous persuadez.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Mais vous persuadé-je jusqu’à vous inspirer quelque peu de bonté pour moi ?</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Je ne crains que d’en trop avoir.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>En aurez-vous assez pour consentir, belle Isidore, au dessein que je vous ai dit !</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Je ne puis encore vous le dire.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Qu’attendez-vous pour cela ?</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>A me résoudre.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Ah ! quand on aime bien, on se résout bientôt.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Eh bien, allez, oui, j’y consens.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Mais consentez-vous, dites-moi, que ce soit dès ce moment même ?</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Lorsqu’on est une fois résolu sur la chose, s’arrête-t-on sur le temps ?</p>
+
+<hstage><speaker>DON PÈDRE</speaker>, à Hali</hstage>
+<p>Voilà mon sentiment, et je vous baise les mains.</p>
+
+<hstage><speaker>HALI</speaker></hstage>
+<p>Seigneur, quand vous aurez reçu quelque soufflet, je suis homme aussi de conseil, et je pourrai vous rendre la pareille.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Je vous laisse aller sans vous reconduire ; mais, entre cavaliers, cette liberté est permise.</p>
+
+<hstage><speaker>ADRASTE</speaker>, à Isidore.</hstage>
+<p>Non, il n’est rien qui puisse effacer de mon cœur les tendres témoignages... <stage>A don Pèdre, apercevant Adraste qui parle de près à Isidore.</stage> Je regardois ce petit trou qu’elle a du côté du <pagenum num="302"/>menton ; et je croyois d’abord que ce fût une tache. Mais c’est assez pour aujourd’hui, nous finirons une autre fois. <stage>A don Pèdre, qui veut voir le portrait.</stage> Non, ne regardez rien encore ; faites serrer cela, je vous prie. <stage>A Isidore.</stage> Et vous, je vous conjure de ne vous relâcher point, et de garder un esprit gai, pour le dessein que j’ai d’achever notre ouvrage.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Je conserverai pour cela toute la gaieté qu’il faut.</p>
+
+<h3 id="p19">SCÈNE XIV. — DON PÈDRE, ISIDORE</h3>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Qu’en dites-vous ? ce gentilhomme me paroît le plus civil du monde ; et l’on doit demeurer d’accord que les François ont quelque chose en eux de poli, de galant, que n’ont point les autres nations.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Oui ; mais ils ont cela de mauvais qu’ils s’émancipent un peu trop, et s’attachent, en étourdis, à conter des fleurettes à tout ce qu’ils rencontrent.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>C’est qu’ils savent qu’on plaît aux dames par ces choses.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Oui ; mais, s’ils plaisent aux dames, ils déplaisent fort aux messieurs ; et l’on n’est point bien aise de voir, sur sa moustache, cajoler hardiment sa femme ou sa maîtresse.</p>
+
+<hstage><speaker>ISIDORE</speaker></hstage>
+<p>Ce qu’ils en font n’est que par jeu.</p>
+
+<h3 id="p20">SCÈNE XV. — ZAÏDE, DON PÈDRE, ISIDORE</h3>
+
+<hstage><speaker>ZAÏDE</speaker></hstage>
+<p>Ah ! seigneur cavalier, sauvez-moi, s’il vous plaît, des mains d’un mari furieux dont je suis poursuivie. Sa jalousie est incroyable, et passe, dans ses mouvements, tout ce qu’on peut imaginer. Il va jusqu’à vouloir que je sois toujours voilée ; et, pour m’avoir trouvée le visage un peu découvert, il a mis l’épée à la main, et m’a réduite à me jeter chez vous, pour vous demander votre appui contre son injustice. Mais je le vois paroître. De grâce, seigneur cavalier, sauvez-moi de sa fureur !</p>
+
+<hstage><speaker>DON PÈDRE</speaker>, à Zaïde, lui montrant Isidore.</hstage>
+<p>Entrez là dedans avec elle, et n’appréhendez rien.</p>
+
+<pagenum num="303"/>
+
+<h3 id="p21">SCÈNE XVI. — ADRASTE, DON PÈDRE</h3>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Eh quoi ! seigneur, c’est vous ? Tant de jalousie pour un Français ? Je pensois qu’il n’y eût que nous qui en fussions capables.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Les François excellent toujours dans toutes les choses qu’ils font ; et, quand nous nous mêlons d’être jaloux, nous le sommes vingt fois plus qu’un Sicilien. L’infâme croit avoir trouvé chez vous un assuré refuge ; mais vous êtes trop raisonnable pour blâmer mon ressentiment. Laissez moi, je vous prie, la traiter comme elle mérite.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Ah ! de grâce, arrêtez. L’offense est trop petite pour un courroux si grand.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>La grandeur d’une telle offense n’est pas dans l’importance des choses que l’on fait. Elle est à transgresser les ordres qu’on nous donne ; et, sur de pareilles matières, ce qui n’est qu’une bagatelle devient fort criminel lorsqu’il est défendu.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>De la façon qu’elle a parlé, tout ce qu’elle en a fait a été sans dessein ; et je vous prie enfin de vous remettre bien ensemble.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Eh quoi ! vous prenez son parti, vous qui êtes si délicat sur ces sortes de choses ?</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Oui, je prends son parti ; et, si vous voulez m’obliger ; vous oublierez votre colère, et vous vous réconcilierez tous deux. C’est une grâce que je vous demande ; et je la recevrai comme un essai de l’amitié que je veux qui soit entre nous.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Il ne m’est pas permis, à ces conditions, de vous rien refuser. Je ferai ce que vous voudrez.</p>
+
+<h3 id="p22">SCÈNE XVII. — ZAÏDE, DON PÈDRE, ADRASTE, <i>caché dans un coin du théâtre.</i></h3>
+
+<hstage><speaker>DON PÈDRE</speaker>, à Zaïde.</hstage>
+<p>Holà ! venez. Vous n’avez qu’à me suivre, et j’ai fait votre paix. Vous ne pouviez jamais mieux tomber que chez moi.</p>
+
+<pagenum num="304"/>
+
+<hstage><speaker>ZAÏDE</speaker></hstage>
+<p>Je vous suis obligée plus qu’on ne sauroit croire : mais je m’en vais prendre mon voile ; je n’ai garde, sans lui, de paroître à ses yeux.</p>
+
+<h3 id="p23">SCÈNE XVIII. — DON PÈDRE, ADRASTE</h3>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>La voici qui s’en va venir ; et son âme, je vous assure, a paru toute réjouie lorsque je lui ai dit que j’avois raccommodé tout.</p>
+
+<h3 id="p24">SCÈNE XIX. — ISIDORE, <i>sous le voile de Zaïde ;</i> ADRASTE, DON PÈDRE</h3>
+
+<hstage><speaker>DON PÈDRE</speaker>, à Adraste.</hstage>
+<p>Puisque vous m’avez bien voulu abandonner votre ressentiment, trouvez bon qu’en ce lieu je vous fasse toucher dans la main l’un de l’autre, et que tous deux je vous conjure de vivre, pour l’amour de moi, dans une parfaite union.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Oui, je vous le promets, que, pour l’amour de vous, je m’en vais, avec elle, vivre le mieux du monde.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Vous m’obligez sensiblement, et j’en garderai la mémoire.</p>
+
+<hstage><speaker>ADRASTE</speaker></hstage>
+<p>Je vous donne ma parole, seigneur don Pèdre, qu’à votre considération, je m’en vais la traiter du mieux qu’il me sera possible.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>C’est trop de grâce que vous me faites. <stage>Seul.</stage> Il est bon de pacifier et d’adoucir toujours les choses. Holà ! Isidore, venez.</p>
+
+<h3 id="p25">SCÈNE XX. — ZAÏDE, DON PÈDRE</h3>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Comment ! que veut dire cela ?</p>
+
+<hstage><speaker>ZAÏDE</speaker>, sans voile.</hstage>
+<p>Ce que cela veut dire ? Qu’un jaloux est un monstre haï de tout le monde, et qu’il n’y a personne qui ne soit ravi de lui nuire, n’y eût-il point d’autre intérêt ; que toutes les serrures et les verrous du monde ne retiennent point les personnes, et que c’est le cœur qu’il faut arrêter par la douceur et par la complaisance ; qu’Isidore est entre les mains du cavalier qu’elle aime, et que vous êtres pris pour dupe.</p>
+
+<pagenum num="305"/>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Don Pèdre souffrira cette injure mortelle ! Non, non : j’ai trop de cœur, et je vais demander l’appui de la justice pour pousser la perfide à bout. C’est ici le logis d’un sénateur. Holà<noteref noteid="note.305.1"/> !</p>
+
+<notes>
+  <note id="note.305.1">
+    <p>Depuis la scène XI, l’action s’est passée dans une salle de la maison de don Pèdre. Ici, le théâtre a changé encore une fois ; il représente comme dans les premières scènes, une rue ou une place publique.</p>
+  </note>
+</notes>
+
+<h3 id="p26">SCÈNE XXI. — UN SÉNATEUR, DON PÈDRE</h3>
+
+<hstage><speaker>LE SÉNATEUR</speaker></hstage>
+<p>Serviteur, seigneur don Pèdre. Que vous venez à propos !</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Je viens me plaindre à vous d’un affront qu’on m’a fait.</p>
+
+<hstage><speaker>LE SÉNATEUR</speaker></hstage>
+<p>J’ai fait une mascarade la plus belle du monde.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Un traître de François m’a joué une pièce.</p>
+
+<hstage><speaker>LE SÉNATEUR</speaker></hstage>
+<p>Vous n’avez, dans votre vie, jamais rien vu de si beau.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Il m’a enlevé une fille que j’avois affranchie.</p>
+
+<hstage><speaker>LE SÉNATEUR</speaker></hstage>
+<p>Ce sont gens vêtus en Maures qui dansent admirablement.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Vous voyez si c’est une injure qui se doive souffrir.</p>
+
+<hstage><speaker>LE SÉNATEUR</speaker></hstage>
+<p>Les habits merveilleux, et qui sont faits exprès.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Je demande l’appui de la justice contre cette action.</p>
+
+<hstage><speaker>LE SÉNATEUR</speaker></hstage>
+<p>Je veux que vous voyiez cela. On la va répéter, pour en donner le divertissement au peuple.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Comment ! de quoi parlez-vous là ?</p>
+
+<hstage><speaker>LE SÉNATEUR</speaker></hstage>
+<p>Je parle de ma mascarade.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>Je vous parle de mon affaire.</p>
+
+<pagenum num="306"/>
+
+<hstage><speaker>LE SÉNATEUR</speaker></hstage>
+<p>Je ne veux point, aujourd’hui, d’autres affaires que de plaisir. Allons, messieurs, venez. Voyons si cela ira bien.</p>
+
+<hstage><speaker>DON PÈDRE</speaker></hstage>
+<p>La peste soit du fou, avec sa mascarade !</p>
+
+<hstage><speaker>LE SÉNATEUR</speaker></hstage>
+<p>Diantre soit le fâcheux, avec son affaire !</p>
+
+<h3 id="p27">SCÈNE XXII. — UN SÉNATEUR, TROUPE DE DANSEURS</h3>
+
+<h3 id="p28">TROISIÈME ENTRÉE DE BALLET</h3>
+
+<p>Plusieurs danseurs, vêtus en Maures, dansent devant le sénateur, et finissent la comédie.</p>
+
+<vsep class="rule"/>
+
+<h3>NOMS DES PERSONNES QUI ONT DANSÉ ET CHANTÉ DANS LE SICILIEN</h3>
+
+<p>DON PÈDRE, le sieur M<s>OLIÈRE</s>.</p>
+<p>ADRASTE, le sieur <s>DE LA</s> G<s>RANGE</s>.</p>
+<p>ISIDORE, mademoiselle <s>DE</s> B<s>RIE</s>.</p>
+<p>ZAIDE, mademoiselle M<s>OLIÈRE</s>.</p>
+<p>HALI, le sieur <s>DE LA</s> T<s>HORILLIÈRE</s>.</p>
+<p>UN SÉNATEUR, le sieur <s>DU</s> C<s>ROISY</s>.</p>
+<p>MUSICIENS chantants, les sieurs B<s>LONDEL</s>, G<s>AYE</s>, N<s>OBLET</s>.</p>
+<p>ESCLAVE TURC chantant, le sieur G<s>AYE</s>.</p>
+<p>ESCLAVES TURCS dansants, les sieurs <s>LE</s> P<s>RÊTRE</s>, C<s>HICANNEAU</s>, M<s>AYEU</s>, P<s>ESAN</s>.</p>
+<p>MAURES de qualité, LE ROI, M. <s>LE</s> G<s>RAND</s>, les marquis <s>DE</s> V<s>ILLEROI</s> et <s>DE</s> R<s>ASSENT</s>.</p>
+<p>MAURESQUES de qualité, MADAME, mademoiselle <s>DE LA</s> V<s>ALLIÈRE</s>, madame <s>DE</s> R<s>OCHEFORT</s>, mademoiselle <s>DE</s> B<s>RANCAS</s>.</p>
+<p>MAURES nus, MM. C<s>OCQUET DE</s> S<s>OUVILLE</s>, les sieurs B<s>EAUCHAMP</s>, N<s>OBLET</s>, C<s>HICANNEAU</s>, <s>LA</s> P<s>IERRE</s>, F<s>AVIER</s> et <s>DES</s> A<s>IRS</s>-G<s>ALAND</s>.</p>
+<p>MAURES à capot, les sieurs <s>LA</s> M<s>ARRE</s>, <s>DU</s> F<s>EU</s>, A<s>RNALD</s>, V<s>AGNARD</s>, B<s>ONNARD</s>.</p>
+
+</page-sequence>
+</page-sequences>
+</bml>

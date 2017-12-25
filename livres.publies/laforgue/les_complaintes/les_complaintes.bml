@@ -1,0 +1,4134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb307168442">
+
+      <titre>Les Complaintes</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119106252">
+        <nom-bibliographie>Laforgue, Jules</nom-bibliographie>
+        <dates>1860-1887</dates>
+        <nom-couverture>Jules Laforgue</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>L. Vanier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1885</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/btv1b8618383m"
+                 pages="A8 1-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000388"
+        creation="2014-10-25T19:41:25+02:00"
+        modification="2015-01-03T13:27:06-08:00">
+
+      <titre>Les Complaintes</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="Dédicace"/>
+    <tocentry idref="p02" label="Préludes Autobiographiques"/>
+    <tocentry idref="p03" label="Complainte propitiatoire à l’Inconscient"/>
+    <tocentry idref="p04" label="Complainte-Placet de Faust fils"/>
+    <tocentry idref="p05" label="Complainte à Notre-Dame des Soirs"/>
+    <tocentry idref="p06" label="Complainte des Voix sous le Figuier boudhique"/>
+    <tocentry idref="p07" label="Complainte de cette bonne Lune"/>
+    <tocentry idref="p08" label="Complainte des Pianos qu’on entend dans les quartiers aisés"/>
+    <tocentry idref="p09" label="Complainte de la bonne Défunte"/>
+    <tocentry idref="p10" label="Complainte de l’Orgue de Barbarie"/>
+    <tocentry idref="p11" label="Complainte d’un certain Dimanche"/>
+    <tocentry idref="p12" label="Complainte d’un autre Dimanche"/>
+    <tocentry idref="p13" label="Complainte du fœtus du Poète"/>
+    <tocentry idref="p14" label="Complainte des pubertés difficiles"/>
+    <tocentry idref="p15" label="Complainte de la fin des Journées"/>
+    <tocentry idref="p16" label="Complainte de la Vigie aux minuits polaires"/>
+    <tocentry idref="p17" label="Complainte de la Lune en province"/>
+    <tocentry idref="p18" label="Complainte du Printemps"/>
+    <tocentry idref="p19" label="Complainte de l’Automne monotone"/>
+    <tocentry idref="p20" label="Complainte de l’Ange incurable"/>
+    <tocentry idref="p21" label="Complainte des Nostalgies préhistoriques"/>
+    <tocentry idref="p22" label="Autre Complainte de l’Orgue de Barbarie"/>
+    <tocentry idref="p23" label="Complainte du pauvre Chevalier-Errant"/>
+    <tocentry idref="p24" label="Complainte des formalités nuptiales"/>
+    <tocentry idref="p25" label="Complainte des Blackboulés"/>
+    <tocentry idref="p26" label="Complainte des Consolations"/>
+    <tocentry idref="p27" label="Complainte des bons Ménages"/>
+    <tocentry idref="p28" label="Complainte de Lord Pierrot"/>
+    <tocentry idref="p29" label="Autre Complainte de Lord Pierrot"/>
+    <tocentry idref="p30" label="Complainte sur certains ennuis"/>
+    <tocentry idref="p31" label="Complainte des Noces de Pierrot"/>
+    <tocentry idref="p32" label="Complainte du Vent qui s’ennuie la nuit"/>
+    <tocentry idref="p33" label="Complainte du pauvre corps humain"/>
+    <tocentry idref="p34" label="Complainte du Roi de Thulé"/>
+    <tocentry idref="p35" label="Complainte du soir des Comices agricoles"/>
+    <tocentry idref="p36" label="Complainte des Cloches"/>
+    <tocentry idref="p37" label="Complainte des grands Pins dans une villa abandonnée"/>
+    <tocentry idref="p38" label="Complainte sur certains temps déplacés"/>
+    <tocentry idref="p39" label="Complainte des condoléances au Soleil"/>
+    <tocentry idref="p40" label="Complaintede l’oubli des Morts"/>
+    <tocentry idref="p41" label="Complainte du pauvre jeune homme"/>
+    <tocentry idref="p42" label="Complainte de l’Époux outragé"/>
+    <tocentry idref="p43" label="Complainte-Variations sur le mot falot, falotte"/>
+    <tocentry idref="p44" label="Complainte du Temps et de sa commère l’Espace"/>
+    <tocentry idref="p45" label="Grande Complainte de la Ville de Paris"/>
+    <tocentry idref="p46" label="Complainte des Mounis du Mont-Martre"/>
+    <tocentry idref="p47" label="Complainte-Litanies de mon Sacré-Cœur"/>
+    <tocentry idref="p48" label="Complainte des Débats mélancoliques et littéraires"/>
+    <tocentry idref="p49" label="Complainte d’une Convalescence"/>
+    <tocentry idref="p50" label="Complainte du Sage de Paris"/>
+    <tocentry idref="p51" label="Complainte des Complaintes"/>
+    <tocentry idref="p52" label="Complainte-Épitaphe"/>
+    <tocentry idref="table" label="Table des matières"/>
+  </toc>
+
+  <cover src="images/couverture.png" alt="Les Complaintes par Jules Laforgue. Paris. Léon Vanier, Libraire-Éditeur. 19, Quai Saint-Michel, 19. 1885."/>
+
+<page-sequences>
+<page-sequence id="p01" recto="true">
+<pagenum num="5"/>
+
+<h2><i>A PAUL BOURGET</i></h2>
+
+<poem>
+<lg>
+<l><i>En deuil d’un Moi-le-Magnifique</i></l>
+<l><i>Lançant de front les cent pur-sang</i></l>
+<l><i>De ses vingt ans tout hennissants,</i></l>
+<l><i>Je vague, à jamais Innocent,</i></l>
+<l><i>Par les blancs parcs ésotériques</i></l>
+<l><i>De l’Armide Métaphysique.</i></l>
+</lg>
+<lg>
+<l><i>Un brave bouddhiste en sa châsse.</i></l>
+<l><i>Albe, oxydé, sans but, pervers,</i></l>
+<l><i>Qui, du chalumeau de ses nerfs,</i></l>
+<l><i>Se souffle gravement des vers,</i></l>
+<l><i>En astres riches, dont la trace</i></l>
+<l><i>Ne trouble le Temps ni l’Espace.</i></l>
+</lg>
+<lg>
+<l><i>C’est tout. A mon temple d’ascète</i></l>
+<l><i>Votre Nom de Lac est piqué :</i></l>
+<l><i>Puissent mes feuilleteurs du quai,</i></l>
+<l><i>En rentrant, se r’intoxiquer</i></l>
+<l><i>De vos</i> <s>AVEUX</s>, <i>ô pur poète !</i></l>
+<l><i>C’est la grâce que je m’souhaite.</i></l>
+</lg>
+</poem>
+
+<pagenum num="6"/>
+</page-sequence>
+
+<page-sequence id="p02" recto="true">
+<pagenum num="7"/>
+
+<h2>PRÉLUDES AUTOBIOGRAPHIQUES</h2>
+
+<vsep class="rule"/>
+
+<epigraphe>
+<poem>
+<l>Soif d’infini martyre ? Extase en théorèmes</l>
+<l>Que la création est belle, tout de même !</l>
+</poem>
+</epigraphe>
+
+<poem>
+<lg>
+<l>En voulant mettre un peu d’ordre dans ce tiroir,</l>
+<l>Je me suis perdu par mes grands vingt ans, ce soir</l>
+<l>De Noël gras.</l>
+<l cont="true">Ah ! dérisoire créature !</l>
+<l>Fleuve à reflets, où les deuils d’Unique ne durent</l>
+<l>Pas plus que d’autres ! L’ai-je rêvé, ce Noël</l>
+<l>Où je brûlais de pleurs noirs un mouchoir réel,</l>
+<l>Parce que, débordant des chagrins de la Terre</l>
+<l>Et des frères Soleils, et ne pouvant me faire</l>
+<l>Aux monstruosités sans but et sans témoin</l>
+<l>Du cher Tout, et bien las de me meurtrir les poings</l>
+<l>Aux steppes du cobalt sourd, ivre-mort de doute,</l>
+<l>Je vivotais, altéré de <i>Nihil</i> de toutes</l>
+<l>Les citernes de mon Amour ?</l>
+<pagenum num="8"/>
+<l cont="true">Seul, pur, songeur,</l>
+<l>Me croyant hypertrophique ! comme un plongeur</l>
+<l>Aux mouvants bosquets des savanes sous-marines,</l>
+<l>J’avais roulé par les livres, bon mysogine.</l>
+</lg>
+<lg>
+<l>Cathédrale anonyme ! en ce Paris, jardin</l>
+<l>Obtus et chic, avec son bourgeois de Jourdain</l>
+<l>A rêveurs ; ses vitraux fardés, ses vieux dimanches</l>
+<l>Dans les quartiers tannés où regardent des branches</l>
+<l>Par dessus les murs des pensionnats, et ses</l>
+<l>Ciels trop poignants à qui l’Angélus fait : assez !</l>
+</lg>
+<lg>
+<l>Paris qui, du plus bon bébé de la Nature,</l>
+<l>Instaure un lexicon mal cousu de ratures.</l>
+</lg>
+<lg>
+<l>Bon breton né sous les Tropiques, chaque soir</l>
+<l>J’allais le long d’un quai bien nommé <i>mon rêvoir,</i></l>
+<l>Et buvant les étoiles à même : « ô Mystère !</l>
+<l>« Quel calme chez les astres ! ce train-train sur terre !</l>
+<l>« Est-il Quelqu’un, vers quand, à travers l’infini,</l>
+<l>« Clamer l’universel <i>lamasabaktani ?</i></l>
+<l>« Voyons ; les cercles du Cercle, en effets et causes,</l>
+<l>« Dans leurs incessants vortex de métamorphoses,</l>
+<l>« Sentent pourtant, abstrait, ou, ma foi, quelque part,</l>
+<l>« Battre un cœur ! un cœur simple ; ou veiller un Regard !</l>
+<l>« Oh ! qu’il n’y ait personne et que Tout continue !</l>
+<l>« Alors géhenne à fous, sans raison, sans issue !</l>
+<l>« Et depuis les Toujours, et vers l’Éternité !</l>
+<l>« Comment donc quelque chose a-t-il jamais été !</l>
+<pagenum num="9"/>
+<l>« Que Tout se sache seul au moins, pour qu’il se tue !</l>
+<l>« Draguant les chantiers d’étoiles, qu’un Cri se rue,</l>
+<l>« Mort ! emballant en ses linceuls aux clapotis</l>
+<l>« Irrévocables, ces sols d’impôts abrutis !</l>
+<l>« Que l’Espace ait un bon haut-le-cœur et vomisse</l>
+<l>« Le Temps nul, et ce Vin aux geysers de justice !</l>
+<l>« Lyres des nerfs, filles des Harpes d’idéal</l>
+<l>« Qui vibriez, aux soirs d’exil, sans songer à mal,</l>
+<l>« Redevenez plasma ! Ni Témoin, ni spectacle !</l>
+<l>« Chut, ultime vibration de la Débâcle,</l>
+<l>« Et que Jamais soit Tout, bien intrinsèquement,</l>
+<l>« Très hermétiquement, primordialement ! »</l>
+</lg>
+<lg>
+<l>Ah ! — Le long des calvaires de la Conscience,</l>
+<l>La Passion des mondes studieux t’encense,</l>
+<l>Aux Orgues des Résignations, Idéal,</l>
+<l>O Galathée aux pommiers de l’Eden-Natal !</l>
+</lg>
+<lg>
+<l>Martyres, croix de l’Art, formules, fugues douces,</l>
+<l>Babels d’or où le vent soigne de bonnes mousses ;</l>
+<l>Mondes vivotant, vaguement étiquetés</l>
+<l>De livres, sous la céleste Éternullité :</l>
+<l>Vanité, vanité, vous dis-je ! — Oh ! moi, j’existe,</l>
+<l>Mais où sont, maintenant, les nerfs de ce Psalmiste ?</l>
+<l>Minuit un quart ; quels bords te voient passer, aux nuits</l>
+<l>Anonymes, ô Nébuleuse-Mère ? Et puis,</l>
+<l>Qu’il doit agoniser d’étoiles éprouvées,</l>
+<l>A cette heure où Christ naît, sans feu pour leurs couvées,</l>
+<l>Mais clamant : ô mon Dieu ! tant que, vers leur ciel mort,</l>
+<pagenum num="10"/>
+<l>Une flèche de cathédrale pointe encor</l>
+<l>Des polaires surplis ! — Ces Terres se sont tues,</l>
+<l>Et la création fonctionne têtue !</l>
+<l>Sans issue, elle est Tout ; et nulle autre, elle est Tout.</l>
+<l>X en soi ? Soif à trucs ! Songe d’une nuit d’août ?</l>
+<l>Sans le mot, nous serons revannés, ô ma Terre !</l>
+<l>Puis tes sœurs. <i>Et nunc et semper, Amen.</i> Se taire.</l>
+</lg>
+<lg>
+<l>Je veux parler au Temps ! criais-je. Oh ! quelque engrais</l>
+<l>Anonyme ! Moi ! mon Sacré-Cœur ! — J’espérais</l>
+<l>Qu’à ma mort, tout frémirait, du cèdre à l’hysope ;</l>
+<l>Que ce Temps, déraillant, tomberait en syncope,</l>
+<l>Que, pour venir jeter sur mes lèvres des fleurs,</l>
+<l>Les Soleils très navrés détraqueraient leurs chœurs ;</l>
+<l>Qu’un soir, du moins, mon Cri me jaillissant des moelles,</l>
+<l>On verrait, mon Dieu, des signaux dans les étoiles ?</l>
+</lg>
+<lg>
+<l>Puis, fou devant ce ciel qui toujours nous bouda,</l>
+<l>Je rêvais de prêcher la fin, nom d’un Bouddha !</l>
+<l>Oh ! pâle mutilé, d’un : qui m’aime me suive !</l>
+<l>Faisant de leurs cités une unique Ninive,</l>
+<l>Mener ces chers bourgeois, fouettés d’alléluias,</l>
+<l>Au Saint-Sépulcre maternel du Nirvana !</l>
+</lg>
+<lg>
+<l>Maintenant, je m’en lave les mains (concurrence</l>
+<l>Vitale, l’argent, l’art, puis les lois de la France...)</l>
+</lg>
+<lg>
+<l><i>Vermis sum, pulvis es !</i> où sont mes nerfs d’hier ?</l>
+<l>Mes muscles de demain ? Et le terreau si fier</l>
+<pagenum num="11"/>
+<l>De Mon âme, où donc était-il, il y a mille</l>
+<l>Siècles ? et comme, incessamment, il file, file !...</l>
+<l>Anonyme ! et pour Quoi ? — Pardon, Quelconque Loi !</l>
+<l>L’être est forme, Brahma seul est Tout-Un en soi.</l>
+</lg>
+<lg>
+<l>O Robe aux cannelures à jamais doriques</l>
+<l>Où grimpent les Passions des grappes cosmiques ;</l>
+<l>O Robe de Maïa, ô Jupe de Maman,</l>
+<l>Je baise vos ourlets tombals éperdument !</l>
+<l>Je sais ! la vie outrecuidante est une trêve</l>
+<l>D’un jour au Bon Repos qui pas plus ne s’achève</l>
+<l>Qu’il n’a commencé. Moi, ma trêve, confiant,</l>
+<l>Je la veux cuver au sein de l’I<s>NCONSCIENT</s>.</l>
+</lg>
+<lg>
+<l>Dernière crise. Deux semaines errabundes,</l>
+<l>En tout, sans que mon Ange Gardien me réponde.</l>
+<l>Dilemne à deux sentiers vers l’Eden des Elus :</l>
+<l>Me laisser éponger mon Moi par l’Absolu ?</l>
+<l>Ou bien, élixirer l’Absolu en moi-même ?</l>
+<l>C’est passé. J’aime tout, aimant mieux que Tout m’aime.</l>
+<l>Donc Je m’en vais flottant aux orgues sous-marins.</l>
+<l>Par les coraux, les œufs, les bras verts, les écrins,</l>
+<l>Dans la tourbillonnante éternelle agonie</l>
+<l>D’un Nirvana des Danaïdes du génie !</l>
+<l>Lacs de syncopes esthétiques ! Tunnels d’or !</l>
+<l>Pastel défunt ! fondant sur une langue ! Mort</l>
+<l>Mourante ivre-morte ! Et la conscience unique</l>
+<l>Que c’est dans la Sainte Piscine ésotérique</l>
+<l>D’un <i>lucus</i> à huis-clos, sans pape et sans laquais,</l>
+<pagenum num="12"/>
+<l>Que J’ouvre ainsi mes riches veines à Jamais.</l>
+</lg>
+<lg>
+<l>En attendant la mort mortelle, sans mystère,</l>
+<l>Lors quoi l’usage veut qu’on nous cache sous terre.</l>
+</lg>
+<lg>
+<l>Maintenant, tu n’as pas cru devoir rester coi ;</l>
+<l>Eh bien, un cri humain ! s’il en reste un pour toi.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p03">
+<pagenum num="13"/>
+
+<h2>COMPLAINTE PROPITIATOIRE</h2>
+<h2><s>A L</s>’I<s>NCONSCIENT</s></h2>
+
+<vsep class="rule"/>
+
+<epigraphe>
+<p>Aditi.</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l indent="1">O Loi, qui êtes parce que Vous Êtes,</l>
+<l indent="1">Que Votre Nom soit la Retraite !</l>
+</lg>
+<lg>
+<l>— Elles ! ramper vers elles d’adoration ?</l>
+<l>Ou que sur leur misère humaine je me vautre ?</l>
+<l>Elle m’aime, <i>infiniment !</i> Non, d’occasion !</l>
+<l>Si non <i>moi,</i> ce serait <i>infiniment</i> un autre !</l>
+</lg>
+<lg>
+<l indent="1">Que votre inconsciente Volonté</l>
+<l indent="1">Soit faite dans l’Éternité !</l>
+</lg>
+<lg>
+<l>— Dans l’orgue qui par déchirements se châtie,</l>
+<l>Croupir, des étés, sous les vitraux, en langueur ;</l>
+<l>Mourir d’un attouchement de l’Eucharistie,</l>
+<l>S’entrer un crucifix maigre et nu dans le cœur ?</l>
+</lg>
+<pagenum num="14"/>
+<lg>
+<l indent="1">Que de votre communion, nous vienne</l>
+<l indent="1">Notre sagesse quotidienne !</l>
+</lg>
+<lg>
+<l>— O croisés de mon sang ! transporter les cités !</l>
+<l>Bénir la Pâque universelle, sans salaires !</l>
+<l>Mourir sur la Montagne, et que l’Humanité,</l>
+<l>Aux âges d’or sans fin, me porte en scapulaires ?</l>
+</lg>
+<lg>
+<l indent="1">Pardonnez-nous nos offenses, nos cris.</l>
+<l indent="1">Comme étant d’à jamais écrits !</l>
+</lg>
+<lg>
+<l>— Crucifier l’infini dans des toiles comme</l>
+<l>Un mouchoir, et qu’on dise : « Oh ! l’Idéal s’est tu ! »</l>
+<l>Formuler Tout ! En fugues sans fin dire l’Homme !</l>
+<l>Être l’âme des arts à zones que veux-tu ?</l>
+</lg>
+<lg>
+<l indent="1">Non, rien ; délivrez-nous de la Pensée,</l>
+<l indent="1">Lèpre originelle, ivresse insensée,</l>
+</lg>
+<lg>
+<l indent="2">Radeau du Mal et de l’Exil ;</l>
+<l indent="4">Ainsi soit-il.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p04">
+<pagenum num="15"/>
+
+<h2>COMPLAINTE-PLACET</h2>
+<h2><s>DE</s> F<s>AUST FILS</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Si tu savais, maman Nature,</l>
+<l>Comme Je m’aime en tes ennuis,</l>
+<l>Tu m’enverrais une enfant pure,</l>
+<l indent="3">Chaste aux « <i>et puis ?</i> »</l>
+</lg>
+<lg>
+<l>Si tu savais quelles boulettes,</l>
+<l>Tes soleils de Panurge ! dis,</l>
+<l>Tu mettrais le nôtre en miettes,</l>
+<l indent="3">En plein midi.</l>
+</lg>
+<lg>
+<l>Si tu savais, comme la <i>Table</i></l>
+<l><i>De les Matières</i> est mon fort !</l>
+<l>Tu me prendrais comme comptable,</l>
+<l indent="3">Comptable à mort !</l>
+</lg>
+<lg>
+<l>Si tu savais ! les fantaisies !</l>
+<l>Dont Je puis être le ferment !</l>
+<l>Tu ferais de moi ton Sosie,</l>
+<l indent="3">Tout simplement.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p05">
+<pagenum num="16"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>A</s> N<s>OTRE</s>-D<s>AME DES</s> S<s>OIRS</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>L’Extase du soleil, peuh ! La Nature, fade</l>
+<l>Usine de sève aux lymphatiques parfums.</l>
+<l>Mais les lacs éperdus des longs couchants défunts</l>
+<l>Dorlotent mon voilier dans leurs plus riches rades,</l>
+<l indent="3">Comme un ange malade...</l>
+<l indent="3">O Notre-Dame des Soirs,</l>
+<l indent="3">Que Je vous aime sans espoir !</l>
+</lg>
+<lg>
+<l>Lampes des mers ! blancs bizarrants ! mots à vertiges !</l>
+<l>Axiomes <i>in articulo mortis</i> déduits !</l>
+<l>Ciels vrais ! Lune aux échos dont communient les puits !</l>
+<l>Yeux des portraits ! Soleil qui, saignant, son quadrige,</l>
+<l indent="3">Cabré, s’y crucifige !</l>
+<l indent="3">O Notre-Dame des Soirs,</l>
+<l indent="3">Certe, ils vont haut vos encensoirs !</l>
+</lg>
+<pagenum num="17"/>
+<lg>
+<l>Eux sucent des plis dont le frou-frou les suffoque ;</l>
+<l>Pour un regard, ils battraient du front les pavés ;</l>
+<l>Puis s’affligent sur maint sein creux, mal abreuvés ;</l>
+<l>Puis retournent à ces vendanges sexciproques.</l>
+<l indent="3">Et moi, moi Je m’en rnoque !</l>
+<l indent="3">Oui, Notre-Dame des Soirs,</l>
+<l indent="3">J’en fais, paraît-il, peine à voir.</l>
+</lg>
+<lg>
+<l>En voyage, sur les fugitives prairies,</l>
+<l>Vous me fuyez ; ou du ciel des eaux m’invitez ;</l>
+<l>Ou m’agacez au tournant d’une vérité ;</l>
+<l>Or vous ai-je encor dit votre fait, je vous prie ?</l>
+<l indent="3">Ah ! coquette Marie,</l>
+<l indent="3">Ah ! Notre-Dame des Soirs,</l>
+<l indent="3">C’est trop pour vos seuls Reposoirs !</l>
+</lg>
+<lg>
+<l>Vos Rites, jalonnés de sales bibliothèques,</l>
+<l>Ont voûté mes vingt ans, m’ont tari de chers goûts.</l>
+<l>Verrai-je l’oasis fondant au rendez-vous,</l>
+<l>Où... vos lèvres (dit-on !) à jamais nous dissèquent ?</l>
+<l indent="3">O Lune sur La Mecque !</l>
+<l indent="3">Notre-Dame, Notre-Dame des Soirs,</l>
+<l indent="3">De <i>vrais</i> yeux m’ont dit : au revoir !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p06">
+<pagenum num="18"/>
+
+<h2>COMPLAINTE DES VOIX</h2>
+<h2><s>SOUS LE FIGUIER BOUDHIQUE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<h3><s>LES COMMUNIANTES</s></h3>
+
+<l indent="4">Ah ! ah !</l>
+<l indent="2">Il neige des hosties</l>
+<l indent="2">De soie, anéanties !</l>
+<l indent="4">Ah ! ah !</l>
+<l indent="4">Alléluia !</l>
+
+<h3><s>LES VOLUPTANTES</s></h3>
+
+<l>La lune en son halo ravagé n’est qu’un œil</l>
+<l>Mangé de mouches, tout rayonnant des grands deuils.</l>
+
+<l>Vitraux mûrs, déshérités, flagellés d’aurores,</l>
+<l>Les Yeux Promis sont plus dans les grands deuils encore.</l>
+
+<h3><s>LES PARANYMPHES</s></h3>
+
+<l indent="2">Les <i>concetti</i> du crépuscule</l>
+<l indent="2">Frisaient les bouquets de nos seins ;</l>
+<pagenum num="19"/>
+<l indent="2">Son haleine encore y circule,</l>
+<l indent="2">Et, leur félinant le satin</l>
+<l indent="2">Fait s’y pâmer deux renoncules.</l>
+
+<l indent="2">Devant ce Maître Hypnotiseur,</l>
+<l indent="2">Expirent leurs frou-frou poseurs ;</l>
+<l indent="2">Elles crispent leurs étamines,</l>
+<l indent="2">Et se rinfiltrent leurs parfums</l>
+<l indent="4">Avec des mines</l>
+<l indent="4">D’œillets défunts</l>
+
+<h3><s>LES JEUNES GENS</s></h3>
+
+<l>Des rêves engrappés se roulaient aux collines,</l>
+<l>Feuilles mortes portant du sang des mousselines,</l>
+
+<l><i>Cumulus,</i> indolents roulis, qu’un vent tremblé</l>
+<l>Vint carder un beau soir de soifs de s’en aller !</l>
+
+<h3><s>LES COMMUNIANTES</s></h3>
+
+<l indent="4">Ah ! ah !</l>
+<l indent="2">Il neige des cœurs</l>
+<l indent="2">Noués de faveurs,</l>
+<l indent="4">Ah ! ah !</l>
+<l indent="4">Alléluia !</l>
+
+<h3><s>LES VOLUPTANTES</s></h3>
+
+<l>Reviens, vagir parmi mes cheveux, mes cheveux</l>
+<l>Tièdes, Je t’y ferai des bracelets d’aveux !</l>
+<pagenum num="20"/>
+<l>Entends partout les Encensoirs les plus célestes,</l>
+<l>L’univers te garde une note unique ! reste...</l>
+
+<h3><s>LES PARANYMPMES</s></h3>
+
+<l indent="4">C’est le nid meublé</l>
+<l indent="4">Par l’homme idolâtre ;</l>
+<l indent="4">Les vents déclassés</l>
+<l indent="4">Des mois près de l’âtre ;</l>
+<l indent="4">Rien de passager,</l>
+<l indent="4">Presque pas de scènes ;</l>
+<l indent="4">La vie est si saine,</l>
+<l indent="3">Quand on sait s’arranger.</l>
+<l indent="4">O fiancé probe,</l>
+<l indent="4">Commandons ma robe !</l>
+<l>Hélas ! le bonheur est là, mais lui se dérobe...</l>
+
+<h3><s>LES JEUNES GENS</s></h3>
+
+<l>Bestiole à chignon, Nécessaire divin,</l>
+<l>Os de chatte, corps de lierre, chef-d’œuvre vain !</l>
+
+<l>O femme, mammifère à chignon, ô fétiche,</l>
+<l>On t’absout ; c’est un Dieu qui par tes yeux nous triche.</l>
+
+<l>Beau commis voyageur, d’une Maison là-haut,</l>
+<l>Tes yeux mentent ! ils ne nous diront pas le Mot !</l>
+
+<l>Et tes pudeurs ne sont que des passes réflexes</l>
+<l>Dont joue un Dieu très fort (Ministère des sexes).</l>
+
+<pagenum num="21"/>
+
+<l>Tu peux donc nous mener au Mirage béant,</l>
+<l>Feu-follet connu, vertugadin du Néant ;</l>
+
+<l>Mais, fausse sœur, fausse humaine, fausse mortelle,</l>
+<l>Nous t’écartèlerons de hontes sangsuelles !</l>
+
+<l>Et si ta dignité se cabre ? à deux genoux,</l>
+<l>Nous te fermerons la bouche avec des bijoux.</l>
+
+<l>— Vie ou Néant ! choisir. Ah quelle discipline !</l>
+<l>Que n’est-il un Eden entre ces deux usines ?</l>
+
+<l indent="2">Bon ; que tes doigts sentirnentals</l>
+<l indent="2">Aient pour nos fronts au teint d’épave</l>
+<l indent="2">Des condoléances qui lavent</l>
+<l indent="2">Et des trouvailles d’animal.</l>
+
+<l indent="2">Et qu’à jamais ainsi tu ailles,</l>
+<l indent="2">Le long des étouffants dortoirs,</l>
+<l indent="2">Égrenant les bonnes semailles,</l>
+<l indent="2">En inclinant ta chaste taille</l>
+<l indent="2">Sur les sujets de tes devoirs.</l>
+
+<l indent="2">Ah ! pour une âme trop tanguée,</l>
+<l indent="2">Tes baisers sont des potions</l>
+<l indent="2">Qui la laissent là, bien droguée,</l>
+<l indent="2">Et s’oubliant à te voir gaie,</l>
+<l indent="2">Accomplissant tes fonctions</l>
+<l indent="2">En point narquoise Déléguée.</l>
+
+<pagenum num="22"/>
+
+<h3><s>LES COMMUNIANTES</s></h3>
+
+<l indent="4">Des ramiers</l>
+<l indent="4">Familiers</l>
+<l indent="2">Sous nos jupes palpitent !</l>
+<l indent="2">Doux Çakya, venez vite</l>
+<l indent="2">Les faire prisonniers !</l>
+
+<h3><s>LE FIGUIER</s></h3>
+
+<l>Défaillantes, les Étoiles que la lumière</l>
+<l>Épuise, battent plus faiblement des paupières.</l>
+
+<l>Le vert-luisant s’éteint à bout, l’Être pâmé</l>
+<l>Agonise à tâtons et se meurt à jamais.</l>
+
+<l>Et l’Idéal égrène en ses mains fugitives</l>
+<l>L’éternel chapelet des planètes plaintives.</l>
+
+<l indent="2">Pauvres fous, vraiment pauvres fous !</l>
+<l indent="2">Puis, quand on a fait la crapule,</l>
+<l indent="2">On revient geindre au crépuscule,</l>
+<l indent="2">Roulant son front dans les genoux</l>
+<l indent="2">Des Saintes boudhiques Nounous.</l>
+
+</poem>
+
+</page-sequence>
+<page-sequence id="p07">
+<pagenum num="23"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DE CETTE BONNE LUNE</s></h2>
+
+<vsep class="rule"/>
+
+<p><i>On entend les Étoiles :</i></p>
+
+<poem>
+<lg>
+<l indent="4">Dans l’giron</l>
+<l indent="4">Du Patron,</l>
+<l indent="2">On y danse, on y danse,</l>
+<l indent="4">Dans l’giron</l>
+<l indent="4">Du Patron,</l>
+<l indent="2">On y danse tous en rond.</l>
+</lg>
+<lg>
+<l>— Là, voyons, mam’zell’ la Lune,</l>
+<l>Ne gardons pas ainsi rancune ;</l>
+<l>Entrez en danse, et vous aurez</l>
+<l>Un collier de soleils dorés.</l>
+</lg>
+<lg>
+<l>— Mon Dieu, cest à vous bien honnête,</l>
+<l>Pour une pauvre Cendrillon ;</l>
+<l>Mais, me suffit le médaillon</l>
+<l>Que m’a donné ma sœur planète.</l>
+</lg>
+<pagenum num="24"/>
+<lg>
+<l>— Fi ! votre Terre est un suppôt</l>
+<l>De la Pensée ! Entrez en fête ;</l>
+<l>Pour sùr, vous tournerez la tête</l>
+<l>Aux astres les plus comme il faut.</l>
+</lg>
+<lg>
+<l>— Merci, merci, je n’ai que ma mie,</l>
+<l>Juste que je l’entends gémir !</l>
+</lg>
+<lg>
+<l>— Vous vous trompez, c’est le soupir</l>
+<l>Des universelles chimies !</l>
+</lg>
+<lg>
+<l>— Mauvaises langues, taisez-vous !</l>
+<l>Je dois veiller. Tas de traînées,</l>
+<l>Allez courir vos guilledous !</l>
+</lg>
+<lg>
+<l>— Va donc, rosière enfarinée !</l>
+<l>Hé ! Notre-Dame des gens soûls,</l>
+<l>Des filous et des loups-garous !</l>
+<l>Metteuse en rut des vieux matous !</l>
+<l>Coucou !</l>
+</lg>
+
+<l class="smaller r3"><i>Exeunt</i> les étoiles. Silence et Lune. On entend.</l>
+
+<lg>
+<l indent="4">Sous l’plafond</l>
+<l indent="5">Sans fond,</l>
+<l indent="2">On y danse, on y danse,</l>
+<l indent="4">Sous l’plafond</l>
+<l indent="5">Sans fond,</l>
+<l indent="2">On y danse tous en rond.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p08">
+<pagenum num="25"/>
+
+<h2>COMPLAINTE DES PIANOS</h2>
+<h2><s>QU’ON ENTEND DANS LES QUARTIERS AISÉS</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Menez l’âme que les Lettres ont bien nourrie,</l>
+<l>Les pianos, les pianos, dans les quartiers aisés !</l>
+<l>Premiers soirs, sans pardessus, chaste flânerie,</l>
+<l>Aux complaintes des nerfs incompris ou brisés.</l>
+</lg>
+<lg>
+<l indent="2">Ces enfants, à quoi rêvent-elles,</l>
+<l indent="2">Dans les ennuis des ritournelles ?</l>
+</lg>
+<lg>
+<l indent="4">— « Préaux des soirs,</l>
+<l indent="4">Christs des dortoirs !</l>
+</lg>
+<lg>
+<l indent="2">« Tu t’en vas et tu nous laisses,</l>
+<l indent="2">Tu nous laiss’s et tu t’en vas,</l>
+<l indent="2">Défaire et refaire ses tresses,</l>
+<l indent="2">Broder d’éternels canevas. »</l>
+</lg>
+<pagenum num="26"/>
+<lg>
+<l>Jolie ou vague ? triste ou sage ? encore pure ?</l>
+<l>O jours, tout m’est égal ? ou, monde, moi je veux ?</l>
+<l>Et si vierge, du moins, de la bonne blessure,</l>
+<l>Sachant quels gras couchants ont les plus blancs aveux ?</l>
+</lg>
+<lg>
+<l indent="2">Mon Dieu, à quoi donc rêvent-elles ?</l>
+<l indent="2">A des Roland, à des dentelles ?</l>
+</lg>
+<lg>
+<l indent="4">— « Cœurs en prison,</l>
+<l indent="4">Lentes saisons !</l>
+</lg>
+<lg>
+<l indent="2">« Tu t’en vas et tu nous quittes,</l>
+<l indent="2">Tu nous quitt’s et tu t’en vas !</l>
+<l indent="2">Couvents gris, chœurs de Salamites,</l>
+<l indent="2">Sur nos seins nuls croisons nos bras. »</l>
+</lg>
+<lg>
+<l>Fatales clés de l’être un beau jour apparues ;</l>
+<l>Psitt ! aux hérédités en ponctuels ferments,</l>
+<l>Dans le bal incessant de nos étranges rues ;</l>
+<l>Ah ! pensionnats, théâtres, journaux, romans !</l>
+</lg>
+<lg>
+<l indent="2">Allez, stériles ritournelles,</l>
+<l indent="2">La vie est vraie et criminelle.</l>
+</lg>
+<lg>
+<l indent="4">— « Rideaux tirés,</l>
+<l indent="4">Peut-on entrer ?</l>
+</lg>
+<lg>
+<l indent="2">« Tu t’en vas et tu nous laisses,</l>
+<l indent="2">Tu nous laiss’s et tu t’en vas,</l>
+<pagenum num="27"/>
+<l indent="2">La source des frais rosiers baisse,</l>
+<l indent="2">Vraiment ! Et lui qui ne vient pas... »</l>
+</lg>
+<lg>
+<l>Il viendra ! Vous serez les pauvres cœurs en faute,</l>
+<l>Fiancés au remord comme aux essais sans fond,</l>
+<l>Et les suffisants cœurs cossus, n’ayant d’autre hôte</l>
+<l>Qu’un train-train pavoisé d’estime et de chiffons.</l>
+</lg>
+<lg>
+<l indent="2">Mourir ? peut-être brodent-elles,</l>
+<l indent="2">Pour un oncle à dot, des bretelles ?</l>
+</lg>
+<lg>
+<l indent="4">— « Jamais ! Jamais !</l>
+<l indent="4">Si tu savais !</l>
+</lg>
+<lg>
+<l indent="2">« Tu t’en vas et tu nous quittes,</l>
+<l indent="2">Tu nous quitt’s et tu t’en vas,</l>
+<l indent="2">Mais tu nous reviendra bien vite</l>
+<l indent="2">Guérir mon beau mal, n’est-ce pas ? »</l>
+</lg>
+<lg>
+<l>Et c’est vrai ! l’Idéal les fait divaguer toutes,</l>
+<l>Vigne bohème, même en ces quartiers aisés.</l>
+<l>La vie est là ; le pur flacon des vives gouttes</l>
+<l>Sera, <i>comme il convient</i>, d’eau propre baptisé.</l>
+</lg>
+<lg>
+<l indent="2">Aussi, bientôt, se joueront-elles</l>
+<l indent="2">De plus exactes ritournelles.</l>
+</lg>
+<lg>
+<l indent="4">« — Seul oreiller !</l>
+<l indent="4">Mur familier !</l>
+</lg>
+<pagenum num="28"/>
+<lg>
+<l indent="2">« Tu t’en vas et tu nous laisses,</l>
+<l indent="2">Tu nous laiss’s et tu t’en vas,</l>
+<l indent="2">Que ne suis-je morte à la messe !</l>
+<l indent="2">O mois, ô linges, ô repas !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p09">
+<pagenum num="29"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DE LA BONNE DÉFUNTE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Elle fuyait par l’avenue,</l>
+<l>Je la suivais illuminé,</l>
+<l>Ses yeux disaient : « J’ai deviné</l>
+<l>Hélas ! que tu m’as reconnue ! »</l>
+</lg>
+<lg>
+<l>Je la suivis illuminé !</l>
+<l>Jeux désolés, bouche ingénue,</l>
+<l>Pourquoi l’avais-je reconnue,</l>
+<l>Elle, loyal rêve mort-né ?</l>
+</lg>
+<lg>
+<l>Jeux trop mûrs, mais bouche ingénue ;</l>
+<l>Œillet blanc, d’azur trop veiné ;</l>
+<l>Oh ! oui, rien qu’un rêve mort-né,</l>
+<l>Car, défunte elle est devenue.</l>
+</lg>
+<pagenum num="30"/>
+<lg>
+<l>Gis, œillet, d’azur trop veiné,</l>
+<l>La vie humaine continue</l>
+<l>Sans toi, défunte devenue.</l>
+<l>— Oh ! je rentrerai sans dîner !</l>
+</lg>
+<lg>
+<l>Vrai, je ne l’ai jamais connue.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p10">
+<pagenum num="31"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DE L’ORGUE DE BARBARIE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l indent="1">Orgue, orgue de Barbarie,</l>
+<l indent="1">Don Quichotte, Souffre-Douleur,</l>
+<l indent="1">Vidasse, vidasse ton cœur,</l>
+<l indent="1">Ma pauvre rosse endolorie.</l>
+</lg>
+<lg>
+<l indent="3">Hein, étés idiots,</l>
+<l indent="3">Octobres malades,</l>
+<l indent="3">Printemps, purges fades,</l>
+<l indent="3">Hivers tout vieillots ?</l>
+</lg>
+<lg>
+<l>— « Quel silence, dans la forêt d’automne,</l>
+<l>Quand le soleil en son sang s’abandonne !</l>
+</lg>
+<lg>
+<l indent="3">Gaz, haillons d’affiches,</l>
+<l indent="3">Feu les casinos,</l>
+<l indent="3">Cercueils des pianos,</l>
+<l indent="3">Ah ! mortels postiches.</l>
+</lg>
+<pagenum num="32"/>
+<lg>
+<l>— « Déjà la nuit, qu’on surveille à peine</l>
+<l>Le frou-frou de sa titubante traîne. »</l>
+</lg>
+<lg>
+<l indent="3">Romans pour les quais,</l>
+<l indent="3">Photos élégiaques,</l>
+<l indent="3">Escarpins, vieux claques,</l>
+<l indent="3">D’un coup de balai !</l>
+</lg>
+<lg>
+<l>— « Oh ! j’ai peur, nous avons perdu la route ;</l>
+<l>Paul, ce bois est mal famé ! chut, écoute... »</l>
+</lg>
+<lg>
+<l indent="3">Végétal fidèle,</l>
+<l indent="3">Ève aime toujours</l>
+<l indent="3">LUI ! jamais pour</l>
+<l indent="3">Nous, jamais pour elle.</l>
+</lg>
+<lg>
+<l>— « O ballets corrosifs ! réel, le crime ?</l>
+<l>La lune me pardonnait dans les cimes. »</l>
+</lg>
+<lg>
+<l indent="3">Vêpres, Ostensoirs,</l>
+<l indent="3">Couchants ! Sulamites</l>
+<l indent="3">De province aux rites</l>
+<l indent="3">Exilants des soirs !</l>
+</lg>
+<lg>
+<l>— « Ils m’ont brûlée ; et depuis, vagabonde</l>
+<l>Au fond des bois frais, j’implore le monde. »</l>
+</lg>
+<lg>
+<l indent="3">Et les vents s’engueulent,</l>
+<l indent="3">Tout le long des nuits !</l>
+<pagenum num="33"/>
+<l indent="3">Qu’est-c’que moi j’y puis,</l>
+<l indent="3">Qu’est-ce donc qu’ils veulent ?</l>
+</lg>
+<lg>
+<l>— « Je vais guérir, voyez la cicatrice,</l>
+<l>Oh ! je ne veux pas aller à l’hospice ! »</l>
+</lg>
+<lg>
+<l indent="3">Des berceaux fienteux</l>
+<l indent="3">Aux bières de même,</l>
+<l indent="3">Bons couples sans gêne,</l>
+<l indent="3">Tournez deux à deux.</l>
+</lg>
+<lg>
+<l indent="1">Orgue, Orgue de Barbarie !</l>
+<l indent="1">Scie autant que Souffre-Douleur,</l>
+<l indent="1">Vidasse, vidasse ton cœur,</l>
+<l indent="1">Ma pauvre rosse endolorie.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p11">
+<pagenum num="34"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>D’UN CERTAIN DIMANCHE</s></h2>
+
+<vsep class="rule"/>
+
+<epigraphe>
+<p>Elle ne concevait pas qu’aimer fut l’ennemi d’aimer.</p>
+<p class="r3">S<s>AINTE</s>-B<s>EUVE</s>. <i>Volupté.</i></p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>L’homme n’est pas méchant, ni la femme éphémère.</l>
+<l>Ah ! fous dont au casino battent les talons,</l>
+<l>Tout homme pleure un jour et toute femme est mère,</l>
+<l indent="2">Nous sommes tous filials, allons !</l>
+<l>Mais quoi ! les Destins ont des parti-pris si tristes,</l>
+<l>Qui font que, les uns loin des autres, l’on s’exile,</l>
+<l>Qu’on se traite à tort et à travers d’égoïstes,</l>
+<l>Et qu’on s’use à trouver quelque unique Evangile.</l>
+<l>Ah ! jusqu’à ce que la nature soit bien bonne,</l>
+<l indent="2">Moi je veux vivre monotone.</l>
+</lg>
+<lg>
+<l>Dans ce village en falaises, loin, vers les cloches,</l>
+<l>Je redescends dévisagé par les enfants</l>
+<l>Qui s’en vont faire bénir de tièdes brioches ;</l>
+<l indent="2">Et rentré, mon sacré-cœur se fend !</l>
+<l>Les moineaux des vieux toits pépient à ma fenêtre,</l>
+<l>Ils me regardent dîner, sans faim, à la carte ;</l>
+<l>Des âmes d’amis morts les habitent peut-être ?</l>
+<pagenum num="35"/>
+<l>Je leur jette du pain : comme blessés, ils partent !</l>
+<l>Ah ! jusqu’à ce que la nature soit bien bonne,</l>
+<l indent="2">Moi je veux vivre monotone.</l>
+</lg>
+<lg>
+<l>Elle est partie hier. Suis-je pas triste d’elle ?</l>
+<l>Mais c’est vrai ! Voilà donc le fond de mon chagrin !</l>
+<l>Oh ! ma vie est aux plis de ta jupe fidèle !</l>
+<l indent="2">Son mouchoir me flottait sur le Rhin....</l>
+<l>Seul. — Le Couchant retient un moment son Quadrige</l>
+<l>En rayons où le ballet des moucherons danse,</l>
+<l>Puis, vers les toits fumants de la soupe, il s’afflige...</l>
+<l>Et c’est le Soir, l’insaisissable confidence...</l>
+<l>Ah ! jusqu’à ce que la nature soit bien bonne,</l>
+<l indent="2">Faudra-t-il vivre monotone ?</l>
+</lg>
+<lg>
+<l>Que d’yeux, en éventail, en ogive, ou d’inceste,</l>
+<l>Depuis que l’Être espère, ont réclamé leurs droits !</l>
+<l indent="2">O ciels, les yeux pourrissent-ils comme le reste ?</l>
+<l>Oh ! qu’il fait seul ! oh ! fait-il froid !</l>
+<l>Oh ! que d’après-midi d’automne à vivre encore !</l>
+<l>Le Spleen, eunuque à froid, sur nos rêves se vautre !</l>
+<l>Or, ne pouvant redevenir des madrépores,</l>
+<l>O mes humains, consolons-nous les uns les autres.</l>
+<l>Et jusqu’à ce que la nature soit bien bonne,</l>
+<l indent="2">Tâchons de vivre monotone.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p12">
+<pagenum num="36"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>D’UN AUTRE DIMANCHE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>C’était un très-au vent d’octobre paysage,</l>
+<l>Que découpe, aujourd’hui dimanche, la fenêtre,</l>
+<l>Avec sa jalousie en travers, hors d’usage,</l>
+<l>Où sèche, depuis quand ! une paire de guêtres</l>
+<l>Tachant, de deux mals blancs ce glabre paysage.</l>
+</lg>
+<lg>
+<l>Un couchant mal bâti suppurant du livide ;</l>
+<l>Le coin d’une buanderie aux tuiles sales ;</l>
+<l>En plein, le Val-de-Grâce, comme un qui préside</l>
+<l>Cinq arbres en proie à de mesquines rafales</l>
+<l>Qui marbrent ce ciel crû de bandages livides.</l>
+</lg>
+<lg>
+<l>Puis les squelettes des glycines aux ficelles,</l>
+<l>En proie à des rafales encor plus mesquines !</l>
+<l>O lendemains de noce ! ô bribes de dentelles !</l>
+<l>Montrent-elles assez la corde, ces glycines</l>
+<l>Recroquevillant leur agonie aux ficelles !</l>
+</lg>
+<pagenum num="37"/>
+<lg>
+<l>Ah ! qu’est-ce que je fais, ici, dans cette chambre !</l>
+<l>Des vers. Et puis, après ? ô sordide limace !</l>
+<l>Quoi ! la vie est unique, et toi, sous ce scaphandre,</l>
+<l>Tu te racontes sans fin, et tu te ressasses !</l>
+<l>Seras-tu donc toujours un qui garde la chambre ?</l>
+</lg>
+<lg>
+<l>Ce fut un bien au vent d’octobre paysage....</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p13">
+<pagenum num="38"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DU FŒTUS DE POÈTE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l indent="3">Blasé dis-je ! En avant,</l>
+<l>Déchirer la nuit gluante des racines,</l>
+<l>A travers maman, amour tout d’albumine,</l>
+<l>Vers le plus clair ! vers l’alme et riche étamine</l>
+<l indent="4">D’un soleil levant !</l>
+</lg>
+<lg>
+<l>— Chacun son tour, il est temps que je m’émancipe,</l>
+<l>Irradiant des Limbes mon inédit type !</l>
+</lg>
+<lg>
+<l indent="5">En avant !</l>
+<l>Sauvé des steppes du mucus, à la nage</l>
+<l>Têter soleil ! et soûl de lait d’or, bavant,</l>
+<l>Dodo à les seins dorloteurs des nuages,</l>
+<l indent="4">Voyageurs savants !</l>
+</lg>
+<lg>
+<l>— A rêve que veux-tu, là-bas, je vivrai dupe</l>
+<l>D’une âme en coup de vent dans la fraîcheur des jupes !</l>
+</lg>
+<pagenum num="39"/>
+<lg>
+<l indent="4">En avant !</l>
+<l>Dodo sur le lait caillé des bons nuages</l>
+<l>Dans la main de Dieu, bleue, aux mille yeux vivants</l>
+<l>Aux pays du vin viril faire naufrage !</l>
+<l indent="4">Courage,</l>
+<l indent="2">Là, là, je me dégage....</l>
+</lg>
+<lg>
+<l>— Et je communierai, le front vers l’Orient,</l>
+<l>Sous les espèces des baisers inconscients !</l>
+</lg>
+<lg>
+<l indent="4">En avant !</l>
+<l>Cogne, glas des nuits ! filtre, soleil solide !</l>
+<l>Adieu, forêts d’aquarium qui, me couvant,</l>
+<l>Avez mis ce levain dans ma chrysalide !</l>
+<l indent="3">Mais j’ai froid ? En avant !</l>
+<l indent="4">Ah ! maman....</l>
+</lg>
+<lg>
+<l>Vous, Madame, allaitez le plus longtemps possible</l>
+<l>Et du plus Seul de vous ce pauvre enfant-terrible.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p14">
+<pagenum num="40"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DES PUBERTÉS DIFFICILES</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Un éléphant de Jade, œil mi-clos souriant,</l>
+<l>Méditait sous la riche éternelle pendule,</l>
+<l>Bon boudha d’exilé qui trouve ridicule</l>
+<l>Qu’on pleure vers les Nils des couchants d’Orient,</l>
+<l indent="2">Quand bave notre crépuscule.</l>
+</lg>
+<lg>
+<l indent="2">Mais, sot Eden de Florian,</l>
+<l>En un vase de Sèvre où de fins bergers fades</l>
+<l>S’offrent des bouquets bleus et des moutons frisés,</l>
+<l>Un œillet expirait ses pubères baisers</l>
+<l>Sous la trompe sans flair de l’éléphant de Jade.</l>
+</lg>
+<lg>
+<l indent="2">A ces bergers peints de pommade</l>
+<l>Dans le lait, à ce couple impuissant d’opéra</l>
+<l>Transi jusqu’au trépas en la pâte de Sèvres,</l>
+<l>Un gros petit dieu Pan venu de Tanagra</l>
+<l>Tendait ses bras tout inconscients et ses lèvres.</l>
+</lg>
+<pagenum num="41"/>
+<lg>
+<l indent="2">Sourds aux vanités de Paris,</l>
+<l indent="2">Les lauriers fanés des tentures,</l>
+<l indent="2">Les mascarons d’or des lambris,</l>
+<l indent="2">Les bouquins aux pâles reliures</l>
+<l indent="2">Tournoyaient par la pièce obscure,</l>
+<l indent="2">Chantant, sans orgueil, sans mépris :</l>
+<l>« Tout est frais dès qu’on veut comprendre la Nature. »</l>
+</lg>
+<lg>
+<l>Mais lui, cabré devant ces soirs accoutumés,</l>
+<l>Où montait la gaîté des enfants de son âge,</l>
+<l>Seul au balcon, disait, les yeux brûlés de rages :</l>
+<l>« J’ai du génie, enfin : nulle ne veut m’aimer ! »</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p15">
+<pagenum num="42"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DE LA FIN DES JOURNÉES</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Vous qui passez, oyez donc un pauvre être,</l>
+<l>Chassé des <i>Simples</i> qu’on peut reconnaître</l>
+<l>Soignant, las, quelque œillet à leur fenêtre !</l>
+<l indent="3">Passants, hâtifs passants,</l>
+<l>Oh ! qui veut visiter les palais de mes sens ?</l>
+</lg>
+<lg>
+<l indent="5">Maint ciboires</l>
+<l indent="5">De déboires.</l>
+<l indent="5">Un encor !</l>
+</lg>
+<lg>
+<l>Ah ! l’enfant qui vit de ce nom, poète !</l>
+<l>Il se rêvait, seul, pansant Philoctète</l>
+<l>Aux nuits de Lemnos ; ou, loin, grêle ascète.</l>
+<l indent="3">Et des vers aux moineaux,</l>
+<l>Par le lycée en vacances, sous les préaux !</l>
+</lg>
+<lg>
+<l indent="5">Offertoire.</l>
+<l indent="5">En mémoire</l>
+<l indent="5">D’un consort.</l>
+</lg>
+<pagenum num="43"/>
+<lg>
+<l>Mon Dieu, que tout fait signe de se taire !</l>
+<l>Mon Dieu, qu’on est follement solitaire !</l>
+<l>Où sont tes yeux, premier dieu de la Terre</l>
+<l indent="5">Qui ravala ce cri :</l>
+<l>« Têtue Eternité ! je m’en vais incompris... » ?</l>
+</lg>
+<lg>
+<l indent="5">Pauvre histoire !</l>
+<l indent="5">Transitoire</l>
+<l indent="5">Passe-port ?</l>
+</lg>
+<lg>
+<l>J’ai dit : mon Dieu. La terre est orpheline</l>
+<l>Aux ciels, parmi les séminaires des Routines.</l>
+<l>Va, suis quelque robe de mousseline...</l>
+<l indent="3">— Inconsciente Loi,</l>
+<l>Faites que ce crachoir s’éloigne un peu de moi !</l>
+</lg>
+<lg>
+<l indent="5">Vomitoire</l>
+<l indent="5">De la Foire,</l>
+<l indent="5">C’est la mort.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p16">
+<pagenum num="44"/>
+
+<h2>COMPLAINTE DE LA VIGIE</h2>
+<h2><s>AUX MINUITS POLAIRES</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Le Globe, vers l’aimant,</l>
+<l>Chemine exactement,</l>
+<l>Tinté de mers si bleues,</l>
+<l>De cités tout en toits,</l>
+<l>De réseaux de convois</l>
+<l>Qui grignottent des lieues.</l>
+</lg>
+<lg>
+<l>O ma côte en sanglots !</l>
+<l>Pas loin de Saint-Malo,</l>
+<l>Un bourg fumeux vivotte,</l>
+<l>Qui tient sous son clocher,</l>
+<l>Ou grince un coq perché,</l>
+<l>L’Ex-Voto d’un pilote !</l>
+</lg>
+<lg>
+<l>Aux cierges, au vitrail,</l>
+<l>D’un autel en corail,</l>
+<l>Une jeune Madone</l>
+<l>Tend, d’un air ébaubi,</l>
+<pagenum num="45"/>
+<l>Un beau cœur de rubis</l>
+<l>Qui se meurt et rayonne !</l>
+</lg>
+<lg>
+<l>Un gros cœur tout en sang,</l>
+<l>Un bon cœur ruisselant,</l>
+<l>Qui, du soir à l’aurore,</l>
+<l>Et de l’aurore au soir,</l>
+<l>Se meurt, de ne pouvoir</l>
+<l>Saigner, ah ! saigner plus encore !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p17">
+<pagenum num="46"/>
+
+<h2>COMPLAINTE DE LA LUNE</h2>
+<h2><s>EN PROVINCE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Ah ! la belle pleine Lune,</l>
+<l>Grosse comme une fortune !</l>
+</lg>
+<lg>
+<l>La retraite sonne au loin,</l>
+<l>Un passant, monsieur l’adjoint ;</l>
+</lg>
+<lg>
+<l>Un clavecin joue en face,</l>
+<l>Un chat traverse la place :</l>
+</lg>
+<lg>
+<l>La province qui s’endort !</l>
+<l>Plaquant un dernier accord,</l>
+</lg>
+<lg>
+<l>Le piano clot sa fenêtre.</l>
+<l>Quelle heure peut-il bien être ?</l>
+</lg>
+<lg>
+<l>Calme Lune, quel exil !</l>
+<l>Faut-il dire : ainsi soit-il ?</l>
+</lg>
+<pagenum num="47"/>
+<lg>
+<l>Lune, ô dilettante Lune,</l>
+<l>A tous les climats commune,</l>
+</lg>
+<lg>
+<l>Tu vis hier le Missouri,</l>
+<l>Et les remparts de Paris,</l>
+</lg>
+<lg>
+<l>Les fiords bleus de la Norwège,</l>
+<l>Les pôles, les mers, que sais-je ?</l>
+</lg>
+<lg>
+<l>Lune heureuse ! ainsi tu vois,</l>
+<l>A cette heure, le convoi</l>
+</lg>
+<lg>
+<l>De son voyage de noce !</l>
+<l>Ils sont partis pour l’Écosse.</l>
+</lg>
+<lg>
+<l>Quel panneau, si, cet hiver,</l>
+<l>Elle eût pris au mot mes vers !</l>
+</lg>
+<lg>
+<l>Lune, vagabonde Lune,</l>
+<l>Faisons cause et mœurs communes ?</l>
+</lg>
+<lg>
+<l>O riches nuits ! je me meurs,</l>
+<l>La province dans le cœur !</l>
+</lg>
+<lg>
+<l>Et la lune a, bonne vieille,</l>
+<l>Du coton dans les oreilles.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p18">
+<pagenum num="48"/>
+
+<h2>COMPLAINTE DES PRINTEMPS</h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l indent="2">Permettez, ô sirène,</l>
+<l indent="2">Voici que votre haleine</l>
+<l indent="2">Embaume la verveine ;</l>
+<l indent="2">C’est l’printemps qui s’amène !</l>
+</lg>
+<lg>
+<l>— Ce système, en effet, ramène le printemps,</l>
+<l>Avec son impudent cortège d’excitants.</l>
+</lg>
+<lg>
+<l indent="2">Otez donc ces mitaines ;</l>
+<l indent="2">Et n’ayez, inhumaine,</l>
+<l indent="2">Que mes soupirs pour traîne :</l>
+<l indent="2">Ous’qu’il y a de la gêne....</l>
+</lg>
+<lg>
+<l>— Ah ! yeux bleus méditant sur l’ennui de leur art !</l>
+<l>Et vous, jeunes divins, aux soirs crus de hasard !</l>
+</lg>
+<lg>
+<l indent="2">Du géant à la naine,</l>
+<l indent="2">Vois, tout bon sire entraîne</l>
+<pagenum num="49"/>
+<l indent="2">Quelque contemporaine,</l>
+<l indent="2">Prendre l’air, par hygiène...</l>
+</lg>
+<lg>
+<l>— Mais vous saignez ainsi pour l’amour de l’exil !</l>
+<l>Pour l’amour de l’Amour ! D’ailleurs, ainsi soit-il...</l>
+</lg>
+<lg>
+<l indent="2">T’ai-je fait de la peine ?</l>
+<l indent="2">Oh ! viens vers les fontaines</l>
+<l indent="2">Où tournent les phalènes</l>
+<l indent="2">Des Nuits Elyséennes !</l>
+</lg>
+<lg>
+<l>— Pimbêche aux yeux vaincus, bellâtre aux beaux jarrets</l>
+<l>Donnez votre fumier à la fleur du Regret.</l>
+</lg>
+<lg>
+<l indent="2">Voilà que son haleine</l>
+<l indent="2">N’embaum’ plus la verveine !</l>
+<l indent="2">Drôle de phénomène...</l>
+<l indent="2">Hein, à l’année prochaine ?</l>
+</lg>
+<lg>
+<l>— Vierges d’hier, ce soir traîneuses de fœtus,</l>
+<l>A genoux ! voici l’heure où se plaint l’Angélus.</l>
+</lg>
+<lg>
+<l indent="2">Nous n’irons plus aux bois,</l>
+<l indent="2">Les pins sont éternels,</l>
+<l indent="2">Les cors ont des appels !...</l>
+</lg>
+<lg>
+<l indent="2">Neiges des pâles mois,</l>
+<l indent="2">Vous serez mon missel !</l>
+<l indent="2">— Jusqu’au jour de dégel.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p19">
+<pagenum num="50"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DE L’AUTOMNE MONOTONE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l indent="1">Automne, automne, adieux de l’Adieu !</l>
+<l indent="1">La tisane bout, noyant mon feu ;</l>
+<l indent="3">Le vent s’époumonne</l>
+<l>A reverdir la bûche où mon grand cœur tisonne</l>
+<l indent="3">Est-il de vrais yeux ?</l>
+<l indent="1">Nulle ne songe à m’aimer un peu.</l>
+</lg>
+<lg>
+<l indent="4">Milieux aptères,</l>
+<l indent="4">Ou sans divans ;</l>
+<l indent="4">Regards levants,</l>
+<l indent="4">Deuils solitaires</l>
+<l indent="4">Vers des Sectaires !</l>
+</lg>
+<lg>
+<l indent="1">Le vent, la pluie, oh ! lèvent, la pluie !</l>
+<l indent="1">Antigone, écartez mon rideau ;</l>
+<l indent="3">Cet ex-ciel tout suie,</l>
+<l>Fond-il <i>decrescendo, statu quo, crescendo ?</i></l>
+<pagenum num="51"/>
+<l indent="3">Le vent qui s’ennuie,</l>
+<l indent="1">Retourne-t-il bien les parapluies ?</l>
+</lg>
+<lg>
+<l indent="4">Amours, gibiers !</l>
+<l indent="4">Aux jours de givre,</l>
+<l indent="4">Rêver sans livre,</l>
+<l indent="4">Dans les terriers</l>
+<l indent="4">Chauds de fumiers !</l>
+</lg>
+<lg>
+<l indent="1">Plages, chemins de fer, ciels, bois morts,</l>
+<l indent="1">Bâteaux croupis dans les feuilles d’or,</l>
+<l indent="3">Le quart aux étoiles,</l>
+<l>Paris grasseyant par chic aux prises de voiles :</l>
+<l indent="3">De trop poignants cors</l>
+<l indent="1">M’ont hallalisé ces chers décors.</l>
+</lg>
+<lg>
+<l indent="4">Meurtres, alertes,</l>
+<l indent="4">Rêves ingrats !</l>
+<l indent="4">En croix, les bras ;</l>
+<l indent="4">Roses ouvertes,</l>
+<l indent="4">Divines pertes !</l>
+</lg>
+<lg>
+<l indent="1">Le soleil mort, tout nous abandonne.</l>
+<l indent="1">Il se crut incompris. Qu’il est loin !</l>
+<l indent="3">Vent pauvre, aiguillonne</l>
+<l>Ces convois de martyrs se prenant à témoins !</l>
+<l indent="3">La terre, si bonne,</l>
+<l indent="1">S’en va, pour sûr, passer cet automne.</l>
+</lg>
+<pagenum num="52"/>
+<lg>
+<l indent="4">Nuits sous-marines !</l>
+<l indent="4">Pourpres forêts,</l>
+<l indent="4">Torrents de frais,</l>
+<l indent="4">Bancs en gésines,</l>
+<l indent="4">Tout s’illumine !</l>
+</lg>
+<lg>
+<l>— Allons, fumons une pipette de tabac,</l>
+<l>En feuilletant un de ces si veux almanachs,</l>
+</lg>
+<lg>
+<l>En rêvant de la petite qui unirait</l>
+<l>Aux charmes de l’œillet ceux du chardonneret.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p20">
+<pagenum num="53"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DE <correction original="L’ANGLE">L’ANGE</correction> INCURABLE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Je t’expire mes Cœurs bien barbouillés de cendres ;</l>
+<l>Vent esquinté de toux des paysages tendres !</l>
+</lg>
+<lg>
+<l>Où vont les gants d’avril, et les rames d’antan ?</l>
+<l>L’âme des hérons fous sanglote sur l’étang.</l>
+</lg>
+<lg>
+<l indent="4">Et vous, tendres</l>
+<l indent="5">D’antan ?</l>
+</lg>
+<lg>
+<l>Le hoche-queue pépie aux écluses gelées ;</l>
+<l>L’amante va, fouettée aux plaintes des allées.</l>
+</lg>
+<lg>
+<l>Sais-tu bien, folle pure, où sans châle tu vas ?</l>
+<l>— Passant oublié des yeux gais, j’aime là-bas...</l>
+</lg>
+<lg>
+<l indent="4">— En allées</l>
+<l indent="5">Là-bas !</l>
+</lg>
+<pagenum num="54"/>
+<lg>
+<l>Le long des marbriers (Encore un beau commerce !)</l>
+<l>Patauge aux défoncés un convoi, sous l’averse.</l>
+</lg>
+<lg>
+<l>Un trou, qu’asperge un prêtre âgé qui se morfond,</l>
+<l>Bâille à ce libéré de l’être ; et voici qu’on</l>
+</lg>
+<lg>
+<l indent="4">Le déverse</l>
+<l indent="4">Au fond.</l>
+</lg>
+<lg>
+<l>Les moulins décharnés, ailes hier allègres,</l>
+<l>Vois, s’en font les grands bras du haut des coteaux maigres</l>
+</lg>
+<lg>
+<l>Ci-gît n’importe qui. Seras-tu différent,</l>
+<l>Diaphane d’amour, ô Chevalier-Errant ?</l>
+</lg>
+<lg>
+<l indent="4">Claque, ô maigre</l>
+<l indent="5">Errant !</l>
+</lg>
+<lg>
+<l>Hurler avec les loups, aimer nos demoiselles,</l>
+<l>Serrer ces mains sauçant dans de vagues vaisselles !</l>
+</lg>
+<lg>
+<l>Mon pauvre vieux, il le faut pourtant ! et puis, va,</l>
+<l>Vivre est encor le meilleur parti ici-bas.</l>
+</lg>
+<lg>
+<l indent="4">Non ! vaiselles</l>
+<l indent="5">D’ici-bas !</l>
+</lg>
+<lg>
+<l>Au-delà plus sûr que la Vérité ! des ailes</l>
+<l>D’Hostie ivre et ravie aux cités sensuelles !</l>
+</lg>
+<pagenum num="55"/>
+<lg>
+<l>Quoi ? Ni Dieu, ni l’art, ni ma Sœur Fidèle ; mais</l>
+<l>Des ailes ! par le blanc suffoquant ! à jamais,</l>
+</lg>
+<lg>
+<l indent="4">Ah ! des ailes</l>
+<l indent="5">A jamais !</l>
+</lg>
+<lg>
+<l>— Tant il est vrai que la saison dite d’automne</l>
+<l>N’est aux cœurs mal fichus rien moins que folichonne.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p21">
+<pagenum num="56"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DES NOSTALGIES PRÉHISTORIQUES</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>La nuit bruine sur les villes.</l>
+<l>Mal repu des gains machinals,</l>
+<l>On dîne ; et, gonflé d’idéal,</l>
+<l>Chacun sirote son idylle,</l>
+<l indent="2">Ou furtive, ou facile.</l>
+</lg>
+<lg>
+<l>Echos des grands soirs primitifs !</l>
+<l>Couchants aux flambantes usines,</l>
+<l>Rude paix des sols en gésine,</l>
+<l>Cri jailli là-bas d’un massif,</l>
+<l indent="2">Violuptés à vif !</l>
+</lg>
+<lg>
+<l>Dégringolant une vallée,</l>
+<l>Heurter, dans des coquelicots,</l>
+<l>Une enfant bestiale et brûlée</l>
+<l>Qui suce, en blaguant les échos,</l>
+<l indent="2">De jûteux abricots.</l>
+</lg>
+<pagenum num="57"/>
+<lg>
+<l>Livrer aux langueurs des soirées</l>
+<l>Sa toison où du cristal luit,</l>
+<l>Pourlécher ses lèvres sucrées,</l>
+<l>Nous barbouiller le corps de fruits</l>
+<l indent="2">Et lutter comme essui !</l>
+</lg>
+<lg>
+<l>Un moment, béer, sans rien dire,</l>
+<l>Inquiets d’une étoile là-haut ;</l>
+<l>Puis, sans but, bien gentils satyres,</l>
+<l>Nous prendre aux premiers sanglots</l>
+<l indent="2">Fraternels des crapauds.</l>
+</lg>
+<lg>
+<l>Et, nous délèvrant de l’extase,</l>
+<l>Oh ! devant la lune en son plein,</l>
+<l>Là-bas, comme un bloc de topaze,</l>
+<l>Fous, nous renverser sur les reins,</l>
+<l indent="2">Riant, battant des mains !</l>
+</lg>
+<lg>
+<l>La nuit bruine sur les villes :</l>
+<l>Se raser le masque, s’orner</l>
+<l>D’un frac deuil, avec art dîner,</l>
+<l>Puis, parmi des vierges débiles,</l>
+<l indent="2">Prendre un air imbécile.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p22">
+<pagenum num="58"/>
+
+<h2>AUTRE COMPLAINTE</h2>
+<h2><s>DE L’</s>O<s>RGUE DE</s> B<s>ARBARIE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l indent="1">Prolixe et monocorde,</l>
+<l indent="1">Le vent dolent des nuits</l>
+<l indent="1">Rabâche ses ennuis,</l>
+<l indent="1">Veut se pendre à la corde</l>
+<l indent="3">Des puits ! et puis ?</l>
+<l indent="3">Miséricorde !</l>
+</lg>
+<lg>
+<l>— Voyons, qu’est-ce que je veux</l>
+<l>Rien. Je suis-t-il malhûreux !</l>
+</lg>
+<lg>
+<l indent="1">Oui, les phares aspergent</l>
+<l indent="1">Les côtes en sanglots,</l>
+<l indent="1">Mais les volets sont clos</l>
+<l indent="1">Aux veilleuses des vierges,</l>
+<l indent="3">Orgue au galop,</l>
+<l indent="3">Larmes des cierges !</l>
+</lg>
+<lg>
+<l>— Après ? qu’est-ce qu’on y peut</l>
+<l>— Rien. Je suis-t-il malhûreux !</l>
+</lg>
+<pagenum num="59"/>
+<lg>
+<l indent="1">Vous, fidèle madone,</l>
+<l indent="1">Laissez ! Ai-je assisté,</l>
+<l indent="1">Moi, votre puberté ?</l>
+<l indent="1">O jours où Dieu tâtonne,</l>
+<l indent="3">Passants d’été,</l>
+<l indent="3">Pistes d’automne !</l>
+</lg>
+<lg>
+<l>— Eh bien ! aimerais-tu mieux...</l>
+<l>— Rien. Je suis-t-il malhûreux !</l>
+</lg>
+<lg>
+<l indent="1">Cultes, Littératures,</l>
+<l indent="1">Yeux chauds, lointains ou gais,</l>
+<l indent="1">Infinis au rabais,</l>
+<l indent="1">Tout train-train, rien qui dure,</l>
+<l indent="3">Oh ! à jamais</l>
+<l indent="3">Des créatures !</l>
+</lg>
+<lg>
+<l>— Ah ! ça qu’est-ce que je veux ?</l>
+<l>— Rien. Je suis-t-il malhûreux !</l>
+</lg>
+<lg>
+<l indent="1">Bagnes des pauvres bêtes,</l>
+<l indent="1">Tarifs d’alléluias,</l>
+<l indent="1">Mortes aux camélias,</l>
+<l indent="1">Oh ! lendemain de fête</l>
+<l indent="3">Et paria,</l>
+<l indent="3">Vrai, des planètes !</l>
+</lg>
+<lg>
+<l>— Enfin ! quels sont donc tes veux ?</l>
+<l>— Nuls. Je suis-t-il malhûreux !</l>
+</lg>
+<pagenum num="60"/>
+<lg>
+<l indent="1">La nuit monte, armistice</l>
+<l indent="1">Des cités, des labours.</l>
+<l indent="1">Mais il n’est pas, bon sourd,</l>
+<l indent="1">En ton digne exercice,</l>
+<l indent="3">De raison pour</l>
+<l indent="3">Que tu finisses ?</l>
+</lg>
+<lg>
+<l>— Bien sûr. C’est ce que je veux.</l>
+<l>Ah ! Je suis-t-il malhûreux !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p23">
+<pagenum num="61"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DU PAUVRE</s> C<s>HEVALIER</s>-E<s>RRANT</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l indent="1">Jupes des quinze ans, aurores de femmes,</l>
+<l indent="1">Qui veut, enfin, des palais de mon âme ?</l>
+<l indent="1">Perrons d’œillets blancs, escaliers de flamme,</l>
+<l indent="3">Labyrinthes alanguis,</l>
+<l indent="5">Edens qui</l>
+<l>Sonneront, sous vos pas reconnus, des airs reconquis.</l>
+</lg>
+<lg>
+<l indent="1">Instincts-levants souriant par les fentes,</l>
+<l indent="1">Méditations un doigt à la tempe,</l>
+<l indent="1">Souvenirs clignotant comme des lampes,</l>
+<l indent="3">Et, battant les corridors,</l>
+<l indent="5">Vains essors,</l>
+<l>Les Dilettantismes chargés de colliers de remords.</l>
+</lg>
+<lg>
+<l indent="1">Oui, sans bruit, vous écarterez mes branches,</l>
+<l indent="1">Et verrez comme, à votre mine franche,</l>
+<l indent="1">Viendront à vous mes biches les plus blanches,</l>
+<pagenum num="62"/>
+<l indent="3">Mes ibis sacrés, mes chats,</l>
+<l indent="5">Et, rachats !</l>
+<l>Ma Vipère de Lettres aux bien effaçables crachats.</l>
+</lg>
+<lg>
+<l indent="1">Puis, frêle mise au monde ! ô Toute Fine,</l>
+<l indent="1">O ma Tout-universelle orpheline,</l>
+<l indent="1">Au fond de chapelles de mousseline</l>
+<l indent="3">Pâle, ou jonquille à pois noirs,</l>
+<l indent="5">Dans les soirs,</l>
+<l>Feu-d’artificeront envers vous mes sens encensoirs !</l>
+</lg>
+<lg>
+<l indent="1">Nous organiserons de ces parties !</l>
+<l indent="1">Mes caresses, naïvement serties,</l>
+<l indent="1">Mourront, de ta gorge aux vierges hosties,</l>
+<l indent="3">Aux amandes de tes seins !</l>
+<l indent="5">O tocsins,</l>
+<l>Des cœurs dans le roulis des empilements de coussins</l>
+</lg>
+<lg>
+<l indent="1">Tu t’abandonnes au Bon, moi j’abdique ;</l>
+<l indent="1">Nous nous comblons de nos deux Esthétiques ;</l>
+<l indent="1">Tu condimentes mes piments mystiques,</l>
+<l indent="3">J’assaisonne tes saisons ;</l>
+<l indent="5">Nous blasons,</l>
+<l>A force d’étapes sur nos collines, l’Horizon !</l>
+</lg>
+<lg>
+<l indent="1">Puis j’ai des tas d’éternelles histoires,</l>
+<l indent="1">O mers, ô volières de ma Mémoire !</l>
+<l indent="1">Sans compter les passes évocatoires !</l>
+<pagenum num="63"/>
+<l indent="3">Et quand tu t’endormiras,</l>
+<l indent="5">Dans les draps</l>
+<l>D’un somme, je t’éventerai de lointains opéras.</l>
+</lg>
+<lg>
+<l indent="1">Orage en deux cœurs, ou jets d’eau des siestes,</l>
+<l indent="1">Tout sera Bien, contre ou selon ton geste,</l>
+<l indent="1">Afin qu’à peine un prétexte te reste</l>
+<l indent="3">De froncer tes chers sourcils,</l>
+<l indent="5">Ce souci :</l>
+<l>« Ah ! suis-je née, infiniment, pour vivre par ici ? »</l>
+</lg>
+<lg>
+<l indent="1">— Mais j’ai beau parader, toutes s’en fichent !</l>
+<l indent="1">Et je repars avec ma folle affiche,</l>
+<l indent="1">Boniment incompris, piteux <i>sandiviche :</i></l>
+<l indent="3">Au Bon Chevalier-Errant,</l>
+<l indent="5">Restaurant,</l>
+<l>Hôtel meublé, Cabinets de lecture, prix courants.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p24">
+<pagenum num="64"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DES FORMALITÉS NUPTIALES</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<h3><s>LUI</s></h3>
+<l>Allons, vous prendrez froid.</l>
+
+<h3><s>ELLE</s></h3>
+<l cont="true">Non ; je suis un peu lasse.</l>
+<l>Je voudrais écouter toujours ce cor de chasse !</l>
+
+<h3><s>LUI</s></h3>
+<l>Dis, veux-tu te vêtir de mon Être éperdu ?</l>
+
+<h3><s>ELLE</s></h3>
+<l>Tu le sais ; mais il fait si pur à la fenêtre....</l>
+
+<pagenum num="65"/>
+
+<h3><s>LUI</s></h3>
+<l>Ah ! tes yeux m’ont trahi l’Idéal à connaître ;</l>
+<l>Et je le veux, de tout l’univers de mon être !</l>
+<l class="c">Dis, veux-tu ?</l>
+
+<h3><s>ELLE</s></h3>
+<l>Devant cet univers, aussi, je me veux femme ;</l>
+<l>C’est pourquoi tu le sais. Mais quoi ! ne m’as-tu pas</l>
+<l>Prise toute déjà ? par tes yeux, sans combats !</l>
+<l>A la messe, au moment du grand Alléluia,</l>
+<l indent="4">N’as-tu pas eu mon âme ?</l>
+
+<h3><s>LUI</s></h3>
+<lg>
+<l>Oui ; mais l’Unique Loi veut que notre serment</l>
+<l>Soit baptisé des roses de ta croix nouvelle ;</l>
+<l>Tes yeux se font mortels, mais ton destin m’appelle,</l>
+<l>Car il sait que, pour naître aux moissons mutuelles,</l>
+<l>Je dois te caresser bien singulièrement :</l>
+</lg>
+<lg>
+<l>Vous verrez mon palais ! vous verrez quelle vie !</l>
+<l>J’ai de gros lexicons et des photographies,</l>
+</lg>
+<lg>
+<l indent="4">De l’eau, des fruits, maints tabacs</l>
+<l indent="4">Moi, plus naïf qu’hypocondre,</l>
+<l indent="4">Vibrant de tact à me fondre,</l>
+<l indent="4">Trempé dans les célibats.</l>
+<pagenum num="66"/>
+<l indent="4">Bon et grand comme les bêtes,</l>
+<l indent="4">Pointilleux mais emballé,</l>
+<l indent="4">Inconscient mais esthète,</l>
+<l indent="4">Oh ! veux-tu nous en aller</l>
+<l indent="4">Vers les pôles dont vous êtes ?</l>
+</lg>
+<lg>
+<l>Vous verrez mes voiliers ! vous verrez mes jongleurs !</l>
+<l>Vous soignerez les fleurs de mon <i>bateau de fleurs.</i></l>
+</lg>
+<lg>
+<l>Vous verrez qu’il y en a plus que je n’en étale,</l>
+<l>Et quels violets gros deuil sont ma couleur locale,</l>
+</lg>
+<lg>
+<l>Et que mes yeux sont ces vases d’Election</l>
+<l>Des Danaïdes où sans fin nous puiserions !</l>
+</lg>
+<lg>
+<l indent="4">Des prairies adorables,</l>
+<l indent="4">Loin des muffles des gens ;</l>
+<l indent="4">Et, sous les ciels changeants,</l>
+<l indent="4">Maint hamacs incassables !</l>
+</lg>
+<lg>
+<l indent="5">Dans les jardins</l>
+<l indent="5">De nos instincts</l>
+<l indent="5">Allons cueilir</l>
+<l indent="5">De quoi guérir...</l>
+</lg>
+<lg>
+<l>Cuirassés des calus de mainte expérience,</l>
+<l>Ne mettant qu’en mes yeux leurs lettres de créance,</l>
+<pagenum num="67"/>
+
+<l>Les orgues de mes sens se feront vos martyrs</l>
+<l>Vers des cieux sans échos étoilés à mourir !</l>
+</lg>
+
+<h3><s>ELLE</s></h3>
+
+<l>Tu le sais ; mais tout est si décevant ! ces choses</l>
+<l>Me poignent, après tout, d’un infaillible émoi !</l>
+<l>Raconte-moi ta vie, ou bien étourdis-moi.</l>
+<l>Car je me sens obscure, et, je ne sais pourquoi,</l>
+<l>Je me compare aux fleurs injustement écloses....</l>
+
+<h3><s>LUI</s></h3>
+
+<l>Tu verras, c’est un rêve. Et tu t’éveilleras</l>
+<l>Guérie enfin du mal de pousser solitaire.</l>
+<l>Puis, ma fine convalescente du Mystère,</l>
+<l>On vous soignera bien, nuit et jour, seuls sur terre.</l>
+<l>Tu verras ?</l>
+
+<h3><s>ELLE</s></h3>
+
+<l>Tu le sais. Ah ! — si tu savais ! car tu m’as prise !</l>
+<l>Rien au-delà ! avec tes yeux, qui me suffisent.</l>
+<l>Oui, tes yeux francs seront désormais mon église.</l>
+<l indent="3">Avec nos regards seulement,</l>
+<l indent="3">Alors, scellons notre serment ?</l>
+
+<h3><s>LUI</s></h3>
+
+<l>Allons, endormez-vous, mortelle fiancée.</l>
+<l>Là, dans mes bras loyaux, sur mon grand cœur bercée,</l>
+<pagenum num="68"/>
+<l>Suffoquez aux parfums de l’unique pensée</l>
+<l>Que la vie est sincère et m’a fait le plus fort,</l>
+
+<h3><s>ELLE</s></h3>
+
+<l>Tiens, on n’entend plus ce cor ; vous savez, ce cor...</l>
+
+<h3><s>LUI</s></h3>
+
+<lg>
+<l>L’Ange des Loyautés l’a baisée aux deux tempes ;</l>
+<l>Elle dort maintenant dans l’angle de ma lampe.</l>
+</lg>
+<lg>
+<l indent="c">O Nuit,</l>
+<l indent="c">Fais-toi lointaine</l>
+<l indent="c">Avec ta traîne</l>
+<l indent="c">Qui bruit !</l>
+</lg>
+<lg>
+<l indent="c">O défaillance universelle !</l>
+<l indent="c">Mon unique va naître aux moissons mutuelles !</l>
+<l indent="c">Pour les fortes roses de l’amour</l>
+<l indent="c">Elle va perdre, lys pubère,</l>
+<l indent="c">Ses nuances si solitaires,</l>
+<l indent="c">Pour être, à son tour,</l>
+<l indent="c">Dame d’atour</l>
+<l indent="c">De Maïa !</l>
+</lg>
+<lg>
+<l indent="c">Alléluia !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p25">
+<pagenum num="69"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DES BLACKBOULÉS</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>« Ni vous, ni votre art, monsieur. » C’était un dimanche,</l>
+<l indent="4">Vous savez où.</l>
+<l indent="4">A vos genoux,</l>
+<l>Je suffoquai, suintant de longues larmes blanches.</l>
+</lg>
+<lg>
+<l>L’orchestre du jardin jouait ce « <i>si tu m’aimes</i> »</l>
+<l indent="4">Que vous savez ;</l>
+<l indent="4">Et je m’en vais</l>
+<l>Depuis, et pour toujours, m’exilant sur ce thème.</l>
+</lg>
+<lg>
+
+<l>Et toujours, ce refus si monstrueux m’effraie</l>
+<l indent="4">Et me confond</l>
+<l indent="4">Pour vous au fond,</l>
+<l>Si Regard-Incarné ! si moi-même ! si vraie !</l>
+</lg>
+<lg>
+<l>Dieu. — Maintenant, voici ce que je vous souhaite,</l>
+<l indent="4">Puisque, après tout,</l>
+<l indent="4">En ce soir d’août,</l>
+<l>Vous avez craché vers l’Art, par dessus ma tête.</l>
+</lg>
+<pagenum num="70"/>
+<lg>
+<l>Vieille et chauve à vingt ans, sois prise pour une autre,</l>
+<l indent="4">Et sans raison,</l>
+<l indent="4">Mise en prison,</l>
+<l>Très loin, et qu’un geôlier, sur toi, des ans, se vautre.</l>
+</lg>
+<lg>
+<l>Puis, passe à Charenton, parmi de vagues folles.</l>
+<l indent="4">Avec Paris</l>
+<l indent="4">Là-bas, fleuri,</l>
+<l>Ah ! rêve trop beau ! Paris où je me console.</l>
+</lg>
+<lg>
+<l>Et demande à manger, et qu’alors on confonde !</l>
+<l indent="4">Qu’on croie à ton</l>
+<l indent="4">Refus ! et qu’on</l>
+<l>Te nourrisse, horreur ! horreur ! horreur ! à la sonde.</l>
+</lg>
+<lg>
+<l>La sonde t’entre par le nez, Dieu vous bénisse !</l>
+<l indent="4">A bas, les mains !</l>
+<l indent="4">Et le bon vin,</l>
+<l>Le lait, les œufs te gavent par cet orifice.</l>
+</lg>
+<lg>
+<l>Et qu’après bien des ans de cette facétie,</l>
+<l indent="4">Un interne (aux</l>
+<l indent="4">Regards loyaux !)</l>
+<l>Se trompe de conduit ! et verse, et t’asphyxie.</l>
+</lg>
+<lg>
+<l>Et voilà ce que moi, guéri, je vous souhaite,</l>
+<l indent="4">Cœur rose, pour</l>
+<l indent="4">Avoir un jour</l>
+<l>Craché sur l’Art ! l’Art pur ! sans compter le poète.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p26">
+<pagenum num="71"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DES CONSOLATIONS</s></h2>
+
+<vsep class="rule"/>
+
+<epigraphe>
+<p><i>Quia voluit consolari</i></p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Ses yeux ne me voient pas, son corps serait jaloux ;</l>
+<l>Elle m’a dit : « monsieur... » en m’enterrant d’un geste ;</l>
+<l>Elle est Tout, l’univers moderne et le céleste.</l>
+<l>Soit ! draguons donc Paris, et ravitaillons-nous,</l>
+<l indent="3">Tant bien que mal, du reste.</l>
+</lg>
+<lg>
+<l>Les Landes sans espoir de ses regards brûlés,</l>
+<l>Semblaient parfois des paons prêts à mettre à la voile...</l>
+<l>Sans chercher à me consoler vers les étoiles,</l>
+<l>Ah ! Je trouverai bien deux yeux aussi sans clés,</l>
+<l indent="3">Au Louvre, en quelque toile !</l>
+</lg>
+<lg>
+<l>Oh ! qu’incultes, ses airs, rêvant dans la prison</l>
+<l>D’un <i>cant</i> sur le qui-vive au travers de nos hontes !...</l>
+<l>Mais, en m’appliquant bien, moi dont la foi démonte</l>
+<l>Les jours, les ciels, les nuits, dans les quatre saisons</l>
+<l indent="3">Je trouverai mon compte.</l>
+</lg>
+<pagenum num="72"/>
+<lg>
+<l>Sa bouche ! à moi, ce pli pudiquement martyr</l>
+<l>Où s’aigrissent des nostalgies de nostalgies !</l>
+<l>Eh bien, j’irai parfois, très sincère vigie,</l>
+<l>Du haut de Notre-Dame aider l’aube, au sortir</l>
+<l indent="3">De passables orgies.</l>
+</lg>
+<lg>
+<l>Mais, Tout va la reprendre ! — Alors Tout m’en absout.</l>
+<l>Mais, Elle est ton bonheur ! — Non ! je suis trop immense</l>
+<l>Trop chose. Comment donc ! mais ma seule présence</l>
+<l>Ici-bas, vraie à s’y mirer, est l’air de Tout :</l>
+<l indent="3">De la Femme au Silence !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p27">
+<pagenum num="73"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DES BONS MÉNAGES</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>L’Art sans poitrine m’a trop longtemps bercé dupe.</l>
+<l>Si ses labours sont fiers, que ses blés décevants !</l>
+<l>Tiens, laisse-moi bêler tout aux plis de ta jupe</l>
+<l indent="3">Qui fleure le couvent.</l>
+</lg>
+<lg>
+<l>Le Génie avec, moi, serf, a fait des manières ;</l>
+<l>Toi, jupe, fais frou-frou, sans t’inquiéter pourquoi,</l>
+<l>Sois l’œillet bleu de ciel de l’unique théière,</l>
+<l indent="3">Sois-toi même, à part moi.</l>
+</lg>
+<lg>
+<l>Je veux être pendu, si tu n’es pas discrète</l>
+<l>Et <i>comme il faut</i>, vraiment ! Et d’ailleurs tu m’es tout.</l>
+<l>Tiens, j’aimerai les plissés de ta colerette</l>
+<l indent="3">Sans en venir à bout.</l>
+</lg>
+<lg>
+<l>Mais l’Art, c’est l’Inconnu ! qu’on y dorme et s’y vautre,</l>
+<l>On peut ne pas l’avoir constamment sur les bras !</l>
+<l>Eh bien, ménage au vent ! Soyons Lui, Elle et l’Autre.</l>
+<l indent="3">Et puis, n’insistons pas.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p28">
+<pagenum num="74"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DE</s> L<s>ORD</s> P<s>IERROT</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l indent="3">Au clair de la lune,</l>
+<l indent="3">Mon ami Pierrot,</l>
+<l indent="3">Filons, en costume,</l>
+<l indent="3">Présider là-haut !</l>
+<l indent="3">Ma cervelle est morte,</l>
+<l indent="3">Que le Christ l’emporte !</l>
+<l indent="3">Béons à la Lune,</l>
+<l indent="3">La bouche en zéro.</l>
+</lg>
+<lg>
+<l>Inconscient, descendez en nous par réflexes ;</l>
+<l>Brouillez les cartes, les dictionnaires, les sexes.</l>
+</lg>
+<lg>
+<l>Tournons d’abord sur nous-même, comme un fakir</l>
+<l>(Agiter le pauvre être, avant de s’en servir.)</l>
+</lg>
+<lg>
+<l>J’ai le cœur chaste et vrai comme une bonne lampe ;</l>
+<l>Oui, je suis en taille douce, comme une estampe.</l>
+</lg>
+<pagenum num="75"/>
+<lg>
+<l indent="1">Vénus, énorme comme le Régent,</l>
+<l indent="1">Déjà se pâme à l’horizon des grèves ;</l>
+<l indent="1">Et c’est l’heure, ô gens nés casés, bonnes gens.</l>
+<l indent="1">De s’étourdir en longs trilles de rêves !</l>
+<l indent="1">Corybanthe, aux quatre vents tous les draps !</l>
+<l indent="1">Disloque tes pudeurs, à bas les lignes !</l>
+<l indent="1">En costume blanc, je ferai le cygne,</l>
+<l indent="1">Après nous le Déluge, ô ma Léda !</l>
+<l indent="1">Jusqu’à ce que tournent tes yeux vitreux.</l>
+<l indent="1">Que tu grelottes en rires affreux,</l>
+<l indent="1">Hop ! enlevons sur les horizons fades</l>
+<l indent="1">Les menuets de nos pantalonades !</l>
+<l indent="4">Tiens ! l’Univers</l>
+<l indent="4">Est à l’envers...</l>
+</lg>
+<lg>
+<l indent="3">— Tout cela vous honore,</l>
+<l indent="3">Lord Pierrot, mais encore ?</l>
+</lg>
+<lg>
+<l>— Ah ! qu’une, d’elle-même, un beau soir sût venir,</l>
+<l>Ne voyant que boire à mes lèvres, ou mourir !</l>
+</lg>
+<lg>
+<l>Je serais, savez-vous, la plus noble conquête</l>
+<l>Que femme, au plus ravi du Rêve, eût jamais faite !</l>
+</lg>
+<lg>
+<l indent="2">D’ici là, qu’il me soit permis</l>
+<l indent="2">De vivre de vieux compromis.</l>
+</lg>
+<lg>
+<l indent="3">Où commence, où finit l’humaine</l>
+<l indent="3">Ou la divine dignité ?</l>
+<pagenum num="76"/>
+<l indent="3">Jonglons avec les entités,</l>
+<l indent="3">Pierrot s’agite et Tout le mène !</l>
+<l indent="3">Laissez faire, laissez passer ;</l>
+<l indent="3">Laissez passer, et laissez faire :</l>
+<l indent="3">Le semblable, c’est le contraire,</l>
+</lg>
+<lg>
+<l indent="3">Et l’univers c’est pas assez !</l>
+<l indent="3">Et je me sens, ayant pour cible</l>
+<l indent="3">Adopté la vie impossible,</l>
+<l indent="3">De moins en moins localisé !</l>
+</lg>
+<lg>
+<l indent="3">— Tout cela vous honore,</l>
+<l indent="3">Lord Pierrot, mais encore ?</l>
+</lg>
+<lg>
+<l indent="3">— Il faisait, ah ! si chaud si sec.</l>
+<l indent="3">Voici qu’il pleut, qu’il pleut, bergères !</l>
+<l indent="3">Les pauvres Vénus bocagères</l>
+<l indent="3">Ont la roupie à leur nez grec !</l>
+</lg>
+<lg>
+<l indent="3">— Oh ! de moins en moins drôle ;</l>
+<l indent="3">Pierrot sait mal son rôle ?</l>
+</lg>
+<lg>
+<l>— J’ai le cœur triste comme un lampion forain...</l>
+<l>Bah ! j’irai passer la nuit dans le premier train ;</l>
+</lg>
+<lg>
+<l indent="3">Sûr d’aller, ma vie entière,</l>
+<l indent="3">Malheureux comme les pierres. <i>(Bis.)</i></l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p29">
+<pagenum num="77"/>
+
+<h2>AUTRE COMPLAINTE</h2>
+<h2><s>DE</s> L<s>ORD</s> P<s>IERROT</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Celle qui doit me mettre au courant de la Femme !</l>
+<l>Nous lui dirons d’abord, de mon air le moins froid :</l>
+<l>« La somme des angles d’un triangle, chère âme,</l>
+<l indent="3">« Est égale à deux droits. »</l>
+</lg>
+<lg>
+<l>Et si ce cri lui part : « Dieu de Dieu que je t’aime ! »</l>
+<l>— « Dieu reconnaîtra les siens. » Ou piquée au vif :</l>
+<l>— « Mes claviers ont du cœur, tu seras mon seul thème</l>
+<l indent="3">Moi : « Tout est relatif. »</l>
+</lg>
+<lg>
+<l>De tous ses yeux, alors ! se sentant trop banale :</l>
+<l>« Ah ! tu ne m’aimes pas ; tant d’autres sont jaloux ! »</l>
+<l>Et moi, d’un œil qui vers l’Inconscient s’emballe :</l>
+<l indent="3">« Merci, pas mal ; et vous ? »</l>
+</lg>
+<lg>
+<l>— « Jouons au plus fidèle ! » — « A quoi bon, ô Nature !</l>
+<l>« Autant à qui perd gagne ! » Alors, autre couplet :</l>
+<pagenum num="78"/>
+<l>— « Ah ! tu te lasseras le premier, j’en suis sûre... »</l>
+<l indent="3">— « Après vous, s’il vous plaît. »</l>
+</lg>
+<lg>
+<l>Enfin, si, par un soir, elle meurt dans mes livres,</l>
+<l>Douce ; feignant de n’en pas croire encor mes yeux,</l>
+<l>J’aurai un : « Ah ! ça, mais, nous avions De Quoi vivre !</l>
+<l indent="3">« C’était donc sérieux ? »</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p30">
+<pagenum num="79"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>SUR CERTAINS ENNUIS</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Un couchant des Cosmogonies !</l>
+<l>Ah ! que la Vie est quotidienne....</l>
+<l>Et, du plus vrai qu’on se souvienne,</l>
+<l>Comme on fut piètre et sans génie....</l>
+</lg>
+<lg>
+<l>On voudrait s’avouer des choses,</l>
+<l>Dont on s’étonnerait en route,</l>
+<l>Qui feraient une fois pour toutes !</l>
+<l>Qu’on s’entendrait à travers poses.</l>
+</lg>
+<lg>
+<l>On voudrait saigner le Silence,</l>
+<l>Secouer l’exil des causeries ;</l>
+<l>Et non ! ces dames sont aigries</l>
+<l>Par des questions de préséance.</l>
+</lg>
+<lg>
+<l>Elles boudent là, l’air capable.</l>
+<l>Et, sous le ciel, plus d’un s’explique,</l>
+<pagenum num="80"/>
+<l>Par quel gâchis suresthétiques</l>
+<l>Ces êtres-là sont adorables.</l>
+</lg>
+<lg>
+<l>Justement, une nous appelle,</l>
+<l>Pour l’aider à chercher sa bague,</l>
+<l>Perdue (où dans ce terrain vague ?)</l>
+<l>Un souvenir <s>D’AMOUR</s>, dit-elle !</l>
+</lg>
+<lg>
+<l>Ces êtres-là sont adorables !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p31">
+<pagenum num="81"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DES</s> N<s>OCES DE</s> P<s>IERROT</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Où te flatter pour boire dieu,</l>
+<l>Ma provisoire corybante ?</l>
+<l>Je sauce mon âme en tes yeux,</l>
+<l>Je ceins ta beauté pénitente,</l>
+<l>Où donc vis-tu ? Moi si pieux,</l>
+<l indent="2">Que tu m’es lente, lente !</l>
+</lg>
+<lg>
+<l>Tes cils m’insinuent : c’en est trop</l>
+<l>Et leurs calices vont se clore,</l>
+<l>Sans me jeter leur dernier mot,</l>
+<l>Et refouler mes métaphores,</l>
+<l>De leur petit air comme il faut ?</l>
+<l indent="2">Isis, levez le store !</l>
+</lg>
+<lg>
+<l>Car cette fois, c’est pour de bon ;</l>
+<l>Trop d’avrils, quittant la partie</l>
+<pagenum num="82"/>
+<l>Devant des charmes moribonds,</l>
+<l>J’ai bâclé notre eucharistie</l>
+<l>Sous les trépieds où ne répond</l>
+<l indent="2">Qu’une aveugle Pythie !</l>
+</lg>
+<lg>
+<l>Ton tabernacle est dévasté ?</l>
+<l>Sois sage, distraite égoïste !</l>
+<l>D’ailleurs, suppôt d’éternité,</l>
+<l>Le spleen de tout ce qui s’existe</l>
+<l>Veut qu’en ce blanc matin d’été,</l>
+<l indent="2">Je sois ton exorciste !</l>
+</lg>
+<lg>
+<l>Ainsi, fustigeons ces airs plats</l>
+<l>Et ces dolentes pantomimes</l>
+<l>Couvrant d’avance du vieux glas</l>
+<l>Mes tocsins à l’hostie ultime !</l>
+<l>Ah ! tu me comprends n’est-ce pas,</l>
+<l indent="2">Toi, ma moins pauvre rime ?</l>
+</lg>
+<lg>
+<l><i>Introïbo</i>, voici l’Époux !</l>
+<l>Hallali ! songe au pôle, aspire ;</l>
+<l>Je t’achèterai des bijoux,</l>
+<l>Garde moi ton <i>ut</i> de martyre...</l>
+<l>Quoi ! bébé bercé, c’est donc tout ?</l>
+<l indent="2">Tu n’as plus rien à dire ?</l>
+</lg>
+<lg>
+<l>— Mon dieu, mon dieu ! je n’ai rien eu,</l>
+<l>J’en suis encore aux poncifs thèmes !</l>
+<pagenum num="83"/>
+<l>Son teint me redevient connu,</l>
+<l>Et, sur son front tout au baptême,</l>
+<l>Aube déjà l’air ingénu !</l>
+<l>L’air vrai ! l’air non mortel quand même !</l>
+</lg>
+<lg>
+<l indent="2">Ce qui fait que je l’aime,</l>
+</lg>
+<lg>
+<l indent="1">Et qu’elle est même, vraiment,</l>
+<l indent="3">La chapelle rose</l>
+<l indent="3">Où parfois j’expose</l>
+<l indent="3">Le Saint-Sacrement</l>
+<l indent="1">De mon humeur du moment.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p32">
+<pagenum num="84"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DU VENT QUI S’ENNUIE LA NUIT</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+
+<l>Ta fleur se fane, ô fiancée ?</l>
+<l>Oh ! gardes-en encore un peu</l>
+<l>La corolle qu’a conpulsée</l>
+<l>Un soir d’ennui trop studieux !</l>
+<l>Le vent des toits qui pleure et rage,</l>
+<l>Dans ses assauts et ses remords,</l>
+<l>Sied au nostalgique naufrage</l>
+<l>Où m’a jeté ta Toison-d’Or.</l>
+</lg>
+<lg>
+<l indent="3">Le vent assiège,</l>
+<l indent="4">Dans sa tour,</l>
+<l indent="3">Le sortilège</l>
+<l indent="4">De l’Amour ;</l>
+<l indent="3">Et, pris au piège,</l>
+<l indent="3">Le sacrilège</l>
+<l indent="3">Geint sans retour.</l>
+</lg>
+<pagenum num="85"/>
+<lg>
+<l>Ainsi, mon Idéal sans bride</l>
+<l>T’ubiquitait de ses sanglots,</l>
+<l>O calice loyal mais vide</l>
+<l>Qui jouais à me rester clos !</l>
+<l>Ainsi dans la nuit investie,</l>
+<l>Sur tes pétales décevants,</l>
+<l>L’Ange fileur d’eucharisties</l>
+<l>S’afflige tout le long du vent.</l>
+</lg>
+<lg>
+<l indent="3">Le vent assiège,</l>
+<l indent="4">Dans sa tour,</l>
+<l indent="3">Le sortilège</l>
+<l indent="4">De l’Amour,</l>
+<l indent="3">Et, pris au piège,</l>
+<l indent="4">Le sacrilège,</l>
+<l indent="3">Geint sans retour.</l>
+</lg>
+<lg>
+<l>O toi qu’un remords fait si morte,</l>
+<l>Qu’il m’est incurable, en tes yeux,</l>
+<l>D’écouter se morfondre aux portes</l>
+<l>Le vent aux étendards de cieux !</l>
+<l>Rideaux verts de notre hypogée,</l>
+<l>Marbre banal du lavabo,</l>
+<l>Votre hébétude ravagée</l>
+<l>Est le miroir de mon tombeau.</l>
+</lg>
+<lg>
+<l indent="3">O vent, allège</l>
+<l indent="4">Ton discours</l>
+<pagenum num="86"/>
+<l indent="3">Des vains cortèges</l>
+<l indent="4">De l’humour ;</l>
+<l indent="3">Je rentre au piège,</l>
+<l indent="3">Peut-être y vais-je,</l>
+<l indent="3">Tuer l’Amour !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p33">
+<pagenum num="87"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DU PAUVRE CORPS HUMAIN</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>L’Homme et sa compagne sont serfs</l>
+<l>De corps, tourbillonnants cloaques</l>
+<l>Aux mailles de harpes de nerfs</l>
+<l>Serves de tout et que détraque</l>
+<l>Un fier répertoire d’attaques.</l>
+</lg>
+<lg>
+<l indent="2">Voyez l’homme, voyez !</l>
+<l indent="2">Si ça n’ fait pas pitié !</l>
+</lg>
+<lg>
+<l>Propre et correct en ses ressorts,</l>
+<l>S’assaisonnant. de modes vaines,</l>
+<l>Il s’admire, ce brave corps,</l>
+<l>Et s’endimanche pour sa peine,</l>
+<l>Quand il a bien sué la semaine.</l>
+</lg>
+<lg>
+<l indent="2">Et sa compagne ! allons,</l>
+<l indent="2">Ma bell’, nous nous valons.</l>
+</lg>
+<pagenum num="88"/>
+<lg>
+<l>Faudrait le voir, touchant et nu</l>
+<l>Dans un décor d’oiseaux, de roses ;</l>
+<l>Ses tics réflexes d’ingénu,</l>
+<l>Ses plis pris de mondaines poses ;</l>
+<l>Bref, sur beau fond vert, sa chlorose,</l>
+</lg>
+<lg>
+<l indent="2">Voyez l’Homme, voyez !</l>
+<l indent="2">Si ça n’fait pas pitié !</l>
+</lg>
+<lg>
+<l>Les Vertus et les Voluptés</l>
+<l>Détraquant d’un rien sa machine,</l>
+<l>Il ne vit que pour disputer</l>
+<l>Ce domaine à rentes divines</l>
+<l>Aux lois de mort qui le taquinent.</l>
+</lg>
+<lg>
+<l indent="2">Et sa compagne ! allons,</l>
+<l indent="2">Ma bell’, nous nous valons.</l>
+</lg>
+<lg>
+<l>Il se soutient de mets pleins d’art,</l>
+<l>Se drogue, se tond, se parfume,</l>
+<l>Se truffe tant, qu’il meurt trop tard ;</l>
+<l>Et la cuisine se résume</l>
+<l>En mille infections posthumes.</l>
+</lg>
+<lg>
+<l indent="2">Oh ! ce couple, voyez !</l>
+<l indent="2">Non, ça fait trop pitié.</l>
+</lg>
+<lg>
+<l>Mais ce microbe subversif</l>
+<l>Ne compte pas pour la Substance,</l>
+<pagenum num="89"/>
+<l>Dont les déluges corrosifs</l>
+<l>Renoient vite pour l’Innocence</l>
+<l>Ces fols germes de conscience.</l>
+</lg>
+<lg>
+<l indent="2">Nature est sans pitié</l>
+<l indent="2">Pour son petit dernier.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p34">
+<pagenum num="90"/>
+
+<h2>COMPLAINTE DU ROI DE THULÉ</h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Il était un roi de Thulé,</l>
+<l indent="3">Immaculé,</l>
+<l>Qui, loin des jupes et des choses,</l>
+<l>Pleurait sur la métempsychose</l>
+<l indent="3">Des lys en roses,</l>
+<l indent="3">Et quel palais !</l>
+</lg>
+<lg>
+<l>Ses fleurs dormant, il s’en allait,</l>
+<l indent="3">Traînant des clés,</l>
+<l>Broder aux seuls yeux des étoiles,</l>
+<l>Sur une tour, un certain Voile</l>
+<l indent="3">De vive toile,</l>
+<l indent="3">Aux nuits de lait !</l>
+</lg>
+<lg>
+<l>Quand le voile fut bien ourlé,</l>
+<l indent="3">Loin de Thulé,</l>
+<pagenum num="91"/>
+<l>Il rama fort sur les mers grises,</l>
+<l>Vers le soleil qui s’agonise,</l>
+<l indent="3">Féerique Église !</l>
+<l indent="3">Il ululait :</l>
+</lg>
+<lg>
+<l>« Soleil-crevant, encore un jour,</l>
+<l>Vous avez tendu votre phare</l>
+<l>Aux holocaustes vivipares,</l>
+<l>Du culte qu’ils nomment l’Amour.</l>
+</lg>
+<lg>
+<l>« Et comme, devant la nuit fauve,</l>
+<l>Vous vous sentez défaillir,</l>
+<l>D’un dernier flot d’un sang martyr</l>
+<l>Vous lavez le seuil de l’Alcôve !</l>
+</lg>
+<lg>
+<l>« Soleil ! Soleil ! moi je descends</l>
+<l>Vers vos navrants palais polaires.</l>
+<l>Dorloter dans ce Saint-Suaire</l>
+<l indent="3">Votre cœur bien en sang,</l>
+<l indent="3">En le berçant ! »</l>
+</lg>
+<lg>
+<l>Il dit, et, le Voile étendu,</l>
+<l indent="3">Tout éperdu,</l>
+<l>Vers les coraux et les naufrages,</l>
+<l>Le roi raillé des doux corsages,</l>
+<l indent="3">Beau comme un Mage</l>
+<l indent="3">Est descendu !</l>
+</lg>
+<pagenum num="92"/>
+<lg>
+<l>Braves amants ! aux nuits de lait,</l>
+<l indent="3">Tournez vos clés !</l>
+<l>Une ombre, d’amour pur transie,</l>
+<l>Viendrait vous gémir cette scie :</l>
+<l>« Il était un roi de Thulé</l>
+<l indent="3">Immaculé... »</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p35">
+<pagenum num="93"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DU SOIR DES COMICES AGRICOLES</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Deux royaux cors de chasse ont encore un duo</l>
+<l indent="4">Aux échos,</l>
+<l>Quelques fusées reniflent s’étouffer là-haut !</l>
+</lg>
+<lg>
+<l indent="2">Allez, allez, gens de la noce,</l>
+<l indent="2">Qu’on s’en donne une fière bosse !</l>
+</lg>
+<lg>
+<l>Et comme le jour naît, que bientôt il faudra,</l>
+<l indent="4">A deux bras,</l>
+<l>Peiner, se recrotter dans les labours ingrats,</l>
+</lg>
+<lg>
+<l indent="2">Allez, allez, gens que vous êtes,</l>
+<l indent="2">C’est pas tous les jours jour de fête !</l>
+</lg>
+<lg>
+<l>Ce violon incompris pleure au pays natal,</l>
+<l indent="4">Loin du bal,</l>
+<l>Et le piston risque un appel vers l’Idéal...</l>
+</lg>
+<pagenum num="94"/>
+<lg>
+<l indent="2">Mais le flageolet les rappelle,</l>
+<l indent="2">Et allez donc, mâl’s et femelles !</l>
+</lg>
+<lg>
+<l>Un couple erre parmi les rêves des grillons,</l>
+<l indent="4">Aux sillons ;</l>
+<l>La fille écoute en tourmentant son médaillon.</l>
+</lg>
+<lg>
+<l indent="2">Laissez, laissez, ô cors de chasse,</l>
+<l indent="2">Puisque c’est le sort de la race.</l>
+</lg>
+<lg>
+<l>Les beaux cors se sont morts ; mais cependant qu’au loin,</l>
+<l indent="4">Dans les foins,</l>
+<l>Crèvent deux rêves niais, sans maire et sans adjoint.</l>
+</lg>
+<lg>
+<l indent="2">Pintez, dansez, gens de la Terre,</l>
+<l indent="2">Tout est un triste et vieux Mystère.</l>
+</lg>
+<lg>
+<l>— Ah ! le Premier que prit ce besoin insensé</l>
+<l indent="4">De danser</l>
+<l>Sur ce monde enfantin dans l’Inconnu lancé !</l>
+</lg>
+<lg>
+<l indent="2">O Terre, ô terre, ô race humaine,</l>
+<l indent="2">Vous me faites bien de la peine.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p36">
+<pagenum num="95"/>
+
+<h2>COMPLAINTE DES CLOCHES</h2>
+
+<vsep class="rule"/>
+
+<epigraphe>
+<p>Dimanche, à Liège.</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l indent="2">Bin bam, bin bain,</l>
+<l indent="1">Les cloches, les cloches,</l>
+<l>Chansons en l’air, pauvres reproches !</l>
+<l indent="2">Bin bam, bin bam,</l>
+<l indent="1">Les cloches en Brabant !</l>
+</lg>
+<lg>
+<l>Petits et gros, clochers en fête,</l>
+<l>De l’hôpital <correction original="a">à</correction> l’Évêché,</l>
+<l>Dans ce bon ciel endimanché,</l>
+<l>Se carillonnent, et s’entêtent,</l>
+<l indent="1">A tue-tête ! à tue-tête !</l>
+</lg>
+<lg>
+<l>Bons vitraux, saignez impuissants</l>
+<l>Aux allégresses hosannahlles</l>
+<l>Des orgues lâchant leurs pédales,</l>
+<l>Les tuyaux bouchés par l’encens !</l>
+<l indent="1">Car il descend ! il descend !</l>
+</lg>
+<pagenum num="96"/>
+<lg>
+<l>Voici les lentes oriflammes</l>
+<l>Où flottent la Vierge et les Saints !</l>
+<l>Les cloches, leur battant des mains,</l>
+<l>S’étourdissent en jeunes gammes</l>
+<l>Hymniclames ! hymniclames !</l>
+</lg>
+<lg>
+<l>Va, Globe aux studieux pourchas,</l>
+<l>Où Dieu à peine encor s’épèle !</l>
+<l>Bondis, Jérusalem nouvelle,</l>
+<l>Vers les nuits grosses de rachats,</l>
+<l indent="1">Où les lys ! ne filent pas !</l>
+</lg>
+<lg>
+<l>Edens mûrs, Unique Bohème !</l>
+<l>Nous, les beaux anges effrénés ;</l>
+<l>Elles, des Regards incarnés,</l>
+<l>Pouvant nous chanter, sans blasphème :</l>
+<l indent="1">Que je t’aime ! pour moi-même !</l>
+</lg>
+<lg>
+<l>Oui, les cloches viennent de loin !</l>
+<l>Oui, oui, l’Idéal les fit fondre</l>
+<l>Pour rendre les gens hypocondres,</l>
+<l>Vêtus de noir, tendant le poing</l>
+<l indent="1">Vers un Témoin ! Un Témoin !</l>
+</lg>
+<lg>
+<l>Ah ! cœur-battant, cogne à tue-tête</l>
+<l>Vers ce ciel niais endimanché !</l>
+<l>Clame, à jaillir de ton clocher,</l>
+<l>Et nous retombe à jamais BÊTE.</l>
+<l indent="1">Quelle fête ! quelle fête !</l>
+</lg>
+<pagenum num="97"/>
+<lg>
+<l indent="2">Bin bam, bin bam,</l>
+<l indent="1">Les cloches ! les cloches !</l>
+<l>Chansons en l’air, pauvres reproches !</l>
+<l indent="2">Bin bam, bin bam,</l>
+<l indent="1">Les cloches en Brabant !<noteref noteid="note.97.1"/></l>
+</lg>
+</poem>
+
+<notes>
+  <note id="note.97.1">
+    <l>Et ailleurs</l>
+  </note>
+</notes>
+
+</page-sequence>
+<page-sequence id="p37">
+<pagenum num="98"/>
+
+<h2>COMPLAINTE DES GRANDS PINS</h2>
+<h2><s>DANS UNE VILLA ABANDONNÉE</s></h2>
+
+<vsep class="rule"/>
+
+<epigraphe>
+<p>A Bade</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Tout hier, le soleil a boudé dans ses brumes,</l>
+<l>Le vent jusqu’au matin n’a pas décoléré,</l>
+<l>Mais, nous point des coteaux là-bas, un œil sacré</l>
+<l>Qui va vous bousculer ces paquets de bitume !</l>
+</lg>
+<lg>
+<l indent="2">— Ah ! vous m’avez trop, trop vanné,</l>
+<l indent="2">Bals de diamants, hanches roses ;</l>
+<l indent="2">Et, bien sûr, je n’étais pas né</l>
+<l indent="4">Pour ces choses.</l>
+</lg>
+<lg>
+<l>— Le vent jusqu’au matin n’a pas décoléré.</l>
+<l>Oh ! ces quintes de toux d’un chaos bien posthume,</l>
+</lg>
+<lg>
+<l indent="2">— Prés et bois vendus ! Que de gens,</l>
+<l indent="2">Qui me tenaient mes gants, serviles,</l>
+<pagenum num="99"/>
+<l indent="2">A cette heure, de mes argents,</l>
+<l indent="4">Font des piles !</l>
+</lg>
+<lg>
+<l>— Délayant en ciels bas ces paquets de bitume</l>
+<l>Qui grimpaient talonnés de noirs Misérérés !</l>
+</lg>
+<lg>
+<l indent="2">— Elles, coudes nus dans les fruits,</l>
+<l indent="2">Riant, changeant de doigts leurs bagues ;</l>
+<l indent="2">Comme nos plages et nos nuits</l>
+<l indent="4">Leur sont vagues !</l>
+</lg>
+<lg>
+<l>— Oh ! ces quintes de toux d’un chaos bien posthume !</l>
+<l>Chantons comme Memnon, le soleil a filtré,</l>
+</lg>
+<lg>
+<l indent="2">— Et moi, je suis dans ce lit cru</l>
+<l indent="2">De chambre d’hôtel, fade chambre,</l>
+<l indent="2">Seul, battu dans les vents bourrus</l>
+<l indent="4">De novembre.</l>
+</lg>
+<lg>
+<l>— Qui, consolant des vents les noirs Misérérés,</l>
+<l>Des nuages en fuite éponge au loin l’écume.</l>
+</lg>
+<lg>
+<l indent="2">— Berthe aux sages yeux de lilas,</l>
+<l indent="2">Qui priais Dieu que je revinsse,</l>
+<l indent="2">Que fais-tu, mariée là-bas,</l>
+<l indent="4">En province ?</l>
+</lg>
+<pagenum num="100"/>
+<lg>
+<l>— Memnons, ventriloquons ! le cher astre a filtré</l>
+<l>Et le voilà qui tout authentique s’exhume !</l>
+</lg>
+<lg>
+<l indent="2">— Oh ! quel vent ! adieu tout sommeil ;</l>
+<l indent="2">Mon Dieu, que je suis bien malade !</l>
+<l indent="2">Oh ! notre croisée au soleil</l>
+<l indent="4">Bon, à Bade.</l>
+</lg>
+<lg>
+<l>— Il rompt ses digues ! vers les grands labours qui fument !</l>
+<l>Saint Sacrement ! et <i>Labanim</i> des <i>Nox iræ !</i></l>
+</lg>
+<lg>
+<l indent="2">— Et bientôt, seul, je m’en irai,</l>
+<l indent="2">A Montmartre, en cinquième classe,</l>
+<l indent="2">Loin de père et mère, enterrés</l>
+<l indent="4">En Alsace.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p38">
+<pagenum num="101"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>SUR CERTAINS TEMPS DÉPLACÉS</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>De couchant de sang est taché</l>
+<l>Comme un tablier de boucher ;</l>
+<l>Oh ! qui veut aussi m’écorcher !</l>
+</lg>
+<lg>
+<l>— Maintenant c’est comme une rade !</l>
+<l>Ça vous fait le cœur tout nomade,</l>
+<l>A cingler vers mille Lusiades !</l>
+</lg>
+<lg>
+<l>Passez, ô nuptials appels,</l>
+<l>Vers les comptoirs, les Archipels</l>
+<l>Où l’on mastique le bétel !</l>
+</lg>
+<lg>
+<l>Je n’aurai jamais d’aventures ;</l>
+<l>Qu’il est petit, dans la Nature,</l>
+<l>Le chemin d’fer Paris-Ceinture !</l>
+</lg>
+<pagenum num="102"/>
+<lg>
+<l>— V’là le fontainier ! il si file l’air</l>
+<l>(Connu) du bon roi Dagobert ;</l>
+<l>Oh ! ces matins d’avril en mer !</l>
+</lg>
+<lg>
+<l>— Le vent galope ventre à terre,</l>
+<l>En vain voudrait-on le fair’ taire !</l>
+<l>Ah ! nom de Dieu quelle misère !</l>
+</lg>
+<lg>
+<l>— Le Soleil est mirobolant</l>
+<l>Comme un poitrail de chambellan,</l>
+<l>J’en demeure les bras ballants ;</l>
+</lg>
+<lg>
+<l>Mais jugez si ça m’importune,</l>
+<l>Je rêvais en plein de lagunes</l>
+<l>De Venise au clair de la lune !</l>
+</lg>
+<lg>
+<l>— Vrai ! la vie est pour les badauds ;</l>
+<l>Quand on a du dieu sous la peau,</l>
+<l>On cuve ça sans dire mot.</l>
+</lg>
+<lg>
+<l>L’obélisque quadrangulaire,</l>
+<l>De mon spleen monte ; j’y digère,</l>
+<l>En stylite, ce gros Mystère.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p39">
+<pagenum num="103"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DES CONDOLÉANCES AU SOLEIL</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Décidément, bien don Quichotte et pas peu sale,</l>
+<l>Ta Police, ô Soleil ! malgré tes grands Levers,</l>
+<l>Et tes couchants des beaux Sept-Glaives abreuvés,</l>
+<l>Rosaces en sang d’une aveugle Cathédrale !</l>
+</lg>
+<lg>
+<l>Sans trêve, aux spleens d’amour sonner des hallalis !</l>
+<l>Car, depuis que, majeur, ton fils calcule et pose,</l>
+<l>Labarum des glaciers ! fais-tu donc autre chose</l>
+<l>Que chasser devant toi des dupes de leurs lits ?</l>
+</lg>
+<lg>
+<l>Certe, dès qu’aux rideaux aubadent tes fanfares,</l>
+<l>Ces piteux d’infini, clignant de gluants deuils,</l>
+<l>Rhabillent leurs tombeaux, en se cachant de l’œil</l>
+<l>Qui cautérise les citernes les plus rares !</l>
+</lg>
+<lg>
+<l>Mais tu ne te dis pas que, là bas, bon Soleil,</l>
+<l>L’autre moitié n’attendait que ta défaillance,</l>
+<pagenum num="104"/>
+<l>Et déjà se remet à ses expériences,</l>
+<l>Alléguant quoi ? la nuit, l’usage, le sommeil....</l>
+</lg>
+<lg>
+<l>Or, à notre guichet, tu n’es pas mort encore,</l>
+<l>Pour aller fustiger de rayons ces mortels,</l>
+<l>Que nos bateaux sans fleurs rerâlent vers leurs ciels</l>
+<l>D’où pleurent des remparts brodés contre l’aurore !</l>
+</lg>
+<lg>
+<l>Alcôve des Danaïdes, triste astre ! — Et puis,</l>
+<l>Ces jours où, tes fureurs ayant fait les nuages,</l>
+<l>Tu vas, sans pouvoir les percer, blême de rage</l>
+<l>De savoir seul et tout à ses aises l’Ennui !</l>
+</lg>
+<lg>
+<l>Entre nous donc, bien don Quichotte, et pas moins sale,</l>
+<l>Ta Police, ô Soleil, malgré tes grands Levers,</l>
+<l>Et tes couchants des beaux Sept-Glaives abreuvés,</l>
+<l>Rosaces en sang d’une aveugle Cathédrale !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p40">
+<pagenum num="105"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DE L’OUBLI DES MORTS</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Mesdames et Messieurs,</l>
+<l>Vous dont la mère est morte,</l>
+<l>C’est le bon fossoyeux</l>
+<l>Qui gratte à votre porte.</l>
+</lg>
+<lg>
+<l indent="4">Les morts</l>
+<l indent="3">C’est sous terre ;</l>
+<l indent="3">Ça n’en sort</l>
+<l indent="4">Guère.</l>
+</lg>
+<lg>
+<l>Vous fumez dans vos bocks,</l>
+<l>Vous soldez quelque idylle,</l>
+<l>Là bas chante le coq,</l>
+<l>Pauvres morts hors des villes !</l>
+</lg>
+<lg>
+<l>Grand-papa se penchait,</l>
+<l>Là, le doigt sur la tempe,</l>
+<pagenum num="106"/>
+<l>Sœur faisait du crochet,</l>
+<l>Mère montait la lampe.</l>
+</lg>
+<lg>
+<l indent="4">Les morts</l>
+<l indent="3">C’est discret,</l>
+<l indent="4">Ça dort</l>
+<l indent="3">Trop au frais.</l>
+</lg>
+<lg>
+<l>Vous avez bien dîné</l>
+<l>Comment va cette affaire ?</l>
+<l>Ah ! les petits mort-nés</l>
+<l>Ne se dorlotent guère !</l>
+</lg>
+<lg>
+<l>Notez, d’un trait égal,</l>
+<l>Au livre de la caisse,</l>
+<l>Entre deux frais de bal :</l>
+<l>Entretien tombe et messe.</l>
+</lg>
+<lg>
+<l indent="4">C’est gai,</l>
+<l indent="3">Cette vie ;</l>
+<l indent="3">Hein, ma mie</l>
+<l indent="4">O gué ?</l>
+</lg>
+<lg>
+<l>Mesdames et Messieurs,</l>
+<l>Vous dont la sœur est morte,</l>
+<l>Ouvrez au fossoyeux</l>
+<l>Qui claque à votre porte ;</l>
+</lg>
+<pagenum num="107"/>
+<lg>
+<l>Si vous n’avez pitié,</l>
+<l>Il viendra (sans rancune)</l>
+<l>Vous tirer par les pieds,</l>
+<l>Une nuit de grand’lune !</l>
+</lg>
+<lg>
+<l indent="4">Importun</l>
+<l indent="4">Vent qui rage !</l>
+<l indent="4">Les défunts ?</l>
+<l indent="4">Ça voyage....</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p41">
+<pagenum num="108"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DU PAUVRE JEUNE HOMME</s></h2>
+
+<vsep class="rule"/>
+
+<epigraphe>
+<p>Sur l’air populaire :</p>
+<p>« Quand le bonhomm’ revint du bois. »</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Quand ce jeune homm’ rentra chez lui,</l>
+<l>Quand ce jeune homm’ rentra chez lui ;</l>
+<l>Il prit à deux mains son vieux crâne,</l>
+<l>Qui de science était un puits !</l>
+<l indent="4">Crâne,</l>
+<l indent="3">Riche crâne,</l>
+<l>Entends-tu la Folie qui plane ?</l>
+<l>Et qui demande le cordon,</l>
+<l>Digue dondaine, digue dondaine,</l>
+<l>Et qui demande le cordon,</l>
+<l>Digue dondaine, digue dondon !</l>
+</lg>
+<lg>
+<l>Quand ce jeune homm’ rentra chez lui,</l>
+<l>Quand ce jeune homm’ rentra chez lui,</l>
+<l>Il entendit de tristes gammes,</l>
+<l>Qu’un piano pleurait dans la nuit !</l>
+<l indent="4">Gammes,</l>
+<l indent="3">Vieilles gammes,</l>
+<pagenum num="109"/>
+<l>Ensemble, enfants, nous vous cherchâmes !</l>
+<l>Son mari m’a fermé sa maison,</l>
+<l>Digue dondaine, digue dondaine,</l>
+<l>Son mari m’a fermé sa maison,</l>
+<l>Digue dondaine, digue dondon !</l>
+</lg>
+<lg>
+<l>Quand ce jeune homm’ rentra chez lui,</l>
+<l>Quand ce jeune homm’ rentra chez lui ;</l>
+<l>Il mit le nez dans sa belle âme,</l>
+<l>Où fermentaient des tas d’ennuis !</l>
+<l indent="4">Ame,</l>
+<l indent="3">Ma belle âme,</l>
+<l>Leur huile est trop sal’ pour ta flamme !</l>
+<l>Puis, nuit partout ! lors, à quoi bon ?</l>
+<l>Digue dondaine, digue dondaine,</l>
+<l>Puis, nuit partout ! lors, à quoi bon ?</l>
+<l>Digue dondaine, digue dondon !</l>
+</lg>
+<lg>
+<l>Quand ce jeune homm’ rentra chez lui,</l>
+<l>Quand ce jeune homm’ rentra chez lui ;</l>
+<l>Il vit que sa charmante femme,</l>
+<l>Avait déménagé sans lui !</l>
+<l indent="4">Dame,</l>
+<l indent="3">Notre-Dame,</l>
+<l>Je n’aurai pas un mot de blâme !</l>
+<l>Mais t’aurais pu m’laisser l’charbon<noteref noteid="note.109.1"/></l>
+<pagenum num="110"/>
+<l>Digue dondaine, digue dondaine,</l>
+<l>Mais t’aurais pu m’laisser l’charbon,</l>
+<l>Digue dondaine, digue doudou.</l>
+</lg>
+<lg>
+<l>Lors, ce jeune homme aux tels ennuis,</l>
+<l>Lors, ce jeune homme aux tels ennuis ;</l>
+<l>Alla décrocher une lame,</l>
+<l>Qu’on lui avait fait cadeau avec l’étui !</l>
+<l indent="4">Lame,</l>
+<l indent="3">Fine lame,</l>
+<l>Soyez plus droite que la femme !</l>
+<l>Et vous, mon Dieu, pardon ! pardon !</l>
+<l>Digue dondaine, digue dondaine,</l>
+<l>Et vous, mon Dieu, pardon ! pardon !</l>
+<l>Digue dondaine, digue dondon !</l>
+</lg>
+<lg>
+<l>Quand les croq’morts vinrent chez lui,</l>
+<l>Quand les croq’morts vinrent chez lui ;</l>
+<l>Ils virent qu’ c’était un’ belle âme,</l>
+<l>Comme on n’en fait plus aujourd’hui !</l>
+<l indent="4">Ame,</l>
+<l indent="3">Dors, belle âme !</l>
+<l>Quand on est mort c’est pour de bon,</l>
+<l>Digue dondaine, digue dondaine,</l>
+<l>Quand on est mort c’est pour de bon,</l>
+<l>Digue dondaine, digue dondon !</l>
+</lg>
+</poem>
+
+<notes>
+  <note id="note.109.1">
+    <l>Pour s’asphyxier.</l>
+  </note>
+</notes>
+
+</page-sequence>
+<page-sequence id="p42">
+<pagenum num="111"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DE L’</s>É<s>POUX OUTRAGÉ</s></h2>
+
+<vsep class="rule"/>
+
+<epigraphe>
+<p>Sur l’air populaire :</p>
+<p>« Qu’allais-tu faire à la fontaine ? »</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>— Qu’alliez-vous faire à la Mad’leine,</l>
+<l indent="3">Corbleu, ma moitié,</l>
+<l>Qu’alliez-vous faire à la Mad’leine ?</l>
+</lg>
+<lg>
+<l>— J’allais prier pour qu’un fils nous vienne,</l>
+<l indent="3">Mon Dieu, mon ami ;</l>
+<l>J’allais prier pour qu’un fils nous vienne.</l>
+</lg>
+<lg>
+<l>— Vous vous teniez dans un coin, debout,</l>
+<l indent="3">Corbleu, ma moitié !</l>
+<l>Vous vous teniez dans un coin debout.</l>
+</lg>
+<lg>
+<l>— Pas d’chaise économis’ trois sous,</l>
+<l indent="3">Mon Dieu, mon ami ;</l>
+<l>Pas d’chaise économis trois sous.</l>
+</lg>
+<pagenum num="112"/>
+<lg>
+<l>— D’un officier, j’ai vu la tournure,</l>
+<l indent="3">Corbleu, ma moitié !</l>
+<l>D’un officier, j’ai vu la tournure.</l>
+</lg>
+<lg>
+<l>— C’était ce Christ grandeur nature,</l>
+<l indent="3">Mon Dieu, mon ami ;</l>
+<l>C’était ce Christ grandeur nature.</l>
+</lg>
+<lg>
+<l>— Les Christs n’ont pas la croix d’honneur,</l>
+<l indent="3">Corbleu, ma moitié !</l>
+<l>Les Christs n’ont pas la croix d’honneur.</l>
+</lg>
+<lg>
+<l>— C’était la plaie du Calvaire, au cœur,</l>
+<l indent="3">Mon Dieu, mon ami ;</l>
+<l>C’était la plaie du Calvaire au cœur.</l>
+</lg>
+<lg>
+<l>— Les Christs n’ont qu’au flanc seul la plaie,</l>
+<l indent="3">Corbleu, ma moitié !</l>
+<l>Les Christs n’ont qu’au flanc seul la plaie !</l>
+</lg>
+<lg>
+<l>— C’était une goutte envolée,</l>
+<l indent="3">Mon Dieu, mon ami ;</l>
+<l>C’était une goutte envolée.</l>
+</lg>
+<lg>
+<l>— Aux Crucifix on n’parl’ jamais,</l>
+<l indent="3">Corbleu, ma moitié !</l>
+<l>Aux Crucifix on n’parl’ jamais ?</l>
+</lg>
+<pagenum num="113"/>
+<lg>
+<l>— C’était du trop d’amour qu’ j’avais,</l>
+<l indent="3">Mon Dieu, mon ami,</l>
+<l>C’était du trop d’amour qu’ j’avais !</l>
+</lg>
+<lg>
+<l>— Et moi j’te brûl’rai la cervelle,</l>
+<l indent="3">Corbleu, ma moitié,</l>
+<l>Et moi j’te brûl’rai la cervelle !</l>
+</lg>
+<lg>
+<l>Lui, il aura mon âme immortelle,</l>
+<l indent="3">Mon Dieu, mon ami,</l>
+<l>Lui, il aura mon âme immortelle !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p43">
+<pagenum num="114"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>VARIATIONS SUR LE MOT « FALOT, FALOTTE »</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l indent="3">Falot, falotte !</l>
+<l>Sous l’aigre averse qui clapote,</l>
+<l>Un chien aboie aux feux-follets,</l>
+<l>Et puis se noie, taïaut, taïaut !</l>
+<l>La Lune, voyant ces ballets,</l>
+<l indent="3">Rit à Pierrot !</l>
+<l indent="3">Falot ! falot !</l>
+</lg>
+<lg>
+<l indent="3">Falot, falotte !</l>
+<l>Un train perdu, dans la nuit, stope</l>
+<l>Par les avalanches bloqué ;</l>
+<l>Il siffle au loin ! et les petiots</l>
+<l>Croient ouïr les méchants hoquets</l>
+<l indent="3">D’un grand crapaud !</l>
+<l indent="3">Falot, falot !</l>
+</lg>
+<pagenum num="115"/>
+<lg>
+<l indent="3">Falot, falotte !</l>
+<l>La danse du bateau-pilote,</l>
+<l>Sous l’œil d’or du phare, en péril !</l>
+<l>Et sur les <i>steamers,</i> les galops</l>
+<l>Des vents filtrant leurs longs exils</l>
+<l indent="3">Par les hublots !</l>
+<l indent="3">Falot, falot !</l>
+</lg>
+<lg>
+<l indent="3">Falot, falotte !</l>
+<l>La petite vieille qui trotte,</l>
+<l>Par les bois aux temps pluvieux,</l>
+<l>Cassée en deux sous le fagot</l>
+<l>Qui réchauffera de son mieux</l>
+<l indent="3">Son vieux fricot !</l>
+<l indent="3">Falot, falot !</l>
+</lg>
+<lg>
+<l indent="3">Falot, falotte !</l>
+<l>Sous sa lanterne qui tremblotte,</l>
+<l>Le fermier dans son potager</l>
+<l>S’en vient cueillir des escargots,</l>
+<l>Et c’est une étoile au berger</l>
+<l indent="3">Rêvant là haut !</l>
+<l indent="3">Falot, falot !</l>
+</lg>
+<lg>
+<l indent="3">Falot, falotte !</l>
+<l>Le lumignon au vent toussotte,</l>
+<l>Dans son cornet de gras papier ;</l>
+<l>Mais le passant en son pal’tot</l>
+<pagenum num="116"/>
+<l>O mandarines des Janviers,</l>
+<l indent="3">File au galop !</l>
+<l indent="3">Falot, falot !</l>
+</lg>
+<lg>
+<l indent="3">Falot, falotte !</l>
+<l>Un chiffonnier va sous sa hotte ;</l>
+<l>Un réverbère près d’un mur</l>
+<l>Où se cogne un vague soûlaud,</l>
+<l>Qui l’embrasse comme un pur,</l>
+<l indent="3">Avec des mots !</l>
+<l indent="3">Falot, falot !</l>
+</lg>
+<lg>
+<l indent="3">Falot, falotte !</l>
+<l>Et c’est ma belle âme en ribotte,</l>
+<l>Qui se sirote et se fait mal,</l>
+<l>Et fait avec ses grands sanglots,</l>
+<l>Sur les beaux lacs de l’Idéal</l>
+<l indent="3">Des ronds dans l’eau !</l>
+<l indent="3">Falot, falot !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p44">
+<pagenum num="117"/>
+
+<h2>COMPLAINTE DU TEMPS</h2>
+<h2><s>ET DE SA COMMÈRE L’ESPACE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Je tends mes poignets universels dont aucun</l>
+<l>N’est le droit ou le gauche, et l’Espace, dans un</l>
+<l>Va-et-vient giratoire, y détrame les toiles</l>
+<l>D’azur pleines de cocons à fœtus d’Étoiles.</l>
+<l>Et nous nous blasons tant, je ne sais où, les deux</l>
+<l>Indissolubles nuits aux orgues vaniteux</l>
+<l>De nos pores à Soleils, où toute cellule</l>
+<l>Chante : Moi ! Moi ! puis s’éparpille, ridicule !</l>
+</lg>
+<lg>
+<l>Elle est l’infini sans fin, je deviens le temps</l>
+<l>Infaillible. C’est pourquoi nous nous perdons tant.</l>
+<l>Où sommes-nous ? Pourquoi ? Pour que Dieu s’accomplisse ?</l>
+<l>Mais l’Eternité n’y a pas suffi ! Calice</l>
+<l>Inconscient, où tout cœur crevé se résout,</l>
+<l>Extrais-nous donc alors de ce néant trop tout !</l>
+<l>Que tu fisses de nous seulement une flamme,</l>
+<l>Un vrai sanglot mortel, la moindre goutte dame !</l>
+</lg>
+<pagenum num="118"/>
+<lg>
+<l>Mais nous baillons de toute la force de nos</l>
+<l>Touts, sûrs de la surdité des humains échos.</l>
+<l>Que ne suis-je indivisible ! Et toi, douce Espace,</l>
+<l>Où sont les steppes de tes seins, que j’y rêvasse ?</l>
+<l>Quand t’ai-je fécondée ? Oh ! ce dut</l>
+<l>Être un spasme intéressant ! Mais quel fut mon but ?</l>
+<l>Je t’ai, tu nias. Mais où ? Partant, toujours. Extase</l>
+<l>Sur laquelle, quand on est le Temps, on se blase.</l>
+</lg>
+<lg>
+<l>Or, voilà des spleens infinis que je suis en</l>
+<l>Voyage vers ta bouche, et pas plus à présent</l>
+<l>Que toujours, je ne sens la fleur triomphatrice</l>
+<l>Qui flotte, m’as-tu dit, au seuil de ta matrice.</l>
+<l>Abstraites amours ! quel infini mitoyen</l>
+<l>Tourne entre nos deux Touts ? Sommes nous deux ? ou bien,</l>
+<l>(Tais-toi si tu ne me peux me prouver à outrance,</l>
+<l><i>Illico,</i> le fondement de la connaissance,</l>
+</lg>
+<lg>
+<l>Et, par ce chant : Pensée, Objet, Identité !</l>
+<l>Souffler le Doute, songe d’un siècle d’été.)</l>
+<l>Suis-je à jamais un solitaire Hermaphrodite,</l>
+<l>Comme le Ver Solitaire, ô ma Sulamite ?</l>
+<l>Ma complainte n’a pas eu de commencement,</l>
+<l>Que je sache, et n’aura nulle fin ; autrement,</l>
+<l>Je serais l’anachronisme absolu. Pullule</l>
+<l>Donc, azur possédé du mètre et du pendule !</l>
+</lg>
+<lg>
+<l>O Source du Possible, alimente à jamais</l>
+<l>Des pollens des soleils d’exil, et de l’engrais</l>
+<pagenum num="119"/>
+<l>Des chaotiques hécatombes, l’automate</l>
+<l>Universel où pas une loi ne se hâte.</l>
+<l>Nuls à tout, sauf aux rares mystiques éclairs</l>
+<l>Des Élus, nous restons les deux miroirs d’éther</l>
+<l>Réfléchissant, jusqu’à la mort de ces Mystères,</l>
+<l>Leurs Nuits que l’Amour distrait de fleurs éphémères.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p45">
+<pagenum num="120"/>
+
+<h2>GRANDE COMPLAINTE</h2>
+<h2><s>DE LA VILLE DE PARIS</s></h2>
+
+<h2>PROSE BLANCHE</h2>
+
+
+<p>Bonne gens qui m’écoute, c’est Paris, Charenton compris. Maison fondée en... à louer. Médailles à toutes les expositions et des mentions. Bail immortel. Chantiers en gros et en détail de bonheurs sur mesure. Fournisseurs breveté d’un tas de majestés. Maison recommandé. Prévient la chute des cheveux. En loteries ! Envoie en province. Pas de morte-saison. Abonnements. Dépôt, sans garantie de l’humanité, des ennuis les plus comme il faut et d’occasion. Facilités de paiement, mais de l’argent. De l’argent, bonne gens !</p>
+
+<pagenum num="121"/>
+
+<p>Et ça se ravitaille, import et export, par vingt gares et douanes. Que tristes, sous la pluie, les trains de marchandise ! A vous, dieux, chasublerie, ameublements d’église, dragées pour baptêmes, le culte est au troisième, clientèle ineffable ! Amour, à toi, des maisons d’or aux hospices dont les langes et loques feront le papier des billets doux à monogrammes, trousseaux et layettes, seules eaux alcalines reconstituantes, ô chlorose ! bijoux de sérail, falbalas, tramways, miroirs de poches, romances ! Et à l’antipode, qu’y fait-on ? Ça travaille, pour que Paris se ravitaille....</p>
+
+<p>D’ailleurs, des moindres pavés, monte le Lotus Tact. En bataille rangée, les deux sexes, toilettés à la mode des passants, mangeant dans le ruolz ! Aux commis, des Niobisruoldes ; des faunesses aux Christs. Et sous les futaies seigneuriales des jardins très-publics, martyrs niaisant et vestales minaudières faisant d’un clin d’œil l’article pour l’Idéal et C<sup>ie</sup> (Maison vague, là haut), mais d’elles-mêmes absentes, pour sûr. Ah ! l’Homme est un singulier monsieur ; et elle, sa voix de <pagenum num="122" b="faus-" a="set,">fausset,</pagenum> quel front désert ! D’ailleurs avec du tact...</p>
+
+<p>Mais l’inextirpable élite, d’où ? pour où ? Maisons de blanc : pompes voluptiales ; maisons de deuil : spleenuosités, rancœurs à la carte. Et les banlieues adoptives, humus teigneux, haridelles paissant bris de vaisselles, tessons, semelles, de profil sur l’horizon des remparts. Et la pluie ! trois torchons à une claire-voie de mansarde. Un chien aboie à un ballon là haut. Et des coins claustrals, cloches exilescentes des <i>dies irœmissibles.</i> Couchants d’aquarelliste distinguée, ou de lapidaire en liquidation. Génie au prix de fabrique, et ces jeunes gens s’entraînent en auto-litanies et formules vaines, par vaines cigarettes. Que les vingt-quatre heures vont vite à la discrète élite !...</p>
+
+<p>Mais les cris publics reprennent. Avis important ! l’Amortissable a fléchi, ferme le Panama. Enchères, experts. Avances sur titres cotés ou non cotés, achats de nu-propriétés, de viagers, d’usufruit ; avances sur successions ouvertes et autres ; indicateurs, annuaires, étrennes. Voyages circulaires à <pagenum num="123"/>prix réduits. Madame Ludovic prédit l’avenir de 2 à 4. Jouets <i>Au Paradis des enfants</i> et accessoires pour cotillons aux grandes personnes. Grand choix de principes à l’épreuve. Encore des cris ! Seul dépôt ! soupers de centième ! Machines cylindriques Marinoni ! Tout garanti, tout pour rien ! Ah ! la rapidité de la vie aussi seul dépôt....</p>
+
+<p>Des mois, les ans, calendriers d’occasion. Et l’automne s’engrandeuille au bois de Boulogne, l’hiver gèle les fricots des pauvres aux assiettes sans fleurs peintes, Mai purge, la canicule aux brises frivoles des plages fane les toilettes coûteuses. Puis, comme nous existons dans l’existence où l’on paie comptant, s’amènent ces messieurs courtois des Pompes Funèbres, autopsies et convois salués sous la vieille Monotopaze du soleil. Et l’histoire va toujours dressant, raturant ses Tables criblées de piteux <i>idem</i>, — ô Bilan, va quelconque ! ô Bilan, va quelconque...</p>
+
+</page-sequence>
+<page-sequence id="p46">
+<pagenum num="124"/>
+
+<h2>COMPLAINTE DES MOUNIS</h2>
+<h2><s>DU</s> M<s>ONT</s>-M<s>ARTRE</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Dire que, sans filtrer d’un divin Cœur,</l>
+<l>Un air divin, et qui veut que tout s’aime,</l>
+<l indent="3">S’in-Pan-filtre, et sème</l>
+<l>Ces vols d’oasis folles de blasphèmes</l>
+<l>Vivant pour toucher quelque part un Cœur...</l>
+</lg>
+<lg>
+<l indent="2">Un tic-tac froid rit en nos poches,</l>
+<l indent="2">Chronomètres, réveils, coucous ;</l>
+<l indent="2">Faut remonter ces beaux joujoux,</l>
+<l indent="2">Œufs à heures, mouches du coche,</l>
+<l indent="2">Là haut s’éparpillant en cloches...</l>
+</lg>
+<lg>
+<l indent="4">Voici le soir,</l>
+<l indent="4">Grince, musique</l>
+<l indent="4">Hypertrophique</l>
+<l indent="4">Des remontoirs !</l>
+</lg>
+<pagenum num="125"/>
+<lg>
+<l>Dire que Tout est un Très-Sourd Mystère ;</l>
+<l>Et que le Temps, qu’on ne sait où saisir,</l>
+<l indent="4">Oui, pour l’avertir !</l>
+<l>Sarcle à jamais les bons soleils martyrs,</l>
+<l>O laps sans digues des nuits du Mystère !...</l>
+</lg>
+<lg>
+<l indent="2">Allez, coucous, réveils, pendules ;</l>
+<l indent="2">Escadrons d’insectes d’acier,</l>
+<l indent="2">En un concert bien familier,</l>
+<l indent="2">Jouez sans fin des mandibules,</l>
+<l indent="2">L’Homme a besoin qu’on le stimule !</l>
+</lg>
+<lg>
+<l indent="4">Sûrs, chaque soir,</l>
+<l indent="4">De la musique,</l>
+<l indent="4">Hypertrophique</l>
+<l indent="4">Des remontoirs !</l>
+</lg>
+<lg>
+<l>Moucherons, valseurs d’un soir de soleil,</l>
+<l>Vous, tout comme nous, nerfs de la nature,</l>
+<l indent="4">Vous n’avez point cure</l>
+<l>De ce que peut être cette aventure :</l>
+<l>Les mondes penseurs s’errant au Soleil !</l>
+</lg>
+<lg>
+<l indent="2">Triturant bien l’heure en secondes,</l>
+<l indent="2">En trois mil six-cents coups de dents,</l>
+<l indent="2">De nos parts au gâteau du Temps</l>
+<l indent="2">Ne faites qu’un hachis immonde</l>
+<l indent="2">Devant lequel on se morfonde !</l>
+</lg>
+<pagenum num="126"/>
+<lg>
+<l indent="4">Sûrs, chaque soir,</l>
+<l indent="4">De la musique</l>
+<l indent="4">Hypertrophique</l>
+<l indent="4">Des remontoirs !</l>
+</lg>
+<lg>
+<l>Où le trouver, ce Temps, pour lui tout dire,</l>
+<l>Lui mettre le nez dans son Œuvre, un peu !</l>
+<l indent="4">Et cesser ce jeu !</l>
+<l>C’est vrai, la Métaphysique de Dieu</l>
+<l>Et ses amours sont infinis ! — mais, dire...</l>
+</lg>
+<lg>
+<l indent="2">Ah ! plus d’heure ? fleurir sans âge ?</l>
+<l indent="2">Voir les tableaux lents des Saisons</l>
+<l indent="2">Régir l’écran des horizons,</l>
+<l indent="2">Comme autant de belles images</l>
+<l indent="2">D’un même Aujourd’hui qui voyage ?</l>
+</lg>
+<lg>
+<l indent="4">Voici le soir !</l>
+<l indent="4">Grince, musique,</l>
+<l indent="4">Hypertrophique</l>
+<l indent="4">Des remontoirs !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p47">
+<pagenum num="127"/>
+
+<h2>COMPLAINTE-LITANIES</h2>
+<h2><s>DE MON</s> S<s>ACRÉ</s>-C<s>ŒUR</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Promethée et Vautour, châtiment et blasphème,</l>
+<l>Mon Cœur, cancer sans cœur, se grignotte lui-même.</l>
+</lg>
+<lg>
+<l>Mon Cœur est une urne où j’ai mis certains défunts,</l>
+<l>Oh ! chut, refrains de leurs berceaux ! et vous, parfums..</l>
+</lg>
+<lg>
+<l>Mon Cœur est un lexique où cent littératures</l>
+<l>Se lardent sans répit de divines ratures.</l>
+</lg>
+<lg>
+<l>Mon Cœur est un désert altéré, bien que soûl</l>
+<l>De ce vin revomi, l’universel dégoût.</l>
+</lg>
+<lg>
+<l>Mon Cœur est un Néron, enfant gâté d’Asie,</l>
+<l>Qui d’empires de rêve en vain se rassasie.</l>
+</lg>
+<lg>
+<l>Mon Cœur est un nové vidé d’âme et d’essors,</l>
+<l>Qu’étreint la pieuvre Spleen en ses ventouses d’or.</l>
+</lg>
+<pagenum num="128"/>
+<lg>
+<l>C’est un feu d’artifice hélas ! qu’avant la fête,</l>
+<l>A noyé sans retour l’averse qui s’embête.</l>
+</lg>
+<lg>
+<l>Mon Cœur est le terrestre Histoire-Corbillard,</l>
+<l>Que traînent au néant l’instinct et le hasard.</l>
+</lg>
+<lg>
+<l>Mon Cœur est une horloge oubliée à demeure,</l>
+<l>Qui, me sachant défunt, s’obstine à sonner l’heure !</l>
+</lg>
+<lg>
+<l>Mon aimée était là, toute à me consoler ;</l>
+<l>Je l’ai trop fait souffrir, ça ne peut plus aller.</l>
+</lg>
+<lg>
+<l>Mon Cœur, plongé au Styx de nos arts danaïdes,</l>
+<l>Présente à tout baiser une armure de vide.</l>
+</lg>
+<lg>
+<l>Et toujours, mon Cœur, ayant ainsi déclamé,</l>
+<l>En revient à sa complainte : Aimer, être aimé !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p48">
+<pagenum num="129"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DES DÉBATS MÉLANCOLIQUES ET LITTÉRAIRES</s></h2>
+
+<vsep class="rule"/>
+
+<epigraphe>
+<p>On peut encore aimer, mais confier toute son âme est un bonheur qu’on ne retrouvera plus.</p>
+
+<p class="r3">C<s>ORINNE OU L’</s>I<s>TALIE</s>.</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Le long d’un ciel crépusculâtre,</l>
+<l>Une cloche angéluse en paix</l>
+<l>L’air exilescent et marâtre</l>
+<l>Qui ne pardonnera jamais.</l>
+</lg>
+<lg>
+<l>Paissant des débris de vaiselle,</l>
+<l>Là-bas, au talus des remparts,</l>
+<l>Se profile une haridelle</l>
+<l>Convalescente ; il se fait tard.</l>
+</lg>
+<lg>
+<l>Qui m’aima jamais ? Je m’entête</l>
+<l>Sur ce refrain bien impuissant,</l>
+<l>Sans songer que je suis bien bête</l>
+<l>De me faire du mauvais sang.</l>
+</lg>
+<pagenum num="130"/>
+<lg>
+<l>Je possède un propre physique,</l>
+<l>Un cœur d’enfant bien élevé,</l>
+<l>Et pour un cerveau magnifique</l>
+<l>Le mien n’est pas mal, vous savez !</l>
+</lg>
+<lg>
+<l>Eh bien, ayant pleuré l’Histoire,</l>
+<l>J’ai voulu vivre un brin heureux ;</l>
+<l>C’était trop demander, faut croire ;</l>
+<l>J’avais l’air de parler hébreux.</l>
+</lg>
+<lg>
+<l>Ah ! tiens, mon cœur, de grâce, laisse !</l>
+<l>Lorsque j’y songe, en vérité,</l>
+<l>J’en ai des sueurs de faiblesse,</l>
+<l>A choir dans la malpropreté.</l>
+</lg>
+<lg>
+<l>Le cœur me piaffe de génie</l>
+<l>Eperdûment pourtant, mon Dieu !</l>
+<l>Et si quelqu’une veut ma vie,</l>
+<l>Moi je ne demande pas mieux !</l>
+</lg>
+<lg>
+<l>Eh va, pauvre âme véhémente !</l>
+<l>Plonge, être, en leurs Jourdains blasés,</l>
+<l>Deux frictions de vie courante</l>
+<l>T’auront bien vite exorcisé.</l>
+</lg>
+<lg>
+<l>Hélas, qui peut m’en répondre !</l>
+<l>Tenez, peut-être savez-vous</l>
+<pagenum num="131"/>
+<l>Ce que c’est qu’une âme hypocondre ?</l>
+<l>J’en suis une dans les prix doux.</l>
+<l>O Hélène, j’erre en ma chambre ;</l>
+</lg>
+<lg>
+<l>Et tandis que tu prends le thé,</l>
+<l>Là-bas, dans l’or d’un fier septembre,</l>
+<l>Je frissonne de tous mes membres,</l>
+<l>En m’inquiétant de ta santé.</l>
+</lg>
+<lg>
+<l>Tandis que, d’un autre côté....</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p49">
+<pagenum num="132"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>D’UNE CONVALESCENCE EN MAI</s></h2>
+
+<vsep class="rule"/>
+
+<epigraphe>
+<p>Nous n’avons su toutes ces choses qu’après sa mort.</p>
+
+<p class="r3">Vie de Pascal par M<sup>me</sup> Perier.</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Convalescent au lit, ancré de courbatures,</l>
+<l>Je me plains aux dessins bleus de ma couverture,</l>
+</lg>
+<lg>
+<l>Las de reconstituer dans l’art du jour baissant</l>
+<l>Cette dame d’en face auscultant les passants :</l>
+</lg>
+<lg>
+<l>Si la Mort, de son van, avait chose mon être,</l>
+<l>En serait-elle moins, ce soir, à sa fenêtre ?...</l>
+</lg>
+<lg>
+<l>Oh ! mort, tout mort ! au plus jamais, au vrai néant</l>
+<l>Des nuits où piaule en longs regrets le chant-huant !</l>
+</lg>
+<lg>
+<l>Et voilà que mon Ame est tout hallucinée !</l>
+<l>Puis s’abat, sans avoir fixé sa destinée.</l>
+</lg>
+<pagenum num="133"/>
+<lg>
+<l>Ah ! que de soirs de mai pareils à celui-ci ;</l>
+<l>Que la vie est égale ; et le cœur endurci !</l>
+</lg>
+<lg>
+<l>Je me sens fou d’un tas de petites misères.</l>
+<l>Mais maintenant, je sais ce qu’il me reste à faire.</l>
+</lg>
+<lg>
+<l>Qui m’a jamais rêvé ? Je voudrais le savoir !</l>
+<l>Elles vous sourient avec âme, et puis bonsoir,</l>
+</lg>
+<lg>
+<l>Ni vu ni connu. Et les voilà qui rebrodent</l>
+<l>Le canevas ingrat de leur âme à la mode ;</l>
+</lg>
+<lg>
+<l>Fraîches à tous, et puis reprenant leur air sec</l>
+<l>Pour les christs déclassés et autres gens suspects</l>
+</lg>
+<lg>
+<l>Et pourtant, le béni grand bol de lait de ferme</l>
+<l>Que me serait un baiser sur sa bouche ferme !</l>
+</lg>
+<lg>
+<l>Je ne veux accuser personne, bien qu’on eût</l>
+<l>Pu, ce me semble, mon bon cœur étant connu...</l>
+</lg>
+<lg>
+<l>N’est-ce pas ; nous savons ce qu’il nous reste à faire,</l>
+<l>O Cœur d’or pétri d’aromates littéraires,</l>
+</lg>
+<lg>
+<l>Et toi, cerveau confit dans l’alcool de l’Orgueil !</l>
+<l>Et qu’il faut procéder d’abord par demi-deuils...</l>
+</lg>
+<lg>
+<l>Primo : mes grandes angoisses métaphysiques</l>
+<l>Sont passées à l’état de chagrins domestiques ;</l>
+</lg>
+<pagenum num="134"/>
+<lg>
+<l>Deux ou trois spleens locaux, — Ah ! pitié, voyager</l>
+<l>Du moins, pendant un an ou deux à l’étranger...</l>
+</lg>
+<lg>
+<l>Plonger mon front dans l’eau des mers, aux matinées</l>
+<l>Torrides, m’en aller à petites journées,</l>
+</lg>
+<lg>
+<l>Compter les clochers, puis m’asseoir, ayant très chaud,</l>
+<l>Aveuglé des maisons peintes au lait de chaux...</l>
+</lg>
+<lg>
+<l>Dans les Indes du Rêve aux pacifiques Ganges,</l>
+<l>Que j’en ai des comptoirs, des hamacs de rechange !</l>
+</lg>
+<lg>
+<l>— Voici l’œuf à la coque et la lampe du soir.</l>
+<l>Convalescence bien folle, comme on peut voir.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p50">
+<pagenum num="135"/>
+
+<h2>COMPLAINTE</h2>
+<h2><s>DU</s> S<s>AGE DE</s> P<s>ARIS</s></h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Aimer, uniquement, ces jupes éphémères ?</l>
+<l>Autant dire aux soleils : fêtez vos centenaires.</l>
+</lg>
+<lg>
+<l>Mais tu peux déguster, dans leurs jardins d’un jour,</l>
+<l>Comme à cette dînette unique Tout concourt ;</l>
+</lg>
+<lg>
+<l>Déguster, en menant les rites réciproques,</l>
+<l>Les trucs Inconscients dans leur œuf, à la coque.</l>
+</lg>
+<lg>
+<l>Soit en pontifiant, avec toute ta foi</l>
+<l>D’Exécuteur des hautes-œuvres de la Loi ;</l>
+</lg>
+<lg>
+<l>Soit en vivisectant ces claviers anonymes,</l>
+<l>Pour l’art, sans espérer leur <i>ut</i> d’hostie ultime.</l>
+</lg>
+<lg>
+<l>Car, crois pas que l’hostie où dort ton paradis</l>
+<l>Sera d’une farine aux levains inédits.</l>
+</lg>
+<pagenum num="136"/>
+<lg>
+<l>Mais quoi, leurs yeux sont tout ! et puis la nappe est mise,</l>
+<l>Et l’Orgue juvénile à l’aveugle improvise..</l>
+</lg>
+<lg>
+<l>Et, sans noce, voyage, curieux, colis,</l>
+<l>Cancans, et fadeur d’hôpital du même lit,</l>
+</lg>
+<lg>
+<l>Mais pour avoir des vitraux tiers à domicile,</l>
+<l>Vivre à deux seuls est encor le moins imbécile.</l>
+</lg>
+<lg>
+<l>Vois-la donc, comme d’ailleurs, et loyalement,</l>
+<l>Les passants, les mots, les choses, les firmaments.</l>
+</lg>
+<lg>
+<l>Vendange chez les arts enfantins ; sois en fête</l>
+<l>D’une fugue, d’un mot, d’un ton, d’un air de tête.</l>
+</lg>
+<lg>
+<l>La science, outre qu’elle ne peut rien savoir,</l>
+<l>Trouve, tels les ballons, l’irrespirable Noir.</l>
+</lg>
+<lg>
+<l>Ne force jamais tes pouvoirs de Créature,</l>
+<l>Tout est écrit et vrai, rien n’est contre-nature.</l>
+</lg>
+<lg>
+<l>Vivre et peser selon le Beau, le Bien, le Vrai ?</l>
+<l>O parfums, ô regards, ô fois ! soit, j’essaierai ;</l>
+</lg>
+<lg>
+<l>Mais, tel Brennus avec son épée, et d’avance,</l>
+<l>Suis-je pas dans l’un des plateaux de la balance ?</l>
+</lg>
+<lg>
+<l>Des casiers de bureau, le Beau, le Vrai, le Bien ;</l>
+<l>Rime et sois grand, la Loi reconnaîtra les siens.</l>
+</lg>
+<pagenum num="137"/>
+<lg>
+<l>Ah ! demaillotte-toi, mon enfant, de ces langes</l>
+<l>D’Occident ! va faire une pleine eau dans le Gange.</l>
+</lg>
+<lg>
+<l>La logique, la morale, c’est, vite dit ;</l>
+<l>Mais ! gisements d’instincts, virtuels paradis,</l>
+</lg>
+<lg>
+<l>Nuit des hérédités et limbes des latences !</l>
+<l>Actif ? passif ? ô pelouses des Défaillances,</l>
+</lg>
+<lg>
+<l>Tamis de pores ! Et les bas-fonds sous-marins,</l>
+<l>Infini sans foyer, forêt vierge à tous crins !</l>
+</lg>
+<lg>
+<l>Pour voir, jetez la sonde, ou plongez sous la cloche ;</l>
+<l>Oh ! les velléités, les anguilles sous roche,</l>
+</lg>
+<lg>
+<l>Les polypes sournois attendant l’hameçon,</l>
+<l>Les vœux sans état-civil, ni chair, ni poisson !</l>
+</lg>
+<lg>
+<l>Les guanos à Geysers, les astres en syncope,</l>
+<l>Et les métaux qui font loucher nos spectroscopes !</l>
+</lg>
+<lg>
+<l>Une capsule éclate, un monde de facteurs</l>
+<l>En prurit, s’éparpille assiéger les hauteurs ;</l>
+</lg>
+<lg>
+<l>D’autres titubent sous les butins génitoires,</l>
+<l>Ou font un feu d’enfer dans leurs laboratoires !</l>
+</lg>
+<lg>
+<l>Allez ! laissez passer, laissez faire ; l’Amour</l>
+<l>Reconnaîtra les siens : il est aveugle et sourd.</l>
+</lg>
+<pagenum num="138"/>
+<lg>
+<l>Car la vie innombrable va, vannant les germes</l>
+<l>Aux concurrences des êtres sans droits, sans terme.</l>
+</lg>
+<lg>
+<l>Vivottez et passez, à la grâce de Tout ;</l>
+<l>Et voilà la piété, l’amour et le bon goût.</l>
+</lg>
+<lg>
+<l>L’Insconscient, c’est l’Eden-Levant que tout saigne ;</l>
+<l>Si la Terre ne veut sécher, qu’elle s’y baigne !</l>
+</lg>
+<lg>
+<l>C’est la grande Nounou où nous nous aimerions</l>
+<l>A la grâce des divines sélections.</l>
+</lg>
+<lg>
+<l>C’est le Tout-Vrai, l’Omniversel Ombelliforme</l>
+<l>Mancenilier, sous qui, mes bébés, faut qu’on dorme !</l>
+</lg>
+<lg>
+<l>(Nos découvertes scientifiques étant</l>
+<l>Ses feuilles mortes, qui tombent de temps en temps.)</l>
+</lg>
+<lg>
+<l>Là, sur des oreillers d’étiquettes d’éthiques,</l>
+<l>Lévite félin aux égaux ronrons lyriques,</l>
+</lg>
+<lg>
+<l>Sans songer : « Suis-je-moi ? Tout est si compliqué !</l>
+<l>« Où serais-je à présent, pour tel coche manqué ? »</l>
+</lg>
+<lg>
+<l>Sans colère, rire, ou pathos, d’une foi pâle,</l>
+<l>Aux riches flirtations des pompes argutiales,</l>
+</lg>
+<lg>
+<l>Mais sans rite emprunté, car c’est bien malséant,</l>
+<l>Sirote chaque jour ta tasse de néant ;</l>
+</lg>
+<pagenum num="139"/>
+<lg>
+<l>Lavé comme une hostie, en quelconques costumes</l>
+<l>Blancs ou deuil, bref calice au vent qu’un rien parfume.</l>
+</lg>
+<lg>
+<l>— « Mais, tout est un rire à la Justice ! et d’où vient</l>
+<l>Mon cœur, ah ! mon sacré-cœur, s’il ne rime à rien ? »</l>
+</lg>
+<lg>
+<l>— Du calme et des fleurs. Peu t’importe de connaître</l>
+<l>Ce que tu fus, dans l’à jamais, avant de naître ?</l>
+</lg>
+<lg>
+<l>Eh bien, que l’autre éternité qui, Très-Sans-Toi,</l>
+<l>Grouillera, te laisse aussi pieusement froid.</l>
+</lg>
+<lg>
+<l>Quant à <i>ta</i> mort, l’éclair aveugle en est en route</l>
+<l>Qui saura te choser, va, sans que tu t’en doutes.</l>
+</lg>
+<lg>
+<l>— « Il rit d’oiseaux, le pin dont <i>mon</i> cercueil viendra ! »</l>
+<l>— Mais <i>ton</i> cercueil sera <i>sa</i> mort ! etc....</l>
+</lg>
+<lg>
+<l>Allons, tu m’as compris. Va, que ta seule étude</l>
+<l>Soit de vivre sans but, fou de mansuétude.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p51">
+<pagenum num="140"/>
+
+<h2>COMPLAINTE DES COMPLAINTES</h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l>Maintenant ! pourquoi ces complaintes ?</l>
+<l>Gerbes d’ailleurs d’un défunt Moi</l>
+<l>Où l’ivraie art mange la foi ?</l>
+<l>Sot tabernacle où je m’éteinte</l>
+<l>A cultiver des roses peintes ?</l>
+<l>Pourtant ménage et sainte-table !</l>
+<l>Ah ! ces complaintes incurables,</l>
+<l indent="3">Pourquoi ? pourquoi ?</l>
+</lg>
+<lg>
+<l>Puis, Gens à qui les fugues vraies</l>
+<l>Que crie, au fond, ma riche voix</l>
+<l>— N’est-ce pas, qu’on les sent parfois ? —</l>
+<l>Attoucheraient sous leurs ivraies</l>
+<l>Les violettes d’une Foi,</l>
+<l>Vous passerez, imperméables</l>
+<l>A mes complaintes incurables ?</l>
+<l indent="3">Pourquoi ? pourquoi ?</l>
+</lg>
+<pagenum num="141"/>
+<lg>
+<l>Chut ! tout est bien, rien ne s’étonne.</l>
+<l>Fleuris, ô Terre d’occasion,</l>
+<l>Vers les mirages des Sions !</l>
+<l>Et nous, sous l’Art qui nous bâtonne,</l>
+<l>Sisyphes par persuasion,</l>
+<l>Flûtant des christ les vaines fables,</l>
+<l>Au cabestan de l’incurable</l>
+<l indent="3">P<s>OURQUOI !</s> — Pourquoi ?</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p52">
+<pagenum num="142"/>
+
+<h2>COMPLAINTE-ÉPITAPHE</h2>
+
+<vsep class="rule"/>
+
+<poem>
+<lg>
+<l indent="5">La Femme,</l>
+<l indent="5">Mon âme :</l>
+<l indent="5">Ah ! quels</l>
+<l indent="5">Appels !</l>
+</lg>
+<lg>
+<l indent="5">Pastels</l>
+<l indent="5">Mortels,</l>
+<l indent="5">Qu’un blâme</l>
+<l indent="5">Mes gammes !</l>
+</lg>
+<lg>
+<l indent="5">Un fou</l>
+<l indent="5">S’avance,</l>
+<l indent="5">Et danse.</l>
+</lg>
+<lg>
+<l indent="5">Silence...</l>
+<l indent="5">Lui, où ?</l>
+<l indent="5">Coucou.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="table">
+<pagenum num="143"/>
+
+<h1>TABLE DES MATIÈRES</h1>
+
+<h3><i>Pour trouver instantanément telle ou telle Complainte</i></h3>
+
+<vsep class="rule"/>
+
+<p><a idref="p01">Dédicace</a></p>
+<p><a idref="p02">Préludes Autobiographiques</a></p>
+<p><a idref="p03">Complainte propitiatoire à l’Inconscient</a></p>
+<p><a idref="p04">Complainte-Placet de Faust fils</a></p>
+<p><a idref="p05">Complainte à Notre-Dame des Soirs</a></p>
+<p><a idref="p06">Complainte des Voix sous le Figuier boudhique</a></p>
+<p><a idref="p07">Complainte de cette bonne Lune</a></p>
+<p><a idref="p08">Complainte des Pianos qu’on entend dans les quartiers aisés</a></p>
+<p><a idref="p09">Complainte de la bonne Défunte</a></p>
+<p><a idref="p10">Complainte de l’Orgue de Barbarie</a></p>
+<p><a idref="p11">Complainte d’un certain Dimanche</a></p>
+<p><a idref="p12">Complainte d’un autre Dimanche</a></p>
+<p><a idref="p13">Complainte du fœtus du Poète</a></p>
+
+<pagenum num="144"/>
+
+<p><a idref="p14">Complainte des pubertés difficiles</a></p>
+<p><a idref="p15">Complainte de la fin des Journées</a></p>
+<p><a idref="p16">Complainte de la Vigie aux minuits polaires</a></p>
+<p><a idref="p17">Complainte de la Lune en province</a></p>
+<p><a idref="p18">Complainte du Printemps</a></p>
+<p><a idref="p19">Complainte de l’Automne monotone</a></p>
+<p><a idref="p20">Complainte de l’Ange incurable</a></p>
+<p><a idref="p21">Complainte des Nostalgies préhistoriques</a></p>
+<p><a idref="p22">Autre Complainte de l’Orgue de Barbarie</a></p>
+<p><a idref="p23">Complainte du pauvre Chevalier-Errant</a></p>
+<p><a idref="p24">Complainte des formalités nuptiales</a></p>
+<p><a idref="p25">Complainte des Blackboulés</a></p>
+<p><a idref="p26">Complainte des Consolations</a></p>
+<p><a idref="p27">Complainte des bons Ménages</a></p>
+<p><a idref="p28">Complainte de Lord Pierrot</a></p>
+<p><a idref="p29">Autre Complainte de Lord Pierrot</a></p>
+<p><a idref="p30">Complainte sur certains ennuis</a></p>
+<p><a idref="p31">Complainte des Noces de Pierrot</a></p>
+<p><a idref="p32">Complainte du Vent qui s’ennuie la nuit</a></p>
+<p><a idref="p33">Complainte du pauvre corps humain</a></p>
+<p><a idref="p34">Complainte du Roi de Thulé</a></p>
+<p><a idref="p35">Complainte du soir des Comices agricoles</a></p>
+<p><a idref="p36">Complainte des Cloches</a></p>
+<p><a idref="p37">Complainte des grands Pins dans une villa abandonnée</a></p>
+<p><a idref="p38">Complainte sur certains temps déplacés</a></p>
+
+<pagenum num="145"/>
+
+<p><a idref="p39">Complainte des condoléances au Soleil</a></p>
+<p><a idref="p40">Complaintede l’oubli des Morts</a></p>
+<p><a idref="p41">Complainte du pauvre jeune homme</a></p>
+<p><a idref="p42">Complainte de l’Époux outragé</a></p>
+<p><a idref="p43">Complainte-Variations sur le mot <i>falot, falotte</i></a></p>
+<p><a idref="p44">Complainte du Temps et de sa commère l’Espace</a></p>
+<p><a idref="p45">Grande Complainte de la Ville de Paris</a></p>
+<p><a idref="p46">Complainte des Mounis du Mont-Martre</a></p>
+<p><a idref="p47">Complainte-Litanies de mon Sacré-Cœur</a></p>
+<p><a idref="p48">Complainte des Débats mélancoliques et littéraires</a></p>
+<p><a idref="p49">Complainte d’une Convalescence</a></p>
+<p><a idref="p50">Complainte du Sage de Paris</a></p>
+<p><a idref="p51">Complainte des Complaintes</a></p>
+<p><a idref="p52">Complainte-Épitaphe</a></p>
+
+<vsep class="rule"/>
+
+<h1><i>ERRATUM</i></h1>
+
+<p>Page 21 lire :</p>
+<p>Au lieu de sangsuelles... sensuelles.</p>
+
+ </page-sequence>
+ </page-sequences>
+</bml>

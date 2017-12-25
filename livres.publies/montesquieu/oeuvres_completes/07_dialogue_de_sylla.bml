@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb309702138">
+
+      <titre>Œuvres complètes de Montesquieu</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119166485">
+        <nom-bibliographie>Montesquieu, Charles-Louis de Secondat</nom-bibliographie>
+        <dates>1689-1755</dates>
+        <nom-couverture>Montesquieu</nom-couverture>
+      </auteur>
+      
+      <auteur role='edt' bnf="http://catalogue.bnf.fr/ark:/12148/cb12280806q">
+        <nom-bibliographie>Laboulaye, Édouard</nom-bibliographie>
+        <dates>1811-1883</dates>
+        <nom-couverture>Édouard Laboulaye</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>Garnier Frères</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1875-1879</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume id="v2">
+      <facsimile href="http://books.google.com/books?id=bgUvAAAAMAAJ"
+                 pages="n0"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000109"
+        creation="2010-12-02T00:00:01-08:00"
+        modification="2014-12-31T18:14:30-08:00">
+
+      <surtitre>Œuvres complètes</surtitre>
+      <titre>Dialogue de Sylla et d’Eucrate</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00002'>
+        <titre>Œuvres complètes de Montesquieu, édition Laboulaye</titre>
+      </collection>
+
+      <merci>
+        <p>Merci à Mohamed Sebaa pour les erreurs qu’il a signalées.</p>
+      </merci>
+
+      <note>
+        <p>L’orthographe a été modernisée en remplaçant <i>oi</i> par <i>ai</i> (par example <i>étoit</i> remplacé par <i>était</i>).</p>
+
+        <p>Les notes de Montesquieu ainsi que les notes éditoriales de Laboulaye suivent immédiatement le texte, et sont numérotées 1, 2, 3,... Les variantes sont placées à la fin du volume, et son numérotées a, b, c,... Dans les deux cas, l’appel de note et le numéro de la note sont hyperliés.</p>
+      </note>
+    </electronique>
+  </metadata>
+
+  <toc/>
+
+  <cover src="images/couverture-2.png" alt=""/>
+
+<page-sequences>
+
+
+<div id="avertissement" toc="Avertissement de l’éditeur">
+
+<pagenum v="v2" num="329"/>
+
+<h1>AVERTISSEMENT DE L’ÉDITEUR</h1>
+
+<p>Le <i>Dialogue de Sylla et d’Eucrate </i>parut pour la première fois dans le <i>Mercure de France, </i>numéro de février 1745 ; Montesquieu le joignit à l’édition des <i>Considérations, </i>qu’il publia en 1748 ; depuis lors on ne les a plus séparés.</p>
+
+<p>Nos maîtres littéraires ont toujours proposé à notre admiration ce dialogue célèbre ; ils y ont vu un des chefs-d’œuvre de l’esprit humain. Personne ne s’est exprimé sur ce point avec plus de chaleur que M. Villemain, dans son <i>Éloge </i>de Montesquieu.</p>
+
+<vsep class="emptyline"/>
+
+<p>« Rien, dit-il, n’est plus étonnant et plus rare que ces créations du génie, qui semblent transposées d’un siècle à l’autre. Montesquieu en a donné plus d’un exemple qui décèle un rapport singulier entre son âme et ces grandes âmes de l’antiquité. Plutarque est le peintre des héros ; Tacite dévoile le cœur des tyrans ; mais dans Plutarque ou dans Tacite, est-il une peinture égale à cette révélation du cœur de Sylla, se découvrant lui-même avec une orgueilleuse naïveté ? Comme œuvre historique, ce morceau est un incomparable modèle de l’art de pénétrer un caractère et d’y saisir, à travers la diversité des actions, le principe unique et dominant qui faisait agir. C’est un supplément à la <i>Grandeur et à la Décadence des Romains. </i></p>
+
+<p>« Il s’est trouvé des hommes qui ont exercé tant de puissance sur les autres hommes, que leur caractère habilement tracé complète le tableau de leur siècle.</p>
+
+<p>« C’était d’abord un heureux trait de vérité de bien saisir et de marquer l’époque où la vie d’un homme pût occuper une si grande place dans l’histoire des Romains. Cette époque est décisive. Montesquieu n’a présenté que Sylla sur la scène ; mais Sylla rappelle Marius, et il prédit César. Rome est désormais moins forte que les grands hommes qu’elle produit : la liberté est perdue, et l’on découvre dans l’avenir toutes les tyrannies <pagenum v="v2" num="330"/>qui naîtront d’un esclavage passager, mais une fois souffert. Que dire de cette éloquence extraordinaire, inusitée, qui tient à l’alliance de l’imagination et de la politique, et prodigue à la fois les pensées profondes et les saillies d’enthousiasme ; éloquence qui n’est pas celle de Pascal, ni celle de Bossuet, sublime cependant, et tout animée de ces passions républicaines, qui sont les plus éloquentes de toutes, parce qu’elles mêlent à la grandeur des sentiments la chaleur d’une faction ?</p>
+
+<p>« Ces passions se confondent dans Sylla avec la fureur de la domination ; et de cet assemblage bizarre se forme ce sanguinaire et insolent mépris du genre humain qui respire dans le dialogue d’Eucrate et de Sylla. Jamais le dédain n’a été rendu plus éloquent ; il s’agit en effet d’un homme qui a dédaigné, et, pour ainsi dire, rejeté la servitude des Romains. Cette pensée, qui semble la plus haute que l’imagination puisse concevoir, est la première que Montesquieu fasse sortir de la bouche de Sylla, tant il est certain de surpasser encore l’étonnement qu’elle inspire. « Eucrate, dit Sylla, si je ne suis plus en spectacle a l’univers, c’est la faute des choses humaines qui ont des bornes et non pas la mienne. J’aime à remporter des victoires, à fonder ou à détruire des États, à punir un usurpateur ; mais pour ces minces détails de gouvernement, où les génies médiocres ont tant d’avantage, cette lente exécution des lois, cette discipline d’une milice tranquille, mon âme ne saurait s’en occuper. » L’âme de Sylla est déjà tout entière dans ces paroles ; et cette âme était plus atroce que grande. Peut-être Montesquieu a-t-il caché l’horreur du nom de Sylla sous le faste imposant de sa grandeur ; peut-être a-t-il trop secondé cette fatale et stupide illusion des hommes, qui leur fait admirer l’audace qui les écrase. Sylla paraît plus étonnant par les pensées que lui prête Montesquieu que par ses actions mêmes. Cette éloquence renouvelle, pour ainsi dire, dans les âmes la terreur qu’éprouvèrent les Romains devant leur impitoyable dictateur. Comment jadis Sylla, chargé de tant de haines, osa-t-il abandonner l’asile de la tyrannie, et, simple citoyen, descendre sur la place publique qu’il avait inondée de sang ? Il vous répondra par un mot : « J’ai étonné les hommes. » Mais à côté de ce mot si simple et si profond, quelle menaçante peinture de ses victoires, de ses proscriptions ! quelle éloquence ! quelle vérité terrible ! Le problème est expliqué. On conçoit la puissance et l’impunité de Sylla. »</p>
+
+<vsep class="emptyline"/>
+
+<p>Un éditeur de Montesquieu aurait mauvaise grâce à critiquer de pareils éloges. Cependant la vérité a ses droits ; et malgré toute mon admiration pour l’auteur des <i>Considérations </i>et de l’<i>Esprit des lois, </i>malgré tout mon respect pour M. Villemain, il m’est difficile de regarder le <i>Dialogue de Sylla et d’Eucrate </i>autrement que comme un paradoxe soutenu avec tout l’éclat du génie. Sylla n’était pas ce héros dédaigneux et sceptique ; <pagenum v="v2" num="331"/>il ne portait pas tant de délicatesse dans l’ambition. Qu’il méprisât les hommes, je n’en doute point : c’est l’usage de ses pareils ; qu’il se proposât de les étonner, ou, chose plus étrange, qu’il voulût mener violemment les Romains à la liberté, ce sont là de ces assertions, faites pour éblouir, mais non pour convaincre. Le Sylla de l’histoire est l’homme d’un parti. Il a en haine et en mépris la faction de Marius qui l’a proscrit ; rien ne lui semble plus naturel que d’écraser ses ennemis quand il est le plus fort, et d’égorger ceux qui ne l’auraient pas épargné. Qu’il se délivre des tribuns dont il méprise le bavardage, c’est chose toute simple ; il n’est pas besoin de remonter jusqu’à l’antiquité pour trouver des généraux qui ont l’horreur des avocats, et qui ne connaissent d’autre gouvernement que celui de la force et du silence. Sylla n’est pas une exception héroïque ; il n’y a rien dans sa conduite qui dépasse la portée d’un général, plus habitué à commander à des soldats qu’à gouverner des hommes libres. Mais son abdication ? Elle était plus apparente que réelle ; Montesquieu l’a senti. Quant au reproche que César adressait à son modèle : <i>Syllam nescisse literas qui dictaturam deposuerit ; </i>le nouveau dictateur en parlait à son aise. Les guerres civiles avaient achevé l’œuvre que Sylla avait trop bien commencée. Mais quand Sylla dressa ses tables de proscription, Rome, malgré ses misères, n’était pas mûre pour l’empire ; il fallait encore égorger une génération avant que cette idée pût germer dans la tête d’un ambitieux. Un homme tel que Sylla, qui se faisait peu d’illusions, ne pouvait vouloir que des choses possibles, et il n’y en avait pas d’autre que le triomphe de son parti.</p>
+
+<p>Le tort de Montesquieu, je le dis en hésitant, c’est depoétiser un soldat brutal, et de lui attribuer des raffinements d’idées et de sentiments qui en font un personnage de théâtre. Comme le dit finement M. Villemain : « Sylla paraît plus étonnant par les pensées qu’on lui prête que par ses actions mêmes. » Quel besoin y avait-il de donner au crime je ne sais quelle grandeur qui l’élève au-dessus de la morale commune ? Quelle nécessité d’entourer d’une auréole le meurtre, les confiscations, la tyrannie ? Je sais qu’Eucrate fait des réserves ; les paroles de la fin sont la condamnation de Sylla, mais, je l’avoue, je n’aime pas voir un homme de talent jouer avec des paradoxes aussi dangereux. Ce <pagenum v="v2" num="332"/>ne sont point là des paroles innocentes. En toute république il y a un parti d’intrigants et de lâches qui aime la force et qui applaudit à ceux qui la justifient. En temps de révolution, il ne manque pas d’ambitieux disposés à sauver leur pays et à rétablir l’ordre à la façon de Sylla. Si Montesquieu avait traversé nos épreuves, il n’aurait pas écrit son <i>Dialogue. </i>La défense des honnêtes gens, la garantie de la liberté, c’est la justice de l’histoire ; n’affaiblissons pas ses arrêts en prêtant je ne sais quelle noblesse d’intention à ceux qui, dans le seul intérêt de leur vengeance ou de leur convoitise, ont brutalement versé le sang de leurs concitoyens, et foulé aux pieds les lois qu’ils devaient défendre. Marquons-les au front d’une honte éternelle ; cette honte, c’est leur châtiment, c’est notre protection.</p>
+
+<vsep class="emptyline"/>
+
+<p>Décembre 1875.</p>
+
+</div>
+
+<div id="dialogue" toc="Dialogue de Sylla et d’Eucrate">
+
+<pagenum v="v2" num="333"/>
+
+<h1>DIALOGUE DE SYLLA ET D’EUCRATE<noteref noteid="2.333.1"/>.</h1>
+
+<h2>1745</h2>
+
+<vsep class="rule"/>
+
+<p>Quelques jours après que Sylla se fut démis de la dictature, j’appris que la réputation que j’av<oa/>is parmi les philosophes lui fais<oa/>it souhaiter de me voir. Il ét<oa/>it à sa maison de Tibur, où il jouiss<oa/>it des premiers moments tranquilles de sa vie. Je ne sentis point devant lui le désordre où nous jette ordinairement la présence des grands hommes. Et, dès que nous fûmes seuls : Sylla, lui dis-je, vous vous êtes donc mis vous-même dans cet état de médiocrité qui afflige presque tous les humains ? Vous avez renoncé à cet empire que votre gloire et vos vertus vous donn<oa/>ient sur tous les hommes ? La fortune semble être gênée de ne plus vous élever aux honneurs.</p>
+
+<vsep class="emptyline"/>
+
+<p>Eucrate, me dit-il, si je ne suis plus en spectacle à l’univers, c’est la faute des choses humaines qui ont des bornes, et non pas la mienne. J’ai cru avoir rempli ma destinée, dès que je n’ai plus eu à faire de grandes <pagenum v="v2" num="334"/>choses. Je n’ét<oa/>is point fait pour gouverner tranquillement un peuple esclave. J’aime à remporter des victoires, à fonder ou détruire des États, à faire des ligues, à punir un usurpateur ; mais, pour ces minces détails de gouvernement où les génies médiocres ont tant d’avantages, cette lente exécution des lois, cette discipline d’une milice tranquille, mon âme ne saur<oa/>it s’en occuper.</p>
+
+<note id="2.333.1" type="e"><p>Voyez le jugement de Montesquieu sur Sylla, <i>Considérations, </i>chap. <s>XI</s> et <s>XIII</s>.</p></note>
+
+<vsep class="emptyline"/>
+
+<p>Il est singulier, lui dis-je, que vous ayez porté tant de délicatesse dans l’ambition. Nous avons bien vu des grands hommes<noteref noteid="2.334.1"/> peu touchés du vain éclat et de la pompe qui entourent ceux qui gouvernent ; mais il y en a bien peu qui n’aient été sensibles au plaisir de gouverner et de faire rendre, à leur fantaisie, le respect qui n’est dû qu’aux lois.</p>
+
+<vsep class="emptyline"/>
+
+<p>Et moi, me dit-il, Eucrate, je n’ai jamais été si peu content que lorsque je me suis vu maître absolu dans Rome ; que j’ai regardé autour de moi, et que je n’ai trouvé ni rivaux ni ennemis.</p>
+
+<p>J’ai cru qu’on dir<oa/>it quelque jour que je n’av<oa/>is châtié que des esclaves. Veux-tu, me suis-je dit, que dans ta patrie il n’y ait plus d’hommes qui puissent être touchés de ta gloire ? Et, puisque tu établis la tyrannie, ne vois-tu pas bien qu’il n’y aura point après toi de prince si lâche, que la flatterie ne t’égale et ne pare de ton nom, de tes titres et de tes vertus même ?</p>
+
+<vsep class="emptyline"/>
+
+<p>Seigneur, vous changez toutes mes idées, de la façon dont je vous voir agir. Je croy<oa/>is que vous aviez de l’ambition, <pagenum v="v2" num="335"/>mais aucun amour pour la gloire : je voy<oa/>is bien que votre âme ét<oa/>it haute ; mais je ne soupçonn<oa/>is pas qu’elle fût grande : tout, dans votre vie, sembl<oa/>it me montrer un homme dévoré du désir de commander, et qui, plein des plus funestes passions, se charge<oa/>it, avec plaisir, de la honte, des remords et de la bassesse même attachés à la tyrannie. Car enfin, vous avez tout sacrifié à votre puissance ; vous vous êtes rendu redoutable à tous les Romains ; vous avez exercé, sans pitié, les fonctions de la plus terrible magistrature qui fût jamais. Le sénat ne vit qu’en tremblant un défenseur si impitoyable. Quelqu’un vous dit : Sylla, jusqu’à quand répandras-tu le sang romain ? Veux-tu ne commander qu’à des murailles ? Pour lors, vous publiâtes ces tables qui décidèrent de la vie et de la mort de chaque citoyen<noteref noteid="2.335.1"/>.</p>
+
+<note id="2.334.1" type="v"><p>« De grands hommes. » (Édit. 1748.)</p></note>
+
+<vsep class="emptyline"/>
+
+<p>Et c’est tout le sang que j’ai versé qui m’a mis en état de faire la plus grande de toutes mes actions. Si j’av<oa/>is gouverné les Romains avec douceur, quelle merveille, que l’ennui, que le dégoût, qu’un caprice m’eussent fait quitter le gouvernement ! Mais je me suis démis de la dictature dans le temps qu’il n’y av<oa/>it pas un seul homme dans l’univers qui ne crût que la dictature ét<oa/>it mon seul asile. J’ai paru devant les Romains, citoyen au milieu de mes concitoyens ; et j’ai osé leur dire : Je suis prêt à rendre compte de tout le sang que j’ai versé pour la république ; je répondrai à tous ceux qui viendront me demander leur père, leur fils ou leur frère. Tous les Romains se sont tus devant moi.</p>
+
+
+<note id="2.335.1" type="e"><p><i>Esprit des lois, </i>VI, 15 ; XII, 16.</p></note>
+
+<vsep class="emptyline"/>
+
+<pagenum v="v2" num="336"/>
+
+<p>Cette belle action, dont vous me parlez, me paraît bien imprudente. Il est vrai que vous avez eu pour vous le nouvel étonnement dans lequel vous avez mis les Romains. Mais comment osâtes-vous leur parler de vous justifier et de prendre pour juges des gens qui vous dev<oa/>ient tant de vengeances ?</p>
+
+<p>Quand toutes vos actions n’aur<oa/>ient été que sévères pendant que vous étiez le maître, elles deven<oa/>ient des crimes affreux dès que vous ne l’étiez plus.</p>
+
+<vsep class="emptyline"/>
+
+<p>Vous appelez des crimes, me dit-il, ce qui a fait le salut de la république ? Vouliez-vous que je visse tranquillement des sénateurs trahir le sénat, pour ce peuple, qui, s’imaginant que la liberté doit être aussi extrême que le peut être l’esclavage, cherch<oa/>it à abolir la magistrature même ?</p>
+
+<p>Le peuple, gêné par les lois et par la gravité du sénat, a toujours travaillé à renverser l’un et l’autre. Mais celui qui est assez ambitieux pour le servir contre le sénat et les lois, le fut toujours assez pour devenir son maître. C’est ainsi que nous avons vu finir tant de républiques dans la Grèce et dans l’Italie.</p>
+
+<p>Pour prévenir un pareil malheur, le sénat a toujours été obligé d’occuper à la guerre ce peuple indocile. Il a été forcé, malgré lui, à ravager la terre et à soumettre tant de nations dont l’obéissance nous pèse. A présent que l’univers n’a plus d’ennemis à nous donner, quel ser<oa/>it le destin de la république ? Et, sans moi, le sénat aur<oa/>it-il pu empêcher que le peuple, dans sa fureur aveugle pour la liberté, ne se livrât lui-même à Marius, ou au premier tyran qui lui aurait fait espérer l’indépendance ?</p>
+
+<pagenum v="v2" num="337"/>
+
+<p>Les dieux, qui ont donné à la plupart des hommes une lâche ambition, ont attaché à la liberté presque autant de malheurs qu’à la servitude. Mais, quel que doive être le prix de cette noble liberté, il faut bien le payer aux dieux.</p>
+
+<p>La mer engloutit les vaisseaux, elle submerge des pays entiers ; et elle est pourtant utile aux humains.</p>
+
+<p>La postérité jugera ce que Rome n’a pas encore osé examiner : elle trouvera peut-être que je n’ai pas versé assez de sang, et que tous les partisans de Marius n’ont pas été proscrits<noteref noteid="2.337.1"/>.</p>
+
+<vsep class="emptyline"/>
+
+<p>Il faut que je l’avoue<noteref noteid="2.337.2"/> ; Sylla, vous m’étonnez. Quoi ! c’est pour le bien de votre patrie que vous avez versé tant de sang ? Et vous avez eu de l’attachement pour elle ?</p>
+
+<vsep class="emptyline"/>
+
+<p>Eucrate, me dit-il, je n’eus jamais cet amour dominant pour la patrie dont nous trouvons tant d’exemples dans les premiers temps de la république ; et j’aime autant Coriolan, qui porte la flamme et le fer jusqu’aux murailles de sa ville ingrate, qui fait repentir chaque citoyen de l’affront que lui a fait chaque citoyen, que celui qui chassa les Gaulois du Capitole. Je ne me suis jamais piqué d’être l’esclave ni l’idolâtre de la société de mes pareils ; et cet amour tant vanté est une passion trop populaire pour être compatible avec la hauteur de mon âme. Je me suis uniquement conduit par mes réflexions, et surtout par le mépris que j’ai eu pour les hommes. On peut juger, par la manière dont j’ai traité le seul grand peuple de <pagenum v="v2" num="338"/>l’univers, de l’excès de ce mépris pour tous les autres.</p>
+
+<note id="2.337.1" type="v"><p>« Proscripts. <i>» </i>(Édit. 1748.)</p></note>
+
+<note id="2.337.2" type="v"><p>Il faut que je vous l’avoue. (Édit. 1748.)</p></note>
+
+<p>J’ai cru qu’étant sur la terre, il fall<oa/>it que j’y fusse libre. Si j’ét<oa/>is né chez les Barbares, j’aur<oa/>is moins cherché à usurper le trône pour commander que pour ne pas obéir. Né dans une république, j’ai obtenu la gloire des conquérants, en ne cherchant que celle des hommes libres.</p>
+
+<p>Lorsqu’avec mes soldats je suis entré dans Rome, je ne respir<oa/>is ni la fureur ni la vengeance. J’ai jugé sans haine, mais aussi sans pitié, les Romains étonnés. Vous étiez libres, ai-je dit ; et vous vouliez vivre esclaves ? Non. Mais mourez, et vous aurez l’avantage de mourir citoyens d’une ville libre.</p>
+
+<p>J’ai cru qu’ôter la liberté à une ville dont j’ét<oa/>is citoyen, ét<oa/>it le plus grand des crimes. J’ai puni ce crime-là ; et je ne me suis point embarrassé si je ser<oa/>is le bon ou le mauvais génie de la république. Cependant le gouvernement de nos pères a été rétabli ; le peuple a expié tous les affronts qu’il avait faits aux nobles : la crainte a suspendu les jalousies ; et Rome n’a jamais été si tranquille.</p>
+
+<p>Vous voilà instruit de ce qui m’a déterminé à toutes les sanglantes tragédies que vous avez vues. Si j’av<oa/>is vécu dans ces jours heureux de la république, où les citoyens, tranquilles dans leurs maisons, y rend<oa/>ient aux dieux une âme libre, vous m’auriez vu passer ma vie dans cette retraite, que je n’ai obtenue que par tant de sang et de sueur.</p>
+
+<vsep class="emptyline"/>
+
+<p>Seigneur, lui dis-je, il est heureux que le ciel ait épargné au genre humain le nombre des hommes tels que vous. Nés pour la médiocrité, nous sommes accablés par
+<pagenum v="v2" num="339"/>les esprits sublimes. Pour qu’un homme soit au-dessus de l’humanité, il en coûte trop cher à tous les autres.</p>
+
+<p>Vous avez regardé l’ambition des héros comme une passion commune ; et vous n’avez fait cas que de l’ambition qui raisonne. Le désir insatiable de dominer, que vous avez trouvé dans le cœur de quelques citoyens, vous a fait prendre la résolution d’être un homme extraordinaire : l’amour de votre liberté vous a fait prendre celle d’être terrible et cruel. Qui dir<oa/>it qu’un héroïsme de principe eût été plus funeste qu’un héroïsme d’impétuosité ? Mais si, pour vous empêcher d’être esclave, il vous a fallu usurper la dictature, comment avez-vous osé la rendre ? Le peuple romain, dites-vous, vous a vu désarmé, et n’a point attenté sur votre vie. C’est un danger auquel vous avez échappé ; un plus grand danger peut vous attendre. Il peut vous arriver de voir quelque jour un grand criminel jouir de votre modération, et vous confondre dans la foule d’un peuple soumis.</p>
+
+<vsep class="emptyline"/>
+
+<p>J’ai un nom, me dit-il ; et il me suffit pour ma sûreté et celle du peuple romain. Ce nom arrête toutes les entreprises ; et il n’y a point d’ambition qui n’en soit épouvantée. Sylla respire, et son génie est plus puissant que celui de tous les Romains. Sylla a autour de lui Chéronée, Orchomène et Signion ; Sylla a donné à chaque famille de Rome un exemple domestique et terrible : chaque Romain m’aura toujours devant les yeux ; et, dans ses songes même, je lui apparaîtrai couvert de sang ; il croira voir les funestes tables, et lire son nom à la tête des proscrits. On murmure en secret contre mes lois ; mais elles ne seront pas effacées par des flots même de sang romain. Ne suis-je pas au milieu de Rome ? Vous trouverez encore <pagenum v="v2" num="340"/>chez moi le javelot que j’av<oa/>is à Orchomène, et le bouclier que je portai sur les murailles d’Athènes. Parce que je n’ai point de licteurs, en suis-je moins Sylla ? J’ai pour moi le sénat, avec la justice et les lois ; le sénat a pour lui mon génie, ma fortune et ma gloire.</p>
+
+<vsep class="emptyline"/>
+
+<p>J’avoue, lui dis-je, que, quand on a une fois fait trembler quelqu’un, on conserve presque toujours quelque chose de l’avantage qu’on a pris.</p>
+
+<vsep class="emptyline"/>
+
+
+<p>Sans doute, me dit-il. J’ai étonné les hommes, et c’est beaucoup. Repassez dans votre mémoire l’histoire de ma vie : vous verrez que j’ai tout tiré de ce principe, et qu’il a été l’âme de toutes mes actions. Ressouvenez-vous de mes démêlés avec Marius ; je fus indigné de voir un homme sans nom, fier de la bassesse de sa naissance, entreprendre de ramener les premières familles de Rome dans la foule du peuple ; et, dans cette situation, je port<oa/>is tout le poids d’une grande âme. J’ét<oa/>is jeune, et je me résolus de me mettre en état de demander compte à Marius de ses mépris. Pour cela, je l’attaquai avec ses propres armes, c’est-à-dire par des victoires contre les ennemis de la république.</p>
+
+<p>Lorsque, par le caprice du sort, je fus obligé de sortir de Rome, je me conduisis de même ; j’allai faire la guerre à Mithridate ; et je crus détruire Marius, à force de vaincre l’ennemi de Marius. Pendant que je laissai ce Romain jouir de son pouvoir sur la populace, je multipli<oa/>is ses mortifications ; et je le forc<oa/>is tous les jours d’aller au Capitole rendre grâces aux dieux des succès dont je le désespér<oa/>is<noteref noteid="2.340.1"/>. <pagenum v="v2" num="341"/>Je lui fais<oa/>is une guerre de réputation, plus cruelle cent fois que celle que mes légions fais<oa/>ient au roi barbare. Il ne sort<oa/>it pas un seul mot de ma bouche qui ne marquât mon audace ; et mes moindres actions, toujours superbes, ét<oa/>ient pour Marius de funestes présages. Enfin Mithridate demanda la paix ; les conditions ét<oa/>ient raisonnables ; et, si Rome av<oa/>it été tranquille, ou si ma fortune n’av<oa/>it pas été chancelante, je les aur<oa/>is acceptées. Mais le mauvais état de mes affaires m’obligea de les rendre plus dures ; j’exigeai qu’il détruisît sa flotte et qu’il rendît aux rois ses voisins tous les États dont il les av<oa/>it dépouillés. Je te laisse, lui dis-je, le royaume de tes pères, à toi qui devrais me remercier de ce que je te laisse la main avec laquelle tu as signé l’ordre de faire mourir en un jour cent mille Romains. Mithridate resta immobile ; et Marius, au milieu de Rome, en trembla.</p>
+
+<note id="2.340.1" type="e"><p>Dans ce passage, on dirait que Montesquieu s’est inspiré de la maxime [<s>XCV</s>] de La Rochefoucauld : « La marque d’un mérite extraordinaire est de voir que ceux qui l’envient le plus sont contraints de le louer. »</p></note>
+
+
+<p>Cette même audace, qui m’a si bien servi contre Mithridate, contre Marius, contre son fils, contre Thélésinus, contre le peuple, qui a soutenu toute ma dictature, a aussi défendu ma vie le jour que je l’ai quittée ; et ce jour assure ma liberté pour jamais.</p>
+
+<vsep class="emptyline"/>
+
+
+<p>Seigneur, lui dis-je, Marius raisonn<oa/>it comme vous, lorsque, couvert du sang de ses ennemis et de celui des Romains, il montrait cette audace que vous avez punie. Vous avez bien pour vous quelques victoires de plus, et de plus grands excès. Mais, en prenant la dictature, vous avez donné l’exemple du crime que vous avez puni. Voilà l’exemple qui sera suivi, et non pas celui d’une modération qu’on ne fera qu’admirer.</p>
+
+<pagenum v="v2" num="342"/>
+
+<p>Quand les dieux ont souffert que Sylla se soit impunément fait dictateur dans Rome, ils y ont proscrit la liberté pour jamais. Il faudrait qu’ils fissent trop de miracles, pour arracher à présent du cœur de tous les capitaines romains l’ambition de régner. Vous leur avez appris qu’il y av<oa/>it une voie bien plus sûre pour aller à la tyrannie, et la garder sans péril. Vous avez divulgué ce fatal secret, et ôté ce qui fait seul les bons citoyens d’une république trop riche et trop grande, le désespoir de pouvoir l’opprimer.</p>
+
+<vsep class="emptyline"/>
+
+<p>Il changea de visage, et se tut un moment. Je ne crains, me dit-il avec émotion, qu’un homme dans lequel je crois voir plusieurs Marius<noteref noteid="2.342.1"/>. Le hasard, ou bien un destin plus fort, me l’a fait épargner. Je le regarde sans cesse ; j’étudie son âme : il y cache des desseins profonds. Mais s’il ose jamais former celui de commander à des hommes que j’ai faits mes égaux, je jure par les dieux que je punirai son insolence.</p>
+
+<note id="2.342.1" type="e"><p>Le jeune César. Suétone, <i>César, </i>c. <s>I</s>.</p></note>
+
+</div>
+
+</page-sequences>
+</bml>
+
+

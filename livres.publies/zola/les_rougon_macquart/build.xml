@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+
+<project name='zola' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_la_fortune_des_rougon'/>
+    <book x='02_la_curee'/>
+    <book x='03_le_ventre_de_paris'/>
+    <book x='04_la_conquete_de_plassans'/>
+    <book x='05_la_faute_de_l_abbe_mouret'/>
+    <book x='06_son_excellence_eugene_rougon'/>
+    <book x='07_l_assommoir'/>
+    <book x='08_une_page_d_amour'/>
+    <book x='09_nana'/>
+    <book x='10_pot_bouille'/>
+    <book x='11_au_bonheur_des_dames'/>
+    <book x='12_la_joie_de_vivre'/>
+    <book x='13_germinal'/>
+    <book x='14_l_oeuvre'/>
+    <book x='15_la_terre'/>
+    <book x='16_le_reve'/>
+    <book x='17_la_bete_humaine'/>
+    <book x='18_l_argent'/>
+    <book x='19_la_debacle'/>
+    <book x='20_le_docteur_pascal'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='les_rougon_macquart'/>
+  </target>
+
+
+  <target name='zipsources-book'/>
+</project>

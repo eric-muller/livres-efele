@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+
+<project name='livew' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_avertissement_1'/>
+    <book x='02_vers_de_jeunesse'/>
+    <book x='03_varia'/>
+    <book x='04_parallelement_additions'/>
+    <book x='05_dedicaces_additions'/>
+    <book x='06_le_livre_posthume'/>
+    <book x='07_souvenirs'/>
+    <book x='08_histoires_comme_ca'/>
+    <book x='09_avertissement_2'/>
+    <book x='10_charles_baudelaire'/>
+    <book x='11_voyage_en_france_par_un_francais'/>
+    <book x='12_souvenirs_et_promenades'/>
+    <book x='13_vive_le_roy'/>
+    <book x='14_qui_veut_des_merveilles'/>
+    <book x='15_quelques_vers_inedits'/>
+    <book x='16_critiques_et_conferences'/>
+    <book x='17_dessins'/>
+  </target>
+
+
+  <target name='collections'>
+    <collection x='verlaine_albert_messein'/> 
+  </target>
+  <target name='zipsources-book'/>
+
+</project>

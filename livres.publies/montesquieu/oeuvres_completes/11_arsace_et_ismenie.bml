@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb309702138">
+
+      <titre>Œuvres complètes de Montesquieu</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119166485">
+        <nom-bibliographie>Montesquieu, Charles-Louis de Secondat</nom-bibliographie>
+        <dates>1689-1755</dates>
+        <nom-couverture>Montesquieu</nom-couverture>
+      </auteur>
+      
+      <auteur role='edt' bnf="http://catalogue.bnf.fr/ark:/12148/cb12280806q">
+        <nom-bibliographie>Laboulaye, Édouard</nom-bibliographie>
+        <dates>1811-1883</dates>
+        <nom-couverture>Édouard Laboulaye</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>Garnier Frères</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1875-1879</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume id="v2">
+      <facsimile href="http://books.google.com/books?id=bgUvAAAAMAAJ"
+                 pages="n0"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000107"
+        creation="2010-11-22T00:00:03-08:00"
+        modification="2014-12-31T18:14:31-08:00">
+
+      <surtitre>Œuvres complètes</surtitre>
+      <titre>Arsace et Isménie</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00002'>
+        <titre>Œuvres complètes de Montesquieu, édition Laboulaye</titre>
+      </collection>
+
+      <merci>
+        <p>Merci à Mohamed Sebaa pour les erreurs qu’il a signalées.</p>
+      </merci>
+
+      <note>
+        <p>L’orthographe a été modernisée en remplaçant <i>oi</i> par <i>ai</i> (par example <i>étoit</i> remplacé par <i>était</i>).</p>
+
+        <p>Les notes de Montesquieu ainsi que les notes éditoriales de Laboulaye suivent immédiatement le texte, et sont numérotées 1, 2, 3,... Les variantes sont placées à la fin du volume, et son numérotées a, b, c,... Dans les deux cas, l’appel de note et le numéro de la note sont hyperliés.</p>
+      </note>
+    </electronique>
+  </metadata>
+
+  <toc/>
+
+  <cover src="images/couverture-2.png" alt=""/>
+
+<page-sequences>
+
+<div id="avis" toc="Avis de l’éditeur">
+
+<pagenum v="v2" num="381"/>
+
+<h1>AVIS DE L’ÉDITEUR</h1>
+
+<p>C’est dans les dernières années de sa vie que Montesquieu acheva le roman d’Arsace et Isménie. Il n’avait jamais perdu le goût de l’Orient, ses premières amours ; il se plaisait à ces fictions transparentes, qui lui permettaient de dire la vérité à ses contemporains, en se cachant à demi sous un vêtement étranger. Il aimait cette histoire orientale, amusement de sa vieillesse ; cependant il hésitait à la publier. Vers la fin de l’année 1754, il écrivait à son cher Guasco : « Tout bien pesé, je ne puis encore me déterminer à livrer mon roman d’Arsace à l’imprimeur. Le triomphe de l’amour conjugal en Orient est, peut-être, trop éloigné de nos mœurs pour croire qu’il serait bien reçu en France. Je vous apporterai ce manuscrit, nous le lirons ensemble, et je le donnerai à lire à quelques amis. » </p>
+
+<p>Montesquieu mourut deux mois après avoir écrit cette lettre ; Arsace fut oublié. Guasco écrivait en 1767 : « Ce roman n’a pas été imprimé depuis la mort de M. de Montesquieu. Le manuscrit est entre les mains de son fils, M. le baron de Secondat. La saine politique dont il est rempli perd peut-être autant à cette suppression que l’amour conjugal qui en fait la base<noteref noteid="2.381.1"/>. »</p>
+
+<p>C’est seulement en 1783 que le fils de Montesquieu publia cette œuvre posthume<noteref noteid="2.381.2"/> ; il la fit précéder de l’avis suivant :</p>
+
+<vsep class="emptyline"/>
+
+<p>« M. de Montesquieu av<oa/>it pris bien de la peine pour poser des bornes entre le despotisme et la monarchie tempérée, qui lui sembl<oa/>it le gouvernement naturel des Franç<oa/>is ; mais comme il<pagenum v="v2" num="382"/> est toujours fort dangereux que la monarchie ne tourne en despotisme, il aur<oa/>it voulu, s’il eût été possible, rendre le despotisme même utile. Dans cette vue, il a tracé la peinture la plus riante d’un despote qui rend ses peuples heureux : il s’est peut-être flatté qu’un jour, en lisant son ouvrage, un prince, une reine, un ministre, désirer<oa/>ient de ressembler à Arsace, à Isménie ou à Aspar, ou d’être eux-mêmes les modèles d’une peinture encore plus belle.</p>
+
+<p>« Au reste, plusieurs hommes peuvent être ou despotes ou rois dans leur famille, dans leur société, dans leurs emplois divers : nous pouvons tous faire notre profit de l’<i>Esprit des Lois</i> et de cet ouvrage-ci.</p>
+
+<p>« L’auteur voy<oa/>it l’empire que les femmes ont aujourd’hui sur les pensées des hommes : pour s’assurer les disciples, il a cherché à se rendre les maîtres favorables ; il a parlé la langue qui leur est la plus familière et la plus agréable ; il a fait un roman : il y a peint l’amour tel qu’il le sent<oa/>it, impétueux, rarement sombre, souvent badin. »</p>
+
+<vsep class="emptyline"/>
+
+
+<note id="2.381.1" type="e"><p><i>Lettres familières du président de Monleiquieu</i>, 1767, p. 246.</p></note>
+
+<note id="2.381.2" type="e"><p><i>Arsace et Isménie, histoire orientale</i>, Londres et Paris, 1783, chez G. Debure, in-24.</p></note>
+
+
+<p>Ce petit livre n’a pas trouvé grande faveur auprès du public ; on ne le lit guère, c’est un tort. Sans doute la fable est chimérique ; Arsace et Isménie ne sont que des héros de roman ; mais sans parler d’une foule de maximes et de réflexions politiques où l’on retrouve l’auteur de l’<i>Esprit des lois</i>, j’ose dire que Montesquieu n’a jamais rien écrit avec plus de verve et de chaleur. On dirait de l’œuvre d’un jeune homme, si le style n’avait une précision, une énergie, une correction que trahissent le talent parvenu à sa maturité. On voit que Montesquieu est mort dans toute la force et la plénitude de son génie. Comme témoignage de cette verte vieillesse, Arsace aura toujours de l’intérêt pour la critique et la philosophie.</p>
+
+</div>
+
+
+<div id="texte" toc="Arsace et Isménie">
+
+<pagenum v="v2" num='383'/>
+
+<h1>ARSACE ET ISMÉNIE</h1>
+
+<h2>HISTOIRE ORIENTALE.</h2>
+
+<p>Sur la fin du règne d’Artamène, la Bactriane fut agitée par les discordes civiles. Ce prince mourut accablé d’ennuis, et laissa son trône à sa fille Isménie. Aspar, premier eunuque du palais, eut la principale direction des affaires. Il désir<oa/>it beaucoup le bien de l’État, et il désir<oa/>it fort peu le pouvoir. Il conn<oa/>iss<oa/>it les hommes, et juge<oa/>it bien des événements. Son esprit ét<oa/>it naturellement conciliateur, et son âme sembl<oa/>it s’approcher de toutes les autres. La paix, qu’on n’os<oa/>it plus espérer, fut rétablie. Tel fut le prestige d’Aspar ; chacun rentra dans le devoir, et ignora presque qu’il en fût sorti. Sans effort et sans bruit, il sav<oa/>it faire les grandes choses.</p>
+
+<p>La paix fut troublée par le roi d’Hyrcanie. Il envoya des ambassadeurs pour demander Isménie en mariage ; et, sur ses refus, il entra dans la Bactriane. Cette entrée fut singulière. Tantôt il par<oa/>iss<oa/>it armé de toutes pièces, et prêt à combattre ses ennemis ; tantôt on le voy<oa/>it vêtu comme un amant que l’amour conduit auprès de sa maîtresse. Il men<oa/>it avec lui tout ce qui ét<oa/>it propre à un appareil de noces : des danseurs, des joueurs d’instruments, des farceurs, des cuisiniers, des eunuques, des femmes ; et il men<oa/>it avec lui une formidable armée. Il écriv<oa/>it à la reine les lettres du monde les plus tendres, et, d’un autre côté, <pagenum v="v2" num='384'/>il ravage<oa/>it tout le pays : un jour ét<oa/>it employé à des des festins, un autre à des expéditions militaires. Jamais on n’a vu une si parfaite image de la guerre et de la paix ; et jamais il n’y eut tant de dissolution et tant de discipline. Un village fuy<oa/>it la cruauté du vainqueur ; un autre ét<oa/>it dans la joie, les danses et les festins ; et, par un étrange caprice, il cherch<oa/>it deux choses incompatibles : de se faire craindre et de se faire aimer. Il ne fut ni craint ni aimé. On opposa une armée à la sienne ; et une seule bataille finit la guerre. Un soldat, nouvellement arrivé dans l’année des Bactriens, fit des prodiges de valeur ; il perça jusqu’au lieu où combatt<oa/>it vaillamment le roi d’Hyrcanie, et le fit prisonnier. Il remit ce prince à un officier ; et, sans dire son nom, il all<oa/>it rentrer dans la foule ; mais, suivi par les acclamations, il fut mené comme en triomphe à la tente du général. Il parut devant lui avec une noble assurance ; il parla modestement de son action. Le général lui offrit des récompenses : il s’y montra insensible ; il voulut le combler d’honneurs : il y parut accoutumé.</p>
+
+<p>Aspar jugea qu’un tel homme n’ét<oa/>it pas d’une naissance ordinaire. Il le fit venir à la cour ; et, quand il le vit, il se confirma encore plus dans cette pensée. Sa présence lui donna de l’admiration ; la tristesse même qui par<oa/>iss<oa/>it sur son visage, lui inspira du respect ; il loua sa valeur, et lui dit les choses les plus flatteuses. Seigneur, lui dit l’étranger, excusez un malheureux que l’horreur de sa situation rend presque incapable de sentir vos bontés, et encore plus d’y répondre. Ses yeux se remplirent de larmes, et l’eunuque en fut attendri. Soyez mon ami, lui dit-il, puisque vous êtes malheureux. Il y a un moment que je vous admir<oa/>is ; à présent je vous aime ; je voudr<oa/>is vous consoler, et que vous fissiez usage de ma raison <pagenum v="v2" num='385'/>et de la vôtre. Venez prendre un appartement dans mon palais ; celui qui l’habite aime la vertu, et vous n’y serez point étranger.</p>
+
+<p>Le lendemain fut un jour de fête pour tous les Bactriens. La reine sortit de son palais, suivie de toute sa cour. Elle par<oa/>iss<oa/>it sur son char, au milieu d’un peuple immense. Un voile qui couvrait son visage laiss<oa/>it voir une taille charmante ; ses traits ét<oa/>ient cachés, et l’amour des peuples sembl<oa/>it les leur montrer.</p>
+
+<p>Elle descendit de son char, et entra dans le temple. Les grands de Bactriane ét<oa/>ient autour d’elle. Elle se prosterna, et adora les dieux dans le silence ; puis elle leva son voile, se recueillit, et dit à haute voix :</p>
+
+<p>Dieux immortels ! la reine de Bactriane vient vous rendre grâces de la victoire que vous lui avez donnée. Mettez le comble à vos faveurs, en ne permettant jamais qu’elle en abuse. Faites qu’elle n’ait ni passions, ni f<oa/>iblesses, ni caprices ; que ses craintes soient de faire le mal, ses espérances de faire le bien ; et puisqu’elle ne peut être heureuse..., dit-elle d’une voix que les sanglots parurent arrêter, faites du moins que son peuple le soit.</p>
+
+<p>Les prêtres finirent les cérémonies prescrites pour le culte des dieux ; la reine sortit du temple, remonta sur son char, et le peuple la suivit jusqu’au palais.</p>
+
+<p>Quelques moments après, Aspar rentra chez lui ; il cherch<oa/>it l’étranger, et il le trouva dans une affreuse tristesse. Il s’assit auprès lui, et, ayant fait retirer tout le monde, il lui dit : Je vous conjure de vous ouvrir à moi. Croyez-vous qu’un coeur agité ne trouve point de douceur à confier ses peines ? C’est comme si l’on se repos<oa/>it dans un lieu plus tranquille. Il faudrait, lui dit l’étranger, vous raconter tous les événements de ma vie. C’est ce que je <pagenum v="v2" num='386'/>vous demande, reprit Aspar ; vous parlerez à un homme sensible ; ne me cachez rien ; tout est important devant l’amitié.</p>
+
+<p>Ce n’ét<oa/>it pas seulement la tendresse et un sentiment de pitié qui donn<oa/>it cette curiosité à Aspar. Il voul<oa/>it attacher cet homme extraordinaire à la cour de Bactriane ; il désir<oa/>it de conn<oa/>ître à fond un homme qui ét<oa/>it déjà dans l’ordre de ses desseins, et qu’il destin<oa/>it, dans sa pensée, aux plus grandes choses.</p>
+
+<p>L’étranger se recueillit un moment, et commença ainsi :</p>
+
+<p>L’amour a fait tout le bonheur et tout le malheur de ma vie. D’abord il l’avait semée de peines et de plaisirs ; il n’y a laissé, dans la suite, que les pleurs, les plaintes et les regrets.</p>
+
+<p>Je suis né dans la Médie, et je puis compter d’illustres aïeux. Mon père remporta de grandes victoires à la tête des armées des Mèdes. Je le perdis dans mon enfance, et ceux qui m’élevèrent me firent regarder ses vertus comme la plus belle partie de son héritage.</p>
+
+<p>A l’âge de quinze ans on m’établit. On ne me donna point ce nombre prodigieux de femmes dont on accable en Médie les gens de ma naissance. On voulut suivre la nature, et m’apprendre que, si les besoins des sens ét<oa/>ient bornés, ceux du cœur l’ét<oa/>ient encore davantage.</p>
+
+<p>Ardasire n’ét<oa/>it pas plus distinguée de mes autres femmes par son rang que par mon amour. Elle av<oa/>it une fierté mêlée de quelque chose de si tendre ; ses sentiments ét<oa/>ient si nobles, si différents de ceux qu’une complaisance éternelle met dans le cœur des femmes d’Asie ; elle av<oa/>it d’ailleurs tant de beauté, que mes yeux ne virent qu’elle, et mon cœur ignora les autres.</p>
+
+<p>Sa physionomie ét<oa/>it ravissante ; sa taille, son air, ses <pagenum v="v2" num='387'/>grâces, le son de sa voix, le charme de ses discours, tout m’enchant<oa/>it. Je voul<oa/>is toujours l’entendre ; je ne me lass<oa/>is jamais de la voir. Il n’y av<oa/>it rien pour moi de si parfait dans la nature ; mon imagination ne pouv<oa/>it me dire que ce que je trouv<oa/>is en elle ; et quand je pens<oa/>is au bonheur dont les humains peuvent être capables, je voy<oa/>is toujours le mien.</p>
+
+<p>Ma naissance, mes richesses, mon âge et quelques avantages personnels déterminèrent le roi à me donner sa fille. C’est une coutume inviolable des Mèdes, que ceux qui reçoivent un pareil honneur renvoient toutes leurs femmes. Je ne vis dans cette grande alliance que la perte de ce que j’av<oa/>is dans le monde de plus cher ; mais il me fallut dévorer mes larmes, et montrer de la gaîté. Pendant que toute la cour me félicit<oa/>it d’une faveur dont elle est toujours enivrée, Ardasire ne demand<oa/>it point à me voir, et moi je craign<oa/>is sa présence, et je la cherch<oa/>is. J’allai dans son appartement ; j’ét<oa/>is désolé. Ardasire, lui dis-je, je vous perds... Mais, sans me faire ni caresses ni reproches, sans lever les yeux, sans verser de larmes, elle garda un profond silence ; une pâleur mortelle par<oa/>iss<oa/>it sur son visage, et j’y voy<oa/>is une certaine indignation mêlée de désespoir.</p>
+
+<p>Je voulus l’embrasser ; elle me parut glacée, et je ne lui sentis de mouvement que pour échapper de mes bras.</p>
+
+<p>Ce ne fut point la crainte de mourir qui me fit accepter la princesse ; et, si je n’av<oa/>is tremblé pour Ardasire, je me ser<oa/>is sans doute exposé à la plus affreuse vengeance. Mais quand je me représent<oa/>is que mon refus ser<oa/>it infailliblement suivi de sa mort, mon esprit se confond<oa/>it, et je m’abandonn<oa/>is à mon malheur.</p>
+
+<p>Je fus conduit dans le palais du roi, et il ne me fut <pagenum v="v2" num='388'/>plus permis d’en sortir. Je vis ce lieu fait pour rabattement de tous et les désirs d’un seul ; ce lieu où, malgré le silence, les soupirs de l’amour sont à peine entendus ; ce lieu où régnent la tristesse et la magnificence, où tout ce qui est inanimé est riant, et tout ce qui a de la vie est sombre, où tout se meut avec le maître, et tout s’engourdit avec lui.</p>
+
+<p>Je fus présenté le même jour à la princesse ; elle pouv<oa/>it m’accabler de ses regards, et il ne me fut pas permis de lever les miens. Étrange effet de la grandeur ! Si ses yeux pouv<oa/>ient parler, les miens ne pouv<oa/>ient répondre. Deux eunuques av<oa/>ient un poignard à la main, prêts à expier dans mon sang l’affront de la regarder.</p>
+
+<p>Quel état pour un cœur comme le mien, d’aller porter dans mon lit l’esclavage de la cour, suspendu entre les caprices et les dédains superbes, de ne sentir plus que le respect, et de perdre pour jamais ce qui peut faire la consolation de la servitude même, la douceur d’aimer et d’être aimé !</p>
+
+<p>Mais quelle fut ma situation lorsqu’un eunuque de la princesse vint me faire signer l’ordre de faire sortir de mon palais toutes mes femmes. Signez, me dit-il, sentez la douceur de ce commandement : je rendrai compte à la princesse de votre promptitude à obéir. Mon visage se couvrit de larmes ; j’av<oa/>is commencé d’écrire, et je m’arrêtai. De grâce, dis-je à l’eunuque, attendez ; je me meurs... Seigneur, me dit-il, il y va de votre tète et de la mienne ; signez : nous commençons à devenir coupables ; on compte les moments ; je devr<oa/>is être de retour. Ma main tremblante ou rapide (car mon esprit ét<oa/>it perdu) traça les caractères les plus funestes que je pusse former.</p>
+
+<p>Mes femmes furent enlevées la veille de mon mariage ; <pagenum v="v2" num='389'/>mais Ardasire, qui av<oa/>it gagné un de mes eunuques, mit une esclave de sa taille et de son air sous ses voiles et ses habits, et se cacha dans un lieu secret. Elle av<oa/>it fait entendre à l’eunuque qu’elle voul<oa/>it se retirer parmi les prêtresses des dieux.</p>
+
+<p>Ardasire av<oa/>it l’âme trop haute pour qu’une loi, qui, sans aucun sujet, priv<oa/>it de leur état des femmes légitimes, pût lui paraître faite pour elle. L’abus du pouvoir ne lui fais<oa/>it point respecter le pouvoir. Elle appel<oa/>it de cette tyrannie à la nature, et de son impuissance à son désespoir.</p>
+
+<p>La cérémonie du mariage se fit dans le palais. Je menai la princesse dans ma maison. Là, les concerts, les danses, les festins, tout parut exprimer une joie que mon cœur ét<oa/>it bien éloigné de sentir.</p>
+
+<p>La nuit étant venue, toute la cour nous quitta. Les eunuques conduisirent la princesse dans son appartement : hélas ! c’ét<oa/>it celui où j’av<oa/>is fait tant de serments à Ardasire. Je me retirai dans le mien plein de rage et de désespoir.</p>
+
+<p>Le moment fixé pour l’hymen arriva. J’entrai dans ce corridor, presque inconnu dans ma maison même, par où l’amour m’av<oa/>it conduit tant de fois. Je march<oa/>is dans les ténèbres, seul, triste, pensif, quand tout à coup un flambeau fut découvert. Ardasire, un poignard à la main, parut devant moi. Arsace, dit-elle, allez dire à votre nouvelle épouse que je meurs ici ; dites-lui que j’ai disputé votre cœur jusqu’au dernier soupir. Elle allait se frapper ; j’arrêtai sa main. Ardasire, m’écriai-je, quel affreux spectacle veux-tu me donner !... et lui ouvrant mes bras : Commence par frapper celui qui a cédé le premier à une loi barbare. Je la vis pâlir, et le poignard lui tomba des mains. Je l’embrassai ; <pagenum v="v2" num='390'/>et, je ne sais par quel charme, mon âme sembla se calmer. Je ten<oa/>is ce cher objet ; je me livrai tout entier au plaisir d’aimer. Tout, jusqu’à l’idée de mon malheur, fuy<oa/>it de ma pensée. Je croy<oa/>is posséder Ardasire, et il me sembl<oa/>it que je ne pouv<oa/>is plus la perdre. Étrange effet de l’amour ! mon cœur s’échauff<oa/>it, et mon âme deven<oa/>it tranquille.</p>
+
+<p>Les paroles d’Ardasire me rappelèrent à moi-même. Arsace, me dit-elle, quittons ces lieux infortunés ; fuyons. Que craignons-nous ? nous savons aimer et mourir... Ardasire, lui dis-je, je jure que vous serez toujours à moi ; vous y serez comme si vous ne sortiez jamais de ces bras : je ne me séparerai jamais de vous. J’atteste les dieux que vous seule ferez le bonheur de ma vie... Vous me proposez un généreux dessein : l’amour me l’av<oa/>it inspiré : il me l’inspire encore par vous ; vous allez voir si je vous aime.</p>
+
+<p>Je la quittai, et, plein d’impatience et d’amour, j’allai partout donner mes ordres. La porte de l’appartement de la princesse fut fermée. Je pris tout ce que je pus emporter d’or et de pierreries. Je fis prendre à mes esclaves divers chemins, et partis seul avec Ardasire dans l’horreur de la nuit ; espérant tout, craignant tout, perdant quelquefois mon audace naturelle, saisi par toutes les passions, quelquefois par les remords mêmes, ne sachant si je suiv<oa/>is mon devoir, ou l’amour, qui le fait oublier.</p>
+
+<p>Je ne vous dirai point les périls infinis que nous courûmes. Ardasire, malgré la f<oa/>iblesse de son sexe, m’encourage<oa/>it ; elle ét<oa/>it mourante, et elle me suiv<oa/>it toujours. Je fuy<oa/>is la présence des hommes ; car tous les hommes ét<oa/>ient devenus mes ennemis : je ne cherch<oa/>is que les déserts. J’arrivai dans ces montagnes qui sont remplies de tigres et de lions. La présence de ces animaux <pagenum v="v2" num='391'/>me rassur<oa/>it. Ce n’est point ici, dis<oa/>is-je à Ardasire, que les eunuques de la princesse et les gardes du roi de Médie viendront nous chercher. Mais enfin, les bêtes féroces se multiplièrent tellement, que je commençai à craindre. Je fais<oa/>is tomber à coups de flèches celles qui s’approch<oa/>ient trop près de nous ; car, au lieu de me charger des choses nécessaires à la vie, je m’ét<oa/>is muni d’armes qui pouv<oa/>ient partout me les procurer. Pressé de toutes parts, je fis du feu avec des cailloux, j’allumai du bois sec ; je pass<oa/>is la nuit auprès de ces feux, et je fais<oa/>is du bruit avec mes armes. Quelquefois je mett<oa/>is le feu aux forêts, et je chass<oa/>is devant moi ces bêtes intimidées. J’entrai dans un pays plus ouvert, et j’admirai ce vaste silence de la nature. Il me représentait ce temps où les dieux naquirent, et où la beauté parut la première : l’amour l’échauffa, et tout fut animé.</p>
+
+<p>Enfin, nous sortîmes de la Médie. Ce fut dans une cabane de pasteurs que je me crus le maître du monde, et que je pus dire que j’ét<oa/>is à Ardasire, et qu’Ardasire ét<oa/>it à moi.</p>
+
+<p>Nous arrivâmes dans la Margiane ; nos esclaves nous y rejoignirent. Là, nous vécûmes à la campagne, loin du monde et du bruit. Charmés l’un de l’autre, nous nous entretenions de nos plaisirs présents et de nos peines passées.</p>
+
+<p>Ardasire me racont<oa/>it quels av<oa/>ient été ses sentiments dans tout le temps qu’on nous av<oa/>it arrachés l’un à l’autre, ses jalousies pendant qu’elle crut que je ne l’aim<oa/>is plus, sa douleur quand elle vit que je l’aim<oa/>is encore, sa fureur contre une loi barbare, sa colère contre moi, qui m’y soumett<oa/>is. Elle av<oa/>it d’abord formé le dessein d’immoler la princesse ; elle av<oa/>it rejeté cette idée : <pagenum v="v2" num='392'/>elle aur<oa/>it trouvé du plaisir à mourir à mes yeux ; elle n’av<oa/>it point douté que je ne fusse attendri. Quand j’ét<oa/>is dans ses bras, dis<oa/>it-elle, quand elle me proposa de quitter ma patrie, elle ét<oa/>it déjà sûre de moi.</p>
+
+<p>Ardasire n’av<oa/>it jamais été si heureuse ; elle ét<oa/>it charmée. Nous ne vivions point dans le faste de la Médie ; mais nos mœurs ét<oa/>ient plus douces. Elle voy<oa/>it dans tout ce que nous avions perdu, les grands sacrifices que je lui av<oa/>is faits. Elle ét<oa/>it seule avec moi. Dans les sérails, dans ces lieux de délices, on trouve toujours l’idée d’une rivale ; et lorsqu’on y jouit de ce qu’on aime, plus on aime, et plus on est alarmé.</p>
+
+<p>Mais Ardasire n’av<oa/>it aucune défiance ; le cœur ét<oa/>it assuré du cœur. Il semble qu’un tel amour donne un air riant à tout ce qui nous entoure ; et que, parce qu’un objet nous plaît, il ordonne à toute la nature de nous plaire ; il semble qu’un tel amour soit cette enfance aimable, devant qui tout se joue, et qui sourit toujours.</p>
+
+<p>Je sens une espèce de douceur à vous parler de cet heureux temps de notre vie. Quelquefois je perd<oa/>is Ardasire dans les bois, et je la retrouv<oa/>is aux accents de sa voix charmante. Elle se par<oa/>it des fleurs que je cueill<oa/>is ; je me par<oa/>is de celles qu’elle av<oa/>it cueillies. Le chant des oiseaux, le murmure des fontaines, les danses et les concerts de nos jeunes esclaves, une douceur partout répandue, ét<oa/>ient des témoignages continuels de notre bonheur.</p>
+
+<p>Tantôt Ardasire ét<oa/>it une bergère qui, sans parure et sans ornements, se montrait à moi avec sa naïveté naturelle ; tantôt je la voy<oa/>is telle qu’elle ét<oa/>it lorsque j’ét<oa/>is enchanté dans le sérail de Médie.</p>
+
+<p>Ardasire occup<oa/>it ses femmes à des ouvrages charmants : elles fil<oa/>ient la laine d’Hyrcanie ; elles employ<oa/>ient <pagenum v="v2" num='393'/>la pourpre de Tyr. Toute la maison goût<oa/>it une joie naïve. Nous descendions avec plaisir à l’égalité de la nature ; nous étions heureux, et nous voulions vivre avec des gens qui le fussent. Le bonheur faux rend les hommes durs et superbes, et ce bonheur ne se communique point. Le vrai bonheur les rend doux et sensibles, et ce bonheur se partage toujours.</p>
+
+<p>Je me souviens qu’Ardasire fit le mariage d’une de ses favorites avec un de mes affranchis. L’amour et la jeunesse av<oa/>ient formé cet hymen. La favorite dit à Ardasire : Ce jour est aussi le premier jour de votre hyménée. Tous les jours de ma vie, répondit-elle, seront ce premier jour.</p>
+
+<p>Vous serez peut-être surpris, qu’exilé et proscrit de la Médie, n’ayant eu qu’un moment pour me préparer à partir, ne pouvant emporter que l’argent et les pierreries qui se trouv<oa/>ient sous ma main, je pusse avoir assez de richesses dans la Margiane pour y avoir un palais, un grand nombre de domestiques et toutes sortes de commodités pour la vie. J’en fus surpris moi-même, et je le suis encore. Par une fatalité que je ne saur<oa/>is vous expliquer, je ne voy<oa/>is aucune ressource, et j’en trouv<oa/>is partout. L’or, les pierreries, les bijoux sembl<oa/>ient se présenter à moi. C’ét<oa/>ient des hasards, me direz-vous. Mais des hasards si réitérés, et perpétuellement les mêmes, ne pouv<oa/>ient guère être des hasards. Ardasire crut d’abord que je voul<oa/>is la surprendre, et que j’av<oa/>is porté des richesses qu’elle ne conn<oa/>iss<oa/>it pas. Je crus, à mon tour, qu’elle en av<oa/>it qui m’ét<oa/>ient inconnues. Mais nous vîmes bien l’un et l’autre que nous étions dans l’erreur. Je trouvai plusieurs fois, dans ma chambre, des rouleaux où il y av<oa/>it plusieurs centaines de dariques ; Ardasire trouv<oa/>it dans la sienne des boîtes pleines de pierreries. Un jour que je me <pagenum v="v2" num='394'/>promen<oa/>is dans mon jardin, un petit coffre plein de pièces d’or parut à mes yeux ; et j’en aperçus un autre dans le creux d’un chêne sous lequel j’all<oa/>is ordinairement me reposer. Je passe le reste. J’ét<oa/>is sûr qu’il n’y av<oa/>it pas un seul homme dans la Médie qui eût quelque conn<oa/>issance du lieu où je m’ét<oa/>is retiré ; et d’ailleurs je sav<oa/>is que je n’av<oa/>is aucun secours à attendre de ce côté-là. Je me creus<oa/>is la tête pour pénétrer d’où me ven<oa/>ient ces secours. Toutes les conjectures que je fais<oa/>is se détruis<oa/>ient les unes les autres.</p>
+
+<p>On fait, dit Aspar en interrompant Arsace, des contes merveilleux de certains génies puissants qui s’attachent aux hommes et leur font de grands biens. Rien de ce que j’ai ouï dire là-dessus n’a fait impression sur mon esprit ; mais ce que j’entends m’étonne davantage : vous dites ce que vous avez éprouvé, et non pas ce que vous avez ouï dire.</p>
+
+<p>Soit que ces secours, reprit Arsace, fussent humains ou surnaturels, il est certain qu’ils ne me manquèrent jamais ; et que, de la même manière qu’une infinité de gens trouvent partout la misère, je trouvai partout les richesses ; et, ce qui vous surprendra, elles ven<oa/>ient toujours à point nommé : je n’ai jamais vu mon trésor prêt à finir, qu’un nouveau n’ait d’abord reparu, tant l’intelligence qui veill<oa/>it sur nous ét<oa/>it attentive. Il y a plus : ce n’ét<oa/>it pas seulement nos besoins qui ét<oa/>ient prévenus, mais souvent nos fantaisies. Je n’aime guère, ajouta-t-il, à dire des choses merveilleuses. Je vous dis ce que je suis forcé de croire, et non pas ce qu’il faut que vous croyiez.</p>
+
+<p>La veille du mariage de la favorite, un jeune homme, beau comme l’Amour, vint me porter un panier de très-beaux <pagenum v="v2" num='395'/>fruits. Je lui donnai quelques pièces d’argent ; il les prit, laissa le panier, et ne parut plus. Je portai le panier à Ardasire ; je le trouvai plus pesant que je ne pens<oa/>is. Nous mangeâmes le fruit, et nous trouvâmes que le fond ét<oa/>it plein de dariques. C’est le génie, dit-on dans toute la maison, qui a apporté un trésor ici pour les dépenses des noces.</p>
+
+<p>Je suis convaincue, dis<oa/>it Ardasire, que c’est un génie qui fait ces prodiges en notre faveur. Aux intelligences supérieures à nous, rien ne doit être plus agréable que l’amour : l’amour seul a une perfection qui peut nous élever jusqu’à elles. Arsace, c’est un génie qui conn<oa/>ît mon cœur, et qui voit à quel point je vous aime. Je voudrais le voir, et qu’il pût me dire à quel point vous m’aimez.</p>
+
+<p>Je reprends ma narration.</p>
+
+<p>La passion d’Ardasire et la mienne prirent des impressions de notre différente éducation et de nos différents caractères. Ardasire ne respirait que pour aimer ; sa passion ét<oa/>it sa vie ; toute son âme ét<oa/>it de l’amour. Il n’ét<oa/>it pas en elle de m’aimer moins ; elle ne pouv<oa/>it non plus m’aimer davantage. Moi, je parus aimer avec plus d’emportement, parce qu’il sembl<oa/>it que je n’aim<oa/>is pas toujours de même. Ardasire seule ét<oa/>it capable de m’occuper ; mais il y eut des choses qui purent me distraire. Je suiv<oa/>is les cerfs dans les forêts, et j’all<oa/>is combattre les bêtes féroces.</p>
+
+<p>Bientôt je m’imaginai que je men<oa/>is une vie trop obscure. Je me trouve, dis<oa/>is-je, dans les États du roi de Margiane ; pourquoi n’ir<oa/>is-je point à la cour ? La gloire de mon père ven<oa/>it s’offrir à mon esprit. C’est un poids bien pesant qu’un grand nom à soutenir, quand les vertus des hommes ordinaires sont moins le terme où il faut s’arrêter <pagenum v="v2" num='396'/>que celui dont on doit partir. Il semble que les engagements que les autres prennent pour nous soient plus forts que ceux que nous prenons nous-mêmes. Quand j’ét<oa/>is en Médie, dis<oa/>is-je, il fall<oa/>it que je m’abaissasse, et que je cachasse avec plus de soin mes vertus que mes vices. Si je n’ét<oa/>is pas esclave de la cour, je l’ét<oa/>is de sa jalousie. Mais à présent que je me vois maître de moi, que je suis indépendant, parce que je suis sans patrie, libre au milieu des forêts comme les lions, je commencerai à avoir une âme commune si je reste un homme commun.</p>
+
+<p>Je m’accoutumai peu à peu à ces idées. Il est attaché à la nature qu’à mesure que nous sommes heureux nous voulons l’être davantage. Dans la félicité même il y a des impatiences. C’est que, comme notre esprit est une suite d’idées, notre cœur est une suite de désirs. Quand nous sentons que notre bonheur ne peut plus s’augmenter, nous voulons lui donner une modification nouvelle. Quelquefois mon ambition ét<oa/>it irritée par mon amour même : j’espér<oa/>is que je ser<oa/>is plus digne d’Ardasire, et, malgré ses prières, malgré ses larmes, je la quittai.</p>
+
+<p>Je ne vous dirai point l’affreuse violence que je me fis. Je fus cent fois sur le point de revenir. Je voul<oa/>is m’aller jeter aux genoux d’Ardasire ; mais la honte de me démentir, la certitude que je n’aur<oa/>is plus la force de me séparer d’elle, l’habitude que j’av<oa/>is prise de commander à mon cœur des choses difficiles, tout cela me fit continuer mon chemin.</p>
+
+<p>Je fus reçu du roi avec toutes sortes de distinctions. A peine eus-je le temps de m’apercevoir que je fusse étranger. J’ét<oa/>is de toutes les parties de plaisir : il me préféra à tous ceux de mon âge ; et il n’y eut point de <pagenum v="v2" num='397'/>rang ni de dignité que je ne pusse espérer dans la Margiane.</p>
+
+<p>J’eus bientôt une occasion de justifier sa faveur. La cour de Margiane viv<oa/>it depuis longtemps dans une profonde paix. Elle apprit qu’une multitude infinie de Barbares s’ét<oa/>it présentée sur la frontière, qu’elle av<oa/>it taillé en pièces l’armée qu’on lui av<oa/>it opposée, et qu’elle march<oa/>it à grands pas vers la capitale. Quand la ville aur<oa/>it été prise d’assaut, la cour ne ser<oa/>it pas tombée dans une plus affreuse consternation. Ces gens-là n’av<oa/>ient jamais connu que la prospérité ; ils ne sav<oa/>ient pas distinguer les malheurs d’avec les malheurs, et ce qui peut se rétablir d’avec ce qui est irréparable. On assembla à la hâte un conseil ; et, comme j’ét<oa/>is auprès du roi, je fus de ce conseil. Le roi ét<oa/>it éperdu, et ses conseillers n’av<oa/>ient plus de sens. Il ét<oa/>it clair qu’il ét<oa/>it impossible de les sauver, si on ne leur rend<oa/>it le courage. Le premier ministre ouvrit les avis. Il proposa de faire sauver le roi et d’envoyer au général ennemi les clefs de la ville. Il all<oa/>it dire ses raisons, et tout le conseil all<oa/>it les suivre. Je me levai pendant qu’il parl<oa/>it, et je lui tins ce discours : Si tu dis encore un mot, je te tue. Il ne faut pas qu’un roi magnanime et tous les braves gens qui sont ici perdent un temps précieux à écouter tes lâches conseils. Et me tournant vers le roi : Seigneur, un grand État ne tombe pas d’un seul coup. Vous avez une infinité de ressources ; et quand vous n’en aurez plus, vous délibérerez avec cet homme si vous devez mourir, ou suivre de lâches conseils. Amis, je jure avec vous que nous défendrons le roi jusqu’au dernier soupir. Suivons-le, armons le peuple, et faisons-lui part de notre courage.</p>
+
+<p>On se mit en défense dans la ville, et je me saisis d’un <pagenum v="v2" num='398'/>poste au dehors avec une troupe de gens d’élite, composée de Margiens et de quelques braves gens qui ét<oa/>ient à moi. Nous battîmes plusieurs de leurs partis. Un corps de cavalerie empêch<oa/>it qu’on ne leur envoyât des vivres. Ils n’av<oa/>ient point de machines pour faire le siège de la ville. Notre corps d’armée grossiss<oa/>it tous les jours. Ils se retirèrent et la Margiane fut délivrée.</p>
+
+<p>Dans le bruit et le tumulte de cette cour, je ne goût<oa/>is que de fausses joies. Ardasire me manqu<oa/>it partout, et toujours mon cœur se tourn<oa/>it vers elle. J’av<oa/>is connu mon bonheur, et je l’av<oa/>is fui ; j’av<oa/>is quitté des plaisirs réels pour chercher des erreurs.</p>
+
+<p>Ardasire, depuis mon départ, n’av<oa/>it point eu de sentiment qui n’eût d’abord été combattu par un autre. Elle av<oa/>it toutes les passions ; elle n’ét<oa/>it contente d’aucune. Elle voul<oa/>it se taire ; elle voul<oa/>it se plaindre : elle pren<oa/>it la plume pour m’écrire ; le dépit lui fais<oa/>it changer de pensée ; elle ne pouv<oa/>it se résoudre à me marquer de la sensibilité, encore moins de l’indifférence ; mais enfin, la douleur de son âme fixa ses résolutions, et elle m’écrivit cette lettre :</p>
+
+<p>« Si vous aviez gardé dans votre cœur le moindre sentiment de pitié, vous ne m’auriez jamais quittée ; vous auriez répondu à un amour si tendre, et respecté nos malheurs ; vous m’auriez sacrifié des idées vaines ; cruel ! vous croiriez perdre quelque chose en perdant un cœur qui ne brûle que pour vous. Comment pouvez-vous savoir si, ne vous voyant plus, j’aurai le courage de soutenir la vie ? Et si je meurs, barbare ! pouvez-vous douter que ce ne soit par vous ? O dieux ! par vous, Arsace ! Mon amour, si industrieux à s’affliger, ne m’av<oa/>it jamais fait craindre ce genre de supplice. Je croy<oa/>is que je n’aur<oa/>is jamais à <pagenum v="v2" num='399'/>pleurer que vos malheurs, et que je ser<oa/>is toute ma vie insensible sur les miens... »</p>
+
+<p>Je ne pus lire cette lettre sans verser des larmes. Mon cœur fut saisi de tristesse, et au sentiment de pitié se joignit un cruel remords de faire le malheur de ce que j’aim<oa/>is plus que ma vie.</p>
+
+<p>Il me vint dans l’esprit d’engager Ardasire à venir à la cour : je ne restai sur cette idée qu’un moment.</p>
+
+<p>La cour de Margiane est presque la seule d’Asie où les femmes ne sont point séparées du commerce des hommes. Le roi ét<oa/>it jeune : je pensai qu’il pouv<oa/>it tout, et je pensai qu’il pouv<oa/>it aimer. Ardasire aur<oa/>it pu lui plaire, et cette idée ét<oa/>it pour moi plus effrayante que mille morts.</p>
+
+<p>Je n’av<oa/>is d’autre parti à prendre que de retourner auprès d’elle. Vous serez étonné quand vous saurez ce qui m’arrêta.</p>
+
+<p>J’attend<oa/>is à tout moment des marques brillantes de la reconn<oa/>issance du roi. Je m’imaginai que, par<oa/>issant aux yeux d’Ardasire avec un nouvel éclat, je me justifierais plus aisément auprès d’elle. Je pensai qu’elle m’en aimer<oa/>it plus, et je goût<oa/>is d’avance le plaisir d’aller porter ma nouvelle fortune à ses pieds.</p>
+
+<p>Je lui appris la raison qui me fais<oa/>it différer mon départ, et ce fut cela même qui la mit au désespoir.</p>
+
+<p>Ma faveur auprès du roi av<oa/>it été si rapide qu’on l’attribua au goût que la princesse, sœur du roi, av<oa/>it paru avoir pour moi. C’est une de ces choses que l’on croit toujours, lorsqu’elles ont été dites une fois. Un esclave qu’Ardasire av<oa/>it mis auprès de moi lui écrivit ce qu’il av<oa/>it entendu dire. L’idée d’une rivale fut désolante pour elle. Ce fut bien pis lorsqu’elle apprit les actions que je ven<oa/>is de faire. Elle ne douta point que tant de <pagenum v="v2" num='400'/>gloire ne dût augmenter l’amour. Je ne suis point princesse, dis<oa/>it-elle dans son indignation, mais je sens bien qu’il n’y en a aucune sur la terre que je croie mériter que je lui cède un cœur qui doit être à moi ; et, si je l’ai fait voir en Médie, je le ferai voir en Margiane.</p>
+
+<p>Après mille pensées, elle se fixa, et prit cette résolution :</p>
+
+<p>Elle se défit de la plupart de ses esclaves, en choisit de nouveaux, envoya meubler un palais dans le pays des Sogdiens, se déguisa, prit avec elle des eunuques qui ne m’ét<oa/>ient pas connus, vint secrètement à la cour. Elle s’aboucha avec l’esclave qui lui ét<oa/>it affidé, et prit avec lui des mesures pour m’enlever dès le lendemain. Je dev<oa/>is aller me baigner dans la rivière. L’esclave me mena dans un endroit du rivage où Ardasire m’attend<oa/>it. J’ét<oa/>is à peine déshabillé qu’on me saisit ; on jeta sur moi une robe de femme ; on me fit entrer dans une litière fermée : on marcha jour et nuit. Nous eûmes bientôt quitté la Margiane, et nous arrivâmes dans le pays des Sogdiens. On m’enferma dans un vaste palais ; on me fais<oa/>it entendre que la princesse, qu’on dis<oa/>it avoir du goût pour moi, m’av<oa/>it fait enlever et conduire secrètement dans une terre de son apanage.</p>
+
+<p>Ardasire ne voul<oa/>it point être connue, ni que je fusse connu : elle cherch<oa/>it à jouir de mon erreur. Tous ceux qui n’ét<oa/>ient pas du secret la pren<oa/>ient pour la princesse. Mais un homme enfermé dans un palais aur<oa/>it démenti son caractère. On me laissa donc mes habits de femme, et on crut que j’ét<oa/>is une fille nouvellement achetée et destinée à la servir.</p>
+
+<p>J’ét<oa/>is dans ma dix-septième année. On dis<oa/>it que j’av<oa/>is toute la fraîcheur de la jeunesse, et on me lou<oa/>it <pagenum v="v2" num='401'/>sur ma beauté, comme si j’eusse été une fille du palais.</p>
+
+<p>Ardasire, qui sav<oa/>it que la passion pour la gloire m’av<oa/>it déterminé à la quitter, songea à amollir mon courage par toutes sortes de moyens. Je fus mis entre les mains de deux eunuques. On pass<oa/>it les journées à me parer ; on compos<oa/>it mon teint ; on me baign<oa/>it ; on vers<oa/>it sur moi les essences les plus délicieuses. Je ne sort<oa/>is jamais de la maison ; on m’appren<oa/>it à travailler moi-même à ma parure ; et surtout on voul<oa/>it m’accoutumer à cette obéissance, sous laquelle les femmes sont abattues dans les grands sérails d’Orient.</p>
+
+<p>J’ét<oa/>is indigné de me voir traité ainsi. Il n’y a rien que je n’eusse osé pour rompre mes chaînes ; mais, me voyant sans armes, entouré de gens qui av<oa/>ient toujours les yeux sur moi, je ne craign<oa/>is pas d’entreprendre, mais de manquer mon entreprise. J’espér<oa/>is que, dans la suite, je ser<oa/>is moins soigneusement gardé, que je pourrais corrompre quelque esclave, et sortir de ce séjour, ou mourir.</p>
+
+<p>Je l’avouerai même ; une espèce de curiosité de voir le dénoûment de tout ceci sembl<oa/>it ralentir mes pensées. Dans la honte, la douleur et la confusion, j’ét<oa/>is surpris de n’en avoir pas davantage. Mon âme form<oa/>it des projets ; ils finiss<oa/>ient tous par un certain trouble ; un charme secret, une force inconnue, me reten<oa/>ient dans ce palais.</p>
+
+<p>La feinte princesse ét<oa/>it toujours voilée, et je n’entend<oa/>is jamais sa voix. Elle pass<oa/>it presque toute la journée à me regarder par une jalousie pratiquée à ma chambre. Quelquefois elle me fais<oa/>it venir à son appartement. Là, ses filles chant<oa/>ient les airs les plus tendres ; il me sembl<oa/>it que tout exprim<oa/>it son amour. Je n’ét<oa/>is jamais assez près d’elle ; elle n’ét<oa/>it occupée que de moi ; il y <pagenum v="v2" num='402'/>av<oa/>it toujours quelque chose à raccommoder à ma parure : elle défais<oa/>it mes cheveux pour les arranger encore ; elle n’ét<oa/>it jamais contente de ce qu’elle av<oa/>it fait.</p>
+
+<p>Un jour on vint me dire qu’elle me permett<oa/>it de venir la voir. Je la trouvai sur un sofa de pourpre : ses voiles la couvraient encore ; sa tête ét<oa/>it mollement penchée, et elle sembl<oa/>it être dans une douce langueur. J’approchai, et une de ses femmes me parla ainsi : L’amour vous favorise ; c’est lui qui, sous ce déguisement, vous a fait venir ici. La princesse vous aime : tous les cœurs lui seraient soumis, et elle ne veut que le vôtre.</p>
+
+<p>Comment, dis-je en soupirant, pourr<oa/>is-je donner un cœur qui n’est pas à moi ? Ma chère Ardasire en est la maîtresse ; elle le sera toujours.</p>
+
+<p>Je ne vis point qu’Ardasire marquât d’émotion à ces paroles ; mais elle m’a dit depuis qu’elle n’a jamais senti une si grande joie.</p>
+
+<p>Téméraire, me dit cette femme, la princesse doit être offensée comme les dieux lorsqu’on est assez malheureux pour ne pas les aimer.</p>
+
+<p>Je lui rendrai, répondis-je, toutes sortes d’hommages ; mon respect, ma reconn<oa/>issance, ne finiront jamais ; mais le destin, le cruel destin, ne me permet point de l’aimer. Grande princesse, ajoutai-je en me jetant à ses genoux, je vous conjure, par votre gloire, d’oublier un homme qui, par un amour éternel pour un autre, ne sera jamais digne de vous.</p>
+
+<p>J’entendis qu’elle jeta un profond soupir : je crus m’apercevoir que son visage ét<oa/>it couvert de larmes. Je me reproch<oa/>is mon insensibilité ; j’aurais voulu, ce que je ne trouv<oa/>is pas possible, être fidèle à mon amour, et ne pas désespérer le sien.</p>
+
+<pagenum v="v2" num='403'/>
+
+<p>On me ramena dans mon appartement ; et, quelques jours après, je reçus ce billet, écrit d’une main qui m’ét<oa/>it inconnue.</p>
+
+<p>« L’amour de la princesse est violent, mais il n’est pas tyrannique ; elle ne se plaindra pas même de vos refus, si vous lui faites voir qu’ils sont légitimes. Venez donc lui apprendre les raisons que vous avez pour être si fidèle à cette Ardasire. »</p>
+
+<p>Je fus reconduit auprès d’elle. Je lui racontai toute l’histoire de ma vie. Lorsque je lui parl<oa/>is de mon amour, je l’entend<oa/>is soupirer. Elle ten<oa/>it ma main dans la sienne, et, dans ces moments touchants, elle la serr<oa/>it malgré elle.</p>
+
+<p>Recommencez, me dis<oa/>it une de ses femmes, à cet endroit où vous fûtes si désespéré, lorsque le roi de Médie vous donna sa fille. Redites-nous les craintes que vous eûtes pour Ardasire dans votre fuite. Parlez à la princesse des plaisirs que vous goûtiez lorsque vous étiez dans votre solitude chez les Margiens.</p>
+
+<p>Je n’av<oa/>is jamais dit toutes les circonstances ; je répét<oa/>is, et elle croy<oa/>it apprendre ; je finiss<oa/>is, et elle s’imagin<oa/>it que j’all<oa/>is commencer.</p>
+
+<p>Le lendemain, je reçus ce billet.</p>
+
+<p>« Je comprends bien votre amour, et je n’exige point que vous me le sacrifiiez. Mais êtes-vous sûr que cette Ardasire vous aime encore ? Peut-être refusez-vous, pour une ingrate, le cœur d’une princesse qui vous adore. »</p>
+
+<p>Je fis cette réponse :</p>
+
+<p>« Ardasire m’aime à un tel point, que je ne saurais demander aux dieux qu’ils augmentent son amour. Hélas ! peut-être qu’elle m’a trop aimé. Je me souviens d’une lettre qu’elle m’écrivit quelque temps après que <pagenum v="v2" num='404'/>je l’eus quittée. Si vous aviez lu les expressions terribles et tendres de sa douleur, vous en auriez été touchée. Je crains que, pendant que je suis retenu dans ces lieux, le désespoir de m’avoir perdu et son dégoût pour la vie ne lui fassent prendre une résolution qui me mettr<oa/>it au tombeau. »</p>
+
+<p>Elle me fit cette réponse :</p>
+
+<p>« Soyez heureux, Àrsace, et donnez tout votre amour à la beauté qui vous aime ; pour moi, je ne veux que votre amitié. »</p>
+
+<p>Le lendemain je fus reconduit dans son appartement. Là je sentis tout ce qui peut porter à la volupté. On av<oa/>it répandu dans la chambre les parfums les plus agréables. Elle ét<oa/>it sur un lit qui n’ét<oa/>it fermé que par des guirlandes de fleurs ; elle y par<oa/>iss<oa/>it languissamment couchée. Elle me tendit la main et me fit asseoir auprès d’elle. Tout, jusqu’au voile qui lui couvrait le visage, av<oa/>it de la grâce. Je voy<oa/>is la forme de son beau corps. Une simple toile, qui se mouv<oa/>it sur elle, me fais<oa/>it tour à tour perdre et trouver des beautés ravissantes. Elle remarqua que mes yeux ét<oa/>ient occupés, et quand elle les vit s’enflammer, la toile sembla s’ouvrir d’elle-même. Je vis tous les trésors d’une beauté divine. Dans ce moment, elle me serra la main, mes yeux errèrent partout. Il n’y a, m’écriai-je, que ma chère Ardasire qui soit aussi belle ; mais j’atteste les dieux que ma fidélité... Elle se jeta à mon cou et me serra dans ses bras. Tout d’un coup la chambre s’obscurcit, son voile s’ouvrit ; elle me donna un baiser. Je fut tout hors de moi. Une flamme subite coula dans mes veines et échauffa tous mes sens. L’idée d’Ardasire s’éloigna de moi. Un reste de souvenir... ; mais il ne me par<oa/>iss<oa/>it qu’un songe... ; j’all<oa/>is... j’all<oa/>is la préférer à elle-même. <pagenum v="v2" num='405'/>Déjà j’av<oa/>is porté mes mains sur son sein ; elles cour<oa/>ient rapidement partout ; l’amour ne se montr<oa/>it que par sa fureur ; il se précipit<oa/>it à la victoire ; un moment de plus, et Ardasire ne pouv<oa/>it pas se défendre ; lorsque tout à coup elle fit un effort ; elle fut secourue, elle se déroba de moi, et je la perdis.</p>
+
+<p>Je retournai dans mon appartement, surpris moi-même de mon inconstance. Le lendemain on entra dans ma chambre, on me rendit les habits de mon sexe, et le soir on me mena chez celle dont l’idée m’enchant<oa/>it encore. J’approchai d’elle, je me mis à ses genoux, et, transporté d’amour, je parlai de mon bonheur, je me plaignis de mes propres refus ; je demandai, je promis, j’exigeai, j’osai tout dire, je voulus tout voir ; j’all<oa/>is tout entreprendre. Mais je trouvai un changement étrange ; elle me parut glacée et, lorsqu’elle m’eut assez découragé, qu’elle eut joui de tout mon embarras, elle me parla, et j’entendis sa voix pour la première fois : Ne voulez-vous point voir le visage de celle que vous aimez ?... Ce son de voix me frappa ; je restai immobile ; j’espérai que ce ser<oa/>it Ardasire, et je le craignis. Découvrez ce bandeau, me dit-elle. Je le fis, et je vis le visage d’Ardasire. Je voulus parler, et ma voix s’arrêta. L’amour, la surprise, la joie, la honte, toutes les passions me saisirent tour à tour. Vous êtes Ardasire, lui dis-je ? Oui, perfide, répondit-elle, je la suis. Ardasire, lui dis-je d’une voix entrecoupée, pourquoi vous jouez-vous ainsi d’un malheureux amour ? Je voulus l’embrasser. Seigneur, dit-elle, je suis à vous. Hélas ! j’av<oa/>is espéré de vous revoir plus fidèle. Contentez-vous de commander ici. Punissez-moi, si vous voulez, de ce que j’ai fait... Arsace, ajouta-t-elle en pleurant, vous ne le méritiez pas.</p>
+
+<pagenum v="v2" num='406'/>
+
+<p>Ma chère Ardasire, lui dis-je, pourquoi me désespérez-vous ? Auriez-vous voulu que j’eusse été insensible à des charmes que j’ai toujours adorés ? Comptez que vous n’êtes pas d’accord avec vous-même. N’ét<oa/>it-ce pas vous que j’aim<oa/>is ? Ne sont-ce pas ces beautés qui m’ont toujours charmé ? Ah ! dit-elle, vous auriez aimé une autre que moi. Je n’aur<oa/>is point, lui dis-je, aimé une autre que vous. Tout ce qui n’aur<oa/>it point été vous m’aur<oa/>it déplu. Qu’eût-ce été, lorsque je n’aur<oa/>is point vu cet adorable visage, que je n’aur<oa/>is pas entendu cette voix, que je n’aur<oa/>is pas trouvé ces yeux ? Mais, de grâce, ne me désespérez pas ; songez que, de toutes les infidélités que l’on peut faire, j’ai sans doute commis la moindre.</p>
+
+<p>Je connus à la langueur de ses yeux qu’elle n’ét<oa/>it plus irritée ; je le connus à sa voix mourante. Je la tins dans mes bras. Qu’on est heureux quand on tient dans ses bras ce que l’on aime ! Comment exprimer ce bonheur, dont l’excès n’est que pour les vrais amants ; lorsque l’amour renaît après lui-même, lorsque tout promet, que tout demande, que tout obéit ; lorsqu’on sent qu’on a tout, et que l’on sent que l’on n’a pas assez ; lorsque l’âme semble s’abandonner et se porter au delà de la nature même ?</p>
+
+<p>Ardasire, revenue à elle, me dit : Mon cher Arsace, l’amour que j’ai eu pour vous m’a fait faire des choses bien extraordinaires. Mais un amour bien violent n’a de règle ni de loi. On ne le conn<oa/>ît guère, si l’on ne met ses caprices au nombre de ses plus grands plaisirs. Au nom des dieux, ne me quitte plus. Que peut-il te manquer ? Tu es heureux si tu m’aimes. Tu es sûr que jamais mortel n’a été tant aimé. Dis-moi, promets-moi, jure-moi que tu resteras ici.</p>
+
+<pagenum v="v2" num='407'/>
+
+<p>Je lui fis mille serments ; ils ne furent interrompus que par mes embrassements, et elle les crut.</p>
+
+<p>Heureux l’amour, lors même qu’il s’apaise, lorsque après qu’il a cherché à se faire sentir, il aime à se faire conn<oa/>ître ; lorsque, après avoir joui des beautés, il ne se sent plus touché que par les grâces !</p>
+
+<p>Nous vécûmes dans la Sogdiane dans une félicité que je ne saur<oa/>is vous exprimer. Je n’av<oa/>is resté que quelques mois dans la Margiane ; et ce séjour m’av<oa/>it déjà guéri de l’ambition. J’av<oa/>is eu la faveur du roi ; mais je m’aperçus bientôt qu’il ne pouv<oa/>it me pardonner mon courage et sa frayeur. Ma présence le mett<oa/>it dans l’embarras ; il ne pouv<oa/>it donc pas m’aimer. Ses courtisans s’en aperçurent, et dès lors ils se donnèrent bien garde de me trop estimer ; et, pour que je n’eusse pas sauvé l’État du péril, tout le monde conven<oa/>it à la cour qu’il n’y av<oa/>it pas eu de péril.</p>
+
+<p>Ainsi, également dégoûté de l’esclavage et des esclaves, je ne connus plus d’autre passion que mon amour pour Ardasire, et je m’estimai cent fois plus heureux de rester dans la seule dépendance que j’aim<oa/>is, que de rentrer dans une autre que je ne pouv<oa/>is que haïr.</p>
+
+<p>Il nous parut que le génie nous av<oa/>it suivis. Nous nous retrouvâmes dans la même abondance, et nous vîmes toujours de nouveaux prodiges.</p>
+
+<p>Un pêcheur vint nous vendre un poisson ; on m’apporta une bague fort riche qu’on av<oa/>it trouvée dans son gosier.</p>
+
+<p>Un jour, manquant d’argent, j’envoyai vendre quelques pierreries à la ville prochaine : on m’en apporta le prix, et quelques jours après, je vis sur ma table les pierreries.</p>
+
+<pagenum v="v2" num='408'/>
+
+<p>Grands dieux ! dis-je en moi-même, il m’est donc impossible de m’appauvrir !</p>
+
+<p>Nous voulûmes tenter le génie, et nous lui demandâmes une somme immense. Il nous fit bien voir que nos vœux ét<oa/>ient indiscrets. Nous trouvâmes, quelques jours après, sur la table, la plus petite somme que nous eussions encore reçue. Nous ne pûmes, en la voyant, nous empêcher de rire. Le génie nous joue, dit Ardasire. Ah ! m’écriai-je, les dieux sont de bons dispensateurs : la médiocrité qu’ils nous accordent vaut bien mieux que les trésors qu’ils nous refusent.</p>
+
+<p>Nous n’avions aucune des passions tristes. L’aveugle ambition, la soif d’acquérir, l’envie de dominer, sembl<oa/>ient s’éloigner de nous, et être les passions d’un autre univers. Ces sortes de biens ne sont faits que pour entrer dans le vide des âmes que la nature n’a point remplies. Ils n’ont été imaginés que par ceux qui se sont trouvés incapables de bien sentir les autres.</p>
+
+<p>Je vous ai déjà dit que nous étions adorés de cette petite nation qui form<oa/>it notre maison. Nous nous aimions, Ardasire et moi ; et sans doute que l’effet naturel de l’amour est de rendre heureux ceux qui s’aiment. Mais cette bienveillance générale que nous trouvons dans tous ceux qui sont autour de nous peut rendre plus heureux que l’amour même. Il est impossible que ceux qui ont le cœur bien fait ne se plaisent au milieu de cette bienveillance générale. Étrange effet de la nature ! l’homme n’est jamais si peu à lui que lorsqu’il par<oa/>ît l’être davantage. Le cœur n’est jamais le cœur que quand il se donne, parce que ses jouissances sont hors de lui.</p>
+
+<p>C’est ce qui fait que ces idées de grandeur, qui retirent toujours le cœur vers lui-même, trompent ceux qui <pagenum v="v2" num='409'/>en sont enivrés ; c’est ce qui fait qu’ils s’étonnent de n’être point heureux au milieu de ce qu’ils croient être le bonheur ; que, ne le trouvant point dans la grandeur, ils cherchent plus de grandeur encore. S’ils n’y peuvent atteindre, ils se croient plus malheureux ; s’ils y atteignent, ils ne trouvent pas encore le bonheur.</p>
+
+<p>C’est l’orgueil, qui, à force de nous posséder, nous empêche de nous posséder, et qui, nous concentrant dans nous-mêmes, y porte toujours la tristesse. Cette tristesse vient de la solitude du cœur, qui se sent toujours fait pour jouir, et qui ne jouit pas ; qui se sent toujours fait pour les autres, et qui ne les trouve pas.</p>
+
+<p>Ainsi nous aurions goûté des plaisirs que donne la nature toutes les fois qu’on ne la fuit pas. Nous aurions passé notre vie dans la joie, l’innocence et la paix. Nous aurions compté nos années par le renouvellement des fleurs et des fruits ; nous aurions perdu nos années dans la rapidité d’une vie heureuse. J’aur<oa/>is vu tous les jours Ardasire, et je lui aur<oa/>is dit que je l’aim<oa/>is. La même terre aur<oa/>it repris son âme et la mienne. Mais tout à coup mon bonheur s’évanouit, et j’éprouvai le revers du monde le plus affreux.</p>
+
+<p>Le prince du pays ét<oa/>it un tyran capable de tous les crimes ; mais rien ne le rend<oa/>it si odieux que les outrages continuels qu’il fais<oa/>it à un sexe sur lequel il n’est pas seulement permis de lever les yeux. Il apprit, par une esclave sortie du sérail d’Ardasire, qu’elle ét<oa/>it la plus belle personne de l’Orient. Il n’en fallut pas davantage pour le déterminer à me l’enlever. Une nuit, une grosse troupe de gens armés entoura ma maison, et le matin je reçus un ordre du tyran de lui envoyer Ardasire. Je vis l’impossibilité de la faire sauver. Ma première idée fut de lui aller <pagenum v="v2" num='410'/>donner la mort dans le sommeil où elle ét<oa/>it ensevelie. Je pris mon épée, je courus, j’entrai dans sa chambre, j’ouvris les rideaux ; je reculai d’horreur, et tous mes sens se glacèrent. Une nouvelle rage me saisit : je voulus aller me jeter au milieu de ces satellites, et immoler tout ce qui se présenter<oa/>it à moi. Mon esprit s’ouvrit pour un dessein plus suivi, et je me calmai. Je résolus de prendre les habits que j’avais eus il y av<oa/>it quelques mois, de monter, sous le nom d’Ardasire, dans la litière que le tyran lui av<oa/>it destinée, de me faire mener à lui. Outre que je ne voy<oa/>is point d’autre ressource, je sent<oa/>is en moi-même du plaisir à faire une action de courage sous les mêmes habits avec lesquels l’aveugle amour av<oa/>it auparavant avili mon sexe. J’exécutai tout de sang-froid. J’ordonnai que l’on cachât à Ardasire le péril que je cour<oa/>is, et que, sitôt que je ser<oa/>is parti, on la fit sauver dans un autre pays. Je pris avec moi un esclave dont je conn<oa/>iss<oa/>is le courage, et je me livrai aux femmes et aux eunuques que le tyran av<oa/>it envoyés. Je ne restai pas deux jours en chemin, et, quand j’arrivai, la nuit ét<oa/>it déjà avancée. Le tyran donn<oa/>it un festin à ses femmes et à ses courtisans dans une salle de ses jardins. Il ét<oa/>it dans cette gaîté stupide que donne la débauche lorsqu’elle a été portée à l’excès. Il ordonna que l’on me fît venir. J’entrai dans la salle du festin : il me fit mettre auprès de lui, et je sus cacher ma fureur et le désordre de mon âme. J’ét<oa/>is comme incertain dans mes souhaits. Je voul<oa/>is attirer les regards du tyran, et, quand il les tourn<oa/>it vers moi, je sent<oa/>is redoubler ma rage. Parce qu’il me croit Ardasire, dis<oa/>is-je en moi-même, il ose m’aimer. Il me sembl<oa/>it que je voy<oa/>is multiplier ses outrages, et qu’il av<oa/>it trouvé mille manières d’offenser mon amour. Cependant j’ét<oa/>is prêt à jouir de la plus <pagenum v="v2" num='411'/>affreuse vengeance. Il s’enflamm<oa/>it, et je le voy<oa/>is insensiblement approcher de son malheur. Il sortit de la salle du festin, et me mena dans un appartement plus reculé de ses jardins, suivi d’un seul eunuque et de mon esclave. Déjà sa fureur brutale all<oa/>it l’éclaircir sur mon sexe. Ce fer, m’écriai-je, t’apprendra mieux que je suis un homme. Meurs, et qu’on dise aux enfers que l’époux d’Ardasire a puni tes crimes. Il tomba à mes pieds, et dans ce moment la porte de l’appartement s’ouvrit ; car sitôt que mon esclave av<oa/>it entendu ma voix, il av<oa/>it tué l’eunuque qui la gard<oa/>it, et s’en ét<oa/>it saisi. Nous fuîmes ; nous errions dans les jardins ; nous rencontrâmes un homme ; je le saisis : Je te plongerai, lui dis-je, ce poignard dans le sein, si tu ne me fais sortir d’ici. C’ét<oa/>it un jardinier, qui, tout tremblant de peur, me mena à une porte qu’il ouvrit ; je la lui fis refermer, et lui ordonnai de me suivre.</p>
+
+<p>Je jetai mes habits, et pris un manteau d’esclave. Nous errâmes dans les bois, et, par un bonheur inespéré, lorsque nous étions accablés de lassitude, nous trouvâmes un marchand qui faisait paître ses chameaux ; nous l’obligeâmes de nous mener hors de ce funeste pays.</p>
+
+<p>A mesure que j’évit<oa/>is tant de dangers, mon cœur deven<oa/>it moins tranquille. Il fall<oa/>it revoir Ardasire, et tout me fais<oa/>it craindre pour elle. Ses femmes et ses eunuques lui av<oa/>ient caché l’horreur de notre situation ; mais, ne me voyant plus auprès d’elle, elle me croy<oa/>it coupable ; elle s’imagin<oa/>it que j’av<oa/>is manqué à tant de serments que je lui av<oa/>is faits. Elle ne pouv<oa/>it concevoir cette barbarie de l’avoir fait enlever sans lui rien dire. L’amour voit tout ce qu’il craint. La vie lui devint insupportable ; elle prit du poison ; il ne fit pas son effet violemment. <pagenum v="v2" num='412'/>J’arrivai et je la trouvai mourante. Ardasire, lui dis-je, je vous perds , vous mourez ? cruelle Ardasire ! hélas ! qu’av<oa/>is-je fait ?... Elle versa quelques larmes. Arsace, me dit-elle, il n’y a qu’un moment que la mort me sembl<oa/>it délicieuse ; elle me par<oa/>ît terrible depuis que je vous vois. Je sens que je voudr<oa/>is revivre pour vous, et que mon âme me quitte malgré elle. Conservez mon souvenir ; et, si j’apprends qu’il vous est cher, comptez que je ne serai point tourmentée chez les ombres. J’ai du moins cette consolation, mon cher Arsace, de mourir dans vos bras.</p>
+
+<p>Elle expira. Il me ser<oa/>it impossible de dire comment je n’expirai pas aussi. On m’arracha d’Ardasire, et je crus qu’on me sépar<oa/>it de moi-même. Je fixai mes yeux sur elle, et je restai immobile : j’ét<oa/>is devenu stupide. On m’ôta ce terrible spectacle, et je sentis mon âme reprendre toute sa sensibilité. On m’entraîna ; je tourn<oa/>is les yeux vers ce fatal objet de ma douleur ; j’aur<oa/>is donné mille vies pour le voir encore un moment. J’entrai en fureur, je pris mon épée ; j’all<oa/>is me percer le sein ; on m’arrêta. Je sortis de ce palais funeste, je n’y rentrai plus. Mon esprit s’aliéna ; je cour<oa/>is dans les bois ; je rempliss<oa/>is l’air de mes cris. Quand je deven<oa/>is plus tranquille, toutes les forces de mon âme la fix<oa/>ient à ma douleur. Il me sembla qu’il ne me rest<oa/>it plus rien dans le monde que ma tristesse et le nom d’Ardasire. Ce nom, je le prononç<oa/>is d’une voix terrible, et je rentr<oa/>is dans le silence. Je résolus de m’ôter la vie, et tout à coup j’entrai en fureur. Tu veux mourir, me dis<oa/>is-je à moi-même, et Ardasire n’est pas vengée ! Tu veux mourir, et le fils du tyran est en Hyrcanie, qui se baigne dans les délices ! Il vit, et tu veux mourir !</p>
+
+<p>Je me suis mis en chemin pour l’aller chercher. J’ai appris qu’il vous av<oa/>it déclaré la guerre ; j’ai volé à vous. <pagenum v="v2" num='413'/>Je suis arrivé trois jours avant la bataille, et j’ai fait l’action que vous conn<oa/>issez. J’aur<oa/>is percé le fils du tyran ; j’ai mieux aimé le faire prisonnier. Je veux qu’il traîne dans la honte et dans les fers une vie aussi malheureuse que la mienne. J’espère que quelque jour il apprendra que j’aurai fait mourir le dernier des siens. J’avoue pourtant que, depuis que je suis vengé, je ne me trouve pas plus heureux ; et je sens bien que l’espoir de la vengeance flatte plus que la vengeance même. Ma rage que j’ai satisfaite, l’action que vous avez vue, les acclamations du peuple, seigneur, votre amitié même, ne me rendent point ce que j’ai perdu.</p>
+
+<p>La surprise d’Aspar av<oa/>it commencé presque avec le récit qu’il av<oa/>it entendu. Sitôt qu’il av<oa/>it ouï le nom d’Arsace, il av<oa/>it reconnu le mari de la reine. Des raisons d’État l’av<oa/>ient obligé d’envoyer chez les Mèdes Isménie, la plus jeune des filles du dernier roi, et il l’y av<oa/>it fait élever en secret sous le nom d’Ardasire. Il l’av<oa/>it mariée à Arsace ; il av<oa/>it toujours eu des gens affidés dans le sérail d’Arsace ; il ét<oa/>it le génie qui, par ces mêmes gens, av<oa/>it répandu tant de richesses dans la maison d’Arsace, et qui, par des voies très-simples, av<oa/>it fait imaginer tant de prodiges.</p>
+
+<p>Il av<oa/>it eu de très-grandes raisons pour cacher à Arsace la naissance d’Ardasire. Arsace, qui av<oa/>it beaucoup de courage, aur<oa/>it pu faire valoir les droits de sa femme sur la Bactriane, et la troubler.</p>
+
+<p>Mais ces raisons ne subsist<oa/>ient plus, et, quand il entendit le récit d’Arsace, il eut mille fois envie de l’interrompre ; mais il crut qu’il n’ét<oa/>it pas encore temps de lui apprendre son sort. Un ministre accoutumé à arrêter ses mouvements reven<oa/>it toujours à la prudence ; il pens<oa/>it <pagenum v="v2" num='414'/>à préparer un grand événement, et non pas à le hâter. Deux jours après, le bruit se répandit que l’eunuque av<oa/>it mis sur le trône une fausse Isménie. On passa des murmures à la sédition. Le peuple furieux entoura le palais ; il demanda à haute voix la tête d’Aspar. L’eunuque fit ouvrir une des portes, et, monté sur un éléphant, il s’avança dans la foule. Bactriens, dit-il, écoutez-moi. Et comme on murmur<oa/>it encore : Écoutez-moi, vous dis-je. Si vous pouvez me faire mourir à présent, vous pourrez dans un moment me faire mourir tout de même. Voici un papier écrit et scellé de la main du feu roi : prosternez-vous, adorez-le ; je vais le lire.</p>
+
+<p>Il le lut :</p>
+
+<p>« Le ciel m’a donné deux filles qui se ressemblent au point que tous les yeux peuvent s’y tromper. Je crains que cela ne donne occasion à de plus grands troubles et à des guerres plus funestes. Vous donc, Aspar, lumière de l’empire, prenez la plus jeune des deux ; envoyez-la secrètement dans la Médie, et faites-en prendre soin. Qu’elle y reste sous un nom supposé, tandis que le bien de l’État le demandera. »</p>
+
+<p>Il porta cet écrit au-dessus de sa tête, et il s’inclina ; puis reprenant la parole :</p>
+
+<p>« Isménie est morte ; n’en doutez pas ; mais sa sœur, la jeune Isménie, est sur le trône. Voudriez-vous vous plaindre de ce que, voyant la mort de la reine approcher, j’ai fait venir sa sœur du fond de l’Asie ? Me reprocheriez-vous d’avoir été assez heureux pour vous la rendre et la placer sur un trône qui, depuis la mort de la reine sa sœur, lui appartient ? Si j’ai tu la mort de la reine, l’état des affaires ne l’a-t-il pas demandé ? Me blâmez-vous d’avoir fait une action de fidélité avec prudence ? Posez donc les <pagenum v="v2" num='415'/>armes. Jusqu’ici vous n’êtes point coupables ; dès ce moment vous le seriez. »</p>
+
+<p>Aspar expliqua ensuite comment il av<oa/>it confié la jeune Isménie à deux vieux eunuques ; comment on l’av<oa/>it transportée en Médie sous un nom supposé ; comment il l’av<oa/>it mariée à un grand seigneur du pays ; comment il l’av<oa/>it fait suivre dans tous les lieux où la fortune l’av<oa/>it conduite ; comment la maladie de la reine l’av<oa/>it déterminé à la faire enlever pour être gardée en secret dans le sérail ; comment, après la mort de la reine, il l’av<oa/>it placée sur le trône.</p>
+
+<p>Comme les flots de la mer agitée s’apaisent par les zéphyrs, le peuple se calma par les paroles d’Aspar. On n’entendit plus que des acclamations de joie ; tous les temples retentirent du nom de la jeune Isménie.</p>
+
+<p>Aspar inspira à Isménie de voir l’étranger qui av<oa/>it rendu un si grand service à la Bactriane ; il lui inspira de lui donner une audience éclatante. Il fut résolu que les grands et les peuples ser<oa/>ient assemblés ; que là il ser<oa/>it déclaré général des armées de l’État, et que la reine lui ceindrait l’épée. Les principaux de la nation ét<oa/>ient rangés autour d’une grande salle, et une foule de peuple en occup<oa/>it le milieu et l’entrée. La reine ét<oa/>it sur son trône, vêtue d’un habit superbe. Elle av<oa/>it la tête couverte de pierreries ; elle av<oa/>it, selon l’usage de ces solennités, levé son voile, et l’on voy<oa/>it le visage de la beauté même. Arsace parut, et le peuple commença ses acclamations. Arsace, les yeux baissés par respect, resta un moment dans le silence, et adressant la parole à la reine :</p>
+
+<p>Madame, lui dit-il d’une voix basse et entrecoupée, si quelque chose pouv<oa/>it rendre à mon âme quelque tranquillité, et me consoler de mes malheurs...</p>
+
+<pagenum v="v2" num='416'/>
+
+<p>La reine ne le laissa pas achever ; elle crut d’abord reconn<oa/>ître le visage, elle reconnut encore la voix d’Arsace. Toute hors d’elle-même, et ne se conn<oa/>issant plus, elle se précipita de son trône, et se jeta aux genoux d’Arsace.</p>
+
+<p>Mes malheurs ont été plus grands que les tiens, dit-elle, mon cher Arsace. Hélas ! je croy<oa/>is ne te revoir jamais depuis le fatal moment qui nous a séparés. Mes douleurs ont été mortelles.</p>
+
+<p>Et, comme si elle av<oa/>it passé tout à coup d’une manière d’aimer à une autre manière d’aimer, ou qu’elle se trouvât incertaine sur l’impétuosité de l’action qu’elle ven<oa/>it de faire, elle se releva tout à coup, et une rougeur modeste parut sur son visage.</p>
+
+<p>Bactriens, dit-elle, c’est aux genoux de mon époux que vous m’avez vue. C’est ma félicité d’avoir pu faire par<oa/>itre devant vous mon amour. J’ai descendu de mon trône, parce que je n’y ét<oa/>is pas avec lui, et j’atteste les dieux que je n’y remonterai pas sans lui. Je goûte ce plaisir que la plus belle action de mon règne, c’est par lui qu’elle a été faite, et que c’est pour moi qu’il l’a faite. Grands, peuples et citoyens, croyez-vous que celui qui règne sur moi soit digne de régner sur vous ? Approuvezvous mon choix ? Élisez-vous Arsace ? Dites-le-moi, parlez.</p>
+
+<p>A peine les dernières paroles de la reine furent-elles entendues, tout le palais retentit d’acclamations ; on n’entendit plus que le nom d’Arsace et celui d’Isménie.</p>
+
+<p>Pendant tout ce temps, Arsace ét<oa/>it comme stupide. Il voulut parler, sa voix s’arrêta ; il voulut se mouvoir, et il resta sans action. Il ne voy<oa/>it pas la reine ; il ne voy<oa/>it pas le peuple ; à peine entend<oa/>it-il les acclamations : la joie le troubl<oa/>it tellement, que son âme ne put sentir toute sa félicité.</p>
+
+<pagenum v="v2" num='417'/>
+
+<p>Mais, quand Aspar eut fait retirer le peuple, Arsace pencha la tête sur la main de la reine.</p>
+
+<p>Ardasire, vous vivez ! vous vivez, ma chère Ardasire ! Je mour<oa/>is tous les jours de douleur. Comment les dieux vous ont-ils rendue à la vie ?</p>
+
+<p>Elle se hâta de lui raconter comment une de ses femmes av<oa/>it substitué au poison une liqueur enivrante. Elle av<oa/>it été trois jours sans mouvement ; on l’av<oa/>it rendue à la vie : sa première parole av<oa/>it été le nom d’Arsace ; ses yeux ne s’ét<oa/>ient ouverts que pour le voir ; elle l’av<oa/>it fait chercher ; elle l’av<oa/>it cherché elle-même. Aspar l’av<oa/>it fait enlever, et, après la mort de sa sœur, il l’av<oa/>it placée sur le trône.</p>
+
+<p>Aspar av<oa/>it rendu éclatante l’entrevue d’Arsace et d’Isménie. Il se ressouven<oa/>it de la dernière sédition. Il croy<oa/>it qu’après avoir pris sur lui de mettre Isménie sur le trône, il n’ét<oa/>it pas à propos qu’il parût encore avoir contribué à y placer Arsace. Il av<oa/>it pour maxime de ne faire jamais lui-même ce que les autres pouv<oa/>ient faire, et d’aimer le bien, de quelque main qu’il pût venir. D’ailleurs, conn<oa/>issant la beauté du caractère d’Arsace et d’Isménie, il désir<oa/>it de les faire paraître dans leur jour. Il voul<oa/>it leur concilier ce respect que s’attirent toujours les grandes âmes dans toutes les occasions où elles peuvent se montrer. Il cherch<oa/>it à leur attirer cet amour que l’on porte à ceux qui ont éprouvé de grands malheurs. Il voul<oa/>it faire naître cette admiration que l’on a pour tous ceux qui sont capables de sentir les belles passions. Enfin il croy<oa/>it que rien n’ét<oa/>it plus propre à faire perdre à Arsace le titre d’étranger, et à lui faire trouver celui de Bactrien dans tous les cœurs des peuples de la Bactriane.</p>
+
+<p>Arsace jouiss<oa/>it d’un bonheur qui lui par<oa/>iss<oa/>it inconcevable. <pagenum v="v2" num='418'/>Ardasire, qu’il croy<oa/>it morte, lui ét<oa/>it rendue ; Ardasire ét<oa/>it Isménie ; Ardasire ét<oa/>it reine de Bactriane ; Ardasire l’en av<oa/>it fait roi. Il pass<oa/>it du sentiment de sa grandeur au sentiment de son amour. Il aim<oa/>it ce diadème qui, bien loin d’être un signe d’indépendance, l’avertiss<oa/>it sans cesse qu’il ét<oa/>it à elle ; il aim<oa/>it ce trône, parce qu’il voy<oa/>it la main qui l’y av<oa/>it fait monter.</p>
+
+<p>Isménie goût<oa/>it, pour la première fois, le plaisir de voir qu’elle ét<oa/>it une grande reine. Avant l’arrivée d’Arsace, elle av<oa/>it une grande fortune, mais il lui manqu<oa/>it un cœur capable de la sentir : au milieu de sa cour, elle se trouv<oa/>it seule ; dix millions d’hommes ét<oa/>ient à ses pieds, et elle se croy<oa/>it abandonnée.</p>
+
+<p>Arsace fit d’abord venir le prince d’Hyrcanie.</p>
+
+<p>Vous avez, lui dit-il, paru devant moi, et les fers ont tombé de vos mains ; il ne faut point qu’il y ait d’infortuné dans l’empire du plus heureux des mortels.</p>
+
+<p>Quoique je vous aie vaincu, je ne crois pas que vous m’ayez cédé en courage ; je vous prie de consentir que vous me cédiez en générosité.</p>
+
+<p>Le caractère de la reine ét<oa/>it la douceur, et sa fierté naturelle dispar<oa/>iss<oa/>it toujours toutes les fois qu’elle dev<oa/>it dispar<oa/>ître.</p>
+
+<p>Pardonnez-moi, dit-elle au prince d’Hyrcanie, si je n’ai pas répondu à des feux qui n’ét<oa/>ient pas légitimes. L’épouse d’Arsace ne pouv<oa/>it pas être la vôtre ; vous ne devez vous plaindre que du destin.</p>
+
+<p>Si l’Hyrcanie et la Bactriane ne forment pas un même empire, ce sont des États faits pour être alliés. Isménie peut promettre de l’amitié, si elle n’a pu promettre de l’amour.</p>
+
+<p>Je suis, répondit le prince, accablé de tant de malheurs <pagenum v="v2" num='419'/>et comblé de tant de bienfaits, que je ne sais si je suis un exemple de la bonne ou de la mauvaise fortune.</p>
+
+<p>J’ai pris les armes contre vous pour me venger d’un mépris que vous n’aviez pas. Ni vous ni moi ne méritions que le ciel favorisât mes projets. Je vais retourner dans l’Hyrcanie, et j’y oublierais bientôt mes malheurs, si je ne compt<oa/>is parmi mes malheurs celui de vous avoir vue, et celui de ne plus vous voir.</p>
+
+<p>Votre beauté sera chantée dans tout l’Orient ; elle rendra le siècle où vous vivez plus célèbre que tous les autres ; et, dans les races futures, les noms d’Arsace et d’Isménie seront les titres les plus flatteurs pour les belles et les amants.</p>
+
+<p>Un événement imprévu demanda la présence d’Arsace dans une province du royaume ; il quitta Isménie. Quels tendres adieux ! quelles douces larmes ! C’ét<oa/>it moins un sujet de s’affliger qu’une occasion de s’attendrir. La peine de se quitter se joignit à l’idée de la douceur de se revoir.</p>
+
+<p>Pendant l’absence du roi, tout fut, par ses soins, disposé de manière que le temps, le lieu, les personnes, chaque événement offr<oa/>it à Isménie des marques de son souvenir. Il ét<oa/>it éloigné, et ses actions dis<oa/>ient qu’il ét<oa/>it auprès d’elle ; tout ét<oa/>it d’intelligence pour lui rappeler Arsace ; elle ne trouv<oa/>it point Arsace, mais elle trouv<oa/>it son amant.</p>
+
+<p>Arsace écriv<oa/>it continuellement à Isménie. Elle lis<oa/>it :</p>
+
+<p>« J’ai vu les superbes villes qui conduisent à vos frontières ; j’ai vu des peuples innombrables tomber à mes genoux. Tout me dis<oa/>it que je régn<oa/>is dans la Bactriane ; je ne voy<oa/>is point celle qui m’en av<oa/>it fait roi, et je ne l’ét<oa/>is plus. »</p>
+
+<p>Il lui dis<oa/>it :</p>
+
+<pagenum v="v2" num='420'/>
+
+<p>« Si le ciel voul<oa/>it m’accorder le breuvage d’immortalité, tant cherché dans l’Orient, vous boiriez dans la même coupe, ou je n’en approcherais point mes lèvres ; vous seriez immortelle avec moi, ou je mourrais avec vous. »</p>
+
+<p>Il lui mand<oa/>it :</p>
+
+<p>« J’ai donné votre nom à la ville que j’ai fait bâtir ; il me semble qu’elle sera habitée par nos sujets les plus heureux. »</p>
+
+<p>Dans une autre lettre, après ce que l’amour pouv<oa/>it dire de plus tendre sur les charmes de sa personne, il ajout<oa/>it :</p>
+
+<p>« Je vous dis ces choses sans même chercher à vous plaire ; je voudrais calmer mes ennuis ; je sens que mon âme s’apaise en vous parlant de vous. »</p>
+
+<p>Enfin elle reçut cette lettre :</p>
+
+<p>« Je compt<oa/>is les jours, je ne compte plus que les moments, et ces moments sont plus longs que les jours. Belle reine, mon cœur est moins tranquille à mesure que j’approche de vous. »</p>
+
+<p>Après le retour d’Arsace, il lui vint des ambassades de toutes parts ; il y en eut qui parurent singulières. Arsace ét<oa/>it sur un trône qu’on av<oa/>it élevé dans la cour du palais. L’ambassadeur des Parthes entra d’abord ; il ét<oa/>it monté sur un superbe coursier ; il ne descendit point à terre, et il parla ainsi :</p>
+
+<p>« Un tigre d’Hyrcanie désol<oa/>it la contrée, un éléphant l’étouffa sous ses pieds. Un jeune tigre rest<oa/>it, et il ét<oa/>it déjà aussi cruel que son père ; l’éléphant en délivra encore le pays. Tous les animaux qui craign<oa/>ient les bêtes féroces ven<oa/>ient paître autour de lui. Il se plais<oa/>it à voir qu’il ét<oa/>it leur asile, et il dis<oa/>it en lui-même : On dit que le <pagenum v="v2" num='421'/>tigre est le roi des animaux, il n’en est que le tyran, et j’en suis le roi. »</p>
+
+<p>L’ambassadeur des Perses parla ainsi :</p>
+
+<p>« Au commencement du monde la lune fut mariée avec le soleil. Tous les astres du firmament voul<oa/>ient l’épouser. Elle leur dit : Regardez le soleil, et regardez-vous ; vous n’avez pas tous ensemble autant de lumière que lui. »</p>
+
+<p>L’ambassadeur d’Égypte vint ensuite et dit :</p>
+
+<p>« Lorsque Isis épousa le grand Osiris, ce mariage fut la cause de la prospérité de l’Égypte et le type de sa fécondité. Telle sera la Bactriane, elle deviendra heureuse par le mariage de ses dieux. »</p>
+
+<p>Arsace fais<oa/>it mettre sur les murailles de tous ses palais son nom avec celui d’Isménie. On voy<oa/>it leurs chiffres partout entrelacés. Il ét<oa/>it défendu de peindre Arsace qu’avec Isménie.</p>
+
+<p>Toutes les actions qui demand<oa/>ient quelque sévérité, il voul<oa/>it paraître les faire seul ; il voulut que les grâces fussent faites sous son nom et celui d’Isménie.</p>
+
+<p>Je vous aime, lui dis<oa/>it-il, à cause de votre beauté divine et de vos grâces toujours nouvelles. Je vous aime encore, parce que, quand j’ai fait quelque action digne d’un grand roi, il me semble que je vous plais davantage.</p>
+
+<p>Vous avez voulu que je fusse votre roi, quand je ne pens<oa/>is qu’au bonheur d’être votre époux ; et ces plaisirs, dont je m’enivr<oa/>is avec vous, vous m’avez appris à les fuir lorsqu’il s’agiss<oa/>it de ma gloire.</p>
+
+<p>Vous avez accoutumé mon âme à la clémence, et lorsque vous avez demandé des choses qu’il n’ét<oa/>it pas permis d’accorder, vous m’avez toujours fait respecter ce cœur qui les av<oa/>it demandées.</p>
+
+<pagenum v="v2" num='422'/>
+
+<p>Les femmes de votre palais ne sont point entrées dans les intrigues de la cour ; elles ont cherché la modestie et l’oubli de tout ce qu’elles ne doivent point aimer.</p>
+
+<p>Je crois que le ciel a voulu faire de moi un grand prince, puisqu’il m’a fait trouver, dans les écueils ordinaires des rois, des secours pour devenir vertueux.</p>
+
+<p>Jamais les Bactriens ne virent des temps si heureux. Arsace et Isménie dis<oa/>ient qu’ils régn<oa/>ient sur le meilleur peuple de l’univers ; les Bactriens dis<oa/>ient qu’ils viv<oa/>ient sous les meilleurs de tous les princes.</p>
+
+<p>Il dis<oa/>it qu’étant né sujet, il av<oa/>it souhaité mille fois de vivre sous un bon prince, et que ses sujets fais<oa/>ient sans doute les mêmes vœux que lui.</p>
+
+<p>Il ajout<oa/>it qu’ayant le cœur d’Isménie, il dev<oa/>it lui offrir tous les cœurs de l’univers : il ne pouv<oa/>it lui apporter un trône, mais des vertus capables de le remplir.</p>
+
+<p>Il croy<oa/>it que son amour dev<oa/>it passer à la postérité, et qu’il n’y passer<oa/>it jamais mieux qu’avec sa gloire. Il voul<oa/>it qu’on écrivît ces paroles sur son tombeau : Isménie a eu pour époux un roi chéri des mortels.</p>
+
+<p>Il dis<oa/>it qu’il aim<oa/>it Aspar, son premier ministre, parce qu’il parl<oa/>it toujours des sujets, plus rarement du roi, et jamais de lui-même.</p>
+
+<p>Il a, dis<oa/>it-il, trois grandes choses : l’esprit juste, le cœur sensible et l’âme sincère.</p>
+
+<p>Arsace parl<oa/>it souvent de l’innocence de son administration. Il dis<oa/>it qu’il conserv<oa/>it ses mains pures, parce que le premier crime qu’il commettrait décider<oa/>it de toute sa vie, et que là commencerait la chaîne d’une infinité d’autres.</p>
+
+<p>Je punirais, dis<oa/>it-il, un homme sur des soupçons. Je croirais en rester là ; non : de nouveaux soupçons me <pagenum v="v2" num='423'/>viendraient en foule contre les parents et les amis de celui que j’aur<oa/>is fait mourir. Voilà le germe d’un second crime. Ces actions violentes me feraient penser que je serais haï de mes sujets : je commencerais à les craindre. Ce ser<oa/>it le sujet de nouvelles exécutions, qui deviendraient elles-mêmes le sujet de nouvelles frayeurs.</p>
+
+<p>Que si ma vie ét<oa/>it une fois marquée de ces sortes de taches, le désespoir d’acquérir une bonne réputation viendrait me saisir ; et, voyant que je n’effacerais jamais le passé, j’abandonnerais l’avenir.</p>
+
+<p>Arsace aim<oa/>it si fort à conserver les lois et les anciennes coutumes des Bactriens, qu’il trembl<oa/>it toujours au mot de la réformation des abus, parce qu’il av<oa/>it souvent remarqué que chacun appell<oa/>it loi ce qui ét<oa/>it conforme à ses vues, et appell<oa/>it abus tout ce qui choqu<oa/>it ses intérêts.</p>
+
+<p>Que, de corrections en corrections d’abus, au lieu de rectifier les choses, on parven<oa/>it à les anéantir.</p>
+
+<p>Il ét<oa/>it persuadé que le bien ne dev<oa/>it couler dans un État que par le canal des lois ; que le moyen de faire un bien permanent, c’ét<oa/>it, en faisant le bien, de les suivre ; que le moyen de faire un mal permanent, c’ét<oa/>it, en faisant le mal, de les choquer.</p>
+
+<p>Que les devoirs des princes ne consist<oa/>ient pas moins dans la défense des lois contre les passions des autres que contre leurs propres passions.</p>
+
+<p>Que le désir général de rendre les hommes heureux ét<oa/>it naturel aux princes ; mais que ce désir n’aboutiss<oa/>it à rien, s’ils ne se procuraient continuellement des conn<oa/>issances particulières pour y parvenir.</p>
+
+<p>Que, par un grand bonheur, le grand art de régner demand<oa/>it plus de sens que de génie, plus de désir d’acquérir <pagenum v="v2" num='424'/>des lumières que de grandes lumières, plutôt des conn<oa/>issances pratiques que des conn<oa/>issances abstraites, plutôt un certain discernement pour conn<oa/>ître les hommes que la capacité de les former.</p>
+
+<p>Qu’on appren<oa/>it à conn<oa/>ître les hommes en se communiquant à eux, comme on apprend toute autre chose. Qu’il est très-incommode pour les défauts et pour les vices de se cacher toujours. Que la plupart des hommes ont une enveloppe ; mais qu’elle tient et serre si peu, qu’il est très-difficile que quelque côté ne vienne à se découvrir.</p>
+
+<p>Arsace ne parl<oa/>it jamais des affaires qu’il pouv<oa/>it avoir avec les étrangers ; mais il aim<oa/>it à s’entretenir de celles de l’intérieur de son royaume, parce que c’ét<oa/>it le seul moyen de le bien conn<oa/>ître ; et là-dessus il dis<oa/>it qu’un bon prince dev<oa/>it être secret, mais qu’il pouv<oa/>it quelquefois l’être trop.</p>
+
+<p>Il dis<oa/>it qu’il sent<oa/>it en lui-même qu’il ét<oa/>it un bon roi ; qu’il ét<oa/>it doux, affable, humain ; qu’il aim<oa/>it la gloire, qu’il aim<oa/>it ses sujets ; que cependant, si, avec ces belles qualités, il ne s’ét<oa/>it gravé dans l’esprit les grands principes de gouvernement, il ser<oa/>it arrivé la chose du monde la plus triste, que ses sujets auraient eu un bon roi, et qu’ils aur<oa/>ient peu joui de ce bonheur, et que ce beau présent de la Providence aur<oa/>it été en quelque sorte inutile pour eux.</p>
+
+<p>Celui qui croit trouver le bonheur sur le trône se trompe, dis<oa/>it Arsace : on n’y a que le bonheur qu’on y a porté, et souvent même on y risque ce bonheur que l’on a porté. Si donc les dieux, ajout<oa/>it-il, n’ont pas fait le commandement pour le bonheur de ceux qui commandent, il faut qu’ils l’aient fait pour le bonheur de ceux qui obéissent.</p>
+
+<pagenum v="v2" num='425'/>
+
+<p>Arsace sav<oa/>it donner, parce qu’il sav<oa/>it refuser.</p>
+
+<p>Souvent, dis<oa/>it-il, quatre villages ne suffisent pas pour faire un don à un grand seigneur prêt à devenir misérable, ou à un misérable prêt à devenir grand seigneur. Je puis bien enrichir la pauvreté d’état ; mais il m’est impossible d’enrichir la pauvreté de luxe.</p>
+
+<p>Arsace ét<oa/>it plus curieux d’entrer dans les chaumières que dans les palais de ses grands.</p>
+
+<p>C’est là que je trouve mes vrais conseillers. Là, je me ressouviens de ce que mon palais me fait oublier. Ils me disent leurs besoins. Ce sont les petits malheurs de chacun qui composent le malheur général. Je m’instruis de tous ces malheurs, qui, tous ensemble, pourraient former le mien.</p>
+
+<p>C’est dans ces chaumières que je vois ces objets tristes, qui font toujours les délices de ceux qui peuvent les faire changer, et qui me font conn<oa/>ître que je puis devenir un plus grand prince que je ne le suis. J’y vois la joie succéder aux larmes ; au lieu que dans mon palais je ne puis guère voir que les larmes succéder à la joie.</p>
+
+<p>On lui dit un jour que, dans quelques réjouissances publiques, des farceurs av<oa/>ient chanté ses louanges.</p>
+
+<p>Savez-vous bien, dit-il, pourquoi je permets à ces gens-là de me louer ? C’est afin de me faire mépriser la flatterie, et de la rendre vile à tous les gens de bien. J’ai un si grand pouvoir qu’il sera toujours naturel de chercher à me plaire. J’espère bien que les dieux ne permettront point que la flatterie me plaise jamais. Pour vous, mes amis, dites-moi la vérité ; c’est la seule chose du monde que je désire, parce que c’est la seule chose du monde qui puisse me manquer.</p>
+
+<p>Ce qui av<oa/>it troublé la fin du règne d’Artamène, c’est <pagenum v="v2" num='426'/>que dans sa jeunesse il av<oa/>it conquis quelques petits peuples voisins, situés entre la Médie et la Bactriane. Ils ét<oa/>ient ses alliés ; il voulut les avoir pour sujets, il les eut pour ennemis ; et, comme ils habit<oa/>ient les montagnes, ils ne furent jamais bien assujettis ; au contraire, les Mèdes se serv<oa/>ient d’eux pour troubler le royaume : de sorte que le conquérant av<oa/>it beaucoup aff<oa/>ibli le monarque, et que, lorsque Arsace monta sur le trône, ces peuples ét<oa/>ient encore peu affectionnés. Bientôt les Mèdes les firent révolter. Arsace vola et les soumit. Il fit assembler la nation et parla ainsi :</p>
+
+<p>« Je sais que vous souffrez impatiemment la domination des Bactriens : je n’en suis point surpris. Vous aimez vos anciens rois, qui vous ont comblé de bienfaits. C’est à moi à faire en sorte, par ma modération et par ma justice, que vous me regardiez comme le vrai successeur de ceux que vous avez tant aimés. »</p>
+
+<p>Il fit venir les deux chefs les plus dangereux de la révolte, et dit au peuple :</p>
+
+<p>« Je les fais mener devant vous, pour que vous les jugiez vous-mêmes. »</p>
+
+<p>Chacun, en les condamnant, chercha à se justifier.</p>
+
+<p>« Conn<oa/>issez, leur dit-il, le bonheur que vous avez de vivre sous un roi qui n’a point de passion lorsqu’il punit, et qui n’en met que quand il récompense ; qui croit que la gloire de vaincre n’est que l’effet du sort, et qu’il ne tient que de lui-même celle de pardonner.</p>
+
+<p>« Vous vivrez heureux sous mon empire, et vous garderez vos usages et vos lois. Oubliez que je vous ai vaincus par les armes, et ne le soyez que par mon affection. »</p>
+
+<p>Toute la nation vint rendre grâces à Arsace de sa clémence <pagenum v="v2" num='427'/>et de la paix. Des vieillards port<oa/>ient la parole. Le premier parla ainsi :</p>
+
+<p>« Je crois voir ces grands arbres qui font l’ornement de notre contrée. Tu en es la tige, et nous en sommes les feuilles ; elles couvriront les racines des ardeurs du soleil. »</p>
+
+<p>Le second lui dit :</p>
+
+<p>« Tu av<oa/>is à demander aux dieux que nos montagnes s’abaissassent pour qu’elles ne pussent pas nous défendre contre toi. Demande-leur aujourd’hui qu’elles s’élèvent jusques aux nues, pour qu’elles puissent mieux te défendre contre tes ennemis. »</p>
+
+<p>Le troisième dit ensuite :</p>
+
+<p>« Regarde le fleuve qui traverse notre contrée ; là où il est impétueux et rapide, après avoir tout renversé, il se dissipe et se divise au point que les femmes le traversent à pied. Mais si tu le regardes dans les lieux où il est doux et tranquille, il grossit lentement ses eaux, il est respecté des nations, et il arrête les armées. »</p>
+
+<p>Depuis ce temps ces peuples furent les plus fidèles sujets de la Bactriane.</p>
+
+<p>Cependant le roi de Médie apprit qu’Arsace régn<oa/>it dans la Bactriane. Le souvenir de l’affront qu’il av<oa/>it reçu se réveilla dans son cœur. Il av<oa/>it résolu de lui faire la guerre. Il demanda le secours du roi d’Hyrcanie.</p>
+
+<p>« Joignez-vous à moi, lui écrivit-il, poursuivons une vengeance commune. Le ciel vous destin<oa/>it la reine de Bactriane ; un de mes sujets vous l’a ravie : venez la conquérir. »</p>
+
+<p>Le roi d’Hyrcanie lui fit cette réponse :</p>
+
+<p>« Je ser<oa/>is aujourd’hui en servitude chez les Bactriens, si je n’av<oa/>is trouvé des ennemis généreux. Je rends grâces au ciel de ce qu’il a voulu que mon règne commençât <pagenum v="v2" num='428'/>par des malheurs. L’adversité est notre mère ; la prospérité n’est que notre marâtre. Vous me proposez des querelles qui ne sont pas celles des rois. Laissons jouir le roi et la reine de Bactriane du bonheur de se plaire et de s’aimer. »</p>
+
+</div>
+
+</page-sequences>
+</bml>
+
+
+
+
+

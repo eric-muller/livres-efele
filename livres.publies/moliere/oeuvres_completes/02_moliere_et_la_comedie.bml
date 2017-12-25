@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+-->
+
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000477"
+        creation="2016-12-28T12:33:45-08:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Molière et la comédie, par la Harpe</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='2'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc/>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence recto="true">
+<pagenum num="xv"/>
+
+<img src="images/frise1.png" class="center100" alt="frise"/>
+
+<h2>MOLIÈRE ET LA COMÉDIE</h2>
+
+<h2>PAR LA HARPE</h2>
+
+<vsep class="rule"/>
+
+<h3>I</h3>
+<h3><s>LE MOLIÈRE</s></h3>
+
+<p>L’éloge d’un écrivain est dans ses ouvrages ; on pourrait dire que l’éloge de Molière est dans ceux des écrivains qui l’ont précédé et qui l’ont suivi, tant les uns et les autres sont loin de lui. Des hommes de beaucoup d’esprit et de talent ont travaillé après lui, sans pouvoir ni lui ressembler ni l’atteindre. Quelques-uns ont eu de la gaieté, d’autres ont su faire des vers ; plusieurs même ont peint des mœurs. Mais la peinture de l’esprit humain a été l’art de Molière ; c’est la carrière qu’il a ouverte et qu’il a fermée : il n’y a rien en ce genre, ni avant lui ni après.</p>
+
+<p>Molière est, de tous ceux qui ont jamais écrit, celui qui a le mieux observé l’homme, sans annoncer qu’il l’observait ; et même il a plus l’air de le savoir par cœur que de l’avoir étudié. Quand on lit ses pièces avec réflexion, ce n’est pas de l’auteur qu’on est étonné, c’est de soi-même.</p>
+
+<p>Molière n’est jamais fin : il est profond ; c’est-à-dire que, lorsqu’il a donné son coup de pinceau, il est impossible d’aller au delà. Ses comédies, bien lues, pourraient suppléer à l’expérience, non pas parce qu’il a peint des ridicules qui passent, mais parce qu’il a peint l’homme, qui ne change point. C’est une suite de traits dont aucun n’est perdu : celui-ci est pour moi, celui-là est pour mon voisin. Et ce qui prouve le plaisir que procure une imitation parfaite, c’est que mon voisin et moi nous rions de très bon cœur de nous voir ou sots, ou faibles, ou impertinents, et que nous serions furieux si l’on <pagenum num="xvi"/>nous disait d’une autre façon la moitié de ce que nous dit Molière.</p>
+
+<h3>II</h3>
+
+<p>Qui est-ce qui égale Racine dans l’art de peindre l’amour ? C’est Molière (dans la proportion que comporte la différence absolue de deux genres). Voyez les scènes des amants dans le <i>Dépit amoureux</i>, premier élan de son génie ; dans le <i>Misanthrope</i>, entendez Alceste s’écrier : <i>Ah ! traîtresse !</i> quand il ne croit pas un mot de toutes les protestations d’amour que lui fait Célimène, et que pourtant il est enchanté qu’elle les lui fasse ; dans le <i>Tartufe</i>, relisez toute cette admirable scène où deux amants viennent de se raccommoder, et où l’un des deux, après la paix faite et scellée, dit pour première parole :</p>
+
+<blockquote class="smaller c">
+<l>Ah çà ! n’ai-je pas lieu de me plaindre de vous ?</l>
+</blockquote>
+
+<p class="cont">Revoyez cent traits de cette force, et, si vous avez aimé, vous tomberez aux genoux de Molière, et vous répéterez ce mot de Sadi : <i>Voilà celui qui sait comme on aime</i>.</p>
+
+<p>Qui est-ce qui égale Racine dans le dialogue ? qui est-ce qui a un aussi grand nombre de ces vers pleins, de ces vers nés, qui n’ont pas pu être autrement qu’ils ne sont, qu’on retient dès qu’on les entend, et que le lecteur croit avoir faits ? C’est encore Molière. Quelle foule de vers charmants ! quelle facilité ! quelle énergie ! surtout quel naturel ! Ne cessons de le dire : le naturel est le charme le plus sûr et le plus durable ; c’est lui qui fait vivre les ouvrages, parce que c’est lui qui les fait aimer ; c’est le naturel qui rend les écrits des anciens si précieux, parce que, maniant un idiome plus heureux que le nôtre, ils sentaient moins le besoin de l’esprit ; c’est le naturel qui distingue le plus les grands écrivains, parce qu’un des caractères du génie est de produire sans effort ; c’est le naturel qui a mis La Fontaine, qui n’inventa rien, à côté des génies inventeurs : enfin c’est le naturel qui fait que les <i>Lettres d’une mère à sa fille</i> sont quelque chose, et que celles de Balzac, de Voiture, et la déclamation et l’affectation en tout genre, sont, comme dit Sosie, <i>rien ou peu de chose</i>.</p>
+
+<h3>III</h3>
+
+<p>Les Crispins de Regnard, les paysans de Dancourt, font rire au théâtre ; Dufresny étincelle d’esprit dans sa tournure <pagenum num="xvii"/>originale ; le <i>Joueur</i> et le <i>Légataire</i> sont d’excellentes comédies ; le <i>Glorieux</i>, la <i>Métromanie</i>, et le <i>Méchant</i> ont des beautés d’un autre ordre. Mais rien de tout cela n’est Molière ; il a un trait de physionomie qu’on n’attrape point ; on le retrouve jusque dans ses moindres farces, qui ont toujours un fonds de vérité et de morale. Il plaît, autant à la lecture qu’à la représentation, ce qui n’est arrivé qu’à Racine et à lui ; et même, de toutes les comédies, celles de Molière sont à peu près les seules que l’on aime à relire. Plus on connaît Molière, plus on l’aime ; plus on étudie Molière, plus on l’admire. Après l’avoir blâmé sur quelques articles, on finit par être de son avis : c’est qu’alors on en sait davantage. Les jeunes gens pensent communément qu’il charge trop ; j’ai entendu blâmer <i>le pauvre homme !</i> répété si souvent. J’ai vu depuis précisément la même scène, et plus forte encore ; et j’ai compris que, lorsqu’on peignait des originaux pris dans la nature, et non pas, comme autrefois, des êtres imaginaires, l’on ne pouvait guère charger ni les ridicules ni les passions.</p>
+
+<h3>IV</h3>
+
+<p>Il faut pardonner à Molière si dans ses deux premières pièces, l’<i>Étourdi</i> et le <i>Dépit amoureux</i>, il suivit la route vulgaire avant d’en frayer une nouvelle. Les ressorts forcés et la multiplicité d’incidents dénués de toute vraisemblance excluent ces deux pièces du rang des bonnes comédies. Il y a même une inconséquence marquée dans le plan de l’<i>Étourdi :</i> c’est que, son valet ne lui faisant point part des fourberies qu’il médite, il est tout simple que le maître les traverse sans être taxé d’étourderie. On voit trop que l’auteur voulait à toute force amener des <i>contre-temps :</i> aussi a-t-il joint ce titre à celui de l’<i>Étourdi</i>, ce qui ne répare point le vice du sujet.</p>
+
+<p>Mais, si les plans de Molière étaient encore aussi défectueux que ceux de ses contemporains, il avait déjà sur eux un grand avantage : c’était un dialogue plus naturel et plus raisonnable, et un style de meilleur goût. Ce mérite et la gaieté du rôle de Mascarille ont soutenu cette pièce au théâtre, malgré tous ses défauts. Il n’y en a pas moins dans le <i>Dépit amoureux</i>. Le sujet est absolument incroyable : toute l’intrigue roule sur une supposition inadmissible, qu’un homme s’imagine être marié avec la femme qu’il aime, le lui soutienne à elle-même, et soit marié en effet avec une autre. Dans l’état des choses tel que l’auteur l’établit, et tel que la décence ne <pagenum num="xviii"/>permet pas même de le rapporter ici, cette méprise est impossible. Il fallait que l’on fût bien accoutumé à compter pour rien le bon sens et les bienséances, puisque la plupart des pièces du temps n’étaient ni plus vraisemblables ni plus décentes.</p>
+
+<p>C’est pourtant dans cet ouvrage, dont le fond est si vicieux, que Molière fit voir les premiers traits du talent qui lui était propre. Deux scènes dont il n’y avait point de modèle, et que lui seul pouvait faire, celles de la brouillerie des deux amants, et du valet avec la suivante, annonçaient l’homme qui allait ramener la comédie à son but, à l’imitation de la nature. Elles sont si parfaites, à deux ou trois vers près, qu’elles ont suffi pour faire vivre l’ouvrage, et ces deux scènes valent mieux que beaucoup de comédies.</p>
+
+<p>Dès son troisième ouvrage, il sortit entièrement de la route tracée et en ouvrit une où personne n’osa le suivre. Les <i>Précieuses ridicules</i>, quoique ce ne fût qu’un acte sans intrigue, firent une véritable révolution : l’on vit pour la première fois sur la scène le tableau d’un ridicule réel et la critique de la société. Elles furent jouées quatre mois de suite avec le plus grand succès. Le jargon des mauvais romans, qui était devenu celui du beau monde, le galimatias sentimental, le phébus des conversations, les compliments en métaphores et en énigmes, la galanterie ampoulée, la recherche des jeux de mots, toute cette malheureuse dépense d’esprit pour n’avoir pas le sens commun fut foudroyée d’un seul coup. Un comédien corrigea la cour et la ville, et fit voir que c’est le bon esprit qui enseigne le bon ton, que ceux qu’on appelle les gens du monde croient posséder exclusivement. Il fallut convenir que Molière avait raison ; et, quand il montra le miroir, il fit rougir ceux qui s’y regardaient. Tout ce qu’il avait censuré disparut bientôt, excepté les jeux de mots, sorte d’esprit trop commode pour que ceux qui n’en ont pas d’autre puissent se résoudre à y renoncer.</p>
+
+<p>Quand on lit ce passage de Molière : « La belle chose de faire entrer aux conversations du Louvre de vieilles équivoques ramassées parmi les boues des halles et de la place Flaubert ! La jolie façon de plaisanter pour les courtisans ! et qu’un homme montre d’esprit lorsqu’il vient vous dire : <i>Madame, vous êtes dans la place Royale, et tout le monde vous voit de trois lieues de Paris, car chacun vous voit de bon œil</i>, à cause que Bonneuil est un village a trois lieues de Paris ; cela n’est-il pas bien galant et bien spirituel ? » ne dirait-on pas que ce morceau a été écrit hier ?</p>
+
+<pagenum num="xix"/>
+
+<p>Il faut sans doute estimer le grand sens de ce vieillard qui, à la représentation des <i>Précieuses</i>, cria du milieu du parterre : <i>Courage, Molière ! voilà la bonne comédie</i>. Mais, en vérité, j’admire Ménage, qui en sortant dit à Chapelain : <i>Monsieur, nous admirions, vous et moi, toutes les sottises qui viennent d’être si finement et si justement critiquées</i>. Le mot de l’homme du parterre n’était que le suffrage de la raison ; l’autre était le sacrifice de l’amour-propre et le plus grand triomphe de la vérité.</p>
+
+<p>L’<i>École des Maris</i> fut le premier pas qu’il fit dans la science de l’intrigue. C’est une pièce parfaitement intriguée, où le jaloux est dupé sans être un sot, où la finesse réussit parce qu’elle ressemble à la bonne foi, et où celui qu’on trompe n’est jamais plus heureux que lorsqu’il est trompé. Boccace et d’Ouville en ont fourni les situations principales ; mais ce qu’on emprunte d’un conte diminue seulement le mérite de l’invention sans ôter rien au mérite de l’ensemble dramatique, dont la difficulté est sans comparaison plus grande. De plus, il y a ici, ce qui alors n’était pas plus connu, de la morale et des caractères.</p>
+
+<p>L’<i>École des Femmes</i> n’est pas moins instructive : la conduite n’en est pas si régulière, mais le comique en est plus fort.</p>
+
+<h3>V</h3>
+
+<p>Le <i>Mariage forcé</i>, comédie-ballet en un acte, était encore un de ces intermèdes bouffons qui faisaient partie des spectacles de la cour. On l’appela le <i>Ballet du Roi</i>, parce que Louis XIV y dansa. Le principal rôle est un Sgnanarelle, nom qui désignait, dans les anciennes farces, un personnage imbécile ou grotesque. Il n’y a aucune intrigue dans la pièce ; mais, accoutumé à placer partout la critique des mœurs, Molière se moque ici du verbiage scientifique que les pédants de l’école avaient conservé, quoiqu’il fût passé de mode partout ailleurs ; et il joue dans les deux docteurs, Pancrace et Marphurius, la manie de philosopher hors de propos, la morgue de la science, et la sottise du phyrrhonisme. La fureur de Pancrace à propos de la <i>forme du chapeau</i> n’était point un tableau chargé, dans un temps où l’on rendait encore des arrêts en faveur d’Aristote ; et, quand Sganarelle donne des coups de bâton au pyrrhonien Marphurius, en lui représentant que, selon sa doctrine, il ne doit pas être sûr que ce soient des coups de bâton, il se sert d’un argument proportionné à la folie de cette doctrine.</p>
+
+<p>C’est malgré lui que Molière fit le <i>Festin de Pierre</i>. Ce vieux <pagenum num="xx"/>canevas était originaire d’Espagne, où il avait fait une grande fortune ; et il était bien juste qu’un peuple qui voyait avec édification la Vierge et les diables danser ensemble, et les sept sacrements en ballets, vît avec une sainte terreur marcher une statue sur la scène, et l’enfer s’ouvrir pour engloutir un athée. Mais, comme le peuple est partout le même, ce sujet n’eut pas moins de succès à Paris, sur le théâtre d’Arlequin. Toutes les troupes comiques (il y en avait alors quatre à Paris) voulurent avoir et eurent en effet leur <i>Festin de Pierre, </i>comme celle des Italiens ; car il faut remarquer que ce sont toujours les ouvrages faits pour la multitude qui ont de ces prodigieux succès de mode, attachés à un nom qui suffit pour attirer la foule à tous les théâtres. Il n’y eut qu’un <i>Misanthrope</i> et qu’un <i>Tartufe</i>, mais il y eut dans l’espace de peu d’années cinq <i>Festin de Pierre</i>. Molière, pour contenter sa troupe, fut obligé d’en faire un ; mais ce fut le seul qui ne réussit pas. Ce n’est pas qu’il ne valût beaucoup mieux que tous les autres, mais il était en prose ; et c’était alors une nouveauté sans exemple. On n’imaginait pas qu’une comédie pût n’être pas en vers, et la pièce tomba. Ce ne fut qu’après la mort de Molière que Thomas Corneille versifia le <i>Festin de Pierre</i>, en suivant, à peu de chose près, le plan et le dialogue de la pièce en prose. Il réussit, et c’est le seul que l’on joue encore<noteref noteid="note.xx.1"/>. La scène de M. Dimanche est comique, et le morceau sur l’hypocrisie annonçait, dans l’auteur original, l’homme qui devait bientôt faire le <i>Tartufe</i>.</p>
+
+<notes>
+  <note id="note.xx.1">
+    <p>On a repris de nos jours la pièce en prose telle qu’elle a été écrite par Molière (F. L.)</p>
+  </note>
+</notes>
+
+<p>L’<i>Amour médecin</i> est la première scène où Molière ait déclaré la guerre à la Faculté, et cette guerre dura jusqu’à la fin de sa vie ; car son dernier ouvragé, le <i>Malade imaginaire, </i>fut encore fait contre les médecins. Comme, malgré l’utilité réelle de la médecine et le mérite supérieur de plusieurs de ceux qui l’ont cultivée, il n’y a point de science qui soit plus susceptible de tous les genres de charlatanisme, puisqu’elle domine sur les hommes par le premier de tous les intérêts, l’amour de la vie et la crainte de la mort, c’est un objet qui ne devait point échapper à un poète comique. D’ailleurs, le pédantisme, qui, chez les médecins du dernier siècle, était l’enseigne de la science, prêtait beaucoup au ridicule ; et l’on sait combien Molière en a tiré parti. Ce ridicule a disparu, parce qu’il ne tenait qu’aux formes extérieures ; mais l’esprit de corps, qui ne change point, et tous les préjugés, tous les <pagenum num="xxi"/>travers qui en résultent, ont fourni au poète observateur une foule de mots heureux, devenus proverbes, et qu’on cite d’autant plus volontiers, qu’ils sont encore aujourd’hui tout aussi vrais que de son temps. C’est aussi dans cette pièce qu’il a caractérisé les <i>donneurs d’avis</i> par une scène charmante, dont tout l’esprit est dans ce mot si connu : <i>Monsieur Josse, vous êtes orfèvre</i>. On assure que l’<i>Amour médecin</i>, qui a trois actes, fut fait et appris en cinq jours. Ce n’était pas assez pour cela d’être Molière : il fallait aussi être chef de troupe.</p>
+
+<h3>VI</h3>
+
+<h3><s>LE MISANTHROPE</s></h3>
+
+<p>Autant Molière avait été jusque-là au-dessus de tous ses rivaux, autant il fut au-dessus de lui-même dans le <i>Misanthrope</i>. Emprunter à la morale une des plus grandes leçons qu’elle puisse donner aux hommes ; leur démontrer cette vérité qu’avaient méconnue les plus fameux philosophes anciens, que la sagesse même et la vertu ont besoin d’une mesure, sans laquelle elles deviennent inutiles, ou même nuisibles ; rendre cette leçon comique sans compromettre le respect dû à l’homme honnête et vertueux, c’était là sans doute le triomphe d’un poète philosophe, et la comédie ancienne et moderne n’offrait aucun exemple d’une si haute conception. Aussi arriva-t-il d’abord à Molière ce que nous avons vu arriver à Racine : les spectateurs ne purent pas l’atteindre ; il avait franchi de trop loin là sphère des idées vulgaires. Le <i>Misanthrope</i> fut abandonné, parce qu’on ne l’entendit pas. On était encore trop accoutumé au gros rire : il fallut retirer la pièce à la quatrième représentation. Ces méprises si fréquentes nous font rougir, et ne nous corrigent pas de la précipitation de nos jugements. Ce n’est pas que l’exemple du <i>Misanthrope</i> et d’<i>Athalie</i> puisse se renouveler aisément : ce sont des chefs-d’œuvre d’un ordre trop supérieur ; mais on peut assurer que, dans tous les temps, des ouvrages d’un très grand mérite, confondus d’abord dans l’opinion et dans l’égalité du succès avec les productions les plus médiocres, n’arrivent à leur place qu’après bien des années, et que la jalousie, qui est dans le secret, a le plaisir de les voir longtemps dans la foule avant que la voix publique les ait vengés d’une concurrence indigne et proclamés dans le rang qui leur est dû.</p>
+
+<pagenum num="xxii"/>
+
+<p>Molière se conduisit en homme habile : il sentit que le <i>Misanthrope</i> n’avait besoin que d’être entendu ; et, puisque cette pièce ne pouvait par elle-même attirer le public, il trouva le moyen de l’y faire revenir en le servant selon son goût. Il donna la farce du <i>Fagotier ;</i> et, à la faveur de <i>Sganarelle</i>, on eut la complaisance d’écouter le <i>Misanthrope</i>, dont le succès alla toujours en croissant, à mesure que les spectateurs, en s’instruisant, devenaient plus dignes de l’ouvrage.</p>
+
+<h3>VII</h3>
+
+<h3><s>DES FARCES DE MOLIÈRE. — D’AMPHITRYON, DE L’AVARE, DES FEMMES SAVANTES</s></h3>
+
+<p>La <i>Comtesse d’Escarbagnas</i>, le <i>Médecin malgré lui</i>, les <i>Fourberies de Scapin</i>, <i>Monsieur de Pourceaugnac</i>, sont dans ce genre de bas comique qui a donné lieu au reproche que le sévère Despréaux fait à Molière, d’avoir <i>allié Tabarin à Térence</i>.</p>
+
+<p>J’avoue que je ne saurais me résoudre à ranger le <i>Bourgeois gentilhomme</i> dans le rang de ces farces, si amusantes d’ailleurs, dont je viens de parler. J’abandonne volontiers les deux derniers actes : je conviens que, pour ridiculiser dans M. Jourdain cette prétention, si commune à la richesse roturière, de figurer avec la noblesse, il n’était pas nécessaire de le faire assez imbécile pour donner sa fille au fils du Grand Turc, et devenir mamamouchi : ce spectacle grotesque est évidemment amené pour remplir la durée de la représentation ordinaire de deux pièces, et divertir la multitude, que ces sortes de mascarades amusent toujours.</p>
+
+<p>Mais les trois premiers actes sont d’un très bon comique : sans doute celui du <i>Misanthrope</i> et du <i>Tartufe</i> est beaucoup plus profond ; mais il n’y en a pas un plus vrai ni plus gai que le personnage de M. Jourdain. Tout ce qui est autour de lui le fait ressortir : sa femme, sa servante Nicole : ses maîtres de danse, de musique, d’armes et de philosophie ; le grand seigneur, son ami, son confident et son débiteur, la dame de qualité dont il est amoureux, le jeune homme qui aime sa fille, et qui ne peut l’obtenir de lui parce qu’il n’est pas gentilhomme ; tout sert à mettre en jeu la sottise de ce pauvre bourgeois, qui est presque parvenu à se persuader qu’il est noble, ou du moins à croire qu’il a fait oublier sa naissance ; <pagenum num="xxiii"/>si bien que, quand sa femme lui dit : <i>Descendons-nous tous deux que de bonne bourgeoisie ?</i> M. Jourdain dit naïvement : <i>Ne voilà pas le coup de langue ?</i> Il faut être M. Jourdain pour se plaindre d’un <i>coup de langue</i> quand on lui rappelle qu’il est le fils de son père.</p>
+
+<p>Mais, d’ailleurs, sous combien de faces diverses Molière a multiplié ce ridicule si commun et fait voir tout ce qu’il coûte ! On lui emprunte son argent pour parler de lui <i>dans la chambre du roi ;</i> on prend sa maison pour régaler à ses dépens la maîtresse d’un autre ; et tout le monde, femme, servante, valets, étrangers, se moquent de lui. Mais Molière a su tirer encore des autres personnages un comique inépuisable : l’humeur brusque et chagrine de madame Jourdain ; la gaieté franche de Nicole ; la querelle des maîtres sur la prééminence de leur art ; les préceptes de modération débités par le philosophe, qui, un moment après se met en fureur, et se bat en l’honneur et gloire de la philosophie ; la leçon de M. Jourdain, à jamais fameuse par cette découverte qui ne sera point oubliée, que depuis quarante ans <i>il faisait de la prose sans le savoir ;</i> la futilité de la scolastique si finement raillée ; le repas donné à Dorimène par M. Jourdain, sous le nom du courtisan Dorante ; la galanterie niaise du bourgeois, et le sang-froid cruel de l’homme de cour qui l’immole à la risée de Dorimène, tout en lui empruntant sa maison, sa table et sa bourse ; la brouillerie des deux jeunes amants et de leurs valets, sujet traité si souvent par Molière, et avec une perfection toujours la même et toujours différente : tous ces morceaux sont du grand peintre de l’homme, et nullement du farceur populaire.</p>
+
+<p>C’est là sans doute le mérite qui avait frappé Louis XIV lorsqu’on représenta devant lui le <i>Bourgeois gentilhomme</i>, que la cour ne goûta pas, apparemment à cause de la mascarade des derniers actes. Le roi, dont l’esprit juste avait senti tout ce que valaient les premiers, dit à Molière, qui était un peu consterné : <i>Vous ne m’avez jamais tant fait rire</i>. Et aussitôt la cour et la ville furent de l’avis du monarque.</p>
+
+<p>Je suis forcé de convenir que Rousseau a raison sur <i>George Dandin</i>, dont il trouve le sujet immoral. Ce n’est pas que, sous le point de vue le plus général et le plus frappant, la pièce ne soit utilement instructive, puisqu’elle enseigne à ne point s’allier à plus grand que soi, si l’on ne veut être dominé et humilié ; mais aussi l’on ne peut nier qu’une femme qui trompe son mari le jour et la nuit, et qui trouve le moyen <pagenum num="xxiv"/>d’avoir raison en donnant des rendez-vous à son amant, ne soit d’un mauvais exemple au théâtre ; et il peut être plus dangereux de ne voir dans la mauvaise conduite de la femme que des tours plaisants qu’il n’est utile de voir dans <i>George Dandin</i> la victime d’une vanité imprudente. Au reste, M. et. M<sup>me</sup> de Sotenville sont du nombre de ces originaux qui venaient souvent se placer sous les pinceaux de Molière, et qui dans ses moindres compositions font retrouver si souvent la main du maître.</p>
+
+<p><i>Amphitryon</i>, dont le sujet est pris dans un merveilleux mythologique et des transformations hors de nature, ne peut par conséquent blesser la morale, puisqu’il est hors de l’ordre naturel ; mais il blesse un peu la décence, puisqu’il met l’adultère sur la scène, non pas, à la vérité, en intention, mais en action. On a toléré ce qu’il y a d’un peu licencieux dans ce sujet, parce qu’il était donné par la Fable et reçu sur les théâtres anciens ; et on a pardonné ce que les métamorphoses de Jupiter et de Mercure ont d’invraisemblable, parce qu’il n’y a point de pièce où l’auteur ait eu plus le droit de dire au spectateur : Passez-moi un fait que vous ne pouvez pas croire, et je vous promets de vous divertir. Peu d’ouvrages sont aussi réjouissants qu’<i>Amphitryon</i>. On a remarqué, il y a longtemps, que les méprises sont une des sources de comique les plus fécondes ; et, comme il n’y a point de méprise plus forte que celle que peut faire naître un personnage qui paraît double, aucune comédie ne doit faire rire plus que celle-ci : mais, comme le moyen est forcé, le mérite ne serait pas grand si l’exécution n’était pas parfaite.</p>
+
+<p>Je ne sais pourquoi Despréaux, si l’on en croit le <i>Bolœna</i>, jugeait si sévèrement <i>Amphitryon</i> et semblait même préférer celui de Plaute. Il blâme la distinction, un peu longue, il est vrai, et même un peu subtile, de l’amant et de l’époux, dans les scènes d’Alcmène et de Jupiter : c’est un défaut qui n’est pas dans Plaute ; mais ce défaut tient à beaucoup de différents mérites que Plaute n’a pas non plus. En effet, il fallait une scène d’amour à la première entrevue de Jupiter et d’Alcmène, qui devait nécessairement être un peu froide, comme toute scène entre deux amants également satisfaits ; mais celle-ci amène la querelle entre Alcmène et Amphitryon, querelle qui produit la réconciliation entre Jupiter sous la forme du mari, et la femme qui le croit tel réellement ; et cette réconciliation, qui par elle-même n’est pas sans intérêt, en répand beaucoup sur le rôle d’Alcmène, qui, par la vivacité <pagenum num="xxv"/>de sa douleur et de ses sentiments, nous montre combien elle est sincèrement attachée à son époux. Cet aperçu n’était rien moins qu’indifférent dans le plan de la pièce ; il était même très important que la pureté des sentiments d’Alcmène et sa sensibilité vraie rachetassent et couvrissent ce qu’il y a d’involontairement déréglé dans ses actions : rien n’était plus propre à sauver l’immoralité du sujet. Plaute est peut-être excusable de n’y avoir pas même songé sur un théâtre beaucoup plus libre que le nôtre ; mais il faut savoir gré à Molière d’en être venu à bout, par une combinaison dont personne ne lui avait fourni l’idée, et que personne, ce me semble, n’avait encore observée.</p>
+
+<p>Molière a bien d’autres avantages sur Plaute. En établissant la mésintelligence d’un mauvais ménage entre Sosie et Cléanthis, il donne un résultat tout différent à l’aventure du maître et du valet, et double ainsi la situation principale en la variant. Il donne à Cléanthis, un caractère particulier, celui de ces épouses qui s’imaginent avoir le droit d’être insupportables, parce qu’elles sont honnêtes femmes. Il porte bien plus loin que Plaute le comique de détails qui naît de l’identité des personnages. Enfin, ne pouvant, par la nature extraordinaire. du sujet, y mettre autant de vérité caractéristique et d’idées morales que dans d’autres pièces, il a semé plus que partout ailleurs les traits ingénieux, l’agrément et les jolis vers. Il a surtout tiré un grand parti du mètre et du mélange des rimes ; et, par la manière dont il s’en est servi, il a justifié cette innovation, et prouvé qu’il entendait très bien ce genre de versification, que l’on croit aisé, et dont les connaisseurs savent la difficulté, le mérite et les effets.</p>
+
+<p>L’<i>Avare</i> est une des pièces de Molière où il y a le plus d’intentions et d’effets comiques. Le principal caractère est bien plus fort que dans Plaute, et il n’y a nulle comparaison pour l’intrigue. Le seul défaut de celle de Molière est de finir par un roman postiche, tout semblable à celui qui termine si mal l’<i>École des Femmes ;</i> et il est reconnu que ces dénoûments sont la partie faible de l’auteur. Mais, à cette faute près, quoi de mieux conçu que <i>l’Avare ?</i> L’amour même ne le rend pas libéral, et la flatterie la mieux adaptée à un vieillard amoureux n’en peut rien arracher. Quelle leçon plus humiliante pour lui, et plus instructive pour tout le monde, que le moment où il se rencontre, faisant le métier du plus vil usurier, vis-à-vis de son fils, qui fait celui d’un jeune homme à qui l’avarice de ses parents refuse l’honnête nécessaire ? Tel est <pagenum num="xxvi"/>le faux calcul des passions : on croit épargner sur des dépenses indispensables, et l’on est contraint tôt ou tard de payer des dettes usuraires. Molière d’ailleurs n’a rien oublié pour faire détester cette malheureuse passion, la plus vile de toutes et la moins excusable. Son avare est haï et méprisé de tout ce qui l’entoure : il est odieux à ses enfants, à ses domestiques, à ses voisins et l’on est forcé d’avouer que rien n’est plus juste. Rousseau fait un reproche très sérieux à Molière de ce que le fils d’Harpagon se moque de lui quand son père lui dit : <i>Je te donne ma malédiction</i>. La réponse du fils : <i>Je n’ai que faire de vos dons</i>, lui paraît scandaleuse. Il prétend que c’est nous apprendre à mépriser la malédiction paternelle. Mais voyons les choses telles qu’elles sont. La malédiction paternelle est sans doute d’un grand poids, lorsque, arrachée à une juste indignation, elle tombe sur un fils coupable qui a offensé la nature, et que la nature condamne. Mais, en vérité, le fils d’Harpagon n’a offensé personne en avouant qu’il est amoureux de Marianne quand son père offre de la lui donner ; et, s’il persiste à dire qu’il l’aimera toujours quand Harpagon convient que ses offres n’étaient qu’un artifice pour avoir le secret de son fils et veut exiger qu’il y renonce, sa résistance n’est-elle pas la chose du monde la plus naturelle et la plus excusable ? La malédiction d’Harpagon est-elle même bien sérieuse ? Est-ce autre chose, dans cette occasion, qu’un trait d’humeur d’un vieillard jaloux et contrarié ? Le fils a-t-il tort de n’y mettre pas plus d’importance que son père n’en met lui-même ? La malédiction, dans la bouche d’Harpagon, n’est qu’une façon de parler, et Rousseau nous la présente comme un acte solennel : c’est ainsi qu’on parvient à confondre tous les faits et toutes les idées.</p>
+
+<p>La scène où maître Jacques le cuisinier donne le menu d’un repas à son maître, qui veut l’étrangler dès qu’il en est au rôti, et où maître Jacques le cocher s’attendrit sur les jeûnes de ses chevaux ; celle où Valère et Harpagon se parlent sans jamais s’entendre, l’une ne songeant qu’aux beaux yeux de son Élise, et l’autre ne concevant rien aux <i>beaux yeux de sa cassette ;</i> celle qui contient l’inventaire des effets vraiment curieux qu’Harpagon veut faire prendre pour de l’argent comptant, et bien d’autres encore, sont d’un comique divertissant, dont il faut assaisonner le comique moral.</p>
+
+<p>Le sujet des <i>Femmes savantes</i> paraissait bien peu susceptible de l’un et de l’autre. Il était difficile de remplir cinq actes avec un ridicule aussi mince et aussi facile à épuiser que <pagenum num="xxvii"/>celui de la prétention au bel esprit. Molière, qui l’avait déjà attaqué dans les <i>Précieuses</i>, l’acheva dans les <i>Femmes savantes</i>. Mais on fut d’abord si prévenu contre la sécheresse du sujet, et si persuadé que l’auteur avait tort de s’obstiner à en tirer une pièce en cinq actes, que cette prévention, qui aurait dû ajouter à la surprise et à l’admiration, s’y refusa d’abord, et balança le plaisir que faisait l’ouvrage et le succès qu’il devait avoir. L’histoire du <i>Misanthrope</i> se renouvela pour un autre chef-d’œuvre et ce fut encore le temps qui fit justice. On s’aperçut de toutes les ressources que Molière avait tirées de son génie pour enrichir l’indigence de son sujet.</p>
+
+<h3>VIII</h3>
+<h3><s>LE TARTUFE</s></h3>
+
+<p>Le <i>Tartufe</i> est le pas le plus hardi et le plus étonnant qu’ait jamais fait l’art de la comédie : cette pièce en est le <i>nec plus ultra ;</i> en aucun temps, dans aucun pays, il n’a été aussi loin. Il ne fallait rien moins que le <i>Tartufe</i> pour l’emporter sur le <i>Misanthrope ;</i> et, pour les faire tous les deux, il fallait être Molière. Je laisse de côté les obstacles qu’il eut à surmonter pour la représentation, et dont peut-être il n’eût jamais triomphé, s’il n’avait eu affaire à un prince tel que Louis XIV, et, de plus, s’il n’avait eu le bonheur d’en être particulièrement aimé ; je ne m’arrête qu’aux difficultés du sujet. Que l’on propose à un poète comique, à un auteur de beaucoup talent, un plan tel que celui-ci : Un homme dans la plus profonde misère vient à bout, par un extérieur de piété, de séduire un homme honnête, bon et crédule, au point que celui-ci loge et nourrit chez lui le prétendu dévot, lui offre sa fille en mariage, et lui fait, par un acte légal, donation entière de sa fortune. Quelle en est la récompense ? le dévot commence par vouloir corrompre la femme de son bienfaiteur, et n’en pouvant venir à bout, il se sert de l’acte de donation pour le chasser juridiquement de chez lui, et abuse d’un dépôt qui lui a été confié pour faire arrêter et conduire en prison celui qui l’a comblé de bienfaits. — J’entends le poète se récrier : Quelle horreur ! on ne supportera jamais sur le théâtre le spectacle de tant d’atrocités, et un pareil monstre n’est pas justiciable de la comédie. Voilà sans doute ce qu’on eût dit du temps de Molière, et ce que diraient encore ceux qui ne font <pagenum num="xxviii"/>que des comédies ; car d’ailleurs ce sujet, tel que je viens de l’exposer, pourrait frapper les faiseurs de drames, et, en le chargeant de couleurs bien noires, ils ne désespéreraient pas d’en venir à bout. Molière seul, <i>qui n’alla pas jusqu’au drame, </i>comme l’a dit très sérieusement le très sérieux M. Mercier, s’avance et dit : C’est moi qui ai imaginé ce sujet qui vous fait trembler ; et, quand vous en verrez l’exécution, il vous fera rire, et ce sera une comédie. On ne le croirait pas, s’il ne l’eût pas fait ; car, à coup sûr, sans lui il serait encore à faire.</p>
+
+<p>Molière, qui croyait que la comédie pouvait attaquer les vices les plus odieux, pourvu qu’ils eussent un côté comique, n’eut besoin que d’une seule idée pour venir à bout du <i>Tartufe</i>. Il est vrai qu’elle est étendue et profonde, et son ouvrage seul pouvait nous la révéler. — L’hypocrisie, telle que je la veux peindre, est vile et abominable ; mais elle porte un masque, et tout masque est susceptible de faire rire. Le ridicule du masque couvrira sans cesse l’odieux du personnage : je placerai l’un dans l’ombre, et l’autre en saillie ; et l’un passera à la faveur de l’autre. Ce n’est pas tout : je renforcerai mes pinceaux pour couvrir de comique les scènes où je montrerai mon Tartufe ; je rendrai la crédulité de la dupe encore plus risible que l’hypocrisie de l’imposteur ; Orgon, trompé seul quand tout s’unit pour le détromper, en sera si impatientant, qu’on désirera de le voir amené à la conviction par tous les moyens possibles ; et ensuite je mettrai l’innocence et la bonne foi dans un si grand danger, qu’on me pardonnera de les en tirer par un ressort aussi extraordinaire que tout le reste de mon ouvrage.</p>
+
+<p>C’est l’histoire du <i>Tartufe</i>. Jamais Molière n’a déployé autant de force ; jamais son comique ne fut plus profond dans les vues, plus vif dans les effets ; jamais il ne conçut avec plus de verve et n’écrivit avec plus de soin...</p>
+
+<h3>IX</h3>
+
+<p>Molière est surtout l’auteur des hommes mûrs et des vieillards : leur expérience se rencontre avec ses observations, et leur mémoire avec son génie. Il observait beaucoup : il y était porté par son caractère, et c’est sans doute le premier secret de son art ; mais il faudrait avoir ses yeux pour observer comme lui. Il était habituellement mélancolique, cet homme qui a écrit si gaiement. Ceux dont il saisissait les travers et les faiblesses étaient souvent bien plus heureux <pagenum num="xxix"/>que lui : j’en excepterais les jaloux, s’il ne l’avait pas été lui-même.</p>
+
+<p>Molière jaloux ! lui qui s’est tant moqué de la jalousie ! Eh ! oui, comme les médecins qui recommandent la sobriété, et qui ont des indigestions ; comme les hommes sensibles qui prêchent l’indifférence, Chapelle prêchait aussi Molière et lui reprochait sa jalousie : <i>Vous n’avez donc pas aimé ?</i> lui dit l’homme infortuné qui aimait. Il aima sa femme toute sa vie, et toute sa vie elle fit son malheur. Il est vrai que, lorsqu’il fut mort, elle parvint à lui obtenir la sépulture ; elle demandait même pour lui des <i>autels</i>. Cela fait souvenir des Romains, qui mettaient leurs empereurs au rang des dieux quand ils les avaient égorgés.</p>
+
+<p>Il fit plus de trente pièces de théâtre en moins de quinze ans, et pas une ne ressemble à l’autre. Il était cependant à la fois auteur, acteur et directeur de comédie.</p>
+
+<p>Il était d’un caractère doux et de mœurs pures ; on raconte de lui des traits de bonté. Il était adoré de ses camarades, quoiqu’il leur fît du bien ; et il mourut presque sur le théâtre, pour n’avoir pas voulu leur faire perdre le profit d’une représentation. Il écoutait volontiers les avis, quoique probablement il ne fît pas grand cas de ceux de sa servante. Il encourageait les talents naissants. Le grand Racine, alors à son aurore, lui lut une tragédie : Molière ne la trouva pas bonne, et elle ne l’était pas ; mais il exhorta l’auteur à en faire une autre, et lui fit un présent. C’était mieux voir que Corneille, qui exhorta Racine à faire des comédies et à quitter la tragédie.</p>
+
+<p>Molière n’était point envieux : quelques grands hommes l’ont été. Ce fut son suffrage qui contribua, autant que celui de Louis XIV, à ramener le public aux <i>Plaideurs</i>, qui étaient tombés. Il était alors brouillé avec Racine : ce moment dut être bien doux à Molière.</p>
+
+<p>On s’occupait, quelque temps avant sa mort, à lui faire quitter l’état de comédien, pour le faire entrer à l’Académie française. Cette compagnie, qui n’a jamais éloigné volontairement aucun talent supérieur, a du moins adopté Molière, dès qu’elle l’a pu, par l’hommage le plus éclatant. Elle lui a décerné un éloge public, et a placé son buste chez elle, avec cette inscription également honorable pour nous et pour lui :</p>
+
+<blockquote class="smaller c">
+<l>Rien ne manque à sa gloire ; il manquait à la nôtre<noteref noteid="note.xxix.1"/>.</l>
+</blockquote>
+
+
+<notes>
+  <note id="note.xxix.1">
+    <p>Les notes qui accompagnent, dans notre édition, chacune des pièces de Molière complètent et rectifient parfois le jugement de la Harpe. (F. L.)</p>
+  </note>
+</notes>
+
+</page-sequence>
+</page-sequences>
+</bml>

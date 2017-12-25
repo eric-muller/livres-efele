@@ -1,0 +1,2531 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb309702138">
+
+      <titre>Œuvres complètes de Montesquieu</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119166485">
+        <nom-bibliographie>Montesquieu, Charles-Louis de Secondat</nom-bibliographie>
+        <dates>1689-1755</dates>
+        <nom-couverture>Montesquieu</nom-couverture>
+      </auteur>
+      
+      <auteur role='edt' bnf="http://catalogue.bnf.fr/ark:/12148/cb12280806q">
+        <nom-bibliographie>Laboulaye, Édouard</nom-bibliographie>
+        <dates>1811-1883</dates>
+        <nom-couverture>Édouard Laboulaye</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>Garnier Frères</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1875-1879</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume id="v2">
+      <facsimile href="http://books.google.com/books?id=bgUvAAAAMAAJ"
+                 pages="n21"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000105"
+        creation="2010-11-22T00:00:01-08:00"
+        modification="2014-12-31T18:14:30-08:00">
+
+      <surtitre>Œuvres complètes</surtitre>
+      <titre>Le temple de Gnide</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00002'>
+        <titre>Œuvres complètes de Montesquieu, édition Laboulaye</titre>
+      </collection>
+
+      <merci>
+        <p>Merci à Mohamed Sebaa pour les erreurs qu’il a signalées.</p>
+      </merci>
+
+      <note>
+        <p>L’orthographe a été modernisée en remplaçant <i>oi</i> par <i>ai</i> (par example <i>étoit</i> remplacé par <i>était</i>).</p>
+
+        <p>Les notes de Montesquieu ainsi que les notes éditoriales de Laboulaye suivent immédiatement le texte, et sont numérotées 1, 2, 3,... Les variantes sont placées à la fin du volume, et son numérotées a, b, c,... Dans les deux cas, l’appel de note et le numéro de la note sont hyperliés.</p>
+      </note>
+    </electronique>
+  </metadata>
+
+  <toc/>
+
+  <cover src="images/couverture-2.png" alt=""/>
+
+<page-sequences>
+
+<div id="preface.editeur" toc="Préface de l’éditeur">
+
+<pagenum v="v2" num="1"/>
+
+<h1>PRÉFACE DE L’ÉDITEUR</h1>
+
+<vsep class="rule"/>
+
+<p>Dans ses curieux <i>Mémoires, </i>l’avocat Marais écrit ce qui suit, à la date du 10 avril 1725 :</p>
+
+<vsep class="emptyline"/>
+<p>T<s>EMPLE DE</s> G<s>NIDE</s>, 82 pages. — <i>Temple de Gnide, </i>petit livret à demi grec, où les allusions couvrent des obscénités à demi nues. Imprimé avec approbation et privilége. Il a paru pendant la semaine sainte, et il (on) en a été scandalisé. On l’attribue au président de Montesquieu, auteur des <i>Lettres persanes. </i>(Il a été depuis de l’Académie franç<oa/>ise <noteref noteid="2.1.1"/>.)</p>
+<vsep class="emptyline"/>
+
+<p>Le 5 avril, Marais avait déjà annoncé cette nouvelle à son bon ami, le président Bouhier.</p>
+
+<vsep class="emptyline"/>
+<p>« On débite un petit ouvrage de 82 pages in-12, avec approbation et privilége, qui a pour titre <i>le Temple de Gnide, </i>qu’on veut faire croire traduit du grec, et trouvé dans la bibliothèque d’un évêque grec ; mais cela sort de la tête de quelque libertin, qui a voulu envelopper des ordures sous des allégories, et qui n’y a pas mal réussi, s’il n’av<oa/>it pas voulu avoir trop d’esprit, et affecter d’autres fois une simplicité qui le fait tomber dans des pensées grossières. Si ce manuscrit s’ét<oa/>it trouvé dans la bibliothèque de Ninon, je n’en ser<oa/>is pas étonné ; mais je le suis de voir, au milieu de Paris et de la semaine sainte, un pareil ouvrage approuvé. L’addition de la fin<noteref noteid="2.1.2"/>, où l’Amour fait revenir ses ailes sur le sein de Vénus, n’est pas mal friponne ; et les femmes disent qu’elles veulent apprendre le grec, puisqu’on y trouve de si jolies cures<noteref noteid="2.1.3"/>. »</p>
+<vsep class="emptyline"/>
+
+<p>Marais, admirateur de La Fontaine et de Bayle, Marais, grand dénicheur de scandales, a-t-il été aussi choqué du <i>Temple de <pagenum v="v2" num="2"/> Gnide </i>qu’il veut bien le dire ? J’ai quelque peine à le croire, mais j’avoue qu’il fallait toute la liberté du <s>XVIII</s><sup>e</sup> siècle pour qu’un magistrat écrivît ce poëme érotique, et le fît paraître avec approbation et privilége du Roi. Il est vrai que l’œuvre ne portait pas de nom ; mais l’auteur se laissait aisément deviner. Au dernier siècle, l’anonyme n’était qu’une coquetterie de plus.</p>
+
+<note id="2.1.1" type="e"><p><i>Mémoires </i>de Marais, t. III, p. 174. On avait attribué le <i>Temple de Gnide </i>au président Hénault ; Marais, bon connaisseur, n’en veut rien croire. « On dit que le <i>Temple de Gnide </i>est de l’auteur des <i>Lettres persanes </i> ; cela peut être. D’autres disent du président Hénault ; je n’en crois rien ; il est trop franç<oa/>is pour donner un air grec à un ouvrage. » <i>Ibid., </i>t. III, p. 315.</p></note>
+
+<note id="2.1.2" type="e"><p>Ce que Marais appelle <i>l’addition de la fin </i>est le petit poëme de <i>Céphise et l’Amour, </i>publié à la suite du <i>Temple de Gnide. </i>
+</p></note>
+
+<note id="2.1.3" type="e"><p><i>Mémoires </i>de Marais, t. III, p. 312.</p></note>
+
+
+<p>Quel motif poussa Montesquieu à faire un roman, dont le mérite, dit-il, ne peut être reconnu <i>que par des têtes bien frisées et bien poudrées ? </i>Est-ce une erreur de jeunesse ? Non ; en 1725 il entrait dans sa trente-sixième année. Si l’on en croyait une note de l’abbé de Guasco<noteref noteid="2.2.1"/>, Montesquieu lui aurait dit que « c’ét<oa/>it une idée à laquelle M<sup>lle</sup> de Clermont, princesse du sang, qu’il av<oa/>it l’honneur de fréquenter, av<oa/>it donné occasion, <i>sans autre but que de faire une peinture poétique de la volupté. </i>» A ce compte, la maligne M<sup>me</sup> Du Deffand avait doublement raison quand elle appelait ce petit poëme l’<i>apocalypse de la galanterie. </i>Mais aujourd’hui on est moins crédule que l’excellent abbé de Guasco ; on se demande si Montesquieu lui a tout dit quand, en 1762, à dix-sept ans de distance, il lui a confié le secret du <i>Temple de Gnide. </i>Une phrase de Montesquieu, conservée dans ses <i>Pensées : </i>« A l’âge de trente-cinq ans j’aim<oa/>is encore ; » le respect avec lequel le chantre de Gnide parle de Thémire, ces allégories qui ont l’air d’allusions perpétuelles, tout fait soupçonner un mystère qu’on laisse le soin d’éclaircir à ces curieux sans pitié, pour qui un livre est toujours une confession.</p>
+
+<p>L’ouvrage fut accueilli avec faveur. Je ne dirai point avec d’Alembert que « M. de Montesquieu, après avoir été, dans les <i>Lettres persanes, </i>Horace, Théophraste et Lucien, fut Ovide et Anacréon dans le <i>Temple de Gnide </i><noteref noteid="2.2.2"/>. » De pareils éloges sont ridicules ; mais je ne partage pas la mauvaise humeur de Sainte-Beuve, qui déclare que le <i>Temple de Gnide </i>est une erreur de goût et une méprise de talent<noteref noteid="2.2.3"/>. Il y trouve de la r<oa/>ideur et point de grâce. C’est trop de sévérité. Assurément ce petit poëme ne tient pas une grande place dans notre littérature.<pagenum v="v2" num="3"/> Si Montesquieu ne l’avait pas publié, sa gloire n’en serait point amoindrie ; mais peut-être aurions-nous une vue moins nette de cet esprit original.</p>
+
+<note id="2.2.1" type="e"><p><i>Lettre à l’abbé de Guasco. De Paris, </i>1742.</p></note>
+
+<note id="2.2.2" type="e"><p>D’Alembert, <i>Éloge de Montesquieu. </i></p></note>
+
+<note id="2.2.3" type="e"><p><i>Causeries du lundi</i>, t. VII, p. 45.</p></note>
+
+
+<p>Pour juger un livre, il faut se mettre au point de vue de l’auteur et en devenir en quelque sorte le contemporain. Montesquieu est amoureux de la Grèce et de Rome, mais cette antiquité qui l’enchante, il ne la voit qu’au travers des traductions et des imitations. « L’ouvrage divin de ce siècle, <i>Télémaque, </i>dans lequel Homère semble respirer, est une preuve sans réplique de l’excellence de cet ancien poëte. Pope seul a senti la grandeur d’Homère<noteref noteid="2.3.1"/>. »</p>
+
+<p>Quand on prend <i>Télémaque </i>pour un ouvrage <i>divin, </i>et Pope pour un fidèle traducteur d’Homère, quand on s’abreuve au ruisseau au lieu de remonter à la source, il est naturel d’imiter ce qu’on admire. Le <i>Temple de Gnide </i>est la copie d’une copie ; la belle nymphe Eucharis est le modèle de Thémire, la charmante bergère ; mais il faut avouer que Montesquieu, qui a heureusement imité <i>Télémaque </i>dans l’épisode des Troglodytes, n’est ici qu’un écho bien affaibli. Nourri de la plus pure antiquité, Fénelon, dans sa prose ondoyante, nous rend quelque chose de la grâce et de la simplicité d’Homère ; il n’en est pas de même du langage saccadé, des phrases concises, des expressions abstraites de Montesquieu. Quand il nous dit : « La jalousie est une passion qu’on peut avoir, mais qu’on doit taire. — Le cœur fixe toujours lui-même le moment où il doit se rendre ; mais c’est une profanation de se rendre sans aimer. — A Sybaris les femmes se livrent au lieu de se rendre... les faveurs n’y ont que leur réalité propre ; » est-ce Homère, est-ce même Fénelon qu’on entend ? Non, c’est un La Rochefoucauld. Rien n’est moins antique que l’analyse et l’ironie.</p>
+
+<p>Cette critique faite, il faut reconnaître que le <i>Temple de Gnide </i>offre un intérêt particulier. Il marque dans notre histoire littéraire l’introduction de ce qu’on appelle le genre Pompadour ou le rococo. Bien avant Montesquieu, il y a eu des bergeries poétiques en prose ou en vers. Le <i>Pastor fido</i>, l’<i>Aminta</i>, la <i>Galatée</i>, la <i>Diana enamorada</i> n’ont pas seulement charmé l’Italie<pagenum v="v2" num="4"/> et l’Espagne, elles ont donné le ton à toute l’Europe ; Shakespeare s’en est inspiré. Aujourd’hui on poursuit la réalité, on n’admire que des bergères aussi crottées que leurs moutons ; il est tout simple qu’on trouve insipides et fanées ces peintures d’un autre temps. Mais pour qui voit dans l’art une façon d’exprimer l’idéal et de donner un corps aux rêves de l’imagination, cette littérature de convention ne manque pas d’un certain attrait. Elle est sans doute bien inférieure à ce sentiment de la nature qui fait d’Homère et de Dante des poëtes immortels ; mais il ne faut pas lui refuser tout mérite, ni croire que nos aïeux aient été des gens sans goût parce qu’ils aimaient un genre de poésie que nous ne comprenons plus. Au <s>XVI</s><sup>e</sup> siècle, la pastorale les reposait du bruit des armes ; elle leur donnait l’oubli de la dure réalité au milieu de laquelle ils vivaient. Au <s>XVIII</s><sup>e</sup> siècle, l’idylle s’est affadie ; la poésie ressemble à l’art qui n’aime plus que des contours arrondis et des formes amollies ; il est bon de la blâmer, mais on n’en peut méconnaître ni l’élégance, ni la recherche. C’est la littérature d’une société délicate, corrompue, sans énergie, mais avec tous ses défauts cette littérature a un charme étrange, et comme un parfum d’autant plus dangereux qu’il est plus raffiné.</p>
+
+<note id="2.3.1" type="e"><p><i>Pensées </i>de Montesquieu.</p></note>
+
+<p>Les critiques du temps, qui avaient peu de goût pour les poëmes en prose, se plaignaient que le <i>Temple de Gnide </i>ne fût point en vers. D’Alembert, qui s’entend en poésie, comme un géomètre qu’il est, s’indigne de ce reproche :</p>
+
+<vsep class="emptyline"/>
+<p>« Le style poétique, si on entend comme on le doit par ce mot un style plein de chaleur et d’images, n’a pas besoin, pour être agréable, de la marche uniforme et cadencée de la versification ; mais si on ne fait consister ce style que dans une diction chargée d’épithètes oisives, dans les peintures froides et triviales des ailes et du carquois de l’Amour, et de semblables objets, la versification n’ajoutera presque aucun mérite à ces ornements usés : on y cherchera toujours en vain l’âme et la vie<noteref noteid="2.4.1"/>. »</p>
+<vsep class="emptyline"/>
+
+<p>N’en déplaise à d’Alembert, les critiques avaient raison. Pour faire accepter ces bergers galants, ces nymphes bocagères, ces dieux, ces déesses qui n’ont jamais vécu que dans la fantaisie du poëte, il faut une autre langue que celle de la politique et du commerce ; <pagenum v="v2" num="5"/>il faut ces paroles ailées qui, en nous élevant au-dessus de la terre, nous transportent dans ces mondes imaginaires où on oublie à plaisir les misères, les ennuis, les petitesses de la vie. Un poëme en prose sera toujours une œuvre bâtarde ; l’imagination a son royaume et son langage qui n’ont rien à faire avec la réalité ; son royaume, c’est l’infini ; son langage, la poésie.</p>
+
+
+<note id="2.4.1" type="e"><p>D’Alembert, <i>Éloge de Montesquieu.</i></p></note>
+
+<p>Le <i>Temple de Gnide </i>a tenté plus d’un poëte. Du vivant même de l’auteur, un Anglais, le docteur Clansy, en traduisit le premier chant en vers latins. L’abbé Venuti, vicaire général de l’abbaye de Clérac, grand ami du président et grand versificateur, en fit une traduction italienne vers 1750<noteref noteid="2.5.1"/>. Plus tard, en 1768, un M. Vespasiano en donna une nouvelle version italienne, qui fut publiée à Paris, chez Prault, l’éditeur de Montesquieu. Enfin, suivant une note de M. Ravenel<noteref noteid="2.5.2"/>, la bibliothèque de la ville de Paris possédait une traduction en vers italiens du même ouvrage, manuscrit autographe du traducteur Marc-Antoine Cardinali. La mollesse de la langue italienne convenait mieux à un sujet pareil que le style de Montesquieu, style précis jusqu’à la sécheresse, même quand l’auteur plaisante ou sourit.</p>
+
+<p>En France, deux poëtes de la fin du <s>XVIII</s><sup>e</sup> siècle, Léonard et Colardeau, entreprirent presque en même temps de mettre en vers le <i>Temple de Gnide</i>. Ce n’est pas une médiocre preuve de la faveur qu’avait conservée cette œuvre légère. Il y avait cinquante ans qu’on avait publié la première édition du poëme et il n’avait rien perdu de sa popularité. Ceci me ramène à ce que j’ai dit plus haut. Pour se plaire aux imitations de Léonard et de Colardeau, il fallait que nos pères trouvassent dans l’original et dans la copie le sentiment de l’antiquité, telle qu’on la comprenait alors, et telle que nous la représentent les héros de théâtre dans leur costume, qui n’est ni grec ni romain, mais qui par cela même est bien du <s>XVIII</s><sup>e</sup> siècle. Aujourd’hui, nous nous croyons plus habiles en donnant à Phèdre ou à Zaïre le costume du temps où vivait l’héroïne ; nous n’avons pas l’air de nous douter que le personnage ainsi affublé n’est ni celui de Racine ni celui de Voltaire, et<pagenum v="v2" num="6"/> que par amour de la couleur locale nous créons un contraste insupportable entre le langage et l’habit.</p>
+
+<note id="2.5.1" type="e"><p><i>Lettre à l’abbé Venuti, </i>1750.</p></note>
+
+<note id="2.5.2" type="e"><p><i>Œuvres </i>de Montesquieu en un volume. Paris, Debure, 1834, p. 660.</p></note>
+
+<p>Les deux imitations de Léonard et de Colardeau n’ont pas été faites dans le même esprit. Léonard a retranché une partie des descriptions et des épisodes, mais dans ce qu’il a conservé il s’est tenu très-près de l’auteur et le traduit souvent de façon heureuse. Il a choisi les mètres les plus variés pour rendre toute la diversité de l’original, et ses rimes alternées ne manquent pas de grâce. Léonard, aujourd’hui fort oublié, fait comprendre comment André Chénier et Alfred de Musset lui-même se rattachent au dernier siècle. Aussi avons-nous cru bien faire en réimprimant cette traduction, qui n’est pas indigne de l’original.</p>
+
+<p>Colardeau, plus célèbre en son temps que Léonard, a étendu et paraphrasé Montesquieu. Trop souvent il lui prête son esprit. Il a, en outre, choisi le grand vers alexandrin qui ajoute à la monotonie de la poésie descriptive. Colardeau tourne les vers presque aussi bien que Voltaire, son modèle<noteref noteid="2.6.1"/>, mais il y met une solennité qui fatigue. A vrai dire, il prend trop au sérieux ce badinage fait pour un cercle de femmes ; il n’entend pas malice aux délicatesses de l’auteur, et quand le poëte nous montre Thémire résistant à son amour et s’écrie en finissant : « Elle m’embrassa ; je reçus ma grâce, hélas, sans espérance de devenir coupable, » Colardeau trouve plus simple de faire succomber la bergère et de terminer le poëme par un chapitre d’histoire naturelle.</p>
+
+<p>Pour montrer que le <i>Temple de Gnide </i>est tout au moins un poëme en prose, d’Alembert dit dans son <i>Éloge de Montesquieu </i> : <pagenum v="v2" num="7"/>« Nous croyons que les peintures de cet ouvrage soutiendraient avec succès une des principales épreuves des descriptions poétiques, celle de les représenter sur la toile. » En ce point, il n’a pas tort. Les gravures d’Eisen, comme celles de Monnet, qui accompagnent l’imitation de Colardeau, sont, bien plus que les vers, la traduction du poëme. Ces nymphes demi-nues, aux cheveux retroussés et couronnés de roses, aux regards provocants, au sourire hardi, c’est Camille, c’est Thémire. Ce ne sont pas des bergères, n’en croyez point le poëte, ce sont des princesses qui n’ont jamais aimé les champs que sous des lambris dorés. C’est comme un jeu d’esprit qu’il faut accepter le <i>Temple de Gnide ; </i>c’est ainsi seulement qu’on peut le lire avec plaisir et curiosité. Le <i>Temple de Gnide, </i>publié sans nom d’auteur, parut, nous l’avons dit, à Paris, avec privilége du roi, daté du 29 janvier 1725. Une seconde édition en fut donnée l’année suivante à la Haye. En 1738, un académicien, fort ignoré aujourd’hui, Paradis de Moncrif, eut l’idée singulière d’accoler un de ses romans au <i>Temple de Gnide. </i>Montesquieu y consentit, autant qu’on en peut juger par la lettre suivante :</p>
+
+<note id="2.6.1" type="e"><p>On en peut juger par les vers suivants qui sont à la fin du troisième chant :</p>
+<blockquote>
+<poem>
+<l>Tout pays a ses mœurs, tout climat ses usages.</l>
+<l>Chez les peuples divers, policés ou sauvages,</l>
+<l>La décence est soumise aux caprices des lois.</l>
+<l>Partout on l’interprète, on l’exprime à son choix.</l>
+<l>Parmi tant de beautés qu’un même lieu rassemble,</l>
+<l>Air, maintien, tout varie et rien ne se ressemble !</l>
+<l>La pudeur au hasard jette un voile incertain.</l>
+<l>Ici l’épaule est nue, et plus loin c’est le sein ;</l>
+<l>Lâ, d’un pied découvert si la vertu s’alarme,</l>
+<l>La vertu sans rougir découvre un autre charme.</l>
+<l>Tout suit l’opinion, l’honneur lui cède aussi.</l>
+<l>Et l’on prodigue là ce qu’on refuse ici.</l>
+</poem>
+</blockquote>
+</note>
+
+<vsep class="emptyline"/>
+<p class="l3">« A M. de Moncrif, de l’Académie franç<oa/>ise.</p>
+<vsep class="emptyline"/>
+
+<p>« J’oubliai d’avoir l’honneur de vous dire, monsieur, que si le sieur Prault, dans l’édition de ce petit roman<noteref noteid="2.7.1"/>, all<oa/>it mettre quelque chose qui, directement ou indirectement, pût faire penser que j’en suis l’auteur, il me désobliger<oa/>it beaucoup. Je suis, à l’égard des ouvrages qu’on m’a attribués, comme la Fontaine Martel<noteref noteid="2.7.2"/> ét<oa/>it pour les ridicules ; on me les donne, mais je ne les prends point. Mille excuses, monsieur, et faites-moi l’honneur de me croire, monsieur, plus que je ne saur<oa/>is vous dire, votre très-humble et très-obéissant serviteur.</p>
+
+<vsep class="emptyline"/>
+
+<p class="l3">« Ce 26 avril 1738. »</p>
+
+<vsep class="emptyline"/>
+
+<p>Le livre parut sous la rubrique de Londres, 1738, et avec le signe de la sphère. Il est accompagné des <i>Ames rivales, histoire fabuleuse ; </i>misérable imitation d’un conte oriental, faite sans grâce et sans finesse. Moncrif a prouvé une fois de plus par cet<pagenum v="v2" num="8"/> exemple qu’il y a un abîme entre l’esprit de l’homme du monde et le talent de l’écrivain.</p>
+
+<note id="2.7.1" type="e"><p>C’est en général sous ce titre que Montesquieu désigne le <i>Temple de Gnide. </i></p></note>
+
+<note id="2.7.2" type="e"><p>Une des amies de Voltaire. Elle mourut entre ses bras le 22 janvier 1733.</p></note>
+
+<p>C’est en 1743 et sous la rubrique de Leyde que parut une édition revue, corrigée et augmentée, qui a servi de modèle aux réimpressions suivantes. Le texte du poëme n’a pas été sensiblement modifié, mais le style en a été corrigé avec soin. En outre, l’auteur a établi la division en chants, qu’il avait proscrite dans les premières éditions, et il a complétement remanié la préface pour en faire un morceau digne des <i>Lettres persanes. </i>Ce travail, fait dans son âge mûr, nous montre que Montesquieu attachait une certaine importance au <i>Temple de Gnide ; </i>c’en est assez pour ne pas le négliger dans une édition complète des œuvres de l’auteur.</p>
+
+<vsep class="emptyline"/>
+
+<p>Novembre 1875.</p>
+
+</div>
+
+
+<div id="preface.traducteur" toc="Préface du traducteur">
+
+<pagenum v="v2" num="9"/>
+
+
+<h1>PRÉFACE DU TRADUCTEUR</h1>
+
+<vsep class="rule"/>
+
+<p>Un ambassadeur de France à la Porte Ottomane, connu par son goût pour les lettres, ayant acheté plusieurs manuscrits grecs, il les porta en France. Quelques-uns de ces manuscrits m’étant tombés entre les mains, j’y ai trouvé l’ouvrage dont je donne ici la traduction.</p>
+
+<p>Peu d’auteurs grecs<noteref noteid="2.9.1"/> sont venus jusqu’à nous, soit qu’ils aient péri dans la ruine des bibliothèques, ou par la négligence des familles qui les posséd<oa/>ient.</p>
+
+<p>Nous recouvrons de temps en temps quelques pièces de ces trésors. On a trouvé des ouvrages jusque dans les tombeaux de leurs auteurs ; et, ce qui est à peu près la même chose, on a trouvé celui-ci parmi les livres d’un évêque grec<noteref noteid="2.9.2"/>.</p>
+
+<note id="2.9.1" type="v"><p>A. Peu de poëtes grecs (Je désigne par A la première édition.)</p></note>
+
+<note id="2.9.2" type="v"><p>A ajoute ce qui suit :</p>
+
+<p>Ce poëme ne ressemble à aucun ouvrage de ce genre que nom ayons.</p>
+
+<p>Cependant les règles, que les autours des poétiques ont prises dans la nature, s’y trouvent observées.</p>
+
+<p>La description de Gnide qui est dans le premier chant, est d’autant plus heureuse, qu’elle fait, pour ainsi dire, naître le poëme ; qu’elle est, non pas un ornement du sujet, mais une partie du sujet même : bien différente de ces descriptions que les anciens ont tant blâmées, qui sont étrangères et recherchées :</p>
+
+<blockquote>
+<poem>
+<l>Purpureus late qui splendeat, unus et aller</l>
+<l>Assuitur pannus.</l>
+</poem>
+</blockquote>
+
+<p>Les épisodes du second et du troisième chant naissent aussi du sujet ; et le poëte c’est conduit avec tant d’art que les ornements de son poëme en sont aussi des parties nécessaires.</p>
+
+<p>Il n’y a pas moins d’art dans le quatrième et le cinquième chant. Le poëte, qui dev<oa/>it faire réciter à Aristée l’histoire de ses amours avec Camille, ne fait raconter au fils d’Antiloque ses aventures que jusqu’au moment qu’il a vu Thémire, afin de mettre de la variété dans les récits.</p>
+
+<p>L’histoire d’Aristée et de Camille est singulière en ce qu’elle est uniquement une histoire de sentiments.</p>
+
+<p>Le nœud se forme dans le sixième chant, et le dénoûment se fait très-heureusement dans le septième, par un seul regard de Thémire.</p>
+
+<p>Le poëte n’entre pas dans le détail du raccommodement d’Aristée et de Camille : il en dit un mot, afin qu’on sache qu’il a été fait : et il n’en dit pas davantage, pour ne pas tomber dans une uniformité vicieuse.</p>
+
+<p>Le dessein du poëme est de faire voir que nous sommes heureux par les sentiments du cœur, et non pas par les plaisirs des sens ; mais que notre bonheur n’est jamais si pur qu’il ne soit troublé par les accidents.</p>
+
+<p>Il faut remarquer que les chants ne sont point distingués dans la traduction : la raison en est que cette distinction ne se trouve pas dans le manuscrit grec, qui est très-ancien. On s’est contenté de mettre une note à la marge au commencement de chaque chant.</p>
+
+</note>
+
+<pagenum v="v2" num="10"/>
+
+<p>On ne sait ni le nom de l’auteur, ni le temps auquel il a vécu. Tout ce qu’on en peut dire, c’est qu’il n’est pas antérieur à Sapho, puisqu’il en parle dans son ouvrage<noteref noteid="2.10.1"/>.</p>
+
+<p>Quant à ma traduction, elle est fidèle. J’ai cru que les beautés qui n’ét<oa/>ient point dans mon auteur, n’ét<oa/>ient point des beautés ; et j’ai souvent quitté l’expression la moins vive, pour prendre celle qui rend<oa/>it mieux sa pensée<noteref noteid="2.10.2"/>.</p>
+
+<p>J’ai été encouragé à cette traduction par le succès qu’a eu celle du Tasse. Celui qui l’a faite ne trouvera pas mauvais que je coure la même carrière que lui. Il s’y est distingué d’une manière à ne rien craindre de ceux même à qui il a donné le plus d’émulation<noteref noteid="2.10.3"/>.</p>
+
+<p>Ce petit roman<noteref noteid="2.10.4"/> est une espèce de tableau où l’on a peint avec choix les objets les plus agréables. Le public y a trouvé des idées riantes, une certaine magnificence dans les descriptions, et de la naïveté dans les sentiments.</p>
+
+<p>Il y a trouvé un caractère original, qui a fait demander aux critiques quel en ét<oa/>it le modèle : ce qui devient un grand éloge, lorsque l’ouvrage n’est pas méprisable d’ailleurs.</p>
+
+<p>Quelques savants n’y ont point reconnu ce qu’ils appellent<pagenum v="v2" num="11"/>l’art. Il n’est point, disent-ils, selon les règles. Mais si l’ouvrage a plu, vous verrez que le cœur ne leur a pas dit toutes les règles.</p>
+
+<note id="2.10.1" type="v"><p>A ajoute : Il y a même lieu de croire qu’il viv<oa/>it avant Térence, et que ce dernier a imité un passage qui est à la fin du second chant. Car il ne par<oa/>ît pas que notre auteur soit plagiaire ; au lieu que Térence a volé les Grecs, jusqu’à insérer dans une seule de ses comédies deux pièces de Ménandre.</p>
+
+<p>J’av<oa/>is d’abord eu dessein de mettre l’original à coté de la traduction ; mais on m’a conseillé d’en faire une édition à part, et d’attendre les savantes notes qu’un homme d’érudition y prépare, et qui seront bientôt en état de voir le jour.</p>
+</note>
+
+<note id="2.10.2" type="v"><p>A. Et j’ai pris l’expression qui n’ét<oa/>it pas la meilleure, lorsqu’elle m’a paru mieux rendre sa pensée.</p></note>
+
+<note id="2.10.3" type="e"><p>Cette traduction de la <i>Jérusalem délivrée, </i>publiée en 1724, était de J.-B. de Mirabaud, qui fut plus tard secrétaire perpétuel de l’Académie française. Après la mort de ce Mirabaud, c’est sous son nom qu’on publia le <i>Système de la nature, </i>du baron d’Holbach.</p></note>
+
+<note id="2.10.4" type="v"><p>Tout ce qui suit est une seconde préface qui a paru pour la première fois dans l’édition de 1743.</p></note>
+
+
+<p>Un homme qui se mêle de traduire, ne souffre point patiemment que l’on n’estime pas son auteur autant qu’il le fait ; et j’avoue que ces messieurs m’ont mis dans une furieuse colère : mais je les prie de laisser les jeunes gens juger d’un livre qui, en quelque langue qu’il ait été écrit, a certainement été fait pour eux. Je les prie de ne point les troubler dans leurs décisions. Il n’y a que des têtes bien frisées et bien poudrées qui conn<oa/>issent tout le mérite du <i>Temple de Gnide. </i></p>
+
+<p>A l’égard du beau sexe, à qui je dois le peu de moments heureux que je puis compter dans ma vie, je souhaite de tout mon cœur que cet ouvrage puisse lui plaire. Je l’adore encore ; et, s’il n’est plus l’objet de mes occupations, il l’est de mes regrets.</p>
+
+<p>Que si les gens graves désir<oa/>ient de moi quelque ouvrage moins frivole, je suis en état de les satisfaire. Il y a trente ans que je travaille à un livre de douze pages, qui doit contenir tout ce que nous savons sur la métaphysique, la politique et la morale, et tout ce que de grands auteurs ont oublié dans les volumes qu’ils ont donnés sur ces sciences-là.</p>
+
+<pagenum v="v2" num="12"/>
+
+</div>
+
+
+<div id="tg" toc="Le Temple de Gnide">
+
+<pagenum v="v2" num="13"/>
+
+<h1>LE TEMPLE DE GNIDE</h1>
+
+<h2>1725</h2>
+
+
+<pagenum v="v2" num="14"/>
+
+<pagenum v="v2" num="15"/>
+
+<div id="tg.chant1" toc="Chant premier">
+
+<h2>CHANT PREMIER</h2>
+
+<blockquote>
+<p>. . . .  <i>Non murmura vestra columbœ, Brachia non hederœ, non vincant oscula conchœ.</i></p>
+<p>(Fragment d’un épithalame de l’empereur Gallien<noteref noteid="2.15.1"/>.)</p>
+</blockquote>
+
+<p>Vénus préfère le séjour de Gnide à celui de Paphos et d’Amathonte. Elle ne descend point de l’Olympe sans venir parmi les Gnidiens. Elle a tellement accoutumé ce peuple heureux à sa vue, qu’il ne sent plus cette horreur sacrée qu’inspire la présence des dieux. Quelquefois elle se couvre d’un nuage, et on la reconn<oa/>ît à l’odeur divine qui sort de ses cheveux parfumés d’ambroisie.</p>
+
+<p>La ville est au milieu d’une contrée, sur laquelle les dieux ont versé leurs bienfaits à pleines mains : on y jouit d’un printemps éternel ; la terre, heureusement fertile, y prévient tous les souhaits ; les troupeaux y paissent sans nombre ; les vents semblent n’y régner que pour répandre<pagenum v="v2" num="16"/> partout l’esprit des fleurs ; les oiseaux y chantent sans cesse ; vous diriez que les bois sont harmonieux ; les ruisseaux murmurent dans les plaines ; une chaleur douce fait tout éclore ; l’air ne s’y respire qu’avec la volupté.</p>
+
+<note id="2.15.1" type="e"><p><i>Historiæ augustæ scriptores. Gallieni duo. </i></p></note>
+
+<p>Auprès de la ville, est le palais de Vénus ; Vulcain lui-même en a bâti les fondements ; il travailla pour son infidèle, quand il voulut lui faire oublier le cruel affront qu’il lui fit devant les dieux.</p>
+
+<p>Il me ser<oa/>it impossible de donner une idée des charmes de ce palais : il n’y a que les Grâces qui puissent décrire les choses qu’elles ont faites. L’or, l’azur, les rubis, les diamants, y brillent de toutes parts... Mais j’en peins les richesses, et non pas les beautés.</p>
+
+<p>Les jardins en sont enchantés : Flore et Pomone en ont pris soin ; leurs nymphes les cultivent. Les fruits y renaissent sous la main qui les cueille ; les fleurs succèdent aux fruits. Quand Vénus s’y promène, entourée de ses Gnidiennes, vous diriez que, dans leurs jeux folâtres, elles vont détruire ces jardins délicieux : mais, par une vertu secrète, tout se répare en un instant.</p>
+
+<p>Vénus aime à voir les danses naïves des filles de Gnide. Ses nymphes se confondent avec elles. La déesse prend part à leurs jeux ; elle se dépouille de sa majesté ; assise au milieu d’elles, elle voit régner dans leurs cœurs la joie et l’innocence.</p>
+
+<p>On découvre de loin une grande prairie, toute parée de l’émail des fleurs. Le berger vient les cueillir avec sa bergère ; mais celle qu’elle a trouvée est toujours la plus belle, et il croit que Flore l’a faite exprès.</p>
+
+<p>Le fleuve Céphée arrose cette prairie, et y fait mille détours. Il arrête les bergères fugitives : il faut qu’elles donnent le tendre baiser qu’elles av<oa/>ient promis.</p>
+
+<pagenum v="v2" num="17"/>
+
+<p>Lorsque les nymphes approchent de ses bords, il s’arrête ; et ses flots, qui fuy<oa/>ient, trouvent des flots qui ne fuient plus. Mais, lorsqu’une d’elles se baigne, il est plus amoureux encore ; ses eaux tournent autour d’elle ; quelquefois il se soulève pour l’embrasser mieux ; il l’enlève, il fuit, il l’entraîne. Ses compagnes timides commencent à pleurer : mais il la soutient sur ses flots ; et, charmé d’un fardeau si cher, il la promène sur sa plaine liquide ; enfin<noteref noteid="2.17.1"/>, désespéré de la quitter, il la porte lentement sur le rivage, et console ses compagnes.</p>
+
+<p>A côté de la prairie, est un bois de myrtes dont les routes font mille détours. Les amants y viennent se conter leurs peines : l’Amour, qui les amuse, les conduit par des routes toujours plus secrètes.</p>
+
+<p>Non loin de là est un bois antique et sacré, où le jour n’entre qu’à peine : des chênes, qui semblent immortels, portent au ciel une tête qui se dérobe aux yeux. On y sent une frayeur religieuse : vous diriez que c’ét<oa/>it la demeure des dieux, lorsque les hommes n’ét<oa/>ient pas encore sortis de la terre.</p>
+
+<p>Quand on a trouvé la lumière du jour, on monte une petite colline, sur laquelle est le temple de Vénus : l’univers n’a rien de plus saint ni de plus sacré que ce lieu.</p>
+
+<p>Ce fut dans ce temple que Venus vit pour la première fois Adonis : le poison coula au cœur de la déesse. Quoi ! dit-elle, j’aimer<oa/>is un mortel ! Hélas ! je sens que je l’adore. Qu’on ne m’adresse plus de vœux : il n’y a plus à Gnide d’autre dieu qu’Adonis.</p>
+
+<note id="2.17.1" type="v"><p>A. Jusqu’il ce qu’enfin désespéré, etc.</p></note>
+
+<p>Ce fut dans ce lieu qu’elle appela les Amours, lorsque <pagenum v="v2" num="18"/> piquée d’un défi téméraire, elle les consulta<noteref noteid="2.18.1"/>. Elle ét<oa/>it en doute si elle s’exposerait nue aux regards du berger troyen. Elle cacha sa ceinture sous ses cheveux ; ses nymphes la parfumèrent ; elle monta sur son char traîné par des cygnes, et arriva dans la Phrygie. Le berger balanç<oa/>it entre Junon et Pallas ; il la vit, et ses regards errèrent et moururent : la pomme d’or tomba aux pieds de la déesse : il voulut parler, et son désordre décida.</p>
+
+<p>Ce fut dans ce temple que la jeune Psyché vint avec sa mère, lorsque l’Amour, qui vol<oa/>it autour des lambris dorés, fut surpris lui-même par un de ses regards. Il sentit tous les maux qu’il fait souffrir. C’est ainsi, dit-il, que je blesse ! Je ne puis soutenir mon arc ni mes flèches. Il tomba sur le sein de Psyché. Ah ! dit-il, je commence à sentir que je suis le dieu des plaisirs.</p>
+
+<p>Lorsqu’on entre dans ce temple, on sent dans le cœur un charme secret qu’il est impossible d’exprimer : l’âme est saisie de ces ravissements que les dieux ne sentent eux-mêmes que lorsqu’ils sont dans la demeure céleste.</p>
+
+<p>Tout ce que la nature a de riant est joint à tout ce que l’art a pu imaginer de plus noble, et de plus digne des dieux.</p>
+
+<p>Une main, sans doute immortelle, l’a partout orné de peintures qui semblent respirer. On y voit la naissance de Vénus ; le ravissement des dieux qui la virent ; son embarras de se voir toute nue ; et cette pudeur qui est la première des grâces.</p>
+
+<p>On y voit les amours de Mars et de la déesse. Le peintre a représenté le dieu sur son char, fier et même terrible : la Renommée vole autour de lui ; la Peur et la <pagenum v="v2" num="19"/> Mort marchent devant ses coursiers couverts d’écume ; il entre dans la mêlée, et une poussière épaisse commence à le dérober. D’un autre côté, on le voit couché languissamment sur un lit de roses ; il sourit à Vénus : vous ne le reconn<oa/>issez qu’à quelques traits divins qui restent encore. Les Plaisirs font des guirlandes dont ils lient les deux amants : leurs yeux semblent se confondre ; ils soupirent ; et, attentifs l’un à l’autre, ils ne regardent pas les Amours qui se jouent autour d’eux.</p>
+
+
+<note id="2.18.1" type="v"><p>A. Elle les consulta avec les Grâces.</p></note>
+
+<p>Il y a un appartement séparé, où le peintre a représenté les noces de Vénus et de Vulcain : toute la cour céleste y est assemblée. Le dieu paraît moins sombre, mais aussi pensif qu’à l’ordinaire. La déesse regarde d’un air froid la joie commune : elle lui donne négligemment une main, qui semble se dérober ; elle retire de dessus lui des regards qui portent à peine ; et se tourne du côté des Grâces.</p>
+
+<p>Dans un autre tableau, on voit Junon qui fait la cérémonie du mariage. Vénus prend la coupe, pour jurer à Vulcain une fidélité éternelle : les dieux sourient ; et Vulcain l’écoute avec plaisir.</p>
+
+<p>De l’autre côté, on voit le dieu impatient, qui entraîne sa divine épouse ; elle fait tant de résistance, que l’on croir<oa/>it que c’est la fille de Gérés que Pluton va ravir, si l’œil qui voit Vénus pouv<oa/>it jamais se tromper.</p>
+
+<p>Plus loin de là, on le voit qui l’enlève, pour l’emporter sur le lit nuptial. Les dieux suivent en foule. La déesse se débat, et veut échapper des bras qui la tiennent. Sa robe fuit ses genoux, la toile vole : mais Vulcain répare ce beau désordre, plus attentif à la cacher, qu’ardent à la ravir.</p>
+
+<p>Enfin, on le voit qui vient de la poser sur le lit que l’Hymen a préparé : il l’enferme dans les rideaux ; et il<pagenum v="v2" num="20"/> croit l’y tenir pour jamais. La troupe importune se retire : il est charmé de la voir s’éloigner. Les déesses jouent entre elles ; mais les dieux par<oa/>issent tristes ; et la tristesse de Mars a quelque chose d’aussi sombre que la noire jalousie.</p>
+
+<p>Charmée de la magnificence de son temple, la déesse elle-même y a voulu établir son culte : elle en a réglé les cérémonies, institué les fêtes ; et elle y est, en même temps, la divinité et la prêtresse.</p>
+
+<p>Le culte qu’on lui rend presque par toute la terre, est plutôt une profanation, qu’une religion. Elle a des temples où toutes les filles de la ville se prostituent en son honneur, et se font une dot des profits de leur dévotion. Elle en a<noteref noteid="2.20.1"/> où chaque femme mariée va, une fois en sa vie, se donner à celui qui la choisit, et jette dans le sanctuaire l’argent qu’elle a reçu. Il y en a d’autres où les courtisanes de tous les pays, plus honorées que les matrones, vont porter leurs offrandes. Il y en a, enfin, où les hommes se font eunuques, et s’habillent en femmes, pour servir dans le sanctuaire ; consacrant à la déesse, et le sexe qu’ils n’ont plus, et celui qu’ils ne peuvent pas avoir.</p>
+
+<p>Mais elle a voulu que le peuple de Gnide eût un culte plus pur, et lui rendît des honneurs plus dignes d’elle. Là, les sacrifices sont des soupirs, et les offrandes un cœur tendre. Chaque amant adresse ses vœux à sa maîtresse, et Vénus les reçoit pour elle.</p>
+
+<p>Partout où se trouve la beauté, on l’adore comme Vénus même : car la beauté est aussi divine qu’elle.</p>
+
+<p>Les cœurs amoureux viennent dans le temple ; ils<pagenum v="v2" num="21"/> vont embrasser les autels de la Fidélité et de la Constance.</p>
+
+
+<note id="2.20.1" type="v"><p>A. Il y en a d’autres.</p></note>
+
+
+<p>Ceux qui sont accablés des rigueurs d’une cruelle, y viennent soupirer : ils sentent diminuer leurs tourments : ils trouvent dans leur cœur la flatteuse espérance<noteref noteid="2.21.1"/>.</p>
+
+<p>La déesse, qui a promis de faire le bonheur des vrais amants, le mesure toujours à leurs peines.</p>
+
+<p>La jalousie est une passion qu’on peut avoir, mais qu’on doit taire. On adore en secret les caprices de sa maîtresse, comme on adore les décrets des dieux, qui deviennent plus justes lorsqu’on ose s’en plaindre.</p>
+
+<p>On met au rang des faveurs divines, le feu, les transports de l’amour, et la fureur même : car, moins on est maître de son cœur, plus il est à la déesse.</p>
+
+<p>Ceux qui n’ont point donné leur cœur sont des profanes, qui ne peuvent pas entrer dans le temple : ils adressent de loin leurs vœux à la déesse, et lui demandent de les délivrer de cette liberté, qui n’est qu’une impuissance de former des désirs.</p>
+
+<p>La déesse inspire aux filles de la modestie : cette qualité charmante donne un nouveau prix à tous les trésors qu’elle cache<noteref noteid="2.21.2"/>.</p>
+
+<p>Mais jamais dans ces lieux fortunés, elles n’ont rougi d’une passion sincère, d’un sentiment naïf, d’un aveu tendre.</p>
+
+<p>Le cœur fixe toujours lui-même le moment auquel il<pagenum v="v2" num="22"/> doit se rendre : mais c’est une profanation de se rendre sans aimer.</p>
+
+
+<note id="2.21.1" type="v"><p>A. Les cœurs amoureux viennent dans le temple demander à la déesse de les attendrir encore.</p>
+<p>Ceux qui sont accablés des rigueurs de leur maîtresse viennent soupirer dans le temple ; ils sentent diminuer leurs tourments, et entrer dans leur cœur la flatteuse espérance.</p></note>
+
+<note id="2.21.2" type="v"><p>A. La déesse inspire aux filles de la modestie, et les fait estimer au prix que l’imagination, toujours prodigue, y sait mettre.</p></note>
+
+
+<p>L’Amour est attentif à la félicité des Gnidiens : il choisit les traits dont il les blesse. Lorsqu’il voit une amante affligée, accablée des rigueurs d’un amant, il prend une flèche trempée dans les eaux du fleuve d’oubli. Quand il voit deux amants qui commencent à s’aimer, il tire sans cesse sur eux de nouveaux traits. Quand il en voit dont l’amour s’aff<oa/>iblit, il le fait soudain renaître ou mourir : car il épargne toujours les derniers jours d’une passion languissante : on ne passe point par les dégoûts avant de cesser d’aimer ; mais de plus grandes douceurs font oublier les moindres.</p>
+
+<p>L’Amour a ôté de son carquois les traits cruels dont il blessa Phèdre et Ariane, qui, mêlés d’amour et de haine, servent à montrer sa puissance, comme la foudre sert à faire conn<oa/>ître l’empire de Jupiter.</p>
+
+<p>A mesure que le dieu donne le plaisir d’aimer, Vénus y joint le bonheur de plaire<noteref noteid="2.22.1"/>.</p>
+
+<p>Les filles entrent chaque jour dans le sanctuaire, pour faire leur prière à Vénus. Elles y expriment des sentiments naïfs comme le cœur qui les fait naître. Reine d’Amathonte, dis<oa/>it une d’elles, ma flamme pour Tirsis est éteinte ; je ne te demande pas de me rendre mon amour ; fais seulement qu’Ixiphile m’aime.</p>
+
+<p>Une autre dis<oa/>it tout bas : Puissante déesse, donne-moi la force de cacher quelque temps mon amour à mon berger, pour augmenter le prix de l’aveu que je veux lui en faire.</p>
+
+<p>Déesse de Cythère, dis<oa/>it une autre, je cherche la<pagenum v="v2" num="23"/> solitude ; les jeux de mes compagnes ne me plaisent plus. J’aime peut-être. Ah ! si j’aime quelqu’un, ce ne peut être que Daphnis.</p>
+
+
+<note id="2.22.1" type="v"><p>A. A mesure que le dieu donne de l’amour, Vénus donne des griccs.</p></note>
+
+
+<p>Dans les jours de fête, les filles et les jeunes garçons viennent réciter des hymnes en l’honneur de Vénus : souvent ils chantent sa gloire, en chantant leurs amours.</p>
+
+<p>Un jeune Gnidien, qui ten<oa/>it par la main sa maîtresse, chant<oa/>it ainsi : Amour, lorsque tu vis Psyché, tu te blessas sans doute des mêmes traits dont tu viens de blesser mon cœur : ton bonheur n’ét<oa/>it pas différent du mien ; car tu sent<oa/>is mes feux, et moi, j’ai senti tes plaisirs.</p>
+
+<p>J’ai vu tout ce que je décris. J’ai été à Gnide ; j’y ai vu Thémire, et je l’ai aimée : je l’ai vue encore, et je l’ai aimée davantage. Je resterai toute ma vie à Gnide avec elle<noteref noteid="2.23.1"/> ; et je serai le plus heureux des mortels.</p>
+
+<p>Nous irons dans le temple ; et jamais il n’y sera entré un amant si fidèle : nous irons dans le palais de Vénus ; et je croirai que c’est le palais de Thémire : j’irai dans la prairie, et je cueillerai des fleurs, que je mettrai sur son sein : peut-être que je pourrai la conduire dans le bocage, où tant de routes vont se confondre ; et quand elle sera égarée... l’Amour, qui m’inspire, me défend de révéler ses mystères<noteref noteid="2.23.2"/>.</p>
+
+
+<note id="2.23.1" type="v"><p>A. Avec elle ; mais que deviendr<oa/>is-je si Venus all<oa/>it la prendre pour la mettre au nombre des Grâces ?</p></note>
+
+<note id="2.23.2" type="v"><p>A. Et quand je l’aurai égarée, je lui donnerai un baiser, et ce baiser me rendra si hardi... L’Amour, etc.</p></note>
+
+
+</div>
+
+<div id="tg.chant2" toc="Chant second">
+
+<pagenum v="v2" num="24"/>
+
+<h2>CHANT SECOND</h2>
+
+<p>Il y a à Gnide un antre sacré que les nymphes habitent, où la déesse rend ses oracles. La terre ne mugit point sous les pieds ; les cheveux ne se dressent point sur la tête ; il n’y a point de prétresse, comme à Delphes, où Apollon agite la Pythie : mais Vénus elle-même écoute les mortels, sans se jouer de leurs espérances, ni de leurs craintes.</p>
+
+<p>Une coquette de l’île de Crète ét<oa/>it venue à Gnide : elle march<oa/>it entourée de tous les jeunes Gnidiens : elle souri<oa/>it à l’un, parl<oa/>it à l’oreille à l’autre, souten<oa/>it son bras sur un troisième, cri<oa/>it à deux autres de la suivre. Elle ét<oa/>it belle et parée avec art ; le son de sa voix ét<oa/>it imposteur comme ses yeux. O ciel ! que d’alarmes ne causa-t-elle point aux vraies amantes ! Elle se présenta à l’oracle, aussi fière que les déesses : mais soudain nous entendîmes une voix, qui sort<oa/>it<noteref noteid="2.24.1"/> du sanctuaire : Perfide, comment oses-tu porter tes artifices jusque dans les lieux où je règne avec la candeur ? Je vais te punir d’une manière cruelle ; je t’ôterai tes charmes ; mais je te laisserai le cœur comme il est. Tu appelleras tous les hommes que tu verras, ils te fuiront comme une ombre plaintive ; et tu mourras accablée de refus et de mépris.</p>
+
+<p>Une courtisane de Nocrétis vint ensuite, toute brillante<pagenum v="v2" num="25"/> des dépouilles de ses amants. Va, dit la déesse, tu te trompes, si tu crois faire la gloire de mon empire : ta beauté fait voir qu’il y a des plaisirs ; mais elle ne les donne pas. Ton cœur est comme le fer ; et, quand tu verr<oa/>is mon fils même, tu ne saurais l’aimer. Va prodiguer tes faveurs aux hommes lâches qui les demandent et qui s’en dégoûtent ; va leur montrer des charmes que l’on voit soudain, et que l’on perd pour toujours. Tu n’es propre qu’à faire mépriser ma puissance.</p>
+
+
+<note id="2.24.1" type="v"><p>A. Qui sortit.</p></note>
+
+<p>Quelque temps après vint un homme riche, qui lev<oa/>it les tributs du roi de Lydie. Tu me demandes, dit la déesse, une chose que je ne saurais faire, quoique je sois la déesse de l’amour. Tu achètes des beautés, pour les aimer ; mais tu ne les aimes pas, parce que tu les achètes. Tes trésors ne te seront point inutiles<noteref noteid="2.25.1"/> ; ils te serviront à te dégoûter de tout ce qu’il y a de plus charmant dans la nature.</p>
+
+<p>Un jeune homme de Doride, nommé Aristée, se présenta ensuite : il av<oa/>it vu à Gnide la charmante Camille ; il en ét<oa/>it éperdument amoureux : il sent<oa/>it tout l’excès de son amour ; et il ven<oa/>it demander à Vénus qu’il pût l’aimer davantage.</p>
+
+<p>Je conn<oa/>is ton cœur, lui dit la déesse : tu sais aimer. J’ai trouvé Camille digne de toi : j’aur<oa/>is pu la donner au plus grand roi du monde ; mais les rois la méritent moins que les bergers.</p>
+
+<p>Je parus ensuite avec Thémire. La déesse me dit : Il n’y a point, dans mon empire, de mortel qui me soit plus soumis que toi. Mais que veux-tu que je fasse ? Je ne<pagenum v="v2" num="26"/> saur<oa/>is te rendre plus amoureux, ni Thémire plus charmante. Ah ! lui dis-je, grande déesse, j’ai mille grâces à vous demander : faites que Thémire ne pense qu’à moi ; qu’elle ne voie que moi ; qu’elle se réveille en songeant à moi ; qu’elle craigne de me perdre, quand je suis présent ; qu’elle m’espère dans mon absence ; que, toujours charmée de me voir, elle regrette encore tous les moments qu’elle a passés sans moi.</p>
+
+<note id="2.25.1" type="v"><p>A. Tu achètes tes beautés... tes trésors ne seront point inutiles, ils serviront, etc.</p></note>
+
+</div>
+
+<div id="tg.chant3" toc="Chant troisième">
+
+<pagenum v="v2" num="27"/>
+
+<h2>CHANT TROISIÈME.</h2>
+
+<p>Il y a à Gnide des jeux sacrés, qui se renouvellent tous les ans : les femmes y viennent, de toutes parts, disputer le prix de la beauté. Là, les bergères sont confondues avec les filles des rois ; car la beauté seule y porte les marques de l’empire. Vénus y préside elle-même. Elle décide sans balancer ; elle sait bien quelle est la mortelle heureuse qu’elle a le plus favorisée.</p>
+
+<p>Hélène remporta ce prix plusieurs fois ; elle triompha lorsque Thésée l’eut ravie ; elle triompha lorsqu’elle eut été enlevée par le fils de Priam ; elle triompha enfin, lorsque les dieux l’eurent rendue à Ménélas, après dix ans d’espérance : ainsi ce prince, au jugement de Vénus même, se vit aussi heureux époux, que Thésée et Paris av<oa/>ient été heureux amants<noteref noteid="2.27.1"/>.</p>
+
+<p>Il vint trente filles de Corinthe, dont les cheveux tomb<oa/>ient à grosses boucles sur les épaules. Il en vint dix de Salamine, qui n’av<oa/>ient encore vu que treize fois le cours du soleil. Il en vint quinze de l’île de Lesbos ; et elles se dis<oa/>ient l’une à l’autre : Je me sens tout émue ; il n’y a rien de si charmant que vous : si Vénus vous voit des mêmes yeux que moi, elle vous couronnera au milieu de toutes les beautés de l’univers.</p>
+
+
+<note id="2.27.1" type="v"><p>Colardeau traduit ironiquement :</p>
+<p>L’époux, en retrouvant cette épouse abusée.</p>
+<p>Se crut non moins heureux que Paris et Thésée.</p>
+</note>
+
+<pagenum v="v2" num="28"/>
+
+<p>Il vint cinquante femmes de Milet. Rien n’approch<oa/>it de la blancheur de leur teint, et de la régularité de leurs traits : tout fais<oa/>it voir, ou promettent un beau corps ; et les dieux, qui les formèrent, n’auraient rien fait de plus digne d’eux, s’ils n’av<oa/>ient plus cherché à leur donner des perfections que des grâces<noteref noteid="2.28.1"/>.</p>
+
+<p>Il vint cent femmes de l’île de Chypre. Nous avons, dis<oa/>ient-elles, passé notre jeunesse dans le temple de Vénus ; nous lui avons consacré notre virginité et notre pudeur même. Nous ne rougissons point de nos charmes : nos manières, quelquefois hardies et toujours libres, doivent nous donner de l’avantage sur une pudeur qui s’alarme sans cesse.</p>
+
+<p>Je vis les filles de la superbe Lacédémone. Leur robe ét<oa/>it ouverte par les côtés, depuis la ceinture, de la manière la plus immodeste : et cependant elles fais<oa/>ient les prudes, et souten<oa/>ient qu’elles ne viol<oa/>ient la pudeur, que par amour pour la patrie.</p>
+
+<p>Mer fameuse par tant de naufrages, vous savez conserver des dépôts précieux ! Vous vous calmâtes, lorsque le navire Argo porta la toison d’or sur votre plaine liquide ; et, lorsque cinquante beautés sont parties de Colchos, et se sont confiées à vous, vous vous êtes courbée sous elles.</p>
+
+<p>Je vis aussi Oriane, semblable aux déesses. Toutes les beautés de Lydie entour<oa/>ient leur reine. Elle av<oa/>it envoyé devant elle cent jeunes filles, qui av<oa/>ient présenté à Vénus une offrande de deux cents talents. Gandaule ét<oa/>it<pagenum v="v2" num="29"/> venu lui-même, plus distingué par son amour que par la pourpre royale : il pass<oa/>it les jours et les nuits à dévorer de ses regards les charmes d’Oriane : ses yeux err<oa/>ient sur son beau corps, et ses yeux ne se lass<oa/>ient jamais<noteref noteid="2.29.1"/>. Hélas ! dis<oa/>it-il, je suis heureux ; mais c’est une chose qui n’est sue que de Vénus et de moi : mon bonheur ser<oa/>it plus grand, s’il donn<oa/>it de l’envie ! Belle reine, quittez ces vains ornements ; faites tomber cette toile importune ; montrez-vous à l’univers ; laissez le prix de la beauté, et demandez des autels.</p>
+
+<note id="2.28.1" type="e"><p>Colardeau :</p>
+<p>Les dieux n’ont pas formé de plus noble assemblage</p>
+<p>Sans doute elles ser<oa/>ient leur plus parfait ouvrage</p>
+<p>S’ils leur av<oa/>ient donné, plus distraits dans leurs soins,</p>
+<p>Quelques grâces de plus, quelques beautés de moins.</p>
+</note>
+
+<p>Auprès de là ét<oa/>ient vingt Babyloniennes : elles av<oa/>ient des robes de pourpre brodées d’or ; elles croy<oa/>ient que leur luxe augment<oa/>it leur prix. Il y en av<oa/>it qui port<oa/>ient, pour preuve de leur beauté, les richesses qu’elle leur av<oa/>it fait acquérir.</p>
+
+<p>Plus loin, je vis cent femmes d’Égypte, qui av<oa/>ient les yeux et les cheveux noirs. Leurs maris ét<oa/>ient auprès d’elles, et ils dis<oa/>ient : Les lois nous soumettent à vous en l’honneur d’Isis<noteref noteid="2.29.2"/> : mais votre beauté a sur nous un empire plus fort que celui des lois ; nous vous obéissons avec le même plaisir que l’on obéit aux dieux ; nous sommes les plus heureux esclaves de l’univers.</p>
+
+<p>Le devoir vous répond de notre fidélité ; mais il n’y a que l’amour qui puisse nous promettre la vôtre.</p>
+
+<p>Soyez moins sensibles à la gloire que vous acquerrez à Gnide, qu’aux hommages que vous pouvez trouver dans votre maison, auprès d’un mari tranquille, qui, pendant <pagenum v="v2" num="30"/> que vous vous occupez des affaires du dehors, doit attendre, dans le sein de votre famille, le cœur que vous lui rapportez.</p>
+
+<note id="2.29.1" type="e"><p>Colardeau :</p>
+<p>Heureux de contempler l’épouse qu’il adore,</p>
+<p>Il la voit, la revoit, et veut la voir encore.</p>
+</note>
+
+<note id="2.29.2" type="e"><p><i>Lettres persanes, </i> <s>XXXVIII</s>.</p></note>
+
+
+<p>Il vint des femmes de cette ville puissante, qui envoie ses vaisseaux au bout de l’univers : les ornements fatigu<oa/>ient leur tête superbe ; toutes les parties du monde sembl<oa/>ient avoir contribué à leur parure.</p>
+
+<p>Dix beautés vinrent des lieux où commence le jour : elles ét<oa/>ient filles de l’Aurore ; et, pour la voir, elles se lev<oa/>ient tous les jours avant elle. Elles se plaign<oa/>ient du Soleil, qui fais<oa/>it disparaître leur mère ; elles se plaign<oa/>ient de leur mère, qui ne se montrait à elles que comme au reste des mortels.</p>
+
+<p>Je vis, sous une tente, une reine d’un peuple des Indes. Elle ét<oa/>it entourée de ses filles, qui déjà fais<oa/>ient espérer les charmes de leur mère : des eunuques la serv<oa/>ient, et leurs yeux regard<oa/>ient la terre<noteref noteid="2.30.1"/> ; car, depuis qu’ils av<oa/>ient respiré l’air de Gnide, ils av<oa/>ient senti redoubler leur affreuse mélancolie.</p>
+
+<p>Les femmes de Cadix<noteref noteid="2.30.2"/>, qui sont aux extrémités de la terre, disputèrent aussi le prix. Il n’y a point de pays dans l’univers, où une belle ne reçoive des hommages ; mais il n’y a que les plus grands hommages qui puissent apaiser l’ambition d’une belle.</p>
+
+<p>Les filles de Gnide parurent ensuite. Belles sans ornements, elles av<oa/>ient des grâces, au lieu de perles et de rubis. On ne voy<oa/>it sur leur tête que les présents de Flore ; mais ils y ét<oa/>ient plus dignes des embrassements de Zéphyre. Leur robe n’av<oa/>it d’autre mérite que celui de<pagenum v="v2" num="31"/> marquer une taille charmante, et d’avoir été filée de leurs propres mains.</p>
+
+<note id="2.30.1" type="v"><p>A. Et leurs yeux tomb<oa/>ient par terre.</p></note>
+
+<note id="2.30.2" type="v"><p>A. De Cadis.</p></note>
+
+<p>Parmi toutes ces beautés, on ne vit point la jeune Camille. Elle av<oa/>it dit : Je ne veux point disputer le prix de la beauté ; il me suffit que mon cher Aristée me trouve belle.</p>
+
+<p>Diane rend<oa/>it ces jeux célèbres par sa présence. Elle n’y ven<oa/>it point disputer le prix ; car les déesses ne se comparent point aux mortelles. Je la vis seule, elle ét<oa/>it belle comme Vénus : je la vis auprès de Vénus, elle n’ét<oa/>it plus que Diane.</p>
+
+<p>Il n’y eut jamais un si grand spectacle : les peuples ét<oa/>ient séparés des peuples ; les yeux erraient de pays en pays, depuis le couchant jusqu’à l’aurore : il sembl<oa/>it que Gnide fût tout l’univers.</p>
+
+<p>Les dieux ont partagé la beauté entre les nations, comme la nature l’a partagée entre les déesses. Là, on voy<oa/>it la beauté fière de Pallas ; ici, la grandeur et la majesté de Junon ; plus loin, la simplicité de Diane, la délicatesse de Thétis, le charme des Grâces, et quelquefois le sourire de Vénus.</p>
+
+<p>Il sembl<oa/>it que chaque peuple eût une manière particulière d’exprimer sa pudeur, et que toutes ces femmes voulussent se jouer des yeux : les unes<noteref noteid="2.31.1"/> découvraient la gorge, et cach<oa/>ient leurs épaules : les autres montraient les épaules, et couvraient la gorge ; celles qui vous dérob<oa/>ient le pied, vous pay<oa/>ient par d’autres charmes : et là on rougiss<oa/>it de ce qu’ici on appel<oa/>it bienséance.</p>
+
+<p>Les dieux sont si charmés de Thémire, qu’ils ne la regardent jamais sans sourire de leur ouvrage. De toutes<pagenum v="v2" num="32"/> les déesses, il n’y a que Vénus qui la voie avec plaisir, et que les dieux ne raillent point d’un peu de jalousie.</p>
+
+<note id="2.31.1" type="v"><p>A. Car les unes découvraient, etc.</p></note>
+
+<p>Comme on remarque une rosé au milieu des fleurs qui naissent dans l’herbe, on distingua Thémire de tant de belles. Elles n’eurent pas le temps d’être ses rivales<noteref noteid="2.32.1"/> : elles furent vaincues avant de la craindre. Dès qu’elle parut, Vénus ne regarda qu’elle. Elle appela les Grâces : Allez la couronner, leur dit-elle : de toutes les beautés que je vois, c’est la seule qui vous ressemble.</p>
+
+<note id="2.32.1" type="v"><p>A. D’être de ses rivales.</p></note>
+
+</div>
+
+<div id="tg.chant4" toc="Chant quatrième">
+
+<pagenum v="v2" num="33"/>
+
+<h2>CHANT QUATRIÈME.</h2>
+
+<p>Pendant que Thémire ét<oa/>it occupée avec ses compagnes au culte de la déesse, j’entrai dans un bois solitaire : j’y trouvai le tendre Aristée. Nous nous étions vus le jour que nous allâmes consulter l’oracle : c’en fut assez pour nous engager à nous entretenir : car Vénus met dans le cœur, en la présence d’un habitant de Gnide, le charme secret que trouvent deux amis, lorsqu’après une longue absence ils sentent dans leurs bras le doux objet de leurs inquiétudes<noteref noteid="2.33.1"/>.</p>
+
+<p>Ravis l’un de l’autre, nous sentîmes que notre cœur se donn<oa/>it ; il sembl<oa/>it que la tendre Amitié ét<oa/>it descendue du ciel, pour se placer<noteref noteid="2.33.2"/> au milieu de nous. Nous nous racontâmes mille choses de notre vie. Voici, à peu près, ce que je lui dis :</p>
+
+<p>Je suis né à Sybaris<noteref noteid="2.33.3"/><noteref noteid="2.33.3a"/>, où mon père Antiloque ét<oa/>it prêtre de Vénus. On ne met point, dans cette ville, de<pagenum v="v2" num="34"/> différence entre les voluptés et les besoins ; on bannit tous les arts qui pourraient troubler un sommeil tranquille ; on donne des prix, aux dépens du public, à ceux qui peuvent découvrir des voluptés nouvelles ; les citoyens ne se souviennent que des bouffons qui les ont divertis, et ont perdu la mémoire des magistrats qui les ont gouvernés.</p>
+
+
+<note id="2.33.1" type="e"><p>Colardeau :</p>
+<p>Tel est des Onidiens le prestige enchanteur,</p>
+<p>On éprouve à leur vue, à leur seule présence,</p>
+<p>Tout ce qu’après les maux et l’ennui de l’absence</p>
+<p>Deux fidèles amis, au moment du retour,</p>
+<p>Ont pu goûter jamais et d’ivresse et d’amour.</p>
+</note>
+
+<note id="2.33.2" type="v"><p>A. Pour se replacer.</p></note>
+
+<note id="2.33.3a" type="v"><p>A. Cibaris.</p></note>
+
+<note id="2.33.3" type="e"><p>Ce qu’on doit surtout remarquer dans le <i>Temple de Gnide, </i>c’est qu’Anacréon même y est toujours observateur et philosophe. Dans le quatrième chant, il parait décrire les mœurs des Sybarites, et on s’aperçoit aisément que ces mœurs sont les nôtres. (D’A<s>LEMBERT</s>.)</p></note>
+
+
+<p>On y abuse de la fertilité du terroir, qui y produit une abondance éternelle ; et les faveurs des dieux sur Sybaris ne servent qu’à encourager le luxe et la mollesse<noteref noteid="2.34.1"/>.</p>
+
+<p>Les hommes sont si efféminés, leur parure est si semblable à celle des femmes ; ils composent si bien leur teint ; ils se frisent avec tant d’art ; ils emploient tant de temps à se corriger à leur miroir, qu’il semble qu’il n’y ait qu’un sexe dans toute la ville.</p>
+
+<p>Les femmes se livrent au lieu de se rendre : chaque jour voit finir les désirs et les espérances de chaque jour : on ne sait ce que c’est que d’aimer et d’être aimé ; on n’est occupé que de ce qu’on appelle si faussement jouir.</p>
+
+<p>Les faveurs n’y ont que leur réalité propre ; et toutes ces circonstances qui les accompagnent si bien, tous ces riens qui sont d’un si grand prix, ces engagements qui par<oa/>issent toujours plus grands, ces petites choses qui valent tant, tout ce qui prépare un heureux moment, tant de conquêtes au lieu d’une, tant de jouissances avant la dernière : tout cela est inconnu à Sybaris<noteref noteid="2.34.2"/>.</p>
+
+
+<note id="2.34.1" type="v"><p>A. A encourager le luxe et à flatter la mollesse.</p></note>
+
+<note id="2.34.2" type="e"><p>Colardeau :</p>
+<blockquote>
+<poem>
+<l>La beauté sans pudeur y cède sans amour.</l>
+<l>Chaque jour voit finir l’espoir de chaque jour.</l>
+<l>On n’y recherche point ce bien, ce bien suprême,</l>
+<l>Ce doux plaisir d’aimer, d’être aimé comme on aime.</l>
+<l>D’un éclair de bonheur on s’y laisse éblouir,</l>
+<l>On demande, on obtient, et l’Ame croit jouir.</l>
+<l>Jouir ! Non, mon ami nul charme n’environne,</l>
+<l>Ne précède, ne suit les faveurs que l’on donne.</l>
+<l>On est bientôt heureux ; mais on n’est rien de plus.</l>
+<l>Ces détails si touchants, ces combats, ces refus ;</l>
+<l>Tous ces soins, tous ces maux, toutes ces jouissances,</l>
+<l>Ce contraste enchanteur de craintes, d’espérances.</l>
+<l>Tant de moments heureux avant l’heureux moment,</l>
+<l>Les doutes de l’amante et les vœux de l’amant,</l>
+<l>Cette pudeur aimable encor plus qu’importune,</l>
+<l>Mille plaisirs pour un, cent conquêtes pour une,</l>
+<l>Tous ces riens, en un mot, dont l’amour fait le prix :</l>
+<l>Voilà ce que jamais n’a connu Sybaris.</l>
+</poem>
+</blockquote>
+</note>
+
+<pagenum v="v2" num="35"/>
+
+<p>Encore si elles av<oa/>ient la moindre modestie, cette f<oa/>ible image de la vertu pourr<oa/>it plaire : mais non, les yeux sont accoutumés à tout voir, et les oreilles à tout entendre.</p>
+
+<p>Bien loin que la multiplicité des plaisirs donne aux Sybarites plus de délicatesse, ils ne peuvent plus distinguer un sentiment d’avec un sentiment.</p>
+
+<p>Ils passent leur vie dans une joie purement extérieure : ils quittent un plaisir qui leur déplaît, pour un plaisir qui leur déplaira encore ; tout ce qu’ils imaginent est un nouveau sujet de dégoût.</p>
+
+<p>Leur âme, incapable de sentir les plaisirs, semble n’avoir de délicatesse que pour les peines : un citoyen fut fatigué, toute une nuit, d’une rosé qui s’ét<oa/>it repliée dans son lit.</p>
+
+<p>La mollesse a tellement aff<oa/>ibli leurs corps, qu’ils ne saur<oa/>ient remuer les moindres fardeaux ; ils peuvent à peine se soutenir sur leurs pieds ; les voitures les plus douces les font évanouir ; lorsqu’ils sont dans les festins, l’estomac leur manque à tous les instants<noteref noteid="2.35.1"/>.</p>
+
+<p>Ils passent leur vie sur des sièges renversés, sur lesquels ils sont obligés de se reposer tout le jour, sans être<pagenum v="v2" num="36"/> fatigués : ils sont brisés, quand ils vont languir ailleurs.</p>
+
+<note id="2.35.1" type="e"><p>Colardeau :</p>
+<p>Au milieu des festins, sur leurs lèvres livides,</p>
+<p>Leurs mains en frémissant portent les coupes d’or,</p>
+<p>Ils y burent l’ennui qu’ils vont y boire encor.</p>
+</note>
+
+
+<p>Incapables de porter le poids des armes, timides devant leurs concitoyens, lâches devant les étrangers, ils sont des esclaves tout prêts pour le premier maître.</p>
+
+<p>Dès que je sus penser, j’eus du dégoût pour la malheureuse Sybaris. J’aime la vertu ; et j’ai toujours craint les dieux immortels. Non, dis<oa/>is-je, je ne respirerai pas plus longtemps cet air empoisonné : tous ces esclaves de la mollesse sont faits pour vivre dans leur patrie, et moi pour la quitter.</p>
+
+<p>J’allai, pour la dernière fois, au temple ; et, m’approchant des autels où mon père av<oa/>it tant de fois sacrifié : Grande Déesse, dis-je à haute voix, j’abandonne ton temple, et non pas ton culte ; en quelque lieu de la terre que je sois, je ferai fumer pour toi de l’encens ; mais il sera plus pur que celui qu’on t’offre à Sybaris.</p>
+
+<p>Je partis, et j’arrivai en Crète. Cette île est toute pleine de monuments de la fureur de l’Amour. On y voit le taureau d’airain, ouvrage de Dédale, pour tromper ou pour satisfaire les égarements de Pasiphaé ; le labyrinthe, dont l’Amour seul sut éluder l’artifice ; le tombeau de Phèdre, qui étonna le Soleil, comme av<oa/>it fait sa mère ; et le temple d’Ariane, qui, désolée dans les déserts, abandonnée par un ingrat, ne se repent<oa/>it pas encore de l’avoir suivi.</p>
+
+<p>On y voit le palais d’Idoménée, dont le retour ne fut pas plus heureux que celui des autres capitaines grecs : car ceux qui échappèrent aux dangers d’un élément colère trouvèrent leur maison plus funeste encore. Vénus irritée leur fit embrasser des épouses perfides ; et ils moururent de la main qu’ils croy<oa/>ient la plus chère.</p>
+
+<p>Je quittai cette île, si odieuse à une déesse qui dev<oa/>it faire quelque jour la félicité de ma vie.</p>
+
+<pagenum v="v2" num="37"/>
+
+<p>Je me rembarquai ; et la tempête me jeta à Lesbos. C’est encore une île peu chérie de Vénus : elle a ôté la pudeur du visage des femmes, la f<oa/>iblesse de leur corps, et la timidité de leur âme. Grande Vénus, laisse brûler les femmes de Lesbos d’un feu légitime ; épargne à la nature humaine tant d’horreurs.</p>
+
+<p>Mitylène est la capitale de Lesbos ; c’est la patrie de la tendre Sapho. Immortelle comme les Muses, cette fille infortunée brûle d’un feu qu’elle ne peut éteindre. Odieuse à elle-même, trouvant ses ennuis dans ses charmes, elle hait son sexe, et le cherche toujours. Comment, dit-elle, une flamme si vaine peut-elle être si cruelle ? Amour, tu es cent fois plus redoutable quand tu te joues, que quand tu t’irrites.</p>
+
+<p>Enfin je quittai Lesbos ; et le sort me fit trouver une île plus profane encore ; c’ét<oa/>it celle de Lemnos. Vénus n’y a point de temple : jamais les Lemniens ne lui adressèrent de vœux. Nous rejetons, disent-ils, un culte qui amollit les cœurs. La déesse les en a souvent punis : mais, sans expier leur crime, ils en portent la peine : toujours plus impies à mesure qu’ils sont plus affligés.</p>
+
+<p>Je me remis en mer, cherchant toujours quelque terre chérie des dieux ; les vents me portèrent à Délos. Je restai quelques mois dans cette île sacrée. Mais, soit que les dieux nous préviennent quelquefois sur ce qui nous arrive ; soit que notre âme retienne de la divinité, dont elle est émanée, quelque f<oa/>ible conn<oa/>issance de l’avenir ; je sentis que mon destin, que mon bonheur même, m’appel<oa/>ient dans un autre pays<noteref noteid="2.37.1"/>.</p>
+
+<p>Une nuit que j’ét<oa/>is dans cet état tranquille, où l’âme<pagenum v="v2" num="38"/> plus à elle-même, semble être délivrée de la chaîne qui la tient assujettie, il m’apparut, je ne sus pas d’abord si c’ét<oa/>it une mortelle, ou une déesse. Un charme secret ét<oa/>it répandu sur toute sa personne : elle n’ét<oa/>it point belle comme Vénus, mais elle ét<oa/>it ravissante comme elle : tous ses traits n’ét<oa/>ient point réguliers, mais ils enchant<oa/>ient tous ensemble : vous n’y trouviez point ce qu’on admire, mais ce qui pique : ses cheveux tomb<oa/>ient négligemment sur ses épaules, mais cette négligence ét<oa/>it heureuse : sa taille ét<oa/>it charmante ; elle av<oa/>it cet air que la nature donne seule, et dont elle cache le secret aux peintres mêmes. Elle vit mon étonnement ; elle en sourit. Dieux ! quel souris ! Je suis, me dit-elle d’une voix qui pénétrait le cœur, la seconde des Grâces : Vénus, qui m’envoie, veut te rendre heureux ; mais il faut que tu ailles l’adorer dans son temple de Gnide. Elle fuit ; mes bras la suivirent : mon songe s’envola avec elle ; et il ne me resta qu’un doux regret de ne la plus voir, mêlé du plaisir de l’avoir vue.</p>
+
+
+<note id="2.37.1" type="v"><p>A. M’appel<oa/>ient sous un autre climat.</p></note>
+
+
+<p>Je quittai donc l’île de Délos : j’arrivai à Gnide. Je puis dire que d’abord je respirai l’amour. Je sentis, je ne puis pas bien exprimer ce que je sentis. Je n’aim<oa/>is pas encore, mais je cherch<oa/>is à aimer : mon cœur s’échauff<oa/>it comme dans la présence de quelque beauté divine. J’avançai ; et je vis, de loin, de jeunes filles qui jou<oa/>ient dans la prairie : je fus d’abord entraîné vers elles. Insensé que je suis ! dis<oa/>is-je : j’ai, sans aimer, tous les égarements de l’amour : mon cœur vole déjà vers des objets inconnus ; et ces objets lui donnent de l’inquiétude. J’approchai : je vis la charmante Thémire ! Sans doute que nous étions faits l’un pour l’autre. Je ne regardai qu’elle ; et je crois que je ser<oa/>is mort de douleur, si elle n’av<oa/>it tourné sur<pagenum v="v2" num="39"/> moi quelques regards. Grande Vénus, m’écriai-je, puisque vous devez me rendre heureux, faites que ce soit avec cette bergère : je renonce à toutes les autres beautés ; elle seule peut remplir vos promesses et tous les vœux que je ferai jamais.</p>
+
+</div>
+
+<div id="tg.chant5" toc="Chant cinquième">
+
+<pagenum v="v2" num="40"/>
+
+<h2>CHANT CINQUIÈME.</h2>
+
+<p>Je parl<oa/>is encore au jeune Aristée de mes tendres amours<noteref noteid="2.40.1"/> ; ils lui firent soupirer les siens ; je soulageai son cœur, en le priant de me les raconter. Voici ce qu’il me dit : je n’oublierai rien ; car je suis inspiré par le même Dieu qui le fais<oa/>it parler.</p>
+
+<p>Dans tout ce récit, vous ne trouverez rien que de très-simple : mes aventures ne sont que les sentiments d’un cœur tendre, que mes plaisirs, que mes peines ; et, comme mon amour pour Camille fait le bonheur, il fait aussi toute l’histoire de ma vie.</p>
+
+<p>Camille est fille d’un des principaux habitans de Gnide ; elle est belle<noteref noteid="2.40.2"/> ; elle a une physionomie qui va se peindre dans tous les cœurs : les femmes qui font des souhaits, demandent aux dieux les grâces de Camille ; les hommes qui la voient veulent la voir toujours, ou craignent de la voir encore<noteref noteid="2.40.3"/>.</p>
+
+<p>Elle a une taille charmante, un air noble, mais modeste, des yeux vifs et tout prêts à être tendres, des traits faits exprès l’un pour l’autre, des charmes invisiblement assortis pour la tyrannie des cœurs.</p>
+
+
+<note id="2.40.1" type="v"><p>A. Je contai au jeune Aristée mes tendres amours, etc.</p></note>
+
+<note id="2.40.2" type="v"><p>A. Elle est belle ; mais elle a des grâces plus belles que la beauté même, elle a une physionomie, etc.</p></note>
+
+<note id="2.40.3" type="e"><p>Colardeau :</p>
+<p>Il faut la voir toujours, ou ne la voir jamais.</p>
+</note>
+
+<pagenum v="v2" num="41"/>
+
+<p>Camille ne cherche point à se parer ; mais elle est mieux parée que les autres femmes.</p>
+
+<p>Elle a un esprit que la nature refuse presque toujours aux belles. Elle se prête également au sérieux et à l’enjouement. Si vous voulez, elle pensera sensément ; si vous voulez elle badinera comme les Grâces.</p>
+
+<p>Plus on a d’esprit, plus on en trouve à Camille. Elle a quelque chose de si naïf, qu’il semble qu’elle ne parle que le langage du cœur. Tout ce qu’elle dit, tout ce qu’elle fait a les charmes de la simplicité ; vous trouvez toujours une bergère naïve. Des grâces si légères, si fines, si délicates, se font remarquer, mais se font encore mieux sentir.</p>
+
+<p>Avec tout cela, Camille m’aime : elle est ravie quand elle me voit ; elle est fâchée quand je la quitte ; et, comme si je pouv<oa/>is vivre sans elle, elle me fait promettre de revenir. Je lui dis toujours que je l’aime, elle me croit : je lui dis que je l’adore, elle le sait ; mais elle est ravie, comme si elle ne le sav<oa/>it pas. Quand je lui dis qu’elle fait la félicité de ma vie, elle me dit que je fais le bonheur de la sienne. Enfin, elle m’aime tant, qu’elle me fer<oa/>it presque croire que je suis digne de son amour.</p>
+
+<p>Il y av<oa/>it un mois que je voy<oa/>is Camille, sans oser lui dire que je l’aim<oa/>is, et sans oser presque me le dire à moi-même : plus je la trouv<oa/>is aimable, moins j’espér<oa/>is d’être celui qui la rendr<oa/>it sensible. Camille, tes charmes me touch<oa/>ient ; mais ils me dis<oa/>ient que je ne te mérit<oa/>is pas.</p>
+
+<p>Je cherch<oa/>is partout à t’oublier ; je voul<oa/>is effacer de mon cœur ton adorable image. Que je suis heureux ! je n’ai pu y réussir ; cette image y est restée, et elle y vivra toujours !</p>
+
+<pagenum v="v2" num="42"/>
+
+<p>Je dis à Camille : J’aim<oa/>is le bruit du monde, et je cherche la solitude ; j’av<oa/>is des vues d’ambition, et je ne désire plus que ta présence ; je voul<oa/>is errer sous des climats reculés, et mon cœur n’est plus citoyen que des lieux où tu respires : tout ce qui n’est point toi s’est évanoui de devant mes yeux.</p>
+
+<p>Quand Camille m’a parlé de sa tendresse, elle a encore quelque chose à médire ; elle croit avoir oublié ce qu’elle m’a juré mille fois. Je suis si charmé de l’entendre, que je feins quelquefois de ne la pas croire, pour qu’elle touche encore mon cœur : bientôt règne entre nous ce doux silence, qui est le plus tendre langage des amants.</p>
+
+<p>Quand j’ai été absent de Camille, je veux lui rendre compte de ce que j’ai pu voir ou entendre : De quoi m’entretiens-tu ? me dit-elle ; parle-moi de nos amours : ou si tu n’as rien pensé, si tu n’as rien à me dire, cruel, laisse-moi parler.</p>
+
+<p>Quelquefois elle me dit en m’embrassant : Tu es triste. Il est vrai, lui dis-je : mais la tristesse des amants est délicieuse ; je sens couler mes larmes, et je ne sais pourquoi, car tu m’aimes ; je n’ai point de sujet de me plaindre, et je me plains. Ne me retire point de la langueur où je suis ; laisse-moi soupirer en même temps mes peines et mes plaisirs.</p>
+
+<p>Dans les transports de l’amour, mon âme est trop agitée ; elle est entraînée vers son bonheur sans en jouir : au lieu qu’à présent je goûte ma tristesse même. N’essuie point mes larmes : qu’importe que je pleure, puisque je suis heureux ?</p>
+
+<p>Quelquefois Camille me dit : Aime-moi. Oui, je t’aime. Mais comment m’aimes-tu ? Hélas ! lui dis-je, je t’aime comme je t’aim<oa/>is : car je ne puis comparer<pagenum v="v2" num="43"/> l’amour que j’ai pour toi, qu’à celui que j’ai eu pour toi-même.</p>
+
+<p>J’entends louer Camille par tous ceux qui la conn<oa/>issent : ces louanges me touchent comme si elles m’ét<oa/>ient personnelles ; et j’en suis plus flatté qu’elle-même<noteref noteid="2.43.1"/>.</p>
+
+<p>Quand il y a quelqu’un avec nous, elle parle avec tant d’esprit, que je suis enchanté de ses moindres paroles ; mais j’aimerais encore mieux qu’elle ne dît rien.</p>
+
+<p>Quand elle fait des amitiés à quelqu’un, je voudrais être celui à qui elle fait des amitiés, quand, tout à coup, je fais réflexion que je ne ser<oa/>is point aimé d’elle.</p>
+
+<p>Prends garde, Camille, aux impostures des amants. Ils te diront qu’ils t’aiment, et ils diront vrai : ils te diront qu’ils t’aiment autant que moi ; mais je jure par les dieux, que je t’aime davantage.</p>
+
+<p>Quand je l’aperçois de loin, mon esprit s’égare : elle approche, et mon cœur s’agite : j’arrive auprès d’elle, et il semble que mon âme veut me quitter, que cette âme est à Camille, et qu’elle va l’animer.</p>
+
+<p>Quelquefois je veux lui dérober une faveur ; elle me la refuse, et dans un instant elle m’en accorde une autre. Ce n’est point un artifice : combattue par sa pudeur et son amour, elle voudrait me tout refuser, elle voudrait pouvoir me tout accorder.</p>
+
+<p>Elle me dit : Ne vous suffit-il pas que je vous aime ? que pouvez-vous désirer après mon cœur ? Je désire, lui dis-je, que tu fasses pour moi une faute que l’amour fait faire, et que le grand amour justifie.</p>
+
+<p>Camille, si je cesse un jour de t’aimer, puisse la<pagenum v="v2" num="44"/> Parque se tromper, et prendre ce jour pour le dernier de mes jours ! Puisse-t-elle effacer le reste d’une vie que je trouver<oa/>is déplorable, quand je me souviendr<oa/>is des plaisirs que j’ai eus en aimant !</p>
+
+<note id="2.43.1" type="v"><p>A. Je suis flatté de ces louanges, comme si elles m’ét<oa/>ient personnelles, et je sens en ce moment que j’ai de l’amour-propre.</p></note>
+
+
+<p>Aristée soupira, et se tut ; et je vis bien qu’il ne cessa de parler de Camille que pour penser à elle.</p>
+
+</div>
+
+<div id="tg.chant6" toc="Chant sixième">
+
+<pagenum v="v2" num="45"/>
+
+<h2>CHANT SIXIÈME.</h2>
+
+<p>Pendant que nous parlions de nos amours, nous nous égarâmes ; et, après avoir erré longtemps, nous entrâmes dans une grande prairie : nous fûmes conduits, par un chemin de fleurs, au pied d’un rocher affreux. Nous vîmes un antre obscur ; nous y entrâmes, croyant que c’ét<oa/>it la demeure de quelque mortel. O dieux ! qui aur<oa/>it pensé que ce lieu eût été si funeste ? A peine y eus-je mis le pied, que tout mon corps frémit, mes cheveux se dressèrent sur la tête. Une main invisible m’entraîn<oa/>it dans ce fatal séjour : à mesure que mon cœur s’agit<oa/>it, il cherch<oa/>it à s’agiter encore. Ami, m’écriai-je, entrons plus avant, dussions-nous voir augmenter nos peines ! J’avance dans ce lieu, où jamais le soleil n’entra, et que les vents n’agitèrent jamais. J’y vis la Jalousie ; son aspect ét<oa/>it plus sombre que terrible : la Pâleur, la Tristesse, le Silence l’entour<oa/>ient, et les Ennuis vol<oa/>ient autour d’elle. Elle souffla sur nous, elle nous mit la main sur le cœur, elle nous frappa sur la tête ; et nous ne vîmes, nous n’imaginâmes plus que des monstres. Entrez plus avant, nous dit-elle, malheureux mortels ; allez trouver une déesse plus puissante que moi. Nous vîmes une affreuse divinité, à la lueur des langues enflammées des serpents qui siffl<oa/>ient sur sa tête ; c’ét<oa/>it la Fureur. Elle détacha un de ses serpens, et le jeta sur moi : je voulus le prendre ;<pagenum v="v2" num="46"/> déjà, sans que je l’eusse senti, il s’ét<oa/>it glissé dans mon cœur. Je restai un moment, comme stupide ; mais, dès que le poison se fut répandu dans mes veines, je crus être au milieu des enfers : mon âme fut embrasée ; et, dans sa violence, tout mon corps la conten<oa/>it à peine : j’ét<oa/>is si agité, qu’il me sembl<oa/>it que je tourn<oa/>is sous le fouet des Furies. Nous nous abandonnâmes à nos transports<noteref noteid="2.46.1"/> ; nous fîmes cent fois le tour de cet antre épouvantable : nous allions de la Jalousie à la Fureur, et de la Fureur à la Jalousie : nous criions, Thémire ! nous criions, Camille ! Si Thémire ou Camille ét<oa/>ient venues, nous les aurions déchirées de nos propres mains.</p>
+
+<p>Enfin, nous trouvâmes la lumière du jour ; elle nous parut importune, et nous regrettâmes presque l’antre affreux que nous avions quitté. Nous tombâmes de lassitude ; et ce repos même nous parut insupportable. Nos yeux nous refusèrent des larmes, et notre cœur ne put plus former de soupirs<noteref noteid="2.46.2"/>.</p>
+
+<p>Je fus pourtant un moment tranquille : le sommeil commenç<oa/>it à verser sur moi ses doux pavots. O dieux ! ce sommeil même devint cruel. J’y voy<oa/>is des images plus terribles pour moi que les pâles ombres : je me réveill<oa/>is, à chaque instant, sur une infidélité de Thémire ; je la voy<oa/>is... Non, je n’ose encore le dire ; et ce que j’imagin<oa/>is seulement pendant la veille, je le trouv<oa/>is réel dans les horreurs de cet affreux sommeil.</p>
+
+<p>Il faudra donc, dis-je en me levant, que je fuie également<pagenum v="v2" num="47"/> les ténèbres et la lumière ! Thémire, la cruelle Thémire, m’agite comme les furies. Qui l’eût cru, que mon bonheur ser<oa/>it de l’oublier pour jamais !</p>
+
+<note id="2.46.1" type="v"><p>A. Enfin je m’abandonnai ; nous fîmes, etc.</p></note>
+
+<note id="2.46.2" type="e"><p>Colardeau :</p>
+<p>Hélas ! notre repos fut lui-même un supplice !</p>
+<p>Nos yeux secs et brûlants nous refusent des pleurs,</p>
+<p>Nul soupir échappé ne soulage nos cœurs.</p>
+</note>
+
+
+<p>Un accès de fureur me reprit : Ami, m’écriai-je, lève-toi. Allons exterminer les troupeaux qui paissent dans cette prairie : poursuivons ces bergers dont les amours sont si paisibles. Mais non : je vois de loin un temple ; c’est peut-être celui de l’Amour : allons le détruire, allons briser sa statue, et lui rendre nos fureurs redoutables. Nous courûmes, et il sembl<oa/>it que l’ardeur de commettre un crime nous donnât des forces nouvelles : nous traversâmes les bois, les prés, les guérets ; nous ne fûmes pas arrêtés un instant : une colline s’élev<oa/>it en vain, nous y montâmes : nous entrâmes dans le temple : il ét<oa/>it consacré à Bacchus. Que la puissance des dieux est grande ! Notre fureur fut aussitôt calmée. Nous nous regardâmes, et nous vîmes avec surprise le désordre où nous étions.</p>
+
+<p>Grand Dieu ! m’écriai-je, je te rends moins grâces d’avoir apaisé ma fureur, que de m’avoir épargné un grand crime. Et m’approchant de la prêtresse : Nous sommes aimés du Dieu que vous servez ; il vient de calmer les transports dont nous étions agités ; à peine sommes-nous entrés dans ce lieu, que nous avons senti sa faveur présente. Nous voulons lui faire un sacrifice : daignez l’offrir pour nous, divine prêtresse. J’allai chercher une victime, et je l’apportai à ses pieds.</p>
+
+<p>Pendant que la prêtresse se prépar<oa/>it à donner le coup mortel, Aristée prononça ces paroles : Divin Bacchus, tu aimes à voir la joie sur le visage des hommes ; nos plaisirs sont un culte pour toi ; et tu ne veux être adoré que par les mortels les plus heureux.</p>
+
+<p>Quelquefois tu égares doucement notre raison : mais,<pagenum v="v2" num="48"/> quand quelque divinité cruelle nous l’a ôtée, il n’y a que toi qui puisses nous la rendre.</p>
+
+<p>La noire Jalousie tient l’Amour sous son esclavage ; mais tu lui ôtes l’empire qu’elle prend sur nos cœurs ; et tu la fais rentrer dans sa demeure affreuse.</p>
+
+<p>Après que le sacrifice fut fait, tout le peuple s’assembla autour de nous ; et je racontai à la prêtresse comment nous avions été tourmentés dans la demeure de la Jalousie. Et, tout à coup, nous entendîmes un grand bruit, et un mélange confus de voix et d’instruments de musique. Nous sortîmes du temple et nous vîmes arriver une troupe de bacchantes, qui frapp<oa/>ient la terre de leurs thyrses, criant à haute voix : Evohé. Le vieux Silène suiv<oa/>it, monté sur son âne : sa tête sembl<oa/>it chercher la terre ; et, sitôt qu’on abandonn<oa/>it son corps, il se balanç<oa/>it comme par mesure. La troupe av<oa/>it le visage barbouillé de lie. Pan par<oa/>iss<oa/>it ensuite avec sa flûte, et les Satyres entour<oa/>ient leur roi. La joie régn<oa/>it avec le désordre ; une folie aimable mêl<oa/>it ensemble les jeux, les railleries, les danses, les chansons<noteref noteid="2.48.1"/>. Enfin, je vis Bacchus : il ét<oa/>it sur son char traîné par des tigres, tel que le Gange le vit au bout de l’univers, portant partout la joie et la victoire.</p>
+
+<p>A ses côtés ét<oa/>it la belle Ariane. Princesse, vous vous plaigniez encore de l’infidélité de Thésée, lorsque le dieu prit votre couronne, et la plaça dans le ciel. Il essuya vos larmes. Si vous n’aviez pas cessé de pleurer, vous auriez rendu un dieu plus malheureux que vous, qui n’étiez qu’une mortelle. Il vous dit : Aimez-moi ; Thésée fuit ; ne vous souvenez plus de son amour, oubliez jusqu’à sa perfidie. Je vous rends immortelle, pour vous aimer toujours.</p>
+
+
+<note id="2.48.1" type="v"><p>A. ajoute : le vin men<oa/>it à la gaieté ; la gaieté ramen<oa/>it au vin.</p>
+</note>
+
+<pagenum v="v2" num="49"/>
+
+<p>Je vis Bacchus descendre de son char ; je vis descendre Ariane ; elle entra dans le temple. Aimable Dieu, s’écria-t-elle, restons dans ces lieux, et soupirons-y nos amours. Faisons jouir ce doux climat d’une joie éternelle. C’est auprès de ces lieux que la reine des cœurs a posé son empire ; que le dieu de la joie règne auprès d’elle, et augmente le bonheur de ces peuples déjà si fortunés<noteref noteid="2.49.1"/>.</p>
+
+<p>Pour moi, grand Dieu, je sens déjà que je t’aime davantage. Quoi ! tu pourr<oa/>is quelque jour me par<oa/>ître encore plus aimable<noteref noteid="2.49.2"/> ! Il n’y a que les immortels qui puissent aimer à l’excès, et aimer toujours davantage ; il n’y a qu’eux qui obtiennent plus qu’ils n’espèrent, et qui sont plus bornés quand ils désirent que quand ils jouissent.</p>
+
+<p>Tu seras ici mes éternelles amours. Dans le ciel, on n’est occupé que de sa gloire<noteref noteid="2.49.3"/> ; ce n’est que sur la terre et dans les lieux champêtres, que l’on sait aimer. Et, pendant que cette troupe se livrera à une joie insensée, ma joie, mes soupirs et mes larmes même, te rediront sans cesse mes amours.</p>
+
+<p>Le dieu sourit à Ariane ; il la mena dans le sanctuaire. La joie s’empara de nos cœurs : nous sentîmes une émotion divine. Saisis des égarements de Silène, et des transports des bacchantes, nous prîmes un thyrse<noteref noteid="2.49.4"/>, et nous nous mêlâmes dans les danses et dans les concerts.</p>
+
+<note id="2.49.1" type="e"><p>Colardeau :</p>
+<p>Répands sur ces climats une joie éternelle.</p>
+<p>Vénus règne ici près, tu dois régner près d’elle.</p>
+<p>Ariane et Bacchus, et Vénus et l’Amour</p>
+<p>N’auront plus qu’un empire et qu’une même cour.</p>
+</note>
+
+<note id="2.49.2" type="v"><p>A. Qui l’eût dit que tu pourr<oa/>is quelque jour me par<oa/>itre encore plus aimable ?</p></note>
+
+<note id="2.49.3" type="e"><p>Colardeau :</p>
+<p>La gloire dans l’Olympe occupe trop les dieux.</p>
+</note>
+
+<note id="2.49.4" type="v"><p>A. Une thyrse.</p></note>
+
+</div>
+
+<div id="tg.chant7" toc="Chant septième">
+
+<pagenum v="v2" num="50"/>
+
+<h2>CHANT SEPTIÈME.</h2>
+
+<p>Nous quittâmes les lieux consacrés à Bacchus ; mais bientôt nous crûmes sentir que nos maux n’av<oa/>ient été que suspendus. Il est vrai que nous n’avions point cette fureur qui nous av<oa/>it agités ; mais la sombre tristesse av<oa/>it saisi notre âme, et nous étions dévorés de soupçons et d’inquiétudes.</p>
+
+<p>Il nous sembl<oa/>it que les cruelles déesses ne nous av<oa/>ient agités, que pour nous faire pressentir des malheurs auxquels nous étions destinés.</p>
+
+<p>Quelquefois nous regrettions le temple de Bacchus ; bientôt nous étions entraînés vers celui de Gnide : nous voulions voir Thémire et Camille, ces objets puissants de notre amour et de notre jalousie.</p>
+
+<p>Mais nous n’avions aucune de ces douceurs que l’on a coutume de sentir, lorsque, sur le point de revoir ce qu’on aime, l’âme est déjà ravie, et semble goûter d’avance tout le bonheur qu’elle se promet.</p>
+
+<p>Peut-être, dit Aristée, que je trouverai le berger Licas avec Camille ; que sais-je s’il ne lui parle pas dans ce moment ? O dieux ! l’infidèle prend plaisir à l’entendre !</p>
+
+<p>On dis<oa/>it l’autre jour, repris-je, que Tirsis, qui a tant aimé Thémire, dev<oa/>it arriver à Gnide ; il l’a aimée, sans doute qu’il l’aime encore : il faudra que je dispute un cœur que je croy<oa/>is tout à moi.</p>
+
+<pagenum v="v2" num="51"/>
+
+<p>L’autre jour, Licas chant<oa/>it ma Camille : que j’ét<oa/>is insensé ! j’ét<oa/>is ravi de l’entendre louer.</p>
+
+<p>Je me souviens que Tirsis porta à ma Thémire des fleurs nouvelles. Malheureux que je suis ! elle les a mises sur son sein ! C’est un présent de Tirsis, dis<oa/>it-elle. Ah ! j’aur<oa/>is dû les arracher, et les fouler à mes pieds.</p>
+
+<p>Il n’y a pas longtemps que j’all<oa/>is, avec Camille, faire à Vénus un sacrifice de deux tourterelles ; elles m’échappèrent, et s’envolèrent dans les airs.</p>
+
+<p>J’av<oa/>is écrit sur des arbres mon nom avec celui de Thémire ; j’av<oa/>is écrit mes amours : je les lis<oa/>is et les relis<oa/>is sans cesse : un matin, je les trouvai effacées.</p>
+
+<p>Camille, ne désespère point un malheureux qui t’aime : l’amour qu’on irrite peut avoir tous les effets de la haine.</p>
+
+<p>Le premier Gnidien qui regardera ma Thémire, je le poursuivrai jusque dans le temple, et je le punirai, fût-il aux pieds de Vénus.</p>
+
+<p>Cependant nous arrivâmes près de l’antre sacré où la déesse rend ses oracles. Le peuple ét<oa/>it comme les flots de la mer agitée : ceux-ci ven<oa/>ient d’entendre, les autres all<oa/>ient chercher leur réponse.</p>
+
+<p>Nous entrâmes dans la foule ; je perdis l’heureux Aristée : déjà il av<oa/>it embrassé sa Camille ; et moi je cherch<oa/>is encore ma Thémire.</p>
+
+<p>Je la trouvai enfin. Je sentis ma jalousie redoubler à sa vue, je sentis renaître mes premières fureurs. Mais elle me regarda ; et je devins tranquille. C’est ainsi que les dieux renvoient les Furies, lorsqu’elles sortent des enfers.</p>
+
+<p>O dieux ! me dit-elle, que tu m’as coûté de larmes ! Trois fois le soleil a parcouru sa carrière ; je craign<oa/>is de t’avoir perdu pour jamais : cette parole me fait trembler. J’ai été consulter l’oracle. Je n’ai point demandé si tu<pagenum v="v2" num="52"/> m’aim<oa/>is ; hélas ! je ne voul<oa/>is que savoir si tu viv<oa/>is encore. Vénus vient de me répondre que tu m’aimes toujours.</p>
+
+<p>Excuse, lui dis-je, un infortuné qui t’aur<oa/>it haïe, si son âme en ét<oa/>it capable. Les dieux, dans les mains desquels je suis, peuvent me faire perdre la raison : ces dieux, Thémire, ne peuvent pas m’ôter mon amour<noteref noteid="2.52.1"/>.</p>
+
+<p>La cruelle jalousie m’a agité, comme dans le Tartare on tourmente les ombres criminelles. J’en tire cet avantage, que je sens mieux le bonheur qu’il y a d’être aimé de toi, après l’affreuse situation où m’a mis la crainte de te perdre.</p>
+
+<p>Viens donc avec moi, viens dans ce bois solitaire : il faut qu’à force d’aimer j’expie les crimes que j’ai faits. C’est un grand crime, Thémire, de te croire infidèle.</p>
+
+<p>Jamais les bois de l’Élysée<noteref noteid="2.52.2"/>, que les dieux ont faits exprès pour la tranquillité des ombres qu’ils chérissent ; jamais les forêts de Dodone, qui parlent aux humains de leur félicité future ; ni les jardins des Hespérides, dont les arbres se courbent sous le poids de l’or qui compose leurs fruits, ne furent plus charmants que ce bocage enchanté par la présence de Thémire.</p>
+
+<p>Je me souviens qu’un satyre, qui suiv<oa/>it une nymphe qui fuy<oa/>it tout éplorée, nous vit, et s’arrêta. Heureux amants ! s’écria-t-il, vos yeux savent s’entendre et se répondre ; vos soupirs sont payés par des soupirs ! Mais moi, je passe ma vie sur les traces d’une bergère farouche ;<pagenum v="v2" num="53"/> malheureux pendant que je la poursuis, plus malheureux encore quand je l’ai atteinte<noteref noteid="2.53.1"/>.</p>
+
+<note id="2.52.1" type="e"><p>Colardeau :</p>
+<p>Ma raison est dans la main des dieux ;</p>
+<p>Mais mon cœur, tout à toi, n’est point sous leur empire.</p>
+</note>
+
+<note id="2.52.2" type="v"><p>A. Jamais les bois d’Elysée, etc.</p></note>
+
+
+<p>Une jeune nymphe, seule dans ce bois<noteref noteid="2.53.2"/>, nous aperçut et soupira. Non, dit-elle, ce n’est que pour augmenter mes tourments, que le cruel Amour me fait voir un amant si tendre.</p>
+
+<p>Nous trouvâmes Apollon assis auprès d’une fontaine. Il av<oa/>it suivi Diane, qu’un daim timide av<oa/>it menée dans ces bois. Je le reconnus à ses blonds cheveux, et à la troupe immortelle qui ét<oa/>it autour de lui. Il accord<oa/>it sa lyre ; elle attire les rochers ; les arbres la suivent, les lions restent immobiles. Mais nous entrâmes plus avant dans les forêts, appelés en vain par cette divine harmonie.</p>
+
+<p>Où croyez-vous que je trouvai l’Amour ? Je le trouvai sur les lèvres de Thémire ; je le trouvai ensuite sur son sein : il s’ét<oa/>it sauvé à ses pieds : je l’y trouvai encore : il se cacha sous ses genoux ; je le suivis ; et je l’aur<oa/>is toujours suivi, si Thémire tout en pleurs, Thémire irritée ne m’eût arrêté. Il ét<oa/>it à sa dernière retraite : elle est si charmante, qu’il ne saur<oa/>it la quitter. C’est ainsi qu’une tendre fauvette, que la crainte et l’amour retiennent sur ses petits, reste immobile sous la main avide qui s’approche, et ne peut consentir à les abandonner.</p>
+
+<p>Malheureux que je suis ! Thémire écouta mes plaintes, et elle n’en fut point attendrie : elle entendit mes prières, et elle devint plus sévère. Enfin je fus téméraire ; elle s’indigna : je tremblai ; elle me parut fâchée : je pleurai ; elle me rebuta : je tombai ; et je sentis que mes soupirs<pagenum v="v2" num="54"/> all<oa/>ient être mes derniers soupirs, si Thémire n’av<oa/>it mis la main sur mon cœur, et n’y eût ramené la vie<noteref noteid="2.54.1"/>.</p>
+
+
+<note id="2.53.1" type="v"><p>A. Lorsque je l’ai atteinte.</p></note>
+
+<note id="2.53.2" type="v"><p>A. Dans ces bois.</p></note>
+
+<p>Non, dit-elle, je ne suis pas si cruelle que toi ; car je n’ai jamais voulu te faire mourir, et tu veux m’entraîner dans la nuit du tombeau.</p>
+
+<p>Ouvre ces yeux mourants, si tu ne veux que les miens se ferment pour jamais.</p>
+
+<p>Elle m’embrassa : je reçus ma grâce, hélas ! sans espérance de devenir coupable.</p>
+
+<note id="2.54.1" type="v"><p>A. Et n’y eût rappelé la vie.</p></note>
+
+</div>
+
+</div>
+
+
+<div id="cephise" toc="Cëphise et l’Amour">
+
+<pagenum v="v2" num="55"/>
+
+<h1>CÉPHISE ET L’AMOUR</h1>
+
+<pagenum v="v2" num="56"/>
+
+<blockquote>
+<p><i>Comme la pièce suivante m’a paru être du même auteur, j’ai cru devoir la traduire et la mettre </i>ici.</p>
+</blockquote>
+
+<pagenum v="v2" num="57"/>
+
+<p>Un jour que j’err<oa/>is dans les bois d’Idalie avec la jeune Céphise, je trouvai l’Amour qui dorm<oa/>it couché sur des fleurs<noteref noteid="2.57.1"/>, et couvert par quelques branches de myrte, qui céd<oa/>ient doucement aux haleines des Zéphyrs. Les Jeux et les Ris, qui le suivent toujours, ét<oa/>ient allés folâtrer loin de lui : il ét<oa/>it seul. J’av<oa/>is l’Amour en mon pouvoir ; son arc et son carquois ét<oa/>ient à ses côtés ; et, si j’av<oa/>is voulu, j’aur<oa/>is volé les armes de l’Amour. Céphise prit l’arc du plus grand des dieux : elle y mit un trait, sans que je m’en aperçusse, et le lança contre moi. Je lui dis en souriant : Prends-en un second ; fais-moi une autre blessure ; celle-ci est trop douce. Elle voulut ajuster un autre trait ; il lui tomba sur le pied ; et elle cri<oa/>it<noteref noteid="2.57.2"/> doucement : c’ét<oa/>it le trait le plus pesant qui fût dans le carquois de l’Amour ! Elle le reprit, le fit voler ; il me frappa, je me baissai : Ah ! Céphise, tu veux donc me faire mourir ? Elle s’approcha de l’Amour. Il dort profondément, dit-elle ; il s’est fatigué à lancer ses traits. Il faut cueillir des fleurs, pour lui lier les pieds et les mains, Ah ! je n’y puis consentir ; car il nous a toujours favorisés. Je vais donc, dit-elle, prendre ses armes, et lui tirer une<pagenum v="v2" num="58"/> flèche de toute ma force. Mais il se réveillera, lui dis-je. Eh bien ! qu’il se réveille ; que pourra-t-il faire que nous blesser davantage ? Non, non ; laissons-le dormir ; nous resterons auprès de lui ; et nous en serons plus enflammés.</p>
+
+<note id="2.57.1" type="v"><p>A. Sur les fleurs.</p></note>
+
+<note id="2.57.2" type="v"><p>A. Et elle cria, etc.</p></note>
+
+<p>Céphise prit alors des feuilles de myrte et de roses : Je veux, dit-elle, en couvrir l’Amour. Les Jeux et les Ris le chercheront, et ne pourront plus le trouver. Elle les jeta sur lui ; et elle ri<oa/>it de voir le petit dieu presque enseveli. Mais à quoi m’amusé-je ? dit-elle. Il faut lui couper les ailes, afin qu’il n’y ait plus sur la terre d’hommes volages ; car ce dieu<noteref noteid="2.58.1"/> va de cœur en cœur, et porte partout l’inconstance. Elle prit ses ciseaux, s’assit, et tenant d’une main le bout des ailes dorées de l’Amour, je sentis mon cœur frappé de crainte. Arrête, Céphise. Elle ne m’entendit pas. Elle coupa le sommet des ailes de l’Amour, laissa ses ciseaux, et s’enfuit.</p>
+
+<p>Lorsqu’il se fut réveillé, il voulut voler ; il sentit un poids qu’il ne conn<oa/>iss<oa/>it pas. Il vit sur les fleurs le bout de ses ailes ; il se mit à pleurer. Jupiter, qui l’aperçut du haut de l’Olympe, lui envoya un nuage qui le porta dans le palais de Gnide, et le posa sur le sein de Vénus. Ma mère, dit-il, je batt<oa/>is de mes ailes sur votre sein ; on me les a coupées : que vais-je devenir<noteref noteid="2.58.2"/> ? Mon fils, dit la belle Cypris, ne pleurez point ; restez sur mon sein, ne bougez pas ; la chaleur va les faire renaître. Ne voyez-vous pas qu’elles sont plus grandes ? Embrassez-moi : elles croissent : vous les aurez bientôt comme vous les aviez ; j’en vois déjà le sommet qui se dore : dans un<pagenum v="v2" num="59"/> moment... C’est assez, volez, volez, mon fils. Oui, dit-il, je vais me hasarder. Il s’envola ; il se reposa auprès de Vénus, et revint d’abord sur son sein. Il reprit l’essor ; il alla se reposer un peu plus loin, et revint encore sur le sein de Vénus. Il l’embrassa ; elle lui sourit : il l’embrassa encore, et badina avec elle ; et enfin il s’éleva dans les airs, d’où il règne sur toute la nature.</p>
+
+<note id="2.58.1" type="v"><p>A. Car le petit dieu.</p></note>
+
+<note id="2.58.2" type="v"><p>A. Hé ! que vais-je devenir ?</p></note>
+
+<p>L’Amour, pour se venger de Céphise, l’a rendue la plus volage de toutes les Belles. Il la fait brûler chaque jour d’une nouvelle flamme. Elle m’a aimé ; elle a aimé Daphnis ; et elle aime aujourd’hui Cléon. Cruel Amour, c’est moi que vous punissez ! Je veux bien porter la peine de son crime ; mais n’auriez-vous point d’autres tourments à me faire souffrir ?</p>
+
+<pagenum v="v2" num="60"/>
+
+</div>
+
+<div id="tgv" toc="Le Temple de Gnide mis en vers par Léonard">
+
+<pagenum v="v2" num="61"/>
+
+<h1>LE TEMPLE DE GNIDE</h1>
+
+<h2>MIS EN VERS</h2>
+<h2>PAR LÉONARD</h2>
+<h2>1774</h2>
+
+<pagenum v="v2" num="62"/>
+
+<div id="tgv.notice" toc="Notice sur Léonard">
+
+<pagenum v="v2" num="63"/>
+
+<h1>NOTICE SUR LÉONARD</h1>
+
+<vsep class="rule"/>
+
+<p>Nicolas-Germain Léonard, né à la Guadeloupe en 1744, mort à Nantes, le 26 janvier 1793, lo jour même où il allait s’embarquer pour retourner dans son île natale, s’est fait connaître par ses <i>Idylles, </i>inspirées de Gessner, et par deux romans qui eurent leur jour de célébrité : <i>la Nouvelle Clémentine </i>et les <i>Lettres de deux Amants de Lyon. </i>Il y a dans ses poésies quelque chose du naturel et de la grâce qu’on prête aux créoles ; on en jugera par ces <i>Stances sur le bois de Romainville, </i>qu’il écrivit en 1792, à son retour d’Amérique, où il avait été envoyé en 1787, avec le titre de lieutenant général de l’Amirauté et de vice-sénéchal de la Guadeloupe.</p>
+
+<blockquote>
+<poem>
+<lg>
+<l>Enfin je suis loin des orages !</l>
+<l>Les dieux ont pitié de mon sort !</l>
+<l>O mer ! si jamais tu m’engages</l>
+<l>A fuir les délices du port ;</l>
+</lg>
+<lg>
+<l>Que les tempêtes conjurées,</l>
+<l>Que les flots et les ouragans</l>
+<l>Me livrent encore aux brigands</l>
+<l>Désolateurs de nos contrées !</l>
+</lg>
+<lg>
+<l>Quel fol espoir trompait mes vœux</l>
+<l>Dans cette course vagabonde !</l>
+<l>Le bonheur ne court pas le monde ;</l>
+<l>Il faut vivre où l’on est heureux.</l>
+</lg>
+<lg>
+<l>Je reviens de mes longs voyages</l>
+<l>Charge d’ennuis et de regrets ;</l>
+<l>Fatigué de mes goûts volages,</l>
+<l>Vide des biens que j’espérais.</l>
+</lg>
+<pagenum v="v2" num="64"/>
+<lg>
+<l>Dieux des champs ! dieux de l’innocence !</l>
+<l>Le temps me ramène à vos pieds ;</l>
+<l>J’ai revu le ciel de la France,</l>
+<l>Et tous mes maux sont oubliés.</l>
+<vsep class="dots"/>
+</lg>
+<lg>
+<l>O campagnes toujours chéries !</l>
+<l>Est-ce bien vous que je revois !</l>
+<l>Déjà dans la paix de ces bois</l>
+<l>Je retrouve mes rêveries.</l>
+<vsep class="dots"/>
+</lg>
+<lg>
+<l>J’ai vu le monde et ses misères,</l>
+<l>Je suis las de le parcourir ;</l>
+<l>C’est dans ces ombres tutélaires,</l>
+<l>C’est ici que je veux mourir.</l>
+</lg>
+<lg>
+<l>Je graverai sur quelque hêtre :</l>
+<l>Adieu, fortune ; adieu, projets !</l>
+<l>Adieu, rocher qui m’as vu naître !</l>
+<l>Je renonce à vous pour jamais.</l>
+</lg>
+<lg>
+<l>Que je puisse cacher ma vie</l>
+<l>Sous les feuilles d’un arbrisseau,</l>
+<l>Comme le frêle vermisseau</l>
+<l>Qu’enferme une tige fleurie !</l>
+</lg>
+<lg>
+<l>Si l’enfant qui porte un bandeau</l>
+<l>Voulait embellir mon asile,</l>
+<l>O bocage de Romainville !</l>
+<l>Couronne de fleurs ton berceau.</l>
+</lg>
+<lg>
+<l>Et si, sans bruit et sans escorte,</l>
+<l>L’amitié venait sur ses pas</l>
+<l>Frapper doucement à ma porte,</l>
+<l>Laisse-la voler dans mes bras !</l>
+</lg>
+<lg>
+<l>Amours, plaisirs, troupe céleste,</l>
+<l>Ne pourrai-je vous attirer,</l>
+<l>Et le dernier bien qui me reste</l>
+<l>Est-il la douceur de pleurer ?</l>
+</lg>
+</poem>
+</blockquote>
+
+<p>ll n’existe qu’une édition complète des œuvres de Léonard. Elle forme trois volumes in-8°. Elle a été publiée à Paris en 1797 chez Didot, par le neveu du poëte, Vincent Campenon, qui devint plus tard membre de l’Académie française.</p>
+
+
+</div>
+
+<div id="tgv.manes" toc="Aux manes du marquis De Chauvelin">
+
+<pagenum v="v2" num="65"/>
+
+<h1>AUX MANES DU MARQUIS DE CHAUVELIN</h1>
+
+<poem>
+<l>Toi qui des ombres fortunées</l>
+<l>Habites les bois toujours verts !</l>
+<l>Je t’ai vu sourire à ces vers</l>
+<l>Tracés dans mes jeunes années.</l>
+<l>C’est en vain qu’en l’honneur du dieu</l>
+<l>Qui m’apprit à trouver la rime,</l>
+<l>Sur mon ouvrage, en plus d’un lieu,</l>
+<l>Je viens de repasser la lime ;</l>
+<l>Ses défauts resteront toujours.</l>
+<l>Montesquieu peignit une belle</l>
+<l>Simple, naïve, sans atours :</l>
+<l>J’ornai sa beauté naturelle ;</l>
+<l>J’en demande grâce aux Amours.</l>
+<l>Quand je rimais par fantaisie</l>
+<l>Cet écrit d’un heureux génie,</l>
+<l>Tu sais qu’à charmer mon loisir</l>
+<l>Je bornai ma lyre timide,</l>
+<l>Et qu’un simple habitant de Gnide,</l>
+<l>D’une gloire souvent perfide</l>
+<l>N’a jamais connu le désir.</l>
+<l>Ma muse n’est qu’une mortelle.</l>
+<l>Et n’attend rien de l’avenir ;</l>
+<l>Mais je revois avec plaisir</l>
+<l>Sa poétique bagatelle,</l>
+
+<pagenum v="v2" num="66"/>
+
+<l>Comme on voit un lieu qui rappelle</l>
+<l>Un agréable souvenir.</l>
+<l>O Gnide ! ô campagnes si chères !</l>
+<l>Bois consacrés aux doux mystères !</l>
+<l>Que j’aimais vos jeunes bergères</l>
+<l>Dont l’innocence est le trésor,</l>
+<l>Et ces jeux, ces danses légères,</l>
+<l>Ces cœurs purs, ces amours sincères,</l>
+<l>Ces mœurs dignes de l’âge d’or !</l>
+<l>Tous ces biens sont imaginaires ;</l>
+<l>Mais j’ai joui de leurs chimères,</l>
+<l>Et j’en voudrais jouir encor.</l>
+</poem>
+
+</div>
+
+<div id="tgv.tgv" toc="Le temple de Gnide">
+
+<pagenum v="v2" num="67"/>
+
+<h1>LE TEMPLE DE GNIDE</h1>
+
+<div id="tgv.chant1" toc="Chant Premier">
+
+<h2>CHANT PREMIER.</h2>
+
+<poem>
+<lg>
+<l>Vénus à Gnide aime à fixer sa cour ;</l>
+<l>Elle n’a point de plus riant séjour :</l>
+<l>Jamais son char ne quitte l’Empyrée</l>
+<l>Sans aborder à ce rivage heureux.</l>
+<l>Fiers de la voir se confondre avec eux,</l>
+<l>Les Gnidiens, à sa vue adorée,</l>
+<l>N’éprouvent plus cette frayeur sacrée</l>
+<l>Que fait sentir la présence des dieux :</l>
+<l>Si d’un nuage elle marche entourée,</l>
+<l>On reconnaît l’aimable Cythérée</l>
+<l>Au seul parfum qu’exhalent ses cheveux.</l>
+<l indent="1">Gnide s’élève au sein d’une contrée</l>
+<l>Où la nature a versé ses bienfaits :</l>
+<l>Le doux printemps l’embellit à jamais.</l>
+<l>Une chaleur égale et tempérée</l>
+<l>Y fait tout naître, et prévient nos souhaits.</l>
+<l>Vous n’entendez que le bruit des fontaines</l>
+<l>Et le concert des oiseaux amoureux :</l>
+<l>Les bois émus semblent harmonieux :</l>
+<l>Mille troupeaux bondissent dans les plaines :</l>
+<l>L’esprit des fleurs, par les vents emporté,</l>
+<l>De toutes parts embaume leurs haleines ;</l>
+<l>L’air s’y respire avec la volupté.</l>
+
+<pagenum v="v2" num="68"/>
+
+<l>Près de la ville, habite l’immortelle :</l>
+<l>Vulcain bâtit son palais somptueux,</l>
+<l>Pour réparer l’affront qu’à l’infidèle</l>
+<l>Il fit jadis, en présence des dieux.</l>
+</lg>
+<lg>
+<l>Il n’appartient qu’aux Grâces de décrire</l>
+<l>Tous les attraits de ces lieux enchantés ;</l>
+<l>L’or, les rubis, l’agate et le porphyre</l>
+<l>En font le luxe, et non pas les beautés.</l>
+</lg>
+<lg>
+<l>Dans les vergers, partout on voit éclore</l>
+<l>Les dons brillants de Pomone et de Flore ;</l>
+<l>Sur les rameaux la fleur succède au fruit ;</l>
+<l>Le bouton sort du bouquet qui s’effeuille ;</l>
+<l>Le fruit renaît sous la main qui le cueille :</l>
+<l>Les Gnidiens que Vénus y conduit</l>
+<l>Foulent en vain l’émail de la verdure :</l>
+<l>Par un pouvoir, rival de la nature,</l>
+<l>Le frais gazon soudain se reproduit.</l>
+</lg>
+<lg>
+<l>Vénus permet à ses nymphes légères</l>
+<l>De se mêler aux danses des bergères :</l>
+<l>Là, quelquefois assise à leur côté,</l>
+<l>Se dépouillant de sa grandeur suprême,</l>
+<l>Elle contemple et partage elle-même</l>
+<l>De ces cœurs purs l’innocente gaîté.</l>
+<l>On voit de loin une vaste campagne</l>
+<l>Qui fait briller les plus vives couleurs :</l>
+<l>Le jeune amant y mène sa compagne.</l>
+<l>Fait-elle choix de la moindre des fleurs ?</l>
+<l>Pour son berger c’est toujours la plus belle</l>
+<l>Il croit que Flore exprès la fit pour elle.</l>
+</lg>
+<lg>
+<l>L’eau du Céphée y fait mille détours :</l>
+<l>Elle y retient les belles fugitives :</l>
+<l>Il faut payer, quand on est sur ses rives,</l>
+<l>Le doux baiser qu’on promit aux amours.</l>
+<l indent="1">Au seul abord de quelque nymphe agile,</l>
+
+<pagenum v="v2" num="69"/>
+
+<l>Le fleuve épris est fixé dans son cours :</l>
+<l>Le flot qui fuit trouve un flot immobile.</l>
+<l>Se baigne-t-elle ? amant de sa beauté,</l>
+<l>Il l’environne, il lui forme une chaîne ;</l>
+<l>Vous le voyez, bouillant de volupté,</l>
+<l>Qui se soulève, et l’embrasse, et l’entraîne :</l>
+<l>La nymphe tremble, et pour la rassurer</l>
+<l>Il la soutient sur sa liquide plaine,</l>
+<l>Avec orgueil lentement la promène ;</l>
+<l>Et vous diriez, près de s’en séparer,</l>
+<l>Qu’en sons plaintifs il exhale sa peine.</l>
+</lg>
+<lg>
+<l>Dans la campagne, un bois de myrte frais</l>
+<l>Offre aux amants l’abri de son feuillage :</l>
+<l>L’amour forma ces asiles discrets</l>
+<l>Pour égarer le couple qu’il engage,</l>
+<l>Toujours guidé vers des lieux plus secrets,</l>
+<l>Toujours couvert d’un plus épais ombrage.</l>
+</lg>
+<lg>
+<l>Non loin de là, des chênes sourcilleux.</l>
+<l>De noirs sapins dont la voûte touffue</l>
+<l>S’entr’ouvre à peine à la clarté des cieux,</l>
+<l>Percent la terre, et cachent dans la nue</l>
+<l>Leur vieux sommet qui se dérobe aux yeux.</l>
+<l>D’un saint effroi l’âme y ressent l’atteinte ;</l>
+<l>Des immortels on croit voir le séjour :</l>
+<l>Ils ont sans doute habité cette enceinte,</l>
+<l>Quand l’homme encor n’avait point vu le jour.</l>
+</lg>
+<lg>
+<l>Hors de ces bois, et sur une colline,</l>
+<l>S’élève un temple à Vénus consacré :</l>
+<l>Il fut bâti par une main divine ;</l>
+<l>L’art l’enrichit, les Grâces l’ont paré.</l>
+</lg>
+<lg>
+<l>Bel Adonis ! Vénus, dans ce lieu même,</l>
+<l>A ton aspect brûla d’un nouveau feu.</l>
+<l>Peuples, dit-elle, adorez ce que j’aime !</l>
+<l>Dans mon empire il n’est plus d’autre dieu.</l>
+
+
+<pagenum v="v2" num="70"/>
+
+<l>Vénus encor, lorsque deux immortelles</l>
+<l>De la beauté lui disputaient le prix,</l>
+<l>Y consulta ses compagnes fidèles.</l>
+<l>Comment s’offrir aux regards de Paris ?</l>
+<l>Déjà sur elle on répand l’ambroisie ;</l>
+<l>Elle a caché sous l’or de ses cheveux</l>
+<l>Cette ceinture où folâtrent les jeux ;</l>
+<l>Son char l’emporte, elle arrive en Phrygie.</l>
+<l>L’heureux berger balançait dans son choix ;</l>
+<l>Mais il la voit, soudain son cœur la nomme :</l>
+<l>Il veut parler, rougit, reste sans voix,</l>
+<l>Et de ses mains laisse échapper la pomme.</l>
+</lg>
+<lg>
+<l>Jeune Psyché ! l’Amour, sous ces lambris,</l>
+<l>Par tes regards fut lui-même surpris.</l>
+<l>Quoi ! disait-il, est-ce ainsi que je blesse ?</l>
+<l>Mes traits, mon arc, tout pèse à ma faiblesse !</l>
+<l>Et dans l’ardeur de ses premiers soupirs,</l>
+<l>Il s’écriait au sein de sa maîtresse :</l>
+<l>Ah ! c’est à moi de donner les plaisirs !</l>
+</lg>
+<lg>
+<l>Ce temple auguste excite, dès l’entrée,</l>
+<l>Un doux transport qui remplit tous les sens :</l>
+<l>On est saisi de ces ravissements</l>
+<l>Que les dieux seuls goûtent dans l’Empyrée.</l>
+<l>Là, le génie enflammant ses pinceaux,</l>
+<l>Créa partout des peintures vivantes :</l>
+<l>On voit Vénus quittant le sein des eaux,</l>
+<l>Les dieux ravis de ses grâces naissantes,</l>
+<l>Son embarras né de sa nudité,</l>
+<l>Et sa pudeur, la première beauté.</l>
+</lg>
+<lg>
+<l>On y voit Mars fier et même terrible :</l>
+<l>Du haut d’un char, dans sa course invincible,</l>
+<l>Le dieu s’élance au milieu des combats ;</l>
+<l>Dans son œil noir un feu guerrier s’allume ;</l>
+<l>La Renommée a volé sur ses pas,</l>
+<l>Et ses chevaux poudreux, couverts d’écume,</l>
+
+<pagenum v="v2" num="71"/>
+
+<l>Ont devancé la Peur et le Trépas.</l>
+<l>Plus loin, couché sur un lit de verdure,</l>
+<l>A Cythérée il sourit mollement :</l>
+<l>Ce n’est plus Mars ; on cherche vainement</l>
+<l>Son front altier qu’adoucit la peinture ;</l>
+<l>Avec des fleurs l’amour les a liés :</l>
+<l>Le couple amant se regarde, soupire,</l>
+<l>Et ne voit point, dans cet heureux délire,</l>
+<l>L’enfant malin qui badine à ses pieds.</l>
+</lg>
+<lg>
+<l>Des lieux secrets offrent une autre scène :</l>
+<l>Vous y voyez les noces de Vulcain.</l>
+<l>L’Olympe assiste à ce bizarre hymen ;</l>
+<l>Du dieu rêveur vous remarquez la gêne :</l>
+<l>Vénus, par grâce, abandonne une main</l>
+<l>Qui semble fuir de la main qui l’entraîne :</l>
+<l>Sur cet époux son regard porte à peine,</l>
+<l>Et vers l’Amour se détourne soudain.</l>
+</lg>
+<lg>
+<l>On voit Junon, dans une autre peinture,</l>
+<l>De leur hymen former les tristes nœuds.</l>
+<l>La coupe en main, Vénus devant les dieux</l>
+<l>Donne sa foi ; le ciel rit du parjure ;</l>
+<l>Vulcain l’écoute avec un front joyeux.</l>
+</lg>
+<lg>
+<l>Au lit d’hymen l’époux veut la conduire :</l>
+<l>Elle résiste ; et si l’œil qui l’admire</l>
+<l>Se méprenait à l’éclat de ses traits,</l>
+<l>On croirait voir la fille de Cérés</l>
+<l>Que va ravir le dieu du sombre empire.</l>
+</lg>
+<lg>
+<l>Il la saisit ; les dieux suivent leurs pas :</l>
+<l>Vénus en pleurs s’agite dans ses bras ;</l>
+<l>Sa robe tombe ; elle est à demi nue :</l>
+<l>De sa pudeur il sauve l’embarras.</l>
+<l>Plus attentif à couvrir tant d’appas.</l>
+<l>Qu’impatient de jouir de leur vue.</l>
+</lg>
+<lg>
+<l>Au fond du temple il paraît sans témoin ;</l>
+
+<pagenum v="v2" num="72"/>
+
+<l>L’épouse touche au fatal sacrifice :</l>
+<l>Dans ses rideaux il l’enferme avec soin :</l>
+<l>Chaque déesse en rit avec malice.</l>
+<l>On voit les dieux qui vont gémir au loin ;</l>
+<l>Mais ce moment pour Mars est un supplice.</l>
+</lg>
+<lg>
+<l>Vénus créa, dans ce temple enchanté,</l>
+<l>Des jeux sacrés, et le culte qu’elle aime :</l>
+<l>Toujours présente, elle en est elle-même</l>
+<l>Et le pontife et la divinité.</l>
+<l indent="1">De toutes parts on lui rend, dans les villes,</l>
+<l>Un culte impur qui blesse la pudeur :</l>
+<l>Il est un temple où des beautés faciles</l>
+<l>Vont s’enrichir des fruits du déshonneur :</l>
+<l>Il est un temple où l’épouse adultère</l>
+<l>A son amant s’abandonne une fois,</l>
+<l>Et va jeter au fond du sanctuaire</l>
+<l>L’or criminel dont il paya son choix.</l>
+<l>Ailleurs encore, on voit des courtisanes</l>
+<l>A ses autels porter leurs dons profanes,</l>
+<l>Plus honorés que ceux de la vertu ;</l>
+<l>On voit enfin, sous l’habit de prêtresse,</l>
+<l>Des hommes vils, offrir à la déesse</l>
+<l>Le vain regret de leur sexe perdu.</l>
+<l indent="1"> Les Gnidiens rendent à l’immortelle</l>
+<l>Des honneurs purs, qu’elle change en plaisirs.</l>
+<l>Pour sacrifice, on offre des soupirs,</l>
+<l>Et pour hommage, un cœur tendre et fidèle.</l>
+<l>Partout, à Gnide, on adore une belle ;</l>
+<l>Comme Vénus elle est fille des cieux :</l>
+<l>A son amante on adresse des vœux.</l>
+<l>Et c’est Vénus qui les reçoit pour elle.</l>
+</lg>
+<lg>
+<l>D’heureux amants, remplis de leur ardeur,</l>
+<l>Vont embrasser l’autel de la Constance ;</l>
+<l>Ceux qu’une ingrate accable de rigueur</l>
+<l>Y vont chercher la flatteuse Espérance.</l>
+<l>Loin les cœurs froids qui n’ont jamais aimé !</l>
+
+<pagenum v="v2" num="73"/>
+
+<l>Le sanctuaire à leurs vœux est fermé.</l>
+<l>Ces malheureux conjurent l’immortelle</l>
+<l>De leur ouvrir la source des plaisirs,</l>
+<l>De les sauver de cette paix cruelle</l>
+<l>Que laisse en eux l’absence des désirs.</l>
+</lg>
+<lg>
+<l>Vénus inspire aux bergères de Gnide</l>
+<l>La modestie et sa grâce timide,</l>
+<l>Qui, sous le voile, ajoute à la beauté ;</l>
+<l>Mais leur front pur, où la candeur réside,</l>
+<l>Ne rougit point d’un aveu mérité.</l>
+</lg>
+<lg>
+<l>Dans ces beaux lieux, le cœur fixe lui-même</l>
+<l>L’instant charmant de se rendre à ses feux :</l>
+<l>Il est si doux de céder quand on aime !</l>
+<l>Mais, sans aimer... est-ce faire un heureux ?</l>
+<l indent="1">L’Amour choisit les traits dont il nous blesse.</l>
+<l>Les uns, trempés dans les eaux du Léthé,</l>
+<l>Sont pour l’amant que fuit une maîtresse :</l>
+<l>Armés de feux, d’autres volent sans cesse</l>
+<l>Sur deux cœurs neufs et pleins de volupté ;</l>
+<l>Il a laissé ces traits faits pour la guerre,</l>
+<l>Qui déchiraient Ariane et sa sœur,</l>
+<l>Et dont ses bras s’armaient dans sa fureur.</l>
+<l>Comme le ciel s’arme de son tonnerre.</l>
+<l indent="1"> Quand l’art d’aimer est donné par l’Amour,</l>
+<l>Vénus y joint l’art séduisant de plaire.</l>
+<l>A son autel les filles, chaque jour,</l>
+<l>Vont adresser leur naïve prière.</l>
+<l>L’une disait, avec un doux souris :</l>
+<l>Reine des cœurs ! renferme dans mon âme.</l>
+<l>Pour quelque temps, le secret de ma flamme,</l>
+<l>Et mes aveux en auront plus de prix.</l>
+<l>L’autre disait : Divinité suprême !</l>
+<l>Tu sais qu’Hylas ne m’intéresse plus :</l>
+<l>Ne me rends point les feux que j’ai perdus ;</l>
+<l>Fuis seulement, fais que Myrtile m’aime.</l>
+<l>Aucun plaisir ne saurait me charmer,</l>
+
+<pagenum v="v2" num="74"/>
+
+<l>Disait une autre ; en secret je soupire :</l>
+<l>J’aime peut-être !... Ah ! si je puis aimer,</l>
+<l>Le jeune Atys a pu seul me séduire.</l>
+</lg>
+<lg>
+<l>A Gnide, alors il était deux enfants</l>
+<l>Simples, naïfs, d’une candeur si pure,</l>
+<l>Qu’ils paraissaient, après quinze printemps,</l>
+<l>Sortir encor des mains de la nature.</l>
+<l>Se regarder, se serrer dans leurs bras</l>
+<l>Satisfaisait leur paisible innocence :</l>
+<l>Heureux par elle, ils ne soupçonnaient pas</l>
+<l>Qu’il fût au monde une autre jouissance !</l>
+<l>Mais une abeille, aux lèvres du berger</l>
+<l>Fit une plaie ; et pour le soulager,</l>
+<l>Philis pressa, de sa bouche vermeille,</l>
+<l>L’endroit blessé par le dard de l’abeille.</l>
+<l>Qu’arrive-t-il ? Un tourment plus fâcheux,</l>
+<l>Depuis ce jour, les a surpris tous deux :</l>
+<l>Daphnis s’émeut dès que Philis le touche ;</l>
+<l>Il ne fait plus que songer au baiser :</l>
+<l>Toute la nuit, soupirant sur sa couche,</l>
+<l>Il se désole et ne peut reposer.</l>
+<l>Daphnis enfin consulta la déesse,</l>
+<l>Pour obtenir un remède à ses feux :</l>
+<l>Vénus lui dit le moyen d’être heureux,</l>
+<l>Et le berger l’apprit à sa maîtresse.</l>
+</lg>
+<lg>
+<l>Dans les beaux jours, une aimable jeunesse</l>
+<l>Près de Vénus va réciter des vers ;</l>
+<l>Et ces amants, dans leurs tendres concerts,</l>
+<l>Chantent sa gloire en chantant leur faiblesse.</l>
+</lg>
+<lg>
+<l>Dirai-je, amis, tout ce qui m’a charmé ?</l>
+<l>J’étais à Gnide au printemps de mon âge ;</l>
+<l>J’y vis Thémire, aussitôt je l’aimai ;</l>
+<l>Je la revis, et l’aimai davantage.</l>
+<l>Je suis à Gnide, et j’y passe mes jours,</l>
+<l>Le luth en main, soupirant mes amours.</l>
+
+<pagenum v="v2" num="75"/>
+
+<l>Thémire et moi, guidés du même zèle,</l>
+<l>Nous entrerons dans le temple, et jamais</l>
+<l>On n’y verra de couple aussi fidèle ;</l>
+<l>Et nous irons visiter le palais,</l>
+<l>Et je croirai que Thémire est chez elle ;</l>
+<l>Et je veux joindre aux roses de son sein</l>
+<l>Quelques bouquets cueillis au champ voisin ;</l>
+<l>Et si je puis l’égarer au bocage,</l>
+<l>Dont les détours trompent l’œil incertain</l>
+<l>Mais, paix ! l’Amour, maître de mon destin,</l>
+<l>Me punirait d’en dire davantage.</l>
+
+</lg>
+</poem>
+
+</div>
+
+<div id="tgv.chant2" toc="Chant second">
+
+<pagenum v="v2" num="76"/>
+
+<h2>CHANT SECOND.</h2>
+
+<poem>
+<lg>
+<l>A Gnide il est un antre aux nymphes consacré ;</l>
+<l>L’amant sur ses destins on revient éclairé ;</l>
+<l>On n’y voit point trembler la terre mugissante.</l>
+<l>Sur le front palissant se dresser les cheveux,</l>
+<l>Et sur le trépied d’or la prêtresse écumante</l>
+<l>S’agiter en fureur à la voix de ses dieux.</l>
+<l>Vénus prête aux humains une oreille indulgente,</l>
+<l>Sans tromper de leurs cœurs les soupçons ou les vœux.</l>
+</lg>
+<lg>
+<l>Une fille de Crète aborda l’immortelle :</l>
+<l>Des flots d’adorateurs s’empressaient autour d’elle :</l>
+<l>A l’oreille de l’un elle parlait tout bas ;</l>
+<l>Elle accordait à l’autre un souris plein de charmes ;</l>
+<l>Sur un troisième encore elle appuyait son bras.</l>
+<l>O ciel ! que dans la foule elle causa d’alarmes !</l>
+<l>Combien elle était belle et parée avec art !</l>
+<l>Sa voix était perfide, ainsi que son regard :</l>
+<l>D’une divinité la démarche est moins fière</l>
+<l>Mais Vénus lui cria : Sors de mon sanctuaire ;</l>
+<l>Oses-tu bien porter ton manège imposteur</l>
+<l>Jusqu’aux lieux où l’amour règne avec la candeur ?</l>
+<l>Je veux qu’à ta beauté ce même orgueil survive.</l>
+<l>Je te laisse ton cœur et détruis tes appas ;</l>
+<l>Les hommes te fuiront comme une ombre plaintive ;</l>
+<l>Et le mépris vengeur, attaché sur tes pas,</l>
+<l>Poursuivra, chez les morts, ton âme fugitive.</l>
+<l>Fléau de ses amants, riche de leurs débris,</l>
+<l>Des murs de Nocrétis vint une courtisane.</l>
+<l>Quel faste était le sien ! de sa flamme profane,</l>
+<l>Avec un front superbe, elle étalait le prix.</l>
+
+<pagenum v="v2" num="77"/>
+
+<l>Crois-tu, dit la déesse, honorer ma puissance ?</l>
+<l>Ton cœur ressemble au fer : dans ton indifférence,</l>
+<l>Mon fils même, oui, mon fils ne saurait t’enchaîner</l>
+<l>Au lâche qui t’appelle et va t’abandonner.</l>
+<l>D’un charme séducteur tu montres l’apparence :</l>
+<l>Ta beauté, dont tu vends la froide jouissance,</l>
+<l>Promet bien le plaisir, mais ne peut le donner...</l>
+<l>Fuis, porte loin de moi ton culte qui m’offense.</l>
+<l>Un homme riche et fier vint, quelque temps après ;</l>
+<l>Il levait des tributs pour le roi de Lydie,</l>
+<l>Et s’était chargé d’or, espérant qu’à grands frais</l>
+<l>Il pourrait s’enflammer une fois en sa vie.</l>
+<l>J’ai bien, lui dit Vénus, la vertu de charmer.</l>
+<l>Mais je ne puis répondre à ce que tu souhaites :</l>
+<l>Tu prétends acheter la beauté pour l’aimer ;</l>
+<l>Mais tu ne l’aimes point, puisqu’enfin tu l’achètes.</l>
+<l>Ton or ne va servir qu’à t’ôter pour jamais</l>
+<l>Le goût délicieux des plus charmants objets.</l>
+</lg>
+<lg>
+<l>Aristée arriva des champs de la Doride.</l>
+<l>Il avait vu Camille aux campagnes de Gnide ;</l>
+<l>Il en était épris, et, tout brûlant de feux,</l>
+<l>Il venait demander de l’aimer encor mieux.</l>
+<l>La déesse lui dit : Je connais bien ton âme :</l>
+<l>Tu sais aimer ; Camille est digne de ta flamme :</l>
+<l>J’aurais pu la placer sur le trône d’un roi,</l>
+<l>Mais un simple berger mérite mieux sa foi.</l>
+<l>Je vins aussi, tenant la main de ma Thémire.</l>
+<l>La déesse nous dit : Jamais, dans mon empire,</l>
+<l>Je n’ai vu deux mortels plus soumis à ma loi.</l>
+<l>Mais que pourrais-je faire ? En vain je voudrais rendre</l>
+<l>Thémire plus charmante, et son ami plus tendre. —</l>
+<l>Ah ! lui dis-je, j’attends mille grâces de toi.</l>
+<l>Fais que dans chaque objet mon image tracée,</l>
+<l>De Thémire sans cesse amuse la pensée ;</l>
+<l>Qu’elle dorme et s’éveille en ne pensant qu’à moi ;</l>
+<l>Qu’absent elle m’espère, et, présent, craigne encore</l>
+<l>Le douloureux moment qui doit nous séparer :</l>
+
+<pagenum v="v2" num="78"/>
+
+<l>Fais que Thémire, enfin, du soir jusqu’à l’aurore,</l>
+<l>S’occupe de me voir ou de me désirer.</l>
+</lg>
+<lg>
+<l>Gnide alors célébrait des fêtes solennelles,</l>
+<l>Dont le spectacle attire une foule de belles :</l>
+<l>Ce peuple ambitieux accourt de toutes parts,</l>
+<l>Pour disputer le prix et fixer les regards.</l>
+<l>A leur cercle élégant la déesse préside,</l>
+<l>Et son choix, d’un coup d’œil, entr’elles se décide.</l>
+</lg>
+<lg>
+<l>Des remparts de Corinthe il vint trente beautés,</l>
+<l>Dont les cheveux tombaient en boucles ondoyantes :</l>
+<l>Dix autres, qui n’avaient que des grâces naissantes.</l>
+<l>Venaient de Salamine, et comptaient treize étés.</l>
+<l>Les filles de Lesbos se disaient l’une à l’autre :</l>
+<l>Mon cœur est tout ému, depuis que je vous voi :</l>
+<l>Vénus, si votre aspect l’enchante autant que moi,</l>
+<l>Parmi tant de beautés, doit couronner la vôtre.</l>
+</lg>
+<lg>
+<l>Milet avait fourni les plus rares trésors ;</l>
+<l>Cinquante objets, plus frais qu’une rose nouvelle,</l>
+<l>De la perfection présentaient le modèle.</l>
+<l>Mais les dieux, ne cherchant qu’à former de beaux corp</l>
+<l>Manquèrent d’y placer la grâce encor plus belle.</l>
+</lg>
+<lg>
+<l>Chypre avait envoyé cent femmes au concours.</l>
+<l>Elles disaient : Vénus a reçu nos prémices ;</l>
+<l>Au pied de ses autels nous passons nos beaux jour</l>
+<l>Et d’un scrupule vain, qui s’alarme toujours,</l>
+<l>Nos charmes, sans rougir, lui font des sacrifices.</l>
+</lg>
+<lg>
+<l>Celles que l’Eurotas vit naître sur ses bords,</l>
+<l>Dans leurs libres atours bravaient la modestie,</l>
+<l>Et, prétendant complaire aux lois de leur patrie,</l>
+<l>De l’austère pudeur se jouaient sans remords.</l>
+</lg>
+<lg>
+<l>Et toi, mer orageuse, en naufrages féconde !</l>
+<l>Tu sais nous conserver de précieux dépôts.</l>
+
+<pagenum v="v2" num="79"/>
+
+<l>Jadis tu t’apaisas, quand de jeunes héros</l>
+<l>Portaient la toison d’or sur ta plaine profonde ;</l>
+<l>Et cinquante beautés, qui sortaient de Colchos,</l>
+<l>Sous leur fardeau chéri firent courber ton onde.</l>
+</lg>
+<lg>
+<l>Dans un essaim nombreux de légers courtisans,</l>
+<l>Oriane parut, telle qu’une déesse :</l>
+<l>Les beautés de Lydie entouraient leur princesse ;</l>
+<l>Cent filles à Vénus apportaient ses présents.</l>
+<l>Distingué par son rang, moins que par sa tendresse,</l>
+<l>Candaule, jour et nuit, la dévorait des yeux ;</l>
+<l>Sur ses jeunes attraits sa vue errait sans cesse :</l>
+<l>Mon bonheur, disait-il, n’est connu que des dieux ;</l>
+<l>Il serait bien plus grand s’il donnait de l’envie.</l>
+<l>Belle reine, quittez cette toile ennemie ;</l>
+<l>Présentez-vous sans voile aux regards des mortels ,</l>
+<l>C’est peu du prix qu’on offre, il vous faut des autels.</l>
+</lg>
+<lg>
+<l>Près de là paraissaient vingt Babyloniennes :</l>
+<l>La pourpre de Sidon, l’or et les diamants,</l>
+<l>Sans augmenter leur prix, chargeaient leurs vêtements.</l>
+<l>Comme un signe d’attraits, d’autres encor plus vaines,</l>
+<l>Osaient bien étaler les dons de leurs amants.</l>
+</lg>
+<lg>
+<l>Cent brunes, qui du Nil habitent le rivage.</l>
+<l>Avaient à leurs côtés leurs dociles époux.</l>
+<l>Si les lois, disaient-ils, vous font régner sur nous.</l>
+<l>Votre beauté vous donne un plus grand avantage :</l>
+<l>Nos cœurs, après les dieux, ne chérissent que vous ;</l>
+<l>Il n’est point sous le ciel de plus doux esclavage.</l>
+<l>Le devoir vous répond de nos engagements ;</l>
+<l>Mais l’amour peut lui seul garantir vos serments.</l>
+<l>Aux honneurs de ces lieux montrez-vous moins sensibles</l>
+<l>Qu’au plaisir délicat de nous garder vos cœurs,</l>
+<l>De recueillir chez vous des hommages flatteurs,</l>
+<l>Et d’embellir le joug de vos maris paisibles.</l>
+</lg>
+<lg>
+<l>D’autres vinrent d’un port qui, sur toutes les mers,</l>
+
+<pagenum v="v2" num="80"/>
+
+<l>Déploie avec orgueil ses flottes opulentes :</l>
+<l>Il semblait qu’en ce jour leur parure brillante</l>
+<l>Avait de tout son luxe épuisé l’univers.</l>
+</lg>
+<lg>
+<l>Il vint de l’orient dix filles de l’Aurore :</l>
+<l>Ses nymphes, pour la voir, devançaient son réveil,</l>
+<l>Et de son prompt départ se plaignaient au Soleil :</l>
+<l>Elles voyaient leur mère, et se plaignaient encore</l>
+<l>Que le monde jouît de son éclat vermeil.</l>
+</lg>
+<lg>
+<l>Du fond de l’Inde, il vint une reine charmante :</l>
+<l>Ses enfants déjà beaux folâtraient dans sa tente :</l>
+<l>Des hommes la servaient en détournant les yeux :</l>
+<l>Esclaves mutilés, honteux de leur bassesse,</l>
+<l>Depuis qu’ils respiraient l’air brillant de ces lieux,</l>
+<l>Ils sentaient redoubler leur affreuse tristesse.</l>
+</lg>
+<lg>
+<l>Les femmes de Cadix se montraient sur les rangs.</l>
+<l>Les belles ont partout des hommages fidèles :</l>
+<l>Mais dans tous les climats, les honneurs les plus grands</l>
+<l>Peuvent seuls apaiser l’ambition des belles.</l>
+</lg>
+<lg>
+<l>Les bergères de Gnide attiraient tous les yeux :</l>
+<l>Quel doux frémissement s’élevait sur leurs traces !</l>
+<l>Au lieu d’or et de pourpre, elles avaient des grâces ;</l>
+<l>Les seuls présents de Flore entouraient leurs cheveux :</l>
+<l>Leurs guirlandes couvraient une gorge naissante</l>
+<l>Qui, pour fuir sa prison, s’agitait vainement ;</l>
+<l>Et leur robe de lin, dans leur simple agrément,</l>
+<l>Dessinait les contours d’une taille élégante.</l>
+</lg>
+<lg>
+<l>On ne vit point Camille à ces fameux débats :</l>
+<l>Que m’importe le prix, cher amant ? lui dit-elle ;</l>
+<l>C’est pour toi, pour toi seul que je veux être belle :</l>
+<l>Le reste est pour mon cœur comme s’il n’était pas.</l>
+</lg>
+<lg>
+<l>Diane dédaignait une gloire profane ;</l>
+<l>Mais on voyait briller ses charmes ingénus :</l>
+
+<pagenum v="v2" num="81"/>
+
+<l>Tandis qu’elle était seule, on la prit pour Vénus ;</l>
+<l>Diane avec Vénus n’était plus que Diane.</l>
+</lg>
+<lg>
+<l>Gnide, pendant ces jeux, présentait l’univers :</l>
+<l>On eût dit que l’Amour, pour un jour de conquête,</l>
+<l>Rassemblait des attraits de cent climats divers ;</l>
+<l>Jamais on n’avait vu de si pompeuse fête.</l>
+<l>La nature aux humains partage la beauté,</l>
+<l>Comme elle est assortie à chaque déité.</l>
+<l>Partout on retrouvait, d’espaces en espaces,</l>
+<l>Ou Pallas, ou Thétis, la grandeur de Junon,</l>
+<l>Ou la simplicité de la sœur d’Apollon,</l>
+<l>Le souris de Vénus, ou le charme des Grâces.</l>
+<l>La Pudeur, dans son air, variait tour à tour,</l>
+<l>Et semblait se jouer de ce peuple folâtre :</l>
+<l>Ici, l’œil s’arrêtait sur deux globes d’albâtre ;</l>
+<l>Et plus loin, sur un pied façonné par l’amour.</l>
+</lg>
+<lg>
+<l>Mais les dieux immortels, ravis de ma Thémire,</l>
+<l>En voyant leur ouvrage, aiment à lui sourire ;</l>
+<l>Vénus avec plaisir contemple ses appas :</l>
+<l>C’est l’unique beauté, dans le céleste empire,</l>
+<l>Que d’un jaloux dépit les dieux ne raillent pas.</l>
+</lg>
+<lg>
+<l>Comme parmi les fleurs qui se cachent dans l’herbe,</l>
+<l>La rose avec éclat lève son front superbe,</l>
+<l>On vit sur tant d’attraits mon amante régner.</l>
+<l>Ses rivales à peine eurent le temps de l’être :</l>
+<l>Leur foule était vaincue avant de la connaître.</l>
+<l>Grâces, dit la déesse, allez la couronner ;</l>
+<l>De mille objets charmants que le cirque rassemble,</l>
+<l>Voilà, dans sa beauté, le seul qui vous ressemble.</l>
+</lg>
+<lg>
+<l>Tandis qu’avec ses sœurs, aux autels de Vénus,</l>
+<l>Thémire triomphante est encore arrêtée,</l>
+<l>Je trouve dans un bois le sensible Aristée,</l>
+<l>Je l’avais vu dans l’antre, et je le reconnus.</l>
+<l>Nous fûmes attirés par un charme rapide :</l>
+
+<pagenum v="v2" num="82"/>
+
+<l>Car Vénus, à l’aspect d’un habitant de Gnide,</l>
+<l>Fait goûter en secret les doux ravissements</l>
+<l>De deux amis rendus à leurs embrassements.</l>
+</lg>
+<lg>
+<l>Je sentis que mon cœur se donnait à sa vue ;</l>
+<l>Vers les mêmes liens nous étions emportés :</l>
+<l>Il semblait que du ciel l’Amitié descendue</l>
+<l>Venait dans ce bosquet s’asseoir à nos côtés.</l>
+</lg>
+<lg>
+<l>Je lui fis de ma vie une histoire fidèle.</l>
+<l>Mon père, qui servait notre auguste immortelle,</l>
+<l>M’a fait naître, lui dis-je, au sein de Sybaris.</l>
+<l>Quelle cité ! Ses goûts sont des besoins pour elle :</l>
+<l>A qui peut en trouver d’une espèce nouvelle,</l>
+<l>Des trésors de l’État on y donne des prix.</l>
+</lg>
+<lg>
+<l>Ces lâches habitants ont banni de leur ville</l>
+<l>Tous les arts dont le bruit trouble un sommeil tranquille.</l>
+<l>Ils pleurent des bouffons quand ils les ont perdus,</l>
+<l>Et laissent dans l’oubli le héros qui n’est plus.</l>
+<l>Ils prodiguent sans fruit l’éternelle richesse</l>
+<l>Qu’entretient dans leurs murs un terroir opulent ;</l>
+<l>Et les faveurs des dieux sur ce peuple indolent,</l>
+<l>Ne servent qu’à nourrir le luxe et la mollesse.</l>
+</lg>
+<lg>
+<l>Les hommes sont si doux, parés avec tant d’art,</l>
+<l>Occupés si longtemps à consulter leurs glaces,</l>
+<l>A corriger un geste, un sourire, un regard,</l>
+<l>A moduler leur voix, à composer leurs grâces,</l>
+<l>Qu’ils ne paraissent point former un sexe à part.</l>
+</lg>
+<lg>
+<l>Une femme se livre avant même qu’elle aime :</l>
+<l>Que dis-je ? connaît-elle un mutuel amour ?</l>
+<l>Sa gloire est d’enchaîner ; jouir est son système ;</l>
+<l>Chaque jour voit finir les vœux de chaque jour :</l>
+<l>Mais ces riens, où le cœur trouve tant d’importance,</l>
+<l>Mais ces soins attentifs, mais ces regards chéris,</l>
+<l>Tous ces petits objets qui sont d’un si grand prix,</l>
+
+<pagenum v="v2" num="83"/>
+
+<l>Tant de moments heureux avant la jouissance,</l>
+<l>Ces sources de bonheur manquent à Sybaris.</l>
+</lg>
+<lg>
+<l>Si du moins sur leur front on voyait se répandre</l>
+<l>Cette faible pudeur, ombre de la vertu !</l>
+<l>Mais, hélas ! c’est un fard qui leur est inconnu :</l>
+<l>L’œil est fait à tout voir, l’oreille à tout entendre.</l>
+</lg>
+<lg>
+<l>Loin que la volupté les rende délicats,</l>
+<l>A distinguer leurs goûts ils ne parviennent pas.</l>
+<l>Dans une gaîté fausse, ils s’occupent de vivre ;</l>
+<l>Usés par l’inconstance, ils se lassent de tout ;</l>
+<l>Ils laissent un plaisir qui cause leur dégoût,</l>
+<l>Pour s’ennuyer encor du plaisir qui va suivre.</l>
+<l>L’âme froide au bonheur est de feu pour les maux :</l>
+<l>La plus légère peine et l’éveille et l’agite.</l>
+<l>Une rose pliée au lit d’un Sybarite,</l>
+<l>Pendant toute une nuit le priva de repos.</l>
+</lg>
+<lg>
+<l>Le poids de leur parure accable leur paresse :</l>
+<l>Le mouvement d’un char les fait évanouir :</l>
+<l>Leur cœur est si flétri, qu’il ne peut plus jouir,</l>
+<l>Et que dans les festins il leur manque sans cesse.</l>
+</lg>
+<lg>
+<l>Sur des lits de duvet qu’ils couronnent de fleurs,</l>
+<l>Ils passent une vie uniforme et tranquille :</l>
+<l>Leur corps, pendant le jour, y demeure immobile.</l>
+<l>Ils sont exténués, s’ils vont languir ailleurs.</l>
+<l>Enfin le Sybarite, esclave et fait pour l’être,</l>
+<l>Fatigué d’une armure, effrayé du danger,</l>
+<l>Tremblant dans son pays et devant l’étranger,</l>
+<l>Comme un troupeau servile, attend le premier maître.</l>
+</lg>
+<lg>
+<l>Dès que je sus penser, je méprisai ces lieux ;</l>
+<l>Car la vertu m’est chère, et j’honore les dieux.</l>
+<l>Ah ! disais-je, fuyons une terre ennemie ;</l>
+<l>D’un air contagieux je crains de m’infecter.</l>
+<l>Que ces enfants du luxe habitent leur patrie !</l>
+
+<pagenum v="v2" num="84"/>
+
+<l>Ils sont faits pour y vivre, et moi pour la quitter.</l>
+<l>Pour la dernière fois, je cours au sanctuaire,</l>
+<l>Et touchant les autels qu’avait servis mon père :</l>
+<l>O puissante Vénus ! lui dis-je à haute voix,</l>
+<l>J’abandonne ton temple, et non tes saintes lois :</l>
+<l>Tu recevras mes vœux, quelque lieu que j’habite ;</l>
+<l>Mais ils seront plus purs que ceux d’un Sybarite.</l>
+<l>Je pars, j’arrive en Crète, et ce triste séjour</l>
+<l>M’offre les monuments des fureurs de l’Amour.</l>
+<l>On y voyait encor le fameux labyrinthe</l>
+<l>Dont un heureux amant avait franchi l’enceinte ;</l>
+<l>Et le taureau d’airain, par Dédale inventé</l>
+<l>Pour tromper ou servir une flamme odieuse ;</l>
+<l>Et le tombeau de Phèdre, épouse incestueuse,</l>
+<l>Dont le crime chassa le jour épouvanté ;</l>
+<l>Et l’autel d’Ariane, amante délaissée,</l>
+<l>Qui, sur un bord désert conduite par Thésée,</l>
+<l>Ne se repentait pas de sa crédulité.</l>
+</lg>
+<lg>
+<l>Cruel Idoménée ! impitoyable père !</l>
+<l>On y voyait aussi ton palais sanguinaire.</l>
+<l>Ce prince, à son retour, n’eut pas un meilleur sort</l>
+<l>Que tant d’autres chargés des dépouilles de Troie ;</l>
+<l>Tous les Grecs dont la mer n’avait point fait sa proie,</l>
+<l>Ne purent sous leur toit échapper à la mort :</l>
+<l>Vénus, à leurs moitiés inspirant sa colère,</l>
+<l>Se vengea par la main qu’ils croyaient la plus chère.</l>
+</lg>
+<lg>
+<l>Qui m’arrête, ai-je dit ? cette île est en horreur</l>
+<l>A la divinité dont j’attends mon bonheur.</l>
+<l>Je me hâtai de fuir : mais, battu par l’orage,</l>
+<l>Mon vaisseau de Lesbos aborda le rivage.</l>
+<l>C’est encore un séjour peu chéri de Vénus :</l>
+<l>Elle ôte la pudeur au visage des femmes,</l>
+<l>La faiblesse à leurs corps, et la crainte à leurs âmes.</l>
+<l>J’y vis avec effroi les sexes méconnus.</l>
+<l>Vénus, fais-les brûler de feux plus légitimes !</l>
+<l>A la nature humaine épargne tant de crimes !</l>
+
+<pagenum v="v2" num="85"/>
+
+<l>Lesbos est le pays de la tendre Sapho :</l>
+<l>Les murs de Mytilène ont été son berceau.</l>
+<l>Cette fille immortelle, ainsi que son génie,</l>
+<l>Se consume sans fin d’une flamme ennemie :</l>
+<l>A soi-même odieuse, et pleurant sa beauté,</l>
+<l>Elle cherche toujours son sexe qu’elle abhorre.</l>
+<l>Comment d’un feu si vain est-on si tourmenté ?</l>
+<l>Ah ! l’amour, disait-elle, est plus terrible encore.</l>
+<l>Plus cruel dans ses jeux, que l’amour irrité.</l>
+</lg>
+<lg>
+<l>Je passai de Lesbos dans une île sauvage :</l>
+<l>C’était Lemnos. Vénus n’y reçoit point de vœux :</l>
+<l>On la rejette, on craint que son culte amoureux</l>
+<l>Du farouche habitant n’énerve le courage.</l>
+<l>Vénus punit souvent ce peuple audacieux ;</l>
+<l>Mais il subit les maux sans expier l’outrage,</l>
+<l>D’autant plus obstiné, qu’il est plus malheureux.</l>
+</lg>
+<lg>
+<l>Loin de cette île impie, égaré sur les ondes,</l>
+<l>Je cherchais un séjour favorisé des cieux,</l>
+<l>Délos fixa longtemps mes courses vagabondes ;</l>
+<l>Mais, soit que nous ayons quelques avis des dieux,</l>
+<l>Soit qu’un instinct céleste éclaircisse à nos yeux</l>
+<l>Du sort qui nous attend les ténèbres profondes,</l>
+<l>Je me crus appelé vers des bords plus heureux.</l>
+</lg>
+<lg>
+<l>Une nuit que j’étais dans ce repos paisible</l>
+<l>Où l’esprit, par degrés, rendu comme impassible,</l>
+<l>Semble se délivrer de ses liens secrets,</l>
+<l>Il m’apparut en songe une jeune immortelle,</l>
+<l>Moins belle que Vénus, mais brillante comme elle.</l>
+<l>Un charme irrésistible animait tous ses traits :</l>
+<l>Ce que j’aimais en eux, je n’aurais pu le dire ;</l>
+<l>J’y trouvais ce qui pique, et non ce qu’on admire ;</l>
+<l>Ils étaient ravissants, et n’étaient point parfaits ;</l>
+<l>En anneaux ondoyants, sa blonde chevelure</l>
+<l>Tombait sur son épaule et flottait au hasard :</l>
+<l>Mais cette négligence était une parure ;</l>
+
+<pagenum v="v2" num="86"/>
+
+<l>Mais elle avait cet air que donne la nature,</l>
+<l>Cet air dont le secret n’est point connu de l’art.</l>
+<l>Elle sourit : Tu vois la seconde des Grâces,</l>
+<l>Dit-elle avec un ton qui passait jusqu’au cœur :</l>
+<l>Vénus t’appelle à Gnide, et fera ton bonheur.</l>
+<l>Elle fuit dans les airs : mes yeux suivent ses traces ;</l>
+<l>Je me lève, enflammé de plaisir et d’espoir :</l>
+<l>Comme une ombre légère elle était disparue ;</l>
+<l>Et le transport divin que me causait sa vue</l>
+<l>Bientôt cède au regret de ne la plus revoir.</l>
+</lg>
+<lg>
+<l> Je respirai l’amour en arrivant à Gnide ;</l>
+<l>Mais ce que je sentais, je ne puis l’exprimer :</l>
+<l>Mon cœur se pénétrait d’une flamme rapide ;</l>
+<l>Je n’aimais pas encor, mais je brûlais d’aimer.</l>
+<l>Je m’avançai ; je vis des nymphes enfantines</l>
+<l>Jouer innocemment dans les plaines voisines ;</l>
+<l>Je me précipitai vers ces jeunes appas :</l>
+<l>Insensé ! m’écriai-je, où s’égarent mes pas ?</l>
+<l>Quel trouble me saisit ? d’où vient que je soupire ?</l>
+<l>J’éprouve, sans aimer, l’ivresse de Vénus !</l>
+<l>Mon cœur déjà poursuit des objets inconnus !</l>
+<l>Tout à coup j’aperçus la charmante Thémire ;</l>
+<l>Je ne regardai qu’elle, et j’expirais, je croi,</l>
+<l>Si ses regards flatteurs n’étaient tombés sur moi.</l>
+<l>Je courus à Vénus : Écoute ma prière,</l>
+<l>Lui dis-je, et puisqu’ici tu dois me rendre heureux,</l>
+<l>Ordonne que ce soit avec cette bergère !</l>
+<l>Seule, elle peut remplir ta promesse et mes vœux.</l>
+</lg>
+</poem>
+
+</div>
+
+<div id="tgv.chant3" toc="Chant troisieme">
+
+<pagenum v="v2" num="87"/>
+
+<h2>CHANT TROISIÈME.</h2>
+
+<poem>
+<lg>
+<l indent="1"> Je parlais encor de Thémire ;</l>
+<l>Aristée, attentif à ce doux entretien,</l>
+<l>Soupirait son amour, et voulut le décrire :</l>
+<l>Voici ce qu’il me dit ; je ne supprime rien ;</l>
+<l>Le dieu qui l’inspirait est le dieu qui m’inspire.</l>
+</lg>
+<lg>
+<l>Ma vie est peu fertile en grands événements ;</l>
+<l>Tout en est simple. J’aime, et vous allez apprendre</l>
+<l indent="1">Les sentiments d’une âme tendre,</l>
+<l indent="1">Et ses plaisirs et ses tourments.</l>
+<l>Ce même amour qui fait mon bonheur et ma gloire,</l>
+<l indent="1">Fait aussi toute mon histoire.</l>
+</lg>
+<lg>
+<l>Camille est née à Gnide au milieu des grandeurs.</l>
+<l indent="1">Faut-il peindre celle que j’aime ?</l>
+<l>Son image s’imprime au fond de tous les cœurs :</l>
+<l indent="1">Elle a ces agréments flatteurs,</l>
+<l>Cet air qui nous ravit plus que la beauté même.</l>
+</lg>
+<lg>
+<l>Les femmes, dans leurs vœux, demandent à l’Amour</l>
+<l>Les grâces de Camille, objet de leur envie.</l>
+<l indent="1">Les hommes qui l’ont vue un jour,</l>
+<l indent="1">Voudraient la voir toute leur vie,</l>
+<l indent="1">Ou s’en éloigner sans retour.</l>
+<l>L’habit le plus modeste embellit mon amante ;</l>
+<l>Qui ne serait frappé de sa taille charmante,</l>
+<l>De ces traits dont l’ensemble attire tous les yeux,</l>
+<l>De son regard si fier, mais tout prêt d’être tendre,</l>
+
+<pagenum v="v2" num="88"/>
+
+<l>De sa voix que sans trouble on ne saurait entendre,</l>
+<l>De ses appas qu’on loue et qu’on sent encor mieux ?</l>
+</lg>
+<lg>
+<l>Sans fierté, sans caprice, oubliant qu’elle est belle,</l>
+<l>Camille, si l’on veut, pense profondément ;</l>
+<l>Si l’on veut, elle rit, et dans son enjoûment</l>
+<l indent="1">Les Grâces badinent comme elle.</l>
+</lg>
+<lg>
+<l>Tout ce que fait Camille a la simplicité</l>
+<l indent="1">De la plus naïve bergère :</l>
+<l indent="1">Ses chants peignent la volupté :</l>
+<l>Danse-t-elle ? on croit voir une nymphe légère.</l>
+</lg>
+<lg>
+<l>Camille sans effort se plie à tous les goûts :</l>
+<l>Plus vous avez d’esprit, plus son esprit vous flatte ;</l>
+<l>C’est une raison fine, adroite, délicate ;</l>
+<l>Elle a l’air de penser, de parler comme vous ;</l>
+<l>Ce qu’elle a dit, sans peine on croit pouvoir le dire :</l>
+<l>Son air est si touchant, son langage est si doux,</l>
+<l>Qu’il semble que toujours c’est le cœur qui l’inspire.</l>
+<l>Camille en gémissant me presse dans ses bras.</l>
+<l>Quand il faut un instant m’éloigner de ses charmes.</l>
+<l>Ne tarde point, dit-elle, à te rendre à mes larmes :</l>
+<l>Comme si je vivais quand je ne la vois pas !</l>
+<l>Je dis qu’elle m’est chère, elle se croit chérie ;</l>
+<l>Je dis que je l’adore, et son cœur le sait bien :</l>
+<l indent="1">Mais elle en est aussi ravie</l>
+<l indent="1">Que si son cœur n’en savait rien.</l>
+<l>Je lui dis qu’elle fait le bonheur de ma vie :</l>
+<l>Elle dit que la sienne à la mienne est unie.</l>
+<l>Enfin je suis payé par un si doux retour,</l>
+<l indent="1">Que j’ai presque la folle envie</l>
+<l>De croire son amant digne de tant d’amour.</l>
+</lg>
+<lg>
+<l>Depuis un mois, Camille avait touché mon âme,</l>
+<l>Et je n’osais encor lui parler de ma flamme ;</l>
+<l>Tremblant de me trahir par un mot indiscret,</l>
+<l>J’aurais voulu moi-même ignorer mon secret ;</l>
+
+<pagenum v="v2" num="89"/>
+
+<l>Plus elle m’enchantait, moins il était possible</l>
+<l>D’espérer qu’à mes vœux elle devint sensible.</l>
+<l>Je t’adorais, Camille, et tes charmants appas</l>
+<l>Me disaient qu’un berger ne te méritait pas.</l>
+<l>Je voulais... ah ! pardonne ! oui, loin de ma pensée</l>
+<l>Je voulais rejeter ton tendre souvenir :</l>
+<l>Que je suis fortuné ! je n’ai pu l’en bannir :</l>
+<l>Pour jamais ton image y demeure tracée.</l>
+</lg>
+<lg>
+<l>D’un monde turbulent j’aimai longtemps le bruit,</l>
+<l>Lui dis-je, et maintenant d’un paisible réduit</l>
+<l indent="1">Je cherche l’ombre et le silence.</l>
+<l indent="1">L’ambition m’avait séduit :</l>
+<l>Je ne désire plus que ta seule présence.</l>
+<l indent="1">Sous un ciel éloigné du mien,</l>
+<l>Je voulais habiter dans de vastes empires,</l>
+<l indent="1">Et mon cœur n’est plus citoyen</l>
+<l indent="1">Que de la terre où tu respires :</l>
+<l>Tout ce qui n’est pas toi, pour mes yeux n’est plus rien.</l>
+</lg>
+<lg>
+<l>Camille trouve encor quelque chose à me dire,</l>
+<l>Quand elle m’a parlé de sa tendre amitié :</l>
+<l indent="1">Elle croit avoir oublié</l>
+<l>Mille aveux dont sur l’heure elle vient de m’instruire.</l>
+<l indent="1">Ravi d’écouter ses discours,</l>
+<l indent="1">Je feins tantôt de n’en rien croire,</l>
+<l indent="1">Tantôt d’en perdre la mémoire,</l>
+<l indent="1">Afin d’en prolonger le cours.</l>
+<l>Alors règne entre nous cet aimable silence,</l>
+<l>Ce langage muet, dont la douce éloquence</l>
+<l indent="1">Est l’interprète des amours.</l>
+</lg>
+<lg>
+<l>Lorsque aux pieds de Camille empressé de me rendre,</l>
+<l indent="1">Après une absence d’un jour,</l>
+<l indent="1">Je lui raconte à mon retour</l>
+<l>Ce que je viens, loin d’elle, et de voir et d’entendre,</l>
+<l>Elle me dit : Cruel ! que vas-tu rappeler ?</l>
+<l indent="1">N’as-tu pas d’entretien plus tendre ?</l>
+
+<pagenum v="v2" num="90"/>
+
+<l>Parle de nos amours, ou laisse-moi parler</l>
+<l indent="1">Si ton cœur n’a rien à m’apprendre.</l>
+</lg>
+<lg>
+<l>Quelquefois elle dit : Aristée ! aime-moi ! —</l>
+<l>Oui, je t’aime. — Eh ! comment ? — En vérité, je t’aime</l>
+<l>Comme le premier jour où tu reçus ma foi :</l>
+<l>Je ne puis comparer l’amour que j’ai pour toi,</l>
+<l indent="1">Qu’à l’amour que j’eus pour toi-même.</l>
+<l>Camille, une autre fois, me dit avec douleur :</l>
+<l>Tu parais triste ! —Hélas ! je suis sûr de ton cœur,</l>
+<l>Lui dis-je : et cependant je sens couler mes larmes !</l>
+<l>Ne me retire pas de ma douce langueur !</l>
+<l>Laisse-moi soupirer ma peine et mon bonheur !</l>
+<l>Pour les tendres amants, la tristesse a des charmes.</l>
+<l>Les transports de l’amour sont trop impétueux ;</l>
+<l>L’âme, dans son ivresse, est comme anéantie :</l>
+<l>Mais je jouis en paix de ma mélancolie :</l>
+<l>Eh ! qu’importe mes pleurs, puisque je suis heureux !</l>
+</lg>
+<lg>
+<l>J’entends louer Camille, et fier d’être aimé d’elle,</l>
+<l>L’éloge que j’entends me semble être le mien :</l>
+<l>Quand un berger l’écoute, elle parle si bien,</l>
+<l>Que chaque mot lui prête une grâce nouvelle ;</l>
+<l>Mais je voudrais qu’alors Camille ne dît rien.</l>
+<l>A-t-elle pour quelque autre une amitié légère ?</l>
+<l indent="1">Je voudrais en être l’objet :</l>
+<l indent="1">Bientôt je me dis en secret,</l>
+<l>Que je ne serais plus celui qu’elle préfère.</l>
+</lg>
+<lg>
+<l>Aux discours des amants n’ajoute point de foi !</l>
+<l indent="1">Ils diront que dans la nature</l>
+<l>Il n’est rien d’aussi beau, d’aussi parfait que toi :</l>
+<l>Ils diront vrai, Camille, et comme eux je le jure !</l>
+<l>Ils te diront encor qu’ils t’aiment. Je les croi !</l>
+<l>Mais si quelqu’un disait qu’il t’aime autant que moi.</l>
+<l>J’atteste ici les dieux que c’est une imposture.</l>
+</lg>
+<lg>
+<l>Quand je la vois de loin, je m’agite soudain :</l>
+
+<pagenum v="v2" num="91"/>
+
+<l indent="1">Elle approche, et mon cœur s’enflamme :</l>
+<l>Quand j’arrive auprès d’elle, il semble que mon âme</l>
+<l indent="1">Est à Camille, et va fuir dans son sein.</l>
+
+<l indent="1">Souvent Camille, à ma prière,</l>
+<l indent="1">Refuse la moindre faveur,</l>
+<l>Et sur-le-champ m’accorde une faveur plus chère.</l>
+<l indent="1">Ce caprice est involontaire :</l>
+<l>Ce n’est point de sa part un manége trompeur ;</l>
+<l>Non : l’art ne peut entrer dans cette âme sincère :</l>
+<l>Mais Camille, écoutant l’amour et la pudeur,</l>
+<l>Voudrait m’être à la fois indulgente et sévère.</l>
+</lg>
+<lg>
+<l>Qu’espérez-vous, dit-elle, au-dessus de mon cœur ?</l>
+<l>Ne vous suffit-il pas, ingrat, que je vous aime ?</l>
+<l>Tu devrais, dis-je, encor te permettre une erreur,</l>
+<l>Une erreur de l’amour, qu’excuse l’amour même.</l>
+</lg>
+<lg>
+<l>Camille ! si jamais je cessais de t’aimer,</l>
+<l>Si pour d’autres attraits je pouvais m’enflammer,</l>
+<l>Que ce jour soit pour moi le dernier de ma vie !</l>
+<l>Que la Parque trompée en termine le cours !</l>
+<l>Puisse-t-elle effacer de misérables jours</l>
+<l>Dont je détesterais la lumière ennemie,</l>
+<l>En songeant au bonheur de nos tendres amours !</l>
+</lg>
+<lg>
+<l>ll se tut ; et je vis que cet amant fidèle</l>
+<l>Ne cessait de parler que pour s’occuper d’elle.</l>
+</lg>
+
+</poem>
+
+</div>
+
+<div id="tgv.chant4" toc="Chant quatrieme">
+
+<pagenum v="v2" num="92"/>
+
+<h2>CHANT QUATRIEME.</h2>
+
+<poem>
+<lg>
+<l>Sur un chemin de fleurs, errant dans les prairies,</l>
+<l>Nous étions occupés de douces rêveries,</l>
+<l>Quand nous fûmes conduits vers des rochers affreux,</l>
+<l>Redoutés des mortels, proscrits même des dieux.</l>
+<l>Un nuage de feux qui roule sur leurs têtes,</l>
+<l>Y promène en tout temps la foudre et les tempêtes :</l>
+<l>A leurs pieds est un antre, inaccessible au jour,</l>
+<l>Qui des amants trahis semble être le séjour.</l>
+<l>Une invisible main dans ce lieu nous entraine ;</l>
+<l>Mais, ô dieux ! qui l’eût cru ? Je le touchais à peine...</l>
+<l>Mes cheveux sur mon front se sont dressés d’horreur ;</l>
+<l>Une flamme inconnue a passé dans mon cœur :</l>
+<l>Plus j’étais agité, plus je cherchais à l’être.</l>
+<l>Ami, dis-je, avançons, dussent nos maux s’accroître ! [accraître]</l>
+<l>A travers cent détours, j’errais de toutes parts,</l>
+<l>Guidé par des lueurs qui se perdaient dans l’ombre...</l>
+<l>La pâle Jalousie a fixé mes regards :</l>
+<l>Son aspect paraissait moins terrible que sombre :</l>
+<l>Les Vapeurs, le Chagrin, le Silence et l’Ennui</l>
+<l>Environnaient ce monstre et marchaient devant lui.</l>
+<l>Nous voulons fuir : il parle, et sa voix nous arrête :</l>
+<l>Il nous souille la crainte et les soupçons jaloux,</l>
+<l>Met la main sur nos cœurs, nous frappe sur la tête,</l>
+<l>Et soudain l’univers est transformé pour nous ;</l>
+<l>Soudain, enveloppé d’un voile de ténèbres,</l>
+<l>Je ne vois, je n’entends que des spectres funèbres.</l>
+<l>Je cours au fond de l’autre, épouvanté, tremblant :</l>
+<l>J’y trouve la Fureur, déité plus cruelle.</l>
+<l>Sa main faisait briller un glaive étincelant ;</l>
+<l>Je recule... ô terreur ! l’odieuse immortelle</l>
+
+<pagenum v="v2" num="93"/>
+
+<l>Me lance un des serpents dont son front est armé :</l>
+<l>Il part, siffle et m’atteint comme un dard enflammé.</l>
+<l>Pareil au voyageur que la foudre dévore.</l>
+<l>Je demeure immobile et ne sens rien encore,</l>
+<l>Et déjà le serpent s’est glissé dans mon cœur :</l>
+<l>Mais, dès que son poison, coulant de veine en veine,</l>
+<l>De mon sang plus actif eut allumé l’ardeur,</l>
+<l>Tous les maux des enfers n’égalaient point ma peine ;</l>
+<l>J’allais d’un monstre à l’autre, agité, furieux ;</l>
+<l>Cent fois je fis le tour de l’antre épouvantable ;</l>
+<l>Et je criais : Thémire ! et ces murs ténébreux</l>
+<l>Me répétaient Thémire ! en écho lamentable.</l>
+<l>Si Thémire eût paru, ma main, ma propre main,</l>
+<l>Pour assouvir ma rage, eût déchiré son sein.</l>
+</lg>
+<lg>
+<l>Enfin, je vois le jour, et sa clarté me blesse.</l>
+<l>L’antre que j’ai quitté m’inspirait moins d’effroi.</l>
+<l>Je m’arrête... je tombe accablé de faiblesse.</l>
+<l>Et ce repos lui-même est un tourment pour moi.</l>
+<l>Mon œil sec et brûlé me refuse des larmes,</l>
+<l>Et, pour me soulager, je n’ai plus de soupirs !</l>
+<l>Du sommeil, un moment, je goûte les plaisirs...</l>
+<l>O dieux ! il est encore environné d’alarmes !</l>
+<l>Mille songes cruels m’obsèdent tour à tour ;</l>
+<l>Ils me peignent Thémire ingrate à mon amour.</l>
+<l>Je la vois... mais, hélas ! se peut-il que j’achève !</l>
+<l>Les soupçons que mon cœur formait pendant le jour</l>
+<l>Se sont réalisés dans l’horreur de mon rêve !</l>
+</lg>
+<lg>
+<l>Je me lève. Il faut donc, ai-je dit, qu’à mes yeux</l>
+<l>Et le jour et la nuit deviennent odieux !</l>
+<l>Thémire !... la cruelle ! il faut que je l’oublie !</l>
+<l>Thémire, sur mes pas, est comme une furie !</l>
+<l>Ah ! qui m’eût dit qu’un jour le plus cher de mes vœux</l>
+<l>Serait de l’oublier, et pour toute ma vie ?</l>
+</lg>
+<lg>
+<l>Un accès de fureur s’empare encor de moi.</l>
+<l>Viens, ami, m’écriai-je ; allons, courons, lui dis-je ;</l>
+
+<pagenum v="v2" num="94"/>
+
+<l>ll faut exterminer ces troupeaux que je voi,</l>
+<l>Poursuivre ces bergers de qui l’amour m’afflige...</l>
+<l>Mais non, je vois un temple, il peut être à l’Amour ;</l>
+<l>Renversons sa statue, et qu’il tremble à son tour !</l>
+<l>Je dis, et nous volons, pleins du même vertige ;</l>
+<l>L’ardeur de faire un crime irrite nos efforts :</l>
+<l>Rien ne nous retient plus ; nous courons les montagnes :</l>
+<l>Nous traversons les bois, les guérets, les campagnes ;</l>
+<l>Une source paraît, nous franchissons ses bords.</l>
+<l>Que peut contre les dieux le vain courroux des hommes ?</l>
+<l>Confondus, étonnés du désordre où nous sommes,</l>
+<l>A peine, dans le temple, avons-nous fait un pas,</l>
+<l>Qu’un charme impérieux semble enchaîner nos bras.</l>
+</lg>
+<lg>
+<l>Bacchus de nos transports faisait cesser l’audace :</l>
+<l>Ce temple était le sien. Grand dieu ! je te rends grâce.</l>
+<l>Moins pour avoir calmé mes honteuses fureurs,</l>
+<l>Que pour m’avoir d’un crime épargné les horreurs !</l>
+<l>A ces mots, m’approchant des autels que j’embrasse :</l>
+<l>O prêtresse, ai-je dit, le dieu que vous priez</l>
+<l>Vient de nous apaiser par son secours propice ;</l>
+<l>Daignez ici, pour nous, lui faire un sacrifice.</l>
+<l>Je cherche une victime et l’apporte à ses pieds.</l>
+</lg>
+<lg>
+<l>Lorsque le fer brillait aux mains de la prêtresse,</l>
+<l>Aristée éleva ces accents d’allégresse :</l>
+</lg>
+<lg>
+<l>Bacchus ! dieu bienfaisant ! dieu des ris et des jeux !</l>
+<l>Tu fais régner la joie et son léger tumulte :</l>
+<l>Pour ta divinité nos plaisirs sont un culte ;</l>
+<l>Tu ne veux être aimé que des mortels heureux.</l>
+</lg>
+<lg>
+<l>Saisi de ton ivresse, en vain l’esprit s’égare ;</l>
+<l>ll se retrouve encor dans ce doux abandon ;</l>
+<l>Mais, quand il est troublé par quelque dieu barbare,</l>
+<l>Tu peux seul, ô Bacchus ! lui rendre la raison.</l>
+</lg>
+<lg>
+<l>La noire Jalousie, aux fers de l’esclavage</l>
+
+<pagenum v="v2" num="95"/>
+
+<l>Voudrait assujettir le dieu qui fait aimer :</l>
+<l>Mais tu brises les traits dont elle ose s’armer,</l>
+<l>Et tu la fais rentrer dans son antre sauvage.</l>
+</lg>
+<lg>
+<l>Après le sacrifice, on vint autour de nous,</l>
+<l>Et je fis le récit de nos transports jaloux.</l>
+<l>Bientôt nous entendons mille voix éclatantes</l>
+<l>Au son des instruments marier leurs concerts :</l>
+<l>Je sors, et vois courir des troupes de Bacchantes,</l>
+<l>Qui, l’œil en feu, le front orné de pampres verts,</l>
+<l>Laissant aux vents le soin de leurs tresses flottantes.</l>
+<l>Agitaient à grand bruit leurs thyrses dans les airs.</l>
+<l>Tout le joyeux cortège environnait Silène :</l>
+<l>La tête du vieillard vacillante, incertaine.</l>
+<l>Allait chercher la terre ou tombait sur son sein :</l>
+<l>Dès qu’on l’abandonnait, penché vers sa monture,</l>
+<l>Son corps se balançait par égale mesure,</l>
+<l>Se baissait, se dressait, se rebaissait soudain.</l>
+<l>La troupe avait le front tout barbouillé de lie ;</l>
+<l>Pan se montrait ensuite avec ses chalumeaux ;</l>
+<l>Les Satyres dansaient, ceints de pampres nouveaux ;</l>
+<l>Le désordre, la joie et l’aimable folie</l>
+<l>Confondaient les chansons, les jeux et les bons mots.</l>
+<l>Enfin, je vis Bacchus, gai, riant, plein de charmes,</l>
+<l>Tel que l’Inde le vit au bout de l’univers,</l>
+<l>Distribuant partout des plaisirs et des fers.</l>
+<l>De la jeune Ariane il essuyait les larmes ;</l>
+<l>Pour son ingrat Thésée elle pleurait encor,</l>
+<l>Quand Bacchus, dans les cieux, mit sa couronne d’or</l>
+<l>Et, s’il n’eût triomphé des pleurs de cette belle,</l>
+<l>Son amour l’allait rendre infortuné comme elle.</l>
+<l>Aimez-moi, disait-il, Thésée est loin de vous ;</l>
+<l>Oubliez à jamais le nom de l’infidèle ;</l>
+<l>Ne voyez que le dieu qui brûle à vos genoux ;</l>
+<l>Pour vous aimer toujours, je vous rends immortelle.</l>
+</lg>
+<lg>
+<l>Bacchus était traîné par des tigres fougueux ;</l>
+<l>Il sortit de son char, conduisant son amante ;</l>
+
+<pagenum v="v2" num="96"/>
+
+<l>Elle entra dans le temple. Habitons ces beaux lieux,</l>
+<l>Dit-elle, dieu charmant ! soupirons-y nos feux ;</l>
+<l>Donne à ce doux climat une gaîté constante :</l>
+<l>Vénus seule y préside à des peuples heureux ;</l>
+<l>Ajoute à leur bonheur, et règne aussi sur eux.</l>
+<l>Pour moi, je sens déjà que mon amour augmente.</l>
+<l>Il n’appartient qu’aux dieux, dans leur sphère brillante,</l>
+<l>D’aimer avec excès et d’aimer toujours mieux,</l>
+<l>Et de voir leur bonheur passer leur espérance,</l>
+<l>Plus bornés dans leurs veaux que dans leur jouissance.</l>
+<l>Sois ici mes amours ! sous la voûte des cieux</l>
+<l>On est trop occupé de la gloire suprême :</l>
+<l>Ce n’est que sur la terre et dans ces lieux qu’on aime.</l>
+<l>Laissons ces insensés à leurs folâtres jeux ;</l>
+<l>Tandis que mes soupirs, ma joie et mes pleurs même,</l>
+<l>Sans cesse te peindront mes transports amoureux.</l>
+</lg>
+<lg>
+<l>Elle dit ; et Bacchus, enchanté de lui plaire,</l>
+<l>La mène, en souriant, au fond du sanctuaire.</l>
+<l>Un délire divin pénétra dans nos cœurs :</l>
+<l>Nous respirions les jeux, les danses, la folie ;</l>
+<l>Et le thyrse à la main, le front couvert de fleurs,</l>
+<l>Nous allâmes nous joindre à la bruyante orgie.</l>
+</lg>
+<lg>
+<l>Mais nos tourments cruels n’étaient que suspendus :</l>
+<l>En sortant de ce temple, à nous-mêmes rendus,</l>
+<l>Nous sentions des soupçons la dévorante flamme,</l>
+<l>Et la sombre tristesse avait saisi notre âme.</l>
+<l>Pour annoncer nos maux, il semblait que l’Amour</l>
+<l>Nous eût fait agiter par l’affreuse Euménide ;</l>
+<l>Nous regrettions Bacchus et son riant séjour ;</l>
+<l>Mais un charme puissant nous entraînait à Gnide.</l>
+</lg>
+<lg>
+<l>Je voulais voirThémire, et craignais cet instant :</l>
+<l>Je ne retrouvais pas cette ardeur qui nous presse,</l>
+<l>Alors que sur le point de revoir sa maîtresse,</l>
+<l>Le cœur s’ouvre d’avance au bonheur qu’il attend.</l>
+
+<pagenum v="v2" num="97"/>
+
+<l>Peut-être je verrai Lycas près de Camille,</l>
+<l>Dit Aristée : ô dieu ! sur ce cœur inconstant</l>
+<l>S’il pouvait obtenir un triomphe facile !</l>
+<l>Peut-être avec plaisir la perfide l’entend.</l>
+</lg>
+<lg>
+<l>Tyrcis, dis-je à mon tour, a brûlé pour Thémire :</l>
+<l>On dit qu’il est à Gnide, et j’en frémis d’effroi.</l>
+<l>Sans doute il l’aime encore ! il faudra me réduire</l>
+<l>A disputer un cœur que j’ai cru tout à moi.</l>
+</lg>
+<lg>
+<l>Lycas pour ma Camille avait fait un air tendre :</l>
+<l>Insensé ! j’aurais dû l’interrompre cent fois !</l>
+<l>J’applaudissais, hélas ! aux accents de sa voix :</l>
+<l>Il chantait mon amante, et j’aimais à l’entendre.</l>
+</lg>
+<lg>
+<l>Thémire, devant moi, se parait un matin</l>
+<l>D’un bouquet que Tyrcis avait cueilli pour elle :</l>
+<l>C’est un don de Tyrcis, me disait l’infidèle !...</l>
+<l>Je devais, à ce mot, l’arracher de son sein.</l>
+</lg>
+<lg>
+<l>Un jour, Camille et moi (quel funeste présage !)</l>
+<l>Nous allions à Vénus offrir deux tourtereaux ;</l>
+<l>Camille de ses mains vit s’enfuir ces oiseaux...</l>
+<l>Vénus ne voulait point de son perfide gage !</l>
+</lg>
+<lg>
+<l>Sur l’écorce des bois, nos noms par moi tracés</l>
+<l>Attestaient mon amour et celui de Thémire :</l>
+<l>Je me plaisais sans cesse à les lire et relire ;</l>
+<l>Un matin... ô douleur ! je les vis effacés.</l>
+</lg>
+<lg>
+<l>D’un cœur infortuné n’aggrave point la chaîne,</l>
+<l>Camille ! épargne-moi l’horreur de me venger.</l>
+<l>L’amour devient fureur quand on l’ose outrager :</l>
+<l>L’amour qu’on désespère a le fiel de la haine.</l>
+</lg>
+<lg>
+<l>Hâtons-nous, et malheur à tout audacieux</l>
+<l>Que je verrai parler à l’ingrate que j’aime !</l>
+<l>Quiconque sur tes yeux arrêtera les yeux,</l>
+<l>Mon bras l’immole au temple... aux pieds de Vénus même,</l>
+
+<pagenum v="v2" num="98"/>
+
+<l>Bientôt nous arrivons près de l’antre fameux</l>
+<l>D’où sortent les arrêts que l’oracle prononce :</l>
+<l>Tout le peuple, roulant à flots tumultueux,</l>
+<l>Avec un bruit confus attendait sa réponse.</l>
+<l>Je m’avance : Aristée emporté loin de moi,</l>
+<l>Aristée est déjà dans les bras de Camille :</l>
+<l>J’appelle encor Thémire ; enfin je l’aperçoi !</l>
+<l>Furieux, j’allais dire : Ah ! perfide, est-ce toi ?...</l>
+<l>Mais elle me regarde, et je deviens tranquille.</l>
+<l>Ainsi, lorsqu’Alecto vient troubler l’univers,</l>
+<l>Un seul regard des dieux la renvoie aux enfers.</l>
+</lg>
+<lg>
+<l>Ah ! dit-elle, pour toi j’ai versé bien des larmes !</l>
+<l>Le soleil a trois fois parcouru ces climats,</l>
+<l>Depuis que tu nourris mes mortelles alarmes.</l>
+<l>Je disais : Non, mes yeux ne le reverront pas.</l>
+<l>Quel noir pressentiment ! Dieux puissants que j’implore !</l>
+<l>Dieux tant de fois témoins de nos tendres amours !</l>
+<l>Je ne demande point si son cœur m’aime encore ;</l>
+<l>Je ne veux que savoir le destin de ses jours :</l>
+<l>S’il vit, puis-je douter qu’il ne m’aime toujours ?</l>
+</lg>
+<lg>
+<l>Excuse, m’écriai-je, excuse mon délire !</l>
+<l>La sombre jalousie a troublé mes esprits :</l>
+<l>J’allais haïr... ô ciel !... et ma fureur expire ;</l>
+<l>Mais après le danger de perdre ma Thémire</l>
+<l>De ma félicité je sens mieux tout le prix.</l>
+<l>Viens donc sous ces berceaux où l’amour nous appelle ;</l>
+<l>Les dieux ont pu tromper, mais non changer mon cœur</l>
+<l>Viens, c’est un crime affreux de te croire infidèle,</l>
+<l>Et je veux par ma flamme en expier l’horreur.</l>
+</lg>
+<lg>
+<l>Non, jamais des enfers les retraites heureuses,</l>
+<l>Faites pour le repos des ombres vertueuses,</l>
+<l>Ni les bois de Dodone, et ses chênes sacrés,</l>
+<l>Ni ces riches bosquets où sont des fruits dorés,</l>
+<l>Jamais tous ces beaux lieux n’auraient su me séduire,</l>
+<l>Autant que le bocage embelli par Thémire.</l>
+
+<pagenum v="v2" num="99"/>
+
+<l>Un Satyre nous vit ; il suivait follement</l>
+<l>Une Nymphe échappée à son emportement.</l>
+<l>Heureux amants, dit-il, vos yeux savent s’entendre ;</l>
+<l>Vous payez un soupir d’un soupir aussi tendre :</l>
+<l>Mais moi, d’une cruelle en vain je suis les pas,</l>
+<l>Plus malheureux encor quand elle est dans mes bras.</l>
+<l>Près de nous, une Nymphe errante et solitaire,</l>
+<l>Sentit, en nous voyant, s’humecter sa paupière :</l>
+<l>Non ! c’est, dit-elle, encor pour nourrir mes tourments,</l>
+<l>Que le cruel Amour me fait voir ces amants !</l>
+</lg>
+<lg>
+<l>Nous vîmes Apollon au bord d’une onde pure :</l>
+<l>Brillant par son carquois et par sa chevelure,</l>
+<l>Sur les pas de Diane il marchait dans les bois ;</l>
+<l>Il accordait sa lyre. On a vu mille fois</l>
+<l>Les arbres, les rochers accourir pour l’entendre,</l>
+<l>Et le lion terrible en revenir plus tendre :</l>
+<l>Mais nous écoutions peu cette divine voix.</l>
+</lg>
+<lg>
+<l>On eût dit que Thémire, à toute la nature</l>
+<l>Donnait, en ce moment, le signal du bonheur :</l>
+<l>Le Zéphir, à nos pieds, caressait chaque fleur ;</l>
+<l>L’eau baignait son rivage avec un doux murmure ;</l>
+<l>Les myrtes, étendus comme un dais de verdure,</l>
+<l>En s’embrassant sur nous exhalaient leur odeur ;</l>
+<l>Des ramiers soupiraient sous le même feuillage ;</l>
+<l>Et l’essaim des oiseaux, dans son joyeux ramage,</l>
+<l>Chantait déjà la gloire et le prix du vainqueur.</l>
+</lg>
+<lg>
+<l>Je vis l’Amour, pareil au papillon folâtre,</l>
+<l>Voler près de Thémire, et sur ses beaux cheveux</l>
+<l>Baiser son front naïf, et sa bouche, et ses yeux ;</l>
+<l>Descendre, et s’arrêter sur sa gorge d’albâtre.</l>
+<l>Ma main veut le saisir ; j’avance,... il prend l’essor :</l>
+<l>Je le suis, je le trouve aux pieds de mon amante ;</l>
+<l>Il fuit vers ses genoux, et je l’y trouve encor.</l>
+<l>Je le suivais toujours, si Thémire tremblante,</l>
+<l>Thémire toute en pleurs, n’avait su m’arrêter :</l>
+
+<pagenum v="v2" num="100"/>
+
+<l>J’allais atteindre enfin sa retraite charmante</l>
+<l>Mais elle est d’un tel prix qu’il ne la peut quitter</l>
+</lg>
+<lg>
+<l>C’est ainsi que résiste une tendre fauvette,</l>
+<l>Qu’auprès de ses petits l’amour semble enchaîner :</l>
+<l>Sous la main qui s’approche, immobile et muette,</l>
+<l>Rien ne peut la contraindre à les abandonner.</l>
+</lg>
+<lg>
+<l>Thémire entend ma plainte, et devient plus sévère ;</l>
+<l>Elle voit ma douleur, et ne s’attendrit pas.</l>
+<l>Je cessai de prier, et je fus téméraire :</l>
+<l>Thémire s’indigna ; je craignis sa colère ;</l>
+<l>Je tremblai, je pleurai ; bientôt nouveaux combats,</l>
+<l>Nouveau courroux... enfin je tombai dans ses bras,</l>
+<l>Et mon dernier soupir s’exhalait sur sa bouche ;</l>
+<l>Mais en me repoussant, Thémire moins farouche</l>
+<l>Met la main sur mon cœur... et j’échappe au trépas.</l>
+</lg>
+<lg>
+<l>Pour me désespérer, que t’ai-je fait ? dit-elle.</l>
+<l>D’une indiscrète ardeur modère le transport :</l>
+<l>Va ! je suis moins que toi dure, injuste et cruelle ;</l>
+<l>Je n’eus jamais dessein de te causer la mort,</l>
+<l>Et tu veux m’entraîner dans la nuit éternelle !</l>
+<l>Ouvre ces yeux mourants, au nom de nos amours,</l>
+<l>Ou tu verras les miens se fermer pour toujours.</l>
+<l>Jusqu’au dernier moment, Thémire inexorable,</l>
+<l>A force de vertu, rappelle ma raison :</l>
+<l>Elle m’embrasse, hélas ! et j’obtiens mon pardon ;</l>
+<l>Mais sans aucun espoir de devenir coupable.</l>
+</lg>
+</poem>
+
+</div>
+
+</div>
+
+</div>
+
+</page-sequences>
+</bml>

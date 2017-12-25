@@ -1,0 +1,15 @@
+default namespace bml = "http://efele.net/2010/ns/bml"
+
+include "../../../tools/bml.rnc" {
+
+  start = 
+    element bml {
+       metadata,
+       toc,
+       cover,
+       page-sequences }
+}
+
+inline |= element oa { empty }
+inline |= element OA { empty }
+

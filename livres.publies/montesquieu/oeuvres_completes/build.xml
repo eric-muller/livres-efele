@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+
+<project name='montesquieu' default='build'>
+
+  <property name='schema' value='schema.rnc'/>
+  <property name='toefele_xsl' value='toefele.xsl'/>
+  <property name='endnotes' value='yes'/>
+
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_avertissement'/>
+    <book x='02_eloge_par_maupertuis'/>
+    <book x='03_lettres_persanes'/>
+    <book x='04_esprit_des_lois'/>
+    <book x='05_le_temple_de_gnide'/>
+    <book x='06_considerations'/>
+    <book x='07_dialogue_de_sylla'/>
+    <book x='08_lysimaque'/>
+    <book x='09_dissertation'/>
+    <book x='10_tibere_et_louis_xi'/>
+    <book x='11_arsace_et_ismenie'/>
+    <book x='12_preface_aux_oeuvres_diverses'/>
+    <book x='13_discours_academiques'/>
+    <book x='14_essai_sur_le_gout'/>
+    <book x='15_pensees_diverses'/>
+    <book x='16_notes_sur_l_angleterre'/>
+    <book x='17_poesies'/>
+    <book x='18_lettres_familieres'/>
+    <book x='19_voyage_a_paphos'/>
+  </target>
+
+  <target name='collections'>
+    <collection  x='montesquieu_laboulaye'/> 
+  </target>
+
+  <target name='zipsources-book'/>
+
+</project>

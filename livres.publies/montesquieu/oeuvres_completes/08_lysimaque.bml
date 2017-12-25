@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb309702138">
+
+      <titre>Œuvres complètes de Montesquieu</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119166485">
+        <nom-bibliographie>Montesquieu, Charles-Louis de Secondat</nom-bibliographie>
+        <dates>1689-1755</dates>
+        <nom-couverture>Montesquieu</nom-couverture>
+      </auteur>
+      
+      <auteur role='edt' bnf="http://catalogue.bnf.fr/ark:/12148/cb12280806q">
+        <nom-bibliographie>Laboulaye, Édouard</nom-bibliographie>
+        <dates>1811-1883</dates>
+        <nom-couverture>Édouard Laboulaye</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>Garnier Frères</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+     <date>1875-1879</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume id="v2">
+      <facsimile href="http://books.google.com/books?id=bgUvAAAAMAAJ"
+                 pages="n0"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000110"
+        creation="2010-12-02T00:00:02-08:00"
+        modification="2014-12-31T18:14:30-08:00">
+
+      <surtitre>Œuvres complètes</surtitre>
+      <titre>Lysimaque</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00002'>
+        <titre>Œuvres complètes de Montesquieu, édition Laboulaye</titre>
+      </collection>
+
+      <merci>
+        <p>Merci à Mohamed Sebaa pour les erreurs qu’il a signalées.</p>
+      </merci>
+
+      <note>
+        <p>L’orthographe a été modernisée en remplaçant <i>oi</i> par <i>ai</i> (par example <i>étoit</i> remplacé par <i>était</i>).</p>
+
+        <p>Les notes de Montesquieu ainsi que les notes éditoriales de Laboulaye suivent immédiatement le texte, et sont numérotées 1, 2, 3,... Les variantes sont placées à la fin du volume, et son numérotées a, b, c,... Dans les deux cas, l’appel de note et le numéro de la note sont hyperliés.</p>
+      </note>
+    </electronique>
+  </metadata>
+
+  <toc/>
+
+  <cover src="images/couverture-2.png" alt=""/>
+
+<page-sequences>
+
+<div id="avertissement" toc="Avertissement de l’éditeur">
+
+<pagenum v="v2" num="345"/>
+
+<h1>AVERTISSEMENT DE L’ÉDITEUR</h1>
+
+
+<p><i>Lysimaque </i>parut dans le <i>Mercure de France, </i>au mois de décembre 1754<noteref noteid="2.345.1"/>. En tête de l’article, les éditeurs du journal mirent la note suivante :</p>
+
+<vsep class="emptyline"/>
+
+<p>L’auteur de l’<i>Esprit des lois </i>nous a permis d’imprimer le morceau suivant qu’il a fait pour l’académie de Nancy ; cette fiction est si intéressante et si noble qu’il n’est pas possible de la lire sans aimer et sans admirer le grand prince qui en est l’objet.</p>
+
+<vsep class="emptyline"/>
+
+<p>Ce <i>grand prince, </i>est-il besoin de le dire, était l’ancien roi de Pologne, Stanislas Leczinski, surnommé <i>le Bienfaisant. </i>
+</p>
+
+<p>Montesquieu connaissait le roi Stanislas. Au mois de juin 1747, il avait fait un voyage en Lorraine avec madame de Mirepoix. « J’ai été comblé de bontés et d’honneur à la cour de Lorraine, écrit-il en juillet 1747 ; j’ai passé des moments délicieux avec le roi Stanislas. » A Lunéville, on aimait les lettres ; c’était une bonne fortune que de posséder un homme aussi savant et aussi aimable que l’était Montesquieu. « J’en appelle à tous ceux qui l’ont vu à notre cour, disait, en 1755, le chevalier de Solignac. Ils nous diront que sa physionomie avait toute la naïveté de son âme. Véritablement il étonnait par l’excès de sa franchise, et l’on avait peine à décider si, malgré la vivacité de son esprit, il n’ignor<oa/>it pas plutôt les artifices qu’il ne dédaign<oa/>it de s’en servir : doit-on être surpris après cela si sa candeur attir<oa/>it la confiance ?<noteref noteid="2.345.2"/> »</p>
+
+<note id="2.345.1" type="e"><p>Il fut d’abord imprimé dans <i>l’Histoire de la Société des sciences et belles-lettres de Nancy, </i>publiée par M. de Solignac.</p></note>
+
+<note id="2.345.2" type="e"><p><i>Éloge historique de M. le président de Montesquieu.</i> Nancy, 1755, p. 32.</p></note>
+
+<pagenum v="v2" num="346"/>
+
+<p>On voit que Montesquieu se faisait tout à tous. Au besoin même, pour être agréable au roi Stanislas, il devint poète et galant, et fit le portrait de M<sup>me</sup> de Mirepoix :</p>
+
+<blockquote>
+<poem>
+<l>La beauté que je chante ignore ses appas.</l>
+<l>Mortels qui la voyez, dites-lui qu’elle est belle,</l>
+<l indent="3">Naïve, simple, naturelle,</l>
+<l indent="3">Et timide sans embarras, etc.</l>
+</poem>
+</blockquote>
+
+
+<p>« Le portrait de M<sup>me</sup> de Mirepoix, écrivait-il quelques années plus tard à son ami Venuti, a fait à Paris et à Versailles une très-grande fortune ;... vous savez que tout ceci est une badinerie qui fut faite à Lunéville, pour amuser une minute le roi de Pologne. »</p>
+
+<p>Stanislas voulut avoir à Nancy une Société royale des sciences et belles-lettres. Tout petit prince a l’ambition d’avoir une académie, et de toutes les ambitions c’est assurément la plus innocente. Montesquieu témoigna le désir d’être reçu des premiers dans cette Société ; et par une ingénieuse flatterie c’est à Stanislas lui-même qu’il s’adressa pour solliciter son entrée à l’Académie :</p>
+
+<vsep class="emptyline"/>
+<p>« Sire, il faudra que Votre Majesté ait la bonté de répondre elle-même à son académie du mérite que je puis avoir. Sur son témoignage, il n’y aura personne qui ne m’en croie beaucoup. Votre Majesté voit que je ne perds aucune des occasions qui peuvent un peu m’approcher d’elle, et quand je pense aux grandes qualités de Votre Majesté, mon admiration demande toujours de moi ce que le respect veut me défendre. »</p>
+<vsep class="emptyline"/>
+
+<p>A cette aimable lettre le roi de Pologne fit une réponse aussi gracieuse que spirituelle :</p>
+
+<letter>
+
+<p>« Monsieur, je ne puis que bien augurer de ma société littéraire, du moment qu’elle vous inspire le désir d’y être reçu. Un nom aussi distingué que le vôtre dans la république des lettres, un mérite plus grand encore que votre nom, doivent la flatter sans doute, et ce qui la flatte me touche sensiblement. Je viens d’assister à une de ses séances particulières : votre lettre, que j’ai fait lire, a excité une joie qu’elle s’est chargée elle-même de vous exprimer. Elle ser<oa/>it bien plus grande cette joie, si la Société pouv<oa/>it se promettre de vous posséder de temps en temps. Ce bonheur, dont elle connaîtrait le prix, en serait un pour moi, qui serais véritablement ravi de <pagenum v="v2" num="347"/>vous revoir à ma cour. Mes sentiments pour vous sont toujours les mêmes, et jamais je ne cesserai d’être bien sincèrement, monsieur, votre bien affectionné.</p>
+
+<signature>« S<s>TANISLAS</s>, roi. »</signature>
+
+</letter>
+
+<p>Nommé par acclamation, Montesquieu voulut acquitter une dette de reconnaissance ; il écrivit <i>Lysimaque, </i>et le 4 avril 1751, il l’envoya de Paris à M. de Solignac, secrétaire de la Société littéraire de Nancy, en y joignant la lettre suivante :</p>
+
+<letter>
+
+<p>« Monsieur, je crois ne pouvoir mieux faire mes remercîments à la Société littéraire, qu’en payant le tribut que je lui dois, avant même qu’elle me le demande, et en faisant mon devoir d’académicien au moment de ma nomination. Et comme je fais parler un monarque que ses grandes qualités élevèrent au trône de l’Asie, et à qui ces mêmes qualités firent éprouver de grands revers, je le peins comme le père de la patrie, l’amour et les délices de ses sujets ; j’ai cru que cet ouvrage convenait mieux à votre Société qu’à toute autre. Je vous supplie d’ailleurs de vouloir bien lui marquer mon extrême reconnaissance, etc. »</p>
+
+</letter>
+
+<p>La Société de Nancy ne se méprit point sur l’intention qu’avait eu Montesquieu en choisissant un héros éprouvé par de longues infortunes, et devenu dans ses vieux jours le souverain adoré d’un peuple qu’il rend heureux. « Nous nous rappellerons longtemps avec plaisir les applaudissements que reçut cet ouvrage. Nous crûmes apercevoir dans <i>Lysimaque </i>l’objet continuel de notre admiration et de nos hommages<noteref noteid="2.347.1"/>. » En deux mots, Lysimaque c’était Stanislas.</p>
+
+<p>Toutefois on se tromperait beaucoup si l’on cherchait dans <i>Lysimaque </i>des allusions à la vie agitée du roi de Pologne, véritable roman d’aventures, qu’on est tout étonné de rencontrer au <s>XVIII</s><sup>e</sup> siècle. C’est la grandeur morale d’un prince éprouvé par l’infortune qu’a voulu peindre Montesquieu ; c’est par la force du caractère et par la bonté que <i>Lysimaque </i>fait penser à Stanislas.</p>
+
+<p>M. Villemain a apprécié avec une grande finesse ces pages exquises :</p>
+
+<vsep class="emptyline"/>
+<p>« Ce talent singulier d’expliquer, de peindre et d’imiter l’antiquité ne <pagenum v="v2" num="348"/>paraîtrait pas tout entier, si l’on oubliait un de ces précieux fragments où l’homme supérieur révèle d’autant mieux sa force qu’il l’a concentré sur un espace plus borné. Montesquieu ne serait pas le peintre de l’antiquité le plus énergique et le plus vrai, s’il n’avait point retracé cette philosophie stoïcienne, la plus haute conception de l’esprit humain, et, parmi les erreurs populaires du paganisme, la seule et véritable religion des grandes âmes. Quand on aura lu l’hymne sublime que Cléanthe le stoïcien adressait à la divinité adorée sous tant de noms divers, au créateur, <i>qui a tout fait dans le monde, excepté le mal qui sort du cœur du méchant ; </i>quand on aura médité dans Platon la résignation du juste condamné ; quand on saura par cœur les pensées d’Épictète et le règne de Marc-Aurèle, on devra s’étonner encore du langage retrouvé par Montesquieu dans l’épisode de Lysimaque. Ce spiritualisme altier, ce mépris de la terre, cet orgueil et cette joie de la douleur qui rendaient les âmes invincibles, qui les rendaient heureuses ; toutes les grandeurs morales luttant contre la puissance, la cruauté d’Alexandre ; Lysimaque, que les dieux préparent pour consoler la terre ; quelle vérité historique, quelle éloquence sans modèle, quels acteurs, et quel intérêt ! Quelques pages ont suffi pour tout dire et tout peindre.<noteref noteid="2.348.1"/> »</p>
+
+<vsep class="emptyline"/>
+
+<note id="2.347.1" type="e"><p>Solignac, <i>Éloge de Montesquieu, </i>p. 31.</p></note>
+
+
+<p>Qu’on ne s’étonne pas du goût que Montesquieu avait pour les stoïciens. Chacun de nous ici-bas se fait un idéal de vertu et de grandeur morale. Cet idéal pour l’auteur de <i>Lysimaque, </i>c’était le stoïcisme<noteref noteid="2.348.2"/> ; il en admirait tout, jusqu’à ce mépris de la vie qui mène au suicide. Fort injuste pour le christianisme dans les <i>Lettres persanes, </i>Montesquieu est revenu à une plus juste estime de la religion ; mais Antonin, mais Marc-Aurèle, mais Julien lui-même, ont toujours été à ses yeux les princes les plus dignes de gouverner les hommes. Il n’a jamais pu se faire à cette histoire de la décadence romaine, histoire remplie par les querelles de l’Église et de l’État, par les persécutions des lettres, de la philosophie, de la libre pensée ; il regardait toutes ces disputes théologiques comme le déshonneur d’une nation. De là son goût pour la liberté romaine et pour la philosophie de la Grèce. Sa patrie ce n’était pas Constautinople, c’était Rome, c’était Athènes dans ses beaux jours. « J’ai eu toute ma vie, disait-il, un goût décidé pour les ouvrages des anciens ; j’ai admiré plusieurs critiques faites contre eux, mais j’ai toujours admiré les anciens. J’ai étudié mon goût, et j’ai examiné si ce n’ét<oa/>it point un de ces <pagenum v="v2" num="349"/>goûts malades sur lesquels on ne doit faire aucun fond ; mais plus j’ai examiné, plus j’ai senti que j’avais raison d’avoir senti comme j’ai senti<noteref noteid="2.349.1"/>. »</p>
+
+<note id="2.348.1" type="e"><p>Villemain, <i>Éloge de Montesquieu. </i></p></note>
+
+<note id="2.348.2" type="e"><p><i>Esprit des lois, </i> <s>XXIV</s>, 1.</p></note>
+
+
+<p>C’est à ce pur sentiment de l’antiquité que nous devons <i>Lysimaque.</i></p>
+
+<vsep class="emptyline"/>
+
+<p>Décembre 1875.</p>
+
+<note id="2.349.1" type="e"><p><i>Pensées diverses. </i></p></note>
+
+</div>
+
+
+<div id="lysimaque" toc="Lysimaque">
+
+<pagenum v="v2" num="351"/>
+
+<h1>LYSIMAQUE.</h1>
+
+<vsep class="rule"/>
+
+<p>Lorsque Alexandre eut détruit l’empire des Perses, il voulut que l’on crût qu’il était fils de Jupiter. Les Macédoniens ét<oa/>ient indignés de voir ce prince rougir d’avoir Philippe pour père : leur mécontentement s’accrut lorsqu’ils lui virent prendre les mœurs, les habits et les manières des Perses ; et ils se reproch<oa/>ient tous d’avoir tant fait pour un homme qui commenc<oa/>it à les mépriser. Mais on murmur<oa/>it dans l’armée, et on ne parl<oa/>it pas.</p>
+
+<p>Un philosophe nommé Callisthène av<oa/>it suivi le roi dans son expédition. Un jour qu’il le salua à la manière des Grecs : « D’où vient, lui dit Alexandre, que tu ne m’adores pas ? — Seigneur, lui dit Callisthène, vous êtes chef de deux nations : l’une, esclave avant que vous l’eussiez soumise, ne l’est pas moins depuis que vous l’avez vaincue ; l’autre, libre avant qu’elle vous servît à remporter tant de victoires, l’est encore depuis que vous les avez remportées. Je suis Grec, seigneur ; et ce nom, vous l’avez élevé si haut, que, sans vous faire tort, il ne nous est plus permis de l’avilir. »</p>
+
+<p>Les vices d’Alexandre ét<oa/>ient extrêmes comme ses vertus ; il ét<oa/>it terrible dans sa colère ; elle le rend<oa/>it cruel. Il fit couper les pieds, le nez et les oreilles à Callisthène, ordonna qu’on le mît dans une cage de fer, et le fit porter ainsi à la suite de l’armée.</p>
+
+<p>J’aim<oa/>is Callisthène ; et, de tout temps, lorsque mes <pagenum v="v2" num="352"/>occupations me laiss<oa/>ient quelques heures de loisir, je les av<oa/>is employées à l’écouter ; et si j’ai de l’amour pour la vertu, je le dois aux impressions que ses discours fais<oa/>ient sur moi. J’allai le voir. « Je vous salue, lui dis-je, illustre malheureux, que je vois dans une cage de fer, comme on enferme une bête sauvage, pour avoir été le seul homme de l’armée. »</p>
+
+<p>« Lysimaque, me dit-il, quand je suis dans une situation qui demande de la force et du courage, il me semble que je me trouve presque à ma place. En vérité, si les dieux ne m’av<oa/>ient mis sur la terre que pour y mener une vie voluptueuse, je croir<oa/>is qu’ils m’auraient donné en vain une âme grande et immortelle. Jouir des plaisirs des sens est une chose dont tous les hommes sont aisément capables ; et si les dieux ne nous ont faits que pour cela, ils ont fait un ouvrage plus parfait qu’ils n’ont voulu, et ils ont plus exécuté qu’entrepris. Ce n’est pas, ajouta-t-il, que je sois insensible ; vous ne me faites que trop voir que je ne le suis pas : quand vous êtes venu à moi, j’ai trouvé d’abord quelque plaisir à vous voir faire<noteref noteid="2.352.1"/> une action de courage ; mais, au nom des dieux, que ce soit pour la dernière fois. Laissez-moi soutenir mes malheurs, et n’ayez point la cruauté d’y joindre encore les vôtres. »</p>
+
+<p>« Callisthène, lui dis-je, je vous verrai tous les jours. Si le roi vous voy<oa/>it abandonné des gens vertueux, il n’aur<oa/>it plus de remords : il commencer<oa/>it à croire que vous êtes coupable. Ah ! j’espère qu’il ne jouira pas du plaisir de voir que ses châtiments me feront abandonner un ami. »</p>
+
+<p>Un jour Callisthène me dit : « Les dieux immortels <pagenum v="v2" num="353"/>m’ont consolé ; et, depuis ce temps, je sens en moi quelque chose de divin qui m’a ôté le sentiment de mes peines. J’ai vu en songe le grand Jupiter. Vous étiez auprès de lui ; vous aviez un sceptre à la main, et un bandeau royal sur le front. Il vous a montré à moi, et m’a dit : <i>Il te rendra plus heureux. </i>L’émotion où j’ét<oa/>is m’a réveillé. Je me suis trouvé les mains élevées au ciel, et faisant des efforts pour dire : <i>Grand Jupiter, si Lysimaque doit régner, fais qu’il règne avec justice. </i>Lysimaque, vous régnerez : croyez un homme qui doit être agréable aux dieux, puisqu’il souffre pour la vertu. »</p>
+
+<note id="2.352.1" type="v"><p>Premières éditions : à vous faire voir.</p></note>
+
+<p>Cependant Alexandre ayant appris que je respect<oa/>is la misère de Callisthène, que j’all<oa/>is le voir, et que j’os<oa/>is le plaindre, il entra dans une nouvelle fureur : « Va, dit-il, combattre contre les lions, malheureux qui te plais tant à vivre avec les bêtes féroces. » On différa mon supplice pour le faire servir de spectacle à plus de gens.</p>
+
+<p>Le jour qui le précéda, j’écrivis ces mots à Callisthène : « Je vais mourir. Toutes les idées que vous m’aviez données de ma future grandeur se sont évanouies de mon esprit. J’aur<oa/>is souhaité d’adoucir les maux d’un homme tel que vous. »</p>
+
+<p>Prexape, à qui je m’ét<oa/>is confié, m’apporta cette réponse : « Lysimaque, si les dieux ont résolu que vous régniez, Alexandre ne peut pas vous ôter la vie ; car les hommes ne résistent pas à la volonté des dieux. »</p>
+
+<p>Cette lettre m’encouragea, et, faisant réflexion que les hommes les plus heureux et les plus malheureux sont également environnés de la main divine, je résolus de me conduire, non pas par mes espérances, mais par mon courage ; et de défendre, jusqu’à la fin, une vie sur laquelle il y av<oa/>it de si grandes promesses.</p>
+
+<pagenum v="v2" num="354"/>
+
+<p>On me mena dans la carrière. Il y av<oa/>it autour de moi un peuple immense qui ven<oa/>it être témoin de mon courage ou de ma frayeur. On me lâcha un lion. J’av<oa/>is plié mon manteau autour de mon bras : je lui présentai ce bras : il voulut le dévorer ; je lui saisis la langue, la lui arrachai, et le jettai à mes pieds<noteref noteid="2.354.1"/>.</p>
+
+<p>Alexandre aim<oa/>it naturellement les actions courageuses : il admira ma résolution ; et ce moment fut celui du retour de sa grande âme.</p>
+
+<p>Il me fit appeler ; et me tendant la main : « Lysimaque, me dit-il, je te rends mon amitié, rends-moi la tienne. Ma colère n’a servi qu’à te faire faire une action qui manque à la vie d’Alexandre. »</p>
+
+<p>Je reçus les grâces du roi ; j’adorai les décrets des dieux ; et j’attend<oa/>is leurs promesses, sans les rechercher ni les fuir. Alexandre mourut, et toutes les nations furent sans maître. Les fils du roi ét<oa/>ient dans l’enfance ; son frère Aridée n’en ét<oa/>it jamais sorti ; Olympias n’av<oa/>it que la hardiesse des âmes f<oa/>ibles, et tout ce qui ét<oa/>it cruauté ét<oa/>it pour elle du courage : Roxane, Eurydice, Statyre, ét<oa/>ient perdues dans la douleur. Tout le monde, dans le palais, sav<oa/>it gémir ; et personne ne sav<oa/>it régner. Les capitaines d’Alexandre levèrent donc les yeux sur son trône ; mais l’ambition de chacun fut contenue par l’ambition de tous. Nous partageâmes l’empire ; et chacun de nous crut avoir partagé le prix de ses fatigues.</p>
+
+<note id="2.354.1" type="e"><p>La force de Lysimaque nous est attestée par une épigramme anonyme de l’anthologie de Planude.</p>
+
+<blockquote>
+<poem>
+<l><i>Sur un buste du roi Lysimaque. </i></l>
+</poem>
+</blockquote>
+
+<p>« Tu vois dans cette image une chevelure épaisse, un air d’audace, des sourcils effrayants ; cherche aussi la peau du lion. Si tu la trouves, c’est Hercule ; sinon c’est Lysimaque. »</p>
+</note>
+
+
+<pagenum v="v2" num="355"/>
+
+<p>Le sort me fit roi d’Asie ; et à présent que je puis tout, j’ai plus besoin que jamais des leçons de Callisthène. Sa joie m’annonce que j’ai fait quelque bonne action ; et ses soupirs me disent que j’ai quelque mal à réparer. Je le trouve entre mon peuple et moi.</p>
+
+<p>Je suis le roi d’un peuple qui m’aime. Les pères de famille espèrent la longueur de ma vie comme celle de leurs enfants : les enfants craignent de me perdre comme ils craignent de perdre leur père. Mes sujets sont heureux. et je le suis.</p>
+
+
+</div>
+
+</page-sequences>
+</bml>

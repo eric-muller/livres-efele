@@ -1,0 +1,3712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5714615q"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000503"
+        creation="2017-06-13T09:13:34-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Amphitryon</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='26'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="A son altesse sérénissime Monseigneur le Prince"/>
+    <tocentry idref="p02" label="Personnages"/>
+    <tocentry idref="p03" label="Prologue"/>
+    <tocentry idref="p04" label="Acte premier">
+      <tocentry idref="p05" label="Scène I"/>
+      <tocentry idref="p06" label="Scène II"/>
+      <tocentry idref="p07" label="Scène III"/>
+      <tocentry idref="p08" label="Scène IV"/>
+    </tocentry>
+    <tocentry idref="p09" label="Acte second">
+      <tocentry idref="p10" label="Scène I"/>
+      <tocentry idref="p11" label="Scène II"/>
+      <tocentry idref="p12" label="Scène III"/>
+      <tocentry idref="p13" label="Scène IV"/>
+      <tocentry idref="p14" label="Scène V"/>
+      <tocentry idref="p15" label="Scène VI"/>
+      <tocentry idref="p16" label="Scène VII"/>
+    </tocentry>
+    <tocentry idref="p17" label="Acte troisième">
+      <tocentry idref="p18" label="Scène I"/>
+      <tocentry idref="p19" label="Scène II"/>
+      <tocentry idref="p20" label="Scène III"/>
+      <tocentry idref="p21" label="Scène IV"/>
+      <tocentry idref="p22" label="Scène V"/>
+      <tocentry idref="p23" label="Scène VI"/>
+      <tocentry idref="p24" label="Scène VII"/>
+      <tocentry idref="p25" label="Scène VIII"/>
+      <tocentry idref="p26" label="Scène IX"/>
+      <tocentry idref="p27" label="Scène X"/>
+      <tocentry idref="p28" label="Scène XI"/>
+    </tocentry>
+   </toc>
+
+  <cover src="images/couverture_2.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome second. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="388"/>
+
+<img src="images/frise1.png" class="center100" alt="frise"/>
+
+<h1>AMPHITRYON</h1>
+
+<h2>COMÉDIE EN TROIS ACTES</h2>
+
+<h2><s>1668</s></h2>
+
+<vsep class="rule"/>
+
+<h2 id="p01">A SON ALTESSE SÉRÉNISSIME MONSEIGNEUR LE PRINCE</h2>
+
+<salutation>M<s>ONSEIGNEUR</s>,</salutation>
+
+<p>N’en déplaise à nos beaux esprits, je ne vois rien de plus ennuyeux que les épîtres dédicatoires ; et V<s>OTRE</s> A<s>LTESSE</s> S<s>ÉRÉNISSIME</s> trouvera bon, s’il lui plaît, que je ne suive point ici le style de ces messieurs-là, et refuse de me servir de deux ou trois misérables pensées qui ont été tournées et retournées tant de fois, qu’elles sont usées de tous les côtés. Le nom du <s>GRAND</s> C<s>ONDÉ</s> est un nom trop glorieux pour le traiter comme on fait de tous les autres noms. Il ne faut l’appliquer, ce nom illustre, qu’à des emplois qui soient dignes de lui et, pour dire de belles choses, je voudrais parler de le mettre à la tête d’une armée plutôt qu’à la tête d’un livre ; et je conçois bien mieux ce qu’il est capable de faire en l’opposant aux forces des ennemis de cet État qu’en l’opposant à la critique des ennemis d’une comédie.</p>
+
+<p>Ce n’est pas, M<s>ONSEIGNEUR</s>, que la glorieuse approbation de V<s>OTRE</s> A<s>LTESSE</s> S<s>ÉRÉNISSIME</s> ne fût une puissante protection pour toutes ces sortes d’ouvrages, et qu’on ne soit persuadé des lumières de votre esprit autant que de l’intrépidité de votre cœur et de la grandeur de votre âme. On sait, par toute la terre, que l’éclat de votre mérite n’est point renfermé dans les bornes de cette valeur indomptable qui se fait des adorateurs chez ceux même qu’elle surmonte ; qu’il s’étend, ce mérite, jusques aux connoissances les plus fines et les plus relevées, et que les décisions de votre jugement sur tous les ouvrages d’esprit ne manquent point d’être suivies par le sentiment des plus délicats. Mais on sait aussi, M<s>ONSEIGNEUR</s>, que toutes ces glorieuses approbations dont nous nous vantons en public ne nous coûtent rien à faire imprimer ; et que ce sont des choses dont nous disposons comme nous voulons. On sait, dis-je, qu’une épître dédicatoire dit tout ce qu’il lui plaît, et qu’un auteur est en pouvoir d’aller saisir les personnes les plus augustes, et de parer de leurs grands noms les premiers feuillets de son livre ; qu’il a la liberté de s’y donner, autant qu’il <pagenum num="389"/>le veut, l’honneur de leur estime, et de se faire des protecteurs qui n’ont jamais songé à l’être.</p>
+
+<p>Je n’abuserai, M<s>ONSEIGNEUR</s>, ni de votre nom, ni de vos bontés, pour combattre les censeurs de l’<i>Amphitryon</i> et m’attribuer une gloire que je n’ai peut-être pas méritée, et je ne prends la liberté de vous offrir ma comédie que pour avoir lieu de vous dire que je regarde incessamment, avec une profonde vénération, les grandes qualités que vous joignez au sang auguste dont vous tenez le jour, et que je suis, Monseigneur, avec tout le respect possible, et tout le zèle imaginable,</p>
+
+<p>D<s>E</s> V<s>OTRE</s> A<s>LTESSE</s> S<s>ÉRÉNISSIME</s>,</p>
+
+<p>Le très humble, très obéissant, et très obligé serviteur,</p>
+
+<signature>J. B. P. M<s>OLIÈRE</s>.</signature>
+
+<vsep class="rule"/>
+
+<h3 id="p02">PERSONNAGES DU PROLOGUE</h3>
+
+<p class="sommaire">MERCURE.</p>
+<p class="sommaire">LA NUIT.</p>
+
+<h3>PERSONNAGES DE LA COMÉDIE</h3>
+
+<p class="sommaire">JUPITER, sous la forme d’Amphitryon.</p>
+<p class="sommaire">MERCURE, sous la forme de Sosie.</p>
+<p class="sommaire">AMPHITRYON, général des Thébains.</p>
+<p class="sommaire">ALCMÈNE, femme d’Amphitryon.</p>
+<p class="sommaire">CLÉANTHIS, suivante d’Alcmène et femme de Sosie.</p>
+<p class="sommaire">ARGATHIPHONTIDAS, capitaine thébain.</p>
+<p class="sommaire">NAUCRATÈS, capitaine thébain.</p>
+<p class="sommaire">POLIDAS, capitaine thébain.</p>
+<p class="sommaire">PAUSICLÈS, capitaine thébain.</p>
+<p class="sommaire">SOSIE, valet d’Amphitryon.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est à Thèbes, devant la maison d’Amphitryon.</p>
+
+<vsep class="rule"/>
+
+
+ <h2 id="p03">PROLOGUE</h2>
+
+<hstage><speaker>MERCURE</speaker>, sur un nuage ; <speaker>LA NUIT</speaker>, dans un char traîné dans l’air par deux chevaux.</hstage>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Tout beau, charmante Nuit, daignez vous arrêter.</l>
+<l>Il est certain secours que de vous on désire ;</l>
+<l>Et j’ai deux mots à vous dire</l>
+<l>De la part de Jupiter.</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Ah ! ah ! c’est vous, seigneur Mercure !</l>
+<l>Qui vous eût deviné là, dans cette posture ?</l>
+
+<pagenum num="390"/>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Ma foi, me trouvant las, pour ne pouvoir fournir</l>
+<l>Aux différents emplois où Jupiter m’engage,</l>
+<l>Je me suis doucement assis sur ce nuage,</l>
+<l>Pour vous attendre venir.</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Vous vous moquez, Mercure, et vous n’y songez pas ;</l>
+<l>Sied-il bien à des dieux de dire qu’ils sont las ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Les dieux sont-ils de fer ?</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l cont='true'>Non ; mais il faut sans cesse</l>
+<l>Garder le décorum de la divinité.</l>
+<l>Il est de certains mots dont l’usage rabaisse</l>
+<l>Cette sublime qualité,</l>
+<l>Et que, pour leur indignité,</l>
+<l>Il est bon qu’aux hommes on laisse.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>A votre aise vous en parlez ;</l>
+<l>Et vous avez, la belle, une chaise roulante</l>
+<l>Où, par deux bons chevaux, en dame nonchalante,</l>
+<l>Vous vous faites traîner partout où vous voulez.</l>
+<l>Mais de moi ce n’est pas de même ;</l>
+<l>Et je ne puis vouloir, dans mon destin fatal,</l>
+<l>Aux poètes assez de mal</l>
+<l>De leur impertinence extrême,</l>
+<l>D’avoir, par une injuste loi,</l>
+<l>Dont on veut maintenir l’usage,</l>
+<l>A chaque dieu, dans son emploi,</l>
+<l>Donné quelque allure en partage,</l>
+<l>Et de me laisser à pied, moi,</l>
+<l>Comme un messager de village ;</l>
+<l>Moi qui suis, comme on sait, en terre et dans les cieux,</l>
+<l>Le fameux messager du souverain des dieux ;</l>
+<l>Et qui, sans rien exagérer,</l>
+<l>Par tous les emplois qu’il me donne,</l>
+<l>Aurois besoin, plus que personne,</l>
+<l>D’avoir de quoi me voiturer.</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Que voulez-vous faire à cela ?</l>
+<l>Les poètes font à leur guise.</l>
+<l>Ce n’est pas la seule sottise</l>
+<pagenum num="391"/>
+<l>Qu’on voit faire à ces messieurs-là.</l>
+<l>Mais contre eux toutefois votre âme à tort s’irrite,</l>
+<l>Et vos ailes aux pieds sont un don de leurs soins.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Oui ; mais, pour aller plus vite,</l>
+<l>Est-ce qu’on s’en lasse moins ?</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Laissons cela, seigneur Mercure,</l>
+<l>Et sachons ce dont il s’agit.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>C’est Jupiter, comme je vous l’ai dit,</l>
+<l>Qui de votre manteau veut la faveur obscure,</l>
+<l>Pour certaine douce aventure</l>
+<l>Qu’un nouvel amour lui fournit.</l>
+<l>Ses pratiques<noteref noteid="note.391.1"/>, je crois, ne vous sont pas nouvelles ;</l>
+<l>Bien souvent pour la terre il néglige les cieux ;</l>
+<l>Et vous n’ignorez pas que ce maître des dieux</l>
+<l>Aime à s’humaniser pour des beautés mortelles,</l>
+<l>Et sait cent tours ingénieux</l>
+<l>Pour mettre à bout les plus cruelles.</l>
+<l>Des yeux d’Alcmène il a senti les coups :</l>
+<l>Et, tandis qu’au milieu des béotiques plaines</l>
+<l>Amphitryon, son époux,</l>
+<l>Commande aux troupes thébaines,</l>
+<l>Il en a pris la forme, et reçoit là-dessous</l>
+<l>Un soulagement à ses peines</l>
+<l>Dans la possession des plaisirs les plus doux.</l>
+<l>L’état des mariés à ses feux est propice :</l>
+<l>L’hymen ne les a joints que depuis quelques jours ;</l>
+<l>Et la jeune chaleur de leurs tendres amours</l>
+<l>A fait que Jupiter à ce bel artifice</l>
+<l>S’est avisé d’avoir recours.</l>
+<l>Son stratagème ici se trouve salutaire :</l>
+<l>Mais, près de maint objet chéri,</l>
+<l>Pareil déguisement seroit pour ne rien faire,</l>
+<l>Et ce n’est pas partout un bon moyen de plaire,</l>
+<l>Que la figure d’un mari.</l>
+
+<notes>
+  <note id="note.391.1">
+    <p><i>Pratiques</i> intrigues, menées sourdes.</p>
+  </note>
+</notes>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>J’admire Jupiter, et je ne comprends pas</l>
+<l>Tous les déguisements qui lui viennent en tête.</l>
+
+<pagenum num="392"/>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Il veut goûter par là toutes sortes d’états ;</l>
+<l>Et c’est agir en dieu qui n’est pas bête.</l>
+<l>Dans quelque rang qu’il soit des mortels regardé,</l>
+<l>Je le tiendrois fort misérable,</l>
+<l>S’il ne quittoit jamais sa mine redoutable,</l>
+<l>Et qu’au faîte des cieux il fût toujours guindé.</l>
+<l>Il n’est point, à mon gré, de plus sotte méthode</l>
+<l>Que d’être emprisonné toujours dans sa grandeur ;</l>
+<l>Et surtout aux transports de l’amoureuse ardeur</l>
+<l>La haute qualité devient fort incommode.</l>
+<l>Jupiter, qui sans doute en plaisirs se connoît,</l>
+<l>Sait descendre du haut de sa gloire suprême ;</l>
+<l>Et, pour entrer dans tout ce qu’il lui plaît,</l>
+<l>Il sort tout à fait de lui-même,</l>
+<l>Et ce n’est plus alors Jupiter qui paroît.</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Passe encor de le voir, de ce sublime étage,</l>
+<l>Dans celui des hommes venir.</l>
+<l>Prendre tous les transports que leur cœur peut fournir,</l>
+<l>Et se faire à leur badinage.</l>
+<l>Si, dans les changements où son humeur l’engage,</l>
+<l>A la nature humaine il s’en vouloit tenir.</l>
+<l>Mais de voir Jupiter taureau,</l>
+<l>Serpent, cygne, ou quelque autre chose,</l>
+<l>Je ne trouve point cela beau,</l>
+<l>Et ne m’étonne pas si parfois on en cause.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Laissons dire tous les censeurs :</l>
+<l>Tels changements ont leurs douceurs</l>
+<l>Qui passent leur intelligence.</l>
+<l>Ce dieu sait ce qu’il fait aussi bien là qu’ailleurs ;</l>
+<l>Et, dans les mouvements de leurs tendres ardeurs,</l>
+<l>Les bêtes ne sont pas si bêtes que l’on pense.</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Revenons à l’objet dont il a les faveurs.</l>
+<l>Si, par son stratagème, il voit sa flamme heureuse,</l>
+<l>Que peut-il souhaiter, et qu’est-ce que je puis ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Que vos chevaux, par vous au petit pas réduits.</l>
+<l>Pour satisfaire aux vœux de son âme amoureuse,</l>
+<l>D’une nuit si délicieuse</l>
+<pagenum num="393"/>
+<l>Fassent la plus longue des nuits ;</l>
+<l>Qu’à ses transports vous donniez plus d’espace,</l>
+<l>Et retardiez la naissance du jour</l>
+<l>Qui doit avancer le retour</l>
+<l>De celui dont il tient la place.</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Voilà sans doute un bel emploi</l>
+<l>Que le grand Jupiter m’apprête !</l>
+<l>Et l’on donne un nom fort honnête</l>
+<l>Au service qu’il veut de moi !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Pour une jeune déesse,</l>
+<l>Vous êtes bien du bon temps !</l>
+<l>Un tel emploi n’est bassesse</l>
+<l>Que chez les petites gens.</l>
+<l>Lorsque dans un haut rang on a l’heur de paroître,</l>
+<l>Tout ce qu’on fait est toujours bel et bon ;</l>
+<l>Et, suivant ce qu’on peut être,</l>
+<l>Les choses changent de nom.</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Sur de pareilles matières</l>
+<l>Vous en savez plus que moi,</l>
+<l>Et, pour accepter l’emploi,</l>
+<l>J’en veux croire vos lumières.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Eh ! la, la, madame la Nuit,</l>
+<l>Un peu doucement, je vous prie ;</l>
+<l>Vous avez dans le monde un bruit<noteref noteid="note.393.1"/></l>
+<l>De n’être pas si renchérie.</l>
+<l>On vous fait confidente, en cent climats divers,</l>
+<l>De beaucoup de bonnes affaires ;</l>
+<l>Et je crois, à parler à sentiments ouverts,</l>
+<l>Que nous ne nous en devons guères.</l>
+
+<notes>
+  <note id="note.393.1">
+    <p><i>Bruit</i>, pour : <i>réputation.</i></p>
+  </note>
+</notes>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Laissons ces contrariétés,</l>
+<l>Et demeurons ce que nous sommes.</l>
+<l>N’apprêtons point à rire aux hommes.</l>
+<l>En nous disant nos vérités.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Adieu. Je vais là-bas, dans ma commission,</l>
+<pagenum num="394"/>
+<l>Dépouiller promptement la forme de Mercure,</l>
+<l>Pour y vêtir la figure</l>
+<l>Du valet d’Amphitryon.</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Moi, dans cet hémisphère, avec ma suite obscure,</l>
+<l>Je vais faire une station.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Bonjour, la Nuit.</l>
+
+<hstage><speaker>LA NUIT</speaker></hstage>
+<l>Adieu, Mercure<noteref noteid="note.394.1"/>.</l>
+<pstage>Mercure descend de son nuage, et la Nuit traverse le théâtre.</pstage>
+
+<notes>
+  <note id="note.394.1">
+    <p>Ce prologue est le seul qui soit resté au théâtre, non parce qu’il est le plus ingénieux de tous mais parce qu’il est le seul nécessaire. (Auger.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p04">ACTE PREMIER</h2>
+
+<h3 id="p05">SCÈNE I. — SOSIE, <i>seul.</i></h3>
+
+<l>Qui va là ? Heu ! ma peur à chaque pas s’accroît !</l>
+<l>Messieurs, ami de tout le monde.</l>
+<l>Ah ! quelle audace sans seconde</l>
+<l>De marcher à l’heure qu’il est !</l>
+<l>Que mon maître, couvert de gloire.</l>
+<l>Me joue ici d’un vilain tour !</l>
+<l>Quoi ! si pour son prochain il avoit quelque amour,</l>
+<l>M’auroit-il fait partir par une nuit si noire ?</l>
+<l>Et, pour me renvoyer annoncer son retour</l>
+<l>Et le détail de sa victoire ;</l>
+<l>Ne pouvoit-il pas bien attendre qu’il fût jour ?</l>
+<l>Sosie, à quelle servitude</l>
+<l>Tes jours sont-ils assujettis !</l>
+<l>Notre sort est beaucoup plus rude</l>
+<l>Chez les grands que chez les petits.</l>
+<l>Ils veulent que pour eux tout soit, dans la nature,</l>
+<l>Obligé de s’immoler.</l>
+<l>Jour et nuit, grêle, vent, péril, chaleur, froidure,</l>
+<l>Dès qu’ils parlent, il faut voler.</l>
+<l>Vingt ans d’assidu service</l>
+<l>N’en obtiennent rien pour nous :</l>
+<l>Le moindre petit caprice</l>
+<l>Nous attire leur courroux.</l>
+<l>Cependant notre âme insensée</l>
+<pagenum num="395"/>
+<l>S’acharne au vain honneur de demeurer près d’eux,</l>
+<l>Et s’y veut contenter de la fausse pensée</l>
+<l>Qu’ont tous les autres gens, que nous sommes heureux.</l>
+<l>Vers la retraite en vain la raison nous appelle,</l>
+<l>En vain notre dépit quelquefois y consent ;</l>
+<l>Leur vue a sur notre zèle</l>
+<l>Un ascendant trop puissant,</l>
+<l>Et la moindre faveur d’un coup d’œil caressant</l>
+<l>Nous rengage de plus belle.</l>
+<l>Mais enfin, dans l’obscurité,</l>
+<l>Je vois notre maison, et ma frayeur s’évade.</l>
+<l>Il me faudrait, pour l’ambassade,</l>
+<l>Quelque discours prémédité.</l>
+<l>Je dois aux yeux d’Alcmène un portrait militaire</l>
+<l>Du grand combat qui met nos ennemis à bas ;</l>
+<l>Mais comment diantre le faire,</l>
+<l>Si je ne m’y trouvai pas ?</l>
+<l>N’importe, parlons-en et d’estoc et de taille,</l>
+<l>Comme oculaire témoin.</l>
+<l>Combien de gens font-ils des récits de bataille</l>
+<l>Dont ils se sont tenus loin !</l>
+<l>Pour jouer mon rôle sans peine,</l>
+<l>Je le veux un peu repasser.</l>
+<l>Voici la chambre où j’entre en courrier que l’on mène ;</l>
+<l>Et cette lanterne est Alcmène,</l>
+<l>A qui je me dois adresser.</l>
+<pstage>Sosie pose sa lanterne à terre et lui adresse son compliment.</pstage>
+<l>Madame, Amphitryon, mon maître et votre époux...</l>
+<l>(Bon ! beau début !) l’esprit toujours plein de vos charmes,</l>
+<l>M’a voulu choisir entre tous</l>
+<l>Pour vous donner avis du succès de ses armes,</l>
+<l>Et du désir qu’il a de se voir près de vous.</l>
+<l>« Ah ! vraiment, mon pauvre Sosie,</l>
+<l>« A te revoir j’ai de la joie au cœur. »</l>
+<l>Madame, ce m’est trop d’honneur,</l>
+<l>Et mon destin doit faire envie.</l>
+<l>(Bien répondu !) « Comment se porte Amphitryon ? »</l>
+<l>Madame, en homme de courage,</l>
+<l>Dans les occasions où la gloire l’engage.</l>
+<l>(Fort bien ! belle conception !)</l>
+<l>« Quand viendra-t-il, par son retour charmant,</l>
+<l>« Rendre mon âme satisfaite ? »</l>
+<pagenum num="396"/>
+<l>Le plus tôt qu’il pourra, madame, assurément ;</l>
+<l>Mais bien plus tard que son cœur ne souhaite.</l>
+<l>(Ah !) « Mais quel est l’état où la guerre l’a mis ?</l>
+<l>« Que dit-il ? que fait-il ? Contente un peu mon âme. »</l>
+<l>Il dit moins qu’il ne fait, madame.</l>
+<l>Et fait trembler les ennemis.</l>
+<l>(Peste ! où prend mon esprit toutes ces gentillesses ?)</l>
+<l>« Que font les révoltés ? dis-moi, quel est leur sort ? »</l>
+<l>Ils n’ont pu résister, madame, à notre effort ;</l>
+<l>Nous les avons taillés en pièces,</l>
+<l>Mis Ptérélas, leur chef, à mort,</l>
+<l>Pris Télèbe d’assaut ; et déjà dans le port</l>
+<l>Tout retentit de nos prouesses.</l>
+<l>« Ah ! quel succès ! ô dieux ! Qui l’eût pu jamais croire ?</l>
+<l>« Raconte-moi, Sosie, un tel événement. »</l>
+<l>Je le veux bien, madame ; et, sans m’enfler de gloire,</l>
+<l>Du détail de cette victoire</l>
+<l>Je puis parler très savamment.</l>
+<l>Figurez-vous donc que Télèbe,</l>
+<l>Madame, est de ce côté ;</l>
+<pstage>Sosie marque les lieux sur sa main ou à terre.</pstage>
+<l>C’est une ville, en vérité.</l>
+<l>Aussi grande quasi que Thèbe.</l>
+<l>La rivière est comme là.</l>
+<l>Ici nos gens se campèrent ;</l>
+<l>Et l’espace que voilà.</l>
+<l>Nos ennemis l’occupèrent.</l>
+<l>Sur un haut<noteref noteid="note.396.1"/>, vers cet endroit,</l>
+<l>Étoit leur infanterie ;</l>
+<l>Et plus bas, du côté droit,</l>
+<l>Étoit la cavalerie.</l>
+<l>Après avoir aux dieux adressé les prières,</l>
+<l>Tous les ordres donnés, on donne le signal :</l>
+<l>Les ennemis, pensant nous tailler des croupières,</l>
+<l>Firent trois pelotons de leurs gens à cheval ;</l>
+<l>Mais leur chaleur par nous fut bientôt réprimée,</l>
+<l>Et vous allez voir comme quoi.</l>
+<l>Voilà notre avant-garde à bien faire animée ;</l>
+<l>Là, les archers de Créon, notre roi ;</l>
+<l>Et voici le corps d’armée,</l>
+<pstage>On fait un peu de bruit.</pstage>
+<pagenum num="397"/>
+<l>Qui d’abord... Attendez, le corps d’armée a peur,</l>
+<l>J’entends quelque bruit, ce me semble.</l>
+
+<notes>
+  <note id="note.396.1">
+    <p><i>Un haut</i> pour <i>une hauteur.</i> Ne se dit plus.</p>
+  </note>
+</notes>
+
+<h3 id="p06">SCÈNE II. — MERCURE, SOSIE</h3>
+
+<hstage><speaker>MERCURE</speaker>, sous la figure de Sosie, sortant de la maison d’Amphitryon.</hstage>
+<l>Sous ce minois qui lui ressemble,</l>
+<l>Chassons de ces lieux ce causeur,</l>
+<l>Dont l’abord importun troubleroit la douceur</l>
+<l>Que nos amants goûtent ensemble.</l>
+
+<hstage><speaker>SOSIE</speaker>, sans voir Mercure.</hstage>
+<l>Mon cœur tant soit peu se rassure,</l>
+<l>Et je pense que ce n’est rien.</l>
+<l>Crainte pourtant de sinistre aventure,</l>
+<l>Allons chez nous achever l’entretien.</l>
+
+<hstage><speaker>MERCURE</speaker>, à part.</hstage>
+<l>Tu seras plus fort que Mercure,</l>
+<l>Ou je t’en empêcherai bien.</l>
+
+<hstage><speaker>SOSIE</speaker>, sans voir Mercure.</hstage>
+<l>Cette nuit en longueur me semble sans pareille,</l>
+<l>Il faut, depuis le temps que je suis en chemin.</l>
+<l>Ou que mon maître ait pris le soir pour le matin,</l>
+<l>Ou que trop tard au lit le blond Phébus sommeille,</l>
+<l>Pour avoir trop pris de son vin.</l>
+
+<hstage><speaker>MERCURE</speaker>, à part.</hstage>
+<l>Comme avec irrévérence</l>
+<l>Parle des dieux ce maraud !</l>
+<l>Mon bras saura bien tantôt</l>
+<l>Châtier cette insolence ;</l>
+<l>Et je vais m’égayer avec lui comme il faut,</l>
+<l>En lui volant son nom avec sa ressemblance.</l>
+
+<hstage><speaker>SOSIE</speaker>, apercevant Mercure d’un peu loin.</hstage>
+<l>Ah ! par ma foi, j’avois raison :</l>
+<l>C’est fait de moi, chétive créature !</l>
+<l>Je vois devant notre maison</l>
+<l>Certain homme dont l’encolure</l>
+<l>Ne me présage rien de bon.</l>
+<l>Pour faire semblant d’assurance,</l>
+<l>Je veux chanter un peu d’ici.</l>
+<pstage>Il chante.</pstage>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Qui donc est ce coquin qui prend tant de licence</l>
+<pagenum num="398"/>
+<l>Que de chanter et m’étourdir ainsi ?</l>
+<pstage>A mesure que Mercure parle, la voix de Sosie s’affoiblit peu à peu.</pstage>
+<l>Veut-il qu’à l’étriller ma main un peu s’applique ?</l>
+
+<hstage><speaker>SOSIE</speaker>, à part.</hstage>
+<l>Cet homme assurément n’aime pas la musique<noteref noteid="note.398.1"/>.</l>
+
+<notes>
+  <note id="note.398.1">
+    <p>Ce trait appartient à Molière : le reste est imité de Plaute.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Depuis plus d’une semaine</l>
+<l>Je n’ai trouvé personne à qui rompre les os :</l>
+<l>La vigueur de mon bras se perd dans le repos ;</l>
+<l>Et je cherche quelque dos</l>
+<l>Pour me remettre en haleine.</l>
+
+<hstage><speaker>SOSIE</speaker>, à part.</hstage>
+<l>Quel diable d’homme est-ce ci ?</l>
+<l>De mortelles frayeurs je sens mon âme atteinte.</l>
+<l>Mais pourquoi trembler tant aussi ?</l>
+<l>Peut-être a-t-il dans l’âme autant que moi de crainte,</l>
+<l>Et que le drôle parle ainsi</l>
+<l>Pour me cacher sa peur sous une audace feinte.</l>
+<l>Oui, oui, ne souffrons point qu’on nous croie un oison ;</l>
+<l>Si je ne suis hardi, tâchons de le paroître.</l>
+<l>Faisons-nous du cœur par raison :</l>
+<l>Il est seul, comme moi ; je suis fort, j’ai bon maître,</l>
+<l>Et voilà notre maison.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Qui va là ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Moi.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Oui, moi ?</l>
+
+<hstage><speaker>SOSIE</speaker>, à part.</hstage>
+<l>Moi. Courage, Sosie.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Quel est ton sort ? dis-moi.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>D’être homme, et de parler.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Es-tu maître, ou valet ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Comme il me prend envie.</l>
+
+<pagenum num="399"/>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Où s’adressent tes pas ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Où j’ai dessein d’aller.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Ah ! ceci me déplaît.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>J’en ai l’âme ravie.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Résolument, par force ou par amour,</l>
+<l>Je veux savoir de toi, traître,</l>
+<l>Ce que tu fais, d’où tu viens avant jour,</l>
+<l>Où tu vas, à qui tu peux être.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Je fais le bien et le mal tour à tour ;</l>
+<l>Je viens de là, vais là ; j’appartiens à mon maître.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Tu montres de l’esprit, et je te vois en train</l>
+<l>De trancher avec moi de l’homme d’importance.</l>
+<l>Il me prend un désir, pour faire connoissance,</l>
+<l>De te donner un soufflet de ma main.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>A moi-même ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>A toi-même ; et t’en voilà certain.</l>
+<pstage>Mercure donne un soufflet à Sosie.</pstage>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Ah ! ah ! c’est tout de bon.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Non, ce n’est que pour rire,</l>
+<l>Et répondre à tes quolibets.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Tudieu ! l’ami, sans vous rien dire,</l>
+<l>Comme vous baillez des soufflets !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Ce sont là de mes moindres coups,</l>
+<l>De petits soufflets ordinaires.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Si j’étois aussi prompt que vous,</l>
+<l>Nous ferions de belles affaires.</l>
+
+<pagenum num="400"/>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Tout cela n’est encor rien :</l>
+<l>Nous verrons bien autre chose.</l>
+<l>Pour y faire quelque pause,</l>
+<l>Poursuivons notre entretien.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Je quitte la partie.</l>
+<pstage>Sosie veut s’en aller.</pstage>
+
+<hstage><speaker>MERCURE</speaker>, arrêtant Sosie.</hstage>
+<l>Où vas-tu ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Que t’importe ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Je veux savoir où tu vas.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Me faire ouvrir cette porte.</l>
+<l>Pourquoi retiens-tu mes pas ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Si jusqu’à l’approcher tu pousses ton audace.</l>
+<l>Je fais sur toi pleuvoir un orage de coups.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Quoi ! tu veux, par ta menace,</l>
+<l>M’empêcher d’entrer chez nous ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Comment ! chez nous ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Oui, chez nous.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>O le traître !</l>
+<l>Tu te dis de cette maison ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Fort bien. Amphitryon n’en est-il pas le maître ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Eh bien, que fait cette raison ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Je suis son valet.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Toi ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Moi.</l>
+
+<pagenum num="401"/>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Son valet ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Sans doute.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Valet d’Amphitryon ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>D’Amphitryon, de lui.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Ton nom est ?...</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Sosie.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Heu ! comment ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Sosie.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Écoute.</l>
+<l>Sais-tu que de ma main je t’assomme aujourd’hui ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Pourquoi ? De quelle rage est ton âme saisie ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Qui te donne, dis-moi, cette témérité</l>
+<l>De prendre le nom de Sosie ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Moi, je ne le prends point, je l’ai toujours porté.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>O le mensonge horrible, et l’impudence extrême !</l>
+<l>Tu m’oses soutenir que Sosie est ton nom ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Fort bien ; je le soutiens, par la grande raison</l>
+<l>Qu’ainsi l’a fait des dieux la puissance suprême ;</l>
+<l>Et qu’il n’est pas en moi de pouvoir dire non,</l>
+<l>Et d’être un autre que moi-même.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Mille coups de bâton doivent être le prix</l>
+<l>D’une pareille effronterie.</l>
+
+<hstage><speaker>SOSIE</speaker>, battu par Mercure.</hstage>
+<l>Justice, citoyens ! Au secours ! je vous prie.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Comment ! bourreau, tu fais des cris !</l>
+
+<pagenum num="402"/>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>De mille coups tu me meurtris.</l>
+<l>Et tu ne veux pas que je crie ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>C’est ainsi que mon bras...</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>L’action ne vaut rien.</l>
+<l>Tu triomphes de l’avantage</l>
+<l>Que te donne sur moi mon manque de courage ;</l>
+<l>Et ce n’est pas en user bien.</l>
+<l>C’est pure fanfaronnerie</l>
+<l>De vouloir profiter de la poltronnerie</l>
+<l>De ceux qu’attaque notre bras.</l>
+<l>Battre un homme à jeu sûr n’est pas d’une belle âme</l>
+<l>Et le cœur est digne de blâme</l>
+<l>Contre des gens qui n’en ont pas.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Eh bien, es-tu Sosie à présent ? qu’en dis-tu ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Tes coups n’ont point en moi fait de métamorphose ;</l>
+<l>Et tout le changement que je trouve à la chose,</l>
+<l>C’est d’être Sosie battu.</l>
+
+<hstage><speaker>MERCURE</speaker>, menaçant Sosie.</hstage>
+<l>Encor ! Cent autres coups pour cette autre impudence.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>De grâce, fais trêve à tes coups.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Fais donc trêve à ton insolence.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Tout ce qu’il te plaira ; je garde le silence.</l>
+<l>La dispute est par trop inégale entre nous.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Es-tu Sosie encor ? dis, traître !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Hélas ! je suis ce que tu veux :</l>
+<l>Dispose de mon sort tout au gré de tes vœux ;</l>
+<l>Ton bras t’en a fait le maître.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Ton nom étoit Sosie, à ce que tu disois ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Il est vrai, jusqu’ici j’ai cru la chose claire ;</l>
+<pagenum num="403"/>
+<l>Mais ton bâton, sur cette affaire,</l>
+<l>M’a fait voir que je m’abusois.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>C’est moi qui suis Sosie, et tout Thèbes l’avoue :</l>
+<l>Amphitryon jamais n’en eut d’autre que moi.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Toi, Sosie ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Oui, Sosie ; et, si quelqu’un s’y joue,</l>
+<l>Il peut bien prendre garde à soi.</l>
+
+<hstage><speaker>SOSIE</speaker>, à part.</hstage>
+<l>Ciel ! me faut-il ainsi renoncer à moi-même,</l>
+<l>Et par un imposteur me voir voler mon nom ?</l>
+<l>Que son bonheur est extrême</l>
+<l>De ce que je suis poltron !</l>
+<l>Sans cela, par la mort !...</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Entre tes dents, je pense.</l>
+<l>Tu murmures je ne sais quoi.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non. Mais au nom des dieux, donne-moi la licence</l>
+<l>De parler un moment à toi.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Parle.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Mais promets-moi, de grâce,</l>
+<l>Que les coups n’en seront point.</l>
+<l>Signons une trêve.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Passe ;</l>
+<l>Va, je t’accorde ce point.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Qui te jette, dis-moi, dans cette fantaisie ?</l>
+<l>Que te reviendra-t-il de m’enlever mon nom ?</l>
+<l>Et peux-tu faire enfin, quand tu serois démon,</l>
+<l>Que je ne sois pas moi, que je ne sois Sosie ?</l>
+
+<hstage><speaker>MERCURE</speaker>, levant le bâton sur Sosie.</hstage>
+<l>Comment ! tu peux...</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Ah ! tout doux ;</l>
+<pagenum num="404"/>
+<l>Nous avons fait trêve aux coups.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Quoi ! pendard, imposteur, coquin !...</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Pour des injures. Dis-m’en tant que tu voudras :</l>
+<l>Ce sont légères blessures,</l>
+<l>Et je ne m’en fâche pas.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Tu te dis Sosie ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Oui. Quelque conte frivole...</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Sus, je romps notre trêve, et reprends ma parole.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>N’importe. Je ne puis m’anéantir pour toi,</l>
+<l>Et souffrir un discours si loin de l’apparence.</l>
+<l>Être ce que je suis est-il en ta puissance ?</l>
+<l>Et puis-je cesser d’être moi ?</l>
+<l>S’avisa-t-on jamais d’une chose pareille ?</l>
+<l>Et peut-on démentir cent indices pressants ?</l>
+<l>Rêvé-je ! Est-ce que je sommeille ?</l>
+<l>Ai-je l’esprit troublé par des transports puissants ?</l>
+<l>Ne sens-je pas bien que je veille ?</l>
+<l>Ne suis-je pas dans mon bon sens ?</l>
+<l>Mon maître Amphitryon ne m’a-t-il pas commis</l>
+<l>A venir en ces lieux vers Alcmène sa femme ?</l>
+<l>Ne lui dois-je pas faire, en lui vantant sa flamme.</l>
+<l>Un récit de ses faits contre nos ennemis ?</l>
+<l>Ne suis-je pas du port arrivé tout à l’heure !</l>
+<l>Ne tiens-je pas une lanterne en main ?</l>
+<l>Ne te trouvé-je pas devant notre demeure ?</l>
+<l>Ne t’y parlé-je pas d’un esprit tout humain ?</l>
+<l>Ne te tiens-tu pas fort de ma poltronnerie,</l>
+<l>Pour m’empêcher d’entrer chez nous ?</l>
+<l>N’as-tu pas sur mon dos exercé ta furie ?</l>
+<l>Ne m’as-tu pas roué de coups ?</l>
+<l>Ah ! tout cela n’est que trop véritable.</l>
+<l>Et, plût au ciel, le fût-il moins !</l>
+<l>Cesse donc d’insulter au sort d’un misérable :</l>
+<l>Et laisse à mon devoir s’acquitter de ses soins.</l>
+
+<pagenum num="405"/>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Arrête, ou sur ton dos le moindre pas attire</l>
+<l>Un assommant éclat de mon juste courroux.</l>
+<l>Tout ce que tu viens de dire</l>
+<l>Est à moi, hormis les coups.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Ce matin, du vaisseau, plein de frayeur en l’âme,</l>
+<l>Cette lanterne sait comme je suis parti.</l>
+<l>Amphitryon, du camp, vers Alcmène sa femme</l>
+<l>M’a-t-il pas envoyé ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Vous en avez menti.</l>
+<l>C’est moi qu’Amphitryon députe vers Alcmène,</l>
+<l>Et qui du port persique<noteref noteid="note.405.1"/> arrive de ce pas :</l>
+<l>Moi, qui viens annoncer la valeur de son bras</l>
+<l>Qui nous fait remporter une victoire pleine,</l>
+<l>Et de nos ennemis a mis le chef à bas.</l>
+<l>C’est moi qui suis Sosie enfin, de certitude,</l>
+<l>Fils de Dave, honnête berger ;</l>
+<l>Frère d’Arpage, mort en pays étranger ;</l>
+<l>Mari de Cléanthis la prude,</l>
+<l>Dont l’humeur me fait enrager ;</l>
+<l>Qui dans Thèbe ai reçu mille coups d’étrivière,</l>
+<l>Sans en avoir jamais dit rien ;</l>
+<l>Et jadis en public fus marqué par derrière,</l>
+<l>Pour être trop homme de bien<noteref noteid="note.405.2"/>.</l>
+
+<notes>
+  <note id="note.405.1">
+    <p>Port d’Eubée.</p>
+  </note>
+  <note id="note.405.2">
+    <p>L’usage de marquer les malfaiteurs sur l’épaule n’existait pas chez les anciens. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>SOSIE</speaker>, bas, à part.</hstage>
+<l>Il a raison, A moins d’être Sosie,</l>
+<l>On ne peut pas savoir tout ce qu’il dit ;</l>
+<l>Et, dans l’étonnement dont mon âme est saisie,</l>
+<l>Je commence, à mon tour, à le croire un petit.</l>
+<l>En effet, maintenant que je le considère,</l>
+<l>Je vois qu’il a de moi taille, mine, action.</l>
+<l>Faisons-lui quelque question,</l>
+<l>Afin d’éclaircir ce mystère.</l>
+<pstage>Haut.</pstage>
+<l>Parmi tout le butin fait sur nos ennemis,</l>
+<l>Qu’est-ce qu’Amphitryon obtient pour son partage ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Cinq fort gros diamants en nœuds proprement mis,</l>
+<pagenum num="406"/>
+<l>Dont leur chef se paroit comme d’un rare ouvrage.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>A qui destine-t-il un si riche présent ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>A sa femme ; et sur elle il le veut voir paroître.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Mais où, pour l’apporter, est-il mis à présent ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Dans un coffret scellé des armes de mon maître<noteref noteid="note.406.1"/>.</l>
+
+<notes>
+  <note id="note.406.1">
+    <p><i>Les armes</i> héraldiquement parlant, sont une invention des temps de la chevalerie. Ainsi Amphitryon n’avait point un cachet blasonné, mais, comme la plupart des anciens, un anneau sur la pierre duquel était gravé quelque signe particulier qu’il avait adopté. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>SOSIE</speaker>, à part.</hstage>
+<l>Il ne ment pas d’un mot à chaque repartie ;</l>
+<l>Et de moi je commence à douter tout de bon.</l>
+<l>Près de moi, par la force, il est déjà Sosie ;</l>
+<l>Il pourroit bien encor l’être par la raison.</l>
+<l>Pourtant, quand je me tâte et que je me rappelle.</l>
+<l>Il me semble que je suis moi.</l>
+<l>Où puis-je rencontrer quelque clarté fidèle,</l>
+<l>Pour démêler ce que je voi ?</l>
+<l>Ce que j’ai fait tout seul, et que n’a vu personne,</l>
+<l>A moins d’être moi-même, on ne le peut savoir :</l>
+<l>Par cette question il faut que je l’étonne,</l>
+<l>C’est de quoi le confondre, et nous allons le voir.</l>
+<pstage>Haut.</pstage>
+<l>Lorsqu’on étoit aux mains, que fis-tu dans nos tentes,</l>
+<l>Où tu courus seul te fourrer ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>D’un jambon...</l>
+
+<hstage><speaker>SOSIE</speaker>, bas, à part.</hstage>
+<l>L’y voilà !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Que j’allai déterrer</l>
+<l>Je coupai bravement deux tranches succulentes,</l>
+<l>Dont je sus fort bien me bourrer ;</l>
+<l>Et, joignant à cela d’un vin que l’on ménage,</l>
+<l>Et dont, avant le goût, les yeux se contentoient,</l>
+<l>Je pris un peu de courage</l>
+<l>Pour nos gens qui se battoient.</l>
+
+<pagenum num="407"/>
+
+<hstage><speaker>SOSIE</speaker>, bas, à part.</hstage>
+<l>Cette preuve sans pareille</l>
+<l>En sa faveur conclut bien ;</l>
+<l>Et l’on n’y peut dire rien,</l>
+<l>S’il n’étoit dans la bouteille.</l>
+<pstage>Haut.</pstage>
+<l>Je ne saurois nier, aux preuves qu’on m’expose,</l>
+<l>Que tu ne sois Sosie, et j’y donne ma voix.</l>
+<l>Mais, si tu l’es, dis-moi qui tu veux que je sois ;</l>
+<l>Car enfin faut-il bien que je sois quelque chose.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Quand je ne serai plus Sosie,</l>
+<l>Sois-le, j’en demeure d’accord ;</l>
+<l>Mais, tant que je le suis, je te garantis mort,</l>
+<l>Si tu prends cette fantaisie.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Tout cet embarras met mon esprit sur les dents,</l>
+<l>Et la raison à ce qu’on voit s’oppose.</l>
+<l>Mais il faut terminer enfin par quelque chose ;</l>
+<l>Et le plus court pour moi, c’est d’entrer là dedans.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Ah ! tu prends donc, pendard, goût à la bastonnade ?</l>
+
+<hstage><speaker>SOSIE</speaker>, battu par Mercure.</hstage>
+<l>Ah ! qu’est-ce ci, grands dieux ! il frappe un ton plus fort,</l>
+<l>Et mon dos pour un mois en doit être malade.</l>
+<l>Laissons ce diable d’homme, et retournons au port.</l>
+<l>O juste ciel ! j’ai fait une belle ambassade !</l>
+
+<hstage><speaker>MERCURE</speaker>, seul.</hstage>
+<l>Enfin, je l’ai fait fuir, et, sous ce traitement,</l>
+<l>De beaucoup d’actions il a reçu la peine ;</l>
+<l>Mais je vois Jupiter, que fort civilement</l>
+<l>Reconduit l’amoureuse Alcmène.</l>
+
+<h3 id="p07">SCÈNE III. — JUPITER, <i>sous la figure d’Amphitryon ;</i> ALCMÈNE, CLÉANTHIS, MERCURE</h3>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Défendez, chère Alcmène, aux flambeaux d’approcher,</l>
+<l>Ils m’offrent des plaisirs en m’offrant votre vue ;</l>
+<l>Mais ils pourroient ici découvrir ma venue,</l>
+<l>Qu’il est à propos de cacher.</l>
+<l>Mon amour, que gênoient tous ces soins éclatants</l>
+<pagenum num="408"/>
+<l>Où me tenoit lié la gloire de nos armes,</l>
+<l>Aux devoirs de ma charge a volé les instants</l>
+<l>Qu’il vient de donner à vos charmes.</l>
+<l>Ce vol, qu’à vos beautés mon cœur a consacré,</l>
+<l>Pourroit être blâmé dans la bouche publique,</l>
+<l>Et j’en veux pour témoin unique</l>
+<l>Celle qui peut m’en savoir gré.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Je prends, Amphitryon, grande part à la gloire</l>
+<l>Que répandent sur vous vos illustres exploits ;</l>
+<l>Et l’éclat de votre victoire</l>
+<l>Sait toucher de mon cœur les sensibles endroits.</l>
+<l>Mais, quand je vois que cet honneur fatal</l>
+<l>Éloigne de moi ce que j’aime,</l>
+<l>Je ne puis m’empêcher, dans ma tendresse extrême.</l>
+<l>De lui vouloir un peu de mal,</l>
+<l>Et d’opposer mes vœux à cet ordre suprême</l>
+<l>Qui des Thébains vous fait le général.</l>
+<l>C’est une douce chose, après une victoire,</l>
+<l>Que la gloire où l’on voit ce qu’on aime élevé,</l>
+<l>Mais parmi les périls mêlés à cette gloire,</l>
+<l>Un triste coup, hélas ! est bientôt arrivé.</l>
+<l>De combien de frayeurs a-t-on l’âme blessée,</l>
+<l>Au moindre choc dont on entend parler !</l>
+<l>Voit-on, dans les horreurs d’une telle pensée,</l>
+<l>Par où jamais se consoler</l>
+<l>Du coup dont on est menacée ?</l>
+<l>Et, de quelque laurier qu’on couronne un vainqueur,</l>
+<l>Quelque part que l’on ait à cet honneur suprême,</l>
+<l>Vaut-il ce qu’il en coûte aux tendresses d’un cœur</l>
+<l>Qui peut, à tout moment, trembler pour ce qu’il aime ?</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Je ne vois rien en vous dont mon feu ne s’augmente ;</l>
+<l>Tout y marque à mes yeux un cœur bien enflammé ;</l>
+<l>Et c’est, je vous l’avoue, une chose charmante</l>
+<l>De trouver tant d’amour dans un objet aimé.</l>
+<l>Mais, si je l’ose dire, un scrupule me gêne,</l>
+<l>Aux tendres sentiments que vous me faites voir ;</l>
+<l>Et, pour les bien goûter, mon amour, chère Alcmène,</l>
+<l>Voudroit n’y voir entrer rien de votre devoir ;</l>
+<l>Qu’à votre seule ardeur, qu’à ma seule personne,</l>
+<l>Je dusse les faveurs que je reçois de vous ;</l>
+<pagenum num="409"/>
+<l>Et que la qualité que j’ai de votre époux</l>
+<l>Ne fût point ce qui me les donne.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>C’est de ce nom pourtant que l’ardeur qui me brûle</l>
+<l>Tient le droit de paroître au jour ;</l>
+<l>Et je ne comprends rien à ce nouveau scrupule</l>
+<l>Dont s’embarrasse votre amour.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Ah ! ce que j’ai pour vous d’ardeur et de tendresse</l>
+<l>Passe aussi celle d’un époux ;</l>
+<l>Et vous ne savez pas, dans des moments si doux,</l>
+<l>Quelle en est la délicatesse.</l>
+<l>Vous ne concevez point qu’un cœur bien amoureux</l>
+<l>Sur cent petits égards s’attache avec étude,</l>
+<l>Et se fait une inquiétude</l>
+<l>De la manière d’être heureux.</l>
+<l>En moi, belle et charmante Alcmène,</l>
+<l>Vous voyez un mari, vous voyez un amant ;</l>
+<l>Mais l’amant seul me touche, à parler franchement,</l>
+<l>Et je sens, près de vous, que le mari le gêne,</l>
+<l>Cet amant, de vos vœux jaloux au dernier point,</l>
+<l>Souhaite qu’à lui seul votre amour s’abandonne ;</l>
+<l>Et sa passion ne veut point</l>
+<l>De ce que le mari lui donne.</l>
+<l>Il veut de pure source obtenir vos ardeurs,</l>
+<l>Et ne veut rien tenir des nœuds de l’hyménée,</l>
+<l>Rien d’un fâcheux devoir qui fait agir les cœurs,</l>
+<l>Et par qui, tous les jours, des plus chères faveurs</l>
+<l>La douceur est empoisonnée.</l>
+<l>Dans le scrupule enfin dont il est combattu,</l>
+<l>Il veut, pour satisfaire à sa délicatesse,</l>
+<l>Que vous le sépariez d’avec ce qui le blesse,</l>
+<l>Que le mari ne soit que pour votre vertu,</l>
+<l>Et que de votre cœur, de bonté revêtu,</l>
+<l>L’amant ait tout l’amour et toute la tendresse.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Amphitryon, en vérité.</l>
+<l>Vous vous moquez de tenir ce langage,</l>
+<l>Et j’aurois peur qu’on ne vous crût pas sage,</l>
+<l>Si de quelqu’un vous étiez écouté.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Ce discours est plus raisonnable,</l>
+<pagenum num="410"/>
+<l>Alcmène, que vous ne pensez.</l>
+<l>Mais un plus long séjour me rendroit trop coupable.</l>
+<l>Et du retour au port les moments sont pressés.</l>
+<l>Adieu. De mon devoir l’étrange barbarie</l>
+<l>Pour un temps m’arrache de vous ;</l>
+<l>Mais, belle Alcmène, au moins, quand vous verrez l’époux,</l>
+<l>Songez à l’amant, je vous prie.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Je ne sépare point ce qu’unissent les dieux ;</l>
+<l>Et l’époux et l’amant me sont fort précieux.</l>
+
+<h3 id="p08">SCÈNE IV. — CLÉANTHIS, MERCURE</h3>
+
+<hstage><speaker>CLÉANTHIS</speaker>, à part.</hstage>
+<l>O ciel ! que d’aimables caresses</l>
+<l>D’un époux ardemment chéri !</l>
+<l>Et que mon traître de mari</l>
+<l>Est loin de toutes ces tendresses !</l>
+
+<hstage><speaker>MERCURE</speaker>, à part.</hstage>
+<l>La Nuit, qu’il me faut avertir,</l>
+<l>N’a plus qu’à plier tous ses voiles ;</l>
+<l>Et, pour effacer les étoiles,</l>
+<l>Le Soleil de son lit peut maintenant sortir.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker>, arrêtant Mercure.</hstage>
+<l>Quoi ! c’est ainsi que l’on me quitte !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Et comment donc ? Ne veux-tu pas</l>
+<l>Que de mon devoir je m’acquitte,</l>
+<l>Et que d’Amphitryon j’aille suivre les pas ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Mais avec cette brusquerie,</l>
+<l>Traître ! de moi te séparer !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Le beau sujet de fâcherie !</l>
+<l>Nous avons tant de temps ensemble à demeurer !</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Mais quoi ! partir ainsi d’une façon brutale,</l>
+<l>Sans me dire un seul mot de douceur pour régale !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Diantre ! où veux-tu que mon esprit</l>
+<l>T’aille chercher des fariboles ?</l>
+<l>Quinze ans de mariage épuisent les paroles ;</l>
+<pagenum num="411"/>
+<l>Et, depuis un long temps, nous nous sommes tout dit.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Regarde, traître, Amphitryon ;</l>
+<l>Vois combien pour Alcmène il étale de flamme ;</l>
+<l>Et rougis, là-dessus, du peu de passion</l>
+<l>Que tu témoignes pour ta femme.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Eh ! mon Dieu ! Cléanthis, ils sont encore amants.</l>
+<l>Il est certain âge où tout passe ;</l>
+<l>Et ce qui leur sied bien dans ces commencements,</l>
+<l>En nous, vieux mariés, auroit mauvaise grâce.</l>
+<l>Il nous feroit beau voir, attachés face à face,</l>
+<l>A pousser les beaux sentiments !</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Quoi ! suis-je hors d’état, perfide, d’espérer</l>
+<l>Qu’un cœur auprès de moi soupire !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Non, je n’ai garde de le dire ;</l>
+<l>Mais je suis trop barbon pour oser soupirer,</l>
+<l>Et je ferois crever de rire.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Mérites-tu, pendard, cet insigne bonheur</l>
+<l>De te voir pour épouse une femme d’honneur ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Mon Dieu ! tu n’es que trop honnête ;</l>
+<l>Ce grand honneur ne me vaut rien.</l>
+<l>Ne sois point si femme de bien,</l>
+<l>Et me romps un peu moins la tête.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Comment ! de trop bien vivre on te voit me blâmer !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>La douceur d’une femme est tout ce qui me charme ;</l>
+<l>Et ta vertu fait un vacarme</l>
+<l>Qui ne cesse de m’assommer.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Il te faudroit des cœurs pleins de fausses tendresses,</l>
+<l>De ces femmes aux beaux et louables talents,</l>
+<l>Qui savent accabler leurs maris de caresses,</l>
+<l>Pour leur faire avaler l’usage des galants.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Ma foi, veux-tu que je te dise ?</l>
+<pagenum num="412"/>
+<l>Un mal d’opinion ne touche que les sots ;</l>
+<l>Et je prendrois pour ma devise :</l>
+<l>« Moins d’honneur, et plus de repos ».</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Comment ! tu souffrirois, sans nulle répugnance,</l>
+<l>Que j’aimasse un galant avec toute licence ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Oui, si je n’étois plus de tes cris rebattu,</l>
+<l>Et qu’on te vît changer d’humeur et de méthode.</l>
+<l>J’aime mieux un vice commode</l>
+<l>Qu’une fatigante vertu.</l>
+<l>Adieu, Cléanthis, ma chère âme ;</l>
+<l>Il me faut suivre Amphitryon.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker>, seule.</hstage>
+<l>Pourquoi, pour punir cet infâme,</l>
+<l>Mon cœur n’a-t-il assez de résolution ?</l>
+<l>Ah ! que, dans cette occasion,</l>
+<l>J’enrage d’être honnête femme<noteref noteid="note.412.1"/> !</l>
+
+<notes>
+  <note id="note.412.1">
+    <p>Le rôle de Cléanthis est une création de Molière et l’on peut dire une des heureuses. (P. L.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p09">ACTE SECOND</h2>
+
+<h3 id="p10">SCÈNE I. — AMPHITRYON, SOSIE</h3>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Viens çà, bourreau, viens çà ! Sais-tu, maître fripon,</l>
+<l>Qu’à te faire assommer ton discours peut suffire,</l>
+<l>Et que, pour te traiter comme je le désire,</l>
+<l>Mon courroux n’attend qu’un bâton ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Si vous le prenez sur ce ton,</l>
+<l>Monsieur, je n’ai plus rien à dire ;</l>
+<l>Et vous aurez toujours raison.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Quoi, tu veux me donner pour des vérités, traître !</l>
+<l>Des contes que je vois d’extravagance outrés ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non : je suis le valet, et vous êtes le maître,</l>
+<l>Il n’en sera, monsieur, que ce que vous voudrez.</l>
+
+<pagenum num="413"/>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Çà, je veux étouffer le courroux qui m’enflamme,</l>
+<l>Et, tout du long, t’ouïr sur ta commission.</l>
+<l>Il faut, avant que voir ma femme,</l>
+<l>Que je débrouille ici cette confusion.</l>
+<l>Rappelle tous tes sens, rentre bien dans ton âme,</l>
+<l>Et réponds mot pour mot à chaque question.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Mais, de peur d’incongruité,</l>
+<l>Dites-moi, de grâce, à l’avance,</l>
+<l>De quel air il vous plaît que ceci soit traité.</l>
+<l>Parlerai-je, monsieur, selon ma conscience.</l>
+<l>Ou comme auprès des grands on le voit usité ?</l>
+<l>Faut-il dire la vérité,</l>
+<l>Ou bien user de complaisance ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Non ; je ne te veux obliger</l>
+<l>Qu’à me rendre de tout un compte fort sincère.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Bon. C’est assez, laissez-moi faire ;</l>
+<l>Vous n’avez qu’à m’interroger.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Sur l’ordre que tantôt je t’avois su prescrire...</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Je suis parti, les cieux d’un noir crêpe voilés,</l>
+<l>Pestant fort contre vous dans ce fâcheux martyre,</l>
+<l>Et maudissant vingt fois l’ordre dont vous parlez.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Comment, coquin !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Monsieur, vous n’avez rien qu’à dire ;</l>
+<l>Je mentirai, si vous voulez.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Voilà comme un valet pour nous montre du zèle !</l>
+<l>Passons. Sur le chemin que t’est-il arrivé ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>D’avoir une frayeur mortelle</l>
+<l>Au moindre objet que j’ai trouvé.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Poltron !</l>
+
+<pagenum num="414"/>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>En nous formant, nature a ses caprices ;</l>
+<l>Divers penchants en nous elle fait observer :</l>
+<l>Les uns à s’exposer trouvent mille délices ;</l>
+<l>Moi, j’en trouve à me conserver.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Arrivant au logis ?...</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>J’ai, devant notre porte,</l>
+<l>En moi-même voulu répéter un petit<noteref noteid="note.414.1"/></l>
+<l>Sur quel ton et de quelle sorte</l>
+<l>Je ferois du combat le glorieux récit.</l>
+
+<notes>
+  <note id="note.414.1">
+    <p>Un peu.</p>
+  </note>
+</notes>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ensuite ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>On m’est venu troubler et mettre en peine.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Et qui ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Sosie ; un moi, de vos ordres jaloux,</l>
+<l>Que vous avez du port envoyé vers Alcmène,</l>
+<l>Et qui de nos secrets a connoissance pleine,</l>
+<l>Comme le moi qui parle à vous.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Quels contes !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non, monsieur, c’est la vérité pure ;</l>
+<l>Ce moi, plus tôt que moi, s’est au logis trouvé,</l>
+<l>Et j’étois venu, je vous jure,</l>
+<l>Avant que je fusse arrivé.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>D’où peut procéder, je te prie,</l>
+<l>Ce galimatias maudit ?</l>
+<l>Est-ce songe ? est-ce ivrognerie,</l>
+<l>Aliénation d’esprit,</l>
+<l>Ou méchante plaisanterie ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non, c’est la chose comme elle est,</l>
+<l>Et point du tout conte frivole ;</l>
+<l>Je suis homme d’honneur, j’en donne ma parole ;</l>
+<pagenum num="415"/>
+<l>Et vous m’en croirez, s’il vous plaît.</l>
+<l>Je vous dis que, croyant n’être qu’un seul Sosie,</l>
+<l>Je me suis trouvé deux chez nous ;</l>
+<l>Et que de ces deux moi, piqués de jalousie,</l>
+<l>L’un est à la maison, et l’autre est avec vous ;</l>
+<l>Que le moi que voici, chargé de lassitude,</l>
+<l>A trouvé l’autre moi frais, gaillard et dispos,</l>
+<l>Et n’ayant d’autre inquiétude</l>
+<l>Que de battre et casser des os.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Il faut être, je le confesse,</l>
+<l>D’un esprit bien posé, bien tranquille, bien doux,</l>
+<l>Pour souffrir qu’un valet de chansons me repaisse.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Si vous vous mettez en courroux,</l>
+<l>Plus de conférence entre nous ;</l>
+<l>Vous savez que d’abord tout cesse.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Non, sans emportement je te veux écouter :</l>
+<l>Je l’ai promis. Mais dis, en bonne conscience,</l>
+<l>Au mystère nouveau que tu me viens conter</l>
+<l>Est-il quelque ombre d’apparence ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non ; vous avez raison, et la chose à chacun</l>
+<l>Hors de créance doit paroître.</l>
+<l>C’est un fait à n’y rien connoître,</l>
+<l>Un conte extravagant, ridicule, importun :</l>
+<l>Cela choque le sens commun ;</l>
+<l>Mais cela ne laisse pas d’être.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Le moyen d’en rien croire, à moins qu’être insensé ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Je ne l’ai pas cru, moi, sans une peine extrême.</l>
+<l>Je me suis d’être deux senti l’esprit blessé,</l>
+<l>Et longtemps d’imposteur j’ai traité ce moi-même.</l>
+<l>Mais à me reconnoître enfin il m’a forcé ;</l>
+<l>J’ai vu que c’étoit moi, sans aucun stratagème :</l>
+<l>Des pieds jusqu’à la tête il est comme moi fait,</l>
+<l>Beau, l’air noble, bien pris, les manières charmantes ;</l>
+<l>Enfin, deux gouttes de lait</l>
+<l>Ne sont pas plus ressemblantes ;</l>
+<pagenum num="416"/>
+<l>Et, n’étoit que ses mains sont un peu trop pesantes,</l>
+<l>J’en serois fort satisfait.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>A quelle patience il faut que je m’exhorte ?</l>
+<l>Mais enfin, n’es-tu pas entré dans la maison ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Bon, entré ! Eh ! de quelle sorte ?</l>
+<l>Ai-je voulu jamais entendre de raison ?</l>
+<l>Et ne me suis-je pas interdit notre porte ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Comment donc ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Avec un bâton,</l>
+<l>Dont mon dos sent encore une douleur très forte.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>On t’a battu ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Vraiment !</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Et qui ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Moi.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Toi, te battre ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Oui, moi ; non pas le moi d’ici.</l>
+<l>Mais le moi du logis, qui frappe comme quatre.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Te confonde le ciel de me parler ainsi !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Ce ne sont point des badinages.</l>
+<l>Le moi que j’ai trouvé tantôt</l>
+<l>Sur le moi qui vous parle a de grands avantages ;</l>
+<l>Il a le bras fort, le cœur haut ;</l>
+<l>J’en ai reçu des témoignages ;</l>
+<l>Et ce diable de moi m’a rossé comme il faut ;</l>
+<l>C’est un drôle qui fait des rages.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Achevons. As-tu vu ma femme ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non.</l>
+
+<pagenum num="417"/>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Pourquoi ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Par une raison assez forte.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Qui t’a fait y manquer, maraud ? Explique-toi.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Faut-il le répéter vingt fois de même sorte ?</l>
+<l>Moi, vous dis-je, ce moi plus robuste que moi ;</l>
+<l>Ce moi qui s’est de force emparé de la porte ;</l>
+<l>Ce moi qui m’a fait filer doux ;</l>
+<l>Ce moi qui le seul moi veut être ;</l>
+<l>Ce moi de moi-même jaloux ;</l>
+<l>Ce moi vaillant dont le courroux</l>
+<l>Au moi poltron s’est fait connoître ;</l>
+<l>Enfin ce moi qui suis chez nous ;</l>
+<l>Ce moi qui s’est montré mon maître ;</l>
+<l>Ce moi qui m’a roué de coups.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Il faut que ce matin, à force de trop boire,</l>
+<l>Il se soit troublé le cerveau.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Je veux être pendu, si j’ai bu que de l’eau !</l>
+<l>A mon serment on m’en peut croire.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Il faut donc qu’au sommeil tes sens se soient portés,</l>
+<l>Et qu’un songe fâcheux, dans ses confus mystères.</l>
+<l>T’ait fait voir toutes les chimères</l>
+<l>Dont tu me fais des vérités.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Tout aussi peu. Je n’ai point sommeillé,</l>
+<l>Et n’en ai même aucune envie.</l>
+<l>Je vous parle bien éveillé ;</l>
+<l>J’étois bien éveillé ce matin, sur ma vie,</l>
+<l>Et bien éveillé même étoit l’autre Sosie,</l>
+<l>Quand il m’a si bien étrillé.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Suis-moi, je t’impose silence,</l>
+<l>C’est trop me fatiguer l’esprit ;</l>
+<l>Et je suis un vrai fou d’avoir la patience</l>
+<l>D’écouter d’un valet les sottises qu’il dit.</l>
+
+<pagenum num="418"/>
+
+<hstage><speaker>SOSIE</speaker>, à part.</hstage>
+<l>Tous les discours sont des sottises,</l>
+<l>Partant d’un homme sans éclat :</l>
+<l>Ce seroient paroles exquises</l>
+<l>Si c’étoit un grand qui parlât.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Entrons sans davantage attendre.</l>
+<l>Mais Alcmène paroît avec tous ses appas ;</l>
+<l>En ce moment, sans doute, elle ne m’attend pas.</l>
+<l>Et mon abord la va surprendre.</l>
+
+<h3 id="p11">SCÈNE II. — ALCMÈNE, AMPHITRYON, CLÉANTHIS, SOSIE</h3>
+
+<hstage><speaker>ALCMÈNE</speaker>, sans voir Amphitryon.</hstage>
+<l>Allons pour mon époux, Cléanthis, vers les dieux<noteref noteid="note.418.1"/>,</l>
+<l>Nous acquitter de nos hommages,</l>
+<l>Et les remercier des succès glorieux</l>
+<l>Dont Thèbes, par son bras, goûte les avantages.</l>
+<pstage>Apercevant Amphitryon.</pstage>
+<l>O dieux !</l>
+
+<notes>
+  <note id="note.418.1">
+    <p><i>Vers</i>, pour : <i>envers</i>. Se disait alors.</p>
+  </note>
+</notes>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Fasse le ciel qu’Amphitryon vainqueur</l>
+<l>Avec plaisir soit revu de sa femme ;</l>
+<l>Et que ce jour, favorable à ma flamme.</l>
+<l>Vous redonne à mes yeux avec le même cœur !</l>
+<l>Que j’y retrouve autant d’ardeur</l>
+<l>Que vous en rapporte mon âme !</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Quoi ! de retour si tôt ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Certes, c’est en ce jour</l>
+<l>Me donner de vos feux un mauvais témoignage ;</l>
+<l>Et ce « Quoi ! si tôt de retour ? »</l>
+<l>En ces occasions n’est guère de langage</l>
+<l>D’un cœur bien enflammé d’amour.</l>
+<l>J’osois me flatter en moi-même</l>
+<l>Que loin de vous j’aurois trop demeuré.</l>
+<l>L’attente d’un retour ardemment désiré</l>
+<l>Donne à tous les instants une longueur extrême ;</l>
+<l>Et l’absence de ce qu’on aime,</l>
+<l>Quelque peu qu’elle dure, a toujours trop duré.</l>
+
+<pagenum num="419"/>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Je ne vois...</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Non, Alcmène, à son impatience</l>
+<l>On mesure le temps en de pareils états :</l>
+<l>Et vous comptez les moments de l’absence</l>
+<l>En personne qui n’aime pas.</l>
+<l>Lorsque l’on aime comme il faut,</l>
+<l>Le moindre éloignement nous tue,</l>
+<l>Et ce dont on chérit la vue</l>
+<l>Ne revient jamais assez tôt.</l>
+<l>De votre accueil, je le confesse,</l>
+<l>Se plaint ici mon amoureuse ardeur ;</l>
+<l>Et j’attendois de votre cœur</l>
+<l>D’autres transports de joie et de tendresse.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>J’ai peine à comprendre sur quoi</l>
+<l>Vous fondez les discours que je vous entends faire ;</l>
+<l>Et, si vous vous plaignez de moi,</l>
+<l>Je ne sais pas, de bonne foi,</l>
+<l>Ce qu’il faut pour vous satisfaire.</l>
+<l>Hier au soir, ce me semble, à votre heureux retour,</l>
+<l>On me vit témoigner une joie assez tendre,</l>
+<l>Et rendre aux soins de votre amour</l>
+<l>Tout ce que de mon cœur vous aviez lieu d’attendre.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Ne fis-je pas éclater à vos yeux</l>
+<l>Les soudains mouvements d’une entière allégresse ?</l>
+<l>Et le transport d’un cœur peut-il s’expliquer mieux.</l>
+<l>Au retour d’un époux qu’on aime avec tendresse ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Que me dites-vous là ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Que même votre amour</l>
+<l>Montra de mon accueil une joie incroyable ;</l>
+<l>Et que, m’ayant quittée à la pointe du jour,</l>
+<l>Je ne vois pas qu’à ce soudain retour</l>
+<l>Ma surprise soit si coupable.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Est-ce que du retour que j’ai précipité,</l>
+<pagenum num="420"/>
+<l>Un songe, cette nuit, Alcmène, dans votre âme,</l>
+<l>A prévenu la vérité ?</l>
+<l>Et que, m’ayant peut-être en dormant bien traité</l>
+<l>Votre cœur se croit vers ma flamme</l>
+<l>Assez amplement acquitté ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Est-ce qu’une vapeur, par sa malignité,</l>
+<l>Amphitryon, a, dans votre âme.</l>
+<l>Du retour d’hier au soir brouillé la vérité ?</l>
+<l>Et que du doux accueil duquel je m’acquittai</l>
+<l>Votre cœur prétend à ma flamme</l>
+<l>Ravir toute l’honnêteté?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Cette vapeur dont vous me régalez</l>
+<l>Est un peu, ce me semble, étrange.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>C’est ce qu’on peut donner pour change</l>
+<l>Au songe dont vous me parlez.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>A moins d’un songe, on ne peut pas, sans doute</l>
+<l>Excuser ce qu’ici votre bouche me dit.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>A moins d’une vapeur qui vous trouble l’esprit.</l>
+<l>On ne peut pas sauver ce que de vous j’écoute.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Laissons un peu cette vapeur, Alcmène.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Laissons un peu ce songe, Amphitryon.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Sur le sujet dont il est question</l>
+<l>Il n’est guère de jeu que trop loin on ne mène.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Sans doute ; et, pour marque certaine.</l>
+<l>Je commence à sentir un peu d’émotion.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Est-ce donc que par là vous voulez essayer</l>
+<l>A réparer l’accueil dont je vous ai fait plainte ?</l>
+
+<hstage><speaker>ACLMÈNE</speaker></hstage>
+<l>Est-ce donc que par cette feinte</l>
+<l>Vous désirez vous égayer ?</l>
+
+<pagenum num="421"/>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ah ! de grâce, cessons, Alcmène, je vous prie,</l>
+<l>Et parlons sérieusement.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Amphitryon, c’est trop pousser l’amusement ;</l>
+<l>Finissons cette raillerie.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Quoi ! vous osez me soutenir en face</l>
+<l>Que plus tôt qu’à cette heure on m’ait ici pu voir ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Quoi ! vous voulez nier avec audace</l>
+<l>Que dès hier en ces lieux vous vîntes sur le soir ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Moi ! je vins hier ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Sans doute ; et, dès devant l’aurore,</l>
+<l>Vous vous en êtes retourné.</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, à part.</hstage>
+<l>Ciel ! un pareil débat s’est-il pu voir encore ?</l>
+<l>Et qui de tout ceci ne seroit étonné ?</l>
+<l>Sosie !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Elle a besoin de six grains d’ellébore ;</l>
+<l>Monsieur, son esprit est tourné.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Alcmène, au nom de tous les dieux,</l>
+<l>Ce discours a d’étranges suites !</l>
+<l>Reprenez vos sens un peu mieux,</l>
+<l>Et pensez à ce que vous dites.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>J’y pense mûrement aussi ;</l>
+<l>Et tous ceux du logis ont vu votre arrivée.</l>
+<l>J’ignore quel motif vous fait agir ainsi ;</l>
+<l>Mais, si la chose avoit besoin d’être prouvée,</l>
+<l>S’il étoit vrai qu’on pût ne s’en souvenir pas,</l>
+<l>De qui puis-je tenir, que de vous, la nouvelle</l>
+<l>Du dernier de tous vos combats,</l>
+<l>Et les cinq diamants que portoit Ptérélas,</l>
+<l>Qu’a fait dans la nuit éternelle</l>
+<l>Tomber l’effort de votre bras ?</l>
+<l>En pourroit-on vouloir un plus sûr témoignage ?</l>
+
+<pagenum num="422"/>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Quoi ! je vous ai déjà donné</l>
+<l>Le nœud de diamants que j’eus pour mon partage,</l>
+<l>Et que je vous ai destiné ?</l>
+
+<hstage><speaker>ACLMÈNE</speaker></hstage>
+<l>Assurément. Il n’est pas difficile</l>
+<l>De vous en bien convaincre.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Et comment ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker>, montrant le nœud de diamants à sa ceinture.</hstage>
+<l>Le voici.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Sosie !</l>
+
+<hstage><speaker>SOSIE</speaker>, tirant de sa poche un coffret.</hstage>
+<l>Elle se moque, et je le tiens ici ;</l>
+<l>Monsieur, la feinte est inutile.</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, regardant le coffret.</hstage>
+<l>Le cachet est entier.</l>
+
+<hstage><speaker>ALCMÈNE</speaker>, présentant à Amphitryon le nœud de diamants.</hstage>
+<l>Est-ce une vision ?</l>
+<l>Tenez. Trouverez-vous cette preuve assez forte ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ah ! ciel ! ô juste ciel !</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Allez, Amphitryon,</l>
+<l>Vous vous moquez d’en user de la sorte ;</l>
+<l>Et vous en devriez avoir confusion.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Romps vite ce cachet.</l>
+
+<hstage><speaker>SOSIE</speaker>, ayant ouvert le coffret.</hstage>
+<l>Ma foi, la place est vide.</l>
+<l>Il faut que, par magie, on ait su le tirer,</l>
+<l>Ou bien que de lui-même il soit venu, sans guide,</l>
+<l>Vers celle qu’il a su qu’on en vouloit parer.</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, à part.</hstage>
+<l>O dieux, dont le pouvoir sur les choses préside.</l>
+<l>Quelle est cette aventure, et qu’en puis-je augurer</l>
+<l>Dont mon amour ne s’intimide ?</l>
+
+<hstage><speaker>SOSIE</speaker>, à Amphitryon.</hstage>
+<l>Si sa bouche dit vrai, nous avons même sort,</l>
+<l>Et de même que moi, monsieur, vous êtres double.</l>
+<pagenum num="423"/>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Tais-toi.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Sur quoi vous étonner si fort ?</l>
+<l>Et d’où peut naître ce grand trouble ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, à part.</hstage>
+<l>O ciel ! quel étrange embarras !</l>
+<l>Je vois des incidents qui passent la nature ;</l>
+<l>Et mon honneur redoute une aventure</l>
+<l>Que mon esprit ne comprend pas.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Songez-vous, en tenant cette preuve sensible,</l>
+<l>A me nier encor votre retour pressé ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Non ; mais, à ce retour, daignez, s’il est possible,</l>
+<l>Me conter ce qui s’est passé.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Puisque vous demandez un récit de la chose,</l>
+<l>Vous voulez dire donc que ce n’étoit pas vous ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Pardonnez-moi ; mais j’ai certaine cause</l>
+<l>Qui me fait demander ce récit entre nous.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Les soucis importants qui vous peuvent saisir</l>
+<l>Vous ont-ils fait si vite en perdre la mémoire ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Peut-être ; mais enfin vous me ferez plaisir</l>
+<l>De m’en dire toute l’histoire.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>L’histoire n’est pas longue. A vous je m’avançai.</l>
+<l>Pleine d’une aimable surprise ;</l>
+<l>Tendrement je vous embrassai,</l>
+<l>Et témoignai ma joie à plus d’une reprise.</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, à part.</hstage>
+<l>Ah ! d’un si doux accueil je me serois passé.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Vous me fîtes d’abord ce présent d’importance,</l>
+<l>Que du butin conquis vous m’aviez destiné.</l>
+<l>Votre cœur avec véhémence</l>
+<l>M’étala de ses feux toute la violence,</l>
+<l>Et les soins importuns qui l’avoient enchaîné,</l>
+<pagenum num="424"/>
+<l>L’aise de me revoir, les tourments de l’absence,</l>
+<l>Tout le souci que son impatience</l>
+<l>Pour le retour s’étoit donné ;</l>
+<l>Et jamais votre amour, en pareille occurrence,</l>
+<l>Ne me parut si tendre et si passionné.</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, à part.</hstage>
+<l>Peut-on plus vivement se voir assassiné ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Tous ces transports, toute cette tendresse,</l>
+<l>Comme vous croyez bien, ne me déplaisoient pas ;</l>
+<l>Et, s’il faut que je le confesse,</l>
+<l>Mon cœur, Amphitryon, y trouvoit mille appas.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ensuite, s’il vous plaît ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Nous nous entrecoupâmes</l>
+<l>De mille questions qui pouvoient nous toucher.</l>
+<l>On servit. Tête à tête ensemble nous soupâmes ;</l>
+<l>Et, le souper fini, nous nous fûmes coucher.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ensemble ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Assurément. Quelle est cette demande ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, à part.</hstage>
+<l>Ah ! c’est ici le coup le plus cruel de tous.</l>
+<l>Et dont à s’assurer trembloit mon feu jaloux.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>D’où vous vient, à ce mot, une rougeur si grande ?</l>
+<l>Ai-je fait quelque mal de coucher avec vous ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Non, ce n’étoit pas moi, pour ma douleur sensible ;</l>
+<l>Et qui dit qu’hier ici mes pas se sont portés</l>
+<l>Dit, de toutes les faussetés,</l>
+<l>La fausseté la plus horrible !</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Amphitryon !</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Perfide !</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Ah ! quel emportement !</l>
+
+<pagenum num="425"/>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Non, non, plus de douceur et plus de déférence :</l>
+<l>Ce revers vient à bout de toute ma constance,</l>
+<l>Et mon cœur ne respire, en ce fatal moment,</l>
+<l>Et que fureur et que vengeance !</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>De qui donc vous venger ? et quel manque de foi</l>
+<l>Vous fait ici me traiter de coupable !</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Je ne sais pas, mais ce n’était pas moi :</l>
+<l>Et c’est un désespoir qui de tout rend capable.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Allez, indigne époux, le fait parle de soi,</l>
+<l>Et l’imposture est effroyable.</l>
+<l>C’est trop me pousser là-dessus,</l>
+<l>Et d’infidélité me voir trop condamnée.</l>
+<l>Si vous cherchez, dans ces transports confus,</l>
+<l>Un prétexte à briser les nœuds d’un hyménée</l>
+<l>Qui me tient à vous enchaînée.</l>
+<l>Tous ces détours sont superflus ;</l>
+<l>Et me voilà déterminée</l>
+<l>A souffrir qu’en ce jour nos liens soient rompus.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Après l’indigne affront que l’on me fait connoître,</l>
+<l>C’est bien à quoi, sans doute, il faut vous préparer :</l>
+<l>C’est le moins qu’on doit voir ; et les choses peut-être</l>
+<l>Pourront n’en pas là demeurer.</l>
+<l>Le déshonneur est sûr, mon malheur m’est visible,</l>
+<l>Et mon amour en vain voudroit me l’obscurcir :</l>
+<l>Mais le détail encor ne m’en est pas sensible,</l>
+<l>Et mon juste courroux prétend s’en éclaircir.</l>
+<l>Votre frère déjà peut hautement répondre</l>
+<l>Que, jusqu’à ce matin, je ne l’ai point quitté :</l>
+<l>Je m’en vais le chercher, afin de vous confondre</l>
+<l>Sur ce retour qui m’est faussement imputé.</l>
+<l>Après, nous percerons jusqu’au fond d’un mystère</l>
+<l>Jusques à présent inouï ;</l>
+<l>Et, dans les mouvements d’une juste colère,</l>
+<l>Malheur à qui m’aura trahi !</l>
+
+<pagenum num="426"/>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Monsieur...</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ne m’accompagne pas,</l>
+<l>Et demeure ici pour m’attendre.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker>, à Alcmène.</hstage>
+<l>Faut-il ?...</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Je ne puis rien entendre :</l>
+<l>Laisse-moi seule, et ne suis point mes pas<noteref noteid="note.426.1"/>.</l>
+
+<notes>
+  <note id="note.426.1">
+    <p>Cette scène est proprement la scène principale de l’ouvrage, celle qui fait le nœud, celle enfin que les précédentes ne font que préparer, et dont toutes les suivantes ne sont que la conséquence. (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p12">SCÈNE III. — CLÉANTHIS, SOSIE</h3>
+
+<hstage><speaker>CLÉANTHIS</speaker>, à part.</hstage>
+<l>Il faut que quelque chose ait brouillé sa cervelle,</l>
+<l>Mais le frère sur-le-champ</l>
+<l>Finira cette querelle.</l>
+
+<hstage><speaker>SOSIE</speaker>, à part.</hstage>
+<l>C’est ici pour mon maître un coup assez touchant,</l>
+<l>Et son aventure est cruelle.</l>
+<l>Je crains fort pour mon fait quelque chose approchant,</l>
+<l>Et je m’en veux, tout doux, éclaircir avec elle.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker>, à part.</hstage>
+<l>Voyez s’il me viendra seulement aborder !</l>
+<l>Mais je veux m’empêcher de rien faire paroitre.</l>
+
+<hstage><speaker>SOSIE</speaker>, à part.</hstage>
+<l>La chose quelquefois est fâcheuse à connoître,</l>
+<l>Et je tremble à la demander.</l>
+<l>Ne vaudroit-il point mieux, pour ne rien hasarder,</l>
+<l>Ignorer ce qu’il en peut être ?</l>
+<l>Allons, tout coup vaille, il faut voir,</l>
+<l>Et je ne m’en saurois défendre.</l>
+<l>La foiblesse humaine est d’avoir</l>
+<l>Des curiosités d’apprendre</l>
+<l>Ce qu’on ne voudroit pas savoir.</l>
+<l>Dieu te garde, Cléanthis !</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Ah ! ah ! tu t’en avises,</l>
+<l>Traître, de t’approcher de nous !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Mon Dieu ! qu’as-tu ? Toujours on te voit en courroux.</l>
+<l>Et sur rien tu te formalises !</l>
+
+<pagenum num="427"/>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Qu’appelles-tu sur rien ? Dis.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>J’appelle sur rien</l>
+<l>Ce qui sur rien s’appelle en vers ainsi qu’en prose,</l>
+<l>Et rien, comme tu le sais bien,</l>
+<l>Veut dire rien, ou peu de chose.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Je ne sais qui me tient, infâme,</l>
+<l>Que je ne t’arrache les yeux,</l>
+<l>Et ne t’apprenne où va le courroux d’une femme !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Holà ! D’où te vient donc ce transport furieux ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Tu n’appelles donc rien le procédé, peut-être</l>
+<l>Qu’avec moi ton cœur a tenu ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Et quel ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Quoi ! tu fais l’ingénu ?</l>
+<l>Est-ce qu’à l’exemple du maître</l>
+<l>Tu veux dire qu’ici tu n’es pas revenu ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non, je sais fort bien le contraire ;</l>
+<l>Mais je ne t’en fais pas le fin,</l>
+<l>Nous avions bu de je ne sais quel vin,</l>
+<l>Qui m’a fait oublier tout ce que j’ai pu faire.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Tu crois peut-être excuser par ce trait...</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non, tout de bon, tu m’en peux croire.</l>
+<l>J’étois dans un état où je puis avoir fait</l>
+<l>Des choses dont j’aurois regret,</l>
+<l>Et dont je n’ai nulle mémoire.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Tu ne te souviens point du tout de la manière</l>
+<l>Dont tu m’as su traiter, étant venu du port ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non plus que rien. Tu peux m’en faire le rapport.</l>
+<l>Je suis équitable et sincère,</l>
+<l>Et me condamnerai moi-même, si j’ai tort.</l>
+
+<pagenum num="428"/>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Comment ! Amphitryon m’ayant su disposer,</l>
+<l>Jusqu’à ce que tu vins j’avais poussé ma veille ;</l>
+<l>Mais je ne vis jamais une froideur pareille :</l>
+<l>De ta femme il fallut moi-même t’aviser<noteref noteid="note.428.1"/>.</l>
+<l>Et, lorsque je fus te baiser,</l>
+<l>Tu détournas le nez, et me donnas l’oreille.</l>
+
+<notes>
+  <note id="note.428.1">
+    <p>C’est-à-dire : <i>te faire songer à ta femme</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Bon !</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Comment, bon ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Mon Dieu ! tu ne sais pas pourquoi,</l>
+<l>Cléanthis, je tiens ce langage :</l>
+<l>J’avois mangé de l’ail, et fis en homme sage</l>
+<l>De détourner un peu mon haleine de toi.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Je te sus exprimer des tendresses de cœur ;</l>
+<l>Mais à tous mes discours tu fus comme une souche ;</l>
+<l>Et jamais un mot de douceur</l>
+<l>Ne te put sortir de la bouche.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Courage !</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Enfin ma flamme eut beau s’émanciper,</l>
+<l>Sa chaste ardeur en toi ne trouva rien que glace ;</l>
+<l>Et, dans un tel retour, je te vis la tromper</l>
+<l>Jusqu’à faire refus de prendre au lit la place</l>
+<l>Que les lois de l’hymen t’obligent d’occuper.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Quoi ! je ne couchai point ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Non, lâche !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Est-il possible ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Traître ! il n’est que trop assuré.</l>
+<l>C’est de tous les affronts l’affront le plus sensible ;</l>
+<l>Et, loin que ce matin ton cœur l’ait réparé,</l>
+<l>Tu t’es d’avec moi séparé</l>
+<pagenum num="429"/>
+<l>Par des discours chargés d’un mépris tout visible.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l><i>Vivat</i> Sosie !</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Eh quoi ! ma plainte a cet effet !</l>
+<l>Tu ris après ce bel ouvrage !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Que je suis de moi satisfait !</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Exprime-t-on ainsi le regret d’un outrage ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Je n’aurois jamais cru que j’eusse été si sage.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Loin de te condamner d’un si perfide trait,</l>
+<l>Tu m’en fais éclater la joie en ton visage !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Mon Dieu ! tout doucement ! Si je parois joyeux,</l>
+<l>Crois que j’en ai dans l’âme une raison très forte,</l>
+<l>Et que, sans y penser, je ne fis jamais mieux</l>
+<l>Que d’en user tantôt avec toi de la sorte.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Traître ! te moques-tu de moi ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non, je te parle avec franchise.</l>
+<l>En l’état où j’étois, j’avois certain effroi</l>
+<l>Dont, avec ton discours, mon âme s’est remise.</l>
+<l>Je m’appréhendois fort, et craignois qu’avec toi</l>
+<l>Je n’eusse fait quelque sottise.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Quelle est cette frayeur ? et sachons donc pourquoi.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Les médecins disent, quand on est ivre,</l>
+<l>Que de sa femme on se doit abstenir.</l>
+<l>Et que dans cet état il ne peut provenir</l>
+<l>Que des enfants pesants et qui ne sauroient vivre.</l>
+<l>Vois, si mon cœur n’eût su de froideur se munir,</l>
+<l>Quels inconvénients auroient pu s’en ensuivre !</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Je me moque des médecins,</l>
+<l>Avec leurs raisonnements fades :</l>
+<l>Qu’ils règlent ceux qui sont malades,</l>
+<pagenum num="430"/>
+<l>Sans vouloir gouverner les gens qui sont bien sains.</l>
+<l>Ils se mêlent de trop d’affaires,</l>
+<l>De prétendre tenir nos chastes feux gênés ;</l>
+<l>Et sur les jours caniculaires</l>
+<l>Ils nous donnent encore, avec leurs lois sévères,</l>
+<l>De cent sots contes par le nez.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Tout doux !</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Non, je soutiens que cela conclut mal ;</l>
+<l>Ces raisons sont raisons d’extravagantes têtes.</l>
+<l>Il n’est ni vin ni temps qui puisse être fatal</l>
+<l>A remplir le devoir de l’amour conjugal ;</l>
+<l>Et les médecins sont des bêtes.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Contre eux, je t’en supplie, apaise ton courroux :</l>
+<l>Ce sont d’honnêtes gens, quoi que le monde en dise.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Tu n’es pas où tu crois ; en vain tu files doux :</l>
+<l>Ton excuse n’est point une excuse de mise ;</l>
+<l>Et je me veux venger tôt ou tard, entre nous,</l>
+<l>De l’air dont chaque jour je vois qu’on me méprise.</l>
+<l>Des discours de tantôt je garde tous les coups,</l>
+<l>Et tâcherai d’user, lâche et perfide époux,</l>
+<l>De cette liberté que ton cœur m’a permise.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Quoi ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Tu m’as dit tantôt que tu consentois fort,</l>
+<l>Lâche, que j’en aimasse un autre.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Ah ! pour cet article, j’ai tort,</l>
+<l>Je m’en dédis, il y va trop du nôtre.</l>
+<l>Garde-toi bien de suivre ce transport.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Si je puis une fois pourtant</l>
+<l>Sur mon esprit gagner la chose...</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Fais à ce discours quelque pause.</l>
+<l>Amphitryon revient, qui me paroît content<noteref noteid="note.430.1"/>.</l>
+
+<notes>
+  <note id="note.430.1">
+    <p>Cette scène, l’une des plus jolies de la pièce, est toute de l’invention de Molière.</p>
+  </note>
+</notes>
+
+<pagenum num="431"/>
+
+<h3 id="p13">SCÈNE IV. — JUPITER, CLÉANTHIS, SOSIE</h3>
+
+<hstage><speaker>JUPITER</speaker>, à part.</hstage>
+<l>Je viens prendre le temps de rapaiser Alcmène,</l>
+<l>De bannir les chagrins que son cœur veut garder,</l>
+<l>Et donner à mes feux, dans ce soin qui m’amène,</l>
+<l>Le doux plaisir de se raccommoder.</l>
+<pstage>A Cléanthis.</pstage>
+<l>Alcmène est là-haut, n’est-ce pas ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Oui, pleine d’une inquiétude</l>
+<l>Qui cherche de la solitude,</l>
+<l>Et qui m’a défendu d’accompagner ses pas.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Quelque défense qu’elle ait faite,</l>
+<l>Elle ne sera pas pour moi.</l>
+
+<h3 id="p14">SCÈNE V. — CLÉANTHIS, SOSIE</h3>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Son chagrin, à ce que je voi,</l>
+<l>A fait une prompte retraite.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Que dis-tu, Cléanthis, de ce joyeux maintien,</l>
+<l>Après son fracas effroyable ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Que si toutes nous faisions bien,</l>
+<l>Nous donnerions tous les hommes au diable,</l>
+<l>Et que le meilleur n’en vaut rien.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Cela se dit dans le courroux ;</l>
+<l>Mais aux hommes par trop vous êtes accrochées ;</l>
+<l>Et vous seriez, ma foi, toutes bien empêchées,</l>
+<l>Si le diable les prenoit tous.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Vraiment...</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Les voici. Taisons-nous.</l>
+
+<h3 id="p15">SCÈNE VI. — JUPITER. ALCMÈNE, CLÉANTHIS, SOSIE</h3>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Voulez-vous me désespérer ?</l>
+<pagenum num="432"/>
+<l>Hélas ! arrêtez, belle Alcmène.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Non, avec l’auteur de ma peine</l>
+<l>Je ne puis du tout demeurer.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>De grâce !</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Laissez-moi.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Quoi !</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Laissez-moi, vous dis-je.</l>
+
+<hstage><speaker>JUPITER</speaker>, bas, à part.</hstage>
+<l>Ses pleurs touchent mon âme, et sa douleur m’afflige.</l>
+<pstage>Haut.</pstage>
+<l>Souffrez que mon cœur...</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Non, ne suivez point mes pas.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Où voulez-vous aller ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Où vous ne serez pas.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Ce vous est une attente vaine.</l>
+<l>Je tiens à vos beautés par un nœud trop serré,</l>
+<l>Pour pouvoir un moment en être séparé.</l>
+<l>Je vous suivrai partout, Alcmène.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Et moi, partout je vous fuirai.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Je suis donc bien épouvantable !</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Plus qu’on ne peut dire, à mes yeux.</l>
+<l>Oui, je vous vois comme un monstre effroyable,</l>
+<l>Un monstre cruel, furieux,</l>
+<l>Et dont l’approche est redoutable ;</l>
+<l>Comme un monstre à fuir en tous lieux.</l>
+<l>Mon cœur souffre, à vous voir, une peine incroyable :</l>
+<l>C’est un supplice qui m’accable ;</l>
+<l>Et je ne vois rien sous les cieux</l>
+<l>D’affreux, d’horrible, d’odieux.</l>
+<pagenum num="433"/>
+<l>Qui ne me fût plus que vous supportable.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>En voilà bien, hélas ! que votre bouche dit.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>J’en ai dans le cœur davantage ;</l>
+<l>Et, pour s’exprimer tout, ce cœur a du dépit</l>
+<l>De ne point trouver de langage.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Eh ! que vous a donc fait ma flamme,</l>
+<l>Pour me pouvoir, Alcmène, en monstre regarder ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Ah ! juste ciel ! cela peut-il se demander ?</l>
+<l>Et n’est-ce pas pour mettre à bout une âme ?</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Ah ! d’un esprit plus adouci...</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Non, je ne veux du tout vous voir, ni vous entendre.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Avez-vous bien le cœur de me traiter ainsi ?</l>
+<l>Est-ce là cet amour si tendre</l>
+<l>Qui devoit tant durer quand je vins hier ici ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Non, non, ce ne l’est pas, et vos lâches injures</l>
+<l>En ont autrement ordonné.</l>
+<l>Il n’est plus, cet amour tendre et passionné ;</l>
+<l>Vous l’avez dans mon cœur, par cent vives blessures,</l>
+<l>Cruellement assassiné.</l>
+<l>C’est en sa place un courroux inflexible,</l>
+<l>Un vif ressentiment, un dépit invincible,</l>
+<l>Un désespoir d’un cœur justement animé,</l>
+<l>Qui prétend vous haïr, pour cet affront sensible,</l>
+<l>Autant qu’il est d’accord de vous avoir aimé ;</l>
+<l>Et c’est haïr autant qu’il est possible.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Hélas ! que votre amour n’avoit guère de force,</l>
+<l>Si de si peu de chose on le peut voir mourir !</l>
+<l>Ce qui n’étoit que jeu doit-il faire un divorce ?</l>
+<l>Et d’une raillerie a-t-on lieu de s’aigrir ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Ah ! c’est cela dont je suis offensée,</l>
+<l>Et que ne peut pardonner mon courroux,</l>
+<pagenum num="434"/>
+<l>Des véritables traits d’un mouvement jaloux</l>
+<l>Je me trouverois moins blessée.</l>
+<l>La jalousie a des impressions</l>
+<l>Dont bien souvent la force nous entraîne ;</l>
+<l>Et l’âme la plus sage, en ces occasions.</l>
+<l>Sans doute avec assez de peine,</l>
+<l>Répond de ses émotions.</l>
+<l>L’emportement d’un cœur qui peut s’être abusé</l>
+<l>A de quoi ramener une âme qu’il offense ;</l>
+<l>Et dans l’amour qui lui donne naissance</l>
+<l>Il trouve au moins, malgré toute sa violence,</l>
+<l>Des raisons pour être excusé.</l>
+<l>De semblables transports contre un ressentiment</l>
+<l>Pour défense toujours ont ce qui les fait naître :</l>
+<l>Et l’on donne grâce aisément</l>
+<l>A ce dont on n’est pas le maître.</l>
+<l>Mais que, de gaieté de cœur,</l>
+<l>On passe aux mouvements d’une fureur extrême ;</l>
+<l>Que sans cause l’on vienne, avec tant de rigueur,</l>
+<l>Blesser la tendresse et l’honneur</l>
+<l>D’un cœur qui chèrement vous aime.</l>
+<l>Ah ! c’est un coup trop cruel en lui-même,</l>
+<l>Et que jamais n’oubliera ma douleur.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Oui, vous avez raison, Alcmène, il se faut rendre.</l>
+<l>Cette action sans doute est un crime odieux,</l>
+<l>Je ne prétends plus le défendre ;</l>
+<l>Mais souffrez que mon cœur s’en défende à vos yeux.</l>
+<l>Et donne au vôtre à qui se prendre</l>
+<l>De ce transport injurieux.</l>
+<l>A vous en faire un aveu véritable,</l>
+<l>L’époux, Alcmène, a commis tout le mal ;</l>
+<l>C’est l’époux qu’il vous faut regarder en coupable ;</l>
+<l>L’amant n’a point de part à ce transport brutal.</l>
+<l>Et de vous offenser son cœur n’est point capable.</l>
+<l>Il a pour vous, ce cœur, pour jamais y penser,</l>
+<l>Trop de respect et de tendresse ;</l>
+<l>Et, si de faire rien à vous pouvoir blesser</l>
+<l>Il avoit eu la coupable faiblesse,</l>
+<l>De cent coups à vos yeux il voudrait le percer.</l>
+<l>Mais l’époux est sorti de ce respect soumis</l>
+<l>Où pour vous on doit toujours être ;</l>
+<l>A son dur procédé l’époux s’est fait connoître.</l>
+<pagenum num="435"/>
+<l>Et par le droit d’hymen il s’est cru tout permis,</l>
+<l>Oui, c’est lui qui sans doute est criminel vers vous ;</l>
+<l>Lui seul a maltraité votre aimable personne ;</l>
+<l>Haïssez, détestez l’époux,</l>
+<l>J’y consens, et vous l’abandonne ;</l>
+<l>Mais, Alcmène, sauvez l’amant de ce courroux</l>
+<l>Qu’une telle offense vous donne :</l>
+<l>N’en jetez pas sur lui l’effet,</l>
+<l>Démêlez-le un peu du coupable ;</l>
+<l>Et, pour être enfin équitable,</l>
+<l>Ne le punissez point de ce qu’il n’a pas fait.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Ah ! toutes ces subtilités</l>
+<l>N’ont que des excuses frivoles,</l>
+<l>Et pour les esprits irrités</l>
+<l>Ce sont des contre-temps que de telles paroles.</l>
+<l>Ce détour ridicule est en vain pris par vous.</l>
+<l>Je ne distingue rien en celui qui m’offense,</l>
+<l>Tout y devient l’objet de mon courroux :</l>
+<l>Et dans sa juste violence</l>
+<l>Sont confondus et l’amant et l’époux.</l>
+<l>Tous deux de même sorte occupent ma pensée.</l>
+<l>Et des mêmes couleurs, par mon âme blessée,</l>
+<l>Tous deux ils sont peints à mes yeux :</l>
+<l>Tous deux sont criminels, tous deux m’ont offensée,</l>
+<l>Et tous deux me sont odieux.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Eh bien, puisque vous le voulez<noteref noteid="note.435.1"/>,</l>
+<l>Il faut donc me charger du crime.</l>
+<l>Oui, vous avez raison lorsque vous m’immolez</l>
+<l>A vos ressentiments, en coupable victime.</l>
+<l>Un trop juste dépit contre moi vous anime ;</l>
+<l>Et tout ce grand courroux qu’ici vous étalez</l>
+<l>Ne me fait endurer qu’un tourment légitime.</l>
+<l>C’est avec droit que mon abord vous chasse,</l>
+<l>Et que de me fuir en tous lieux</l>
+<l>Votre colère me menace.</l>
+<l>Je dois vous être un objet odieux.</l>
+<l>Vous devez me vouloir un mal prodigieux.</l>
+<pagenum num="436"/>
+<l>Il n’est aucune horreur que mon forfait ne passe,</l>
+<l>D’avoir offensé vos beaux yeux.</l>
+<l>C’est un crime à blesser les hommes et les dieux ;</l>
+<l>Et je mérite enfin, pour punir cette audace,</l>
+<l>Que contre moi votre haine ramasse</l>
+<l>Tous ses traits les plus furieux.</l>
+<l>Mais mon cœur vous demande grâce ;</l>
+<l>Pour vous la demander je me jette à genoux,</l>
+<l>Et la demande au nom de la plus vive flamme,</l>
+<l>Du plus tendre amour dont une âme</l>
+<l>Puisse jamais brûler pour vous.</l>
+<l>Si votre cœur, charmante Alcmène,</l>
+<l>Me refuse la grâce où j’ose recourir,</l>
+<l>Il faut qu’une atteinte soudaine</l>
+<l>M’arrache, en me faisant mourir,</l>
+<l>Aux dures rigueurs d’une peine</l>
+<l>Que je ne saurois plus souffrir.</l>
+<l>Oui, cet état me désespère.</l>
+<l>Alcmène, ne présumez pas</l>
+<l>Qu’aimant, comme je fais, vos célestes appas,</l>
+<l>Je puisse vivre un jour avec votre colère.</l>
+<l>Déjà de ces moments la barbare longueur</l>
+<l>Fait, sous des atteintes mortelles,</l>
+<l>Succomber tout mon triste cœur,</l>
+<l>Et de mille vautours les blessures cruelles</l>
+<l>N’ont rien de comparable à ma vive douleur.</l>
+<l>Alcmène, vous n’avez qu’à me le déclarer :</l>
+<l>S’il n’est point de pardon que je doive espérer,</l>
+<l>Cette épée aussitôt, par un coup favorable,</l>
+<l>Va percer à vos yeux le cœur d’un misérable,</l>
+<l>Ce cœur, ce traître cœur, trop digne d’expirer,</l>
+<l>Puisqu’il a pu fâcher un objet adorable :</l>
+<l>Heureux, en descendant au ténébreux séjour,</l>
+<l>Si de votre courroux mon trépas vous ramène.</l>
+<l>Et ne laisse en votre âme, après ce triste jour,</l>
+<l>Aucune impression de haine,</l>
+<l>Au souvenir de mon amour !</l>
+<l>C’est tout ce que j’attends pour faveur souveraine.</l>
+
+<notes>
+  <note id="note.435.1">
+    <p>Toute la partie de la scène comprise entre ce vers et celui-ci :</p>
+    <blockquote>
+      <l>Laissez ; je me veux mal de mon trop de foiblesse</l>
+    </blockquote>
+    <p class="cont">est prise de <i>Don Garcie de Navarre</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Ah ! trop cruel époux !</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Dites, parlez, Alcmène.</l>
+
+<pagenum num="437"/>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Faut-il encor pour vous conserver des bontés,</l>
+<l>Et vous voir m’outrager par tant d’indignités !</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Quelque ressentiment qu’un outrage nous cause,</l>
+<l>Tient-il contre un remords d’un cœur bien enflammé ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Un cœur bien plein de flamme à mille morts s’expose,</l>
+<l>Plutôt que de vouloir fâcher l’objet aimé.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Plus on aime quelqu’un, moins on trouve de peine...</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Non, ne m’en parlez point ; vous méritez ma haine.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Vous me haïssez donc ?</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>J’y fais tout mon effort ;</l>
+<l>Et j’ai dépit de voir que toute votre offense</l>
+<l>Ne puisse de mon cœur jusqu’à cette vengeance</l>
+<l>Faire encore aller le transport.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Mais pourquoi cette violence,</l>
+<l>Puisque, pour vous venger, je vous offre ma mort ?</l>
+<l>Prononcez-en l’arrêt, et j’obéis sur l’heure.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Qui ne sauroit haïr peut-il vouloir qu’on meure ?</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Et moi, je ne puis vivre, à moins que vous quittiez</l>
+<l>Cette colère qui m’accable.</l>
+<l>Et que vous m’accordiez le pardon favorable</l>
+<l>Que je vous demande à vos pieds.</l>
+<pstage>Sosie et Cléanthis se mettent aussi à genoux.</pstage>
+<l>Résolvez ici l’un des deux,</l>
+<l>Ou de punir, ou bien d’absoudre.</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Hélas ! ce que je puis résoudre</l>
+<l>Paroît bien plus que je ne veux.</l>
+<l>Pour vouloir soutenir le courroux qu’on me donne,</l>
+<l>Mon cœur a trop su me trahir :</l>
+<l>Dire qu’on ne sauroit haïr,</l>
+<l>N’est-ce pas dire qu’on pardonne ?</l>
+
+<pagenum num="438"/>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Ah ! belle Alcmène, il faut que, comblé d’allégresse...</l>
+
+<hstage><speaker>ALCMÈNE</speaker></hstage>
+<l>Laissez ; je me veux mal de mon trop de foiblesse.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Va, Sosie, et dépêche-toi,</l>
+<l>Voir, dans les doux transports dont mon âme est charmée,</l>
+<l>Ce que tu trouveras d’officiers de l’armée,</l>
+<l>Et les invite à dîner avec moi.</l>
+<pstage>Bas, à part.</pstage>
+<l>Tandis que d’ici je le chasse,</l>
+<l>Mercure y remplira sa place.</l>
+
+<h3 id="p16">SCÈNE VII. — CLÉANTHIS, SOSIE</h3>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Eh bien, tu vois, Cléanthis, ce ménage.</l>
+<l>Veux-tu qu’à leur exemple ici</l>
+<l>Nous fassions entre nous un peu de paix aussi,</l>
+<l>Quelque petit rapatriage ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>C’est pour ton nez, vraiment ! cela se fait ainsi.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Quoi ! tu ne veux pas ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Il ne m’importe guère.</l>
+<l>Tant pis pour toi.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Là, là, revien.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non, morbleu ! je n’en ferai rien.</l>
+<l>Et je veux être, à mon tour, en colère.</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Va, va, traître, laisse-moi faire ;</l>
+<l>On se lasse parfois d’être femme de bien.</l>
+
+<vsep class="rule"/>
+
+<pagenum num="439"/>
+
+<h2 id="p17">ACTE TROISIÈME</h2>
+
+<h3 id="p18">SCÈNE I. — AMPHITRYON, <i>seul.</i></h3>
+
+<l>Oui, sans doute, le sort tout exprès me le cache ;</l>
+<l>Et des tours que je fais, à la fin, je suis las.</l>
+<l>Il n’est point de destin plus cruel, que je sache,</l>
+<l>Je ne saurois trouver, portant partout mes pas,</l>
+<l>Celui qu’à chercher je m’attache,</l>
+<l>Et je trouve tous ceux que je ne cherche pas.</l>
+<l>Mille fâcheux cruels, qui ne pensent pas l’être,</l>
+<l>De nos faits avec moi, sans beaucoup me connoître,</l>
+<l>Viennent se réjouir pour me faire enrager.</l>
+<l>Dans l’embarras cruel du souci qui me blesse,</l>
+<l>De leurs embrassements et de leur allégresse,</l>
+<l>Sur mon inquiétude ils viennent tous charger.</l>
+<l>En vain à passer je m’apprête,</l>
+<l>Pour fuir leurs persécutions,</l>
+<l>Leur tuante amitié de tous côtés m’arrête ;</l>
+<l>Et, tandis qu’à l’ardeur de leurs expressions.</l>
+<l>Je réponds d’un geste de tête,</l>
+<l>Je leur donne tout bas cent malédictions.</l>
+<l>Ah ! qu’on est peu flatté de louange, d’honneur,</l>
+<l>Et de tout ce que donne une grande victoire,</l>
+<l>Lorsque dans l’âme on souffre une vive douleur !</l>
+<l>Et que l’on donneroit volontiers cette gloire</l>
+<l>Pour avoir le repos du cœur !</l>
+<l>Ma jalousie, à tout propos,</l>
+<l>Me promène sur ma disgrâce,</l>
+<l>Et plus mon esprit y repasse,</l>
+<l>Moins j’en puis débrouiller le funeste chaos.</l>
+<l>Le vol des diamants n’est pas ce qui m’étonne :</l>
+<l>On lève les cachets, qu’on ne l’aperçoit pas ;</l>
+<l>Mais le don qu’on veut qu’hier j’en vins faire en personne</l>
+<l>Est ce qui fait ici mon cruel embarras.</l>
+<l>La nature parfois produit des ressemblances</l>
+<l>Dont quelques imposteurs ont pris droit d’abuser ;</l>
+<l>Mais il est hors de sens que, sous ces apparences,</l>
+<l>Un homme pour époux se puisse supposer ;</l>
+<l>Et dans tous ces rapports sont mille différences</l>
+<l>Dont se peut une femme aisément aviser.</l>
+<l>Des charmes de la Thessalie</l>
+<l>On vante de tout temps les merveilleux effets ;</l>
+<pagenum num="440"/>
+<l>Mais les contes fameux qui partout en sont faits</l>
+<l>Dans mon esprit toujours ont passé pour folie ;</l>
+<l>Et ce seroit du sort une étrange rigueur,</l>
+<l>Qu’au sortir d’une ample victoire</l>
+<l>Je fusse contraint de les croire</l>
+<l>Aux dépens de mon propre honneur.</l>
+<l>Je veux la retâter sur ce fâcheux mystère,</l>
+<l>Et voir si ce n’est point une vaine chimère</l>
+<l>Qui sur ses sens troublés ait su prendre crédit.</l>
+<l>Ah ! fasse le ciel équitable</l>
+<l>Que ce penser soit véritable,</l>
+<l>Et que, pour mon bonheur, elle ait perdu l’esprit !</l>
+
+<h3 id="p19">SCÈNE II. — MERCURE, AMPHITRYON</h3>
+
+<hstage><speaker>MERCURE</speaker>, sur le balcon de la maison d’Amphitryon, sans être vu ni entendu d’Amphitryon.</hstage>
+<l>Comme l’amour ici ne m’offre aucun plaisir,</l>
+<l>Je m’en veux faire au moins qui soient d’autre nature,</l>
+<l>Et je vais égayer mon sérieux loisir</l>
+<l>A mettre Amphitryon hors de toute mesure.</l>
+<l>Cela n’est pas d’un dieu bien plein de charité ;</l>
+<l>Mais aussi n’est-ce pas ce dont je m’inquiète ;</l>
+<l>Et je me sens, par ma planète,</l>
+<l>A la malice un peu porté.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>D’où vient donc qu’à cette heure on ferme cette porte ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Holà ! tout doucement. Qui frappe ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, sans voir Mercure.</hstage>
+<l>Moi.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Qui, moi ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, apercevant Mercure, qu’il prend pour Sosie.</hstage>
+<l>Ah ! ouvre.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Comment, ouvre ! et qui donc es-tu, toi.</l>
+<l>Qui fais tant de vacarme et parles de la sorte ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Quoi ! tu ne me connois pas ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Non.</l>
+<l>Et n’en ai pas la moindre envie.</l>
+
+<pagenum num="441"/>
+
+<hstage><speaker>AMPHITRYON</speaker>, à part.</hstage>
+<l>Tout le monde perd-il aujourd’hui la raison ?</l>
+<l>Est-ce un mal répandu ? Sosie ! holà, Sosie !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Eh bien, Sosie ! oui, c’est mon nom,</l>
+<l>As-tu peur que je ne l’oublie ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Me vois-tu bien ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Fort bien. Qui peut pousser ton bras</l>
+<l>A faire une rumeur si grande ?</l>
+<l>Et que demandes-tu là-bas ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Moi, pendard ! ce que je demande ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Que ne demandes-tu donc pas ?</l>
+<l>Parle, si tu veux qu’on t’entende.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Attends, traître : avec un bâton</l>
+<l>Je vais là-haut me faire entendre,</l>
+<l>Et de bonne façon d’apprendre</l>
+<l>A m’oser parler sur ce ton !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Tout beau ! si pour heurter tu fais la moindre instance,</l>
+<l>Je t’enverrai d’ici des messagers fâcheux.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>O ciel ! vit-on jamais une telle insolence ?</l>
+<l>La peut-on concevoir d’un serviteur, d’un gueux ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Eh bien, qu’est-ce ? M’as-tu tout parcouru par ordre ?</l>
+<l>M’as-tu de tes gros yeux assez considéré ?</l>
+<l>Comme il les écarquille, et paroît effaré !</l>
+<l>Si des regards on pouvoit mordre,</l>
+<l>Il m’auroit déjà déchiré.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Moi-même je frémis de ce que tu t’apprêtes</l>
+<l>Avec ces impudents propos.</l>
+<l>Que tu grossis pour toi d’effroyables tempêtes !</l>
+<l>Quels orages de coups vont fondre sur ton dos !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>L’ami, si de ces lieux tu ne veux disparaître,</l>
+<pagenum num="442"/>
+<l>Tu pourras y gagner quelque contusion.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ah ! tu sauras, maraud, à ta confusion,</l>
+<l>Ce que c’est qu’un valet qui s’attaque à son maître !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Toi, mon maître ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Oui, coquin ! M’oses-tu méconnoître ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Je n’en reconnois point d’autre qu’Amphitryon.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Et cet Amphitryon, qui, hors moi, le peut être ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Amphitryon ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Sans doute.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Ah ! quelle vision !</l>
+<l>Dis-nous un peu, quel est le cabaret honnête</l>
+<l>Où tu t’es coiffé le cerveau ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Comment ! encore ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Étoit-ce un vin à faire fête ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ciel !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Étoit-il vieux, ou nouveau ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Que de coups !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Le nouveau donne fort dans la tête,</l>
+<l>Quand on le veut boire sans eau.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ah ! je t’arracherai cette langue, sans doute !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Passe, mon pauvre ami, crois-moi ;</l>
+<l>Que quelqu’un ici ne t’écoute.</l>
+<l>Je respecte le vin. Va-t’en, retire-toi,</l>
+<l>Et laisse Amphitryon dans les plaisirs qu’il goûte.</l>
+
+<pagenum num="443"/>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Comment ! Amphitryon est là dedans ?</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Fort bien ;</l>
+<l>Qui, couvert des lauriers d’une victoire pleine,</l>
+<l>Est auprès de la belle Alcmène,</l>
+<l>A jouir des douceurs d’un aimable entretien.</l>
+<l>Après le démêlé d’un amoureux caprice,</l>
+<l>Ils goûtent le plaisir de s’être rajustés,</l>
+<l>Garde-toi de troubler leurs douces privautés,</l>
+<l>Si tu ne veux qu’il ne punisse</l>
+<l>L’excès de tes témérités.</l>
+
+<h3 id="p20">SCÈNE III. — AMPHITRYON, <i>seul.</i></h3>
+
+<l>Ah ! quel étrange coup m’a-t-il porté dans l’âme !</l>
+<l>En quel trouble cruel jette-t-il mon esprit !</l>
+<l>Et, si les choses sont comme le traître dit,</l>
+<l>Où vois-je ici réduits mon honneur et ma flamme !</l>
+<l>A quel parti me doit résoudre ma raison ?</l>
+<l>Ai-je l’éclat ou le secret à prendre<noteref noteid="note.443.1"/> ?</l>
+<l>Et dois-je, en mon courroux, renfermer ou répandre</l>
+<l>Le déshonneur de ma maison ?</l>
+<l>Ah ! faut-il consulter dans un affront si rude ?</l>
+<l>Je n’ai rien à prétendre et rien à ménager ;</l>
+<l>Et toute mon inquiétude</l>
+<l>Ne doit aller qu’à me venger.</l>
+
+<notes>
+  <note id="note.443.1">
+    <p>Ellipse pour : Ai-je à prendre le parti de l’éclat ou celui du secret ?</p>
+  </note>
+</notes>
+
+<h3 id="p21">SCÈNE IV. — AMPHITRYON, SOSIE ; NAUCRATÈS <i>et</i> POLIDAS, <i>dans le fond du théâtre</i>.</h3>
+
+<hstage><speaker>SOSIE</speaker>, à Amphitryon.</hstage>
+<l>Monsieur, avec mes soins, tout ce que j’ai pu faire,</l>
+<l>C’est de vous amener ces messieurs que voici.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ah ! vous voilà !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Monsieur !</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Insolent ! téméraire !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Quoi ?</l>
+
+<pagenum num="444"/>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Je vous apprendrai de me traiter ainsi !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Qu’est-ce donc ? qu’avez-vous ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, mettant l’épêe à la main.</hstage>
+<l>Ce que j’ai, misérable !</l>
+
+<hstage><speaker>SOSIE</speaker>, à Naucratès et à Polidas.</hstage>
+<l>Holà, messieurs ! venez donc tôt.</l>
+
+<hstage><speaker>NAUCRATÈS</speaker>, à Amphitryon.</hstage>
+<l>Ah ! de grâce, arrêtez !</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>De quoi suis-je coupable ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Tu me le demandes, maraud !</l>
+<pstage>A Naucratès.</pstage>
+<l>Laissez-moi satisfaire un courroux légitime.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Lorsque l’on pend quelqu’un, on lui dit pourquoi c’est.</l>
+
+<hstage><speaker>NAUCRATÈS</speaker>, à Amphitryon.</hstage>
+<l>Daignez nous dire au moins quel peut être son crime.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Messieurs, tenez bon, s’il vous plaît.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Comment ! il vient d’avoir l’audace</l>
+<l>De me fermer la porte au nez,</l>
+<l>Et de joindre encor la menace</l>
+<l>A mille propos effrénés !</l>
+<pstage>Voulant le frapper.</pstage>
+<l>Ah ! coquin !</l>
+
+<hstage><speaker>SOSIE</speaker>, tombant à genoux.</hstage>
+<l>Je suis mort !</l>
+
+<hstage><speaker>NAUCRATÈS</speaker>, à Amphitryon.</hstage>
+<l>Calmez cette colère.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Messieurs !</l>
+
+<hstage><speaker>POLIDAS</speaker>, à Sosie.</hstage>
+<l>Qu’est-ce ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>M’a-t-il frappé ?</l>
+
+<pagenum num="445"/>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Non, il faut qu’il ait le salaire</l>
+<l>Des mots où tout à l’heure il s’est émancipé.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Comment cela se peut-il faire,</l>
+<l>Si j’étois par votre ordre autre part occupé ?</l>
+<l>Ces messieurs sont ici pour rendre témoignage</l>
+<l>Qu’à dîner avec vous je les viens d’inviter.</l>
+
+<hstage><speaker>NAUCRATÈS</speaker></hstage>
+<l>Il est vrai qu’il nous vient de faire ce message,</l>
+<l>Et n’a point voulu nous quitter.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Qui t’a donné cet ordre ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Vous.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Et quand ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Après votre paix faite,</l>
+<l>Au milieu des transports d’une âme satisfaite</l>
+<l>D’avoir d’Alcmène apaisé le courroux.</l>
+<pstage>Sosie se relève.</pstage>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>O ciel ! chaque instant, chaque pas,</l>
+<l>Ajoute quelque chose à mon cruel martyre ;</l>
+<l>Et, dans ce fatal embarras,</l>
+<l>Je ne sais plus que croire ni que dire.</l>
+
+<hstage><speaker>NAUCRATÈS</speaker></hstage>
+<l>Tout ce que de chez vous il vient de nous conter</l>
+<l>Surpasse si fort la nature,</l>
+<l>Qu’avant que de rien faire et de vous emporter,</l>
+<l>Vous devez éclaircir toute cette aventure.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Allons ; vous y pourrez seconder mon effort ;</l>
+<l>Et le ciel à propos ici vous a fait rendre.</l>
+<l>Voyons quelle fortune en ce jour peut m’attendre ;</l>
+<l>Débrouillons ce mystère, et sachons notre sort.</l>
+<l>Hélas ! je brûle de l’apprendre,</l>
+<l>Et je le crains plus que la mort.</l>
+<pstage>Amphitryon frappe à la porte de sa maison.</pstage>
+
+<pagenum num="446"/>
+
+<h3 id="p22">SCÈNE V. — JUPITER, AMPHITRYON, NAUCRATÈS, POLIDAS, SOSIE</h3>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Quel bruit à descendre m’oblige,</l>
+<l>Et qui frappe en maître où je suis ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Que vois-je ? justes dieux !</l>
+
+<hstage><speaker>NAUCRATÈS</speaker></hstage>
+<l>Ciel ! quel est ce prodige ?</l>
+<l>Quoi ! deux Amphitryons ici nous sont produits !</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, à part.</hstage>
+<l>Mon âme demeure transie !</l>
+<l>Hélas ! je n’en puis plus, l’aventure est à bout ;</l>
+<l>Ma destinée est éclaircie,</l>
+<l>Et ce que je vois me dit tout.</l>
+
+<hstage><speaker>NAUCRATÈS</speaker></hstage>
+<l>Plus mes regards sur eux s’attachent fortement,</l>
+<l>Plus je trouve qu’en tout l’un et l’autre est semblable.</l>
+
+<hstage><speaker>SOSIE</speaker>, passant du côté de Jupiter.</hstage>
+<l>Messieurs, voici le véritable ;</l>
+<l>L’autre est un imposteur, digne de châtiment.</l>
+
+<hstage><speaker>POLIDAS</speaker></hstage>
+<l>Certes, ce rapport admirable</l>
+<l>Suspend ici mon jugement.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>C’est trop être éludés<noteref noteid="note.446.1"/> par un fourbe exécrable ;</l>
+<l>Il faut avec ce fer rompre l’enchantement.</l>
+
+<notes>
+  <note id="note.446.1">
+    <p>Traduction littérale du participe latin <i>elusus</i>, qui veut dire trompé, dupé, joué.</p>
+  </note>
+</notes>
+
+<hstage><speaker>NAUCRATÈS</speaker>, à Amphitryon, qui a mis l’épêe à la main.</hstage>
+<l>Arrêtez !</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Laissez-moi !</l>
+
+<hstage><speaker>NAUCRATÈS</speaker></hstage>
+<l>Dieux ! que voulez-vous faire ?</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Punir d’un imposteur les lâches trahisons.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Tout beau ! l’emportement est fort peu nécessaire ;</l>
+<l>Et, lorsque de la sorte on se met en colère.</l>
+<l>On fait croire qu’on a de mauvaises raisons.</l>
+
+<pagenum num="447"/>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Oui, c’est un enchanteur qui porte un caractère</l>
+<l>Pour ressembler aux maîtres des maisons.</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, à Sosie.</hstage>
+<l>Je te ferai, pour ton partage,</l>
+<l>Sentir par mille coups ces propos outrageants.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Mon maître est homme de courage,</l>
+<l>Et ne souffrira point que l’on batte ses gens.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Laissez-moi m’assouvir dans mon courroux extrême,</l>
+<l>Et laver mon affront au sang d’un scélérat !</l>
+
+<hstage><speaker>NAUCRATÈS</speaker>, arrêtant Amphitryon.</hstage>
+<l>Nous ne souffrirons point cet étrange combat</l>
+<l>D’Amphitryon contre lui-même.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Quoi ! mon honneur de vous reçoit ce traitement !</l>
+<l>Et mes amis d’un fourbe embrassent la défense !</l>
+<l>Loin d’être les premiers à prendre ma vengeance,</l>
+<l>Eux-mêmes font obstacle à mon ressentiment !</l>
+
+<hstage><speaker>NAUCRATÈS</speaker></hstage>
+<l>Que voulez-vous qu’à cette vue</l>
+<l>Fassent nos résolutions,</l>
+<l>Lorsque par deux Amphitryons</l>
+<l>Toute notre chaleur demeure suspendue ?</l>
+<l>A vous faire éclater notre zèle aujourd’hui,</l>
+<l>Nous craignons de faillir et de vous méconnoître.</l>
+<l>Nous voyons bien en vous Amphitryon paroître,</l>
+<l>Du salut des Thébains le glorieux appui ;</l>
+<l>Mais nous le voyons tous aussi paroître en lui,</l>
+<l>Et ne saurions juger dans lequel il peut être.</l>
+<l>Notre parti n’est point douteux,</l>
+<l>Et l’imposteur par nous doit mordre la poussière ;</l>
+<l>Mais ce parfait rapport le cache entre vous deux ;</l>
+<l>Et c’est un coup trop hasardeux</l>
+<l>Pour l’entreprendre sans lumière.</l>
+<l>Avec douceur laissez-nous voir</l>
+<l>De quel côté peut être l’imposture ;</l>
+<l>Et, dès que nous aurons démêlé l’aventure,</l>
+<l>Il ne nous faudra point dire notre devoir.</l>
+
+<pagenum num="448"/>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Oui, vous avez raison ; et cette ressemblance</l>
+<l>A douter de tous deux vous peut autoriser :</l>
+<l>Je ne m’offense point de vous voir en balance ;</l>
+<l>Je suis plus raisonnable, et sais vous excuser.</l>
+<l>L’œil ne peut entre nous faire de différence,</l>
+<l>Et je vois qu’aisément on s’y peut abuser,</l>
+<l>Vous ne me voyez point témoigner de colère,</l>
+<l>Point mettre l’épée à la main ;</l>
+<l>C’est un mauvais moyen d’éclaircir ce mystère,</l>
+<l>Et j’en puis trouver un plus doux et plus certain.</l>
+<l>L’un de nous est Amphitryon ;</l>
+<l>Et tous deux à vos yeux nous le pouvons paroître.</l>
+<l>C’est à moi de finir cette confusion,</l>
+<l>Et je prétends me faire à tous si bien connoître,</l>
+<l>Qu’aux pressantes clartés de ce que je puis être</l>
+<l>Lui-même soit d’accord du sang qui m’a fait naître,</l>
+<l>Et n’ait plus de rien dire aucune occasion.</l>
+<l>C’est aux yeux des Thébains que je veux avec vous</l>
+<l>De la vérité pure ouvrir la connoissance ;</l>
+<l>Et la chose sans doute est assez d’importance</l>
+<l>Pour affecter la circonstance</l>
+<l>De l’éclaircir aux yeux de tous.</l>
+<l>Alcmène attend de moi ce public témoignage ;</l>
+<l>Sa vertu, que l’éclat de ce désordre outrage,</l>
+<l>Veut qu’on la justifie, et j’en vais prendre soin.</l>
+<l>C’est à quoi mon amour envers elle m’engage,</l>
+<l>Et des plus nobles chefs je fais un assemblage</l>
+<l>Pour l’éclaircissement dont sa gloire a besoin.</l>
+<l>Attendant avec vous ces témoins souhaités,</l>
+<l>Ayez, je vous prie, agréable</l>
+<l>De venir honorer la table</l>
+<l>Où vous a Sosie invités.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Je ne me trompois pas, messieurs ; ce mot termine</l>
+<l>Toute l’irrésolution ;</l>
+<l>Le véritable Amphitryon</l>
+<l>Est l’Amphitryon où l’on dîne<noteref noteid="note.448.1"/>.</l>
+
+<notes>
+  <note id="note.448.1">
+    <p>Excellente saillie comique qui est devenue proverbe.</p>
+  </note>
+</notes>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>O ciel ! puis-je plus bas me voir humilié ?</l>
+<l>Quoi ! faut-il que j’entende ici, pour mon martyre,</l>
+<pagenum num="449"/>
+<l>Tout ce que l’imposteur à mes yeux vient de dire,</l>
+<l>Et que, dans la fureur que ce discours m’inspire,</l>
+<l>On me tienne le bras lié !</l>
+
+<hstage><speaker>NAUCRATÈS</speaker>, à Amphitryon.</hstage>
+<l>Vous vous plaignez à tort. Permettez-nous d’attendre</l>
+<l>L’éclaircissement qui doit rendre</l>
+<l>Les ressentiments de saison.</l>
+<l>Je ne sais pas s’il impose,</l>
+<l>Mais il parle sur la chose</l>
+<l>Comme s’il avoit raison.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Allez, foibles amis, et flattez l’imposture :</l>
+<l>Thèbes en a pour moi de tout autres que vous ;</l>
+<l>Et je vais en trouver qui, partageant l’injure,</l>
+<l>Sauront prêter la main à mon juste courroux.</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Eh bien, je les attends, et saurai décider</l>
+<l>Le différend en leur présence.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Fourbe, tu crois par là peut-être t’évader ;</l>
+<l>Mais rien ne te sauroit sauver de ma vengeance !</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>A ces injurieux propos</l>
+<l>Je ne daigne à présent répondre ;</l>
+<l>Et tantôt je saurai confondre</l>
+<l>Cette fureur avec deux mots.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Le ciel même, le ciel ne t’y sauroit soustraire ;</l>
+<l>Et jusques aux enfers j’irai suivre tes pas !</l>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Il ne sera pas nécessaire ;</l>
+<l>Et l’on verra tantôt que je ne fuirai pas.</l>
+
+<hstage><speaker>AMPHITRYON</speaker>, à part.</hstage>
+<l>Allons, courons, avant que d’avec eux il sorte,</l>
+<l>Assembler des amis qui suivent mon courroux ;</l>
+<l>Et chez moi venons à main forte</l>
+<l>Pour le percer de mille coups.</l>
+
+<pagenum num="450"/>
+
+<h3 id="p23">SCÈNE VI. — JUPITER, NAUCRATÈS, POLIDAS, SOSIE</h3>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Point de façon, je vous conjure ;</l>
+<l>Entrons vite dans la maison.</l>
+
+<hstage><speaker>NAUCRATÈS</speaker></hstage>
+<l>Certes, toute cette aventure</l>
+<l>Confond le sens et la raison.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Faites trêve, messieurs, à toutes vos surprises,</l>
+<l>Et, pleins de joie, allez tabler<noteref noteid="note.450.1"/> jusqu’à demain.</l>
+<pstage>Seul.</pstage>
+<l>Que je vais m’en donner, et me mettre en beau train</l>
+<l>De raconter nos vaillantises !</l>
+<l>Je brûle d’en venir aux prises ;</l>
+<l>Et jamais je n’eus tant de faim.</l>
+
+<notes>
+  <note id="note.450.1">
+    <p>Molière est peut-être le seul écrivain qui ait donné à ce verbe l’acception qu’il a ici, celle de <i>tenir table</i>. (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p24">SCÈNE VII. — MERCURE, SOSIE</h3>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Arrête ! Quoi ! tu viens ici mettre ton nez,</l>
+<l>Impudent fleureur<noteref noteid="note.450.2"/> de cuisine !</l>
+
+<notes>
+  <note id="note.450.2">
+    <p>On a dit depuis <i>flaireur.</i></p>
+  </note>
+</notes>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Ah ! de grâce, tout doux !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Ah ! vous y retournez !</l>
+<l>Je vous ajusterai l’échine.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Hélas : brave et généreux moi,</l>
+<l>Modère-toi, je t’en supplie ;</l>
+<l>Sosie, épargne un peu Sosie,</l>
+<l>Et ne te plais point tant à frapper dessus toi.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Qui de t’appeler de ce nom</l>
+<l>A pu te donner la licence ?</l>
+<l>Ne t’en ai-je pas fait une expresse défense,</l>
+<l>Sous peine d’essuyer mille coups de bâton ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>C’est un nom que tous deux nous pouvons à la fois</l>
+<pagenum num="451"/>
+<l>Posséder sous un même maître.</l>
+<l>Pour Sosie en tous lieux on sait me reconnoître ;</l>
+<l>Je souffre bien que tu le sois,</l>
+<l>Souffre aussi que je le puisse être.</l>
+<l>Laissons aux deux Amphitryons</l>
+<l>Faire éclater des jalousies ;</l>
+<l>Et, parmi leurs contentions,</l>
+<l>Faisons en bonne paix vivre les deux Sosies.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Non, c’est assez d’un seul, et je suis obstiné</l>
+<l>A ne point souffrir de partage.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Du pas devant sur moi tu prendras l’avantage :</l>
+<l>Je serai le cadet, et tu seras l’aîné.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Non ! un frère incommode, et n’est pas de mon goût,</l>
+<l>Et je veux être fils unique.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>O cœur barbare et tyrannique !</l>
+<l>Souffre qu’au moins je sois ton ombre.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Point du tout.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Que d’un peu de pitié ton âme s’humanise ;</l>
+<l>En cette qualité souffre-moi près de toi :</l>
+<l>Je te serai partout une ombre si soumise,</l>
+<l>Que tu seras content de moi.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Point de quartier ; immuable est la loi.</l>
+<l>Si d’entrer là dedans tu prends encor l’audace,</l>
+<l>Mille coups en seront le fruit.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Las ! à quelle étrange disgrâce,</l>
+<l>Pauvre Sosie, es-tu réduit !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Quoi ! ta bouche se licencie</l>
+<l>A te donner encore un nom que je défends ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Non, ce n’est pas moi que j’entends.</l>
+<l>Et je parle d’un vieux Sosie</l>
+<l>Qui fut jadis de mes parents,</l>
+<pagenum num="452"/>
+<l>Qu’avec très grande barbarie,</l>
+<l>A l’heure du dîner, l’on chassa de céans.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Prends garde de tomber dans cette frénésie,</l>
+<l>Si tu veux demeurer au nombre des vivants.</l>
+
+<hstage><speaker>SOSIE</speaker>, à part.</hstage>
+<l>Que je te rosserois si j’avois du courage,</l>
+<l>Double fils de putain, de trop d’orgueil enflé !</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Que dis-tu ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Rien.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Tu tiens, je crois, quelque langage.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Demandez, je n’ai pas soufflé.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Certain mot de fils de putain</l>
+<l>A pourtant frappé mon oreille,</l>
+<l>Il n’est rien de plus certain.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>C’est donc un perroquet que le beau temps réveille.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Adieu. Lorsque le dos pourra te démanger,</l>
+<l>Voilà l’endroit où je demeure.</l>
+
+<hstage><speaker>SOSIE</speaker>, seul</hstage>
+<l>O ciel ! que l’heure de manger.</l>
+<l>Pour être mis dehors, est une maudite heure !</l>
+<l>Allons, cédons au sort dans notre affliction,</l>
+<l>Suivons-en aujourd’hui l’aveugle fantaisie ;</l>
+<l>Et, par une juste union,</l>
+<l>Joignons le malheureux Sosie</l>
+<l>Au malheureux Amphitryon.</l>
+<l>Je l’aperçois venir en bonne compagnie.</l>
+
+<h3 id="p25">SCÈNE VIII. — AMPHITRYON, ARGATIPHONTIDAS, PAUSICLÈS ; SOSIE, <i>dans un coin du théâtre, sans être aperçu.</i></h3>
+
+<hstage><speaker>AMPHITRYON</speaker>, à plusieurs autres officiers qui l’accompagnent.</hstage>
+<l>Arrêtez là, messieurs ; suivez-nous d’un peu loin,</l>
+<l>Et n’avancez tous, je vous prie,</l>
+<pagenum num="453"/>
+<l>Que quand il en sera besoin.</l>
+
+<hstage><speaker>PAUSICLÈS</speaker></hstage>
+<l>Je comprends que ce coup doit fort toucher votre âme.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ah ! de tous les côtés mortelle est ma douleur.</l>
+<l>Et je souffre pour ma flamme</l>
+<l>Autant que pour mon honneur.</l>
+
+<hstage><speaker>PAUSICLÈS</speaker></hstage>
+<l>Si cette ressemblance est telle que l’on dit,</l>
+<l>Alcmène, sans être coupable...</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Ah ! sur le fait dont il s’agit</l>
+<l>L’erreur simple devient un crime véritable,</l>
+<l>Et sans consentement l’innocence y périt.</l>
+<l>De semblables erreurs, quelque jour qu’on leur donne,</l>
+<l>Touchent les endroits délicats ;</l>
+<l>Et la raison bien souvent les pardonne,</l>
+<l>Que l’honneur et l’amour ne les pardonnent pas.</l>
+
+<hstage><speaker>ARGATIPHONTIDAS</speaker></hstage>
+<l>Je n’embarrasse point là dedans ma pensée :</l>
+<l>Mais je hais vos messieurs de leurs honteux délais ;</l>
+<l>Et c’est un procédé dont j’ai l’âme blessée,</l>
+<l>Et que les gens de cœur n’approuveront jamais.</l>
+<l>Quand quelqu’un nous emploie, on doit, tête baissée,</l>
+<l>Se jeter dans ses intérêts.</l>
+<l>Argatiphontidas ne va point aux accords.</l>
+<l>Écouter d’un ami raisonner l’adversaire,</l>
+<l>Pour des hommes d’honneur n’est point un coup à faire.</l>
+<l>Il ne faut écouter que la vengeance alors.</l>
+<l>Le procès ne me sauroit plaire,</l>
+<l>Et l’on doit commencer toujours, dans ses transports,</l>
+<l>Par donner, sans autre mystère,</l>
+<l>De l’épée au travers du corps.</l>
+<l>Oui, vous verrez, quoi qu’il advienne,</l>
+<l>Qu’Argatiphontidas marche droit sur ce point :</l>
+<l>Et de vous il faut que j’obtienne</l>
+<l>Que le pendard ne meure point</l>
+<l>D’une autre main que de la mienne.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Allons.</l>
+
+<hstage><speaker>SOSIE</speaker>, à Amphitryon.</hstage>
+<l>Je viens, monsieur, subir, à deux genoux,</l>
+<pagenum num="454"/>
+<l>Le juste châtiment d’une audace maudite,</l>
+<l>Frappez, battez, chargez, accablez-moi de coups,</l>
+<l>Tuez-moi dans votre courroux,</l>
+<l>Vous ferez bien, je le mérite ;</l>
+<l>Et je n’en dirai pas un seul mot contre vous.</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Lève-toi. Que fait-on ?</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>L’on m’a chassé tout net ;</l>
+<l>Et, croyant à manger m’aller comme eux ébattre.</l>
+<l>Je ne songeois pas qu’en effet</l>
+<l>Je m’attendois là pour me battre.</l>
+<l>Oui, l’autre moi, valet de l’autre vous, a fait</l>
+<l>Tout de nouveau le diable à quatre.</l>
+<l>La rigueur d’un pareil destin,</l>
+<l>Monsieur, aujourd’hui nous talonne ;</l>
+<l>Et l’on me des-Sosie enfin</l>
+<l>Comme on vous des-Amphitryonne<noteref noteid="note.454.1"/>.</l>
+
+<notes>
+  <note id="note.454.1">
+    <p><i>Des-Sosie</i> et <i>des-Amphitryonne</i> sont des expressions plaisantes dont le sens et le <correction original="se">sel</correction> seraient évidemment affaiblis par la périphrase la mieux faite. Il en est de même du mot <i>tartufflé.</i> (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Suis-moi.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>N’est-il pas mieux de voir s’il vient personne ?</l>
+
+<h3 id="p26">SCÈNE IX. — CLÉANTHIS, AMPHITRYON, ARGATIPHONTIDAS, POLIDAS, NAUCRATÈS, PAUSICLÈS, SOSIE</h3>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>O ciel !</l>
+
+<hstage><speaker>AMPHITRYON</speaker></hstage>
+<l>Qui t’épouvante ainsi ?</l>
+<l>Quelle est la peur que je t’inspire ?</l>
+
+<hstage><speaker>CLÉANTHIS</speaker></hstage>
+<l>Las ! vous êtes là-haut, et je vous vois ici !</l>
+
+<hstage><speaker>NAUCRATÈS</speaker>, à Amphitryon.</hstage>
+<l>Ne vous pressez point ; le voici</l>
+<l>Pour donner devant tous les clartés qu’on désire,</l>
+<l>Et qui, si l’on peut croire à ce qu’il vient de dire,</l>
+<l>Sauront vous affranchir de trouble et de souci.</l>
+
+<pagenum num="455"/>
+
+<h3 id="p27">SCÈNE X. — MERCURE, AMPHITRYON, ARGATIPHONTIDAS, POLIDAS, NAUCRATÈS, PAUSICLÈS, CLÉANTHIS, SOSIE.</h3>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Oui, vous l’allez voir tous ; et sachez par avance</l>
+<l>Que c’est le grand maître des dieux</l>
+<l>Que, sous les traits chéris de cette ressemblance,</l>
+<l>Alcmène a fait du ciel descendre dans ces lieux.</l>
+<l>Et quant à moi, je suis Mercure,</l>
+<l>Qui, ne sachant que faire, ai rossé tant soit peu</l>
+<l>Celui dont j’ai pris la figure :</l>
+<l>Mais de s’en consoler il a maintenant lieu ;</l>
+<l>Et les coups de bâton d’un dieu</l>
+<l>Font honneur à qui les endure.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Ma foi, monsieur le dieu, je suis votre valet :</l>
+<l>Je me serois passé de votre courtoisie.</l>
+
+<hstage><speaker>MERCURE</speaker></hstage>
+<l>Je lui donne à présent congé<noteref noteid="note.455.1"/> d’être Sosie</l>
+<l>Je suis las de porter un visage si laid ;</l>
+<l>Et je m’en vais au ciel, avec de l’ambroisie,</l>
+<l>M’en débarbouiller tout à fait.</l>
+<pstage>Mercure s’envole au ciel.</pstage>
+
+<notes>
+  <note id="note.455.1">
+    <p>Licence, permission.</p>
+  </note>
+</notes>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Le ciel de m’approcher t’ôte à jamais l’envie :</l>
+<l>Ta fureur s’est par trop acharnée après moi ;</l>
+<l>Et je ne vis de ma vie</l>
+<l>Un dieu plus diable que toi.</l>
+
+<h3 id="p28">SCÈNE XI. — JUPITER, AMPHITRYON, NAUCRATÈS, ARGATIPHONTIDAS, POLIDAS, PAUSICLÈS, CLÉANTHIS, SOSIE.</h3>
+
+<hstage><speaker>JUPITER</speaker>, annoncé par le bruit du tonnerre, armé de son foudre, dans un nuage, sur son aigle.</hstage>
+<l>Regarde, Amphitryon, quel est ton imposteur,</l>
+<l>Et sous tes propres traits vois Jupiter paroître.</l>
+<l>A ces marques tu peux aisément le connoître ;</l>
+<l>Et c’est assez, je crois, pour remettre ton cœur</l>
+<l>Dans l’état auquel il doit être,</l>
+<l>Et rétablir chez toi la paix et la douceur.</l>
+<pagenum num="456"/>
+<l>Mon nom, qu’incessamment toute la terre adore,</l>
+<l>Étouffe ici les bruits qui pouvoient éclater.</l>
+<l>Un partage avec Jupiter</l>
+<l>N’a rien du tout qui déshonore ;</l>
+<l>Et, sans doute, il ne peut être que glorieux</l>
+<l>De se voir le rival du souverain des dieux.</l>
+<l>Je n’y vois pour ta flamme aucun lieu de murmure ;</l>
+<l>Et c’est moi, dans cette aventure,</l>
+<l>Qui, tout dieu que je suis, dois être le jaloux.</l>
+<l>Alcmène est toute à toi, quelque soin qu’on emploie ;</l>
+<l>Et ce doit à tes feux être un objet bien doux</l>
+<l>De voir que pour lui plaire il n’est point d’autre voie</l>
+<l>Que de paroître son époux ;</l>
+<l>Que Jupiter, orné de sa gloire immortelle,</l>
+<l>Par lui-même n’a pu triompher de sa foi ;</l>
+<l>Et que ce qu’il a reçu d’elle</l>
+<l>N’a, par son cœur ardent, été donné qu’à toi.</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Le seigneur Jupiter sait dorer la pilule<noteref noteid="note.456.1"/>.</l>
+
+<notes>
+  <note id="note.456.1">
+    <p>L’idée de ce vers appartient à Rotrou :</p>
+    <blockquote>
+      <l>On appelle cela lui sucrer le breuvage.</l>
+    </blockquote>
+    <p>Molière n*a fait que changer l’image.</p>
+  </note>
+</notes>
+
+<hstage><speaker>JUPITER</speaker></hstage>
+<l>Sors donc des noirs chagrins que ton cœur a soufferts,</l>
+<l>Et rends le calme entier à l’ardeur qui te brûle :</l>
+<l>Chez toi doit naître un fils qui, sous le nom d’Hercule,</l>
+<l>Remplira de ses faits tout le vaste univers.</l>
+<l>L’éclat d’une fortune en mille biens féconde</l>
+<l>Fera connaître à tous que je suis ton support ;</l>
+<l>Et je mettrai tout le monde</l>
+<l>Au point d’envier ton sort.</l>
+<l>Tu peux hardiment te flatter</l>
+<l>De ces espérances données.</l>
+<l>C’est un crime que d’en douter :</l>
+<l>Les paroles de Jupiter</l>
+<l>Sont des arrêts des destinées.</l>
+<pstage>Il se perd dans les nues.</pstage>
+
+<hstage><speaker>NAUCRATÈS</speaker></hstage>
+<l>Certes, je suis ravi de ces marques brillantes...</l>
+
+<hstage><speaker>SOSIE</speaker></hstage>
+<l>Messieurs, voulez-vous bien suivre mon sentiment ?</l>
+<l>Ne vous embarquez nullement</l>
+<pagenum num="457"/>
+<l>Dans ces douceurs congratulantes</l>
+<l>C’est un mauvais embarquement ;</l>
+<l>Et d’une et d’autre part, pour un tel compliment,</l>
+<l>Les phrases sont embarrassantes.</l>
+<l>Le grand dieu Jupiter nous fait beaucoup d’honneur,</l>
+<l>Et sa bonté, sans doute, est pour nous sans seconde.</l>
+<l>Il nous promet l’infaillible bonheur</l>
+<l>D’une fortune en mille biens féconde,</l>
+<l>Et chez nous il doit naître un fils d’un très grand cœur :</l>
+<l>Tout cela va le mieux du monde :</l>
+<l>Mais enfin, coupons aux discours,</l>
+<l>Et que chacun chez soi doucement se retire.</l>
+<l>Sur telles affaires toujours</l>
+<l>Le meilleur est de ne rien dire.</l>
+
+</page-sequence>
+</page-sequences>
+</bml>

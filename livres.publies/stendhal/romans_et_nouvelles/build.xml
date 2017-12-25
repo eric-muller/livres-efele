@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_preface'/>
+    <book x='02_le_rose_et_le_vert'/>
+    <book x='03_mina_de_vanghel'/>
+    <book x='04_souvenirs_d_un_gentilhomme_italien'/>
+    <book x='05_le_juif'/>
+    <book x='06_le_coffre_et_le_revenant'/>
+    <book x='07_le_philtre'/>
+    <book x='08_le_chevalier_de_saint_ismier'/>
+    <book x='09_philibert_lescale'/>
+    <book x='10_feder'/>
+  </target>
+
+  <target name='collections'>
+    <collection  x='romans_et_nouvelles'/>
+  </target>
+
+</project>
+

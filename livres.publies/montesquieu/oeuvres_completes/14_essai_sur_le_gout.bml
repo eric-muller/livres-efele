@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb309702138">
+
+      <titre>Œuvres complètes de Montesquieu</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119166485">
+        <nom-bibliographie>Montesquieu, Charles-Louis de Secondat</nom-bibliographie>
+        <dates>1689-1755</dates>
+        <nom-couverture>Montesquieu</nom-couverture>
+      </auteur>
+      
+      <auteur role='edt' bnf="http://catalogue.bnf.fr/ark:/12148/cb12280806q">
+        <nom-bibliographie>Laboulaye, Édouard</nom-bibliographie>
+        <dates>1811-1883</dates>
+        <nom-couverture>Édouard Laboulaye</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>Garnier Frères</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+     <date>1875-1879</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume id="v7">
+      <facsimile href="http://books.google.com/books?id=oZsGAAAAQAAJ"
+                 pages="n0"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000115"
+        creation="2010-12-26T00:00:02-08:00"
+        modification="2014-12-31T18:14:32-08:00">
+
+      <surtitre>Œuvres complètes</surtitre>
+      <titre>Essai sur le goût</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00002'>
+        <titre>Œuvres complètes de Montesquieu, édition Laboulaye</titre>
+      </collection>
+
+      <merci>
+        <p>Merci à Mohamed Sebaa pour les erreurs qu’il a signalées.</p>
+      </merci>
+
+      <note>
+        <p>L’orthographe a été modernisée en remplaçant <i>oi</i> par <i>ai</i> (par example <i>étoit</i> remplacé par <i>était</i>).</p>
+
+        <p>Les notes de Montesquieu ainsi que les notes éditoriales de Laboulaye suivent immédiatement le texte, et sont numérotées 1, 2, 3,... Les variantes sont placées à la fin du volume, et son numérotées a, b, c,... Dans les deux cas, l’appel de note et le numéro de la note sont hyperliés.</p>
+      </note>
+    </electronique>
+  </metadata>
+
+  <toc/>
+
+  <cover src="images/couverture-7.png" alt=""/>
+
+<page-sequences>
+
+<div id="avertissement" toc="Avertissement de l’éditeur">
+
+<pagenum v="v7" num="113"/>
+
+<h1>AVERTISSEMENT DE L’ÉDITEUR</h1>
+
+<p>D’Alembert, dans son Éloge de Montesquieu, dit :</p>
+
+<vsep class="emptyline"/>
+<p>« Il nous destin<oa/>it un article sur le <i>Goût, </i>qui a été trouvé imparfait dans ses papiers. Nous le donnerons en cet état au public, et nous le traiterons avec le même respect que l’antiquité témoigna autrefois pour les dernières paroles de Sénèque. »</p>
+<vsep class="emptyline"/>
+
+<p>Au tome VII de l’<i>Encyclopédie, </i>publié en 1775, on lit à l’article <i>Goût : </i></p>
+
+<vsep class="emptyline"/>
+<p>« Ce fragment a été trouvé imparfait dans ses papiers. L’auteur n’a pas eu le temps d’y mettre la dernière main ; mais les premières pensées des grands maîtres méritent d’être conservées à la postérité, comme les esquisses des grands peintres. »</p>
+<vsep class="emptyline"/>
+
+<p>Dans les <i>Œuvres posthumes </i>de M. de Montesquieu, Paris, 1783, in-12, on a reproduit ces fragments sous le titre de <i>Réflexions sur les causes du plaisir qu’excitent en nous les ouvrages d’esprit et les productions des beaux-arts. </i>C’est ce texte, donné par le fils de Montesquieu, que nous suivons, tout en ayant soin de reproduire en note les variantes de l’<i>Encyclopédie. </i></p>
+
+<p>A l’origine, le fragment s’arrêtait au chapitre intitulé <i>des Règles ; </i>ce chapitre a été publié dans les <i>Œuvres posthumes, </i>édition de 1798, comme terminant l’<i>Essai sur le goût. </i>On y a joint une histoire merveilleuse, de la vérité de laquelle je n’oser<oa/>is me porter garant<noteref noteid="7-113.1"/>. La fin du morceau a été publiée pour la première fois, en 1804, dans les <i>Annales littéraires, </i>t. II, p. 301.</p>
+
+<note id="7-113.1" type="e">
+<p><i>Au citoyen Walkenaer, à Paris. </i></p>
+<p>P... veut bien se charger de te remettre le manuscrit que je t’ai annoncé. Je souhaiter<oa/>is que le présent fût plus considérable. Ce n’est, à proprement parler, qu’un fragment de l’<i>Essai sur le Goût. </i>Malgré cela, je pense que tu ne parcourras pas sans intérêt ces lignes écrites par Montesquieu et que tu éprouveras un certain sentiment de respect pour ce papier, en songeant aux illustres mains qui l’ont touché. Notre ami le ten<oa/>it du secrétaire de M. de Secondat qui, vers la fin de 1793, lorsque le sang commenç<oa/>it à couler à Bordeaux, jeta au feu beaucoup de papiers et de manuscrits de son père dans la crainte, dis<oa/>it-il, qu’on ne vînt à y découvrir des prétextes pour inquiéter sa famille. Le secrétaire de M. de Secondat, qui l’aidait dans cette fatale opération, à laquelle il essaya en vain de s’opposer, eut la permission de distraire le morceau que je t’envoie...</p>
+<p>[La lettre est datée de Bordeaux, 29 ventôse an IV ; on croit qu’elle est de Millin.]</p>
+</note>
+
+</div>
+
+
+<div id="essai" toc="Essai sur le goût">
+
+<pagenum v="v7" num="115"/>
+<h1>ESSAI SUR LE GOÛT DANS LES CHOSES DE LA NATURE ET DE L’ART</h1>
+
+<p>Dans notre manière d’être actuelle, notre âme goûte trois sortes de plaisirs : il y en a qu’elle tire du fond de son existence même ; d’autres qui résultent de son union avec le corps ; d’autres enfin qui sont fondés sur les plis et les préjugés que de certaines institutions, de certains usages, de certaines habitudes, lui ont fait prendre.</p>
+<p>Ce sont ces différents plaisirs de notre âme qui forment les objets du goût, comme le beau, le bon, l’agréable, le naïf, le délicat, le tendre, le gracieux, le je ne sais quoi, le noble, le grand, le sublime, les majestueux, etc. Par exemple, lorsque nous trouvons du plaisir à voir une chose avec une utilité pour nous, nous disons qu’elle est bonne ; lorsque nous trouvons du plaisir à la voir, sans que nous y démêlions une utilité présente, nous l’appelons belle<noteref noteid="7-115.1"/>.</p>
+
+<note id="7-115.1" type="e">
+<p>Après ce paragraphe on lit dans le texte de l’<i>Encyclopédie : </i></p>
+<p>« Les anciens n’av<oa/>ient pas bien démêlé ceci : ils regard<oa/>ient comme des qualités positives toutes les qualités relatives de notre âme ; ce qui fait que ces dialogues où Platon fait raisonner Socrate, ces dialogues si admirés des anciens, sont aujourd’hui insoutenables, parce qu’ils sont fondés sur une philosophie fausse ; car tous ces raisonnements tirés sur le bon, le beau, le parfait, le sage, le fou, le dur, le mou, le sec, l’humide, traités comme des choses positives, ne signifient plus rien. » (V. <i>Inf. Pensées</i>, p. 159.)</p>
+</note>
+
+<pagenum v="v7" num="116"/>
+
+<p>Les sources du beau, du bon, de l’agréable, etc., sont donc dans nous-mêmes ; et en chercher les raisons, c’est chercher les causes des plaisirs de notre âme.</p>
+<p>Examinons donc notre âme, étudions-la dans ses actions et dans ses passions, cherchons-la dans ses plaisirs ; c’est là où elle se manifeste davantage. La poésie, la peinture, la sculpture, l’architecture, la musique, la danse, les différentes sortes de jeux, enfm les ouvrages de la nature et de l’art peuvent lui donner du plaisir : voyons pourquoi, comment et quand ils le lui donnent ; rendons raison de nos sentiments : cela pourra contribuer à nous former le goût, qui n’est autre chose que l’avantage de découvrir avec finesse et avec promptitude la mesure du plaisir que chaque chose doit donner aux hommes.</p>
+
+<h2><s>DES PLAISIRS DE NOTRE AME.</s></h2>
+
+<p>L’âme, indépendamment des plaisirs qui lui viennent des sens, en a qu’elle aur<oa/>it indépendamment d’eux, et qui lui sont propres : tels sont ceux que lui donnent la curiosité, les idées de sa grandeur, de ses perfections, l’idée de son existence, opposée au sentiment du néant, le plaisir d’embrasser tout d’une idée générale, celui de voir un grand nombre de choses, etc., celui de comparer, de joindre et de séparer les idées. Ces plaisirs sont dans la <pagenum v="v7" num="117"/>nature de l’âme, indépendamment des sens, parce qu’ils appartiennent à tout être qui pense ; et il est fort indifférent d’examiner ici si notre âme a ces plaisirs comme substance unie avec le corps, ou comme séparée du corps, parce qu’elle les a toujours, et qu’ils sont les objets du goût : ainsi nous ne distinguerons point ici les plaisirs qui viennent à l’âme de sa nature, d’avec ceux qui lui viennent de son union avec le corps ; nous appellerons tout cela plaisirs naturels, que nous distinguerons des plaisirs acquis, que l’âme se fait par de certaines liaisons avec les plaisirs naturels ; et de la même manière et par la même raison, nous distinguerons le goût naturel et le goût acquis.</p>
+<p>Il est bon de conn<oa/>ître la source des plaisirs dont le goût est la mesure : la conn<oa/>issance des plaisirs naturels et acquis pourra nous servir à rectifier notre goût naturel et notre goût acquis. Il faut partir de l’état où est notre être, et conn<oa/>ître quels sont ces plaisirs, pour parvenir à les mesurer, et même quelquefois à les sentir.</p>
+<p>Si notre âme n’av<oa/>it point été unie au corps, elle aur<oa/>it connu ; mais il y a apparence qu’elle aur<oa/>it aimé ce qu’elle aur<oa/>it connu : à présent nous n’aimons presque que ce que nous ne conn<oa/>issons pas.</p>
+<p>Notre manière d’être est entièrement arbitraire ; nous pouvions avoir été faits comme nous sommes, ou autrement. Mais si nous avions été faits autrement, nous verrions autrement<noteref noteid="7-117.1"/> ; un organe de plus ou de moins dans notre machine nous aur<oa/>it fait une autre éloquence, une autre poésie ; une contexture différente des mêmes organes aur<oa/>it fait encore une autre poésie : par exemple, si la constitution de nos organes nous av<oa/>it rendus capables <pagenum v="v7" num="118"/>d’une plus longue attention, toutes les règles qui proportionnent la disposition du sujet à la mesure de notre attention ne ser<oa/>ient plus ; si nous avions été rendus capables de plus de pénétration, toutes les règles qui sont fondées sur la mesure de notre pénétration tomber<oa/>ient de même ; enfin toutes les lois établies sur ce que notre machine est d’une certaine façon, ser<oa/>ient différentes si notre machine n’ét<oa/>it pas de cette façon.</p>
+
+<note id="7-117.1" type="e"><p><i>Encyclopédie </i> : Nous aurions senti autrement.</p></note>
+
+<p>Si notre vue av<oa/>it été plus f<oa/>ible et plus confuse, il aur<oa/>it fallu moins de moulures et plus d’uniformité dans les membres de l’architecture ; si notre vue av<oa/>it été plus distincte, et notre âme capable d’embrasser plus de choses à la fois, il aur<oa/>it fallu dans l’architecture plus d’ornements ; si nos oreilles av<oa/>ient été faites comme celles de certains animaux, il aur<oa/>it fallu réformer bien des instruments de musique. Je sais bien que les rapports que les choses ont entre elles aur<oa/>ient subsisté ; mais le rapport qu’elles ont avec nous ayant changé, les choses qui, dans l’état présent, font un certain effet sur nous, ne le fer<oa/>ient plus ; et comme la perfection des arts est de nous présenter les choses telles qu’elles nous fassent le plus de plaisir qu’il est possible, il faudr<oa/>it qu’il y eût du changement dans les arts, puisqu’il y en aur<oa/>it dans la manière la plus propre à nous donner du plaisir.</p>
+<p>On croit d’abord qu’il suffir<oa/>it de conn<oa/>ître les diverses sources de nos plaisirs pour avoir le goût, et que, quand on a lu ce que la philosophie nous dit là-dessus, on a du goût, et que l’on peut hardiment juger des ouvrages. Mais le goût naturel n’est pas une conn<oa/>issance de théorie ; c’est une application prompte et exquise des règles mêmes que l’on ne conn<oa/>ît pas. Il n’est pas nécessaire de savoir que le plaisir que nous donne une certaine chose que nous trouvons <pagenum v="v7" num="119"/>belle, vient de la surprise ; il suffit qu’elle nous surprenne, et qu’elle nous surprenne autant qu’elle le doit, ni plus ni moins.</p>
+<p>Ainsi ce que nous pourrions dire ici, et tous les préceptes que nous pourrions donner pour former le goût, ne peuvent regarder que le goût acquis, c’est-à-dire ne peuvent regarder directement que ce goût acquis, quoiqu’ils regardent encore indirectement le goût naturel ; car le goût acquis affecte, change, augmente et diminue le goût naturel, comme le goût naturel affecte, change, augmente et diminue le goût acquis.</p>
+<p>La définition la plus générale du goût, sans considérer s’il est bon ou mauvais, juste ou non, est ce qui nous attache à une chose par le sentiment ; ce qui n’empêche pas qu’il ne puisse s’appliquer aux choses intellectuelles, dont la conn<oa/>issance fait tant de plaisir à l’âme, qu’elle ét<oa/>it la seule félicité que de certains philosophes pussent comprendre. L’âme conn<oa/>ît par ses idées et par ses sentiments<noteref noteid="7-119.1"/> ; car, quoique nous opposions l’idée au sentiment, cependant, lorsqu’elle voit une chose, elle la sent ; et il n’y a point de choses si intellectuelles qu’elle ne voie ou qu’elle ne croie voir, et par conséquent qu’elle ne sente.</p>
+
+<h2><s>DE L’ESPRIT EN GÉNÉRAL.</s></h2>
+<p>L’esprit est le genre qui a sous lui plusieurs espèces : le génie, le bon sens, le discernement, la justesse, le talent et le goût.</p>
+<p>L’esprit consiste à avoir les organes bien constitués, <pagenum v="v7" num="120"/>relativement aux choses où il s’applique. Si la chose est extrêmement particulière, il se nomme talent ; s’il a plus de rapport à un certain plaisir délicat des gens du monde, il se nomme goût ; si la chose particulière est unique chez un peuple, le talent se nomme esprit, comme l’art de la guerre et l’agriculture chez les Romains, la chasse chez les sauvages, etc.</p>
+
+<note id="7-119.1" type="e"><p>L’<i>Encyclopédie </i>ajoute : Elle reçoit des plaisirs par ces idées et par ces sentiments ; car, etc.</p></note>
+
+<h2><s>DE LA CURIOSITÉ.</s></h2>
+<p>Notre âme est faite pour penser, c’est-à-dire pour apercevoir : or un tel être doit avoir de la curiosité ; car, comme toutes les choses sont dans une chaîne où chaque idée en précède une et en suit une autre, on ne peut aimer à voir une chose sans désirer d’en voir une autre ; et, si nous n’avions pas ce désir pour celle-ci, nous n’aurions eu aucun plaisir à celle-là. Ainsi, quand on nous montre une partie d’un tableau, nous souhaitons de voir la partie que l’on nous cache, à proportion du plaisir que nous a fait celle que nous avons vue.</p>
+<p>C’est donc le plaisir que nous donne un objet qui nous porte vers un autre ; c’est pour cela que l’âme cherche toujours des choses nouvelles, et ne se repose jamais.</p>
+<p>Ainsi, on sera toujours sûr de plaire à l’âme lorsqu’on lui fera voir beaucoup de choses, ou plus qu’elle n’av<oa/>it espéré d’en voir.</p>
+<p>Par là on peut expliquer la raison pourquoi nous avons du plaisir lorsque nous voyons un jardin bien régulier, et que nous en avons encore lorsque nous voyons un lieu brut et champêtre : c’est la même cause qui produit ces effets. Comme nous aimons à voir un grand nombre d’objets, nous voudrions étendre notre vue, être en plusieurs lieux, parcourir plus d’espace ; enfin notre âme fuit les <pagenum v="v7" num="121"/>bornes, et elle voudr<oa/>it, pour ainsi dire, étendre la sphère de sa présence : ainsi c’est un grand plaisir pour elle de porter sa vue au loin. Mais comment le faire ? Dans les villes, notre vue est bornée par des maisons : dans les campagnes, elle l’est par mille obstacles ; à peine pouvons-nous voir trois ou quatre arbres. L’art vient à notre secours, et nous découvre la nature qui se cache elle-même. Nous aimons l’art, et nous l’aimons mieux que la nature, c’est-à-dire la nature dérobée à nos yeux ; mais quand nous trouvons de belles situations, quand notre vue en liberté peut voir au loin des prés, des ruisseaux, des collines, et ces dispositions qui sont, pour ainsi dire, créées exprès, elle est bien autrement enchantée que lorsqu’elle voit les jardins de Le Nostre ; parce que la nature ne se copie pas, au lieu que l’art se ressemble toujours. C’est pour cela que dans la peinture nous aimons mieux un paysage que le plan du plus beau jardin du monde ; c’est que la peinture ne prend la nature que là où elle est belle, là où la vue se peut porter au loin et dans toute son étendue, là où elle est variée, là où elle peut être vue avec plaisir.</p>
+
+<p>Ce qui fait ordinairement une grande pensée, c’est lorsqu’on dit une chose qui en fait voir un grand nombre d’autres, et qu’on nous fait découvrir tout d’un coup ce que nous ne pouvions espérer qu’après une grande lecture.</p>
+<p>Florus nous représente en peu de paroles toutes les fautes d’Annibal. « Lorsqu’il pouv<oa/>it, dit-il, se servir de la victoire, il aima mieux en jouir : <i>cum victoria posset uti, frui maluit. </i>»</p>
+<p>Il nous donne une idée de toute la guerre de Macédoine, quand il dit : « Ce fut vaincre que d’y entrer : <i>introisse victoria fuit. </i>»</p>
+
+<pagenum v="v7" num="122"/>
+
+<p>Il nous donne tout le spectacle de la vie de Scipion, quand il dit de sa jeunesse : « C’est le Scipion qui croît pour la destruction de l’Afrique : <i>hic erit Scipio qui in exitium Africœ crescit. </i>» Vous croyez voir un enfant qui croît et s’élève comme un géant.</p>
+<p>Enfin il nous fait voir le grand caractère d’Annibal, la situation de l’univers, et toute la grandeur du peuple romain, lorsqu’il dit : « Annibal fugitif cherch<oa/>it au peuple romain un ennemi par tout l’univers : <i>qui, profugus ex Africa, hostem populo romano toto orbe quœrebat. » </i></p>
+
+<h2><s>DES PLAISIRS DE L’ORDRE.</s></h2>
+
+<p>Il ne suffit pas de montrer à l’âme beaucoup de choses, il faut les lui montrer avec ordre : car pour lors nous nous ressouvenons de ce que nous avons vu, et nous commençons à imaginer ce que nous verrons ; notre âme se félicite de son étendue et de sa pénétration ; mais dans un ouvrage où il n’y a point d’ordre, l’âme sent à chaque instant troubler celui qu’elle y veut mettre. La suite que l’auteur s’est faite, et celle que nous nous faisons, se confondent ; l’âme ne retient rien, ne prévoit rien ; elle est humiliée par la confusion de ses idées, par l’inanité qui lui reste ; elle est vainement fatiguée, et ne peut goûter aucun plaisir : c’est pour cela que, quand le dessein n’est pas d’exprimer ou de montrer la confusion, on met toujours de l’ordre dans la confusion même. Ainsi les peintres groupent leurs figures ; ainsi ceux qui peignent les batailles mettent-ils sur le devant de leurs tableaux les choses que l’œil doit distinguer, et la confusion dans le fond et le lointain.</p>
+
+<pagenum v="v7" num="123"/>
+
+<h2><s>DES PLAISIRS DE LA VARIÉTÉ.</s></h2>
+
+<p>Mais s’il faut de l’ordre dans les choses, il faut aussi de la variété : sans cela l’âme languit, car les choses semblables lui paraissent les mêmes ; et, si une partie d’un tableau qu’on nous découvre ressembl<oa/>it à un autre que nous aurions vue, cet objet ser<oa/>it nouveau sans le paraître, et ne ferait aucun plaisir. Et, comme les beautés des ouvrages de l’art, semblables à celles de la nature, ne consistent que dans les plaisirs qu’elles nous font, il faut les rendre propres, le plus que l’on peut, à varier ces plaisirs ; il faut faire voir à l’âme des choses qu’elle n’a pas vues ; il faut que le sentiment qu’on lui donne soit différent de celui qu’elle vient d’avoir.</p>
+<p>C’est ainsi que les histoires nous plaisent par la variété des récits, les romans par la variété des prodiges, les pièces de théâtre par la variété des passions ; et que ceux qui savent instruire modifient le plus qu’ils peuvent le ton uniforme de l’instruction.</p>
+<p>Une longue uniformité rend tout insupportable ; le même ordre des périodes, longtemps continué, accable dans une harangue ; les mêmes nombres et les mêmes chutes mettent de l’ennui dans un long poëme. S’il est vrai que l’on ait fait cette fameuse allée de Moscou à Pétersbourg, le voyageur doit périr d’ennui, renfermé entre les deux rangs de cette allée ; et celui qui aura voyagé longtemps dans les Alpes en descendra dégoûté des situations les plus heureuses et des points de vue les plus charmants.</p>
+<p>L’âme aime la variété ; mais elle ne l’aime, avons-nous dit, que parce qu’elle est faite pour conn<oa/>ître et pour voir : il faut donc qu’elle puisse voir, et que la variété le lui permette ; c’est-à-dire, il faut qu’une chose soit assez simple <pagenum v="v7" num="124"/>pour être aperçue, et assez variée pour être aperçue avec plaisir.</p>
+
+<p>Il y a des choses qui paraissent variées et ne le sont point, d’autres qui paraissent uniformes et sont très-variées.</p>
+<p>L’architecture gothique parait très-variée ; mais la confusion des ornements fatigue par leur petitesse ; ce qui fait qu’il n’y en a aucun que nous puissions distinguer d’un autre, et leur nombre fait qu’il n’y en a aucun sur lequel l’œil puisse s’arrêter : de manière qu’elle déplaît par les endroits mêmes qu’on a choisis pour la rendre agréable.</p>
+<p>Un bâtiment d’ordre gothique est une espèce d’énigme pour l’œil qui le voit ; et l’âme est embarrassée comme quand on lui présente un poëme obscur.</p>
+<p>L’architecture grecque, au contraire, paraît uniforme ; mais, comme elle a les divisions qu’il faut, et autant qu’il en faut pour que l’âme voie précisément ce qu’elle peut voir sans se fatiguer, mais qu’elle en voie assez pour s’occuper, elle a cette variété qui la fait regarder avec plaisir.</p>
+<p>Il faut que les grandes choses aient de grandes parties : les grands hommes ont de grands bras, les grands arbres de grandes branches, et les grandes montagnes sont composées d’autres montagnes qui sont au-dessus et au-dessous ; c’est la nature des choses qui fait cela.</p>
+<p>L’architecture grecque, qui a peu de divisions, et de grandes divisions, imite les grandes choses ; l’âme sent une certaine majesté qui y règne partout.</p>
+<p>C’est ainsi que la peinture divise en groupes de trois ou quatre figures celles qu’elle représente dans un tableau : elle imite la nature ; une nombreuse troupe se divise toujours en pelotons ; et c’est encore ainsi que la peinture divise en grandes masses ses clairs et ses obscurs.</p>
+
+<pagenum v="v7" num="125"/>
+
+<h2><s>DES PLAISIRS DE LA SYMÉTRIE.</s></h2>
+
+<p>J’ai dit que l’âme aime la variété ; cependant, dans la plupart des choses, elle aime à voir une espèce de symétrie. Il semble que cela renferme quelque contradiction : voici comment j’explique cela.</p>
+<p>Une des principales causes des plaisirs de notre âme lorsqu’elle voit des objets, c’est la facilité qu’elle a à les apercevoir : et la raison qui fait que la symétrie plaît à l’âme, c’est qu’elle lui épargne de la peine, qu’elle la soulage, et qu’elle coupe pour ainsi dire l’ouvrage par la moitié.</p>
+<p>De là suit une règle générale. Partout où la symétrie est utile à l’âme, et peut aider ses fonctions, elle lui est agréable ; mais partout où elle est inutile, elle est fade, parce qu’elle ôte la variété. Or les choses que nous voyons successivement doivent avoir de la variété ; car notre âme n’a aucune difficulté à les voir. Celles au contraire que nous apercevons d’un coup d’œil doivent avoir de la symétrie : ainsi, comme nous apercevons d’un coup d’œil la façade d’un bâtiment, un parterre, un temple, on y met de la symétrie, qui plaît à l’âme par la facilité qu’elle lui donne d’embrasser d’abord tout l’objet.</p>
+<p>Comme il faut que l’objet que l’on doit voir d’un coup d’œil soit simple, il faut qu’il soit unique, et que les parties se rapportent toutes à l’objet principal ; c’est pour cela encore qu’on aime la symétrie ; elle fait un tout ensemble.</p>
+<p>Il est dans la nature qu’un tout soit achevé, et l’âme qui voit ce tout, veut qu’il n’y ait point de partie imparfaite. C’est encore pour cela qu’on aime la symétrie ; il faut une espèce de pondération ou de balancement : et un <pagenum v="v7" num="126"/>bâtiment avec une aile, ou une aile plus courte qu’une autre, est aussi peu fini qu’un corps avec un bras, ou avec un bras trop court.</p>
+
+<h2><s>DES CONTRASTES.</s></h2>
+
+<p>L’âme aime la symétrie, mais elle aime aussi les contrastes ; ceci demande bien des explications.</p>
+<p>Par exemple, si la nature demande des peintres et des sculpteurs qu’ils mettent de la symétrie dans les parties de leurs figures, elle veut au contraire qu’ils mettent des contrastes dans les attitudes. Un pied rangé comme un autre, un membre qui va comme un autre, sont insupportables : la raison en est que cette symétrie fait que les attitudes sont presque toujours les mêmes, comme on le voit dans les figures gothiques, qui se ressemblent toutes par là. Ainsi il n’y a plus de variété dans les productions de l’art. De plus, la nature ne nous a pas situés ainsi ; et, comme elle nous a donné du mouvement, elle ne nous a pas ajustés dans nos actions et nos manières comme des pagodes<noteref noteid="7-126.1"/> : et, si les hommes gênés et contraints sont insupportables, que sera-ce des productions de l’art ?</p>
+<p>Il faut donc mettre des contrastes dans les attitudes, surtout dans les ouvrages de sculpture, qui, naturellement froide, ne peut mettre de feu que par la force du contraste et de la situation.</p>
+<p>Mais, comme nous avons dit que la variété que l’on a cherché à mettre dans le gothique lui a donné de l’uniformité, il est souvent arrivé que la variété que l’on a cherché <pagenum v="v7" num="127"/>à mettre par le moyen des contrastes est devenue une symétrie et une vicieuse uniformité.</p>
+
+<note id="7-126.1" type="e"><p>Des idoles indiennes ou chinoises.</p></note>
+
+<p>Ceci ne se sent pas seulement dans de certains ouvrages de sculpture et de peinture, mais aussi dans le style de quelques écrivains, qui, dans chaque phrase, mettent toujours le commencement en contraste avec la fin par des antithèses continuelles, tels que saint Augustin et autres auteurs de la basse latinité, et quelques-uns de nos modernes, comme Saint-Évremont. Le tour de phrase, toujours le même et toujours uniforme, déplaît extrêmement ; ce contraste perpétuel devient symétrie, et cette opposition toujours recherchée devient uniformité. L’esprit y trouve si peu de variété que, lorsque vous avez vu une partie de la phrase, vous devinez toujours l’autre ; vous voyez des mots opposés, mais opposés de la même manière ; vous voyez un tour de phrase, mais c’est toujours le même.</p>
+<p>Bien des peintres sont tombés dans le défaut de mettre des contrastes partout et sans ménagement ; de sorte que, lorsqu’on voit une figure, on devine d’abord la disposition de celles d’à côté : cette continuelle diversité devient quelque chose de semblable. D’ailleurs la nature, qui jette les choses dans le désordre, ne montre pas l’affectation d’un contraste continuel ; sans compter qu’elle ne met pas tous les corps en mouvement, et dans un mouvement forcé. Elle est plus variée que cela ; elle met les uns en repos, et elle donne aux autres différentes sortes de mouvement.</p>
+<p>Si la partie de l’âme qui conn<oa/>ît, aime la variété, celle qui sent ne la cherche pas moins : car l’âme ne peut pas soutenir long-temps les mêmes situations, parce qu’elle est liée à un corps qui ne peut les souffrir. Pour que notre âme soit excitée, il faut que les esprits coulent dans les nerfs ; or il y a là deux choses : une lassitude dans les nerfs, une <pagenum v="v7" num="128"/>cessation de la part des esprits, qui ne coulent plus, ou qui se dissipent des lieux où ils ont coulé.</p>
+
+<p>Ainsi tout nous fatigue à la longue, et surtout les grands plaisirs : on les quitte toujours avec la même satisfaction qu’on les a pris ; car les fibres qui en ont été les organes ont besoin de repos ; il faut en employer d’autres plus propres à nous servir, et distribuer pour ainsi dire le travail.</p>
+<p>Notre âme est lasse de sentir ; mais ne pas sentir, c’est tomber dans un anéantissement qui l’accable. On remédie à tout, en variant ses modifications ; elle sent, et elle ne se lasse pas.</p>
+
+<h2><s>DES PLAISIRS DE LA SURPRISE.</s></h2>
+
+<p>Cette disposition de l’âme, qui la porte toujours vers différents objets, fait qu’elle goule tous les plaisirs qui viennent de la surprise : sentiment qui plaît à l’âme par le spectacle et par la promptitude de l’action ; car elle aperçoit ou sent une chose qu’elle n’attend pas, ou d’une manière qu’elle n’attend<oa/>it pas.</p>
+<p>Une chose peut nous surprendre comme merveilleuse, mais aussi comme nouvelle, et encore comme inattendue ; et, dans ces derniers cas, le sentiment principal se lie à un sentiment accessoire, fondé sur ce que la chose est nouvelle ou inattendue.</p>
+<p>C’est par là que les jeux de hasard nous piquent ; ils nous font voir une suite continuelle d’événements non attendus ; c’est par là que les jeux de société nous plaisent ; ils sont encore une suite d’événements imprévus, qui ont pour cause l’adresse jointe au hasard.</p>
+<p>C’est encore par là que les pièces de théâtre nous plaisent : <pagenum v="v7" num="129"/>elles se développent par degrés, cachent les événements jusqu’à ce qu’ils arrivent, nous préparent toujours de nouveaux sujets de surprise, et souvent nous piquent en nous les montrant tels que nous aurions dû les prévoir.</p>
+
+<p>Enfin les ouvrages d’esprit ne sont ordinairement lus que parce qu’ils nous ménagent des surprises agréables, et suppléent à l’insipidité des conversations, presque toujours languissantes, et qui ne font point cet effet.</p>
+<p>La surprise peut être produite par la chose, ou par la manière de l’apercevoir : car nous voyons une chose plus grande ou plus petite qu’elle n’est en effet, ou différente de ce qu’elle est ; ou bien nous voyons la chose même, mais avec une idée accessoire qui nous surprend. Telle est dans une chose l’idée accessoire de la difficulté de l’avoir faite, ou de la personne qui l’a faite, ou du temps où elle a été faite, ou de la manière dont elle a été faite, ou de quelque autre circonstance qui s’y joint.</p>
+<p>Suétone nous décrit les crimes de Néron avec un sang-froid qui nous surprend, en nous faisant presque croire qu’il ne sent point l’horreur de ce qu’il décrit. Il change de ton tout à coup, et dit : « L’univers ayant souffert ce monstre pendant quatorze ans, enfin il l’abandonna : <i>Tale monstrum per quatuordecim annos perpessus terrarum orbis, tandem destituit<noteref noteid="7-129.1"/>. </i>» Ceci produit dans l’esprit différentes sortes de surprises ; nous sommes surpris du changement de style de l’auteur, de la découverte de sa différente manière de penser, de sa façon de rendre en aussi peu de mots une des grandes révolutions qui soit arrivée : ainsi l’âme trouve un très-grand nombre de sentiments différents qui concourent à l’ébranler et à lui composer un plaisir.</p>
+
+<note id="7-129.1" type="e"><p>Suétone, <i>Vie de Néron</i>, chap.</p></note>
+ 
+<pagenum v="v7" num="130"/>
+
+<h2><s>DES DIVERSES CAUSES QUI PEUVENT PRODUIRE UN SENTIMENT.</s></h2>
+
+<p>Il faut bien remarquer qu’un sentiment n’a pas ordinairement dans notre âme une cause unique. C’est, si j’ose me servir de ce terme, une certaine dose qui en produit la force et la variété. L’esprit consiste à savoir frapper plusieurs organes à la fois ; et si l’on examine les divers écrivains, on verra peut-être que les meilleurs, et ceux qui ont plu davantage, sont ceux qui ont excité dans l’àme plus de sensations en même temps.</p>
+<p>Voyez, je vous prie, la multiplicité des causes. Nous aimons mieux voir un jardin bien arrangé qu’une confusion d’arbres : 1<sup>o</sup> parce que notre vue, qui ser<oa/>it arrêtée, ne l’est pas ; 2<sup>o</sup> chaque allée est une, et forme une grande chose, au lieu que dans la confusion chaque arbre est une chose, et une petite chose ; 3<sup>o</sup> nous voyons un arrangement que nous n’avons pas coutume de voir ; 4<sup>o</sup> nous savons bon gré de la peine que l’on a prise ; 5<sup>o</sup> nous admirons le soin que l’on a de combattre sans cesse la nature, qui, par des productions qu’on ne lui demande pas, cherche à tout confondre : ce qui est si vrai, qu’un jardin négligé nous est insupportable. Quelquefois la difficulté de l’ouvrage nous plait, quelquefois c’est la facilité ; et, comme dans un jardin magnifique nous admirons la grandeur et la dépense du maître, nous voyons quelquefois avec plaisir qu’on a eu l’art de nous plaire avec peu de dépense et de travail. Le jeu nous plaît, parce qu’il satisfait notre avarice, c’està-dire l’espérance d’avoir plus : il flatte notre vanité par l’idée de la préférence que la fortune nous donne, et de l’attention que les autres ont sur notre bonheur ; il satisfait <pagenum v="v7" num="131"/>notre curiosité en nous donnant un spectacle ; enfin il nous donne les différents plaisirs de la surprise.</p>
+
+<p>La danse nous plaît par la légèreté, par une certaine grâce, par la beauté et la variété des attitudes, par sa liaison avec la musique, la personne qui danse étant comme un instrument qui accompagne : mais surtout elle plaît par une disposition de notre cerveau, qui est telle qu’elle ramène en secret l’idée de tous les mouvements à de certains mouvements, la plupart des attitudes à de certaines attitudes.</p>
+
+<h2><s>DE LA SENSIBILITÉ.</s></h2>
+<p>Presque toujours les choses nous plaisent et déplaisent à différents égards : par exemple, les <i>virtuosi </i>d’Italie<noteref noteid="7-131.1"/> nous doivent faire peu de plaisir : 1<sup>o</sup> parce qu’il n’est pas étonnant qu’accommodés comme ils sont, ils chantent bien : ils sont comme un instrument dont l’ouvrier a retranché du bois pour lui faire produire des sons ; 2<sup>o</sup> parce que les passions qu’ils jouent sont trop suspectes de fausseté ; 3<sup>o</sup> parce qu’ils ne sont ni du sexe que nous aimons, ni de celui que nous estimons. D’un autre côté ils peuvent nous plaire, parce qu’ils conservent longtemps un air de jeunesse, et de plus, parce qu’ils ont une voix flexible, et qui leur est particulière. Ainsi chaque chose nous donne un sentiment qui est composé de beaucoup d’autres, lesquels s’aff<oa/>iblissent et se choquent quelquefois.</p>
+<p>Souvent notre âme se compose elle-même des raisons de plaisir, et elle y réussit surtout par les liaisons qu’elle met aux choses. Ainsi une chose qui nous a plu nous plaît <pagenum v="v7" num="132"/>encore, par la seule raison qu’elle nous a plu, parce que nous joignons l’ancienne idée à la nouvelle. Ainsi une actrice qui nous a plu sur le théâtre, nous plaît encore dans la chambre ; sa voix, sa déclamation, le souvenir de l’avoir vu admirer, que dis-je ? l’idée de la princesse, jointe à la sienne : tout cela fait une espèce de mélange qui forme et produit un plaisir.</p>
+
+<note id="7-131.1" type="e"><p>Les castrats.</p></note>
+
+<p>Nous sommes tous pleins d’idées accessoires. Une femme qui aura une grande réputation et un léger défaut pourra le mettre en crédit, et le faire regarder comme une grâce. La plupart des femmes que nous aimons n’ont pour elles que la prévention sur leur naissance ou leurs biens, les honneurs ou l’estime de certaines gens.</p>
+
+<h2><s>AUTRE EFFET DES LIAISONS QUE L’AME MET AUX CHOSES<noteref noteid="7-132.1"/>.</s></h2>
+
+<p>Nous devons à la vie champêtre que l’homme men<oa/>it dans les premiers temps, cet air riant répandu dans toute la Fable ; nous lui devons ces descriptions heureuses, ces aventures naïves, ces divinités gracieuses, ce spectacle d’un état assez différent du nôtre pour le désirer, et qui n’en est pas assez éloigné pour choquer la vraisemblance, enfin ce mélange de passions et de tranquillité. Notre imagination rit à Diane, à Pan, à Apollon, aux nymphes, aux bois, aux prés, aux fontaines. Si les premiers hommes av<oa/>ient vécu comme nous dans les villes, les poëtes n’aur<oa/>ient pu nous décrire que ce que nous voyons tous les jours avec inquiétude ou que nous sentons avec dégoût ; tout respirer<oa/>it l’avarice, l’ambition, et les passions qui tourmentent.</p>
+
+<note id="7-132.1" type="e"><p>Ce paragraphe ne se trouve pas dans l’<i>Encyclopédie</i>.</p></note>
+
+<pagenum v="v7" num="133"/>
+
+<p>Les poëtes qui nous décrivent la vie champêtre nous parlent de l’âge d’or qu’ils regrettent, c’est-à-dire nous parlent d’un temps encore plus heureux et plus tranquille.</p>
+
+<h2><s>DE LA DÉLICATESSE.</s></h2>
+<p>Les gens délicats sont ceux qui à chaque idée ou à chaque goût joignent beaucoup d’idées ou beaucoup de goûts accessoires. Les gens grossiers n’ont qu’une sensation ; leur âme ne sait ni composer ni décomposer ; ils ne joignent ni n’ôtent rien à ce que la nature donne : au lieu que les gens délicats dans l’amour se composent la plupart des plaisirs de l’amour. Polyxène et Apicius port<oa/>ient à la table bien des sensations inconnues à nous autres mangeurs vulgaires ; et ceux qui jugent avec goût des ouvrages d’esprit ont et se font une infinité de sensations que les autres hommes n’ont pas.</p>
+
+<h2><s>DU JE NE SAIS QUOI.</s></h2>
+<p>Il y a quelquefois dans les personnes ou dans les choses un charme invisible, une grâce naturelle, qu’on n’a pu définir, et qu’on a été forcé d’appeler le « je ne sais quoi ». Il me semble que c’est un effet principalement fondé sur la surprise. Nous sommes touchés de ce qu’une personne nous plaît plus qu’elle ne nous a paru d’abord devoir nous plaire, et nous sommes agréablement surpris de ce qu’elle a su vaincre des défauts que nos yeux nous montrent, et que le cœur ne croit plus. Voilà pourquoi les femmes laides ont très-souvent des grâces, et qu’il est rare que les belles en aient : car une belle personne fait ordinairement le contraire <pagenum v="v7" num="134"/>de ce que nous avions attendu ; elle parvient à nous paraître moins aimable ; après nous avoir surpris en bien, elle nous surprend en mal ; mais l’impression du bien est ancienne, celle du mal nouvelle : aussi les belles personnes font-elles rarement les grandes passions, presque toujours réservées à celles qui ont des grâces, c’est-à-dire des agréments que nous n’attendions point, et que nous n’avions pas sujet d’attendre. Les grandes parures ont rarement de la grâce, et souvent l’habillement des bergères en a. Nous admirons la majesté des draperies de Paul Véronèse ; mais nous sommes touchés de la simplicité de Raphaël et de la pureté du Corrége. Paul Véronèse promet beaucoup, et paie ce qu’il promet. Raphaël et le Corrége promettent peu, et paient beaucoup ; et cela nous plaît davantage.</p>
+<p>Les grâces se trouvent plus ordinairement dans l’esprit que dans le visage : car un beau visage paraît d’abord, et ne cache presque rien ; mais l’esprit ne se montre que peu à peu, que quand il veut, et autant qu’il veut : il peut se cacher pour paraître, et donner cette espèce de surprise qui fait les grâces.</p>
+<p>Les grâces se trouvent moins dans les traits du visage que dans les manières ; car les manières naissent à chaque instant, et peuvent à tous les moments créer des surprises ; en un mot, une femme ne peut guère être belle que d’une façon, mais elle est jolie de cent mille.</p>
+<p>La loi des deux sexes a établi parmi les nations policées et sauvages, que les hommes demanderaient, et que les femmes ne feraient qu’accorder : de là il arrive que les grâces sont plus particulièrement attachées aux femmes. Comme elles ont tout à défendre, elles ont tout à cacher ; la moindre parole, le moindre geste, tout ce qui, sans choquer le premier devoir, se montre en elles, tout ce qui se <pagenum v="v7" num="135"/>met en liberté devient une grâce ; et telle est la sagesse de la nature, que ce qui ne serait rien sans la loi de la pudeur, devint d’un prix infmi depuis cette heureuse loi, qui fait le bonheur de l’univers.</p>
+
+<p>Comme la gêne et l’affectation ne sauraient nous surprendre, les grâces ne se trouvent ni dans les manières gênées ni dans les manières affectées, mais dans une certaine liberté ou facilité qui est entre les deux extrémités ; et l’âme est agréablement surprise de voir que l’on a évité les deux écueils. Il semblerait que les manières naturelles devraient être les plus aisées : ce sont celles qui le sont le moins ; car l’éducation, qui nous gêne, nous fait toujours perdre du naturel : or nous sommes charmés de le voir revenir.</p>
+<p>Rien ne nous plaît tant dans une parure que lorsqu’elle est dans cette négligence ou même dans ce désordre qui nous cache tous les soins que la propreté n’a pas exigés, et que la seule vanité aurait fait prendre ; et l’on n’a jamais de grâce dans l’esprit que lorsque ce que l’on dit est trouvé<noteref noteid="7-135.1"/> et non pas recherché.</p>
+<p>Lorsque vous dites des choses qui vous ont coûté, vous pouvez bien faire voir que vous avez de l’esprit, et non pas des grâces dans l’esprit. Pour le faire voir, il faut que vous ne le voyiez pas vous-même, et que les autres, à qui d’ailleurs quelque chose de naïf et de simple en vous ne promett<oa/>it rien de cela, soient doucement surpris de s’en apercevoir.</p>
+<p>Ainsi les grâces ne s’acquièrent point : pour en avoir, il faut être naïf. Mais comment peut-on travailler à être naïf ?</p>
+
+<note id="7-135.1" type="e"><p><i>Encyclopédie : </i>par<oa/>ît trouvé et non pas recherché.</p></note>
+
+<pagenum v="v7" num="136"/>
+<p>Une des plus belles fictions d’Homère, c’est celle de cette ceinture qui donn<oa/>it à Vénus l’art de plaire. Rien n’est plus propre à faire sentir cette magie et ce pouvoir des grâces, qui semblent être données à une personne par un pouvoir invisible, et qui sont distinguées de la beauté même. Or cette ceinture ne pouv<oa/>it être donnée qu’à Vénus. Elle ne pouv<oa/>it convenir à la beauté majestueuse de Junon ; car la majesté demande une certaine gravité, c’est-à-dire une gêne opposée à l’ingénuité des grâces. Elle ne pouv<oa/>it bien convenir à la beauté fière de Pallas ; car la fierté est opposée à la douceur des grâces, et d’ailleurs peut souvent être soupçonnée d’affectation.</p>
+
+<h2><s>PROGRESSION DE LA SURPRISE.</s></h2>
+<p>Ce qui fait les grandes beautés, c’est lorsqu’une chose est telle que la surprise est d’abord médiocre, qu’elle se soutient, augmente, et nous mène ensuite à l’admiration. Les ouvrages de Raphaël frappent peu au premier coup d’œil : il imite si bien la nature, que l’on n’en est d’abord pas plus étonné que si l’on voy<oa/>it l’objet même, lequel ne causerait point de surprise. Mais une expression extraordinaire, un coloris plus fort, une attitude bizarre d’un peintre moins bon nous saisit du premier coup d’œil, parce qu’on n’a pas coutume de la voir ailleurs. On peut comparer Raphaël à Virgile, et les peintres de Venise, avec leurs attitudes forcées, à Lucain : Virgile, plus naturel, frappe d’abord moins, pour frapper ensuite plus ; Lucain frappe d’abord plus, pour frapper ensuite moins.</p>
+<p>L’exacte proportion de la fameuse église de Saint-Pierre fait qu’elle ne paraît pas d’abord aussi grande qu’elle l’est. <pagenum v="v7" num="137"/>car nous ne savons d’abord où nous prendre pour juger de sa grandeur. Si elle ét<oa/>it moins large, nous serions frappés de sa longueur ; si elle ét<oa/>it moins longue, nous le serions de sa largeur. Mais à mesure que l’on examine, l’œil la voit s’agrandir, l’étonnement augmente. On peut la comparer aux Pyrénées, où l’œil, qui croy<oa/>it d’abord les mesurer, découvre des montagnes derrière les montagnes, et se perd toujours davantage.</p>
+
+<p>Il arrive souvent que notre âme sent du plaisir lorsqu’elle a un sentiment qu’elle ne peut pas démêler elle-même, et qu’elle voit une chose absolument différente de ce qu’elle sait être : ce qui lui donne un sentiment de surprise dont elle ne peut pas sortir. En voici un exemple. Le dôme de Saint-Pierre est immense. On sait que MichelAnge voyant le Panthéon, qui ét<oa/>it le plus grand temple de Rome, dit qu’il en voul<oa/>it faire un pareil, mais qu’il voul<oa/>it le mettre en l’air. Il fit donc sur ce modèle le dôme de Saint-Pierre ; mais il fit les piliers si massifs, que ce dôme, qui est comme une montagne que l’on a sur la tête, par<oa/>it léger à l’œil qui le considère. L’âme reste donc incertaine entre ce qu’elle voit et ce qu’elle sait, et elle reste surprise de voir une masse en même temps si énorme et si légère.</p>
+
+<pagenum v="v7" num="138"/>
+<h2><s>DES BEAUTÉS QUI RÉSULTENT D*UN CERTAIN EMBARRAS DE L’AME.</s></h2>
+
+<p>Souvent la surprise vient à l’âme de ce qu’elle ne peut pas concilier ce qu’elle voit avec ce qu’elle a vu. Il y a en Italie un grand lac qu’on appelle le Lac Majeur, <i>il Lago Maggiore : </i>c’est une petite mer dont les bords ne montrent rien que de sauvage. A quinze milles dans le lac sont deux îles d’un quart de lieue de tour, qu’on appelle les « Borromées », qui sont, à mon avis, le séjour du monde le plus enchanté. L’âme est étonnée de ce contraste romanesque, de rappeler avec plaisir les merveilles des romans, où, après avoir passé par des rochers et des pays arides, on se trouve dans un lieu fait pour les fées.</p>
+<p>Tous les contrastes nous frappent, parce que les choses en opposition se relèvent toutes les deux : ainsi, lorsqu’un petit homme est auprès d’un grand, le petit fait par<oa/>ître l’autre plus grand, et le grand fait par<oa/>ître l’autre plus petit.</p>
+<p>Ces sortes de surprises font le plaisir que l’on trouve dans toutes les beautés d’opposition, dans toutes les antithèses et figures pareilles. Quand Florus dit : « Sore et Algide (qui le croir<oa/>it ?) nous ont été formidables ; Satrique et Cornicule ét<oa/>ient des provinces ; nous rougissons des Boriliens et des Véruliens, mais nous en avons triomphé ; enfin Tibur, notre faubourg ; Préneste, où sont nos maisons de plaisance, ét<oa/>ient le sujet des vœux que nous allions faire au Capitole<noteref noteid="7-138.1"/> » ; cet auteur, dis-je, nous montre en même temps la grandeur de Rome et la petitesse <pagenum v="v7" num="139"/>de ses commencements ; et l’étonnement porte sur ces deux choses.</p>
+
+<note id="7-138.1" type="e"><p>Florus, lib. I, c. <s>X</s>.</p></note>
+
+<p>On peut remarquer ici combien est grande la différence des antithèses d’idées d’avec les antithèses d’expression. L’antithèse d’expression n’est pas cachée ; celle d’idées l’est ; l’une a toujours le même habit, l’autre en change comme on veut ; l’une est variée, l’autre non.</p>
+<p>Le même Florus, en parlant des Samnites, dit que leurs villes furent tellement détruites, qu’il est difficile de trouver à présent le sujet de vingt-quatre triomphes : <i>ut non facile appareat materia quatuor et viginti triumphorum<noteref noteid="7-139.1"/>. </i>Et par les mêmes paroles, qui marquent la destruction de ce peuple, il fait voir la grandeur de son courage et de son opiniâtreté.</p>
+<p>Lorsque nous voulons nous empêcher de rire, notre rire redouble à cause du contraste qui est entre la situation où nous sommes et celle où nous devrions être. De même, lorsque nous voyons dans un visage un grand défaut, comme, par exemple, un très-grand nez, nous rions à cause que nous voyons que ce contraste avec les autres traits du visage ne doit pas être. Ainsi les contrastes sont cause des défauts aussi bien que des beautés. Lorsque nous voyons qu’ils sont sans raison, qu’ils relèvent ou éclairent un autre défaut, ils sont les grands instruments de la laideur, laquelle, lorsqu’elle nous frappe subitement, peut exciter une certaine joie dans notre âme, et nous faire rire. Si notre âme la regarde comme un malheur dans la personne qui la possède, elle peut exciter la <i>pitié ; </i>si elle la regarde avec l’idée de ce qui peut nous nuire, et avec une idée de comparaison avec ce qui a coutume de nous <pagenum v="v7" num="140"/>émouvoir et d’exciter nos désirs, elle la regarde avec un sentiment <i>d’aversion. </i></p>
+
+<note id="7-139.1" type="e"><p>Florus, lib. I, c. <s>XVI</s>.</p></note>
+
+<p>De même dans nos pensées, lorsqu’elles contiennent une opposition qui est contre le bon sens, lorsque cette opposition est commune et aisée à trouver, elles ne plaisent point et sont un défaut, parce qu’elles ne causent point de surprise ; et si au contraire elles sont trop recherchées, elles ne plaisent pas non plus. Il faut que dans un ouvrage on les sente parce qu’elles y sont, et non pas parce qu’on a voulu les montrer ; car pour lors la surprise ne tombe que sur la sottise de l’auteur.</p>
+<p>Une des choses qui nous plaît le plus, c’est le naïf ; mais c’est aussi le style le plus difficile à attraper : la raison en est qu’il est précisément entre le noble et le bas ; et il est si près du bas, qu’il est très-difficile de le côtoyer toujours sans y tomber.</p>
+<p>Les musiciens ont reconnu que la musique qui se chante le plus facilement est la plus difficile à composer : preuve certaine que nos plaisirs et l’art qui nous les donne sont entre certaines limites.</p>
+<p>A voir les vers de Corneille si pompeux et ceux de Racine si naturels, on ne deviner<oa/>it pas que Corneille travaill<oa/>it facilement et Racine avec peine.</p>
+<p>Le bas est le sublime du peuple, qui aime à voir une chose faite pour lui et qui est à sa portée.</p>
+<p>Les idées qui se présentent aux gens qui sont bien élevés, et qui ont un grand esprit, sont ou naïves, ou nobles, ou sublimes.</p>
+<p>Lorsqu’une chose nous est montrée avec des circonstances ou des accessoires qui l’agrandissent, cela nous paraît noble : cela se sent surtout dans les comparaisons où l’esprit doit toujours gagner et jamais perdre ; car elles <pagenum v="v7" num="141"/>doivent toujours ajouter quelque chose, faire voir la chose plus grande, ou, s’il ne s’agit pas de grandeur, plus fine et plus délicate ; mais il faut bien se donner de garde de montrer à l’àme un rapport dans le bas, car elle se le ser<oa/>it caché si elle l’av<oa/>it découvert.</p>
+
+<p>Comme il s’agit de montrer des choses fines, l’âme aime mieux voir comparer une manière à une manière, une action à une action, qu’une chose à une chose. Comparer en général un homme courageux à un lion, une femme à un astre, un homme léger à un cerf, cela est aisé<noteref noteid="7-141.1"/> ; mais lorsque La Fontaine commence ainsi une de ses fables :</p>
+
+<blockquote>
+<poem>
+<l>Entre les pattes d’un lion</l>
+<l>Un rat sortit de terre assez à l’étourdie :</l>
+<l>Le roi des animaux, en cette occasion,</l>
+<l>Montra ce qu’il ét<oa/>it, et lui donna la vie<noteref noteid="7-141.2"/>.</l>
+</poem>
+</blockquote>
+
+<p class="cont">il compare les modifications de l’âme du roi des animaux avec les modifications de l’âme d’un véritable roi.</p>
+<p>Michel-Ange est le maître pour donner de la noblesse à tous ses sujets. Dans son fameux Bacchus, il ne fait point comme les peintres de Flandres qui nous montrent une figure tombante, et qui est, pour ainsi dire, en l’air. Cela ser<oa/>it indigne de la majesté d’un dieu. Il le peint ferme sur ses jambes ; mais il lui donne si bien la gaieté de l’ivresse, et le plaisir à voir couler la liqueur qu’il verse dans sa coupe, qu’il n’y a rien de si admirable.</p>
+<p>Dans la Passion, qui est dans la galerie de Florence, il a peint la Vierge debout, qui regarde son fils crucifié, sans <pagenum v="v7" num="142"/>douleur, sans pitié, sans regret, sans larmes. Il la suppose instruite de ce grand mystère, et par là lui fait soutenir avec grandeur le spectacle de cette mort.</p>
+
+
+<note id="7-141.1" type="e"><p><i>Encyclopédie : </i>une chose à une chose : comme un héros à un lion, une femme à un astre et un homme léger à un cerf. Cela est aisé ; mais lorsque La Fontaine, etc.</p></note>
+<note id="7-141.2" type="e"><p>Livre II, fable <s>II</s>.</p></note>
+
+<p>Il n’y a point d’ouvrage de Michel-Ange où il n’ait mis quelque chose de noble : on trouve du grand dans ses ébauches mêmes, comme dans ces vers que Virgile n’a point finis.</p>
+<p>Jules Romain, dans sa chambre des Géants à Mantoue. où il a représenté Jupiter qui les foudroie, fait voir tous les dieux effrayés : mais Junon est auprès de Jupiter ; elle lui montre, d’un air assuré, un géant sur lequel il faut qu’il lance la foudre ; par là. il lui donne un air de grandeur que n’ont pas les autres dieux : plus ils sont près de Jupiter, plus ils sont rassurés ; et cela est bien naturel : car, dans une bataille, la frayeur cesse auprès de celui qui a de l’avantage<noteref noteid="7-142.1"/>.</p>
+
+<h2><s>DES RÈGLES<noteref noteid="7-142.2"/>.</s></h2>
+
+<p>Tous les ouvrages de l’art ont des règles générales, qui sont des guides qu’il ne faut jamais perdre de vue.</p>
+<p>Mais comme les lois sont toujours justes dans leur être général, mais presque toujours injustes dans l’application ; de même les règles, toujours vraies dans la théorie, peuvent devenir fausses dans l’hypothèse. Les peintres et les sculpteurs ont établi les proportions qu’il faut donner au corps humain, et ont pris pour mesure commune la longueur de la face ; mais il faut qu’ils violent à chaque instant<noteref noteid="7-143.1"/> <pagenum v="v7" num="143"/>les proportions, à cause des différentes attitudes dans lesquelles il faut qu’ils mettent les corps : par exemple, un bras tendu est bien plus long que celui qui ne l’est pas. Personne n’a jamais plus connu l’art que Michel-Ange ; personne ne s’en est joué davantage. Il y a peu de ses ouvrages d’architecture où les proportions soient exactement gardées ; mais, avec une conn<oa/>issance exacte de tout ce qui peut faire plaisir, il sembl<oa/>it qu’il eût un art à part pour chaque ouvrage.</p>
+
+<note id="7-142.1" type="e"><p>Ici se termine l’article de Montesquieu dans l’<i>Encyclopédie.</i></p></note>
+<note id="7-142.2" type="e"><p>Ce chapitre a paru pour la première fois dans les <i>Œuvres posthumes. </i></p></note>
+
+
+<p>Quoique chaque effet dépende d’une cause générale, il s’y mêle tant d’autres causes particulières, que chaque effet a, en quelque façon, une cause à part. Ainsi l’art<sup>1</sup> donne les règles, et le goût les exceptions ; le goût nous découvre en quelles occasions l’art doit soumettre<noteref noteid="7-143.2"/>, et en quelles occasions il doit être soumis.</p>
+
+<h2><s>PLAISIR FONDÉ SUR LA RAISON<noteref noteid="7-143.3"/>.</s></h2>
+
+<p>J’ai dit souvent que ce qui nous fait plaisir doit être fondé sur la raison ; et ce qui ne l’est pas à certains égards, mais parvient à nous plaire par d’autres, doit s’en écarter le moins qu’il est possible.</p>
+<p>Et je ne sais comme il arrive que la sottise de l’ouvrier, bien marquée, fait que l’on ne peut plus se plaire à son ouvrage ; car dans les ouvrages de goût il faut, pour qu’ils plaisent, avoir une certaine confiance à l’ouvrier, que l’on perd d’abord lorsque l’on voit, pour première chose, qu’il pèche contre le bon sens.</p>
+
+<note id="7-143.1" type="e"><p>Première édition : à tous les instants.</p></note>
+<note id="7-143.2" type="e"><p>Première édition : doit se soumettre.</p></note>
+<note id="7-143.3" type="e"><p>Tout ce qui suit est tiré des <i>Annales littéraires. </i></p></note>
+
+<pagenum v="v7" num="144"/>
+
+<p>Ainsi, lorsque j’ét<oa/>is à Pise, je n’eus aucun plaisir lorsque je vis le fleuve Arno peint dans le ciel avec son urne qui roule des eaux. Je n’eus aucun plaisir à Gênes de voir des saints dans le ciel, qui souffraient le martyre. Ces choses sont si grossières qu’on ne peut plus les regarder.</p>
+<p>Lorsqu’on entend dans le second acte de <i>Thyeste, </i>de Sénèque, des vieillards d’Argos qui, comme des citoyens de Rome du temps de Sénèque, parlent des Parthes et des Quirites, et distinguent les sénateurs des plébéiens, méprisent les bleds de la Libye, les Sarmates qui ferment la mer Caspienne, et les rois qui ont subjugué les Daces, une pareille ignorance fait rire dans un sujet sérieux. C’est comme si, sur le théâtre de Londres, on introduis<oa/>it Marius disant que, pourvu qu’il ait la faveur de la Chambre basse, il ne craint point l’inimitié de celle des Pairs, ou qu’il aime mieux la vertu que tout ce que les grandes familles de Rome font venir du Potose.</p>
+<p>Lorsqu’une chose est, à certains égards, contre la raison, et que, nous plaisant par d’autres, l’usage ou l’intérêt même de nos plaisirs la fait regarder comme raisonnable, comme nos opéras, il faut faire en sorte qu’elle s’en écarte le moins possible. Je ne pouv<oa/>is souffrir en Italie de voir Caton et César chanter des ariettes sur le théâtre ; les Italiens, qui ont tiré de l’histoire les sujets de leur opéra, ont montré moins de goût que nous, qui les avons tirés de la Fable ou des romans. A force de merveilleux, l’inconvénient du chant diminue, parce que ce qui est si extraordinaire par<oa/>ît mieux pouvoir s’exprimer par une manière plus éloignée du naturel ; d’ailleurs, il semble qu’il est établi que le chant peut avoir dans les enchantements et dans le commerce des dieux une force que les paroles n’ont pas ; il est donc là plus raisonnable, et nous avons bien fait de l’y employer.</p>
+
+<pagenum v="v7" num="145"/>
+
+<h2><s>DE LA CONSIDÉRATION DE LA SITUATION MEILLEURE.</s></h2>
+
+<p>Dans la plupart des jeux folâtres, la source la plus commune de nos plaisirs vient de ce que, par de certains petits accidents, nous voyons quelqu’un dans un embarras où nous ne sommes pas, comme si quelqu’un tombe, s’il ne peut échapper, s’il ne peut suivre ; de même, dans les comédies, nous avons du plaisir de voir un homme dans une erreur où nous ne sommes pas.</p>
+<p>Lorsque nous voyons faire une chute à quelqu’un, nous nous persuadons qu’il a plus de peur qu’il n’en doit avoir, et cela nous divertit ; de même, dans les comédies, nous prenons plaisir à voir un homme plus embarrassé qu’il ne devr<oa/>it l’être. Comme lorsqu’un homme grave fait quelque chose de ridicule, ou se trouve dans une position que nous sentons n’être pas d’accord avec sa gravité, cela nous divertit : de même, dans nos comédies, quand un vieillard est trompé, nous avons du plaisir à voir que sa prudence et son expérience sont les dupes de son amour et de son avarice.</p>
+<p>Mais lorsqu’un enfant tombe, au lieu d’en rire nous en avons pitié, parce que ce n’est pas proprement sa faute, mais celle de sa f<oa/>iblesse ; de même lorsqu’un jeune homme, aveuglé par sa passion, a fait la folie d’épouser une personne qu’il aime, et en est puni par son père, nous sommes affligés de le voir devenir malheureux pour avoir suivi un penchant naturel, et avoir plié à la f<oa/>iblesse de la condition humaine.</p>
+<p>Enfin comme, lorsqu’une femme tombe, toutes les circonstances qui peuvent augmenter son embarras augmentent <pagenum v="v7" num="146"/>notre plaisir, de même, dans les comédies, nous nous divertissons de tout ce qui peut augmenter l’embarras de certains personnages.</p>
+
+<p>Tous ces plaisirs sont fondés, ou sur notre malignité naturelle, ou sur l’aversion que nous donne pour de certains personnages l’intérêt que nous prenons pour d’autres.</p>
+<p>Le grand art de la comédie consiste donc à bien ménager et cette affection et cette aversion, de façon que nous ne nous démentions pas d’un bout de la pièce à l’autre, et que nous n’ayions point du dégoût ou du regret d’avoir aimé ou haï, Car on ne peut guère souffrir qu’un caractère odieux devienne intéressant que lorsqu’il y a raison pour cela dans le caractère même, et qu’il s’agit de quelque grande action qui nous surprend, et qui peut servir au dénoûrnent de la pièce.</p>
+
+<h2><s>PLAISIR CAUSÉ PAR LES JEUX, CHUTES, CONTRASTES.</s></h2>
+
+<p>Comme dans le jeu de piquet nous avons le plaisir de démêler ce que nous ne conn<oa/>issons pas par ce que nous conn<oa/>issons, et que la beauté de ce jeu consiste à par<oa/>ître nous montrer tout et cependant nous cacher beaucoup, ce qui excite notre curiosité ; ainsi, dans les pièces de théâtre, notre âme est piquée de curiosité, parce qu’on lui montre de certaines choses et qu’on lui en cache d’autres ; elle tombe dans la surprise, parce qu’elle croy<oa/>it que les choses qu’on lui cache arriver<oa/>ient d’une certaine façon, qu’elles arrivent d’une autre, et qu’elle a fait, pour ainsi dire, de fausses prédictions sur ce qu’elle a vu.</p>
+<p>Comme le plaisir du jeu de l’hombre consiste dans <pagenum v="v7" num="147"/>une certaine suspension mêlée de curiosité des trois événements qui peuvent arriver, la partie pouvant être gagnée, remise, ou perdue codille<noteref noteid="7-147.1"/> ; ainsi, dans nos pièces de théâtre, nous sommes tellement suspendus et incertains, que nous ne savons ce qui arrivera : et tel est l’effet de notre imagination, que lorsque nous avons vu la pièce mille fois, si elle est belle, notre suspension et, si je l’ose dire, notre ignorance restent encore ; car pour lors nous sommes si fort touchés de ce que nous entendons actuellement, que nous ne sentons plus que ce qu’on nous dit ; et ce qui par<oa/>ît devoir suivre de ce qu’on nous dit, ce que nous conn<oa/>issons d’ailleurs, et seulement par mémoire, ne nous fait plus aucune impression.</p>
+
+<note id="7-147.1" type="e"><p><i>Faire </i>ou <i>gagner codille, </i>gagner sans avoir fait jouer. <i>Dict.de l’Académie. </i></p>
+</note>
+
+</div>
+</page-sequences>
+</bml>

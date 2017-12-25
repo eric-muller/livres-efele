@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5714615q"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000499"
+        creation="2017-05-21T11:17:45-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Mélicerte</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='22'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="p01" label="Acte premier">
+      <tocentry idref="p02" label="Scène I"/>
+      <tocentry idref="p03" label="Scène II"/>
+      <tocentry idref="p04" label="Scène III"/>
+      <tocentry idref="p05" label="Scène IV"/>
+      <tocentry idref="p06" label="Scène V"/>
+    </tocentry>
+    <tocentry idref="p07" label="Acte second">
+      <tocentry idref="p08" label="Scène I"/>
+      <tocentry idref="p09" label="Scène II"/>
+      <tocentry idref="p10" label="Scène III"/>
+      <tocentry idref="p11" label="Scène IV"/>
+      <tocentry idref="p12" label="Scène V"/>
+      <tocentry idref="p13" label="Scène VI"/>
+      <tocentry idref="p14" label="Scène VII"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_2.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome second. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="251"/>
+
+<img src="images/frise11.png" class="center100" alt="frise"/>
+
+<h1>MELICERTE</h1>
+
+<h2>PASTORALE HÉROÏQUE</h2>
+
+<h2>1666</h2>
+
+<vsep class="rule"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">MÉLICERTE, bergère.</p>
+<p class="sommaire">DAPHNÉ, bergère.</p>
+<p class="sommaire">ÉROXÈNE, bergère.</p>
+<p class="sommaire">MYRTIL, amant de Mélicerte.</p>
+<p class="sommaire">ACANTHE, amant de Daphné.</p>
+<p class="sommaire">TYRÈNE, amant d’Éroxène.</p>
+<p class="sommaire">LYCARSIS, pâtre, cru père de Myrtil.</p>
+<p class="sommaire">CORINNE, confidente de Mélicerte.</p>
+<p class="sommaire">NICANDRE, berger.</p>
+<p class="sommaire">MOPSE, berger, cru oncle de Mélicerte.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est en Thessalie, dans la vallée de Tempé.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p01">ACTE PREMIER</h2>
+
+<h3 id="p02">SCÈNE I. — DAPHNÉ, ÉROXÈNE, ACANTHE, TYRÈNE</h3>
+
+<hstage><speaker>ACANTHE</speaker></hstage>
+<l>Ah ! charmante Daphné !</l>
+
+<hstage><speaker>TYRÈNE</speaker></hstage>
+<l cont='true'>Trop aimable Éroxène.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Acanthe, laisse-moi.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l cont='true'>Ne me suis point, Tyrène.</l>
+
+<pagenum num="252"/>
+
+<hstage><speaker>ACANTHE</speaker>, à Daphné.</hstage>
+<l>Pourquoi me chasses-tu ?</l>
+
+<hstage><speaker>TYRÈNE</speaker>, à Éroxène.</hstage>
+<l cont="true">Pourquoi fuis-tu mes pas ?</l>
+
+<hstage><speaker>DAPHNÉ</speaker>, à Acanthe.</hstage>
+<l>Tu me plais loin de moi.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker>, à Tyrène.</hstage>
+<l cont="true">Je m’aime où tu n’es pas,</l>
+
+<hstage><speaker>ACANTHE</speaker></hstage>
+<l>Ne cesseras-tu point cette rigueur mortelle ?</l>
+
+<hstage><speaker>TYRÈNE</speaker></hstage>
+<l>Ne cesseras-tu point de m’être si cruelle ?</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Ne cesseras-tu point tes inutiles vœux ?</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Ne cesseras-tu point de m’être si fâcheux ?</l>
+
+<hstage><speaker>ACANTHE</speaker></hstage>
+<l>Si tu n’en prends pitié, je succombe à ma peine.</l>
+
+<hstage><speaker>TYRÈNE</speaker></hstage>
+<l>Si tu ne me secours, ma mort est trop certaine.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Si tu ne veux partir, je quitterai ce lieu.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Si tu veux demeurer, je te vais dire adieu.</l>
+
+<hstage><speaker>ACANTHE</speaker></hstage>
+<l>Eh bien, en m’éloignant, je te vais satisfaire.</l>
+
+<hstage><speaker>TYRÈNE</speaker></hstage>
+<l>Mon départ va t’ôter ce qui peut te déplaire.</l>
+
+<hstage><speaker>ACANTHE</speaker></hstage>
+<l>Généreuse Éroxène, en faveur de mes feux,</l>
+<l>Daigne au moins, par pitié, lui dire un mot ou deux.</l>
+
+<hstage><speaker>TYRÈNE</speaker></hstage>
+<l>Obligeante Daphné, parle à cette inhumaine,</l>
+<l>Et sache d’où pour moi procède tant de haine.</l>
+
+<h3 id="p03">SCÈNE II. — DAPHNÉ, ÉROXÈNE</h3>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Acanthe a du mérite, et t’aime tendrement :</l>
+<l>D’où vient que tu lui fais un si dur traitement ?</l>
+
+<pagenum num="253"/>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Tyrène vaut beaucoup, et languit pour tes charmes :</l>
+<l>D’où vient que sans pitié tu vois couler ses larmes ?</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Puisque j’ai fait ici la demande avant toi,</l>
+<l>La raison te condamne à répondre avant moi.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Pour tous les soins d’Acanthe on me voit inflexible.</l>
+<l>Parce qu’à d’autres vœux je me trouve sensible.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Je ne fais pour Tyrène éclater que rigueur,</l>
+<l>Parce qu’un autre choix est maître de mon cœur.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Puis-je savoir de toi ce choix qu’on te voit taire ?</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Oui, si tu veux du tien m’apprendre le mystère.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Sans te nommer celui qu’Amour m’a fait choisir.</l>
+<l>Je puis facilement contenter ton désir ;</l>
+<l>Et de la main d’Atis, ce peintre inimitable,</l>
+<l>J’en garde dans ma poche un portrait admirable,</l>
+<l>Qui jusqu’au moindre trait lui ressemble si fort,</l>
+<l>Qu’il est sûr que tes yeux le connoîtront d’abord.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Je puis te contenter par une même voie,</l>
+<l>Et payer ton secret en pareille monnoie.</l>
+<l>J’ai de la main aussi de ce peintre fameux</l>
+<l>Un aimable portrait de l’objet de mes vœux,</l>
+<l>Si plein de tous ses traits et de sa grâce extrême,</l>
+<l>Que tu pourras d’abord te le nommer toi-même.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>La boîte que le peintre a fait faire pour moi</l>
+<l>Est tout à fait semblable à celle que je voi.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Il est vrai, l’une à l’autre entièrement ressemble,</l>
+<l>Et certe il faut qu’Atis les ait fait faire ensemble.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Faisons en même temps, par un peu de couleurs,</l>
+<l>Confidence à nos yeux du secret de nos cœurs.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Voyons à qui plus vite entendra ce langage,</l>
+<pagenum num="254"/>
+<l>Et qui parle le mieux, de l’un ou l’autre ouvrage.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>La méprise est plaisante, et tu te brouilles bien :</l>
+<l>Au lieu de ton portrait, tu m’as rendu le mien.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Il est vrai, je ne sais comme j’ai fait la chose.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Donne. De cette erreur ta rêverie est cause.</l>
+
+<hstage><speaker>ÉROXÉNE</speaker></hstage>
+<l>Que veut dire ceci ? Nous nous jouons, je croi :</l>
+<l>Tu fais de ces portraits même chose que moi.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Certes, c’est pour en rire, et tu peux me le rendre.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker>, mettant les deux portraits l’un à côté de l’autre.</hstage>
+<l>Voici le vrai moyen de ne se point méprendre.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>De mes sens prévenus est-ce une illusion ?</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Mon âme sur mes yeux fait-elle impression ?</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Myrtil à mes regards s’offre dans cet ouvrage.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>De Myrtil dans ces traits je rencontre l’image.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>C’est le jeune Myrtil qui fait naître mes feux.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>C’est au jeune Myrtil que tendent tous mes vœux.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Je venois aujourd’hui te prier de lui dire</l>
+<l>Les soins que pour son sort son mérite m’inspire.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Je venois te chercher pour servir mon ardeur,</l>
+<l>Dans le dessein que j’ai de m’assurer son cœur.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Cette ardeur qu’il t’inspire est-elle si puissante ?</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>L’aimes-tu d’une amour qui soit si violente ?</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Il n’est point de froideur qu’il ne puisse enflammer,</l>
+<l>Et sa grâce naissante a de quoi te charmer.</l>
+
+<pagenum num="255"/>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Il n’est nymphe en l’aimant qui ne se tînt heureuse ;</l>
+<l>Et Diane, sans honte, en seroit amoureuse.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Rien que son air charmant ne me touche aujourd’hui,</l>
+<l>Et, si j’avois cent cœurs ils seroient tous pour lui.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Il efface à mes yeux tout ce qu’on voit paroître ;</l>
+<l>Et, si j’avois un sceptre, il en seroit le maître.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Ce seroit donc en vain qu’à chacune, en ce jour,</l>
+<l>On nous voudroit du sein arracher cet amour :</l>
+<l>Nos âmes dans leurs vœux sont trop bien affermies.</l>
+<l>Ne tâchons, s’il se peut, qu’à demeurer amies ;</l>
+<l>Et, puisqu’en même temps, pour le même sujet,</l>
+<l>Nous avons toutes deux formé même projet,</l>
+<l>Mettons dans ce débat la franchise en usage,</l>
+<l>Ne prenons l’une et l’autre aucun lâche avantage,</l>
+<l>Et courons nous ouvrir ensemble à Lycarsis</l>
+<l>Des tendres sentiments où nous jette son fils.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>J’ai peine à concevoir tant la surprise est forte,</l>
+<l>Comme un tel fils est né d’un père de la sorte ;</l>
+<l>Et sa taille, son air, sa parole et ses yeux,</l>
+<l>Feroient croire qu’il est issu du sang des dieux.</l>
+<l>Mais enfin j’y souscris, courons trouver ce père,</l>
+<l>Allons-lui de nos cœurs découvrir le mystère.</l>
+<l>Et consentons qu’après, Myrtil, entre nous deux,</l>
+<l>Décide par son choix ce combat de nos vœux.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Soit. Je vois Lycarsis avec Mopse et Nicandre.</l>
+<l>Ils pourront le quitter, cachons-nous pour attendre.</l>
+
+<h3 id="p04">SCÈNE III. — LYCARSIS, MOPSE, NICANDRE</h3>
+
+<hstage><speaker>NICANDRE</speaker>, à Lycarsis.</hstage>
+<l>Dis-nous donc ta nouvelle.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l cont='true'>Ah ! que vous me pressez !</l>
+<l>Cela ne se dit pas comme vous le pensez.</l>
+
+<hstage><speaker>MOPSE</speaker></hstage>
+<l>Que de sottes façons et que de badinage !</l>
+<l>Ménalque, pour chanter n’en fait pas davantage.</l>
+
+<pagenum num="256"/>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Parmi les curieux des affaires d’État,</l>
+<l>Une nouvelle à dire est d’un puissant éclat.</l>
+<l>Je me veux mettre un peu sur l’homme d’importance<noteref noteid="note.256.1"/>,</l>
+<l>Et jouir quelque temps de votre impatience.</l>
+
+<notes>
+  <note id="note.256.1">
+    <p>On dirait aujourd’hui : <i>trancher de l’homme d’importance.</i></p>
+  </note>
+</notes>
+
+<hstage><speaker>NICANDRE</speaker></hstage>
+<l>Veux-tu par tes délais nous fatiguer tous deux ?</l>
+
+<hstage><speaker>MOPSE</speaker></hstage>
+<l>Prends-tu quelque plaisir à te rendre fâcheux ?</l>
+
+<hstage><speaker>NICANDRE</speaker></hstage>
+<l>De grâce, parle, et mets ces mines en arrière.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Priez-moi donc tous deux de la bonne manière</l>
+<l>Et me dites chacun quel don vous me ferez</l>
+<l>Pour obtenir de moi ce que vous désirez.</l>
+
+<hstage><speaker>MOPSE</speaker></hstage>
+<l>La peste soit du fat ! Laissons-le là, Nicandre ;</l>
+<l>Il brûle de parler, bien plus que nous d’entendre.</l>
+<l>Sa nouvelle lui pèse, il veut s’en décharger ;</l>
+<l>Et ne l’écouter pas est le faire enrager.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Eh !</l>
+
+<hstage><speaker>NICANDRE</speaker></hstage>
+<l cont='true'>Te voilà puni de tes façons de faire.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Je m’en vais vous le dire, écoutez.</l>
+
+<hstage><speaker>MOPSE</speaker></hstage>
+<l cont='true'>Point d’affaire.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Quoi ! vous ne voulez pas m’entendre ?</l>
+
+<hstage><speaker>NICANDRE</speaker></hstage>
+<l cont='true'>Non.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l cont='true'>Eh bien,</l>
+<l>Je ne dirai donc mot, et vous ne saurez rien.</l>
+
+<hstage><speaker>MOPSE</speaker></hstage>
+<l>Soit.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l cont='true'>Vous ne saurez pas qu’avec magnificence</l>
+<pagenum num="257"/>
+<l>Le roi vient honorer Tempé de sa présence ;</l>
+<l>Qu’il entra dans Larisse hier sur le haut du jour.</l>
+<l>Qu’à l’aise je l’y vis avec toute sa cour ;</l>
+<l>Que ces bois vont jouir aujourd’hui de sa vue,</l>
+<l>Et qu’on raisonne fort touchant cette venue.</l>
+
+<hstage><speaker>NICANDRE</speaker></hstage>
+<l>Nous n’avons pas envie aussi de rien savoir.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Je vis cent choses, là, ravissantes à voir :</l>
+<l>Ce ne sont que seigneurs, qui, des pieds à la tête,</l>
+<l>Sont brillants et parés comme au jour d’une fête ;</l>
+<l>Ils surprennent la vue ; et nos prés, au printemps,</l>
+<l>Avec toutes leurs fleurs sont bien moins éclatants.</l>
+<l>Pour le prince, entre tous, sans peine on le remarque,</l>
+<l>Et d’une stade<noteref noteid="note.257.1"/> loin il sent son grand monarque :</l>
+<l>Dans toute sa personne il a je ne sais quoi</l>
+<l>Qui d’abord fait juger que c’est un maître roi.</l>
+<l>Il le fait d’une grâce à nulle autre seconde ;</l>
+<l>Et cela, sans mentir, lui sied le mieux du monde.</l>
+<l>On ne croiroit jamais comme de toutes parts</l>
+<l>Toute sa cour s’empresse à chercher ses regards :</l>
+<l>Ce sont autour de lui confusions plaisantes,</l>
+<l>Et l’on diroit d’un tas de mouches reluisantes</l>
+<l>Qui suivent en tous lieux un doux rayon de miel</l>
+<l>Enfin l’on ne voit rien de si beau sous le ciel ;</l>
+<l>Et la fête de Pan, parmi nous si chérie,</l>
+<l>Auprès de ce spectacle est une gueuserie.</l>
+<l>Mais, puisque sur le fier vous vous tenez si bien,</l>
+<l>Je garde ma nouvelle, et ne veux dire rien.</l>
+
+<notes>
+  <note id="note.257.1">
+    <p>Le mot <i>stade</i> est masculin. <i>Un stade.</i></p>
+  </note>
+</notes>
+
+<hstage><speaker>MOPSE</speaker></hstage>
+<l>Et nous ne te voulons aucunement entendre.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Allez vous promener.</l>
+
+<hstage><speaker>MOPSE</speaker></hstage>
+<l cont='true'>Va-t’en te faire pendre.</l>
+
+<h3 id="p05">SCÈNE IV. — ÉROXÈNE, DAPHNÉ, LYCARSIS</h3>
+
+<hstage><speaker>LYCARSIS</speaker>, se croyant seul.</hstage>
+<l>C’est de cette façon que l’on punit les gens.</l>
+<l>Quand ils font les benêts et les impertinents.</l>
+
+<pagenum num="258"/>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Le ciel tienne, pasteur, vos brebis toujours saines !</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Cérès tienne de grains vos granges toujours pleines !</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Et le grand Pan vous donne à chacune un époux</l>
+<l>Qui vous aime beaucoup et soit digne de vous !</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Ah ! Lycarsis, nos vœux à même but aspirent.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>C’est pour le même objet que nos deux cœurs soupirent.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Et l’Amour, cet enfant qui cause nos langueurs,</l>
+<l>A pris chez vous le trait dont il blesse nos cœurs.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Et nous venons ici chercher votre alliance,</l>
+<l>Et voir qui de nous deux aura la préférence.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Nymphes...</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l cont='true'>Pour ce bien seul nous poussons des soupirs.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Je suis...</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l cont='true'>A ce bonheur tendent tous nos désirs.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>C’est un peu librement exprimer sa pensée.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Pourquoi ?</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l cont='true'>La bienséance y semble un peu blessée.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Ah ! point.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l cont='true'>Mais, quand le cœur brûle d’un noble feu,</l>
+<l>On peut, sans nulle honte, en faire un libre aveu.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Je...</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l cont='true'>Cette liberté nous peut être permise,</l>
+<pagenum num="259"/>
+<l>Et du choix de nos cœurs la beauté l’autorise.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>C’est blesser ma pudeur que me flatter ainsi.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Non, non, n’affectez point de modestie ici.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Enfin, tout notre bien est en votre puissance.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>C’est de vous que dépend notre unique espérance.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Trouverons-nous en vous quelques difficultés ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Ah !</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l cont='true'>Nos vœux, dites-moi, seront-ils rejetés ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Non, j’ai reçu du ciel une âme peu cruelle :</l>
+<l>Je tiens de feu ma femme ; et je me sens, comme elle.</l>
+<l>Pour les désirs d’autrui beaucoup d’humanité,</l>
+<l>Et je ne suis point homme à garder de fierté.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Accordez donc Myrtil à notre amoureux zèle.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Et souffrez que son choix règle notre querelle.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Myrtil !</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l cont='true'>Oui, c’est Myrtil que de vous nous voulons.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>De qui pensez-vous donc qu’ici nous vous parlons ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Je ne sais ; mais Myrtil n’est guère dans un âge</l>
+<l>Qui soit propre à ranger au joug du mariage.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Son mérite naissant peut frapper d’autres yeux,</l>
+<l>Et l’on veut s’engager un bien si précieux,</l>
+<l>Prévenir d’autres cœurs, et braver la fortune</l>
+<l>Sous les fermes liens d’une chaîne commune.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Comme par son esprit et ses autres brillants</l>
+<pagenum num="260"/>
+<l>Il rompt l’ordre commun et devance le temps,</l>
+<l>Notre flamme pour lui veut en faire de même,</l>
+<l>Et régler tous ses vœux sur son mérite extrême.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Il est vrai qu’à son âge il surprend quelquefois ;</l>
+<l>Et cet Athénien qui fut chez moi vingt mois..</l>
+<l>Qui, le trouvant joli, se mit en fantaisie</l>
+<l>De lui remplir l’esprit de sa philosophie,</l>
+<l>Sur de certains discours l’a rendu si profond</l>
+<l>Que, tout grand que je suis, souvent il me confond.</l>
+<l>Mais, avec tout cela, ce n’est encor qu’enfance,</l>
+<l>Et son fait est mêlé de beaucoup d’innocence.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Il n’est point tant enfant, qu’à le voir chaque jour</l>
+<l>Je ne le croie atteint déjà d’un peu d’amour ;</l>
+<l>Et plus d’une aventure à mes yeux s’est offerte</l>
+<l>Où j’ai connu qu’il suit la jeune Mélicerte.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Ils pourroient bien s’aimer ; et je vois...</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l cont='true'>Franc abus.</l>
+<l>Pour elle passe encore, elle a deux ans de plus ;</l>
+<l>Et deux ans, dans son sexe, est une grande avance.</l>
+<l>Mais pour lui, le jeu seul l’occupe tout, je pense.</l>
+<l>Et les petits désirs de se voir ajusté</l>
+<l>Ainsi que les bergers de haute qualité<noteref noteid="note.260.1"/>.</l>
+
+<notes>
+  <note id="note.260.1">
+    <p><i>Bergers de haute qualité</i> est une singulière expression. Nous allons voir plus loin le <i>haut rang</i>, la <i>puissance</i> et même la <i>noblesse</i> des bergères. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Enfin, nous désirons par le nœud d’hyménée</l>
+<l>Attacher sa fortune à notre destinée.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Nous voulons, l’une et l’autre, avec pareille ardeur,</l>
+<l>Nous assurer de loin l’empire de son cœur.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Je m’en tiens honoré plus qu’on ne sauroit croire.</l>
+<l>Je suis un pauvre pâtre ; et ce m’est trop de gloire</l>
+<l>Que deux nymphes d’un rang le plus haut du pays</l>
+<l>Disputent à se faire un époux de mon fils.</l>
+<l>Puisqu’il vous plaît qu’ainsi la chose s’exécute,</l>
+<l>Je consens que son choix règle votre dispute ;</l>
+<pagenum num="261"/>
+<l>Et celle qu’à l’écart laissera cet arrêt</l>
+<l>Pourra, pour son recours, m’épouser, s’il lui plaît.</l>
+<l>C’est toujours même sang, et presque même chose.</l>
+<l>Mais le voici. Souffrez qu’un peu je le dispose.</l>
+<l>Il tient quelque moineau qu’il a pris fraîchement :</l>
+<l>Et voilà ses amours et son attachement.</l>
+
+<h3 id="p06">SCÈNE V. — ÉROXÈNE, DAPHNÉ et LYCARSIS, <i>dans le fond du théâtre ;</i> MYRTIL</h3>
+
+<hstage><speaker>MYRTIL</speaker>, se croyant seul, et tenant un moineau dans une cage.</hstage>
+<l indent='2'>Innocente petite bête.</l>
+<l indent='2'>Qui contre ce qui vous arrête</l>
+<l indent='2'>Vous débattez tant à mes yeux,</l>
+<l>De votre liberté ne plaignez point la perte :</l>
+<l indent='2'>Votre destin est glorieux,</l>
+<l indent='2'>Je vous ai pris pour Mélicerte.</l>
+<l>Elle vous baisera, vous prenant dans sa main ;</l>
+<l indent='2'>Et de vous mettre en son sein</l>
+<l indent='2'>Elle vous fera la grâce.</l>
+<l>Est-il un sort au monde et plus doux et plus beau ?</l>
+<l>Et qui des rois, hélas ! heureux petit moineau,</l>
+<l indent='2'>Ne voudroit être en votre place ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Myrtil, Myrtil, un mot. Laissons là ces joyaux ;</l>
+<l>Il s’agit d’autre chose ici que de moineaux.</l>
+<l>Ces deux nymphes, Myrtil, à la fois te prétendent.</l>
+<l>Et, tout jeune<noteref noteid="note.261.1"/>, déjà pour époux te demandent.</l>
+<l>Je dois par un hymen t’engager à leurs vœux,</l>
+<l>Et c’est toi que l’on veut qui choisisses des deux.</l>
+
+<notes>
+  <note id="note.261.1">
+    <p><i>Tout jeune</i>, pour : <i>tout jeune que tu es</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Ces Nymphes ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l cont='true'>Oui. Des deux tu peux en choisir une.</l>
+<l>Vois quel est ton bonheur, et bénis la fortune.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Ce choix qui m’est offert peut-il m’être un bonheur,</l>
+<l>S’il n’est aucunement souhaité de mon cœur ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Enfin, qu’on le reçoive ; et que, sans se confondre,</l>
+<l>A l’honneur qu’elles font on songe à bien répondre.</l>
+
+<pagenum num="262"/>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Malgré cette fierté qui règne parmi nous,</l>
+<l>Deux nymphes, ô Myrtil ! viennent s’offrir à vous ;</l>
+<l>Et de vos qualités les merveilles écloses</l>
+<l>Font que nous renversons ici l’ordre des choses.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Nous vous laissons, Myrtil, pour l’avis le meilleur,</l>
+<l>Consulter, sur ce choix, vos yeux et votre cœur ;</l>
+<l>Et nous n’en voulons point prévenir les suffrages</l>
+<l>Par un récit paré de tous nos avantages.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>C’est me faire un honneur dont l’éclat me surprend ;</l>
+<l>Mais cet honneur, pour moi, je l’avoue, est trop grand.</l>
+<l>A vos rares bontés il faut que je m’oppose ;</l>
+<l>Pour mériter ce sort, je suis trop peu de chose ;</l>
+<l>Et je serois fâché, quels qu’en soient les appas,</l>
+<l>Qu’on vous blâmât pour moi de faire un choix trop bas.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Contentez nos désirs, quoi qu’on en puisse croire,</l>
+<l>Et ne vous chargez point du soin de notre gloire.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Non, ne descendez point dans ces humilités,</l>
+<l>Et laissez-nous juger ce que vous méritez.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Le choix qui m’est offert s’oppose à votre attente,</l>
+<l>Et peut seul empêcher que mon cœur vous contente.</l>
+<l>Le moyen de choisir de deux grandes beautés,</l>
+<l>Égales en naissance et rares qualités ?</l>
+<l>Rejeter l’une ou l’autre est un crime effroyable,</l>
+<l>Et n’en choisir aucune est bien plus raisonnable.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Mais en faisant refus de répondre à nos vœux,</l>
+<l>Au lieu d’une, Myrtil, vous en outragez deux.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Puisque nous consentons à l’arrêt qu’on peut rendre,</l>
+<l>Ces raisons ne font rien à vouloir s’en défendre.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Eh bien, si ces raisons ne vous satisfont pas,</l>
+<l>Celle-ci le fera : j’aime d’autres appas ;</l>
+<l>Et je sens bien qu’un cœur qu’un bel objet engage</l>
+<l>Est insensible et sourd à tout autre avantage.</l>
+
+<pagenum num="263"/>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Comment donc ! Qu’est ceci ? Qui l’eût pu présumer ?</l>
+<l>Et savez-vous, morveux, ce que c’est que d’aimer ?</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Sans savoir ce que c’est, mon cœur a su le faire.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Mais cet amour me choque, et n’est pas nécessaire.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Vous ne deviez donc pas, si cela vous déplaît,</l>
+<l>Me faire un cœur sensible et tendre comme il est.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Mais ce cœur que j’ai fait me doit obéissance.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Oui, lorsque d’obéir il est en sa puissance.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Mais enfin, sans mon ordre, il ne doit point aimer.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Que n’empêchiez-vous donc que l’on pût le charmer ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Eh bien, je vous défends que cela continue.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>La défense, j’ai peur, sera trop tard venue.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Quoi ! les pères n’ont pas des droits supérieurs ?</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Les dieux, qui sont bien plus, ne forcent point les cœurs.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Les dieux... Paix, petit sot ! Cette philosophie</l>
+<l>Me...</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l cont='true'>Ne vous mettez point en courroux, je vous prie.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Non : je veux qu’il se donne à l’une pour époux,</l>
+<l>Ou je vais lui donner le fouet tout devant vous.</l>
+<l>Ah ! ah ! je vous ferai sentir que je suis père.</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Traitons, de grâce, ici les choses sans colère.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Peut-on savoir de vous cet objet si charmant,</l>
+<l>Dont la beauté, Myrtil, vous a fait son amant !</l>
+
+<pagenum num="264"/>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Mélicerte, madame. Elle en peut faire d’autres.</l>
+
+<hstage><speaker>ÉROXÈNE</speaker></hstage>
+<l>Vous comparez, Myrtil, ses qualités aux nôtres ?</l>
+
+<hstage><speaker>DAPHNÉ</speaker></hstage>
+<l>Le choix d’elle et de nous est assez inégal.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Nymphes, au nom des dieux, n’en dites point de mal ;</l>
+<l>Daignez considérer, de grâce, que je l’aime,</l>
+<l>Et ne me jetez point dans un désordre extrême.</l>
+<l>Si j’outrage, en l’aimant, vos célestes attraits,</l>
+<l>Elle n’a point de part au crime que je fais ;</l>
+<l>C’est de moi, s’il vous plaît, que vient toute l’offense.</l>
+<l>Il est vrai, d’elle à vous je sais la différence :</l>
+<l>Mais par sa destinée on se trouve enchaîné ;</l>
+<l>Et je sens bien enfin que le ciel m’a donné</l>
+<l>Pour vous tout le respect, nymphes, imaginable,</l>
+<l>Pour elle tout l’amour dont une âme est capable.</l>
+<l>Je vois, à la rougeur qui vient de vous saisir,</l>
+<l>Que ce que je vous dis ne vous fait pas plaisir.</l>
+<l>Si vous parlez, mon cœur appréhende d’entendre</l>
+<l>Ce qui peut le blesser par l’endroit le plus tendre ;</l>
+<l>Et, pour me dérober à de semblables coups,</l>
+<l>Nymphes, j’aime bien mieux prendre congé de vous.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Myrtil, holà ! Myrtil ! Veux-tu revenir, traître !</l>
+<l>Il fuit ; mais on verra qui de nous est le maître.</l>
+<l>Ne vous effrayez point de tous ces vains transports,</l>
+<l>Vous l’aurez pour époux, j’en réponds corps pour corps<noteref noteid="note.264.1"/>.</l>
+
+<notes>
+  <note id="note.264.1">
+    <p>Comment s’intéresser à deux filles assez peu retenues pour se jeter à la tête d’un enfant qui les rebute, pourtant assez maîtresses d’elles-mêmes pour rester amies malgré leur rivalité ? (Auger.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p07">ACTE SECOND</h2>
+
+<h3 id="p08">SCÈNE I. — MÉLICERTE, CORINNE</h3>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Ah ! Corinne, tu viens de l’apprendre de Stelle,</l>
+<l>Et c’est de Lycarsis qu’elle tient la nouvelle ?</l>
+
+<hstage><speaker>CORINNE</speaker></hstage>
+<l>Oui.</l>
+
+<pagenum num="265"/>
+
+<hstage><speaker>MELICERTE</speaker></hstage>
+<l cont='true'>Que les qualités dont Myrtil est orné</l>
+<l>Ont su toucher d’amour Éroxène et Daphné ?</l>
+
+<hstage><speaker>CORINNE</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l cont='true'>Que pour l’obtenir leur ardeur est si grande,</l>
+<l>Q’ensemble elles en ont déjà fait la demande ?</l>
+<l>Et que, dans ce débat, elles ont fait dessein</l>
+<l>De passer, dès cette heure, à recevoir sa main ?</l>
+<l>Ah ! que tes mots ont peine à sortir de ta bouche !</l>
+<l>Et que c’est foiblement que mon souci te touche !</l>
+
+<hstage><speaker>CORINNE</speaker></hstage>
+<l>Mais quoi ! que voulez-vous ? C’est là la vérité,</l>
+<l>Et vous redites tout comme je l’ai conté.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Mais comment Lycarsis reçoit-il cette affaire ?</l>
+
+<hstage><speaker>CORINNE</speaker></hstage>
+<l>Comme un honneur, je crois, qui doit beaucoup lui plaire.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Et ne vois-tu pas bien, toi qui sais mon ardeur,</l>
+<l>Qu’avec ces mots, hélas ! tu me perces le cœur ?</l>
+
+<hstage><speaker>CORINNE</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l cont='true'>Me mettre aux yeux que le sort implacable,</l>
+<l>Auprès d’elles, me rend trop peu considérable,</l>
+<l>Et qu’à moi, par leur rang, on les va préférer,</l>
+<l>N’est-ce pas une idée à me désespérer ?</l>
+
+<hstage><speaker>CORINNE</speaker></hstage>
+<l>Mais quoi ! je vous réponds, et dis ce que je pense.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Ah ! tu me fais mourir par ton indifférence.</l>
+<l>Mais dis, quels sentiments Myrtil a-t-il fait voir ?</l>
+
+<hstage><speaker>CORINNE</speaker></hstage>
+<l>Je ne sais.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l cont='true'>Eh ! c’est là ce qu’il falloit savoir.</l>
+<l>Cruelle !</l>
+
+<hstage><speaker>CORINNE</speaker></hstage>
+<l cont='true'>En vérité, je ne sais comment faire ;</l>
+<pagenum num="266"/>
+<l>Et, de tous les côtés, je trouve à vous déplaire.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>C’est que tu n’entres point dans tous les mouvements</l>
+<l>D’un cœur, hélas ! rempli de tendres sentiments.</l>
+<l>Va-t’en : laisse-moi seule, en cette solitude,</l>
+<l>Passer quelques moments de mon inquiétude.</l>
+
+<h3 id="p09">SCÈNE II. — MÉLICERTE, <i>seule.</i></h3>
+
+<l>Vous le voyez, mon cœur, ce que c’est que d’aimer ;</l>
+<l>Et Bélise avoit su trop bien m’en informer.</l>
+<l>Cette charmante mère, avant sa destinée,</l>
+<l>Me disoit une fois, sur le bord du Pénée :</l>
+<l>« Ma fille, songe à toi ; l’amour aux jeunes cœurs</l>
+<l>« Se présente toujours entouré de douceurs.</l>
+<l>« D’abord il n’offre aux yeux que choses agréables ;</l>
+<l>« Mais il traîne après lui des troubles effroyables ;</l>
+<l>« Et, si tu veux passer tes jours dans quelque paix,</l>
+<l>« Toujours, comme d’un mal, défends-toi de ses traits ».</l>
+<l>De ces leçons, mon cœur, je m’étois souvenue ;</l>
+<l>Et, quand Myrtil venoit à s’offrir à ma vue,</l>
+<l>Qu’il jouoit avec moi, qu’il me rendoit des soins,</l>
+<l>Je vous disois toujours de vous y plaire moins.</l>
+<l>Vous ne me crûtes point ; et votre complaisance</l>
+<l>Se vit bientôt changée en trop de bienveillance.</l>
+<l>Dans ce naissant amour qui flattoit vos désirs</l>
+<l>Vous ne vous figuriez que joie et que plaisirs :</l>
+<l>Cependant vous voyez la cruelle disgrâce</l>
+<l>Dont en ce triste jour le destin vous menace,</l>
+<l>Et la peine mortelle où vous voilà réduit.</l>
+<l>Ah ! mon cœur ! Ah ! mon cœur ! je vous l’avois bien dit.</l>
+<l>Mais tenons, s’il se peut, notre douleur couverte.</l>
+<l>Voici...</l>
+
+<h3 id="p10">SCÈNE III. — MYRTIL, MÉLICERTE</h3>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l cont='true'>J’ai fait tantôt, charmante Mélicerte,</l>
+<l>Un petit prisonnier que je garde pour vous,</l>
+<l>Et dont peut-être un jour je deviendrai jaloux.</l>
+<l>C’est un jeune moineau, qu’avec un soin extrême</l>
+<l>Je veux, pour vous l’offrir, apprivoiser moi-même.</l>
+<l>Le présent n’est pas grand ; mais les divinités</l>
+<l>Ne jettent leurs regards que sur les volontés.</l>
+<pagenum num="267"/>
+<l>C’est le cœur qui fait tout ; et jamais la richesse</l>
+<l>Des présents que... Mais, ciel ! d’où vient cette tristesse</l>
+<l>Qu’avez-vous, Mélicerte, et quel sombre chagrin</l>
+<l>Se voit dans vos beaux yeux répandu ce matin ?</l>
+<l>Vous ne répondez point ; et ce morne silence</l>
+<l>Redouble encor ma peine et mon impatience.</l>
+<l>Parlez. De quel ennui ressentez-vous les coups ?</l>
+<l>Qu’est-ce donc ?</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l cont='true'>Ce n’est rien.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l cont='true'>Ce n’est rien, dites-vous ?</l>
+<l>Et je vois cependant vos yeux couverts de larmes.</l>
+<l>Cela s’accorde-t-il, beauté pleine de charmes ?</l>
+<l>Ah ! ne me faites point un secret dont je meurs,</l>
+<l>Et m’expliquez, hélas ! ce que disent ces pleurs.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Rien ne me serviroit de vous le faire entendre.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Devez-vous rien avoir que je ne doive apprendre ?</l>
+<l>Et ne blessez-vous pas notre amour aujourd’hui,</l>
+<l>De vouloir me voler ma part de votre ennui ?</l>
+<l>Ah ! ne le cachez point à l’ardeur qui m’inspire.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Eh bien, Myrtil, eh bien, il faut donc vous le dire.</l>
+<l>J’ai su que, par un choix plein de gloire pour vous,</l>
+<l>Éroxène et Daphné vous veulent pour époux ;</l>
+<l>Et je vous avouerai que j’ai cette foiblesse,</l>
+<l>De n’avoir pu, Myrtil, le savoir sans tristesse,</l>
+<l>Sans accuser du sort la rigoureuse loi,</l>
+<l>Qui les rend, dans leurs vœux, préférables à moi.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Et vous pouvez l’avoir, cette injuste tristesse !</l>
+<l>Vous pouvez soupçonner mon amour de foiblesse !</l>
+<l>Et croire qu’engagé par des charmes si doux,</l>
+<l>Je puisse être jamais à quelque autre qu’à vous !</l>
+<l>Que je puisse accepter une autre main offerte !</l>
+<l>Eh ! que vous ai-je fait, cruelle Mélicerte,</l>
+<l>Pour traiter ma tendresse avec tant de rigueur</l>
+<l>Et faire un jugement si mauvais de mon cœur ?</l>
+<l>Quoi ! faut-il que de lui vous ayez quelque crainte ?</l>
+<l>Je suis bien malheureux de souffrir cette atteinte ;</l>
+<pagenum num="268"/>
+<l>Et que me sert d’aimer comme je fais, hélas !</l>
+<l>Si vous êtes si prête à ne le croire pas ?</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Je pourrois moins, Myrtil, redouter ces rivales,</l>
+<l>Si les choses étoient de part et d’autre égales ;</l>
+<l>Et, dans un rang pareil, j’oserois espérer</l>
+<l>Que peut-être l’amour me feroit préférer ;</l>
+<l>Mais l’inégalité de bien et de naissance</l>
+<l>Qui peut, d’elles à moi, faire la différence...</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Ah ! leur rang de mon cœur ne viendra point à bout,</l>
+<l>Et vos divins appas vous tiennent lieu de tout.</l>
+<l>Je vous aime : il suffit ; et, dans votre personne,</l>
+<l>Je vois rang, biens, trésors, États, sceptre, couronne ;</l>
+<l>Et des rois les plus grands m’offrît-on le pouvoir.</l>
+<l>Je n’y changerois pas le bien de vous avoir.</l>
+<l>C’est une vérité toute sincère et pure ;</l>
+<l>Et pouvoir en douter est me faire une injure.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Eh bien, je crois, Myrtil, puisque vous le voulez,</l>
+<l>Que vos vœux par leur rang ne sont point ébranlés ;</l>
+<l>Et que, bien qu’elles soient nobles, riches et belles,</l>
+<l>Votre cœur m’aime assez pour me mieux aimer qu’elles.</l>
+<l>Mais ce n’est pas l’amour dont vous suivrez la voix :</l>
+<l>Votre père, Myrtil, réglera votre choix,</l>
+<l>Et de même qu’à vous je ne lui suis pas chère,</l>
+<l>Pour préférer à tout une simple bergère.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Non, chère Mélicerte, il n’est père ni dieux</l>
+<l>Qui me puissent forcer à quitter vos beaux yeux ;</l>
+<l>Et toujours de mes vœux, reine comme vous êtes...</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Ah ! Myrtil, prenez garde à ce qu’ici vous faites :</l>
+<l>N’allez point présenter un espoir à mon cœur,</l>
+<l>Qu’il recevroit peut-être avec trop de douceur,</l>
+<l>Et qui, tombant après comme un éclair qui passe,</l>
+<l>Me rendroit plus cruel le coup de ma disgrâce.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Quoi ! faut-il des serments appeler le secours,</l>
+<l>Lorsque l’on vous promet de vous aimer toujours ?</l>
+<l>Que vous vous faites tort par de telles alarmes,</l>
+<pagenum num="269"/>
+<l>Et connoissez bien peu le pouvoir de vos charmes !</l>
+<l>Eh bien, puisqu’il le faut, je jure par les dieux</l>
+<l>Et, si ce n’est assez, je jure par vos yeux,</l>
+<l>Qu’on me tuera plutôt que je vous abandonne.</l>
+<l>Recevez-en ici la foi que je vous donne,</l>
+<l>Et souffrez que ma bouche, avec ravissement,</l>
+<l>Sur cette belle main en signe le serment.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Ah ! Myrtil, levez-vous, de peur qu’on ne nous voie.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Est-il rien... Mais, ô ciel ! on vient troubler ma joie !</l>
+
+<h3 id="p11">SCÈNE IV. — LYCARSIS, MYRTIL, MÉLICERTE</h3>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Ne vous contraignez pas pour moi.</l>
+
+<hstage><speaker>MÉLICERTE</speaker>, à part.</hstage>
+<l cont='true'>Quel sort fâcheux !</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Cela ne va pas mal : continuez tous deux.</l>
+<l>Peste ! mon petit fils, que vous avez l’air tendre,</l>
+<l>Et qu’en maître déjà vous savez vous y prendre !</l>
+<l>Vous a-t-il, ce savant qu’Athènes exila,</l>
+<l>Dans sa philosophie appris ces choses-là ?</l>
+<l>Et vous, qui lui donnez de si douce manière</l>
+<l>Votre main à baiser, la gentille bergère,</l>
+<l>L’honneur vous apprend-il ces mignardes douceurs</l>
+<l>Par qui vous débauchez ainsi les jeunes cœurs ?</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Ah ! quittez de ces mots l’outrageante bassesse,</l>
+<l>Et ne m’accablez point d’un discours qui la blesse.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Je veux lui parler, moi. Toutes ces amitiés...</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Je ne souffrirai point que vous la maltraitiez.</l>
+<l>A du respect pour vous la naissance m’engage ;</l>
+<l>Mais je saurai, sur moi, vous punir de l’outrage.</l>
+<l>Oui, j’atteste le ciel que si, contre mes vœux,</l>
+<l>Vous lui dites encor le moindre mot fâcheux,</l>
+<l>Je vais avec ce fer, qui m’en fera justice,</l>
+<l>Au milieu de mon sein vous chercher un supplice,</l>
+<l>Et, par mon sang versé, lui marquer promptement</l>
+<pagenum num="270"/>
+<l>L’éclatant désaveu de votre emportement.</l>
+
+<hstage><speaker>MÉLICERTE</speaker></hstage>
+<l>Non, non, ne croyez point qu’avec art je l’enflamme</l>
+<l>Et que mon dessein soit de séduire son âme.</l>
+<l>S’il s’attache à me voir et me veut quelque bien,</l>
+<l>C’est de son mouvement : je ne l’y force en rien.</l>
+<l>Ce n’est pas que mon cœur veuille ici se défendre</l>
+<l>De répondre à ses vœux d’une ardeur assez tendre ;</l>
+<l>Je l’aime, je l’avoue, autant qu’on puisse aimer :</l>
+<l>Mais cet amour n’a rien qui vous doive alarmer ;</l>
+<l>Et, pour vous arracher toute injuste créance,</l>
+<l>Je vous promets ici d’éviter sa présence,</l>
+<l>De faire place au choix où vous vous résoudrez,</l>
+<l>Et ne souffrir ses vœux que quand vous le voudrez.</l>
+
+<h3 id="p12">SCÈNE V. — LYCARSIS, MYRTIL</h3>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Eh bien, vous triomphez avec cette retraite,</l>
+<l>Et, dans ces mots, votre âme a ce qu’elle souhaite :</l>
+<l>Mais apprenez qu’en vain vous vous réjouissez,</l>
+<l>Que vous serez trompé dans ce que vous pensez ;</l>
+<l>Et qu’avec tous vos soins, toute votre puissance,</l>
+<l>Vous ne gagnerez rien sur ma persévérance.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Comment ! à quel orgueil, fripon, vous vois-je aller ?</l>
+<l>Est-ce de la façon que l’on me doit parler ?</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Oui, j’ai tort, il est vrai : mon transport n’est pas sage ;</l>
+<l>Pour rentrer au devoir, je change de langage ;</l>
+<l>Et je vous prie ici, mon père, au nom des dieux,</l>
+<l>Et par tout ce qui peut vous être précieux,</l>
+<l>De ne vous point servir, dans cette conjoncture,</l>
+<l>Des fiers droits que sur moi vous donne la nature.</l>
+<l>Ne m’empoisonnez point vos bienfaits les plus doux.</l>
+<l>Le jour est un présent que j’ai reçu de vous ;</l>
+<l>Mais de quoi vous serai-je aujourd’hui redevable.</l>
+<l>Si vous me l’allez rendre, hélas ! insupportable ?</l>
+<l>Il est, sans Mélicerte, un supplice à mes yeux ;</l>
+<l>Sans ses divins appas rien ne m’est précieux ;</l>
+<l>Ils font tout mon bonheur et toute mon envie ;</l>
+<l>Et, si vous me l’ôtez, vous m’arrachez la vie<noteref noteid="note.270.1"/>.</l>
+
+<notes>
+  <note id="note.270.1">
+    <p>A quelques mots près voilà une bonne tirade. Pourquoi ? C’est qu’elle est vraie de sentiment et d’expression, et que les fausses couleurs du sujet n’y viennent point altérer le langage naturel de la passion. (Auger.)</p>
+  </note>
+</notes>
+
+<pagenum num="271"/>
+
+<hstage><speaker>LYCARSIS</speaker>, à part.</hstage>
+<l>Aux douleurs de son âme il me fait prendre part.</l>
+<l>Qui l’auroit jamais cru de ce petit pendard ?</l>
+<l>Quel amour ! quels transports ! quels discours pour son âge !</l>
+<l>J’en suis confus, et sens que cet amour m’engage.</l>
+
+<hstage><speaker>MYRTIL</speaker>, se jetant aux genoux de Lycarsis.</hstage>
+<l>Voyez, me voulez-vous ordonner de mourir ?</l>
+<l>Vous n’avez qu’à parler, je suis prêt d’obéir.</l>
+
+<hstage><speaker>LYCARSIS</speaker>, à part.</hstage>
+<l>Je n’y puis plus tenir : il m’arrache des larmes,</l>
+<l>Et ses tendres propos me font rendre les armes.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Que si dans votre cœur un reste d’amitié</l>
+<l>Vous peut de mon destin donner quelque pitié,</l>
+<l>Accordez Mélicerte à mon ardente envie.</l>
+<l>Et vous ferez bien plus que me donner la vie.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Lève-toi.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l cont='true'>Serez-vous sensible à mes soupirs ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l cont='true'>J’obtiendrai de vous l’objet de mes désirs ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l cont='true'>Vous ferez pour moi que son oncle l’oblige</l>
+<l>A me donner sa main ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l cont='true'>Oui. Lève-toi, te dis-je.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>O père le meilleur qui jamais ait été,</l>
+<l>Que je baise vos mains après tant de bonté !</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Ah ! que pour ses enfants un père a de foiblesse !</l>
+<l>Peut-on rien refuser à leurs mots de tendresse ?</l>
+<l>Et ne se sent-on pas certains mouvements doux,</l>
+<l>Quand on vient à songer que cela sort de vous ?</l>
+
+<pagenum num="272"/>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Me tiendrez-vous au moins la parole avancée ?</l>
+<l>Ne changerez-vous point, dites-moi, de pensée ?</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l cont='true'>Me permettez-vous de vous désobéir,</l>
+<l>Si de ces sentiments on vous fait revenir ?</l>
+<l>Prononcez le mot.</l>
+
+<hstage><speaker>LYCARSIS</speaker></hstage>
+<l cont='true'>Oui. Ah ! nature ! nature !</l>
+<l>Je m’en vais trouver Mopse, et lui faire ouverture</l>
+<l>De l’amour que sa nièce et toi vous vous portez.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Ah ! que ne dois-je point à vos rares bontés !</l>
+<pstage>Seul.</pstage>
+<l>Quelle heureuse nouvelle à dire à Mélicerte !</l>
+<l>Je n’accepterois pas une couronne offerte,</l>
+<l>Pour le plaisir que j’ai de courir lui porter</l>
+<l>Ce merveilleux succès qui la doit contenter<noteref noteid="note.272.1"/>.</l>
+
+<notes>
+  <note id="note.272.1">
+    <p>Cette scène, qu’on est surpris de trouver dans une si mauvaise pièce, n’en déparerait pas une très bonne. (Auger).</p>
+  </note>
+</notes>
+
+<h3 id="p13">SCÈNE VI. — ACANTHE, TYRÈNE, MYRTIL</h3>
+
+<hstage><speaker>ACANTHE</speaker></hstage>
+<l>Ah ! Myrtil, vous avez du ciel reçu des charmes</l>
+<l>Qui nous ont préparé des matières de larmes ;</l>
+<l>Et leur naissant éclat, fatal à nos ardeurs.</l>
+<l>De ce que nous aimons nous enlève les cœurs.</l>
+
+<hstage><speaker>TYRÈNE</speaker></hstage>
+<l>Peut-on savoir, Myrtil, vers qui, de ces deux belles,</l>
+<l>Vous tournerez ce choix dont courent les nouvelles ?</l>
+<l>Et sur qui doit de nous tomber ce coup affreux,</l>
+<l>Dont se voit foudroyé tout l’espoir de nos vœux ?</l>
+
+<hstage><speaker>ACANTHE</speaker></hstage>
+<l>Ne faites point languir deux amants davantage,</l>
+<l>Et nous dites quel sort votre cœur nous partage.</l>
+
+<hstage><speaker>TYRÈNE</speaker></hstage>
+<l>Il vaut mieux, quand on craint ces malheurs éclatants,</l>
+<l>En mourir tout d’un coup que traîner si longtemps.</l>
+
+<pagenum num="273"/>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Rendez, nobles bergers, le calme à votre flamme :</l>
+<l>La belle Mélicerte a captivé mon âme.</l>
+<l>Auprès de cet objet mon sort est assez doux,</l>
+<l>Pour ne pas consentir à rien prendre sur vous ;</l>
+<l>Et, si vos vœux enfin n’ont que les miens à craindre,</l>
+<l>Vous n’aurez, l’un ni l’autre, aucun lieu de vous plaindre.</l>
+
+<hstage><speaker>ACANTHE</speaker></hstage>
+<l>Ah ! Myrtil, se peut-il que deux tristes amants...</l>
+
+<hstage><speaker>TYRÈNE</speaker></hstage>
+<l>Est-il vrai que le ciel, sensible à nos tourments...</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Oui, content de mes fers comme d’une victoire,</l>
+<l>Je me suis excusé de ce choix plein de gloire ;</l>
+<l>J’ai de mon père encor changé les volontés,</l>
+<l>Et l’ai fait consentir à mes félicités.</l>
+
+<hstage><speaker>ACANTHE</speaker>, à Tyrène.</hstage>
+<l>Ah ! que cette aventure est un charmant miracle,</l>
+<l>Et qu’à notre poursuite elle ôte un grand obstacle !</l>
+
+<hstage><speaker>TYRÈNE</speaker>, à Acanthe.</hstage>
+<l>Elle peut renvoyer ces nymphes à nos vœux</l>
+<l>Et nous donner moyen d’être contents tous deux.</l>
+
+<h3 id="p14">SCÈNE VII. — NICANDRE, MYRTIL, ACANTHE, TYRÈNE</h3>
+
+<hstage><speaker>NICANDRE</speaker></hstage>
+<l>Savez-vous en quel lieu Mélicerte est cachée ?</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>NICANDRE</speaker></hstage>
+<l cont='true'>En diligence elle est partout cherchée.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Et pourquoi ?</l>
+
+<hstage><speaker>NICANDRE</speaker></hstage>
+<l cont='true'>Nous allons perdre cette beauté.</l>
+<l>C’est pour elle qu’ici le roi s’est transporté ;</l>
+<l>Avec un grand seigneur on dit qu’il la marie.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>O ciel ! Expliquez-moi ce discours, je vous prie.</l>
+
+<pagenum num="274"/>
+
+<hstage><speaker>NICANDRE</speaker></hstage>
+<l>Ce sont des incidents grands et mystérieux.</l>
+<l>Oui, le roi vient chercher Mélicerte en ces lieux.</l>
+<l>Et l’on dit qu’autrefois feu Bélise, sa mère,</l>
+<l>Dont tout Tempé croyoit que Mopse étoit le frère...</l>
+<l>Mais je me suis chargé de la chercher partout :</l>
+<l>Vous saurez tout cela tantôt de bout en bout.</l>
+
+<hstage><speaker>MYRTIL</speaker></hstage>
+<l>Ah ! dieux ! quelle rigueur ! Eh ! Nicandre, Nicandre !</l>
+
+<hstage><speaker>ACANTHE</speaker></hstage>
+<l>Suivons aussi ses pas, afin de tout apprendre<noteref noteid="note.274.1"/>.</l>
+
+<notes>
+  <note id="note.274.1">
+    <p>Ne nous plaignons point de ce que Molière n’a pu achever ce mauvais roman héroïco-pastoral. il a dû trouver sans peine un meilleur emploi de son temps. (Auger.)</p>
+  </note>
+</notes>
+
+</page-sequence>
+</page-sequences>
+</bml>

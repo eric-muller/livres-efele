@@ -1,0 +1,2384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5714615q"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000495"
+        creation="2017-04-27T08:45:08-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Don Juan, ou le Festin de Pierre</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p00" label="Personnages"/>
+    <tocentry idref="p01" label="Acte premier">
+      <tocentry idref="p02" label="Scène I"/>
+      <tocentry idref="p03" label="Scène II"/>
+      <tocentry idref="p04" label="Scène III"/>
+      <tocentry idref="p05" label="Scène IV"/>
+    </tocentry>
+    <tocentry idref="p06" label="Acte second">
+      <tocentry idref="p07" label="Scène I"/>
+      <tocentry idref="p08" label="Scène II"/>
+      <tocentry idref="p09" label="Scène III"/>
+      <tocentry idref="p10" label="Scène IV"/>
+      <tocentry idref="p11" label="Scène V"/>
+      <tocentry idref="p12" label="Scène VI"/>
+      <tocentry idref="p13" label="Scène VII"/>
+      <tocentry idref="p14" label="Scène VIII"/>
+      <tocentry idref="p15" label="Scène IX"/>
+      <tocentry idref="p16" label="Scène X"/>
+    </tocentry>
+    <tocentry idref="p17" label="Acte troisième">
+      <tocentry idref="p18" label="Scène I"/>
+      <tocentry idref="p19" label="Scène II"/>
+      <tocentry idref="p20" label="Scène III"/>
+      <tocentry idref="p21" label="Scène IV"/>
+      <tocentry idref="p22" label="Scène V"/>
+      <tocentry idref="p23" label="Scène VI"/>
+    </tocentry>
+    <tocentry idref="p24" label="Acte quatrième">
+      <tocentry idref="p25" label="Scène I"/>
+      <tocentry idref="p26" label="Scène II"/>
+      <tocentry idref="p27" label="Scène III"/>
+      <tocentry idref="p28" label="Scène IV"/>
+      <tocentry idref="p29" label="Scène V"/>
+      <tocentry idref="p30" label="Scène VI"/>
+      <tocentry idref="p31" label="Scène VII"/>
+      <tocentry idref="p32" label="Scène VIII"/>
+      <tocentry idref="p33" label="Scène IX"/>
+      <tocentry idref="p34" label="Scène X"/>
+      <tocentry idref="p35" label="Scène XI"/>
+      <tocentry idref="p36" label="Scène XII"/>
+    </tocentry>
+    <tocentry idref="p37" label="Acte cinquième">
+      <tocentry idref="p38" label="Scène I"/>
+      <tocentry idref="p39" label="Scène II"/>
+      <tocentry idref="p40" label="Scène III"/>
+      <tocentry idref="p41" label="Scène IV"/>
+      <tocentry idref="p42" label="Scène V"/>
+      <tocentry idref="p43" label="Scène VI"/>
+      <tocentry idref="p44" label="Scène VII"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_2.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome second. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="47"/>
+
+<img src="images/frise1.png" class="center100" alt="frise"/>
+
+<h1>DON JUAN OU LE FESTIN DE PIERRE</h1>
+
+<h2>COMÉDIE EN CINQ ACTES</h2>
+
+<h2>1665</h2>
+
+<vsep class="rule"/>
+
+<p id="p00" class="sommaire">DON JUAN, fils de don Louis.</p>
+<p class="sommaire">SGANARELLE.</p>
+<p class="sommaire">ELVIRE, maîtresse de don Juan.</p>
+<p class="sommaire">GUSMAN, écuyer d’Elvire.</p>
+<p class="sommaire">DON CARLOS, frère d’Elvire.</p>
+<p class="sommaire">DON ALONSE, frère d’Elvire.</p>
+<p class="sommaire">DON LOUIS, père de don Juan.</p>
+<p class="sommaire">FRANCISQUE, pauvre.</p>
+<p class="sommaire">CHARLOTTE, paysanne.</p>
+<p class="sommaire">MATHURINE, paysanne.</p>
+<p class="sommaire">PIERROT, paysan, amant de Charlotte.</p>
+<p class="sommaire">L<s>A</s> S<s>TATUE DU</s> C<s>OMMANDEUR</s>.</p>
+<p class="sommaire">LA VIOLETTE, valet de don Juan.</p>
+<p class="sommaire">RAGOTIN, valet de don Juan.</p>
+<p class="sommaire">M. DIMANCHE, marchand.</p>
+<p class="sommaire">LA RAMÉE, spadassin.</p>
+<p class="sommaire">S<s>UITE DE DON</s> J<s>UAN</s>.</p>
+<p class="sommaire">S<s>UITE DE DON</s> C<s>ARLOS, ET DE DON</s> A<s>LONSE</s>, frères.</p>
+<p class="sommaire">U<s>N</s> S<s>PECTRE</s>.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est en Sicile.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p01">ACTE PREMIER</h2>
+
+<p>Le théâtre représente un palais.</p>
+
+<h3 id="p02">SCÈNE I. — SGANARELLE, GUSMAN</h3>
+
+<hstage><speaker>SGANARELLE</speaker>, tenant une tabatière.</hstage>
+<p>Quoi que puisse dire Aristote et toute la philosophie, il <pagenum num="48"/>n’est rien d’égal au tabac : c’est la passion des honnêtes gens, et qui vit sans tabac n’est pas digne de vivre. Non seulement il réjouit et purge les cerveaux humains, mais encore il instruit les âmes à la vertu, et l’on apprend avec lui à devenir honnête homme. Ne voyez-vous pas bien, dès qu’on en prend, de quelle manière obligeante on en use avec tout le monde, on est ravi d’en donner à droite et à gauche, partout où l’on se trouve ? On n’attend pas même qu’on en demande, et l’on court au devant du souhait des gens ; tant il est vrai que le tabac inspire des sentiments d’honneur et de vertu à tous ceux qui en prennent<noteref noteid="note.48.1"/>. Mais c’est assez de cette matière, reprenons un peu notre discours. Si bien donc, cher Gusman, que done Elvire, ta maîtresse, surprise de notre départ, s’est mise en campagne après nous ; et son cœur, que mon maître a su toucher trop fortement, n’a pu vivre, dis-tu, sans le venir chercher ici. Veux-tu qu’entre nous je te dise ma pensée ? J’ai peur qu’elle ne soit mal payée de son amour, que son voyage en cette ville produise peu de fruit, et que vous eussiez autant gagné à ne bouger de là.</p>
+
+<notes>
+  <note id="note.48.1">
+    <p>On sait que le tabac fut apporté en France par Nicot, ambassadeur de François II, à Madrid. L’introduction de cette plante donna lieu à de très vives discussions.</p>
+  </note>
+</notes>
+
+<hstage><speaker>GUSMAN</speaker></hstage>
+<p>Et la raison encore ? Dis-moi, je te prie, Sganarelle, qui peut t’inspirer une peur d’un si mauvais augure ? Ton maître t’a-t-il ouvert son cœur là-dessus, et t’a-t-il dit qu’il eût pour nous quelque froideur qui l’ait obligé à partir.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non pas ; mais, à vue de pays, je connois à peu près le train des choses, et, sans qu’il m’ait encore rien dit, je gagerois presque que l’affaire va là. Je pourrois peut-être me tromper ; mais enfin, sur de tels sujets, l’expérience m’a pu donner quelques lumières.</p>
+
+<hstage><speaker>GUSMAN</speaker></hstage>
+<p>Quoi ! ce départ si peu prévu seroit une infidélité de don Juan ? Il pourroit faire cette injure aux chastes feux de done Elvire ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, c’est qu’il est jeune encore, et qu’il n’a pas le courage...</p>
+
+<hstage><speaker>GUSMAN</speaker></hstage>
+<p>Un homme de sa qualité feroit une action si lâche ?</p>
+
+<pagenum num="49"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! oui, sa qualité ! La raison en est belle ; et c’est par là qu’il s’empêcheroit des choses !</p>
+
+<hstage><speaker>GUSMAN</speaker></hstage>
+<p>Mais les saints nœuds du mariage le tiennent engagé.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! mon pauvre Gusman, mon ami, tu ne sais pas encore, crois-moi, quel homme est don Juan.</p>
+
+<hstage><speaker>GUSMAN</speaker></hstage>
+<p>Je ne sais pas, de vrai, quel homme il peut être, s’il faut qu’il nous ait fait cette perfidie ; et je ne comprends point comme, après tant d’amour et tant d’impatience témoignée, tant d’hommages pressants, de vœux, de soupirs et de larmes, tant de lettres passionnées, de protestations ardentes et de serments réitérés, tant de transports enfin, et tant d’emportements qu’il a fait paroître, jusqu’à forcer, dans sa passion, l’obstacle sacré d’un couvent, pour mettre done Elvire en sa puissance ; je ne comprends pas, dis-je, comme, après tout cela, il auroit le cœur de pouvoir manquer à sa parole.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je n’ai pas grande peine à le comprendre, moi ; et, si tu connoissois le pèlerin, tu trouverois la chose assez facile pour lui. Je ne dis pas qu’il ait changé de sentiments pour done Elvire, je n’en ai point de certitude encore. Tu sais que, par son ordre, je partis avant lui ; et, depuis son arrivée, il ne m’a point entretenu ; mais, par précaution, je t’apprends, <i>inter nos,</i> que tu vois en don Juan, mon maître, le plus grand scélérat que la terre ait jamais porté, un enragé, un chien, un diable, un turc, un hérétique, qui ne croit ni ciel, ni saint, ni Dieu, ni loup-garou, qui passe cette vie en véritable bête brute, un pourceau d’Épicure, un vrai Sardanapale, qui ferme l’oreille à toutes les remontrances chrétiennes qu’on lui peut faire, et traite de billevesées tout ce que nous croyons. Tu me dis qu’il a épousé ta maîtresse ; crois qu’il auroit plus fait pour contenter sa passion, et qu’avec elle il auroit encore épousé toi, son chien et son chat. Un mariage ne lui coûte rien à contracter ; il ne se sert point d’autres pièges pour attraper les belles ; et c’est un épouseur à toutes mains. Dame, demoiselle, bourgeoise, paysanne, il ne trouve rien de trop chaud ni de trop froid pour lui ; et, si je te disois le nom de toutes celles qu’il a épousées en divers lieux, ce seroit un <pagenum num="50"/>chapitre à durer jusqu’au soir. Tu demeures surpris, et changes de couleur à ce discours : ce n’est là qu’une ébauche du personnage ; et, pour en achever le portrait, il faudroit bien d’autres coups de pinceau. Suffit qu’il faut que le courroux du ciel l’accable quelque jour ; qu’il me vaudroit bien mieux d’être au diable que d’être à lui, et qu’il me fait voir tant d’horreurs, que je souhaiterois qu’il fût déjà je ne sais où. Mais un grand seigneur méchant homme est une terrible chose ; il faut que je lui sois fidèle, en dépit que j’en aie ; la crainte en moi fait l’office du zèle, bride mes sentiments, et me réduit d’applaudir bien souvent à ce que mon âme déteste. Le voilà qui vient se promener dans ce palais, séparons-nous. Écoute, au moins : je t’ai fait cette confidence avec franchise, et cela m’est sorti un peu bien vite de la bouche ; mais, s’il falloit qu’il en vînt quelque chose à ses oreilles, je dirois hautement que tu aurois menti.</p>
+
+<h3 id="p03">SCÈNE II. — DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Quel homme te parloit là ? Il a bien l’air, ce me semble, du bon Gusman de done Elvire.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est quelque chose aussi à peu près comme cela.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Quoi ! c’est lui !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Lui-même.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et depuis quand est-il en cette ville ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>D’hier au soir.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et quel sujet l’amène ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je crois que vous jugez assez ce qui le peut inquiéter.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Notre départ, sans doute ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Le bonhomme en est tout mortifié, et m’en demandoit le sujet.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et quelle réponse as-tu faite ?</p>
+
+<pagenum num="51"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Que vous ne m’en aviez rien dit.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Mais encore, quelle est ta pensée là-dessus ? Que t’imagines-tu de cette affaire ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Moi ? Je crois, sans vous faire tort, que vous avez quelque nouvel amour en tête.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Tu le crois ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ma foi, tu ne te trompes pas, et je dois t’avouer qu’un autre objet a chassé Elvire de ma pensée.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! mon Dieu ! je sais mon don Juan sur le bout du doigt, et connois votre cœur pour le plus grand coureur du monde ; il se plaît à se promener de liens en liens, et n’aime guère à demeurer en place.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et ne trouves-tu pas, dis-moi, que j’ai raison d’en user de la sorte ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! monsieur...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Quoi ? Parle.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Assurément que vous avez raison, si vous le voulez ; on ne peut pas aller là contre. Mais, si vous ne le vouliez pas, ce seroit peut-être une autre affaire.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Eh bien, je te donne la liberté de parler, et de me dire tes sentiments.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>En ce cas monsieur, je vous dirai franchement que je n’approuve point votre méthode, et que je trouve fort vilain d’aimer de tous côtés, comme vous faites.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Quoi ! tu veux qu’on se lie à demeurer au premier objet qui nous prend, qu’on renonce au monde pour lui, et qu’on n’ait plus d’yeux pour personne ? La belle chose de vouloir <pagenum num="52"/>se piquer d’un faux honneur d’être fidèle, de s’ensevelir pour toujours dans une passion, et d’être mort dès sa jeunesse à toutes les autres beautés qui nous peuvent frapper les yeux ! Non, non, la constance n’est bonne que pour des ridicules ; toutes les belles ont droit de nous charmer, et l’avantage d’être rencontrée la première ne doit point dérober aux autres les justes prétentions qu’elles ont toutes sur nos cœurs. Pour moi, la beauté me ravit partout où je la trouve, et je cède facilement à cette douce violence dont elle nous entraîne. J’ai beau être engagé, l’amour que j’ai pour une belle n’engage point mon âme à faire une injustice aux autres ; je conserve des yeux pour voir le mérite de toutes, et rends à chacune les hommages et les tributs où la nature nous oblige. Quoi qu’il en soit, je ne puis refuser mon cœur à tout ce que je vois d’aimable ; et, dès qu’un beau visage me le demande, si j’en avois dix mille, je les donnerois tous. Les inclinations naissantes, après tout, ont des charmes inexplicables, et tout le plaisir de l’amour est dans le changement. On goûte une douceur extrême à réduire, par cent hommages, le cœur d’une jeune beauté, à voir de jour en jour les petits progrès qu’on y fait, à combattre, par des transports, par des larmes et des soupirs, l’innocente pudeur d’une âme qui a peine à rendre les armes, à forcer pied à pied toutes les petites résistances qu’elle nous oppose, à vaincre les scrupules dont elle se fait un honneur, et la mener doucement où nous avons envie de la faire venir. Mais, lorsqu’on en est maître une fois, il n’y a plus rien à dire ni plus rien à souhaiter ; tout le beau de la passion est fini, et nous nous endormons dans la tranquillité d’un tel amour, si quelque objet nouveau ne vient réveiller nos désirs, et présenter à notre cœur les charmes attrayants d’une conquête à faire. Enfin, il n’est rien de si doux que de triompher de la résistance d’une belle personne ; et j’ai, sur ce sujet, l’ambition des conquérants qui volent perpétuellement de victoire en victoire, et ne peuvent se résoudre à borner leurs souhaits. Il n’est rien qui puisse arrêter l’impétuosité de mes désirs, je me sens un cœur à aimer toute la terre ; et, comme Alexandre, je souhaiterois qu’il y eût d’autres mondes pour y pouvoir étendre mes conquêtes amoureuses.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vertu de ma vie, comme vous débitez ! Il semble que vous ayez appris cela par cœur, et vous parlez tout comme un livre.</p>
+
+<pagenum num="53"/>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Qu’as-tu à dire là-dessus ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, j’ai à dire... Je ne sais que dire ; car vous tournez les choses d’une manière, qu’il semble que vous avez raison ; et cependant il est vrai que vous ne l’avez pas. J’avois les plus belles pensées du monde, et vos discours m’ont brouillé tout cela. Laissez faire ; une autre fois je mettrai mes raisonnements par écrit, pour disputer avec vous.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Tu feras bien.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mais, monsieur, cela seroit-il de la permission que vous m’avez donnée, si je vous disois que je suis tant soit peu scandalisé de la vie que vous menez ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Comment ! quelle vie est-ce que je mène ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Fort bonne. Mais, par exemple, de vous voir tous les mois vous marier comme vous faites...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Y a t-il rien de plus agréable ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il est vrai. Je conçois que cela est fort agréable et fort divertissant, et je m’en accommoderois assez, moi, s’il n’y avoit point de mal ; mais, monsieur, se jouer ainsi d’un mystère sacré, et...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Va, va, c’est une affaire entre le ciel et moi, et nous la démêlerons bien ensemble sans que tu t’en mettes en peine.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, monsieur, j’ai toujours ouï dire que c’est une méchante raillerie que de se railler du ciel, et que les libertins ne font jamais une bonne fin.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Holà ! maître sot ! Vous savez que je vous ai dit que je n’aime pas les faiseurs de remontrances.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je ne parle pas aussi à vous, Dieu m’en garde ! vous savez ce que vous faites, vous ; et, si vous ne croyez rien, vous avez vos raisons ; mais il y a certains petits impertinents dans le <pagenum num="54"/>monde, qui sont libertins sans savoir pourquoi, qui font les esprits forts, parce qu’ils croient que cela leur sied bien ; et, si j’avois un maître comme cela, je lui dirois fort nettement, le regardant en face : Osez-vous bien ainsi vous jouer au ciel, et ne tremblez-vous point de vous moquer comme vous faites des choses les plus saintes ? C’est bien à vous, petit ver de terre, petit myrmidon que vous êtes (je parle au maître que j’ai dit), c’est bien à vous à vouloir vous mêler de tourner en raillerie ce que tous les hommes révèrent ! Pensez-vous que, pour être de qualité, pour avoir une perruque blonde et bien frisée, des plumes à votre chapeau, un habit bien doré, et des rubans couleur de feu (ce n’est pas à vous que je parle, c’est à l’autre), pensez-vous, dis-je, que vous en soyez plus habile homme, que tout vous soit permis, et qu’on n’ose vous dire vos vérités ? Apprenez de moi, qui suis votre valet, que le ciel punit tôt ou tard les impies, qu’une méchante vie amène une méchante mort, et que...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Paix !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>De quoi est-il question ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il est question de te dire qu’une beauté me tient au cœur, et qu’entraîné par ses appas je l’ai suivie jusqu’en cette ville.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Et n’y craignez-vous rien, monsieur, de la mort de ce commandeur que vous tuâtes il y a six mois ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et pourquoi craindre ? ne l’ai-je pas bien tué ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Fort bien, le mieux du monde, et il auroit tort de se plaindre.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>J’ai eu ma grâce de cette affaire.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui ; mais cette grâce n’éteint pas peut-être le ressentiment des parents et des amis ; et...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah ! n’allons point songer au mal qui nous peut arriver, et songeons seulement à ce qui nous peut donner du plaisir. La personne dont je te parle est une jeune fiancée, la plus agréable du monde, qui a été conduite ici par celui même <pagenum num="55"/>qu’elle vient épouser, et le hasard me fit voir ce couple d’amants trois ou quatre jours avant leur voyage. Jamais je n’ai vu deux personnes être si contents l’un de l’autre, et faire éclater plus d’amour. La tendresse visible de leurs mutuelles ardeurs me donna de l’émotion ; j’en fus frappé au cœur, et mon amour commença par la jalousie. Oui, je ne pus souffrir d’abord de les voir si bien ensemble ; le dépit alluma mes désirs, et je me figurai un plaisir extrême à pouvoir troubler leur intelligence et rompre cet attachement, dont la délicatesse de mon cœur se tenoit offensée ; mais jusques ici tous mes efforts ont été inutiles, et j’ai recours au dernier remède. Cet époux prétendu doit aujourd’hui régaler sa maîtresse d’une promenade sur mer. Sans t’en avoir rien dit, toutes choses sont préparées pour satisfaire mon amour, et j’ai une petite barque et des gens, avec quoi fort facilement je prétends enlever la belle.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! monsieur...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Hein ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est fort bien fait à vous, et vous le prenez comme il faut. Il n’est rien tel en ce monde que de se contenter.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Prépare-toi donc à venir avec moi, et prends soin toi-même d’apporter toutes mes armes, afin que... <stage>Apercevant done Elvire.</stage> Ah ! rencontre fâcheuse ! Traître ! tu ne m’avois pas dit qu’elle étoit ici elle-même.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, vous ne me l’avez pas demandé.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Est-elle folle de n’avoir pas changé d’habit, et de venir en ce lieu-ci avec son équipage de campagne !</p>
+
+<h3 id="p04">SCÈNE III. — DONE ELVIRE, DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Me feriez-vous la grâce, don Juan, de vouloir bien me reconnoître ? Et puis-je au moins espérer que vous daigniez tourner le visage de ce côté ?</p>
+
+<pagenum num="56"/>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Madame, je vous avoue que je suis surpris, et que je ne vous attendois pas ici.</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Oui, je vois bien que vous ne m’y attendiez pas, et vous êtes surpris, à la vérité, mais tout autrement que je ne l’es-pérois ; et la manière dont vous le paroissez me persuade pleinement ce que je refusois de croire. J’admire ma simplicité, et la foiblessc de mon cœur, à douter d’une trahison que tant d’apparences me confirment. J’ai été assez bonne, je le confesse, ou plutôt assez sotte, pour vouloir me tromper moi-même, et travailler à démentir mes yeux et mon jugement. J’ai cherché des raisons pour excuser à ma tendresse le relâchement d’amitié qu’elle voyoit en vous ; et je me suis forgé exprès cent sujets légitimes d’un départ si précipité, pour vous justifier du crime dont ma raison vous accusoit. Mes justes soupçons chaque jour avoient beau me parler, j’en rejetois la voix qui vous rendoit criminel à mes yeux, et j’écoutois avec plaisir mille chimères ridicules, qui vous peignoient innocent à mon cœur ; mais enfin cet abord ne me permet plus de douter, et le coup d’œil qui m’a reçue m’apprend bien plus de choses que je ne voudrois en savoir. Je serois bien aise pourtant d’ouïr de votre bouche les raisons de votre départ. Parlez, don Juan, je vous prie, et voyons de quel air vous saurez vous justifier.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Madame, voilà Sganarelle qui sait pourquoi je suis parti.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, bas, à don Juan.</hstage>
+<p>Moi, monsieur ? Je n’en sais rien, s’il vous plaît.</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Eh bien, Sganarelle, parlez. Il n’importe de quelle bouche j’entende ces raisons.</p>
+
+<hstage><speaker>DON JUAN</speaker>, faisant signe à Sganarelle d’approcher.</hstage>
+<p>Allons, parle donc à madame.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, bas, à don Juan.</hstage>
+<p>Que voulez-vous que je dise ?</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Approchez, puisqu’on le veut ainsi, et me dites un peu les causes d’un départ si prompt.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Tu ne répondras pas ?</p>
+
+<pagenum num="57"/>
+
+<hstage><speaker>SGANARELLE</speaker>, bas, à don Juan.</hstage>
+<p>Je n’ai rien à répondre. Vous vous moquez de votre serviteur.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Veux-tu répondre, te dis-je !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Madame...</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Quoi ?</p>
+
+<hstage><speaker>SGANARELLE</speaker>, se tournant vers son maître.</hstage>
+<p>Monsieur...</p>
+
+<hstage><speaker>DON JUAN</speaker>, en le menaçant.</hstage>
+<p>Si...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Madame, les conquérants, Alexandre et les autres mondes sont cause de notre départ. Voilà, monsieur, tout ce que je puis dire.</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Vous plaît-il, don Juan, nous éclaircir ces beaux mystères ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Madame, à vous dire la vérité...</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Ah ! que vous savez mal vous défendre pour un homme de cour, et qui doit être accoutumé à ces sortes de choses ! J’ai pitié de vous voir la confusion que vous avez. Que ne vous armez-vous le front d’une noble effronterie ? Que ne me jurez-vous que vous êtes toujours dans les mêmes sentiments pour moi, que vous m’aimez toujours avec une ardeur sans égale, et que rien n’est capable de vous détacher de moi que la mort ? Que ne me dites-vous que des affaires de la dernière conséquence vous ont obligé à partir sans m’en donner avis ; qu’il faut que, malgré vous, vous demeuriez ici quelque temps, et que je n’ai qu’à m’en retourner d’où je viens, assurée que vous suivrez mes pas le plus tôt qu’il vous sera possible ; qu’il est certain que vous brûlez de me rejoindre, et qu’éloigné de moi vous souffrez ce que souffre un corps qui est séparé de son âme ? Voilà comme il faut vous défendre, et non pas être interdit comme vous êtes.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Je vous avoue, madame, que je n’ai point le talent de dissimuler, et que je porte un cœur sincère. Je ne vous dirai point que je suis toujours dans les mêmes sentiments pour <pagenum num="58"/>vous, et que je brûle de vous rejoindre, puisqu’enfin il est assuré que je ne suis parti que pour vous fuir, non point pour les raisons que vous pouvez vous figurer, mais par un pur motif de conscience, et pour ne croire pas qu’avec vous davantage je puisse vivre sans péché. Il m’est venu des scrupules, madame, et j’ai ouvert les yeux de l’âme sur ce que je faisois. J’ai fait réflexion que, pour vous épouser, je vous ai dérobée à la clôture d’un couvent, que vous avez rompu des vœux qui vous engageoient autre part, et que le ciel est fort jaloux de ces sortes de choses. Le repentir m’a pris, et j’ai craint le courroux céleste. J’ai cru que notre mariage n’étoit qu’un adultère déguisé, qu’il nous attireroit quelque disgrâce d’en haut, et qu’enfin je devois tâcher de vous oublier, et vous donner moyen de retourner à vos premières chaînes. Voudriez-vous, madame, vous opposer à une si sainte pensée, et que j’allasse, en vous retenant, me mettre le ciel sur les bras ? que pour...</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Ah ! scélérat, c’est maintenant que je te connois tout entier ; et, pour mon malheur, je te connois lorsqu’il n’en est plus temps et qu’une telle connoissance ne peut plus me servir qu’à me désespérer ; mais sache que ton crime ne demeurera pas impuni, et que le même ciel dont tu te joues me saura venger de ta perfidie !</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Sganarelle, le ciel !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vraiment oui, nous nous moquons bien de cela, nous autres.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Madame...</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Il suffit. Je n’en veux pas ouïr davantage, et je m’accuse même d’en avoir trop entendu. C’est une lâcheté que de se faire expliquer trop sa honte ; et, sur de tels sujets, un noble cœur, au premier mot, doit prendre son parti. N’attends pas que j’éclate ici en reproches et en injures ; non, non, je n’ai point un courroux à exhaler en paroles vaines, et toute sa chaleur se réserve pour sa vengeance. Je te le dis encore, le ciel te punira, perfide, de l’outrage que tu me fais ; et, si le ciel n a rien que tu puisses appréhender, appréhende du moins la colère d’une femme offensée !</p>
+
+<pagenum num="59"/>
+
+<h3 id="p05">SCÈNE IV. — DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker> à part.</hstage>
+<p>Si le remords le pouvoit prendre !</p>
+
+<hstage><speaker>DON JUAN</speaker>, après un moment de réflexion.</hstage>
+<p>Allons songer à l’exécution de notre entreprise amoureuse.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, seul.</hstage>
+<p>Ah ! quel abominable maître me vois-je obligé de servir !</p>
+
+<vsep class="rule"/>
+
+<h2 id="p06">ACTE SECOND</h2>
+
+<p>Le théâtre représente une campagne au bord de la mer.</p>
+
+<h3 id="p07">SCÈNE I. — CHARLOTTE, PIERROT</h3>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Notre dinse, Piarrot, tu t’es trouvé là bian à point.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Parguienne, il ne s’en est pas fallu l’époisseur d’une éplingue, qu’il ne se sayant nayés tous deux.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>C’est donc le coup de vent d’à matin qui les avoit renvarsés dans la mar ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Aga<noteref noteid="note.59.1"/>, quien, Charlotte, je m’en vas te conter tout fin drait comme cela est venu ; car, comme dit l’autre, je les ai le premier avisés, avisés le premier je les ai. Enfin donc j’étions sur le bord de la mar, moi et le gros Lucas, et je nous amusions à batifoler avec des mottes de tarre que je nous jesquions à la tête ; car, comme tu sais bian, le gros Lucas aime à batifoler, et moi, par fouas, je batifole itou. En batifolant, donc, pisque batifoler y a, j’ai aparçu de tout loin queuque chose qui grouilloit dans gliau, et qui venoit comme envars nous par secousse. Je voyois cela fixiblement, et pis tout d’un coup je voyois que je ne voyois plus rian. Eh ! Lucas, ç’ai-je fait, je pense que vlà des hommes qui nageant là-bas. Voire, ce m’a-t-il fait, t’as été au trépassement d’un chat, t’as la vue trouble<noteref noteid="note.59.2"/>. Palsanguienne, ç’ai-je fait, je n’ai point la vue trouble, ce sont des hommes. Point du tout, ce m’a-t-il fait, t’as la barlue. Veux-tu gager, ç’ai-je fait, que je n’ai point <pagenum num="60"/>la barlue, ç’ai-je fait, et que ce sont deux hommes, ç’ai-je fait, qui nageant droit ici ? ç’ai-je fait. Morguienne, ce m’a-t-il fait, je gage que non. Oh ! çà, ç’ai-je fait, veux-tu gager dix sous que si ? Je le veux bian, ce m’a-t-il fait ; et, pour te montrer, vlà argent su jeu, ce m’a-t-il fait. Moi, je n’ai point été ni fou, ni étourdi ; j’ai bravement bouté à tarre quatre pièces tapées, et cinq sous en doubles, jemiguienne, aussi hardiment que si j’avois avalé un varre de vin ; car je sis hasardeux, moi, et je vas à la débandade. Je savois bian ce que je faisois pourtant. Queuque gniais ! Enfin donc, je n’avons pas putôt eu gagé, que j’avons vu les deux hommes tout à plain, qui nous faisiant signe de les aller quérir ; et moi, de tirer auparavant les enjeux. Allons, Lucas, ç’ai-je dit, tu vois bian qu’ils nous appelont ; allons vite à leu secours. Non, ce m’a-t-il dit, ils m’ont fait pardre. Oh ! donc, tanquia, qu’à la parfin, pour le faire court, je l’ai tant sarmonné, que je nous sommes boutés dans une barque, et pis, j’avons tant fait cahin caha, que je les avons tirés de gliau, et pis je les avons menés cheux nous auprès du feu, et pis ils se sant dépouillés tout nus pour se sécher, et pis il y en est venu encore deux de la même bande qui s’équiant sauvés tout seuls, et pis Mathurine est arrivée là, à qui l’en a fait les doux yeux. Vlà justement, Charlotte, comme tout ça s’est fait.</p>
+
+<notes>
+  <note id="note.59.1">
+    <p><i>Aga</i> aorte d’interjection qui exprime l’admiration, l’étonnement.</p>
+  </note>
+  <note id="note.59.2">
+    <p>On trouve dans la <i>Comédie des Proverbes</i> d’Adrien de Montluo : Tu as la barleu ; je crois que tu as été au trépassement d’un chat ; tu vois trouble.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Ne m’as-tu pas dit, Piarrot, qu’il y en a un qu’est bian pu mieux fait que les autres ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Oui, c’est le maître. Il faut que ce soit queuque gros, gros monsieu, car il a du dor a son habit tout depis le haut jusqu’en bas ; et ceux qui le servont sont des monsieux eux-mêmes ; et stapandant, tout gros monsieu qu’il est, il seroit par ma fiqué nayé si je n’aviomme été là.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Ardez un peu !</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Oh ! parguienne, sans nous, il en avoit pour sa maine de fèves<noteref noteid="note.60.1"/>.</p>
+
+<notes>
+  <note id="note.60.1">
+    <p>On dit figurément : il en a pour <i>sa mine de fèves,</i> pour : il a été attrapé, il en a eu pour son compte. La <i>mine</i> est une mesure qui contient la moitié d’un setier. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Est-il encore cheux toi tout nu, Piarrot ?</p>
+
+<pagenum num="61"/>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Nannain, ils l’avont r’habillé tout devant nous. Mon Guieu, je n’en avois jamais vu s’habiller. Que d’histoires et d’engingorniaux<noteref noteid="note.61.1"/> boutons ces messieux-là les courtisans ! Je me partirais là dedans, pour moi, et j’étois tout ébobi de voir çà. Quien, Charlotte, ils avont des cheveux qui ne tenont point à leu tête ; et ils boutont çà, après tout, comme un gros bonnet de filasse. Ils ant des chemises qui ant des manches où j’entrerions tout brandis, toi et moi. En glieu d’haut-de-chausse, ils portont un garde-robe<noteref noteid="note.61.2"/> aussi large que d’ici à Pâques ; en glieu de pourpoint, de petites brassières qui ne leu venont pas jusqu’au brichet<noteref noteid="note.61.3"/> ; et, en glieu de rabats, un grand mouchoir de cou à réziau, aveuc quatre grosses houppes de linge qui leu pendont sur l’estomaque. Ils avont itou d’autres petits rabats au bout des bras, et de grands enton-nois de passements aux jambes ; et, parmi tout ça, tant de rubans, tant de rubans, que c’est une vaie piquié. Ignia pas jusqu’aux souliers qui n’en soyont farcis tout depis un bout jusqu’à l’autre ; et ils sont faits d’une façon que je me romprais le cou aveuc.</p>
+
+<notes>
+  <note id="note.61.1">
+    <p><i>Engingomiaux,</i> fanfreluches, affiquets, ornements de cou.</p>
+  </note>
+  <note id="note.61.2">
+    <p>Les villageoises portaient alors sur leur jupon une espèce de tablier appelé <i>garde robe.</i></p>
+  </note>
+  <note id="note.61.3">
+    <p>Le creux qui est au haut de l’estomac. (Ménage.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Par ma fi, Piarrot, il faut que j’aille voir un peu ça.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Oh ! acoute un peu auparavant, Charlotte. J’ai queuque autre chose à te dire, moi.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Eh bian, dis, qu’est-ce que c’est ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Vois-tu, Charlotte, il faut, comme dit l’autre, que je débonde mon cœur. Je t’aime, tu le sais bian, et je sommes pour être mariés ensemble ; mais, marguienne, je ne suis point satisfait de toi.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Quement ? qu’est-ce que c’est donc qu’iglia ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Iglia que tu me chagraines l’esprit, franchement.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Et quement donc ?</p>
+
+<pagenum num="62"/>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Tétiguienne, tu ne m’aimes point.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Ah ! ah ! n’est-ce que ça ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Oui, ce n’est que ça, et c’est bien assez.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Mon Guieu, Piarrot, tu me viens toujou dire la même chose.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Je te dis toujou la même chose, parce que c’est toujou la même chose ; et, si ce n’étoit pas toujou la même chose, je ne te dirois pas toujou la même chose.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Mais qu’est-ce qu’il te faut ? Que veux-tu ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Jerniguienne ! je veux que tu m’aimes.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Est-ce que je ne t’aime pas ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Non, tu ne m’aimes pas, et si, je fais tout ce que je pis pour ça. Je t’achète, sans reproche, des rubans à tous les marciers qui passont ; je me romps le cou à t’aller dénicher des marles ; je fais jouer pour toi les vielleux quand ce vient ta fête ; et tout ça comme si je me frappois la tête contre un mur. Vois-tu, ça n’est ni biau ni honnête de n’aimer pas les gens qui nous aimont.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Mais, mon Guieu, je t’aime aussi.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Oui, tu m’aimes d’une belle dégaine !</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Quement veux-tu donc qu’on fasse ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Je veux que l’en fasse comme l’en fait, quand l’en aime comme il faut.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Ne t’aimé-je pas aussi comme il faut ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Non. Quand ça est, ça se voit, et l’en fait mille petites singeries aux parsonnes quand on les aime du bon cœur. <pagenum num="63"/>Regarde la grosse Thomasse, comme aile est assottée du jeune Robain ; aile est toujou autour de li à l’agacer, et ne le laisse jamais en repos. Toujou al li fait queuque niche, ou li baille queuque taloche en passant ; et l’autre jour qu’il étoit assis sur un escabiau, al fut le tirer de dessous li, et le fit choir tout de son long par tarre. Jarni, vlà où l’en voit les gens qui aimont ; mais toi, tu ne me dis jamais mot, t’es toujou là comme eune vraie souche de bois ; et je passerois vingt fois devant toi, que tu ne te grouillerais pas pour me bailler le moindre coup, ou me dire la moindre chose. Ventreguienne ! ça n’est pas bian, après tout ; et t’es trop froide pour les gens.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Que veux-tu que j’y fasse ? C’est mon himeur, et je ne me pis refondre.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Ignia himeur qui quienne. Quand en a de l’amiquié pour les parsonnes, l’en en baille toujou queuque petite signifiance.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Enfin, je t’aime tout autant que je pis ; et, si tu n’es pas content de ça, tu n’as qu’à en aimer queuque autre.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Eh bian, vlà pas mon compte ? Tétsigué ! si tu m’aimois, me dirois-tu ça ?</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Pourquoi me viens-tu aussi tarabuster l’esprit ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Morgué ! queu mal te fais-je ? Je ne te demande qu’un peu d’amiquié.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Eh bien, laisse faire aussi, et ne me presse point tant. Peut-être que ça viendra tout d’un coup sans y songer.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Touche donc là, Charlotte.</p>
+
+<hstage><speaker>CHARLOTTE</speaker>, donnant sa main.</hstage>
+<p>Eh bien, quien.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Promets-moi donc que tu tâcheras de m’aimer davantage.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>J’y ferai tout ce que je pourrai ; mais il faut que ça vienne de lui-même. Piarrot, est-ce là ce monsieu ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Oui, le vlà.</p>
+
+<pagenum num="64"/>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Ali ! mon Guieu, qu’il est genti, et que ç’auroit été dommage qu’il eût été nayé !</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Je revians tout à l’heure ; je m’en vas boire chopaine, pour me rebouter tant soit peu de la fatigue que j’ais eue<noteref noteid="note.64.1"/>.</p>
+
+<notes>
+  <note id="note.64.1">
+    <p>C’est dans le <i>Pédant joué</i>, de Cyrano de Bergerac, que se trouve, sur notre théâtre le premier emploi du langage des paysans. Cette scène en offre le second exemple.</p>
+  </note>
+</notes>
+
+<h3 id="p08">SCÈNE II. — DON JUAN, SGANARELLE ; CHARLOTTE, <i>dans le fond du théâtre.</i></h3>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Nous avons manqué notre coup, Sganarelle, et cette bourrasque imprévue a renversé avec notre barque le projet que nous avions fait ; mais, à te dire vrai, la paysanne que je viens de quitter répare ce malheur, et je lui ai trouvé des charmes qui effacent de mon esprit tout le chagrin que me donnoit le mauvais succès de notre entreprise. Il ne faut pas que ce cœur m’échappe, et j’y ai déjà jeté des dispositions à ne pas me souffrir longtemps de pousser des soupirs.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, j’avoue que vous m’étonnez. A peine sommes-nous échappés d’un péril de mort, qu’au lieu de rendre grâce au ciel de la pitié qu’il a daigné prendre de nous, vous travaillez tout de nouveau à attirer sa colère par vos fantaisies accoutumées, et vos amours cr... <stage>Don Juan prend un air menaçant.</stage> Paix, coquin que vous êtes, vous ne savez ce que vous dites, et monsieur sait ce qu’il fait. Allons.</p>
+
+<hstage><speaker>DON JUAN</speaker>, apercevant Charlotte.</hstage>
+<p>Ah ! ah ! d’où sort cette autre paysanne, Sganarelle ? As-tu rien vu de plus joli ? et ne trouves-tu pas, dis-moi, que celle-ci vaut bien l’autre ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Assurément. <stage>A part.</stage> Autre pièce nouvelle.</p>
+
+<hstage><speaker>DON JUAN</speaker>, à Charlotte.</hstage>
+<p>D’où me vient, la belle, une rencontre si agréable ? Quoi ! dans ces lieux champêtres, parmi ces arbres et ces rochers, on trouve des personnes faites comme vous êtes ?</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Vous voyez monsieu.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Êtes-vous de ce village ?</p>
+
+<pagenum num="65"/>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Oui, monsieu.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et vous y demeurez ?</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Oui, monsieu.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Vous vous appelez... ?</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Charlotte, pour vous servir.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah ! la belle personne, et que ses yeux sont pénétrants.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Monsieu, vous me rendez toute honteuse.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah ! n’ayez point de honte d’entendre dire vos vérités. Sganarelle, qu’en dis-tu ? Peut-on rien voir de plus agréable ? Tournez-vous un peu, s’il vous plaît. Ah ! que cette taille est jolie ! Haussez un peu la tête, de grâce. Ah ! que ce visage est mignon ! Ouvrez vos yeux entièrement. Ah ! qu’ils sont beaux ! Que je voie un peu vos dents, je vous prie. Ah ! qu’elles sont amoureuses, et ces lèvres appétissantes ! Pour moi, je suis ravi, et je n’ai jamais vu une si charmante personne.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Monsieu, cela vous plaît à dire, et je ne sais pas, si c’est pour vous railler de moi.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Moi, me railler de vous ? Dieu m’en garde ! Je vous aime trop pour cela, et c’est du fond du cœur que je vous parle.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Je vous suis bien obligée, si ça est.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Point du tout, vous ne m’êtes point obligée de tout ce que je dis ; et ce n’est qu’à votre beauté que vous en êtes redevable.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Monsieu, tout ça est trop bien dit pour moi, et je n’ai pas d’esprit pour vous répondre.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Sganarelle, regarde un peu ses mains.</p>
+
+<pagenum num="66"/>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Fi ! monsieu ! elles sont noires comme je ne sais quoi.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah ! que dites-vous là ? Elles sont les plus belles du monde : souffrez que je les baise, je vous prie.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Monsieu, c’est trop d’honneur que vous me faites ; et si j’avois su ça tantôt, je n’aurois pas manqué de les laver avec du son.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Eh ! dites-moi un peu, belle Charlotte, vous n’êtes pas mariée, sans doute ?</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Non, monsieu ; mais je dois bientôt l’être avec Piarrot, le fils de la voisine Simonette.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Quoi ! une personne comme vous seroit la femme d’un simple paysan ! Non, non, c’est profaner tant de beautés, et vous n’êtes pas née pour demeurer dans un village. Vous méritez, sans doute, une meilleure fortune ; et le ciel, qui le connoit bien, m’a conduit ici tout exprès pour empêcher ce mariage et rendre justice à vos charmes : car enfin, belle Charlotte, je vous aime de tout mon cœur, et il ne tiendra qu’à vous que je vous arrache de ce misérable lieu, et ne vous mette dans l’état où vous méritez d’être. Cet amour est bien prompt, sans doute ; mais quoi ! c’est un effet, Charlotte, de votre grande beauté ; et l’on vous aime autant en un quart d’heure qu’on feroit une autre en six mois.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Aussi vrai, monsieu, je ne sais comment faire quand vous parlez. Ce que vous me dites me fait aise, et j’aurois toutes les envies du monde de vous croire ; mais on m’a toujou dit qu’il ne faut jamais croire les monsieux, et que vous autres courtisans êtes des enjoleux, qui ne songez qu’à abuser les filles.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Je ne suis pas de ces gens-là.</p>
+
+<hstage><speaker>SGANARELLE, <i>à part.</i></speaker></hstage>
+<p>Il n’a garde.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Voyez-vous, monsieu, il n’y a pas de plaisir à se laisser abuser. Je suis une pauvre paysanne ; mais j’ai l’honneur en <pagenum num="67"/>recommandation, et j’aimerois mieux me voir morte que de me voir déshonorée.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Moi, j’aurois l’âme assez méchante pour abuser une personne comme vous ? je serois assez lâche pour vous déshonorer ? Non, non, j’ai trop de conscience pour cela. Je vous aime, Charlotte, en tout bien et en tout honneur ; et, pour vous montrer que je vous dis vrai, sachez que je n’ai point d’autre dessein que de vous épouser. En voulez-vous un plus grand témoignage ? M’y voilà prêt, quand vous voudrez ; et je prends à témoin l’homme que voilà, de la parole que je vous donne.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, non, ne craignez point. Il se mariera avec vous tant que vous voudrez.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah ! Charlotte, je vois bien que vous ne me connoissez pas encore. Vous me faites grand tort de juger de moi par les autres ; et, s’il y a des fourbes dans le monde, des gens qui ne cherchent qu’à abuser des filles, vous devez me tirer du nombre, et ne pas mettre en doute la sincérité de ma foi ; et puis votre beauté vous assure de tout. Quand on est faite comme vous, on doit être à couvert de toutes ces sortes de craintes : vous n’avez point l’air, croyez-moi, d’une personne qu’on abuse ; et, pour moi, je vous l’avoue, je me percerois le cœur de mille coups, si j’avois eu la moindre pensée de vous trahir.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Mon Dieu ! je ne sais si vous dites vrai ou non ; mais vous faites que l’on vous croit.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Lorsque vous me croirez, vous me rendrez justice assurément, et je vous réitère encore la promesse que je vous ai faite. Ne l’acceptez-vous pas ? et ne voulez-vous pas consentir à être ma femme ?</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Oui, pourvu que ma tante le veuille.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Touchez donc là, Charlotte, puisque vous le voulez bien de votre part.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Mais au moins, monsieu, ne m’allez point tromper, je vous <pagenum num="68"/>prie ! Il y auroit de la conscience à vous, et vous voyez comme j’y vais à la bonne foi.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Comment ! il semble que vous doutiez encore de ma sincérité ! Voulez-vous que je fasse des serments épouvantables ? Que le ciel...</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Mon Dieu ! ne jurez point ! je vous crois.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Donnez-moi donc un petit baiser pour gage de votre parole.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Oh ! monsieu, attendez que je soyons mariés, je vous prie. Après ça, je vous baiserai tant que vous voudrez.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Eh bien, belle Charlotte, je veux tout ce que vous voulez ; abandonnez-moi seulement votre main, et souffrez que, par mille baisers, je lui exprime le ravissement où je suis.</p>
+
+<h3 id="p09">SCÈNE III. — DON JUAN, SGANARELLE, PIERROT, CHARLOTTE</h3>
+
+<hstage><speaker>PIERROT</speaker>, poussant don Juan, qui baise la main de Charlotte.</hstage>
+<p>Tout doucement, monsieu ; tenez-vous, s’il vous plaît. Vous vous échauffez trop, et vous pourriez gagner la purésie.</p>
+
+<hstage><speaker>DON JUAN</speaker>, repoussant rudement Pierrot.</hstage>
+<p>Qui m’amène cet impertinent ?</p>
+
+<hstage><speaker>PIERROT</speaker>, se mettant entre don Juan et Charlotte.</hstage>
+<p>Je vous dis qu’ous vous tegniez, et qu’ous ne caressiais point nos accordées.</p>
+
+<hstage><speaker>DON JUAN</speaker>, repoussant encore Pierrot.</hstage>
+<p>Ah ! que de bruit !</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Jerniguienne ! ce n’est pas comme ça qu’il faut pousser les gens.</p>
+
+<hstage><speaker>CHARLOTTE</speaker>, prenant Pierrot par le bras.</hstage>
+<p>Eh ! laisse-le faire aussi, Piarrot.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Quement que je le laisse faire ? Je ne veux pas, moi.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah !</p>
+
+<pagenum num="69"/>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Tétiguienne ! parce qu’ous êtes monsieu, vous viendrez caresser nos femmes à notre barbe ? Allez-v’s’en caresser les vôtres.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Heu ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Heu. <stage>Don Juan lui donne un soufflet.</stage> Tétigué ! ne me frappez pas. <stage>Autre soufflet.</stage> Oh ! jerniguié ! <stage>Autre soufflet.</stage> Ventregué ! <stage>Autre soufflet.</stage> Palsangué ! morguienne ! ça n’est pas bian de battre les gens, et ce n’est pas là la récompense de v’s avoir sauvé d’être nayé.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Piarrot, ne te fâche point.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Je me veux fâcher ; et t’es une vilaine, toi, d’endurer qu’on te cajole.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Oh ! Piarrot, ce n’est pas ce que tu penses. Ce monsieu veut m’épouser, et tu ne dois pas te bouter en colère.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Quement ? jerni tu m’es promise.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Ça n’y fait rien, Piarrot. Si tu m’aimes, ne dois-tu pas être bien aise que je devienne madame ?</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Jerniguié ! non. J’aime mieux te voir crevée que de te voir à un autre.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Va, va, Piarrot, ne te mets pas en peine. Si je sis madame, je te ferai gagner queuque chose, et tu apporteras du beurre et du fromage cheux nous.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Ventreguienne ! je gni en porterai jamais, quand tu m’en payerais deux fois autant. Est-ce donc comme ça que t’écoute ce qu’il te dit ? Morguienne ! si j’avois su ça tantôt, je me serais bien gardé de le tirer de gliau, et je gli aurais baillé un bon coup d’aviron sur la tête.</p>
+
+<hstage><speaker>DON JUAN</speaker>, s’approchant de Pierrot pour le frapper.</hstage>
+<p>Qu’est-ce que vous dites ?</p>
+
+<hstage><speaker>PIERROT</speaker>, se mettant derrière Charlotte.</hstage>
+<p>Jemiguienne ! je ne crains personne.</p>
+
+<pagenum num="70"/>
+
+<hstage><speaker>DON JUAN</speaker>, passant du côté où est Pierrot.</hstage>
+<p>Attendez-moi un peu.</p>
+
+<hstage><speaker>PIERROT</speaker>, repassant de l’autre côté.</hstage>
+<p>Je me moque de tout, moi.</p>
+
+<hstage><speaker>DON JUAN</speaker>, courant après Pierrot.</hstage>
+<p>Voyons cela.</p>
+
+<hstage><speaker>PIERROT</speaker>, se sauvant encodrve derrière Charlotte.</hstage>
+<p>J’en avons bian vu d’autres.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ouais.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! monsieur, laissez là ce pauvre misérable. C’est conscience de le battre. <stage>A Piervot, en se mettant entre lui et don Juan.</stage> Écoute, mon pauvre garçon, retire-toi, et ne lui dis rien.</p>
+
+<hstage><speaker>PIERROT</speaker>, passant devant Sganarelle, et regardant fièvement don Juan.</hstage>
+<p>Je veux lui dire, moi.</p>
+
+<hstage><speaker>DON JUAN</speaker>, levant la main pour donner un soufflet à Pierrot.</hstage>
+<p>Ah ! je vous apprendrai. <stage>Pierrot baisse la tête, et Sganarelle reçoit le soufflet.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker>, regardant Pierrot.</hstage>
+<p>Peste soit du maroufle !</p>
+
+<hstage><speaker>DON JUAN</speaker>, à Sganarelle.</hstage>
+<p>Te voilà payé de ta charité.</p>
+
+<hstage><speaker>PIERROT</speaker></hstage>
+<p>Jarni ! je vas dire à sa tante tout ce ménage-ci.</p>
+
+<h3 id="p10">SCÈNE IV. — DON JUAN, CHARLOTTE, SGANARELLE</h3>
+
+<hstage><speaker>DON JUAN</speaker>, à Charlotte.</hstage>
+<p>Enfin je m’en vais être le plus heureux de tous les hommes, et je ne changerois pas mon bonheur à toutes les choses du monde. Que de plaisirs quand vous serez ma femme, et que...</p>
+
+<h3 id="p11">SCÈNE V. — DON JUAN, MATHURINE, CHARLOTTE, SGANARELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker>, apercevant Mathurine.</hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>MATHURINE</speaker>, à don Juan.</hstage>
+<p>Monsieu, que faites-vous donc là avec Charlotte ? Est-ce que vous lui parlez d’amour aussi ?</p>
+
+<pagenum num="71"/>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Mathurine.</hstage>
+<p>Non. Au contraire, c’est elle qui me témoignoit une envie d’être ma femme, et je lui répondois que j’étois engagé avec vous.</p>
+
+<hstage><speaker>CHARLOTTE</speaker>, à don Juan.</hstage>
+<p>Qu’est-ce que c’est donc que vous veut Mathurine ?</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Charlotte.</hstage>
+<p>Elle est jalouse de me voir vous parler, et voudroit bien que je l’épousasse ; mais je lui dis que c’est vous que je veux.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Quoi ! Charlotte...</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Mathurine.</hstage>
+<p>Tout ce que vous lui direz sera inutile ; elle s’est mis cela dans la tête.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Quement donc ! Mathurine...</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Charlotte.</hstage>
+<p>C’est en vain que vous lui parlerez ; vous ne lui ôterez point cette fantaisie.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Est-ce que...</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Mathurine.</hstage>
+<p>Il n’y a pas moyen de lui faire entendre raison.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Je voudrais...</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Charlotte.</hstage>
+<p>Elle est obstinée comme tous les diables.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Vrament...</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Mathurine.</hstage>
+<p>Ne lui dites rien, c’est une folle.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Je pense...</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Charlotte.</hstage>
+<p>Laissez-la, c’est une extravagante.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Non, non, il faut que je lui parle.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Je veux voir un peu ses raisons.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Quoi !...</p>
+
+<pagenum num="72"/>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Mathurine.</hstage>
+<p>Je gage qu’elle va vous dire que je lui ai promis de l’épouser.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Je...</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Charlotte.</hstage>
+<p>Gageons qu’elle vous soutiendra que je lui ai donné parole de la prendre pour femme.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Holà, Charlotte, ça n’est pas bian de courir sur le marché des autres.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Ça n’est pas honnête, Mathurine, d’être jalouse que monsieu me parle.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>C’est moi que monsieu a vue la première.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>S’il vous a vue la première, il m’a vue la seconde, et m’a promis de m’épouser.</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Mathurine.</hstage>
+<p>Eh bien, que vous ai-je dit ?</p>
+
+<hstage><speaker>MATHURINE</speaker>, à Charlotte.</hstage>
+<p>Je vous baise les mains ; c’est moi, et non pas vous, qu’il a promis d’épouser.</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Charlotte.</hstage>
+<p>N’ai-je pas deviné ?</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>A d’autres, je vous prie ; c’est moi, vous dis-je.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Vous vous moquez des gens ; c’est moi encore un coup</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Le vlà qui est pour le dire, si je n’ai pas raison.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Le vlà qui est pour me démentir, si je ne dis pas vrai.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Est-ce, monsieu, que vous lui avez promis de l’épouser ?</p>
+
+<hstage><speaker>DON JUAN,</speaker>, bas, à Charlotte.</hstage>
+<p>Vous vous raillez de moi.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Est-il vrai, monsieu, que vous lui avez donné parole d’être son mari ?</p>
+
+<pagenum num="73"/>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Mathurine.</hstage>
+<p>Pouvez-vous avoir cette pensée ?</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Vous voyez qu’al le soutient.</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Charlotte.</hstage>
+<p>Laissez-la faire.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Vous êtes témoin comme al l’assure.</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Mathurine</hstage>
+<p>Laissez-la dire.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Non, non, il faut savoir la vérité.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Il est question de juger ça.</p>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Oui, Mathurine, je veux que monsieu vous montre votre bec jaune<noteref noteid="note.73.1"/>.</p>
+
+<notes>
+  <note id="note.73.1">
+    <p>Bec jaune ou béjaune, se dit d’un oiseau fort jeune dont le bec est encore jaune, autrement un oiseau niais, ainsi nommé parce qu’il n’est pas encore sorti du nid ; de là le proverbe <i>montrer à quelqu’un son béjaune</i> lui faire voir qu’il n’est qu’un sot, un ignorant »</p>
+  </note>
+</notes>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Oui, Charlotte, je veux que monsieu vous rende un peu camuse<noteref noteid="note.73.2"/>.</p>
+
+<notes>
+  <note id="note.73.2">
+    <p>Métaphoriquement <i>casser le nez</i> rendre confus.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CHARLOTTE</speaker></hstage>
+<p>Monsieu, videz la querelle, s’il vous plaît.</p>
+
+<hstage><speaker>MATHURINE</speaker></hstage>
+<p>Mettez-nous d’accord, monsieu.</p>
+
+<hstage><speaker>CHARLOTTE</speaker>, à Mathurine.</hstage>
+<p>Vous allez voir.</p>
+
+<hstage><speaker>MATHURINE</speaker>, à Charlotte</hstage>
+<p>Vous allez voir vous-même.</p>
+
+<hstage><speaker>CHARLOTTE</speaker>, à don Juan.</hstage>
+<p>Dites.</p>
+
+<hstage><speaker>MATHURINE</speaker>, à don Juan.</hstage>
+<p>Parlez.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Que voulez-vous que je dise ? Vous soutenez également toutes deux que je vous ai promis de vous prendre pour femmes. Est-ce que chacune de vous ne sait pas ce qui en est, sans qu’il soit nécessaire que je m’explique davantage ? <pagenum num="74"/>Pourquoi m’obliger là-dessus à des redites ? Celle à qui j’ai promis effectivement n’a-t-elle pas, en elle-même, de quoi se moquer des discours de l’autre ; et doit-elle se mettre en peine, pourvu que j’accomplisse ma promesse ? Tous les discours n’avancent point les choses. Il faut faire, et non pas dire ; et les effets décident mieux que les paroles. Aussi n’est-ce rien que par là que je vous veux mettre d’accord ; et l’on verra, quand je me marierai, laquelle des deux a mon cœur. <stage>Bas, à Mathurine.</stage> Laissez-lui croire ce qu’elle voudra. <stage>Bas, à Charlotte.</stage> Laissez-la se flatter dans son imagination. <stage>Bas, à Mathurine.</stage> Tous les visages sont laids auprès du vôtre. <stage>Bas, à Charlotte.</stage> On ne peut plus souffrir les autres quand on vous a vue. <stage>Haut.</stage> J’ai un petit ordre à donner, je viens vous retrouver dans un quart d’heure.</p>
+
+<h3 id="p12">SCÈNE VI. — CHARLOTTE, MATHURINE, SGANARELLE</h3>
+
+<hstage><speaker>CHARLOTTE</speaker>, à Mathurine.</hstage>
+<p>Je suis celle qu’il aime, au moins.</p>
+
+<hstage><speaker>MATHURINE</speaker>, à Charlotte.</hstage>
+<p>C’est moi qu’il épousera.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, arrêtant Charlotte et Mathurine.</hstage>
+<p>Ah ! pauvres filles que vous êtes, j’ai pitié de votre innocence, et je ne puis souffrir de vous voir courir à votre malheur. Croyez-moi l’une et l’autre : ne vous amusez point à tous les contes qu’on vous fait, et demeurez dans votre village...</p>
+
+<h3 id="p13">SCÈNE VII. — DON JUAN, CHARLOTTE, MATHURINE, SGANARELLE</h3>
+
+<hstage><speaker>DON JUAN</speaker>, dans le fond du théâtre, à part.</hstage>
+<p>Je voudrois bien savoir pourquoi Sganarelle ne me suit pas.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mon maître est un fourbe, il n’a dessein que de vous abuser, et en a bien abusé d’autres, c’est l’épouseur du genre humain, et... <stage>Apercevant don Juan.</stage> Cela est faux ; et quiconque vous dira cela, vous lui devez dire qu’il en a menti. Mon maître n’est point l’épouseur du genre humain, il n’est point un fourbe, il n’a pas dessein de vous tromper, et n’en a point abusé d’autres. Ah ! tenez, le voilà ; demandez-le plutôt à lui-même.</p>
+
+<pagenum num="75"/>
+
+<hstage><speaker>DON JUAN</speaker>, regardant Sganarelle et le soupçonnant d’avoir parlé.</hstage>
+<p>Oui !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, comme le monde est plein de médisants, je vais au-devant des choses ; et je leur disois que si quelqu’un leur venoit dire du mal de vous, elles se gardassent bien de le croire, et ne manquassent pas de lui dire qu’il en auroit menti.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Sganarelle !</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à Charlotte et à Mathurine.</hstage>
+<p>Oui, monsieur est homme d’honneur ; je le garantis tel.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Hon !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ce sont des impertinents.</p>
+
+<h3 id="p14">SCÈNE VIII. — DON JUAN, LA RAMÉE, CHARLOTTE, MATHURINE, SGANARELLE</h3>
+
+<hstage><speaker>LA RAMÉE</speaker>, bas, à don Juan.</hstage>
+<p>Monsieur, je viens vous avertir qu’il ne fait pas bon ici pour vous.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>LA RAMÉE</speaker></hstage>
+<p>Douze hommes à cheval vous cherchent, qui doivent arriver ici dans un moment : je ne sais pas par quel moyen ils peuvent vous avoir suivi, mais j’ai appris cette nouvelle d’un paysan qu’ils ont interrogé, et auquel ils vous ont dépeint. L’affaire presse ; et le plus tôt que vous pourrez sortir d’ici sera le meilleur.</p>
+
+<h3 id="p15">SCÈNE IX. — DON JUAN, CHARLOTTE, MATHURINE, SGANARELLE</h3>
+
+<hstage><speaker>DON JUAN</speaker>, à Charlotte et à Mathurine.</hstage>
+<p>Une affaire pressante m’oblige de partir d’ici ; mais je vous prie de vous ressouvenir de la parole que je vous ai donnée, et de croire que vous aurez de mes nouvelles avant qu’il soit demain au soir.</p>
+
+<h3 id="p16">SCÈNE X. — DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Comme la partie n’est pas égale, il faut user de stratagème, <pagenum num="76"/>et éluder adroitement le malheur qui me cherche. Je veux que Sganarelle se revête de mes habits, et moi...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, vous vous moquez. M’exposer à être tué sous vos habits, et...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Allons, vite, c’est trop d’honneur que je vous fais ; et bien heureux est le valet qui peut avoir la gloire de mourir pour son maître !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous remercie d’un tel honneur. <stage>Seul.</stage> O ciel ! puisqu’il s’agit de mort, fais-moi la grâce de n’être point pris pour un autre<noteref noteid="note.76.1"/> !</p>
+
+<notes>
+  <note id="note.76.1">
+    <p>Ce second acte tout entier n’est qu’un épisode.</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h2 id="p17">ACTE TROISIÈME</h2>
+
+<p>Le théâtre représente une forêt.</p>
+
+<h3 id="p18">SCÈNE I. — DON JUAN, <i>en habit de campagne ;</i> SGANARELLE, <i>en médecin.</i></h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, monsieur, avouez que j’ai eu raison, et que nous voilà l’un et l’autre déguisés à merveille. Votre premier dessein n’étoit point du tout à propos, et ceci nous cache bien mieux que tout ce que vous vouliez faire.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il est vrai que te voilà bien ; et je ne sais où tu as été déterrer cet attirail ridicule.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui. C’est l’habit d’un vieux médecin qui a été laissé en gage au lieu où je l’ai pris, et il m’en a coûté de l’argent pour l’avoir. Mais savez-vous, monsieur, que cet habit me met déjà en considération, que je suis salué des gens que je rencontre, et que l’on me vient consulter ainsi qu’un habile homme ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Comment donc ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Cinq ou six paysans et paysannes, en me voyant passer, me sont venus demander mon avis sur différentes maladies.</p>
+
+<pagenum num="77"/>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Tu leur as répondu que tu n’y entendois rien ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Moi ? Point du tout. J’ai voulu soutenir l’honneur de mon habit ; j’ai raisonné sur le mal, et leur ai fait des ordonnances à chacun.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et quels remèdes encore leur as-tu ordonnés ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, monsieur, j’en ai pris par où j’en ai pu attraper ; j’ai fait mes ordonnances à l’aventure ; et ce seroit une chose plaisante si les malades guérissoient, et qu’on m’en vînt remercier.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et pourquoi non ? Par quelle raison n’aurois-tu pas les mêmes privilèges qu’ont tous les autres médecins ? Ils n’ont pas plus de part que toi aux guérisons des malades, et tout leur art est pure grimace. Ils ne font rien que recevoir la gloire des heureux succès ; et tu peux profiter, comme eux, du bonheur du malade, et voir attribuer à tes remèdes tout ce qui peut venir des faveurs du hasard et des forces de la nature_</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Comment, monsieur, vous êtes aussi impie en médecine ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>C’est une des grandes erreurs qui soient parmi les hommes.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quoi ! vous ne croyez pas au séné, ni à la casse, ni au vin émétique ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et pourquoi veux-tu que j’y croie ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous avez l’âme bien mécréante. Cependant vous voyez, depuis un temps, que le vin émétique fait bruire ses fuseaux. Ses miracles ont converti les plus incrédules esprits ; et il n’y a pas trois semaines que j’en ai vu, moi qui vous parle, un effet merveilleux.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et quel ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il y avoit un homme qui, depuis six jours, étoit à l’agonie ; on ne savoit plus que lui ordonner, et tous les remèdes ne faisoient rien ; on s’avisa à la fin de lui donner de l’émétique.</p>
+
+<pagenum num="78"/>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il réchappa, n’est-ce pas ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, il mourut.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>L’effet est admirable.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Comment ! il y avoit six jours entiers qu’il ne pouvoit mourir, et cela le fit mourir tout d’un coup. Voulez-vous rien de plus efficace ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Tu as raison.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mais laissons là la médecine, où vous ne croyez point, et parlons des autres choses ; car cet habit me donne de l’esprit, et je me sens en humeur de disputer contre vous. Vous savez bien que vous me permettez les disputes, et que vous ne me défendez que les remontrances.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Eh bien ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je veux savoir un peu vos pensées à fond. Est-il possible que vous ne croyiez point du tout au ciel ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Laissons cela.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est-à-dire que non. Et à l’enfer ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Eh !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tout de même. Et au diable, s’il vous plaît ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Oui, oui.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Aussi peu. Ne croyez-vous point à l’autre vie ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah ! ah ! ah !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Voilà un homme que j’aurai bien de la peine à convertir. Et dites-moi un peu, « le moine bourru<noteref noteid="note.78.1"/>, qu’en croyez-vous ? eh ?</p>
+
+<notes>
+  <note id="note.78.1">
+    <p>On appelait <i>moine bourru</i> un prétendu fantôme qui courait les rues la nuit et maltraitait les passants attardés ; les nourrices et les bonnes en faisaient peur aux enfants.</p>
+  </note>
+</notes>
+
+<pagenum num="79"/>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>« La peste soit du fat !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>« Et voilà ce que je ne puis souffrir ; car il n’y a rien de plus vrai que le moine bourru, et je me ferois pendre pour celui-là. Mais encore faut-il croire quelque chose dans le monde. Qu’est-ce donc que vous croyez<noteref noteid="note.79.1"/> ? »</p>
+
+<notes>
+  <note id="note.79.1">
+    <p>Les passages guillemetés ne se trouvent pas dans la première édition.</p>
+  </note>
+</notes>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ce que je crois ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Je crois que deux et deux sont quatre, Sganarelle, et que quatre et quatre sont huit.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>La belle croyance et les beaux articles de foi que voilà ! Votre religion, à ce que je vois, est donc l’arithmétique ? Il faut avouer qu’il se met d’étranges folies dans la tête des hommes et que, pour avoir bien étudié, on est bien moins sage le plus souvent. Pour moi, monsieur, je n’ai point étudié comme vous, Dieu merci, et personne ne sauroit se vanter de m’avoir jamais rien appris ; mais avec mon petit sens, mon petit jugement, je vois les choses mieux que tous les livres, et je comprends fort bien que ce monde que nous voyons n’est pas un champignon qui soit venu tout seul en une nuit. Je voudrais bien vous demander qui a fait ces arbres-là, ces rochers, cette terre, et ce ciel que voilà là-haut ; et si tout cela s’est bâti de lui-même. Vous voilà, vous, par exemple, vous êtes là : est-ce que vous vous êtes fait tout seul, et n’a-t-il pas fallu que votre père ait engrossé votre mère pour vous faire ? Pouvez-vous voir toutes les inventions dont la machine de l’homme est composée, sans admirer de quelle façon cela est agencé l’un dans l’autre ? ces nerfs, ces os, ces veines, ces artères, ces..., ce poumon, ce cœur, ce foie, et tous ces autres ingrédients qui sont là, et qui... Oh ! dame, interrompez-moi donc, si vous voulez. Je ne saurais disputer, si l’on ne m’interrompt. Vous vous taisez exprès, et me laissez parler par belle malice.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>J’attends que ton raisonnement soit fini.</p>
+
+<pagenum num="80"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mon raisonnement est qu’il y a quelque chose d’admirable dans l’homme, quoi que vous puissiez dire, que tous les savants ne sauroient expliquer. Cela n’est-il pas merveilleux que me voilà ici, et que j’aie quelque chose dans la tête qui pense cent choses différentes en ce moment, et fait de mon corps tout ce qu’elle veut ? Je veux frapper des mains, hausser le bras, lever les yeux au ciel, baisser la tête, remuer les pieds, aller à droit, à gauche, en avant, en arrière, tourner... <stage>Il se laisse tomber en tournant.</stage></p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Bon ! voilà ton raisonnement qui a le nez cassé !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Morbleu ! je suis bien sot de m’amuser à raisonner avec vous ; croyez ce que vous voudrez : il m’importe bien que vous soyez damné !</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Mais, tout en raisonnant, je crois que nous sommes égarés. Appelle un peu cet homme que voilà là-bas pour lui demander le chemin.</p>
+
+<h3 id="p19">SCÈNE II. — DON JUAN, SGANARELLE, UN PAUVRE<noteref noteid="note.80.1"/></h3>
+
+<notes>
+  <note id="note.80.1">
+    <p>Cette scène et la précédente, que l’on croyait perdues, furent publiées pour la première fois en 1813, par M. Simonin. Il les découvrit toutes deux dans l’édition d’Amsterdam de 1683.</p>
+  </note>
+</notes>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Holà ! ho ! l’homme ! ho ! mon compère ! ho ! l’ami ! un petit mot, s’il vous plaît. Enseignez-nous un peu le chemin qui mène à la ville.</p>
+
+<hstage><speaker>LE PAUVRE</speaker></hstage>
+<p>Vous n’avez qu’à suivre cette route, messieurs, et détourner à main droite quand vous serez au bout de la forêt ; mais je vous donne avis que vous devez vous tenir sur vos gardes, et que, depuis quelque temps, il y a des voleurs ici autour.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Je te suis obligé, mon ami, et je te rends grâce de tout mon cœur.</p>
+
+<hstage><speaker>LE PAUVRE</speaker></hstage>
+<p>Si vous vouliez me secourir, monsieur, de quelque aumône.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah ! ah ! ton avis est intéressé, à ce que je vois.</p>
+
+<pagenum num="81"/>
+
+<hstage><speaker>LE PAUVRE</speaker></hstage>
+<p>Je suis un pauvre homme, monsieur, retiré tout seul dans ce bois depuis dix ans, et je ne manquerai pas de prier le ciel qu’il vous donne toute sorte de biens.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Eh ! prie le ciel qu’il te donne un habit, sans te mettre en peine des affaires des autres.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous ne connoissez pas monsieur, bonhomme : il ne croit qu’en deux et deux sont quatre, et en quatre et quatre sont huit.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Quelle est ton occupation parmi ces arbres ?</p>
+
+<hstage><speaker>LE PAUVRE</speaker></hstage>
+<p>De prier le ciel tout le jour pour la prospérité des gens de bien qui me donnent quelque chose.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il ne se peut donc pas que tu ne sois bien à ton aise ?</p>
+
+<hstage><speaker>LE PAUVRE</speaker></hstage>
+<p>Hélas ! monsieur, je suis dans la plus grande nécessité du monde.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Tu te moques : un homme qui prie le ciel tout le jour ne peut pas manquer d’être bien dans ses affaires.</p>
+
+<hstage><speaker>LE PAUVRE</speaker></hstage>
+<p>Je vous assure, monsieur, que le plus souvent je n’ai pas un morceau de pain à mettre sous les dents.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Voilà qui est étrange, et tu es bien mal reconnu de tes soins. Ah ! ah ! je m’en vais te donner un louis d’or tout à l’heure, pourvu que tu veuilles jurer.</p>
+
+<hstage><speaker>LE PAUVRE</speaker></hstage>
+<p>Ah ! monsieur, voudriez-vous que je commisse un tel péché ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Tu n’as qu’à voir si tu veux gagner un louis d’or, ou non ; en voici un que je te donne, si tu jures. Tiens, Il faut jurer.</p>
+
+<hstage><speaker>LE PAUVRE</speaker></hstage>
+<p>Monsieur...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>A moins de cela, tu ne l’auras pas.</p>
+
+<pagenum num="82"/>
+
+<hstage><speaker>SGNARELLE</speaker></hstage>
+<p>Va, va, jure un peu ; il n’y a pas de mal.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Prends, le voilà, prends, te dis-je ; mais jure donc.</p>
+
+<hstage><speaker>LE PAUVRE</speaker></hstage>
+<p>Non, monsieur, j’aime mieux mourir de faim.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Va, va, je te le donne pour l’amour de l’humanité<noteref noteid="note.82.1"/>. <stage>Regardant dans la forêt.</stage> Mais que vois-je là ? un homme attaqué par trois autres ! La partie est trop inégale, et je ne dois pas souffrir cette lâcheté<noteref noteid="note.82.2"/>. <stage>Il met l’épée a la main, et court au lieu du combat.</stage></p>
+
+<notes>
+  <note id="note.82.1">
+    <p>Cette scène ne fut dite qu’une fois sur le théâtre. Molière fut obligé de la supprimer à la seconde représentation.</p>
+  </note>
+  <note id="note.82.2">
+    <p>Voilà le seul bon mouvement qu’ait don Juan dans toute la pièce. Au théâtre, les scélérats sont ordinairement braves.</p>
+  </note>
+</notes>
+
+<h3 id="p20">SCÈNE III. — SGANARELLE, <i>seul.</i></h3>
+
+<p>Mon maître est un vrai enragé d’aller se présenter à un péril qui ne le cherche pas. Mais, ma foi, le secours a servi, et les deux ont fait fuir les trois.</p>
+
+<h3 id="p21">SCÈNE IV. — DON JUAN, DON CARLOS, SGANARELLE, <i>au fond du théâtre.</i></h3>
+
+<hstage><speaker>DON CARLOS</speaker>, remettant son épée.</hstage>
+<p>On voit, par la fuite de ces voleurs, de quel secours est votre bras. Souffrez, monsieur, que je vous rende grâces d’une action si généreuse, et que...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Je n’ai rien fait, monsieur, que vous n’eussiez fait en ma place. Notre propre honneur est intéressé dans de pareilles aventures ; et l’action de ces coquins étoit si lâche, que c’eût été y prendre part que de ne s’y pas opposer. Mais par quelle rencontre vous êtes-vous trouvé entre leurs mains ?</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Je m’étois, par hasard, égaré d’un frère et de tous ceux de notre suite ; et, comme je cherchois à les rejoindre, j’ai fait rencontre de ces voleurs, qui d’abord ont tué mon cheval, et qui, sans votre valeur, en auroient fait autant de moi.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Votre dessein est-il d’aller du côté de la ville ?</p>
+
+<pagenum num="83"/>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Oui, mais sans y vouloir entrer ; et nous nous voyons obligés, mon frère et moi, à tenir la campagne pour une de ces fâcheuses affaires qui réduisent les gentilshommes à se sacrifier eux et leur famille à la sévérité de leur honneur, puisque enfin le plus doux succès en est toujours funeste, et que, si l’on ne quitte pas la vie, on est contraint de quitter le royaume ; et c’est en quoi je trouve la condition d’un gentilhomme malheureuse, de ne pouvoir point s’assurer sur toute la prudence et toute l’honnêteté de sa conduite, d’être asservi par les lois de l’honneur au dérèglement de la conduite d’autrui, et de voir sa vie, son repos, et ses biens dépendre de la fantaisie du premier téméraire qui s’avisera de lui faire une de ces injures pour qui un honnête homme doit périr.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>On a cet avantage, qu’on fait courir le même risque et passer mal aussi le temps à ceux qui prennent fantaisie de nous venir faire une offense de gaieté de cœur. Mais ne seroit-ce point une indiscrétion que de vous demander quelle peut être votre affaire ?</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>La chose en est aux termes de n’en plus faire de secret : et, lorsque l’injure a une fois éclaté, notre bonheur ne va point à vouloir cacher notre honte, mais à faire éclater notre vengeance, et à publier même le dessein que nous en avons. Ainsi, monsieur, je ne feindrai point de vous dire que l’offense que nous cherchons à venger est une sœur séduite et enlevée d’un couvent, et que l’auteur de cette offense est un don Juan Tenorio, fils de don Louis Tenorio. Nous le cherchons depuis quelques jours, et nous l’avons suivi ce matin sur le rapport d’un valet qui nous a dit qu’il sortoit à cheval, accompagné de quatre ou cinq, et qu’il avoit pris le long de cette côte ; mais tous nos soins ont été inutiles, et nous n’avons pu découvrir ce qu’il est devenu.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Le connaissez-vous, monsieur, ce don Juan dont vous parlez ?</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Non, quant à moi. Je ne l’ai jamais vu, et je l’ai seulement ouï dépeindre à mon frère ; mais la renommée n’en dit pas force bien, et c’est un homme dont la vie...</p>
+
+<pagenum num="84"/>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Arrêtez, monsieur, s’il vous plaît. Il est un peu de mes amis, et ce seroit à moi une espèce de lâcheté que d’en ouïr dire du mal.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Pour l’amour de vous, monsieur, je n’en dirai rien du tout, et c’est bien la moindre chose que je vous doive, après m’avoir sauvé la vie, que de me taire devant vous d’une personne que vous connoissez, lorsque je ne puis en parler sans en dire du mal ; mais, quelque ami que vous lui soyez, j’ose espérer que vous n’approuverez pas son action, et ne trouverez pas étrange que nous cherchions d’en prendre la vengeance.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Au contraire, je vous y veux servir, et vous épargner des soins inutiles. Je suis ami de don Juan, je ne puis pas m’en empêcher ; mais il n’est pas raisonnable qu’il offense impunément des gentilshommes, et je m’engage à vous faire faire raison par lui.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Et quelle raison peut-on faire à ces sortes d’injures ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Toute celle que votre honneur peut souhaiter ; et, sans vous donner la peine de chercher don Juan davantage, je m’oblige de le faire trouver au lieu que vous voudrez, et quand il vous plaira.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Cet espoir est bien doux, monsieur, à des cœurs offensés ; mais, après ce que je vous dois, ce me seroit une trop sensible douleur que vous fussiez de la partie.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Je suis si attaché à don Juan, qu’il ne sauroit se battre que je ne me batte aussi ; mais enfin j’en réponds comme de moi-même, et vous n’avez qu’à dire quand vous voulez qu’il paroisse et vous donne satisfaction.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Que ma destinée est cruelle ! Faut-il que je vous doive la vie et que don Juan soit de vos amis !</p>
+
+<h3 id="p22">SCÈNE V. — DON ALONSE, DON CARLOS, DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DON ALONSE</speaker>, parlant à ceux de sa suite, sans voir don Carlos ni don Juan.</hstage>
+<p>Faites boire là mes chevaux, et qu’on les amène après nous ; <pagenum num="85"/>je veux un peu marcher à pied. <stage>Les apercevant tous deux.</stage> O ciel ! que vois-je ici ? Quoi ! mon frère, vous voilà avec notre ennemi mortel !</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Notre ennemi mortel ?</p>
+
+<hstage><speaker>DON JUAN</speaker>, mettant la main sur la garde de son épée.</hstage>
+<p>Oui, je suis don Juan moi-même, et l’avantage du nombre ne m’obligera pas à vouloir déguiser mon nom.</p>
+
+<hstage><speaker>DON ALONSE</speaker>, mettant l’épêe à la main.</hstage>
+<p>Ah ! traître, il faut que tu périsses ; et... <stage>Sganarelle court se cacher.</stage></p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Ah ! mon frère, arrêtez. Je lui suis redevable de la vie ; et, sans le secours de son bras, j’aurois été tué par des voleurs que j’ai trouvés.</p>
+
+<hstage><speaker>DON ALONSE</speaker></hstage>
+<p>Et voulez-vous que cette considération empêche notre vengeance ? Tous les services que nous rend une main ennemie ne sont d’aucun mérite pour engager notre âme ; et, s’il faut mesurer l’obligation à l’injure, votre reconnoissance, mon frère, est ici ridicule ; et, comme l’honneur est infiniment plus précieux que la vie, c’est ne devoir rien proprement, que d’être redevable de la vie à qui nous a ôté l’honneur.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Je sais la différence, mon frère, qu’un gentilhomme doit toujours mettre entre l’un et l’autre ; et la reconnoissance de l’obligation n’efface point en moi le ressentiment de l’injure ; mais souffrez que je lui rende ici ce qu’il m’a prêté, que je m’acquitte sur-le-champ de la vie que je lui dois, par un délai de notre vengeance, et lui laisse la liberté de jouir, durant quelques jours, du fruit de son bienfait.</p>
+
+<hstage><speaker>DON ALONSE</speaker></hstage>
+<p>Non, non, c’est hasarder notre vengeance que de la reculer, et l’occasion de la prendre peut ne plus revenir. Le ciel nous l’offre ici, c’est à nous d’en profiter. Lorsque l’honneur est blessé mortellement, on ne doit point songer à garder aucunes mesures ; et, si vous répugnez à prêter votre bras à cette action, vous n’avez qu’à vous retirer, et laisser à ma main la gloire d’un tel sacrifice.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>De grâce, mon frère...</p>
+
+<pagenum num="86"/>
+
+<hstage><speaker>DON ALONSE</speaker></hstage>
+<p>Tous ces discours sont superflus : il faut qu’il meure.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Arrêtez, vous dis-je, mon frère. Je ne souffrirai point du tout qu’on attaque ses jours ; et je jure le ciel que je le défendrai ici contre qui que ce soit, et je saurai lui faire un rempart de cette même vie qu’il a sauvée ; et, pour adresser vos coups, il faudra que vous me perciez.</p>
+
+<hstage><speaker>DON ALONSE</speaker></hstage>
+<p>Quoi ! vous prenez le parti de notre ennemi contre moi ; et, loin d’être saisi à son aspect des mêmes transports que je sens, vous faites voir pour lui des sentiments pleins de douceur !</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Mon frère, montrons de la modération dans une action légitime ; et ne vengeons point notre honneur avec cet emportement que vous témoignez. Ayons du cœur dont nous soyons les maîtres, une valeur qui n’ait rien de farouche, et qui se porte aux choses par une pure délibération de notre raison, et non point par le mouvement d’une aveugle colère. Je ne veux point, mon frère, demeurer redevable à mon ennemi ; je lui ai une obligation dont il faut que je m’acquitte avant toute chose. Notre vengeance, pour être différée, n’en sera pas moins éclatante ; au contraire, elle en tirera de l’avantage ; et cette occasion de l’avoir pu prendre la fera paraître plus juste aux yeux de tout le monde.</p>
+
+<hstage><speaker>DON ALONSE</speaker></hstage>
+<p>O l’étrange foiblesse et l’aveuglement effroyable, de hasarder ainsi les intérêts de son honneur pour la ridicule pensée d’une obligation chimérique !</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+
+<p>Non, mon frère, ne vous mettez pas en peine. Si je fais une faute, je saurai bien la réparer, et je me charge de tout le soin de notre honneur ; je sais à quoi il nous oblige, et cette suspension d’un jour, que ma reconnoissance lui demande, ne fera qu’augmenter l’ardeur que j’ai de le satisfaire. Don Juan, vous voyez que j’ai soin de vous rendre le bien que j’ai reçu de vous, et vous devez par là juger du reste, croire que je m’acquitte avec la même chaleur de ce que je dois, et que je ne serai pas moins exact à vous payer l’injure que le bienfait. Je ne veux point vous obliger ici à expliquer vos sentiments, et je vous donne la liberté de penser à loisir aux <pagenum num="87" b="réso-" a="lutions">résolutions</pagenum> que vous avez à prendre. Vous connoissez assez la grandeur de l’offense que vous nous avez faite, et je vous fais juge vous-même des réparations qu’elle demande. Il est des moyens doux pour nous satisfaire ; il en est de violents et de sanglants : mais enfin, quelque choix que vous fassiez, vous m’avez donné parole de me faire faire raison par don Juan. Songez à me la faire, je vous prie, et vous ressouvenez que, hors d’ici, je ne dois plus qu’à mon honneur.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Je n’ai rien exigé de vous, et vous tiendrai ce que j’ai promis.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Allons, mon frère ; un moment de douceur ne fait aucune injure à la sévérité de notre devoir.</p>
+
+<h3 id="p23">SCÈNE VI. — DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Holà ! hé ! Sganarelle !</p>
+
+<hstage><speaker>SGANARELLE</speaker>, sortant de l’endroit où il êtoit caché.</hstage>
+<p>Plaît-il ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Comment ! coquin, tu fuis quand on m’attaque !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Pardonnez-moi, monsieur, je viens seulement d’ici près. Je crois que cet habit est purgatif, et que c’est prendre médecine que de le porter.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Peste soit de l’insolent ! Couvre au moins ta poltronnerie d’un voile plus honnête. Sais-tu bien qui est celui à qui j’ai sauvé la vie ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Moi ? non.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>C’est un frère d’Elvire.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Un...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il est assez honnête homme, il en a bien usé, et j’ai regret d’avoir démêlé avec lui.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il vous seroit aisé de pacifier toutes choses.</p>
+
+<pagenum num="88"/>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Oui ; mais ma passion est usée pour done Elvire, et l’engagement ne compatit point avec mon humeur. J’aime la liberté en amour, tu le sais, et je ne saurois me résoudre a renfermer mon cœur entre quatre murailles. Je te l’ai dit vingt fois, j’ai une pente naturelle à me laisser aller à tout ce qui m’attire. Mon cœur est à toutes les belles, et c’est à elles à le prendre tour à tour, et à le garder tant qu’elles le pourront. Mais quel est le superbe édifice que je vois entre ces arbres ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous ne le savez pas ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Non, vraiment.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Bon ; c’est le tombeau que le commandeur faisoit faire lorsque vous le tuâtes.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah ! tu as raison. Je ne savois pas que c’étoit de ce côté-ci qu’il étoit. Tout le monde m’a dit des merveilles de cet ouvrage, aussi bien que de la statue du commandeur ; et j’ai envie de l’aller voir.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, n’allez point là !</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Pourquoi ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Cela n’est pas civil, d’aller voir un homme que vous avez tué.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Au contraire, c’est une visite dont je lui veux faire civilité, et qu’il doit recevoir de bonne grâce, s’il est galant homme. Allons, entrons dedans. <stage>Le tombeau s’ouvre, et l’on voit la statue du commandeur.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! que cela est beau ! les belles statues ! le beau marbre ! les beaux piliers ! Ah ! que cela est beau ! Qu’en dites-vous, monsieur ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Qu on ne peut voir aller plus loin l’ambition d’un homme mort ; et ce que je trouve admirable, c’est qu’un homme qui s’est passé durant sa vie d’une assez simple demeure en veuille avoir une si magnifique pour quand il n’en a plus que faire.</p>
+
+<pagenum num="89"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Voici la statue du commandeur.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Parbleu ! le voilà bon, avec son habit d’empereur romain ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, monsieur, voilà qui est bien fait. Il semble qu’il est en vie, et qu’il s’en va parler. Il jette des regards sur nous qui me feraient peur si j’étois tout seul, et je pense qu’il ne prend pas plaisir de nous voir.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il aurait tort ; et ce serait mal recevoir l’honneur que je lui fais. Demande-lui s’il veut venir souper avec moi.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est une chose dont il n’a pas besoin, je crois.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Demande-lui, te dis-je.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous moquez-vous ? ce seroit être fou que d’aller parler à une statue.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Fais ce que je te dis.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quelle bizarrerie ! Seigneur commandeur... <stage>A part.</stage> Je ris de ma sottise ; mais c’est mon maître qui me la fait faire. <stage>Haut.</stage> Seigneur commandeur, mon maître don Juan vous demande si vous voulez lui faire l’honneur de venir souper avec lui. <stage>La statue baisse la tête.</stage> Ah !</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Qu’est-ce ? qu’as-tu ? Dis donc ! Veux-tu parler ?</p>
+
+<hstage><speaker>SGANARELLE</speaker>, baissant la tête comme la statue.</hstage>
+<p>La statue...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Eh bien, que veux-tu dire, traître ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous dis que la statue...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Eh bien, la statue ! Je t’assomme si tu ne parles.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>La statue m’a fait signe.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>La peste le coquin !</p>
+
+<pagenum num="90"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Elle m’a fait signe, vous dis-je ; il n’est rien de plus vrai. Allez-vous-en lui parler vous-même pour voir. Peut-être...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Viens, maraud, viens. Je te veux bien faire toucher au doigt ta poltronnerie. Prends garde. Le seigneur commandeur voudroit-il venir souper avec moi ? <stage>La statue baisse encore la tête.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je ne voudrois pas en tenir dix pistoles. Eh bien, monsieur ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Allons sortons d’ici.</p>
+
+<hstage><speaker>SGANARELLE, <i>Seul.</i></speaker></hstage>
+<p>Voilà de mes esprits forts, qui ne veulent rien croire !</p>
+
+<vsep class="rule"/>
+
+<h2 id="p24">ACTE QUATRIÈME</h2>
+
+<p>Le théâtre représente l’appartement de don Juan.</p>
+
+<h3 id="p25">SCÈNE I. — DON JUAN, SGANARELLE, RAGOTIN</h3>
+
+<hstage><speaker>DON JUAN</speaker>, à Sganarelle.</hstage>
+<p>Quoi qu’il en soit, laissons cela : c’est une bagatelle, et nous pouvons avoir été trompés par un faux jour, ou surpris de quelque vapeur qui nous ait troublé la vue.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! monsieur, ne cherchez point à démentir ce que nous avons vu des yeux que voilà. Il n’est rien de plus véritable que ce signe de tête ; et je ne doute point que le ciel, scandalisé de votre vie, n’ait produit ce miracle pour vous convaincre, et pour vous retirer de...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Écoute. Si tu m’importunes davantage de tes sottes moralités, si tu me dis encore le moindre mot là-dessus, je vais appeler quelqu’un, demander un nerf de bœuf, te faire tenir par trois ou quatre, et te rouer de mille coups. M’entends-tu bien ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Fort bien, monsieur, le mieux du monde. Vous vous expliquez clairement ; c’est ce qu’il y a de bon en vous, que vous <pagenum num="91"/>n’allez point chercher de détours ; vous dites les choses avec une netteté admirable<noteref noteid="note.91.1"/>.</p>
+
+<notes>
+  <note id="note.91.1">
+    <p>Imitation de l’<i>Andrienne</i>, de Térence acte I<sup>er</sup>, scène <s>II</s>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Allons, qu’on me fasse souper le plus tôt que l’on pourra. Une chaise, petit garçon.</p>
+
+<h3 id="p26">SCÈNE II. — DON JUAN, SGANARELLE, LA VIOLETTE, RAGOTIN</h3>
+
+<hstage><speaker>LA VIOLETTE</speaker></hstage>
+<p>Monsieur, voilà votre marchand, monsieur Dimanche, qui demande à vous parler.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Bon. Voilà ce qu’il nous faut, qu’un compliment de créancier. De quoi s’avise-t-il de nous venir demander de l’argent ; et que ne lui disois-tu que monsieur n’y est pas ?</p>
+
+<hstage><speaker>LA VIOLETTE</speaker></hstage>
+<p>Il y a trois quarts d’heure que je le lui dis ; mais il ne veut pas le croire, et s’est assis là dedans pour attendre.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qu’il attende tant qu’il voudra.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Non, au contraire, faites-le entrer. C’est une fort mauvaise politique que de se faire celer aux créanciers. Il est bon de les payer de quelque chose ; et j’ai le secret de les renvoyer satisfaits sans leur donner un double.</p>
+
+<h3 id="p27">SCÈNE III. — DON JUAN, MONSIEUR DIMANCHE, SGANARELLE, LA VIOLETTE, RAGOTIN</h3>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah ! monsieur Dimanche, approchez. Que je suis ravi de vous voir, et que je veux de mal à mes gens de ne vous pas faire entrer d’abord ! J’avois donné ordre qu’on ne me fît parler à personne ; mais cet ordre n’est pas pour vous, et vous êtes en droit de ne trouver jamais de porte fermée chez moi.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Monsieur, je vous suis fort obligé.</p>
+
+<hstage><speaker>DON JUAN</speaker>, parlant à la Violette et à Ragotin.</hstage>
+<p>Parbleu ! coquins, je vous apprendrai à laisser monsieur <pagenum num="92"/>Dimanche dans une antichambre, et je vous ferai connoitre les gens.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Monsieur, cela n’est rien.</p>
+
+<hstage><speaker>DON JUAN</speaker> à Monsieur Dimanche.</hstage>
+<p>Comment ! vous dire que je n’y suis pas, à monsieur Dimanche, au meilleur de mes amis !</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Monsieur, je suis votre serviteur. J’étois venu...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Allons, vite, un siège pour monsieur Dimanche.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Monsieur, je suis bien comme cela.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Point, point, je veux que vous soyez assis contre moi.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Cela n’est point nécessaire.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Otez ce pliant, et apportez un fauteuil.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Monsieur, vous vous moquez ; et...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Non, non, je sais ce que je vous dois ; et je ne veux point qu’on mette de différence entre nous deux.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Monsieur...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Allons, asseyez-vous.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Il n’est pas besoin, monsieur, et je n’ai qu’un mot à vous dire, J’étois...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Mettez-vous là, vous dis-je.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Non, monsieur, je suis bien... Je viens pour...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Non, je ne vous écoute point, si vous n’êtes assis.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Monsieur, je fais ce que vous voulez. Je...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Parbleu ! monsieur Dimanche, vous vous portez bien.</p>
+
+<pagenum num="93"/>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Oui, monsieur, pour vous rendre service. Je suis venu...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Vous avez un fonds de santé admirable, des lèvres fraîches, un teint vermeil, et des yeux vifs.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Je voudrais bien...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Comment se porte madame Dimanche, votre épouse ?</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Fort bien, monsieur, Dieu merci.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>C’est une brave femme.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Elle est votre servante, monsieur. Je venois...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et votre petite fille Claudine, comment se porte-t-elle ?</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Le mieux du monde.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>La jolie petite fille que c’est ! je l’aime de tout mon cœur.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>C’est trop d’honneur que vous lui faites, monsieur... Je vous...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et le petit Colin, fait-il toujours bien du bruit avec son tambour.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Toujours de même, monsieur. Je...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et votre petit chien Brusquet, gronde-t-il toujours aussi fort, et mord-il toujours bien aux jambes les gens qui vont chez vous ?</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Plus que jamais, monsieur, et nous ne saurions en chevir<noteref noteid="note.93.1"/>.</p>
+
+<notes>
+  <note id="note.93.1">
+    <p><i>Chevir</i> être maître de... venir à bout.</p>
+  </note>
+</notes>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ne vous étonnez pas si je m’informe des nouvelles de toute la famille ; car j’y prends beaucoup d’intérêt.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Nous vous sommes, monsieur, infiniment obligés. Je...</p>
+
+<pagenum num="94"/>
+
+<hstage><speaker>DON JUAN</speaker>, lui tendant la main.</hstage>
+<p>Touchez donc là, monsieur Dimanche. Êtes-vous bien de mes amis ?</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Monsieur, je suis votre serviteur.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Parbleu ! je suis à vous de tout mon cœur.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Vous m’honorez trop. Je...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il n’y a rien que je ne fisse pour vous.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Monsieur, vous avez trop de bonté pour moi.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et cela est sans intérêt, je vous prie de le croire.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Je n’ai point mérité cette grâce, assurément. Mais, monsieur...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Oh çà, monsieur Dimanche, sans façon, voulez-vous souper avec moi ?</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Non, monsieur, il faut que je m’en retourne tout à l’heure. Je...</p>
+
+<hstage><speaker>DON JUAN</speaker>, se levant.</hstage>
+<p>Allons, vite un flambeau, pour conduire monsieur Dimanche ; et que quatre ou cinq de mes gens prennent des mousquetons pour l’escorter.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker>, se levant aussi.</hstage>
+<p>Monsieur, il n’est pas nécessaire, et je m’en irai bien tout seul. Mais... <stage>Sganarelle ôte les sièges promptement.</stage></p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Comment ! Je veux qu’on vous escorte, et je m’intéresse trop à votre personne. Je suis votre serviteur, et, de plus, votre débiteur.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Ah ! monsieur...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>C’est une chose que je ne cache pas, et je le dis à tout le monde.</p>
+
+<pagenum num="95"/>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Si...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Voulez-vous que je vous reconduise ?</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Ah ! monsieur, vous vous moquez ! Monsieur...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Embrassez-moi donc, s’il vous plaît. Je vous prie encore une fois d’être persuadé que je suis tout à vous, et qu’il n’y a rien au monde que je ne fisse pour votre service<noteref noteid="note.95.1"/>. <stage>Il sort.</stage></p>
+
+<notes>
+  <note id="note.95.1">
+    <p>Cette scène est un chef-d’œuvre de comique et de vérité ; mais, l’oserai-je dire ? elle est aussi un hors-d’œuvre. Elle ne concourt ni au développement de l’action, ni à celui du caractère principal. (Auger.) — Prise en elle-même, et indépendamment de l’ensemble, c’est une des plus jolies qu’il y ait au théâtre. (F. L.)</p>
+  </note>
+</notes>
+
+<h3 id="p28">SCÈNE IV. — MONSIEUR DIMANCHE, SGANARELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il faut avouer que vous avez en monsieur un homme qui vous aime bien.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Il est vrai ; il me fait tant de civilités et tant de compliments, que je ne saurois jamais lui demander de l’argent.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous assure que toute sa maison périroit pour vous ; et je voudrais qu’il vous arrivât quelque chose, que quelqu’un s’avisât de vous donner des coups de bâton, vous verriez de quelle manière...</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Je le crois ; mais, Sganarelle, je vous prie de lui dire un petit mot de mon argent.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oh ! ne vous mettez pas en peine, Il vous payera le mieux du monde.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Mais vous, Sganarelle, vous me devez quelque chose en votre particulier.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Fi ! ne me parlez pas de cela.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Comment ? Je...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ne sais-je pas bien que je vous dois ?</p>
+
+<pagenum num="96"/>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Oui. Mais...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Allons, monsieur Dimanche, je vais vous éclairer.</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Mais mon argent ?</p>
+
+<hstage><speaker>SGANARELLE</speaker>, prenant monsieur Dimanche par le bras.</hstage>
+<p>Vous moquez-vous ?</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Je veux...</p>
+
+<hstage><speaker>SGANARELLE</speaker>, le tirant.</hstage>
+<p>Eh !</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>J’entends...</p>
+
+<hstage><speaker>SGANARELLE</speaker>, le poussant vers la porte.</hstage>
+<p>Bagatelles !</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Mais...</p>
+
+<hstage><speaker>SGANARELLE</speaker>, le poussant encore.</hstage>
+<p>Fi !</p>
+
+<hstage><speaker>MONSIEUR DIMANCHE</speaker></hstage>
+<p>Je...</p>
+
+<hstage><speaker>SGANARELLE</speaker>, le poussant tout à fait hors du théâtre.</hstage>
+<p>Fi ! vous dis-je.</p>
+
+<h3 id="p29">SCÈNE V. — DON JUAN, SGANARELLE, LA VIOLETTE</h3>
+
+<hstage><speaker>LA VIOLETTE</speaker>, à don Juan.</hstage>
+<p>Monsieur, voilà monsieur votre père.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Ah ! me voici bien ! Il me falloit cette visite pour me faire enrager.</p>
+
+<h3 id="p30">SCÈNE VI. — DON LOUIS, DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DON LOUIS</speaker></hstage>
+<p>Je vois bien que je vous embarrasse, et que vous vous passeriez fort aisément de ma venue. A dire vrai, nous nous incommodons étrangement l’un l’autre ; et, si vous êtes las de me voir, je suis bien las aussi de vos déportements. Hélas ! que nous savons peu ce que nous faisons, quand nous ne laissons pas au ciel le soin des choses qu’il nous faut, quand nous voulons être plus avisés que lui, et que nous venons à l’importuner par nos souhaits aveugles et nos demandes <pagenum num="97"/>inconsidérées. J’ai souhaité un fils avec des ardeurs non-pareilles, je l’ai demandé sans relâche avec des transports incroyables ; et ce fils, que j’obtiens en fatiguant le ciel de vœux, est le chagrin et le supplice de cette vie même dont je croyois qu’il devoit être la joie et la consolation. De quel œil, à votre avis, pensez-vous que je puisse voir cet amas d’actions indignes, dont on a peine, aux yeux du monde, d’adoucir le mauvais visage<noteref noteid="note.97.1"/> ; cette suite continuelle de méchantes affaires, qui nous réduisent à toute heure à lasser les bontés du souverain, et qui ont épuisé auprès de lui le mérite de mes services et le crédit de mes amis ? Ah ! quelle bassesse est la vôtre ! Ne rougissez-vous point de mériter si peu votre naissance ? Êtes-vous en droit, dites-moi, d’en tirer quelque vanité ? Et qu’avez-vous fait dans le monde pour être gentilhomme ? Croyez-vous qu’il suffise d’en porter le nom et les armes, et que ce nous soit une gloire d’être sortis d’un sang noble, lorsque nous vivons en infâmes ? Non, non, la naissance n’est rien où la vertu n’est pas. Aussi nous n’avons part à la gloire de nos ancêtres qu’autant que nous nous efforçons de leur ressembler ; et cet éclat de leurs actions qu’ils répandent sur nous, nous impose un engagement de leur faire le même honneur, de suivre les pas qu’ils nous tracent, et de ne point dégénérer de leur vertu, si nous voulons être estimés leurs véritables descendants. Ainsi vous descendez en vain des aïeux dont vous êtes né ; ils vous désavouent pour leur sang, et tout ce qu’ils ont fait d’illustre ne vous donne aucun avantage ; au contraire, l’éclat n’en rejaillit sur vous qu’à votre déshonneur, et leur gloire est un flambeau qui éclaire aux yeux d’un chacun la honte de vos actions. Apprenez enfin qu’un gentilhomme qui vit mal est un monstre dans la nature ; que la vertu est le premier titre de noblesse ; que je regarde bien moins au nom qu’on signe qu’aux actions qu’on fait, et que je ferois plus d’état du fils d’un crocheteur qui seroit honnête homme que du fils d’un monarque qui vivroit comme vous !</p>
+
+<notes>
+  <note id="note.97.1">
+    <p>Le visage des actions était une locution plus ou moins admise ; aujourd’hui elle paraît forcée et peu naturelle. (F. L.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Monsieur, si vous étiez assis, vous en seriez mieux pour parler.</p>
+
+<hstage><speaker>DON LOUIS</speaker></hstage>
+<p>Non, insolent, je ne veux point m’asseoir, ni parler <pagenum num="98" b="davan-" a="tage,">davantage,</pagenum> et je vois bien que toutes mes paroles ne font rien sur ton âme ; mais sache, fils indigne, que la tendresse paternelle est poussée à bout par tes actions ; que je saurai, plus tôt que tu ne penses, mettre une borne à tes dérèglements, prévenir sur toi le courroux du ciel, et laver, par ta punition, la honte de t’avoir fait naître.</p>
+
+<h3 id="p31">SCÈNE VII. — DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DON JUAN</speaker>, adressant encore la parole à son père, quoiqu’il soit sorti.</hstage>
+<p>Eh ! mourez le plus tôt que vous pourrez, c’est le mieux que vous puissiez faire. Il faut que chacun ait son tour, et j’enrage de voir des pères qui vivent autant que leurs fils. <stage>Il se met dans un fauteuil.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! monsieur, vous avez tort.</p>
+
+<hstage><speaker>DON JUAN</speaker>,  se levant.</hstage>
+<p>J’ai tort !</p>
+
+<hstage><speaker>SGANARELLE</speaker>, tremblant.</hstage>
+<p>Monsieur...</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>J’ai tort !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui, monsieur, vous avez tort d’avoir souffert ce qu’il vous a dit, et vous le deviez mettre dehors par les épaules. A-t-on jamais rien vu de plus impertinent ? un père venir faire des remontrances à son fils, et lui dire de corriger ses actions, de se ressouvenir de sa naissance, de mener une vie d’honnête homme, et cent autres sottises de pareille nature ! Cela se peut-il souffrir à un homme comme vous, qui savez comme il faut vivre ? J’admire votre patience, et, si j’avois été en votre place, je l’aurois envoyé promener. <stage>Bas, à part.</stage> O complaisance maudite ! à quoi me réduis-tu !</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Me fera-t-on souper bientôt ?</p>
+
+<h3 id="p32">SCÈNE VIII. — DON JUAN, SGANARELLE, RAGOTIN</h3>
+
+<hstage><speaker>RAGOTIN</speaker></hstage>
+<p>Monsieur, voici une dame voilée qui vient vous parler.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Que pourroit-ce être ?</p>
+
+<pagenum num="99"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il faut voir.</p>
+
+<h3 id="p33">SCÈNE IX. — DONE ELVIRE, <i>voilée ;</i> DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Ne soyez point surpris, don Juan, de me voir à cette heure et dans cet équipage. C’est un motif pressant qui m’oblige à cette visite ; et ce que j’ai à vous dire ne veut point du tout de retardement. Je ne viens point ici pleine de ce courroux que j’ai tantôt fait éclater ; et vous me voyez bien changée de ce que j’étois ce matin. Ce n’est plus cette done Elvire qui faisoit des vœux contre vous, et dont l’âme irritée ne jetoit que menaces et ne respiroit que vengeance. Le ciel a banni de mon âme toutes ces indignes ardeurs que je sentois pour vous, tous ces transports tumultueux d’un attachement criminel, tous ces honteux emportements d’un amour terrestre et grossier ; et il n’a laissé dans mon cœur pour vous qu’une flamme épurée de tout le commerce des sens, une tendresse toute sainte, un amour détaché de tout, qui n’agit point pour soi, et ne se met en peine que de votre intérêt.</p>
+
+<hstage><speaker>DON JUAN</speaker>, bas, à Sganarelle.</hstage>
+<p>Tu pleures, je pense ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Pardonnez-moi.</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>C’est ce parfait et pur amour qui me conduit ici pour votre bien, pour vous faire part d’un avis du ciel, et tâcher de vous retirer du précipice où vous courez. Oui, don Juan, je sais tous les dérèglements de votre vie ; et ce même ciel, qui m’a touché le cœur et fait jeter les yeux sur les égarements de ma conduite, m’a inspiré de vous venir trouver, et de vous dire de sa part que vos offenses ont épuisé sa miséricorde, que sa colère redoutable est prête de tomber sur vous, qu’il est en vous de l’éviter par un prompt repentir, et que peut-être vous n’avez pas encore un jour à vous pouvoir soustraire au plus grand de tous les malheurs. Pour moi, je ne tiens plus à vous par aucun attachement du monde. Je suis revenue, grâces au ciel, de toutes mes folles pensées ; ma retraite est résolue, et je ne demande qu’assez de vie pour pouvoir expier la faute que j’ai faite, et mériter, par une austère pénitence, le pardon de l’aveuglement où m’ont plongée les transports <pagenum num="100"/>d’une passion condamnable. Mais, dans cette retraite, j’aurais une douleur extrême qu’une personne que j’ai chérie tendrement devînt un exemple funeste de la justice du ciel ; et ce me sera une joie incroyable, si je puis vous porter à détourner de dessus votre tête l’épouvantable coup qui vous menace. De grâce, don Juan, accordez-moi, pour dernière faveur, cette douce consolation ; ne me refusez point votre salut, que je vous demande avec larmes ; et, si vous n’êtes point touché de votre intérêt, soyez-le au moins de mes prières, et m’épargnez le cruel déplaisir de vous voir condamner à des supplices étemels.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Pauvre femme !</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Je vous ai aimé avec une tendresse extrême, rien au monde ne m’a été aussi cher que vous ; j’ai oublié mon devoir pour vous, j’ai fait toutes choses pour vous ; et toute la récompense que je vous en demande, c’est de corriger votre vie, et de prévenir votre perte. Sauvez-vous, je vous prie, ou pour l’amour de vous, ou pour l’amour de moi. Encore une fois, don Juan, je vous le demande avec larmes ; et, si ce n’est assez des larmes d’une personne que vous avez aimée, je vous en conjure par tout ce qui est le plus capable de vous toucher.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part, regardant don Juan.</hstage>
+<p>Cœur de tigre !</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Je m’en vais après ce discours ; et voilà tout ce que j’avois à vous dire.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Madame, il est tard, demeurez ici. On vous y logera le mieux qu’on pourra.</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Non, don Juan, ne me retenez pas davantage.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Madame, vous me ferez plaisir de demeurer, je vous assure.</p>
+
+<hstage><speaker>DONE ELVIRE</speaker></hstage>
+<p>Non, vous dis-je ; ne perdons point de temps en discours superflus. Laissez-moi vite aller, ne faites aucune instance pour me conduire, et songez seulement à profiter de mon avis.</p>
+
+<pagenum num="101"/>
+
+<h3 id="p34">SCÈNE X. — DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Sais-tu bien que j’ai encore senti quelque peu d’émotion pour elle, que j’ai trouvé de l’agrément dans cette nouveauté bizarre, et que son habit négligé, son air languissant et ses larmes, ont réveillé en moi quelques petits restes d’un feu éteint ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est-à-dire que ses paroles n’ont fait aucun effet sur vous.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Vite à souper.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Fort bien.</p>
+
+<h3 id="p35">SCÈNE XI. — DON JUAN, SGANARELLE, LA VIOLETTE, RAGOTIN</h3>
+
+<hstage><speaker>DON JUAN</speaker>, se mettant à table.</hstage>
+<p>Sganarelle, il faut songer à s’amender, pourtant.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui-da.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Oui, ma foi, il faut s’amender. Encore vingt ou trente ans de cette vie-ci, et puis nous songerons à nous.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oh !</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Qu’en dis-tu ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Rien. Voilà le souper. <stage>Il prend un morceau d’un des plats qu’on apporte, et le met dans sa bouche.</stage></p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il me semble que tu as la joue enflée : qu’est-ce que c’est ? Parle donc. Qu’as-tu là ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Rien.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Montre un peu. Parbleu ! c’est une fluxion qui lui est tombée sur la joue. Vite une lancette pour percer cela ! le pauvre garçon n’en peut plus, et cet abcès le pourroit étouffer. Attends : voyez comme il étoit mûr ! Ah ! coquin que vous êtes !</p>
+
+<pagenum num="102"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, monsieur, je voulois savoir si votre cuisinier n’avoit point mis trop de sel ou trop de poivre.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Allons, mets-toi là et mange. J’ai affaire de toi, quand j’aurai soupé. Tu as faim, à ce que je vois.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, se mettant à table.</hstage>
+<p>Je le crois bien, monsieur, je n’ai point mangé depuis ce matin. Tâtez de cela, voilà qui est le meilleur du monde. <stage>A Ragotin, qui, à mesure que Sganarelle met quelque chose sur son assiette, la lui ôte dès que Sganarelle tourne la tête.</stage> Mon assiette, mon assiette ! Tout doux, s’il vous plaît. Vertubleu ! petit compère, que vous êtes habile à donner des assiettes nettes ! Et vous, petit la Violette, que vous savez présenter à boire à propos ! <stage>Pendant que la Violette donne à boire à Sganarelle, Ragotin ôte encore son assiette.</stage></p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Qui peut frapper de cette sorte ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qui diable nous vient troubler dans notre repas ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Je veux souper en repos, au moins, et qu’on ne laisse entrer personne.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Laissez-moi faire, je m’y en vais moi-même.</p>
+
+<hstage><speaker>DON JUAN</speaker>, voyant venir Sganarelle effrayé.</hstage>
+<p>Qu’est-ce donc ? qu’y a-t-il ?</p>
+
+<hstage><speaker>SGANARELLE</speaker>, baissant la tête comme la statue.</hstage>
+<p>Le... qui est là.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Allons voir, et montrons que rien ne me sauroit ébranler.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! pauvre Sganarelle, où te cacheras-tu ?</p>
+
+<h3 id="p36">SCÈNE XII. — DON JUAN, LA STATUE DU COMMANDEUR, SGANARELLE, LA VIOLETTE, RAGOTIN</h3>
+
+<hstage><speaker>DON JUAN</speaker>, à ses gens.</hstage>
+<p>Une chaise et un couvert. Vite donc. <stage>Don Juan et la statue se mettent à table. A Sganarelle.</stage> Allons, mets-toi à table.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, je n’ai plus faim.</p>
+
+<pagenum num="103"/>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Mets-toi là, te dis-je. A boire ! A la santé du commandeur ! Je te la porte, Sganarelle ! qu’on lui donne du vin !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, je n’ai pas soif.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Bois et chante ta chanson, pour régaler le commandeur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je suis enrhumé, monsieur.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il n’importe. Allons. <stage>A ses gens.</stage> Vous autres, venez, accompagnez sa voix.</p>
+
+<hstage><speaker>LA STATUE</speaker></hstage>
+<p>Don Juan, c’est assez. Je vous invite à venir demain souper avec moi. En aurez-vous le courage ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Oui, j’irai, accompagné du seul Sganarelle.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous rends grâces, il est demain jeûne pour moi.</p>
+
+<hstage><speaker>DON JUAN</speaker>, à Sganarelle.</hstage>
+<p>Prends ce flambeau.</p>
+
+<hstage><speaker>LA STATUE</speaker></hstage>
+<p>On n’a pas besoin de lumière quand on est conduit par le ciel.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p37">ACTE CINQUIÈME</h2>
+
+<p>Le théâtre représente une campagne.</p>
+
+<h3 id="p38">SCÈNE I. — DON LOUIS, DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DON LOUIS</speaker></hstage>
+<p>Quoi ! mon fils, seroit-il possible que la bonté du ciel eût exaucé mes vœux ? Ce que vous me dites est-il bien vrai ? Ne m’abusez-vous point d’un faux espoir, et puis-je prendre quelque assurance sur la nouveauté surprenante d’une telle conversion ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Oui, vous me voyez revenu de toutes mes erreurs ; je ne suis plus le même d’hier au soir, et le ciel tout d’un coup a fait en moi un changement qui va surprendre tout le monde. Il a touché mon âme et dessillé mes yeux ; et je regarde avec <pagenum num="104"/>horreur le long aveuglement où j’ai été, et les désordres criminels de la vie que j’ai menée. J’en repasse dans mon esprit toutes les abominations, et m’étonne comme le ciel les a pu souffrir si longtemps, et n’a pas vingt fois sur ma tête laissé tomber les coups de sa justice redoutable. Je vois les grâces que sa bonté m’a faites en ne me punissant point de mes crimes, et je prétends en profiter comme je dois, faire éclater aux yeux du monde un soudain changement de vie, réparer par là le scandale de mes actions passées, et m’efforcer d’en obtenir du ciel une pleine rémission. C’est à quoi je vais travailler ; et je vous prie, monsieur, de vouloir bien contribuer à ce dessein, et de m’aider vous-même à faire choix d’une personne qui me serve de guide, et sous la conduite de qui je puisse marcher sûrement dans le chemin où je m’en vais entrer.</p>
+
+<hstage><speaker>DON LOUIS</speaker></hstage>
+<p>Ah ! mon fils, que la tendresse d’un père est aisément rappelée, et que les offenses d’un fils s’évanouissent vite au moindre mot de repentir ! Je ne me souviens plus déjà de tous les déplaisirs que vous m’avez donnés, et tout est effacé par les paroles que vous venez de me faire entendre. Je ne me sens pas, je l’avoue ; je jette des larmes de joie ; tous mes vœux sont satisfaits, et je n’ai plus rien désormais à demander au ciel. Embrassez-moi, mon fils, et persistez, je vous conjure, dans cette louable pensée. Pour moi, j’en vais tout de ce pas porter l’heureuse nouvelle à votre mère, partager avec elle les doux transports du ravissement où je suis, et rendre grâces au ciel des saintes résolutions qu’il a daigné vous inspirer.</p>
+
+<h3 id="p39">SCÈNE II. — DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! monsieur, que j’ai de joie de vous voir converti ! Il y a longtemps que j’attendois cela ; et voilà, grâces au ciel, tous mes souhaits accomplis.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>La peste le benêt !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Comment, le benêt !</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Quoi ! tu prends pour de bon argent ce que je viens de dire, et tu crois que ma bouche étoit d’accord avec mon cœur ?</p>
+
+<pagenum num="105"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quoi ! ce n’est pas... Vous ne... Votre... <stage>A part.</stage> Oh ! quel homme ! quel homme ! quel homme !</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Non, non, je ne suis point changé, et mes sentiments sont toujours les mêmes.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous ne vous rendez pas à la surprenante merveille de cette statue mouvante et parlante ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il y a bien quelque chose là dedans que je ne comprends pas ; mais, quoi que ce puisse être, cela n’est pas capable ni de convaincre mon esprit, ni d’ébranler mon âme ; et, si j’ai dit que je voulois corriger ma conduite et me jeter dans un train de vie exemplaire, c’est un dessein que j’ai formé par pure politique, un stratagème utile, une grimace nécessaire où je veux me contraindre, pour ménager un père dont j’ai besoin, et me mettre à couvert, du côté des hommes, de cent fâcheuses aventures qui pourroient m’arriver. Je veux bien, Sganarelle, t’en faire confidence, et je suis bien aise d’avoir un témoin du fond de mon âme, et des véritables motifs qui m’obligent à faire les choses.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quoi ! vous ne croyez rien du tout et vous voulez cependant vous ériger en homme de bien !</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Et pourquoi non ? Il y en a tant d’autres comme moi, qui se mêlent de ce métier, et qui se servent du même masque pour abuser le monde !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! quel homme ! quel homme !</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Il n’y a plus de honte maintenant à cela ; l’hypocrisie est un vice à la mode, et tous les vices à la mode passent pour vertus. Le personnage d’homme de bien est le meilleur de tous les personnages qu’on puisse jouer. Aujourd’hui, la profession d’hypocrite a de merveilleux avantages. C’est un art de qui l’imposture est toujours respectée ; et, quoiqu’on la découvre, on n’ose rien dire contre elle. Tous les autres vices des hommes sont exposés à la censure, et chacun a la liberté de les attaquer hautement ; mais l’hypocrisie est un vice privilégié qui, de sa main, ferme la bouche à tout le <pagenum num="106"/>monde, et jouit en repos d’une impunité souveraine. On lie, à force de grimaces, une société étroite avec tous les gens du parti. Qui en choque un se les attire tous sur les bras ; et ceux que l’on sait même agir de bonne foi là-dessus, et que chacun connoît pour être véritablement touchés, ceux-là, dis-je, sont toujours les dupes des autres : ils donnent bonnement dans le panneau des grimaciers, et appuient aveuglément les singes de leurs actions. Combien crois-tu que j’en connoisse qui, par ce stratagème, ont rhabillé adroitement les désordres de leur jeunesse, qui se font un bouclier du manteau de la religion, et, sous cet habit respecté, ont la permission d’être les plus méchants hommes du monde ? On a beau savoir leurs intrigues et les connoître pour ce qu’ils sont, ils ne laissent pas pour cela d’être en crédit parmi les gens ; et quelque baissement de tête, un soupir mortifié, et deux roulements d’yeux rajustent dans le monde tout ce qu’ils peuvent faire. C’est sous cet abri favorable que je veux me sauver, et mettre en sûreté mes affaires. Je ne quitterai point mes douces habitudes ; mais j’aurai soin de me cacher, et me divertirai à petit bruit. Que si je viens à être découvert, je verrai, sans me remuer, prendre mes intérêts à toute la cabale, et je serai défendu par elle envers et contre tous. Enfin, c’est là le vrai moyen de faire impunément tout ce que je voudrai. Je m’érigerai en censeur des actions d’autrui, jugerai mal de tout le monde, et n’aurai bonne opinion que de moi. Dès qu’une fois on m’aura choqué tant soit peu, je ne pardonnerai jamais, et garderai tout doucement une haine irréconciliable. Je me ferai le vengeur des intérêts du ciel ; et, sous ce prétexte commode, je pousserai mes ennemis, je les accuserai d’impiété, et saurai déchaîner contre eux des zélés indiscrets, qui, sans connoissance de cause, crieront en public contre eux, qui les accableront d’injures, et les damneront hautement de leur autorité privée. C’est ainsi qu’il faut profiter des foiblesses des hommes, et qu’un sage esprit s’accommode aux vices de son siècle.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>O ciel ! qu’entends-je ici ? Il ne vous manquoit plus que d’être hypocrite, pour vous achever de tout point, et voilà le comble des abominations. Monsieur, cette dernière-ci m’emporte, et je ne puis m’empêcher de parler. Faites-moi tout ce qu’il vous plaira ; battez-moi, assommez-moi de coups, tuez-moi, si vous voulez ; il faut que je décharge mon cœur, et qu’en valet fidèle je vous dise ce que je dois. Sachez, <pagenum num="107"/>monsieur, que tant va la cruche à l’eau, qu’enfin elle se brise ; et, comme dit fort bien cet auteur que je ne connois pas, l’homme est en ce monde, ainsi que l’oiseau sur la branche ; la branche est attachée à l’arbre ; qui s’attache à l’arbre suit de bons préceptes ; les bons préceptes valent mieux que les belles paroles ; les belles paroles sont à la cour ; à la cour sont les courtisans ; les courtisans suivent la mode ; la mode vient de la fantaisie ; la fantaisie est une faculté de l’âme ; l’âme est ce qui nous donne la vie ; la vie finit par la mort ; la mort nous fait penser au ciel ; le ciel est au-dessus de la terre ; la terre n’est point la mer ; la mer est sujette aux orages ; les orages tourmentent les vaisseaux ; les vaisseaux ont besoin d’un bon pilote ; un bon pilote a de la prudence ; la prudence n’est pas dans les jeunes gens ; les jeunes gens doivent obéissance aux vieux ; les vieux aiment les richesses ; les richesses font les riches ; les riches ne sont pas pauvres ; les pauvres ont de la nécessité ; la nécessité n’a pas de loi ; qui n’a pas de loi vit en bête brute ; et, par conséquent, vous serez damné à tous les diables.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>O le beau raisonnement !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Après cela, si vous ne vous rendez, tant pis pour vous.</p>
+
+<h3 id="p40">SCÈNE III. — DON CARLOS, DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Don Juan, je vous trouve à propos, et suis bien aise de vous parler ici plutôt que chez vous, pour vous demander vos résolutions. Vous savez que ce soin me regarde, et que je me suis, en votre présence, chargé de cette affaire. Pour moi, je ne le cèle point, je souhaite fort que les choses aillent dans la douceur ; et il n’y a rien que je ne fasse pour porter votre esprit à vouloir prendre cette voie, et pour vous voir publiquement confirmer à ma sœur le nom de votre femme.</p>
+
+<hstage><speaker>DON JUAN</speaker>, d’un ton hypocrite.</hstage>
+<p>Hélas ! je voudrois bien, de tout mon cœur, vous donner la satisfaction que vous souhaitez ; mais le ciel s’y oppose directement ; il a inspiré à mon âme le dessein de changer de vie, et je n’ai point d’autres pensées maintenant que de quitter entièrement tous les attachements du monde, de me dépouiller au plus tôt de toutes sortes de vanités, et de corriger <pagenum num="108" b="désor-" a="mais">désormais</pagenum> par une austère conduite tous les dérèglements criminels où m’a porté le feu d’une aveugle jeunesse.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Ce dessein, don Juan, ne choque point ce que je dis ; et la compagnie d’une femme légitime peut bien s’accommoder avec les louables pensées que le ciel vous inspire.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Hélas ! point du tout. C’est un dessein que votre sœur elle-même a pris ; elle a résolu sa retraite ; et nous avons été touchés tous deux en même temps.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Sa retraite ne peut nous satisfaire, pouvant être imputée au mépris que vous feriez d’elle et de notre famille ; et notre honneur demande qu’elle vive avec vous.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Je vous assure que cela ne se peut. J’en avois, pour moi, toutes les envies du monde ; et je me suis, même encore aujourd’hui, conseillé au ciel pour cela ; mais, lorsque je l’ai consulté, j’ai entendu une voix qui m’a dit que je ne devois point songer à votre sœur, et qu’avec elle, assurément, je ne ferois point mon salut.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Croyez-vous, don Juan, nous éblouir par ces belles excuses ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>J’obéis à la voix du ciel.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Quoi ! vous voulez que je me paye d’un semblable discours ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>C’est le ciel qui le veut ainsi.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Vous aurez fait sortir ma sœur d’un couvent pour la laisser ensuite ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Le ciel l’ordonne de la sorte.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Nous souffrirons cette tache en notre famille ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Prenez-vous-en au ciel.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Eh quoi ! toujours le ciel !</p>
+
+<pagenum num="109"/>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Le ciel le souhaite comme cela.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Il suffit, don Juan, je vous entends. Ce n’est pas ici que je veux vous prendre, et le lieu ne le souffre pas ; mais, avant qu’il soit peu, je saurai vous trouver.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Vous ferez ce que vous voudrez. Vous savez que je ne manque point de cœur, et que je sais me servir de mon épée, quand il le faut. Je m’en vais passer tout à l’heure dans cette petite rue écartée qui mène au grand couvent ; mais je vous déclare, pour moi, que ce n’est point moi qui me veux battre ; le ciel m’en défend la pensée ; et, si vous m’attaquez, nous verrons ce qui en arrivera.</p>
+
+<hstage><speaker>DON CARLOS</speaker></hstage>
+<p>Nous verrons, de vrai, nous verrons.</p>
+
+<h3 id="p41">SCÈNE IV. — DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, quel diable de style prenez-vous là ? Ceci est bien pis que le reste, et je vous aimerois bien mieux encore comme vous étiez auparavant. J’espérais toujours de votre salut : mais c’est maintenant que j’en désespère ; et je crois que le ciel, qui vous a souffert jusques ici, ne pourra souffrir du tout cette dernière horreur.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Va, va, le ciel n’est pas si exact que tu penses ; et si toutes les fois que les hommes...</p>
+
+<h3 id="p42">SCÈNE V. — DON JUAN, SGANARELLE, UN SPECTRE, <i>en femme voilée.</i></h3>
+
+<hstage><speaker>SGANARELLE</speaker>, apercevant le spectre.</hstage>
+<p>Ah ! monsieur, c’est le ciel qui vous parle, et c’est un avis qu’il vous donne.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Si le ciel me donne un avis, il faut qu’il parle un peu plus clairement, s’il veut que je l’entende.</p>
+
+<hstage><speaker>LE SPECTRE</speaker></hstage>
+<p>Don Juan n’a plus qu’un moment à pouvoir profiter de la miséricorde du ciel, et, s’il ne se repent ici, sa perte est résolue.</p>
+
+<pagenum num="110"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Entendez-vous, monsieur ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Qui ose tenir ces paroles ? Je crois connoître cette voix.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! monsieur, c’est un spectre, je le reconnois au marcher.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Spectre, fantôme, ou diable, je veux voir ce que c’est. <stage>Le spectre change de figure, et représente le Temps, avec sa faux à la main.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>O ciel ! voyez-vous, monsieur, ce changement de figure ?</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Non, non, rien n’est capable de m’imprimer de la terreur, et je veux éprouver, avec mon épée, si c’est un corps ou un esprit. <stage>Le spectre s’envole dans le temps que don Juan veut le frapper.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! monsieur, rendez-vous à tant de preuves, et jetez-vous vite dans le repentir.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Non, non, il ne sera pas dit, quoi qu’il arrive, que je sois capable de me repentir. Allons, suis-moi.</p>
+
+<h3 id="p43">SCÈNE VI. — LA STATUE DU COMMANDEUR, DON JUAN, SGANARELLE</h3>
+
+<hstage><speaker>LA STATUE</speaker></hstage>
+<p>Arrêtez, don Juan. Vous m’avez hier donné parole de venir manger avec moi.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>Oui. Où faut-il aller ?</p>
+
+<hstage><speaker>LA STATUE</speaker></hstage>
+<p>Donnez-moi la main.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>La voilà</p>
+
+<hstage><speaker>LA STATUE</speaker></hstage>
+<p>Don Juan, l’endurcissement au péché traîne une mort funeste ; et les grâces du ciel que l’on renvoie ouvrent un chemin à sa foudre.</p>
+
+<hstage><speaker>DON JUAN</speaker></hstage>
+<p>O ciel ! que sens-je ? un feu invisible me brûle, je n’en puis <pagenum num="111"/>plus, et tout mon corps devient un brasier ardent. Ah ! <stage>Le tonnerre tombe avec un grand bruit et de grands éclairs sur don Juan. La terre s’ouvre et l’abîme ; et il sort de grands feux de l’endroit où il est tombé.</stage></p>
+
+<h3 id="p44">SCÈNE VII. — SGANARELLE, <i>seul</i></h3>
+
+<p>Ah ! mes gages ! mes gages ! Voilà, par sa mort, un chacun satisfait. Ciel offensé, lois violées, filles séduites, familles déshonorées, parents outragés, femmes mises à mal, maris poussés à bout, tout le monde est content ; il n’y a que moi seul de malheureux. Mes gages, mes gages, mes gages !</p>
+
+</page-sequence>
+</page-sequences>
+</bml>

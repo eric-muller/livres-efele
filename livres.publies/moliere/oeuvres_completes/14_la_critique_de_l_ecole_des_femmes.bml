@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000491"
+        creation="2017-01-29T08:36:23-08:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>La Critique de l’École des Femmes</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='14'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="sc01" label="Scène I"/>
+    <tocentry idref="sc02" label="Scène II"/>
+    <tocentry idref="sc03" label="Scène III"/>
+    <tocentry idref="sc04" label="Scène IV"/>
+    <tocentry idref="sc05" label="Scène V"/>
+    <tocentry idref="sc06" label="Scène VI"/>
+    <tocentry idref="sc07" label="Scène VII"/>
+    <tocentry idref="sc08" label="Scène VIII"/>
+  </toc>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="443"/>
+
+<img src="images/frise12.png" class="center100" alt="frise"/>
+
+<h1>LA CRITIQUE DE L’ÉCOLE DES FEMMES</h1>
+
+<h2>COMÉDIE EN UN ACTE</h2>
+<h2>1663</h2>
+
+<vsep class="rule"/>
+
+<h3>A LA REINE MÈRE<noteref noteid="note.443.1"/></h3>
+
+<notes>
+  <note id="note.443.1">
+    <p>Anne d’Autriche, fille aînée de Philippe III, roi d’Espagne, femme de Louis XIII, mère de Louis XIV, morte le 20 janvier 1666.</p>
+  </note>
+</notes>
+
+<salutation>M<s>ADAME</s>,</salutation>
+
+<p>Je sais bien que V<s>OTRE</s> M<s>AJESTÉ</s> n’a que faire de toutes nos dédicaces, et que ces prétendus devoirs, dont on lui dit élégamment qu’on s’acquitte envers Elle, sont des hommages, à dire vrai, dont Elle nous dispenseroit très volontiers. Mais je ne laisse pas d’avoir l’audace de lui dédier la <i>Critique de l’École des Femmes ;</i> et je n’ai pu refuser cette petite occasion de pouvoir témoigner ma joie à V<s>OTRE</s> M<s>AJESTÉ</s>, sur cette heureuse convalescence, qui redonne à nos vœux la plus grande et la meilleure princesse du monde, et nous promet en Elle de longues années d’une santé vigoureuse. Comme chacun regarde les choses du côté de ce qui le touche, je me réjouis, dans cette allegresse générale, de pouvoir encore obtenir l’honneur de divertir V<s>OTRE</s> M<s>AJESTÉ</s> ;  Elle, M<s>ADAME</s>, qui prouve si bien que la véritable dévotion n’est point contraire aux honnêtes divertissements ; qui, de ses hautes pensées et de ses importantes occupations, descend si humainement dans le plaisir de nos spectacles, et ne dédaigne pas de rire de cette même bouche dont Elle prie si bien Dieu. Je flatte, dis-je, mon esprit de l’espérance de cette gloire : j’en attends le moment avec toutes les impatiences du monde ; et, quand je jouirai de ce bonheur, ce sera la plus grande joie que puisse recevoir,</p>
+
+<p>M<s>ADAME</s>,</p>
+
+<p class="l3">D<s>E</s> V<s>OTRE</s> M<s>AJESTÉ</s>,</p>
+
+<p class="r3">Le très humble, très obéissant et très obligé serviteur,</p>
+
+<signature>M<s>OLIÈRE</s>.</signature>
+
+<vsep class="rule"/>
+
+<pagenum num="444"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">URANIE.</p>
+<p class="sommaire">ÉLISE.</p>
+<p class="sommaire">CLIMÈNE.</p>
+<p class="sommaire">LE MARQUIS.</p>
+<p class="sommaire">DORANTE, ou LE CHEVALIER.</p>
+<p class="sommaire">LYSIDAS, poète.</p>
+<p class="sommaire">GALOPIN, laquais.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est à Paris, dans la maison d’Uranie.</p>
+
+<vsep class="rule"/>
+
+<h3 id="sc01">SCÈNE I. — URANIE, ÉLISE</h3>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Quoi ! cousine, personne ne t’est venu rendre visite ?</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Personne du monde.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Vraiment, voilà qui m’étonne, que nous ayons été seules l’une et l’autre tout aujourd’hui.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Cela m’étonne aussi, car ce n’est guère notre coutume ; et votre maison, Dieu merci, est le refuge ordinaire de tous les fainéants de la cour.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>L’après-dînée, à dire vrai, m’a semblé fort longue.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Et moi, je l’ai trouvée fort courte.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>C’est que les beaux esprits, cousine, aiment la solitude.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Ah ! très humble servante au bel esprit ; vous savez que ce n’est pas là que je vise.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Pour moi, j’aime la compagnie, je l’avoue.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Je l’aime aussi, mais je l’aime choisie ; et la quantité des sottes visites qu’il vous faut essuyer parmi les autres est cause bien souvent que je prends plaisir d’être seule.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>La délicatesse est trop grande de ne pouvoir souffrir que des gens triés.</p>
+
+<pagenum num="445"/>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Et la complaisance est trop générale de souffrir indifféremment toutes sortes de personnes.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Je goûte ceux qui sont raisonnables, et me divertis des extravagants.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Ma foi, les extravagants ne vont guère loin sans vous ennuyer, et la plupart de ces gens-là ne sont plus plaisants dès la seconde visite. Mais, à propos d’extravagants, ne voulez-vous pas me défaire de votre marquis incommode ? Pensez-vous me le laisser toujours sur les bras, et que je puisse durer à ses turlupinades perpétuelles ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Ce langage est à la mode, et l’on le tourne en plaisanterie à la cour<noteref noteid="note.445.1"/>.</p>
+
+<notes>
+  <note id="note.445.1">
+    <p>Ce genre de plaisanterie amuse la cour.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Tans pis pour ceux qui le font, et qui se tuent tout le jour à parler ce jargon obscur. La belle chose de faire entrer, aux conversations du Louvre, de vieilles équivoques ramassées parmi les boues des Halles et de la place Maubert ! La jolie façon de plaisanter pour des courtisans, et. qu’un homme montre d’esprit lorsqu’il vient vous dire : Madame, vous êtes dans la place Royale, et tout le monde vous voit de trois lieues de Paris, car chacun vous voit de bon œil ; à cause que Bonneuil est un village à trois lieues d’ici ! Cela n’est-il pas bien galant et bien spirituel ? Et ceux qui trouvent ces belles rencontres n’ont-ils pas lieu de s’en glorifier ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>On ne dit pas cela aussi comme une chose spirituelle ; et la plupart de ceux qui affectent ce langage savent bien eux-mêmes qu’il est ridicule.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Tant pis encore de prendre peine à dire des sottises, et d’être mauvais plaisants de dessein formé. Je les en tiens moins excusables ; et, si j’en étois juge, je sais bien à quoi je condamnerois tous ces messieurs les turlupins.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Laissons cette matière, qui t’échauffe un peu trop, et disons que Dorante vient bien tard, à mon avis, pour le souper que nous devons faire ensemble.</p>
+
+<pagenum num="446"/>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Peut-être l’a-t-il oublié, et que...</p>
+
+<h3 id="sc02">SCÈNE II. — URANIE, ÉLISE, GALOPIN</h3>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Voilà Climène, madame, qui vient ici pour vous voir.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Eh ! mon Dieu, quelle visite !</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Vous vous plaigniez d’être seule ; aussi le ciel vous en punit.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Vite, qu’on aille dire que je n’y suis pas.</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>On a déjà dit que vous y étiez.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Et qui est le sot qui l’a dit ?</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Moi, madame.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Diantre soit le petit vilain ! Je vous apprendrai bien à faire vos réponses de vous-même.</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Je vais lui dire, madame, que vous voulez être sortie.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Arrêtez, animal, et la laissez monter, puisque la sottise est faite.</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Elle parle encore à un homme dans la rue.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Ah ! cousine, que cette visite m’embarrasse à l’heure qu’il est !</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Il est vrai que la dame est un peu embarrassante de son naturel ; j’ai toujours eu pour elle une furieuse aversion ; et ; n’en déplaise à sa qualité, c’est la plus sotte bête qui se soit jamais mêlée de raisonner.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>L’épithète est un peu forte.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Allez, allez, elle mérite bien cela, et quelque chose de plus ; <pagenum num="447"/>si on lui faisoit justice. Est-ce qu’il y a une personne qui soit plus véritablement qu’elle ce qu’on appelle précieuse, à prendre le mot dans sa plus mauvaise signification<noteref noteid="note.447.1"/> ?</p>
+
+<notes>
+  <note id="note.447.1">
+    <p>Avant la comédie des <i>Précieuses</i>, ce mot signifiait une <i>femme d’un genre distingué et de très-bonne compagnie</i>. Après cette comédie, ce mot changea de signification, et s’exprima plus qu’un ridicule. (La Harpe.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Elle se défend bien de ce nom, pourtant.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Il est vrai. Elle se défend du nom, mais non pas de la chose : car enfin elle l’est depuis les pieds jusqu’à la tête, et la plus grande façonnière du monde. Il semble que tout son corps soit démonté, et que les mouvements de ses hanches, de ses épaules et de sa tête, n’aillent que par ressorts. Elle affecte toujours un ton de voix languissant et niais, fait la moue pour montrer une petite bouche, et roule les yeux pour les faire paroître grands.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Doucement donc. Si elle venoit à entendre...</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Point, point, elle ne monte pas encore. Je me souviens toujours du soir qu’elle eut envie de voir Damon, sur la réputation qu’on lui donne et les choses que le public a vues de lui. Vous connoissez l’homme, et sa naturelle paresse à soutenir la conversation. Elle l’avoit invité à souper comme bel esprit, et jamais il ne parut si sot, parmi une demi-douzaine de gens à qui elle avoit fait fête de lui, et qui le regardoient avec de grands yeux, comme une personne qui ne devoit pas être faite comme les autres. Ils pensoient tous qu’il étoit là pour défrayer la compagnie de bons mots ; que chaque parole qui sortoit de sa bouche devoit être extraordinaire ; qu’il devoit faire des impromptus sur tout ce qu’on disoit, et ne demander à boire qu’avec une pointe. Mais il les trompa fort par son silence : et la dame fut aussi mal satisfaite de lui que je le fus d’elle.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Tais-toi, je vais la recevoir à la porte de la chambre.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Encore un mot. Je voudrois bien la voir mariée avec le marquis dont nous avons parlé. Le bel assemblage que ce seroit d’une précieuse et d’un turlupin !</p>
+
+<pagenum num="448"/>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Veux-tu te taire ! La voici.</p>
+
+<h3 id="sc03">SCÈNE III. — CLIMÈNE, URANIE, ÉLISE, GALOPIN</h3>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Vraiment, c’est bien tard que...</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Eh ! de grâce, ma chère, faites-moi vite donner un siège.</p>
+
+<hstage><speaker>URANIE</speaker>, à Galopin.</hstage>
+<p>Un fauteuil promptement.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Ah ! mon Dieu !</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Qu’est-ce donc ?</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Je n’en puis plus !</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Qu’avez-vous ?</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Le cœur me manque.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Sont-ce vos vapeurs qui vous ont pris ?</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Voulez-vous que l’on vous délace ?</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Mon Dieu, non. Ah !</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Quel est donc votre mal, et depuis quand vous a-t-il pris ?</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Il y a plus de trois heures, et je l’ai apporté du Palais-Royal<noteref noteid="note.448.1"/>.</p>
+
+<notes>
+  <note id="note.448.1">
+    <p>La troupe de Molière jouait alors sur le théâtre du Palais-Royal.</p>
+  </note>
+</notes>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Je viens de voir, pour mes péchés, cette méchante rapsodie de l’<i>École des Femmes</i>. Je suis encore en défaillance du mal de cœur que cela m’a donné, et je pense que je n’en reviendrai de plus de quinze jours.</p>
+
+<pagenum num="449"/>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Voyez un peu comme les maladies arrivent sans qu’on y songe !</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Je ne sais pas de quel tempérament nous sommes, ma cousine et moi ; mais nous fûmes avant-hier à la même pièce, et nous en revînmes toutes deux saines et gaillardes.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Quoi ! vous l’avez vue ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Oui ; et écoutée d’un bout à l’autre.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Et vous n’en avez pas été jusques aux convulsions, ma chère ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Je ne suis pas si délicate, Dieu merci ; et je trouve, pour moi, que cette comédie seroit plutôt capable de guérir les gens que de les rendre malades.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Ah ! mon Dieu, que dites-vous là ? Cette proposition peut-elle être avancée par une personne qui ait du revenu en sens commun ? Peut-on impunément, comme vous faites, rompre en visière à la raison ? Et, dans le vrai de la chose, est-il un esprit si affamé de plaisanterie, qu’il puisse tâter des fadaises dont cette comédie est assaisonnée ? Pour moi, je vous avoue que je n’ai pas trouvé le moindre grain de sel dans tout cela Les <i>enfants par l’oreille</i> m’ont paru d’un goût détestable ; la <i>tarte à la crème</i> m’a affadi le cœur, et j’ai pensé vomir au <i>potage</i>.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Mon Dieu, que tout cela est dit élégamment ! J’aurois cru que cette pièce étoit bonne ; mais madame a une éloquence si persuasive, elle tourne les choses d’une manière si agréable, qu’il faut être de son sentiment, malgré qu’on en ait.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Pour moi, je n’ai pas tant de complaisance ; et, pour dire ma pensée, je tiens cette comédie une des plus plaisantes que l’auteur ait produites.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Ah ! vous me faites pitié, de parler ainsi ; et je ne saurois vous souffrir cette obscurité de discernement. Peut-on, ayant de la vertu, trouver de l’agrément dans une pièce qui tient <pagenum num="450"/>sans cesse la pudeur en alarme, et salit à tout moment l’imagination ?</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Les jolies façons de parler que voilà ? Que vous êtes, madame, une rude joueuse en critique, et que je plains le pauvre Molière de vous avoir pour ennemie !</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Croyez-moi, ma chère, corrigez de bonne foi votre jugement ; et, pour votre honneur, n’allez point dire par le monde que cette comédie vous ait plu.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Moi, je ne sais pas ce que vous y avez trouvé qui blesse la pudeur.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Hélas ! tout ; et je mets en fait qu’une honnête femme ne la sauroit voir sans confusion, tant j’ai découvert d’ordures et de saletés.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Il faut donc que pour les ordures vous ayez des lumières que les autres n’ont pas ; car, pour moi, je n’y en ai point vu.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>C’est que vous ne voulez pas y en avoir vu, assurément ; car enfin toutes ces ordures, Dieu merci, y sont à visage découvert. Elles n’ont pas la moindre enveloppe qui les couvre, et les yeux les plus hardis sont effrayés de leur nudité.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Ah !</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Hai, hai, hai.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Mais encore, s’il vous plaît, marquez-moi une de ces ordures que vous dites.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Hélas ! est-il nécessaire de vous les marquer ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Oui. Je vous demande seulement un endroit qui vous ait fort choquée.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>En faut-il d’autre que la scène de cette Agnès, lorsqu’elle dit ce que l’on lui a pris ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Et que trouvez-vous là de sale ?</p>
+
+<pagenum num="451"/>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Ah !</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>De grâce ?</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Fi !</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Mais encore.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Je n’ai rien à vous dire.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Pour moi, je n’y entends point de mal.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Tant pis pour vous.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Tant mieux plutôt, ce me semble. Je regarde les choses du côté qu’on me les montre, et ne les tourne point pour y chercher ce qu’il n’y faut pas voir.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>L’honnêteté d’une femme...</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>L’honnêteté d’une femme n’est pas dans les grimaces. Il sied mal de vouloir être plus sage que celles qui sont sages. L’affectation en cette matière est pire qu’en toute autre ; et je ne vois rien de si ridicule que cette délicatesse d’honneur qui prend tout en mauvaise part, donne un sens criminel aux plus innocentes paroles, et s’offense de l’ombre des choses. Croyez-moi, celles qui font tant de façons n’en sont pas estimées plus femmes de bien. An contraire, leur sévérité mystérieuse et leurs grimaces affectées irritent la censure de tout le monde contre les actions de leur vie. On est ravi de découvrir ce qu’il y peut avoir à redire ; et, pour tomber dans l’exemple, il y avoit l’autre jour des femmes à cette comédie, vis-à-vis de la loge où nous, étions, qui, par les mines qu’elles affectèrent durant toute la pièce, leurs détournements de tête et leurs cachements de visage, firent dire de tous côtés cent sottises de leur conduite, que l’on n’auroit pas dites sans cela ; et quelqu’un même des laquais cria tout haut qu’elles étoient plus chastes des oreilles que de tout le reste du corps.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Enfin, il faut être aveugle dans cette pièce, et ne pas faire semblant d’y voir les choses.</p>
+
+<pagenum num="452"/>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Il ne faut pas y vouloir voir ce qui n’y est pas.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Ah ! je soutiens, encore un coup, que les saletés y crèvent les yeux.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Et moi, je ne demeure pas d’accord de cela.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Quoi ! la pudeur n’est pas visiblement blessée par ce que dit Agnès dans l’endroit dont nous parlons ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Non, vraiment. Elle ne dit pas un mot qui de soi ne soit fort honnête ; et, si vous voulez entendre dessous quelque autre chose, c’est vous qui faites l’ordure, et non pas elle, puisqu’elle parle seulement d’un ruban qu’on lui a pris.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Ah ! ruban tant qu’il vous plaira ; mais ce <i>le</i>, où elle s’arrête, n’est pas mis pour des prunes. Il vient sur ce <i>le</i> d’étranges pensées. Ce <i>le</i> scandalise furieusement ; et, quoi que vous puissiez dire, vous ne sauriez défendre l’insolence de ce <i>le</i>.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Il est vrai, ma cousine, je suis pour madame contre ce <i>le</i>. Ce <i>le</i> est insolent au dernier point, et vous avez tort de défendre ce <i>le</i>.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Il a une obscénité qui n’est pas supportable.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Comment dites-vous ce mot-là, madame ?</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Obscénité, madame.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Ah ! mon Dieu ! obscénité. Je ne sais pas ce que ce mot veut dire ; mais je le trouve le plus joli du monde<noteref noteid="note.452.1"/>.</p>
+
+<notes>
+  <note id="note.452.1">
+    <p>Ce passage prouve que le mot <i>obscénité</i>, très usité aujourd’hui, était alors nouveau et même réprouvé par le bon usage.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Enfin, vous voyez comme votre sang prend mon parti.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Eh ! mon Dieu, c’est une causeuse qui ne dit pas ce qu’elle pense. Ne vous y fiez pas beaucoup, si vous m’en voulez croire.</p>
+
+<pagenum num="453"/>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Ah ! que vous êtes méchante, de me vouloir rendre suspecte à madame ! Voyez un peu où j’en serois, si elle alloit croire ce que vous dites ! Serois-je si malheureuse, madame, que vous eussiez de moi cette pensée ?</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Non, non. Je ne m’arrête pas à ses paroles, et je vous crois plus sincère qu’elle ne dit.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Ah ! que vous avez bien raison, madame, et que vous me rendrez justice quand vous croirez que je vous trouve la plus engageante personne du monde, que j’entre dans tous vos sentiments, et suis charmée de toutes les expressions qui sortent de votre bouche !</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Hélas ! je parle sans affectation.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>On le voit bien, madame, et que tout est naturel en vous. Vos paroles, le ton de votre voix, vos regards, vos pas, votre action et votre ajustement ont je ne sais quel air de qualité qui enchante les gens. Je vous étudie des yeux et des oreilles ; et je suis si remplie de vous, que je tâche d’être votre singe et de vous contrefaire en tout.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Vous vous moquez de moi, madame.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Pardonnez-moi, madame. Qui voudroit se moquer de vous ?</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Je ne suis pas un bon modèle, madame.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Oh ! que si, madame !</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Vous me flattez, madame.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Point du tout, madame.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Épargnez-moi, s’il vous plaît, madame.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Je vous épargne aussi, madame, et je ne dis pas la moitié de ce que je pense, madame.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Ah ! mon Dieu ! brisons là, de grâce. Vous me jetteriez dans <pagenum num="454"/>une confusion épouvantable. <stage>A Uranie.</stage> Enfin, nous voilà deux contre vous ; et l’opiniatreté sied si mal aux personnes spirituelles...</p>
+
+<h3 id="sc04">SCÈNE IV. — LE MARQUIS, CLIMÈNE, URANIE, ÉLISE, GALOPIN</h3>
+
+<hstage><speaker>GALOPIN</speaker>, à la porte de la chambre.</hstage>
+<p>Arrêtez, s’il vous plaît, monsieur.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Tu ne me connois pas, sans doute.</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Si fait, je vous connois ; mais vous n’entrerez pas.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Ah ! que de bruit, petit laquais !</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Cela n’est pas bien de vouloir entrer malgré les gens.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Je veux voir ta maîtresse.</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Elle n’y est pas, vous dis-je.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>La voilà dans sa chambre.</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Il est vrai, la voilà ; mais elle n’y est pas.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Qu’est-ce donc qu’il y a là ?</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>C’est votre laquais, madame, qui fait le sot.</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Je lui dis que vous n’y êtes pas, madame, et il ne veut pas laisser d’entrer.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Et pourquoi dire à monsieur que je n’y suis pas ?</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Vous me grondâtes l’autre jour de lui avoir dit que vous y étiez.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Voyez cet insolent ! Je vous prie, monsieur, de ne pas croire ce qu’il dit. C’est un petit écervelé, qui vous a pris pour un autre.</p>
+
+<pagenum num="455"/>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Je l’ai bien vu, madame ; et, sans votre respect, je lui auroîs appris à connoître les gens de qualité.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Ma cousine vous est fort obligée de cette déférence.</p>
+
+<hstage><speaker>URANIE</speaker>, à Galopin.</hstage>
+<p>Un siège donc, impertinent.</p>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>N’en voilà-t-il pas un ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Approchez-le.</p>
+<pstage>Galopin pousse le siège rudement, et sort.</pstage>
+
+<h3 id="sc05">SCÈNE V. — LE MARQUIS, CLIMÈNE, URANIE, ÉLISE</h3>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Votre petit laquais, madame, a du mépris pour ma personne.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Il auroit tort, sans doute.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>C’est peut-être que je paye l’intérêt de ma mauvaise mine. <stage>Il rit.</stage> Hai, hai, hai, hai.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>L’âge le rendra plus éclairé en honnêtes gens.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Sur quoi en étiez-vous, mesdames, lorsque je vous ai interrompues ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Sur la comédie de l’<i>École des Femmes</i>.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Je ne fais que d’en sortir.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Eh bien, monsieur, comment la trouvez-vous, s’il vous plaît ?</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Tout à fait impertinente.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Ah ! que j’en suis ravie !</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>C’est la plus méchante chose du monde. Comment, diable ! à peine ai-je pu trouver place. J’ai pensé être étouffé à la porte <pagenum num="456"/>et jamais on ne m’a tant marché sur les pieds. Voyez comme mes canons et mes rubans en sont ajustés, de grâce.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Il est vrai que cela crie vengeance contre l’<i>École des Femmes</i>, et que vous la condamnez avec justice.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Il ne s’est jamais fait, je pense, une si méchante comédie.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Ah ! voici Dorante, que nous attendions.</p>
+
+<h3 id="sc06">SCÈNE VI. — DORANTE, CLIMÈNE, URANIE, ÉLISE, LE MARQUIS</h3>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Ne bougez, de grâce, et n’interrompez point votre discours. Vous êtes là sur une matière qui, depuis quatre jours, fait presque l’entretien de toutes les maisons de Paris ; et jamais on n’a rien vu de si plaisant que la diversité des jugements qui se font là-dessus. Car enfin j’ai ouï condamner cette comédie à certaines gens, par les mêmes choses que j’ai vu d’autres estimer le plus.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Voilà monsieur le marquis qui en dit force mal.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Il est vrai. Je la trouve détestable, morbleu ! détestable, du dernier détestable, ce qu’on appelle détestable.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Et moi, mon cher marquis, je trouve le jugement détestable.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Quoi ! chevalier, est-ce que tu prétends soutenir cette pièce ?</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Oui, je prétends la soutenir.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Parbleu ! je la garantis détestable.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>La caution n’est pas bourgeoise. Mais, marquis, par quelle raison, de grâce, cette comédie est-elle ce que tu dis ?</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Pourquoi elle est détestable ?</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Oui.</p>
+
+<pagenum num="457"/>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Elle est détestable, parce qu’elle est détestable.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Après cela, il n’y a plus rien à dire ; voilà son procès fait. Mais encore instruis-nous, et nous dis les défauts qui y sont.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Que sais-je, moi ? je ne me suis pas seulement donné la peine de l’écouter. Mais enfin je sais bien que je n’ai jamais rien vu de si méchant, Dieu me sauve ! et Dorilas, contre qui j’étois, a été de mon avis.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>L’autorité est belle, et te voilà bien appuyé !</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Il ne faut que voir les continuels éclats de rire que le parterre y fait. Je ne veux point d’autre chose pour témoigner qu’elle ne vaut rien.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Tu es donc, marquis, de ces messieurs du bel air, qui ne veulent pas que le parterre ait du sens commun, et qui seroient fâchés d’avoir ri avec lui, fût-ce de la meilleure chose du monde ? Je vis l’autre jour sur le théâtre un de nos amis, qui se rendit ridicule par là. Il écouta toute la pièce avec un sérieux le plus sombre du monde ; et tout ce qui égayoit les autres ridoit son front. A tous les éclats de risée, il haussait les épaules et regardoit le parterre en pitié ; et quelquefois aussi, le regardant avec dépit, il lui disoit tout haut : <i>Ris donc, parterre, ris donc !</i> Ce fut une seconde comédie que le chagrin de notre ami. Il la donna en galant homme à toute l’assemblée, et chacun demeura d’accord qu’on ne pouvoit pas mieux jouer qu’il fit. Apprends, marquis, je te prie, et les autres aussi que le bon sens n’a point de place déterminée à la comédie ; que la différence du demi-louis d’or et de la pièce de quinze sols<noteref noteid="note.457.1"/> ne fait rien du tout au bon goût ; que, debout ou assis, l’on peut donner un mauvais jugement ; et qu’enfin, à le prendre en général, je me fierois assez à l’approbation du parterre, par la raison qu’entre ceux qui le composent il y en a plusieurs qui sont capables de juger d’une pièce selon les règles, et que les autres en jugent par la bonne façon d’en juger, qui est de se laisser prendre aux choses, et de n’avoir ni <pagenum num="458"/>prévention, aveugle, ni complaisance affectée, ni délicatesse ridicule.</p>
+
+<notes>
+  <note id="note.457.1">
+    <p>Le louis d’or, ou lis d’or, était de sept livres. Les premières places d’un demi-louis étaient donc de trois livres dis sous. (Bret.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Te voilà donc, chevalier, le défenseur du parterre ? Parbleu ! je m’en réjouis, et je ne manquerai pas de l’avertir que tu es de ses amis. Hai, hai, hai, hai, hai !</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Ris tant que tu voudras. Je suis pour le bon sens, et ne saurois souffrir les ébullitions de cerveau de nos marquis de Mascarille. J’enrage de voir de ces gens qui se traduisent en ridicule, malgré leur qualité ; de ces gens qui décident toujours, et parlent hardiment de toutes choses, sans s’y connoître ; qui, dans une comédie, se récrieront aux méchants endroits, et ne branleront pas à ceux qui sont bons ; qui, voyant un tableau, ou écoutant un concert de musique, blâment de même et louent tout à contre-sens, prennent par où ils peuvent les termes de l’art qu’ils attrapent, et ne manquent jamais de les estropier et de les mettre hors de place. Eh, morbleu ! messieurs, taisez-vous. Quand Dieu ne vous a pas donné la connoissance d’une chose, n’apprêtez point à rire à ceux qui vous entendent parler, et songez qu’en ne disant mot on croira peut-être que vous êtes d’habiles gens.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Parbleu ! chevalier, tu le prends là...</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Mon Dieu, marquis, ce n’est pas à toi que je parle. C’est à une douzaine de messieurs qui déshonorent les gens de cour par leurs manières extravagantes, et font croire parmi le peuple que nous nous ressemblons tous. Pour moi, je m’en veux justifier le plus qu’il me sera possible ; et je les dauberai tant en toutes rencontres, qu’à la fin ils se rendront sages.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Dis-moi un peu, chevalier, crois-tu que Lysandre ait de l’esprit ?</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Oui, Sans doute, et beaucoup.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>C’est une chose qu’on ne peut pas nier.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Demandez-lui ce qu’il lui semble de l’<i>École des Femmes ;</i> vous verrez qu’il vous dira qu’elle ne lui plaît pas.</p>
+
+<pagenum num="459"/>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Eh ! mon Dieu, il y en a beaucoup que le trop d’esprit gâte, qui voient mal les choses à force de lumière, et même qui seroient bien fâchés d’être de l’avis des autres, pour avoir la gloire de décider.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Il est vrai. Notre ami est de ces gens-là, sans doute. Il veut être le premier de son opinion, et qu’on attende par respect son jugement. Toute approbation qui marche avant la sienne est un attentat sur ses lumières, dont il se venge hautement en prenant le contraire parti. Il veut qu’on le consulte sur toutes les affaires d’esprit ; et je suis sûre que, si l’auteur lui eût montré sa comédie avant que de la faire voir au public, il l’eût trouvée la plus belle du monde.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Et que direz-vous de la marquise Araminte, qui la publie partout pour épouvantable, et dit qu’elle n’a pu jamais souffrir les ordures dont elle est pleine ?</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Je dirai que cela est digne du caractère qu’elle a pris, et qu’il y a des personnes qui se rendent ridicules pour vouloir avoir trop d’honneur. Bien qu’elle ait de l’esprit, elle à suivi le mauvais exemple de celles qui, étant sur le retour de l’âge, veulent remplacer de quelque chose ce qu’elles voient qu’elles perdent, et prétendent que les grimaces d’une pruderie scrupuleuse leur tiendront lieu de jeunesse et de beauté. Celle-ci pousse l’affaire plus avant qu’aucune, et l’habileté de son scrupule découvre des saletés où jamais personne n’en avoit vu. On tient qu’il va, ce scrupule, jusques à défigurer notre langue, et qu’il n’y a point presque de mots dont la sévérité de cette dame ne veuille retrancher ou la tête ou la queue, pour les syllabes déshonnêtes qu’elle y trouve<noteref noteid="note.459.1"/>.</p>
+
+<notes>
+  <note id="note.459.1">
+    <p>Molière, s’est encore moqué, dans la <i>Comtesse d’Ercarbagnas</i> et dans les <i>Femmes savantes</i>, de cette ridicule délicatesse des prudes de son temps.</p>
+  </note>
+</notes>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Vous êtes bien fou, chevalier.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Enfin, chevalier, tu crois défendre ta comédie en faisant la satire de ceux qui la condamnent.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Non pas, mais je tiens que cette dame se scandalise à tort...</p>
+
+<pagenum num="460"/>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Tout beau, monsieur le chevalier ! Il pourroit y en avoir d’autres qu’elle qui seroient dans les mêmes sentiments.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Je sais bien que ce n’est pas vous, au moins ; et que lorsque vous avez vu cette <correction original="représentatoin" silent="yes">représentation</correction>...</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Il est vrai ; mais j’ai changé d’avis... <stage>Montrant Climène.</stage> et madame sait appuyer le sien par des raisons si convaincantes, qu’elle m’a entraînée de son côté.</p>
+
+<hstage><speaker>DORANTE</speaker>, à Climène.</hstage>
+<p>Ah ! madame, je vous demande pardon ; et, si vous le voulez, je me dédirai, pour l’amour de vous, de tout ce que j’ai dit.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Je ne veux pas que ce soit pour l’amour de moi, mais pour l’amour de la raison : car enfin cette pièce, à le bien prendre, est tout à fait indéfendable ; et je ne conçois pas...</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Ah ! voici l’auteur, monsieur Lysidas. Il vient tout à propos pour cette matière. Monsieur Lysidas, prenez un siège vous-même, et vous mettez là.</p>
+
+<h3 id="sc07">SCÈNE VII. — LYSIDAS, CLIMÈNE, URANIE, ÉLISE, DORANTE, LE MARQUIS</h3>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Madame, je viens un peu tard ; mais il m’a fallu lire ma pièce chez madame la marquise, dont je vous avois parlé et les louanges qui lui ont été données m’ont retenu une heure plus que je ne croyois.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>C’est un charme que les louanges pour arrêter un auteur.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Asseyez-vous donc, monsieur Lysidas ; nous lirons votre pièce après souper.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Tous ceux qui étoient là doivent venir à sa première représentation, et m’ont promis de faire leur devoir comme il faut.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Je le crois. Mais, encore une fois, asseyez-vous, s’il vous <pagenum num="461"/>plaît. Nous sommes ici sur une matière que je serai bien aise que nous poussions.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Je pense, madame, que vous retiendrez aussi une loge pour ce jour-là.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Nous verrons. Poursuivons, de grâce, notre discours.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Je vous donne avis, madame, qu’elles sont presque toutes retenues.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Voilà qui est bien. Enfin, j’avois besoin de vous lorsque vous êtes venu ; et tout le monde étoit ici contre moi.</p>
+
+<hstage><speaker>ÉLISE</speaker>, à Uranie, montrant Dorante.</hstage>
+<p>Il s’est mis d’abord de votre côté ; mais maintenant <stage>Montrant Climène.</stage> qu’il sait que madame est à la tête du parti contraire, je pense que vous n’avez qu’à chercher un autre secours.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Non, non. Je ne voudrois pas qu’il fît mal sa cour auprès de madame votre cousine, et je permets à son esprit d’être du parti de son cœur.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Avec cette permission, madame, je prendrai la hardiesse de me défendre.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Mais, auparavant, sachons un peu les sentiments de monsieur Lysidas.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Sur quoi, madame ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Sur le sujet de l’<i>École des Femmes</i>.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Que vous en semble ?</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Je n’ai rien à dire là-dessus ; et vous savez qu’entre nous autres auteurs, nous devons parler des ouvrages les uns des autres avec beaucoup de circonspection.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Mais encore, entre nous, que pensez-vous de cette comédie ?</p>
+
+<pagenum num="462"/>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Moi, monsieur ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>De bonne foi, dites-nous votre avis.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Je la trouve fort belle.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Assurément ?</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Assurément. Pourquoi non ? N’est-elle pas en effet la plus belle du monde ?</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Hon, hon ! vous êtes un méchant diable, monsieur Lysidas ; vous ne dites pas ce que vous pensez.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Pardonnez-moi.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Mon Dieu ! je vous connois. Ne dissimulons point.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Moi, monsieur ?</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Je vois bien que le bien que vous dites de cette pièce n’est que par honnêteté, et que, dans le fond du cœur, vous êtes de l’avis de beaucoup de gens qui la trouvent mauvaise.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Hai, hai, hai !</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Avouez, ma foi, que c’est une méchante chose que cette comédie.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Il est vrai qu’elle n’est pas approuvée par les connoisseurs.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Ma foi, chevalier, tu en tiens, et te voilà payé de ta raillerie. Ah, ah, ah, ah, ah !</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Pousse, mon cher marquis, pousse.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Tu vois que nous avons les savants de notre côté.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Il est vrai. Le jugement de monsieur Lysidasest quelque chose de considérable. Mais monsieur Lysidas veut bien que <pagenum num="463"/>je ne me rende pas pour cela ; et, puisque j’ai bien l’audace de me défendre <stage>Montrant Climène.</stage> contre les sentiments de madame, il ne trouvera pas mauvais que je combatte les siens.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Quoi ! vous voyez contre vous, madame, monsieur le marquis et monsieur Lysidas, et vous osez résister encore ? Fi ! que cela est de mauvaise grâce !</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Voilà qui me confond, pour moi, que des personnes raisonnables se puissent mettre en tête de donner protection aux sottises de cette pièce.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Dieu me damne ! madame, elle est misérable depuis le commencement jusqu’à la fin.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Cela est bientôt dit, marquis. Il n’est rien plus aisé que de trancher ainsi ; et je ne vois aucune chose qui puisse être à couvert de la souveraineté de tes décisions.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Parbleu ! tous les autres comédiens qui étoient là pour la voir en ont dit tous les maux du monde.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Ah ! Je ne dis plus mot ; tu as raison, marquis. Puisque les autres comédiens en disent du mal, il faut les en croire assurément. Ce sont tous gens éclairés, et qui parlent sans intérêt. Il n’y a plus rien à dire, je me rends.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Rendez-vous, ou ne vous rendez pas, je sais fort bien que vous ne me persuaderez point de souffrir les immodesties de cette pièce, non plus que les satires désobligeantes qu’on y voit contre les femmes.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Pour moi, je me garderai bien de m’en offenser, et de prendre rien sur mon compte de tout ce qui s’y dit. Ces sortes de satires tombent directement sur les mœurs, et ne frappent les personnes que par réflexion. N’allons point nous appliquer nous-mêmes les traits d’une censure générale ; et profitons de la leçon, si nous pouvons, sans faire semblant qu’on parle à nous. Toutes les peintures ridicules qu’on expose sur les théâtres, doivent être regardées sans chagrin, de tout le monde. Ce sont miroirs publics, où il ne faut jamais témoigner qu’on <pagenum num="464"/>se voie ; et c’est se taxer hautement d’un défaut, que se scandaliser qu’on le reprenne.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Pour moi, je ne parle pas de ces choses par la part que j’y puisse avoir, et je pense que je vis d’un air dans le monde à ne pas craindre d’être cherchée dans les peintures qu’on fait là des femmes qui se gouvernent mal.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Assurément, madame, on ne vous y cherchera point. Votre conduite est assez connue, et ce sont de ces sortes de choses qui ne sont contestées de personne.</p>
+
+<hstage><speaker>URANIE</speaker>, à Climène.</hstage>
+<p>Aussi, madame, n’ai-je rien dit qui aille à vous ; et mes paroles, comme les satires de la comédie, demeurent dans la thèse générale.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Je n’en doute pas, madame. Mais enfin passons sur ce chapitre. Je ne sais pas de quelle façon vous recevez les injures qu’on dit à notre sexe dans un certain endroit de la pièce ; et, pour moi, je vous avoue que je suis dans une colère épouvantable, de voir que cet auteur impertinent nous appelle des <i>animaux</i>.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Ne voyez-vous pas que c’est un ridicule qu’il fait parler ?</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Et puis, madame, ne savez-vous pas que les injures des amants n’offensent jamais ; qu’il est des amours emportés aussi bien que des doucereux ; et qu’en de pareilles occasions les paroles les plus étranges, et quelque chose de pis encore, se prennent bien souvent pour des marques d’affection par celles mêmes qui les reçoivent ?</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Dites tout ce que vous voudrez, je ne saurois digérer cela, non plus que le <i>potage</i> et la <i>tarte à la crème</i>, dont madame a parlé tantôt.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Ah ! ma foi, oui, <i>tarte à la crème !</i> voilà ce que j’avois remarqué tantôt ; <i>tarte à la crème !</i> Que je vous suis obligé, madame, de m’avoir fait souvenir de <i>tarte à la crème !</i> Y a-t-il assez de pommes en Normandie pour <i>tarte à la crème ? Tarte à la crème</i>, morbleu ! <i>tarte à la crème !</i></p>
+
+<pagenum num="465"/>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Eh bien, que veux-tu dire ? <i>Tarte à la crème !</i></p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Parbleu ! <i>tarte à la crème</i>, chevalier.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Mais encore ?</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p><i>Tarte à la crème !</i></p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Dis-nous un peu tes raisons.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p><i>Tarte à la crème !</i></p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Mais il faut expliquer sa pensée, ce me semble.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p><i>Tarte à la crème</i>, madame !</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Que trouvez-vous là à redire ?</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Moi, rien. <i>Tarte à la crème !</i></p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Ah ! je le quitte<noteref noteid="note.465.1"/>.</p>
+
+<notes>
+  <note id="note.465.1">
+    <p>Dans le sens de : j’en ai assez, j’y renonce.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Monsieur le marquis s’y prend bien, et vous bourre de la belle manière. Mais je voudrois bien que monsieur Lysidas voulût les achever et leur donner quelques petits coups de sa façon.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Ce n’est pas ma coutume de rien blâmer, et je suis assez indulgent pour les ouvrages des autres. Mais enfin, sans choquer l’amitié que monsieur le chevalier témoigne pour l’auteur, on m’avouera que ces sortes de comédies ne sont pas proprement des comédies, et qu’il y a une grande différence de toutes ces bagatelles à la beauté des pièces sérieuses. Cependant tout le monde donne là dedans aujourd’hui ; on ne court plus qu’à cela, et l’on voit une solitude effroyable aux grands ouvrages, lorsque des sottises ont tout Paris. Je vous avoue que le cœur m’en saigne quelquefois ; et cela est honteux pour la France.</p>
+
+<pagenum num="466"/>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Il est vrai que le goût des gens est étrangement gâté là-dessus, et que le siècle s’encanaille furieusement.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Celui-là est joli encore, s’encanaille ! Est-ce vous qui l’avez inventé, madame<noteref noteid="note.466.1"/> ?</p>
+
+<notes>
+  <note id="note.466.1">
+    <p>Malgré l’espèce de réprobation dont Molière frappe ici le verbe <i>s’encanailler</i>, il est resté dans la langue, aussi bien que le mot <i>obscénité</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Eh !</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Je m’en suis bien doutée.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Vous croyez donc, monsieur Lysidas, que tout l’esprit et toute la beauté sont dans les poèmes sérieux, et que les pièces comiques sont des niaiseries qui ne méritent aucune louange ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Ce n’est pas mon sentiment, pour moi. La tragédie, sans doute, est quelque chose de beau quand elle est bien touchée ; mais la comédie a ses charmes, et je tiens que l’une n’est pas moins difficile que l’autre.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Assurément, madame ; et quand, pour la difficulté, vous mettriez un peu plus du côté de la comédie, peut-être que vous ne vous abuseriez pas. Car enfin, je trouve qu’il est bien plus aisé de se guinder sur de grands sentiments, de braver en vers la fortune, accuser les destins, et dire des injures aux dieux, que d’entrer comme il faut dans le ridicule des hommes, et de rendre agréablement sur le théâtre les défauts de tout le monde. Lorsque vous peignez des héros, vous faites ce que vous voulez. Ce sont des portraits à plaisir, où l’on ne cherche point de ressemblance ; et vous n’avez qu’à suivre les traits d’une imagination qui se donne l’essor, et qui souvent laisse le vrai pour attraper le merveilleux. Mais, lorsque vous peignez les hommes, il faut peindre d’après nature. On veut que ces portraits ressemblent, et vous n’avez rien fait, si vous n’y faites reconnoître les gens de votre siècle. En un mot, dans les pièces sérieuses, il suffit, pour n’être point blâmé, de dire des choses qui soient de bons sens et bien écrites ; mais ce n’est pas assez dans les autres : il y faut plaisanter ; et c’est une étrange entreprise que celle de faire rire les honnêtes gens.</p>
+
+<pagenum num="467"/>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Je crois être du nombre des honnêtes gens ; et cependant je n’ai pas trouvé le mot pour rire dans tout ce que j’ai vu.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Ma foi, ni moi non plus.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Pour toi, marquis, je ne m’en étonne pas. C’est que tu n’y as point trouvé de turlupinades.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Ma foi, monsieur, ce qu’on y rencontre ne vaut guère mieux ; et toutes les plaisanteries y sont assez froides, à mon avis.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>La cour n’a pas trouvé cela.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Ah ! monsieur, la cour !</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Achevez, monsieur Lysidas. Je vois bien que vous voulez dire que la cour ne se connoît pas à ces choses ; et c’est le refuge ordinaire de vous autres, messieurs les auteurs, dans le mauvais succès de vos ouvrages, que d’accuser l’injustice du siècle et le peu de lumière des courtisans. Sachez, s’il vous plaît, monsieur Lysidas, que les courtisans ont d’aussi bons yeux que d’autres ; qu’on peut être habile avec un point de Venise<noteref noteid="note.467.1"/> et des plumes, aussi bien qu’avec une perruque courte et un petit rabat uni ; que la grande épreuve de toutes vos comédies, c’est le jugement de la cour ; que c’est son goût qu’il faut étudier, pour trouver l’art de réussir ; qu’il n’y a point de lieu où les décisions soient si justes ; et, sans mettre en ligne de compte tous les gens savants qui y sont, que, du simple bon sens naturel et du commerce de tout le beau monde, on s’y fait une manière d’esprit qui, sans comparaison, juge plus finement des choses que tout le savoir enrouillé des pédants.</p>
+
+<notes>
+  <note id="note.467.1">
+    <p>Le <i>point de Venise</i> était la dentelle à la mode pour les rabats ou collets, il était plus transparent et plus léger, mais aussi beaucoup plus cher que les points de fabrique française ou flamande.</p>
+  </note>
+</notes>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Il est vrai que, pour peu qu’on y demeure, il vous passe là tous les jours assez de choses devant les yeux pour acquérir quelque habitude de les connoître, et surtout pour ce qui est de la bonne et mauvaise plaisanterie.</p>
+
+<pagenum num="468"/>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>La cour a quelques ridicules, j’en demeure d’accord, et je suis, comme on voit, le premier à les fronder. Mais, ma foi, il y en a un grand nombre parmi les beaux esprits de profession ; et si l’on joue quelques marquis, je trouve qu’il y a bien plus de quoi jouer les auteurs, et que ce seroit une chose plaisante à mettre sur le théâtre, que leurs grimaces savantes et leurs raffinements ridicules, leur vicieuse coutume d’assassiner les gens de leurs ouvrages, leur friandise de louanges, leurs ménagements de pensées, leur trafic de réputation et leurs ligues offensives et défensives, aussi bien que leurs guerres d’esprit, et leurs combats de prose et de vers.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Molière est bien heureux, monsieur, d’avoir un protecteur aussi chaud que vous. Mais enfin, pour venir au fait, il est question de savoir si sa pièce est bonne, et je m’offre d’y montrer partout cent défauts visibles.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>C’est une étrange chose de vous autres, messieurs les poètes, que vous condamniez toujours les pièces où tout le monde court, et ne disiez jamais du bien que de celles où personne ne va. Vous montrez pour les unes une haine invincible, et pour les autres une tendresse qui n’est pas concevable.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>C’est qu’il est généreux de se ranger du côté des affligés.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Mais, de grâce, monsieur Lysidas, faites-nous voir ces défauts, dont je ne me suis point aperçue.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Ceux qui possèdent Aristote et Horace voient d’abord, madame, que cette comédie pèche contre toutes les règles de l’art.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Je vous avoue que je n’ai aucune habitude avec ces messieurs-là, et que je ne sais point les règles de l’art.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Vous êtes de plaisantes gens avec vos règles, dont vous embarrassez les ignorants et nous étourdissez tous les jours ! Il semble, à vous ouïr parler, que ces règles de l’art soient les plus grands mystères du monde ; et cependant ce ne sont que quelques observations aisées, que le bon sens a faites sur ce <pagenum num="469"/>qui peut ôter le plaisir que l’on prend à ces sortes de poèmes ; et le même bon sens qui a fait autrefois ces observations les fait aisément tous les jours, sans le secours d’Horace et d’Aristote. Je voudrois bien savoir si la grande règle de toutes les règles n’est pas de plaire, et si une pièce de théâtre qui a attrapé son but n’a pas suivi un bon chemin. Veut-on que tout un public s’abuse sur ces sortes de choses, et que chacun ne soit pas juge du plaisir qu’il y prend ?</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>J’ai remarqué une chose de ces messieurs-là : c’est que ceux qui parlent le plus des règles, et qui les savent mieux que les autres, font des comédies que personne ne trouve belles.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Et c’est ce qui marque, madame, comme on doit s’arrêter peu à leurs disputes embarrassées. Car enfin, si les pièces qui sont selon les règles ne plaisent pas, et que celles qui plaisent ne soient pas selon les règles, il faudroit, de nécessité, que les règles eussent été mal faites. Moquons-nous donc de cette chicane où ils veulent assujettir le goût public, et ne consultons dans une comédie que l’effet qu’elle fait sur nous. Laissons-nous aller de bonne foi aux choses qui nous prennent par les entrailles, et ne cherchons point de raisonnements pour nous empêcher d’avoir du plaisir.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Pour moi, quand je vois une comédie, je regarde seulement si les choses me touchent ; et, lorsque je m’y suis bien divertie, je ne vais point demander si j’ai eu tort, et si les règles d’Aristote me défendoient de rire.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>C’est justement comme un homme qui auroit trouvé une sauce excellente, et qui voudroit examiner si elle est bonne, sur les préceptes du <i>Cuisinier françois</i>.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Il est vrai ; et j’admire les raffinements de certaines gens sur des choses que nous devons sentir par nous-mêmes.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Vous avez raison, madame, de les trouver étranges, tous ces raffinements mystérieux. Car enfin, s’ils ont lieu, nous voilà réduits à ne nous plus croire ; nos propres sens seront esclaves en toutes choses ; et jusques au manger et au boire, <pagenum num="470"/>nous n’oserons plus trouver rien de bon, sans le congé de messieurs les experts.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Enfin, monsieur, toute votre raison, c’est que l’<i>École des Femmes</i> a plu ; et vous ne vous souciez point qu’elle ne soit pas dans les règles, pourvu...</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Tout beau, monsieur Lysidas, je ne vous accorde pas cela. Je dis bien que le grand art est de plaire, et que, cette comédie ayant plu à ceux pour qui elle est faite, je trouve que. c’est assez pour elle, et qu’elle doit peu se soucier du reste. Mais, avec cela, je soutiens qu’elle ne pèche contre aucune des règles dont vous parlez. Je les ai lues, Dieu merci, autant qu’un autre ; et je ferois voir aisément que peut-être n’avons-nous point de pièce au théâtre plus régulière que celle-là.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Courage, monsieur Lysidas ! nous sommes perdus si vous reculez.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Quoi ! monsieur, la protase, l’épitase, et la péripétie...</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Ah ! monsieur Lysidas, vous nous assommez avec vos grands mots. Ne paroissez point si savant, de grâce ! Humanisez votre discours, et parlez pour être entendu. Pensez-vous qu’un nom grec donne plus de poids à vos raisons ? Et ne trouveriez-vous pas qu’il fût aussi beau de dire, l’exposition du sujet, que la protase ; le nœud, que l’épitase ; et le dénouement, que la péripétie ?</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Ce sont termes de l’art dont il est permis de se servir. Mais, puisque ces mots blessent vos oreilles, je m’expliquerai d’une autre façon ; et je vous prie de répondre positivement à trois ou quatre choses que je vais dire. Peut-on souffrir une pièce qui pèche contre le nom propre des pièces de théâtre ? Car enfin le nom de poème dramatique vient d’un mot grec qui signifie agir, pour montrer que la nature de ce poème consiste dans l’action : et dans cette comédie-ci il ne ne se passe point d’action, et tout consiste en des récits que vient faire ou Agnès ou Horace.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Ah ! ah ! chevalier.</p>
+
+<pagenum num="471"/>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Voilà qui est spirituellement remarqué, et c’est prendre le fin des choses.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Est-il rien de si peu spirituel, ou, pour mieux dire, rien de si bas, que quelques mots où tout le monde rit, et surtout celui des <i>enfants par l’oreille ?</i></p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Ah !</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>La scène du valet et de la servante au dedans de la maison n’est-elle pas d’une longueur ennuyeuse, et tout à fait impertinente ?</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Cela est vrai.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Assurément.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Il a raison.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Arnolphe ne donne-t-il pas trop librement son argent à Horace ? Et, puisque c’est le personnage ridicule de la pièce, falloit-il lui faire faire l’action d’un honnête homme ?</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Bon. La remarque est encore bonne.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Admirable !</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Merveilleuse !</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Le sermon et les maximes ne sont-elles pas des choses ridicules, et qui choquent même le respect que l’on doit à nos mystères ?</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>C’est bien dit.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Voilà parlé comme il faut.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Il ne se peut rien de mieux.</p>
+
+<pagenum num="472"/>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Et ce monsieur de la Souche, enfin, qu’on nous fait un homme d’esprit, et qui paroît si sérieux en tant d’endroits, ne descend-il point dans quelque chose de trop comique et de trop outré au cinquième acte, lorsqu’il explique à Agnès la violence de son amour, avec ces roulements d’yeux extravagants, ces soupirs ridicules et ces larmes niaises qui font rire tout le monde ?</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Morbleu ! merveille !</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Miracle !</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Vivat, monsieur Lysidas !</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Je laisse cent mille autres choses, de peur d’être ennuyeux.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Parbleu ! chevalier, te voilà mal ajusté.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Il faut voir.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Tu as trouvé ton homme, ma foi.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Peut-être.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Réponds, réponds, réponds, réponds.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Volontiers. Il...</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Réponds donc, je te prie.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Laisse-moi donc faire. Si...</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Parbleu ! je te défie de répondre.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Oui, si tu parles toujours.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>De grâce, écoutons ses raisons.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Premièrement, il n’est pas vrai de dire que toute la pièce n’est qu’en récits. On y voit beaucoup d’actions qui se <pagenum num="473" b="pas-" a="sent">passent</pagenum> sur la scène, et les récits eux-mêmes y sont des actions, suivant la constitution du sujet ; d’autant qu’ils sont tous faits innocemment, ces récits, à la personne intéressée, qui, par là, entre à tous coups dans une confusion à réjouir les spectateurs, et prend, à chaque nouvelle, toutes les mesures qu’il peut, pour se parer du malheur qu’il craint.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Pour moi, je trouve que la beauté du sujet de l’<i>École des Femmes</i> consiste dans cette confidence perpétuelle ; et ce qui me paroît assez plaisant, c’est qu’un homme qui a de l’esprit, et qui est averti de tout par une innocente qui est sa maîtresse, et par un étourdi qui est son rival, ne puisse avec cela éviter ce qui lui arrive.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Bagatelle ! bagatelle !</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Foible réponse.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Mauvaises raisons.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Pour ce qui est des <i>enfants par l’oreille</i>, ils ne sont plaisants que par réflexion à Arnolphe ; et l’auteur n’a pas mis cela pour être de soi un bon mot, mais seulement pour une chose qui caractérise l’homme, et peint d’autant mieux son extravagance, puisqu’il rapporte une sottise triviale qu’a dite Agnès comme la chose la plus belle du monde et qui lui donne une joie inconcevable.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>C’est mal répondre.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Cela ne satisfait point.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>C’est ne rien dire.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Quant à l’argent qu’il donne librement, outre que la lettre de son meilleur ami lui est une caution suffisante, il n’est pas incompatible qu’une personne soit ridicule en de certaines choses, et honnête homme en d’autres. Et pour la scène d’Alain et de Georgette dans le logis, que quelques-uns ont trouvée longue et froide, il est certain qu’elle n’est pas sans raison ; et, de même qu’Arnolphe se trouve attrapé pendant son voyage par la pure innocence de sa maîtresse, il demeure <pagenum num="474"/>au retour longtemps à sa porte par l’innocence de ses valets, afin qu’il soit partout puni par les choses dont il a cru faire la sûreté de ses précautions.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Voilà des raisons qui ne valent rien.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Tout cela ne fait que blanchir.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Cela fait pitié.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Pour le discours moral que vous appelez un sermon, il est certain que de vrais dévots qui l’ont ouï n’ont pas trouvé qu’il choquât ce que vous dites ; et sans doute que ces paroles d’<i>enfer</i> et de <i>chaudières bouillantes</i> sont assez justifiées par l’extravagance d’Arnolphe et par l’innocence de celle à qui il parle. Et quant au transport amoureux du cinquième acte, qu’on accuse d’être trop outré et trop comique, je voudrois bien savoir si ce n’est pas faire la satire des amants, et si les honnêtes gens même, et les plus sérieux, en de pareilles occasions ne font pas des choses...</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Ma foi, chevalier, tu ferois mieux de te taire.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Fort bien. Mais enfin, si nous nous regardions nous-mêmes, quand nous sommes bien amoureux...</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Je ne veux pas seulement t’écouter.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Écoute-moi si tu veux. Est-ce que, dans la violence de la passion...</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>La, la, la, la, lare, la, la, la, la, la. <stage>Il chante.</stage></p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Quoi !...</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>La, la, la, la, lare, la, la, la, la, la, la.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Je ne sais pas si...</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>La, la, la, la, lare, la, la, la, la, la, la.</p>
+
+<pagenum num="475"/>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Il me semble que...</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>La, la, la, lare, la, la, la, la, la, la, la, la, la, la.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Il se passe des choses assez plaisantes dans notre dispute. Je trouve qu’on en pourroit bien faire une petite comédie, et que cela ne seroit pas trop mal à la queue de l’<i>École des Femmes</i>.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Vous avez raison.</p>
+
+<hstage><speaker>LE MARQUIS</speaker></hstage>
+<p>Parbleu ! chevalier, tu jouerois là-dedans un rôle qui ne te seroit pas avantageux.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Il est vrai, marquis.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Pour moi, je souhaiterois que cela se fît, pourvu qu’on traitât l’affaire comme elle s’est passée.</p>
+
+<hstage><speaker>ÉLISE</speaker></hstage>
+<p>Et moi, je fournirois de bon cœur mon personnage.</p>
+
+<hstage><speaker>LYSIDAS</speaker></hstage>
+<p>Je ne refuserois pas le mien, que je pense.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Puisque chacun en seroit content, chevalier, faites un mémoire de tout, et le donnez à Molière, que vous connoissez, pour le mettre en comédie.</p>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<p>Il n’auroit garde, sans doute, et ce ne seroit pas des vers à sa louange.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Point, point ; je connois son humeur : il ne se soucie pas qu’on fronde ses pièces, pourvu qu’il y vienne du monde.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Oui. Mais quel dénoûment pourroit-il trouver à ceci ? Car il ne sauroit y avoir ni mariage, ni reconnoissance ; et je ne sais point par où l’on pourroît faire finir la dispute.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>Il faudroit rêver quelque incident pour cela.</p>
+
+<pagenum num="476"/>
+
+<h3 id="sc08">SCÈNE VIII. — CLIMÈNE, URANIE, ÉLISE, DORANTE, LE MARQUIS, LYSIDAS, GALOPIN</h3>
+
+<hstage><speaker>GALOPIN</speaker></hstage>
+<p>Madame, on a servi sur table.</p>
+
+<hstage><speaker>DORANTE</speaker></hstage>
+<p>Ah ! voilà justement ce qu’il faut pour le dénoûment que nous cherchions, et l’on ne peut rien trouver de plus naturel. On disputera fort et ferme de part et d’autre, comme nous avons fait, sans que personne se rende ; un petit laquais viendra dire qu’on a servi, on se lèvera, et chacun ira souper.</p>
+
+<hstage><speaker>URANIE</speaker></hstage>
+<p>La comédie ne peut pas mieux finir et nous ferons bien d’en demeurer là.</p>
+
+</page-sequence>
+</page-sequences>
+</bml>

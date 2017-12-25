@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <property name='schema' value='schema.rnc'/>
+  <property name='toefele_xsl' value='toefele.xsl'/>
+
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_vie_de_moliere'/>
+    <book x='02_moliere_et_la_comedie'/>
+    <book x='03_discours_sur_la_comedie'/>
+    <book x='04_la_jalousie_du_barbouille'/>
+    <book x='05_le_medecin_volant'/>
+    <book x='06_l_etourdi'/>
+    <book x='07_le_depit_amoureux'/>
+    <book x='08_les_precieuses_ridicules'/>
+    <book x='09_sganarelle'/>
+    <book x='10_don_garcie_de_navarre'/>
+    <book x='11_l_ecole_des_maris'/>
+    <book x='12_les_facheux'/>
+    <book x='13_l_ecole_des_femmes'/>
+    <book x='14_la_critique_de_l_ecole_des_femmes'/>
+    <book x='15_l_impromptu_de_versailles'/>
+    <book x='16_le_mariage_force'/>
+    <book x='17_la_princesse_d_elide'/>
+    <book x='18_don_juan'/>
+    <book x='19_l_amour_medecin'/>
+    <book x='20_le_misanthrope'/>
+    <book x='21_le_medecin_malgre_lui'/>
+    <book x='22_melicerte'/>
+    <book x='23_pastorale_comique'/>
+    <book x='24_le_sicilien'/>
+    <book x='25_l_imposteur_ou_le_tartuffe'/>
+    <book x='26_amphitryon'/>
+    <book x='27_george_dandin'/>
+    <book x='28_l_avare'/>
+    <book x='29_monsieur_de_pourceaugnac'/>
+    <book x='30_les_amants_magnifiques'/>
+    <book x='31_le_bourgeois_gentilhomme'/>
+    <book x='32_psyche'/>
+    <book x='33_les_fourberies_de_scapin'/>
+    <book x='34_la_comtesse_d_escarbagnas'/>
+    <book x='35_les_femmes_savantes'/>
+    <book x='36_le_malade_imaginaire'/>
+    <book x='37_poesies_diverses'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='moliere'/>
+  </target>
+
+  <target name='zipsources-book'/>
+
+</project>

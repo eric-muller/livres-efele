@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_l_aube'/>
+    <book x='02_le_matin'/>
+    <book x='03_l_adolescent'/>
+    <book x='04_la_revolte'/>
+
+    <book x='05_la_foire_sur_la_place'/>
+    <book x='06_antoinette'/>
+    <book x='07_dans_la_maison'/>
+
+    <book x='08_les_amies'/>
+    <book x='09_le_buisson_ardent'/>
+    <book x='10_la_nouvelle_journee'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='jean-christophe'/> 
+  </target>
+
+  <target name='zipsources-book'/>
+</project>

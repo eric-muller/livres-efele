@@ -1,0 +1,2561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb315608077">
+
+      <titre>Œuvres complètes de Paul Verlaine</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11913405m">
+        <nom-bibliographie>Verlaine, Paul</nom-bibliographie>
+        <dates>1844-1896</dates>
+        <nom-couverture>Paul Verlaine</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>Léon Vanier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1902-1905</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <partie>1</partie>
+      <date>1902</date>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k2029102"
+                 pages="n5"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000214"
+        creation="2012-09-15T00:00:01-08:00"
+        modification="2014-12-31T18:14:45-08:00">
+
+      <surtitre>Œuvres complètes</surtitre>
+      <titre>Poèmes saturniens</titre>
+
+      <collection id='c00007'>
+        <titre>Œuvres complètes de Paul Verlaine, Léon Vanier</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+
+  <toc>
+      <tocentry label="Prologue" idref="p1"/>
+
+      <tocentry label="Melancholia" idref="p2">
+        <tocentry idref="p2.1" label="I. Résignation"/>
+        <tocentry idref="p2.2" label="II. Nevermore"/>
+        <tocentry idref="p2.3" label="III. Après trois ans"/>
+        <tocentry idref="p2.4" label="IV. Vœu"/>
+        <tocentry idref="p2.5" label="V. Lassitude"/>
+        <tocentry idref="p2.6" label="VI. Mon rêve familier"/>
+        <tocentry idref="p2.7" label="VII. A une femme"/>
+        <tocentry idref="p2.8" label="VIII. L’angoisse"/>
+      </tocentry>
+
+      <tocentry idref="p3" label="Eaux-fortes">
+        <tocentry idref="p3.1" label="I. Croquis parisien"/>
+        <tocentry idref="p3.2" label="II. Cauchemar"/>
+        <tocentry idref="p3.3" label="III. Marine"/>
+        <tocentry idref="p3.4" label="IV. Effet de nuit"/>
+        <tocentry idref="p3.5" label="V. Grotesques"/>
+      </tocentry>
+
+      <tocentry idref="p4" label="Paysages tristes">
+        <tocentry idref="p4.1" label="I. Soleils couchants"/>
+        <tocentry idref="p4.2" label="II. Crépuscule du soir mystique"/>
+        <tocentry idref="p4.3" label="III. Promenade sentimentale"/>
+        <tocentry idref="p4.4" label="IV. Nuit "/>
+        <tocentry idref="p4.5" label="V. Chanson d’automne"/>
+        <tocentry idref="p4.6" label="VI. L’heure du berger"/>
+        <tocentry idref="p4.7" label="VII. Le rossignol"/>
+      </tocentry>
+
+      <tocentry idref="p5" label="Caprices">
+        <tocentry idref="p5.1" label="I. Femme et chatte"/>
+        <tocentry idref="p5.2" label="II. Jésuitisme"/>
+        <tocentry idref="p5.3" label="III. La chanson des ingénues"/>
+        <tocentry idref="p5.4" label="IV. Une grande dame"/>
+        <tocentry idref="p5.5" label="V. Monsieur Prudhomme"/>
+      </tocentry>
+
+      <tocentry idref="p6" label="Initium"/>
+      <tocentry idref="p7" label="Çavitri"/>
+      <tocentry idref="p8" label="Sub urbe"/>
+      <tocentry idref="p9" label="Sérénade"/>
+      <tocentry idref="p10" label="Un dahlia"/>
+      <tocentry idref="p11" label="Nevermore"/>
+      <tocentry idref="p12" label="Il Bacio"/>
+      <tocentry idref="p13" label="Dans les bois"/>
+      <tocentry idref="p14" label="Nocturne parisien"/>
+      <tocentry idref="p15" label="Marco"/>
+      <tocentry idref="p16" label="César Borgia"/>
+      <tocentry idref="p17" label="La mort de Philippe II"/>
+      <tocentry idref="p18" label="Épilogue"/>
+      
+      <tocentry idref="table" label="Table"/>
+  </toc>
+  
+  <cover src="images/couverture1.png" alt="Œuvres complètes de Paul Verlaine. Poèmes saturniens — Fêtes galantes — Bonne chanson — Romances sans paroles — Sagesse — Jadis et naguère. Tome premier. Troisième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1902."/>
+
+<page-sequences>
+<page-sequence>
+<div>
+  <img src="images/verlaine2.png" class="fullpageimage" alt="Paul Verlaine"/>
+</div>
+</page-sequence>
+
+<page-sequence>
+<div id="p0">
+ <pagenum num="2"/>
+
+<poem>
+<lg>
+<l><i>Les Sages d’autrefois, qui valaient bien ceux-ci,</i></l>
+<l><i>Crurent, et c’est un point encor mal éclairci,</i></l>
+<l><i>Lire au ciel les bonheurs ainsi que les désastres,</i></l>
+<l><i>Et que chaque âme était liée à l’un des astres.</i></l>
+<l><i>(On a beaucoup raillé, sans penser que souvent</i></l>
+<l><i>Le rire est ridicule autant que décevant,</i></l>
+<l><i>Cette explication du mystère nocturne.)</i></l>
+<l><i>Or ceux-là qui sont nés sous le signe SATURNE,</i></l>
+<l><i>Fauve planète, chère aux nécromanciens,</i></l>
+<l><i>Ont entre tous, d’après les grimoires anciens,</i></l>
+<l><i>Bonne part de malheur et bonne part de bile.</i></l>
+<l><i>L’Imagination, inquiète et débile,</i></l>
+<l><i>Vient rendre nul en eux l’effort de la Raison.</i></l>
+<l><i>Dans leurs veines, le sang, subtil comme un poison,</i></l>
+<l><i>Brûlant comme une lave, et rare, coule et roule</i></l>
+<l><i>En grésillant leur triste Idéal qui s’écroule.</i></l>
+<l><i>Tels les Saturniens doivent souffrir et tels</i></l>
+<l><i>Mourir, — en admettant que nous soyons mortels. —</i></l>
+<l><i>Leur plan de vie étant dessiné ligne à ligne</i></l>
+<l><i>Par la logique d’une Influence maligne.</i></l>
+</lg>
+</poem>
+
+<p class="r3">P. V.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p1">
+ <pagenum num="3"/>
+
+<h1>PROLOGUE</h1>
+
+<poem>
+<lg>
+<l>Dans ces temps fabuleux, les limbes de l’histoire,</l>
+<l>Où les fils de Raghû, beaux de fard et de gloire,</l>
+<l>Vers la Ganga régnaient leur règne étincelant,</l>
+<l>Et, par l’intensité de leur vertu, troublant</l>
+<l>Les Dieux et les Démons et Bhagavat lui-même,</l>
+<l>Augustes, s’élevaient jusqu’au néant suprême,</l>
+<l>Ah ! la terre et la mer et le ciel, purs encor</l>
+<l>Et jeunes, qu’arrosait une lumière d’or</l>
+<l>Frémissante, entendaient, apaisant leurs murmures</l>
+<l>De tonnerres, de flots heurtés, de moissons mûres,</l>
+<l>Et retenant le vol obstiné des essaims,</l>
+<l>Les Poètes sacrés chanter les Guerriers saints,</l>
+<l>Ce pendant que le ciel et la mer et la terre</l>
+<l>Voyaient — rouges et las de leur travail austère —</l>
+<l>S’incliner, pénitents fauves et timorés,</l>
+<l>Les Guerriers saints devant les Poètes sacrés !</l>
+ <pagenum num="4"/>
+<l>Une connexité grandiosement calme</l>
+<l>Liait le Kchatrya serein au Chanteur calme,</l>
+<l>Valmiki l’excellent à l’excellent Rama :</l>
+<l>Telles sur un étang deux touffes de padma.</l>
+</lg>
+
+<lg>
+<l>— Et sous tes cieux dorés et clairs, Hellas antique,</l>
+<l>De Sparte la sévère à la rieuse Attique,</l>
+<l>Les Aèdes, Orpheus, Akaïos, étaient</l>
+<l>Encore des héros altiers et combattaient,</l>
+<l>Homéros, s’il n’a pas, lui, manié le glaive,</l>
+<l>Fait retentir, clameur immense qui s’élève,</l>
+<l>Vos échos, jamais las, vastes postérités,</l>
+<l>D’Hektôr, et d’Odysseus, et d’Akhilleus chantés.</l>
+<l>Les héros à leur tour, après les luttes vastes,</l>
+<l>Pieux, sacrifiaient aux neuf Déesses chastes,</l>
+<l>Et non moins que de l’art d’Arès furent épris</l>
+<l>De l’Art dont une Palme immortelle est le prix,</l>
+<l>Akhilleus entre tous ! Et le Laëtiade</l>
+<l>Dompta, parole d’or qui charme et persuade,</l>
+<l>Les esprits et les cœurs et les âmes toujours,</l>
+<l>Ainsi qu’Orpheus domptait les tigres et les ours.</l>
+</lg>
+
+<lg>
+<l>— Plus tard, vers des climats plus rudes, en des ères</l>
+<l>Barbares, chez les Francs tumultueux, nos pères,</l>
+<l>Est-ce que le Trouvère héroïque n’eut pas</l>
+<l>Comme le Preux sa part auguste des combats ?</l>
+<l>Est-ce que, Théroldus ayant dit Charlemagne,</l>
+<l>Et son neveu Roland resté dans la montagne</l>
+ <pagenum num="5"/>
+<l>Et le bon Olivier et Turpin au grand cœur,</l>
+<l>En beaux couplets et sur un rythme âpre et vainqueur,</l>
+<l>Est-ce que, cinquante ans après, dans les batailles,</l>
+<l>Les durs Leudes perdant leur sang par vingt entailles,</l>
+<l>Ne chantaient pas le chant de geste sans rivaux,</l>
+<l>De Roland et de ceux qui virent Roncevaux</l>
+<l>Et furent de l’énorme et suprême tuerie,</l>
+<l>Du temps de l’Empereur à la barbe fleurie ?</l>
+</lg>
+
+<lg>
+<l>— Aujourd’hui l’Action et le Rêve ont brisé</l>
+<l>Le pacte primitif par les siècles usé,</l>
+<l>Et plusieurs ont trouvé funeste ce divorce</l>
+<l>De l’harmonie immense et bleue et de la Force.</l>
+<l>La Force qu’autrefois le Poète tenait</l>
+<l>En bride, blanc cheval ailé qui rayonnait,</l>
+<l>La force, maintenant, la Force, c’est la Bête</l>
+<l>Féroce bondissante et folle et toujours prête</l>
+<l>A tout carnage, à tout dévastement, à tout</l>
+<l>Égorgement d’un bout du monde à l’autre bout !</l>
+<l>L’Action qu’autrefois réglait le chant des lyres,</l>
+<l>Trouble, enivrée, en proie aux cent mille délires</l>
+<l>Fuligineux d’un siècle en ébullition,</l>
+<l>L’Action à présent, — ô pitié ! — l’Action,</l>
+<l>C’est l’ouragan, c’est la tempête, c’est la houle</l>
+<l>Marine dans la nuit sans étoiles, qui roule</l>
+<l>Et déroule parmi des bruits sourds l’effroi vert</l>
+<l>Et rouge des éclairs sur le ciel entr’ouvert !</l>
+</lg>
+
+ <pagenum num="6"/>
+
+<lg>
+<l>— Cependant, orgueilleux et doux, loin des vacarmes</l>
+<l>De la vie et du choc désordonné des armes</l>
+<l>Mercenaires, voyez, gravissant les hauteurs</l>
+<l>Ineffables, voici le groupe des Chanteurs</l>
+<l>Vêtus de blanc, et des lueurs d’apothéoses</l>
+<l>Empourprent la fierté sereine de leurs poses :</l>
+<l>Tous beaux, tous purs, avec des rayons dans les yeux,</l>
+<l>Et sur leur front le rêve inachevé des Dieux,</l>
+<l>Le monde que troublait leur parole profonde,</l>
+<l>Les exile. A leur tour ils exilent le monde !</l>
+<l>C’est qu’ils ont à la fin compris qu’ils ne faut plus</l>
+<l>Mêler leur note pure aux cris irrésolus</l>
+<l>Que va poussant la foule obscène et violente,</l>
+<l>Et que l’isolement sied à leur marche lente.</l>
+<l>Le Poète, l’amour du Beau, voilà sa foi,</l>
+<l>L’Azur, son étendard, et l’Idéal, sa loi !</l>
+<l>Ne lui demandez rien de plus, car ses prunelles,</l>
+<l>Où le rayonnement des choses éternelles</l>
+<l>A mis des visions qu’il suit avidement,</l>
+<l>Ne sauraient s’abaisser une heure seulement</l>
+<l>Sur le honteux conflit des besognes vulgaires,</l>
+<l>Et sur vos vanités plates ; et si naguères</l>
+<l>On le vit au milieu des hommes, épousant</l>
+<l>Leurs querelles, pleurant avec eux, les poussant</l>
+<l>Aux guerres, célébrant l’orgueil des Républiques</l>
+<l>Et l’éclat militaire et les splendeurs auliques.</l>
+<l>Sur la kitare, sur la harpe et sur le luth,</l>
+<l>S’il honorait parfois le présent d’un salut</l>
+ <pagenum num="7"/>
+<l>Et daignait consentir à ce rôle de prêtre</l>
+<l>D’aimer et de bénir, et s’il voulait bien être</l>
+<l>La voix qui rit ou pleure alors qu’on pleure ou rit,</l>
+<l>S’il inclinait vers l’âme humaine son esprit,</l>
+<l>C’est qu’il se méprenait alors sur l’âme humaine.</l>
+</lg>
+
+<lg>
+<l>— Maintenant, va, mon Livre, où le hasard te mène.</l>
+</lg>
+</poem>
+
+ <pagenum num="8"/>
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p2">
+ <pagenum num="9"/>
+
+<h1>MELANCHOLIA</h1>
+
+<p class="r3"><i>A Ernest Boutier.</i></p>
+
+
+<h2 id="p2.1">I</h2>
+<h2>RÉSIGNATION</h2>
+
+<poem>
+<lg>
+<l>Tout enfant, j’allais rêvant Ko-Hinnor,</l>
+<l>Somptuosité persane et papale,</l>
+<l>Héliogabale et Sardanapale !</l>
+</lg>
+
+<lg>
+<l>Mon désir créait sous des toits en or,</l>
+<l>Parmi les parfums, au son des musiques,</l>
+<l>Des harems sans fin, paradis physiques !</l>
+</lg>
+
+<lg>
+<l>Aujourd’hui plus calme et non moins ardent,</l>
+<l>Mais sachant la vie et qu’il faut qu’on plie,</l>
+<l>J’ai dû refréner ma belle folie,</l>
+<l>Sans me résigner par trop cependant.</l>
+</lg>
+
+ <pagenum num="10"/>
+
+<lg>
+<l>Soit ! le grandiose échappe à ma dent,</l>
+<l>Mais fi de l’aimable et fi de la lie !</l>
+<l>Et je hais toujours la femme jolie !</l>
+<l>La rime assonante et l’ami prudent.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p2.2">
+ <pagenum num="11"/>
+
+<h2>II</h2>
+<h2>NEVERMORE</h2>
+
+<poem>
+<lg>
+<l>Souvenir, souvenir, que me veux-tu ? L’automne</l>
+<l>Faisait voler la grive à travers l’air atone,</l>
+<l>Et le soleil dardait un rayon monotone</l>
+<l>Sur le bois jaunissant où la bise détone.</l>
+</lg>
+
+<lg>
+<l>Nous étions seul à seule et marchions en rêvant,</l>
+<l>Elle et moi, les cheveux et la pensée au vent.</l>
+<l>Soudain, tournant vers moi son regard émouvant :</l>
+<l>« Quel fut ton plus beau jour ! » fit sa voix d’or vivant,</l>
+</lg>
+
+<lg>
+<l>Sa voix douce et sonore, au frais timbre angélique.</l>
+<l>Un sourire discret lui donna la réplique,</l>
+<l>Et je baisai sa main blanche, dévotement.</l>
+</lg>
+
+<lg>
+<l>— Ah ! les premières fleurs qu’elles sont parfumées !</l>
+<l>Et qu’il bruit avec un murmure charmant</l>
+<l>Le premier <i>oui</i> qui sort de lèvres bien-aimées !</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p2.3">
+<pagenum num="12"/>
+
+<h2>III</h2>
+<h2>APRÈS TROIS ANS</h2>
+
+<poem>
+<lg>
+<l>Ayant poussé la porte étroite qui chancelle,</l>
+<l>Je me suis promené dans le petit jardin</l>
+<l>Qu’éclairait doucement le soleil du matin,</l>
+<l>Pailletant chaque fleur d’une humide étincelle.</l>
+</lg>
+
+<lg>
+<l>Rien n’a changé. J’ai tout revu : l’humble tonnelle</l>
+<l>De vigne folle avec les chaises de rotin...</l>
+<l>Le jet d’eau fait toujours son murmure argentin</l>
+<l>Et le vieux tremble sa plainte sempiternelle.</l>
+</lg>
+
+<lg>
+<l>Les roses comme avant palpitent ; comme avant,</l>
+<l>Les grands lys orgueilleux se balancent au vent.</l>
+<l>Chaque alouette qui va et vient m’est connue.</l>
+</lg>
+
+<lg>
+<l>Même j’ai retrouvé debout la Velléda,</l>
+<l>Dont le plâtre s’écaille au bout de l’avenue.</l>
+<l>— Grêle, parmi l’odeur fade du réséda.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p2.4">
+ <pagenum num="13"/>
+
+<h2>IV</h2>
+<h2>VŒU</h2>
+
+<poem>
+<lg>
+<l>Ah ! les oarystis ! les premières maîtresses !</l>
+<l>L’or des cheveux, l’azur des yeux, la fleur des chairs,</l>
+<l>Et puis, parmi l’odeur des corps jeunes et chers,</l>
+<l>La spontanéité craintive des caresses !</l>
+</lg>
+
+<lg>
+<l>Sont-elles assez loin toutes ces allégresses</l>
+<l>Et toutes ces candeurs ! Hélas ! toutes devers</l>
+<l>Le Printemps des regrets ont fui les noirs hivers</l>
+<l>De mes ennuis, de mes dégoûts, de mes détresses !</l>
+</lg>
+
+<lg>
+<l>Si que me voilà seul à présent, morne et seul,</l>
+<l>Morne et désespéré, plus glacé qu’un aïeul,</l>
+<l>Et tel qu’un orphelin pauvre sans sœur aînée.</l>
+</lg>
+
+<lg>
+<l>O la femme à l’amour câlin et réchauffant,</l>
+<l>Douce, pensive et brune, et jamais étonnée,</l>
+<l>Et qui parfois vous baise au front, comme un enfant</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p2.5">
+ <pagenum num="14"/>
+
+<h2>V</h2>
+<h2>LASSITUDE</h2>
+
+<epigraphe>
+<p>A batallas de amor campo de pluma.</p>
+
+<p class="r3">(G<s>ONGORA</s>.)</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>De la douceur, de la douceur, de la douceur !</l>
+<l>Calme un peu ces transports fébriles, ma charmante.</l>
+<l>Même au fort du déduit, parfois, vois-tu, l’amante</l>
+<l>Doit avoir l’abandon paisible de la sœur.</l>
+</lg>
+
+<lg>
+<l>Sois langoureuse, fais ta caresse endormante,</l>
+<l>Bien égaux tes soupirs et ton regard berceur.</l>
+<l>Va, l’étreinte jalouse et le spasme obsesseur</l>
+<l>Ne valent pas un long baiser, même qui mente !</l>
+</lg>
+
+<lg>
+<l>Mais dans ton cher cœur d’or, me dis-tu, mon enfant,</l>
+<l>La fauve passion va sonnant l’oliphant</l>
+<l>Laisse-la trompetter à son aise, la gueuse !</l>
+</lg>
+
+<lg>
+<l>Mets ton front sur mon front et ta main dans ma main,</l>
+<l>Et fais-moi des serments que tu rompras demain,</l>
+<l>Et pleurons jusqu’au jour, ô petite fougueuse !</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p2.6">
+<pagenum num="15"/>
+
+<h2>VI</h2>
+<h2>MON RÊVE FAMILIER</h2>
+
+<poem>
+<lg>
+<l>Je fais souvent ce rêve étrange et pénétrant</l>
+<l>D’une femme inconnue, et que j’aime, et qui m’aime,</l>
+<l>Et qui n’est, chaque fois, ni tout à fait la même</l>
+<l>Ni tout à fait une autre, et m’aime et me comprend.</l>
+</lg>
+
+<lg>
+<l>Car elle me comprend, et mon cœur, transparent</l>
+<l>Pour elle seule, hélas ! cesse d’être un problème</l>
+<l>Pour elle seule, et les moiteurs de mon front blême,</l>
+<l>Elle seule les sait rafraîchir, en pleurant.</l>
+</lg>
+
+<lg>
+<l>Est-elle brune, blonde ou rousse ? — Je l’ignore.</l>
+<l>Son nom ? Je me souviens qu’il est doux et sonore,</l>
+<l>Comme ceux des aimés que la Vie exila.</l>
+</lg>
+
+<lg>
+<l>Son regard est pareil au regard des statues,</l>
+<l>Et, pour sa voix, lointaine, et calme, et grave, elle a</l>
+<l>L’inflexion des voix chères qui se sont tues.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p2.7">
+ <pagenum num="16"/>
+
+<h2>VII</h2>
+<h2>A UNE FEMME</h2>
+
+<poem>
+<lg>
+<l>A vous ces vers, de par la grâce consolante</l>
+<l>De vos grands yeux où rit et pleure un rêve doux,</l>
+<l>De par votre âme, pure et toute bonne, à vous</l>
+<l>Ces vers du fond de ma détresse violente.</l>
+</lg>
+
+<lg>
+<l>C’est qu’hélas ! le hideux cauchemar qui me hante</l>
+<l>N’a pas de trêve et va furieux, fou, jaloux,</l>
+<l>Se multipliant comme un cortège de loups</l>
+<l>Et se pendant après mon sort qu’il ensanglante.</l>
+</lg>
+
+<lg>
+<l>Oh ! je souffre, je souffre affreusement, si bien</l>
+<l>Que le gémissement premier du premier homme</l>
+<l>Chassé d’Éden n’est qu’une églogue au prix du mien !</l>
+</lg>
+
+<lg>
+<l>Et les soucis que vous pouvez avoir sont comme</l>
+<l>Des hirondelles sur un ciel d’après-midi,</l>
+<l>— Chère, — par un beau jour de septembre attiédi.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p2.8">
+ <pagenum num="17"/>
+
+<h2>VIII</h2>
+<h2>L’ANGOISSE</h2>
+
+<poem>
+<lg>
+<l>Nature, rien de toi ne m’émeut, ni les champs</l>
+<l>Nourriciers, ni l’écho vermeil des pastorales</l>
+<l>Siciliennes, ni les pompes aurorales,</l>
+<l>Ni la solennité dolente des couchants.</l>
+</lg>
+
+<lg>
+<l>Je ris de l’Art, je ris de l’Homme aussi, des chants,</l>
+<l>Des vers, des temples grecs et des tours en spirales</l>
+<l>Qu’étirent dans le ciel vide les cathédrales,</l>
+<l>Et je vois du même œil les bons et les méchants</l>
+</lg>
+
+<lg>
+<l>Je ne crois pas en Dieu, j’abjure et je renie</l>
+<l>Toute pensée, et quant à la vieille ironie,</l>
+<l>L’Amour, je voudrais bien qu’on ne m’en parlât plus</l>
+</lg>
+
+<lg>
+<l>Lasse de vivre, ayant peur de mourir, pareille</l>
+<l>Au brick perdu jouet du flux et du reflux,</l>
+<l>Mon âme pour d’affreux naufrages appareille.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p3">
+ <pagenum num="18"/>
+
+<h1>EAUX-FORTES</h1>
+
+<p class="r3"><i>A François Coppée.</i></p>
+
+<h2 id="p3.1">I</h2>
+<h2>CROQUIS PARISIEN</h2>
+
+<poem>
+<lg>
+<l>La lune plaquait ses teintes de zinc</l>
+<l>&#x2001;&#x2001;&#x2001;Par angles obtus.</l>
+<l>Des bouts de fumée en forme de cinq</l>
+<l>Sortaient drus et noirs des hauts toits pointus.</l>
+</lg>
+
+<lg>
+<l>Le ciel était gris, la bise pleurait</l>
+<l>&#x2001;&#x2001;&#x2001;Ainsi qu’un basson.</l>
+<l>Au loin, un matou frileux et discret</l>
+<l>Miaulait d’étrange et grêle façon.</l>
+</lg>
+
+<lg>
+<l>Moi, j’allais, rêvant du divin Platon</l>
+<l>&#x2001;&#x2001;&#x2001;Et de Phidias,</l>
+<l>Et de Salamine et de Marathon,</l>
+<l>Sous l’œil clignotant des bleus becs de gaz.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p3.2">
+ <pagenum num="19"/>
+
+<h2>II</h2>
+<h2>CAUCHEMAR</h2>
+
+<poem>
+<lg>
+<l>J’ai vu passer dans mon rêve</l>
+<l>— Tel l’ouragan sur la grève,</l>
+<l>D’une main tenant un glaive</l>
+<l>Et de l’autre un sablier,</l>
+<l>&#x2001;&#x2001;Ce cavalier</l>
+</lg>
+
+<lg>
+<l>Des ballades d’Allemagne</l>
+<l>Qu’à travers ville et campagne,</l>
+<l>Et du fleuve à la montagne,</l>
+<l>Et des forêts au vallon,</l>
+<l>&#x2001;&#x2001;Un étalon</l>
+</lg>
+
+<lg>
+<l>Rouge-flamme et noir d’ébène,</l>
+<l>Sans bride, ni mors, ni rêne,</l>
+<l>Ni hop ! ni cravache, entraîne</l>
+<l>Parmi des râlements sourds</l>
+<l>&#x2001;&#x2001;Toujours ! toujours !</l>
+</lg>
+
+ <pagenum num="20"/>
+
+<lg>
+<l>Un grand feutre à longue plume</l>
+<l>Ombrait son œil qui s’allume</l>
+<l>Et s’éteint. Tel, dans la brume,</l>
+<l>Éclate et meurt l’éclair bleu</l>
+<l>&#x2001;&#x2001;D’une arme à feu.</l>
+</lg>
+
+<lg>
+<l>Comme l’aile d’une orfraie</l>
+<l>Qu’un subit orage effraie,</l>
+<l>Par l’air que la neige raie,</l>
+<l>Son manteau se soulevant</l>
+<l>&#x2001;&#x2001;Claquait au vent,</l>
+</lg>
+
+<lg>
+<l>Et montrait d’un air de gloire</l>
+<l>Un torse d’ombre et d’ivoire,</l>
+<l>Tandis que dans la nuit noire</l>
+<l>Luisaient en des cris stridents</l>
+<l>&#x2001;&#x2001;Trente-deux dents.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p3.3">
+ <pagenum num="21"/>
+
+<h2>III</h2>
+<h2>MARINE</h2>
+
+<poem>
+<lg>
+<l>L’Océan sonore</l>
+<l>Palpite sous l’œil</l>
+<l>De la lune en deuil</l>
+<l>Et palpite encore,</l>
+</lg>
+
+<lg>
+<l>Tandis qu’un éclair</l>
+<l>Brutal et sinistre</l>
+<l>Fend le ciel de bistre</l>
+<l>D’un long zigzag clair,</l>
+</lg>
+
+<lg>
+<l>Et que chaque lame,</l>
+<l>En bonds convulsifs,</l>
+<l>Le long des récifs,</l>
+<l>Va, vient, luit et clame,</l>
+</lg>
+
+<lg>
+<l>Et qu’au firmament,</l>
+<l>Où l’ouragan erre,</l>
+<l>Rugit le tonnerre</l>
+<l>Formidablement.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p3.4">
+ <pagenum num="22"/>
+
+<h2>IV</h2>
+<h2>EFFET DE NUIT</h2>
+
+<poem>
+<lg>
+<l>La nuit. La pluie. Un ciel blafard que déchiquette</l>
+<l>De flèches et de tours à jour la silhouette</l>
+<l>D’une ville gothique éteinte au lointain gris.</l>
+<l>La plaine. Un gibet plein de pendus rabougris</l>
+<l>Secoués par le bec avide des corneilles</l>
+<l>Et dansant dans l’air noir des gigues nonpareilles,</l>
+<l>Tandis que leurs pieds sont la pâture des loups.</l>
+<l>Quelques buissons d’épine épars, et quelques houx</l>
+<l>Dressant l’horreur de leur feuillage à droite, à gauche,</l>
+<l>Sur le fuligineux fouillis d’un fond d’ébauche.</l>
+<l>Et puis, autour de trois livides prisonniers</l>
+<l>Qui vont pieds nus, un gros de hauts pertuisaniers</l>
+<l>En marche, et leurs fers droits, comme des fers de herse,</l>
+<l>Luisent à contresens des lances de l’averse.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p3.5">
+<pagenum num="23"/>
+
+<h2>V</h2>
+<h2>GROTESQUES</h2>
+
+<poem>
+<lg>
+<l>Leurs jambes pour toutes montures,</l>
+<l>Pour tous biens l’or de leurs regards,</l>
+<l>Par le chemin des aventures</l>
+<l>Ils vont haillonneux et hagards.</l>
+</lg>
+
+<lg>
+<l>Le sage, indigné, les harangue ;</l>
+<l>Le sot plaint ces fous hasardeux ;</l>
+<l>Les enfants leur tirent la langue</l>
+<l>Et les filles se moquent d’eux.</l>
+</lg>
+
+<lg>
+<l>C’est qu’odieux et ridicules,</l>
+<l>Et maléfiques en effet,</l>
+<l>Ils ont l’air, sur les crépuscules,</l>
+<l>D’un mauvais rêve que l’on fait :</l>
+</lg>
+
+ <pagenum num="24"/>
+
+<lg>
+<l>C’est que, sur leurs aigres guitares</l>
+<l>Crispant la main des libertés,</l>
+<l>Ils nasillent des chants bizarres,</l>
+<l>Nostalgiques et révoltés ;</l>
+</lg>
+
+<lg>
+<l>C’est enfin que dans leurs prunelles</l>
+<l>Rit et pleure — fastidieux —</l>
+<l>L’amour des choses éternelles,</l>
+<l>Des vieux morts et des anciens dieux !</l>
+</lg>
+
+<lg>
+<l>— Donc, allez, vagabonds sans trêves,</l>
+<l>Errez, funestes et maudits,</l>
+<l>Le long des gouffres et des grèves,</l>
+<l>Sous l’œil fermé des paradis !</l>
+</lg>
+
+<lg>
+<l>La nature à l’homme s’allie</l>
+<l>Pour châtier comme il le faut</l>
+<l>L’orgueilleuse mélancolie</l>
+<l>Qui vous fait marcher le front haut.</l>
+</lg>
+
+<lg>
+<l>Et, vengeant sur vous le blasphème</l>
+<l>Des vastes espoirs véhéments,</l>
+<l>Meurtrit votre front anathème</l>
+<l>Au choc rude des éléments.</l>
+</lg>
+
+ <pagenum num="25"/>
+
+<lg>
+<l>Les juins brûlent et les décembres</l>
+<l>Gèlent votre chair jusqu’aux os,</l>
+<l>Et la fièvre envahit vos membres,</l>
+<l>Qui se déchirent aux roseaux.</l>
+</lg>
+
+<lg>
+<l>Tout vous repousse et tout vous navre,</l>
+<l>Et quand la mort viendra pour vous,</l>
+<l>Maigre et froide, votre cadavre</l>
+<l>Sera dédaigné par les loups !</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p4">
+ <pagenum num="26"/>
+
+<h1>PAYSAGES TRISTES</h1>
+
+<p class="r3"><i>A Catulle Mendès</i>.</p>
+
+<h2 id="p4.1">I</h2>
+<h2>SOLEILS COUCHANTS</h2>
+
+<poem>
+<lg>
+<l>Une aube affaiblie</l>
+<l>Verse par les champs</l>
+<l>La mélancolie</l>
+<l>Des soleils couchants.</l>
+<l>La mélancolie</l>
+<l>Berce de doux chants</l>
+<l>Mon cœur qui s’oublie</l>
+<l>Aux soleils couchants.</l>
+<l>Et d’étranges rêves,</l>
+<l>Comme des soleils</l>
+<l>Couchants, sur les grèves,</l>
+<l>Fantômes vermeils,</l>
+ <pagenum num="27"/>
+<l>Défilent sans trêves,</l>
+<l>Défilent, pareils</l>
+<l>A des grands soleils</l>
+<l>Couchants, sur les grèves.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p4.2">
+ <pagenum num="28"/>
+
+<h2>II</h2>
+<h2>CRÉPUSCULE DU SOIR MYSTIQUE</h2>
+
+<poem>
+<lg>
+<l>Le Souvenir avec le Crépuscule</l>
+<l>Rougeoie et tremble à l’ardent horizon</l>
+<l>De l’Espérance en flamme qui recule</l>
+<l>Et s’agrandit ainsi qu’une cloison</l>
+<l>Mystérieuse où mainte floraison</l>
+<l>— Dahlia, lys, tulipe et renoncule —</l>
+<l>S’élance autour d’un treillis, et circule</l>
+<l>Parmi la maladive exhalaison</l>
+<l>De parfums lourds et chauds, dont le poison</l>
+<l>— Dahlia, lys, tulipe et renoncule —</l>
+<l>Noyant mes sens, mon âme et ma raison,</l>
+<l>Mêle, dans une immense pâmoison,</l>
+<l>Le Souvenir avec le Crépuscule.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p4.3">
+ <pagenum num="29"/>
+
+<h2>III</h2>
+<h2>PROMENADE SENTIMENTALE</h2>
+
+<poem>
+<lg>
+<l>Le couchant dardait ses rayons suprêmes</l>
+<l>Et le vent berçait les nénuphars blêmes ;</l>
+<l>Les grands nénuphars entre les roseaux,</l>
+<l>Tristement luisaient sur les calmes eaux.</l>
+<l>Moi j’errais tout seul, promenant ma plaie</l>
+<l>Au long de l’étang, parmi la saulaie</l>
+<l>Où la brume vague évoquait un grand</l>
+<l>Fantôme laiteux se désespérant</l>
+<l>Et pleurant avec la voix des sarcelles</l>
+<l>Qui se rappelaient en battant des ailes</l>
+<l>Parmi la saulaie où j’errais tout seul</l>
+<l>Promenant ma plaie ; et l’épais linceul</l>
+<l>Des ténèbres vint noyer les suprêmes</l>
+<l>Rayons du couchant dans ses ondes blêmes</l>
+<l>Et des nénuphars, parmi les roseaux,</l>
+<l>Des grands nénuphars sur les calmes eaux.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p4.4">
+ <pagenum num="30"/>
+
+<h2>IV</h2>
+<h2>NUIT DU WALPURGIS CLASSIQUE</h2>
+
+<poem>
+<lg>
+<l>C’est plutôt le sabbat du second Faust que l’autre.</l>
+<l>Un rhythmique sabbat, rhythmique, extrêmement</l>
+<l>Rhythmique. — Imaginez un jardin de Lenôtre,</l>
+<l>&#x2001;&#x2001;&#x2001;Correct, ridicule et charmant.</l>
+</lg>
+
+<lg>
+<l>Des ronds-points ; au milieu, des jets d’eau ; des allées</l>
+<l>Toutes droites ; sylvains de marbre ; dieux marins</l>
+<l>De bronze ; çà et là, des Vénus étalées ;</l>
+<l>&#x2001;&#x2001;&#x2001;Des quinconces, des boulingrins ;</l>
+</lg>
+
+<lg>
+<l>Des châtaigniers ; des plants de fleurs formant la dune ;</l>
+<l>Ici, des rosiers nains qu’un goût docte effila ;</l>
+<l>Plus loin, des ifs taillés en triangles. La lune</l>
+<l>&#x2001;&#x2001;&#x2001;D’un soir d’été sur tout cela.</l>
+</lg>
+
+ <pagenum num="31"/>
+
+<lg>
+<l>Minuit sonne, et réveille au fond du parc aulique</l>
+<l>Un air mélancolique, un sourd, lent et doux air</l>
+<l>De chasse : tel, doux, lent, sourd et mélancolique,</l>
+<l>&#x2001;&#x2001;&#x2001;L’air de chasse de <i>Tannhauser</i>.</l>
+</lg>
+
+<lg>
+<l>Des chants voilés de cors lointains où la tendresse</l>
+<l>Des sens étreint l’effroi de l’âme en des accords</l>
+<l>Harmonieusement dissonnants dans l’ivresse ;</l>
+<l>&#x2001;&#x2001;&#x2001;Et voici qu’à l’appel des cors</l>
+</lg>
+
+<lg>
+<l>S’entrelacent soudain des formes toutes blanches,</l>
+<l>Diaphanes, et que le clair de lune fait</l>
+<l>Opalines parmi l’ombre verte des branches,</l>
+<l>&#x2001;&#x2001;&#x2001;— Un Watteau rêvé par Raffet ! —</l>
+</lg>
+
+<lg>
+<l>S’entrelacent parmi l’ombre verte des arbres</l>
+<l>D’un geste alangui, plein d’un désespoir profond ;</l>
+<l>Puis, autour des massifs, des bronzes et des marbres</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;Très lentement dansent en rond.</l>
+</lg>
+
+<lg>
+<l>— Ces spectres agités, sont-ce donc la pensée</l>
+<l>Du poète ivre, ou son regret, ou son remords,</l>
+<l>Ces spectres agités en tourbe cadencée,</l>
+<l>&#x2001;&#x2001;&#x2001;Ou bien tout simplement des morts ?</l>
+</lg>
+
+<lg>
+<l>Sont-ce donc ton remords, ô rêvasseur qu’invite</l>
+<l>L’horreur, ou ton regret, ou ta pensée, — hein ? — tous</l>
+<l>Ces spectres qu’un vertige irrésistible agite,</l>
+<l>&#x2001;&#x2001;&#x2001;Ou bien des morts qui seraient fous ? —</l>
+</lg>
+
+ <pagenum num="32"/>
+
+<lg>
+<l>N’importe ! ils vont toujours, les fébriles fantômes,</l>
+<l>Menant leur ronde vaste et morne et tressautant</l>
+<l>Comme dans un rayon de soleil des atomes,</l>
+<l>&#x2001;&#x2001;&#x2001;Et s’évaporent à l’instant</l>
+</lg>
+
+<lg>
+<l>Humide et blême où l’aube éteint l’un après l’autre</l>
+<l>Les cors, en sorte qu’il ne reste absolument</l>
+<l>Plus rien — absolument — qu’un jardin de Lenôtre,</l>
+<l>&#x2001;&#x2001;&#x2001;Correct, ridicule et charmant.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p4.5">
+ <pagenum num="33"/>
+
+<h2>V</h2>
+<h2>CHANSON D’AUTOMNE</h2>
+
+<poem>
+<lg>
+<l>Les sanglots longs</l>
+<l>Des violons</l>
+<l>&#x2001;De l’automne</l>
+<l>Blessent mon cœur</l>
+<l>D’une langueur</l>
+<l>&#x2001;Monotone.</l>
+</lg>
+
+<lg>
+<l>Tout suffocant</l>
+<l>Et blême, quand</l>
+<l>&#x2001;Sonne l’heure,</l>
+<l>Je me souviens</l>
+<l>Des jours anciens</l>
+<l>&#x2001;Et je pleure ;</l>
+</lg>
+
+ <pagenum num="34"/>
+
+<lg>
+<l>Et je m’en vais</l>
+<l>Au vent mauvais</l>
+<l>&#x2001;Qui m’emporte</l>
+<l>Deçà, delà,</l>
+<l>Pareil à la</l>
+<l>&#x2001;Feuille morte.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p4.6">
+ <pagenum num="35"/>
+
+<h2>VI</h2>
+<h2>L’HEURE DU BERGER</h2>
+
+<poem>
+<lg>
+<l>La lune est rouge au brumeux horizon ;</l>
+<l>Dans un brouillard qui danse, la prairie</l>
+<l>S’endort fumeuse, et la grenouille crie</l>
+<l>Par les joncs verts où circule un frisson ;</l>
+</lg>
+
+<lg>
+<l>Les fleurs des eaux referment leurs corolles,</l>
+<l>Des peupliers profilent aux lointains,</l>
+<l>Droits et serrés, leurs spectres incertains ;</l>
+<l>Vers les buissons errent les lucioles ;</l>
+</lg>
+
+<lg>
+<l>Les chats-huants s’éveillent, et sans bruit</l>
+<l>Rament l’air noir avec leurs ailes lourdes,</l>
+<l>Et le zénith s’emplit de lueurs sourdes.</l>
+<l>Blanche, Vénus émerge, et c’est la Nuit.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p4.7">
+ <pagenum num="36"/>
+
+<h2>VII</h2>
+<h2>LE ROSSIGNOL</h2>
+
+<poem>
+<lg>
+<l>Comme un vol criard d’oiseaux en émoi,</l>
+<l>Tous mes souvenirs s’abattent sur moi,</l>
+<l>S’abattent parmi le feuillage jaune</l>
+<l>De mon cœur mirant son tronc plié d’aune</l>
+<l>Au tain violet de l’eau des Regrets,</l>
+<l>Qui mélancoliquement coule auprès,</l>
+<l>S’abattent, et puis la rumeur mauvaise</l>
+<l>Qu’une brise moite en montant apaise,</l>
+<l>S’éteint par degrés dans l’arbre, si bien</l>
+<l>Qu’au bout d’un instant on n’entend plus rien,</l>
+<l>Plus rien que la voix célébrant l’Absente,</l>
+<l>Plus rien que la voix, — ô si languissante ! —</l>
+<l>De l’oiseau qui fut mon Premier Amour,</l>
+<l>Et qui chante encor comme au premier jour ;</l>
+ <pagenum num="37"/>
+<l>Et, dans la splendeur triste d’une lune</l>
+<l>Se levant blafarde et solennelle, une</l>
+<l>Nuit mélancolique et lourde d’été,</l>
+<l>Pleine de silence et d’obscurité,</l>
+<l>Berce sur l’azur qu’un vent doux effleure</l>
+<l>L’arbre qui frissonne et l’oiseau qui pleure.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p5">
+ <pagenum num="38"/>
+
+<h1>CAPRICES</h1>
+
+<p class="r3"><i>A Henry Winter.</i></p>
+
+<h2 id="p5.1">I</h2>
+<h2>FEMME ET CHATTE</h2>
+
+<poem>
+<lg>
+<l>Elle jouait avec sa chatte ;</l>
+<l>Et c’était merveille de voir</l>
+<l>La main blanche et la blanche patte</l>
+<l>S’ébattre dans l’ombre du soir.</l>
+</lg>
+
+<lg>
+<l>Elle cachait — la scélérate ! —</l>
+<l>Sous ces mitaines de fil noir</l>
+<l>Ses meurtriers ongles d’agate,</l>
+<l>Coupants et clairs comme un rasoir.</l>
+</lg>
+
+ <pagenum num="39"/>
+
+<lg>
+<l>L’autre aussi faisait la sucrée</l>
+<l>Et rentrait sa griffe acérée,</l>
+<l>Mais le diable n’y perdait rien...</l>
+</lg>
+
+<lg>
+<l>Et dans le boudoir où, sonore,</l>
+<l>Tintait son rire aérien,</l>
+<l>Brillaient quatre points de phosphore.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p5.2">
+ <pagenum num="40"/>
+
+<h2>II</h2>
+<h2>JÉSUITISME</h2>
+
+<poem>
+<lg>
+<l>Le chagrin qui me tue est ironique, et joint</l>
+<l>Le sarcasme au supplice, et ne torture point</l>
+<l>Franchement, mais picote avec un faux sourire</l>
+<l>Et transforme en spectacle amusant mon martyre,</l>
+<l>Et sur la bière où gît mon Rêve mi-pourri,</l>
+<l>Beugle un <i>De profundis</i> sur l’air du <i>Traderi</i>.</l>
+<l>C’est un <correction original="Tartufe">Tartuffe</correction> qui, tout en mettant des roses</l>
+<l>Pompons sur les autels des Madones moroses,</l>
+<l>Tout en faisant chanter à des enfants de chœurs</l>
+<l>Ces cantiques d’eau tiède où se baigne le cœur,</l>
+<l>Tout en ami donnant ces guimpes amoureuses</l>
+<l>Qui serpentent au cœur sacré des Bienheureuses,</l>
+<l>Tout en disant à voix basse son chapelet,</l>
+<l>Tout en passant la main sur son petit collet,</l>
+<l>Tout en parlant avec componction de l’âme,</l>
+<l>N’en médite pas moins ma ruine, — l’infâme !</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p5.3">
+ <pagenum num="41"/>
+
+<h2>III</h2>
+<h2>LA CHANSON DES INGÉNUES</h2>
+
+<poem>
+<lg>
+<l>Nous sommes les Ingénues</l>
+<l>Aux bandeaux plats, à l’œil bleu,</l>
+<l>Qui vivons, presque inconnues,</l>
+<l>Dans les romans qu’on lit peu.</l>
+</lg>
+
+<lg>
+<l>Nous allons entrelacées,</l>
+<l>Et le jour n’est pas plus pur</l>
+<l>Que le fond de nos pensées,</l>
+<l>Et nos rêves sont d’azur ;</l>
+</lg>
+
+<lg>
+<l>Et nous courons par les prés</l>
+<l>Et rions et babillons</l>
+<l>Des aubes jusqu’aux vesprées,</l>
+<l>Et chassons aux papillons ;</l>
+</lg>
+
+ <pagenum num="42"/>
+
+<lg>
+<l>Et des chapeaux de bergères</l>
+<l>Défendent notre fraîcheur,</l>
+<l>Et nos robes — si légères —</l>
+<l>Sont d’une extrême blancheur ;</l>
+</lg>
+
+<lg>
+<l>Les Richelieux, les Caussades</l>
+<l>Et les chevaliers Faublas</l>
+<l>Nous prodiguent les œillades,</l>
+<l>Les saluts et les « hélas ! »</l>
+</lg>
+
+<lg>
+<l>Mais en vain, et leurs mimiques</l>
+<l>Se viennent casser le nez</l>
+<l>Devant les plis ironiques</l>
+<l>De nos jupons détournés ;</l>
+</lg>
+
+<lg>
+<l>Et notre candeur se raille</l>
+<l>Des imaginations</l>
+<l>De ces raseurs de muraille,</l>
+<l>Bien que parfois nous sentions</l>
+</lg>
+
+<lg>
+<l>Battre nos cœurs sous nos mantes</l>
+<l>A des pensers clandestins,</l>
+<l>En nous sachant les amantes</l>
+<l>Futures des libertins.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p5.4">
+ <pagenum num="43"/>
+
+<h2>IV</h2>
+<h2>UNE GRANDE DAME</h2>
+
+<poem>
+<lg>
+<l>Belle « à damner les saints », à troubler sous l’aumusse</l>
+<l>Un vieux juge ! Elle marche impérialement.</l>
+<l>Elle parle — et ses dents font un miroitement —</l>
+<l>Italien, avec un léger accent russe.</l>
+</lg>
+
+<lg>
+<l>Ses yeux froids où l’émail sertit le bleu de Prusse</l>
+<l>Ont l’éclat insolent et dur du diamant.</l>
+<l>Pour la splendeur du sein, pour le rayonnement</l>
+<l>De la peau, nulle reine ou courtisane, fût-ce</l>
+</lg>
+
+<lg>
+<l>Cléopâtre la lynce ou la chatte Ninon,</l>
+<l>N’égale sa beauté patricienne, non !</l>
+<l>Vois, ô bon Buridan : « C’est une grande dame ! »</l>
+</lg>
+
+<lg>
+<l>Il faut — pas de milieu ! — l’adorer à genoux.</l>
+<l>Plat, n’ayant d’astre aux cieux que ces lourds cheveux roux</l>
+<l>Ou bien lui cravacher la face, à cette femme !</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p5.5">
+ <pagenum num="44"/>
+
+<h2>V</h2>
+<h2>MONSIEUR PRUDHOMME</h2>
+
+<poem>
+<lg>
+<l>Il est grave : il est maire et père de famille.</l>
+<l>Son faux col engloutit son oreille. Ses yeux,</l>
+<l>Dans un rêve sans fin, flottent insoucieux</l>
+<l>Et le printemps en fleurs sur ses pantoufles brille.</l>
+</lg>
+
+<lg>
+<l>Que lui fait l’astre d’or, que lui fait la charmille</l>
+<l>Où l’oiseau chante à l’ombre, et que lui font les cieux,</l>
+<l>Et les prés verts et les gazons silencieux ?</l>
+<l>Monsieur Prudhomme songe à marier sa fille</l>
+</lg>
+
+<lg>
+<l>Avec monsieur Machin, un jeune homme cossu.</l>
+<l>Il est juste-milieu, botaniste et pansu,</l>
+<l>Quant aux faiseurs de vers, ces vauriens, ces maroufles,</l>
+</lg>
+
+<lg>
+<l>Ces fainéants barbus, mal peignés, il les a</l>
+<l>Plus en horreur que son éternel coryza,</l>
+<l>Et le printemps en fleurs brille sur ses pantoufles.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p6">
+ <pagenum num="45"/>
+
+<h1>INITIUM</h1>
+
+<poem>
+<lg>
+<l>Les violons mêlaient leur rire au chant des flûtes,</l>
+<l>Et le bal tournoyait quand je la vis passer</l>
+<l>Avec ses cheveux blonds jouant sur les volutes</l>
+<l>De son oreille où mon Désir comme un baiser</l>
+<l>S’élançait et voulait lui parler sans oser.</l>
+</lg>
+
+<lg>
+<l>Cependant elle allait, et la mazurque lente</l>
+<l>La portait dans son rythme indolent comme un vers,</l>
+<l>— Rime mélodieuse, image étincelante, —</l>
+<l>Et son âme d’enfant rayonnait à travers</l>
+<l>La sensuelle ampleur de ses yeux gris et verts.</l>
+</lg>
+
+<lg>
+<l>Et depuis, ma Pensée — immobile — contemple</l>
+<l>Sa Splendeur évoquée, en adoration,</l>
+<l>Et, dans son Souvenir, ainsi que dans un temple,</l>
+<l>Mon Amour entre, plein de superstition.</l>
+</lg>
+
+<lg>
+<l>Et je crois que voici venir la Passion.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p7">
+ <pagenum num="46"/>
+
+<h1>ÇAVITRI</h1>
+
+<p class="r3">(M<s>AHA</s>-B<s>RAHATA</s>)</p>
+
+<poem>
+<lg>
+<l>Pour sauver son époux, Çavitri fit le vœu</l>
+<l>De se tenir trois jours entiers, trois nuits entières,</l>
+<l>Debout, sans remuer jambes, buste ou paupières :</l>
+<l>Rigide, ainsi que dit Vyaça, comme un pieu.</l>
+</lg>
+
+<lg>
+<l>Ni, Curya, tes rais cruels, ni la langueur</l>
+<l>Que Tchandra vient épandre à minuit sur les cimes</l>
+<l>Ne firent défaillir, dans leurs efforts sublimes,</l>
+<l>La pensée et la chair de la femme au grand cœur.</l>
+</lg>
+
+<lg>
+<l>— Que nous cerne l’Oubli, noir et morne assassin,</l>
+<l>Ou que l’Envie aux traits amers nous ait pour cibles.</l>
+<l>Ainsi que Çavitri faisons-nous impassibles,</l>
+<l>Mais, comme elle, dans l’âme ayons un haut dessein.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p8">
+ <pagenum num="47"/>
+
+<h1>SUB URBE</h1>
+
+<poem>
+<lg>
+<l>Les petits ifs du cimetière</l>
+<l>Frémissent au vent hiémal,</l>
+<l>Dans la glaciale lumière.</l>
+</lg>
+
+<lg>
+<l>Avec des bruits sourds qui font mal,</l>
+<l>Les croix de bois des tombes neuves</l>
+<l>Vibrent sur un ton anormal.</l>
+</lg>
+
+<lg>
+<l>Silencieux comme les fleuves,</l>
+<l>Mais gros de pleurs comme eux de flots,</l>
+<l>Les fils, les mères et les veuves,</l>
+</lg>
+
+<lg>
+<l>Par les détours du triste enclos,</l>
+<l>S’écoulent, — lente théorie,</l>
+<l>Au rythme heurté des sanglots.</l>
+</lg>
+
+<lg>
+<l>Le sol sous les pieds glisse et crie,</l>
+<l>Là-haut de grands nuages tors</l>
+<l>S’échevèlent avec furie.</l>
+</lg>
+
+ <pagenum num="48"/>
+
+<lg>
+<l>Pénétrant comme le remords,</l>
+<l>Tombe un froid lourd qui vous écœure,</l>
+<l>Et qui doit filtrer chez les morts,</l>
+</lg>
+
+<lg>
+<l>Chez les pauvres morts, à toute heure</l>
+<l>Seuls, et sans cesse grelottants,</l>
+<l>— Qu’on les oublie ou qu’on les pleure ! —</l>
+</lg>
+
+<lg>
+<l>Ah ! vienne vite le Printemps,</l>
+<l>Et son clair soleil qui caresse,</l>
+<l>Et ses doux oiseaux caquetants !</l>
+</lg>
+
+<lg>
+<l>Refleurisse l’enchanteresse</l>
+<l>Gloire des jardins et des champs</l>
+<l>Que l’âpre hiver tient en détresse !</l>
+</lg>
+
+<lg>
+<l>Et que, — des levers aux couchants,</l>
+<l>L’or dilaté d’un ciel sans bornes</l>
+<l>Berce de parfums et de chants,</l>
+</lg>
+
+<lg>
+<l>Chers endormis, vos sommeils mornes !</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p9">
+ <pagenum num="49"/>
+
+<h1>SÉRÉNADE</h1>
+
+<poem>
+<lg>
+<l>Comme la voix d’un mort qui chanterait</l>
+<l>&#x2001;&#x2001;&#x2001;Du fond de sa fosse,</l>
+<l>Maîtresse, entends monter vers ton retrait</l>
+<l>&#x2001;&#x2001;&#x2001;Ma voix aigre et fausse.</l>
+</lg>
+
+<lg>
+<l>Ouvre ton âme et ton oreille au son</l>
+<l>&#x2001;&#x2001;&#x2001;De la mandoline :</l>
+<l>Pour toi j’ai fait, pour toi, cette chanson</l>
+<l>&#x2001;&#x2001;&#x2001;Cruelle et câline.</l>
+</lg>
+
+<lg>
+<l>Je chanterai tes yeux d’or et d’onyx</l>
+<l>&#x2001;&#x2001;&#x2001;Purs de toutes ombres,</l>
+<l>Puis le Léthé de ton sein, puis le Styx</l>
+<l>&#x2001;&#x2001;&#x2001;De tes cheveux sombres.</l>
+</lg>
+
+<lg>
+<l>Comme la voix d’un mort qui chanterait</l>
+<l>&#x2001;&#x2001;&#x2001;Du fond de sa fosse,</l>
+<l>Maîtresse, entends monter vers ton retrait</l>
+<l>&#x2001;&#x2001;&#x2001;Ma voix aigre et fausse.</l>
+</lg>
+
+ <pagenum num="50"/>
+
+<lg>
+<l>Puis je louerai beaucoup, comme il convient,</l>
+<l>&#x2001;&#x2001;&#x2001;Cette chair bénie</l>
+<l>Dont le parfum opulent me revient</l>
+<l>&#x2001;&#x2001;&#x2001;Les nuits d’insomnie.</l>
+</lg>
+
+<lg>
+<l>Et pour finir, je dirai le baiser</l>
+<l>&#x2001;&#x2001;&#x2001;De ta lèvre rouge,</l>
+<l>Et ta douceur à me martyriser,</l>
+<l>&#x2001;&#x2001;&#x2001;— Mon Ange ! — ma Gouge !</l>
+</lg>
+
+<lg>
+<l>Ouvre ton âme et ton oreille au son</l>
+<l>&#x2001;&#x2001;&#x2001;De ma mandoline :</l>
+<l>Pour toi j’ai fait, pour toi, cette chanson</l>
+<l>&#x2001;&#x2001;&#x2001;Cruelle et câline.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p10">
+ <pagenum num="51"/>
+
+<h1>UN DAHLIA</h1>
+
+<poem>
+<lg>
+<l>Courtisane au sein dur, à l’œil opaque et brun</l>
+<l>S’ouvrant avec lenteur comme celui d’un bœuf,</l>
+<l>Ton grand torse reluit ainsi qu’un marbre neuf.</l>
+</lg>
+
+<lg>
+<l>Fleur grasse et riche, autour de toi ne flotte aucun</l>
+<l>Arome, et la beauté sereine de ton corps</l>
+<l>Déroule, mate, ses impeccables accords.</l>
+</lg>
+
+<lg>
+<l>Tu ne sens même pas la chair, ce goût qu’au moins</l>
+<l>Exhalent celles-là qui vont fanant les foins,</l>
+<l>Et tu trônes, Idole insensible à l’encens.</l>
+</lg>
+
+<lg>
+<l>— Ainsi le Dahlia, roi vêtu de splendeur,</l>
+<l>Élève, sans orgueil, sa tête sans odeur,</l>
+<l>Irritant au milieu des jasmins agaçants !</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p11">
+ <pagenum num="52"/>
+
+<h1>NEVERMORE</h1>
+
+<poem>
+<lg>
+<l>Allons, mon pauvre cœur, allons, <i>mon vieux complice</i>,</l>
+<l>Redresse et peins à neuf tous tes arcs triomphaux ;</l>
+<l>Brûle un encens ranci sur tes autels d’or faux ;</l>
+<l>Sème de fleurs les bords béants du précipice ;</l>
+<l>Allons, mon pauvre cœur, allons, <i>mon vieux complice !</i></l>
+</lg>
+
+<lg>
+<l>Pousse à Dieu ton cantique, ô chantre rajeuni ;</l>
+<l>Entonne, orgue enroué, des <i>Te Deum</i> splendides ;</l>
+<l>Vieillard prématuré, mets du fard sur tes rides :</l>
+<l>Couvre-toi de tapis mordorés, mur jauni ;</l>
+<l>Pousse à Dieu ton cantique, ô chantre rajeuni.</l>
+</lg>
+
+<lg>
+<l>Sonnez, grelots ; sonnez, clochettes ; sonnez, cloches !</l>
+<l>Car mon rêve impossible a pris corps, et je l’ai</l>
+<l>Entre mes bras pressé : le Bonheur, cet ailé</l>
+<l>Voyageur qui de l’Homme évite les approches.</l>
+<l>— Sonnez, grelots ; sonnez, clochettes ; sonnez, cloches !</l>
+</lg>
+
+ <pagenum num="53"/>
+
+<lg>
+<l>Le Bonheur a marché côte à côte avec moi ;</l>
+<l>Mais la FATALITÉ ne connaît point de trêve :</l>
+<l>Le ver est dans le fruit, le réveil dans le rêve,</l>
+<l>Et le remords est dans l’amour : telle est la loi.</l>
+<l>— Le Bonheur a marché côte à côte avec moi.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p12">
+ <pagenum num="54"/>
+
+<h1>IL BACIO</h1>
+
+<poem>
+<lg>
+<l>Baiser ! rose trémière au jardin des caresses !</l>
+<l>Vif accompagnement sur le clavier des dents</l>
+<l>Des doux refrains qu’Amour chante en les cœurs ardents,</l>
+<l>Avec sa voix d’archange aux langueurs charmeresses !</l>
+</lg>
+
+<lg>
+<l>Sonore et gracieux Baiser, divin Baiser !</l>
+<l>Volupté non pareille, ivresse inénarrable !</l>
+<l>Salut ! L’homme, penché sur ta coupe adorable,</l>
+<l>S’y grise d’un bonheur qu’il ne sait épuiser.</l>
+</lg>
+
+<lg>
+<l>Comme le vin du Rhin et comme la musique,</l>
+<l>Tu consoles et tu berces, et le chagrin</l>
+<l>Expire avec la moue en ton pli purpurin...</l>
+<l>Qu’un plus grand, Gœthe ou Will, te dresse un vers classique.</l>
+</lg>
+
+<lg>
+<l>Moi, je ne puis, chétif trouvère de Paris,</l>
+<l>T’offrir que ce bouquet de strophes enfantines :</l>
+<l>Sois bénin et, pour prix, sur les lèvres mutines</l>
+<l>D’Une que je connais, Baiser, descends, et ris</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p13">
+ <pagenum num="55"/>
+
+<h1>DANS LES BOIS</h1>
+
+<poem>
+<lg>
+<l>D’autres, — des innocents ou bien des lymphatiques, —</l>
+<l>Ne trouvent dans les bois que charmes langoureux,</l>
+<l>Souffles frais et parfums tièdes. Ils sont heureux !</l>
+<l>D’autres s’y sentent pris — rêveurs — d’effrois mystiques.</l>
+</lg>
+
+<lg>
+<l>Ils sont heureux ! Pour moi, nerveux, et qu’un remords</l>
+<l>Épouvantable et vague affole sans relâche,</l>
+<l>Par les forêts je tremble à la façon d’un lâche</l>
+<l>Qui craindrait une embûche ou qui verrait des morts.</l>
+</lg>
+
+<lg>
+<l>Ces grands rameaux jamais apaisés, comme l’onde.</l>
+<l>D’où tombe un noir silence avec une ombre encor</l>
+<l>Plus noire, tout ce morne et sinistre décor</l>
+<l>Me remplit d’une horreur triviale et profonde.</l>
+</lg>
+
+<lg>
+<l>Surtout les soirs d’été : la rougeur du couchant</l>
+<l>Se fond dans le gris bleu des brumes qu’elle teinte</l>
+<l>D’incendie et de sang ; et l’angélus qui tinte</l>
+<l>Au lointain semble un cri plaintif se rapprochant.</l>
+</lg>
+
+ <pagenum num="56"/>
+
+<lg>
+<l>Le vent se lève chaud et lourd, un frisson passe</l>
+<l>Et repasse, toujours plus fort, dans l’épaisseur</l>
+<l>Toujours plus sombre des hauts chênes, obsesseur,</l>
+<l>Et s’éparpille, ainsi qu’un miasme, dans l’espace.</l>
+</lg>
+
+<lg>
+<l>La nuit vient. Le hibou s’envole. C’est l’instant</l>
+<l>Où l’on songe aux récits des aïeules naïves...</l>
+<l>Sous un fourré, là-bas, là-bas, des sources vives</l>
+<l>Font un bruit d’assassins postés se concertant.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p14">
+ <pagenum num="57"/>
+
+<h1>NOCTURNE PARISIEN</h1>
+
+<p class="r3"><i>A Edmond Lepelletier.</i></p>
+
+<poem>
+<lg>
+<l>Roule, roule ton flot indolent, morne Seine, —</l>
+<l>Sur tes ponts qu’environne une vapeur malsaine</l>
+<l>Bien des corps ont passé, morts, horribles, pourris,</l>
+<l>Dont les âmes avaient pour meurtrier Paris.</l>
+<l>Mais tu n’en traînes pas, en tes ondes glacées,</l>
+<l>Autant que ton aspect m’inspire de pensées !</l>
+</lg>
+
+<lg>
+<l>Le Tibre a sur ses bords des ruines qui font</l>
+<l>Monter le voyageur vers un passé profond,</l>
+<l>Et qui, de lierre noir et de lichen couvertes,</l>
+<l>Apparaissent, tas gris, parmi les herbes vertes.</l>
+<l>Le gai Guadalquivir rit aux blonds orangers</l>
+<l>Et reflète, les soirs, des boléros légers,</l>
+<l>Le Pactole a son or, le Bosphore a sa rive</l>
+<l>Où vient faire son kief l’odalisque lascive.</l>
+<l>Le Rhin est un burgrave, et c’est un troubadour</l>
+<l>Que le Lignon, et c’est un ruffian que l’Adour.</l>
+<l>Le Nil, au bruit plaintif de ses eaux endormies,</l>
+<l>Berce de rêves doux le sommeil des momies.</l>
+ <pagenum num="58"/>
+<l>Le grand Meschascébé, fier de ses joncs sacrés,</l>
+<l>Charrie augustement ses îlots mordorés,</l>
+<l>Et soudain, beau d’éclairs, de fracas et de fastes,</l>
+<l>Splendidement s’écroule en Niagaras vastes.</l>
+<l>L’Eurotas, où l’essaim des cygnes familiers</l>
+<l>Mêle sa grâce blanche au vert mat des lauriers,</l>
+<l>Sous son ciel clair que raie un vol de gypaète,</l>
+<l>Rhythmique et caressant, chante ainsi qu’un poète.</l>
+<l>Enfin, Ganga, parmi les hauts palmiers tremblants</l>
+<l>Et les rouges padmas, marche à pas fiers et lents</l>
+<l>En appareil royal, tandis qu’au loin la foule</l>
+<l>Le long des temples va, hurlant, vivante houle,</l>
+<l>Au claquement massif des cymbales de bois,</l>
+<l>Et qu’accroupi, filant ses notes de hautbois,</l>
+<l>Du saut de l’antilope agile attendant l’heure,</l>
+<l>Le tigre jaune au dos rayé s’étire et pleure.</l>
+</lg>
+
+<lg>
+<l>— Toi, Seine, tu n’as rien. Deux quais, et voilà tout,</l>
+<l>Deux quais crasseux, semés de l’un à l’autre bout</l>
+<l>D’affreux bouquins moisis et d’une foule insigne</l>
+<l>Qui fait dans l’eau des ronds et qui pêche à la ligne.</l>
+<l>Oui, mais quand vient le soir, raréfiant enfin</l>
+<l>Les passants <correction original="allourdis">alourdis</correction> de sommeil ou de faim,</l>
+<l>Et que le couchant met au ciel des taches rouges,</l>
+<l>Qu’il fait bon aux rêveurs descendre de leurs bouges</l>
+<l>Et, s’accoudant au pont de la Cité, devant</l>
+<l>Notre-Dame, songer, cœur et cheveux au vent !</l>
+ <pagenum num="59"/>
+<l>Les nuages, chassés par la brise nocturne,</l>
+<l>Courent, cuivreux et roux, dans l’azur taciturne.</l>
+<l>Sur la tête d’un roi du portail, le soleil,</l>
+<l>Au moment de mourir, pose un baiser vermeil.</l>
+<l>L’Hirondelle s’enfuit à l’approche de l’ombre.</l>
+<l>Et l’on voit voleter la chauve-souris sombre.</l>
+<l>Tout bruit s’apaise autour. A peine un vague son</l>
+<l>Dit que la ville est là qui chante sa chanson,</l>
+<l>Qui lèche ses tyrans et qui mord ses victimes ;</l>
+<l>Et c’est l’aube des vols, des amours et des crimes.</l>
+<l>— Puis, tout à coup, ainsi qu’un ténor effaré</l>
+<l>Lançant dans l’air bruni son cri désespéré,</l>
+<l>Son cri qui se lamente, et se prolonge, et crie,</l>
+<l>Éclate en quelque coin l’orgue de Barbarie :</l>
+<l>Il brame un de ces airs, romances ou polkas,</l>
+<l>Qu’enfants nous tapotions sur nos harmonicas</l>
+<l>Et qui font, lents ou vifs, réjouissants ou tristes,</l>
+<l>Vibrer l’âme aux proscrits, aux femmes, aux artistes.</l>
+<l>C’est écorché, c’est faux, c’est horrible, c’est dur,</l>
+<l>Et donnerait la fièvre à Rossini, pour sûr ;</l>
+<l>Ces rires sont traînés, ces plaintes sont hachées ;</l>
+<l>Sur une clef de sol impossible juchées,</l>
+<l>Les notes ont un rhume et les <i>do</i> sont des <i>la</i>,</l>
+<l>Mais qu’importe ! l’on pleure en entendant cela !</l>
+<l>Mais l’esprit, transporté dans le pays des rêves,</l>
+<l>Sent à ces vieux accords couler en lui des sèves ;</l>
+<l>La pitié monte au cœur et les larmes aux yeux,</l>
+<l>Et l’on voudrait pouvoir goûter la paix des cieux,</l>
+ <pagenum num="60"/>
+<l>Et dans une harmonie étrange et fantastique</l>
+<l>Qui tient de la musique et tient de la plastique,</l>
+<l>L’âme, les inondant de lumière et de chant,</l>
+<l>Mêle les sons de l’orgue aux rayons du couchant !</l>
+</lg>
+
+<lg>
+<l>— Et puis l’orgue s’éloigne, et puis c’est le silence,</l>
+<l>Et la nuit terne arrive et Vénus se balance</l>
+<l>Sur une molle nue au fond des cieux obscurs :</l>
+<l>On allume les becs de gaz le long des murs.</l>
+<l>Et l’astre et les flambeaux font des zigzags fantasques</l>
+<l>Dans le fleuve plus noir que le velours des masques ;</l>
+<l>Et le contemplateur sur le haut garde-fou</l>
+<l>Par l’air et par les ans rouillé comme un vieux sou</l>
+<l>Se penche, en proie aux vents néfastes de l’abîme.</l>
+<l>Pensée, espoir serein, ambition sublime,</l>
+<l>Tout, jusqu’au souvenir, tout s’envole, tout fuit,</l>
+<l>Et l’on est seul avec Paris, l’Onde et la Nuit !</l>
+</lg>
+
+<lg>
+<l>— Sinistre trinité ! De l’ombre dures portes !</l>
+<l>Mané-Thécel-Pharès des illusions mortes !</l>
+<l>Vous êtes toutes trois, ô Goules de malheur,</l>
+<l>Si terribles, que l’Homme, ivre de la douleur</l>
+<l>Que lui font en perçant sa chair vos doigts de spectre,</l>
+<l>L’Homme, espèce d’Oreste à qui manque une Électre,</l>
+<l>Sous la fatalité de votre regard creux</l>
+<l>Ne peut rien et va droit au précipice affreux ;</l>
+<l>Et vous êtes aussi toutes trois si jalouses</l>
+<l>De tuer et d’offrir au grand Ver des épouses</l>
+ <pagenum num="61"/>
+<l>Qu’on ne sait que choisir entre vos trois horreurs,</l>
+<l>Et si l’on craindrait moins périr par les terreurs</l>
+<l>Des Ténèbres que sous l’Eau sourde, l’Eau profonde,</l>
+<l>Ou dans tes bras fardés, Paris, reine du monde !</l>
+</lg>
+
+<lg>
+<l>— Et tu coules toujours, Seine, et, tout en rampant,</l>
+<l>Tu traînes dans Paris ton cours de vieux serpent,</l>
+<l>De vieux serpent boueux, emportant vers tes havres</l>
+<l>Tes cargaisons de bois, de houille et de cadavres !</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p15">
+ <pagenum num="62"/>
+
+<h1>MARCO<noteref noteid="note.62.1"/></h1>
+
+<notes>
+  <note id="note.62.1" label="1">
+    <p>L’auteur prévient que le rythme et le dessin de cette ritournelle sont empruntés à un poème faisant partie du recueil de M. J.-T. de Saint-Germain : <i>les Roses de Noël (Mignon).</i> Il a cru intéressant d’exploiter au profit d’un tout autre ordre d’idées une forme lyrique un peu naïve peut-être, mais assez harmonieuse toutefois dans sa maladresse même, et qui n’a point trop mal réussi, ce semble, à son inventeur, poète aimable.</p>
+  </note>
+</notes>
+
+<poem>
+<lg>
+<l>Quand Marco passait, tous les jeunes hommes</l>
+<l>Se penchaient pour voir ses yeux, des Sodomes</l>
+<l>Où les feux d’Amour brûlaient sans pitié</l>
+<l>Ta pauvre cahute, ô froide Amitié ;</l>
+<l>Tout autour dansaient des parfums mystiques</l>
+<l>Où l’âme, en pleurant, s’anéantissait.</l>
+<l>Sur ses cheveux roux un charme glissait ;</l>
+<l>Sa robe rendait d’étranges musiques</l>
+<l>&#x2001;&#x2001;&#x2001;Quand Marco passait.</l>
+</lg>
+
+ <pagenum num="63"/>
+
+<lg>
+<l>Quand Marco chantait, ses mains, sur l’ivoire,</l>
+<l>Évoquaient souvent la profondeur noire</l>
+<l>Des airs primitifs que nul n’a redits,</l>
+<l>Et sa voix montait dans les paradis</l>
+<l>De la symphonie immense des rêves,</l>
+<l>Et l’enthousiasme alors transportait</l>
+<l>Vers des cieux <i>connus</i> quiconque écoutait</l>
+<l>Ce timbre d’argent qui vibrait sans trêves,</l>
+<l>&#x2001;&#x2001;Quand Marco chantait.</l>
+</lg>
+
+<lg>
+<l>Quand Marco pleurait, ses terribles larmes</l>
+<l>Défiaient l’éclat des plus belles armes ;</l>
+<l>Ses lèvres de sang fonçaient leur carmin</l>
+<l>Et son désespoir n’avait rien d’humain ;</l>
+<l>Pareil au foyer que l’huile exaspère,</l>
+<l>Son courroux croissait, rouge, et l’on aurait</l>
+<l>Dit d’une lionne à l’âpre forêt</l>
+<l>Communiquant sa terrible colère,</l>
+<l>&#x2001;&#x2001;Quand Marco pleurait.</l>
+</lg>
+
+<lg>
+<l>Quand Marco dansait, sa jupe moirée</l>
+<l>Allait et venait comme une marée,</l>
+<l>Et, tel qu’un bambou flexible, son flanc</l>
+<l>Se tordait, faisant saillir son sein blanc ;</l>
+<l>Un éclair partait. Sa jambe de marbre,</l>
+<l>Emphatiquement cynique, haussait</l>
+<l>Ses mates splendeurs, et cela faisait</l>
+<l>Le bruit du vent de la nuit dans un arbre,</l>
+<l>&#x2001;&#x2001;Quand Marco dansait.</l>
+</lg>
+
+ <pagenum num="64"/>
+
+<lg>
+<l>Quand Marco dormait, oh ! quels parfums d’ambre</l>
+<l>Et de chair mêlés opprimaient la chambre !</l>
+<l>Sous les draps la ligne exquise du dos</l>
+<l>Ondulait, et dans l’ombre des rideaux</l>
+<l>L’haleine montait, rhythmique et légère ;</l>
+<l>Un sommeil heureux et calme fermait</l>
+<l>Ses yeux, et ce doux mystère charmait</l>
+<l>Les vagues objets parmi l’étagère,</l>
+<l>&#x2001;&#x2001;Quand Marco dormait.</l>
+</lg>
+
+<lg>
+<l>Mais quand elle aimait, des flots de luxure</l>
+<l>Débordaient, ainsi que d’une blessure</l>
+<l>Sort un sang vermeil qui fume et qui bout,</l>
+<l>De ce corps cruel que son crime absout :</l>
+<l>Le torrent rompait les digues de l’âme,</l>
+<l>Noyait la pensée, et bouleversait</l>
+<l>Tout sur son passage, et rebondissait</l>
+<l>Souple et dévorant comme de la flamme,</l>
+<l>&#x2001;&#x2001;Et puis se glaçait.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p16">
+ <pagenum num="65"/>
+
+<h1>CÉSAR BORGIA</h1>
+<h2><s>PORTRAIT EN PIED</s></h2>
+
+<poem>
+<lg>
+<l>Sur fond sombre noyant un riche vestibule</l>
+<l>Où le buste d’Horace et celui de Tibulle</l>
+<l>Lointain et de profil rêvent en marbre blanc,</l>
+<l>La main gauche au poignard et la main droite au flanc,</l>
+<l>Tandis qu’un rire doux redresse la moustache,</l>
+<l>Le duc CÉSAR, en grand costume, se détache.</l>
+<l>Les yeux noirs, les cheveux noirs et le velours noir</l>
+<l>Vont contrastant, parmi l’or somptueux d’un soir,</l>
+<l>Avec la pâleur mate et belle du visage</l>
+<l>Vu de trois quarts et très ombré, suivant l’usage</l>
+<l>Des Espagnols ainsi que des Vénitiens,</l>
+<l>Dans les portraits de rois et de <correction original="praticiens">patriciens</correction>.</l>
+<l>Le nez palpite, fin et droit. La bouche, rouge,</l>
+<l>Est mince, et l’on dirait que la tenture bouge</l>
+<l>Au souffle véhément qui doit s’en exhaler.</l>
+<l>Et le regard errant avec laisser-aller,</l>
+ <pagenum num="66"/>
+<l>Devant lui, comme il sied aux anciennes peintures,</l>
+<l>Fourmille de pensers énormes d’aventures.</l>
+<l>Et le front, large et pur, sillonné d’un grand pli,</l>
+<l>Sans doute de projets formidables rempli,</l>
+<l>Médite sous la toque où frissonne une plume</l>
+<l>S’élançant hors d’un nœud de rubis qui s’allume.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p17">
+ <pagenum num="67"/>
+
+<h1>LA MORT DE PHILIPPE II</h1>
+
+<p class="r3"><i>A Louis-Xavier de Ricard</i>.</p>
+
+<poem>
+<lg>
+<l>Le coucher d’un soleil de septembre ensanglante</l>
+<l>La plaine morne et l’âpre arête des sierras</l>
+<l>Et de la brume au loin l’installation lente.</l>
+</lg>
+
+<lg>
+<l>Le Guadarrama pousse entre les sables ras</l>
+<l>Son flot hâtif qui va réfléchissant par places</l>
+<l>Quelques oliviers nains tordant leurs maigres bras.</l>
+</lg>
+
+<lg>
+<l>Le grand vol anguleux des éperviers rapaces</l>
+<l>Raye à l’ouest le ciel mat et rouge qui brunit,</l>
+<l>Et leur cri rauque grince à travers les espaces.</l>
+</lg>
+
+<lg>
+<l>Despotique, et dressant au-devant du zénith</l>
+<l>L’entassement brutal de ses tours octogones,</l>
+<l>L’Escurial étend son orgueil de granit.</l>
+</lg>
+
+<lg>
+<l>Les murs carrés, percés de vitraux monotones,</l>
+<l>Montent droits, blancs et nus, sans autres ornements</l>
+<l>Que quelques grils sculptés qu’alternent des couronnes.</l>
+</lg>
+
+ <pagenum num="68"/>
+
+<lg>
+<l>Avec des bruits pareils aux rudes hurlements</l>
+<l>D’un ours que des bergers navrent de coups de pioches</l>
+<l>Et dont l’écho redit les râles alarmants,</l>
+</lg>
+
+<lg>
+<l>Torrent de cris roulant ses ondes sur les roches,</l>
+<l>Et puis s’évaporant en de murmures longs,</l>
+<l>Sinistrement dans l’air, du soir, tintent les cloches.</l>
+</lg>
+
+<lg>
+<l>Par les cours du palais, où l’ombre met ses plombs,</l>
+<l>Circule — tortueux serpent hiératique —</l>
+<l>Une procession de moines aux frocs blonds</l>
+</lg>
+
+<lg>
+<l>Qui marchent un par un, suivant l’ordre ascétique,</l>
+<l>Et qui, pieds nus, la corde aux reins, un cierge en main,</l>
+<l>Ululent d’une voix formidable un cantique.</l>
+</lg>
+
+<lg>
+<l>— Qui donc ici se meurt ? Pour qui sur le chemin</l>
+<l>Cette paille épandue et ces croix long-voilées</l>
+<l>Selon le rituel catholique romain ? —</l>
+</lg>
+
+<lg>
+<l>La chambre est haute, vaste et sombre. Niellées,</l>
+<l>Les portes d’acajou massif tournent sans bruit,</l>
+<l>Leurs serrures étant, comme leurs gonds, huilées.</l>
+</lg>
+
+<lg>
+<l>Une vague rougeur plus triste que la nuit</l>
+<l>Filtre à rais indécis par les plis des tentures</l>
+<l>A travers les vitraux où le couchant reluit,</l>
+</lg>
+
+ <pagenum num="69"/>
+
+<lg>
+<l>Et fait papilloter sur les architectures,</l>
+<l>A l’angle des objets, dans l’ombre du plafond,</l>
+<l>Ce halo singulier <correction original="qu’ont">qu’on</correction> voit dans les peintures.</l>
+</lg>
+
+<lg>
+<l>Parmi le clair-obscur transparent et profond</l>
+<l>S’agitent effarés des hommes et des femmes</l>
+<l>A pas furtifs, ainsi que les hyènes font.</l>
+</lg>
+
+<lg>
+<l>Riches, les vêtements des seigneurs et des dames</l>
+<l>Velours panne, satin soie, hermine et brocart,</l>
+<l>Chantent l’ode du luxe en chatoyantes gammes,</l>
+</lg>
+
+<lg>
+<l>Et, trouant par éclairs distancés avec art</l>
+<l>L’opaque demi-jour, les cuirasses de cuivre</l>
+<l>Des gardes alignés scintillent de trois quart</l>
+</lg>
+
+<lg>
+<l>Un homme en robe noire, à visage de guivre,</l>
+<l>Se penche, en caressant de la main ses fémurs,</l>
+<l>Sur un lit, comme l’on se penche sur un livre.</l>
+</lg>
+
+<lg>
+<l>Des rideaux de drap d’or roides comme des murs</l>
+<l>Tombent d’un dais de bois d’ébène en droite ligne,</l>
+<l>Dardant à temps égaux l’œil des diamants durs.</l>
+</lg>
+
+<lg>
+<l>Dans le lit, un vieillard d’une maigreur insigne</l>
+<l>Egrène un chapelet, qu’il baise par moment,</l>
+<l>Entre ses doigts crochus comme des brins de vigne</l>
+</lg>
+
+ <pagenum num="70"/>
+
+<lg>
+<l>Ses lèvres font ce sourd et long marmottement,</l>
+<l>Dernier signe de vie et premier d’agonie,</l>
+<l>— Et son haleine pue épouvantablement.</l>
+</lg>
+
+<lg>
+<l>Dans sa barbe couleur d’amarante ternie,</l>
+<l>Parmi ses cheveux blancs où luisent des tons roux</l>
+<l>Sous son linge bordé de dentelle jaunie,</l>
+</lg>
+
+<lg>
+<l>Avides, empressés, fourmillants, et jaloux</l>
+<l>De pomper tout le sang malsain du mourant fauve,</l>
+<l>En bataillons serrés vont et viennent les poux.</l>
+</lg>
+
+<lg>
+<l>C’est le Roi, ce mourant qu’assiste un mire chauve,</l>
+<l>Le Roi Philippe Deux d’Espagne, — Saluez !</l>
+<l>Et l’aigle autrichien s’effare dans l’alcôve,</l>
+</lg>
+
+<lg>
+<l>Et de grands écussons, aux murailles cloués,</l>
+<l>Brillent, et maints drapeaux où l’oiseau noir s’étale</l>
+<l>Pendent deçà delà, vaguement remués !...</l>
+</lg>
+
+<lg>
+<l>— La porte s’ouvre. Un flot de lumière brutale</l>
+<l>Jaillit soudain, déferle et bientôt s’établit</l>
+<l>Par l’ampleur de la chambre en nappe horizontale :</l>
+</lg>
+
+<lg>
+<l>Porteurs de torches, roux, et que l’extase emplit,</l>
+<l>Entrent dix capucins qui restent en prière :</l>
+<l>Un d’entre eux se détache et marche droit au lit.</l>
+</lg>
+
+ <pagenum num="71"/>
+
+<lg>
+<l>Il est grand, jeune et maigre, et son pas est de pierre,</l>
+<l>Et les élancements farouches de la Foi</l>
+<l>Rayonnent à travers les cils de sa paupière ;</l>
+</lg>
+
+<lg>
+<l>Son pied ferme et pesant et lourd, comme la Loi,</l>
+<l>Sonne sur les tapis, régulier, emphatique ;</l>
+<l>Les yeux baissés en terre, il marche droit au Roi.</l>
+</lg>
+
+<lg>
+<l>Et tous sur son trajet dans un geste extatique</l>
+<l>S’agenouillent, frappant trois fois du poing leur sein,</l>
+<l>Car il porte avec lui le sacré Viatique.</l>
+</lg>
+
+<lg>
+<l>Du lit s’écarte avec respect le matassin,</l>
+<l>Le médecin du corps, en pareille occurrence,</l>
+<l>Devant céder la place, Ame, à ton médecin.</l>
+</lg>
+
+<lg>
+<l>La figure du Roi, qu’étire la souffrance,</l>
+<l>A l’approche du fray se rassérène un peu.</l>
+<l>Tant la religion est grosse d’espérance !</l>
+</lg>
+
+<lg>
+<l>Le moine, cette fois, ouvrant son œil de feu,</l>
+<l>Tout brillant de pardons mêlés à des reproches,</l>
+<l>S’arrête, messager des justices de Dieu.</l>
+</lg>
+
+<lg>
+<l>— Sinistrement dans l’air du soir tintent les cloches.</l>
+</lg>
+
+<lg>
+<l>Et la Confession commence. Sur le flanc</l>
+<l>Se retournant, le roi, d’un ton sourd, bas et grêle,</l>
+<l>Parle de feux, de juifs, de bûchers et de sang.</l>
+</lg>
+
+ <pagenum num="72"/>
+
+<lg>
+<l>— « Vous repentiriez-vous par hasard de ce zèle ?</l>
+<l>« Brûler des juifs, mais c’est une dilection !</l>
+<l>« Vous fûtes, ce faisant, orthodoxe et fidèle. » —</l>
+</lg>
+
+<lg>
+<l>Et, se pétrifiant dans l’exaltation,</l>
+<l>Le Révérend, les bras croisés en croix, tête dressée,</l>
+<l>Semble l’esprit sculpté de l’Inquisition.</l>
+</lg>
+
+<lg>
+<l>Ayant repris haleine, et d’une voix cassée,</l>
+<l>Péniblement, et comme arrachant par lambeaux</l>
+<l>Un remords douloureux du fond de sa pensée,</l>
+</lg>
+
+<lg>
+<l>Le Roi, dont la lueur tragique des flambeaux</l>
+<l>Éclaire le visage osseux et le front blême,</l>
+<l>Prononce ces mots : Flandre, Albe, morts, sacs, tombeaux.</l>
+</lg>
+
+<lg>
+<l>— « Les Flamands, révoltés contre l’Église même,</l>
+<l>« Furent très justement punis, à votre los,</l>
+<l>« Et je m’étonne, ô Roi, de ce doute suprême.</l>
+</lg>
+
+<lg>
+<l>« Poursuivez. » — Et le roi parla de don Carlos.</l>
+<l>Et deux larmes coulaient tremblantes sur sa joue</l>
+<l>Palpitante et collée affreusement à l’os.</l>
+</lg>
+
+<lg>
+<l>— « Vous déplorez cet acte, et moi je vous en loue !</l>
+<l>« L’Infant, certes, était coupable au dernier point,</l>
+<l>« Ayant voulu tirer l’Espagne dans la boue</l>
+</lg>
+
+ <pagenum num="73"/>
+
+<lg>
+<l>« De l’hérésie anglaise, et de plus n’ayant point</l>
+<l>« Frémi de conspirer — ô ruses abhorrées ! —</l>
+<l>« Et contre un Père, et contre un Maître, et contre un Oint ! » —</l>
+</lg>
+
+<lg>
+<l>Le moine ensuite dit les formules sacrées</l>
+<l>Par quoi tous nos péchés nous sont remis, et puis,</l>
+<l>Prenant l’Hostie avec ses deux mains timorées,</l>
+</lg>
+
+<lg>
+<l>Sur la langue du Roi la déposa. Tous bruits</l>
+<l>Se sont tus, et la Cour, pliant dans la détresse,</l>
+<l>Pria, muette et pâle, et nul n’a su depuis</l>
+</lg>
+
+<lg>
+<l>Si sa prière fut sincère ou bien traîtresse.</l>
+<l>— Qui dira les pensers obscurs que protégea</l>
+<l>Ce silence, brouillard complice qui se dresse ? —</l>
+</lg>
+
+<lg>
+<l>Ayant communié, le Roi se replongea</l>
+<l>Dans l’ampleur des coussins, et la béatitude</l>
+<l>De l’Absolution reçue ouvrant déjà</l>
+</lg>
+
+<lg>
+<l>L’œil de son âme au jour clair de la certitude,</l>
+<l>Épanouit ses traits en un sourire exquis</l>
+<l>Qui tenait de la fièvre et de la quiétude.</l>
+</lg>
+
+<lg>
+<l>Et tandis qu’alentour ducs, comtes et marquis,</l>
+<l>Pleins d’angoisses, fichaient leurs yeux sous la courtine.</l>
+<l>L’âme du Roi montait aux cieux conquis.</l>
+</lg>
+
+ <pagenum num="74"/>
+
+<lg>
+<l>Puis le râle des morts hurla dans la poitrine</l>
+<l>De l’auguste malade avec des sursauts fous :</l>
+<l>Tel l’ouragan passe à travers une ruine.</l>
+</lg>
+
+<lg>
+<l>Et puis, plus rien ; et puis, sortant par mille trous,</l>
+<l>Ainsi que des serpents frileux de leur repaire,</l>
+<l>Sur le corps froid les vers se mêlèrent aux poux.</l>
+</lg>
+
+<lg>
+<l>— Philippe Deux était à la droite du Père.</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p18">
+ <pagenum num="75"/>
+
+<h1>ÉPILOGUE</h1>
+
+<h2>I</h2>
+
+<poem>
+<lg>
+<l>Le soleil, moins ardent, luit clair au ciel moins dense.</l>
+<l>Balancés par un vent automnal et berceur,</l>
+<l>Les rosiers du jardin s’inclinent en cadence.</l>
+<l>L’atmosphère ambiante a des baisers de sœur,</l>
+</lg>
+
+<lg>
+<l>La Nature a quitté pour cette fois son trône</l>
+<l>De splendeur, d’ironie et de sérénité :</l>
+<l>Clémente, elle descend, par l’ampleur de l’air jaune,</l>
+<l>Vers l’homme, son sujet pervers et révolté.</l>
+</lg>
+
+<lg>
+<l>Du pan de son manteau que l’abîme constelle,</l>
+<l>Elle daigne essuyer les moiteurs de nos fronts,</l>
+<l>Et son âme éternelle et sa forme immortelle</l>
+<l>Donnent calme et vigueur à nos cœurs mous et prompts.</l>
+</lg>
+
+ <pagenum num="76"/>
+
+<lg>
+<l>Le frais balancement des ramures chenues,</l>
+<l>L’horizon élargi plein de vagues chansons,</l>
+<l>Tout, jusqu’au vol joyeux des oiseaux et des nues,</l>
+<l>Tout aujourd’hui console et délivre. — Pensons.</l>
+</lg>
+</poem>
+
+<h2>II</h2>
+
+<poem>
+<lg>
+<l>Donc, c’en est fait. Ce livre est clos. Chères Idées</l>
+<l>Qui rayiez mon ciel gris de vos ailes de feu</l>
+<l>Dont le vent caressait mes tempes obsédées,</l>
+<l>Vous pouvez revoler devers l’Infini bleu !</l>
+</lg>
+
+<lg>
+<l>Et toi, Vers qui tintais, et toi, Rime sonore,</l>
+<l>Et vous, Rythmes chanteurs, et vous, délicieux</l>
+<l>Ressouvenirs, et vous, Rêves, et vous encore,</l>
+<l>Images qu’évoquaient mes désirs anxieux,</l>
+</lg>
+
+<lg>
+<l>Il faut nous séparer. Jusqu’aux jours plus propices</l>
+<l>Où nous réunira l’Art, notre maître, adieu,</l>
+<l>Adieu, doux compagnons, adieu, charmants complices !</l>
+<l>Vous pouvez revoler devers l’Infini bleu.</l>
+</lg>
+
+<lg>
+<l>Aussi bien, nous avons fourni notre carrière</l>
+<l>Et le jeune étalon de notre bon plaisir,</l>
+<l>Tout affolé qu’il est de sa course première,</l>
+<l>A besoin d’un peu d’ombre et de quelque loisir.</l>
+</lg>
+
+ <pagenum num="77"/>
+
+<lg>
+<l>— Car toujours nous t’avons fixée, ô Poésie,</l>
+<l>Notre astre unique et notre unique passion,</l>
+<l>T’ayant seule pour guide et compagne choisie,</l>
+<l>Mère, et nous méfiant de l’Inspiration.</l>
+</lg>
+</poem>
+
+<h2>III</h2>
+
+<poem>
+<lg>
+<l>Ah ! l’Inspiration superbe et souveraine,</l>
+<l>L’Égérie aux regards lumineux et profonds,</l>
+<l>Le Genium commode et l’Erato soudaine,</l>
+<l>L’Ange des vieux tableaux avec des ors au fond,</l>
+</lg>
+
+<lg>
+<l>La Muse, dont la voix est puissante sans doute,</l>
+<l>Puisqu’elle fait d’un coup dans les premiers cerveaux,</l>
+<l>Comme ces pissenlits dont s’émaille la route,</l>
+<l>Pousser tout un jardin de poèmes nouveaux,</l>
+</lg>
+
+<lg>
+<l>La Colombe, le Saint-Esprit, le saint délire,</l>
+<l>Les Troubles opportuns, les Transports complaisants,</l>
+<l>Gabriel et son luth, Apollon et sa lyre,</l>
+<l>Ah ! l’Inspiration, on l’invoque à seize ans !</l>
+</lg>
+
+<lg>
+<l>Ce qu’il nous faut à nous, les Suprêmes Poètes</l>
+<l>Qui vénérons les Dieux et qui n’y croyons pas,</l>
+<l>A nous dont nul rayon n’auréola les têtes,</l>
+<l>Dont nulle Béatrix n’a dirigé les pas,</l>
+</lg>
+
+ <pagenum num="78"/>
+
+<lg>
+<l>A nous qui ciselons les mots comme des coupes</l>
+<l>Et qui faisons des vers émus très froidement,</l>
+<l>A nous qu’on ne voit point les soirs aller par groupes</l>
+<l>Harmonieux au bord des <i>lacs</i> et nous pâmant,</l>
+</lg>
+
+<lg>
+<l>Ce qu’il nous faut, à nous, c’est, aux lueurs des lampes,</l>
+<l>La science conquise et le sommeil dompté,</l>
+<l>C’est le front dans les mains du vieux Faust des estampes,</l>
+<l>C’est l’Obstination et c’est la Volonté !</l>
+</lg>
+
+<lg>
+<l>C’est la Volonté sainte, absolue, éternelle,</l>
+<l>Cramponnée au projet comme un noble condor</l>
+<l>Aux flancs fumants de peur d’un buffle, et d’un coup d’aile</l>
+<l>Emportant son trophée à travers les cieux d’or !</l>
+</lg>
+
+<lg>
+<l>Ce qu’il nous faut à nous, c’est l’étude sans trêve,</l>
+<l>C’est l’effort inouï, le combat non pareil,</l>
+<l>C’est la nuit, l’âpre nuit du travail, d’où se lève</l>
+<l>Lentement, lentement, l’Œuvre, ainsi qu’un soleil !</l>
+</lg>
+
+<lg>
+<l>Libre à nos Inspirés, cœurs qu’une œillade enflamme.</l>
+<l>D’abandonner leur être aux vents comme un bouleau :</l>
+<l>Pauvres gens ! l’Art n’est pas d’éparpiller son âme :</l>
+<l>Est-elle en marbre, ou non, la Vénus de Milo ?</l>
+</lg>
+
+<lg>
+<l>Nous donc, sculptons avec le ciseau des Pensées</l>
+<l>Le bloc vierge du Beau, Paros immaculé,</l>
+ <pagenum num="79"/>
+<l>Et faisons-en surgir sous nos mains empressées</l>
+<l>Quelque pure statue au péplos étoilé,</l>
+</lg>
+
+<lg>
+<l>Afin qu’un jour, frappant de rayons gris et roses</l>
+<l>Le chef-d’œuvre serein, comme un nouveau Memnon</l>
+<l>L’Aube-Postérité, fille des Temps moroses,</l>
+<l>Fasse dans l’air futur retentir notre nom !</l>
+</lg>
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="table">
+<pagenum num="425"/>
+
+<h1>TABLE</h1>
+
+<vsep class="rule"/>
+
+<table>
+<tbody>
+<tr><td colspan='3'><a idref="p1">P<s>ROLOGUE</s></a></td></tr>
+<tr><td colspan='3'><a idref="p2">M<s>ELANCHOLIA</s></a></td></tr>
+
+<tr><td style='width:1em;'/><td>I.</td><td><a idref="p2.1">Résignation</a></td></tr>
+<tr><td style='width:1em;'/><td>II.</td><td><a idref="p2.2">Nevermore</a></td></tr>
+<tr><td style='width:1em;'/><td>III.</td><td><a idref="p2.3">Après trois ans</a></td></tr>
+<tr><td style='width:1em;'/><td>IV.</td><td><a idref="p2.4">Vœu</a></td></tr>
+<tr><td style='width:1em;'/><td>V.</td><td><a idref="p2.5">Lassitude</a></td></tr>
+<tr><td style='width:1em;'/><td>VI.</td><td><a idref="p2.6">Mon rêve familier</a></td></tr>
+<tr><td style='width:1em;'/><td>VII.</td><td><a idref="p2.7">A une femme</a></td></tr>
+<tr><td style='width:1em;'/><td>VIII.</td><td><a idref="p2.8">L’angoisse</a></td></tr>
+
+<tr><td colspan='3'><a idref="p3">E<s>AUX-FORTES</s></a></td></tr>
+
+<tr><td style='width:1em;'/><td>I.</td><td><a idref="p3.1">Croquis parisien</a></td></tr>
+<tr><td style='width:1em;'/><td>II.</td><td><a idref="p3.2">Cauchemar</a></td></tr>
+<tr><td style='width:1em;'/><td>III.</td><td><a idref="p3.3">Marine</a></td></tr>
+<tr><td style='width:1em;'/><td>IV.</td><td><a idref="p3.4">Effet de nuit</a></td></tr>
+<tr><td style='width:1em;'/><td>V.</td><td><a idref="p3.5">Grotesques</a></td></tr>
+
+<tr><td colspan='3'><a idref="p4">P<s>AYSAGES TRISTES</s></a></td></tr>
+
+<tr><td style='width:1em;'/><td>I.</td><td><a idref="p4.1">Soleils couchants</a></td></tr>
+<tr><td style='width:1em;'/><td>II.</td><td><a idref="p4.2">Crépuscule du soir mystique</a></td></tr>
+<tr><td style='width:1em;'/><td>III.</td><td><a idref="p4.3">Promenade sentimentale</a></td></tr>
+<tr><td style='width:1em;'/><td>IV.</td><td><a idref="p4.4">Nuit <correction original="de">du</correction> Walpurgis classique</a></td></tr>
+<tr><td style='width:1em;'/><td>V.</td><td><a idref="p4.5">Chanson d’automne</a></td></tr>
+<tr><td style='width:1em;'/><td>VI.</td><td><a idref="p4.6">L’heure du berger</a></td></tr>
+<tr><td style='width:1em;'/><td>VII.</td><td><a idref="p4.7">Le rossignol</a></td></tr>
+
+<tr><td><a idref="p5">C<s>APRICES</s></a></td></tr>
+
+<tr><td style='width:1em;'/><td>I.</td><td><a idref="p5.1">Femme et chatte</a></td></tr>
+<tr><td style='width:1em;'/><td>II.</td><td><a idref="p5.2">Jésuitisme</a></td></tr>
+<tr><td style='width:1em;'/><td>III.</td><td><a idref="p5.3">La chanson des ingénues</a></td></tr>
+<tr><td style='width:1em;'/><td>IV.</td><td><a idref="p5.4">Une grande dame</a></td></tr>
+<tr><td style='width:1em;'/><td>V.</td><td><a idref="p5.5">Monsieur Prudhomme</a></td></tr>
+
+<tr><td colspan='3'><a idref="p6">I<s>NITIUM</s></a></td></tr>
+<tr><td colspan='3'><a idref="p7">Ç<s>AVITRI</s></a></td></tr>
+<tr><td colspan='3'><a idref="p8">S<s>UB URBE</s></a></td></tr>
+<tr><td colspan='3'><a idref="p9">S<s>ÉRÉNADE</s></a></td></tr>
+<tr><td colspan='3'><a idref="p10">U<s>N DAHLIA</s></a></td></tr>
+<tr><td colspan='3'><a idref="p11">N<s>EVERMORE</s></a></td></tr>
+<tr><td colspan='3'><a idref="p12">I<s>L</s> B<s>ACIO</s></a></td></tr>
+<tr><td colspan='3'><a idref="p13">D<s>ANS LES BOIS</s></a></td></tr>
+<tr><td colspan='3'><a idref="p14">N<s>OCTURNE PARISIEN</s></a></td></tr>
+<tr><td colspan='3'><a idref="p15">M<s>ARCO</s></a></td></tr>
+<tr><td colspan='3'><a idref="p16">C<s>ÉSAR</s> B<s>ORGIA</s></a></td></tr>
+<tr><td colspan='3'><a idref="p17">L<s>A MORT DE</s> P<s>HILIPPE</s> II</a></td></tr>
+<tr><td colspan='3'><a idref="p18">É<s>PILOGUE</s></a></td></tr>
+</tbody>
+</table>
+
+</div>
+</page-sequence>
+  </page-sequences>
+
+</bml>

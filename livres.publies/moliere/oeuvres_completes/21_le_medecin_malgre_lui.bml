@@ -1,0 +1,2142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5714615q"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000498"
+        creation="2017-05-13T13:32:01-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Le Médecin malgré lui</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='21'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="Personnages"/>
+    <tocentry idref="p02" label="Acte premier">
+      <tocentry idref="p03" label="Scène I"/>
+      <tocentry idref="p04" label="Scène II"/>
+      <tocentry idref="p05" label="Scène III"/>
+      <tocentry idref="p06" label="Scène IV"/>
+      <tocentry idref="p07" label="Scène V"/>
+      <tocentry idref="p08" label="Scène VI"/>
+    </tocentry>
+    <tocentry idref="p09" label="Acte second">
+      <tocentry idref="p10" label="Scène I"/>
+      <tocentry idref="p11" label="Scène II"/>
+      <tocentry idref="p12" label="Scène III"/>
+      <tocentry idref="p13" label="Scène IV"/>
+      <tocentry idref="p14" label="Scène V"/>
+      <tocentry idref="p15" label="Scène VI"/>
+      <tocentry idref="p16" label="Scène VII"/>
+      <tocentry idref="p17" label="Scène VIII"/>
+    </tocentry>
+    <tocentry idref="p18" label="Acte troisième">
+      <tocentry idref="p19" label="Scène I"/>
+      <tocentry idref="p20" label="Scène II"/>
+      <tocentry idref="p21" label="Scène III"/>
+      <tocentry idref="p22" label="Scène IV"/>
+      <tocentry idref="p23" label="Scène V"/>
+      <tocentry idref="p24" label="Scène VI"/>
+      <tocentry idref="p25" label="Scène VII"/>
+      <tocentry idref="p26" label="Scène VIII"/>
+      <tocentry idref="p27" label="Scène IX"/>
+      <tocentry idref="p28" label="Scène X"/>
+      <tocentry idref="p29" label="Scène XI"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_2.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome second. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="205"/>
+
+<img src="images/frise13.png" class="center100" alt="frise"/>
+
+<h1>LE MÉDECIN MALGRÉ LUI</h1>
+
+<h2>COMÉDIE EN TROIS ACTES</h2>
+
+<h2>1666</h2>
+
+<vsep class="rule"/>
+
+<h3 id="p01">PERSONNAGES</h3>
+
+<p class="sommaire">GÉRONTE, père de Lucinde.</p>
+<p class="sommaire">LUCINDE, fille de Géronte.</p>
+<p class="sommaire">LÉANDRE, amant de Lucinde.</p>
+<p class="sommaire">SGANARELLE, mari de Martine.</p>
+<p class="sommaire">MARTINE, femme de Sganarelle.</p>
+<p class="sommaire">M. ROBERT, voisin de Sganarelle.</p>
+<p class="sommaire">VALÈRE, domestique de Géronte.</p>
+<p class="sommaire">LUCAS, mari de Jacqueline.</p>
+<p class="sommaire">JACQUELINE, nourrice chez Géronte, et femme de Lucas.</p>
+<p class="sommaire">THIBAUD, père de Perrin, paysan.</p>
+<p class="sommaire">PERRIN, paysan</p>
+
+<vsep class="rule"/>
+
+<h2 id="p02">ACTE PREMIER</h2>
+
+<p>Le théâtre représente une forêt.</p>
+
+<h2 id="p03">SCÈNE I. — SGANARELLE, MARTINE, <i>paraissent sur le théâtre en se querellant.</i></h2>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, je te dis que je n’en veux rien faire, et que c’est à moi de parler et d’être le maître !</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Et je te dis, moi, que je veux que tu vives à ma fantaisie, et que je ne me suis point mariée avec toi pour souffrir tes fredaines !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oh ! la grande fatigue que d’avoir une femme ! et qu’Aristote a bien raison, quand il dit qu’une femme est pire qu’un démon !</p>
+
+<pagenum num="206"/>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Voyez un peu l’habile homme, avec son benêt d’Aristote.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui, habile homme. Trouve-moi un faiseur de fagots qui sache comme moi raisonner des choses, qui ait servi six ans un fameux médecin, et qui ait su dans son jeune âge son rudiment par cœur.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Peste du fou fieffé !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Peste de la carogne !</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Que maudits soient l’heure et le jour où je m’avisai d’aller dire oui !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Que maudit soit le bec cornu de notaire qui me fit signer ma ruine !</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>C’est bien à toi, vraiment, à te plaindre de cette affaire ! Devrois-tu être un seul moment sans rendre grâces au ciel de m’avoir pour ta femme ? et méritois-tu d’épouser une femme comme moi ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il est vrai que tu me fis trop d’honneur, et que j’eus lieu de me louer la première nuit de mes noces ! Eh ! morbleu ! ne me fais point parler là-dessus : je dirois de certaines choses...</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Quoi ? que dirois-tu ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Baste, laissons là ce chapitre. Il suffit que nous savons ce que nous savons, et que tu fus bien heureuse de me trouver.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Qu’appelles-tu bien heureuse de te trouver ? Un homme qui me réduit à l’hôpital, un débauché, un traître, qui me mange tout ce que j’ai !...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tu as menti : j’en bois une partie.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Qui me vend, pièce à pièce, tout ce qui est dans le logis !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est vivre de ménage.</p>
+
+<pagenum num="207"/>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Qui m’a ôté jusqu’au lit que j’avois !...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tu t’en lèveras plus matin.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Enfin qui ne laisse aucun meuble dans toute la maison...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>On en déménage plus aisément.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Et qui, du matin jusqu’au soir, ne fait que jouer et que boire !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est pour ne me point ennuyer.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Et que veux-tu, pendant ce temps, que je fasse avec ma famille ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tout ce qu’il te plaira.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>J’ai quatre pauvres petits enfants sur les bras...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mets-les à terre.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Qui me demandent à toute heure du pain.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Donne-leur le fouet : quand j’ai bien bu et bien mangé, je veux que tout le monde soit soûl dans ma maison.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Et tu prétends, ivrogne, que les choses aillent toujours de même ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma femme, allons tout doucement, s’il vous plaît.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Que j’endure éternellement tes insolences et tes débauches ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ne nous emportons point, ma femme.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Et que je ne sache pas trouver le moyen de te ranger à ton devoir ?</p>
+
+<pagenum num="208"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma femme, vous savez que je n’ai pas l’âme endurante, et que j’ai le bras assez bon.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Je me moque de tes menaces !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Je te montrerai bien que je ne te crains nullement.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma chère moitié, vous avez envie de me dérober quelque chose<noteref noteid="note.208.1"/>.</p>
+
+<notes>
+  <note id="note.208.1">
+    <p>Dicton populaire qui se trouve dans la <i>Comédie des Proverbes</i>, d’Adrien de Montluc : « Si tu m’importunes davantage, tu me déroberas un soufflet ». (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Crois-tu que je m’épouvante de tes paroles ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Doux objet de mes vœux, je vous frotterai les oreilles.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Ivrogne que tu es !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous battrai.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Sac à vin !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous rosserai.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Infâme !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous étrillerai.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Traître ! insolent ! trompeur ! lâche ! coquin ! pendard ! gueux ! bélître ! fripon ! maraud ! voleur !...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! vous en voulez donc ! <stage>Sganarelle prend un bâton et bat sa femme.</stage></p>
+
+<hstage><speaker>MARTINE</speaker>, criant.</hstage>
+<p>Ah ! ah ! ah ! ah !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Voilà le vrai moyen de vous apaiser.</p>
+
+<pagenum num="209"/>
+
+<h3 id="p04">SCÈNE II. — MONSIEUR ROBERT, SGANARELLE, MARTINE</h3>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Holà ! holà ! holà ! Fi ! Qu’est ceci ? Quelle infamie ! Peste soit le coquin, de battre ainsi sa femme !</p>
+
+<hstage><speaker>MARTINE</speaker>, les mains sur les côtés, parle à monsieur Robert en le faisant reculer</hstage>
+<p>Et je veux qu’il me batte, moi !</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Ah ! j’y consens de tout mon cœur.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>De quoi vous mêlez-vous ?</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>J’ai tort.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Est-ce là votre affaire ?</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Vous avez raison.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Voyez un peu cet impertinent, qui veut empêcher les maris de battre leurs femmes !</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Je me rétracte.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Qu’avez-vous à voir là-dessus ?</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Rien.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Est-ce à vous d’y mettre le nez ?</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Mêlez-vous de vos affaires.</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Je ne dis plus mot.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Il me plaît d’être battue.</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>D’accord.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Ce n’est pas à vos dépens.</p>
+
+<pagenum num="210"/>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Il est vrai.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Et vous êtes un sot de venir vous fourrer où vous n’avez que faire. <stage>Elle lui donne un soufflet.</stage></p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker>, à Sganarelle</hstage>
+<p>Compère, je vous demande pardon de tout mon cœur. Faites, rossez, battez comme il faut votre femme ; je vous aiderai si vous le voulez.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il ne me plaît pas, moi.</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Ah ! c’est une autre chose.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je la veux battre, si je le veux ; et ne la veux pas battre, si je ne le veux pas.</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est ma femme, et non pas la vôtre.</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Sans doute.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous n’avez rien à me commander.</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>D’accord.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je n’ai que faire de votre aide.</p>
+
+<hstage><speaker>MONSIEUR ROBERT</speaker></hstage>
+<p>Très volontiers.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Et vous êtes un impertinent de vous ingérer des affaires d’autrui. Apprenez que Cicéron dit qu’entre l’arbre et le doigt il ne faut point mettre l’écorce. <stage>Il le chasse après l’avoir battu.</stage></p>
+
+<h3 id="p05">SCÈNE III. — SGANARELLE, MARTINE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oh çà ! faisons la paix nous deux. Touche là. <stage>Il lui présente la main.</stage></p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Oui, après m’avoir ainsi battue !</p>
+
+<pagenum num="211"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Cela n’est rien. Touche.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Je ne veux pas.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ?</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma petite femme !</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Point.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Allons, te dis-je.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Je n’en ferai rien.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Viens, viens, viens.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Non ; je veux être en colère.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Fi ! c’est une bagatelle. Allons, allons.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Laisse-moi là.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Touche, te dis-je.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Tu m’as trop maltraitée.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh bien, va, je te demande pardon ; mets là ta main.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Je te pardonne. <stage>Bas, à part.</stage> Mais tu le payeras<noteref noteid="note.211.1"/>.</p>
+
+<notes>
+  <note id="note.211.1">
+    <p>Ce mot, devenu proverbe, termine plaisamment la querelle de ménage, et lie très heureusement l’exposition ou plutôt le commencement de la pièce à l’action qui va commencer. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tu es une folle de prendre garde à cela : ce sont petites choses qui sont de temps en temps nécessaires dans l’amitié ; et cinq ou six coups de bâton, entre gens qui s’aiment, ne font que ragaillardir l’affection. Va, je m’en vais au bois, et je te promets aujourd’hui plus d’un cent de fagots.</p>
+
+<pagenum num="212"/>
+
+<h3 id="p06">SCÈNE IV. — MARTINE, <i>seule.</i></h3>
+
+<p>Va, quelque mine que je fasse, je n’oublierai pas mon ressentiment ; et je brûle en moi-même de trouver les moyens de te punir des coups que tu m’as donnés. Je sais bien qu’une femme a toujours dans les mains de quoi se venger d’un mari ; mais c’est une punition trop délicate pour mon pendard : je veux une vengeance qui se fasse un peu mieux sentir ; et ce n’est pas contentement pour l’injure que j’ai reçue.</p>
+
+<h3 id="p07">SCÈNE V. — VALÈRE, LUCAS, MARTINE</h3>
+
+<hstage><speaker>LUCAS</speaker>, à Valère, sans voir Martine.</hstage>
+<p>Parguienne ! j’avons pris là tous deux une guèble de commission ; et je ne sais pas, moi, ce que je pensons attraper.</p>
+
+<hstage><speaker>VALÈRE</speaker>, à Lucas, sans voir Martine.</hstage>
+<p>Que veux-tu, mon pauvre nourricier ? il faut bien obéir à notre maître : et puis, nous avons intérêt, l’un et l’autre, à la santé de sa fille, notre maîtresse ; et sans doute son mariage, difiéré par sa maladie, nous vaudra quelque récompense. Horace, qui est libéral, a bonne part aux prétentions qu’on peut avoir sur sa personne ; et, quoiqu’elle ait fait voir de l’amitié pour un certain Léandre, tu sais bien que son père n’a jamais voulu consentir à le recevoir pour son gendre.</p>
+
+<hstage><speaker>MARTINE</speaker>, rêvant à part, se croyant seule.</hstage>
+<p>Ne puis-je point trouver quelque invention pour me venger ?</p>
+
+<hstage><speaker>LUCAS</speaker>, à Valère</hstage>
+<p>Mais quelle fantaisie s’est-il boutée là dans la tête, puisque les médecins y avont tous pardu leur latin ?</p>
+
+<hstage><speaker>VALÈRE</speaker>, à Lucas.</hstage>
+<p>On trouve quelquefois, à force de chercher, ce qu’on ne trouve pas d’abord ; et souvent en de simples lieux...,</p>
+
+<hstage><speaker>MARTINE</speaker>, se croyant toujours seule.</hstage>
+<p>Oui, il faut que je me venge, à quelque prix que ce soit. Ces coups de bâton me reviennent au cœur, je ne les saurois digérer ; et... <stage>Elle dit tout ceci en rêvant, de sorte que, ne prenant pas garde à ces deux hommes, elle les heurte en se retournant, et leur dit :</stage> Ah ! messieurs, je vous demande pardon ; je ne vous voyois pas, et cherchois dans ma tête quelque chose qui m’embarrasse.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Chacun a ses soins dans le monde, et nous cherchons aussi ce que nous voudrions bien trouver.</p>
+
+<pagenum num="213"/>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Seroit-ce quelque chose où je vous puisse aider ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Cela se pourroit faire ; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier qui pût donner quelque soulagement à la fille de notre maître, attaquée d’une maladie qui lui a ôté tout d’un coup l’usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science après elle ; mais on trouve parfois des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n’ont su faire ; et c’est là ce que nous cherchons.</p>
+
+<hstage><speaker>MARTINE</speaker>, bas, à part.</hstage>
+<p>Ah ! que le ciel m’inspire une admirable invention pour me venger de mon pendard ! <stage>Haut.</stage> Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez ; et nous avons un homme, le plus merveilleux homme du monde pour les maladies désespérées.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Eh ! de grâce, où pouvons-nous le rencontrer ?</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Vous le trouverez maintenant vers ce petit lieu que voilà, qui s’amuse à couper du bois.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Un médecin qui coupe du bois !</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Qui s’amuse à cueillir des simples, voulez-vous dire ?</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Non ; c’est un homme extraordinaire qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais pour ce qu’il est. Il va vêtu d’une façon extravagante, affecte quelquefois de paroître ignorant, tient sa science renfermée, et ne fuit rien tant tous les jours que d’exercer les merveilleux talents qu’il a eus du ciel pour la médecine.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>C’est une chose admirable que tous les grands hommes ont toujours du caprice, quelque petit grain de folie mêlé à leur science.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>La folie de celui-ci est plus grande qu’on ne peut croire, car elle va parfois jusqu’à vouloir être battu pour demeurer <pagenum num="214"/>d’accord de sa capacité ; et je vous donne avis que vous n’en viendrez pas à bout, qu’il n’avouera jamais qu’il est médecin, s’il se le met en fantaisie, que vous ne preniez chacun un bâton, et ne le réduisiez, à force de coups, à vous confesser à la fin ce qu’il vous cachera d’abord. C’est ainsi que nous en usons quand nous avons besoin de lui<noteref noteid="note.214.1"/>.</p>
+
+<notes>
+  <note id="note.214.1">
+    <p>Toute la pièce est bâtie sur cette invention de Martine.</p>
+  </note>
+</notes>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Voilà une étrange folie !</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Il est vrai ; mais, après cela, vous verrez qu’il fait des merveilles.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Comment s’appelle-t-il ?</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Il s’appelle Sganarelle. Mais il est aisé à connoître : c’est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Un habit jaune et vart ! C’est donc le médecin des parroquets ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Mais est-il bien vrai qu’il soit si habile que vous le dites ?</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Comment ! c’est un homme qui fait des miracles. Il y a six mois qu’une femme fut abandonnée de tous les autres médecins : on la tenoit morte il y avoit déjà six heures, et l’on se disposoit à l’ensevelir, lorsqu’on y fit venir de force l’homme dont nous parlons. Il lui mit, l’ayant vue, une petite goutte de je ne sais quoi dans la bouche ; et, dans le même instant, elle se leva de son lit, et se mit aussitôt à se promener dans sa chambre comme si de rien n’eût été.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Ah !</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Il falloit que ce fût quelque goutte d’or potable.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Cela pourroit bien être. Il n’y a pas trois semaines encore qu’un jeune enfant de douze ans tomba du haut du clocher en bas, et se brisa sur le pavé la tête, les bras et les jambes. On n’y eut pas plutôt amené notre homme, qu’il le frotta par <pagenum num="215"/>tout le corps d’un certain onguent qu’il sait faire ; et l’enfant aussitôt se leva sur ses pieds et courut jouer à la fossette.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Ah !</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Il faut que cet homme-là ait la médecine universelle.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Qui en doute ?</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Tétigué ! v’là justement l’homme qu’il nous faut. Allons vite le charcher.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Nous vous remercions du plaisir que vous nous faites.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Mais souvenez-vous bien au moins de l’avertissement que je vous ai donné.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Eh ! morguenne ! laissez-nous faire : s’il ne tient qu’à battre, la vache est à nous.</p>
+
+<hstage><speaker>VALÈRE</speaker>, à Lucas.</hstage>
+<p>Nous sommes bien heureux d’avoir fait cette rencontre ; et j’en conçois, pour moi, la meilleure espérance du monde.</p>
+
+<h3 id="p08">SCÈNE VI. — SGANARELLE, VALÈRE, LUCAS</h3>
+
+<hstage><speaker>SGANARELLE</speaker>, chantant derrière le théâtre.</hstage>
+<p>La, la, la...</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>J’entends quelqu’un qui chante, et qui coupe du bois.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, entrant sur le théâtre, avec une bouteille à sa main, sans apercevoir Valère ni Lucas.</hstage>
+<p>La, la, la... Ma foi, c’est assez travaillé pour boire un coup. Prenons un peu d’haleine. <stage>Après avoir bu.</stage> Voilà du bois qui est salé comme tous les diables<noteref noteid="note.215.1"/>. <stage>Il chante.</stage></p>
+
+<poem>
+<l>Qu’ils sont doux,</l>
+<l>Bouteille jolie.</l>
+<l>Qu’ils sont doux,</l>
+<l>Vos petits glougloux !</l>
+<l>Mais mon sort feroit bien des jaloux,</l>
+<l>Si vous étiez toujours remplie.</l>
+<pagenum num="216"/>
+<l>Ah ! bouteille, ma mie,</l>
+<l>Pourquoi vous videz-vous ?</l>
+</poem>
+
+<p>Allons, morbleu ! il ne faut point engendrer de mélancolie.</p>
+
+<notes>
+  <note id="note.215.1">
+    <p>Un <i>bois salé,</i> comme on dit un <i>ragoût salé</i>, parce qu’on a soif après avoir coupé de l’un comme après avoir mangé de l’autre. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>VALÈRE</speaker>, bas, à Lucas.</hstage>
+<p>Le voilà lui-même.</p>
+
+<hstage><speaker>LUCAS</speaker>, bas, à Valère.</hstage>
+<p>Je pense que vous dites vrai, et que j’avons bouté le nez dessus.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Voyons de près.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, embrassant sa bouteille.</hstage>
+<p>Ah ! petite friponne ! que je t’aime, mon petit bouchon ! <stage>Il chante. Apercevant Valère et Lucas qui l’examinent, il baisse la voix.</stage></p>
+
+<p>Mais mon sort... feroit... bien des jaloux,</p>
+<p>Si...</p>
+<pstage>Voyant qu’on l’examine de plus près.</pstage>
+<p>Que diable ! à qui en veulent ces gens-là ?</p>
+
+<hstage><speaker>VALÈRE</speaker>, à Lucas.</hstage>
+<p>C’est lui assurément.</p>
+
+<hstage><speaker>LUCAS</speaker>, à Valère.</hstage>
+<p>Le v’là tout craché comme on nous l’a défiguré.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<pstage>Ici il pose sa bouteille à terre ; et, Valère se baissant pour le saluer, comme il croit que c’est à dessein de la prendre, il la met de l’autre côté ; Lucas faisant la même chose, il la reprend et la tient contre son estomac, avec divers gestes qui font un jeu de théâtre.</pstage>
+<p>Ils consultent en me regardant. Quel dessein auroient-ils ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Monsieur, n’est-ce pas vous qui vous appelez Sganarelle ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh quoi ? !</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Je vous demande si ce n’est pas vous qui se nomme Sganarelle.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, se tournant vers Valère, puis vers Lucas.</hstage>
+<p>Oui et non, selon ce que vous lui voulez.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Nous ne voulons que lui faire toutes les civilités que nous pourrons.</p>
+
+<pagenum num="217"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>En ce cas, c’est moi qui se nomme Sganarelle.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Monsieur, nous sommes ravis de vous voir. On nous a adressés à vous pour ce que nous cherchons ; et nous venons implorer votre aide, dont nous avons besoin.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Si c’est quelque chose, messieurs, qui dépende de mon petit négoce, je suis tout prêt à vous rendre service.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Monsieur, c’est trop de grâce que vous nous faites. Mais, monsieur, couvrez-vous, s’il vous plaît ; le soleil pourroit vous incommoder.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Monsieu, boutez dessus.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Voici des gens bien pleins de cérémonie. <stage>Il se couvre.</stage></p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Monsieur, il ne faut pas trouver étrange que nous venions à vous, les habiles gens sont toujours recherchés, et nous sommes instruits de votre capacité.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il est vrai, messieurs, que je suis le premier homme du monde pour faire des fagots.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Ah ! monsieur !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je n’y épargne aucune chose, et les fais d’une façon qu’il n’y a rien à dire.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Monsieur, ce n’est pas cela dont il est question.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mais aussi je les vends cent dix sous le cent.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Ne parlons point de cela, s’il vous plaît.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous promets que je ne saurois les donner à moins.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Monsieur, nous savons les choses.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Si vous savez les choses, vous savez que je les vends cela.</p>
+
+<pagenum num="218"/>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Monsieur, c’est se moquer que...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je ne me moque point, je n’en puis rien rabattre.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Parlons d’autre façon, de grâce.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous en pourrez trouver autre part à moins ; il y a fagots et fagots : mais pour ceux que je fais...</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Eh ! monsieur, laissons là ce discours.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous jure que vous ne les auriez pas, s’il s’en falloit un double.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Eh ! fi !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, en conscience ; vous en payerez cela. Je vous parle sincèrement, et ne suis pas homme à surfaire.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Faut-il, monsieur, qu’une personne comme vous s’amuse à ces grossières feintes, s’abaisse à parler de la sorte ! qu’un homme si savant, un fameux médecin comme vous êtes, veuille se déguiser aux yeux du monde, et tenir enterrés les beaux talents qu’il a !</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Il est fou.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>De grâce, monsieur, ne dissimulez point avec nous.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Tout ce tripotage ne sart de rian ; je savons ce que je savons.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quoi donc ! que me voulez-vous dire ? Pour qui me prenez-vous ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Pour ce que vous êtes, pour un grand médecin.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Médecin vous-même ; je ne le suis point, et je ne l’ai jamais été.</p>
+
+<pagenum num="219"/>
+
+<hstage><speaker>VALÈRE</speaker>, bas.</hstage>
+<p>Voilà sa folie qui le tient. <stage>Haut.</stage> Monsieur, ne veuillez point nier les choses davantage ; et n’en venons point, s’il vous plaît, à de fâcheuses extrémités.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>A quoi donc ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>A de certaines choses dont nous serions marris.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Parbleu ! venez-en à tout ce qu’il vous plaira ; je ne suis point médecin, et ne sais ce que vous me voulez dire.</p>
+
+<hstage><speaker>VALÈRE</speaker>, bas.</hstage>
+<p>Je vois bien qu’il faut se servir du remède. <stage>Haut.</stage> Monsieur, encore un coup, je vous prie d’avouer ce que vous êtes.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Eh ! tétigué ! ne lantiponez point davantage, et confessez à la franquette que v’s êtes médecin.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>J’enrage !</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>A quoi bon nier ce qu’on sait ?</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Pourquoi toutes ces fraimes-là ? A quoi est-ce que ça vous sart ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Messieurs, en un mot autant qu’en deux mille, je vous dis que je ne suis point médecin.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Vous n’êtes point médecin ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>V’ n’êtes pas médecin ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, vous dis-je !</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Puisque vous le voulez, il faut donc s’y résoudre. <stage>Ils prennent chacun un bâton et le frappent.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! ah ! messieurs ! je suis tout ce qu’il vous plaira.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Pourquoi, monsieur, nous obligez-vous à cette violence ?</p>
+
+<pagenum num="220"/>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>A quoi bon nous bailler la peine de vous battre ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Je vous assure que j’en ai tous les regrets du monde.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Par ma figué ! j’en sis fâché, franchement.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Que diable est ceci, messieurs ? De grâce, est-ce pour rire, ou si tous deux vous extravaguez, de vouloir que je sois médecin ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Quoi ! vous ne vous rendez pas encore, et vous vous défendez d’être médecin ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Diable emporte si je le suis !</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Il n’est pas vrai qu’ous sayez médecin ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, la peste m’étouffe ! <stage>Ils recommencent à le battre.</stage> Ah ! ah ! Eh bien, messieurs, oui, puisque vous le voulez, je suis médecin, je suis médecin ; apothicaire encore, si vous le trouvez bon. J’aime mieux consentir à tout que de me faire assommer.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Ah ! voilà qui va bien, monsieur : je suis ravi de vous voir raisonnable.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Vous me boutez la joie au cœur, quand je vous vois parler comme ça.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Je vous demande pardon de toute mon âme.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Je vous demandons excuse de la libarté que j’avons prise.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Ouais ! seroit-ce bien moi qui me tromperois, et serois-je devenu médecin sans m’en être aperçu ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Monsieur, vous ne vous repentirez pas de nous montrer ce que vous êtes ; et vous verrez assurément que vous en serez satisfait.</p>
+
+<pagenum num="221"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mais, messieurs, dites-moi, ne vous trompez-vous point vous-mêmes ? Est-il bien assuré que je sois médecin ?</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Oui, par ma figué !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tout de bon ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Sans doute.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Diable emporte si je le savois !</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Comment ! vous êtes le plus habile médecin du monde.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Un médecin qui a gari je ne sais combien de maladies.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tudieu !</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Une femme étoit tenue pour morte il y avoit six heures ; elle étoit prête à ensevelir, lorsque, avec une goutte de quelque chose, vous la fîtes revenir et marcher d’abord par la chambre.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Peste !</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Un petit enfant de douze ans se laissit choir du haut d’un clocher, de quoi il eut la tête, les jambes et les bras cassés : et vous, avec je ne sais quel onguent, vous fîtes qu’aussitôt il se relevit sur ses pieds, et s’en fut jouer à la fossette.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Diantre !</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Enfin, monsieur, vous aurez contentement avec nous et vous gagnerez ce que vous voudrez, en vous laissant conduire où nous prétendons vous mener.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je gagnerai ce que je voudrai ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Oui.</p>
+
+<pagenum num="222"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! je suis médecin, sans contredit. Je l’avois oublié ; mais je m’en ressouviens. De quoi est-il question ? Ou faut-il se transporter ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Nous vous conduirons. Il est question d’aller voir une fille qui a perdu la parole.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, je ne l’ai pas trouvée.</p>
+
+<hstage><speaker>VALÈRE</speaker>, bas, à Lucas</hstage>
+<p>Il aime à rire. <stage>A Sganarelle.</stage> Allons, monsieur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Sans une robe de médecin ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Nous en prendrons une.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, présentant sa bouteille à Valère.</hstage>
+<p>Tenez cela, vous : voilà où je mets mes juleps. <stage>Puis se tournant vers Lucas en crachant.</stage> Vous, marchez là-dessus, par ordonnance du médecin.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Palsanguenne ! v’là un médecin qui me plaît ; je pense qu’il réussira, car il est bouffon.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p09">ACTE SECOND</h2>
+
+<p>Le théâtre représente une chambre de la maison de Géronte.</p>
+
+<h3 id="p10">SCÈNE I. — GÉRONTE, VALÈRE, LUCAS, JACQUELINE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Oui, monsieur, je crois que vous serez satisfait ; et nous vous avons amené le plus grand médecin du monde.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Oh ! morguenne ! il faut tirer l’échelle après ceti-là, et tous les autres ne sont pas daignes de li déchausser ses souliers.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>C’est un homme qui a fait des cures merveilleuses.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Qui a gari des gens qui étiant morts.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Il est un peu capricieux, comme je vous ai dit ; et, parfois, il <pagenum num="223"/>a des moments où son esprit s’échappe, et ne paroît pas ce qu’il est.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Oui, il aime à bouffonner ; et l’an diroit parfois, ne v’s en déplaise, qu’il a quelque petit coup de hache à la tête.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Mais, dans le fond, il est toute science ; et bien souvent il dit des choses tout à fait relevées.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Quand il s’y boute, il parle tout fin drait comme s’il lisoit dans un livre.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Sa réputation s’est déjà répandue ici ; et tout le monde vient à lui<noteref noteid="note.223.1"/>.</p>
+
+<notes>
+  <note id="note.223.1">
+    <p>Ceci prépare la seconde scène du troisième acte ou nous verrons Thibaut et Perrin venir demander des remèdes à Sganarelle.</p>
+  </note>
+</notes>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je meurs d’envie de le voir ; faites-le moi vite venir.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Je le vais quérir.</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Par ma fi, monsieu, ceti-ci fera justement ce qu’ant fait les autres. Je pense que ce sera quessi queumi ; et la meilleure médeçaine que l’an pourroit bailler à votre fille, ce seroit, selon moi, un biau et bon mari, pour qui aile eût de l’amiquié.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ouais ! nourrice, ma mie, vous vous mêlez de bien des choses !</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Taisez-vous, notre minagère Jacquelaine ; ce n’est pas à vous à bouter là votre nez.</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Je vous dis et vous douze que tous ces médecins n’y feront rian que de l’iau claire ; que votre fille a besoin d’autre chose que de rhibarbe et de séné, et qu’un mari est un emplâtre qui garit tous les maux des filles.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Est-elle en état maintenant qu’on s’en voulût charger, avec l’infirmité qu’elle a ? Et lorsque j’ai été dans le dessein de la marier, ne s’est-elle pas opposée à mes volontés ?</p>
+
+<pagenum num="224"/>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Je le crois bian ; vous l’y vouliez bailler eun homme qu’aile n’aime point. Que ne preniais-vous ce monsieu Liandre, quili touchoit au cœur ? aile auroit été fort obéissante ; et je m’en vas gager qu’il la prendroit, li, comme aile est, si vous la li vouillais donner.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ce Léandre n’est pas ce qu’il faut ; il n’a pas du bien comme l’autre.</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Il a eun oncle qui est si riche, dont il est hériquié !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tous ces biens à venir me semblent autant de chansons. Il n’est rien tel que ce qu’on tient ; et l’on court grand risque de s’abuser, lorsque l’on compte sur le bien qu’un autre vous garde. La mort n’a pas toujours les oreilles ouvertes aux vœux et aux prières de messieurs les héritiers ; et l’on a le temps d’avoir les dents longues, lorsqu’on attend pour vivre le trépas de quelqu’un.</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Enfin, j’ai toujours ouï dire qu’en mariage, comme ailleurs, contentement passe richesse. Les pères et les mères ant cette maudite couteume de demander toujours : Qu’a-t-il ? et Qu’a-t-elle ? et le compère Piarre a marié sa fille Simonette au gros Thomas pour un quartier de vaigne qu’il avoit davantage que le jeune Robin, où elle avoit bouté son amiquié ; et v’là que la pauvre criature en est devenue jaune comme un coing, et n’a pas profité tout depuis ce temps-là. C’est un bel exemple pour vous, monsieu. On n’a que son plaisir en ce monde ; et j’aimerois mieux bailler à ma fille eun bon mari qui li fût agriable, que toutes les rentes de la Biausse.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Peste ! madame la nourrice, comme vous dégoisez ! Taisez-vous, je vous prie ; vous prenez trop de soin, et vous échauffez votre lait.</p>
+
+<hstage><speaker>LUCAS</speaker>, frappant, à chaque phrase qu’il dit, sur l’épaule de Géronte.</hstage>
+<p>Morgué ! tais-toi, t’es eune impartinente. Monsieu n’a que faire de tes discours, et il sait ce qu’il a à faire. Mêle-toi de donner à teter à ton enfant, sans tant faire la raisonneuse. Monsieu est le père de sa fille ; et il est bon et sage pour voir ce qu’il li faut.</p>
+
+<pagenum num="225"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tout doux ! Oh ! tout doux !</p>
+
+<hstage><speaker>LUCAS</speaker>, frappant encore sur l’épaule de Géronte.</hstage>
+<p>Monsieu, je veux un peu la mortifier, et li apprendre le respect qu’alle vous doit.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui ; mais ces gestes ne sont pas nécessaires.</p>
+
+<h3 id="p11">SCÈNE II. — VALÈRE, SGANARELLE, GÉRONTE, LUCAS, JACQUELINE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Monsieur, préparez-vous. Voici notre médecin qui entre.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, à Sganarelle.</hstage>
+<p>Monsieur, je suis ravi de vous voir chez moi, et nous avons grand besoin de vous.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, en robe de médecin, avec un chapeau des plus pointus.</hstage>
+<p>Hippocrate dit... que nous nous couvrions tous deux.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Hippocrate dit cela ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Dans quel chapitre, s’il vous plaît ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Dans son chapitre... des chapeaux.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Puisque Hippocrate le dit, il le faut faire.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur le médecin, ayant appris les merveilleuses choses...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>A qui parlez-vous, de grâce ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>A vous.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je ne suis pas médecin.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous n’êtes pas médecin ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Non, vraiment.</p>
+
+<pagenum num="226"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tout de bon ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tout de bon. <stage>Sganarelle prend un bâton, et bat Géronte comme on l’a battu.</stage> Ah ! ah ! ah !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous êtes médecin maintenant ; je n’ai jamais eu d’autres licences.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, à Valère.</hstage>
+<p>Quel diable d’homme m’avez-vous là amené ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Je vous ai bien dit que c’étoit un médecin goguenard.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui ; mais je l’enverrois promener avec ses goguenarderies.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Ne prenez pas garde à ça, monsieu ; ce n’est que pour rire.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Cette raillerie ne me plaît pas.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, je vous demande pardon de la liberté que j’ai prise.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Monsieur, je suis votre serviteur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je suis fâché...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Cela n’est rien.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Des coups de bâton...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Il n’y a pas de mal.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Que j’ai eu l’honneur de vous donner.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ne parlons plus de cela. Monsieur, j’ai une fille qui est tombée dans une étrange maladie.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je suis ravi, monsieur, que votre fille ait besoin de moi ; et je souhaiterois de tout mon cœur que vous en eussiez besoin aussi, vous et toute votre famille, pour vous témoigner l’envie que j’ai de vous servir.</p>
+
+<pagenum num="227"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je vous suis obligé de ces sentiments.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous assure que c’est du meilleur de mon âme que je vous parle.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>C’est trop d’honneur que vous me faites.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Comment s’appelle votre fille ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Lucinde.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Lucinde ! Ah ! beau nom à médicamenter ! Lucinde !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je m’en vais voir un peu ce qu’elle fait.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qui est cette grande femme-là ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>C’est la nourrice d’un petit enfant que j’ai.</p>
+
+<h3 id="p12">SCÈNE III. — SGANARELLE, JACQUELINE, LUCAS</h3>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>Peste ! le joli meuble que voilà ! <stage>Haut.</stage> Ah ! nourrice, charmante nourrice, ma médecine est la très humble esclave de votre nourricerie, et je voudrois bien être le petit poupon fortuné qui tetât le lait de vos bonnes grâces. <stage>Il lui porte la main sur le sein.</stage> Tous mes remèdes, toute ma science, toute ma capacité est à votre service ; et...</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Avec votre parmission, monsieu le médecin, laissez là ma femme, je vous prie.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quoi ! elle est votre femme.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! vraiment, je ne savois pas cela, et je m’en réjouis pour l’amour de l’un et de l’autre. <stage>Il fait semblant de vouloir embrasser Lucas, et embrasse la nourrice.</stage></p>
+<hstage><speaker>LUCAS</speaker>, tirant Sganarelle, et se remettant entre lui et sa femme.</hstage>
+<p>Tout doucement, s’il vous plaît.</p>
+
+<pagenum num="228"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous assure que je suis ravi que vous soyez unis ensemble : je la félicite d’avoir un mari comme vous ; et je vous félicite, vous, d’avoir une femme si belle, si sage, et si bien faite comme elle est. <stage>Faisant encore semblant d’embrasser Lucas, qui lui tend les bras, il passe dessous, et embrasse encore la nourrice.</stage></p>
+
+<hstage><speaker>LUCAS</speaker>, le tirant encore.</hstage>
+<p>Eh ! tétigué ! point tant de compliments, je vous supplie.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ne voulez-vous pas que je me réjouisse avec vous d’un si bel assemblage ?</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Avec moi tant qu’il vous plaira, mais avec ma femme, trêve de sarimonie.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je prends part également au bonheur de tous deux : et, si je vous embrasse pour vous témoigner ma joie, je l’embrasse de même pour lui en témoigner aussi. <stage>Il continue le même jeu.</stage></p>
+
+<hstage><speaker>LUCAS</speaker>, le tirant pour la troisième fois.</hstage>
+<p>Ah ! vartigué, monsieu le médecin, que de lantiponages<noteref noteid="note.228.1"/> !</p>
+
+<notes>
+  <note id="note.228.1">
+    <p>De <i>lantiponer</i>, chicaner, importuner.</p>
+  </note>
+</notes>
+
+<h3 id="p13">SCÈNE IV. — GÉRONTE, SGANARELLE, LUCAS, JACQUELINE</h3>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Monsieur, voici tout à l’heure ma fille qu’on va vous amener.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je l’attends, monsieur, avec toute la médecine.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Où est-elle ?</p>
+
+<hstage><speaker>SGANARELLE</speaker>, se touchant le front.</hstage>
+<p>Là dedans.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, en voulant toucher les tetons de la nourrice.</hstage>
+<p>Mais, comme je m’intéresse à toute votre famille, il faut que j’essaye un peu le lait de votre nourrice, et que je visite son sein. <stage>Il s’approche de Jacqueline.</stage></p>
+
+<pagenum num="229"/>
+
+<hstage><speaker>LUCAS</speaker>, le tirant et lui faisant faire la pirouette. </hstage>
+<p>>Nannain, nannain ; je n’avons que faire de ça.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est l’office du médecin de voir les tetons des nourrices.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Il gnia office qui quienne, je sis votre sarviteur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>As-tu bien la hardiesse de t’opposer au médecin ? Hors de là !</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Je me moque de ça.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, en le regardant de travers.</hstage>
+<p>Je te donnerai la fièvre.</p>
+
+<hstage><speaker>JACQUELINE</speaker>, prenant Lucas par le bras, et lui faisant faire aussi la pirouette.</hstage>
+<p>Ote-toi de là aussi ; est-ce que je ne sis pas assez grande pour me défendre moi-même, s’il me fait queuque chose qui ne soit pas à faire ?</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Je ne veux pas qu’il te tâte, moi.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Fi, le vilain, qui est jaloux de sa femme !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Voici ma fille.</p>
+
+<h3 id="p14">SCÈNE V. — LUCINDE, GÉRONTE, SGANARELLE, VALÈRE, LUCAS, JACQUELINE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Est-ce là la malade ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui. Je n’ai qu’elle de fille ; et j’aurois tous les regrets du monde si elle venoit à mourir.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qu’elle s’en garde bien ! Il ne faut pas qu’elle meure sans l’ordonnance du médecin.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Allons, un siège,</p>
+
+<hstage><speaker>SGANARELLE</speaker>, assis entre Géronte et Lucinde.</hstage>
+<p>Voilà une malade qui n’est pas tant dégoûtante, et je tiens qu’un homme bien sain s’en accommoderoit assez.</p>
+
+<pagenum num="230"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Vous l’avez fait rire, monsieur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tant mieux : lorsque le médecin fait rire le malade, c’est le meilleur signe du monde. <stage>A Lucinde.</stage> Eh bien, de quoi est-il question ? Qu’avez-vous ? quel est le mal que vous sentez ?</p>
+
+<hstage><speaker>LUCINDE</speaker> répond par signes, en portant la main à sa bouche, à sa tête, et sous son menton.</hstage>
+<p>Han, hi, hon, han.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh ! que dites-vous ?</p>
+
+<hstage><speaker>LUCINDE</speaker>, continue les mêmes gestes.</hstage>
+<p>Han, hi, hon, han, han, hi, hon.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quoi ?</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>Han, hi, hon.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, la contrefaisant.</hstage>
+<p>Han, hi, hon, han, ha. Je ne vous entends point. Quel diable de langage est-ce là ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Monsieur, c’est là sa maladie. Elle est devenue muette, sans que jusques ici on en ait pu savoir la cause ; et c’est un accident qui a fait reculer son mariage.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Et pourquoi ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Celui qu’elle doit épouser veut attendre sa guérison pour conclure les choses.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Et qui est ce sot-là, qui ne veut pas que sa femme soit muette ? Plût à Dieu que la mienne eût cette maladie ! je me garderois bien de la vouloir guérir.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Enfin, monsieur, nous vous prions d’employer tous vos soins pour la soulager de son mal.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! ne vous mettez pas en peine. Dites-moi un peu : ce mal l’oppresse-t-il beaucoup ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui, monsieur.</p>
+
+<pagenum num="231"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tant mieux. Sent-elle de grandes douleurs ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Fort grandes.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est fort bien fait. Va-t-elle où vous savez ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Copieusement ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je n’entends rien à cela.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>La matière est-elle louable ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je ne me connois pas à ces choses.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, se tournant vers la malade.</hstage>
+<p>Donnez-moi votre bras. <stage>A Géronte.</stage> Voilà un pouls qui marque que votre fille est muette.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Eh ! oui, monsieur, c’est là son mal ; vous l’avez trouvé tout du premier coup.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Voyez comme il a deviné sa maladie !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Nous autres grands médecins, nous connoissons d’abord les choses. Un ignorant auroit été embarrassé, et vous eût été dire : C’est ceci, c’est cela ; mais moi, je touche au but du premier coup, et je vous apprends que votre fille est muette.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui ; mais je voudrois bien que vous me pussiez dire d’où cela vient.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il n’est rien de plus aisé ; cela vient de ce qu’elle a perdu la parole.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Fort bien. Mais la cause, s’il vous plaît, qui fait qu’elle a perdu la parole ?</p>
+
+<pagenum num="232"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tous nos meilleurs auteurs vous diront que c’est l’empêchement de l’action de sa langue.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mais encore, vos sentiments sur cet empêchement de l’action de la langue ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Aristote, là-dessus, dit... de fort belles choses.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je le crois.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! c’étoit un grand homme !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Sans doute.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Grand homme tout à fait... <stage>Levant le bras depuis le coude.</stage> Un homme qui étoit plus grand que moi de tout cela. Pour revenir donc à notre raisonnement, je tiens que cet empêchement de l’action de sa langue est causé par de certaines humeurs, qu’entre nous autres savants nous appelons humeurs peccantes ; peccantes, c’est-à-dire... humeurs peccantes ; d’autant que les vapeurs formées par les exhalaisons des influences qui s’élèvent dans la région des maladies, venant... pour ainsi dire... à... Entendez-vous le latin ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>En aucune façon.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, se levant brusquement.</hstage>
+<p>Vous n’entendez point le latin ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, en faisant diverses plaisantes postures.</hstage>
+<p><i>Cabricias, arci thuram, catalamus, singulariter, nominativo, hœc musa, <r>la muse</r>, bonus, bona, bonum. Deus sanctus, est-ne oratio latinas ? Etiam, <r>oui</r>. Quare ? <r>pourquoi ?</r> Quia substantivo, et adjectivum, concordat in generi, numerum, et casus<noteref noteid="note.232.1"/>.</i></p>
+
+<notes>
+  <note id="note.232.1">
+    <p>Les quatre premiers mots de cette tirade prétendue latine sont des mots forgés qui n’appartiennent à aucune langue. Le reste est une citation estropiée de quelques lignes du rudiment de Despautère, et principalement de ce passage : « Deus sanctus, est-ne oratio latina ? Etiam. Quare ? Quia adjectivum et substantivum concordant in genere, numero, casu ». (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ah ! que n’ai-je étudié !</p>
+
+<pagenum num="233"/>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>L’habile homme que vlà !</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Oui, ça est si biau, que je n’y entends goutte.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Or, ces vapeurs dont je vous parle venant à passer, du côté gauche où est le foie, au côté droit où est le cœur, il se trouve que le poumon, que nous appelons en latin <i>armyan,</i> ayant communication avec le cerveau, que nous nommons en grec <i>nasmus,</i> par le moyen de la veine cave, que nous appelons en hébreu <i>cubile,</i> rencontre en son chemin lesdites vapeurs qui remplissent les ventricules de l’omoplate ; et parce que lesdites vapeurs... comprenez bien ce raisonnement, je vous prie ; et parce que lesdites vapeurs ont certaine malignité... écoutez bien ceci, je vous conjure.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ont une certaine malignité qui est causée... soyez attentif, s’il vous plaît.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je le suis.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qui est causée par l’âcreté des humeurs engendrées dans la concavité du diaphragme, il arrive que ces vapeurs... <i>Ossabandus, nequeis, nequer, potarinum, quipsa mihis.</i> Voilà justement ce qui fait que votre fille est muette.</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Ah ! que ça est bian dit, notre homme !</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Que n’ai-je la langue aussi bian pendue !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>On ne peut pas mieux raisonner, sans doute. Il n’y a qu’une seule chose qui m’a choqué : c’est l’endroit du foie et du cœur. Il me semble que vous les placez autrement qu’ils ne sont ; que le cœur est du côté gauche, et le foie du côté droit.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui ; cela étoit autrefois ainsi : mais nous avons changé tout cela, et nous faisons maintenant la médecine d’une méthode toute nouvelle.</p>
+
+<pagenum num="234"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>C’est ce que je ne savois pas, et je vous demande pardon de mon ignorance.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il n’y a point de mal ; et vous n’êtes pas obligé d’être aussi habile que nous.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Assurément. Mais, monsieur, que croyez-vous qu’il faille faire à cette maladie ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ce que je crois qu’il faille faire ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Mon avis est qu’on la remette sur son lit, et qu’on lui fasse prendre pour remède quantité de pain trempé dans du vin.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Pourquoi cela, monsieur ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Parce qu’il y a dans le vin et le pain, mêlés ensemble, une vertu sympathique qui fait parler. Ne voyez-vous pas bien qu’on ne donne autre chose aux perroquets, et qu’ils apprennent à parler en mangeant de cela ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Cela est vrai ! Ah ! le grand homme ! Vite, quantité de pain et de vin.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je reviendrai voir sur le soir en quel état elle sera.</p>
+
+<h3 id="p15">SCÈNE VI. — GÉRONTE, SGANARELLE, JACQUELINE</h3>
+
+<hstage><speaker>SGANARELLE</speaker>, à Jacqueline.</hstage>
+<p>Doucement, vous. <stage>A Géronte.</stage> Monsieur, voilà une nourrice à laquelle il faut que je fasse quelques petits remèdes.</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Qui ? moi ? Je me porte le mieux du monde.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tant pis, nourrice ; tant pis. Cette grande santé est à craindre, et il ne sera pas mauvais de vous faire quelque petite saignée amiable, de vous donner quelque petit clystère dulcifiant.</p>
+
+<pagenum num="235"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mais, monsieur, voilà une mode que je ne comprends point. Pourquoi s’aller faire saigner quand on n’a point de maladie ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il n’importe, la mode en est salutaire ; et, comme on boit pour la soif à venir, il faut se faire aussi saigner pour la maladie à venir<noteref noteid="note.235.1"/>.</p>
+
+<notes>
+  <note id="note.235.1">
+    <p>C’était exactement la médecine du temps, qui ordonnait sans cesse des purgations ou des saignées de précaution. On voit, dans les <i>Mémoires</i> de Dangeau, que Louis XIV prenait médecine chaque mois, <i>pour la maladie à venir</i> comme dit Sganarelle. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>JACQUELINE</speaker>, en s’en allant.</hstage>
+<p>Ma fi, je me moque de ça, et je ne veux point faire de mon corps une boutique d’apothicaire.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous êtes rétive aux remèdes ; mais nous saurons vous soumettre à la raison.</p>
+
+<h3 id="p16">SCÈNE VII. — GÉRONTE, SGANARELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous donne le bonjour.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Attendez un peu, s’il vous plaît.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Que voulez-vous faire ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Vous donner de l’argent, monsieur.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, tendant sa main derrière, par-dessous sa robe, tandis que Géronte ouvre sa bourse.</hstage>
+<p>Je n’en prendrai pas, monsieur.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Monsieur...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Point du tout.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Un petit moment.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>En aucune façon.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>De grâce !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous vous moquez.</p>
+
+<pagenum num="236"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Voilà qui est fait.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je n’en ferai rien.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Eh !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ce n’est pas l’argent qui me fait agir.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je le crois.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, après avoir pris l’argent.</hstage>
+<p>Cela est-il de poids ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui, monsieur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je ne suis pas un médecin mercenaire.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je le sais bien.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>L’intérêt ne me gouverne point.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je n’ai pas cette pensée.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, seul, regardant l’argent qu’il a reçu.</hstage>
+<p>Ma foi cela ne va pas mal ; et pourvu que...</p>
+
+<h3 id="p17">SCÈNE VIII. — LÉANDRE, SGANARELLE</h3>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Monsieur, il y a longtemps que je vous attends ; et je viens implorer votre assistance.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, lui tâtant le pouls.</hstage>
+<p>Voilà un pouls qui est fort mauvais.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Je ne suis point malade, monsieur ; et ce n’est pas pour cela que je viens à vous.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Si vous n’êtes pas malade, que diable ne le dites-vous donc ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Non. Pour vous dire la chose en deux mots, je m’appelle Léandre, qui suis amoureux de Lucinde, que vous venez de visiter ; et comme, par la mauvaise humeur de son père, toute sorte d’accès m’est fermé auprès d’elle, je me hasarde à vous <pagenum num="237"/>prier de vouloir servir mon amour, et de me donner lieu d’exécuter un stratagème que j’ai trouvé pour lui pouvoir dire deux mots, d’où dépendent absolument mon bonheur et ma vie.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, paroissant en colère.</hstage>
+<p>Pour qui me prenez-vous ? Comment ! oser vous adresseï à moi pour vous servir dans votre amour, et vouloir ravaler la dignité de médecin à des emplois de cette nature !</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Monsieur, ne faites point de bruit.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, en le faisant reculer.</hstage>
+<p>J’en veux faire, moi. Vous êtes un impertinent !</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Eh ! monsieur, doucement.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Un malavisé !</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>De grâce !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous apprendrai que je ne suis point homme à cela, et que c’est une insolence extrême...</p>
+
+<hstage><speaker>LÉANDRE</speaker>, tirant une bourse.</hstage>
+<p>Monsieur...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>De vouloir m’employer... <stage>Tenant la bourse.</stage> Je ne parle pas pour vous, car vous êtes honnête homme ; et je serois ravi de vous rendre service : mais il y a de certains impertinents au monde qui viennent prendre les gens pour ce qu’ils ne sont pas, et je vous avoue que cela me met en colère.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Je vous demande pardon, monsieur, de la liberté que...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous vous moquez. De quoi est-il question ?</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Vous saurez donc, monsieur, que cette maladie que vous voulez guérir est une feinte maladie. Les médecins ont raisonné là-dessus comme il faut ; et ils n’ont pas manqué de dire que cela procédoit, qui du cerveau, qui des entrailles, qui de la rate, qui du foie<noteref noteid="note.237.1"/> : mais il est certain que l’amour en est la véritable cause, et que Lucinde n’a trouvé cette maladie que <pagenum num="238"/>pour se délivrer d’un mariage dont elle étoit importunée. Mais, de crainte qu’on ne nous voie ensemble, retirons-nous d’ici, et je vous dirai en marchant ce que je souhaite de vous.</p>
+
+<notes>
+  <note id="note.237.1">
+    <p><i>Qui</i>, pronom distributif, signifie <i>celui-ci, celui-là</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Allons, monsieur, vous m’avez donné pour votre amour une tendresse qui n’est pas concevable ; et j’y perdrai toute ma médecine, ou la malade crèvera, ou bien elle sera à vous.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p18">ACTE TROISIÈME</h2>
+
+<p>Le théâtre représente un lieu voisin de la maison de Géronte.</p>
+
+<h3 id="p19">SCÈNE I. — LÉANDRE, SGANARELLE</h3>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Il me semble que je ne suis pas mal ainsi pour un apothicaire ; et, comme le père ne m’a guère vu, ce changement d’habit et de perruque est assez capable, je crois, de me déguiser à ses yeux.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Sans doute.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Tout ce que je souhaiterois seroit de savoir cinq ou six grands mots de médecine, pour parer mon discours et me donner l’air d’habile homme.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Allez, allez, tout cela n’est pas nécessaire ; il suffit de l’habit : et je n’en sais pas plus que vous.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Comment ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Diable emporte si j’entends rien en médecine ! Vous êtes honnête homme, et je veux bien me confier à vous comme vous vous confiez à moi.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Quoi ! vous n’êtes pas effectivement...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Non, vous dis-je ; ils m’ont fait médecin malgré mes dents. Je ne m’étois jamais mêlé d’être si savant que cela ; et toutes mes études n’ont été que jusqu’en sixième. Je ne sais point sur quoi cette imagination leur est venue ; mais, quand j’ai vu qu’à toute force ils vouloient que je fusse médecin, je me suis <pagenum num="239"/>résolu de l’être aux dépens de qui il appartiendra. Cependant, vous ne sauriez croire comment l’erreur s’est répandue, et de quelle façon chacun est endiablé à me croire habile homme. On me vient chercher de tous côtés ; et, si les choses vont toujours de même, je suis d’avis de m’en tenir toute la vie à la médecine. Je trouve que c’est le métier le meilleur de tous ; car, soit qu’on fasse bien, ou soit qu’on fasse mal, on est toujours payé de même sorte. La méchante besogne ne retombe jamais sur notre dos ; et nous taillons comme il nous plaît sur l’étoffe où nous travaillons. Un cordonnier, en faisant des souliers, ne sauroit gâter un morceau de cuir, qu’il n’en paye les pots cassés ; mais ici l’on peut gâter un homme sans qu’il en coûte rien. Les bévues ne sont point pour nous, et c’est toujours la faute de celui qui meurt. Enfin le bon de cette profession est qu’il y a parmi les morts une honnêteté, une discrétion la plus grande du monde ; et jamais on n’en voit se plaindre du médecin qui l’a tué.</p>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Il est vrai que les morts sont fort honnêtes gens sur cette matière.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, voyant des hommes qui viennent à lui.</hstage>
+<p>Voilà des gens qui ont la mine de me venir consulter. <stage>A Lêandre.</stage> Allez toujours m’attendre auprès du logis de votre maîtresse.</p>
+
+<h3 id="p20">SCÈNE II. — THIBAUT, PERRIN, SGANARALLE</h3>
+
+<hstage><speaker>THIBAUT</speaker></hstage>
+<p>Monsieu, je venons vous charcher, mon fils Perrin et moi.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qu’y a-t-il ?</p>
+
+<hstage><speaker>THIBAUT</speaker></hstage>
+<p>Sa pauvre mère, qui a nom Parrette, est dans un lit, malade il y a six mois.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, tendant la main comme pour recevoir de l’argent.</hstage>
+<p>Que voulez-vous que j’y fasse ?</p>
+
+<hstage><speaker>THIBAUT</speaker></hstage>
+<p>Je voudrions, monsieu, que vous nous baillissiez queuque petite droguerie pour la garir.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il faut voir de quoi est-ce qu’elle est malade.</p>
+
+<pagenum num="240"/>
+
+<hstage><speaker>THIBAUT</speaker></hstage>
+<p>Aile est malade d’hypocrisie, monsieu.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>D’hypocrisie ?</p>
+
+<hstage><speaker>THIBAUT</speaker></hstage>
+<p>Oui, c’est-à-dire qu’alle est enflée partout ; et l’an dit que c’est quantité de sériosités qu’alle a dans le corps, et que son foie, son ventre, ou sa rate, comme vous voudrois l’appeler, au glieu de faire du sang, ne fait plus que de l’iau. Aile a, de deux jours l’un, la fièvre quotiguienne, avec des lassitudes et des douleurs dans les mufles des jambes. On entend dans sa gorge des fleumes qui sont tout prêts à l’étouffer ; et parfois il li prend des syncoles et des conversions, que je crayons qu’alle est passée. J’avons dans notre village un apothicaire, révérence parler, qui li a donné je ne sais combien d’histoires ; et il m’en coûte plus d’eune douzaine de bons écus en lavements, ne v’s en déplaise, en aposthumes qu’on li a fait prendre, en infections de jacinthe, et en portions cordales. Mais tout ça, comme dit l’autre, n’a été que de l’onguent miton-mitaine. Il veloit li bailler d’eune certaine drogue que l’on appelle du vin amétile ; mais j’ai-z-eu peur franchement que ça l’envoyît <i>a patres ;</i> et l’an dit que ces gros médecins tuont je ne sais combien de monde avec cette invention-là.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, tendant toujours la main, et la branlant comme pour signe qu’il demande de l’argent</hstage>
+<p>Venons au fait, mon ami, venons au fait.</p>
+
+<hstage><speaker>THIBAUT</speaker></hstage>
+<p>Le fait est, monsieu, que je venons vous prier de nous dire ce qu’il faut que je fassions.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je ne vous entends point du tout.</p>
+
+<hstage><speaker>PERRIN</speaker></hstage>
+<p>Monsieu, ma mère est malade ; et v’là deux écus que je vous apportons pour nous bailler queuque remède.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! je vous entends, vous. Voilà un garçon qui parle clairement, et qui s’explique comme il faut. Vous dites que votre mère est malade d’hydropisie, qu’elle est enflée par tout le corps, qu’elle a la fièvre, avec des douleurs dans les jambes, et qu’il lui prend parfois des syncopes et des convulsions, c’est-à-dire des évanouissements ?</p>
+
+<pagenum num="241"/>
+
+<hstage><speaker>PERRIN</speaker></hstage>
+<p>Eh ! oui, monsieu, c’est justement ça.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>J’ai compris d’abord vos paroles. Vous avez un père qui ne sait ce qu’il dit. Maintenant vous me demandez un remède ?</p>
+
+<hstage><speaker>PERRIN</speaker></hstage>
+<p>Oui, monsieu.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Un remède pour la guérir ?</p>
+
+<hstage><speaker>PERRIN</speaker></hstage>
+<p>C’est comme je l’entendons.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tenez, voilà un morceau de fromage qu’il faut que vous lui fassiez prendre.</p>
+
+<hstage><speaker>PERRIN</speaker></hstage>
+<p>Du fromage, monsieu ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui, c’est un fromage préparé, où il entre de l’or, du corail et des perles, et quantité d’autres choses précieuses.</p>
+
+<hstage><speaker>PERRIN</speaker></hstage>
+<p>Monsieu, je vous sommes bien obligés ; et j’allons li faire prendre ça tout à l’heure.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Allez. Si elle meurt, ne manquez pas de la faire enterrer du mieux que vous pourrez.</p>
+
+<pstage>Le théâtre change, et représente, comme au second acte, une chambre de la maison de Géronte.</pstage>
+
+<h3 id="p21">SCÈNE III. — JACQUELINE, SGANARELLE ; LUCAS <i>dans le fond du théâtre.</i></h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Voici la belle nourrice. Ah ! nourrice de mon cœur, je suis ravi de cette rencontre ; et votre vue est la rhubarbe, la casse et le séné qui purgent toute la mélancolie de mon âme.</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Par ma figué, monsieu le médecin, ça est trop bian dit pour moi, et je n’entends rian à tout votre latin.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Devenez malade, nourrice, je vous prie ; devenez malade pour l’amour de moi. J’aurois toutes les joies du monde de vous guérir.</p>
+
+<pagenum num="242"/>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Je sis votre servante ; j’aime bian mieux qu’an ne me garisse pas.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Que je vous plains, belle nourrice, d’avoir un mari jaloux et fâcheux comme celui que vous avez !</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Que velez-vous, monsieu ? C’est pour la pénitence de mes fautes ; et là où la chèvre est liée, il faut bian qu’alle y broute.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Comment ! un rustre comme cela ! un homme qui vous observe toujours, et ne veut pas que personne vous parle !</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Hélas ! vous n’avez rian vu encore ; et ce n’est qu’un petit échantillon de sa mauvaise humeur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Est-il possible ? et qu’un homme ait l’âme assez basse pour maltraiter une personne comme vous ? Ah ! que j’en sais, belle nourrice, et qui ne sont pas loin d’ici, qui se tiendroient heureux de baiser seulement les petits bouts de vos petons ! Pourquoi faut-il qu’une personne si bien faite soit tombée en de telles mains ! et qu’un franc animal, un brutal, un stupide, un sot... pardonnez-moi, nourrice, si je parle de votre mari ainsi...</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Eh ! monsieu, je sais bian qu’il mérite tous ces noms-là.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui, sans doute, nourrice, il les mérite ; et il mériteroit encore que vous lui missiez quelque chose sur la tête, pour le punir des soupçons qu’il a.</p>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Il est bian vrai que si je n’avois devant les yeux que son intérêt, il pourroit m’obliger à queuque étrange chose.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, vous ne feriez pas mal de vous venger de lui avec quelqu’un. C’est un homme, je vous le dis, qui mérite bien cela ; et, si j’étois assez heureux, belle nourrice, pour être choisi pour... <stage>Dans le temps que Sganarelle tend les bras pour embrasser Jacqueline, Lucas passe sa tête par-dessous, et se met entre eux deux. Sganarelle et Jacqueline regardent Lucas, et sortent chacun de leur côté, mais le médecin d’une manière fort plaisante.</stage></p>
+
+<pagenum num="243"/>
+
+<h3 id="p22">SCÈNE IV. — GÉRONTE, LUCAS</h3>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Holà ! Lucas, n’as-tu point vu ici notre médecin ?</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Eh ! oui, de par tous les diantres, je l’ai vu, et ma femme aussi.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Où est-ce donc qu’il peut être ?</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Je ne sais ; mais je voudrois qu’il fût à tous les guèbles !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Va-t’en voir un peu ce que fait ma fille.</p>
+
+<h3 id="p23">SCÈNE V. — SGANARELLE, LÉANDRE, GÉRONTE</h3>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ah ! monsieur, je demandois où vous étiez.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je m’étois amusé dans votre cour à expulser le superflu de la boisson. Comment se porte la malade ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Un peu plus mal depuis votre remède.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tant mieux : c’est signe qu’il opère.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Oui ; mais, en opérant, je crains qu’il ne l’étouffe.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ne vous mettez pas en peine ; j’ai des remèdes qui se moquent de tout, et je l’attends à l’agonie.</p>
+
+<hstage><speaker>GÉRONTE</speaker>, montrant Léandre.</hstage>
+<p>Qui est cet homme-là que vous amenez ?</p>
+
+<hstage><speaker>SGANARELLE</speaker>, faisant des signes avec la main pour montrer que c’est un apothicaire.</hstage>
+<p>C’est...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Quoi ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Celui...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Eh ?</p>
+
+<pagenum num="244"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qui...</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je vous entends.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Votre fille en aura besoin.</p>
+
+<h3 id="p24">SCÈNE VI. — LUCINDE, GÉRONTE, LÉANDRE, JACQUELINE, SGANARELLE</h3>
+
+<hstage><speaker>JACQUELINE</speaker></hstage>
+<p>Monsieu, v’là votre fille, qui veut un peu marcher.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Cela lui fera du bien. Allez-vous-en, monsieur l’apothicaire, tâter un peu son pouls, afin que je raisonne tantôt avec vous de sa maladie. <stage>En cet endroit, il tire Géronte à un bout du théâtre, et, lui passant un bras sur les épaules, lui rabat la main sous le menton, avec laquelle il le fait retourner vers lui, lorsqu’il veut regarder ce que sa fille et l’apothicaire font ensemble, lui tenant cependant le discours suivant pour l’amuser.</stage> Monsieur, c’est une grande et subtile question entre les docteurs, de savoir si les femmes sont plus faciles à guérir que les hommes. Je vous prie d’écouter ceci, s’il vous plaît. Les uns disent que non, les autres disent que oui : et moi, je dis que oui et non ; d’autant que l’incongruité des humeurs opaques qui se rencontrent au tempérament naturel des femmes, étant cause que la partie brutale veut toujours prendre empire sur la sensitive, on voit que l’inégalité de leurs opinions dépend du mouvement oblique du cercle de la lune ; et comme le soleil, qui darde ses rayons sur la concavité de la terre, trouve...</p>
+
+<hstage><speaker>LUCINDE</speaker>, à Léandre.</hstage>
+<p>Non, je ne suis point du tout capable de changer de sentiment.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Voilà ma fille qui parle ! ô grande vertu du remède ! ô admirable médecin ! Que je vous suis obligé, monsieur, de cette guérison merveilleuse ! et que puis-je faire pour vous après un tel service ?</p>
+
+<hstage><speaker>SGANARELLE</speaker>, se promenant sur le théâtre, et s’éventant avec son chapeau.</hstage>
+<p>Voilà une maladie qui m’a bien donné de la peine !</p>
+
+<pagenum num="245"/>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>Oui, mon père, j’ai recouvré la parole ; mais je l’ai recouvrée pour vous dire que je n’aurai jamais d’autre époux que Léandre, et que c’est inutilement que vous voulez me donner Horace.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mais...</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>Rien n’est capable d’ébranler la résolution que j’ai prise.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Quoi !</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>Vous m’opposerez en vain de belles raisons</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Si...</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>Tous vos discours ne serviront de rien.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je...</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>C’est une chose où je suis déterminée.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mais...</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>Il n’est puissance paternelle qui me puisse obliger à me marier malgré moi.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>J’ai...</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>Vous avez beau faire tous vos efforts.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Il...</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>Mon cœur ne sauroit se soumettre à cette tyrannie.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>La...</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>Et je me jetterai plutôt dans un couvent que d’épouser un homme que je n’aime point.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mais...</p>
+
+<pagenum num="246"/>
+
+<hstage><speaker>LUCINDE</speaker>, parlant d’un ton de voix à étourdir.</hstage>
+<p>Non. En aucune façon. Point d’affaires. Vous perdez le temps. Je n’en ferai rien. Cela est résolu.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Ah ! quelle impétuosité de paroles ! Il n’y a pas moyen d’y résister. <stage>A Sganarelle.</stage> Monsieur, je vous prie de la faire redevenir muette.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est une chose qui m’est impossible. Tout ce que je puis faire pour votre service est de vous rendre sourd, si vous voulez.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Je vous remercie. <stage>A Lucinde.</stage> Penses-tu donc...</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>Non, toutes vos raisons ne gagneront rien sur mon âme.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Tu épouseras Horace dès ce soir.</p>
+
+<hstage><speaker>LUCINDE</speaker></hstage>
+<p>J’épouserai plutôt la mort.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à Géronte.</hstage>
+<p>Mon Dieu ! arrêtez-vous, laissez-moi médicamenter cette affaire ; c’est une maladie qui la tient, et je sais le remède qu’il y faut apporter.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Seroit-il possible, monsieur, que vous pussiez aussi guérir cette maladie d’esprit ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui ; laissez-moi faire, j’ai des remèdes pour tout ; et notre apothicaire nous servira pour cette cure. <stage>A Lêandre.</stage> Un mot. Vous voyez que l’ardeur qu’elle a pour ce Léandre est tout à fait contraire aux volontés du père ; qu’il n’y a point de temps à perdre ; que les humeurs sont fort aigries ; et qu’il est nécessaire de trouver promptement un remède à ce mal, qui pourroit empirer par le retardement. Pour moi, je n’y en vois qu’un seul, qui est une prise de fuite purgative, que vous mêlerez comme il faut avec deux drachmes de matrimonium en pilules. Peut-être fera-t-elle quelque difficulté à prendre ce remède : mais, comme vous êtes habile homme dans votre métier, c’est à vous de l’y résoudre, et de lui faire avaler la chose du mieux que vous pourrez. Allez-vous-en lui faire faire un petit tour de jardin, afin de préparer les humeurs, tandis <pagenum num="247"/>que j’entretiendrai ici son père ; mais surtout ne perdez point de temps. Au remède, vite ! au remède spécifique !</p>
+
+<h3 id="p25">SCÈNE VII. — GÉRONTE, SGANARELLE</h3>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Quelles drogues, monsieur, sont celles que vous venez de dire ? il me semble que je ne les ai jamais ouï nommer.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ce sont drogues dont on se sert dans les nécessités urgentes.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Avez-vous jamais vu une insolence pareille à la sienne ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Les filles sont quelquefois un peu têtues.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Vous ne sauriez croire comme elle est affolée de ce Léandre.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>La chaleur du sang fait cela dans les jeunes esprits.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Pour moi, dès que j’ai eu découvert la violence de cet amour, j’ai su tenir toujours ma fille renfermée.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous avez fait sagement.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Et j’ai bien empêché qu’ils n’aient eu communication ensemble.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Il seroit arrivé quelque folie, si j’avois souffert qu’ils se fussent vus.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Sans doute.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Et je crois qu’elle auroit été fille à s’en aller avec lui.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est prudemment raisonné.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>On m’avertit qu’il fait tous ses efforts pour lui parler.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quel drôle !</p>
+
+<pagenum num="248"/>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Mais il perdra son semps.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Et j’empêcherai bien qu’il ne la voie.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il n’a pas affaire à un sot, et vous savez des rubriques qu’il ne sait pas. Plus fin que vous n’est pas bête.</p>
+
+<h3 id="p26">SCÈNE VIII. — LUCAS, GÉRONTE, SGANARELLE</h3>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Ah ! palsanguenne, monsieu, voici bian du tintamarre ; votre fille s’en est enfuie avec son Liandre. C’étoit lui qui étoit l’apothicaire ; et v’là monsieu le médecin qui a fait cette belle opération-là.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Comment ! m’assassiner de la façon ! Allons, un commissaire, et qu’on empêche qu’il ne sorte. Ah ! traître, je vous ferai punir par la justice !</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Ah ! par ma fi, monsieu le médecin, vous serez pendu : ne bougez de là seulement.</p>
+
+<h3 id="p27">SCÈNE IX. — MARTINE, SGANARELLE, LUCAS</h3>
+
+<hstage><speaker>MARTINE</speaker>, à Lucas.</hstage>
+<p>Ah ! mon Dieu ! que j’ai eu de peine à trouver ce logis ! Dites-moi un peu des nouvelles du médecin que je vous ai donné.</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Le v’là qui va être pendu.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Quoi ! mon mari pendu ! Hélas ! et qu’a-t-il fait pour cela ?</p>
+
+<hstage><speaker>LUCAS</speaker></hstage>
+<p>Il a fait enlever la fille de notre maître.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Hélas ! mon cher mari, est-il bien vrai qu’on te va pendre ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tu vois. Ah !</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Faut-il que tu te laisses mourir en présence de tant de gens ?</p>
+
+<pagenum num="249"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Que veux-tu que j’y fasse ?</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Encore, si tu avois achevé de couper notre bois, je prendrois quelque consolation.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Retire-toi de là, tu me fends le cœur.</p>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Non, je veux demeurer pour t’encourager à la mort ; et je ne te quitterai point que je ne t’aie vu pendu.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah !</p>
+
+<h3 id="p28">SCÈNE X. — GÉRONTE, SGANARELLE, MARTINE</h3>
+
+<hstage><speaker>GÉRONTE</speaker>, à Sganarelle.</hstage>
+<p>Le commissaire viendra bientôt, et l’on s’en va vous mettre en lieu où l’on me répondra de vous.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à genoux, le chapeau à la main.</hstage>
+<p>Hélas ! cela ne se peut-il point changer en quelques coups de bâton ?</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Non, non ; la justice en ordonnera. Mais que vois-je ?</p>
+
+<h3 id="p29">SCÈNE XI. — GÉRONTE, LÉANDRE, LUCINDE, SGANARELLE, LUCAS, MARTINE</h3>
+
+<hstage><speaker>LÉANDRE</speaker></hstage>
+<p>Monsieur, je viens faire paroître Léandre à vos yeux, et remettre Lucinde en votre pouvoir. Nous avons eu dessein de prendre la fuite nous deux, et de nous aller marier ensemble ; mais cette entreprise a fait place à un procédé plus honnête. Je ne prétends point vous voler votre fille, et ce n’est que de votre main que je veux la recevoir. Ce que je vous dirai, monsieur, c’est que je viens tout à l’heure de recevoir des lettres par où j’apprends que mon oncle est mort, et que je suis héritier de tous ses biens.</p>
+
+<hstage><speaker>GÉRONTE</speaker></hstage>
+<p>Monsieur, votre vertu m’est tout à fait considérable, et je vous donne ma fille avec la plus grande joie du monde,</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<p>La médecine l’a échappé belle !</p>
+
+<pagenum num="250"/>
+
+<hstage><speaker>MARTINE</speaker></hstage>
+<p>Puisque tu ne seras point pendu, rends-moi grâce d’être médecin, car c’est moi qui t’ai procuré cet honneur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Oui ! c’est toi qui m’as procuré je ne sais combien de coups de bâton.</p>
+
+<hstage><speaker>LÉANDRE</speaker>, à Sganarelle.</hstage>
+<p>L’effet en est trop beau pour en garder du ressentiment.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Soit. <stage>A Martine.</stage> Je te pardonne ces coups de bâton en faveur de la dignité où tu m’as élevé : mais prépare-toi désormais à vivre dans un grand respect avec un homme de ma conséquence, et songe que la colère d’un médecin est plus à craindre qu’on ne peut croire.</p>
+
+</page-sequence>
+</page-sequences>
+</bml>

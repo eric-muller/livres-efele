@@ -1,0 +1,2690 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5673633r"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000507"
+        creation="2017-07-02T15:18:22-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Monsieur de Pourceaugnac</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='29'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="Personnages DE LA COMÉDIE"/>
+    <tocentry idref="p02" label="Acte premier">
+      <tocentry idref="p03" label="Scène I"/>
+      <tocentry idref="p04" label="Scène II"/>
+      <tocentry idref="p05" label="Scène III"/>
+      <tocentry idref="p06" label="Scène IV"/>
+      <tocentry idref="p07" label="Scène V"/>
+      <tocentry idref="p08" label="Scène VI"/>
+      <tocentry idref="p09" label="Scène VII"/>
+      <tocentry idref="p10" label="Scène VIII"/>
+      <tocentry idref="p11" label="Scène IX"/>
+      <tocentry idref="p12" label="Scène X"/>
+      <tocentry idref="p13" label="Scène XI"/>
+      <tocentry idref="p14" label="Scène XII"/>
+      <tocentry idref="p15" label="Scène XIII"/>
+      <tocentry idref="p16" label="Scène XIV"/>
+      <tocentry idref="p17" label="Scène XV"/>
+      <tocentry idref="p18" label="Scène XVI"/>
+    </tocentry>
+    <tocentry idref="p19" label="Acte second">
+      <tocentry idref="p20" label="Scène I"/>
+      <tocentry idref="p21" label="Scène II"/>
+      <tocentry idref="p22" label="Scène III"/>
+      <tocentry idref="p23" label="Scène IV"/>
+      <tocentry idref="p24" label="Scène V"/>
+      <tocentry idref="p25" label="Scène VI"/>
+      <tocentry idref="p26" label="Scène VII"/>
+      <tocentry idref="p27" label="Scène VIII"/>
+      <tocentry idref="p28" label="Scène IX"/>
+      <tocentry idref="p29" label="Scène X"/>
+      <tocentry idref="p30" label="Scène XI"/>
+      <tocentry idref="p31" label="Scène XII"/>
+      <tocentry idref="p32" label="Scène XIII"/>
+    </tocentry>
+    <tocentry idref="p33" label="Acte troisième">
+      <tocentry idref="p34" label="Scène I"/>
+      <tocentry idref="p35" label="Scène II"/>
+      <tocentry idref="p36" label="Scène III"/>
+      <tocentry idref="p37" label="Scène IV"/>
+      <tocentry idref="p38" label="Scène V"/>
+      <tocentry idref="p39" label="Scène VI"/>
+      <tocentry idref="p40" label="Scène VII"/>
+      <tocentry idref="p41" label="Scène VIII"/>
+      <tocentry idref="p42" label="Scène IX"/>
+      <tocentry idref="p43" label="Scène X"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_3.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome troisième. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="1"/>
+
+<img src="images/frise9.png" class="center100" alt="frise"/>
+
+<h1>MONSIEUR DE POURCEAUGNAC<noteref noteid="note.1.1"/></h1>
+
+<h2>COMÉDIE-BALLET EN TROIS ACTES</h2>
+
+<h2>1669</h2>
+
+<notes>
+  <note id="note.1.1">
+    <p>Cette pièce composée pour le roi, fut jouée devant lui à Chambord, en septembre 1669, et représentée sur le théâtre du Palais-Royal, le 15 novembre de la même année. Ce fut à cette représentation que la troupe de Molière prit pour la première fois le titre de troupe du roi.</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h3 id="p01">PERSONNAGES DE LA COMÉDIE</h3>
+
+<p class="sommaire">MONSIEUR DE POURCEAUGNAC.</p>
+<p class="sommaire">ORONTE.</p>
+<p class="sommaire">JULIE, fille d’Oronte. .</p>
+<p class="sommaire">ÉRASTE, amant de Julie.</p>
+<p class="sommaire">NÉRINE, femme d’intrigue, feinte Picarde.</p>
+<p class="sommaire">LUCETTE, feinte Gasconne.</p>
+<p class="sommaire">SBRIGANI, Napolitain, homme d’intrigue.</p>
+<p class="sommaire">PREMIER MÉDECIN.</p>
+<p class="sommaire">SECOND MÉDECIN.</p>
+<p class="sommaire">UN APOTHICAIRE.</p>
+<p class="sommaire">UN PAYSAN.</p>
+<p class="sommaire">UNE PAYSANNE.</p>
+<p class="sommaire">PREMIER SUISSE.</p>
+<p class="sommaire">SECOND SUISSE.</p>
+<p class="sommaire">UN EXEMPT.</p>
+<p class="sommaire">DEUX ARCHERS.</p>
+
+<h3>PERSONNAGES DU BALLET</h3>
+
+<p class="sommaire">UNE MUSICIENNE.</p>
+<p class="sommaire">DEUX MUSICIENS.</p>
+<pagenum num="2"/>
+<p class="sommaire">TROUPE DE DANSEURS.</p>
+<p class="sommaire">DEUX MAITRES A DANSER.</p>
+<p class="sommaire">DEUX PAGES dansants.</p>
+<p class="sommaire">QUATRE CURIEUX DE SPECTACLES dansants.</p>
+<p class="sommaire">DEUX SUISSES dansants.</p>
+<p class="sommaire">DEUX MÉDECINS GROTESQUES.</p>
+<p class="sommaire">MATASSINS<noteref noteid="note.2.1"/> dansants.</p>
+<p class="sommaire">DEUX AVOCATS chantants.</p>
+<p class="sommaire">DEUX PROCUREURS dansants.</p>
+<p class="sommaire">DEUX SERGENTS dansants.</p>
+<p class="sommaire">TROUPE DE MASQUES.</p>
+<p class="sommaire">UNE ÉGYPTIENNE chantante.</p>
+<p class="sommaire">UN ÉGYPTIEN chantant.</p>
+<p class="sommaire">UN PANTALON<noteref noteid="note.2.2"/> chantant.</p>
+<p class="sommaire">CHŒUR DE MASQUES chantants.</p>
+<p class="sommaire">SAUVAGES dansants.</p>
+<p class="sommaire">BISCAYENS dansants.</p>
+
+<notes>
+  <note id="note.2.1">
+    <p>Danseurs bouffons. Ce mot vient de l’espagnol <i>matachines</i>. (Mén.)</p>
+  </note>
+  <note id="note.2.2">
+    <p><i>Pantalon</i>, personnage de la comédie italienne, espèce de bouffon qui forme des danses grotesques avec des gestes violents et des postures extravagantes. (Laveaux.)</p>
+  </note>
+</notes>
+
+<vsep class="emptyline"/>
+
+<p>La scène est à Paris.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p02">ACTE PREMIER</h2>
+
+<h3 id="p03">SCÈNE I. — ÉRASTE ; UNE MUSICIENNE, DEUX MUSICIENS <i>chantants, plusieurs autres jouant des instruments ; </i>TROUPE DE DANSEURS</h3>
+
+<hstage><speaker>ÉRASTE</speaker>, aux musiciens et aux danseurs.</hstage>
+<p>Suivez les ordres que je vous ai donnés pour la sérénade. Pour moi, je me retire, et ne veux point paroître ici.</p>
+
+<h3 id="p04">SCÈNE II. — UNE MUSICIENNE, DEUX MUSICIENS <i>chantants ; plusieurs autres jouant des instruments ;</i> TROUPE DE DANSEURS</h3>
+
+<p class="smaller sommaire">Cette sérénade est composée de chant, d’instruments et de danse. Les paroles qui s’y chantent ont rapport à la situation où Éraste se trouve avec Julie, et expriment les sentiments de deux amants qui sont traversés dans leurs amours par le caprice de leurs parents.</p>
+
+<hstage><speaker>UNE MUSICIENNE</speaker></hstage>
+<l indent='c'>Répands, charmante nuit, répands sur tous les yeux</l>
+<l indent='c'>De tes pavots la douce violence ;</l>
+<l indent='c'>Et ne laisse veiller en ces aimables lieux</l>
+<l indent='c'>Que les cœurs que l’amour soumet à sa puissance.</l>
+<pagenum num="3"/>
+<l indent='c'>Tes ombres et ton silence,</l>
+<l indent='c'>Plus beaux que le plus beau jour,</l>
+<l indent='c'>Offrent de doux moments à soupirer d’amour.</l>
+
+<hstage><speaker>PREMIER MUSICIEN</speaker></hstage>
+<l indent='c'>Que soupirer d’amour</l>
+<l indent='c'>Est une douce chose,</l>
+<l indent='c'>Quand rien à nos vœux ne s’oppose !</l>
+<l indent='c'>A d’aimables penchants notre cœur nous dispose :</l>
+<l indent='c'>Mais on a des tyrans à qui l’on doit le jour.</l>
+<l indent='c'>Que soupirer d’amour</l>
+<l indent='c'>Est une douce chose.</l>
+<l indent='c'>Quand rien à nos vœux ne s’oppose !</l>
+
+<hstage><speaker>SECOND MUSICIEN</speaker></hstage>
+<l indent='c'>Tout ce qu’à nos vœux on oppose</l>
+<l indent='c'>Contre un parfait amour ne gagne jamais rien :</l>
+<l indent='c'>Et pour vaincre toute chose</l>
+<l indent='c'>Il ne faut que s’aimer bien.</l>
+
+<hstage><speaker>TOUS TROIS ENSEMBLE</speaker></hstage>
+<l indent='c'>Aimons-nous donc d’une ardeur éternelle.</l>
+<l indent='c'>Les rigueurs des parents, la contrainte cruelle,</l>
+<l indent='c'>L’absence, les travaux, la fortune rebelle,</l>
+<l indent='c'>Ne font que redoubler une amitié fidèle.</l>
+<l indent='c'>Aimons-nous donc d’une ardeur éternelle :</l>
+<l indent='c'>Quand deux cœurs s’aiment bien,</l>
+<l indent='c'>Tout le reste n’est rien.</l>
+
+<h3>PREMIÈRE ENTRÉE DE BALLET</h3>
+
+<p class="smaller sommaire">Danse de deux maîtres à danser.</p>
+
+<h3>SECONDE ENTRÉE DE BALLET</h3>
+
+<p class="smaller sommaire">Danse de deux pages.</p>
+
+<h3>TROISIÈME ENTRÉE DE BALLET</h3>
+
+<p class="smaller sommaire">Quatre curieux de spectacles, qui ont pris querelle pendant la danse des deux pages, dansent en se battant l’épée à la main.</p>
+
+<h3>QUATRIÈME ENTRÉE DE BALLET</h3>
+
+<p class="smaller sommaire">Deux suisses séparent les quatre combattants, et, après les avoir mis d’accord, dansent avec eux.</p>
+
+<h3 id="p05">SCÈNE III. — JULIE, ÉRASTE, NÉRINE</h3>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Mon Pieu ! Éraste, gardons d’être surpris. Je tremble qu’on ne nous voie ensemble, et tout seroit perdu, après la défense que l’on m’a faite.</p>
+
+<pagenum num="4"/>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Je regarde de tous côtés, et je n’aperçois rien.</p>
+
+<hstage><speaker>JULIE</speaker>, à Nérine.</hstage>
+<p>Aie aussi l’œil au guet, Nérine, et prends bien garde qu’il ne vienne personne.</p>
+
+<hstage><speaker>NÉRINE</speaker>, se retirant dans le fond du théâtre.</hstage>
+<p>Reposez-vous sur moi, et dites hardiment ce que vous avez à vous dire.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Avez-vous imaginé pour notre affaire quelque chose de favorable ? et croyez-vous, Éraste, pouvoir venir à bout de détourner ce fâcheux mariage que mon père s’est mis en tête ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Au moins y travaillons-nous fortement ; et déjà nous avons préparé un bon nombre de batteries pour renverser ce dessein ridicule.</p>
+
+<hstage><speaker>NÉRINE</speaker>, accourant, à Julie.</hstage>
+<p>Par ma foi, voilà votre père.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Ah ! séparons-nous vite.</p>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Non, non, non, ne bougez pas ; je m’étois trompée.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Mon Dieu ! Nérine, que tu es sotte de nous donner de ces frayeurs !</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Oui, belle Julie, nous avons dressé pour cela quantité de machines ; et nous ne feignons point de mettre tout en usage, sur la permission que vous m’avez donnée. Ne nous demandez point tous les ressorts que nous ferons jouer ; vous en aurez le divertissement ; et, comme aux comédies, il est bon de vous laisser le plaisir de la surprise et de ne vous avertir point de tout ce qu’on vous fera voir : c’est assez de vous dire que nous avons en main divers stratagèmes tout prêts à produire dans l’occasion, et que l’ingénieuse Nérine et l’adroit Sbrigani entreprennent l’affaire.</p>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Assurément. Votre père se moque-t-il, de vouloir vous anger<noteref noteid="note.4.1"/> de son avocat de Limoges, monsieur de Pourceaugnac, qu’il n’a vu de sa vie, et qui vient par le coche vous enlever à <pagenum num="5"/>notre barbe ? Faut-il que trois ou quatre mille écus de plus, sur la parole de votre oncle, lui fassent rejeter un amant qui vous agrée ? Et une personne comme vous est-elle faite pour un Limosin ? S’il a envie de se marier, que ne prend-il une Limosine, et ne laisse-t-il en repos les chrétiens ? Le seul nom de monsieur de Pourceaugnac m’a mise dans une colère effroyable. J’enrage de monsieur de Pourceaugnac. Quand il n’y auroit que ce nom-là, monsieur de Pourceaugnac, j’y brûlerai mes livres, ou je romprai ce mariage ; et vous ne serez point madame de Pourceaugnac. Pourceaugnac ! cela se peut-il souffrir ? Non, Pourceaugnac est une chose que je ne saurois supporter ; et nous lui jouerons tant de pièces, nous lui ferons tant de niches sur niches, que nous renverrons à Limoges monsieur de Pourceaugnac.</p>
+
+<notes>
+  <note id="note.4.1">
+    <p>Embarrasser.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Voici notre subtil Napolitain, qui nous dira des nouvelles.</p>
+
+<h3 id="p06">SCÈNE IV. — JULIE, ÉRASTE, SBRIGANI, NÉRINE</h3>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Monsieur, votre homme arrive. Je l’ai vu à trois lieues d’ici, où a couché le coche ; et, dans la cuisine, où il est descendu pour déjeuner, je l’ai étudié une bonne grosse demi-heure, et je le sais déjà par cœur. Pour sa figure, je ne veux point vous en parler : vous verrez de quel air la nature l’a dessinée, et si l’ajustement qui l’accompagne y répond comme il faut ; mais, pour son esprit, je vous avertis, par avance, qu’il est des plus épais qui se fassent ; que nous trouvons en lui une matière tout à fait disposée pour ce que nous voulons, et qu’il est homme enfin à donner dans tous les panneaux qu’on lui présentera.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Nous dis-tu vrai ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Oui, si je me connois en gens.</p>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Madame, voilà un illustre. Votre affaire ne pouvoit être mise en de meilleures mains, et c’est le héros de notre siècle, pour les exploits dont il s’agit ; un homme qui, vingt fois en sa vie, pour servir ses amis, a généreusement affronté les galères ; qui, au péril de ses bras et de ses épaules, sait mettre noblement à fin les aventures les plus difficiles, et qui, tel que vous le voyez, est exilé de son pays pour je ne sais <pagenum num="6" b="com-" a="bien">combien</pagenum> d’actions honorables qu’il a généreusement entreprises.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je suis confus des louanges dont vous m’honorez, et je pourrois vous en donner avec plus de justice sur les merveilles de votre vie et principalement sur la gloire que vous acquîtes, lorsque avec tant d’honnêteté vous pipâtes au jeu, pour douze mille écus, ce jeune seigneur étranger que l’on mena chez vous ; lorsque vous fîtes galamment ce faux contrat qui ruina toute une famille ; lorsque avec tant de grandeur d’âme vous sûtes nier le dépôt qu’on vous avoit confié ; et que si généreusement on vous vit prêter votre témoignage à faire pendre ces deux personnes qui ne l’avoient pas mérité.</p>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Ce sont petites bagatelles qui ne valent pas qu’on en parle, et vos éloges me font rougir<noteref noteid="note.6.1"/>.</p>
+
+<notes>
+  <note id="note.6.1">
+    <p>Sous la casaque de Sbrigani. Molière a caché un de ces Sosies, de ces Daves de la comédie antique qu’il nous avait déjà fait voir sous le manteau de Mascarille, et qu’un dernier caprice de son génie doit nous montrer encore sous celui de Scapin. C’est la même fourberie, la même impudence, le même orgueil des méfaits commis, des dangers courus, des châtiments éludés avec adresse, ou soufferts avec constance. Voy. l’<i>Asinaire</i>, acte III, scène <s>II</s>. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je veux bien épargner votre modestie ; laissons cela, et, pour commencer notre affaire, allons vite joindre notre provincial, tandis que, de votre côté, vous nous tiendrez prêts au besoin les autres acteurs de la comédie.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Au moins, madame, souvenez-vous de votre rôle, et, pour mieux couvrir notre jeu, feignez, comme on vous a dit, d’être la plus contente du monde des résolutions de votre père.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>S’il ne tient qu’à cela, les choses iront à merveille.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Mais, belle Julie, si toutes nos machines venoient à ne pas réussir ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je déclarerai à mon père mes véritables sentiments.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Et si, contre vos sentiments, il s’obstinoit à son dessein ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je le menacerai de me jeter dans un couvent.</p>
+
+<pagenum num="7"/>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Mais si, malgré tout cela, il vouloit vous forcer à ce mariage ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Que voulez-vous que je vous dise ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Ce que je veux que vous me disiez ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Ce qu’on dit quand on aime bien.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Mais quoi ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Que rien ne pourra vous contraindre ; et que, malgré tous les efforts d’un père, vous me promettez d’être à moi.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Mon Dieu ! Éraste, contentez-vous de ce que je fais maintenant, et n’allez point tenter sur l’avenir les résolutions de mon cœur ; ne fatiguez point mon devoir par les propositions d’une fâcheuse extrémité dont peut-être n’aurons-nous pas besoin ; et, s’il y faut venir, souffrez au moins que j’y sois entraînée par la suite des choses.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Eh bien...</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Ma foi ! voici notre homme : songeons à nous.</p>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Ah ! comme il est bâti !</p>
+
+<h3 id="p07">SCÈNE V. — MONSIEUR DE POURCEAUGNAC, SBRIGANI</h3>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, se tournant du côté d’où il est venu, et parlant à des gens qui le suivent.</hstage>
+<p>Eh bien, quoi ? qu’est-ce ? qu’y a-t-il ? Au diantre soit la sotte ville, et les sottes gens qui y sont ? Ne pouvoir faire un pas sans trouver des nigauds qui vous regardent et se mettent à rire ! Eh ! messieurs les badauds, faites vos affaires, et laissez passer les personnes sans leur rire au nez. Je me donne âu diable, si je ne baille un coup de poing au premier que je verrai rire.</p>
+
+<pagenum num="8"/>
+
+<hstage><speaker>SBRIGANI</speaker>, parlant aux mêmes personnes.</hstage>
+<p>Qu’est-ce que c’est, messieurs ? que veut dire cela ? A qui en avez-vous ? Faut-il se moquer ainsi des honnêtes étrangers qui arrivent ici ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Voilà un homme raisonnable, celui-là.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Quel procédé est le vôtre ? et qu’avez-vous à rire ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Monsieur a-t-il quelque chose de ridicule en soi ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Est-il autrement que les autres ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Suis-je tortu ou bossu ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Apprenez à connoître les gens.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>C’est bien dit.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Monsieur est d’une mine à respecter.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Cela est vrai.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Personne de condition.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Oui ; gentilhomme limosin.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Homme d’esprit.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Qui a étudié en droit.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Il vous fait trop d’honneur de venir dans notre ville.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Sans doute.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Monsieur n’est point une personne à faire rire.</p>
+
+<pagenum num="9"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Assurément.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Et quiconque rira de lui aura affaire à moi.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à Sbrigani.</hstage>
+<p>Monsieur, je vous suis infiniment obligé.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je suis fâché, monsieur, de voir recevoir de la sorte une personne comme vous : et je vous demande pardon pour la ville<noteref noteid="note.9.1"/>.</p>
+
+<notes>
+  <note id="note.9.1">
+    <p>L’entrée de Pourceaugnac le met en scène du premier abord avec tous ses ridicules et toute sa crédulité. (A. M.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je suis votre serviteur.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je vous ai vu, ce matin, monsieur, avec le coche, lorsque vous avez déjeuné ; et la grâce avec laquelle vous mangiez votre pain m’a fait naître d’abord de l’amitié pour vous ; et, comme je sais que vous n’êtes jamais venu en ce pays et que vous y êtes tout neuf, je suis bien aise de vous avoir trouvé, pour vous offrir mon service à cette arrivée et vous aider à vous conduire parmi ce peuple, qui n’a pas parfois, pour les honnêtes gens, toute la considération qu’il faudroit.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>C’est trop de grâce que vous me faites.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je vous l’ai déjà dit : du moment que je vous ai vu, je me suis senti pour vous de l’inclination.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je vous suis obligé.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Votre physionomie m’a plu.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ce m’est beaucoup d’honneur.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>J’y ai vu quelque chose d’honnête.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je suis votre serviteur.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Quelque chose d’aimable.</p>
+
+<pagenum num="10"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>De gracieux.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>De doux.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>De majestueux.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>De franc.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Et de cordial.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je vous assure que je suis tout à vous.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je vous ai beaucoup d’obligation.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>C’est du fond du cœur que je parle.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je le crois.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Si j’avois l’honneur d’être connu de vous, vous sauriez je suis un homme tout à fait sincère.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je n’en doute point.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Ennemi de la fourberie.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>J’en suis persuadé.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Et qui n’est pas capable de déguiser ses sentiments.</p>
+
+<pagenum num="11"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>C’est ma pensée.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Vous regardez mon habit, qui n’est pas fait comme les autres ; mais je suis originaire de Naples, à votre service, et j’ai voulu conserver un peu et la manière de s’habiller, et la sincérité de mon pays<noteref noteid="note.11.1"/>.</p>
+
+<notes>
+  <note id="note.11.1">
+    <p>Notez que, soit à tort, soit à raison, on accuse les Napolitains de manquer de franchise. (A. M.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>C’est fort bien fait. Pour moi, j’ai voulu me mettre à la mode de la cour pour la campagne.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Ma foi, cela vous va mieux qu’à tous nos courtisans.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>C’est ce que m’a dit mon tailleur. L’habit est propre et riche, et il fera du bruit ici.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Sans doute. N’irez-vous pas au Louvre ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Il faudra bien aller faire ma cour.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Le roi sera ravi de vous voir.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je le crois.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Avez-vous arrêté un logis ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker> .</hstage>
+<p>Non ; j’allois en chercher un.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je serai bien aise d’être avec vous pour cela ; et je connois tout ce pays-ci.</p>
+
+<h3 id="p08">SCÈNE VI. — ÉRASTE, MONSIEUR DE POURCEAUGNAC, SBRIGANI</h3>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Ah ! qu’est-ce ci ? Que vois-je ? Quelle heureuse rencontre ! Monsieur de Pourceaugnac ! Que je suis ravi de vous voir ! Comment ! il semble que vous ayez peine à me reconnoître.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Monsieur, je suis votre serviteur.</p>
+
+<pagenum num="12"/>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Est-il possible que cinq ou six années m’aient ôté de votre mémoire, et que vous ne reconnoissiez pas le meilleur ami de toute la famille des Pourceaugnac ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Pardonnez-moi. <stage>Bas, à Sbrigani.</stage> Ma foi, je ne sais qui il est.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Il n’y a pas un Pourceaugnac à Limoges que je ne connoisse, depuis le plus grand jusques au plus petit ; je ne fréquentois qu’eux dans le temps que j’y étois, et j’avois l’honneur de vous voir presque tous les jours.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>C’est moi qui l’ai reçu, monsieur.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Vous ne vous remettez point mon visage ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Si fait. <stage>A Sbrigani.</stage> Je ne le connois point.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Vous ne vous ressouvenez pas que j’ai eu le bonheur de boire je ne sais combien de fois avec vous ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Excusez-moi. <stage>A Sbrigani.</stage> Je ne sais ce que c’est.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Comment appelez-vous ce traiteur de Limoges qui fait si bonne chère ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Petit-Jean ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Le voilà. Nous allions le plus souvent ensemble chez lui nous réjouir. Comment est-ce que vous nommez à Limoges ce lieu où l’on se promène ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Le cimetière des Arènes ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Justement. C’est où je passois de si douces heures à jouir de votre agréable conversation. Vous ne vous remettez pas tout cela ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Excusez-moi ; je me le remets. <stage>A Sbrigani.</stage> Diable emporte si je m’en souviens.</p>
+
+<pagenum num="13"/>
+
+<hstage><speaker>SBRIGANI</speaker>, bas, à monsieur de Pourceaugnac.</hstage>
+<p>Il y a cent choses comme cela qui passent de la tête.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Embrassez-moi donc, je vous prie, et resserrons les nœuds de notre ancienne amitié.</p>
+
+<hstage><speaker>SBRIGANI</speaker>, à monsieur de Pourceaugnac.</hstage>
+<p>Voilà un homme qui vous aime fort.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Dites-moi un peu des nouvelles de toute la parenté. Comment se porte monsieur votre... la... qui est si honnête homme ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Mon frère le consul ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Il se porte le mieux du monde.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Certes, j’en suis ravi. Et celui qui est de si bonne humeur ? La... monsieur votre...</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Mon cousin l’assesseur ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Justement.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC .</speaker></hstage>
+<p>Toujours gai et gaillard.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Ma foi, j’en ai beaucoup de joie. Et monsieur votre oncle ? Le...</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je n’ai point d’oncle.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Vous aviez pourtant en ce temps-là...</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Non : rien qu’une tante.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>C’est ce que je voulois dire, madame votre tante. Comment se porte-t-elle ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Elle est morte depuis six mois.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Hélas ! la pauvre femme ! elle étoit si bonne personne !</p>
+
+<pagenum num="14"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Nous avons aussi mon neveu le chanoine qui a pensé mourir de la petite vérole.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Quel dommage ç’auroit été !</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Le connoissez-vous aussi ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Vraiment ; si je le connois ! Un grand garçon bien fait.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Pas des plus grands.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Non ; mais de taille bien prise.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Eh oui.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Qui est votre neveu ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Fils de votre frère ou de votre sœur ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Justement.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Chanoine de l’église de... Comment l’appelez-vous ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>De Saint-Étienne.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Le voilà : je ne connois autre.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à Sbrigani.</hstage>
+<p>Il dit toute la parenté<noteref noteid="note.14.1"/>.</p>
+
+<notes>
+  <note id="note.14.1">
+    <p>Mot charmant qui termine on ne peut mieux cette risible reconnaissance. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Il vous connoît plus que vous ne croyez.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>A ce que je vois, vous avez demeuré longtemps dans notre ville ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Deux ans entiers.</p>
+
+<pagenum num="15"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Vous étiez donc là quand mon cousin l’élu fit tenir son enfant à monsieur notre gouverneur ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Vraiment oui ; j’y fus convié des premiers.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Cela fut galant.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Très galant. Oui.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>C’étoit un repas bien troussé.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Sans doute.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Vous vîtes donc aussi la querelle que j’eus avec ce gentilhomme périgordin ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Parbleu ! il trouva à qui parler.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Ah ! ah !</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Il me donna un soufflet ; mais je lui dis bien son fait.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Assurément. Au reste, je ne prétends pas que vous preniez d’autre logis que le mien.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je n’ai garde de...</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Vous moquez-vous ? je ne souffrirai point du tout que mon meilleur ami soit autre part que dans ma maison.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ce seroit vous...</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Non. Vous avez beau faire ! vous logerez chez moi.</p>
+
+<hstage><speaker>SBRIGANI</speaker>, à monsieur de Pourceaugnac.</hstage>
+<p>Puisqu’il le veut obstinément, je vous conseille d’accepter l’offre.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Où sont vos hardes ?</p>
+
+<pagenum num="16"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je les ai laissées, avec mon valet, où je suis descendu.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Envoyons-les quérir par quelqu’un.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Non. Je lui ai défendu de bouger, à moins que j’y fusse moi-même, de peur de quelque fourberie.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>C’est prudemment avisé.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ce pays-ci est un peu sujet à caution.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>On voit les gens d’esprit en tout.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je vais accompagner monsieur, et le ramènerai où vous voudrez.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Oui. Je serai bien aise de donner quelques ordres, et vous n’avez qu’à revenir à cette maison-là.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Nous sommes à vous tout à l’heure.</p>
+
+<hstage><speaker>ÉRASTE</speaker>, à monsieur de Pourceaugnac.</hstage>
+<p>Je vous attends avec impatience.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à Sbrigani.</hstage>
+<p>Voilà une connoissance où je ne m’attendois point.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Il a la mine d’être honnête homme.</p>
+
+<hstage><speaker>ÉRASTE</speaker>, seul.</hstage>
+<p>Ma foi, monsieur de Pourceaugnac, nous vous en donnerons de toutes les façons : les choses sont préparées, et je n’ai qu’à frapper. Holà !</p>
+
+<h3 id="p09">SCÈNE VII. — ÉRASTE, UN APOTHICAIRE</h3>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Je crois, monsieur, que vous êtes le médecin à qui l’on est venu parler de ma part ?</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Non, monsieur ; ce n’est pas moi qui suis le médecin, à moi n’appartient pas cet honneur ; et je ne suis qu’apothicaire, apothicaire indigne, pour vous servir.</p>
+
+<pagenum num="17"/>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Et monsieur le médecin est-il à la maison ?</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Oui. Il est là embarrassé à expédier quelques malades ; et je vais lui dire que vous êtes ici.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Non : ne bougez ; j’attendrai qu’il ait fait. C’est pour lui mettre entre les mains certain parent que nous avons, dont on lui a parlé, et qui se trouve attaqué de quelque folie, que nous serions bien aises qu’il pût guérir avant que de le marier.</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Je sais ce que c’est, je sais ce que c’est ; et j’étois avec lui quand on lui a parlé de cette affaire. Ma foi, ma foi, vous ne pouviez pas vous adresser à un médecin plus habile. C’est un homme qui sait la médecine à fond, comme je sais ma croix de par Dieu, et qui, quand on devroit crever, ne démordroit pas d’un <i>iota</i> des règles des anciens. Oui, il suit toujours le grand chemin, le grand chemin, et ne va point chercher midi à quatorze heures ; et, pour tout l’or du monde, il ne voudroit pas avoir guéri une personne avec d’autres remèdes que ceux que la Faculté permet.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Il fait fort bien. Un malade ne doit point vouloir guérir que la Faculté n’y consente.</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Ce n’est pas parce que nous sommes grands amis que j’en parle, mais il y a plaisir d’être son malade ; et j’aimerois mieux mourir de ses remèdes que de guérir de ceux d’un autre. Car, quoi qu’il puisse arriver, on est assuré que les choses sont toujours dans l’ordre ; et, quand on meurt sous sa conduite, vos héritiers n’ont rien à vous reprocher.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>C’est une grande consolation pour un défunt.</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Assurément. On est bien aise au moins d’être mort méthodiquement. Au reste, il n’est pas de ces médecins qui marchandent les maladies ; c’est un homme expéditif, expéditif, qui aime à dépêcher ses malades ; et, quand on a à mourir, cela se fait avec lui le plus vite du monde.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>En effet, il n’est rien tel que de sortir promptement d’affaire.</p>
+
+<pagenum num="18"/>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Cela est vrai. A quoi bon tant barguigner et tant tourner autour du pot ? Il faut savoir vitement le court ou le long d’une maladie.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Vous avez raison.</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Voilà déjà trois de mes enfants dont il m’a fait l’honneur de conduire la maladie, qui sont morts en moins de quatre jours, et qui, entre les mains d’un autre, auroient langui plus de trois mois.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Il est bon d’avoir des amis comme cela.</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Sans doute. Il ne me reste plus que deux enfants, dont il prend soin comme des siens ; il les traite et gouverne à sa fantaisie, sans que je me mêle de rien ; et, le plus souvent, quand je reviens de la ville, je suis tout étonné que je les trouve saignés ou purgés par son ordre.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Voilà les soins les plus obligeants du monde.</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Le voici, le voici, le voici qui vient.</p>
+
+<h3 id="p10">SCÈNE VIII. — ÉRASTE, PREMIER MÉDECIN, UN APOTHICAIRE, UN PAYSAN, UNE PAYSANNE</h3>
+
+<hstage><speaker>LE PAYSAN</speaker>, au médecin.</hstage>
+<p>Monsieur, il n’en peut plus ; et il dit qu’il sent dans la tête les plus grandes douleurs du monde.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Le malade est un sot ; d’autant plus que, dans la maladie dont il est attaqué, ce n’est pas la tête, selon Galien, mais la rate, qui lui doit faire mal.</p>
+
+<hstage><speaker>LE PAYSAN</speaker></hstage>
+<p>Quoi que c’en soit, monsieur, il a toujours, avec cela, son cours de ventre depuis six mois.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Bon ! c’est signe que le dedans se dégage. Je l’irai visiter dans deux ou trois jours ; mais, s’il mouroit avant ce temps-là, ne manquez pas de m’en donner avis ; car il n’est pas de la civilité qu’un médecin visite un mort.</p>
+
+<pagenum num="19"/>
+
+<hstage><speaker>LA PAYSANNE</speaker>, au médecin.</hstage>
+<p>Mon père, monsieur, est toujours malade de plus en plus.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Ce n’est pas ma faute. Je lui donne des remèdes : que ne guérit-il ? Combien a-t-il été saigné dé fois ?</p>
+
+<hstage><speaker>LA PAYSANNE</speaker></hstage>
+<p>Quinze, monsieur, depuis vingt jours.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Quinze fois saigné ?</p>
+
+<hstage><speaker>LA PAYSANNE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Et il ne guérit point ?</p>
+
+<hstage><speaker>LA PAYSANNE</speaker></hstage>
+<p>Non, monsieur.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>C’est signe que la maladie n’est pas dans le sang. Nous le ferons purger autant de fois, pour voir si elle n’est pas dans les humeurs ; et, si rien ne nous réussit, nous l’enverrons aux bains.</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Voilà le fin, cela ; voilà le fin de la médecine.</p>
+
+<h3 id="p11">SCÈNE IX. — ÉRASTE, PREMIER MÉDECIN, UN APOTHICAIRE</h3>
+
+<hstage><speaker>ÉRASTE</speaker>, au médecin.</hstage>
+<p>C’est moi, monsieur, qui vous ai envoyé parler, ces jours passés, pour un parent un peu troublé d’esprit, que je veux vous donner chez vous, afin de le guérir avec plus de commodité et qu’il soit vu de moins de monde.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Oui, monsieur : j’ai déjà disposé tout, et promets d’en avoir tous les soins imaginables.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Le voici fort à propos.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>La conjoncture est tout à fait heureuse, et j’ai ici un ancien de mes amis, avec lequel je serai bien aise de consulter sa maladie.</p>
+
+<pagenum num="20"/>
+
+<h3 id="p12">SCÈNE X. — MONSIEUR DE POURCEAUGNAC, ÉRASTE, PREMIER MÉDECIN, UN APOTHICAIRE</h3>
+
+<hstage><speaker>ÉRASTE</speaker>, à monsieur de Pourceaugnac.</hstage>
+<p>Une petite affaire m’est survenue, qui m’oblige à vous quitter. <stage>Montrant le médecin.</stage> Mais voilà une personne entre les mains de qui je vous laisse, qui aura soin pour moi de vous traiter du mieux qu’il lui sera possible.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Le devoir de ma profession m’y oblige, et c’est assez que vous me chargiez de ce soin.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à part.</hstage>
+<p>C’est son maître d’hôtel, sans doute ; et il faut que ce soit un homme de qualité.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker>, à Éraste.</hstage>
+<p>Oui ; je vous assure que je traiterai monsieur méthodiquement, et dans toutes les régularités de notre art.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Mon Dieu ! il ne me faut point tant de cérémonies ; et je ne viens pas ici pour incommoder.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Un tel emploi ne me donne que de la joie.</p>
+
+<hstage><speaker>ÉRASTE</speaker>, au médecin.</hstage>
+<p>Voilà toujours dix pistoles d’avance, en attendant ce que j’ai promis.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Non, s’il vous plaît ; je n’entends pas que vous fassiez de dépense et que vous envoyiez rien acheter pour moi.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Mon Dieu ! laissez faire. Ce n’est pas pour ce que vous pensez.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je vous demande de ne me traiter qu’en ami.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>C’est ce que je veux faire. <stage>Bas, au médecin.</stage> Je vous recommande surtout de ne le point laisser sortir de vos mains ; car, parfois, il veut s’échapper.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Ne vous mettez pas en peine.</p>
+
+<hstage><speaker>ÉRASTE</speaker>, à monsieur de Pourceaugnac.</hstage>
+<p>Je vous prie de m’excuser de l’incivilité que je commets.</p>
+
+<pagenum num="21"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Vous vous moquez, et c’est trop de grâce que vous me faites.</p>
+
+<h3 id="p13">SCÈNE XI. — MONSIEUR DE POURCEAUGNAC, PREMIER MÉDECIN, SECOND MÉDECIN, UN APOTHICAIRE</h3>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Ce m’est beaucoup d’honneur, monsieur, d’être choisi pour vous rendre service.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je suis votre serviteur.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Voici un habile homme, mon confrère, avec lequel je vais consulter la manière dont nous vous traiterons.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Il ne faut point tant de façons, vous dis-je ; et je suis homme à me contenter de l’ordinaire.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Allons, des sièges. <stage>Des laquais entrent et donnent des sièges.</stage></p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à part.</hstage>
+<p>Voilà, pour un jeune homme, des domestiques bien lugubres.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Allons, monsieur : prenez votre place, monsieur. <stage>Les deux médecins font asseoir monsieur de Pourceaugnac entre eux deux.</stage></p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, s’asseyant.</hstage>
+<p>Votre très humble valet. <stage>Les deux médecins lui prennent chacun une main pour lui tâter le pouls.</stage> Que veut dire cela ?</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Mangez-vous bien, monsieur ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Oui ; et bois encore mieux.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Tant pis ! Cette grande appétition du froid et de l’humide est une indication de la chaleur et sécheresse qui est au dedans. Dormez-vous fort ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Oui ; quand j’ai bien soupé.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Faites-vous des songes ?</p>
+
+<pagenum num="22"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Quelquefois.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>De quelle nature sont-ils ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>De la nature des songes. Quelle diable de conversation est-ce là ?</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Vos déjections, comment sont-elles ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ma foi, je ne comprends rien à toutes ces questions ; et je veux plutôt boire un coup.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Un peu de patience. Nous allons raisonner sur votre affaire devant vous ; et nous le ferons en françois, pour être plus intelligibles.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Quel grand raisonnement faut-il pour manger un morceau ?</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Comme ainsi soit qu’on ne puisse guérir une maladie qu’on ne la connoisse parfaitement, et qu’on ne la puisse parfaitement connoître sans en bien établir l’idée particulière et la véritable espèce par ses signes diagnostiques et prognostiques, vous me permettrez, monsieur notre ancien, d’entrer en considération de la maladie dont il s’agit, avant que de toucher à la thérapeutique et aux remèdes qu’il nous conviendra faire pour la parfaite curation d’icelle. Je dis donc, monsieur, avec votre permission, que notre malade ici présent est malheureusement attaqué, affecté, possédé, travaillé de cette sorte de folie que nous nommons fort bien mélancolie hypocondriaque ; espèce de folie très fâcheuse, et qui ne demande pas moins qu’un Esculape comme vous, consommé dans notre art ; vous, dis-je, qui avez blanchi comme on dit, sous le harnois, et auquel il en a tant passé par les mains, de toutes les façons. Je l’appelle mélancolie hypocondriaque, pour la distinguer des deux autres ; car le célèbre Galien établit doctement, à son ordinaire, trois espèces de cette maladie, que nous nommons mélancolie, ainsi appelée, non seulement par les Latins, mais encore par les Grecs, ce qui est bien à remarquer pour notre affaire. La première, qui vient du propre vice du cerveau ; la seconde, qui vient de tout le sang, fait et rendu atrabilaire ; la troisième, appelée <pagenum num="23" b="hypocondria-" a="que,">hypocondriaque,</pagenum> qui est la nôtre, laquelle procède du vice de quelque partie du bas-ventre et de la région inférieure, mais particulièrement de la rate, dont la chaleur et l’inflammation porte au cerveau de notre malade beaucoup de fuligines épaisses et crasses, dont la vapeur noire et maligne cause dépravation aux fonctions de la faculté princesse, et fait la maladie dont, par notre raisonnement, il est manifestement atteint et convaincu. Qu’ainsi ne soit, pour diagnostique incontestable de ce que je vous dis, vous n’avez qu’à considérer ce grand sérieux que vous voyez, cette tristesse accompagnée de crainte et de défiance, signes pathognomoniques et individuels de cette maladie, si bien marquée chez le divin vieillard Hippocrate : cette physionomie, ces yeux rouges et hagards, cette grande barbe, cette habitude du corps, menue, grêle, noire et velue, lesquels signes le dénotent très affecté de cette maladie, procédante du vice des hypocondres ; laquelle maladie, par laps de temps, naturalisée, envieillie, habituée et ayant pris droit de bourgeoisie chez lui, pourroit bien dégénérer ou en manie, ou en phthisie, ou en apoplexie, ou même en fine frénésie et fureur. Tout ceci supposé, puisqu’une maladie bien connue est à demi guérie, car, <i>ignoti nulla est curatio morbi,</i> il ne vous sera pas difficile de convenir des remèdes que nous devons faire à monsieur. Premièrement, pour remédier à cette pléthore obturante et à cette cacochymie luxuriante par tout le corps, je suis d’avis qu’il soit phlébotomisé libéralement ; c’est-à-dire, que les saignées soient fréquentes et plantureuses : en premier lieu, de la basilique, puis de la céphalique<noteref noteid="note.23.1"/> et même, si le mal est opiniâtre, de lui ouvrir la veine du front, et que l’ouverture soit large, afin que le gros sang puisse sortir ; et, en même temps, de le purger, désopiler, et évacuer par purgatifs propres et convenables ; c’est-à-dire, par cholagogues, mélanogogues<noteref noteid="note.23.2"/> <i>et cœtera,</i> et, comme la véritable source de tout le mal est ou une humeur crasse et féculente, ou une vapeur noire et grossière, qui obscurcit, infecte et salit les esprits animaux, il est à propos ensuite qu’il prenne un bain d’eau pure et nette, avec force petit-lait clair, pour purifier, par l’eau, la féculence de l’humeur crasse, et éclaircir, par le lait clair, la noirceur de cette vapeur. Mais, avant toute chose, <pagenum num="24"/>je trouve qu’il est bon de le réjouir par d’agréables conversations, chants et instruments de musique ; à quoi il n’y a pas d’inconvénient de joindre des danseurs, afin que leurs mouvements, disposition<noteref noteid="note.24.1"/> et agilité, puissent exciter et réveiller la paresse de ses esprits engourdis, qui occasionne l’épaisseur de son sang, d’où procède la maladie. Voilà les remèdes que j’imagine, auxquels pourront être ajoutés beaucoup d’autres meilleurs par monsieur notre maître et ancien, suivant l’expérience, jugement, lumière et suffisance qu’il s’est acquise dans notre art. <i>Dixi.</i></p>
+
+<notes>
+  <note id="note.23.1">
+    <p>La <i>basilique,</i> veine qui monte le long de la partie interne de l’os du bras jusqu’à l’axillaire, où elle se rend. La <i>céphalique</i>, l’une des veines du bras, qu’on croyait autrefois venir de la tête, et qu’on ouvrait, par cette raison dans les cas où la tête avait besoin d’être soulagée. (<i>Dictionn. de l’Acad</i>.)</p>
+  </note>
+
+  <note id="note.23.2">
+    <p><i>Cholagogues</i>, remèdes propres à chasser la bile. <i>Mélanogogues</i>, remèdes propres à chasser la bile noire, que les anciens appelaient <i>mélancolie</i>. (Lav.)</p>
+  </note>
+
+  <note id="note.24.1">
+    <p>Ce mot est employé ici dans le sens de <i>dispos.</i> Cette acception était nouvelle, et n’a pas été adoptée. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>SECOND MÉDECIN</speaker></hstage>
+<p>A Dieu ne plaise, monsieur, qu’il me tombe en pensée d’ajouter rien à ce que vous venez de dire ! Vous avez si bien discouru sur tous les signes, les symptômes et les causes de la maladie de monsieur ; le raisonnement que vous en avez fait est si docte et si beau, qu’il est impossible qu’il ne soit pas fou et mélancolique hypocondriaque ; et, quand il ne le seroit pas, il faudroit qu’il le devînt, pour la beauté des choses que vous avez dites et la justesse du raisonnement que vous avez fait. Oui, monsieur, vous avez dépeint fort graphiquement, <i>graphice depinxisti,</i> tout ce qui appartient à cette maladie. Il ne se peut rien de plus doctement, sagement, ingénieusement conçu, pensé, imaginé, que ce que vous avez prononcé au sujet de ce mal, soit pour la diagnose ou la prognose, ou la thérapie<noteref noteid="note.24.2"/> ; et il ne me reste rien ici que de féliciter monsieur d’être tombé entre vos mains et de lui dire qu’il est trop heureux d’être fou, pour éprouver l’efficace et la douceur des remèdes que vous avez si judicieusement proposés. Je les approuve tous, <i>manibus et pedibus descendo in tuam sententiam</i>. Tout ce que j’y voudrois ajouter, c’est de faire les saignées et les purgations en nombre impair, <i>numero Deus impare gaudet ;</i> de prendre le lait clair avant le bain ; de lui composer un fronteau<noteref noteid="note.24.3"/> où il entre du sel : le sel est symbole de la sagesse ; de faire blanchir les murailles de sa chambre, pour dissiper les ténèbres de ses esprits, <i>album est disgregativum visus<noteref noteid="note.24.4"/> ;</i> et de lui donner tout à l’heure un petit lavement, pour <pagenum num="25"/>servir de prélude et d’introduction à ces judicieux remèdes, dont, s’il a à guérir, il doit recevoir du soulagement. Fasse le ciel que ces remèdes, monsieur, qui sont les vôtres, réussissent au malade selon notre intention !</p>
+
+<notes>
+  <note id="note.24.2">
+    <p><i>Diagnose</i>, pour <i>diagnostic</i>, connaissance des symptômes ; <i>prognose</i>, jugement d’après les symptômes ; <i>thérapie</i> pour <i>thérapeutique</i>, traitement de la maladie. (<i>Dictionn. de l’Acad.)</i></p>
+  </note>
+  <note id="note.24.3">
+    <p>Médicament qu’on applique sur le front pour calmer les douleurs de tête.</p>
+  </note>
+  <note id="note.24.4">
+    <p>C’est-à-dire : <i>le blanc blesse la vue ou la fatigue.</i> Cette citation à contre-sens n’est pas un des traits les moins comiques de cette scène. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Messieurs, il y a une heure que je vous écoute. Est-ce que nous jouons ici une comédie ?</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Non, monsieur, nous ne jouons point.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Qu’est-ce que tout ceci ? et que voulez-vous dire, avec votre galimatias et vos sottises ?</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Bon ! dire des injures ! voilà un diagnostique qui nous manquoit pour la confirmation de son mal ; et ceci pourroit bien tourner en manie.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à part.</hstage>
+<p>Avec qui m’a-t-on mis ici ? <stage>Il crache deux ou trois fois.</stage></p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Autre diagnostique : la sputation fréquente.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Laissons cela, et sortons d’ici.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Autre encore : l’inquiétude de changer de place.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Qu’est-ce donc que toute cette affaire ? et que me voulez-vous ?</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Vous guérir, selon l’ordre qui nous a été donné.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Me guérir ?</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Parbleu ! je ne suis pas malade.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Mauvais signe, lorsqu’un malade ne sent pas son mal.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je vous dis que je me porte bien.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Nous savons mieux que vous comment vous vous portez ; <pagenum num="26"/>et nous sommes médecins qui voyons clair dans votre constitution.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Si vous êtes médecins, je n’ai que faire de vous ; et je me moque de la médecine.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Hom ! hom ! voici un homme plus fou que nous ne pensons.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Mon père et ma mère n’ont jamais voulu de remèdes, et ils sont morts tous deux sans l’assistance des médecins.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Je ne m’étonne pas s’ils ont engendré un fils qui est insensé. <stage>Au second médecin.</stage> Allons, procédons à la curation ; et, par la douceur exhilarante de l’harmonie, adoucissons, lénifions, et accoisons<noteref noteid="note.26.1"/> l’aigreur de ses esprits, que je vois prêts à s’enflammer.</p>
+
+<notes>
+  <note id="note.26.1">
+    <p><i>Accoiser</i> rendre <i>coi</i>, calmer, apaiser.</p>
+  </note>
+</notes>
+
+<h3 id="p14">SCÈNE XII. — MONSIEUR DE POURCEAUGNAC</h3>
+
+<p>Que diable est-ce là ? Les gens de ce pays-ci sont-ils insensés ? Je n’ai jamais rien vu de tel, et je n’y comprends rien du tout.</p>
+
+<h3 id="p15">SCÈNE XIII. — MONSIEUR DE POURCEAUGNAC, DEUX MÉDECINS <i>grotesques.</i></h3>
+<pstage>Ils s’asseyent d’abord tous trois ; les médecins se lèvent à différentes reprises pour saluer monsieur de Pourceaugnac, qui se lève autant de fois pour les saluer.</pstage>
+
+<hstage><speaker>LES DEUX MÉDECINS</speaker></hstage>
+<l indent="c">Buon di, buon di, buon di,</l>
+<l indent="c">Non vi lasciate uccidere</l>
+<l indent="c">Dal dolor malinconico,</l>
+<l indent="c">Noi vi faremo ridere</l>
+<l indent="c">Col nostro canto armonico,</l>
+<l indent="c">Sol per guarirvi</l>
+<l indent="c">Siamo venuti qui.</l>
+<l indent="c">Buon di, buon di, buon di.</l>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<l indent="c">Altro non è la pazzia</l>
+<l indent="c">Che malinconia.</l>
+<l indent="c">Il malato</l>
+<pagenum num="27"/>
+<l indent="c">Non è disperato,</l>
+<l indent="c">Se vol pigliar un poco d’allegria,</l>
+<l indent="c">Altro non è la pazzia</l>
+<l indent="c">Che malinconia.</l>
+
+<hstage><speaker>SECOND MÉDECIN</speaker></hstage>
+<l indent="c">Sù, cantate, ballate, ridete ;</l>
+<l indent="c">E, se far meglio, volete,</l>
+<l indent="c">Quando sentite il deliro vicino,</l>
+<l indent="c">Pigliate del vino,</l>
+<l indent="c">E qualche volta un poco di tabac,</l>
+<l indent="c">Allegramente, monsu Pourceaugnac<noteref noteid="note.27.1"/></l>
+
+<notes>
+  <note id="note.27.1">
+    <p>« Bonjour, bonjour bonjour. Ne vous laissez pas tuer par les souffrances de la mélancolie. Nous vous ferons rire avec nos chants harmonieux. Nous ne sommes venus ici que pour vous guérir. Bonjour, bonjour, bonjour.</p>
+    <p>« La folie n’est pas autre chose que la mélancolie. Le malade n’est pas désespéré s’il veut prendre un peu de divertissement. La folie n’est pas autre chose que la mélancolie.</p>
+    <p>« Allons courage. Chantez, dansez, riez ; et, si vous voulez encore mieux faire, quand vous sentirez approcher votre accès de folie, prenez un verre de vin, et quelquefois une prise de tabac. Allons, gai monsieur de Pourceaugnac. » (Auger.)</p>
+  </note>
+</notes>
+
+<h3 id="p16">SCÈNE XIV. — MONSIEUR DE POURCEAUGNAC, DEUX MÉDECINS <i>grotesques</i>, MATASSINS</h3>
+
+<hstage><speaker>ENTRÉE DE BALLET</speaker></hstage>
+<pstage>Danse des matassins autour de monsieur de Pourceaugnac.</pstage>
+
+<h3 id="p17">SCÈNE XV. — MONSIEUR DE POURCEAUGNAC ; UN APOTHICAIRE, <i>tenant une seringue.</i></h3>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Monsieur, voici un petit remède, un petit remède, qu’il vous faut prendre, s’il vous plaît, s’il vous plaît.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Comment ? Je n’ai que faire de cela.</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Il a été ordonné, monsieur, il a été ordonné.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAyGNAÇ</speaker></hstage>
+<p>Ah ! que de bruit !</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>Prenez-le, monsieur, prenez-le ; il ne vous fera point de mal, il ne vous fera point de mal.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ah !</p>
+
+<hstage><speaker>L’APOTHICAIRE</speaker></hstage>
+<p>C’est un petit clystère, un petit clystère, bénin, bénin ; il <pagenum num="28"/>est bénin, bénin : là, prenez, prenez, monsieur ; c’est pour déterger, pour déterger, déterger.</p>
+
+<h3 id="p18">SCÈNE XVI. — MONSIEUR DE POURCEAUGNAC, UN APOTHICAIRE, DEUX MÉDECINS <i>grotesques ;</i> MATASSINS, <i>avec des seringues</i>.</h3>
+
+<hstage><speaker>LES DEUX MÉDECINS</speaker></hstage>
+<l indent="c">Piglialo sù,</l>
+<l indent="c">Signor monsu,</l>
+<l indent="c">Piglialo, piglialo, piglialo sù,</l>
+<l indent="c">Che non ti farà male.</l>
+<l indent="c">Piglialo sù questo serviziale ;</l>
+<l indent="c">Piglialo sù,</l>
+<l indent="c">Signor monsu ;</l>
+<l indent="c">Piglialo, piglialo, piglialo sù<noteref noteid="note.28.1"/>.</l>
+
+<notes>
+  <note id="note.28.1">
+    <p>« Prenez-le, monsieur, prenez-le (le clystère) ; il ne vous fera point de mal. »</p>
+  </note>
+</notes>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Allez-vous-en au diable ! <stage>Monsieur de Pourceaugnac, mettant son chapeau pour se garantir des seringues, est suivi par les deux médecins et par les matassins ; il passe par derrière le théâtre, et revient se mettre sur sa chaise, auprès de laquelle il trouve l’apothicaire qui l’attendoit : les deux médecins et les matassins rentrent aussi.</stage></p>
+
+<hstage><speaker>LES DEUX MÉDECINS</speaker></hstage>
+<l indent="c">Piglialo sù,</l>
+<l indent="c">Signor monsu ;</l>
+<l indent="c">Piglialo, piglialo, piglialo sù,</l>
+<l indent="c">Che non ti farà male.</l>
+<l indent="c">Piglialo sù questo serviziale ;</l>
+<l indent="c">Piglialo sù,</l>
+<l indent="c">Signor monsu ;</l>
+<l indent="c">Piglialo, piglialo, piglialo sù.</l>
+<pstage>Monsieur de Pourceaugnac s’enfuit avec la chaise : l’apothicaire appuie sa seringue contre, et les médecins et les matassins le suivent.</pstage>
+
+<vsep class="rule"/>
+
+<h2 id="p19">ACTE SECOND</h2>
+
+<h3 id="p20">SCÈNE I. — PREMIER MÉDECIN, SBRIGANI</h3>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Il a forcé tous les obstacles que j’avois mis, et s’est dérobé aux remèdes que je commençois de lui faire.</p>
+
+<pagenum num="29"/>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>C’est être bien ennemi de soi-même, que de fuir des remèdes aussi salutaires que les vôtres.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Marque d’un cerveau démonté et d’une raison dépravée, que de ne vouloir pas guérir.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Vous l’auriez guéri haut la main.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Sans doute : quand il y auroit eu complication de douze maladies.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Cependant voilà cinquante pistoles bien acquises qu’il vous fait perdre.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Moi, je n’entends point les perdre, et je prétends le guérir en dépit qu’il en ait. Il est lié et engagé à mes remèdes, et je veux le faire saisir où je le trouverai, comme déserteur de la médecine et infracteur de mes ordonnances.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Vous avez raison. Vos remèdes étoient un coup sûr, et c’est de l’argent qu’il vous vole.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Où puis-je en avoir des nouvelles ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Chez le bonhomme Oronte assurément, dont il vient épouser la fille, et qui, ne sachant rien de l’infirmité de son gendre futur, voudra peut-être se hâter de conclure le mariage.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Je vais lui parler tout à l’heure.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Vous ne ferez point mal.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Il est hypothéqué à mes consultations, et un malade ne se moquera pas d’un médecin.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>C’est fort bien dit à vous ; et, si vous m’en croyez, vous ne souffrirez point qu’il se marie, que vous ne l’ayez pansé tout votre soûl.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Laissez-moi faire.</p>
+
+<pagenum num="30"/>
+
+<hstage><speaker>SBRIGANI</speaker>, à part, en s’en allant.</hstage>
+<p>Je vais, de mon côté, dresser une autre batterie : et le beau-père est aussi dupe que le gendre.</p>
+
+<h3 id="p21">SCÈNE II. — ORONTE, PREMIER MÉDECIN</h3>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Vous avez, monsieur, un certain monsieur de Pourceaugnac qui doit épouser votre fille ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Oui, je l’attends de Limoges, et il devroit être arrivé.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Aussi l’est-il, et il s’en est fui de chez moi, après y avoir été mis ; mais je vous défends, de la part de la médecine, de procéder au mariage que vous avez conclu, que je ne l’aie dûment préparé pour cela, et mis en état dé procréer des enfants bien conditionnés de corps et d’esprit.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Comment donc ?</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Votre prétendu gendre a été constitué mon malade ; sa maladie, qu’on m’a donnée à guérir, est un meuble qui m’appartient, et que je compte entre mes effets ; et je vous déclare que je ne prétends point qu’il se marie, qu’au préalable il n’ait satisfait à la médecine et subi les remèdes que je lui ai ordonnés.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Il a quelque mal ?</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Et quel mal, s’il vous plaît ?</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Ne vous en mettez pas en peine.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Est-ce quelque mal...</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Les médecins sont obligés au secret. Il suffit que je vous ordonne à vous et à votre fille, de ne point célébrer, sans mon consentement, vos noces avec lui, sur peine d’encourir la disgrâce de la Faculté et d’être accablés de toutes les maladies qu’il nous plaira.</p>
+
+<pagenum num="31"/>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je n’ai garde, si cela est, de faire le mariage.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>On me l’a mis entre les mains, et il est obligé d’être mon malade.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>A la bonne heure.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Il a beau fuir ; je le ferai condamner, par arrêt, à se faire guérir par moi.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>J’y consens.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Oui, il faut qu’il crève, ou que je le guérisse.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je le veux bien.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Et, si je ne le trouve, je m’en prendrai à vous, et je vous guérirai au lieu de lui.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je me porte bien.</p>
+
+<hstage><speaker>PREMIER MÉDECIN</speaker></hstage>
+<p>Il n’importe. Il me faut un malade, et je prendrai qui je pourrai.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Prenez qui vous voudrez ; mais ce ne sera pas moi. <stage>Seul.</stage> Voyez un peu la belle raison !</p>
+
+<h3 id="p22">SCÈNE III. — ORONTE ; SBRIGANI, <i>en marchand flamand.</i></h3>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Montsir, afec le fôtre permission, je suisse un trancher marchand flamanne, qui foudroit bienne fous temandair un petit nouvel.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Quoi, monsieur ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Mettez le fôtre chapeau sur le tête, montsir, si ve plaît.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Dites-moi, monsieur, ce que vous voulez.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Moi le dire rien, montsir, si fous le mettre pas le chapeau sur le tête.</p>
+
+<pagenum num="32"/>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Soit. Qu’y-a-t-il, monsieur ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Fous connoître point en sti file un certe montsir Oronte ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Oui, je le connois.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Et quel homme est-il, montsir, si ve plaît ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>C’est un homme comme les autres.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je fous temande, montsir, s’il est un homme riche qui a du bienne.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Mais riche beaucoup grandement, montsir ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>J’en suis aise beaucoup, montsir.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Mais pourquoi cela ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>L’est, montsir, pour un petite raisonne de conséquence pour nous.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Mais encore, pourquoi ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>L’est, montsir, que sti montsir Oronte donne son fille en mariage à un certe montsir de Pourcegnac.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Eh bien ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Et sti montsir de Pourcegnac, montsir, l’est un homme que doivre beaucoup grandement à dix ou douze marchands flamannes qui être venu ici.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Ce monsieur de Pourceaugnac doit beaucoup à dix ou douze marchands ?</p>
+
+<pagenum num="33"/>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Oui, montsir ; et, depuis huite mois, nous afoir obtenir un petit sentence contre lui ; et lui a remettre à payer tou ce créanciers de sti mariage que sti montsir Oronte donne pour son fille.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Hon ! hon ! il a remis là à payer ses créanciers ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Oui, montsir, et avec un grant défotion nous tous attendre sti mariage.</p>
+
+<hstage><speaker>ORONTE</speaker>, à part.</hstage>
+<p>L’avis n’est pas mauvais. <stage>Haut.</stage> Je vous donne le bonjour.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je remercie, montsir, de la faveur grande.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Votre très humble valet.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je le suis, montsir, obliger plus que beaucoup du bon nouvel que montsir m’afoir donné. <stage>Seul, après avoir ôté sa barbe et dépouillé l’habit de Flamand qu’il a par-dessus le sien.</stage> Cela ne va pas mal. Quittons notre ajustement de Flamand, pour songer à d’autres machines ; et tâchons de semer tant de soupçons et de division entre le beau-père et le gendre, que cela rompe le mariage prétendu. Tous deux également sont propres à gober les hameçons qu’on leur veut tendre ; et, entre nous autres fourbes de la première classe, nous ne faisons que nous jouer, lorsque nous trouvons un gibier aussi facile que celui-là.</p>
+
+<h3 id="p23">SCÈNE IV. — MONSIEUR DE POURCEAUGNAC, SBRIGANI</h3>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, se croyant seul.</hstage>
+<p><i>Piglialo sù, piglialo sù, signor monsu.</i> Que diable est-ce cela ? <stage>Apercevant Sbrigani.</stage> Ah !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Qu’est-ce, monsieur ? Qu’avez-vous ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Tout ce que je vois me semble lavement.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Comment ?</p>
+
+<pagenum num="34"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Vous ne savez pas ce qui m’est arrivé dans ce logis à la porte duquel vous m’avez conduit ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Non, vraiment. Qu’est-ce que c’est ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je pensois y être régalé comme il faut.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Eh bien ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je vous laisse entre les mains de monsieur. Des médecins habillés de noir. Dans une chaise. Tâter le pouls. Comme ainsi soit. Il est fou. Deux gros joufflus. Grands chapeaux. <i>Buon di, buon di.</i> Six pantalons. Ta, ra, ta, ta ; ta, ra, ta, ta. <i>Allegramente, monsu Pourceaugnac.</i> Apothicaire. Lavement. Prenez, monsieur ; prenez, prenez. Il est bénin, bénin, bénin. C’est pour déterger, pour déterger, déterger. <i>Piglialo sù, signor monsu ; piglialo, piglialo, piglialo sù.</i> Jamais je n’ai été si soûl de sottises.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Qu’est-ce que tout cela veut dire ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Cela veut dire que cet homme-là, avec ses grandes embrassades, est un fourbe qui m’a mis dans une maison pour se moquer de moi, et me faire une pièce.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Cela est-il possible ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Sans douté. Ils étoient une douzaine de possédés après mes chausses, et j’ai eu toutes les peines du monde à m’échapper de leurs pattes.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Voyez un peu ; les mines sont bien trompeuses : je l’aurois cru le plus affectionné de vos amis. Voilà un de mes étonnements, comme il est possible qu’il y ait des fourbes comme cela dans le monde.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ne sens-je point le lavement ? Voyez, je vous prie.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Eh ! il y a quelque petite chose qui approche de cela.</p>
+
+<pagenum num="35"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>J’ai l’odorat et l’imagination tout remplis de celà ; et il me semble toujours que je vois une douzaine de lavements qui me couchent en joue.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Voilà une méchanceté bien grande ; et les hommes sont bien traîtres et scélérats !</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Enseignez-moi, de grâce, le logis de monsieur Oronte ; je suis bien aise d’y aller tout à l’heure.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Ah ! ah ! vous êtes donc de complexion amoureuse ? et vous avez ouï parler que ce monsieur Oronte a une fille ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Oui, je viens l’épouser.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>L’é... l’épouser ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>En mariage ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>De quelle façon, donc ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Ah ! c’est une autre chose ; et je vous demande pardon.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Qu’est-ce que cela veut dire ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Rien.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Mais encore ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Rien, vous dis-je. J’ai un peu parlé trop vite.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je vous prie de me dire ce qu’il y a là-dessous.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Non : cela n’est point nécessaire.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>De grâce.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Point. Je vous prie de m’en dispenser.</p>
+
+<pagenum num="36"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Est-ce que vous n’êtes pas de mes amis ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Si fait. On ne peut pas l’être davantage.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Vous devez donc ne me rien cacher.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>C’est une chose où il y va de l’intérêt du prochain.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Afin de vous obliger à m’ouvrir votre cœur, voila une petite bague que je vous prie de garder pour l’amour de moi.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Laissez-moi consulter un peu si je le puis faire en conscience. <stage>Après s’être un peu éloigné de monsieur de Pourceaugnac.</stage> C’est un homme qui cherche son bien, qui tâche de pourvoir sa fille le plus avantageusement qu’il est possible ; et il ne faut nuire à personne. Ce sont des choses qui sont connues, à la vérité ; mais j’irai les découvrir à un homme qui les ignore ; et il est défendu de scandaliser son prochain. Cela est vrai ; mais, d’autre part, voilà un étranger qu’on veut surprendre, et qui, de bonne foi, vient se marier avec une fille qu’il ne ccnnoît pas et qu’il n’a jamais vue ; un gentilhomme plein de franchise, pour qui je me sens de l’inclination, qui me fait l’honneur de me tenir pour son ami, prend confiance en moi, et me donne une bague à garder pour l’amour de lui. <stage>A monsieur de Pourceaugnac.</stage> Oui, je trouve que je puis vous dire les choses sans blesser ma conscience : mais tâchons de vous les dire le plus doucement qu’il nous sera possible, et d’épargner les gens le plus que nous pourrons. De vous dire que cette fille-là mène une vie déshonnête, cela seroit un peu trop fort. Cherchons, pour nous expliquer, quelques termes plus doux. Le mot de galante aussi n’est pas assez : celui de coquette achevée me semble propre à ce que nous voulons, et je m’en puis servir pour vous dire honnêtement ce qu’elle est.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>L’on me veut donc prendre pour dupe ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Peut-être, dans le fond, n’y a-t-il pas tant de mal que tout le monde croit ; et puis il y a des gens, après tout, qui se mettent au-dessus de ces sortes de choses, et qui ne croient pas que leur honneur dépende...</p>
+
+<pagenum num="37"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je suis votre serviteur ; je ne me veux point mettre sur la tête un chapeau comme celui-là ; et l’on aime à aller le front levé dans la famille des Pourceaugnac.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Voilà le père.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ce vieillard-là ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Oui. Je me retire.</p>
+
+<h3 id="p24">SCÈNE V. — ORONTE, MONSIEUR DE POURCEAUGNAC</h3>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Bonjour, monsieur, bonjour.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Serviteur, monsieur, serviteur.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Vous êtes monsieur Oronte, n’est-ce pas ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Oui.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Et moi, monsieur de Pourceaugnac.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>A la bonne heure.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Croyez-vous, monsieur Oronte, que les Limosins soient des sots ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Croyez-vous, monsieur de Pourceaugnac, que les Parisiens soient des bêtes ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Vous imaginez-vous, monsieur Oronte, qu’un homme comme moi soit si affamé de femme ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Vous imaginez-vous, monsieur de Pourceaugnac, qu’une fille comme la mienne soit si affamée de mari ?</p>
+
+<h3 id="p25">SCÈNE VI. — MONSIEUR DE POURCEAUGNAC, JULIE, ORONTE</h3>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>On vient de me dire, mon père, que monsieur de <pagenum num="38" b="Pourceau-" a="gnac">Pourceaugnac</pagenum> est arrivé ! Ah ! le voilà sans doute, et mon cœur me le dit. Qu’il est bien fait ! qu’il a bon air ! et que je suis contente d’avoir un tel époux. Souffrez que je l’embrasse, et que je lui témoigne...</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Doucement, ma fille, doucement.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à part.</hstage>
+<p>Tudieu ! Quelle galante ! Comme elle prend feu d’abord !</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je voudrois bien savoir, monsieur de Pourceaugnac, par quelle raison vous venez...</p>
+
+<hstage><speaker>JULIE</speaker> s’approche de monsieur de Pourceaugnac, le regarde d’un air languissant, et lui veut prendre la main.</hstage>
+<p>Que je suis aise de vous voir ! et que je brûle d’impatience !..</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Ah ! ma fille ! Otez-vous de là, vous dis-je !</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGN</speaker>, à part.</hstage>
+<p>Oh ! oh ! quelle égrillade !</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je voudrois bien, dis-je, savoir par quelle raison, s’il vous plaît, vous avez la hardiesse de... <stage>Julie continue le même jeu.</stage></p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à part.</hstage>
+<p>Vertu de ma vie !</p>
+
+<hstage><speaker>ORONTE</speaker>, à Julie.</hstage>
+<p>Encore ! Qu’est-ce à dire, cela ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Ne voulez-vous pas que je caresse l’époux que vous m’avez choisi ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Non. Rentrez là dedans.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Laissez-moi le regarder.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Rentrez, vous dis-je !</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je veux demeurer là, s’il vous plaît.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je ne veux pas, moi ; et, si tu ne rentres tout à l’heure, je...</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Eh bien, je rentre.</p>
+
+<pagenum num="39"/>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Ma fille est une sotte qui ne sait pas les choses.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à part.</hstage>
+<p>Comme nous lui plaisons !</p>
+
+<hstage><speaker>ORONTE</speaker>, à Julie, qui est restée après avoir fait quelques pas pour s’en aller.</hstage>
+<p>Tu ne veux pas te retirer ?</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Quand est-ce donc que vous me marierez avec monsieur ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Jamais ; et tu n’es pas pour lui.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je le veux avoir, moi, puisque vous me l’avez promis.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Si je te l’ai promis, je te le dépromets.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à part.</hstage>
+<p>Elle voudroit bien me tenir.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Vous ayez beau faire, nous serons mariés ensemble en dépit de tout le monde.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je vous en empêcherai bien tous deux, je vous assure. Voyez un peu quel <i>vertigo</i> lui prend.</p>
+
+<h3 id="p26">SCÈNE VII. — ORONTE, MONSIEUR DE POURCEAUGNAC</h3>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Mon Dieu ! notre beau-père prétendu, ne vous fatiguez point tant ; on n’a pas envie de vous enlever votre fille, et vos grimaces n’attraperont rien.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Toutes les vôtres n’auront pas grand effet.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Vous êtes-vous mis dans la tête que Léonard de Pourceaugnac soit un homme à acheter chat en poche, et qu’il n’ait pas là dedans quelque morceau de judiciaire pour se conduire, pour se faire informer de l’histoire du monde, et voir, en se mariant, si son honneur a bien toutes ses sûretés !</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je ne sais pas ce que cela veut dire ; mais vous êtes-vous <pagenum num="40"/>mis dans la tête qu’un homme de soixante et trois ans ait si peu de cervelle, et considère si peu sa fille, que de la marier avec un homme qui a ce que vous savez, et qui à été mis chez un médecin pour être pansé ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>C’est une pièce que l’on m’a faite, et je n’ai aucun mal.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Le médecin me l’a dit lui-même.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Le médecin en a menti. Je suis gentilhomme, et je le veux voir l’épée à la main.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je sais ce que j’en dois croire ; et vous ne m’abuserez pas là-dessus non plus que sur les dettes que vous avez assignées sur le mariage de ma fille.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Quelles dettes ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>La feinte ici est inutile ; et j’ai vu le marchand flamand qui, avec les autres créanciers, a obtenu depuis huit mois sentence contre vous.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Quel marchand flamand ? Quels créanciers ? Quelle sentence obtenue contre moi ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Vous savez bien ce que je veux dire.</p>
+
+<h3 id="p27">SCÈNE VIII. — MONSIEUR DE POURCEAUGNAC, ORONTE, LUCETTE</h3>
+
+<hstage><speaker>LUCETTE</speaker>, contrefaisant une Languedocienne.</hstage>
+<p>Ah ! tu es assi, et à la fi yeu te trobi après abé fait tant de passés. Podes-tu, scélérat, podes-tu sousteni ma bisto<noteref noteid="note.40.1"/> ?</p>
+
+<notes>
+  <note id="note.40.1">
+    <p>« Ah ! tu es ici et à la fin je te trouve après avoir fait tant d’allées et de venues. Peux-tu, scélérat, peut-tu soutenir ma vue ? » (Luneau Boisgermain.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Qu’est-ce que veut cette femme-là ?</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Que te boli, infâme ! Tu fas semblan de nou me pas connouisse, et nou rougisses pas, impudint que tu sios, tu ne rougisses pas de me beyre ? <stage>A Oronte.</stage> Non sabi pas, moussur, saquos bous dont m’an dit que bouillo espousa la fillo ; may <pagenum num="41"/>yeu bous déclari que yeu soun sa fenno, et que y a set ans, moussur, qu’en passan à Pézénas, el auguet l’adresse, dambé sas mignardisos, commo sap tapla fayre, de me gaigna lou cor, et m’oubligel pra quel mouyen à ly douna la man per l’espousa<noteref noteid="note.41.1"/>.</p>
+
+<notes>
+  <note id="note.41.1">
+    <p>« Ce que je te veux, infâme ! tu fais semblant de ne me pas connaître, et tu ne rougis pas, impudent que tu es, tu ne rougis pas de me voir ? <stage>A Oronte.</stage> J’ignore, monsieur, si c’est vous dont on m’a dit qu’il voulait épouser la fille ; mais je vous déclare que je suis sa femme, et qu’il y a sept ans, qu’en passant à Pézénas, il eut l’adresse, par ses mignardises qu’il sait si bien faire, de me gagner le cœur et m’obligea, par ce moyen, à lui donner la main pour l’épouser. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Oh ! oh !</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Que diable est-ce ci ?</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Lou traité me quittel très ans après, sul préteste de qualques affayres que l’apelabon dins soun pays, et despey noun ly resçau put quaso de noubelo ; may dins lou tens qui soungeabi lou mens, m’an dounat abist, que begnio dins aquesto bilo, pei se remarida dambé un autro jouena fillo, que sous parens ly an proucurado, sensse saupré res de son prumié mariatge. Yen ai tout quitat en diligensso, et me souy rendue dodins aqueste loc lou pu leu qu’ay pouscut, per m’oupousa en aquel criminel mariatge, et confondre as elys de tout le mounde lou plus méchant day hommes<noteref noteid="note.41.2"/>.</p>
+
+<notes>
+  <note id="note.41.2">
+    <p>« Le traître me quitta trois ans après, sous prétexte de quelque affaire qui l’appelait dans son pays, et depuis je n’en ai point eu de nouvelles ; mais, dans le temps que j’y songeais le moins, on m’a donné avis qu’il venait dans cette ville pour se remarier avec une autre jeune fille que ses parents lui ont promise, sans savoir rien de son premier mariage. J’ai tout quitté aussitôt, et je me suis rendue dans ce lieu le plus promptement que j’ai pu pour m’opposer à ce criminel mariage, et pour confondre aux yeux de tout le monde le plus méchant des hommes, » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Voilà une étrange effrontée !</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Impudint ! n’as pas honte de m’injuria, alloc d’être confus day reproches secrets que ta conssiensso te deu fayre<noteref noteid="note.41.3"/> ?</p>
+
+<notes>
+  <note id="note.41.3">
+    <p>« Impudent ! n’as-tu pas honte de m’injurier, au lieu d’être confus des reproches secrets que ta conscience doit te faire ? » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Moi, je suis votre mari ?</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Infâme ! gausos-tu dire lou contrari ? Eh ! tu sabes bé, per ma penno, que n’es que trop bertat ; et plaguesso al cel qu’aco <pagenum num="42"/>nou fougesso pas, et que m’auquessos layssado dins l’état d’innoussenço, et dins la tranquillitat oun moun amo bibio daban que tous charmes et tas trounpariés nou m’en benguesson malhurpusomen fayre sourty ! yeu nou serio pas réduito à fayré lou tristé persounatge que yeu fave présentomen ; à beyre un marit cruel mespresa touto l’ardou que yeu ay per el, et me laissa sensse cap de piétat abandounado à las mourtéles doulous que yeu ressenti de sas perfidos acciùs<noteref noteid="note.42.1"/>.</p>
+
+<notes>
+  <note id="note.42.1">
+    <p>« Infâme ! oses-tu dire le contraire ? Ah ! tu sais bien, pour mon malheur que tout ce que je te dis n’est que trop vrai ; et plût au ciel que cela ne fût pas, et que tu m’eusses laissée dans l’état d’innocence et dans la tranquillité où mon âme vivait avant que tes charmes et tes tromperies m’en vinssent malheureusement faire sortir ; je ne serais point réduite à faire le triste personnage que je fais présentement, à voir un mari cruel mépriser toute l’ardeur que j’ai eue pour lui, et me laisser sans aucune pitié à la douleur mortelle que j’ai ressentie de ses perfides actions. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je ne saurois m’empêcher de pleurer. <stage>A monsieur de Pourceaugnac.</stage> Allez, vous êtes un méchant homme.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je ne connois rien à tout ceci.</p>
+
+<h3 id="p28">SCÈNE IX. MONSIEUR DE POURCEAUGNAC, NÉRINE, LUCETTE, ORONTE</h3>
+
+<hstage><speaker>NÉRINE</speaker>, contrefaisant une Picarde.</hstage>
+<p>Ah ! je n’en pis plus ; je sis tout essoflée ! Ah ! finfaron, tu m’as bien fait courir : tu ne m’écaperas mie. Justiche, justiche ! je boute empêchement au mariage. <stage>A Oronte.</stage> Chés mon méri, monsieur, et je veux faire pindre che bon pindard-là.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Encore !</p>
+
+<hstage><speaker>ORONTE</speaker>, à part.</hstage>
+<p>Quel diable d’homme est-ce ci ?</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Et que boulez-bous dire, ambe bostre empachomen et bostro pendarie ? Quaquel homo es bostre marit<noteref noteid="note.42.2"/> ?</p>
+
+<notes>
+  <note id="note.42.2">
+    <p>Et que voulez-vous dire avec votre empêchement et votre pendaison ? Cet homme est votre mari ? » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Oui, medéme, et je sis sa femme.</p>
+
+<pagenum num="43"/>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Aquos es fans, aquos yeu que soun sa fenno, et se deu estre pendut, aquo sera yeu que l’on farai pendat<noteref noteid="note.43.1"/>.</p>
+
+<notes>
+  <note id="note.43.1">
+    <p>« Cela est faux, et c’est moi qui suis sa femme ; et, s’il doit être pendu, ce sera moi qui le ferai pendre. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Je n’entains mie che baragoin-là.</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Yen bous disi que yeu soun sa fenno<noteref noteid="note.43.2"/>.</p>
+
+<notes>
+  <note id="note.43.2">
+    <p>« Je vous dis que je suis sa femme. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Sa femme ?</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Oy<noteref noteid="note.43.3"/>.</p>
+
+<notes>
+  <note id="note.43.3">
+    <p>« Oui. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Je vous dis que chest mi, encore in coup, qui le sis.</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Et yeu bous sousteni yeu, qu’aquos yeu<noteref noteid="note.43.4"/>.</p>
+
+<notes>
+  <note id="note.43.4">
+    <p>« Et je vous soutiens, moi, que c’est moi. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Il y a quetre ans qu’il m’a éposée.</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Et yeu set ans y a que m’a preso per fenno<noteref noteid="note.43.5"/>.</p>
+
+<notes>
+  <note id="note.43.5">
+    <p>« Et moi, il y a sept ans qu’il m*a prise pour femme. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>J’ai des gairans de tout cho que je di.</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Tout mon pay lo sap<noteref noteid="note.43.6"/>.</p>
+
+<notes>
+  <note id="note.43.6">
+    <p>« Tout mon pays le sait. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>No ville en est témoin.</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Tout Pézénas a bist nostre mariatge<noteref noteid="note.43.7"/>.</p>
+
+<notes>
+  <note id="note.43.7">
+    <p>« Tout Pésenas a vu notre mariage. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Tout Chin-Quentin a assisté à no noche.</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Nou y a res de tant béritable<noteref noteid="note.43.8"/>.</p>
+
+<notes>
+  <note id="note.43.8">
+    <p>« Il n’y a rien de plus véritable. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Il gn’y a rien de plus chertain.</p>
+
+<pagenum num="44"/>
+
+<hstage><speaker>LUCETTE</speaker>, à monsieur de Pourceaugnac.</hstage>
+<p>Gausos-tu dire lou contrari, valisquos<noteref noteid="note.44.1"/> ?</p>
+
+<notes>
+  <note id="note.44.1">
+    <p>« Oses-tu dire le contraire, vilain ? » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker>, à monsieur de Pourceaugnac.</hstage>
+<p>Est-che que tu me démaintiras, méchaint homme ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Il est aussi vrai l’un que l’autre.</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Quaingn impudensso ! Et coussy, misérable, nou te soubennes plus de la pauro Françon, et del paure Jeanet, que soun lous fruits de nostre mariatge<noteref noteid="note.44.2"/> ?</p>
+
+<notes>
+  <note id="note.44.2">
+    <p>« Quelle impudence ! Comment, misérable, tu ne te souviens plus de la pauvre Françoise et du pauvre Jean qui sont les fruits de notre mariage ? » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Bayez un peu l’insolence ! Quoi ! tu ne te souviens mie de chette pauvre ainfain, no petite Madeleine, que m’as laichée pour gaige de ta foi ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Voilà deux impudentes carognes !</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Beni, Françon, beni Jeanet, beni touston, beni toustone, beni fayre beyre à un payre dénaturat la duretat quel a per nautres<noteref noteid="note.44.3"/>.</p>
+
+<notes>
+  <note id="note.44.3">
+    <p>« Venez, Françoise, venez, Jean, venez tous, venez toutes, venez faire voir à un père dénaturé l’insensibilité qu’il a pour nous tous. » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Venez, Madeleine, men ainfaint, venez-ves-en ichi faire honte à vo père de l’impudainche qu’il a<noteref noteid="note.44.4"/>.</p>
+
+<notes>
+  <note id="note.44.4">
+    <p>« Venez, Madeleine, mon enfant venez vite ici faire honte à votre père de l’impudence qu’il a. » (L. B.)</p>
+  </note>
+</notes>
+
+<h3 id="p29">SCÈNE X. — MONSIEUR DE POURCEAUGNAC, ORONTE, LUCETTE, NÉRINE, PLUSIEURS ENFANTS</h3>
+
+<hstage><speaker>LES ENFANTS</speaker></hstage>
+<p>Ah ! mon papa ! mon papa ! mon papa !</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Diantre soit des petits fils de putains !</p>
+
+<hstage><speaker>LUCETTE</speaker></hstage>
+<p>Coussy, trayte, tu nou sios pas dins la darnière confusiu de ressaupre à tal tous enfants, et de ferma l’aureillo à la tendresso paternello ? Tu nou m’escaperas pas, infâme ! yeu te boly seguy pertout, et te reproucha ton crime jusquos à tant <pagenum num="45"/>que me sio beniado, et que t’ayo fayt penjat ; couquy, te boly fayré penjat<noteref noteid="note.45.1"/> !</p>
+
+<notes>
+  <note id="note.45.1">
+    <p>« Comment, traître, tu n’es pas dans la dernière confusion de recevoir ainsi tes enfants, et de fermer l’oreille à la tendresse paternelle ! Tu ne m’échapperas pas, infâme ! je veux te suivre partout, et te reprocher ton crime jusqu’à tant que je me sois vengée et que je t’aie fait pendre ; coquin, je veux te faire pendre ! » (L. B.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>NÉRINE</speaker></hstage>
+<p>Ne rougis-tu mie de dire ches mots-là, et d’être insainsible aux cairesses de chette pauvre ainfaint ? Tu ne te sauveras mie de mes pattes ; et, en dépit de tes dains, je ferai bien voir que je sis ta femme, et je te ferai pindre.</p>
+
+<hstage><speaker>LES ENFANTS</speaker></hstage>
+<p>Mon papa ! mon papa ! mon papa !</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Au secours ! au secours ! Où fuirai-je ? Je n’en puis plus !</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Allez, vous ferez bien de le faire punir ; et il mérite d’être pendu.</p>
+
+<h3 id="p30">SCÈNE XI. — SBRIGANI, <i>seul.</i></h3>
+
+<p>Je conduis de l’œil toutes choses, et tout ceci ne va pas mal. Nous fatiguerons tant notre provincial, qu’il faudra, ma foi, qu’il déguerpisse.</p>
+
+<h3 id="p31">SCÈNE XII. — MONSIEUR DE POURCEAUGNAC, SBRIGANI</h3>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ah ! je suis assommé ! Quelle peine ! Quelle maudite ville ! Assassiné de tous côtés !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Qu’est-ce, monsieur ? Est-il encore arrivé quelque chose ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Oui. Il pleut en ce pays des femmes et des lavements.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Comment donc ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Deux carognes de baragouineuses me sont venues accuser de les avoir épousées toutes deux, et me menacent de la justice.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Voilà une méchante affaire ; et la justice, en ce pays-ci, est rigoureuse en diable contre cette sorte de crime.</p>
+
+<pagenum num="46"/>
+
+<hstage><speaker>MONSIEUR DÉ POURCEAUGNAC</speaker></hstage>
+<p>Oui ; mais, quand il y auroit information, ajournement, décret, et jugement obtenu par surprise, défaut et contumace, j’ai la voie de conflit de juridiction pour temporiser, et venir aux moyens de nullité qui seront dans les procédures.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Voilà en parler dans tous les termes, et l’on voit bien, monsieur, que vous êtes du métier.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Moi ! point du tout, je suis gentilhomme.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Il faut bien, pour parler ainsi, que vous ayez étudié la pratique.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Point. Ce n’est que le sens commun qui me fait juger que je serai toujours reçu à mes faits justificatifs, et qu’on ne me sauroit condamner sur une simple accusation, sans un récolement et confrontation avec mes parties.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>En voilà du plus fin encore.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ces mots-là me viennent sans que je les sache.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Il me semble que le sens commun d’un gentilhomme peut bien aller à concevoir ce qui est du droit et de l’ordre, de la justice, mais non pas à savoir les vrais termes de la chicane.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ce sont quelques mots que j’ai retenus en lisant les romans.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Ah ! fort bien.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Pour vous montrer que je n’entends rien du tout à la chicane, je vous prie de me mener chez quelque avocat, pour consulter mon affaire.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je le veux, et vais vous conduire chez deux hommes fort habiles ; mais j’ai auparavant à vous avertir de n’être point surpris de leur manière de parler ; ils ont contracté du barreau certaine habitude de déclamation qui fait que l’on diroit qu ils chantent ; et vous prendrez pour musique tout ce qu’ils vous diront.</p>
+
+<pagenum num="47"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Qu’importe comme ils parlent, pourvu qu’ils me disent ce que je veux savoir !</p>
+
+<h3 id="p32">SCÈNE XIII. — MONSIEUR DE POURCEAUGNAC, SBRIGANI, DEUX AVOCATS, DEUX PROCUREURS, DEUX SERGENTS.</h3>
+
+<hstage><speaker>PREMIER AVOCAT</speaker>, traînant ses paroles en chantant.</hstage>
+<l indent='c'>La polygamie est un cas,</l>
+<l indent='c'>Est un cas pendable.</l>
+
+<hstage><speaker>SECOND AVOCAT</speaker>, chantant fort vite en bredouillant.</hstage>
+<l indent='c'>Votre fait</l>
+<l indent='c'>Est clair et net ;</l>
+<l indent='c'>Et tout de droit,</l>
+<l indent='c'>Sur cet endroit.</l>
+<l indent='c'>Conclut tout droit.</l>
+<l indent='c'>Si vous consultez nos auteurs,</l>
+<l indent='c'>Législateurs et glossateurs,</l>
+<l indent='c'>Justinian, Papinian,</l>
+<l indent='c'>Ulpian, et Tribonian,</l>
+<l indent='c'>Fernand, Rebuffe, Jean Imole,</l>
+<l indent='c'>Paul, Castie, Julian, Barthole,</l>
+<l indent='c'>Jason, Alciat, et Cujas,</l>
+<l indent='c'>Ce grand homme si capable ;</l>
+<l indent='c'>La polygamie est un cas,</l>
+<l indent='c'>Est un cas pendable.</l>
+
+<hstage><speaker>ENTRÉE DE BALLET</speaker></hstage>
+<pstage>Danse de deux procureurs et de deux sergents, pendant que le second avocat chante les paroles qui suivent :</pstage>
+<l indent='c'>Tous les peuples policés</l>
+<l indent='c'>Et bien sensés ;</l>
+<l indent='c'>Les François, Anglois, Hollandois,</l>
+<l indent='c'>Danois, Suédois, Polonois,</l>
+<l indent='c'>Portugois, Espagnols, Flamands,</l>
+<l indent='c'>Italiens, Allemands,</l>
+<l indent='c'>Sur ce fait tiennent loi semblable ;</l>
+<l indent='c'>Et l’affaire est sans embarras :</l>
+<l indent='c'>La polygamie est un cas,</l>
+<l indent='c'>Est un cas pendable.</l>
+
+<hstage><speaker>LE PREMIER AVOCAT</speaker> chante celles-ci :</hstage>
+<l indent='c'>La polygamie est un cas,</l>
+<pagenum num="48"/>
+<l indent='c'>Est un cas pendable.</l>
+<pstage>Monsieur de Pourceaugnac, impatienté, les chasse.</pstage>
+
+<h2 id="p33">ACTE TROISIÈME</h2>
+
+<h3 id="p34">SCÈNE I. — ÉRASTE, SBRIGANI</h3>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Oui, les choses s’acheminent où nous voulons ; et, comme ses lumières sont fort petites et son sens le plus borné du monde, je lui ai fait prendre une frayeur si grande de la sévérité de la justice de ce pays et des apprêts qu’on faisait déjà pour sa mort, qu’il veut prendre la fuite ; et, pour se dérober avec plus de facilité aux gens que je lui ai dit qu’on avoit mis pour l’arrêter aux portes de la ville, il s’est résolu à se déguiser ; et le déguisement qu’il a pris est l’habit de femme.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Je voudrois bien le voir en cet équipage.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Songez, de votre part, à achever la comédie ; et, tandis que je jouerai mes scènes avec lui, allez-vous-en... <stage>Il lui parle bas à l’oreille.</stage> Vous entendez bien ?</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Oui...</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Et lorsque je l’aurai mis où je veux... <stage>Il lui parle à l’oreille.</stage></p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Et quand le père aura été averti par moi... <stage>Il lui parle encore à l’oreille.</stage></p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Cela va le mieux du monde.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Voici notre demoiselle. Allez vite, qu’il ne nous voie ensemble.</p>
+
+<h3 id="p35">SCÈNE II. — MONSIEUR DE POURCEAUGNAC, <i>en femme ;</i> SBRIGANI</h3>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Pour moi, je ne crois pas qu’en cet état on puisse jamais <pagenum num="49"/>vous connoître ; et vous avez la mine, comme cela, d’une femme de condition.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Voilà qui m’étonne, qu’en ce pays-ci les formes de la justice ne soient point observées.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Oui, je vous l’ai déjà dit, ils commencent par faire pendre un homme, et puis ils lui font son procès.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Voilà une justice bien injuste !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Elle est sévère comme tous les diables, particulièrement sur ces sortes de crimes.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Mais quand on est innocent ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>N’importe, ils ne s’enquêtent point de cela ; et puis, ils ont en cette ville une haine effroyable pour les gens de votre pays ; et ils ne sont point plus ravis que de voir pendre un Limosin.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Qu’est-ce que les Limosins leur ont fait ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Ce sont des brutaux, ennemis de la gentillesse et du mérite des autres villes. Pour moi, je vous avoue que je suis pour vous dans une peur épouvantable ; et je ne me consolerois de ma vie, si vous veniez à être pendu.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ce n’est pas tant la peur de la mort qui me fait fuir que de ce qu’il est fâcheux à un gentilhomme d’être pendu, et qu’une preuve comme celle-là feroit tort à nos titres de noblesse.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Vous avez raison ; on vous contesteroit après cela le titre d’écuyer. Au reste, étudiez-vous, quand je vous mènerai par la main, à bien marcher comme une femme, et à prendre le langage et toutes les manières d’une personne de qualité.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Laissez-moi faire. J’ai vu les personnes du bel air. Tout ce qu’il y a, c’est que j’ai un peu de barbe.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Votre barbe n’est rien ; il y a des femmes qui en ont autant <pagenum num="50"/>que vous. Çà, voyons un peu comme vous ferez. <stage>Après que monsieur de Pourceaugnac a contrefait la femme de condition.</stage> Bon.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Allons donc, mon carrosse ! Où est-ce qu’est mon carrosse ? Mon Dieu ! qu’on est misérable d’avoir des gens comme cela ! Est-ce qu’on me fera attendre toute la journée sur le pavé, et qu’on ne me fera point venir mon carrosse ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Fort bien.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Holà ! ho ! cocher, petit laquais ! Ah ! petit fripon, que de coups de fouet je vous ferai donner tantôt ! Petit laquais ! petit laquais ! Où est-ce donc qu’est ce petit laquais ? Ce petit laquais ne se trouvera-t-il point ? Ne me fera-t-on point venir ce petit laquais ? Est-ce que je n’ai point un petit laquais dans le monde.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Voilà qui va à merveille ; mais je remarque une chose : cette coiffe est un peu trop déliée : j’en vais quérir une un peu plus épaisse, pour vous mieux cacher le visage, en cas de quelque rencontre.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Que deviendrai-je cependant ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Attendez-moi là. Je suis à vous dans un moment ; vous n’avez qu’à vous promener. <stage>Monsieur de Pourceaugnac fait plusieurs tours sur le théâtre, en continuant à contrefaire la femme de qualité.</stage></p>
+
+<h3 id="p36">SCÈNE III. — MONSIEUR DE POURCEAUGNAC, DEUX SUISSES</h3>
+
+<hstage><speaker>PREMIER SUISSE</speaker>, sans voir monsieur de Pourceaugnac.</hstage>
+<p>Allons, dépêchons, camerade ; il faut allair tous deux nous à la Crève, pour regarter un peu chousticier sti monsiu de Pourcegnac, qui l’a été contané par ortonnance à l’être pendu par son cou.</p>
+
+<hstage><speaker>SECOND SUISSE</speaker>, sans voir monsieur de Pourceaugnac.</hstage>
+<p>Li faut nous loër un fenêtre pour foir sti choustics.</p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Li disent que l’on fait téjà planter un grand potence tout neuve, pour l’y accrocher sti Porcegnac.</p>
+
+<pagenum num="51"/>
+
+<hstage><speaker>SECOND SUISSE</speaker></hstage>
+<p>Li sira, mon foi, un grand plaisir, d’y regarter pendre sti Limossin.</p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Oui, de li foir gambiller les pieds en haut tevant tout le monde.</p>
+
+<hstage><speaker>SECOND SUISSE</speaker></hstage>
+<p>Li est un plaiçant trôle, oui ; li disent que s’être marié troy foie.</p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Sti tiable ti fouloir trois femmes à li tout seul ! li est bien assez ine.</p>
+<hstage><speaker>SECOND SUISSE</speaker>, en apercevant monsieur de Pourceaugnac.</hstage>
+<p>Ah ! ponchour, mameselle.</p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Que faire fous là tout seul ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>J’attends mes gens, messieurs.</p>
+
+<hstage><speaker>SECOND SUISSE</speaker></hstage>
+<p>Li est belle, par mon foi !</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Doucement, messieurs.</p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Fous, mameselle, fouloir fenir rechouir fous à la Crève ? Nous faire foir à fous un petit pendément pien choli.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je vous rends grâce.</p>
+
+<hstage><speaker>SECOND SUISSE</speaker></hstage>
+<p>L’est un gentilhomme limossin, qui sera pendu chentiment à un grand potence.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je n’ai pas de curiosité.</p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Li est là un petit teton qui l’est drôle.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Tout beau !</p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Mon foi, moi couchait pien afec fous.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ah ! c’en est trop ! et ees sortes d’ordures-là ne se disent point à une femme de ma condition.</p>
+
+<pagenum num="52"/>
+
+<hstage><speaker>SECOND SUISSE</speaker></hstage>
+<p>Laisse, toi ; l’est moi qui le veut couchair afec elle pour mon pistole.</p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Moi, ne fouloir pas laisser.</p>
+
+<hstage><speaker>SECOND SUISSE</speaker></hstage>
+<p>Moi, ly fouloir, moi. <stage>Les deux Suisses tirent monsieur de Pourceaugnac avec violence.</stage></p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Moi, ne faire rien.</p>
+
+<hstage><speaker>SECOND SUISSE</speaker></hstage>
+<p>Toi, l’afoir menti.</p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Parti, toi, l’afoir menti toi-même.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Au secours ! à la force !</p>
+
+<h3 id="p37">SCÈNE IV. — MONSIEUR DE POURCEAUGNAC, UN EXEMPT, DEUX ARCHERS, DEUX SUISSES</h3>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Qu’est-ce ? Quelle violence est-ce là ? et que voulez-vons faire à madame ? Allons, que l’on sorte de là, si vous ne voulez que je vous mette en prison.</p>
+
+<hstage><speaker>PREMIER SUISSE</speaker></hstage>
+<p>Parti, pon, toi ne l’afoir point.</p>
+
+<hstage><speaker>SECOND SUISSE</speaker></hstage>
+<p>Parti, pon, aussi ; toi ne l’afoir point encore.</p>
+
+<h3 id="p38">SCÈNE V. — MONSIEUR DE POURCEAUGNAC, UN EXEMPT, DEUX ARCHERS</h3>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je vous suis bien obligée, monsieur, de m’avoir délivrée de ces insolents.</p>
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Ouais ! voilà un visage qui ressemble bien à celui que l’on m’a dépeint.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ce n’est pas moi, je vous assure.</p>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Ah ! ah ! qu’est-ce que veut dire...</p>
+
+<pagenum num="53"/>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Je ne sais pas.</p>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Pourquoi donc dites-vous cela ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Pour rien.</p>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Voilà un discours qui marque quelque chose ; et je vous arrête prisonnier.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Eh ! monsieur, de grâce !</p>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Non, non ; à votre mine et à vos discours, il faut que vous soyez ce monsieur de Pourceaugnac, que nous cherchons, qui se soit déguisé de la sorte ; et vous viendrez en prison tout à l’heure.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Hélas !</p>
+
+<h3 id="p39">SCÈNE VI. — MONSIEUR DE POURCEAUGNAC, SBRIGANI, UN EXEMPT, DEUX ARCHERS</h3>
+
+<hstage><speaker>SBRIGANI</speaker>, à monsieur de Pourceaugnac</hstage>
+<p>Ah ! ciel ! que veut dire cela ?</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ils m’ont reconnu.</p>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Oui, oui : c’est de quoi je suis ravi.</p>
+
+<hstage><speaker>SBRIGANI</speaker>, à l’exempt.</hstage>
+<p>Eh ! monsieur, pour l’amour de moi ! vous savez que nous sommes amis, il y a longtemps ; je vous conjure de ne le point mener en prison.</p>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Non ; il m’est impossible.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Vous êtes homme d’accommodement. N’y a-t-il pas moyen d’ajuster cela avec quelques pistoles ?</p>
+
+<hstage><speaker>L’EXEMPT</speaker>, à ses archers.</hstage>
+<p>Retirez-vous un peu.</p>
+
+<pagenum num="54"/>
+
+<h3 id="p40">SCÈNE VII. — MONSIEUR DE POURCEAUGNAC, SBRIGANI, UN EXEMPT</h3>
+
+<hstage><speaker>SBRIGANI</speaker>, à monsieur de Pourceaugnac.</hstage>
+<p>Il faut lui donner de l’argent pour vous laisser aller. Faites vite.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, donnant de l’argent à Sbrigani.</hstage>
+<p>Ah ! maudite ville !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Tenez, monsieur.</p>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Combien y a-t-il ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.</p>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Non ; mon ordre est trop exprès.</p>
+
+<hstage><speaker>SBRIGANI</speaker>, à l’exempt qui veut s’en aller.</hstage>
+<p>Mon Dieu ! attendez. <stage>A monsieur de Pourceaugnac.</stage> Dépêchez, donnez-lui-en encore autant.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Mais...</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Dépêchez-vous, vous dis-je, et ne perdez point de temps. Vous auriez un grand plaisir, quand vous seriez pendu !</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker></hstage>
+<p>Ah ! <stage>Il donne encore de l’argent à Sbrigani.</stage></p>
+
+<hstage><speaker>SBRIGANI</speaker>, à l’exempt.</hstage>
+<p>Tenez, monsieur.</p>
+
+<hstage><speaker>L’EXEMPT</speaker>, à Sbrigani.</hstage>
+<p>Il faut donc que je m’enfuie avec lui ; car il n’y auroit point ici de sûreté pour moi. Laissez-le moi conduire, et ne bougez d’ici.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Je vous prie donc d’en avoir un grand soin.</p>
+
+<hstage><speaker>L’EXEMPT</speaker></hstage>
+<p>Je vous promets de ne le point quitter que je ne l’aie mis en lieu de sûreté.</p>
+
+<hstage><speaker>MONSIEUR DE POURCEAUGNAC</speaker>, à Sbrigani.</hstage>
+<p>Adieu. Voilà le seul honnête homme que j’aie trouvé en cette ville.</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Ne perdez point de temps. Je vous aime tant, que je <pagenum num="55" b="vou-" a="drois">voudrois</pagenum> que vous fussiez déjà bien loin. <stage>Seul.</stage> Que le ciel te conduise ! Par ma foi, voilà une grande dupe ! Mais voici...</p>
+
+<h3 id="p41">SCÈNE VIII. — ORONTE, SBRIGANI</h3>
+
+<hstage><speaker>SBRIGANI</speaker>, feignant de ne point voir Oronte.</hstage>
+<p>Ah ! quelle étrange aventure ! Quelle fâcheuse nouvelle pour un père ! Pauvre Oronte, que je te plains ! Que diras-tu ? et de quelle façon pourras-tu supporter cette douleur mortelle ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Qu’est-ce ? Quel malheur me présages-tu ?</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Ah ! monsieur ! ce perfide de Limosin, ce traître de monsieur de Pourceaugnac vous enlève votre fille !</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Il m’enlève ma fille !</p>
+
+<hstage><speaker>SBRIGANI</speaker></hstage>
+<p>Oui. Elle en est devenue si folle, qu’elle vous quitte pour le suivre ; et l’on dit qu’il a un caractère pour se faire aimer de toutes les femmes.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Allons, vite à la justice ! Des archers après eux !</p>
+
+<h3 id="p42">SCÈNE IX. — ORONTE, ÉRASTE, JULIE, SBRIGANI</h3>
+
+<hstage><speaker>ÉRASTE</speaker>, à Julie.</hstage>
+<p>Allons, vous viendrez malgré vous, et je veux vous remettre entre les mains de votre père. Tenez, monsieur, voilà votre fille que j’ai tirée de force d’entre les mains de l’homme avec qui elle s’enfuyait, non pas pour l’amour d’elle, mais pour votre seule considération. Car après l’action qu’elle a faite, je dois la mépriser et me guérir absolument de l’amour que j’avois pour elle.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Ah ! infâme que tu es !</p>
+
+<hstage><speaker>ÉRASTE</speaker>, à Julie.</hstage>
+<p>Comment ! me traiter de la sorte après toutes les marques d’amitié que je vous ai données ! je ne vous blâme point de vous être soumise aux volontés de monsieur votre père ; il est sage et judicieux dans les choses qu’il fait ; et je ne me plains point de lui, de m’avoir rejeté pour un autre. S’il a manqué à la parole qu’il m’avoit donnée, il a ses raisons pour cela. On lui a fait croire que cet autre est plus riche que moi de <pagenum num="56"/>quatre ou cinq mille écus, et quatre ou cinq mille écus est un denier considérable, et qui vaut bien la peine qu’un homme manque à sa parole ; mais oublier en un moment toute l’ardeur que je vous ai montrée ! vous laisser d’abord enflammer d’amour pour un nouveau venu, et le suivre honteusement sans le consentement de monsieur votre père, après les crimes qu’on lui impute ! C’est une chose condamnée de tout le monde, et dont mon cœur ne peut vous faire d’assez sanglants reproches.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Eh bien, oui. J’ai conçu de l’amour pour lui, et je l’ai voulu suivre, puisque mon père me l’avoit choisi pour époux. Quoi que vous me disiez, c’est un fort honnête homme ; et tous les crimes dont on l’accuse sont faussetés épouvantables.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Taisez-vous ; vous êtes une impertinente, et je sais mieux que vous ce qui en est.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Ce sont, sans doute, des pièces qu’on lui fait, et <stage>montrant Éraste</stage> c’est peut-être lui qui a trouvé cet artifice pour vous en dégoûter.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Moi ! je serois capable de cela !</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Oui, vous.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Taisez-vous, vous dis-je. Vous êtes une sotte !</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Non, non ; ne vous imaginez pas que j’aie aucune envie de détourner ce mariage, et que ce soit ma passion qui m’ait forcé à courir après vous. Je vous l’ai déjà dit, ce n’est que la seule considération que j’ai pour monsieur votre père ; et je n’ai pu souffrir qu’un honnête homme comme lui fût exposé à la honte de tous les bruits qui pourroient suivre une action comme la vôtre.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je vous suis, seigneur Éraste, infiniment obligé.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Adieu, monsieur. J’avois toutes les ardeurs du monde d’entrer dans votre alliance ; j’ai fait tout ce que j’ai pu pour obtenir un tel honneur ; mais j’ai été malheureux, et vous ne m’avez pas jugé digne de cette grâce. Cela n’empêchera pas <pagenum num="57"/>que je ne conserve pour vous les sentiments d’estime et de vénération où votre personne m’oblige ; et, si je n’ai pu être votre gendre, au moins serai-je éternellement votre serviteur.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Arrêtez, seigneur Éraste. Votre procédé me touche l’âme, et je vous donne ma fille en mariage.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je ne veux point d’autre mari que monsieur de Pourceaugnac.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Et je veux, moi, tout à l’heure, que tu prennes le seigneur Éraste. Çà, la main.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Non, je n’en ferai rien.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je te donnerai sur les oreilles.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Non, non, monsieur ; ne lui faites point de violence, je vous en prie.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>C’est à elle à m’obéir, et je sais me montrer le maître.</p>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>Ne voyez-vous pas l’amour qu’elle a pour cet homme-là ? et voulez-vous que je possède un corps dont un autre possède le cœur ?</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>C’est un sortilège qu’il lui a donné ; et vous verrez qu’elle changera de sentiment avant qu’il soit peu. Donnez-moi votre main. Allons.</p>
+
+<hstage><speaker>JULIE</speaker></hstage>
+<p>Je ne...</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Ah ! que de bruit ! Çà, votre main, vous dis-je. Ah ! ah ! ah !</p>
+
+<hstage><speaker>ÉRASTE</speaker>, à Julie.</hstage>
+<p>Ne croyez pas que ce soit pour l’amour de vous que je vous donne la main ; ce n’est que de monsieur votre père dont je suis amoureux, et c’est lui que j’épouse.</p>
+
+<hstage><speaker>ORONTE</speaker></hstage>
+<p>Je vous suis beaucoup obligé ; et j’augmente de dix mille écus le mariage de ma fille. Allons, qu’on fasse venir le notaire pour dresser le contrat.</p>
+
+<pagenum num="58"/>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<p>En attendant qu’il vienne, nous pouvons jouir du divertissement de la saison, et faire entrer les masques que le bruit des noces de monsieur de Pourceaugnac a attirés ici de tous les endroits de la ville.</p>
+
+<h3 id="p43">SCÈNE X. — TROUPE DE MASQUES, <i>dansants et chantants</i>.</h3>
+
+<hstage><speaker>UN MASQUE</speaker>, en Égyptienne.</hstage>
+<l indent='c'>Sortez, sortez de ces lieux,</l>
+<l indent='c'>Soucis, Chagrins et Tristesse ;</l>
+<l indent='c'>Venez, venez, Ris et Jeux,</l>
+<l indent='c'>Plaisir, Amour et Tendresse ;</l>
+<l indent='c'>Ne songeons qu’à nous réjouir :</l>
+<l indent='c'>La grande affaire est le plaisir.</l>
+
+<hstage><speaker>CHŒUR DE MASQUES CHANTANTS</speaker></hstage>
+<l indent='c'>Ne songeons qu’à nous réjouir :</l>
+<l indent='c'>La grande affaire est ie plaisir.</l>
+
+<hstage><speaker>L’ÉGYPTIENNE</speaker></hstage>
+<l indent='c'>A me suivre tous ici</l>
+<l indent='c'>Votre ardeur est non commune.</l>
+<l indent='c'>Et vous êtes en souci</l>
+<l indent='c'>De votre bonne fortune :</l>
+<l indent='c'>Soyez toujours amoureux,</l>
+<l indent='c'>C’est le moyen d’être heureux.</l>
+
+<hstage><speaker>UN MASQUE</speaker>, en Égyptien.</hstage>
+<l indent='c'>Aimons jusques au trépas,</l>
+<l indent='c'>La raison nous y convie.</l>
+<l indent='c'>Hélas ! si l’on n’aimoit pas,</l>
+<l indent='c'>Que seroit-ce de la vie ?</l>
+<l indent='c'>Ah ! perdons plutôt le jour</l>
+<l indent='c'>Que de perdre notre amour.</l>
+
+<hstage><speaker>L’ÉGYPTIEN</speaker></hstage>
+<l indent='c'>Les biens...</l>
+
+<hstage><speaker>L’ÉGYPTIENNE</speaker></hstage>
+<l indent='c'>La gloire...</l>
+
+<hstage><speaker>L’ÉGYPTIEN</speaker></hstage>
+<l indent='c'>Les grandeurs...</l>
+
+<hstage><speaker>L’ÉGYPTIENNE</speaker></hstage>
+<l indent='c'>Les sceptres qui font tant d’envie...</l>
+
+<pagenum num="59"/>
+
+<hstage><speaker>L’ÉGYPTIEN</speaker></hstage>
+<l indent='c'>Tout n’est rien, si l’amour n’y mêle ses ardeurs.</l>
+
+<hstage><speaker>L’ÉGYPTIENNE</speaker></hstage>
+<l indent='c'>Il n’est point, sans l’amour, de plaisir dans la vie.</l>
+
+<hstage><speaker>TOUS DEUX ENSEMBLE</speaker></hstage>
+<l indent='c'>Soyons toujours amoureux ;</l>
+<l indent='c'>C’est le moyen d’être heureux.</l>
+
+<hstage><speaker>CHŒUR</speaker></hstage>
+<l indent='c'>Sus, sus, chantons ensemble ;</l>
+<l indent='c'>Dansons, sautons, jouons-nous.</l>
+
+<hstage><speaker>UN MASQUE</speaker>, en Pantalon.</hstage>
+<l indent='c'>Lorsque pour rire on s’assemble,</l>
+<l indent='c'>Les plus sages, ce me semble,</l>
+<l indent='c'>Sont ceux qui sont les plus fous.</l>
+
+<hstage><speaker>TOUS ENSEMBLE</speaker></hstage>
+<l indent='c'>Ne songeons qu’à nous réjouir :</l>
+<l indent='c'>La grande affaire est le plaisir.</l>
+
+
+<hstage><speaker>PREMIÈRE ENTRÉE DE BALLET</speaker></hstage>
+<p class='c'>Danse de Sauvages.</p>
+
+<hstage><speaker>SECONDE ENTRÉE DE BALLET</speaker></hstage>
+<p class='c'>Danse de Biscaïens.</p>
+
+</page-sequence>
+ </page-sequences>
+</bml>

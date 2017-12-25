@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+
+<project name='livew' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='la_republique_c_est_la_tranquillite'/>
+  </target>
+
+</project>

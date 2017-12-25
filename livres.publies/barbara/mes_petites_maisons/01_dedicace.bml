@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb30053314n">
+
+      <titre>Mes petites-maisons</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb118901166">
+        <nom-bibliographie>Barbara, Charles</nom-bibliographie>
+        <dates>1822-1886</dates>
+        <nom-couverture>Charles Barbara</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>Hachette</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1860</date>
+
+      <langue>fr</langue>
+    </monographie>
+    
+    <volume>
+      <facsimile href="http://books.google.com/books?id=PCAwAAAAMAAJ"
+                 pages="N12 1-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000272"
+        creation="2013-01-19T00:00:00-08:00"
+        modification="2014-12-31T18:13:57-08:00">
+      
+      <surtitre>Mes petites-maisons</surtitre>
+      <titre>Dédicace</titre>
+
+      <collection id='c00010'>
+        <titre>Mes petites-maisons</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+  
+  <toc/>
+
+  <cover src="images/couverture.png" alt="Mes petites-maisons par Charles Barbara. Esquisse de la vie d’un virtuose — Le major Whittington — Romanzoff — L’homme qui nourrit des papillons — Irma Gilquin. Paris. Librairie de L. Hachette et Cie. Rue Pierre-Sarrazin, no 14. 1860. Droits de traduction réservé."/>
+
+
+<page-sequences>
+<page-sequence id="p1">
+<pagenum num="1"/>
+
+<h2>AU DOCTEUR BAILLARGER.</h2>
+
+<salutation><i>Monsieur,</i></salutation>
+
+<p><i>J’ai eu l’émouvant plaisir d’assister à vos cours sur les maladies mentales. Un attrait puissant y enchaîne l’attention ; il en jaillit des lueurs qui, à force d’éclat, sont parfois cruelles. Sous le charme de votre parole, on tremble pour son voisin, on est pour soi-même plein d’angoisses. Qui oserait se flatter, après vous avoir entendu, d’échapper incessamment aux mirages de l’hallucination ? « Aucun esprit supérieur, a écrit Sénèque<noteref noteid="note.1.1"/> qui ne fléchisse par quelque endroit. » Plus exclusif encore, vous donnez clairement à entendre que, dans le lot de chaque homme, le grain de folie <pagenum num="2"/>fait rarement défaut. Je suis porté à vous croire, monsieur : tous les fous ne sont pas à Bicêtre, ni toutes les folles à la Salpêtrière ; il ne me semblerait même point trop paradoxal d’avancer que, sur l’immense surface de notre planète, les fous qu’on enferme ne sont ni les plus malades, ni les moins intéressants.</i></p>
+
+<notes>
+  <note id="note.1.1" label="1">
+    <p>De tranquillitate animi.</p>
+  </note>
+</notes>
+
+<p><i>De là, monsieur, à vous offrir ce livre, il n’y avait pas loin. Les figures, dont ces esquisses ont pour objet la mise en relief, pouvant, à des titres plus ou moins fondés, prétendre moralement aux honneurs d’une loge dans cette Babel étrange où s’exercent votre pénétration et votre science, comment me soustraire au rêve et résister à la tentation de les placer sous votre bienveillant patronage ?</i></p>
+
+<p><i>Daignez, monsieur, accepter cette, dédicace qui, de ma part, est certainement le gage de la plus sincère admiration comme de la plus profonde sympathie.</i></p>
+
+<signature>C<s>HARLES</s> B<s>ARBARA</s>.</signature>
+
+<date class="l3">Paris, juin 1860.</date>
+
+ </page-sequence>
+</page-sequences>
+</bml>

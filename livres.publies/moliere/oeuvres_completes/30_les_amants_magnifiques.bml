@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5673633r"
+                 pages="n11 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000508"
+        creation="2017-07-02T15:51:45-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Les Amants magnifiques</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='30'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="Avant-propos"/>
+    <tocentry idref="p02" label="Personnages"/>
+    <tocentry idref="p03" label="Premier intermède"/>
+    <tocentry idref="p04" label="Acte premier">
+      <tocentry idref="p05" label="Scène I"/>
+      <tocentry idref="p06" label="Scène II"/>
+      <tocentry idref="p07" label="Scène III"/>
+      <tocentry idref="p08" label="Scène IV"/>
+      <tocentry idref="p09" label="Scène V"/>
+      <tocentry idref="p10" label="Scène VI"/>
+    </tocentry>
+    <tocentry idref="p11" label="Second intermède"/>
+    <tocentry idref="p12" label="Acte second">
+      <tocentry idref="p13" label="Scène I"/>
+      <tocentry idref="p14" label="Scène II"/>
+      <tocentry idref="p15" label="Scène III"/>
+      <tocentry idref="p16" label="Scène IV"/>
+      <tocentry idref="p17" label="Scène V"/>
+      <tocentry idref="p18" label="Scène VI"/>
+    </tocentry>
+    <tocentry idref="p19" label="Troisième intermède">
+      <tocentry idref="p20" label="Prologue"/>
+      <tocentry idref="p21" label="Scène I"/>
+      <tocentry idref="p22" label="Scène II"/>
+      <tocentry idref="p23" label="Scène III"/>
+      <tocentry idref="p24" label="Scène IV"/>
+      <tocentry idref="p25" label="Scène V"/>
+    </tocentry>
+    <tocentry idref="p28" label="Acte troisième">
+      <tocentry idref="p29" label="Scène I"/>
+    </tocentry>
+    <tocentry idref="p30" label="Acte quatrième">
+      <tocentry idref="p31" label="Scène I"/>
+      <tocentry idref="p32" label="Scène II"/>
+      <tocentry idref="p33" label="Scène III"/>
+      <tocentry idref="p34" label="Scène IV"/>
+      <tocentry idref="p35" label="Scène V"/>
+      <tocentry idref="p36" label="Scène VI"/>
+      <tocentry idref="p37" label="Scène VII"/>
+      <tocentry idref="p38" label="Scène VIII"/>
+    </tocentry>
+    <tocentry idref="p39" label="Cinquième intermède"/>
+    <tocentry idref="p40" label="Acte cinquième">
+      <tocentry idref="p41" label="Scène I"/>
+      <tocentry idref="p42" label="Scène II"/>
+      <tocentry idref="p43" label="Scène III"/>
+      <tocentry idref="p44" label="Scène IV"/>
+    </tocentry>
+    <tocentry idref="p45" label="Sixième intermède"/>
+  </toc>
+
+  <cover src="images/couverture_3.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome troisième. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="60"/>
+
+<img src="images/frise8.png" class="center100" alt="frise"/>
+
+<h1>LES AMANTS MAGNIFIQUES<noteref noteid="note.60.1"/></h1>
+
+<h2> COMÉDIE-BALLET EN CINQ ACTES</h2>
+
+<h2>1670</h2>
+
+<notes>
+  <note id="note.60.1">
+    <p>Cette comédie-ballet fut représentée pour la première fois à Saint-Germain, Louis XIV lui-même en avait donné le sujet. La musique est de Lulli. Cette pièce ne fut jouée qu’à la cour, et ne pouvait guère réussir que par le mérite du divertissement et celui de l’à-propos. (Voltaire.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h3 id="p01">AVANT-PROPOS</h3>
+
+<p>Le roi, qui ne veut que des choses extraordinaires dans tout ce qu’il entreprend, s’est proposé de donner à sa cour un divertissement qui fût composé de tous ceux que le théâtre peut fournir ; et, pour embrasser cette vaste idée et enchaîner ensemble tant de choses diverses, Sa Majesté a choisi pour sujet deux princes rivaux, qui, dans le champêtre séjour de la vallée de Tempé, où l’on doit célébrer la fête des jeux Py-thiens, régalent à l’envi une jeune princesse et sa mère de toutes les galanteries dont ils se peuvent aviser.</p>
+
+<vsep class="rule"/>
+
+<h3 id="p02">PERSONNAGES DE LA COMÉDIE</h3>
+
+<p class='sommaire'>ARISTIONE, princesse, mère d’Ériphile.</p>
+<p class='sommaire'>ÉRIPHILE, fille de la princesse.</p>
+<p class='sommaire'>IPHICRATE, prince, amant d’Ériphile.</p>
+<p class='sommaire'>TIMOCLÈS, prince, amant d’Ériphile.</p>
+<p class='sommaire'>SOSTRATE, général d’armée, amant d’Ériphile.</p>
+<p class='sommaire'>CLÉONICE, confidente d’Ériphile.</p>
+<p class='sommaire'>ANAXARQUE, astrologue.</p>
+<p class='sommaire'>CLÉON, fils d’Anaxarque.</p>
+<p class='sommaire'>CHORÈBE, de la suite d’Aristione.</p>
+<p class='sommaire'>CLITIDAS, plaisant de cour, de la suite d’Ériphile.</p>
+<p class='sommaire'>UNE FAUSSE VÉNUS d’intelligence avec Anaxarque.</p>
+<pagenum num="61"/>
+
+<h3>PERSONNAGES DES INTERMÈDES</h3>
+<h3><s>PREMIER INTERMÈDE</s></h3>
+
+<p class='sommaire'>ÉOLE.</p>
+<p class='sommaire'>TRITONS chantants.</p>
+<p class='sommaire'>FLEUVES chantants.</p>
+<p class='sommaire'>AMOURS chantants.</p>
+<p class='sommaire'>PÊCHEURS DE CORAIL dansants.</p>
+<p class='sommaire'>NEPTUNE.</p>
+<p class='sommaire'>SIX DIEUX MARINS, dansants.</p>
+
+<h3><s>SECOND INTERMÈDE</s></h3>
+<p class='sommaire'>TROIS PANTOMIMES dansants.</p>
+
+<h3><s>TROISIÈME INTERMÈDE</s></h3>
+<p class='sommaire'>LA NYMPHE de la vallée de Tempé.</p>
+
+<h3>PERSONNAGES DE LA PASTORALE EN MUSIQUE</h3>
+
+<p class='sommaire'>TIRCIS, berger, amant de Caliste.</p>
+<p class='sommaire'>CALISTE, bergère.</p>
+<p class='sommaire'>LICASTE, berger, ami de Tircis.</p>
+<p class='sommaire'>MÉNANDRE, berger, ami de Tircis.</p>
+<p class='sommaire'>PREMIER SATYRE, amant de Caliste.</p>
+<p class='sommaire'>SECOND SATYRE, amant de Caliste.</p>
+<p class='sommaire'>SIX DRYADES dansantes.</p>
+<p class='sommaire'>SIX FAUNES dansants.</p>
+<p class='sommaire'>CLIMÈNE, bergère.</p>
+<p class='sommaire'>PHILINTE, berger.</p>
+<p class='sommaire'>TROIS PETITES DRYADES dansantes.</p>
+<p class='sommaire'>TROIS PETITS FAUNES dansants.</p>
+
+<h3><s>QUATRIÈME INTERMÈDE</s></h3>
+<p class='sommaire'>HUIT STATUES qui dansent.</p>
+
+<h3><s>CINQUIÈME INTERMÈDE</s></h3>
+<p class='sommaire'>QUATRE PANTOMIMES dansants.</p>
+
+<h3><s>SIXIÈME INTERMÈDE, FÊTE DES JEUX PYTHIENS.</s></h3>
+<p class='sommaire'>LA PRÊTRESSE.</p>
+<p class='sommaire'>DEUX SACRIFICATEURS chantants.</p>
+<p class='sommaire'>SIX MINISTRES DU SACRIFICE, portant des haches, dansants.</p>
+<p class='sommaire'>CHŒUR DE PEUPLES.</p>
+<p class='sommaire'>SIX VOLTIGEURS sautant sur des chevaux de bois.</p>
+<p class='sommaire'>QUATRE CONDUCTEURS D’ESCLAVES dansants.</p>
+<p class='sommaire'>HUIT ESCLAVES dansants.</p>
+<p class='sommaire'>QUATRE HOMMES armés à la grecque.</p>
+<p class='sommaire'>QUATRE FEMMES armées à la grecque.</p>
+<pagenum num="62"/>
+<p class='sommaire'>UN HÉRAUT.</p>
+<p class='sommaire'>SIX TROMPETTES.</p>
+<p class='sommaire'>UN TIMBALIER.</p>
+<p class='sommaire'>APOLLON.</p>
+<p class='sommaire'>SUIVANTS D’APOLLON dansants.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est en Thessalie, dans la délicieuse vallée de Tempé.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p03">PREMIER INTERMÈDE</h2>
+
+<p class='smaller sommaire'>Le théâtre s’ouvre à l’agréable bruit de quantité d’instruments ; et d’abord il offre aux yeux une vaste mer bordée de chaque côté de quatre grands rochers, dont le sommet porte chacun un Fleuve accoudé sur les marques de ces sortes de déités. Au pied de ces rochers sont douze Tritons de chaque côté, et, dans le milieu de la mer, quatre Amours montés sur des dauphins, et derrière eux le dieu Éole, élevé au-dessus des ondes sur un petit nuage. Éole commande aux vents de se retirer ; et, tandis que quatre Amours, douze Tritons et huit Fleuves lui répondent, la mer se calme, et du milieu des ondes on voit s’élever une île. Huit Pêcheurs sortent du fond de la mer, avec des nacres de perles et des branches de corail, et, après une danse agréable, vont se placer chacun sur un rocher au-dessus d’un Fleuve. Le chœur de la musique annonce la venue de Neptune ; et, tandis que ce dieu danse avec sa suite, les Pêcheurs, les Tritons et les Fleuves accompagnent ses pas de gestes différents et de bruit de conques de perles. Tout ce spectacle est une magnifique galanterie, dont l’un des princes régale sur la mer la promenade de princesses.</p>
+
+<h3>PREMIÈRE ENTRÉE DE BALLET</h3>
+<p class='c'>NEPTUNE et SIX DIEUX MARINS</p>
+
+<h3>SECONDE ENTRÉE DE BALLET</h3>
+<p class='c'>HUIT PÊCHEURS DE CORAIL</p>
+
+<p class='c'><i>Vers chantés.</i></p>
+
+<hstage><speaker>RÉCIT D’ÉOLE</speaker></hstage>
+<l indent='c'>Vents, qui troublez les plus beaux jours.</l>
+<l indent='c'>Rentrez dans vos grottes profondes,</l>
+<l indent='c'>Et laissez régner sur les ondes</l>
+<l indent='c'>Les Zéphyrs et les Amours.</l>
+
+<hstage><speaker>UN TRITON</speaker></hstage>
+<l indent='c'>Quels beaux yeux ont percé nos demeures humides ?</l>
+<l indent='c'>Venez, yenez, Tritons ; cachez-vous, Néréides.</l>
+
+<hstage><speaker>TOUS LES TRITONS</speaker></hstage>
+<l indent='c'>Allons tous au-devant de ces divinités ;</l>
+<l indent='c'>Et rendons par nos chants hommage à leurs beautés.</l>
+
+<hstage><speaker>UN AMOUR</speaker></hstage>
+<l indent='c'>Ah ! que ces princesses sont belles !</l>
+
+<pagenum num="63"/>
+
+<hstage><speaker>UN AUTRE AMOUR</speaker></hstage>
+<l indent='c'>Quels sont les cœurs qui ne s’y rendroient pas ?</l>
+
+<hstage><speaker>UN AUTRE AMOUR</speaker></hstage>
+<l indent='c'>La plus belle des immortelles,</l>
+<l indent='c'>Notre mère, a bien moins d’appas.</l>
+
+<hstage><speaker>CHŒUR</speaker></hstage>
+<l indent='c'>Allons tous au-devant de ces divinités ;</l>
+<l indent='c'>Et rendons par nos chants hommage à leurs beautés.</l>
+
+<hstage><speaker>UN TRITON</speaker></hstage>
+<l indent='c'>Quel noble spectacle s’avance ?</l>
+<l indent='c'>Neptune, le grand dieu Neptune, avec sa cour,</l>
+<l indent='c'>Vient honorer ce beau séjour</l>
+<l indent='c'>De son auguste présence.</l>
+
+<hstage><speaker>CHŒUR</speaker></hstage>
+<l indent='c'>Redoublons nos concerts,</l>
+<l indent='c'>Et faisons retentir dans le vague des airs</l>
+<l indent='c'>Notre réjouissance.</l>
+
+<hstage>Vers pour le <r>R<s>OI</s></r>, représentant Neptune.</hstage>
+
+<poem>
+<lg>
+<l>Le ciel, entre les dieux les plus considérés,</l>
+<l>Me donne pour partage un rang considérable,</l>
+<l>Et, me faisant régner sur les flots azurés,</l>
+<l>Rend à tout l’univers mon pouvoir redoutable.</l>
+</lg>
+<lg>
+<l>Il n’est aucune terre, à me bien regarder,</l>
+<l>Qui ne doive trembler que je ne m’y répande ;</l>
+<l>Point d’États qu’à l’instant je ne pusse inonder</l>
+<l>Des flots impétueux que mon pouvoir commande.</l>
+</lg>
+<lg>
+<l>Rien n’en peut arrêter le fier débordement ;</l>
+<l>Et d’une triple digue à leur force opposée</l>
+<l>On les verroit forcer le ferme empêchement</l>
+<l>Et se faire en tous lieux une ouverture aisée.</l>
+</lg>
+<lg>
+<l>Mais je sais retenir la fureur de ces flots</l>
+<l>Par la sage équité du pouvoir que j’exerce,</l>
+<l>Et laisser en tous lieux, au gré des matelots,</l>
+<l>La douce liberté d’un paisible commerce.</l>
+</lg>
+<lg>
+<l>On trouve des écueils parfois dans mes États ;</l>
+<l>On voit quelques vaisseaux y périr par l’orage ;</l>
+<l>Mais contre ma puissance on n’en murmure pas,</l>
+<l>Et chez moi la vertu ne fait jamais naufrage.</l>
+</lg>
+</poem>
+
+<pagenum num="64"/>
+
+<hstage>Pour <r>M. <s>LE</s> G<s>RAND</s><noteref noteid="note.64.1"/></r>, représentant un dieu marin.</hstage>
+<poem>
+<l>L’empire où nous vivons est fertile en trésors,</l>
+<l>Tous les mortels en foule accourent sur ses bords :</l>
+<l>Et, pour faire bientôt une haute fortune,</l>
+<l>Il ne faut rien qu’avoir la faveur de N<s>EPTUNE</s>.</l>
+</poem>
+
+<notes>
+  <note id="note.64.1">
+    <p>On appelait, par abréviation, le grand écuyer, <i>M. le Grand</i>, et le premier écuyer, <i>M. le Premier.</i> (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage>Pour le marquis <r><s>DE</s> V<s>ILLEROI</s></r>, représentant un dieu marin.</hstage>
+<poem>
+<l>Sur la foi de ce dieu de l’empire flottant.</l>
+<l>On peut bien s’embarquer avec toute assurance :</l>
+<l>Les flots ont de l’inconstance,</l>
+<l>Mais le N<s>EPTUNE</s> est constant.</l>
+</poem>
+
+<hstage>Pour le marquis <r><s>DE</s> R<s>ASSENT</s></r>, représentant un dieu marin.</hstage>
+<poem>
+<l>Voguez sur cette mer d’un zèle inébranlable :</l>
+<l>C’est le moyen d’avoir N<s>EPTUNE</s> favorable.</l>
+</poem>
+
+<vsep class="rule"/>
+
+<h2 id="p04">ACTE PREMIER</h2>
+
+<h3 id="p05">SCÈNE I. — SOSTRATE, CLITIDAS</h3>
+
+<hstage><speaker>CLITIDAS</speaker>, à part.</hstage>
+<p>Il est attaché à ses pensées.</p>
+
+<hstage><speaker>SOSTRATE</speaker>, se croyant seul.</hstage>
+<p>Non, Sostrate, je ne vois rien où tu puisses avoir recours ; et tes maux sont d’une nature à ne te laisser nulle espérance d’en sortir.</p>
+
+<hstage><speaker>CLITIDAS</speaker>, à part.</hstage>
+<p>Il raisonne tout seul.</p>
+
+<hstage><speaker>SOSTRATE</speaker>, se croyant seul.</hstage>
+<p>Hélas !</p>
+
+<hstage><speaker>CLITIDAS</speaker>, à part.</hstage>
+<p>Voilà des soupirs qui veulent dire quelque chose ; et ma conjecture se trouvera véritable.</p>
+
+<hstage><speaker>SOSTRATE</speaker>, se croyant seul.</hstage>
+<p>Sur quelles chimères, dis-moi, pourrois-tu bâtir quelque espoir ? et que peux-tu envisager, que l’affreuse longueur d’une vie malheureuse, et des ennuis à ne finir que par la mort ?</p>
+
+<pagenum num="65"/>
+
+<hstage><speaker>CLITIDAS</speaker>, à part.</hstage>
+<p>Cette tête-là est plus embarrassée que la mienne.</p>
+
+<hstage><speaker>SOSTRATE</speaker>, se croyant seul.</hstage>
+<p>Ah ! mon cœur ! ah ! mon cœur ! où m’avez-vous jeté ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Serviteur, seigneur Sostrate.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Où vas-tu, Clitidas ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Mais vous, plutôt, que faites-vous ici ? et quelle secrète mélancolie, quelle humeur sombre, s’il vous plaît, vous peut retenir dans ses bois, tandis que tout le monde a couru en foule à la magnificence de la fête dont l’amour du prince Iphicrate vient de régaler sur la mer la promenade des princesses ; tandis qu’elles y ont reçu des cadeaux merveilleux de musique et de danse, et qu’on a vu les rochers et les ondes se parer de divinités pour faire honneur à leurs attraits ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Je me figure assez, sans la voir, cette magnificence ; et tant de gens, d’ordinaire, s’empressent à porter de la confusion dans ces sortes de fêtes, que j’ai cru à propos de ne pas augmenter le nombre des importuns.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Vous savez que votre présence ne gâte jamais rien, et que vous n’êtes point de trop en quelque lieu que vous soyez. Votre visage est bien venu partout, et il n’a garde d’être de ces visages disgrâciés qui ne sont jamais bien reçus des regards souverains. Vous êtes également bien auprès des deux princesses ; et la mère et la fille vous font assez connoître l’estime qu’elles font de vous, pour n’appréhender pas de fatiguer leurs yeux ; et ce n’est pas cette crainte, enfin, qui vous a retenu.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>J’avoue que je n’ai pas naturellement grande curiosité pour ces sortes de choses.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Mon Dieu ! quand on n’auroit nulle curiosité pour les choses, on en a toujours pour aller où l’on trouve tout le monde ; et, quoi que vous puissiez dire, on ne demeure point tout seul, pendant une fête, à rêver parmi les arbres, comme vous faites, à moins d’avoir en tête quelque chose qui embarrasse.</p>
+
+<pagenum num="66"/>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Que voudrois-tu que j’y pusse avoir ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Ouais, je ne sais d’où cela vient ; mais il sent ici l’amour. Ce n’est pas moi. Ah ! par ma foi, c’est vous.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Que tu es fou, Clitidas !</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Je ne suis point fou. Vous êtes amoureux ; j’ai le nez délicat, et j’ai senti cela d’abord.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Sur quoi prends-tu cette pensée ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Sur quoi ? Vous seriez bien étonné si je vous disois encore de qui vous êtes amoureux.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Moi ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Oui. Je gage que je vais deviner tout à l’heure celle que vous aimez. J’ai mes secrets, aussi bien que notre astrologue, dont la princesse Aristione est entêtée ; et, s’il a la science de lire dans les astres la fortune des hommes, j’ai celle de lire dans les yeux le nom des personnes qu’on aime. Tenez-vous un peu, et ouvrez les yeux. É, par soi, é<noteref noteid="note.66.1"/> ; r, i, ri, éri ; p, h, i, phi, ériphi ; l, e, le : Ériphile. Vous êtes amoureux de la princesse Ériphile.</p>
+
+<notes>
+  <note id="note.66.1">
+    <p><i>É, par soi, é.</i> — <i>Par soi</i> signifie faisant à lui seul une syllabe.</p>
+  </note>
+</notes>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Ah ! Clitidas, j’avoue que je ne puis cacher mon trouble, et tu me frappes d’un coup de foudre.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Vous voyez que je suis savant !</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Hélas ! si, par quelque aventure, tu as pu découvrir le secret de mon cœur, je te conjure au moins de ne le révéler à qui que ce soit, et surtout de le tenir caché à la belle princesse dont tu viens de dire le nom.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Et, sérieusement parlant, si dans vos actions j’ai bien pu connoître depuis un temps la passion que vous voulez tenir secrète, pensez-vous que la princesse Ériphile puisse avoir <pagenum num="67"/>manqué de lumières pour s’en apercevoir ? Les belles, croyez-moi, sont toujours les plus clairvoyantes à découvrir les ardeurs qu’elles causent ; et le langage des yeux et des soupirs se fait entendre, mieux qu’à tout autre, à celle à qui il s’adresse.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Laissons-la, Clitidas, laissons-la voir, si elle peut, dans mes soupirs et mes regards, l’amour que ses charmes m’inspirent ; mais gardons bien, que, par nulle autre voie, elle en apprenne jamais rien.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Et qu’appréhendez-vous ? Est-il possible que ce même Sostrate qui n’a pas craint ni Brennus ni tous les Gaulois, et dont le bras a si glorieusement contribué à nous défaire de ce déluge de barbares qui ravageoient la Grèce ; est-il possible, dis-je, qu’un homme si assuré dans la guerre soit si timide en amour, et que je le voie trembler à dire seulement qu’il aime ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Ah ! Clitidas, je tremble avec raison ; et tous les Gaulois du monde ensemble sont bien moins redoutables que deux beaux yeux pleins de charmes.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Je ne suis pas de cet avis ; et je sais bien, pour moi, qu’un seul Gaulois, l’épée à la main, me feroit beaucoup plus trembler que cinquante beaux yeux ensemble, les plus charmants du monde. Mais, dites-moi un peu, qu’espérez-vous faire ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Mourir sans déclarer ma passion.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>L’espérance est belle ! Allez, allez, vous vous moquez ; un peu de hardiesse réussit toujours aux amants : il n’y a en amour que les honteux qui perdent ; et je dirois ma passion à une déesse, si j’en devenois amoureux.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Trop de choses, hélas ! condamnent mes feux à un éternel silence.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Et quoi ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>La bassesse de ma fortune, dont il plaît au ciel de rabattre l’ambition de mon amour ; le rang de la princesse, qui met <pagenum num="68"/>entre elle et mes désirs une distance si fâcheuse ; la concurrence de deux princes appuyés de tous les grands titres qui peuvent soutenir les prétentions de leurs flammes ; de deux princes qui, par mille et mille magnificences, se disputent à tous moments la gloire de sa conquête, et sur l’amour de qui on attend tous les jours de voir son choix se déclarer ; mais plus que tout, Clitidas, le respect inviolable où ses beaux yeux assujettissent toute la violence de mon ardeur.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Le respect bien souvent n’oblige pas tant que l’amour ; et je me trompe fort, ou la jeune princesse a connu votre flamme et n’y est pas insensible.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Ah ! ne t’avise point de vouloir flatter par pitié le cœur d’un misérable.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Ma conjecture est fondée. Je lui vois reculer beaucoup le choix de son époux, et je veux éclaircir un peu cette petite affaire-là. Vous savez que je suis auprès d’elle en quelque espèce de faveur, que j’y ai les accès ouverts, et qu’à force de me tourmenter, je me suis acquis le privilège de me mêler à la conversation et de parler à tort et à travers de toutes choses. Quelquefois cela ne me réussit pas, mais quelquefois aussi cela me réussit. Laissez-moi faire, je suis de vos amis ; les gens de mérite me touchent, et je veux prendre mon temps pour entretenir la princesse de...</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Ah ! de grâce, quelque bonté que mon malheur t’inspire, garde-toi bien de lui rien dire de ma flamme. J’aimerois mieux mourir que de pouvoir être accusé par elle de la moindre témérité ; et ce profond respect où ses charmes divins...</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Taisons-nous, voici tout le monde.</p>
+
+<h3 id="p06">SCÈNE II. — ARISTIONE, IPHICRATE, TIMOCLÈS, SOSTRATE, ANAXARQUE, CLÉON, CLITIDAS</h3>
+
+<hstage><speaker>ARISTIONE</speaker>, à Iphicrate.</hstage>
+<p>Prince, je ne puis me lasser de le dire, il n’est point de spectacle au monde qui puisse le disputer en magnificence à celui que vous venez de nous donner. Cette fête a eu des ornements qui l’emportent sans doute sur tout ce que l’on sauroit voir ; et elle vient de produire à nos yeux quelque chose de si <pagenum num="69"/>noble, de si grand et de si majestueux que le ciel même ne saurait aller au delà ; et je puis dire assurément qu’il n’y a rien dans l’univers qui s’y puisse égaler.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Ce sont des ornements dont on ne peut pas espérer que toutes les fêtes soient embellies ; et je dois fort trembler, madame, pour la simplicité du petit divertissement que je m’apprête à vous donner dans le bois de Diane.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Je crois que nous n’y verrons rien que de fort agréable ; et, certes, il faut avouer que la campagne a lieu de nous paroître belle, et que nous n’avons pas le temps de nous ennuyer dans cet agréable séjour qu’ont célébré tous les poètes sous le nom de Tempé. Car enfin, sans parler des plaisirs de la chasse que nous y prenons à toute heure, et de la solennité des jeux Pythiens que l’on y célèbre tantôt, vous prenez soin l’un et l’autre de nous y combler de tous les divertissements qui peuvent charmer les chagrins des plus mélancoliques. D’où vient, Sostrate qu’on ne vous a point vu dans notre promenade ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Une petite indisposition, madame, m’a empêché de m’y trouver.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Sostrate est de ces gens, madame, qui croient qu’il ne sied pas bien d’être curieux comme les autres ; et il est beau d’affecter de ne pas courir où tout le monde court.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Seigneur, l’affectation n’a guère de part à tout ce que je fais ; et, sans vous faire compliment, il y avoit des choses à voir dans cette fête qui pouvoient m’attirer, si quelque autre motif ne m’avoit retenu.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Et Clitidas a-t-il vu cela ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Oui, madame ; mais du rivage.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Et pourquoi du rivage ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Ma foi, madame, j’ai craint quelqu’un des accidents qui arrivent d’ordinaire dans ces confusions. Cette nuit, j’ai songé de poisson mort et d’œufs cassés ; et j’ai appris du <pagenum num="70"/>seigneur Anaxarque que les œufs cassés et le poisson mort signifient malencontre.</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>Je remarque une chose : que Clitidas n’auroit rien à dire, s’il ne parloit de moi.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>C’est qu’il y a tant de choses à dire de vous, qu’on n’en sauroit parler assez.</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>Vous pourriez prendre d’autres matières, puisque je vous en ai prié.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Le moyen ? ne dites-vous pas que l’ascendant est plus fort que tout et, s’il est écrit dans les astres que je sois enclin à parler de vous, comment voulez-vous que je résiste à ma destinée ?</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>Avec tout le respect, madame, que je vous dois, il y a une chose qui est fâcheuse dans votre cour, que tout le monde y prenne liberté de parler, et que le plus honnête homme y soit exposé aux railleries du premier méchant plaisant.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Je vous rends grâce de l’honneur.</p>
+
+<hstage><speaker>ARISTIONE</speaker>, à Anaxarque.</hstage>
+<p>Que vous êtes fou de vous chagriner de ce qu’il dit !</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Avec tout le respect que je dois à madame, il y a une chose qui m’étonne dans l’astrologie : comment des gens qui savent tous les secrets des dieux, et qui possèdent des connoissances à se mettre au-dessus de tous les hommes, aient besoin de faire leur cour et de demander quelque chose.</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>Vous devriez gagner un peu mieux votre argent, et donner à madame de meilleures plaisanteries.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Ma foi, on les donne telles qu’on peut. Vous en parlez fort à votre aise ; et le métier de plaisant n’est pas comme celui d’astrologue : bien mentir et bien plaisanter sont deux choses fort différentes ; et il est bien plus facile de tromper les gens que de les faire rire.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Eh ! qu’est-ce donc que cela veut dire ?</p>
+
+<pagenum num="71"/>
+
+<hstage><speaker>CLITIDAS</speaker>, se parlant à lui-même.</hstage>
+<p>Paix, impertinent que vous êtes ! ne savez-vous pas bien que l’astrologie est une affaire d’État, et qu’il ne faut point toucher à cette corde-là ? Je vous l’ai dit plusieurs fois, vous vous émancipez trop, et vous prenez de certaines libertés qui vous joueront un mauvais tour, je vous en avertis. Vous verrez qu’un de ces jours on vous donnera du pied au cul, et qu’on vous chassera comme un faquin. Taisez-vous, si vous êtes sage.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Où est ma fille ?</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Madame, elle s’est écartée ; et je lui ai présenté une main qu’elle a refusé d’accepter.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Princes, puisque l’amour que vous avez pour Ériphile a bien voulu se soumettre aux lois que j’ai voulu vous imposer, puisque j’ai su obtenir de vous que vous fussiez rivaux sans devenir ennemis, et qu’avec pleine soumission aux sentiments de ma fille vous attendez un choix dont je l’ai faite seule maîtresse, ouvrez-moi tous deux le fond de votre âme, et me dites sincèrement quel progrès vous croyez l’un et l’autre avoir fait sur son cœur.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Madame, je ne suis point pour me flatter ; j’ai fait ce que j’ai pu pour toucher le cœur de la princesse Ériphile, et je m’y suis pris, que je crois, de toutes les tendres manières dont un amant se peut servir ; je lui ai fait des hommages soumis de tous mes vœux, j’ai montré des assiduités, j’ai rendu des soins chaque jour, j’ai fait chanter ma passion aux voix les plus touchantes et l’ai fait exprimer en vers aux plumes les plus délicates ; je me suis plaint de mon martyre en des termes passionnés, j’ai fait dire à mes yeux, aussi bien qu’à ma bouche, le désespoir de mon amour, j’ai poussé à ses pieds des soupirs languissants, j’ai même répandu des larmes ; mais tout cela inutilement, et je n’ai point connu qu’elle ait dans l’âme aucun ressentiment de mon ardeur.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Et vous, prince ?</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Pour moi, madame, connoissant son indifférence et le peu de cas qu’elle fait des devoirs qu’on lui rend, je n’ai voulu <pagenum num="72"/>perdre auprès d’elle ni plaintes, ni soupirs, ni larmes. Je sais qu’elle est toute soumise à vos volontés, et que ce n’est que de votre main qu’elle voudra prendre un époux ; aussi n’est-ce qu’à vous que je m’adresse pour l’obtenir, à vous plutôt qu’à elle que je rends tous mes soins et tous mes hommages. Et plût au ciel, madame, que vous eussiez pu vous résoudre à tenir sa place ; que vous eussiez voulu jouir des conquêtes que vous lui faites, et recevoir pour vous les vœux que vous lui renvoyez !</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Prince, le compliment est d’un amant adroit, et vous avez entendu dire qu’il falloit cajoler les mères pour obtenir les filles ; mais ici, par malheur, tout cela devient inutile, et je me suis engagée à laisser le choix tout entier à l’inclination de ma fille.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Quelque pouvoir que vous lui donniez pour ce choix, ce n’est point compliment, madame, que ce que je vous dis. Je ne recherche la princesse Ériphile que parce qu’elle est votre sang ; je la trouve charmante par tout ce qu’elle tient de vous, et c’est vous que j’adore en elle.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Voilà qui est fort bien.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Oui, madame, toute la terre voit en vous des attraits et des charmes que je...</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>De grâce, prince, ôtons ces charmes et ces attraits : vous savez que ce sont des mots que je retranche des compliments qu’on me veut faire. Je souffre qu’on me loue de ma sincérité, qu’on dise que je suis une bonne princesse, que j’ai de la parole pour tout le monde, de la chaleur pour mes amis, et de l’estime pour le mérite et la vertu : je puis tâter de tout cela ; mais, pour les douceurs de charmes et d’attraits, je suis bien aise qu’on ne m’en serve point ; et, quelque vérité qui s’y pût rencontrer, on doit faire quelque scrupule d’en goûter la louange, quand on est mère d’une fille comme la mienne.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Ah ! madame, c’est vous qui voulez être mère malgré tout le monde ; il n’est point d’yeux qui ne s’y opposent ; et, si vous le vouliez, la princesse Ériphile ne seroit que votre sœur.</p>
+
+<pagenum num="73"/>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Mon Dieu ! prince, je ne donne point dans tous ces galimatias où donnent la plupart des femmes : je veux être mère parce que je la suis, et ce seroit en vain que je ne la voudrois pas être. Ce titre n’a rien qui me choque, puisque, de mon consentement, je me suis exposée à le recevoir. C’est un foible de notre sexe, dont, grâce au ciel, je suis exempte ; et je ne m’embarrasse point de ces grandes disputes d’âge sur quoi nous voyons tant de folles. Revenons à notre discours. Est-il possible que jusqu’ici vous n’ayez pu connoître où penche l’inclination d’Ériphile ?</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Ce sont obscurités pour moi.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>C’est pour moi un mystère impénétrable.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>La pudeur peut-être l’empêche de s’expliquer à vous et à moi. Servons-nous de quelque autre pour découvrir le secret de son cœur. Sostrate, prenez de ma part cette commission, et rendez cet office à ces princes, de savoir adroitement de ma fille vers qui des deux ses sentiments peuvent tourner.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Madame, vous avez cent personnes dans votre cour sur qui vous pourriez mieux verser l’honneur d’un tel emploi ; et je me sens mal propre à bien exécuter ce que vous souhaitez de moi.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Votre mérite, Sostrate, n’est point borné aux seuls emplois de la guerre. Vous avez de l’esprit, de la conduite, de l’adresse ; et ma fille fait cas de vous.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Quelque autre mieux que moi, madame...</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Non, non : en vain vous vous en défendez.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Puisque vous le voulez, madame, il faut vous obéir ; mais je vous jure que, dans toute votre cour, vous ne pouviez choisir personne qui ne fût en état de s’acquitter beaucoup mieux que moi d’une telle commission.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>C’est trop de modestie ; et vous vous acquitterez toujours <pagenum num="74"/>bien de toutes les choses dont on vous chargera. Découvrez doucement les sentiments d’Ériphile, et faites-la ressouvenir qu’il faut se rendre de bonne heure dans le bois de Diane.</p>
+
+<h3 id="p07">SCÈNE III. — IPHICRATE, TIMOCLÈS, SOSTRATE, CLITIDAS</h3>
+
+<hstage><speaker>IPHICRATE</speaker>, à Sostrate.</hstage>
+<p>Vous pouvez croire que je prends part à l’estime que la princesse vous témoigne.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker>, à Sostrate.</hstage>
+<p>Vous pouvez croire que je suis ravi du choix que l’on a fait de vous.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Vous voilà en état de servir vos amis.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Vous avez de quoi rendre de bons offices aux gens qu’il vous plaira.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Je ne vous recommande point mes intérêts.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Je ne vous dis point de parler pour moi.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Seigneurs, il seroit inutile. J’aurois tort de passer les ordres de ma commission ; et vous trouverez bon que je ne parle ni pour l’un ni pour l’autre.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Je vous laisse agir comme il vous plaira.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Vous en userez comme vous voudrez.</p>
+
+<h3 id="p08">SCÈNE IV. — IPHICRATE, TIMOCLÈS, CLITIDAS</h3>
+
+<hstage><speaker>IPHICRATE</speaker>, bas, à Clitidas.</hstage>
+<p>Clitidas se ressouvient bien qu’il est de mes amis ; je lui recommande toujours de prendre mes intérêts auprès de sa maîtresse contre ceux de mon rival.</p>
+
+<hstage><speaker>CLITIDAS</speaker>, bas, à Iphicrate.</hstage>
+<p>Laissez-moi faire. Il y a bien de la comparaison de lui à vous ! et c’est un prince bien bâti pour vous le disputer !</p>
+
+<hstage><speaker>IPHICRATE</speaker>, bas, à Clitidas.</hstage>
+<p>Je reconnoîtrai ce service.</p>
+
+<pagenum num="75"/>
+
+<h3 id="p09">SCÈNE V. — TIMOCLÈS, CLITIDAS</h3>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Mon rival fait sa cour à Clitidas ; mais Clitidas sait bien qu’il m’a promis d’appuyer contre lui les prétentions de mon amour.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Assurément ; et il se moque, de croire l’emporter sur vous. Voilà, auprès de vous, un beau petit morveux de prince !</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Il n’y a rien que je ne fasse pour Clitidas.</p>
+
+<hstage><speaker>CLITIDAS</speaker>, seul.</hstage>
+<p>Belles paroles de tous côtés ! Voici la princesse ; prenons mon temps pour l’aborder.</p>
+
+<h3 id="p10">SCÈNE VI. — ÉRIPHILE, CLÉONICE</h3>
+
+<hstage><speaker>CLÉONICE</speaker></hstage>
+<p>On trouvera étrange, madame, que vous vous soyez ainsi écartée de tout le monde.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Ah ! qu’aux personnes comme nous, qui sommes toujours accablées de tant de gens, un peu de solitude est parfois agréable ! et qu’après mille impertinents entretiens il est doux de s’entretenir avec ses pensées ! Qu’on me laisse ici promener toute seule.</p>
+
+<hstage><speaker>CLÉONICE</speaker></hstage>
+<p>Ne voudriez-vous pas, madame, voir un petit essai de la disposition de ces gens admirables qui veulent se donner à vous ? Ce sont des personnes qui, par leurs pas, leurs gestes et leurs mouvements, expriment aux yeux toutes choses ; et on appelle cela pantomime. J’ai tremblé à vous dire ce mot, et il y a des gens dans votre cour qui ne me le pardonneroient pas.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Vous avez bien la mine, Cléonice, de me venir ici régaler d’un mauvais divertissement ; car, grâce au ciel, vous ne manquez pas de vouloir produire indifféremment tout ce qui se présente à vous, et vous avez une affabilité qui ne rejette rien ; aussi est-ce à vous seule qu’on voit avoir recours toutes les muses nécessitantes ; vous êtes la grande protectrice du mérite incommodé, et tout ce qu’il y a de vertueux indigents au monde va débarquer chez vous.</p>
+
+<pagenum num="76"/>
+
+<hstage><speaker>CLÉONICE</speaker></hstage>
+<p>Si vous n’avez pas envie de les voir, madame, il ne faut que les laisser là.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Non, non ; voyons-les : faites-les venir.</p>
+
+<hstage><speaker>CLÉONICE</speaker></hstage>
+<p>Mais peut-être, madame, que leur danse sera méchante.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Méchante ou non, il la faut voir. Ce ne seroit, avec vous, que reculer la chose, et il vaut mieux en être quitte.</p>
+
+<hstage><speaker>CLÉONICE</speaker></hstage>
+<p>Ce ne sera ici, madame, qu’une danse ordinaire ; une autre fois...</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Point de préambule, Cléonice ; qu’ils dansent.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p11">SECOND INTERMÈDE</h2>
+
+<p class='smaller sommaire'>La confidente de la jeune princesse lui produit trois danseurs, sous le nom de <i>pantomimes ;</i> c’est-à-dire qui expriment par leurs gestes toutes sortes de choses. La princesse les voit danser, et les reçoit à son service.</p>
+
+<h3>ENTRÉE DE BALLET de trois pantomimes.</h3>
+
+<vsep class="rule"/>
+
+<h2 id="p12">ACTE SECOND</h2>
+
+<h3 id="p13">SCÈNE I. — ÉRIPHILE, CLÉONICE</h3>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Voilà qui est admirable. Je ne crois pas qu’on puisse mieux danser qu’ils dansent, et je suis bien aise de les avoir à moi.</p>
+
+<hstage><speaker>CLÉONICE</speaker></hstage>
+<p>Et moi, madame, je suis bien aise que vous ayez vu que je n’ai pas si méchant goût que vous avez pensé.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Ne triomphez pas tant ; vous ne tarderez guère à me faire avoir ma revanche. Qu’on me laisse ici.</p>
+
+<h3 id="p14">SCÈNE II. — ÉRIPHILE, CLÉONICE, CLITIDAS</h3>
+
+<hstage><speaker>CLÉONICE</speaker>, allant au-devant de Clitidas.</hstage>
+<p>Je vous avertis, Clitidas, que la princesse veut être seule.</p>
+
+<pagenum num="77"/>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Laissez-moi faire ; je suis homme qui sais ma cour.</p>
+
+<h3 id="p15">SCÈNE III. — ÉRIPHILE, CLITIDAS</h3>
+
+<hstage><speaker>CLITIDAS</speaker>, en chantant.</hstage>
+<p>La, la, la, la. <stage>Faisant l’étonné en voyant Ériphile.</stage> Ah !</p>
+
+<hstage><speaker>ÉRIPHILE</speaker>, à Clitidas, qui feint de vouloir s’éloigner.</hstage>
+<p>Clitidas.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Je ne vous avois pas vue là, madame.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Approche. D’où viens-tu ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>De laisser la princesse votre mère, qui s’en alloit vers le temple d’Apollon, accompagnée de beaucoup de gens.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Ne trouves-tu pas ces lieux les plus charmants du monde ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Assurément. Les princes vos amants y étoient.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Le fleuve Pénée fait ici d’agréables détours.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Fort agréables. Sostrate y étoit aussi.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>D’où vient qu’il n’est pas venu à la promenade ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Il a quelque chose dans la tête qui l’empêche de prendre plaisir à tous ces beaux régales. Il m’a voulu entretenir ; mais vous m’avez défendu si expressément de me charger d’aucune affaire auprès de vous, que je n’ai point voulu lui prêter l’oreille, et je lui ai dit nettement que je n’avois pas le loisir de l’entendre.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Tu as eu tort de lui dire cela, et tu devois l’écouter.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Je lui ai d’abord dit que je n’avois pas le loisir de l’entendre, mais après je lui ai donné audience.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Tu as bien fait.</p>
+
+<pagenum num="78"/>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>En vérité, c’est un homme qni me revient, un homme fait comme je veux que les hommes soient faits, ne prenant point des manières bruyantes et des tons de voix assommants ; sage et posé en toutes choses, ne parlant jamais que bien à propos, point prompt à décider, point du tout exagérateur incommode ; et, quelque beaux vers que nos poètes lui aient récités, je ne lui ai jamais ouï dire : Voilà qui est plus beau que tout ce qu’a jamais fait Homère. Enfin, c’est un homme pour qui je me sens de l’inclination ; et, si j’étois princesse, il ne seroit pas malheureux.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>C’est un homme d’un grand mérite, assurément. Mais de quoi t’a-t-il parlé ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Il m’a demandé si vous aviez témoigné grande joie au magnifique régale que l’on vous a donné, m’a parlé de votre personne avec des transports les plus grands du monde, vous a mise au-dessus du ciel, et vous a donné toutes les louanges qu’on peut donner à la princesse la plus accomplie de la terre, entremêlant tout cela de plusieurs soupirs qui disoient plus qu’il ne vouloit. Enfin, à force de le tourner de tous côtés et de le presser sur la cause de cette profonde mélancolie dont toute la cour s’aperçoit, il a été contraint de m’avouer qu’il étoit amoureux.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Comment amoureux ! quelle témérité est la sienne ! c’est un extravagant que je ne verrai de ma vie !</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>De quoi vous plaignez-vous, madame ?</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Avoir l’audace de m’aimer ! et, de plus, avoir l’audace de le dire !</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Ce n’est pas vous, madame, dont il est amoureux.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Ce n’est pas moi ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Non, madame, il vous respecte trop pour cela, et est trop sage pour y penser.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Et de qui donc, Clitidas ?</p>
+
+<pagenum num="79"/>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>D’une de vos filles, la jeune Arsinoé.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>A-t-elle tant d’appas, qu’il n’ait trouvé qu’elle digne de son amour ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Il l’aime éperdument, et vous conjure d’honorer sa flamme de votre protection.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Moi ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Non, non, madame. Je vois que la chose ne vous plaît pas. Votre colère m’a obligé à prendre ce détour ; et, pour vous dire la vérité, c’est vous qu’il aime éperdument,</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Vous êtes un insolent de venir ainsi surprendre mes sentiments. Allons, sortez d’ici ; vous vous mêlez de vouloir lire dans les âmes, de vouloir pénétrer dans les secrets du cœur d’une princesse ! Otez-vous de mes yeux, et que je ne vous voie jamais, Clitidas !</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Madame...</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Venez ici. Je vous pardonne cette affaire-là.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Trop de bonté, madame î</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Mais à condition, prenez garde à ce que je vous dis, que vous n’en ouvrirez la bouche à personne du monde, sur peine de la vie.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Il suffit.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Sostrate t’a donc dit qu’il m’aimoit ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Non, madame. Il faut vous dire la vérité. J’ai tiré de son cœur, par surprise, un secret qu’il veut cacher à tout le monde, et avec lequel il est, dit-il, résolu de mourir. Il a été au désespoir du vol subtil que je lui en ai fait ; et, bien loin de me charger de vous le découvrir, il m’a conjuré, avec toutes les instantes prières qu’on sauroit faire, de ne vous en rien <pagenum num="80" b="révé-" a="ler ; ">révéler ; </pagenum>et c’est trahison contre lui que ce que je viens de vous dire.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Tant mieux ! c’est par son seul respect qu’il peut me plaire ; et, s’il étoit si hardi que de me déclarer son amour, il perdroit pour jamais et ma présence et mon estime.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Ne craignez point, madame...</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Le voici. Souvenez-vous, au moins, si vous êtes sage, de la défense que je vous ai faite.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Cela est fait, madame. Il ne faut pas être courtisan indiscret.</p>
+
+<h3 id="p16">SCÈNE IV. — ÉRIPHILE, SOSTRATE</h3>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>J’ai une excuse, madame, pour oser interrompre votre solitude ; et j’ai reçu de la princesse votre mère une commission qui autorise la hardiesse que je prends maintenant.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Quelle commission, Sostrate ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Celle, madame, de tâcher d’apprendre de vous vers lequel des deux princes peut incliner votre cœur.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>La princesse ma mère montre un esprit judicieux dans le choix qu’elle a fait de vous pour un pareil emploi. Cette commission, Sostrate, vous a été agréable sans doute, et vous l’avez acceptée avec beaucoup de joie ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Je l’ai acceptée, madame, par la nécessité que mon devoir m’impose d’obéir ; et, si la princesse avoit voulu recevoir mes excuses, elle auroit honoré quelque autre de cet emploi.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Quelle cause, Sostrate, vous obligeoit à le refuser ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>La crainte, madame, de m’en acquitter mal.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Croyez-vous que je ne vous estime pas assez pour vous ouvrir mon cœur et vous donner toutes les lumières que <pagenum num="81"/>vous pourrez désirer de moi sur le sujet de ces deux princes ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Je ne désire rien pour moi là-dessus, madame ; et je ne vous demande que ce que vous croirez devoir donner aux ordres qui m’amènent.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Jusques ici je me suis défendue de m’expliquer, et la princesse ma mère a eu la bonté de souffrir que j’aie reculé toujours ce choix qui me doit engager ; mais je serai bien aise de témoigner à tout le monde que je veux faire quelque chose pour l’amour de vous ; et, si vous m’en pressez, je rendrai cet arrêt qu’on attend depuis si longtemps.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>C’est une chose, madame, dont vous ne serez point importunée par moi ; et je ne saurois me résoudre à presser une princesse qui sait trop ce qu’elle a à faire.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Mais c’est ce que la princesse ma mère attend de vous.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Ne lui-ai-je pas dit aussi que je m’acquitterois mal de cette commission ?</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Oh çà, Sostrate, les gens comme vous ont toujours les yeux pénétrants ; et je pense qu’il ne doit y avoir guère de choses qui échappent aux vôtres. N’ont-ils pu découvrir, vos yeux, ce dont tout le monde est en peine ? et ne vous ont-ils point donné quelques petites lumières du penchant de mon cœur ? Vous voyez les soins qu’on me rend, l’empressement qu’on me témoigne. Quel est celui de ces deux princes que vous croyez que je regarde d’un œil plus doux ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Les doutes que l’on forme sur ces sortes de choses ne sont réglés d’ordinaire que par les intérêts qu’on prend.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Pour qui, Sostrate, pencheriez-vous des deux ? Quel est celui, dites-moi, que vous souhaiteriez que j’épousasse ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Ah ! madame, ce ne seront pas mes souhaits, mais votre inclination qui décidera de la chose.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Mais si je me conseillois à vous pour ce choix ?</p>
+
+<pagenum num="82"/>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Si vous vous conseilliez à moi, je serois fort embarrassé.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Vous ne pourriez pas dire qui des deux vous semble plus digne de cette préférence ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Si l’on s’en rapporte à mes yeux, il n’y aura personne qui soit digne de cet honneur. Tous les princes du monde seront trop peu de chose pour aspirer à vous ; les dieux seuls y pourront prétendre, et vous ne souffrirez des hommes que l’encens et les sacrifices.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Cela est obligeant, et vous êtes de mes amis. Mais je veux que vous me disiez pour qui des deux vous vous sentez plus d’inclination, quel est celui que vous mettez le plus au rang de vos amis.</p>
+
+<h3 id="p17">SCÈNE V. — ÉRIPHILE, SOSTRATE, CHORÈBE</h3>
+
+<hstage><speaker>CHORÈBE</speaker></hstage>
+<p>Madame, voilà la princesse qui vient vous prendre ici pour aller au bois de Diane.</p>
+
+<hstage><speaker>SOSTRATE</speaker>, à part.</hstage>
+<p>Hélas ! petit garçon, que tu es venu à propos !</p>
+
+<h3 id="p18">SCÈNE VI. — ARISTIONE, ÉRIPHILE, IPHICRATE, TIMOCLÈS, SOSTRATE, ANAXARQUE, CLITIDAS</h3>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>On vous a demandée, ma fille ; et il y a des gens que votre absence chagrine fort.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Je pense, madame, qu’on m’a demandée par compliment ; et on ne s’inquiète pas tant qu’on vous dit.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>On enchaîne pour nous ici tant de divertissements les uns aux autres, que toutes nos heures sont retenues ; et nous n’avons aucun moment à perdre, si nous voulons les goûter tous. Entrons vite dans le bois, et voyons ce qui nous y attend. Ce lieu est le plus beau du monde : prenons vite nos places.</p>
+
+<vsep class="rule"/>
+
+<pagenum num="83"/>
+
+<h2 id="p19">TROISIÈME INTERMÈDE</h2>
+
+<p class='smaller sommaire'>Le théâtre est une forêt où la princesse est invitée d’aller. Une nymphe lui en fait les honneurs en chantant ; et, pour la divertir, on lui joue une petite comédie en musique, dont voici le sujet : un berger se plaint à deux bergers, ses amis, des froideurs de celle qu’il aime ; les deux amis le consolent ; et, comme la bergère aimée arrive, tous trois se retirent pour l’observer. Après quelque plainte amoureuse, elle se repose sur un gazon, et s’abandonne aux douceurs du sommeil. L’amant fait approcher ses amis, pour contempler les grâces de sa bergère, et invite toutes choses à contribuer à son repos. La bergère, en s’éveillant, voit son berger à ses pieds, se plaint de sa poursuite ; mais, considérant sa constance, elle lui accorde sa demande, consent d’en être aimée, en présence des deux bergers amis. Deux satyres arrivent, se plaignent de son changement, et, étant touchés de cette disgrâce, cherchent leur consolation dans le vin.</p>
+
+<vsep class="rule"/>
+
+<h3>PERSONNAGES DE LA PASTORALE</h3>
+<p class='c'>L<s>A</s> N<s>YMPHE</s> de la vallée de Tempé. — T<s>YRCIS</s>. — L<s>YCASTE</s>. — M<s>ÉNANDRE</s>. — C<s>ALISTE</s>. — D<s>EUX</s> S<s>ATYRES</s>.</p>
+
+<vsep class="rule"/>
+
+<h3 id="p20">PROLOGUE</h3>
+
+<hstage><speaker>LA NYMPHE DE TEMPÉ</speaker>, seule.</hstage>
+<l>Venez, grande princesse, avec tous vos appas,</l>
+<l>Venez prêter vos yeux aux innocents ébats</l>
+<l>Que notre désert vous présente :</l>
+<l>N’y cherchez point l’éclat des fêtes de la cour ;</l>
+<l>On ne sent ici que l’amour,</l>
+<l>Ce n’est que d’amour qu’on y chante.</l>
+
+<h3 id="p21">SCÈNE I. — TYRCIS, <i>seul.</i></h3>
+
+<l>Vous chantez sous ces feuillages,</l>
+<l>Doux rossignols pleins d’amour ;</l>
+<l>Et de vos tendres ramages</l>
+<l>Vous réveillez tour à tour</l>
+<l>Les échos de ces bocages :</l>
+<l>Hélas ! petits oiseaux, hélas !</l>
+<l>Si vous aviez mes maux, vous ne chanteriez pas.</l>
+
+<h3 id="p22">SCÈNE II. — LYCASTE, MÉNANDRE, TYRCIS</h3>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<l>Eh quoi ! toujours languissant, sombre et triste ?</l>
+
+<pagenum num="84"/>
+
+<hstage><speaker>MÉNANDRE</speaker></hstage>
+<l>Eh quoi ! toujours aux pleurs abandonné ?</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Toujours adorant Caliste,</l>
+<l>Et toujours infortuné.</l>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<l>Dompte, dompte, berger, l’ennui qui te possède.</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Eh ! le moyen, hélas !</l>
+
+<hstage><speaker>MÉNANDRE</speaker></hstage>
+<l cont='true'>Fais, fais-toi quelque effort.</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Eh ! le moyen, hélas ! quand le mal est trop fort ?</l>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<l>Ce mal trouvera son remède.</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Je ne guérirai qu’à ma mort.</l>
+
+<hstage><speaker>LYCASTE</speaker> et <speaker>MÉNANDRE</speaker></hstage>
+<l>Ah ! Tyrcis !</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l cont='true'>Ah ! bergers !</l>
+
+<hstage><speaker>LYCASTE</speaker> et <speaker>MÉNANDRE</speaker></hstage>
+<l cont='true'>Prends sur toi plus d’empire.</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Rien ne me peut secourir.</l>
+
+<hstage><speaker>LYCASTE</speaker> et <speaker>MÉNANDRE</speaker></hstage>
+<l>C’est trop, c’est trop céder.</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>C’est trop, c’est trop souffrir.</l>
+
+<hstage><speaker>LYCASTE</speaker> et <speaker>MÉNANDRE</speaker></hstage>
+<l>Quelle foiblesse !</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Quel martyre !</l>
+
+<hstage><speaker>LYCASTE</speaker> et <speaker>MÉNANDRE</speaker></hstage>
+<l>Il faut prendre courage.</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Il faut plutôt mourir.</l>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<l>Il n’est point de bergère,</l>
+<l>Si froide et si sévère,</l>
+<pagenum num="85"/>
+<l>Dont la pressante ardeur</l>
+<l>D’un cœur qui persévère</l>
+<l>Ne vainque la froideur.</l>
+
+<hstage><speaker>MÉNANDRE</speaker></hstage>
+<l>Il est, dans les affaires</l>
+<l>Des amoureux mystères.</l>
+<l>Certains petits moments</l>
+<l>Qui changent les plus fières,</l>
+<l>Et font d’heureux amants.</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Je la vois, la cruelle,</l>
+<l>Qui porte ici ses pas ;</l>
+<l>Gardons d’être vu d’elle :</l>
+<l>L’ingrate, hélas !</l>
+<l>N’y viendrait pas.</l>
+
+<h3 id="p23">SCÈNE III. — CALISTE, <i>seule.</i></h3>
+
+<l>Ah ! que sur notre cœur</l>
+<l>La sévère loi de l’honneur</l>
+<l>Prend un cruel empire !</l>
+<l>Je ne fais voir que rigueurs pour Tyrcis ;</l>
+<l>Et cependant, sensible à ses cuisants soucis,</l>
+<l>De sa langueur en secret je soupire,</l>
+<l>Et voudrois bien soulager son martyre.</l>
+<l>C’est à vous seuls que je le dis,</l>
+<l>Arbres, n’allez pas le redire.</l>
+<l>Puisque le ciel a voulu nous former</l>
+<l>Avec un cœur qu’Amour peut enflammer,</l>
+<l>Quelle rigueur impitoyable</l>
+<l>Contre des traits si doux nous force à nous armer ?</l>
+<l>Et pourquoi, sans être blâmable,</l>
+<l>Ne peut-on pas aimer</l>
+<l>Ce que l’on trouve aimable ?</l>
+
+<l>Hélas ! que vous êtes heureux,</l>
+<l>Innocents animaux, de vivre sans contrainte,</l>
+<l>Et de pouvoir suivre sans crainte</l>
+<l>Les doux emportements de vos cœurs amoureux !</l>
+<l>Hélas ! petits oiseaux, que vous êtes heureux</l>
+<l>De ne sentir nulle contrainte,</l>
+<l>Et de pouvoir suivre sans crainte</l>
+<l>Les doux emportements de vos cœurs amoureux !</l>
+
+<pagenum num="86"/>
+
+<l>Mais le sommeil sur ma paupière</l>
+<l>Verse de ses pavots l’agréable fraîcheur :</l>
+<l>Donnons-nous à lui tout entière ;</l>
+<l>Nous n’avons pas de loi sévère</l>
+<l>Qui défende à nos sens d’en goûter la douceur.</l>
+
+<h3 id="p24">SCÈNE IV. — CALISTE, <i>endormie ;</i> TYRCIS, LYCASTE, MÉNANDRE</h3>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Vers ma belle ennemie</l>
+<l>Portons sans bruit nos pas,</l>
+<l>Et ne réveillons pas</l>
+<l>Sa rigueur endormie.</l>
+
+<hstage><speaker>TOUS TROIS</speaker></hstage>
+<l>Dormez, dormez, beaux yeux, adorables vainqueurs ;</l>
+<l>Et goûtez le repos que vous ôtez aux cœurs.</l>
+<l>Dormez, dormez, beaux yeux.</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Silence, petits oiseaux ;</l>
+<l>Vents, n’agitez nulle chose ;</l>
+<l>Coulez doucement, ruisseaux :</l>
+<l>C’est Caliste qui repose.</l>
+
+<hstage><speaker>TOUS TROIS</speaker></hstage>
+<l>Dormez, dormez, beaux yeux, adorables vainqueurs ;</l>
+<l>Et goûtez le repos que vous ôtez aux cœurs.</l>
+<l>Dormez, dormez, beaux yeux.</l>
+
+<hstage><speaker>CALISTE</speaker>,  en se réveillant, à Tyrcis.</hstage>
+<l>Ah ! quelle peine extrême !</l>
+<l>Suivre partout mes pas !</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Que voulez-vous qu’on suive, hélas !</l>
+<l>Que ce qu’on aime ?</l>
+
+<hstage><speaker>CALISTE</speaker></hstage>
+<l>Berger, que voulez-vous ?</l>
+
+<hstage><speaker>TYRCIS</speaker></hstage>
+<l>Mourir, belle bergère,</l>
+<l>Mourir à vos genoux,</l>
+<l>Et finir ma misère.</l>
+<l>Puisque en vain à vos pieds on me voit soupirer,</l>
+<l>Il y faut expirer.</l>
+
+<pagenum num="87"/>
+
+<hstage><speaker>CALISTE</speaker></hstage>
+<l>Ah ! Tyrcis, ôtez-vous : j’ai peur que dans ce jour</l>
+<l>La pitié dans mon cœur n’introduise l’amour.</l>
+
+<hstage><speaker>LYCASTE</speaker> et <speaker>MÉNANDRE</speaker>, l’un après l’autre.</hstage>
+<l>Soit amour, soit pitié.</l>
+<l>Il sied bien d’être tendre.</l>
+<l>C’est par trop vous défendre ;</l>
+<l>Bergère, il faut se rendre</l>
+<l>A sa longue amitié.</l>
+<l>Soit amour, soit pitié,</l>
+<l>Il sied bien d’être tendre.</l>
+
+<hstage><speaker>CALISTE</speaker>, à Tyrcis.</hstage>
+<l>C’est trop, c’est trop de rigueur.</l>
+<l>J’ai maltraité votre ardeur,</l>
+<l>Chérissant votre personne ;</l>
+<l>Vengez-vous de mon cœur,</l>
+<l>Tyrcis, je vous le donne.</l>
+
+<hstage><speaker><correction original="TRYCIS">TYRCIS</correction></speaker></hstage>
+<l>O ciel ! bergers ! Caliste ! Ah ! je suis hors de moi :</l>
+<l>Si l’on meurt de plaisir, je dois perdre la vie.</l>
+
+<hstage><speaker>LYCASTE</speaker></hstage>
+<l>Digne prix de ta foi !</l>
+
+<hstage><speaker>MÉNANDRE</speaker></hstage>
+<l>O sort digne d’envie !</l>
+
+<h3 id="p25">SCÈNE V. — DEUX SATYRES, CALISTE, TYRCIS, LYCASTE, MÉNANDRE</h3>
+
+<hstage><speaker>PREMIER SATYRE</speaker>, à Caliste.</hstage>
+<l>Quoi ! tu me fuis, ingrate ; et je te vois ici</l>
+<l>De ce berger à moi faire une préférence !</l>
+
+<hstage><speaker>SECOND SATYRE</speaker></hstage>
+<l>Quoi ! mes soins n’ont rien pu sur ton indifférence,</l>
+<l>Et pour ce langoureux ton cœur s’est adouci ?</l>
+
+<hstage><speaker>CALISTE</speaker></hstage>
+<l>Le destin le veut ainsi ;</l>
+<l>Prenez tous deux patience.</l>
+
+<hstage><speaker>PREMIER SATYRE</speaker></hstage>
+<l>Aux amants qu’on pousse à bout</l>
+<l>L’amour fait verser des larmes ;</l>
+<l>Mais ce n’est pas notre goût,</l>
+<pagenum num="88"/>
+<l>Et la bouteille a des charmes</l>
+<l>Qui nous consolent de tout.</l>
+
+<hstage><speaker>SECOND SATYRE</speaker></hstage>
+<l>Notre amour n’a pas toujours</l>
+<l>Tout le bonheur qu’il désire ;</l>
+<l>Mais nous avons un secours,</l>
+<l>Et le bon vin nous fait rire</l>
+<l>Quand on rit de nos amours.</l>
+
+<hstage><speaker>TOUS</speaker></hstage>
+<l>Champêtres divinités,</l>
+<l>Faunes, dryades, sortez</l>
+<l>De vos paisibles retraites ;</l>
+<l>Mêlez vos pas à nos sons,</l>
+<l>Et tracez sur les herbettes</l>
+<l>L’image de nos chansons.</l>
+
+<h3>PREMIÈRE ENTRÉE DE BALLET</h3>
+
+<p class='smaller sommaire'>En même temps six dryades et six faunes sortent de leurs demeures et font ensemble une danse agréable, qui, s’ouvrant tout d’un coup laisse voir un berger et une bergère qui font en musique une petite scène d’un dépit amoureux.</p>
+
+<h2 id="p26">DÉPIT AMOUREUX</h2>
+
+<h3>CLIMÈNE, PHILINTE</h3>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Quand je plaisois à tes yeux,</l>
+<l>J’étois content de ma vie.</l>
+<l>Et ne voyois roi ni dieux</l>
+<l>Dont le sort me fit envie.</l>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<l>Lorsqu’à toute autre personne</l>
+<l>Me préféroit ton ardeur,</l>
+<l>J’aurois quitté la couronne</l>
+<l>Pour régner dessus ton cœur.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Une autre a guéri mon âme</l>
+<l>Des feux que j’avois pour toi.</l>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<l>Un autre a vengé ma flamme</l>
+<l>Des foiblesses de ta foi.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Chloris, qu’on vante si fort,</l>
+<pagenum num="89"/>
+<l>M’aime d’une ardeur fidèle ;</l>
+<l>Si ses yeux vouloient ma mort,</l>
+<l>Je mourrois content pour elle.</l>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<l>Myrtil, si digne d’envie,</l>
+<l>Me chérit plus que le jour ;</l>
+<l>Et moi, je perdrois la vie</l>
+<l>Pour lui montrer mon amour.</l>
+
+<hstage><speaker>PHILINTE</speaker></hstage>
+<l>Mais, si d’une douce ardeur</l>
+<l>Quelque renaissante trace</l>
+<l>Chassoit Chloris de mon cœur,</l>
+<l>Pour te remettre en sa place ?</l>
+
+<hstage><speaker>CLIMÈNE</speaker></hstage>
+<l>Bien qu’avec pleine tendresse</l>
+<l>Myrtil me puisse chérir,</l>
+<l>Avec toi, je le confesse,</l>
+<l>Je voudrois vivre et mourir<noteref noteid="note.89.1"/>.</l>
+
+<notes>
+  <note id="note.89.1">
+    <p>Il n’est pas besoin de rappeler que ce gracieux morceau est une imitation de l’ode d’Horace : <i>Donec gratus eram tibi</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>TOUS DEUX ENSEMBLE</speaker></hstage>
+<l>Ah ! plus que jamais aimons-nous,</l>
+<l>Et vivons et mourons en des liens si doux.</l>
+
+<hstage><speaker>TOUS LES ACTEURS DE LA PASTORALE</speaker></hstage>
+<l>Amants, que vos querelles</l>
+<l>Sont aimables et belles !</l>
+<l>Qu’on y voit succéder</l>
+<l>De plaisir, de tendresse !</l>
+<l>Querellez-vous sans cesse</l>
+<l>Pour vous raccommoder.</l>
+
+<l>Amants, que vos querelles</l>
+<l>Sont aimables et belles ! etc.</l>
+
+<h3>SECONDE ENTRÉE DE BALLET</h3>
+
+<p class='smaller sommaire'>Les faunes et les dryades recommencent leur danse, que les bergères et bergers musiciens entremêlent de leurs chansons, tandis que trois petites dryades et trois petits faunes font paroître dans l’enfoncement du théâtre tout ce qui se passe sur le devant.</p>
+
+<hstage><speaker>LES BERGERS ET LES BERGÈRES</speaker></hstage>
+<l>Jouissons, jouissons des plaisirs innocents</l>
+<l>Dont les feux de l’amour savent charmer nos sens.</l>
+<pagenum num="90"/>
+<l>Des grandeurs qui voudra se soucie ;</l>
+<l>Tous ces honneurs dont on a tant d’envie</l>
+<l>Ont des chagrins qui sont trop cuisants.</l>
+<l>Jouissons, jouissons des plaisirs innocents</l>
+<l>Dont les feux de l’amour savent charmer nos sens.</l>
+<l>En aimant, tout nous plaît dans la vie ;</l>
+<l>Deux cœurs unis de leur sort sont contents :</l>
+<l>Cette ardeur, de plaisirs suivie,</l>
+<l>De tous nos jours fait d’éternels printemps.</l>
+<l>Jouissons, jouissons des plaisirs innocents</l>
+<l>Dont les feux de l’amour savent charmer nos sens.</l>
+
+<vsep class="rule"/>
+
+<h2 id="p28">ACTE TROISIÈME</h2>
+
+<h3 id="p29">SCÈNE I. — ARISTIONE, IPHICRATE, TIMOCLÈS, ÉRIPHILE, ANAXARQUE, SOSTRATE, CLITIDAS</h3>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Les mêmes paroles toujours se présentent à dire ; il faut toujours s’écrier : Voilà qui est admirable ! il ne se peut rien de plus beau ! cela passe tout ce qu’on a jamais vu !</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>C’est donner de trop grandes paroles, madame, à de petites bagatelles.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Des bagatelles comme celles-là peuvent occuper agréablement les plus sérieuses personnes. En vérité, ma fille, vous êtes bien obligée à ces princes, et vous, ne sauriez assez reconnoître tous les soins qu’ils prennent pour vous.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>J’en ai, madame, tout le ressentiment qu’il est possible.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Cependant vous les faites longtemps languir sur ce qu’ils attendent de vous. J’ai promis de ne vous point contraindre ; mais leur amour vous presse de vous déclarer et de ne plus traîner en longueur la récompense de leurs services. J’ai chargé Sostrate d’apprendre doucement de vous les sentiments de votre cœur, et je ne sais pas s’il a commencé à s’acquitter de cette commission.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Oui, madame ; mais il me semble que je ne puis assez <pagenum num="91" b="recu-" a="ler">reculer</pagenum> ce choix dont on me presse, et que je ne saurois le faire sans mériter quelque blâme. Je me sens également obligée à l’amour, aux empressements, aux services de ces deux princes ; et je trouve une espèce d’injustice bien grande à me montrer ingrate, ou vers l’un ou vers l’autre, par le refus qu’il m’en faudra faire dans la préférence de son rival.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Cela s’appelle, madame, un fort honnête compliment pour nous refuser tous deux.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Ce scrupule, ma fille, ne doit point vous inquiéter ; et ces princes tous deux se sont soumis, il y a longtemps, à la préférence que pourra faire votre inclination.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>L’inclination, madame, est fort sujette à se tromper ; et des yeux désintéressés sont beaucoup plus capables de faire un juste choix.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Vous savez que je suis engagée de parole à ne rien prononcer là-dessus ; et, parmi ces deux princes, votre inclination ne peut point se tromper et faire un choix qui soit mauvais.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Pour ne point violenter votre parole ni mon scrupule, agréez, madame, un moyen que j’ose proposer.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Quoi, ma fille ?</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Que Sostrate décide de cette préférence. Vous l’avez pris pour découvrir le secret de mon cœur ; souffrez que je le prenne pour me tirer de l’embarras où je me trouve.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>J’estime tant Sostrate, que, soit que vous vouliez vous servir de lui pour expliquer vos sentiments, ou soit que vous vous en remettiez absolument à sa conduite, je fais, dis-je, tant d’estime de sa vertu et de son jugement, que je consens de tout mon cœur à la proposition que vous me faites.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>C’est-à-dire, madame, qu’il nous faut faire notre cour à Sostrate ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Non, seigneur, vous n’aurez point de cour à me faire ; et, <pagenum num="92"/>avec tout le respect que je dois aux princesses, je renonce à la gloire où elles veulent m’élever.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>D’où vient cela, Sostrate ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>J’ai des raisons, madame, qui ne permettent pas que je reçoive l’honneur que vous me présentez.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Craignez-vous, Sostrate, de vous faire un ennemi ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Je craindrois peu, seigneur, les ennemis que je pourrois me faire en obéissant à mes souveraines.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Par quelle raison donc refusez-vous d’accepter le pouvoir qu’on vous donne et de vous acquérir l’amitié d’un prince qui vous devroit tout son bonheur ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Par la raison que je ne suis pas en état d’accorder à ce prince ce qu’il souhaiteroit de moi.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Quelle pourroit être cette raison ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Pourquoi me tant presser là-dessus ? Peut-être ai-je, seigneur, quelque intérêt secret qui s’oppose aux prétentions de votre amour. Peut-être ai-je un ami qui brûle, sans oser le dire, d’une flamme respectueuse pour les charmes divins dont vous êtes épris. Peut-être cet ami me fait-il tous les jours confidence de son martyre, qu’il se plaint à moi tous les jours des rigueurs de sa destinée, et regarde l’hymen de la princesse ainsi que l’arrêt redoutable qui le doit pousser au tombeau ; et, si cela étoit, seigneur, seroit-il raisonnable que ce fût de ma main qu’il reçût le coup de sa mort ?</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Vous auriez bien la mine, Sostrate, d’être vous-même cet ami dont vous prenez les intérêts.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Ne cherchez point, de grâce, à me rendre odieux aux personnes qui vous écoutent. Je sais me connoître, seigneur ; et les malheureux comme moi n’ignorent pas jusqu’où leur fortune leur permet d’aspirer.</p>
+
+<pagenum num="93"/>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Laissons cela ; nous trouverons moyen de terminer l’irrésolution de ma fille.</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>En est-il un meilleur, madame, pour terminer les choses au contentement de tout le monde, que les lumières que le ciel peut donner sur ce mariage ? J’ai commencé, comme je vous ai dit, à jeter pour cela les figures mystérieuses que notre art nous enseigne ; et j’espère vous faire voir tantôt ce que l’avenir garde à cette union souhaitée. Après cela, pourra-t-on balancer encore ? La gloire et les prospérités que le ciel promettra ou à l’un ou à l’autre choix ne seront-elles pas suffisantes pour le déterminer ; et celui qui sera exclu pourra-t-il s’offenser, quand ce sera le ciel qui décidera cette préférence ?</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Pour moi, je m’y soumets entièrement ; et je déclare que cette voie me semble la plus raisonnable.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Je suis de même avis, et le ciel ne sauroit rien faire où je ne souscrive sans répugnance.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Mais, seigneur Anaxarque, voyez-vous si clair dans les destinées, que vous ne vous trompiez jamais ? et ces prospérités et cette gloire que vous dites que le ciel nous promet, qui en sera caution, je vous prie ?</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Ma fille, vous avez une petite incrédulité qui ne vous quitte point.</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>Les épreuves, madame, que tout le monde a vues de l’infaillibilité de mes prédictions sont les cautions suffisantes des promesses que je puis faire. Mais enfin, quand je vous aurai fait voir ce que le ciel vous marque, vous vous réglerez là-dessus à votre fantaisie ; et ce sera à vous à prendre la fortune de l’un ou de l’autre choix.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Le ciel, Anaxarque, me marquera les deux fortunes qui m’attendent ?</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>Oui, madame : les félicités qui vous suivront, si vous épousez l’un ; et les disgrâces qui vous accompagneront, si vous épousez l’autre.</p>
+
+<pagenum num="94"/>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Mais, comme il est impossible que je les épouse tous deux, il faut donc qu’on trouve écrit dans le ciel non seulement ce qui doit arriver, mais aussi ce qui ne doit pas arriver.</p>
+
+<hstage><speaker>CLITIDAS</speaker>, à part.</hstage>
+<p>Voilà mon astrologue embarrassé.</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>Il faudroit vous faire, madame, une longue discussion des principes de l’astrologie, pour vous faire comprendre cela.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Bien répondu. Madame, je ne dis point de mal de l’astrologie : l’astrologie est une belle chose, et le seigneur Anaxarque est un grand homme.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>La vérité de l’astrologie est une chose incontestable, et il n’y a personne qui puisse disputer contre la certitude de ses prédictions.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Assurément.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Je suis assez incrédule pour quantité de choses ; mais pour ce qui est de l’astrologie, il n’y a rien de plus sûr et de plus constant que le succès des horoscopes qu’elle tire.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Ce sont des choses les plus claires du monde.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Cent aventures prédites arrivent tous les jours, qui convainquent les plus opiniâtres.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Il est vrai.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Peut-on contester, sur cette matière, les incidents célèbres dont les histoires nous font foi ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Il faut n’avoir pas le sens commun. Le moyen de contester ce qui est moulé ?</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Sostrate n’en dit mot. Quel est son sentiment là-dessus ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Madame, tous les esprits ne sont pas nés avec les qualités <pagenum num="95"/>qu’il faut pour la délicatesse de ces belles sciences, qu’on nomme curieuses ; et il y en a de si matériels, qu’ils ne peuvent aucunement comprendre ce que d’autres conçoivent le plus facilement du monde. Il n’est rien de plus agréable, madame, que toutes les grandes promesses de ces connoissances sublimes. Transformer tout en or ; faire vivre éternellement ; guérir par des paroles ; se faire aimer de qui l’on veut ; savoir tous les secrets de l’avenir ; faire descendre comme on veut du ciel, sur des métaux, des impressions de bonheur ; commander aux démons ; se faire des armées invisibles et des soldats invulnérables : tout cela est charmant, sans doute, et il y a des gens qui n’ont aucune peine à en comprendre la possibilité, cela leur est le plus aisé du monde à concevoir. Mais, pour moi, je vous avoue que mon esprit grossier a quelque peine à le comprendre et à le croire, et j’ai toujours trouvé cela trop beau pour être véritable. Toutes ces belles raisons de sympathie, de force magnétique et de vertu occulte, sont si subtiles et délicates, qu’elles échappent à mon sens matériel ; et, sans parler du reste, jamais il n’a été en ma puissance de concevoir comme on trouve écrit dans le ciel, jusqu’aux plus petites particularités de la fortune du moindre homme. Quel rapport, quel commerce, quelle correspondance peut-il y avoir entre nous et des globes éloignés de notre terre d’une distance si effroyable ? et d’où cette belle science, enfin, peut-elle être venue aux hommes ? Quel dieu l’a révélée ? ou quelle expérience l’a pu former de l’observation de ce grand nombre d’astres, qu’on n’a pu voir encore deux fois dans la même disposition ?</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>Il ne sera pas difficile de vous le faire concevoir.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Vous serez plus habile que tous les autres.</p>
+
+<hstage><speaker>CLITIDAS</speaker>, à Sostrate.</hstage>
+<p>Il vous fera une discussion de tout cela, quand vous voudrez.</p>
+
+<hstage><speaker>IPHICRATE</speaker>, à Sostrate.</hstage>
+<p>Si vous ne comprenez pas les choses, au moins les pouvez-vous croire sur ce que l’on voit tous les jours.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Comme mon sens est si grossier, qu’il n’a pu rien comprendre, mes yeux aussi sont si malheureux, qu’ils n’ont jamais rien vu.</p>
+
+<pagenum num="96"/>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Pour moi, j’ai vu, et des choses tout à fait convaincantes.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Et moi aussi.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Comme vous avez vu, vous faites bien de croire ; et il faut que vos yeux soient faits autrement que les miens.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Mais enfin la princesse croit à l’astrologie ; et il me semble qu’on y peut bien croire après elle. Est-ce que madame, Sostrate, n’a pas de l’esprit et du sens ?</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Seigneur, la question est un peu violente. L’esprit de la princesse n’est pas une règle pour le mien ; et son intelligence peut l’élever à des lumières où mon sens ne peut pas atteindre.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Non, Sostrate, je ne vous dirai rien sur quantité de choses auxquelles je ne donne guère plus de créance que vous ; mais, pour l’astrologie, on m’a dit et fait voir des choses si positives, que je ne la puis mettre en doute.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Madame, je n’ai rien à répondre à cela.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Quittons ce discours, et qu’on nous laisse un moment. Dressons notre promenade, ma fille, vers cette belle grotte où j’ai promis d’aller. Des galanteries à chaque pas !</p>
+
+<vsep class="rule"/>
+
+<h2>QUATRIÈME INTERMÈDE</h2>
+
+<p class='smaller sommaire'>Le théâtre représente une grotte où les princesses vont se promener, et, dans le temps qu’elles y entrent, huit statues, portant chacune deux flambeaux à leurs mains, sortent de leurs niches, et font une danse variée de plusieurs figures et de plusieurs belles attitudes, où elles demeurent par intervalles.</p>
+
+<h3>ENTRÉE DE BALLET de huit statues.</h3>
+
+<vsep class="rule"/>
+
+<pagenum num="97"/>
+
+<h2 id="p30">ACTE QUATRIÈME</h2>
+
+<h3 id="p31">SCÈNE I. — ARISTIONE, ÉRIPHILE</h3>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>De qui que cela soit, on ne peut rien de plus galant et de mieux entendu. Ma fille, j’ai voulu me séparer de tout le monde pour vous entretenir ; et je veux que vous ne me cachiez rien de la vérité. N’auriez-vous point dans l’âme quelque inclination secrète que vous ne voulez pas nous dire ?</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Moi, madame ?</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Parlez à cœur ouvert, ma fille. Ce que j’ai fait pour vous mérite bien que vous usiez avec moi de franchise. Tourner vers vous toutes mes pensées, vous préférer à toutes choses, et fermer l’oreille, en l’état où je suis, à toutes les propositions que cent princesses, en ma place, écouteroient avec bienséance : tout cela vous doit assez persuader que je suis une bonne mère et que je ne suis pas pour recevoir avec sévérité les ouvertures que vous pourriez me faire de votre cœur.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Si j’avois si mal suivi votre exemple, que de m’être laissée aller à quelques sentiments d’inclination que j’eusse raison de cacher, j’aurois, madame, assez de pouvoir sur moi-même pour imposer silence à cette passion, et me mettre en état de ne rien faire voir qui fût indigne de votre sang.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Non, non, ma fille ; vous pouvez, sans scrupule, m’ouvrir vos sentiments. Je n’ai point renfermé votre inclination dans le choix de deux princes ; vous pouvez l’étendre où vous voudrez ; et le mérite, auprès de moi, tient un rang si considérable, que je l’égale à tout ; et, si vous m’avouez franchement les choses, vous me verrez souscrire sans répugnance au choix qu’aura fait votre cœur.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Vous avez des bontés pour moi, madame, dont je ne puis assez me louer ; mais je ne les mettrai point à l’épreuve sur le sujet dont vous me parlez ; et tout ce que je leur demande, c’est de ne point presser un mariage où je ne me sens pas encore bien résolue.</p>
+
+<pagenum num="98"/>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Jusqu’ici je vous ai laissée assez maîtresse de tout ; et l’impatience des princes vos amants... Mais quel bruit est-ce que j’entends ? Ah ! ma fille, quel spectacle s’offre à nos yeux ! quelque divinité descend ici, et c’est la déesse Vénus qui semble nous vouloir parler.</p>
+
+<h3 id="p32">SCÈNE II. — VÉNUS, <i>accompagnée de quatre petits Amours dans une machine ;</i> ARISTIONE, ÉRIPHILE</h3>
+
+<hstage><speaker>VÉNUS</speaker>, à Aristione.</hstage>
+<poem>
+<l>Princesse, dans tes soins brille un zèle exemplaire</l>
+<l>Qui, par les immortels, doit être couronné ;</l>
+<l>Et, pour te voir un gendre illustre et fortuné,</l>
+<l>Leur main te veut marquer le choix que tu dois faire.</l>
+<l>Ils t’annoncent tous par ma voix</l>
+<l>La gloire et les grandeurs que, par ce digne choix.</l>
+<l>Ils feront pour jamais entrer dans ta famille.</l>
+<l>De tes difficultés termine donc le cours,</l>
+<l>Et pense à donner ta fille</l>
+<l>A qui sauvera tes jours.</l>
+</poem>
+
+<h3 id="p33">SCÈNE III. — ARISTIONE, ÉRIPHILE</h3>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Ma fille, les dieux imposent silence à tous nos raisonnements. Après cela, nous n’avons plus rien à faire qu’à recevoir ce qu’ils s’apprêtent à nous donner ; et vous venez d’entendre distinctement leur volonté. Allons dans le premier temple, les assurer de notre obéissance et leur rendre grâces de leurs bontés.</p>
+
+<h3 id="p34">SCÈNE IV. — ANAXARQUE, CLÉON</h3>
+
+<hstage><speaker>CLÉON</speaker></hstage>
+<p>Voilà la princesse qui s’en va ; ne voulez-vous pas lui parler ?</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>Attendons que sa fille soit séparée d’elle. C’est un esprit que je redoute, et qui n’est pas de trempe à se laisser mener ainsi que celui de sa mère. Enfin, mon fils, comme nous venons de voir par cette ouverture, le stratagème a réussi. Notre Vénus a fait des merveilles, et l’admirable ingénieur qui s’est employé à cet artifice a si bien disposé tout, a coupé avec tant d’adresse le plancher de cette grotte, si bien caché ses fils de <pagenum num="99"/>fer et tous ses ressorts, si bien ajusté ses lumières et habillé ses personnages, qu’il y a peu de gens qui n’y eussent été trompés ; et, comme la princesse Aristione est fort superstitieuse, il ne faut point douter qu’elle ne donne à pleine tête dans cette tromperie. Il y a longtemps, mon fils, que je prépare cette machine, et me voilà tantôt au but de mes prétentions.</p>
+
+<hstage><speaker>CLÉON</speaker></hstage>
+<p>Mais pour lequel des deux princes, au moins, dressez-vous tout cet artifice ?</p>
+
+<hstage><speaker>ANAXARQUE</speaker></hstage>
+<p>Tous deux ont recherché mon assistance, et je leur promets à tous deux la faveur de mon art. Mais les présents du prince Iphicrate et les promesses qu’il m’a faites l’emportent de beaucoup sur tout ce qu’a pu faire l’autre. Ainsi ce sera lui qui recevra les effets favorables de tous les ressorts que je fais jouer ; et, comme son ambition me devra toute chose, voilà, mon fils, notre fortune faite. Je vais prendre mon temps pour affermir dans son erreur l’esprit de la princesse, pour la mieux prévenir encore par le rapport que je lui ferai voir adroitement des paroles de Vénus avec les prédictions des figures célestes que je lui dis que j’ai jetées. Va-t’en tenir la main au reste de l’ouvrage, préparer nos six hommes à se bien cacher dans leur barque derrière le rocher, à posément attendre le temps que la princesse Aristione vient tous les soirs se promener seule sur le rivage, à se jeter bien à propos sur elle ainsi que des corsaires, et donner lieu au prince Iphicrate de lui apporter ce secours qui, sur les paroles du ciel, doit mettre entre ses mains la princesse Ériphile. Ce prince est averti par moi ; et, sur la foi de ma prédiction, il doit se tenir dans ce petit bois qui borde le rivage. Mais sortons de cette grotte ; je te dirai, en marchant, toutes les choses qu’il faut bien observer. Voilà la princesse Ériphile : évitons sa rencontre.</p>
+
+<h3 id="p35">SCÈNE V. — ÉRIPHILE, <i>seule.</i></h3>
+
+<p>Hélas ! quelle est ma destinée ! et qu’ai-je fait aux dieux pour mériter les soins qu’ils veulent prendre de moi ?</p>
+
+<h3 id="p36">SCÈNE VI. — ÉRIPHILE, CLÉONICE</h3>
+
+<hstage><speaker>CLÉONICE</speaker></hstage>
+<p>Le voici, madame, que j’ai trouvé ; et, à vos premiers ordres, il n’a pas manqué de me suivre.</p>
+
+<pagenum num="100"/>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Qu’il approche, Cléonice ; et qu’on nous laisse seuls un moment.</p>
+
+<h3 id="p37">SCÈNE VII. — ÉRIPHILE, SOSTRATE</h3>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Sostrate, vous m’aimez.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Moi, madame ?</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Laissons cela, Sostrate ; je le sais, je l’approuve, et vous permets de me le dire. Votre passion a paru à mes yeux accompagnée de tout le mérite qui me la pouvoit rendre agréable. Si ce n’étoit le rang où le ciel m’a fait naître, je puis vous dire que cette passion n’auroit pas été malheureuse, et que cent fois je lui ai souhaité l’appui d’une fortune qui pût mettre pour elle en pleine liberté les secrets sentiments de mon âme. Ce n’est pas, Sostrate, que le mérite seul n’ait à mes yeux tout le prix qu’il doit avoir, et que, dans mon cœur, je ne préfère les vertus qui sont en vous à tous les titres magnifiques dont les autres sont revêtus. Ce n’est pas même que la princesse ma mère ne m’ait assez laissé la disposition de mes vœux ; et je ne doute point, je vous l’avoue, que mes prières n’eussent pu tourner son consentement du côté que j’aurois voulu. Mais il est des états, Sostrate, où il n’est pas honnête de vouloir tout ce qu’on peut faire. Il y a des chagrins à se mettre au-dessus de toutes choses ; et les bruits fâcheux de la renommée vous font trop acheter le plaisir que l’on trouve à contenter son inclination. C’est à quoi, Sostrate, je ne me serois jamais résolue ; et j’ai cru faire assez de fuir l’engagement dont j’étois sollicitée. Mais, enfin, les dieux veulent prendre eux-mêmes le soin de me donner un époux ; et tous ces longs délais avec lesquels j’ai reculé mon mariage, et que les bontés de la princesse ma mère ont accordés à mes désirs ; ces délais, dis-je, ne me sont plus permis, et il me faut résoudre à subir cet arrêt du ciel. Soyez sûr, Sostrate, que c’est avec toutes les répugnances du monde que je m’abandonne à cet hyméneé ; et que, si j’avois pu être maîtresse de moi, ou j’aurois été à vous, ou je n’aurois été à personne. Voilà, Sostrate, ce que j’avois à vous dire ; voilà ce que j’ai cru devoir à votre mérite, et la consolation que toute ma tendresse peut donner à votre flamme.</p>
+
+<pagenum num="101"/>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Ah ! madame, c’en est trop pour un malheureux ! Je ne m’étois pas préparé à mourir avec tant de gloire ; et je cesse, dans ce moment, de me plaindre des destinées. Si elles m’ont fait naître dans un rang beaucoup moins élevé que mes désirs, elles m’ont fait naître assez heureux pour attirer quelque pitié du cœur d’une grande princesse ; et cette pitié glorieuse vaut des sceptres et des couronnes, vaut la fortune des plus grands princes de la terre. Oui, madame, dès que j’ai osé vous aimer (c’est vous, madame, qui voulez bien que je me serve de ce mot téméraire), dès que j’ai, dis-je, osé vous aimer, j’ai condamné d’abord l’orgueil de mes désirs ; je me suis fait moi-même la destinée que je devois attendie. Le coup de mon trépas, madame, n’aura rien qui me surprenne, puisque je m’y étois préparé ; mais vos bontés le comblent d’un honneur que mon amour jamais n’eût osé espérer ; et je m’en vais mourir, après cela, le plus content et le plus glorieux de tous les hommes. Si je puis encore souhaiter quelque chose, ce sont deux grâces, madame, que je prends la hardiesse de vous demander à genoux ; de vouloir souffrir ma présence jusqu’à cet heureux hyménée qui doit mettre fin à ma vie ; et, parmi cette grande gloire et ces longues prospérités que le ciel promet à votre union, de vous souvenir quelquefois de l’amoureux Sostrate. Puis-je, divine princesse me promettre de vous cette précieuse faveur ?</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Allez, Sostrate, sortez d’ici. Ce n’est pas aimer mon repos que de me demander que je me souvienne de vous.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Ah ! madame, si votre repos...</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Otez-vous, vous dis-je, Sostrate ; épargnez ma foiblesse, et ne m’exposez point à plus que je n’ai résolu.</p>
+
+<h3 id="p38">SCÈNE VIII. — ÉRIPHILE, CLÉONICE</h3>
+
+<hstage><speaker>CLÉONICE</speaker></hstage>
+<p>Madame, je vous vois l’esprit tout chagrin : vous plaît-il que vos danseurs, qui expriment si bien toutes les passions, vous donnent maintenant quelque épreuve de leur adresse ?</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Oui, Cléonice : qu’ils fassent tout ce qu’ils voudront, pourvu qu’ils me laissent à mes pensées.</p>
+
+<vsep class="rule"/>
+
+<pagenum num="102"/>
+
+<h2 id="p39">CINQUIÈME INTERMÈDE</h2>
+
+<p class='smaller sommaire'>Quatre pantomimes, pour épreuve de leur adresse, ajustent leurs gestes et leurs pas aux inquiétudes de la jeune princesse Ériphile.</p>
+
+<h3>ENTRÉE DE BALLET de quatre pantomimes.</h3>
+
+<vsep class="rule"/>
+
+<h2 id="p40">ACTE CINQUIÈME</h2>
+
+<h3 id="p41">SCÈNE I. — ÉRIPHILE, CLITIDAS</h3>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>De quel côté porter mes pas ? où m’aviserai-je d’aller ? et en quel lieu puis-je croire que je trouverai maintenant la princesse Ériphile ? Ce n’est pas un petit avantage que d’être le premier à porter une nouvelle. Ah ! la voilà ! Madame ! je vous annonce que le ciel vient de vous donner l’époux qu’il vous destinoit.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Eh ! laisse-moi, Clitidas, dans ma sombre mélancolie.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Madame, je vous demande pardon. Je pensois faire bien de vous voir dire que le ciel vient de vous donner Sostrate pour époux ; mais, puisque cela vous incommode, je rengaine ma nouvelle, et m’en retourne droit comme je suis venu.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Clitidas ! holà, Clitidas !</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Je vous laisse, madame, dans votre sombre mélancolie.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Arrête, te dis-je ; approche. Que viens-tu me dire ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Rien, madame. On a parfois des empressements de venir dire aux grands de certaines choses dont ils ne se soucient pas, et je vous prie de m’excuser.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Que tu es cruel !</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Une autre fois j’aurai la discrétion de ne vous pas venir interrompre.</p>
+
+<pagenum num="103"/>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Ne me tiens point dans l’inquiétude. Qu’est-ce que tu viens m’annoncer ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>C’est une bagatelle de Sostrate, madame, que je vous dirai une autre fois, quand vous ne serez point embarrassée.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Ne me fais point languir davantage, te dis-je, et m’apprends cette nouvelle.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Vous la voulez savoir, madame ?</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Oui ; dépêche. Qu’as-tu à me dire de Sostrate ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Une aventure merveilleuse, où personne ne s’attendoit.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Dis-moi vite ce que c’est.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Cela ne troublera-t-il point, madame, votre sombre mélancolie ?</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Ah ! parle promptement.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>J’ai donc à vous dire, madame, que la princesse votre mère passoit presque seule dans la forêt, par ces petites routes qui sont si agréables, lorsqu’un sanglier hideux (ces vilains sangliers-là font toujours du désordre, et l’on devroit les bannir des forêts bien policées), lors, dis-je, qu’un sanglier hideux, poussé, je crois, par des chasseurs, est venu traverser la route où nous étions. Je devrois vous faire peut-être, pour orner mon récit, une description étendue du sanglier dont je parle : mais vous vous en passerez, s’il vous plaît, et je me contenterai de vous dire que c’étoit un fort vilain animal. Il passoit son chemin, et il étoit bon de ne lui rien dire, de ne point chercher de noise avec lui ; mais la princesse à voulu essayer sa dextérité, et de son dard, qu’elle lui a lancé un peu mal à propos, ne lui en déplaise, lui a fait au-dessus de l’oreille une assez petite blessure. Le sanglier, mal morigéné, s’est impertinemment détourné contre nous : nous étions là deux ou trois misérables qui avons pâli de frayeur ; chacun gagnoit son arbre, et la princesse, sans défense, demeuroit exposée à <pagenum num="104"/>la furie de la bête, lorsque Sostrate a paru comme si les dieux l’eussent envoyé.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Eh bien, Clitidas ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Si mon récit vous ennuie, madame, je remettrai le reste à une autre fois.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Achève promptement.</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Ma foi, c’est promptement de vrai que j’achèverai ; car un peu de poltronnerie m’a empêché de voir tout le détail de ce combat ; et tout ce que je puis vous dire, c’est que, retournant sur la place, nous avons vu le sanglier mort, tout vautré dans son sang ; et la princesse, pleine de joie, nommant Sostrate son libérateur et l’époux digne et fortuné que les dieux lui marquoient pour vous. A ces paroles, j’ai cru que j’en avois assez entendu ; et je me suis hâté de vous en venir, avant tous, apporter la nouvelle.</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Ah ! Clitidas, pouvois-tu m’en donner une qui me pût être plus agréable ?</p>
+
+<hstage><speaker>CLITIDAS</speaker></hstage>
+<p>Voilà qu’on vient vous trouver.</p>
+
+<h3 id="p42">SCÈNE II. — ARISTIONE, SOSTRATE, ÉRIPHILE, CLITIDAS</h3>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Je vois, ma fille, que vous savez déjà tout ce que nous pourrions vous dire. Vous voyez que les dieux se sont expliqués bien plus tôt que nous n’eussions pensé : mon péril n’a guère tardé à nous marquer leurs volontés, et l’on connoît assez que ce sont eux qui se sont mêlés de ce choix, puisque le mérite tout seul brille dans cette préférence. Aurez-vous quelque répugnance à récompenser de votre cœur celui à qui je dois la vie ? et refusez-vous Sostrate pour époux ?</p>
+
+<hstage><speaker>ÉRIPHILE</speaker></hstage>
+<p>Et de la main des dieux et de la vôtre, madame, je ne puis rien recevoir qui ne me soit fort agréable.</p>
+
+<hstage><speaker>SOSTRATE</speaker></hstage>
+<p>Ciel ! n’est-ce point ici quelque songe tout plein de gloire dont les dieux me veuillent flatter ? et quelque réveil <pagenum num="105" b="malheu-" a="reux">malheureux</pagenum> ne me replongera-t-il point dans la bassesse de ma fortune ?</p>
+
+<h3 id="p43">SCÈNE III. — ARISTIONE, ÉRIPHILE, SOSTRATE, CLÉONICE, CLITIDAS</h3>
+
+<hstage><speaker>CLÉONICE</speaker></hstage>
+<p>Madame, je viens vous dire qu’Anaxarque a jusqu’ici abusé l’un et l’autre prince par l’espérance de ce choix qu’ils poursuivent depuis longtemps ; et qu’au bruit qui s’est répandu de votre aventure ils ont fait éclater tous deux leur ressentiment contre lui, jusque-là que, de paroles en paroles, les choses se sont échauffées, et il en a reçu quelques blessures dont on ne sait pas bien ce qui arrivera. Mais les voici.</p>
+
+<h3 id="p44">SCÈNE IV. — ARISTIONE, ÉRIPHILE, IPHICRATE, TIMOCLÈS, SOSTRATE, CLÉONICE, CLITIDAS</h3>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Princes, vous agissez tous deux avec une violence bien grande ! et, si Anaxarque a pu vous offenser, j’étois pour vous en faire justice moi-même.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Et quelle justice, madame, auriez-vous pu nous faire de lui, si vous la faites si peu à notre rang dans le choix que vous embrassez ?</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Ne vous êtes-vous pas soumis l’un et l’autre à ce que pourroient décider, ou les ordres du ciel, ou l’inclination de ma fille ?</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Oui, madame, nous nous sommes soumis à ce qu’ils pourroient décider entre le prince Iphicrate et moi, mais non pas à nous voir rebutés tous deux.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Et si chacun de vous a bien pu se résoudre à souffrir une préférence, que vous arrive-t-il à tous deux où vous ne soyez préparés ? et que peuvent importer à l’un et à l’autre les intérêts de son rival ?</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Oui, madame, il importe. C’est quelque consolation de se voir préférer un homme qui vous est égal ; et votre aveuglement est une chose épouvantable.</p>
+
+<pagenum num="106"/>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Prince, je ne veux pas me brouiller avec une personne qui m’a fait tant de grâce que de me dire des douceurs ; et je vous prie, avec toute l’honnêteté qu’il m’est possible, de donner à votre chagrin un fondement plus raisonnable ; de vous souvenir, s’il vous plaît, que Sostrate est revêtu d’un mérite qui s’est fait connoître à toute la Grèce, et que le rang où le ciel l’élève aujourd’hui va remplir toute la distance qui étoit entre lui et vous.</p>
+
+<hstage><speaker>IPHICRATE</speaker></hstage>
+<p>Oui, oui, madame, nous nous en souviendrons. Mais peut-être aussi vous souviendrez-vous que deux princes outragés ne sont pas deux ennemis peu redoutables.</p>
+
+<hstage><speaker>TIMOCLÈS</speaker></hstage>
+<p>Peut-être, madame, qu’on ne goûtera pas longtemps la joie du mépris que l’on fait de nous.</p>
+
+<hstage><speaker>ARISTIONE</speaker></hstage>
+<p>Je pardonne toutes ces menaces aux chagrins d’un amour qui se croit offensé ; et nous n’en verrons pas avec moins de tranquillité la fête des jeux Pythiens. Allons-y de ce pas, et couronnons, par ce pompeux spectacle, cette merveilleuse journée.</p>
+
+<vsep class="rule"/>
+
+<h2 id="p45">SIXIÈME INTERMÈDE</h2>
+
+<h3>QUI EST LA SOLENNITÉ DES JEUX PYTHIENS</h3>
+
+<p class='smaller sommaire'>Le théâtre est une grande salle, en manière d’amphithéâtre ouvert d’une grande arcade dans le fond, au-dessus de laquelle est une tribune fermée d’un rideau, et dans l’éloignement paroît un autel pour le sacrifice. Six hommes, habillés comme s’ils étoient presque nus, portant chacun une hache sur l’épaule, comme ministres du sacrifice, entrent par le portique, au son des violons, et sont suivis de deux sacrificateurs musiciens, d’une prêtresse musicienne, et leur suite.</p>
+
+<hstage><speaker>LA PRÊTRESSE</speaker></hstage>
+<l>Chantez, peuples, chantez, en mille et mille lieux,</l>
+<l>Du dieu que nous servons les brillantes merveilles ;</l>
+<l>Parcourez la terre et les cieux :</l>
+<l>Vous ne sauriez chanter rien de plus précieux,</l>
+<l>Rien de plus doux pour les oreilles.</l>
+
+<hstage><speaker>UNE GRECQUE</speaker></hstage>
+<l>A ce dieu plein de force, à ce dieu plein d’appas,</l>
+<l>Il n’est rien qui résiste.</l>
+
+<pagenum num="107"/>
+<hstage><speaker>AUTRE GRECQUE</speaker></hstage>
+<l>Il n’est rien ici-bas</l>
+<l>Qui par ses bienfaits ne subsiste.</l>
+
+<hstage><speaker>AUTRE GRECQUE</speaker></hstage>
+<l>Toute la terre est triste</l>
+<l>Quand on ne le voit pas.</l>
+
+<hstage><speaker>LE CHŒUR</speaker></hstage>
+<l>Poussons à sa mémoire</l>
+<l>Des concerts si touchants.</l>
+<l>Que, du haut de sa gloire,</l>
+<l>Il écoute nos chants.</l>
+
+<h3>PREMIÈRE ENTRÉE DE BALLET</h3>
+
+<p class='smaller sommaire'>Les six hommes portant les haches font entre eux une danse ornée de toutes les attitudes que peuvent exprimer des gens qui étudient leurs forces ; puis ils se retirent aux deux côtés du théâtre, pour faire place à six voltigeurs.</p>
+
+<h3>SECONDE ENTRÉE DE BALLET</h3>
+
+<p class='smaller sommaire'>Six voltigeurs font paroître, en cadence, leur adresse sur des chevaux de bois, qui sont apportés par des esclaves.</p>
+
+<h3>TROISIÈME ENTRÉE DE BALLET</h3>
+
+<p class='smaller sommaire'>Quatre conducteurs d’esclaves amènent, en cadence, douze esclaves, qui dansent en marquant la joie qu’ils ont d’avoir recouvré leur liberté.</p>
+
+<h3>QUATRIÈME ENTRÉE DE BALLET</h3>
+
+<p class='smaller sommaire'>Quatre hommes et quatre femmes, armés à la grecque, font ensemble une manière de jeu pour les armes.</p>
+
+<p class='smaller sommaire'>La tribune s’ouvre. Un héraut, six trompettes et un timbalier, se mêlant à tous les instruments, annoncent, avec un grand bruit, la venue d’Apollon.</p>
+
+<hstage><speaker>LE CHŒUR</speaker></hstage>
+<l>Ouvrons tous nos yeux</l>
+<l>A l’éclat suprême</l>
+<l>Qui brille en ces lieux.</l>
+<l>Quelle grâce extrême !</l>
+<l>Quel port glorieux !</l>
+<l>Où voit-on des dieux</l>
+<l>Qui soient faits de même ?</l>
+
+<vsep class="emptyline"/>
+
+<p class='smaller sommaire'>Apollon, au bruit des trompettes et des violons, entre par le portique, précédé de six jeunes gens qui portent des lauriers entrelacés autour d’un bâton, et un soleil d’or au-dessus, avec la devise royale, en manière de trophée. Les six jeunes gens, pour danser avec Apollon, donnent leur trophée à tenir aux six hommes qui portent les haches, et commencent, avec Apollon, une danse héroïque, à laquelle se joignent, en diverses manières, les six hommes portant les trophées, les quatre femmes armées avec leurs timbres, et les quatre hommes armés avec leurs <pagenum num="108" b="tam-" a="bours,">tambours,</pagenum> tandis que les six trompettes, le timbalier, les sacrificateurs, la prêtresse et le chœur de musique accompagnent tout cela, en se mêlant à diverses reprises ; ce qui finit la fête des jeux Pythiens et tout le divertissement.</p>
+
+<h3>CINQUIÈME ENTRÉE DE BALLET</h3>
+
+<h3>APOLLON <i>et</i> SIX JEUNES GENS <i>de la suite ; chœur de musique.</i></h3>
+
+<h3><i>Pour le</i> R<s>OI</s>, <i>représentant le soleil.</i></h3>
+
+<poem>
+<lg>
+<l>Je suis la source des clartés ;</l>
+<l>Et les astres les plus vantés</l>
+<l>Dont le beau cercle m’environne</l>
+<l>Ne sont brillants et respectés </l>
+<l>Que par l’éclat que je leur donne.</l>
+</lg>
+<lg>
+<l>Du char où je me puis asseoir,</l>
+<l>Je vois le désir de me voir</l>
+<l>Posséder la nature entière ;</l>
+<l>Et le monde n’a son espoir</l>
+<l>Qu’aux seuls bienfaits de ma lumière.</l>
+</lg>
+<lg>
+<l>Bienheureuses de toutes parts,</l>
+<l>Et pleines d’exquises richesses,</l>
+<l>Les terres où de mes regards </l>
+<l>J’arrête les douces caresses !</l>
+</lg>
+</poem>
+
+<h3><i>Pour</i> M. <s>LE</s> G<s>RAND</s>, <i>suivant d’Apollon.</i></h3>
+<poem>
+<l>Bien qu’auprès du soleil tout autre éclat s’efface,</l>
+<l>S’en éloigner pourtant n’est pas ce que l’on veut ;</l>
+<l>Et vous voyez bien, quoi qu’il fasse.</l>
+<l>Que l’on s’en tient toujours le plus près que l’on peut.</l>
+</poem>
+
+<h3><i>Pour le marquis</i> <s>DE</s> V<s>ILLEROI</s>, <i>suivant d’Apollon.</i></h3>
+<poem>
+<l>De notre maître incomparable</l>
+<l>Vous me voyez inséparable ;</l>
+<l>Et le zèle puissant qui m’attache à ses vœux </l>
+<l>Le suit parmi les eaux, le suit parmi les feux.</l>
+</poem>
+
+<h3><i>Pour le marquis</i> <s>DE</s> R<s>ASSENT</s>, <i>suivant d’Apollon.</i></h3>
+<poem>
+<l>Je ne serai pas vain, quand je ne croirai pas</l>
+<l>Qu’un autre, mieux que moi, suive partout ses pas.</l>
+</poem>
+
+
+</page-sequence>
+ </page-sequences>
+</bml>

@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='le_roi_des_montagnes'/>
+  </target>
+
+
+<target name="test">
+      <java classname="org.unicode.publication.XsltDriver" fork="true">
+        <classpath refid="classpath"/>
+        <arg value="-o"/>   <arg value="bar.xml"/>
+        <arg value="-t"/>   <arg value="foo.xsl"/>
+        <arg value="foo.xml"/>
+      </java>
+</target>
+
+</project>

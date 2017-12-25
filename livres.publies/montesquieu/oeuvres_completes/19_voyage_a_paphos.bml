@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb309702138">
+
+      <titre>Œuvres complètes de Montesquieu</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119166485">
+        <nom-bibliographie>Montesquieu, Charles-Louis de Secondat</nom-bibliographie>
+        <dates>1689-1755</dates>
+        <nom-couverture>Montesquieu</nom-couverture>
+      </auteur>
+      
+      <auteur role='edt' bnf="http://catalogue.bnf.fr/ark:/12148/cb12280806q">
+        <nom-bibliographie>Laboulaye, Édouard</nom-bibliographie>
+        <dates>1811-1883</dates>
+        <nom-couverture>Édouard Laboulaye</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>Garnier Frères</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1875-1879</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume id="v7">
+      <facsimile href="http://books.google.com/books?id=oZsGAAAAQAAJ"
+                 pages="n0"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000120"
+        creation="2011-02-05T00:00:02-08:00"
+        modification="2014-12-31T18:14:33-08:00">
+
+      <surtitre>Œuvres complètes</surtitre>
+      <titre>Voyage à Paphos</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00002'>
+        <titre>Œuvres complètes de Montesquieu, édition Laboulaye</titre>
+      </collection>
+
+      <merci>
+        <p>Merci à Mohamed Sebaa pour les erreurs qu’il a signalées.</p>
+      </merci>
+
+      <note>
+        <p>L’orthographe a été modernisée en remplaçant <i>oi</i> par <i>ai</i> (par example <i>étoit</i> remplacé par <i>était</i>).</p>
+
+        <p>Les notes de Montesquieu ainsi que les notes éditoriales de Laboulaye suivent immédiatement le texte, et sont numérotées 1, 2, 3,... Les variantes sont placées à la fin du volume, et son numérotées a, b, c,... Dans les deux cas, l’appel de note et le numéro de la note sont hyperliés.</p>
+      </note>
+    </electronique>
+  </metadata>
+
+  <toc/>
+
+  <cover src="images/couverture-7.png" alt=""/>
+
+<page-sequences>
+
+<div id="preface" toc="Préface de l’éditeur">
+<pagenum v="v7" num="457"/>
+
+<h1>PRÉFACE DE L’ÉDITEUR</h1>
+
+<p>Le <i>Voyage à Paphos </i>a toujours été attribué à Montesquieu. Cependant on ne l’a jamais publié dans les œuvres complètes de l’auteur. Il est vrai que cette petite pièce offre peu d’intérêt. On n’y trouve point, comme dans le <i>Temple de Gnide, </i>certaines réflexions, certaines phrases où l’on reconnaît, parmi bien des fadeurs, la marque du maître. Le <i>Voyage à Paphos </i>a été peut-être improvisé pour amuser l’oisiveté d’une grande dame, mais ni l’invention ni l’exécution n’ont dû causer grand’peine au poëte ; tout y est pâle et sans relief. Nous l’avons cependant réimprimé à cause de sa rareté et pour être complet.</p>
+<p>Le <i>Voyage à Paphos </i>a été publié pour la première fois, dans le <i>Mercure de France, </i>en décembre 1727<noteref noteid="7-457.1"/>.</p>
+
+<vsep class="emptyline"/>
+
+<p>On lit en tête ce qui suit :</p>
+
+<vsep class="emptyline"/>
+
+<p>Le petit ouvrage qu’on donne ici nous est tombé par hasard entre les mains. Le titre, la première page et la fin sont déchirés du manuscrit ; ainsi nous ne savons pas ce qui peut manquer pour avoir l’ouvrage complet. On peut juger par l’imagination de l’auteur que la fiction doit avoir été poussée plus loin. On espère que l’approbation du public l’engagera à nous donner la suite et le véritable titre ; en attendant, nous le donnons sous le titre que voici : <i>Voyage à Paphos. </i></p>
+
+<vsep class="emptyline"/>
+
+<note id="7-457.1" type="e"><p>Pages 2849-2886.</p></note>
+
+<pagenum v="v7" num="458"/>
+
+<p>En 1747, parut sous la rubrique <i>Florence<noteref noteid="7-458.1"/></i> une édition séparée, qui porte le titre <i>de Voyage de l’isle de Paphos<noteref noteid="7-458.2"/>. </i>L’œuvre est complète, on a rétabli le commencement et la fin du manuscrit. On l’a même fait précéder d’une préface insignifiante, et on a inséré, dans le corps du récit, des vers qui sont plus que médiocres. Montesquieu n’a jamais passé pour poëte, mais dans ce qu’on connaît de lui, il n’y a rien d’aussi plat. Au reste, on en pourra juger. Nous n’avons pas voulu que les curieux eussent rien à regretter ; aussi donnons-nous le texte du <i>Mercure </i>avec les variantes et les additions de l’édition de 1747.</p>
+<p>Voici la préface de cette dernière édition :</p>
+
+<vsep class="emptyline"/>
+
+<p>Plaire à tout le monde ; c’est l’impossible. Plaire à beaucoup de personnes ; il est difficile. Plaire à un certain nombre ; cela se peut. Je souhaiter<oa/>is que cet ouvrage fût lu de toutes les nations. Toutes y prendr<oa/>ient plaisir. Beaucoup l’aimer<oa/>ient ; mais peu s’en accommoder<oa/>ient. On n’y verra rien que de très-agréable. Je m’attacherai moins à faire la description de l’île que celle des faits que j’y ai vus. Chacun essaiera de s’y reconn<oa/>ître dans le caractère de Diphile ; et je suis certain que peu l’imiteront, surtout en France ; car on assure, et je n’en doute nullement, que l’inconstance y prit naissance.</p>
+
+<blockquote>
+
+<p>Le Franç<oa/>is porte un cœur facile a s’enflammer.</p>
+<p>Avide de plaisir, il en est mercenaire,</p>
+<p>Et sans posséder l’art d’aimer</p>
+<p>Il s’attache au moyen de plaire.</p>
+
+</blockquote>
+
+<p>Sans trop chercher à me disculper, je sais qu’on pourr<oa/>it trouver (et cela même à Paris) des amants dignes de faire le voyage de Paphos, quoiqu’il n’y ait que les plus parfaits qui puissent y arriver. S’il s’en trouve si peu, on ne doit l’attribuer qu’aux mœurs du siècle ; on se fait un devoir d’être inconstant, volage ; cependant on aime ; mais souvent tel s’attache et fait vœu de bien aimer un objet indigne de lui ; ainsi heureux mille fois ceux que l’amour sait assortir.</p>
+
+
+<vsep class="emptyline"/>
+
+
+<note id="7-458.1" type="e"><p>Le caractère indique une impression faite a Paris.</p></note>
+
+<note id="7-458.2" type="e"><p>In-12 de 64 pages.</p></note>
+
+
+
+</div>
+
+
+<div id="voyage" toc="Voyage à Paphos">
+
+<pagenum v="v7" num="459"/>
+
+<h1>VOYAGE A PAPHOS</h1>
+
+<vsep class="rule"/>
+
+<p>[Que votre absence est difficile à supporter ! Pensez-vous, Mélite, que depuis dix jours je ne vous vois point ? Imaginez combien j’ai de choses agréables à vous dire. J’arrive de Paphos.</p>
+<p>Vénus a choisi cette île pour s’y délasser des fatigues de Cythère et d’Amathonte, où elle reçoit les hommages de tous les amants ; on ne voit à Paphos que les amants parfaits. Av<oa/>is-je droit, Mélite, de m’y présenter<noteref noteid="7-459.1"/> ?]</p>
+<p>Après une douce navigation que les Zéphirs rendent plus prompte par l’empressement qu’ils ont d’aller voltiger autour de Vénus, j’arrivai à Paphos au moment que l’Aurore commenç<oa/>it à s’y montrer ; elle me parut si riante, en éclairant cette île, que sans voir Céphale, je jugeai aisément qu’il ét<oa/>it à ses côtés.</p>
+<p>Je n’essayerai point, Mélite, de vous décrire les beautés du palais de Vénus : vous le conn<oa/>issez par l’idée que vous en a donné le pinceau de l’Albane ; il est si fidèle, qu’on distingue difficilement si les Grâces l’ont bâti sur ses dessins, ou s’il a travaillé d’après les Grâces.</p>
+
+
+<note id="7-459.1" type="e"><p>Tout ce qui est entre crochets est pris du <i>Voyage de l’île de Paphos. </i>Nous indiquerons les autres emprunts et les variantes par la lettre A.</p></note>
+
+<pagenum v="v7" num="460"/>
+
+
+<p>L’imagination la plus vive et le goût le plus galant n’approcheront jamais de l’agréable assemblage qui compose ces jardins. Le Dieu qui les protége y fixa son sejour, et tout s’y ressent de sa favorable influence.</p>
+<p>L’art n’y par<oa/>it que pour faire goûter avec plus d’admiration les beautés de la nature, ou pour mieux dire, on n’y reconn<oa/>ît point d’art. Paphos enfin plait aux Amours, et Vénus ne l’a jamais quitté sans regret, que pour aller à la conquête d’Adonis<noteref noteid="7-460.1"/>.</p>
+<p>Rempli de votre idée, que ne sentis-je pas à Paphos<noteref noteid="7-460.2"/> ? Tâchez de le comprendre, Mélite [Melite], car je ne l’exprimer<oa/>is jamais.</p>
+<p>J’errai quelques moments de bosquet en bosquet, et j’écout<oa/>is avec attention<noteref noteid="7-460.3"/> les sons touchants de Philomèle, qui me par<oa/>iss<oa/>ient plus tendres en se mêlant au murmure des fontaines de cette île, quand j’aperçus une nymphe qui ven<oa/>it à moi.</p>
+<p>Je ne doute pas, heureux Amant, dit-elle en m’abordant, que vous ne soyez bien reçu dans cette cour. Je suis Diphile, ai-je répondu<noteref noteid="7-460.4"/>, j’aime Mélite. L’amant de Mélite, repart la nymphe, doit être le modèle des amants ? Nous entendons sans cesse parler des charmes de Mélite à la cour de Vénus, et vous venez sans doute rendre grâces à la déesse de ses bienfaits ; mais on n’entre point encore dans son palais. Je vous y conduirai quand il en sera <pagenum v="v7" num="461"/>temps ; et je veux, en attendant son réveil, vous entretenir sous cet ombrage.</p>
+
+
+<note id="7-460.1" type="e"><p>A. Dit simplement : Paphos enfin plaît à Vénus.</p></note>
+
+<note id="7-460.2" type="e"><p>A. Toujours présente à mon idée, que ne sentis-je pas à Paphos ? Tâchez de le comprendre, Melite ; je ne l’exprimerai jamais !</p>
+
+<blockquote>
+<poem>
+<l>Notre âme est une partie</l>
+<l>Qui toujours cherche a s’unir ;</l>
+<l>Est-elle une fois réunie,</l>
+<l>Elle jouit des vrais plaisirs.</l>
+</poem>
+</blockquote>
+</note>
+
+<note id="7-460.3" type="e"><p>A. Avec soin.</p></note>
+
+<note id="7-460.4" type="e"><p>A. Lui répondis-je.</p></note>
+
+
+<p>Je voulus remercier la nymphe d’un accueil si gracieux<noteref noteid="7-461.1"/>. Vous m’avez moins d’obligation que vous ne pensez, répondit-elle ; le plus grand plaisir que je puisse avoir à Paphos, c’est d’entretenir les mortels. Les nymphes, mes compagnes, se chargent de ce soin à Cythère, mais à Paphos, c’est le seul soin de Zélide.</p>
+<p>Vénus permet à ses nymphes de choisir leurs amants à Gnide, à Amathonte et à Cythère Quand le séjour de la déesse est à Amathonte, les amantes des autres îles languissent dans les peines de l’absence ; vous me trouvez seule ici dans la rêverie ; j’aime à Cythère ! Eh quoi ! dis-je à Zélide, la reine des plaisirs permet que dans sa cour même on conn<oa/>isse des peines en aimant ! Ne vous en étonnez pas, Diphile, ce sont ces peines qui font le bonheur des cœurs amoureux<noteref noteid="7-461.2"/>.</p>
+<p>Vénus, attentive à tout ce qui peut augmenter les délices de sou empire, ordonne quelquefois à ses nymphes de passer un jour sans parler à leurs amants ; il nous est même défendu de les voir à de certaines heures. Ces défenses ne sont pas faites pour nous priver de leur présence, mais pour ajouter au plaisir de les voir, le plaisir de les voir en secret.</p>
+<p>L’absence que les vulgaires amants comptent pour une peine, augmente les douceurs qu’on goûte en aimant. Vénus même se soumet à ses lois, et la mère des Amours <pagenum v="v7" num="462"/>conn<oa/>it ce qui doit rendre un cœur heureux. Elle établit sa cour dans plusieurs îles, et ce n’est qu’à Paphos qu’elle jouit du plaisir de voir Adonis.</p>
+
+<note id="7-461.1" type="e"><p>A. Si provenant.</p></note>
+
+<note id="7-461.2" type="e"><p>A. ajoute :</p>
+<p>Quand on aime, on veut jouir ;</p>
+<p>Mais un peu de gêne,</p>
+<p>Un instant de peine</p>
+<p>Donnent du sol au plaisir.</p></note>
+
+
+
+<p>Adonis ! m’écriai-je, eh ! les dieux ne l’ont-ils pas changé en fleur ? Votre étonnement ne me surprend point, dit Zélide, peu de mortels conn<oa/>issent le bonheur d’Adonis. Son courage l’ayant emporté sur les prières que lui fit Vénus de ne point chasser les bêtes féroces, un sanglier l’immola à la colère de Diane, et Venus, en versant du nectar sur son sang, obtint des dieux qu’il ser<oa/>it changé en fleur.</p>
+<p>Dès que la déesse fut exaucée, elle traversa les airs pour se transporter dans l’empire de Flore. Reine des fleurs, lui dit-elle, dont l’empire est aussi brillant que celui des Amours ; vous vous plaignez tous les jours de la légèreté de Zéphire, vous ne vous en plaindrez plus : je viens vous offrir de le rendre aussi constant que les colombes que vous voyez attelées à mon char.</p>
+<p>A des offres si engageantes, Flore connut que la Déesse attend<oa/>it quelques secours de sa puissance : car les Dieux, ainsi que les mortels, ne flattent que pour obtenir ce qu’ils désirent.</p>
+<p>Qu’exigez-vous de moi, pour reconn<oa/>ître une faveur si sensible, répond Flore à Vénus ? Il est vrai que Zéphire m’inquiète et m’alarme sans cesse, et qu’en m’assurant son cœur, vous assurez ma tranquillité. Votre bonheur dépend de vous, reprit Vénus ; le plus charmant des mortels, Adonis vient de perdre le jour ; mais si Flore me seconde, la Parque n’aura tranché le fil d’une si belle vie que pour rendre son sort plus glorieux. Il est sous votre empire, transportez-le à Paphos, aimable Déesse, faites que cette fleur y conserve toujours sa fraîcheur et sa beauté ; de sa
+<pagenum v="v7" num="463"/>durée dépend la constance de Zéphire. La constance de Zéphire ! s’écria Flore avec transport ; allez Déesse, Adonis est immortel. Dès ce jour Zéphire n’a point quitté Flore ; Flore, intéressée à la fleur d’Adonis, ne quitte point Paphos ; et le bonheur de ces amants rend ce séjour plus digne des Amours.</p>
+
+<p>Vénus, en obtenant qu’Adonis ser<oa/>it changé en fleur, ne born<oa/>it pas ses vœux à ce seul changement. C’est ainsi que pour réussir dans ce qu’on projette, il faut aller par degré au bonheur qu’on attend.</p>
+<p>Assurée du secours de Flore, elle fit cette prière au maître des dieux.</p>
+<p>« Puissant Dieu de l’univers, si pour punir l’audace d’un mortel, vous donnâtes autrefois à Diane le pouvoir de changer Actéon ; refuserez-vous, pour faire le bonheur de Vénus de changer une fleur ? C’est à ma prière que vous avez animé l’ouvrage de Pygmalion ; l’amour d’une Déesse vous toucher<oa/>it-il moins que l’amour d’un mortel ? Non, non, vous allez animer la fleur d’Adonis ; il a plu à Vénus, il mérite votre secours. »</p>
+<p>Jupiter doit trop de plaisirs à l’empire des Amours pour ne pas contribuer au bonheur de la Déesse ; elle vole à Paphos, maîtresse de rendre à la fleur qui lui est si chère, la figure et les charmes d’Adonis ; mais elle ne le peut que dans cette île, et ses plaisirs seraient moins dignes de Vénus, si elle pouv<oa/>it faire ce changement dans tous les lieux soumis à sa puissance. Qui peut se plaindre de l’absence, Vénus s’éloigne d’Adonis ?</p>
+<p>Il est vrai, ajouta Zélide, que dans l’absence et les autres peines attachées à l’Amour, il faut conn<oa/>ître les douceurs qu’on peut en retirer. Je n’en néglige aucune. A Gnide ou à Paphos, je ne pense qu’aux plaisirs de Cythère. <pagenum v="v7" num="464"/>Je me rappelle les moments que j’ai passés avec Lycas<noteref noteid="7-464.1"/>... Ce soupir vous apprend que c’est Lycas que j’aime : absent, son idée est sans cesse présente à mon esprit ; je répète en moi-même tout ce que je lui ai dit en parlant. Je le suis dans les bois où j’aime à le trouver ; je le vois nonchalamment couché s’entretenir dans une douce rêverie ; il m’aime, il pense à moi, il me parle peut-être. Quelques jours avant de rejoindre Lycas, je préviens tout ce qu’il va me dire. Je juge du plaisir qu’il aura de me revoir par la tendresse de ses adieux. Je le vois qui court au-devant de moi ; ses transports comblent ma joie ; je vole dans ses bras ; que de caresses<noteref noteid="7-464.2"/>  !</p>
+
+
+<p>Ah ! nymphe, que vous augmentez l’impatience que j’ai de revoir Mélite<noteref noteid="7-464.3"/>. Elle conn<oa/>itra dans vos embrassements, reprit-elle, que l’absence, en les faisant souhaiter plus longtemps, leur donne encore un nouveau prix<noteref noteid="7-464.4"/>.</p>
+<p>Mais ne vois-je pas le palais de Vénus ? Non ; c’est la demeure des Grâces, dit Zélide ; ce portique de feuillage qu’on aperçoit d’ici, conduit à un vestibule où s’assemblent les génies qui sont destinés à inspirer la galanterie aux mortels. Chaque Grâce les instruit selon le département qui lui est confié. La première leur enseigne à parler le langage des Grâces ; c’est elle qui défend ces froides exagérations qui, loin d’honorer une maîtresse<noteref noteid="7-464.5"/>, déshonorent <pagenum v="v7" num="465"/>le fade passionné qui les met sans cesse en usage. C’est elle qui leur dicte une déclaration, dans laquelle on reconn<oa/>ît plus d’embarras que de raisonnement<noteref noteid="7-465.1"/>. C’est elle qui travaille à bannir des sociétés galantes les mauvaises plaisanteries et tout ce qui n’est pas du choix des Grâces.</p>
+
+
+<note id="7-464.1" type="e"><p>A. Écrit partout Palmire au lieu de Lycas.</p></note>
+
+<note id="7-464.2" type="e"><p>A. Ses transports se confondent dans les miens. Je meurs dans ses bras.</p></note>
+
+<note id="7-464.3" type="e"><p>A. ajoute :</p>
+<p>Son absence m’est cruelle.</p>
+<p>Toujours flatté d’un doux espoir,</p>
+<p>Je ne peux vivre sans elle ;</p>
+<p>Peut-elle vivre sans me voir ?</p></note>
+
+<note id="7-464.4" type="e"><p>Cette phrase n’est pas dans A.</p></note>
+
+<note id="7-464.5" type="e"><p>A. L’objet aime.</p></note>
+
+
+<p>Sa cadette a l’inspection des parures : elle ne donne point de règle pour les ajustements : elle veut seulement qu’il y règne plus de goût que de magnificence. Elle passe au beau sexe quelque caprice sans affectation, en faveur de la mode, mais elle condamne dans les hommes, tout ce qui peut approcher d’un arrangement étudié.</p>
+<p>La troisième Grâce est chargée de maintenir, ou de faire naître ce qu’on appelle belles manières<noteref noteid="7-465.2"/> ; et comme chaque nation a ses coutumes en galanterie, Carite donne aux Génies différentes leçons, selon les pays où ils sont destinés. J’entrai avec Zélide, au moment qu’on instruis<oa/>it les Génies de la galanterie franç<oa/>ise. Un Génie affect<oa/>it les mauvais airs de nos petits maîtres, et Carite en fais<oa/>it remarquer le ridicule aux autres. Il contrefais<oa/>it ce jour-là un jeune seigneur qui, d’un air penché, aborde une dame en chantant, pour lui dire tout haut qu’il vient de chez Bélize, profiter de l’absence de son mari, et, un moment après, lui demande<noteref noteid="7-465.3"/> quelle heure il est, ou lui apprend que la soirée est belle.</p>
+<p>Carite s’étendit beaucoup sur les sentiments dont ou se pique aujourd’hui, et finit en exhortant ses Génies à ramener la galanterie de l’ancien temps.</p>
+<p>Zélide<noteref noteid="7-465.4"/> me présenta à Carite, elle me reçut comme les <pagenum v="v7" num="466"/>Grâces reçoivent les vrais amants. Je sais combien vous aimez Mélite, me dit-elle, mais vous croyez n’aimer qu’une mortelle, telles que sont toutes les mortelles aimables ; je vais vous apprendre quelle est Mélite.</p>
+
+<note id="7-465.1" type="e"><p>A. Plus d’embarras que d’esprit.</p></note>
+<note id="7-465.2" type="e"><p>A. Ce qu’on appelle des bons airs.</p></note>
+<note id="7-465.3" type="e"><p>A. Lui demande à l’oreille.</p></note>
+<note id="7-465.4" type="e"><p>A. La nymphe me présenta à Carite.</p></note>
+
+<p>La mère des Grâces prit naissance dans l’empire de Neptune. Dès qu’elle y parut, tous les Dieux vinrent lui rendre hommage ; les Amours, en naissant autour de la Déesse, folâtr<oa/>ient avec les plus grandes Divinités. Vénus fut bientôt maîtresse du monde entier ; tout reconnut sa puissance, et Neptune se glorifi<oa/>it d’avoir vu naître la souveraine de l’univers.</p>
+<p>L’envie règne partout, même dans les cieux. La Déesse de la Terre, jalouse de la gloire de Neptune, alla se plaindre au Destin. « Arbitre des immortels, lui dit-elle, pourquoi faut-il que Neptune l’emporte sur la mère des Dieux ? S’il ét<oa/>it arrêté que Vénus ne naîtr<oa/>it pas dans l’Olympe, ce n’ét<oa/>it pas au Dieu des mers à lui donner le jour ; Cybèle attend<oa/>it cet honneur. Consolez-vous, répondit le Destin à la Déesse. Il naîtra dans votre empire une mortelle dont l’Olympe à son tour deviendra jaloux. Sa beauté n’égalera pas celle de Vénus ; mais sous des traits moins réguliers on verra briller plus de finesse et d’enjouement ; sa vivacité l’emportera sur la majesté même, et, sans être divine, elle recevra les hommages des mortels.</p>
+<p>Trop heureux Diphile, reconn<oa/>issez Mélite, et ne vous étonnez pas si nous la suivons sans cesse. Vénus joint à la beauté les charmes que lui donnent les Grâces, et nous joignons à nos charmes les agréments que nous donne Mélite ; mais elle ignore elle-même tous les avantages qu’elle a reçus des Dieux ; f<oa/>ible mortelle, la vanité les diminuer<oa/>it peut-être. Que de belles ser<oa/>ient aimables, si elles sav<oa/>ient ignorer que la beauté sert à se faire aimer. <pagenum v="v7" num="467"/>Non, non, m’écriai-je, j’apprendrai à Mélite ce qu’elle ignore. D’abord elle ne me croira pas ; je lui jurerai sur le nom d’Amour que c’est de Carite que je le sais ; elle n’en doutera plus, mais elle sera toujours si modeste que si je pouv<oa/>is oublier que c’est Mélite, je douter<oa/>is moi-même qu’elle ait foi à mon serment. Carite nous quitta pour aller joindre ses sœurs au lever de Vénus, et Zélide me conduisit dans les différents appartements du pavillon.</p>
+
+<p>Qui pourr<oa/>it en décrire les beautés ? Non, Mélite, je ne l’entreprendrai point : votre imagination suffit ; elle ne vous laissera rien échapper de ce que l’art peut avoir inventé pour faire une demeure digne des Grâces.</p>
+<p>Nous nous arrêtâmes quelques moments dans le salon des livres. J’ét<oa/>is curieux de conn<oa/>ître ceux qui ont la gloire d’amuser Paphos.</p>
+<p>Je ne vis que des titres galants. Ils sont rangés sur différents gradins, selon la valeur que les Grâces leur donnent. Ovide et Tibulle sont placés sur le même rang qu’Anacréon et Sapho ; mais entre les vers du siècle d’Ovide et ceux de notre temps, les Grâces judicieuses ont laissé l’espace de bien des livres.</p>
+<p>Je mis d’abord la main sur un volume de poésies, où je reconnus quelques pièces d’un petit nombre d’auteurs, qui se sont plus attachés aux sentiments qu’à l’esprit.</p>
+<p>Je trouv<oa/>i sur le même gradin différentes historiettes. On ne lit à Paphos que celles que le beau sexe a bien voulu écrire ; les autres n’y sont pas connues.</p>
+<p>Un recueil de chansons, avec défense, à la marge, d’en chanter certaines, qui sont composées sur des airs d’un mouvement si rapide qu’on ne peut les rendre sans convulsions.</p>
+<p>Des extraits de plusieurs de nos romans. Les volumes <pagenum v="v7" num="468"/>sont petits ; on en a retranché les histoires magiques et les conversations ennuyeuses.</p>
+
+<p>Je fus étonné d’y rencontrer certains ouvrages qui devraient être inconnus à Paphos. J’appris qu’on s’ét<oa/>it contenté de l’intention que leurs auteurs ont eue d’être galants, mais que les Grâces, qui n’y ont rien mis du leur, ne les lis<oa/>ient pas. Zélide me demanda si je fréquent<oa/>is les rives du Permesse. Oui, Nymphe, j’y chante quelquefois ma tendresse et mon bonheur ; si l’Amour pouv<oa/>it inspirer comme Phœbus, j’aur<oa/>is l’avantage sur Ovide même ; il n’aim<oa/>it que Corinne, et j’aime Mélile.</p>
+<p>Je voulus m’informer quels ét<oa/>ient les livres de différentes langues qui suiv<oa/>ient ; mais Zélide m’avertit qu’il ét<oa/>it temps de se rendre auprès de la Déesse.</p>
+<p>En traversant un bois qui conduit à son palais, j’entendis une voix entrecoupée par de tendres soupirs, qui sort<oa/>it de dessous un épais feuillage. « Oui, Doris, je le promets, et <i>tu verras..</i>. Mais quel discours ? <i>tu verras ! </i>Ah ! pardonnez, Doris, le respect doit l’interdire. — Non, non, répond Doris, cet égarement plaît à l’Amour ; et je vous dis à mon tour : Hillas, <i>je te le pardonne. </i>» Éloignons-nous : ces amants ne demandent point de témoins, dit Zélide. Vous êtes peut-être étonné de la délicatesse d’Hillas : il craint d’offenser Doris par la plus légère familiarité ; les mortelles s’en offensent difficilement ; mais qu’elles sont condamnables d’en trop permettre<noteref noteid="7-468.2"/>.</p>
+
+<!--
+<note id="7-468.1" type="e"><p>A. Si je cherchais quelquefois, etc.</p></note>
+-->
+
+<note id="7-468.2" type="e"><p>A. ajoute : Il est de certains noms, il est des expressions qu’on ne doit entendre que dans ces moments où la langue égarée articule si difficilement, qu’à peine distingue-t-on ce qu’elle prononce.</p>
+
+<p>Quand dans les bras de la tendresse</p>
+<p>On satisfait ses désirs,</p>
+<p>Les sens se perdent dans l’ivresse,</p>
+<p>On ne pousse que des soupirs,</p>
+<p>Et c’est ainsi que parlent les plaisirs.</p>
+
+</note>
+
+
+<pagenum v="v7" num="469"/>
+
+<p>Enfin je vis Vénus. Je l’avoue, Mélite ! sa beauté a quelque chose au-dessus de la vôtre ; mais elle ne doit qu’à la Divinité le peu d’avantage qu’elle a sur vous.</p>
+<p>Elle reçut mes hommages avec un sourire qui ne me permit pas de douter de mon bonheur ; et je sentis que sa présence augment<oa/>it mon ardeur pour son culte.</p>
+<p>Un disciple d’Apollon, amoureux à Paphos, se présenta à la Déesse, et récita un poëme<noteref noteid="7-469.1"/> qu’il av<oa/>it composé, dis<oa/>it-il, pour célébrer dignement les plaisirs de l’Amour. Il employa avec un air de contentement tout ce que le Parnasse sait mettre en usage pour faire valoir ses productions. Vénus, sans être touchée de l’emphase du disciple, lui répondit d’un ton qui ne le flatt<oa/>it pas : « Les Muses seront peut-être contentes de votre ouvrage<noteref noteid="7-469.2"/> ; mais je conn<oa/>is des plaisirs qu’Apollon même n’exprimera jamais. »</p>
+<p>Les nymphes se retirèrent pour laisser la déesse avec Ariane et Bacchus, qui parurent à l’instant. Adonis entra quelque temps après ; pour l’Amour, on le voit rarement à la Cour de Vénus : il s’occupe ailleurs à l’augmenter ; et dans ses moments de loisir<noteref noteid="7-469.3"/>, il va juger avec Psyché de la douceur des plaisirs qu’il donne à l’univers.</p>
+<p>Je suivis Zélide ; elle me conduisit dans la galerie qu’on appelle <i>le Triomphe des mortels. </i></p>
+<p>Les portraits que vous voyez, me dit-elle en entrant, sont autant de trophées à la gloire de ceux qu’ils représentent.</p>
+
+
+<note id="7-469.1" type="e"><p>A. Et chanta des vers qu’il av<oa/>it composés, etc.</p></note>
+<note id="7-469.2" type="e"><p>A. Contentes de vos soins.</p></note>
+<note id="7-469.3" type="e"><p>A. Dans ses moments de repos.</p></note>
+
+<pagenum v="v7" num="470"/>
+
+<p>Ceux qui remplissent le premier rang sont les amants qui ont fait honneur à la galanterie de leur siècle ; et ceux-ci ont mérité d’être placés près des autres pour avoir plu à Vénus par quelque trait particulier.</p>
+<p>Ce guerrier est un illustre des Cantons, qui plusieurs fois dans sa vie refusa de se trouver à d’amples sacrifices à Bacchus, pour sacrifier à l’Amour<noteref noteid="7-470.1"/>.</p>
+<p>Près de là une vieille coquette qui n’a jamais ressenti la moindre jalousie des charmes de sa fille.</p>
+<p>Suivez. Une belle de haut rang, qui même, après l’inconstance d’un perfide amant, n’a point eu de nouvelle intrigue.</p>
+<p>Vis-à-vis : une musicienne réservée, qui a su convertir un disciple d’Épicure, qui depuis longtemps s’ét<oa/>it déclaré contre les femmes.</p>
+<p>Ne vous étonnez pas si parmi les portraits des rares amants<noteref noteid="7-470.2"/> vous voyez si peu de draperies franç<oa/>ises. La nation fournit plus de perfides que d’amants, et vous conviendrez que vos héroïnes ne travaillent pas à rétablir la bonne foi dans le commerce amoureux.</p>
+<p>Eh ! pourquoi Vénus ne chasse-t-elle pas de son empire les amants qui ne craignent pas de le déshonorer ?</p>
+<p>Détrompez-vous, Diphile, ces amants ne sont point soumis à la Déesse ; elle n’accepte que les cœurs que son fils a blessés. Il conn<oa/>ît l’effet de ses coups : pour en mieux juger il a voulu les sentir ; et l’Amour ne donne à Vénus que des cœurs pareils au cœur de l’Amour même.</p>
+<p>Mais ses traits peuvent seuls rendre un cœur sensible ; désavoue-t-il ceux qu’il a blessés ?</p>
+
+<note id="7-470.1" type="e"><p>Ce paragraphe et les trois suivants ne sont pas dans A.</p></note>
+
+<note id="7-470.2" type="e"><p>A. Des amants.</p></note>
+
+
+<pagenum v="v7" num="471"/>
+
+<p>Il est vrai que les traits de l’Amour peuvent seuls rendre un cœur sensible, répondit Zélide ; mais pour le rendre heureux, il faut que le trait parte de ses mains, et je vais vous apprendre qu’il ne les lance pas tous.</p>
+<p>Peu de temps après la naissance de Vénus, une troupe d’Amours s’écarta dans les bois de Cinthe. Diane n’av<oa/>it pas encore ouvertement déclaré la guerre à la Déesse des plaisirs, et la Déesse, qui ne savait pas alors se méfier des prudes, ne recommand<oa/>it point aux Amours de fuir les forêts consacrées à Diane.</p>
+<p>La troupe d’Amours, dans les bras de Morphée, se délass<oa/>it de l’exercice d’une longue journée, où, à l’envi l’un de l’autre, ils av<oa/>ient essayé sur les oiseaux des traits destinés à être lancés dans les cœurs des humains. Leurs carquois, pêle-mêle, ét<oa/>ient couchés près d’eux, et les arcs sans force ét<oa/>ient détendus. Les oiseaux amoureux, sur les tons les plus tendres, célébr<oa/>ient leurs plaisirs. Diane, attirée par un concert si charmant, fit taire ses cors, et courut sous l’ombrage où le sommeil se plais<oa/>it à délasser les Amours.</p>
+<p>« Que vois-je ? dit-elle à ses nymphes, quelle occasion d’outrager la Déesse de Paphos, diminuons sa puissance, désarmons les Amours endormis. »</p>
+<p>Chaque nymphe s’empresse à plaire à sa Déesse, et, vidant son carquois, le remplit bientôt des traits de l’Amour. S’il en est quelqu’une qui sente de la répugnance à se déclarer contre Vénus, c’est celle qui pour la cacher en montre plus d’envie. Diane sonne sa victoire ; les Amours se réveillent ; honteux de leur défaite, ils pleurent et volent à Cythère.</p>
+<p>Les Silvains d’alentour apprirent bientôt que Diane av<oa/>it changé ses traits. « Saisissons-les à notre tour, dirent-ils <pagenum v="v7" num="472"/>entre eux ; ses nymphes affectent une rigueur dont nous triompherons avec les traits de l’Amour. Tâchons de les surprendre, leurs armes pendent toujours aux arbres qui entourent la fontaine de Diane : qu’Amour et Mercure nous favorisent quand elles entreront dans le bain. Leurs carquois sont à nous. »</p>
+
+<p>Les Faunes, sans craindre le sort d’Actéon, ne tardèrent pas à tenter la capture ; ils approchent de la fontaine ; les nymphes crient, mais les carquois sont enlevés ; la vanité, l’avarice et tous les vices, tour à tour, se rendirent maîtres de ces armes, dès que les Amours s’en furent dessaisis. Ce sont ces traits égarés qui blessent la plupart des cœurs que vous croyez soumis à Vénus ; abandonnez, Diphile, cette sacrilége erreur. Quand on est ainsi blessé, on n’a de l’amour que ce qu’il en faut pour croire qu’on aime.</p>
+<p>Que je plains des cœurs sensibles sans l’aveu de l’Amour ! m’écriai-je. Que d’encens je dois à ses autels, puisque je ne saurais douter que mon cœur ne lui doive tous ses feux.</p>
+<p>Dès que je sus me conn<oa/>ître, il m’inspira que j’ét<oa/>is destiné à vivre sous ses lois ; je cherch<oa/>is tous les jours à me rendre, j’attaqu<oa/>is pour me laisser vaincre ; je jur<oa/>is que j’aim<oa/>is ; mais l’inconstance ven<oa/>it bientôt m’apprendre que je fais<oa/>is des faux serments.</p>
+<p>Sont-ce là les plaisirs de l’Amour ? dis<oa/>is-je sans cesse. J’aime, au moins je crois aimer, et je ne conn<oa/>is point les douceurs qu’il promet aux amants. Non, non, ses promesses sont vaines, et je veux abjurer son culte. Enfin, las de changer et de tromper des volages, je cours au temple de l’Amour.</p>
+<p>Insensé, je demandai à sortir de son empire, et je ne l’av<oa/>is jamais connu.</p>
+
+<pagenum v="v7" num="473"/>
+
+<p>Fils de Vénus, tu cach<oa/>is ton dessein ? J’exauce ta prière, me dit-il, mais il faut qu’à ta place un autre cœur me soit soumis ; choisis, et que j’apprenne par qui tu veux être remplacé ; donne-moi, s’il se peut, de ces cœurs qui n’ont jamais aimé, qui craignent même de me conn<oa/>ître ; c’est dans ces cœurs que je me plais à triompher.</p>
+<p>Triomphez de Mélite, Amour ; son cœur doit faire honneur à votre empire, et sa beauté à celui de Vénus.</p>
+<p>Suis-moi, répond le dieu de Cythère, tu vas être témoin de ma victoire. Ah ! dit-il, en abordant Mélite, si l’Amour pouv<oa/>it être inconstant, je blesser<oa/>is ce cœur en faveur de l’Amour même. Mais... le trait part à l’instant, et Mélite enflammée ne se reconn<oa/>it plus. Voilà comme je blesse les cœurs que je veux rendre heureux, ajoute l’Amour, en arrachant le trait du sein de Mélite, et le plongeant dans le mien. Un sourire va t’apprendre, Diphile, qui tu dois aimer, et s’il est des douceurs dans mon empire ; je devr<oa/>is te punir d’en avoir douté ; mais j’oublie ton offense, et, pour te récompenser d’avoir souhaité d’aimer tant d’objets divers, je te donne pour Mélite une constance éternelle.</p>
+<p>Mais, Mélite, pourquoi vous retracer une victoire, qu’Amour ne pouv<oa/>it remporter sans vous ?</p>
+<p>Votre sort est charmant, dit Zélide, je ne vois que Lycas<noteref noteid="7-473.1"/> et sa nymphe qui puissent être blessés plus heureusement que vous. Je vous apprendrai à mon tour comment l’Amour s’est rendu maître de nos cœurs ; mais le concert que j’entends annonce que Vénus et Bacchus vont recevoir à leur table Ariane et Adonis.</p>
+<p>Les dieux viennent avec empressement sur la terre <pagenum v="v7" num="474"/>pour goûter les plaisirs des mortels ; le changement les rend plus vifs que les plaisirs de l’Olympe même<noteref noteid="7-474.1"/>.</p>
+
+<note id="7-473.1" type="e"><p>A. Palmire.</p></note>
+
+
+<p>Bacchus abandonne les cieux pour jouir avec Ariane des faveurs de l’Amour, et Vénus quitte le nectar pour célébrer avec Adonis les dons de Bacchus.</p>
+<p>Je vis ces mortels heureux assis à la table de la Déesse. Quel repas ! le Dieu du vin, pour faire sa cour à Vénus, ne fut jamais si tendre ; et Vénus, pour honorer le Dieu du vin, ne montra jamais plus d’enjouement.</p>
+<p>Les Nymphes form<oa/>ient avec les Bacchantes un concert qu’Apollon aur<oa/>it pu désavouer ; mais Bacchus préfère, dans ses chants, un désordre enjoué à la contrainte de l’exacte harmonie.</p>
+<p>Un Silvain de l’île de Naxe s’efforç<oa/>it, par des sons langoureux, de célébrer les charmes de la tendresse. Vénus elle-même le désapprouva ; elle prétend qu’où préside Bacchus<noteref noteid="7-475.1"/>, <pagenum v="v7" num="475"/>la gaîté l’emporte surtout ; mais Bacchus amoureux ordonna à sa suite de célébrer avec sa gloire, la gloire de l’Amour, et se mit lui-même à chanter<noteref noteid="7-475.2"/>.</p>
+
+<note id="7-474.1" type="e"><p>A. insère ici la chanson suivante :</p>
+
+<blockquote>
+<poem>
+<lg>
+<l>Tous les plaisirs ont des attraits,</l>
+<l>Leur aspect, leur abord enchante !</l>
+<l>Mais ils ne sont pas tous parfaits,</l>
+<l>C’est à savoir qui les enfante.</l>
+</lg>
+<lg>
+<l>Ceux qui naissent d’un fol amour</l>
+<l>Sont pétulants, guindés ou fades ;</l>
+<l>Les a-t-on vus dans leur beau jour.</l>
+<l>Après ils deviennent maussades.</l>
+</lg>
+<lg>
+<l>Ceux que le vin tient à ses lois</l>
+<l>Ont un appât des plus funestes ;</l>
+<l>Les conn<oa/>ît-on bien une fois,</l>
+<l>On s’en dégoûte, on les déteste.</l>
+</lg>
+<lg>
+<l>Si l’Amour s’unit à Bacchus,</l>
+<l>Il en naît des plaisirs aimables :</l>
+<l>Ils sont riants, vifs, assidus,</l>
+<l>Caressants et toujours affables.</l>
+</lg>
+<lg>
+<l>Un cœur facile à s’enflammer</l>
+<l>Est plus heureux qu’on ne peut croire ;</l>
+<l>Le dieu du vin nous fait aimer ;</l>
+<l>Le dieu d’amour excite à boire.</l>
+</lg>
+</poem>
+</blockquote>
+</note>
+
+<blockquote>
+<poem>
+<l>Si de l’Amour vos chants ne célèbrent les traits,</l>
+<l>Vos chants sont imparfaits,</l>
+<l>Et Bacchus les condamne ;</l>
+<l>Buveurs, ne me chantez jamais</l>
+<l>Sans chanter Ariane.</l>
+</poem>
+</blockquote>
+
+<p>Les Nymphes se joignirent au concert des Silvains pour chanter Bacchus, tandis qu’ils chant<oa/>ient l’Amour. Le concert devint plus brillant, et ses accords rappelant au vin, le vin conduisit bientôt aux transports les plus vifs. Dès que la suite ne douta plus du triomphe de Bacchus, elle se retira pour laisser triompher Vénus.</p>
+<p>Zélide m’offrit un repas où les mortels sont admis à Paphos. Nous nous entretînmes longtemps de Bacchus et de sa cour<noteref noteid="7-475.3"/>. Je l’avoue, dis-je à la Nymphe, je m’ét<oa/>is fait une image de ce Dieu, qui déshonorait la Divinité. Je sais, répondit-elle, ce que pensent les mortels sur le culte du Dieu du vin. Chaque Dieu a ses autels, et chaque autel a ses faux prêtres ; la politique, l’ignorance et la corruption en forment tous les jours : peut-être ne conn<oa/>îtr<oa/>it-on point de vices, sans le pernicieux exemple de ceux que les Dieux choisissent pour les bannir<noteref noteid="7-475.4"/>.</p>
+<p>Les prêtres de Bacchus font naître les erreurs qui déshonorent son empire. Ils le dépeignent privé de raison, <pagenum v="v7" num="476"/>et soutenant à peine les poids de son tyrse. Les Bacchantes, selon eux, montrent dans leurs transports plus de fureur que de gaieté. Silène, à demi mort, barbouillé de lie, n’inspire-t-il pas plus d’horreur que de vénération pour le Dieu que Silène a formé ?</p>
+
+
+<note id="7-475.1" type="e"><p>A. Elle veut qu’où préside Bacchus, etc.</p></note>
+<note id="7-475.2" type="e"><p>Cette phrase et les vers suivants manquent dans A.</p></note>
+<note id="7-475.3" type="e"><p>Cette phrase manque dans A.</p></note>
+<note id="7-475.4" type="e"><p>A. Sans les pernicieux exemples des prétendus sages qui sont choisis pour les bannir.</p></note>
+
+
+
+<p>Non, non, Diphile, ce n’est point là Bacchus, ce n’est point là sa cour. Bacchus conserve toujours les mêmes grâces qui touchèrent Ariane. Aussi tendre que brillant, c’est un Dieu à suivre, et non à craindre ; toujours agréable à Vénus, il ne conn<oa/>ît d’ivresse que l’ivresse de l’Amour.</p>
+<p>Les Bacchantes enjouées raniment les Jeux et les Ris ; mais elles ne leur ôtent jamais leurs charmes.</p>
+<p>Silène est un vieillard, dont Bacchus reçut des soins ; il éleva son enfance, et ce Dieu reconn<oa/>issant accorde à sa vieillesse toute la vivacité qu’il est capable d’inspirer. Et peut-on refuser la plus grande vénération à un Dieu qui met sa gloire à par<oa/>ître toujours d’intelligence avec l’Amour ?</p>
+<p>Un buveur du mont Cythéron, qui ne conn<oa/>iss<oa/>it de culte que celui qu’on rend au Dieu du vin, parl<oa/>it un jour des feux de l’Amour, comme les faux amants parlent des plaisirs de Bacchus ; car ils croient honorer le fils de Vénus en méprisant le Dieu du vin. C’est ainsi, dis<oa/>it-il, en tenant sa coupe pleine ; c’est ainsi que je brave les traits de Cythère. Amour voltige<oa/>it entre Céphise et son cœur. Tu crois me vaincre, Amour, dis<oa/>it le buveur ; apprends à respecter un Dieu plus fort que toi ; cette coupe avalée va décider de ta honte et de sa gloire : il but, mais un regard de Céphise prouva bientôt au buveur que Bacchus aide souvent au triomphe de l’Amour.</p>
+<p>Et qui mieux que moi, ajouta Zélide, qui mieux que moi doit conn<oa/>ître le pouvoir et l’intelligence de ces <pagenum v="v7" num="477"/>Dieux charmants ? Ils partagent mes vœux, et je mets mon bonheur à partager les plaisirs qu’on goûte sous leur empire. C’est de Bacchus que j’ai appris à aimer, et c’est de l’Amour... On vint avertir Zélide que Mercure descend<oa/>it, et que les nymphes all<oa/>ient le recevoir.</p>
+
+<p>Mercure tient le registre des Ombres qui se présentent pour passer les sombres bords. Messager des dieux, il vient de la part de Minos et de Radamante demander à Vénus quelles peines on donnera<noteref noteid="7-477.1"/> à certaines Ombres dont la Déesse s’est réservé le jugement.</p>
+<p>Eh bien, Mercure, lui dit-elle, avons-nous beaucoup d’amants constants à récompenser ? Ils sont trop rares aujourd’hui, pour en voir souvent sur les sombres bords, répond Mercure. Il se présente au contraire un seigneur franç<oa/>is qui a toujours traité les amants constants d’amants bourgeois. Ah ! je corrigerai cet abus, reprit Vénus ; les bourgeoises de ce pays-là ont tant de disposition à imiter les grands, que si de semblables discours rest<oa/>ient impunis, on ne verr<oa/>it plus en France d’amants constants. Qu’on assiége ce mauvais plaisant de douze Ombres provinciales que je vais rendre amoureuses de lui.</p>
+<p>A ces provinciales, dit Mercure, joignez encore une vieille coquette qui a poussé les beaux sentiments [sentimens] jusqu’au quatorzième lustre. Non, je la veux punir. Se piquer si longtemps de galanterie, c’est déshonorer mon empire ; quand les Jeux et les Ris se retirent, on doit quitter les Amours. Que toutes les Ombres galantes se contraignent pour lui faire des offres, et la tromper.</p>
+<p>Si vous punissez pour avoir voulu plaire trop longtemps, reprit Mercure, quelle peine allez-vous donner à <pagenum v="v7" num="478"/>l’Ombre d’une beauté nonchalante qui a passé ses jours à ajuster des charmes dont elle ne fit jamais d’usage ?</p>
+
+<note id="7-477.1" type="e"><p>A. De quelles peines on punira certaines ombres, etc.</p></note>
+
+
+<p>C’est mal reconn<oa/>ître mes faveurs : quand je donne des charmes, je les destine à ma gloire ; ce qui a fait les délices de cette Ombre va faire sa peine. Qu’on lui présente sans cesse son miroir, pour le retirer au moment qu’elle en approchera : son supplice surpassera celui de Tantale. Eh quoi ! ajouta la Déesse, en prenant la liste des mains de Mercure, je verrai toujours des envieuses qui n’ont d’autres plaisirs que celui de médire sur le chapitre de l’Amour ? Il n’est point en mon pouvoir de donner de la beauté à toutes les femmes ; les Grâces consolent quelquefois celles qui ne me doivent rien ; mais, quand on ne doit ni aux Grâces ni à moi, on veut s’en venger en parlant mal de celles que je protége : je prétends qu’on respecte l’ouvrage de Vénus, et pour punir cette envieuse, je la condamne à entendre continuellement parler des charmes des belles Ombres, sans lui donner le temps de répliquer par le contraire.</p>
+<p>Il faut charger de ce soin, dit Mercure, l’Ombre que Caron va passer avec elle ; c’est un amant qui s’est vanté d’avoir eu des faveurs qu’on ne lui accorda jamais.</p>
+<p>Voilà le comble de la perfidie, répond Vénus. Je veux bien qu’il serve au supplice de cette envieuse ; mais, pour le sien, qu’on lui montre sans cesse le portrait de sa Belle, entre les mains d’une Ombre discrète.</p>
+<p>Mais quel est ce poëte de mauvaise humeur, poursuivit la Déesse ? C’est un auteur qui s’est épuisé à faire une critique sur l’<i>Art d’aimer </i>d’Ovide. Ne reconn<oa/>issez-vous pas la jalousie poétique, ajouta Mercure. On s’efforce à imiter ceux qui ont su plaire ; l’imitation ne réussit pas, l’amour-propre s’en offense ; j’ai de l’esprit, dit-on, et je ne saurais approcher du modèle que j’ai choisi ; donc le modèle <pagenum v="v7" num="479"/>n’est pas bon, et, pour le prouver, j’en vais faire la critique.</p>
+
+
+
+<p>Ce poëte, reprit la Déesse, mérite les supplices les plus cruels, pour s’être déclaré contre un auteur qui me doit plus qu’aux Muses. Qu’on inspire à son Ombre la même façon de penser que les gens de goût, et, pour son tourment, on lui récitera chaque jour une page de ses vers.</p>
+<p>Quel supplice vais-je donner à ce guerrier des rives de la Seine, qui a toujours mis sa gloire à chanter des chansons contre l’Amour ? L’Enfer n’en conn<oa/>it point d’assez rudes pour venger mon fils. J’en invente un nouveau, interrompit Mercure ; qu’on lui fasse entendre deux fois par jour un concert d’Italie<noteref noteid="7-479.1"/>.</p>
+<p>Mais j’oublie, ajouta-t-il, un disciple de Thémis, qui n’a jamais aimé que la parure. Ah ! s’écria Vénus, c’est un mal qui gagne tous les environs de la France, il est trop funeste à mon empire, j’en dois arrêter le cours. Et quelle Belle voudrait aimer, si tous les hommes pens<oa/>ient comme ce fade magistrat ? Qu’on le frise tous les quarts d’heure du jour ; et dès qu’il paraîtra content de son ajustement, on le fera promener au grand vent. Le supplice est cruel, mais l’offense est trop forte.</p>
+<p>Vénus se lève, et Mercure porte aux Enfers les arrêts de la Déesse ; mais ce Dieu a plusieurs emplois à Paphos, et je le revis bientôt sous un air plus riant.</p>
+<p>Dès que les Grâces revinrent, Vénus reprit le maintien de la Reine des plaisirs, et les Nymphes eurent ordre de se préparer pour la chasse.</p>
+<p>La beauté la plus parfaite, l’entretien le plus aimable, pour ne pas cesser de plaire, ont besoin de secours. La mère des Jeux et des Ris recherche l’amusement que <pagenum v="v7" num="480"/>choisit le mortel qu’elle aime. Je la vis en habit de chasseresse, et je m’aperçus que sous cet habillement Adonis trouv<oa/>it Vénus au-dessus de Vénus même.</p>
+
+<note id="7-479.1" type="e"><p>Ce paragraphe manque dans A.</p></note>
+
+
+<p>Les Nymphes animent les chiens ; on les entend appeler Melampe, Driope, Silvage ; mais on conn<oa/>ît à leurs voix qu’elles sont plus propres à parler le langage de Cythère qu’à faire retentir les forêts ; elles prennent les armes des chasseurs, et les chasseurs celles des Amours.</p>
+<p>Le son des cors inspire à Paphos plus de tendresse que d’ardeur pour la chasse ; il semble qu’elle ne soit qu’un prétexte pour se perdre dans les bois.</p>
+<p>Les feux de Léarque s’augmentent en voyant Palmis armée comme Vénus et comme l’Amour. Je l’entends dire près de sa Nymphe qui chant<oa/>it au son du cor :</p>
+
+<blockquote>
+<poem>
+<l>Du Dieu qui fait aimer</l>
+<l>Vous avez tous les charmes ;</l>
+<l>On dir<oa/>it qu’en vos mains il a remis ses armes,</l>
+<l>Vos yeux comme ses feux sont faits pour enflammer :</l>
+<l>Vous avez sur les cœurs un empire suprême. </l>
+<l>Quand on rit avec vous, on croit que c’est un jeu,</l>
+<l>Mais on ressent bientôt qu’on aime.</l>
+<l>Palmis, si vous aimiez un peu,</l>
+<l>Vous seriez l’Amour même.</l>
+</poem>
+</blockquote>
+
+<p>La Nymphe écoute, et sourit ; ses yeux disent assez à Léarque qu’il est aimé, mais elle en diffère l’aveu pour le rendre plus sensible.</p>
+<p>Diane s’égare souvent dans les bois de Vénus ; elle trouve Endymion plus tendre dans l’isle de Paphos que dans celle d’Ortigie ; et cette Déesse, plus réservée et plus sensible qu’une autre, voudrait sans cesse y voir son berger, mais qu’on ne l’y vît jamais. Vénus, en suivant Adonis, <pagenum v="v7" num="481"/>le rencontra un jour à Paphos<noteref noteid="7-481.1"/>. Diane espér<oa/>it qu’Endymion ne par<oa/>îtr<oa/>it pas : Eh quoi, dit-elle, en abordant la Déesse d’un air composé : « Reine des Amours, vous ne dédaignez pas aujourd’hui les amusements de la Déesse des bois<noteref noteid="7-481.2"/>.</p>
+
+
+<p>« Quand Diane est à Paphos, répond Vénus, quel Dieu s’étonnera d’y voir chasser la mère des Amours ? Adonis m’apprend à conn<oa/>itre vos lois, et, pour lui plaire, je fais gloire de les suivre : mais vous, plus mystérieuse, vous apprîtes d’un Berger à goûter mes plaisirs, et vous affectez de les condamner sans cesse. Adieu, grave Déesse<noteref noteid="7-481.3"/> ; mais souvenez-vous que les précautions qu’on prend pour cacher ses feux ne servent qu’à les faire plus tôt conn<oa/>ître. »</p>
+<p>Ceux qui affectent des dehors sévères s’offensent aisément, et ne pardonnent jamais. Diane se crut outragée, et son hypocrisie démasquée ne demand<oa/>it rien moins que du sang. Vénus est immortelle, et dès l’instant la mort d’Adonis fut résolue ; mais aujourd’hui la Déesse méprise son ennemie ; elle poursuivr<oa/>it avec ce chasseur les bêtes les plus féroces, sans craindre leurs défenses. Elle part, et Adonis la suit, et tout se prépare à rapporter de la chasse moins de fatigue que de plaisirs.</p>
+<p>Quelle joie est peinte sur leur visage, me dit Zélide ; le seul Anténor reste dans un morne silence, et semble mépriser toutes les Nymphes : mais elles savent qu’il aime à Amathonte, elles ne s’offensent pas de la rêverie qui l’occupe<noteref noteid="7-481.4"/>.</p>
+
+
+<note id="7-481.1" type="e"><p>A. Rencontre le berger de Diane à Paphos.</p></note>
+<note id="7-481.2" type="e"><p>A. De la déesse des forêts.</p></note>
+<note id="7-481.3" type="e"><p>A. Adieu, grave Déesse ; Endymion s’avance ; imitez Vénus, et je vais imiter Diane ; mais souvenez-vous, etc.</p></note>
+<note id="7-481.4" type="e"><p>Ce paragraphe et le suivant manquent dans A.</p></note>
+
+<pagenum v="v7" num="482"/>
+
+<p>Chez les mortels, sa distraction passerait peut-être pour fierté ; car souvent ceux qu’on accuse y sont les moins sujets. Ne vous y trompez pas, Diphile, tel ne vous paraît méprisant que parce qu’il ne comprend pas qu’on puisse l’être ; il s’abandonne à sa pensée, ou à sa nonchalance naturelle ; et s’il croy<oa/>it qu’on put soupçonner quelqu’un de fierté, il s’appliquerait à détromper ceux qui l’en soupçonnent. Ah ! Nymphe, que ne pense-t-on ailleurs comme on pense à Paphos<noteref noteid="7-482.1"/>.</p>
+<p>Dès que nous eûmes perdu la troupe de vue, nous continuâmes l’entretien que l’arrivée de Mercure av<oa/>it interrompu. La Nymphe me fit un discours charmant sur la vraie délicatesse ; elle m’enseign<oa/>it l’art de conserver les plaisirs qu’on conn<oa/>ît, et de faire naître ceux qu’on ne conn<oa/>it pas, quand nous arrivâmes au pavillon des songes.</p>
+<p>Ah ! m’écriai-je, voilà un songe qui ne me quitte point ; c’est lui qui rassemble tous les charmes de Mélite. Cette nuit encore... mais pourquoi aimer ce trompeur ? Mon réveil me le fait trouver si cruel ?</p>
+<p>J’aperçois, dit Zélide, celui qui me touche le plus ; il me représente Lycas tendrement couché auprès de moi<noteref noteid="7-482.2"/> ; toutes les nymphes l’admirent : qu’il est charmant, disent-elles ! Il est digne de Vénus ; qu’il est heureux ! Oui, répond Lycas, d’aimer Zélide et d’en être aimé.</p>
+<p>Mais dans tous ces songes, je n’en vois aucun que la jalousie ait pu former. La jalousie, s’écrie Zélide, on ne la conn<oa/>ît point à Paphos ; ses songes volent à la suite de l’Hymen ; et l’Amour ne la conn<oa/>ît que pour s’en défendre. On évite ici ces soupçons, ces plaintes, ces justifications, <pagenum v="v7" num="483"/>dont tant d’amants se font une habitude. Vénus ne s’offense pas des reproches de Vulcain ; mais ceux de Mars ont décidé pour Adonis.</p>
+
+
+<note id="7-482.1" type="e"><p>Est-ce une allusion à la distraction bien connue de Montesquieu ?</p></note>
+<note id="7-482.2" type="e"><p>A. Il me représente Palmire, tendrement couché sur mon sein.</p></note>
+
+
+<p>L’amour-propre fait souvent naître les sentiments de jalousie qu’on attribue à l’Amour.</p>
+<p>On ne peut déguiser sa pensée devant les Dieux ; et, j’entendis un jour dans le temple de Cythère une bergère qui s’adress<oa/>it ainsi à la Déesse : « Je croyois aimer Nicandre,  et Elismène qu’il aim<oa/>it excit<oa/>it dans mon cœur la plus cruelle jalousie. Grande Déesse, je viens à ces autels te rendre grâces de m’avoir guérie. J’aime Mirtile, et je sens bien aujourd’hui qu’Elismène ne me rend<oa/>it jalouse que parce qu’elle triomph<oa/>it avec moins de beauté que moi. » Ainsi l’on croit aimer, et l’on n’est que jaloux.</p>
+<p>On aime aussi quelquefois sans croire aimer, reprit Zélide. Une jeune Nymphe destinée aux autels de Vénus, lui dis<oa/>it un jour dans ce même temple : « Je n’aime rien ; mais puisque je ne puis être prêtresse de la mère d’Amour sans sentir ses feux, faites, puissante Déesse, qu’il me brûle pour Palmire<noteref noteid="7-483.1"/>. » Palmire aim<oa/>it la nymphe ; mais il n’en av<oa/>it pas fait l’aveu. Il ét<oa/>it au temple, il entendit sa prière, et sûr de son bonheur, il courut tout transporté déclarer son amour. Je croy<oa/>is n’aimer rien, lui dit la Nymphe, mais ce que je sens à l’aveu que vous me faites, m’apprend, Palmire, que mon cœur est à vous depuis longtemps.</p>
+<p>Nous arrivâmes, en nous entretenant ainsi, dans un bois de lauriers, où Zélide se plaît à venir rêver. Le soleil y donne un jour si tendre, qu’on dir<oa/>it qu’il reconn<oa/>it encore Daphné sous l’écorce de cet arbre.</p>
+
+<note id="7-483.1" type="e"><p>A. Pour Philène. Philène, etc.</p></note>
+
+<pagenum v="v7" num="484"/>
+
+<p>Nous nous assîmes près d’un ruisseau qui se plaît à embellir son gazon, pour attirer les Nymphes sur ses bords, et dès que Zélide commença à parler, il adoucit son murmure pour écouter ce qu’elle raconta ainsi :</p>
+<p>Vous devez tous vos feux au Dieu de Cythère, et je crois Diphile, qu’il n’enflamma jamais plus heureusement : mais entre Lycas et moi, nous rassemblons les feux de Bacchus et de l’Amour. Ces Dieux dont je vous ai fait conn<oa/>ître l’aimable intelligence, sont sujets aux f<oa/>iblesses que peuvent avoir les autres Dieux.</p>
+<p>Quand il s’agit de soutenir ses droits, la plus forte amitié n’est pas exempte de froideur. Un berger des rives du Lignon, cueill<oa/>it un jour un raisin pour l’offrir à sa bergère. Un buveur jaloux de la gloire de Bacchus, rencontre le berger qui entrelaç<oa/>it ce raisin dans des guirlandes de fleurs.</p>
+<p>Si vous cherchez à plaire à l’Amour, en offrant des présents à vos bergères, dit le buveur, contentez-vous des dons de Flore et de Pomone, et laissez aux buveurs les dons de Bacchus. Il n’est rien de réservé pour plaire à l’Amour, répondit le berger, et Bacchus lui-même ne pourr<oa/>it m’empêcher d’offrir ce présent à Lisis. Téméraire, repartit le buveur, tu ne conn<oa/>is pas Bacchus, mais tu conn<oa/>îtras sa vengeance.</p>
+<p>L’Amour protége<oa/>it le berger, et Bacchus se déclara contre lui. Vénus craignant que l’intérêt particulier de ces deux Dieux ne nuisît à son empire, ne perdit point de temps pour rétablir leur intelligence.</p>
+<p>Elle leur fit jurer par le Styx d’oublier cette querelle ; je veux, leur dit-elle, pour que l’univers ne doute pas de votre union, que Bacchus porte aujourd’hui les armes de mon fils, et que mon fils règne sur l’empire de Bacchus.</p>
+
+
+<pagenum v="v7" num="485"/>
+
+<p>Ces dieux acceptent les conditions du raccommodement, et dans cette journée Bacchus lança autant de traits que l’Amour soumett<oa/>it de buveurs.</p>
+<p>Lycas depuis longtemps soupir<oa/>it pour moi, et jusqu’à ce jour je n’av<oa/>is rien senti pour lui ; mais enfin, Bacchus, maître des feux de l’Amour, m’enflamma, et dès ce moment j’aimai autant que j’ét<oa/>is aimée. Cependant Lycas prétentend<oa/>it avoir l’avantage, et jur<oa/>it sans cesse qu’il aim<oa/>it plus que moi. Je suis blessé des mains de l’Amour, me dis<oa/>it-il, vous ne devez vos feux qu’à Bacchus ; avouez, Zélide, que l’Amour... Non, Lycas, l’Amour même, l’Amour sent moins d’ardeur pour ce qu’il aime, que Zélide en sent pour vous. Quand Bacchus m’a blessée, il av<oa/>it avec son pouvoir tout le pouvoir de l’Amour ; et le Dieu qui vous blessa n’av<oa/>it pas le pouvoir de Bacchus.</p>
+<p>Ainsi nous disputions toujours l’avantage d’aimer plus tendrement ; quand Lycas demand<oa/>it la moindre des faveurs qu’Amour ordonne qu’on accorde, j’exige<oa/>is avant que de rien permettre, qu’il avouât que j’aimais plus que lui. Il se contraign<oa/>it quelquefois pour en convenir ; mais souvent j’ét<oa/>is obligée de me contraindre aussi pour refuser ce que j’av<oa/>is tant d’envie qu’il obtînt.</p>
+<p>Enfin, je résolus, pour ne pas lui céder l’avantage, d’implorer le secours de l’Amour.</p>
+<p>Je me présentai à son temple ; mais Diphile, bien différemment de vous ; vous allâtes lui demander de vous laisser sortir de son empire, et je demand<oa/>is d’aimer encore plus que je n’aim<oa/>is.</p>
+<p>Les mortels sont égaux aux Dieux dans le temple de l’Amour, et je n’approchai du sanctuaire qu’après les amants qui s’ét<oa/>ient présentés avant moi.</p>
+<p>J’aime Églé, dis<oa/>it un berger ; Dieu des cœurs, tu le <pagenum v="v7" num="486"/>sais ; mais je suis trop jeune, pour oser avouer que je l’aime. Inspire-lui donc, Amour, que des feux qui doivent durer toujours, ne saur<oa/>ient trop tôt par<oa/>ître.</p>
+
+<p>Fils de Vénus, dis<oa/>it un disciple de Mars<noteref noteid="7-486.1"/>, j’ai toujours traité les amants d’insensés ; leur soumission, leur contrainte, et leurs plaisirs, tout me par<oa/>iss<oa/>it incroyable : mais quand je pense à Phénice, tout me par<oa/>ît possible.</p>
+<p>Amour, dis<oa/>it un autre, j’implore ton secours auprès de Bacchus. J’ai fait serment de passer mes jours dans ses plaisirs, et dans les tiens ; il me reproche aujourd’hui que près de Thémire, je ne pense qu’à toi, et près de lui je ne pense qu’à Thémire<noteref noteid="7-486.2"/>.</p>
+<p>Le Dieu me vit, il sav<oa/>it quel dessein m’amen<oa/>it à son temple, il prévint ma prière, et me blessa du trait le plus ardent. Viens, m’écriai-je à l’instant, viens, Lycas, me disputer à présent la gloire de mieux aimer.</p>
+<p>Lycas, me dit l’Amour, aime autant que Zélide. Zélide fut blessé par les mains de Bacchus, et l’Amour vient encore de l’enflammer. Lycas fut blessé par l’Amour ; mais il sort du temple de Bacchus, et Bacchus a mis dans son cœur des feux qu’il emprunta de moi. Heureux amants, ajouta le Dieu de Cythère, vous aurez l’avantage sur tous les cœurs amoureux ; mais Zélide ne saur<oa/>it l’avoir sur Lycas, ni Lycas sur Zélide.</p>
+<p>Lycas, enfin, sent pour moi tout ce qu’Adonis sent pour Vénus ; mais j’ai pour lui, je crois, des transports que Vénus n’eût jamais pour Adonis.</p>
+<p>Oui, Nymphe, j’avouerai que Vénus vous cède en tendresse, si vous convenez que vous devez me céder aussi.</p>
+
+
+<note id="7-486.1" type="e"><p>A. Dis<oa/>it un guerrier de la Thrace.</p></note>
+
+<note id="7-486.2" type="e"><p>Ce paragraphe n’est pas dans A.</p></note>
+
+
+<pagenum v="v7" num="487"/>
+
+<p>J’all<oa/>is disputer avec Zélide qui doit aimer plus tendrement des cœurs qu’Amour blessa du même trait, ou de ceux que Bacchus et l’Amour ont tous deux enflammés. Mais les cors que nous entendîmes, annoncèrent le retour de la chasse.</p>
+<p>Les jeunes Nymphes et les Amours préparaient un concert dans le pavillon des Grâces. Vénus vint l’entendre. Quels accords ! quelle mélodie ! l’harmonie de Paphos n’est point celle qu’on entend chez les mortels. Différente de ces sons qu’on admire, en demandant s’ils sont agréables ; et bien éloignée de cette langueur qu’on rencontre si souvent en voulant chercher ce qui touche. Chaque ton formé à Paphos penètre jusqu’au fond du cœur, et mêlés ensemble leur harmonie fait oublier qu’il y ait d’autres plaisirs.</p>
+<p>Les Nayades attend<oa/>ient Vénus pour la reconduire à son palais. Un lit de feuillage que les Grâces ont soin d’orner de concert avec Flore, semble nager sur le canal de Paphos ; des cygnes en soutiennent le poids, et les Colombes attelées, en suivant les Zéphirs qui caressent les Nayades, font voler la Déesse sur la surface de l’onde.</p>
+<p>Toute la cour se rangea sur les bords du canal, [et Zélide me plaça pour rendre encore mes hommages à Vénus.</p>
+<p>Heureux amant, me dit la Déesse, vous aimez Mélite ; vous avez vu Paphos, et vous aimerez encore plus. Allez, ajouta-t-elle, ne cessez point de mériter la tendresse de Mélite, vous plairez toujours à Vénus.</p>
+<p>Eh bien ! adorable Mélite, n’êtes-vous point satisfaite du récit de mon voyage ? Et, s’il vous flatte autant qu’il par<oa/>ît, je vous exhorte de m’y suivre. Je veux y retourner et vous y conduire. Nous y verrons le lieu qui nous est destiné, comme parfaits amants, et comme amants qui savent dignement célébrer les mystères de l’Amour. Il faut tâcher, <pagenum v="v7" num="488"/>Mélite, d’en occuper les premières places ; allons jusqu’aux sources de la tendresse, et apprenons, s’il se peut, à Vénus, à savourer délicieusement les plaisirs<noteref noteid="7-488.1"/>].</p>
+
+<note id="7-488.1" type="e"><p>Toute cette fin, placée entre crochets, ne se trouve que dans A.</p></note>
+
+</div>
+
+</page-sequences>
+</bml>
+

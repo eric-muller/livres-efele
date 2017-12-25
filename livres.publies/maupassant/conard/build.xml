@@ -1,0 +1,44 @@
+<?xml version='1.0'?>
+
+<project name='livew' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_boule_de_suif'/>
+    <book x='02_des_vers'/>
+    <book x='03_la_maison_tellier'/>
+    <book x='04_mademoiselle_fifi'/>
+    <book x='05_une_vie'/>
+    <book x='06_contes_de_la_becasse'/>
+    <book x='07_clair_de_lune'/>
+    <book x='08_au_soleil'/>
+    <book x='09_les_soeurs_rondoli'/>
+    <book x='10_miss_harriet'/>
+    <book x='11_toine'/>
+    <book x='12_yvette'/>
+    <book x='13_bel_ami'/>
+    <book x='14_contes_du_jour_et_de_la_nuit'/>
+    <book x='15_monsieur_parent'/>
+    <book x='16_la_petite_roque'/>
+    <book x='17_mont_oriol'/>
+    <book x='18_le_horla'/>
+    <book x='19_pierre_et_jean'/>
+    <book x='20_le_rosier_de_madame_husson'/>
+    <book x='21_sur_l_eau'/>
+    <book x='22_fort_comme_la_mort'/>
+    <book x='23_la_main_gauche'/>
+    <book x='24_la_vie_errante'/>
+    <book x='25_notre_coeur'/>
+    <book x='26_l_inutile_beaute'/>
+    <book x='27_theatre'/>
+    <book x='28_oeuvres_posthumes_1'/>
+    <book x='29_oeuvres_posthumes_2'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='maupassant_conard'/> 
+  </target>
+
+  <target name='zipsources-book'/>
+
+</project>

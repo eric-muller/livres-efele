@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb315608077">
+
+      <titre>Œuvres posthumes</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb386679796">
+        <nom-bibliographie>Verlaine, Paul</nom-bibliographie>
+        <dates>1844-1896</dates>
+        <nom-couverture>Paul Verlaine</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>Albert Messein</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1926-1927</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <partie>1</partie>
+      <date>1920</date>
+      <facsimile href="http://books.google.com/books?id=p76-JpABOFgC"
+                 pages="n10 1-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000247"
+        creation="2012-12-28T00:00:01-08:00"
+        modification="2014-12-31T18:14:51-08:00">
+
+      <surtitre>Œuvres posthumes</surtitre>
+      <titre>Avertissement</titre>
+      <soustitre>(tome 1)</soustitre>
+
+      <titre-catalogue>Œuvres posthumes — Avertissement (tome 1)</titre-catalogue>
+
+      <collection id='c00008'>
+        <titre>Œuvres posthumes de Paul Verlaine, Albert Messein</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+
+  <toc/>
+
+  <cover src="images/couverture1.png" alt="Œuvres posthumes de Paul Verlaine. I. Vers de jeunesse — Varia — Parallèlement (additions) — Dédicaces (additions) — Souvenirs — Histoires comme ça. Texte définitif collationné sur les originaux. Paris. Albert Messein, éditeur. Successeur de Léon Vanier. 19, quai Saint-Michel, 19. 1920."/>
+
+<page-sequences>
+<page-sequence>
+<div>
+ <pagenum num="1"/>
+
+<p><i>On trouvera, dans cette édition définitive du Tome premier des</i> Œuvres posthumes, <i>toutes les œuvres, en effet, « posthumes », dont se composait le Tome unique de la première édition, mais dans un ordre plus clair et plus logique, et allégées de quelques poèmes qui, déjà publiés dans les précédents recueils, n’avaient été répétés dans celui-ci que par erreur</i>.</p>
+
+ <pagenum num="2"/>
+</div>
+</page-sequence>
+</page-sequences>
+</bml>

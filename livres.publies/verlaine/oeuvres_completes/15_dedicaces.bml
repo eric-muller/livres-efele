@@ -1,0 +1,5210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie bnf="http://catalogue.bnf.fr/ark:/12148/cb315608077">
+
+      <titre>Œuvres complètes de Paul Verlaine</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11913405m">
+        <nom-bibliographie>Verlaine, Paul</nom-bibliographie>
+        <dates>1844-1896</dates>
+        <nom-couverture>Paul Verlaine</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>Léon Vanier</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1902-1905</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <partie>3</partie>
+      <date>1901</date>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k202912t"
+                 pages="n3 1-1 3-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000243"
+        creation="2012-12-17T00:00:01-08:00"
+        modification="2014-12-31T18:14:48-08:00">
+
+      <surtitre>Œuvres complètes</surtitre>
+      <titre>Dédicaces</titre>
+
+      <collection id='c00007'>
+        <titre>Œuvres complètes de Paul Verlaine, Léon Vanier</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+
+  <toc>
+      <tocentry idref="p30" label="I. Ballade touchant un point d’histoire"/>
+      <tocentry idref="p31" label="II. Ballade en vue d’honorer les Parnassiens"/>
+      <tocentry idref="p32" label="I. A Jules Tellier"/>
+      <tocentry idref="p33" label="II. Au même"/>
+      <tocentry idref="p34" label="III. A François Coppée"/>
+      <tocentry idref="p35" label="IV. J.-K. Huysmans"/>
+      <tocentry idref="p36" label="V. A Stéphane Mallarmé"/>
+      <tocentry idref="p37" label="VI. A Jean Moréas"/>
+      <tocentry idref="p38" label="VII. Laurent Tailhade"/>
+      <tocentry idref="p39" label="VIII. A Villiers de l’Isle-Adam"/>
+      <tocentry idref="p40" label="IX. Léon Bloy"/>
+      <tocentry idref="p41" label="X. A Raoul Ponchon"/>
+      <tocentry idref="p42" label="XI. A.-F. Cazals"/>
+      <tocentry idref="p43" label="XII. A Germain Nouveau"/>
+      <tocentry idref="p44" label="XIII. Maurice Bouchor"/>
+      <tocentry idref="p45" label="XIV. Henry d’Argis"/>
+      <tocentry idref="p46" label="XV. A Ernest Raynaud"/>
+      <tocentry idref="p47" label="XvI. Raymond de la Tailhède"/>
+      <tocentry idref="p48" label="XVII. A Armand Silvestre"/>
+      <tocentry idref="p49" label="XVIII. Fernand Langlois"/>
+      <tocentry idref="p50" label="XIX. A Irénée Decroix"/>
+      <tocentry idref="p51" label="XX. A George Bonnamour"/>
+      <tocentry idref="p52" label="XXI. A Paterne Berrichon"/>
+      <tocentry idref="p53" label="XXII. A Gabriel Échaupre"/>
+      <tocentry idref="p54" label="XXIII. Au docteur Guilland"/>
+      <tocentry idref="p55" label="XXIV. A Louis et Jean Jullien"/>
+      <tocentry idref="p56" label="XXV. A Émile Le Brun"/>
+      <tocentry idref="p57" label="XXVI. A Henri Mercier"/>
+      <tocentry idref="p58" label="XXVII. A Adrien Remacle"/>
+      <tocentry idref="p59" label="XXVIII. A Armand Sinval"/>
+      <tocentry idref="p60" label="XXIX. A Charles de Sivry"/>
+      <tocentry idref="p61" label="XXX. A Charles Vesseron"/>
+      <tocentry idref="p62" label="XXXI. A Gabriel Vicaire"/>
+      <tocentry idref="p63" label="XXXII. A Émile Blémont"/>
+      <tocentry idref="p64" label="XXVIII. A Emmanuel Chabrier"/>
+      <tocentry idref="p65" label="XXXIV. A Ernest Delahaye"/>
+      <tocentry idref="p66" label="XXXV. A Maurice du Plessys"/>
+      <tocentry idref="p67" label="XXXVI. Charles Morice"/>
+      <tocentry idref="p68" label="XXXVII. A Edmond Thomas"/>
+      <tocentry idref="p69" label="XXXVIII. A mes amis de là-bas"/>
+      <tocentry idref="p70" label="XXXIX. Quatorza1n pour tous"/>
+      <tocentry idref="p71" label="XL. Quatorzain pour toutes"/>
+      <tocentry idref="p72" label="XLI. A G*****"/>
+      <tocentry idref="p73" label="XLII. Encore pour G..."/>
+      <tocentry idref="p74" label="XLIII. Pour S..."/>
+      <tocentry idref="p75" label="XLIV. Chanson pour L..."/>
+      <tocentry idref="p76" label="XLV. A ***"/>
+      <tocentry idref="p77" label="XLVI. Le pinson d’E***"/>
+      <tocentry idref="p78" label="XLVII. A E..."/>
+      <tocentry idref="p79" label="XLVIII. A E... pour ses étrennes"/>
+      <tocentry idref="p80" label="XLIX. A ***"/>
+      <tocentry idref="p81" label="L. A la même"/>
+      <tocentry idref="p82" label="LI. Pour la même"/>
+      <tocentry idref="p83" label="LII. A une dame qui partait pour la Colombie"/>
+      <tocentry idref="p84" label="LIII. A E*** I"/>
+      <tocentry idref="p85" label="LIII. A E*** II"/>
+      <tocentry idref="p86" label="LIV. Anniversaire, à William Rothenstein"/>
+      <tocentry idref="p87" label="LV. A mon éditeur I. Misère"/>
+      <tocentry idref="p88" label="LV. A mon Éditeur II. Richesse"/>
+      <tocentry idref="p89" label="LVI. A Léon Vanier I."/>
+      <tocentry idref="p90" label="LVI. A Léon Vanier II. (Suite du 1er sonnet)"/>
+      <tocentry idref="p91" label="LVII. Toast à distance, aux Rosati"/>
+      <tocentry idref="p92" label="LVIII. Manchester, à Théodore C. London"/>
+      <tocentry idref="p93" label="LIX. Fountain Court, à Arthur Symons"/>
+      <tocentry idref="p94" label="LX. A Edmond Lepelletier"/>
+      <tocentry idref="p95" label="LXI. Jean Richepin"/>
+      <tocentry idref="p96" label="LXII. A Arthur Rimbaud. I"/>
+      <tocentry idref="p97" label="LXIII. A Arthur Rimbaud. II"/>
+      <tocentry idref="p98" label="LXIV. A Mlle Renée Zilcken"/>
+      <tocentry idref="p99" label="LXV. A Mlle Eveline"/>
+      <tocentry idref="p100" label="LXVI. A Mlle Léonie R..."/>
+      <tocentry idref="p101" label="LXVII. A Mlle Jeanne Vanier"/>
+      <tocentry idref="p102" label="LXYIII. Sur un buste de moi, pour mon ami Niederhausern"/>
+      <tocentry idref="p103" label="LXIX. A Raymond Maygrier"/>
+      <tocentry idref="p104" label="LXX. A Mlle Adèle"/>
+      <tocentry idref="p105" label="LXXI. A Mme Marie A..., pour sa fète"/>
+      <tocentry idref="p106" label="LXXII. A Rodolphe Darzens"/>
+      <tocentry idref="p107" label="LXXIII. A Henri Bossanne"/>
+      <tocentry idref="p108" label="LXXIV. A Max Rosa"/>
+      <tocentry idref="p109" label="LXXV. A Mlle A. Rom***"/>
+      <tocentry idref="p110" label="LXXVI. A A. Duvigneaux"/>
+      <tocentry idref="p111" label="LXXVII. A Rodolphe Salis"/>
+      <tocentry idref="p112" label="LVXIII. A Léon Cladel"/>
+      <tocentry idref="p113" label="LXXIX. Pour Marie***, à F.-A. Cazals"/>
+      <tocentry idref="p114" label="LXXX. A Gustave Lerouge"/>
+      <tocentry idref="p115" label="LXXXI. Au Compagnon Lartigues"/>
+      <tocentry idref="p116" label="LXXXII. A M. le docteur Chauffart"/>
+      <tocentry idref="p117" label="LXXXIII. A Aman Jean, sur un portrait enfin reposé de moi"/>
+      <tocentry idref="p118" label="LXXXIV. A Mme Marie P..."/>
+      <tocentry idref="p119" label="LXXXV. A César C."/>
+      <tocentry idref="p120" label="LXXXV. A Bibi-Purée"/>
+      <tocentry idref="p121" label="LXXXVIII. A un passant"/>
+      <tocentry idref="p122" label="LXXXVIII. Pour Roberte"/>
+      <tocentry idref="p123" label="LXXXIX. Au Vicomte de Lautrec"/>
+      <tocentry idref="p124" label="XC. Pour Mlle D. A."/>
+      <tocentry idref="p125" label="XCI. A Ph... I"/>
+      <tocentry idref="p126" label="XCII. A la même. II"/>
+      <tocentry idref="p127" label="XCIII. A la même. III"/>
+      <tocentry idref="p128" label="XCIV. A Edmond Picard"/>
+      <tocentry idref="p129" label="XCV. A Francis Poictevin"/>
+      <tocentry idref="p130" label="XCVI. A Ph..."/>
+      <tocentry idref="p131" label="XCVII. Au Gérant du Muller"/>
+      <tocentry idref="p132" label="XCVIII. A E... en lui offrant Mes Prisons"/>
+      <tocentry idref="p133" label="XCIX. A Léopold II, roi des Belges"/>
+      <tocentry idref="p134" label="C. A l’aimée"/>
+      <tocentry idref="p135" label="CI. Au comte Robert de Montesquiou-Fezensac"/>
+      <tocentry idref="p136" label="CII. Gabriel de Yturry"/>
+      <tocentry idref="p137" label="CIII. A Aurél1en Scholl"/>
+      <tocentry idref="p138" label="CIV. A Léon Dierx"/>
+      <tocentry idref="p139" label="CV. A Mme J***"/>
+      <tocentry idref="p140" label="III. Ballade en faveur des dénommés décadents symbolistes"/>
+      <tocentry idref="p141" label="Ballade pour s’inciter à l’insouci"/>
+
+      <tocentry idref="table" label="Table"/>
+  </toc>
+
+  <cover src="images/couverture3.png" alt="Œuvres complètes de Paul Verlaine. Élégies — Dans les limbes — Dédicaces — Épigrammes — Chair — Invectives. Tome troisième. Deuxième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1901."/>
+
+<page-sequences>
+<page-sequence>
+<div id="p30">
+ <pagenum num="85"/>
+
+<h2>I</h2>
+
+<h2>BALLADE TOUCHANT UN POINT D’HISTOIRE</h2>
+
+<p class="r3"><i>A Anatole France.</i></p>
+
+<poem>
+
+<lg>
+<l>Assez qu’on — sinon plus qu’assez —</l>
+<l>Déplore avec désinvolture,</l>
+<l>Les uns mes « désordres » passés,</l>
+<l>Les autres ma Noce ! future ;</l>
+<l>Mais tous joignent cette torture</l>
+<l>A leurs racontars déplaisants</l>
+<l>De me vieillir plus que nature :</l>
+<l>Je n’ai que quarante-trois ans.</l>
+</lg>
+
+<lg>
+<l>J’ai mille vices, je le sais,</l>
+<l>Et connais leur nomenclature,</l>
+<l>Mais pas tous ceux qu’on a tracés.</l>
+<l>La pénible mésaventure !</l>
+ <pagenum num="86"/>
+<l>Va-t-il falloir que je l’endure ?</l>
+<l>Oui, non sans maints ennuis cuisants.</l>
+<l>Or voici le cas de rupture :</l>
+<l>Je n’ai que quarante-trois ans.</l>
+</lg>
+
+<lg>
+<l>J’aurai quelque jour un accès</l>
+<l>Contre cette littérature.</l>
+<l>Je jure alors, foi de Français !</l>
+<l>De courre et navrer l’imposture,</l>
+<l>Fût-ce au fond de l’Estramadure</l>
+<l>Ou vers le pôle aux froids jusants.</l>
+<l>Dilemme : « Surcharge ou rature ! »</l>
+<l>Je n’ai que quarante-trois ans.</l>
+</lg>
+
+<h2><s>ENVOI</s></h2>
+
+<lg>
+<l>Princes du pouf et de l’ordure,</l>
+<l>Sachez-l’, échotiers maldisants</l>
+<l>Que tente une poigne encor dure,</l>
+<l>Je n’ai que quarante-trois ans.</l>
+</lg>
+
+</poem>
+
+<p>Décembre 1887.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p31">
+ <pagenum num="87"/>
+
+<h2>II</h2>
+
+<h2>BALLADE EN VUE D’HONORER LES PARNASSIENS</h2>
+
+<p class="r3"><i>A Ernest Jaubert.</i></p>
+
+<poem>
+
+<lg>
+<l>Or on vivait en des temps fort affreux</l>
+<l>Où la réclame était mal en avance.</l>
+<l>Dans la bataille aux rimes plus d’un preux</l>
+<l>Tout juste eut pour l’attaque et la défense</l>
+<l>Quelque canard d’Artois ou de Provence ;</l>
+<l>Mais Phœbus vint qui reconnut les siens</l>
+<l>Et sut garder, vainqueurs, de toute offense</l>
+<l>Les chers, les bons, les braves Parnassiens.</l>
+</lg>
+
+<lg>
+<l>Bien que tenus un peu pour des lépreux,</l>
+<l>Ne touchant guère en fait de redevance</l>
+<l>Que tels petits écus des moins nombreux</l>
+<l>Et l’amour et l’eau claire pour chevance</l>
+ <pagenum num="88"/>
+<l>Unique avec la faim de connivence,</l>
+<l>Tous, aussi bien les neufs que les anciens,</l>
+<l>Ils marchaient droit dans la stricte observance,</l>
+<l>Les chers, les bons, les braves Parnassiens.</l>
+</lg>
+
+<lg>
+<l>C’étaient, après les Maîtres valeureux,</l>
+<l>Ces pages fiers : Mendès en son enfance</l>
+<l>Mais qui déjà portait des coups heureux,</l>
+<l>— Ah lui ! ne l’eût oncques la rime en <i>vance</i></l>
+<l>Gêné du tout, voir celle en <i>revance</i>, —</l>
+<l>Heredia, fleur des patriciens,</l>
+<l>Dierx, Cazals, que leur nom pur devance,</l>
+<l>Les chers, les bons, les braves Parnassiens.</l>
+</lg>
+
+<h2><s>ENVOI</s></h2>
+
+<lg>
+<l>Princes et rois « gardés de toute offense »,</l>
+<l>Ai-je dit, l’un de ces miliciens,</l>
+<l>Qu’à leurs santés boivent l’eau de Jouvence</l>
+<l>Les chers, les bons, les braves Parnassiens.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p32">
+ <pagenum num="89"/>
+
+<h2>I</h2>
+
+<h2>A JULES TELLIER</h2>
+
+<poem>
+
+<lg>
+<l>Quand je vous vois de face et penché sur un livre</l>
+<l>Vous m’avez l’air d’un loup qui serait un chrétien,</l>
+<l>Pardon, rectifiez : qui serait un païen,</l>
+<l>En tous cas d’un loup peu garou qui saurait vivre.</l>
+</lg>
+
+<lg>
+<l>Je vous vois de profil : un faune m’apparaît,</l>
+<l>Mais un faune select au complet sans reproche</l>
+<l>Avec, pour plus de chic, une main dans la poche</l>
+<l>Et promenant à pas distraits son vœu secret.</l>
+</lg>
+
+<lg>
+<l>Vu de dos, vous semblez un sage qui médite,</l>
+<l>A jamais affranchi des fureurs d’Aphrodite</l>
+<l>Et du soin de penser uniquement jaloux.</l>
+</lg>
+
+<lg>
+<l>Vu de loin, on vous veut de près à justes titres,</l>
+<l>Et, car la vie, hélas ! a de sombres chapitres,</l>
+<l>Quand je ne vous vois pas je me souviens de vous.</l>
+</lg>
+
+</poem>
+
+<p>1<sup>er</sup> janvier 1889.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p33">
+ <pagenum num="90"/>
+
+<h2>II</h2>
+
+<h2>AU MÊME</h2>
+
+<poem>
+
+<lg>
+<l>Ainsi je riais, fou, car la vie est folie !</l>
+<l>Mais je ne savais pas non plus que tu mourrais,</l>
+<l>Moi malade et mourant presque (on eût dit exprès,</l>
+<l>Sûr, mort, du cher tribut de la mélancolie)</l>
+</lg>
+
+<lg>
+<l>Car tu m’aimas de sorte à ce qu’on ne l’oublie,</l>
+<l>Esprit et cœur enthousiastes toujours prêts</l>
+<l>A se manifester en quelques nobles traits...</l>
+<l>— Et c’est moi qui sur toi dis la triste lalie !</l>
+</lg>
+
+<lg>
+<l>Hélas, hélas ! que tout soit ou semble discord</l>
+<l>En ce monde où qui donc a raison ou bien tort,</l>
+<l>A ce qu’ « assure » une dure philosophie !</l>
+</lg>
+
+<lg>
+<l>Mon ami, quelle soit la dispute ou la loi,</l>
+<l>Je reprends un de mes vers vrais à vous en vie :</l>
+<l>Quand je ne te vois plus je me souviens de toi.</l>
+</lg>
+
+</poem>
+
+<p>Juin 1889.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p34">
+ <pagenum num="91"/>
+
+<h2>III</h2>
+
+<h2>A FRANÇOIS COPPÉE</h2>
+
+<poem>
+
+<lg>
+<l>Les passages Choiseul aux odeurs de jadis,</l>
+<l>Oranges, parchemins rares, — et les gantières !</l>
+<l>Et nos « débuts », et nos verves primesautières,</l>
+<l>De ce Soixante-sept à ce Soixante-dix,</l>
+</lg>
+
+<lg>
+<l>Où sont-ils ? Mais où sont aussi les tout petits</l>
+<l>Événements et les catastrophes altières,</l>
+<l>Et le temps où Sarcey signait S. de Suttières,</l>
+<l>N’étant pas encore mort de la mort d’Athys !</l>
+</lg>
+
+<lg>
+<l>Or vous, mon cher Coppée, au sein du bon Lemerre</l>
+<l>Comme au sein d’Abraham les justes d’autrefois,</l>
+<l>Vous goûtez l’immortalité sur des pavois.</l>
+</lg>
+
+<lg>
+<l>Moi, ma gloire n’est qu’une humble absinthe éphémère</l>
+<l>Prise en catimini, crainte des trahisons,</l>
+<l>Et, si je n’en bois pas plus, c’est pour des raisons.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p35">
+ <pagenum num="92"/>
+
+<h2>IV</h2>
+
+<h2>J.-K. HUYSMANS</h2>
+
+<poem>
+
+<lg>
+<l>Sa douceur n’est pas excessive,</l>
+<l>Elle existe, mais il faut la voir,</l>
+<l>Et c’est une laveuse au lavoir</l>
+<l>Tapant ferme et dru sur la lessive.</l>
+</lg>
+
+<lg>
+<l>Il la veut blanche et qui sente bon</l>
+<l>Et je crois qu’à force il l’aura telle.</l>
+<l>Mais point ne s’agit de bagatelle</l>
+<l>Et la tâche n’est pas d’un capon.</l>
+</lg>
+
+<lg>
+<l>Et combien méritoire son cas</l>
+<l>De soigner ton linge et sa détresse,</l>
+<l>Humanité, crasses et cacas !</l>
+</lg>
+
+<lg>
+<l>Sans jamais d’insolite paresse,</l>
+<l>O douceur du plus fort des J.-K.,</l>
+<l>Tape ferme et dru, bonne bougresse !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p36">
+ <pagenum num="93"/>
+
+<h2>V</h2>
+
+<h2>A STÉPHANE MALLARMÉ</h2>
+
+<poem>
+
+<lg>
+<l>Des jeunes — c’est imprudent ! — </l>
+<l>Ont, dit-on, fait une liste</l>
+<l>Où vous passez symboliste.</l>
+<l>Symboliste ? Ce pendant</l>
+</lg>
+
+<lg>
+<l>Que d’autres, dans leur ardent</l>
+<l>Dégoût naïf ou fumiste</l>
+<l>Pour cette pauvre rime iste,</l>
+<l>M’ont bombardé décadent.</l>
+</lg>
+
+<lg>
+<l>Soit ! Chacun de nous, en somme,</l>
+<l>Se voit-il si bien nommé ?</l>
+<l>Point ne suis tant enflammé</l>
+</lg>
+
+<lg>
+<l>Que ça vers les n...ymphes, comme</l>
+<l>Vous n’êtes pas mal armé</l>
+<l>Plus que Sully n’est Prud’homme.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p37">
+ <pagenum num="94"/>
+
+<h2>VI</h2>
+
+<h2>A JEAN MORÉAS</h2>
+
+<poem>
+
+<lg>
+<l>C’est le beau Jean Moréas</l>
+<l>Qui fait dire à l’échotier</l>
+<l>Que l’art périclite, hélas !</l>
+<l>Aux mains d’un si tel routier.</l>
+</lg>
+
+<lg>
+<l>Routier de l’époque insigne,</l>
+<l>Violant des villanelles</l>
+<l>Comme aussi, blancheurs de cygne !</l>
+<l>Violant des péronnelles.</l>
+</lg>
+
+<lg>
+<l>Va-t’en, sonnet libertin,</l>
+<l>Fleurir de rimes gaillardes</l>
+<l>Ce chanteur et ce hutin,</l>
+</lg>
+
+<lg>
+<l>Migrateur emmi les bardes,</l>
+<l>Que suivent sur ses appels</l>
+<l>Tous les cœurs des archipels.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p38">
+ <pagenum num="95"/>
+
+<h2>VII</h2>
+
+<h2>A LAURENT TAILHADE</h2>
+
+<poem>
+
+<lg>
+<l>Le prêtre et sa chasuble énorme d’or jusques aux pieds</l>
+<l>Avec un long pan d’aube en guipures sur les degrés ;</l>
+<l>Le diacre et le sous-diacre aux dalmatiques chamarrées</l>
+<l>D’orerie et de perle à quelque Eldorado pillées ;</l>
+</lg>
+
+<lg>
+<l>Le Sang Réel par Qui toutes fautes sont expiées,</l>
+<l>Dans un calice clair comme des flammes mordorées ;</l>
+<l>L’autel tout fuselé sous six cierges démesurés,</l>
+<l>Et ces troublants <i>Agnus Dei</i> qu’on dirait pépiés ;</l>
+</lg>
+
+<lg>
+<l>Et ces enfants de chœur plus beaux que rien qui soit au monde</l>
+<l>Leurs soutanettes écarlates, leurs surplis jolis,</l>
+<l>Et les lourds encensoirs bercés de leurs mains appalies ;</l>
+</lg>
+
+<lg>
+<l>Cependant que, poète au front royal sur tout haut front.</l>
+<l>Laurent Tailhade, tels jadis Bivar, Sanche et Gomez,</l>
+<l>Érect, et beau chrétien, et beau cavalier, suit la messe.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p39">
+ <pagenum num="96"/>
+
+<h2>VIII</h2>
+
+<h2>A VILLIERS DE L’ISLE-ADAM</h2>
+
+<poem>
+
+<lg>
+<l>Tu nous fuis comme fuit le soleil sous la mer</l>
+<l>Derrière un rideau lourd de pourpres léthargiques,</l>
+<l>Las d’avoir splendi seul sur les ombres tragiques</l>
+<l>De la terre sans verbe et de l’aveugle éther.</l>
+</lg>
+
+<lg>
+<l>Tu pars, âme chrétienne on m’a dit résignée</l>
+<l>Parce que tu savais que ton Dieu préparait</l>
+<l>Une fête enfin claire à ton cœur sans secret,</l>
+<l>Une amour toute flamme à ton amour ignée.</l>
+</lg>
+
+<lg>
+<l>Nous restons pour encore un peu de temps ici,</l>
+<l>Conservant ta mémoire en notre espoir transi,</l>
+<l>Tels les mourants savourent l’huile du Saint-Chrême.</l>
+</lg>
+
+<lg>
+<l>Villiers, sois envié comme il aurait fallu</l>
+<l>Par tes frères impatients du jour suprême</l>
+<l>Où saluer en toi la gloire d’un élu.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p40">
+ <pagenum num="97"/>
+
+<h2>IX</h2>
+
+<h2>LÉON BLOY</h2>
+
+<poem>
+
+<lg>
+<l>Le Dogme certes, et la Loi,</l>
+<l>Mais Charité qui ne commence</l>
+<l>Ni ne finit, énorme, immense,</l>
+<l>Telle est la foi de Léon Bloy.</l>
+</lg>
+
+<lg>
+<l>Un Abel mais un saint Éloi :</l>
+<l>Enclume et marteau sans clémence,</l>
+<l>La raison jusqu’à la démence,</l>
+<l>Telle est la foi de Léon Bloy.</l>
+</lg>
+
+<lg>
+<l>Une tête féroce et douce,</l>
+<l>Très extraordinairement</l>
+<l>Un peu va comme je te pousse ;</l>
+</lg>
+
+<lg>
+<l>Un génie horrible et charmant,</l>
+<l>Et tout l’être et tout le paraître</l>
+<l>D’un mauvais moine et d’un bon prêtre.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p41">
+ <pagenum num="98"/>
+
+<h2>X</h2>
+
+<h2>A RAOUL PONCHON</h2>
+
+<poem>
+
+<lg>
+<l>Vous aviez des cheveux terriblement ;</l>
+<l>Moi je ramenais désespérément ;</l>
+<l>Quinze ans se sont passés, nous sommes chauves</l>
+<l>Avec, à tous crins, des barbes de fauves.</l>
+</lg>
+
+<lg>
+<l>La Barbe est une erreur de ces temps-ci</l>
+<l>Que nous voulons bien partager aussi ;</l>
+<l>Mais l’idéal serait des coups de sabres</l>
+<l>Ou même de rasoirs nous faisant glabres.</l>
+</lg>
+
+<lg>
+<l>Voyez de Banville, et voyez Lecon-</l>
+<l>Te de Lisle, et tôt pratiquons leur con-</l>
+<l>Duite et soyons, tels ces deux preux, nature.</l>
+</lg>
+
+<lg>
+<l>Et quand dans Paris, tels que ces deux preux,</l>
+<l>Nous irons, fleurant de littérature,</l>
+<l>Le peuple, ébloui, nous prendra pour eux.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p42">
+ <pagenum num="99"/>
+
+<h2>XI</h2>
+
+<h2>A F. CAZALS</h2>
+
+<poem>
+
+<lg>
+<l>Adonis expirant sur des fleurs n’est pas lui.</l>
+<l>Narcisse en fleur changé non plus, non plus Arbate</l>
+<l>Triste de ne rimer qu’à peine à Mithridate,</l>
+<l>Et non plus rien qui nous rappellerait l’ennui.</l>
+</lg>
+
+<lg>
+<l>Au contraire, les chagrins qui nous auraient nui,</l>
+<l>Littéral Arlequin, il les bat de sa batte</l>
+<l>Comme un Pierrot, et ça n’a rien qui nous épate,</l>
+<l>Attendu que le rire en ses yeux bruns a lui.</l>
+</lg>
+
+<lg>
+<l>Décoratif à sa façon — sinon la bonne,</l>
+<l>C’est la meilleure, — il n’a le cachet de personne</l>
+<l>Ni personne le sien, ô réciprocité !</l>
+</lg>
+
+<lg>
+<l>Le roi des bons enfants et la pire des gales,</l>
+<l>Car que de vices, las ! aux noirceurs sans égales :</l>
+<l>Jeunesse, esprit, gaîté, bonté, simplicité !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p43">
+ <pagenum num="100"/>
+
+<h2>XII</h2>
+
+<h2>A GERMAIN NOUVEAU</h2>
+
+<poem>
+
+<lg>
+<l>Ce fut à Londres, ville où l’Anglaise domine,</l>
+<l>Que nous nous sommes vus pour la première fois,</l>
+<l>Et, dans King’s Cross mêlant ferrailles, pas et voix,</l>
+<l>Reconnus dès l’abord sur notre bonne mine.</l>
+</lg>
+
+<lg>
+<l>Puis, la soif nous creusant à fond comme une mine,</l>
+<l>De nous précipiter, dès libres des convois,</l>
+<l>Vers des bars attractifs comme les vieilles fois,</l>
+<l>Où de longues misses plus blanches que l’hermine</l>
+</lg>
+
+<lg>
+<l>Font couler l’ale et le bitter dans l’étain clair</l>
+<l>Et le cristal chanteur et léger comme l’air,</l>
+<l>— Et de boire sans soif à l’amitié future !</l>
+</lg>
+
+<lg>
+<l>Notre toast a tenu sa promesse. Voici</l>
+<l>Que, vieillis quelque peu depuis cette aventure,</l>
+<l>Nous n’avons ni le cœur ni le coude transi.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p44">
+ <pagenum num="101"/>
+
+<h2>XIII</h2>
+
+<h2>MAURICE BOUCHOR</h2>
+
+<poem>
+
+<lg>
+<l>Il s’appelle Maurice ainsi que ce soldat.</l>
+<l>Et se nomme Bouchor comme saint Bouche d’or.</l>
+<l>Soldat du rire franc, saint, sinon point encor,</l>
+<l>Du moins religieux d’esprit sinon d’état.</l>
+</lg>
+
+<lg>
+<l>Chaque effort de son œuvre acclame bien sa date</l>
+<l>Et, sous ses deux patrons, ce qu’en outre elle arbore</l>
+<l>C’est bien la bonne foi sortant par chaque pore</l>
+<l>Et l’amour du métier que chaque heure constate.</l>
+</lg>
+
+<lg>
+<l>Jeunesse folle bien, extravagante au point :</l>
+<l>Tel un page sa dame au cœur, sa dague au poing,</l>
+<l>Bondissant, comme hennissant, s’il meurt, tant pis !</l>
+</lg>
+
+<lg>
+<l>Age d’homme pensif et profond dont témoigne</l>
+<l>On dirait, l’on dirait, sonnée à pleine poigne,</l>
+<l>La tour changée en nourrice de Saint-Sulpice.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p45">
+ <pagenum num="102"/>
+
+<h2>XIV</h2>
+
+<h2>HENRY D’ARGIS</h2>
+
+<poem>
+
+<lg>
+<l>Érudit, graphologue est presque nécromant,</l>
+<l>Pourtant il est aimable et si mal redoutable</l>
+<l>Qu’il fait belle et digne figure au bal, à table,</l>
+<l>Au jeu, partout, à ce qu’on dit, et l’on ne ment.</l>
+</lg>
+
+<lg>
+<l>Ce sage aime la Femme, et qui croit qu’il a tort ?</l>
+<l>Pour lui plaire, ou plutôt pour se plaire à soi-même,</l>
+<l>Si j’en crois mes auteurs, il prend un soin suprême</l>
+<l>D’être élégant sans rien qui se sente un seul effort.</l>
+</lg>
+
+<lg>
+<l>Agile, souple, interrogant, c’est un vainqueur.</l>
+<l>Son cœur a de l’esprit comme quatre, et sa tête</l>
+<l>Est bonne comme un cœur, bien que tête d’esthète,</l>
+</lg>
+
+<lg>
+<l>Et que son cœur soit bête ainsi que tout bon cœur.</l>
+<l>Ermite à deux, parmi chienne et chien chat et chatte,</l>
+<l>Il vit, l’été comme l’hiver, à la Grand’Jatte.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p46">
+ <pagenum num="103"/>
+
+<h2>XV</h2>
+
+<h2>A ERNEST RAYNAUD</h2>
+
+<poem>
+
+<lg>
+<l>Nous sommes tous les deux des moitiés d’Ardennais,</l>
+<l>Moi plus foncé que vous, — dirai-je plus sauvage ?</l>
+<l>Procédant des Forêts quand vous de ce Vallage</l>
+<l>Doux et frisque qu’aussi bien que je vous connais.</l>
+</lg>
+
+<lg>
+<l>Il y a peu de temps qu’encor j’y promenais,</l>
+<l>Vous le savez, mon goût de son clair paysage,</l>
+<l>Poussant les choses jusqu’à nous mettre en ménage,</l>
+<l>Mon rêve et moi, là-bas, paysans désormais.</l>
+</lg>
+
+<lg>
+<l>Faut croire que là-bas j’offensai quelque fée,</l>
+<l>Car m’en voilà parti plus tôt que de saison</l>
+<l>Après avoir vendu mon clos et ma maison.</l>
+</lg>
+
+<lg>
+<l>Aussi combien en vous j’adore, retrouvée</l>
+<l>Parmi ces gens que nos airs francs font ébahis,</l>
+<l>La bonne humanité de ce brave pays.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p47">
+ <pagenum num="104"/>
+
+<h2>XVI</h2>
+
+<h2>RAYMOND DE LA TAILHÈDE</h2>
+
+<poem>
+
+<lg>
+<l>Un jour que la nature avait fait de bons rêves,</l>
+<l>Elle vit s’éveiller Raymond de la Tailhède</l>
+<l>Aux bords où, pour charmer l’ennui des heures brèves,</l>
+<l>Le joyeux troubadour procède de l’aède.</l>
+</lg>
+
+<lg>
+<l>Pâle implacablement avec des fois la rose,</l>
+<l>Sur la joue et le front, de vingt ans pas encore,</l>
+<l>Et, séduisante aussi par-dessus toute chose,</l>
+<l>Cette vivacité, mercure, éther, phosphore !</l>
+</lg>
+
+<lg>
+<l>Petit, ainsi qu’il sied à ces futurs grands hommes,</l>
+<l>Mais si haut de mépris pour le siècle où nous sommes</l>
+<l>Qu’il évoque Eliogabale, qu’il l’assume</l>
+</lg>
+
+<lg>
+<l>Et qu’il l’incarne, en haine de l’heure mauvaise,</l>
+<l>Absolument indifférent à la coutume.</l>
+<l>D’ailleurs correct et gentleman à la française.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p48">
+ <pagenum num="105"/>
+
+<h2>XVII</h2>
+
+<h2>A ARMAND SILVESTRE</h2>
+
+<poem>
+
+<lg>
+<l>La grande Sand porta sur les fonds baptismaux</l>
+<l>Votre muse robuste et saine et, bonne fée,</l>
+<l>Vous prédit le génie et l’œuvre d’un Orphée</l>
+<l>Charmant l’homme et la femme et jusqu’aux animaux,</l>
+</lg>
+
+<lg>
+<l>Jusqu’au serpent, jusqu’à l’oiseau sur les rameaux.</l>
+<l>Et vous, pour faire bien la parole prouvée,</l>
+<l>Vous avez remporté ce double cher trophée :</l>
+<l>Belle ampleur de l’idée en l’alme ampleur des mots.</l>
+</lg>
+
+<lg>
+<l>Vos livres sont un don même de la nature,</l>
+<l>Tant il fait bon les lire et les relire, ainsi</l>
+<l>Qu’on respire et respire une atmosphère pure.</l>
+</lg>
+
+<lg>
+<l>Vos livres ! où l’amour qu’il faut, jamais transi,</l>
+<l>Toujours sincère, éclate en vives splendeurs franches,</l>
+<l>Puis où le mâle au fond qu’on est prend ses revanches.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p49">
+ <pagenum num="106"/>
+
+<h2>XVIII</h2>
+
+<h2>FERNAND L’ANGLOIS</h2>
+
+<poem>
+
+<lg>
+<l>Haut comme le soleil, pâle comme la lune,</l>
+<l>Comme dit vaguement le proverbe espagnol,</l>
+<l>Il a presque la voix tendre du rossignol,</l>
+<l>Tant son cœur fut clément à ma triste fortune.</l>
+</lg>
+
+<lg>
+<l>Je l’écoute toujours, cette voix opportune</l>
+<l>Qui me parlait naguère, est-ce en ut, est-ce en sol ?</l>
+<l>Et qui sut relever, furieux sur le sol,</l>
+<l>Mon cœur, cœur sauvage et fou de roi de Thune !</l>
+</lg>
+
+<lg>
+<l>Mais rions ! car mon livre est un livre amusant,</l>
+<l>Et dès lors que ce souvenir doux et cuisant</l>
+<l>D’un suicide prévenu de mains pieuses</l>
+</lg>
+
+<lg>
+<l>Me remonte ce soir, peut-être pire encor</l>
+<l>Dans un absurde et vraiment sinistre décor,</l>
+<l>Paix-là, pour ces mains-là, mes mains calamiteuses !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p50">
+
+ <pagenum num="107"/>
+ 
+<h2>XIX</h2>
+
+<h2>A IRÉNÉE DECROIX</h2>
+
+<poem>
+
+<lg>
+<l>Où sont les nuits de grands chemins aux chants bachiques</l>
+<l>Dans les Nords noirs et dans les verts Pas-de-Calais,</l>
+<l>Et les canaux périculeux vers les Belgiques</l>
+<l>Où, gris, on chavirait en hurlant des couplets ?</l>
+</lg>
+
+<lg>
+<l>Car on riait dans ces temps-là. Tuiles et briques</l>
+<l>Poudroyaient par la plaine en hameaux assez laids ;</l>
+<l>Les fourbouyères, leurs pipes et leurs bourriques</l>
+<l>Dévalaient sur Arras, la ville aux toits follets</l>
+</lg>
+
+<lg>
+<l>Poignardant, espagnols, ces ciels épais de Flandre ;</l>
+<l>Douai brandissait de son côté, pour s’en défendre,</l>
+<l>Son lourd beffroi carré, si léger cependant ;</l>
+</lg>
+
+<lg>
+<l>Lille et sa bière et ses moulins à vent sans nombre</l>
+<l>Bruissaient. — Oui, qui nous rendra, cher ami, l’ombre</l>
+<l>Des bonnes nuits, et les beaux jours au rire ardent ?</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p51">
+ <pagenum num="108"/>
+
+<h2>XX</h2>
+
+<h2>A GEORGE BONNAMOUR</h2>
+
+<poem>
+
+<lg>
+<l>J’étais malade de regrets, de quels regrets !</l>
+<l>Toute ma bonne foi pleurait d’une méprise.</l>
+<l>Mon corps qui fut naguère fort, si faible après</l>
+<l>Agonisait presque, comme un tigre agonise.</l>
+</lg>
+
+<lg>
+<l>Ma face dure aux poils fauves de barbe grise</l>
+<l>Suait froid, mes yeux clos se rejoignaient trop près,</l>
+<l>D’affreux hoquets me secouaient sous ma chemise</l>
+<l>Et mes membres s’alignaient, à la mort tout prêts.</l>
+</lg>
+
+<lg>
+<l>Puis il fallut manger et boire. Comment faire ?</l>
+<l>Mais vous vous trouviez là qui me tendiez mon verre</l>
+<l>Et découpiez ma chère et me teniez le front.</l>
+</lg>
+
+<lg>
+<l>Et, tout en écoutant, pieux, ma juste plainte,</l>
+<l>La consolant parfois d’un mot franc dit sans crainte,</l>
+<l>Berciez l’enfant qu’est moi des beaux jours qui seront.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p52">
+ <pagenum num="109"/>
+
+<h2>XXI</h2>
+
+<h2>A PATERNE BERRICHON</h2>
+
+<poem>
+
+<lg>
+<l>Tous deux avons ce travers</l>
+<l>De raffoler des bons vers</l>
+<l>Et d’aimer notre repos.</l>
+</lg>
+
+<lg>
+<l>Aussi tout, jusqu’aux hasards,</l>
+<l>Punit sur nos tristes peaux</l>
+<l>Ces principes de lézards.</l>
+</lg>
+
+<lg>
+<l>Alors parfois nos rancunes,</l>
+<l>Ne connaissant plus d’obstacles,</l>
+<l>Œuvrent sans mercis aucunes,</l>
+<l>Toutes sortes de miracles ;</l>
+</lg>
+
+<lg>
+<l>Si que le pante morose</l>
+<l>S’indigne que, mal civile,</l>
+<l>La muse métamorphose</l>
+<l>Le lézard en crocodile.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p53">
+ <pagenum num="110"/>
+
+<h2>XXII</h2>
+
+<h2>A GABRIEL ÉCHAUPRE</h2>
+
+<poem>
+
+<lg>
+<l>Votre grand-père des temps chauds, l’honnête Pache,</l>
+<l>Fut un républicain sérieux, simple et franc.</l>
+<l>Il méprisa l’argent, abomina le sang</l>
+<l>Et mourut vénéré, pur de la moindre tache.</l>
+</lg>
+
+<lg>
+<l>Nous sommes en des jours autres où l’on s’attache</l>
+<l>Au positif ainsi qu’un abcès sur un flanc,</l>
+<l>Où le bleu comme le rouge et comme le blanc,</l>
+<l>Tous tirent tes pis, notre France, bonne vache ?</l>
+</lg>
+
+<lg>
+<l>Hélas ! France, Patrie, ô vivre et voir cela !</l>
+<l>Mais votre cœur loyal bientôt se rebella</l>
+<l>Contre la manigance actuelle, un mystère</l>
+</lg>
+
+<lg>
+<l>De sottise méchante, et fier, se donna tout</l>
+<l>Aux Lettres, comprimant son civique dégoût ;</l>
+<l>Et vous mourrez très bien, comme votre grand-père.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p54">
+ <pagenum num="111"/>
+
+<h2>XXIII</h2>
+
+<h2>AU DOCTEUR GUILLAND</h2>
+
+<poem>
+
+<lg>
+<l>Dans ce mien voyage de cure,</l>
+<l>En dépit de Joanne et de Chaix</l>
+<l>Je n’ai rien vu d’Aix-les-Bains qu’Aix</l>
+<l>Pur, nature, sans fioriture.</l>
+</lg>
+
+<lg>
+<l>Lent, grave figure d’augure,</l>
+<l>J’allais comparable à tel ex-</l>
+<l>Boyard qu’entortille un vortex</l>
+<l>De mainte et mainte couverture.</l>
+</lg>
+
+<lg>
+<l>La douche, le lit, trois repas,</l>
+<l>Furent le régime sévère</l>
+<l>Que nous suivîmes pas à pas,</l>
+</lg>
+
+<lg>
+<l>L’arthrite et moi dans cette affaire,</l>
+<l>Pour, cher Docteur, hâter, normal</l>
+<l>Mon rétablissement thermal.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p55">
+ <pagenum num="112"/>
+
+<h2>XXIV</h2>
+
+<h2>A LOUIS ET JEAN JULLIEN</h2>
+
+<poem>
+
+<lg>
+<l>Savantissimo Doctori</l>
+<l>Bonissimoque Scriptori,</l>
+<l>Au frère et puis encore au frère</l>
+</lg>
+
+<lg>
+<l>Ce sont les jambes en l’air</l>
+<l>Qui commence à chanter son air</l>
+<l>En pur latin de feu Molière !</l>
+</lg>
+
+<lg>
+<l>Ce sonnet pour dire à tous deux</l>
+<l>Sur un ton badin mais sincère</l>
+<l>Que je les aime bien et serre</l>
+<l>Leurs loyales mains à tous deux.</l>
+</lg>
+
+<lg>
+<l>Louis, malgré le sort contraire,</l>
+<l>Salut à vous qui guérissez,</l>
+<l>A vous aussi qui punissez</l>
+<l>L’ordre bourgeois, Jean, mon confrère.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p56">
+ <pagenum num="113"/>
+
+<h2>XXV</h2>
+
+<h2>A ÉMILE LE BRUN</h2>
+
+<poem>
+
+<lg>
+<l>Dans le gâchis de l’an dernier</l>
+<l>Nous fûmes, — osons le nier —</l>
+<l>Vous, parlementaire, qu’atroce !</l>
+<l>Moi, boulangiste, ô si féroce !</l>
+</lg>
+
+<lg>
+<l>Or, ne pouvant rouler carrosse,</l>
+<l>L’un et l’autre enfourchant sa rosse,</l>
+<l>Inutile de le nier,</l>
+<l>Chacun arriva bon dernier.</l>
+</lg>
+
+<lg>
+<l>Mais qu’importe la politique,</l>
+<l>Puisque ferme et même pratique,</l>
+<l>L’affection chassa l’assaut ?</l>
+</lg>
+
+<lg>
+<l>Malgré ces « convictions » denses.</l>
+<l>Ami des fortes confidences ;</l>
+<l>Vous en vouloir, moi ? Quel sot !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p57">
+ <pagenum num="114"/>
+
+<h2>XXVI</h2>
+
+<h2>A HENRI MERCIER</h2>
+
+<poem>
+
+<lg>
+<l>Il nous sied de remercier</l>
+<l>Sur tous les tons de tous les modes</l>
+<l>Ballades, sonnets, stances, odes,</l>
+<l>Le sage, le juste Mercier.</l>
+</lg>
+
+<lg>
+<l>Car quelle guerre à l’Epicier</l>
+<l>Qui trouve ses us incommodes,</l>
+<l>Et les truculentes méthodes,</l>
+<l>En l’honneur de quels besaciers ?</l>
+</lg>
+
+<lg>
+<l>Puis il va, doux Porthos physique</l>
+<l>Et subtil Aramis moral,</l>
+<l>De la peinture à la musique,</l>
+</lg>
+
+<lg>
+<l>Noctambule mais auroral,</l>
+<l>Prince des vers et de la prose</l>
+<l>Et bath ami sur toute chose.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p58">
+ <pagenum num="115"/>
+
+<h2>XXVII</h2>
+
+<h2>A ADRIEN REMACLE.</h2>
+
+<poem>
+
+<lg>
+<l>Votre femme chantait délicieusement</l>
+<l>De très anciens vers miens par vous mis en musique</l>
+<l>— Vers sans grande portée idéale ou physique,</l>
+<l>Mais que la voix était exquise et l’air charmant !</l>
+</lg>
+
+<lg>
+<l>Si bien que j’entrais dans un grand étonnement,</l>
+<l>Moi le lassé qui rêve d’être un ironique,</l>
+<l>D’ainsi revivre sensuel et platonique.</l>
+<l>Quoi, sensuel ? Vraiment ? Platonique ? Comment ?</l>
+</lg>
+
+<lg>
+<l>Ah ! quand jeune j’étais ainsi ! Tiens tiens. Possible.</l>
+<l>Après tout. Oui, rêvasseur et mauvais sujet.</l>
+<l>Ma tête alors désirait et ma chair songeait.</l>
+</lg>
+
+<lg>
+<l>Mais j’admire, moi le blasé (mais l’impassible,</l>
+<l>Non !) j’admire combien la sympathie et l’art</l>
+<l>Evoquèrent l’enfant — presque au quasi-vieillard.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p59">
+ <pagenum num="116"/>
+
+<h2>XXVIII</h2>
+
+<h2>A ARMAND SINVAL</h2>
+
+<poem>
+
+<lg>
+<l>Habitant de ces chers confins de la Bastille,</l>
+<l>Où je fus trop heureux et puis trop malheureux,</l>
+<l>Battant monnaie ici, là faisant buisson creux</l>
+<l>Et passant (c’est le mot) de l’Amer à la Fille,</l>
+</lg>
+
+<lg>
+<l>— Tous accrocs et raccrocs dont mon dossier fourmille ! —</l>
+<l>Ami dans ces quartiers, moi qui bercé par eux,</l>
+<l>Berné par eux d’amours bizarres et d’affreux</l>
+<l>Guignons, leur garde comme un regret de famille,</l>
+</lg>
+
+<lg>
+<l>Je vous prie instamment, du fond de ce Broussais,</l>
+<l>Un hôpital sis à Plaisance où le poète</l>
+<l>Vit, caressé par l’ombre du drapeau français,</l>
+</lg>
+
+<lg>
+<l>De porter mon bonjour et mon baiser de fête</l>
+<l>A ce mien passé d’or vanné représenté</l>
+<l>Par un Génie en l’air, misère et liberté !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p60">
+<pagenum num="117"/>
+
+<h2>XXIX</h2>
+
+<h2>A CHARLES DE SIVRY</h2>
+
+<poem>
+
+<lg>
+<l>Artiste, toi, jusqu’au fantastique,</l>
+<l>Poète, moi, jusqu’à la bêtise,</l>
+<l>Nous voilà, la barbe à moitié grise,</l>
+<l>Moi fou de vers et toi de musique.</l>
+</lg>
+
+<lg>
+<l>Nous voilà, non sans quelques travaux,</l>
+<l>Riches, moi de l’eau de l’Hippocrène,</l>
+<l>Quand toi des chansons de la Sirène,</l>
+<l>Mûrs pour la gloire et ses échafauds.</l>
+</lg>
+
+<lg>
+<l>Bah ! nous aurons eu notre plaisir</l>
+<l>Qui n’est pas celui de tout le monde</l>
+<l>Et le loisir de notre désir.</l>
+</lg>
+
+<lg>
+<l>Aussi bénissons la paix profonde</l>
+<l>Qu’à défaut d’un trésor moins subtil</l>
+<l>Nous donnèrent ces ainsi soit-il.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p61">
+ <pagenum num="118"/>
+
+<h2>XXX</h2>
+
+<h2>A CHARLES VESSERON</h2>
+
+<poem>
+
+<lg>
+<l>Dans nos savoureuses Ardennes</l>
+<l>Où je fis le mal et le bien,</l>
+<l>Ici, mortifié, chrétien,</l>
+<l>Là, perpétrant quelles fredaines !</l>
+</lg>
+
+<lg>
+<l>J’ai, par le cours aventureux</l>
+<l>De mes mérites... et du reste,</l>
+<l>Coulé, d’un flot léger et leste,</l>
+<l>Quelques jours tout de même heureux.</l>
+</lg>
+
+<lg>
+<l>Je tais ma paix chaste et profonde</l>
+<l>Et je jette un voile séant</l>
+<l>Sur mes horreurs de mécréant.</l>
+</lg>
+
+<lg>
+<l>Mais notre amitié toute ronde.</l>
+<l>Vaut un los sur un rythme net,</l>
+<l>Et j’<i>express</i> exprès ce sonnet.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p62">
+ <pagenum num="119"/>
+
+<h2>XXXI</h2>
+
+<h2>A GABRIEL VICAIRE</h2>
+
+<poem>
+
+<lg>
+<l>Vous êtes un mystique et j’en suis un aussi :</l>
+<l>Mais vous léger, charmant, on dirait du Shakespeare,</l>
+<l>Moi pas mal sombre, un Dante imperceptible et pire</l>
+<l>Avec un reste, au fond, de pêcheur mal transi.</l>
+</lg>
+
+<lg>
+<l>Je suis un sensuel, vous en êtes un autre :</l>
+<l>Mais vous gentil, rieur, un Gaulois et demi,</l>
+<l>Moi l’ombre du marquis de Sade, et ce, parmi</l>
+<l>Parfois des airs naïfs et faux de bon apôtre,</l>
+</lg>
+
+<lg>
+<l>Plaignez-moi, car je suis mauvais et non méchant,</l>
+<l>Puis, tel vous, j’aime la danse et j’aime le chant,</l>
+<l>Toutes raisons pour ne plus m’en vouloir qu’à peine.</l>
+</lg>
+
+<lg>
+<l>Et puis j’aime ! Tout court ! En masse, en général.</l>
+<l>Depuis la fille amère au souris sépulcral</l>
+<l>Jusqu’à Dieu tout-puissant dont la droite nous mène !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p63">
+ <pagenum num="120"/>
+
+<h2>XXXII</h2>
+
+<h2>A ÉMILE BLÉMONT</h2>
+
+<poem>
+
+<lg>
+<l>La vindicte bourgeoise assassinait mon nom</l>
+<l>Chinoisement, à coups d’épingle, quelle affaire</l>
+<l>Et la tempête allait plus âpre dans mon verre.</l>
+<l>D’ailleurs du <i>seul</i> grief, Dieu bravé, pas un non,</l>
+</lg>
+
+<lg>
+<l>Pas un oui, pas un mot ! L’Opinion sévère</l>
+<l>Mais juste s’en moquait autant qu’une guenon</l>
+<l>De noix vides. Ce bœuf bavant sur son fanon,</l>
+<l>Le Public, mâchonnait ma gloire... encore à faire.</l>
+</lg>
+
+<lg>
+<l>L’heure était tentatrice et plusieurs d’entre ceux</l>
+<l>Qui m’aimaient en dépit de Prud’homme complice,</l>
+<l>Tournèrent carrément, furent de mon supplice.</l>
+</lg>
+
+<lg>
+<l>Ou se turent, la peur les trouvant paresseux,</l>
+<l>Mais vous du premier jour vous fûtes simple, brave,</l>
+<l>F<s>IDÈLE</s> ; et dans un cœur bien fait cela se grave.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p64">
+ <pagenum num="121"/>
+
+<h2>XXVIII</h2>
+
+<h2>A EMMANUEL CHABRIER</h2>
+
+<poem>
+
+<lg>
+<l>Chabrier, nous faisions, un ami cher et moi,</l>
+<l>Des paroles pour vous qui leur donniez des ailes,</l>
+<l>Et tous trois frémissions quand pour bénir nos zèles,</l>
+<l>Passait l’Ecce deus et le Je ne sais quoi.</l>
+</lg>
+
+<lg>
+<l>Chez ma mère, charmante et divinement bonne,</l>
+<l>Votre génie improvisait au piano,</l>
+<l>Et c’était tout autour comme un brûlant anneau</l>
+<l>De sympathie et d’aise aimable qui rayonne.</l>
+</lg>
+
+<lg>
+<l>Hélas ! ma mère est morte et l’ami cher est mort,</l>
+<l>Et me voici semblable au chrétien près du port.</l>
+<l>Qui surveille les tout derniers écueils du monde,</l>
+</lg>
+
+<lg>
+<l>Non toutefois sans saluer à l’horizon</l>
+<l>Comme une voile sur le large au blanc frisson,</l>
+<l>Le souvenir des frais instants de paix profonde.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p65">
+ <pagenum num="122"/>
+
+<h2>XXXIV</h2>
+
+<h2>A ERNEST DELAHAYE</h2>
+
+<poem>
+
+<lg>
+<l>Dieu, nous voulant amis parfaits, nous fit tous deux</l>
+<l>Gais de cette gaîté qui rit pour elle-même,</l>
+<l>De ce rire absolu, colossal et suprême</l>
+<l>Qui s’esclaffe de tous et ne blesse aucun d’eux.</l>
+</lg>
+
+<lg>
+<l>Tous deux nous ignorons l’égoïsme hideux</l>
+<l>Qui nargue ce prochain même qu’il faut qu’on aime</l>
+<l>Comme soi-même : tels les termes du problème,</l>
+<l>Telle la loi totale au texte non douteux :</l>
+</lg>
+
+<lg>
+<l>Et notre rire étant celui de l’innocence,</l>
+<l>Il éclate et rugit dans la toute-puissance</l>
+<l>D’un bon orage plein de lumière et d’air frais.</l>
+</lg>
+
+<lg>
+<l>Pour le soin du Salut, qui me pique et m’inspire.</l>
+<l>J’estime que, parmi nos façons d’être prêts,</l>
+<l>Il nous faut mettre au rang des meilleures ce rire.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p66">
+ <pagenum num="123"/>
+
+<h2>XXXV</h2>
+
+<h2>A MAURICE DU PLESSYS</h2>
+
+<poem>
+
+<lg>
+<l>Je vous prends à témoin entre tous mes amis,</l>
+<l>Vous qui m’avez connu dès l’extrême infortune,</l>
+<l>Que je fus digne d’elle, à Dieu seul tout soumis,</l>
+<l>Sans criard désespoir ni jactance importune,</l>
+</lg>
+
+<lg>
+<l>Simple dans mon mépris pour des revanches viles</l>
+<l>Et dans l’immense effort en détournant leurs coups,</l>
+<l>Calme à travers ces sortes de guerres civiles</l>
+<l>Où la Faim et l’Honneur eurent leurs torts jaloux,</l>
+</lg>
+
+<lg>
+<l>Et, n’est-ce pas, bon juge, et fier ! mon du Plessys,</l>
+<l>Qu’en l’amer combat que la gloire revendique,</l>
+<l>L’Honneur a triomphé de sorte magnifique ?</l>
+</lg>
+
+<lg>
+<l>Aimez-moi donc, aimez, quels que soient les soucis</l>
+<l>Plissant parfois mon front et crispant mon sourire,</l>
+<l>Ma haute pauvreté plus chère qu’un empire.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p67">
+ <pagenum num="124"/>
+
+<h2>XXXVI</h2>
+
+<h2>CHARLES MORICE</h2>
+
+<poem>
+
+<lg>
+<l>Impérial, royal, sacerdotal, comme une</l>
+<l>République Française en ce Quatre-vingt-Treize</l>
+<l>Brûlant empereur, roi, prêtre, dans sa fournaise,</l>
+<l>Avec la danse autour, de la grande Commune</l>
+</lg>
+
+<lg>
+<l>L’étudiant et sa guitare et sa fortune</l>
+<l>A travers les décors d’une Espagne mauvaise</l>
+<l>Mais blanche de pieds nains et noire d’yeux de braise,</l>
+<l>Héroïque au soleil et folle sous la lune ;</l>
+</lg>
+
+<lg>
+<l>Néoptolème, âme charmante et chaste tête,</l>
+<l>Dont je serais en même temps le Philoctète</l>
+<l>Au cœur ulcéré plus encor que sa blessure,</l>
+</lg>
+
+<lg>
+<l>Et, pour un conseil froid et bon parfois, l’Ulysse ;</l>
+<l>Artiste pur, poète où la gloire s’assure ;</l>
+<l>Cher aux femmes, cher aux Lettres, Charles Morice !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p68">
+ <pagenum num="125"/>
+
+<h2>XXXVII</h2>
+
+<h2>A EDMOND THOMAS</h2>
+
+<poem>
+
+<lg>
+<l>Mon ami, vous m’avez, quoique encore si jeune,</l>
+<l>Vu déjà bien divers, mais ondoyant jamais,</l>
+<l>Direct et bref, oui : tels les Juins suivent les Mais,</l>
+<l>Ou comme un affamé de la veille déjeune.</l>
+</lg>
+
+<lg>
+<l>Homme de primesaut et d’excès, je le suis,</l>
+<l>D’aventure et d’erreur, allons, je le concède,</l>
+<l>Soit, bien ; mais illogique ou mol ou lâche ou tiède</l>
+<l>En quoi que ce soit, le dire je ne le puis,</l>
+</lg>
+
+<lg>
+<l>Je ne le dois ! Et ce serait le plus impie</l>
+<l>Péché contre le Saint-Esprit, que rien n’expie,</l>
+<l>Pour ma foi que l’amour éclaire de son feu,</l>
+</lg>
+
+<lg>
+<l>Et pour mon cœur d’or pur le mensonge suprême,</l>
+<l>Puisqu’il n’est de justice, après l’Église et Dieu,</l>
+<l>Que celle qu’on se fait, à confesse, à soi-même.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p69">
+ <pagenum num="126"/>
+
+<h2>XXXVIII</h2>
+
+<h2>A MES AMIS DE LA-BAS</h2>
+
+<poem>
+
+<lg>
+<l>Gens de la paisible Hollande</l>
+<l>Qu’un instant ma voix vint troubler</l>
+<l>Sans trop, j’espère, d’ire grande</l>
+</lg>
+
+<lg>
+<l>De votre part, voulant parler</l>
+<l>A vos esprits que la nature</l>
+<l>Fit calmes pour mieux y mêler</l>
+</lg>
+
+<lg>
+<l>L’enthousiasme et la foi pure</l>
+<l>Et l’idéal fou de réel</l>
+<l>Et la raison et l’aventure</l>
+</lg>
+
+<lg>
+<l>De sorte équitable, — ô le ciel</l>
+<l>Non plus brumeux, mais de par l’ombre</l>
+<l>Même, et l’éclat essentiel,</l>
+</lg>
+
+ <pagenum num="127"/>
+
+<lg>
+<l>O le ciel aux teintes sans nombre</l>
+<l>Qu’opalisent l’ombre et l’éclat</l>
+<l>De votre art clair ensemble et sombre,</l>
+</lg>
+
+<lg>
+<l>Ciel dont il fallait que parlât</l>
+<l>La gratitude encor des races,</l>
+<l>Et dont il fallait que perlât</l>
+</lg>
+
+<lg>
+<l>Cette douceur vraiment mystique</l>
+<l>Et crue aussi vraiment qui rend</l>
+<l>Rêveuse notre âpre critique,</l>
+</lg>
+
+<lg>
+<l>O votre ciel, fils de Rembrandt !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p70">
+ <pagenum num="128"/>
+
+<h2>XXXIX</h2>
+
+<h2>QUATORZA1N POUR TOUS</h2>
+
+<poem>
+
+<lg>
+<l>O mes contemporains du sexe fort,</l>
+<l>Je vous méprise et contemne point peu.</l>
+<l>Même il en est que je déteste à mort</l>
+<l>Et que je hais d’une haine de dieu.</l>
+</lg>
+
+<lg>
+<l>Vous êtes laids moi compris au-delà</l>
+<l>De toute expression, et bêtes, moi</l>
+<l>Compris, comme il n’est pas permis : c’est la</l>
+<l>Pire peine à mon cœur, et son émoi</l>
+</lg>
+
+<lg>
+<l>De ne pouvoir être (ni vous non plus)</l>
+<l>Intelligent et beau pour rire ainsi</l>
+<l>Qu’il sied, du choix qui me rend cramoisi</l>
+</lg>
+
+<lg>
+<l>Et pour pleurer que parmi tant d’élus</l>
+<l>A faire, ces messieurs aient entre tous</l>
+<l>Pris Brunetière. O les topinambous<noteref noteid="note.128.1"/> !</l>
+</lg>
+
+</poem>
+
+<notes>
+  <note id="note.128.1" label="1">
+    <p>Voir Boileau, <i>Êpigrammes.</i></p>
+  </note>
+</notes>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p71">
+ <pagenum num="129"/>
+
+<h2>XL</h2>
+
+<h2>QUATORZAIN POUR TOUTES</h2>
+
+<poem>
+
+<lg>
+<l>O femmes, je vous aime toutes, là, c’est dit !</l>
+<l>N’allez pas me taxer d’audace ou d’imposture.</l>
+<l>Raffolant de la blonde douce et de la dure</l>
+<l>Brune et de la virginité bête un petit</l>
+</lg>
+
+<lg>
+<l>Mais si gente et si prompte à se déniaiser,</l>
+<l>Comme aussi de l’alme maturité (que vicieuse !</l>
+<l>Mais susceptible d’un grand cœur et si joyeuse</l>
+<l>D’un sourire et savourant, lente, un long baiser).</l>
+</lg>
+
+<lg>
+<l>Toutes, oui, je vous aime, oui, femmes, je vous aime</l>
+<l>— Excepté si par trop laides ou vieilles, dam !</l>
+<l>Alors je vous vénère ou vous plains. Je vais même</l>
+</lg>
+
+<lg>
+<l>Jusqu’à me voir féru, parfois à mon grand dam,</l>
+<l>D’une inconnue un peu vulgaire, rencontrée</l>
+<l>Au coin... non pas d’un bois sacré ! qui m’est sucrée.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p72">
+  <pagenum num="130"/>
+
+<h2>XLI</h2>
+
+<h2>A G*****</h2>
+ 
+<poem>
+
+<lg>
+<l>Tu m’as plu par ta joliesse</l>
+<l>Et ta folle frivolité.</l>
+<l>J’aime tes yeux pour leur liesse</l>
+<l>Et ton corps pour sa vénusté.</l>
+</lg>
+
+<lg>
+<l>Mais j’ai détesté tout de suite</l>
+<l>La gourmandise de ta chair.</l>
+<l>J’abhorre ton besoin de cuite</l>
+<l>(Non pas celui qui m’est si cher,</l>
+</lg>
+
+<lg>
+<l>Le besoin d’être avec cet homme</l>
+<l>Encore vert qui serait moi),</l>
+<l>J’abomine pour parler comme</l>
+<l>Il faut, ton goût pour trop d’émoi</l>
+</lg>
+
+<lg>
+<l>Joyeux, gamin, charmant sans doute...</l>
+<l>Au fait, j’y pense, je suis vieux</l>
+<l>Tant (cinquante ans !) et t’es en route</l>
+<l>Pour tes dix-huit ans... pauvre vieux !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p73">
+   <pagenum num="131"/>
+
+<h2>XLII</h2>
+
+<h2>ENCORE POUR G...</h2>
+
+<poem>
+
+<lg>
+<l>Oui, gamine bonne, je t’aime</l>
+<l>Et ce sera mon plus cher thème</l>
+<l>D’instinct non moins que de système.</l>
+</lg>
+
+<lg>
+<l>Oui, certes, ô gamine bonne !</l>
+<l>Je ne suis docteur en Sorbonne</l>
+<l>Non plus que riche ou beau, friponne.</l>
+</lg>
+
+<lg>
+<l>Mes amours ne sont enragées</l>
+<l>Et mes passions sont rangées</l>
+<l>Comme une boîte de dragées.</l>
+</lg>
+
+<lg>
+<l>Et devant être et voulant être</l>
+<l>Raisonnable et pur comme un prêtre</l>
+<l>Sérieux, je ne suis le maître,</l>
+</lg>
+
+ <pagenum num="132"/>
+
+<lg>
+<l>Las ! de mon cœur qui t’aime, bonne</l>
+<l>Gamine ô que si bien friponne !</l>
+<l>Et si peu docteur en Sorbonne !</l>
+</lg>
+
+<lg>
+<l>Et je m’ennuie, — ainsi la pluie</l>
+<l>Et je me pleure et je m’essuie</l>
+<l>Les yeux parce que je m’ennuie</l>
+</lg>
+
+<lg>
+<l>Parce que je suis vieux et parce que je t’aime.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p74">
+ <pagenum num="133"/>
+
+<h2>XLIII</h2>
+
+<h2>POUR S...</h2>
+
+<poem>
+
+<lg>
+<l>Or j’adore une chaste Suzanne</l>
+<l>Dont je serais l’un et l’autre vieillard</l>
+<l>Et pour qui donc je brairais comme un âne,</l>
+<l>Si n’était par trop chaste ma Suzanne,</l>
+</lg>
+
+<lg>
+<l>Elle rieuse, que non pas ! grasse à lard ?</l>
+<l>Mais non plus à l’excès diaphane</l>
+<l>Et je serais heureux sans coq-à-l’âne,</l>
+<l>Si ne m’était trop chaste ma Suzanne</l>
+</lg>
+
+<lg>
+<l>Et je te dirai tout doucement</l>
+<l>Qu’il faudra bien vite oublier ton amant</l>
+<l>Fût-ce moi-même, ô chose invraisemblable !</l>
+</lg>
+
+<lg>
+<l>Et je serais alors le plus heureux</l>
+<l>Non pas des trois mais que plutôt des deux</l>
+<l>Et ce ne serait pas déjà le diable !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p75">
+ <pagenum num="134"/>
+
+<h2>XLIV</h2>
+
+<h2>CHANSON POUR L...</h2>
+
+<poem>
+
+<lg>
+<l>« <i>Enfin, après deux ans, je te revois</i> » — et t’aime</l>
+<l>&#x2001;&#x2001;&#x2001;Pour de bon cette fois,</l>
+<l>A cause de ton corps d’abord, et surtout même,</l>
+<l>&#x2001;&#x2001;&#x2001;En raison de ta voix</l>
+</lg>
+
+<lg>
+<l>Si bonne et si calmante et qui dicte des choses</l>
+<l>&#x2001;&#x2001;&#x2001;Paisibles à mon cœur</l>
+<l>Un peu cruel mais doux au fond telles aux roses</l>
+<l>&#x2001;&#x2001;&#x2001;Les épines et, sœur</l>
+</lg>
+
+<lg>
+<l>Presque aimée à cause de ta gente sagesse</l>
+<l>&#x2001;&#x2001;&#x2001;A travers tant et tant</l>
+<l>De gaieté polissonne, et de cette largesse</l>
+<l>&#x2001;&#x2001;&#x2001;D’un cœur pourtant prudent,</l>
+</lg>
+
+<lg>
+<l>Que ton cœur et mon cœur régnent donc sans <correction original="consteste">conteste</correction></l>
+<l>&#x2001;&#x2001;&#x2001;Sus notre vie à tous</l>
+<l>Les deux — et dès ce soir (ô jour, je te déteste !)</l>
+<l>&#x2001;&#x2001;&#x2001;Soyons-nous bons et doux !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p76">
+ <pagenum num="135"/>
+
+<h2>XLV</h2>
+
+<h2>A ***</h2>
+
+<poem>
+
+<lg>
+<l>Ton cœur est plus grand que le mien</l>
+<l>Mais le mien peut-être est plus tendre</l>
+<l>Qui ne sait que ne pas attendre,</l>
+<l>Tant il serait jaloux du tien,</l>
+</lg>
+
+<lg>
+<l>Si je m’étais sûr de la foi</l>
+<l>Qu’il faut, chère, que (je te prête), pauvre,</l>
+<l>Et que riche, je donne en tout aloi</l>
+<l>Bon et meilleur ou pire, en vrai poète.</l>
+</lg>
+
+<lg>
+<l>Mon cœur est moins grand que le tien</l>
+<l>Mais le tien peut-être est moins vaste</l>
+<l>Qui n’aime guère que le faste</l>
+<l>D’être aimé du mien, et fait bien.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p77">
+ <pagenum num="136"/>
+ 
+<h2>XLVI</h2>
+
+<h2>LE PINSON D’E***</h2>
+
+<poem>
+
+<lg>
+<l>C’est très miraculeux : ce pinson si joli</l>
+<l>Qui sautillait d’un air attentif et poli</l>
+<l>Tout au bout des barreaux, prêtant sa tête fine</l>
+<l>A ma bouche lui sifflant l’air de la <i>Czarine,</i></l>
+<l>Il n’est plus ! Le voici sans souffle désormais.</l>
+<l>Il avait bien souffert, autant que tu l’aimais !</l>
+<l>Maussade, hélas ! et symptôme bien pire encore,</l>
+<l>Immobile et muet dans la cage sonore</l>
+<l>Du pépiement des autres « hôtes de nos bois »</l>
+<l>Et vibrante Dieu sait comme de leurs émois,</l>
+<l>De leurs ébats plus fous que les jeux de la houle.</l>
+<l>Il s’était accroupi, se contournant en boule,</l>
+<l>La tête sous son aile, ayant l’air de dormir,</l>
+<l>Et tu gardais l’espoir, cessant de trop gémir,</l>
+<l>De le croire en effet endormi... La nuit sombre</l>
+<l>Vint, qui nous consola quelque peu. Mais quand l’ombre</l>
+<l>Se dissipa, cédant, Soleil, à ton effort,</l>
+<l>La vérité nous apparut : il était mort !</l>
+ <pagenum num="137"/>
+<l>Tu reculas d’horreur malgré tout ton courage</l>
+<l>Ordinaire, et n’osais le sortir de la cage.</l>
+<l>J’accomplis en ton lieu ce douloureux devoir,</l>
+<l>Et toi, dépliant en silence un vieux « Chat noir »,</l>
+<l>Le replias sur le petit cadavre avec des larmes,</l>
+<l>Linceul approprié, symbole non sans charmes !</l>
+<l>Nous débattîmes un long temps l’heure et le lieu</l>
+<l>Où rendre les derniers honneurs au petit dieu.</l>
+<l>Tout à coup tu pris ton panier déjà célèbre</l>
+<l>Et partis sans me prévenir du lieu funèbre</l>
+<l>Destiné dans ton cœur à l’enterrement dû,</l>
+<l>Emportant en ce « char » l’oiseau, bien entendu.</l>
+<l>Quand tu revins, t’avais l’air fier et plein de grâce</l>
+<l>De quelqu’un ayant fait, sans bruit et sans grimace,</l>
+<l>Ce qu’on peut appeler une grande action :</l>
+<l>« Je l’ai jeté dans les caveaux du Panthéon ! »</l>
+<l>T’écrias-tu, — puis, car la femme est toujours femme,</l>
+<l>Et tes yeux éteignant soudain leur sombre flamme,</l>
+<l>Tu repris, et cela me parut aussi beau :</l>
+<l>« Il aurait peut-être mieux fait sur mon chapeau ! »</l>
+</lg>
+
+</poem>
+
+<p>20 février 1892.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p78">
+ <pagenum num="138"/>
+
+<h2>XLVII</h2>
+
+<h2>A E...</h2>
+
+<poem>
+
+<lg>
+<l>O toi chaude comme l’enfer,</l>
+<l>O toi, froide comme l’hiver,</l>
+<l>Douce et dure, on dirait du fer</l>
+<l>&#x2001;&#x2001;Et de la mousse,</l>
+</lg>
+
+<lg>
+<l>Dure et douce comme la mousse</l>
+<l>Et le fer, si dure et si douce,</l>
+<l>Va ! sois toi-même ! Un vent te pousse.</l>
+<l>&#x2001;&#x2001;Vent de printemps</l>
+</lg>
+
+<lg>
+<l>Et vent d’automne, et tant d’autans</l>
+<l>Et de zéphirs sont palpitants,</l>
+<l>Dans tes grands yeux mahométans</l>
+<l>&#x2001;&#x2001;De catholique</l>
+</lg>
+
+<lg>
+<l>Que j’en reste mélancolique</l>
+<l>Et joyeux, et sans plus d’oblique</l>
+<l>Madrigal, je t’aime !</l>
+<l cont="true">O réplique,</l>
+<l>&#x2001;&#x2001;Diable angélique.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p79">
+ <pagenum num="139"/>
+
+<h2>XLVIII</h2>
+
+<h2>A E...</h2>
+
+<h2><s>POUR SES ÉTRENNES</s></h2>
+
+<poem>
+
+<lg>
+<l>Je méprise, vrai ! ces vers-ci</l>
+<l>Mais j’aime le sujet d’iceux,</l>
+<l>Les vers sont-ils tendres ou pisseux ?</l>
+<l>Mais le sujet est réussi.</l>
+</lg>
+
+<lg>
+<l>Mais j’idolâtre, au fond, ces vers</l>
+<l>— Parce qu’ils figurent mon âme</l>
+<l>Pisseuse ou tendre — à telle dame</l>
+<l>Sur un fond candide ou pervers.</l>
+</lg>
+
+<lg>
+<l>Et ces vers pervers ou candides</l>
+<l>Seront le témoignage, au fond,</l>
+<l>De choix qui viennent et qui vont</l>
+</lg>
+
+<lg>
+<l>Et finissent d’après d’avides,</l>
+<l>D’avidement cruels désirs</l>
+<l>Et tout ! par être moins perfides.</l>
+</lg>
+
+</poem>
+
+<p>1<sup>er</sup> janvier 1894.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p80">
+ <pagenum num="140"/>
+
+<h2>XLIX</h2>
+
+<h2>A ***</h2>
+
+<poem>
+
+<lg>
+<l>Mauvaise, criarde, et ça vaut mieux</l>
+<l>Qu’en somme bavarde et muette.</l>
+<l>Or tel est le vœu de ce poète,</l>
+<l>De ce poète criard, bavard et vieux.</l>
+</lg>
+
+<lg>
+<l>Ce poète, bavard et curieux,</l>
+<l>Amoureux avant tout de sa tête</l>
+<l>Et de ses émotions d’esthète,</l>
+<l>Se creuse sa tête d’envieux,</l>
+</lg>
+
+<lg>
+<l>D’envieux plutôt d’être tranquille</l>
+<l>Comme un naufragé nageant vers l’île</l>
+<l>Où se sécher des flots furieux...</l>
+</lg>
+
+<lg>
+<l>Et comme il se cramponne, le poète,</l>
+<l>Avec son bagage lâché d’esthète</l>
+<l>A cette mauvaise criarde, et ça vaut mieux !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p81">
+ <pagenum num="141"/>
+
+<h2>L</h2>
+
+<h2>A LA MÊME</h2>
+
+<poem>
+
+<lg>
+<l>Non. Ce n’est pas vrai. Vous êtes très bonne,</l>
+<l>Très sobre de paroles dures vraiment</l>
+<l>Et votre verbe est un pur liniment</l>
+<l>Toute en voyelles sans la moindre consonne.</l>
+</lg>
+
+<lg>
+<l>C’est la cause pourquoi je vous pardonne</l>
+<l>Quelque vivacité dite éventuellement</l>
+<l>Et sûrement dans le juste moment</l>
+<l>Où je la mérite, et parlant à ma personne.</l>
+</lg>
+
+<lg>
+<l>Car vous êtes franche et ce m’est doux</l>
+<l>Dans ce monde vil et surtout jaloux</l>
+<l>De ramper autour de quelqu’un pour le tromper</l>
+</lg>
+
+<lg>
+<l>Et c’est très bien ça, ma si chère amie,</l>
+<l>Et je vous en estime (et ne mens mie)</l>
+<l>Et je t’en aime mieux encor de ne pas me tromper.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p82">
+ <pagenum num="142"/>
+
+<h2>LI</h2>
+
+<h2>POUR LA MÊME</h2>
+
+<poem>
+
+<lg>
+<l>Zut, il n’en faut plus, c’est une hypocrite</l>
+<l>A rebours ou c’est une folle ou, mieux,</l>
+<l>Une sotte en cinq lettres, mais de vieux</l>
+<l>Jeu, trop Second Empire, — et qui s’effrite.</l>
+</lg>
+
+<lg>
+<l>Car jeune elle est très loin de l’être encor</l>
+<l>Et la date de sa naissance est un trésor</l>
+<l>De suppositions contradictoires.</l>
+<l>Cela ne ferait rien sans doute au cas présent</l>
+</lg>
+
+<lg>
+<l>Moi n’étant plus non plus l’adolescent</l>
+<l>Épris de sa cousine, lys ! ivoires !</l>
+<l>Mais surtout elle est sotte, démérite</l>
+</lg>
+
+<lg>
+<l>Pire à mes yeux que tous maux sous les cieux</l>
+<l>Et, tort non moindre en surplus à mes yeux,</l>
+<l>Elle a le don qui fait que je m’irrite.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p83">
+ <pagenum num="143"/>
+
+<h2>LII</h2>
+
+<h2>A UNE DAME QUI PARTAIT POUR LA COLOMBIE</h2>
+
+<poem>
+
+<lg>
+<l>Notre-Dame de Santa Fé de Bogota</l>
+<l>Qui vous apprêtez à faire le tour de ce monde,</l>
+<l>Or, mon émotion serait par trop profonde</l>
+<l>Dans le chagrin réel dont mon cœur éclata</l>
+</lg>
+
+<lg>
+<l>A la nouvelle de ce départ déplorable</l>
+<l>Si je n’avais l’orgueil de vous avoir, à ta-</l>
+<l>Ble d’hôte, vue ainsi que tel ou tel rasta</l>
+<l>Et de vous devoir ce sonnet point admirable.</l>
+</lg>
+
+<lg>
+<l>Hélas ! assez, mais que voici de tout mon cœur</l>
+<l>Tel que je l’ai conçu dans un rêve vainqueur</l>
+<l>Dont, hélas ! je reviens avec le bruit qui grise</l>
+</lg>
+
+<lg>
+<l>D’un tambourin, bruyant sans doute mais gentil</l>
+<l>D’être, grâce à votre talent de femme exquise-</l>
+<l>Ment amusante, décoré d’un doigt subtil.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p84">
+ <pagenum num="144"/>
+
+<h2>LIII</h2>
+
+<h2>A E***</h2>
+
+<h2>I</h2>
+
+<poem>
+
+<lg>
+<l>Lorsque nous allons chez Vanier</l>
+<l>Dans des buts peu problématiques,</l>
+<l>Tu portes un petit panier</l>
+<l>Moins plein d’objets aromatiques,</l>
+</lg>
+
+<lg>
+<l>Persil, cerfeuil, ès-authentiques</l>
+<l>Torsades d’un savant vannier</l>
+<l>Et tels bouquins pour les boutiques</l>
+<l>Que le Quai ne peut renier,</l>
+</lg>
+
+<lg>
+<l>Moins plein, dis-je, de toutes choses</l>
+<l>Que de ceci : soucis moroses,</l>
+<l>Querelles affreuses, raisons</l>
+</lg>
+
+<lg>
+<l>Mauvaises, à jeter en Seine,</l>
+<l>Si qu’au retour, sans plus de scène,</l>
+<l>Tout bonnement nous nous baisons.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p85">
+ <pagenum num="145"/>
+
+<h2>II</h2>
+
+<h2><s>A PROPOS D’UN PETIT PANIER QU’IL AVAIT DÉMOLI AU BRAS D’UNE DAME DANS UN MOMENT DE VIVACITÉ</s></h2>
+
+<epigraphe>
+  <poem>
+    <l>Lorsque nous allons chez Vanier</l>
+    <l>Dans des buts peu problématiques</l>
+    <l>Tu portes un petit panier...</l>
+  </poem>
+</epigraphe>
+
+<poem>
+
+<lg>
+<l>Il est mort le petit panier !</l>
+<l>Je l’ai détruit lors d’une scène.</l>
+<l>Irons-nous encor chez Vanier ?</l>
+<l>Il est mort le petit panier !</l>
+<l>Dire que ton œuvre, vannier,</l>
+<l>Je l’ai tuée au bord de Seine.</l>
+<l>Il est mort le petit panier !</l>
+<l>Je l’ai détruit lors d’une scène.</l>
+</lg>
+
+<lg>
+<l>Je ne suis pas trop fier, vraiment,</l>
+<l>De ça qui n’est pas mon chef-d’œuvre,</l>
+<l>Tant s’en faut, je le dis crûment.</l>
+<l>Je ne suis pas trop fier, vraiment,</l>
+ <pagenum num="146"/>
+<l>Et même un remords véhément,</l>
+<l>Me mord ainsi qu’une couleuvre.</l>
+<l>Je ne suis pas trop fier, vraiment,</l>
+<l>De ça qui n’est pas mon chef-d’œuvre.</l>
+</lg>
+
+<lg>
+<l>Heureusement il est un dieu</l>
+<l>Pour ceux que la... colère enivre.</l>
+<l>Et ce dieu-là n’est pas un pieu.</l>
+<l>Heureusement il est un dieu</l>
+<l>Qui t’inspirait. Après l’adieu</l>
+<l>Dit, que ce gage dût revivre.</l>
+<l>Heureusement il est un dieu</l>
+<l>Pour ceux que la... colère enivre.</l>
+</lg>
+
+<lg>
+<l>Et, comme autrefois le phénix,</l>
+<l>Il reparaît beau, vaste même,</l>
+<l>Disant à l’âpre Parque : Nix !</l>
+<l>Et, comme autrefois le phénix,</l>
+<l>Le revoici, d’après un X</l>
+<l>Où tel pipo perd son barême.</l>
+<l>Oui, comme autrefois le phénix,</l>
+<l>Il reparaît beau, vaste même.</l>
+</lg>
+
+<lg>
+<l>Nous irons encor chez Vanier</l>
+<l>Dans des buts peu problématiques.</l>
+<l>Encor qu’il semble le nier,</l>
+<l>Nous irons encor chez Vanier</l>
+ <pagenum num="147"/>
+<l>Avec cet énorme panier</l>
+<l>Plein de choses mal esthétiques.</l>
+<l>Nous irons encor chez Vanier</l>
+<l>Dans des buts peu problématiques.</l>
+</lg>
+
+<lg>
+<l>Et nous en reviendrons toujours</l>
+<l>Après avoir, sans plus de scène,</l>
+<l>Vidé vos querelles, amours,</l>
+<l>Et nous en reviendrons toujours,</l>
+<l>Après vous avoir jetés, lourds</l>
+<l>Soupçons et faux propos, en Seine,</l>
+<l>Aux vrais propos, mais pour toujours,</l>
+<l>Aux francs baisers sans plus de scène.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p86">
+ <pagenum num="148"/>
+
+<h2>LIV</h2>
+
+<h2>ANNIVERSAIRE</h2>
+
+
+<p class="r3"><i>A William Rothenstein.</i></p>
+<p class="r3">« Et j’avais cinquante ans quand cela m’arriva. »</p>
+
+
+<poem>
+
+<lg>
+<l>Je ne crois plus au langage des fleurs</l>
+<l>Et l’Oiseau bleu pour moi ne chante plus.</l>
+<l>Mes yeux se sont fatigués des couleurs</l>
+<l>Et me voici las d’appels superflus.</l>
+</lg>
+
+<lg>
+<l>C’est en un mot, la triste cinquantaine.</l>
+<l>Mon âge mûr, pour tous fruits tu ne portes</l>
+<l>Que vue hésitante et marche incertaine</l>
+<l>Et ta frondaison n’a que feuilles mortes !</l>
+</lg>
+
+<lg>
+<l>Mais des amis venus de l’étranger,</l>
+<l>— Nul n’est, dit-on, prophète en son pays —</l>
+<l>Du moins ont voulu, non encourager,</l>
+<l>Consoler un peu ces lustres haïs.</l>
+</lg>
+
+ <pagenum num="149"/>
+
+<lg>
+<l>Ils ont grimpé jusques à mon étage</l>
+<l>Et des fleurs plein les mains, d’un ton sans leurre.</l>
+<l>Souhaité gentiment à mon sot âge</l>
+<l>Beaucoup d’autres ans et santé meilleure.</l>
+</lg>
+
+<lg>
+<l>Et comme on buvait à ces vœux du cœur</l>
+<l>Le vin d’or qui rit dans le cristal fin,</l>
+<l>Il m’a semblé que des bouquets, en chœur,</l>
+<l>Sortaient des voix sur un air divin ;</l>
+</lg>
+
+<lg>
+<l>Et comme le pinson de ma fenêtre</l>
+<l>Et le canari, son voisin de cage,</l>
+<l>Pépiaient gaiement, je crus reconnaître</l>
+<l>L’Oiseau bleu qui chantait dans le bocage.</l>
+</lg>
+
+</poem>
+
+<p>Paris, 30 mars 1894.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p87">
+ <pagenum num="150"/>
+
+<h2>LV</h2>
+
+<h2>A MON ÉDITEUR</h2>
+
+
+<h2>I</h2>
+
+<h2><s>MISÈRE</s></h2>
+
+<poem>
+
+<lg>
+<l>Je veux dépeindre en ce sonnet</l>
+<l>Toute mon indignation</l>
+<l>Contre ce Vanier qu’on connaît,</l>
+<l>Aussi la résignation</l>
+</lg>
+
+<lg>
+<l>Qu’il me faut (avec l’onction</l>
+<l>Nécessaire au temps où l’on est,</l>
+<l>Temps gaspillé sous l’action</l>
+<l>D’une jeunesse qui renaît).</l>
+</lg>
+
+<lg>
+<l>Or ce Vanier dont la maison</l>
+<l>Telle celle dite Pont-Neuf</l>
+<l>N’est pas au coin du quai, raison</l>
+</lg>
+
+<lg>
+<l>Insuffisante à mon courroux</l>
+<l>Terrible, tel celui d’un bœuf,</l>
+<l>Oui, ce Vanier n’a pas de sous</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p88">
+ <pagenum num="151"/>
+
+<h2>II</h2>
+
+<h2><s>RICHESSE</s></h2>
+
+<poem>
+
+<lg>
+<l>A me mettre hélas dans la poche,</l>
+<l>Mais demain comme il sera tendre</l>
+<l>Il n’est tel que de bien attendre</l>
+<l>Avec une tête de Boche,</l>
+</lg>
+
+<lg>
+<l>Et la chose d’être un gavroche</l>
+<l>Qui ne voudrait plus rien entendre</l>
+<l>Que d’être un gas plus ou moins tendre</l>
+<l>Sans peur autant que sans reproche</l>
+</lg>
+
+<lg>
+<l>Et je vais enfin, digne et riche,</l>
+<l>Mieux qu’un militaire en Autriche,</l>
+<l>M’épandre et me répandre encore</l>
+</lg>
+
+<lg>
+<l>En un luxe sans fin ni bornes</l>
+<l>Qui, bœuf littéral que décore</l>
+<l>Sa force, te montre les cornes,</l>
+</lg>
+
+<lg>
+<l>Misère qui voudrait me proposer des bornes.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p89">
+ <pagenum num="152"/>
+
+<h2>LVI</h2>
+
+<h2>A LÉON VANIER</h2>
+
+<h2>I</h2>
+
+<poem>
+
+<lg>
+<l>Vous voulez tuer le veau gras</l>
+<l>Et qu’un sonnet signe la trêve.</l>
+<l>Très bien, le voici, mais mon rêve</l>
+<l>Serait pour sortir d’embarras</l>
+</lg>
+
+<lg>
+<l>Et nous bien décharger les bras</l>
+<l>De la manière la plus brève,</l>
+<l>— Tel un lourd fardeau qu’on enlève —</l>
+<l>Que ce veau fût d’or et très gras,</l>
+</lg>
+
+<lg>
+<l>Afin que parmi cette foule</l>
+<l>Qui nous bouscule et que l’on roule,</l>
+<l>Nul, voyant ce pacte nouveau</l>
+</lg>
+
+<lg>
+<l>Dûment paraphé de nos plumes,</l>
+<l>Au bas de l’acte où nous nous plûmes,</l>
+<l>Nul ne dise : « On dirait du veau ! »</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p90">
+ <pagenum num="153"/>
+
+<h2>A LÉON VANIER</h2>
+
+<h2><s>SUITE AU 1<sup>er</sup> SONNET</s></h2>
+
+<h2>II</h2>
+
+<poem>
+
+<lg>
+<l>Or puisque le veau d’or a lieu</l>
+<l>Et qu’on ne dirait plus du veau,</l>
+<l>Il nous faut d’abord prier Dieu</l>
+<l>De bénir le pacte nouveau.</l>
+</lg>
+
+<lg>
+<l>Pour nous ruer à des travaux</l>
+<l>Tout bonnement prodigieux.</l>
+<l>Prose au kilo, vers frais ou faux,</l>
+<l>Qu’importe ? Tant pis et tant mieux !</l>
+</lg>
+
+<lg>
+<l>Nouer et dénouer des nœuds</l>
+<l>Gordiens ou non, et n’étant</l>
+<l>Pas plus des princes que des bœufs.</l>
+</lg>
+
+<lg>
+<l>Néanmoins, peiner tant et tant</l>
+<l>Que vous fassiez une fortune bœuf</l>
+<l>Et que moi j’achetasse un courage neuf.</l>
+</lg>
+
+</poem>
+
+<p>Jour de Noël 1892.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p91">
+ <pagenum num="154"/>
+
+<h2>LVII</h2>
+
+<h2>TOAST A DISTANCE</h2>
+
+<p class="r3"><i>Aux Rosati.</i></p>
+
+<poem>
+
+<lg>
+<l>Gens du Nord, mes compatriotes,</l>
+<l>Hélas ! je vous avais promis</l>
+<l>Quelques mots à propos de bottes</l>
+<l>Comme on en échange entre amis</l>
+</lg>
+
+<lg>
+<l>Sous le titre de conférence</l>
+<l>Que l’on galvaude en de vains us</l>
+<l>J’aurais gaiement pour l’occurrence,</l>
+<l>En propos exprès décousus</l>
+</lg>
+
+<lg>
+<l>Parlé longtemps de la contrée</l>
+<l>A laquelle malgré Paris</l>
+<l>Et sa rumeur démesurée</l>
+<l>Répondront toujours nos esprits.</l>
+</lg>
+
+ <pagenum num="155"/>
+
+<lg>
+<l>Lille, Arras, Douai, Valenciennes,</l>
+<l>Que sais-je encore, Saint-Quentin !...</l>
+<l>Hélas ! des douleurs anciennes</l>
+<l>Me tiennent du soir au matin,</l>
+</lg>
+
+<lg>
+<l>A ce qu’on croit rhumatismales,</l>
+<l>Et le docteur, féroce et doux,</l>
+<l>Me défend en phrases normales,</l>
+<l>Trop normales, d’aller vers vous ;</l>
+</lg>
+
+<lg>
+<l>Mais il me fait espérer, comme</l>
+<l>Il sied, quand vos toasts enviés,</l>
+<l>Dans un mois je serais votre homme.</l>
+<l>En attendant, si vous buviez !</l>
+</lg>
+
+</poem>
+
+<p>22 février 1894.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p92">
+ <pagenum num="156"/>
+
+<h2>LVIII</h2>
+
+<h2>SOUVENIR DE MANCHESTER</h2>
+
+<p class="r3"><i>A Théodore C. London.</i></p>
+
+<poem>
+
+<lg>
+<l>Je n’ai vu Manchester que d’un coin de Salford</l>
+<l>Donc très mal et très peu, quel que fût mon effort</l>
+<l>A travers le brouillard et les courses pénibles</l>
+<l>Au possible, en dépit d’hansoms inaccessibles</l>
+<l>Presque, grâce à ma jambe male et mes pieds bots,</l>
+<l>N’importe, j’ai gardé des souvenirs plus beaux</l>
+<l>De cette ville que l’on dit industrielle, —</l>
+<l>Encore que de telle ô qu’intellectuelle</l>
+<l>Place où ma vanité devait se pavaner</l>
+<l>Soi-disant mieux, — et dussiez-vous vous étonner</l>
+<l>Des semblantes naïvetés de cette épître,</l>
+<l>O vous ! quand je parlais du haut de mon pupitre</l>
+<l>Dans cette salle où l’« élite » de Manchester</l>
+<l>Applaudissait en Verlaine l’auteur d’Esther,</l>
+<l>Et que je proclamais, insoucieux du pire</l>
+<l>Ou du meilleur, mon culte énorme pour Shakespeare.</l>
+</lg>
+
+</poem>
+
+<p>30 janvier 1894.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p93">
+ <pagenum num="157"/>
+
+<h2>LIX</h2>
+
+<h2>FOUNTAIN COURT</h2>
+
+<p class="r3"><i>A Arthur Symons.</i></p>
+
+<poem>
+
+<lg>
+<l>La Cour de la fontaine est, dans le Temple,</l>
+<l>Un coin exquis de ce coin délicat</l>
+<l>Du Londres vieux où le jeune avocat</l>
+<l>Apprend l’étroite Loi, puis le Droit ample :</l>
+</lg>
+
+<lg>
+<l>Des arbres moins anciens (mais vieux, sans faute)</l>
+<l>Que les maisons d’aspect ancien très bien</l>
+<l>Et la noire chapelle au plus ancien</l>
+<l>Encore galbe, aujourd’hui... table d’hôte...</l>
+</lg>
+
+<lg>
+<l>Des moineaux francs picorent joliment</l>
+<l>— Car c’est l’hiver — la baie un peu moisie</l>
+<l>Sur la branche précaire, et — poésie !</l>
+<l>La jeune Anglaise à l’Anglais âgé ment...</l>
+</lg>
+
+ <pagenum num="158"/>
+
+<lg>
+<l>Qu’importe ! ils ont raison, et nous aussi,</l>
+<l>Symons, d’aimer les vers et la musique</l>
+<l>Et tout l’art, et l’argent mélancolique !</l>
+<l>D’être si vite envolé, vil souci !</l>
+</lg>
+
+<lg>
+<l>« Et le jet d’eau ride l’humble bassin »</l>
+<l>Comme chantait, quand il avait votre âge,</l>
+<l>L’auteur de ces vers-ci, débris d’orage.</l>
+<l>Ruine, épave, au vague et lent dessin.</l>
+</lg>
+
+</poem>
+
+<p>Londres, novembre 1894.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p94">
+ <pagenum num="159"/>
+
+<h2>LX</h2>
+
+<h2>A EDMOND LEPELLETIER</h2>
+
+<poem>
+
+<lg>
+<l>Mon plus vieil ami survivant</l>
+<l>D’un groupe déjà de fantômes</l>
+<l>Qui dansent comme des atomes</l>
+<l>Dans un rais de lune devant</l>
+</lg>
+
+<lg>
+<l>Nos yeux assombris et rêvant</l>
+<l>Sous les ramures polychromes</l>
+<l>Que l’automne arrondit en dômes</l>
+<l>Funèbres où gémit le vent,</l>
+</lg>
+
+<lg>
+<l>Bah ! la vie est si courte en somme</l>
+<l>— Quel sot réveil après quel somme ! —</l>
+<l>Qu’il ne faut plus penser aux morts</l>
+</lg>
+
+<lg>
+<l>Que pour les plaindre et pour les oindre</l>
+<l>De regrets exempts de remords,</l>
+<l>Car n’allons-nous pas les rejoindre ?</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p95">
+ <pagenum num="160"/>
+
+<h2>LXI</h2>
+
+<h2>JEAN RICHEPIN</h2>
+
+<epigraphe>
+<p>« <i>Spéticans !</i> »</p>
+<p class="r3">(F. Villon.)</p>
+</epigraphe>
+
+<poem>
+
+<lg>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;Richepin</l>
+<l>&#x2001;&#x2001;N’est pas le nom d’un turlupin</l>
+<l>Ni d’un marchand de poudre de perlinpinpin</l>
+<l>C’est le nom d’un bon bougre et d’un gentil copain.</l>
+</lg>
+
+<lg>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;Écoutez :</l>
+<l>&#x2001;&#x2001;Il blasphème de tous côtés,</l>
+<l>Au Bourgeois même il dit de sales vérités,</l>
+<l>Ses marins à l’Opér’Com’ seraient peu cotés.</l>
+</lg>
+
+<lg>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;Tout le mal</l>
+<l>&#x2001;&#x2001;Il le chante d’un ton normal</l>
+<l>Et c’est, à dire vrai, le plus pire animal.</l>
+</lg>
+
+<lg>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;Mais les gueux</l>
+<l>&#x2001;&#x2001;Combattant, souffrant avec eux</l>
+<l>Il les aime de quel amour noble et fougueux !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p96">
+ <pagenum num="161"/>
+
+<h2>LXII</h2>
+
+<h2>A ARTHUR RIMBAUD</h2>
+
+<h2>I</h2>
+
+<poem>
+
+<lg>
+<l>Mortel, ange ET démon, autant dire Rimbaud,</l>
+<l>Tu mérites la prime place en ce mien livre</l>
+<l>Bien que tel sot grimaud t’ait traité de ribaud</l>
+<l>Imberbe et de monstre en herbe et de potache ivre.</l>
+</lg>
+
+<lg>
+<l>Les spirales d’encens et les accords de luth</l>
+<l>Signalent ton entrée au temple de mémoire</l>
+<l>Et ton nom radieux chantera dans la gloire,</l>
+<l>Parce que tu m’aimas ainsi qu’il le fallut.</l>
+</lg>
+
+<lg>
+<l>Les femmes te verront grand jeune homme très fort,</l>
+<l>Très beau d’une beauté paysanne et rusée,</l>
+<l>Très désirable d’une indolence qu’osée !</l>
+</lg>
+
+<lg>
+<l>L’histoire t’a sculpté triomphant de la mort</l>
+<l>Et jusqu’aux purs excès jouissant de la vie,</l>
+<l>Tes pieds blancs posés sur la tête de l’Envie !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p97">
+ <pagenum num="162"/>
+
+<h2>LXIII</h2>
+
+<h2>A ARTHUR RIMBAUD</h2>
+
+<h2><s>SUR UN CROQUIS DE LUI PAR SA SŒUR</s></h2>
+
+<h2>II</h2>
+
+<poem>
+
+<lg>
+<l>Toi mort, mort, mort ! Mais mort du moins tel que tu veux,</l>
+<l>En nègre blanc, en sauvage splendidement</l>
+<l>Civilisé, civilisant négligemment...</l>
+<l>Ah, mort ! Vivant plutôt en moi de mille feux</l>
+</lg>
+
+<lg>
+<l>D’admiration sainte et de souvenirs feux</l>
+<l>Mieux que tous les aspects vivants même comment</l>
+<l>Grandioses ! de mille feux brûlant vraiment</l>
+<l>De bonne foi dans l’amour chaste aux fiers aveux.</l>
+</lg>
+
+<lg>
+<l>Poète qui mourus comme tu le voulais,</l>
+<l>En dehors de ces Paris-Londres moins que laids,</l>
+<l>Je t’admire en ces traits naïfs de ce croquis,</l>
+</lg>
+
+<lg>
+<l>Don précieux à l’ultime postérité</l>
+<l>Par une main dont l’art naïf nous est acquis,</l>
+<l>Rimbaud ! <i>pax tecum sit, Dominus sit cum te !</i></l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p98">
+ <pagenum num="163"/>
+
+<h2>LXIV</h2>
+
+<h2>A M<sup>lle</sup> RENÉE ZILCKEN</h2>
+
+<poem>
+
+<lg>
+<l>O Mademoiselle Renée,</l>
+<l>Fillette exquisement mignonne,</l>
+<l>Que le bon Dieu toujours vous donne</l>
+<l>Vie élégante et fortunée.</l>
+</lg>
+
+<lg>
+<l>Grandissez dûment bien-aimée</l>
+<l>Dans la sagesse douce et bonne</l>
+<l>Sous l’œil qui sourit et s’étonne</l>
+<l>De votre famille charmée.</l>
+</lg>
+
+<lg>
+<l>Soyez l’espoir et le bonheur</l>
+<l>De votre père, lui, l’honneur</l>
+<l>De l’art et de votre famille</l>
+</lg>
+
+<lg>
+<l>Et de votre mère, l’honneur</l>
+<l>Et la grâce d’une famille</l>
+<l>S’étonnant de tout ce bonheur.</l>
+</lg>
+
+</poem>
+
+<p>La Haye, octobre 1892.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p99">
+ <pagenum num="164"/>
+
+<h2>LXV</h2>
+
+<h2>A M<sup>lle</sup> EVELINE</h2>
+
+<poem>
+
+<lg>
+<l>Eveline, mais c’est Ève</l>
+<l>En miniature et c’est</l>
+<l>Tout le charme et tout le rêve</l>
+<l>Que notre esprit caressait</l>
+</lg>
+
+<lg>
+<l>Quand naguère il s’agissait</l>
+<l>Encore d’enfance brève</l>
+<l>Qui grandit et grandissait</l>
+<l>Dans la femme qui s’achève.</l>
+</lg>
+
+<lg>
+<l>Mais où va donc mon Sonnet ?</l>
+<l>Vous êtes toute mignonne</l>
+<l>Et l’âge en fleurs vous couronne.</l>
+</lg>
+
+<lg>
+<l>Votre âge gai ne connaît</l>
+<l>Que l’innocence divine...</l>
+<l>Riez, petite Eveline !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p100">
+ <pagenum num="165"/>
+
+<h2>LXVI</h2>
+
+<h2>A M<sup>lle</sup> LÉONIE R...</h2>
+
+<poem>
+
+<lg>
+<l>Vous emplissez d’un bruit gentil, quoique terrible,</l>
+<l>Ma tête que console un tapage d’enfant,</l>
+<l>— Et mon cœur qu’il est difficile qu’on console !</l>
+</lg>
+
+<lg>
+<l>Vous me rendez la joie et je suis triomphant</l>
+<l>De moi-même, ce moi-même qui fut horrible</l>
+<l>Lorsqu’une enfant aussi, criait, méchante et folle</l>
+</lg>
+
+<lg>
+<l>Et bonne, au fond, quand j’étais moi-même un enfant</l>
+<l>Aux yeux vrais, au sang pur comme d’une mouette</l>
+<l>Qui revient de très loin, ainsi que ce poète.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p101">
+ <pagenum num="166"/>
+
+<h2>LXVII</h2>
+
+<h2>A M<sup>lle</sup> JEANNE VANIER</h2>
+
+<poem>
+
+<lg>
+<l>Parfois dans un local plein de livres, deux hommes</l>
+<l>Se gourment presque, bien que bons garçons au fond ;</l>
+<l>C’est votre père et moi dont les paroles vont</l>
+<l>De l’offre à la demande en quels écarts de sommes !</l>
+</lg>
+
+<lg>
+<l>Je n’ai pas l’air commode. Il est mal disposé.</l>
+<l>Choc terrible ! Soudain, au fort de la querelle,</l>
+<l>Petite et fine à la croire surnaturelle,</l>
+<l>Une enfant apparaît, grands yeux noirs, teint rosé.</l>
+</lg>
+
+<lg>
+<l>Elle s’enquête, elle tremble, comme inquiète</l>
+<l>— Sérieusement trop ? Non, — du bruit de tempête</l>
+<l>Que vont menant ce monsieur chauve et son papa</l>
+</lg>
+
+<lg>
+<l>Souriants sur-le-champ, — et voici la paix faite</l>
+<l>Entre, en un mutuel et franc meâ culpâ,</l>
+<l>Votre père, éditeur, et moi, votre poète.</l>
+</lg>
+
+</poem>
+
+<p>Paris, 21 avril 1894.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p102">
+ <pagenum num="167"/>
+
+<h2>LXYIII</h2>
+
+<h2>SUR UN BUSTE DE MOI</h2>
+
+<p class="r3"><i>Pour mon ami Niederhausern.</i></p>
+
+<poem>
+
+<lg>
+<l>Ce buste qui me représente</l>
+<l>Auprès de la postérité</l>
+<l>Lui montre une face imposante</l>
+<l>Pleine de quelle gravité !</l>
+</lg>
+
+<lg>
+<l>Devant cette tête pesante</l>
+<l>Du poids tous les jours augmenté</l>
+<l>D’une pensée, ô pas puissante</l>
+<l>D’un souci plutôt entêté,</l>
+</lg>
+
+<lg>
+<l>Qu’est-ce que vont dire les femmes</l>
+<l>Et les hommes des temps futurs ?</l>
+<l>« Au fait, on sent, sous ces traits durs</l>
+</lg>
+
+<lg>
+<l>Et derrière ces yeux aux flammes</l>
+<l>Noires, un monsieur malveillant,</l>
+<l>Mais le sculpteur eut du talent. »</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p103">
+ <pagenum num="168"/>
+
+<h2>LXIX</h2>
+
+<h2>A RAYMOND MAYGRIER</h2>
+
+<epigraphe>
+<p>« ... L’histoire véridique</p>
+<p>De la langouste atmosphérique. »</p>
+<p class="r3">(<i>L’Œil crevé.</i>)</p>
+</epigraphe>
+
+<poem>
+
+<lg>
+<l>&#x2001;&#x2001;Comme la langouste d’Hervé</l>
+<l>&#x2001;&#x2001;« Qui portait l’herbe magique,</l>
+<l>&#x2001;&#x2001;« Sur sa croupe magnétique »</l>
+<l>&#x2001;&#x2001;Mieux que la langouste d’Hervé,</l>
+</lg>
+
+<lg>
+<l>&#x2001;&#x2001;Que ce crustacé controuvé,</l>
+<l>&#x2001;&#x2001;Vous possédez l’art magique</l>
+<l>&#x2001;&#x2001;Et même le magnétique...</l>
+<l>&#x2001;&#x2001;Fi d’un crustacé controuvé !</l>
+</lg>
+
+<lg>
+<l>&#x2001;&#x2001;Puis, vous êtes graphologue,</l>
+<l>&#x2001;&#x2001;Et démêleriez, tonnerre ! une églogue</l>
+<l>Dans un grimoire où Nostradamus perdrait son latin.</l>
+</lg>
+
+<lg>
+<l>&#x2001;&#x2001;Bon Maygrier, sorcier rose,</l>
+<l>&#x2001;&#x2001;Magicien blanc sans rien de morose,</l>
+<l>Dites, prédisez-moi quelque plus sortable destin.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p104">
+ <pagenum num="169"/>
+
+<h2>LXX</h2>
+
+<h2>A M<sup>lle</sup> ADÈLE</h2>
+
+<poem>
+
+<lg>
+<l>Mademoiselle Adèle</l>
+<l>Vous êtes un modèle :</l>
+<l>D’ordre et d’autorité</l>
+<l>Qui m’auriez complété !</l>
+</lg>
+
+<lg>
+<l>Mademoiselle Adèle,</l>
+<l>Vous êtes un modèle</l>
+<l>De joie et de gaîté</l>
+<l>Viv’ votre autorité !</l>
+</lg>
+
+<lg>
+<l>Vous m’avez dit des choses,</l>
+<l>Presque le drapeau rose</l>
+<l>Qu’est le drapeau français,</l>
+</lg>
+
+<lg>
+<l>Vous m’avez dit des choses,</l>
+<l>Presque le drapeau rouge</l>
+<l>Qu’on voit sur votre bouche.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p105">
+ <pagenum num="170"/>
+
+<h2>LXXI</h2>
+
+<h2>A M<sup>me</sup> MARIE A...</h2>
+
+<h2><s>POUR SA FÊTE</s></h2>
+
+<poem>
+
+<lg>
+<l>Le poète n’est pas très riche !</l>
+<l>Aussi, devant ce frais jardin</l>
+<l>De bouquets dignes d’un Éden,</l>
+<l>Se voit-il forcé d’être chiche</l>
+</lg>
+
+<lg>
+<l>En ce jour de sainte Marie,</l>
+<l>Votre fête, et chiche à ce point</l>
+<l>De ne contribuer, las ! point</l>
+<l>A cette éclosion fleurie</l>
+</lg>
+
+<lg>
+<l>De sympathie et d’amitié.</l>
+<l>Il se contente avec remords</l>
+<l>De vous offrir, non pas des ors</l>
+</lg>
+
+<lg>
+<l>Ni même d’humbles rangs de perles,</l>
+<l>Mais son petit air pépié,</l>
+<l>Comme le plus humble des merles.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p106">
+ <pagenum num="171"/>
+
+<h2>LXXII</h2>
+
+<h2>A RODOLPHE DARZENS</h2>
+
+<poem>
+
+<lg>
+<l>Jeune homme élancé</l>
+<l>Comme un peuplier,</l>
+<l>Qui donc a pensé</l>
+<l>Qu’on pût t’oublier</l>
+</lg>
+
+<lg>
+<l>Dans ce livre si</l>
+<l>Vraiment amical ?</l>
+<l>Quel sot réussi,</l>
+<l>Quel crétin fécal ?</l>
+</lg>
+
+<lg>
+<l>Jeune homme élancé</l>
+<l>Vers la vie et vers</l>
+<l>L’art et les beaux vers,</l>
+</lg>
+
+<lg>
+<l>Enfant annoncé</l>
+<l>Par ta chanson, viens,</l>
+<l>Entre et sois des miens.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p107">
+ <pagenum num="172"/>
+
+<h2>LXXIII</h2>
+
+<h2>A HENRI BOSSANNE</h2>
+
+<poem>
+
+<lg>
+<l>Bon imprimeur de la première édition</l>
+<l>&#x2001;&#x2001;&#x2001;De « Dédicaces »,</l>
+<l>Vous vîntes à Paris dans une intention</l>
+<l>&#x2001;&#x2001;&#x2001;Des plus cocasses :</l>
+</lg>
+
+<lg>
+<l>S’agissait de me voir, de m’interviewer</l>
+<l>&#x2001;&#x2001;&#x2001;Pour la province,</l>
+<l>Apprendre ce que pouvait agir et rêver</l>
+<l>&#x2001;&#x2001;&#x2001;Ce moi si mince.</l>
+</lg>
+
+<lg>
+<l>Or il advint qu’au jour où j’eus le cher plaisir</l>
+<l>&#x2001;&#x2001;&#x2001;De vous connaître</l>
+<l>J’étais chez moi, rideaux tirés sur la fenêtre,</l>
+</lg>
+
+<lg>
+<l>En manches de chemise et chaussons de loisir,</l>
+<l>&#x2001;&#x2001;&#x2001;Avec deux femmes !!!</l>
+<l>Et vous : « Ce n’est donc pas CE prince des infâmes ! »</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p108">
+ <pagenum num="173"/>
+
+<h2>LXXIV</h2>
+
+<h2>A MAX ROSA</h2>
+
+<poem>
+
+<lg>
+<l>Rosa n’est pas « rosa » la rose,</l>
+<l>Ni Salvator, peintre en brigands,</l>
+<l>Ni la belle dame aux longs gants</l>
+<l>Qu’un tel pronom signe ou suppose,</l>
+</lg>
+
+<lg>
+<l>Ni l’un de ces rois de la pose,</l>
+<l>Señores par trop élégants</l>
+<l>Ou senhores plus qu’éloquents,</l>
+<l>Ou « rastas » pour dire la chose.</l>
+</lg>
+
+<lg>
+<l>Rosa, c’est le nom d’un ami,</l>
+<l>Parisien de bonne souche</l>
+<l>Et Français non point à demi.</l>
+</lg>
+
+<lg>
+<l>Il est prompt à prendre la mouche,</l>
+<l>Mais le chagrin d’autrui le touche :</l>
+<l>Dear friend, I’m sorry ; think of me.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p109">
+ <pagenum num="174"/>
+
+<h2>LXXV</h2>
+
+<h2>A M<sup>lle</sup> A. ROM***</h2>
+
+<poem>
+
+<lg>
+<l>Ce nom, Sedan ! me dit de vacances d’enfance,</l>
+<l>De passages en « diligence » dans un bruit</l>
+<l>Joyeux de clics-clacs et de vitraille qui fuit</l>
+<l>Vers un horizon gai qu’on dirait qui s’avance.</l>
+</lg>
+
+<lg>
+<l>Ce mot, Sedan ! m’évoque, ainsi qu’à tous en France</l>
+<l>Une plaine lourde de sang, blême de nuit,</l>
+<l>Des cris éteints qu’une rumeur de rêve suit,</l>
+<l>Sur quoi plane très haut comme de l’espérance.</l>
+</lg>
+
+<lg>
+<l>Sedan ! Sedan ! pourtant il sonne encore doux</l>
+<l>Et frais, non plus pour l’avenir ou la mémoire,</l>
+<l>Mais bien dans le présent bien vivant, grâce à vous</l>
+</lg>
+
+<lg>
+<l>Il sonne, il brille, le futur nom de victoire :</l>
+<l>Accent joli, mignon entrain toujours accru</l>
+<l>Et l’Ardennais qu’est moi presque, en reste féru.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p110">
+ <pagenum num="175"/>
+
+<h2>LXXVI</h2>
+
+<h2>A A. DUVIGNEAUX</h2>
+
+<h2><s>TROP FOUGUEUX ADVERSAIRE DE L’ORTHOGRAPHE PHONÉTIQUE</s></h2>
+
+<poem>
+
+<lg>
+<l>É coi vréman, bon Duvignô.</l>
+<l>Vou zôci dou ke lé zagnô</l>
+<l>Ê meïeur ke le pin con manj.</l>
+<l>Vou metr’an ce courou zétranj</l>
+</lg>
+
+<lg>
+<l>Contr (e) ce tà de brav (e) jan</l>
+<l>O fon plus bête ke méchan</l>
+<l>Drapan leur linguistic étic</l>
+<l>Dan l’ortograf (e) fonétic ?</l>
+</lg>
+
+<lg>
+<l>Kel ir (e) donc vou zambala ?</l>
+<l>Vizavi de cé zoizola</l>
+<l>Sufi d’une parol (e) verde.</l>
+</lg>
+
+<lg>
+<l>Et pour leur prouvé san déba</l>
+<l>Kil é dé mo ke n’atin pa</l>
+<l>Leur sistem (e), dison-leur :... !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p111">
+ <pagenum num="176"/>
+
+<h2>LXXVII</h2>
+
+<h2>A RODOLPHE SALIS</h2>
+
+<poem>
+
+<lg>
+<l>Cabaretier miraculeux,</l>
+<l>Ainsi qu’eût dit le bon Pétrus</l>
+<l>Aux temps déjà si fabuleux</l>
+<l>Du romantisme et de ses us ;</l>
+</lg>
+
+<lg>
+<l>Cabaretier miraculeux</l>
+<l>Et bonisseur digne d’Ursus,</l>
+<l>Puis ennemi méticuleux</l>
+<l>De la sottise et de ses us ;</l>
+</lg>
+
+<lg>
+<l>Salis qu’on prénomme Rodolphe,</l>
+<l>Créateur, comme Prométhée !</l>
+<l>Flot de liquides, tel un golfe !</l>
+</lg>
+
+<lg>
+<l>O Maître, nul ne t’est athée,</l>
+<l>Sauf quelque muffle, lymphe et dartre,</l>
+<l>En ton domaine de Montmartre.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p112">
+ <pagenum num="177"/>
+
+<h2>LVXIII</h2>
+
+<h2>A LÉON CLADEL</h2>
+
+<poem>
+
+<lg>
+<l>Tu fus excessif</l>
+<l>Et je t’en aimais</l>
+<l>D’un amour plus vif,</l>
+<l>Plus vif que jamais,</l>
+</lg>
+
+<lg>
+<l>Depuis que la mort,</l>
+<l>Cette vie en mieux,</l>
+<l>A brisé l’effort</l>
+<l>De Toi vers les cieux,</l>
+</lg>
+
+<lg>
+<l>Vers des cieux voulus</l>
+<l>Par ta volonté,</l>
+<l>Des cieux absolus,</l>
+</lg>
+
+<lg>
+<l>Toi ressuscité</l>
+<l>Aux fins, glorieux.</l>
+<l>D’une vie en mieux</l>
+</lg>
+
+</poem>
+
+<p>25 juillet 1892.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p113">
+ <pagenum num="178"/>
+
+<h2>LXXIX</h2>
+
+<h2>POUR MARIE***</h2>
+
+<p class="r3"><i>A F.-A. Cazals.</i></p>
+
+<poem>
+
+<lg>
+<l>Chez nos anciens c’était une bonne coutume</l>
+<l>Que la dame de nos amis fut célébrée.</l>
+<l>Je veux donc dire de ma voix la mieux timbrée,</l>
+<l>Et les tracer du bec de ma meilleure plume,</l>
+</lg>
+
+<lg>
+<l>Vos mérites et vos vertus dans l’amertume</l>
+<l>Douce de vous savoir d’un autre énamourée</l>
+<l>Mais d’un autre... moi-même — et la tâche sacrée</l>
+<l>D’exalter et de promouvoir, or je l’assume,</l>
+</lg>
+
+<lg>
+<l>La louange de vos yeux qui le surent voir,</l>
+<l>Celle de votre cœur qui put gagner le sien,</l>
+<l>Et celle due à votre, hélas ! fidélité !</l>
+</lg>
+
+<lg>
+<l>Et, consolation ! celle du bon vouloir</l>
+<l>Qui fait que votre main, sûre du respect mien</l>
+<l>Serre la mienne en lui, sûr de ma loyauté.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p114">
+ <pagenum num="179"/>
+
+<h2>LXXX</h2>
+
+<h2>A GUSTAVE LEROUGE</h2>
+
+<poem>
+
+<lg>
+<l>La vie est vraiment si stupide que, ma foi !</l>
+<l>J’ai, devant cette perspective plus que bête,</l>
+<l>Résolu de n’être absolument qu’un poète</l>
+<l>Sans plus, et de vieillir ainsi, ne sachant quoi</l>
+</lg>
+
+<lg>
+<l>Que ce soit, que d’aimer au hasard devant moi.</l>
+<l>Aimer pour ne haïr, aimer d’amour honnête</l>
+<l>Ou non, d’estime ou d’intérêt, en proxénète</l>
+<l>A moins qu’en martyr, et n’ayant plus d’autre émoi !</l>
+</lg>
+
+<lg>
+<l>Lerouge ! Et vous ? Tout cœur et toute flamme vive,</l>
+<l>Qu’allez-vous faire en notre exil ainsi qu’il est,</l>
+<l>Vous, une si belle âme en un monde si laid ?</l>
+</lg>
+
+<lg>
+<l>Bah ! faites comme moi, dussent trouver naïve</l>
+<l>Votre ample expansion ceux forts que fallait</l>
+<l>Aimer sans fin ni loi. Et qui m’aime me suive !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p115">
+ <pagenum num="180"/>
+
+<h2>LXXXI</h2>
+
+<h2>AU COMPAGNON LARTIGUES</h2>
+
+<p class="r3"><i>Pour Henri Cholin.</i></p>
+
+<poem>
+
+<lg>
+<l>Vous qui ne connaissez de brigue</l>
+<l>Que la seule briguedondaine</l>
+<l>Et n’ourdissez jamais d’intrigue</l>
+<l>Qu’en l’espoir de quelque fredaine,</l>
+</lg>
+
+<lg>
+<l>Un penser d’amour et de haine</l>
+<l>Pourtant vous hante et vous fatigue</l>
+<l>Et vous fait plate la bedaine :</l>
+<l>L’amour du Pauvre, bon Lartigue !</l>
+</lg>
+
+<lg>
+<l>L’amour du Pauvre mieux peut-être</l>
+<l>Que celui du moderne prêtre</l>
+<l>Et de l’actuel philanthrope.</l>
+</lg>
+
+<lg>
+<l>Si cela c’est être anarchiste</l>
+<l>Inscrivez-moi sur votre liste.</l>
+<l>— Et que saute la vieille Europe !</l>
+</lg>
+
+</poem>
+
+<p>Hôpital Broussais, 15 janvier 1893.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p116">
+ <pagenum num="181"/>
+
+<h2>LXXXII</h2>
+
+<h2>A M. LE DOCTEUR CHAUFFART</h2>
+
+<poem>
+
+<lg>
+<l>Le poète n’est parbleu pas ce que l’on croit.</l>
+<l>Il n’a que quand il veut toutes les ignorances</l>
+<l>Sans trop d’âpre verdeur ou de préjugés rances</l>
+<l>Et parfois même il sent profond et pense droit.</l>
+</lg>
+
+<lg>
+<l>Son regard va, cruel et précis comme un doigt</l>
+<l>Et sa tête, qui sait mûrir les apparences,</l>
+<l>Taisant soudain ses bruits de peurs et d’espérances,</l>
+<l>Voit terriblement clair à ce qu’autrui lui doit.</l>
+</lg>
+
+<lg>
+<l>Non son cœur, proie intarissable à l’infortune,</l>
+<l>Mais sa tête, après tout auguste, et cœtera,</l>
+<l>Et dès lors pour beaucoup s’amasse une rancune</l>
+</lg>
+
+<lg>
+<l>Qui saura s’assouvir, advienne que pourra.</l>
+<l>Mais, ô fraîcheur ! pour quelques-uns elle recense</l>
+<l>Et réserve, à tout prix ! quelle reconnaissance !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p117">
+ <pagenum num="182"/>
+
+<h2>LXXXIII</h2>
+
+<h2>A AMAN JEAN</h2>
+
+<h2><s>SUR UN PORTRAIT ENFIN REPOSÉ QU’IL AVAIT FAIT DE MOI</s></h2>
+
+<poem>
+
+<lg>
+<l>Vous m’avez pris dans un moment de calme familier</l>
+<l>Où le masque devient comme enfantin comme à nouveau.</l>
+<l>Tel j’étais, moins la barbe et ce front de tête de veau</l>
+<l>Vers l’an quarante-huit, bébé rotond, en Montpellier.</l>
+</lg>
+
+<lg>
+<l>J’allais dans des Peyroux, tranquillement avec ma bonne,</l>
+<l>J’y faisais mille et des fortins de sable inexpugnables</l>
+<l>Et des fossés remplis, mon Dieu, des eaux les moins potables</l>
+<l>Suivant l’exemple que Gargantua pompier nous donne.</l>
+</lg>
+
+<lg>
+<l>J’y voyais passer des processions, des pénitents</l>
+<l>Et proclamer la République en ces candides temps</l>
+<l>Où tant d’un tas d’avis n’étaient pas encore inventés.</l>
+</lg>
+
+<lg>
+<l>Mais malgré ce souci de nos jours qu’il agite et trouble</l>
+<l>Et d’autres ! au tréfonds de mes moelles encor butées</l>
+<l>Je demeure assuré, — conforme à votre excellent double.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p118">
+ <pagenum num="183"/>
+
+<h2>LXXXIV</h2>
+
+<h2>A M<sup>me</sup> MARIE P...</h2>
+
+<poem>
+
+<lg>
+<l>O jeune chevelure blanche</l>
+<l>Pomponnant gaiement une face</l>
+<l>Passionnée et perspicace</l>
+<l>Aux yeux très bons, mais, en revanche,</l>
+</lg>
+
+<lg>
+<l>Très méchants, très poing sur la hanche,</l>
+<l>Pour peu qu’un faquin les agace,</l>
+<l>Que fin de siècle et fin de race</l>
+<l>Vous êtes, chevelure blanche,</l>
+</lg>
+
+<lg>
+<l>Lorsque vous vous pavanez sous</l>
+<l>Ce chapeau mousquetaire noir</l>
+<l>Et qu’il fait plaisant de vous voir</l>
+</lg>
+
+<lg>
+<l>Panache fier aux fiers remous,</l>
+<l>Fleur pompadour — gare, Tircis !</l>
+<l>D’une toilette Médicis !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p119">
+ <pagenum num="184"/>
+
+<h2>LXXXV</h2>
+
+<h2>A CÉSAR C.</h2>
+
+<poem>
+
+<lg>
+<l>Vous êtes la douceur elle-même et la paix,</l>
+<l>Et c’est au nom de quoi, mon ami, je vous aime,</l>
+<l>Comme étant la douceur et — oui ! la paix, moi-même,</l>
+<l>La paix, comme je veux, la douceur, où je vais !</l>
+</lg>
+
+<lg>
+<l>Parfois, c’est vrai, je suis méchant et non mauvais.</l>
+<l>Je ne suis plus celui que trouble le problème,</l>
+<l>Je ne suis plus celui qu’envolait le poème,</l>
+<l>Je ne suis, par instants, que « fais donc ce que fais »,</l>
+</lg>
+
+<lg>
+<l>Instinctif, et, sinon terrible, près de l’être,</l>
+<l>Comme vous m’avez vu, puis, comme un mauvais prêtre</l>
+<l>Affreux d’hypocrisie et vil de faux honneur,</l>
+</lg>
+
+<lg>
+<l>Mais ensuite, et de vous, ami, prenant l’exemple,</l>
+<l>Sérieusement doux et paisible donneur</l>
+<l>De douceur et de paix dès la porte du temple.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p120">
+ <pagenum num="185"/>
+
+<h2>LXXXV</h2>
+
+<h2>A BIBI-PURÉE</h2>
+
+<poem>
+
+<lg>
+<l>Bibi-Purée</l>
+<l>Type épatant</l>
+<l>Et drôle tant !</l>
+</lg>
+
+<lg>
+<l>Quel Dieu te crée</l>
+<l>Ce chic, pourtant,</l>
+<l>Qui nous agrée,</l>
+</lg>
+
+<lg>
+<l>Pourtant, aussi,</l>
+<l>Ta gentillesse</l>
+<l>Notre liesse,</l>
+<l>Et ton souci,</l>
+</lg>
+
+<lg>
+<l>De l’obligeance,</l>
+<l>Notre gaîté,</l>
+<l>Ta pauvreté,</l>
+<l>Ton opulence ?</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p121">
+ <pagenum num="186"/>
+
+<h2>LXXXVIII</h2>
+
+<h2>A UN PASSANT</h2>
+
+<poem>
+
+<lg>
+<l>Mon cher enfant que j’ai vu dans ma vie errante,</l>
+<l>Mon cher enfant, que, mon Dieu, tu me recueillis,</l>
+<l>Moi-même pauvre ainsi que toi, purs comme lys.</l>
+<l>Mon cher enfant que j’ai vu dans ma vie errante !</l>
+</lg>
+
+<lg>
+<l>Et beau comme notre âme pure et transparente,</l>
+<l>Mon cher enfant, grande vertu de moi, la rente</l>
+<l>De mon effort de charité, nous, fleurs de lys !</l>
+<l>On te dit mort... Mort ou vivant, sois ma mémoire !</l>
+</lg>
+
+<lg>
+<l>Et qu’on ne hurle donc plus que c’est de la gloire</l>
+<l>Que je m’occupe, fou qu’il fallut et qu’il faut...</l>
+<l>Petit ! mort ou vivant, qui fis vibrer mes fibres,</l>
+</lg>
+
+<lg>
+<l>Quoi qu’en aient dit et dit tels imbéciles noirs,</l>
+<l>Petit compagnon qui ressuscitas les saints espoirs,</l>
+<l>Va donc, vivant ou mort, dans les espaces libres.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p122">
+ <pagenum num="187"/>
+
+<h2>LXXXVIII</h2>
+
+<h2>POUR ROBERTE</h2>
+
+<p class="r3"><i>A Henri Degron.</i></p>
+
+<poem>
+
+<lg>
+<l>Seconde âme de mon ami, son autre cœur,</l>
+<l>Roberte, or, vous voici veuve... pour une année,</l>
+<l>Et je viens avec vous penser à sa langueur</l>
+<l>A lui loin de vos yeux à vous, sa Destinée</l>
+</lg>
+
+<lg>
+<l>En quelque sorte, et très pieusement je viens</l>
+<l>Et reviens avec vous tristement vous redire</l>
+<l>Qu’il pleure autant que vous et que, non son martyre</l>
+<l>(Ce serait blasphémer, car nous sommes chrétiens)</l>
+</lg>
+
+<lg>
+<l>Mais son impatience est égale à la vôtre.</l>
+<l>Et ne faisons donc plus ici le bon apôtre</l>
+<l>Et parlons franchement d’un chagrin trop réel,</l>
+</lg>
+
+<lg>
+<l>Sans rien exagérer puisque, Roberte chère,</l>
+<l>Il va bien, il vous aime bien et que son ciel</l>
+<l>C’est de vous revoir comme il est sûr de le faire.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p123">
+ <pagenum num="188"/>
+
+<h2>LXXXIX</h2>
+
+<h2>AU VICOMTE DE LAUTREC</h2>
+
+<poem>
+
+<lg>
+<l>Ce n’est pas un bonjour tout sec,</l>
+<l>Mon cher Guy, vicomte Lautrec,</l>
+<l>Que je vous donne, c’est, avec</l>
+<l>Un vœu qui ne part pas du bec,</l>
+</lg>
+
+<lg>
+<l>Mais un qui vient du cœur vraiment</l>
+<l>Et ce, sous la foi du serment...</l>
+<l>D’ailleurs vous savez qu’il ne ment,</l>
+<l>En dépit de la rime en <i>ment</i>...</l>
+</lg>
+
+<lg>
+<l>— Rime calomniée et trop</l>
+<l>Méprisée ainsi qu’un sirop</l>
+<l>Qui sucrerait trop un poison !</l>
+</lg>
+
+<lg>
+<l>Et voici ma forte raison :</l>
+<l>Souvenez-vous de l’hôpital !</l>
+<l>Vous voyez que c’était fatal.</l>
+</lg>
+
+</poem>
+
+<p>1<sup>er</sup>janvier 1893.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p124">
+ <pagenum num="189"/>
+
+<h2>XC</h2>
+
+<h2>POUR M<sup>lle</sup> D. A.</h2>
+
+<poem>
+
+<lg>
+<l>Je vous aime trop, Andrée,</l>
+<l>Au trot, comme au galop !</l>
+<l>Vous êtes mon adorée</l>
+<l>Au galop tout comme au trot.</l>
+</lg>
+
+<lg>
+<l>Andrée, ô je t’aime trop</l>
+<l>(Bien que trop dans la purée)</l>
+<l>Et c’est au trot que je bée</l>
+<l>Après ton jupon salop.</l>
+</lg>
+
+<lg>
+<l>Puis chantons-nous la romance</l>
+<l>Qu’il faut que l’on recommence</l>
+<l>Comme oiseaux sans feu ni lieu</l>
+</lg>
+
+<lg>
+<l>Et prouvons-nous l’espérance,</l>
+<l>Et la bonne confiance</l>
+<l>Qu’on se doit au nom de Dieu.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p125">
+ <pagenum num="190"/>
+
+<h2>XCI</h2>
+
+<h2>A PH...</h2>
+
+<h2>I</h2>
+
+<poem>
+
+<lg>
+<l>Tu me demandes des vers,</l>
+<l>Ça, c’est gentil comme un cœur.</l>
+<l>En voici, mais point pervers :</l>
+<l>Car mon amour, tout vigueur,</l>
+</lg>
+
+<lg>
+<l>Tout force et dévouement jusque</l>
+<l>Au sang mien, tu ne l’ignores</l>
+<l>Pas, a cessé tout ton brusque</l>
+<l>Depuis qu’il a vu, sonores,</l>
+</lg>
+
+<lg>
+<l>Les rives du sombre bord</l>
+<l>S’étrécir autour de lui,</l>
+<l>Sonores cris de mort,</l>
+<l>Et qu’il t’a vue en l’ennui.</l>
+</lg>
+
+ <pagenum num="191"/>
+
+<lg>
+<l>De la crainte légitime</l>
+<l>D’un trépas sans conscience</l>
+<l>De soi-même. — Aussi ma rime</l>
+<l>Fleure aujourd’hui d’innocence !</l>
+</lg>
+
+<lg>
+<l>Et demain en fleurira.</l>
+<l>Car notre amour est sacré,</l>
+<l>Témoin des et (cœtera)</l>
+<l>D’un deuil qui viendra, malgré</l>
+</lg>
+
+<lg>
+<l>Tout, et songeons bien, chérie,</l>
+<l>A ces tristes fins dernières.</l>
+<l>Hélas ! ma pauvre chérie,</l>
+<l>Songeons à nos fins dernières.</l>
+</lg>
+
+</poem>
+
+<p>Hôpital Broussais, 9 juillet 1893.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p126">
+ <pagenum num="192"/>
+
+<h2>XCII</h2>
+
+<h2>A LA MÊME</h2>
+
+<h2>II</h2>
+
+<poem>
+
+<lg>
+<l>Oui, soyons-nous poète et muse</l>
+<l>Mais dans le mode familier,</l>
+<l>Nous avons passé le millier</l>
+<l>Des heures jeunes où l’on ruse</l>
+</lg>
+
+<lg>
+<l>Pour faire croire aux bonnes gens</l>
+<l>Dont on est le premier soi-même.</l>
+<l>Qu’on n’aime en tout ça que l’extrême !</l>
+<l>Fiers, paradoxaux, exigeants.</l>
+</lg>
+
+<lg>
+<l>La vie avec sa vraie outrance</l>
+<l>A pris soin de nous corriger</l>
+<l>Du travers de nous rengorger,</l>
+<l>Ne nous laissant de l’espérance</l>
+</lg>
+
+ <pagenum num="193"/>
+
+<lg>
+<l>Rien que la simple illusion</l>
+<l>D’être un couple encore sensible</l>
+<l>Et ne livrant à notre cible</l>
+<l>Qu’un but, la résignation !</l>
+</lg>
+
+<lg>
+<l>Ce lot est préférable en somme.</l>
+<l>A des appétits qu’il est bon,</l>
+<l>Toi, veuve au fait, moi ce barbon,</l>
+<l>De régler de sorte économe.</l>
+</lg>
+
+<lg>
+<l>Profitons, puisqu’il en est temps — </l>
+<l>De cette sagesse dont l’âge</l>
+<l>Qui vient dote notre ménage.</l>
+<l>Pour faire œuvre de pénitents ?</l>
+</lg>
+
+<lg>
+<l>Que non pas ! Fîmes-nous des crimes ?</l>
+<l>Pas mal de péchés voilà tout.</l>
+<l>De ces péchés légers qu’absout</l>
+<l>Le seul pardon de leurs victimes,</l>
+</lg>
+
+<lg>
+<l>Et leurs victimes ce fut nous,</l>
+<l>De ces victimes sans rancune.</l>
+<l>Toi, reste encor longtemps ma brune.</l>
+<l>Toujours la bonne qu’à genoux</l>
+</lg>
+
+<lg>
+<l>Invoquent mes instants de doute,</l>
+<l>De tristesse ou de désespoir,</l>
+ <pagenum num="194"/>
+<l>Mon étoile dans le ciel noir,</l>
+<l>L’auberge fraîche en l’âpre route.</l>
+</lg>
+
+<lg>
+<l>Moi devenu calme — ce n’est</l>
+<l>Pas malheureux, car tant de frasques,</l>
+<l>Et de rôles, sous que de masques ! —</l>
+<l>Je suis celui qui ne connaît</l>
+</lg>
+
+<lg>
+<l>Et ne chante plus que les choses,</l>
+<l>Et l’humanité qu’il convient.</l>
+<l>La vérité seule me tient,</l>
+<l>Soient ses aspects sombres ou roses.</l>
+</lg>
+
+<lg>
+<l>Mes vers épris dorénavant,</l>
+<l>De la raison mais de la saine</l>
+<l>Ne déclameront plus en scène...</l>
+<l>Ils vivront dans tout cœur vivant.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p127">
+ <pagenum num="195"/>
+
+<h2>XCIII</h2>
+
+<h2>A LA MÊME</h2>
+
+<h2>III</h2>
+
+<poem>
+
+<lg>
+<l>Ah ! d’être heureux puisqu’on le peut, puisque la vie</l>
+<l>Tumultueuse nous a tué toute envie</l>
+<l>Autre que d’être calme en un lieu calme enfin !</l>
+<l>Nous boirons quand nous aurons soif. Quant à la faim,</l>
+<l>Des repas frugaux mais nourris sauront l’éteindre.</l>
+<l>Que nous dussions jamais l’un ou bien l’autre atteindre</l>
+<l>Aux splendeurs, aux sommets, nous en désespérons,</l>
+<l>En nous aimant plus fort, nous nous consolerons.</l>
+<l>Les dimanches et jours de fêtes, car tu goûtes</l>
+<l>Ça, l’on ne verra plus que nous deux sur les routes</l>
+<l>De Sèvres à Clamart et de Meudon au Pecq,</l>
+<l>Avec des propos gais, mais retenus au bec.</l>
+<l>Nous rentrerons vanés, fauchés — l’or embarrasse</l>
+<l>Parfois — et puis nous dormirons, chair lasse,</l>
+<l>Après, hein ? Si tu veux, des manières à nous.</l>
+<l>Et je commencerai la fête à tes genoux.</l>
+ <pagenum num="196"/>
+<l>Puis sur ton cœur, et nous dormirons sans grand rêve.</l>
+<l>L’hiver, nous irons au théâtre ! je n’en crève</l>
+<l>Plus de désir, mais toi tu raffoles de ça.</l>
+<l>Et nous verrons de beaux décors qu’un tel brossa,</l>
+<l>Et nous applaudirons tel calembour superbe.</l>
+<l>Puis nous irons coucher, mieux encor que sur l’herbe,</l>
+<l>Dans le grand lit de châtaignier qu’aura vu tant</l>
+<l>De fois moi dans le paradis, sage et prudent,</l>
+<l>Qu’est devenu le tien pendant nos durs passages</l>
+<l>D’ailleurs c’est ça, restons toujours prudents et sages</l>
+<l>Quelqu’un nous bénira qui déjà nous bénit.</l>
+<l>Aimons-nous en époux apaisés dans leur nid.</l>
+<l>La tendresse n’y perdra rien, tout au contraire</l>
+<l>— Rien d’exquis que d’être aux yeux des gens sœur et frère !</l>
+</lg>
+
+</poem>
+
+<p>Hôpital Broussais, 12 juillet 1894.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p128">
+ <pagenum num="197"/>
+
+<h2>XCIV</h2>
+
+<h2>A EDMOND PICARD</h2>
+
+<poem>
+
+<lg>
+<l>Puisqu’il n’est pas permis en ce libre pays</l>
+<l>Qui pourtant fut la France et prétend encore l’être,</l>
+<l>De parler librement d’un homme libre et maître</l>
+<l>De soi, d’un citoyen, d’un artiste, — obéis,</l>
+</lg>
+
+<lg>
+<l>Poète, à ton idée, et faisons ébahis !</l>
+<l>Les sots et les puissants, — même chose peut-être, —</l>
+<l>En célébrant cet homme, un soldat ? Non. Un prêtre ?</l>
+<l>Non ! tout cela dans toi, Picard, qui ne trahis</l>
+</lg>
+
+<lg>
+<l>Ni ta foi politique (en ce siècle critique</l>
+<l>Il sied vraiment d’avoir une foi politique).</l>
+<l>Ni la foi littéraire, artistique qu’il faut</l>
+</lg>
+
+<lg>
+<l>Avoir aussi pour consoler l’âme indignée</l>
+<l>Des choses de la vie encor que résignée</l>
+<l>Et pour laquelle on meurt aussi, car ce le vaut.</l>
+</lg>
+
+</poem>
+
+<p>Hôpital Broussais, juillet 1893.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p129">
+ <pagenum num="198"/>
+
+<h2>XCV</h2>
+
+<h2>A FRANCIS POICTEVIN</h2>
+
+<poem>
+
+<lg>
+<l>Toujours mécontent de son œuvre</l>
+<l>D’autant plus exquise de flou</l>
+<l>Et d’amour de l’art dûment fou</l>
+<l>Où la limace et la couleuvre</l>
+</lg>
+
+<lg>
+<l>Ne peuvent rien qu’user leur dent</l>
+<l>Et leur bave, n’est-ce pas, presse</l>
+<l>Littéraire en général. Qu’est-ce</l>
+<l>Que cet indicible imprudent</l>
+</lg>
+
+<lg>
+<l>Qui n’écrit pas pour la publique</l>
+<l>Moyenne et jamais ne réplique</l>
+<l>Aux haros que par le halo</l>
+</lg>
+
+<lg>
+<l>D’un esprit en bonne fortune,</l>
+<l>Mystérieux comme la Lune</l>
+<l>Clair et sinueux comme l’Eau.</l>
+</lg>
+
+</poem>
+
+<p>18 septembre 1894.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p130">
+ <pagenum num="199"/>
+
+<h2>XCVI</h2>
+
+<h2>A PH***</h2>
+
+<poem>
+
+<lg>
+<l>Le petit chien est mort. Quel dommage ! il était</l>
+<l>Si gentil ! Blanc pur que du jaune tachetait,</l>
+<l>D’un jaune on eût dit d’or brunissant. Sa gueugueule</l>
+<l>Et son nénez, roses tous deux, semblaient la seule</l>
+<l>Chose vivante en lui ; car son corps trop dodu</l>
+<l>Ne rendait pas le mouvement qui semblait dû</l>
+<l>A cet être qu’un charme spécial décore ;</l>
+<l>Quant à sa queue, elle était bien trop jeune encore</l>
+<l>Pour rire ou pour pleurer, pour frétiller, enfin,</l>
+<l>De joie ou de chagrin, ou de soif ou de faim.</l>
+<l>Il piaulait, jadis miaulait, même</l>
+<l>Piaillait, tant son cri formait la voix suprême</l>
+<l>De l’animal dans son innocence, oiseau, chat ;</l>
+<l>Mais du chien proprement, rien qui s’en rapprochât</l>
+<l>Qu’un grêle, si l’on veut aboiement plus semblable</l>
+<l>Au chant du colibri dans la forêt d’érable.</l>
+<l>Il nous léchait, le pauvre aveugle encore un peu,</l>
+<l>De sa langue imperceptible, quand, d’instinct, comme</l>
+ <pagenum num="200"/>
+<l>D’une flèche soudaine, il roula, le chétif être,</l>
+<l>Ses yeux tournés vers sa maîtresse et vers son maître,</l>
+<l>Et mourut, nous presque pleurant, tout blancs, tout sots,</l>
+<l>Ses pattes frêles en l’air, comme les oiseaux.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p131">
+ <pagenum num="201"/>
+
+<h2>XCVII</h2>
+
+<h2>AU GÉRANT DU MULLER</h2>
+
+<poem>
+
+<lg>
+<l>Vous êtes nancéien et moi je suis messin :</l>
+<l>Vive donc à jamais cette vieille Lorraine</l>
+<l>Qui nous vit naître et nous réchauffa dans son sein</l>
+<l>Et dont, fils pieux, nous baisons le front de reine.</l>
+</lg>
+
+<lg>
+<l>Captive, en attendant l’heure où le duc tocsin,</l>
+<l>Le pur tocsin à la voix terrible et sereine,</l>
+<l>Apre cri de gorgone et doux chant de sirène,</l>
+<l>Dictera le devoir messin et nancéien.</l>
+</lg>
+
+<lg>
+<l>— En attendant encor, hôte de la grand’ville,</l>
+<l>Malgré ton délice, ô bon « cru » de Tantonville</l>
+<l>Et tout ce que Munich vend de nectar trop clair</l>
+</lg>
+
+<lg>
+<l>Et tout ce que Dublin et tout ce que Bruxelles</l>
+<l>Brassent à l’intention de nos escarcelles,</l>
+<l>L’heure de savourer la bière de Müller.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p132">
+ <pagenum num="202"/>
+
+<h2>XCVIII</h2>
+
+<h2>A E...</h2>
+
+<h2><s>EN LUI OFFRANT « MES PRISONS »</s></h2>
+
+<poem>
+
+<lg>
+<l>Je suis prisonnier de tes yeux</l>
+<l>Toujours, — et parfois de tes bras.</l>
+<l>Mais ne plains pas ces embarras</l>
+<l>Qui ne sont guère qu’ocieux.</l>
+</lg>
+
+<lg>
+<l>L’odieux, ô mais, là c’est dur,</l>
+<l>C’est que mon cœur est en prison</l>
+<l>En même temps que ma raison</l>
+<l>Dans ton amitié, cachot pur !</l>
+</lg>
+
+<lg>
+<l>Et bien que trop intelligents,</l>
+<l>Mes désirs, quoique diligents,</l>
+<l>S’en ressentent jusqu’à parfois</l>
+</lg>
+
+<lg>
+<l>Ressembler à d’affreux courroux...</l>
+<l>Mais tu les mets sous les verroux</l>
+<l>De ta bonté, cœur, geste et voix.</l>
+</lg>
+
+</poem>
+
+<p>Le 8 mai 1893.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p133">
+ <pagenum num="203"/>
+
+<h2>XCIX</h2>
+
+<h2>A LÉOPOLD II, ROI DES BELGES</h2>
+
+<poem>
+
+<lg>
+<l>Je vous aime Français et roi je vous respecte.</l>
+<l>Beaucoup de votre sang circule en moi. Beaucoup</l>
+<l>Du mien bat en vos veines et le tout</l>
+<l>Se dit compatriote en langue bien correcte.</l>
+</lg>
+
+<lg>
+<l>Vous êtes souverain et je suis un insecte.</l>
+<l>Citoyen d’une république « à tant le coup »</l>
+<l>(Comme à St-Cloud !), mouton en grand danger du loup</l>
+<l>Sous un berger dormeur que se bouger affecte ;</l>
+</lg>
+
+<lg>
+<l>Votre hôte d’un instant, partout un peu fêté.</l>
+<l>Parlant de poésie et de pure beauté,</l>
+<l>Épris de votre si gente et forte Belgique !</l>
+</lg>
+
+<lg>
+<l>A peine moi parti, l’émeute fit son cri,</l>
+<l>Que vous domptâtes d’un clément geste énergique</l>
+<l>Car vous êtes vraiment un fils du roi Henry !</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p134">
+ <pagenum num="204"/>
+
+<h2>C</h2>
+
+<h2>L’AIMÉE</h2>
+
+<poem>
+
+<lg>
+<l>Voici des cheveux gris et de la barbe grise.</l>
+<l>Tu me les demandas en un jour d’enjouement</l>
+<l>Pour, disais-tu, les encadrer bien gentiment</l>
+<l>Autour de ce portrait ou ma « grâce » agonise.</l>
+</lg>
+
+<lg>
+<l>Pauvre photo ! Mais j’y pense, il sera de mise,</l>
+<l>Quand mes yeux fatigués se seront clos dûment</l>
+<l>Et que la terre bercera son fils dormant,</l>
+<l>Il sera de saison alors, chérie — exquise</l>
+</lg>
+
+<lg>
+<l>Attention ! — de faire avec ces cheveux, teints</l>
+<l>A cette barbe, teinte en boucles blondes, brunes</l>
+<l>Ou telle autre nuance entre tant d’opportunes,</l>
+</lg>
+
+<lg>
+<l>Faire, par un coiffeur de choix, sur des fonds peints</l>
+<l>D’avance, le tombeau, lors pleuré sans astuce</l>
+<l>Du jeune homme qu’il aurait fallu que je fusse.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p135">
+ <pagenum num="205"/>
+
+<h2>CI</h2>
+
+<h2>AU COMTE DE MONTESQUIOU-FEZENSAC</h2>
+
+<poem>
+
+<lg>
+<l>Le poète infini qui, doublant et triplant</l>
+<l>Les nuances, sonda jusques à nos scrupules,</l>
+<l>Crevant les mauvais arguments comme ces bulles</l>
+<l>De savon qu’il suffit de détruire en soufflant.</l>
+</lg>
+
+<lg>
+<l>Le voilà, composant d’un geste sobre et lent,</l>
+<l>Un bouquet frais cueilli, lors des doux crépuscules</l>
+<l>Tombant, « dahlia, lis, tulipe et renoncule »</l>
+<l>Et toutes fleurs au monde et par delà, relent</l>
+</lg>
+
+<lg>
+<l>Mystique qu’il fallait pour compléter la fête</l>
+<l>Parfumée où le mage exquis nous conviait,</l>
+<l>Et dont nous jouissions d’un frisson inquiet.</l>
+</lg>
+
+<lg>
+<l>J’admire le penseur subtil et l’àpre esthète</l>
+<l>Des pensers voletant comme <i>chauves-souris</i>,</l>
+<l>Mais j’aime le fin enchanteur aux sorts fleuris.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p136">
+ <pagenum num="206"/>
+
+<h2>CII</h2>
+
+<h2>GABRIEL DE YTURRY</h2>
+
+<poem>
+
+<lg>
+<l>Yturry ! C’est un nom terrible,</l>
+<l>Évocation de Pyrénées</l>
+<l>Prises, reprises, rançonnées</l>
+<l>Par un chef au visage horrible.</l>
+</lg>
+
+<lg>
+<l>Œil de feu sous le sombrero</l>
+<l>Il se moque un peu du bourreau,</l>
+<l>Tel le torero du taureau,</l>
+<l>Balles pleuvent comme d’un crible,</l>
+</lg>
+
+<lg>
+<l>Femmes se sauvant, dépeignées,</l>
+<l>Par quels bras affreux empoignées,</l>
+<l>Tout voyageur est une cible...</l>
+</lg>
+
+<lg>
+<l>Fi ! c’est le Cavalier exquis</l>
+<l>Tout à l’ami qu’il a conquis</l>
+<l>Parmi quelques Amaéguis.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p137">
+ <pagenum num="207"/>
+
+<h2>CIII</h2>
+
+<h2>A AURÉL1EN SCHOLL</h2>
+
+<poem>
+
+<lg>
+<l>A seize ans, l’âge du bachot épouvantable</l>
+<l>D’antan, et du bachot bizarre d’aujourd’hui,</l>
+<l>Comme nous nous passions « Denise » sous la table,</l>
+<l>En nous disant tout bas : Lis, mon bon, c’est de Lui !</l>
+</lg>
+
+<lg>
+<l>A l’Escrime, le seul de nos maîtres sortable,</l>
+<l>Robert, nous démontrait quelque coup inouï</l>
+<l>D’audace magnifique ou de ruse admirable</l>
+<l>Et nous clamions à plein gosier : Ça c’est de Lui !</l>
+</lg>
+
+<lg>
+<l>Lui ! c’est vous. Et, depuis, par la vie où le lucre,</l>
+<l>Où le rêve vont nous usant, qu’on aime donc</l>
+<l>Votre amère sagesse et l’esprit qui la sucre</l>
+</lg>
+
+<lg>
+<l>Et la sale et la poivre et, souples, tel le jonc</l>
+<l>Qui vous fut coutumier au dam de maintes faces</l>
+<l>Et maints dos, vos mots pleins de grâces et d’audaces.</l>
+</lg>
+
+</poem>
+
+<p>Hôpital Broussais, 28 août 1893.</p>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p138">
+ <pagenum num="208"/>
+
+<h2>CIV</h2>
+
+<h2>A LÉON DIERX</h2>
+
+<p class="r3"><i>Dierz le volt.</i></p>
+
+<poem>
+
+<lg>
+<l>Dierx ! dont le nom fait pour la gloire sonne clair</l>
+<l>Comme une bonne épée en la main d’un héros.</l>
+<l>Qu’avons-nous de commun, nous, rois avec ce gros</l>
+<l>De rustres s’en allant en guerre de quel air ?</l>
+</lg>
+
+<lg>
+<l>Nous, rois de l’infini, du Ciel et de l’Enfer</l>
+<l>Qu’Héphaistos a vêtus et que délace Eros,</l>
+<l>Et qui, de tous les dieux, de Corinthe à Paros,</l>
+<l>Avons fait nos égaux, bronze et marbre, or et fer !</l>
+</lg>
+
+<lg>
+<l>Car le poète, enfin vainqueur et hors aux foules,</l>
+<l>Comme Poséidon met du geste un frein des houles</l>
+<l>Et règne, tel que Zeus, d’un pli de ses sourcils.</l>
+</lg>
+
+<lg>
+<l>Hélas ! c’est faux de moi, tige au plus qui fleuronne,</l>
+<l>Mais, ô vous, calme ennui de splendides soucis,</l>
+<l>Portez, olympien, le nimbe et la couronne.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p139">
+ <pagenum num="209"/>
+
+<h2>CV</h2>
+
+<h2>A M <sup>me</sup> J***</h2>
+
+<p class="r3"><i>En vers libres.</i></p>
+
+<poem>
+
+<lg>
+<l>Je vous ai promis mon sonnet pour ce soir.</l>
+<l>En revanche vous m’avez promis une récompense</l>
+<l>Certes imméritée, et voici que j’y pense.</l>
+<l>Et depuis lors je vis dans un si doux et vague espoir.</l>
+</lg>
+
+<lg>
+<l>Mais que pour moi l’avenir serait noir</l>
+<l>Si, pendant que je rêve à la bonne bombance</l>
+<l>Espérée et promise et voici que je panse</l>
+<l>La blessure que me ferait de ne pas voir</l>
+</lg>
+
+<lg>
+<l>De mes yeux presque en pleurs dans cette incertitude</l>
+<l>Vos yeux sourirent avec plus de mansuétude</l>
+<l>Que de coutume envers l’œuvre et, de plus l’auteur.</l>
+</lg>
+
+<lg>
+<l>Et j’ai fait ces vers-ci qu’il fallait que je fisse,</l>
+<l>Ne vous faisant d’ailleurs pas d’autre sacrifice</l>
+<l>Que de vous plaire un peu, bien qu’un peu radoteur.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p140">
+ <pagenum num="210"/>
+
+<h2>III</h2>
+
+<h2>BALLADE</h2>
+
+<h2><s>EN FAVEUR DES DÉNOMMÉS DÉCADENTS ET SYMBOLISTES</s></h2>
+
+<p class="r3"><i>A Léon Vanier</i></p>
+
+<poem>
+
+<lg>
+<l>Quelques-uns dans tout ce Paris</l>
+<l>Nous vivons d’orgueil et de dèche.</l>
+<l>D’alcool encore qu’épris</l>
+<l>Nous buvons surtout de l’eau fraîche</l>
+<l>En cassant la croûte un peu sèche.</l>
+<l>A d’autres fins mets et grands vins</l>
+<l>Et la beauté jamais revêche !</l>
+<l>Nous sommes les bons écrivains.</l>
+</lg>
+
+<lg>
+<l>Phœbé, quand tous les chats sont gris,</l>
+<l>Effile d’une pointe rêche</l>
+<l>Nos corps par la gloire nourris</l>
+<l>Dont l’enfer, au guet, se pourlèche,</l>
+<l>Et <correction original="Pœbus">Phœbus</correction> nous lança sa flèche,</l>
+<l>La nuit nous berce en songes vains</l>
+<l>Sur des lits de noyaux de pêche.</l>
+<l>Nous sommes les bons écrivains</l>
+</lg>
+
+ <pagenum num="211"/>
+
+<lg>
+<l>Beaucoup de beaux esprits ont pris</l>
+<l>L’enseigne de l’Homme qui bêche,</l>
+<l>Et Lemerre tient les paris,</l>
+<l>Plus d’un encor se dépêche</l>
+<l>Et tâche d’entrer par la brèche ;</l>
+<l>Mais Vanier à la fin des fins</l>
+<l>Seul eut de la chance à la pêche.</l>
+<l>Nous sommes les bons écrivains.</l>
+</lg>
+
+<h2><s>ENVOI</s></h2>
+
+<lg>
+<l>Bien que la bourse chez nous pèche,</l>
+<l>Princes, rions, doux et divins.</l>
+<l>Quoi que l’on dise ou que l’on prêche.</l>
+<l>Nous sommes les bons écrivains.</l>
+</lg>
+
+</poem>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="p141">
+ <pagenum num="212"/>
+
+<h2>IC</h2>
+
+<h2>BALLADE</h2>
+
+<h2><s>POUR S’INCITER A L’INSOUCI</s></h2>
+
+<p class="r3"><i>A Maurice Barrès.</i></p>
+
+<poem>
+
+<lg>
+<l>J’ai cette honneur d’avoir des ennemis</l>
+<l>D’ordre privé, dont je suis trop bien aise</l>
+<l>Et m’esjouis autant qu’il est permis,</l>
+<l>Car la vie autrement serait fadaise</l>
+<l>Et, parlons clair, une bonne foutaise.</l>
+<l>Or j’en ai moult, non des moins furieux</l>
+<l>Mais, comme on dit, ardents, chauds comme braise :</l>
+<l>Mes ennemis sont des gens sérieux.</l>
+</lg>
+
+<lg>
+<l>Ils ont passé ma substance au tamis,</l>
+<l>Argent et tout, fors ma gaîté française</l>
+<l>Et mon honneur humain qui, j’en frémis,</l>
+<l>Eussent bien pu déchoir en la fournaise</l>
+<l>Où leur cuisine excellemment mauvaise</l>
+<l>Grille et bout, pour quels goûts injurieux ?</l>
+<l>Sottise, Lucre et Haine qui biaise ?</l>
+<l>Mes ennemis sont des gens sérieux.</l>
+</lg>
+
+ <pagenum num="213"/>
+
+<lg>
+<l>Ils iraient bien jusqu’au crime commis.</l>
+<l>Satan les guide et son souffle les baise.</l>
+<l>Prière au ciel d’en garder mes amis.</l>
+<l>Caïn, certes, était dans leur genèse</l>
+<l>Et son péché forme leur exégèse.</l>
+<l>Leur discours va flatteur et captieux :</l>
+<l>Tel un serpent rampe en un plan de fraise.</l>
+<l>Mes ennemis sont des gens sérieux.</l>
+</lg>
+
+<h2><s>ENVOI</s></h2>
+
+<lg>
+<l>Prince des cœurs que rien ne déniaise,</l>
+<l>Mon cœur tout rond, tout franc, tout glorieux</l>
+<l>De battre, et d’être, et d’aimer qui te plaise,</l>
+<l>Mes ennemis sont des gens sérieux.</l>
+</lg>
+
+</poem>
+
+ <pagenum num="214"/>
+
+</div>
+</page-sequence>
+<page-sequence>
+<div id="table">
+ 
+ <pagenum num="443"/>
+
+<h1>TABLE</h1>
+
+<vsep class="rule"/>
+
+<table>
+<tbody>
+<tr><td>I.</td><td><a idref="p30">Ballade touchant un point d’histoire</a></td></tr>
+<tr><td>II.</td><td><a idref="p31">Ballade en vue d’honorer les Parnassiens</a></td></tr>
+<tr><td>I.</td><td><a idref="p32">A Jules Tellier</a></td></tr>
+<tr><td>II.</td><td><a idref="p33">Au même</a></td></tr>
+<tr><td>III.</td><td><a idref="p34">A François Coppée</a></td></tr>
+<tr><td>IV.</td><td><a idref="p35">J.-K. Huysmans</a></td></tr>
+<tr><td>V.</td><td><a idref="p36">A Stéphane Mallarmé</a></td></tr>
+<tr><td>VI.</td><td><a idref="p37">A Jean Moréas</a></td></tr>
+<tr><td>VII.</td><td><a idref="p38">Laurent Tailhade</a></td></tr>
+<tr><td>VIII.</td><td><a idref="p39">A Villiers de l’Isle-Adam</a></td></tr>
+<tr><td>IX.</td><td><a idref="p40">Léon Bloy</a></td></tr>
+<tr><td>X.</td><td><a idref="p41">A Raoul Ponchon</a></td></tr>
+<tr><td>XI.</td><td><a idref="p42">A.-F. Cazals</a></td></tr>
+<tr><td>XII.</td><td><a idref="p43">A Germain Nouveau</a></td></tr>
+<tr><td>XIII.</td><td><a idref="p44">Maurice Bouchor</a></td></tr>
+<tr><td>XIV.</td><td><a idref="p45">Henry d’Argis</a></td></tr>
+<tr><td>XV.</td><td><a idref="p46">A Ernest Raynaud</a></td></tr>
+<tr><td>XvI.</td><td><a idref="p47">Raymond de la Tailhède</a></td></tr>
+<tr><td>XVII.</td><td><a idref="p48">A Armand Silvestre</a></td></tr>
+<tr><td>XVIII.</td><td><a idref="p49">Fernand <correction original="Langlois">L’Anglois</correction></a></td></tr>
+<tr><td>XIX.</td><td><a idref="p50">A Irénée Decroix</a></td></tr>
+<tr><td>XX.</td><td><a idref="p51">A George Bonnamour</a></td></tr>
+<tr><td>XXI.</td><td><a idref="p52">A Paterne Berrichon</a></td></tr>
+<tr><td>XXII.</td><td><a idref="p53">A Gabriel Échaupre</a></td></tr>
+<tr><td>XXIII.</td><td><a idref="p54">Au docteur Guilland</a></td></tr>
+<tr><td>XXIV.</td><td><a idref="p55">A Louis et Jean Jullien</a></td></tr>
+<tr><td>XXV.</td><td><a idref="p56">A Émile Le Brun</a></td></tr>
+<tr><td>XXVI.</td><td><a idref="p57">A Henri Mercier</a></td></tr>
+<tr><td>XXVII.</td><td><a idref="p58">A Adrien Remacle</a></td></tr>
+<tr><td>XXVIII.</td><td><a idref="p59">A Armand Sinval</a></td></tr>
+<tr><td>XXIX.</td><td><a idref="p60">A Charles de Sivry</a></td></tr>
+<tr><td>XXX.</td><td><a idref="p61">A Charles Vesseron</a></td></tr>
+<tr><td>XXXI.</td><td><a idref="p62">A Gabriel Vicaire</a></td></tr>
+<tr><td>XXXII.</td><td><a idref="p63">A Émile Blémont</a></td></tr>
+<tr><td>XXVIII.</td><td><a idref="p64">A Emmanuel Chabrier</a></td></tr>
+<tr><td>XXXIV.</td><td><a idref="p65">A Ernest Delahaye</a></td></tr>
+<tr><td>XXXV.</td><td><a idref="p66">A Maurice du <correction original="Plessy">Plessys</correction></a></td></tr>
+<tr><td>XXXVI.</td><td><a idref="p67">Charles Morice</a></td></tr>
+<tr><td>XXXVII.</td><td><a idref="p68">A Edmond Thomas</a></td></tr>
+<tr><td>XXXVIII.</td><td><a idref="p69">A mes amis de là-bas</a></td></tr>
+<tr><td>XXXIX.</td><td><a idref="p70">Quatorza1n pour tous</a></td></tr>
+<tr><td>XL.</td><td><a idref="p71">Quatorzain pour toutes</a></td></tr>
+<tr><td>XLI.</td><td><a idref="p72">A G*****</a></td></tr>
+<tr><td>XLII.</td><td><a idref="p73">Encore pour G...</a></td></tr>
+<tr><td>XLIII.</td><td><a idref="p74">Pour S...</a></td></tr>
+<tr><td>XLIV.</td><td><a idref="p75">Chanson pour L...</a></td></tr>
+<tr><td>XLV.</td><td><a idref="p76">A ***</a></td></tr>
+<tr><td>XLVI.</td><td><a idref="p77">Le pinson d’E***</a></td></tr>
+<tr><td>XLVII.</td><td><a idref="p78">A E...</a></td></tr>
+<tr><td>XLVIII.</td><td><a idref="p79">A E... pour ses étrennes</a></td></tr>
+<tr><td>XLIX.</td><td><a idref="p80">A ***</a></td></tr>
+<tr><td>L.</td><td><a idref="p81">A la même</a></td></tr>
+<tr><td>LI.</td><td><a idref="p82">Pour la même</a></td></tr>
+<tr><td>LII.</td><td><a idref="p83">A une dame qui partait pour la Colombie</a></td></tr>
+<tr><td>LIII.</td><td><a idref="p84">A E*** I</a></td></tr>
+<tr><td>LIII.</td><td><a idref="p85">A E*** II</a></td></tr>
+<tr><td>LIV.</td><td><a idref="p86">Anniversaire, à William Rothenstein</a></td></tr>
+<tr><td>LV.</td><td><a idref="p87">A mon éditeur I. Misère</a></td></tr>
+<tr><td>LV.</td><td><a idref="p88">A mon éditeur II. Richesse</a></td></tr>
+<tr><td>LVI.</td><td><a idref="p89">A Léon Vanier I.</a></td></tr>
+<tr><td>LVI.</td><td><a idref="p90">A Léon Vanier II. (Suite du 1<sup>er</sup> sonnet)</a></td></tr>
+<tr><td>LVII.</td><td><a idref="p91">Toast à distance, aux Rosati</a></td></tr>
+<tr><td>LVIII.</td><td><a idref="p92">Manchester, à Théodore C. London</a></td></tr>
+<tr><td>LIX.</td><td><a idref="p93">Fountain Court, à Arthur Symons</a></td></tr>
+<tr><td>LX.</td><td><a idref="p94">A Edmond Lepelletier</a></td></tr>
+<tr><td>LXI.</td><td><a idref="p95">Jean Richepin</a></td></tr>
+<tr><td>LXII.</td><td><a idref="p96">A Arthur Rimbaud. I</a></td></tr>
+<tr><td>LXIII.</td><td><a idref="p97">A Arthur Rimbaud. II</a></td></tr>
+<tr><td>LXIV.</td><td><a idref="p98">A M<sup>lle</sup> Renée Zilcken</a></td></tr>
+<tr><td>LXV.</td><td><a idref="p99">A M<sup>lle</sup> Eveline</a></td></tr>
+<tr><td>LXVI.</td><td><a idref="p100">A M<sup>lle</sup> Léonie R...</a></td></tr>
+<tr><td>LXVII.</td><td><a idref="p101">A M<sup>lle</sup> Jeanne Vanier</a></td></tr>
+<tr><td>LXYIII.</td><td><a idref="p102">SUR un buste de moi, pour mon ami Niederhausern</a></td></tr>
+<tr><td>LXIX.</td><td><a idref="p103">A Raymond Maygrier</a></td></tr>
+<tr><td>LXX.</td><td><a idref="p104">A M<sup>lle</sup> Adèle</a></td></tr>
+<tr><td>LXXI.</td><td><a idref="p105">A M<sup>me</sup> Marie A..., pour sa fète</a></td></tr>
+<tr><td>LXXII.</td><td><a idref="p106">A Rodolphe Darzens</a></td></tr>
+<tr><td>LXXIII.</td><td><a idref="p107">A Henri Bossanne</a></td></tr>
+<tr><td>LXXIV.</td><td><a idref="p108">A Max Rosa</a></td></tr>
+<tr><td>LXXV.</td><td><a idref="p109">A M<sup>lle</sup> A. Rom***</a></td></tr>
+<tr><td>LXXVI.</td><td><a idref="p110">A A. Duvigneaux</a></td></tr>
+<tr><td>LXXVII.</td><td><a idref="p111">A Rodolphe Salis</a></td></tr>
+<tr><td>LVXIII.</td><td><a idref="p112">A Léon Cladel</a></td></tr>
+<tr><td>LXXIX.</td><td><a idref="p113">Pour Marie***, à F.-A. Cazals</a></td></tr>
+<tr><td>LXXX.</td><td><a idref="p114">A Gustave Lerouge</a></td></tr>
+<tr><td>LXXXI.</td><td><a idref="p115">Au Compagnon Lartigues</a></td></tr>
+<tr><td>LXXXII.</td><td><a idref="p116">A M. le docteur Chauffart</a></td></tr>
+<tr><td>LXXXIII.</td><td><a idref="p117">A Aman Jean, sur un portrait enfin reposé de moi</a></td></tr>
+<tr><td>LXXXIV.</td><td><a idref="p118">A M<sup>me</sup> Marie P...</a></td></tr>
+<tr><td>LXXXV.</td><td><a idref="p119">A César C.</a></td></tr>
+<tr><td>LXXXV.</td><td><a idref="p120">A Bibi-Purée</a></td></tr>
+<tr><td>LXXXVIII.</td><td><a idref="p121">A un passant</a></td></tr>
+<tr><td>LXXXVIII.</td><td><a idref="p122">Pour Roberte</a></td></tr>
+<tr><td>LXXXIX.</td><td><a idref="p123">Au Vicomte de Lautrec</a></td></tr>
+<tr><td>XC.</td><td><a idref="p124">Pour M<sup>lle</sup> D. A.</a></td></tr>
+<tr><td>XCI.</td><td><a idref="p125">A Ph... I</a></td></tr>
+<tr><td>XCII.</td><td><a idref="p126">A la même. II</a></td></tr>
+<tr><td>XCIII.</td><td><a idref="p127">A la même. III</a></td></tr>
+<tr><td>XCIV.</td><td><a idref="p128">A Edmond Picard</a></td></tr>
+<tr><td>XCV.</td><td><a idref="p129">A Francis Poictevin</a></td></tr>
+<tr><td>XCVI.</td><td><a idref="p130">A Ph...</a></td></tr>
+<tr><td>XCVII.</td><td><a idref="p131">Au Gérant du Muller</a></td></tr>
+<tr><td>XCVIII.</td><td><a idref="p132">A E... en lui offrant <i>Mes Prisons</i></a></td></tr>
+<tr><td>XCIX.</td><td><a idref="p133">A Léopold II, roi des Belges</a></td></tr>
+<tr><td>C.</td><td><a idref="p134">A l’aimée</a></td></tr>
+<tr><td>CI.</td><td><a idref="p135">Au comte Robert de Montesquiou-Fezensac</a></td></tr>
+<tr><td>CII.</td><td><a idref="p136">Gabriel de Yturry</a></td></tr>
+<tr><td>CIII.</td><td><a idref="p137">A Aurél1en Scholl</a></td></tr>
+<tr><td>CIV.</td><td><a idref="p138">A Léon Dierx</a></td></tr>
+<tr><td>CV.</td><td><a idref="p139">A M<sup>me</sup> J***</a></td></tr>
+<tr><td>III.</td><td><a idref="p140">Ballade en faveur des dénommés décadents symbolistes</a></td></tr>
+<tr><td>&#x2001;</td><td><a idref="p141">Ballade pour s’inciter à l’insouci</a></td></tr>
+</tbody>
+</table>
+
+
+</div>
+</page-sequence>
+ </page-sequences>
+</bml>

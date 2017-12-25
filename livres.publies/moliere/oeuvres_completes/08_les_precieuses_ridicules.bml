@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000484"
+        creation="2016-12-30T15:29:42-08:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Les Précieuses ridicules</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='8'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="preface" label="Preface"/>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="sc01" label="Scène I"/>
+    <tocentry idref="sc02" label="Scène II"/>
+    <tocentry idref="sc03" label="Scène III"/>
+    <tocentry idref="sc04" label="Scène IV"/>
+    <tocentry idref="sc05" label="Scène V"/>
+    <tocentry idref="sc06" label="Scène VI"/>
+    <tocentry idref="sc07" label="Scène VII"/>
+    <tocentry idref="sc08" label="Scène VIII"/>
+    <tocentry idref="sc09" label="Scène IX"/>
+    <tocentry idref="sc10" label="Scène X"/>
+    <tocentry idref="sc11" label="Scène XI"/>
+    <tocentry idref="sc12" label="Scène XII"/>
+    <tocentry idref="sc13" label="Scène XIII"/>
+    <tocentry idref="sc14" label="Scène XIV"/>
+    <tocentry idref="sc15" label="Scène XV"/>
+    <tocentry idref="sc16" label="Scène XVI"/>
+    <tocentry idref="sc17" label="Scène XVII"/>
+    <tocentry idref="sc18" label="Scène XVIII"/>
+    <tocentry idref="sc19" label="Scène XIX"/>
+  </toc>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="178"/>
+
+<img src="images/frise6.png" class="center100" alt="frise"/>
+
+<h1>LES PRÉCIEUSES RIDICULES</h1>
+
+<h2>COMÉDIE EN UN ACTE</h2>
+
+<vsep class="rule"/>
+
+<h3 id="preface">PRÉFACE DE L’AUTEUR</h3>
+
+<p>C’est une chose étrange qu’on imprime les gens malgré eux. Je ne vois rien de si injuste, et je pardonnerais toute autre violence plutôt que celle-là.</p>
+
+<p>Ce n’est pas que je veuille faire ici l’auteur modeste, et mépriser, par honneur, ma comédie. J’offenserois mal à propos tout Paris, si je l’accusois d’avoir pu applaudir à une sottise. Comme le public est le juge absolu de ces sortes d’ouvrages, il y aurait de l’impertinence à moi de le démentir ; et, quand j’aurois eu la plus mauvaise opinion du monde de mes <i>Précieuses ridicules</i> avant leur représentation, je dois croire maintenant qu’elles valent quelque chose, puisque tant de gens ensemble en ont dit du bien. Mais, comme une grande partie des grâces qu’on y a trouvées dépendent de l’action et du ton de voix, il m’importoit qu’on ne les dépouillât pas de ces ornements ; et je trouvois que le succès qu’elles avoient eu dans la représentation étoit assez beau pour en demeurer là. J’avois résolu, dis-je, de ne les faire voir qu’à la chandelle, pour ne point donner lieu à quelqu’un de dire le proverbe<noteref noteid="note.178.1"/> ; et je ne voulois pas qu’elles sautassent du théâtre de Bourbon dans la galerie du Palais<noteref noteid="note.178.2"/>. Cependant je n’ai pu l’éviter, et je suis tombé dans la disgrâce de voir une copie dérobée de ma pièce entre les mains des libraires, accompagnée d’un privilège obtenu par surprise. J’ai eu beau crier : O temps ! ô mœurs ! on m’a fait voir une nécessité pour moi d’être imprimé, ou d’avoir un procès ; et le dernier mal est encore pire que le premier. Il faut donc se laisser aller à la destinée, et consentir à une chose qu’on ne laisserait pas de faire sans moi.</p>
+
+<notes>
+  <note id="note.178.1">
+    <p>Molière fait allusion à ce proverbe : « Elle est belle à la chandelle ; mais le grand jour gâte tout ».</p>
+  </note>
+  <note id="note.178.2">
+    <p>C’est là, chez Barbin, chez de Luynes ou chez Trabouillet que se vendaient les pièces nouvelles. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<p>Mon Dieu ! l’étrange embarras qu’un livre à mettre au jour, et qu’un auteur est neuf la première fois qu’on l’imprime ! Encore si l’on m’avoit donné du temps, j’aurois pu mieux songer à moi, et j’aurois pris toutes les précautions que messieurs les auteurs, à présent mes confrères, ont <pagenum num="179"/>coutume de prendre en semblables occasions. Outre quelque grand seigneur que j’aurois été prendre malgré lui pour protecteur de mon ouvrage, et dont j’aurois tenté la libéralité par une épître dédicatoire bien fleurie, j’aurois tâché de faire une belle et docte préface ; et je ne manque point de livres qui m’auroient fourni tout ce qu’on peut dire de savant sur la tragédie et la comédie, l’étymologie de toutes deux, leur origine, leur définition et le reste.</p>
+
+<p>J’aurois parlé aussi à mes amis, qui, pour la recommandation de ma pièce, ne m’auroient pas refusé, ou des vers françois, ou des vers latins. J’en ai même qui m’auroient loué en grec ; et l’on n’ignore pas qu’une louange en grec est d’une merveilleuse efficace à la tête d’un livre. Mais on me met au jour sans me donner le loisir de me reconnoître ; et je ne puis même obtenir la liberté de dire deux mots pour justifier mes intentions sur le sujet de cette comédie. J’aurois voulu faire voir qu’elle se tient partout dans les bornes de la satire honnête et permise ; que les plus excellentes choses sont sujettes à être copiées par de mauvais singes qui méritent d’être bernés<noteref noteid="note.179.1"/> ; que ces vicieuses imitations de ce qu’il y a de plus parfait ont été de tout temps la matière de la comédie ; et que, par la même raison, les véritables savants et les vrais braves ne se sont point encore avisés de s’offenser du Docteur de la comédie, et du Capitan ; non plus que les juges, les princes et les rois, de voir Trivelin<noteref noteid="note.179.2"/>, ou quelque autre, sur le théâtre, faire ridiculement le juge, le prince ou le roi : aussi les véritables précieuses auroient tort de se piquer, lorsqu’on joue les ridicules qui les imitent mal. Mais enfin, comme j’ai dit, on ne me laisse pas le temps de respirer, et M. de Luynes veut m’aller relier de ce pas ; à la bonne heure, puisque Dieu l’a voulu.</p>
+
+<notes>
+  <note id="note.179.1">
+    <p>Ce passage est d’autant plus adroit, que Molière attaquait une coterie fort puissante. Les deux provinciales <i>méritent d’étre bernées</i>, maïs elles ont copié d’<i>excellentes choses</i>. Il est clair cependant que ces excellentes choses sont précisément celles que Molière va couvrir de ridicule. (Aimé Martin.)</p>
+  </note>
+  <note id="note.179.2">
+    <p>Le <i>Docteur</i>, le <i>Capîtan</i> et <i>Trivelin</i>, étaient trois personnages ou caractères appartenant à la farce italienne. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">LA GRANGE, amant rebuté.</p>
+<p class="sommaire">D<s>U</s> CROISY, amant rebuté.</p>
+<p class="sommaire">GORGIBUS, bon bourgeois.</p>
+<p class="sommaire">MADELON, fille de Gorgibus, précieuse ridicule.</p>
+<p class="sommaire">CATHOS, nièce de Gorgibus, précieuse ridicule.</p>
+<p class="sommaire">MAROTTE, servante des précieuses ridicules.</p>
+<p class="sommaire">ALMANZOR, laquais des précieuses ridicules.</p>
+<p class="sommaire">L<s>E MARQUIS DE</s> MASCARILLE, valet de la Grange,</p>
+<p class="sommaire">L<s>E VICOMTE DE</s> JODELET, valet de du Croisy.</p>
+<p class="sommaire">D<s>EUX</s> P<s>ORTEURS DE CHAISES</s>.</p>
+<p class="sommaire">V<s>OISINES</s>.</p>
+<p class="sommaire">V<s>IOLONS</s>.</p>
+
+<vsep class="rule"/>
+
+<h3 id="sc01">SCÈNE I. — LA GRANGE, DU CROISY</h3>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Seigneur la Grange !</p>
+
+<pagenum num="180"/>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>Quoi ?</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Regardez-moi un peu sans rire.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>Eh bien ?</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Que dites-vous de notre visite ? En êtes-vous fort satisfait ?</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>A votre avis, avons-nous sujet de l’être tous deux ?</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Pas tout à fait, à dire vrai.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>Pour moi, je vous avoue que j’en suis tout scandalisé. A-t-on jamais vu, dites-moi, deux pecques provinciales faire plus les renchéries que celles-là, et deux hommes traités avec plus de mépris que nous ? A peine ont-elles pu se résoudre à nous faire donner des sièges. Je n’ai jamais vu tant parler à l’oreille qu’elles ont fait entre elles, tant bâiller, tant se frotter les yeux, et demander tant de fois : Quelle heure est-il ? Ont-elles répondu que oui et non à tout ce que nous avons pu leur dire ? et ne m’avouerez-vous pas enfin que, quand nous aurions été les dernières personnes du monde, on ne pouvait nous faire pis qu’elles ont fait ?</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Il me semble que vous prenez la chose fort à cœur.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>Sans doute, je l’y prends, et de telle façon, que je me veux venger de cette impertinence. Je connois ce qui nous a fait mépriser. L’air précieux n’a pas seulement infecté Paris, il s’est aussi répandu dans les provinces, et nos donzelles ridicules en ont humé leur bonne part. En un mot, c’est un ambigu de précieuse et de coquette que leur personne. Je vois ce qu’il faut être pour en être bien reçu ; et, si vous m’en croyez, nous leur jouerons tous deux une pièce qui leur fera voir leur sottise, et pourra leur apprendre à connoître un peu mieux leur monde.</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Et comment, encore ?</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>J’ai un certain valet, nommé Mascarille, qui passe, au <pagenum num="181" b="sen-" a="timent">sentiment</pagenum> de beaucoup de gens, pour une manière de bel esprit ; car il n’y a rien à meilleur marché que le bel esprit maintenant. C’est un extravagant, qui s’est mis dans la tête de vouloir faire l’homme de condition. Il se pique ordinairement de galanterie et de vers, et dédaigne les autres valets jusqu’à les appeler brutaux.</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Eh bien, qu’en prétendez-vous faire ?</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>Ce que j’en prétends faire ? Il faut... Mais sortons d’ici auparavant.</p>
+
+<h3 id="sc02">SCÈNE II. — GORGIBUS, DU CROISY, LA GRANGE</h3>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Eh bien, vous avez vu ma nièce et ma fille ? Les affaires iront-elles bien ? Quel est le résultat de cette visite ?</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>C’est une chose que vous pourriez mieux apprendre d’elles que de nous. Tout ce que nous pouvons vous dire, c’est que nous vous rendons grâce de la faveur que vous nous avez faite, et demeurons vos très humbles serviteurs.</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Vos très humbles serviteurs.</p>
+
+<hstage><speaker>GORGIBUS</speaker>, seul.</hstage>
+<p>Ouais ! il semble qu’ils sortent mal satisfaits d’ici. D’où pourroit venir leur mécontentement ? Il faut savoir un peu ce que c’est. Holà !</p>
+
+<h3 id="sc03">SCÈNE III. — GORGIBUS, MAROTTE</h3>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Que désirez-vous, monsieur ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Où sont vos maîtresses ?</p>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Dans leur cabinet.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Que font-elles ?</p>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>De la pommade pour les lèvres.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>C’est trop pommadé : dites-leur qu’elles descendent.</p>
+
+<pagenum num="182"/>
+
+<h3 id="sc04">SCÈNE IV. — GORGIBUS, <i>seul</i>.</h3>
+
+<p>Ces pendardes-là, avec leur pommade, ont, je pense, envie de me ruiner. Je ne vois partout que blancs d’œufs, lait virginal, et mille autres brimborions que je ne connois point. Elles ont usé, depuis que nous sommes, ici, le lard d’une douzaine de codions, pour le moins ; et quatre valets vivroient tous les jours des pieds de mouton qu’elles emploient.</p>
+
+<h3 id="sc05">SCÈNE V. — MADELON, CATHOS, GORGIBUS</h3>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Il est bien nécessaire vraiment de faire tant de dépense pour vous graisser le museau ! Dites-moi un peu ce que vous avez fait à ces messieurs, que je les vois sortir avec tant de froideur ! Vous avois-je pas commandé de les recevoir comme des personnes que je voulois vous donner pour maris ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Et quelle estime, mon père, voulez-vous que nous fassions du procédé irrégulier de ces gens-là ?</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Le moyen, mon oncle, qu’une fille un peu raisonnable se pût accommoder de leur personne ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Et qu’y trouvez-vous à redire ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>La belle galanterie que la leur ! Quoi ! débuter d’abord par le mariage ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Et par où veux-tu donc qu’ils débutent ? par le concubinage ? N’est-ce pas un procédé dont vous avez sujet de vous louer toutes deux aussi bien que moi ? Est-il rien de plus obligeant que cela ? Et ce lien sacré où ils aspirent n’est-il pas un témoignage de l’honnêteté de leurs intentions ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Ah ! mon père, ce que vous dites là est du dernier bourgeois. Cela me fait honte de vous ouïr parler de la sorte, et vous devriez un peu vous faire apprendre le bel air des choses.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Je n’ai que faire ni d’air ni de chanson. Je te dis que le mariage est une chose sainte et sacrée, et que c’est faire en honnêtes gens que de débuter par là.</p>
+
+<pagenum num="183"/>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Mon Dieu ! que si tout le monde vous ressembloit, un roman seroit bientôt fini ! La belle chose que ce seroit, si d’abord Cyrus épousoit Mandane, et qu’Aronce de plain-pied fût marié à Clélie<noteref noteid="note.183.1"/> !</p>
+
+<notes>
+  <note id="note.183.1">
+    <p>Cyrus et Mandane, Clélie et Aronce sont les principaux personnages d’<i>Artamène</i> et de <i>Clélie</i>, romans de Mademoiselle de Scudéry, alors très à la mode.</p>
+  </note>
+</notes>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Que me vient conter celle-ci ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Mon père, voilà ma cousine qui vous dira aussi bien que moi que le mariage ne doit jamais arriver qu’après les autres aventures. Il faut qu’un amant, pour être agréable, sache débiter les beaux sentiments, pousser le doux, le tendre et le passionné, et que sa recherche soit dans les formes. Premièrement, il doit voir au temple, ou à la promenade, ou dans quelque cérémonie publique, la personne dont il devient amoureux ; ou bien être conduit fatalement chez elle par un parent ou un ami, et sortir de là tout rêveur et mélancolique. Il cache un temps sa passion à l’objet aimé, et cependant lui rend plusieurs visites, où l’on ne manque jamais de mettre sur le tapis une question galante qui exerce les esprits de l’assemblée. Le jour de la déclaration arrive, qui se doit faire ordinairement dans une allée de quelque jardin, tandis que la compagnie s’est un peu éloignée : et cette déclaration est suivie d’un prompt courroux, qui paroît, à notre rougeur, et qui, pour un temps, bannit l’amant de notre présence. Ensuite il trouve moyen de nous apaiser, de nous accoutumer insensiblement au discours de sa passion, et de tirer de nous cet aveu qui fait tant de peine. Après cela viennent les aventures, les rivaux qui se jettent à la traverse d’une inclination établie, les persécutions des pères, les jalousies conçues sur de fausses apparences, les plaintes, les désespoirs, les enlèvements, et ce qui s’ensuit. Voilà comme les choses se traitent dans les belles manières ; et ce sont des règles dont, en bonne galanterie, on ne sauroit se dispenser. Mais en venir de but en blanc à l’union conjugale, ne faire l’amour qu’en faisant le contrat du mariage, et prendre justement le roman par la queue ; encore un coup, mon père, il ne se peut rien de plus marchand que ce procédé ; et j’ai mal au cœur de la seule vision que cela me fait.</p>
+
+<pagenum num="184"/>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Quel diable de jargon entends-je ici ? Voici bien du haut style !</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>En effet, mon oncle, ma cousine donne dans le vrai de la chose. Le moyen de bien recevoir des gens qui sont tout à fait incongrus en galanterie ! Je m’en vais gager qu’ils n’ont jamais vu la carte de Tendre, et que Billets-Doux, Petits-Soins, Billets-Galants, et Jolis-Vers, sont des terres inconnues pour eux<noteref noteid="note.184.1"/>. Ne voyez-vous pas que toute leur personne marque cela, et qu’ils n’ont point cet air qui donne d’abord bonne opinion des gens ? Venir en visite amoureuse avec une jambe tout unie, un chapeau désarmé de plumes, une tête irrégulière en cheveux, et un habit qui souffre une indigence de rubans, mon Dieu ! quels amants sont-ce là ! Quelle frugalité d’ajustement, et quelle sécheresse de conversation ! On n’y dure point, on n’y tient pas. J’ai remarqué encore que leurs rabats ne sont pas de la bonne faiseuse, et qu’il s’en faut plus d’un grand demi-pied que leurs hauts-de-chausses ne soient assez larges.</p>
+
+<notes>
+  <note id="note.184.1">
+    <p>La carte de <i>Tendre</i> est une fiction allégorique du roman de <i>Clélie</i>. On voit sur cette carte un fleuve d’<i>Inclination</i>, une mer d’<i>Inimitié</i>, un lac d’<i>Indifférence</i>. Pour parvenir à la ville de <i>Tendre</i>, il fallait assiéger le village de <i>Billets-Galants</i>, forcer le hameau de <i>Billets-Doux</i>, et s’emparer du château de <i>Petits-Soins</i>. L’idée de cette carte parut si ingénieuse, que tous les auteurs s’empressèrent de l’imiter. On vit alors paraître la <i>Carte du royaume d’Amour</i> ; la <i>Description du royaume de Coquetterie</i>, etc, (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Je pense qu’elles sont folles toutes deux, et je ne puis rien comprendre à ce baragouin. Cathos, et vous Madelon...</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Eh ! de grâce, mon père, défaites-vous de ces noms étranges, et nous appelez autrement.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Comment, ces noms étranges ! Ne sont-ce pas vos noms de baptême ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Mon Dieu ! que vous êtes vulgaire ! Pour moi, un de mes étonnements, c’est que vous ayez pu faire une fille si spirituelle que moi. A-t-on jamais parlé dans le beau style de Cathos ni de Madelon, et ne m’avouerez-vous pas que ce seroit assez d’un de ces noms pour décrier le plus beau roman du monde ?</p>
+
+<pagenum num="185"/>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Il est vrai, mon oncle, qu’une oreille un peu délicate pâtit furieusement à entendre prononcer ces mots-là ; et le nom de Polixène que ma cousine a choisi, et celui d’Aminte que je me suis donné, ont une grâce dont il faut que vous demeuriez d’accord.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Écoutez : il n’y a qu’un mot qui serve. Je n’entends point que vous ayez d’autres noms que ceux qui vous ont été donnés par vos parrains et marraines ; et pour ces messieurs dont il est question, je connois leurs familles et leurs biens, et je veux résolûment que vous vous disposiez à les recevoir pour maris. Je me lasse de vous avoir sur les bras, et la garde de deux filles est une charge un peu trop pesante pour un homme de mon âge.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Pour moi, mon oncle, tout ce que je puis vous dire, c’est que je trouve le mariage une chose tout à fait choquante. Comment est-ce qu’on peut souffrir la pensée de coucher contre un homme vraiment nu ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Souffrez que nous prenions un peu haleine parmi le beau monde de Paris, où nous ne faisons que d’arriver. Laissez-nous faire à loisir le tissu de notre roman, et n’en pressez point tant la conclusion.</p>
+
+<hstage><speaker>GORGIBUS</speaker>, à part.</hstage>
+<p>Il n’en faut point douter, elles sont achevées. <stage>Haut.</stage> Encore un coup, je n’entends rien à toutes ces balivernes : je veux être maître absolu ; et, pour trancher toutes sortes de discours, ou vous serez mariées toutes deux avant qu’il soit peu, ou ma foi, vous serez religieuses ; j’en fais un bon serment.</p>
+
+<h3 id="sc06">SCÈNE VI. — CATHOS, MADELON</h3>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Mon Dieu ! ma chère, que ton père a la forme enfoncée dans la matière ! que son intelligence est épaisse, et qu’il fait sombre dans son âme !</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Que veux-tu, ma chère ! j’en suis en confusion pour lui. J’ai peine à me persuader que je puisse être véritablement sa fille, et je crois que quelque aventure un jour me viendra développer une naissance plus illustre.</p>
+
+<pagenum num="186"/>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Je le croirois bien ; oui, il y a toutes les apparences du monde ; et, pour moi, quand je me regarde aussi...</p>
+
+<h3 id="sc07">SCÈNE VII. — CATHOS, MADELON, MAROTTE</h3>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Voilà un laquais qui demande si vous êtes au logis, et dit que son maître vous veut venir voir.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Apprenez, sotte, à vous énoncer moins vulgairement. Dites : Voilà un nécessaire qui demande si vous êtes en commodité d’être visibles.</p>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Dame ! je n’entends point le latin ; et je n’ai pas appris, comme vous, la filofie dans le grand Cyre.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>L’impertinente ! le moyen de souffrir cela ! Et qui est-il, le maître de ce laquais ?</p>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Il me l’a nommé le marquis de Mascarille.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Ah ! ma chère, un marquis ! un marquis ! Oui, allez dire qu’on nous peut voir. C’est sans doute un bel esprit qui a ouï parler de nous.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Assurément, ma chère.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Il faut le recevoir dans cette salle basse, plutôt qu’en notre chambre. Ajustons un peu nos cheveux au moins, et soutenons notre réputation. Vite, venez nous tendre ici dedans le conseiller des grâces.</p>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Par ma foi, je ne sais point quelle bête c’est là ; il faut parler chrétien, si vous voulez que je vous entende.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Apportez-nous le miroir, ignorante que vous êtes, et gardez-vous bien d’en salir la glace par la communication de votre image. <stage>Elles sortent.</stage></p>
+
+<h3 id="sc08">SCÈNE VIII. — MASCARILLE, DEUX PORTEURS</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Holà ! porteurs, holà ! Là, là, là, là, là, là. Je pense que ces <pagenum num="187"/>marauds-là ont dessein de me briser à force de heurter contre les murailles et les pavés.</p>
+
+<hstage><speaker>PREMIER PORTEUR</speaker></hstage>
+<p>Dame ! c’est que la porte est étroite. Vous avez voulu aussi que nous soyons entrés jusqu’ici.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Je le crois bien. Voudriez-vous, faquins, que j’exposasse l’embonpoint de mes plumes aux inclémences de la saison pluvieuse, et que j’allasse imprimer mes souliers en boue ? Allez, ôtez votre chaise d’ici.</p>
+
+<hstage><speaker>DEUXIÈME PORTEUR</speaker></hstage>
+<p>Payez-nous donc, s’il vous plaît, monsieur</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Hein ?</p>
+
+<hstage><speaker>DEUXIÈME PORTEUR</speaker></hstage>
+<p>Je dis, monsieur, que vous nous donniez de l’argent, s’il vous plaît.</p>
+
+<hstage><speaker>MASCARILLE</speaker>, lui donnant un soufflet.</hstage>
+<p>Comment, coquin ! demander de l’argent à une personne de ma qualité !</p>
+
+<hstage><speaker>DEUXIÈME PORTEUR</speaker></hstage>
+<p>Est-ce ainsi qu’on paye les pauvres gens ? et votre qualité nous donne-t-elle à dîner ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Ah ! ah ! ah ! je vous apprendrai à vous connoître ! Ces canailles-là s’osent jouer à moi !</p>
+
+<hstage><speaker>PREMIER PORTEUR</speaker>, prenant un des bâtons de sa chaise.</hstage>
+<p>Çà, payez-nous vitement.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Quoi ?</p>
+
+<hstage><speaker>PREMIER PORTEUR</speaker></hstage>
+<p>Je dis que je veux avoir de l’argent tout à l’heure.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Il est raisonnable, celui-là.</p>
+
+<hstage><speaker>PREMIER PORTEUR</speaker></hstage>
+<p>Vite donc !</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Oui-da ! tu parles comme il faut, toi ; mais l’autre est un coquin qui ne sait ce qu’il dit. Tiens, es-tu content ?</p>
+
+<pagenum num="188"/>
+
+<hstage><speaker>PREMIER PORTEUR</speaker></hstage>
+<p>Non, je ne suis pas content ; vous avez donné un soufflet à mon camarade, et... <stage>Levant son bâton.</stage></p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Doucement ; tiens, voilà pour le soufflet. On obtient tout de moi quand on s’y prend de la bonne façon. Allez, venez me reprendre tantôt pour aller au Louvre, au petit coucher.</p>
+
+<h3 id="sc09">SCÈNE IX. — MAROTTE, MASCARILLE</h3>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Monsieur, voilà mes maîtresses qui vont venir tout à l’heure.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Qu’elles ne se pressent point ; je suis ici posté commodément pour attendre.</p>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Les voici.</p>
+
+<h3 id="sc10">SCÈNE X. — MADELON, CATHOS, MASCARILLE, ALMANZOR</h3>
+
+<hstage><speaker>MASCARILLE</speaker>, après avoir salué.</hstage>
+<p>Mesdames, vous serez surprises sans doute de l’audace de ma visite ; mais votre réputation vous attire cette méchante affaire, et le mérite a pour moi des charmes si puissants, que je cours partout après lui.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Si vous poursuivez le mérite, ce n’est pas sur nos terres que vous devez chasser.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Pour voir chez nous le mérite, il a fallu que vous l’y ayez amené.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Ah ! je m’inscris en faux contre vos paroles. La renommée accuse juste en contant ce que vous valez ; et vous allez faire pic, repic et capot tout ce qu’il y a de galant dans Paris.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Votre complaisance pousse un peu trop avant la libéralité de ses louanges ; et nous n’avons garde, ma cousine et moi, de donner de notre sérieux dans le doux de votre flatterie.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Ma chère, il faudroit faire donner des sièges.</p>
+
+<pagenum num="189"/>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Holà, Almanzor !</p>
+
+<hstage><speaker>ALMANZOR</speaker></hstage>
+<p>Madame ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Vite, voiturez-nous ici les commodités de la conversation.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Mais, au moins y a-t-il sûreté ici pour moi ? <stage>Almanzor sort.</stage></p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Que craignez-vous ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Quelque vol de mon cœur, quelque assassinat de ma franchise<noteref noteid="note.189.1"/>. Je vois ici deux yeux qui ont la mine d’être de fort mauvais garçons, de faire insulte aux libertés, et de traiter une âme de Turc à More. Comment, diable ! D’abord qu’on les approche, ils se mettent sur leur garde meurtrière. Ah ! par ma foi, je m’en défie ! et je m’en vais gagner au pied, ou je veux caution bourgeoise qu’ils ne me feront point de mal.</p>
+
+<notes>
+  <note id="note.189.1">
+    <p>Dans le sens d’<i>indépendance</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Ma chère, c’est le caractère enjoué.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Je vois bien que c’est un Amilcar<noteref noteid="note.189.2"/>.</p>
+
+<notes>
+  <note id="note.189.2">
+    <p>Personnage du roman de <i>Clélie</i> à qui l’auteur a donné un caractère enjoué et plaisant.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Ne craignez rien : nos yeux n’ont point de mauvais desseins, et votre cœur peut dormir en assurance sur leur prud’homie.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Mais, de grâce, monsieur, ne soyez pas inexorable à ce fauteuil qui vous tend les bras il y a un quart d’heure ; contentez un peu l’envie qu’il a de vous embrasser.</p>
+
+<hstage><speaker>MASCARILLE</speaker>, après s’être peigné et avoir ajusté ses canons.</hstage>
+<p>Eh bien, mesdames, que dites-vous de Paris ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Hélas ! qu’en pourrions-nous dire ? Il faudroit être l’antipode de la raison, pour ne pas confesser que Paris est le grand bureau des merveilles, le centre du bon goût, du bel esprit, et de la galanterie.</p>
+
+<pagenum num="190"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Pour moi, je tiens que hors de Paris il n’y a point de salut pour les honnêtes gens.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>C’est une véritable incontestable.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Il y fait un peu crotté ; mais nous avons la chaise<noteref noteid="note.190.1"/>.</p>
+
+<notes>
+  <note id="note.190.1">
+    <p>La chaise à porteurs.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Il est vrai que la chaise est un retranchement merveilleux contre les insultes de la boue et du mauvais temps.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Vous recevez beaucoup de visites ? Quel bel esprit est des vôtres ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Hélas ! nous ne sommes pas encore connues ; mais nous sommes en passe de l’être ; et nous avons une amie particulière qui nous a promis d’amener ici tous ces messieurs du Recueil des pièces choisies.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Et certains autres qu’on nous a nommés aussi pour être les arbitres souverains des belles choses.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>C’est moi qui ferai votre affaire mieux que personne ; ils me rendent tous visite ; et je puis dire que je ne me lève jamais sans une demi-douzaine de beaux esprits.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Eh, mon Dieu ! nous vous serons obligées de la dernière obligation, si vous nous faites cette amitié ; car enfin il faut avoir la connoissance de tous ces messieurs-là, si l’on veut être du beau monde. Ce sont eux qui donnent le branle à la réputation dans Paris ; et vous savez qu’il y en a tel dont il ne faut que la seule fréquentation pour vous donner bruit de connoisseuse, quand il n’y auroit rien autre chose que cela. Mais, pour moi, ce que je considère particulièrement, c’est que, par le moyen de ces visites spirituelles, on est instruit de cent choses qu’il faut savoir de nécessité, et qui sont de l’essence du bel esprit. On apprend par là chaque jour les petites nouvelles galantes, les jolis commerces de prose ou de vers. On sait à point nommé : un tel a composé la plus jolie pièce du monde sur un tel sujet ; une telle a fait des <pagenum num="191"/>paroles sur un tel air : celui-ci a fait un madrigal sur une jouissance ; celui-là a composé des stances sur une infidélité ; monsieur un tel écrivit hier au soir un sixain à mademoiselle une telle, dont elle lui a envoyé la réponse ce matin sur les huit heures ; un tel auteur a fait un tel dessein ; celui-là est à la troisième partie de son roman ; cet autre met ses ouvrages sous la presse. C’est là ce qui vous fait valoir dans les compagnies ; et, si l’on ignore ces choses, je ne donnerois pas un clou de tout l’esprit qu’on peut avoir.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>En effet, je trouve que c’est renchérir sur le ridicule, qu’une personne se pique d’esprit, et ne sache pas jusqu’au moindre petit quatrain qui se fait chaque jour ; et, pour moi, j’aurois toutes les hontes du monde s’il falloit qu’on vînt à me demander si j’aurois vu quelque chose de nouveau que je n’aurois pas vu.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Il est vrai qu’il est honteux de n’avoir pas des premiers tout ce qui se fait ; mais ne vous mettez pas en peine ; je veux établir chez vous une académie de beaux esprits, et je vous promets qu’il ne se fera pas un bout de vers dans Paris que vous ne sachiez par cœur avant tous les autres. Pour moi, tel que vous me voyez, je m’en escrime un peu quand je veux ; et vous verrez courir de ma façon, dans les belles ruelles de Paris, deux cents chansons, autant de sonnets, quatre cents épigrammes et plus de mille madrigaux, sans compter les énigmes et les portraits.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Je vous avoue que je suis furieusement pour les portraits : je ne vois rien de si galant que cela.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Les portraits sont difficiles, et demandent un esprit profond : vous en verrez de ma manière qui ne vous déplairont pas.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Pour moi, j’aime terriblement les énigmes.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Cela exerce l’esprit, et j’en ai fait quatre encore ce matin, que je vous donnerai à deviner.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Les madrigaux sont agréables, quand ils sont bien tournés.</p>
+
+<pagenum num="192"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>C’est mon talent particulier ; et je travaille à mettre en madrigaux toute l’Histoire romaine.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Ah ! certes, cela sera du dernier beau ; j’en retiens un exemplaire au moins, si vous le faites imprimer.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Je vous en promets à chacune un, et des mieux reliés. Cela est au-dessous de ma condition ; mais je le fais seulement pour donner à gagner aux libraires, qui me persécutent.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Je m’imagine que le plaisir est grand de se voir imprimé.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Sans doute. Mais, à propos, il faut que je vous die un impromptu que je fis hier chez une duchesse de mes amies que je fus visiter ; car je suis diablement fort sur les impromptus.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>L’impromptu est justement la pierre de touche de l’esprit.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Écoutez donc.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Nous y sommes de toutes nos oreilles.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<poem>
+<l class='c'>Oh ! oh ! je n’y prenois pas garde :</l>
+<l class='c'>Tandis que, sans songer à mal, je vous regarde,</l>
+<l class='c'>Votre œil en tapinois me dérobe mon cœur.</l>
+<l class='c'>Au voleur ! au voleur ! au voleur ! au voleur !</l>
+</poem>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Ah ! mon Dieu ! voilà qui est poussé dans le dernier galant.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Tout ce que je fais a l’air cavalier ; cela ne sent point le pédant.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Il en est éloigné de plus de deux mille lieues.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Avez-vous remarqué ce commencement, <i>Oh ! oh !</i> voilà qui est extraordinaire, <i>oh ! oh !</i> comme un homme qui s’avise tout d’un coup, <i>oh ! oh !</i> La surprise, <i>oh ! oh !</i></p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Oui, je trouve ce <i>oh ! oh !</i> admirable.</p>
+
+<pagenum num="193"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Il semble que cela ne soit rien.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Ah ! mon Dieu ! que dites-vous là ? Ce sont de ces sortes de choses qui ne se peuvent payer.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Sans doute ; et j’aimerois mieux avoir fait ce <i>oh ! oh !</i> qu’un poème épique.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Tudieu ! vous avez le goût bon.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Eh ! je ne l’ai pas tout à fait mauvais,</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Mais n’admirez-vous pas aussi <i>je n’y prenois pas garde ?</i> <i>je n’y prenois pas garde</i>, je ne m’apercevois pas de cela ; façon de parler naturelle, <i>je n’y prenois pas garde. Tandis que, sans songer à mal</i>, tandis qu’innocemment, sans malice, comme un pauvre mouton, <i>je vous regarde</i>, c’est-à-dire je m’amuse à vous considérer, je vous observe, je vous contemple ; <i>votre œil en tapinois..</i>. Que vous semble de ce mot <i>tapinois ?</i> n’est-il pas bien choisi ?</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Tout à fait bien.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p><i>Tapinois</i>, en cachette ; il semble que ce soit un chat qui vient de prendre une souris, <i>tapinois</i>.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Il ne se peut rien de mieux.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p><i>Me dérobe mon cœur</i>, me l’emporte, me le ravit ; <i>au voleur ! au voleur ! au voleur ! au voleur !</i> Ne diriez-vous pas que c’est un homme qui crie et court après un voleur pour le faire arrêter ? <i>Au voleur ! au voleur ! au voleur ! au voleur !</i></p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Il faut avouer que cela a un tour spirituel et galant.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Je veux vous dire l’air que j’ai fait dessus.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Vous avez appris la musique ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Moi ? Point du tout.</p>
+
+<pagenum num="194"/>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Et comment donc cela se peut-il ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Les gens de qualité savent tout sans avoir jamais rien appris.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Assurément, ma chère.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Écoutez si vous trouverez l’air à votre goût : <i>hem, hem, la, la, la, la, la</i>. La brutalité de la saison a furieusement outragé la délicatesse de ma voix ; mais il n’importe, c’est à la cavalière. <stage>Il chante.</stage></p>
+
+<blockquote>
+<p class="c">Oh ! oh ! je n’y prenois pas garde, etc.</p>
+</blockquote>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Ah ! que voilà un air qui est passionné ! Est-ce qu’on n’en meurt point ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Il y a de la chromatique là-dedans.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Ne trouvez-vous pas la pensée bien exprimée dans le chant <i>Au voleur ! au voleur !</i> Et puis, comme si l’on crioit bien fort, <i>au, au, au, au, au, voleur !</i> Et tout d’un coup, comme une personne essoufflée, <i>au voleur !</i></p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>C’est là savoir le fin des choses, le grand fin, le fin du fin. Tout est merveilleux, je vous assure ; je suis enthousiasmée de l’air et des paroles.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Je n’ai encore rien vu de cette force-là.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Tout ce que je fais me vient naturellement, c’est sans étude.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>La nature vous a traité en vraie mère passionnée, et vous en êtes l’enfant gâté.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>A quoi donc passez-vous le temps, mesdames ?</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>A rien du tout.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Nous avons été jusqu’ici dans un jeûne effroyable de divertissements.</p>
+
+<pagenum num="195"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Je m’offre à vous mener l’un de ces jours à la comédie, si vous voulez ; aussi bien on en doit jouer une nouvelle que je serai bien aise que nous voyions ensemble.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Cela n’est pas de refus.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Mais je vous demande d’applaudir comme il faut, quand nous serons là, car je me suis engagé de faire valoir la pièce, et l’auteur m’en est venu prier encore ce matin. C’est la coutume ici, qu’à nous autres gens de condition, les auteurs viennent lire leurs pièces nouvelles, pour nous engager à les trouver belles et leur donner de la réputation : et je vous laisse à penser si, quand nous disons quelque chose, le parterre ose nous contredire ! Pour moi, j’y suis fort exact ; et, quand j’ai promis à quelque poète, je crie toujours : Voilà qui est beau ! devant que les chandelles soient allumées.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Ne m’en parlez point ! c’est un admirable lieu que Paris ; il s’y passe cent choses tous les jours, qu’on ignore dans les provinces, quelque spirituelle qu’on puisse être.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>C’est assez : puisque nous sommes instruites, nous ferons notre devoir de nous écrier comme il faut sur tout ce qu’on dira.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Je ne sais si je me trompe ; mais vous avez toute la mine d’avoir fait quelque comédie.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Eh ! il pourroit être quelque chose de ce que vous dites.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Ah ! ma foi, il faudra que nous la voyions. Entre nous, j’en ai composé une que je veux faire représenter.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Eh ! à quels comédiens la donnerez-vous ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Belle demande ! Aux comédiens de l’hôtel de Bourgogne : il n’y a qu’eux qui soient capables de faire valoir les choses ; les autres sont des ignorants qui récitent comme l’on parle ; ils ne savent pas faire ronfler les vers et s’arrêter au bel endroit ; et le moyen de connoître où est le beau vers, si le <pagenum num="196"/>comédien ne s’y arrête et ne nous avertit par là qu’il faut faire le brouhaha ?</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>En effet, il y a manière de faire sentir aux auditeurs les beautés d’un ouvrage ; et les choses ne valent que ce qu’on les fait valoir.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Que vous semble de ma petite oie ? La trouvez-vous congrue de l’habit ?</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Tout à fait.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Le ruban est bien choisi.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Furieusement bien. C’est Perdrigeon tout pur<noteref noteid="note.196.1"/>.</p>
+
+<notes>
+  <note id="note.196.1">
+    <p><i>Perdrigeon</i> était le fournisseur des gens du bel air.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Que dites-vous de mes canons<noteref noteid="note.196.2"/> ?</p>
+
+<notes>
+  <note id="note.196.2">
+    <p><i>Canons</i>, large bande d’étoffe ornée de dentelles, qu’on attachait au-dessous du genou et qui courrait la moitié de la jambe.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Ils ont tout à fait bon air.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Je puis me vanter au moins qu’ils ont un grand quartier de plus que tous ceux qu’on fait.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Il faut avouer que je n’ai jamais vu porter si haut l’élégance de l’ajustement.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Attachez un peu sur ces gants la réflexion de votre odorat.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Ils sentent terriblement bon.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Je n’ai jamais respiré une odeur mieux conditionnée.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Et celle-là ? <stage>Il donne à sentir les cheveux poudrés de sa perruque.</stage></p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Elle est tout à fait de qualité ; le sublime en est touché délicieusement.</p>
+
+<pagenum num="197"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Vous ne me dites rien de mes plumes ! Comment les trouvez-vous ?</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Effroyablement belles.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Savez-vous que le brin me coûte un louis d’or ? Pour moi, j’ai cette manie de vouloir donner généralement sur tout ce qu’il y a de plus beau.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Je vous assure que nous sympathisons, vous et moi. J’ai une délicatesse furieuse pour tout ce que je porte ; et jusqu’à mes chaussettes je ne puis rien souffrir qui ne soit de la bonne faiseuse.</p>
+
+<hstage><speaker>MASCARILLE</speaker>, s’écriant brusquement.</hstage>
+<p>Ahi ! ahi ! ahi ! doucement ! Dieu me damne, mesdames, c’est fort mal en user ; j’ai à me plaindre de votre procédé ; cela n’est pas honnête.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Qu’est-ce donc ? qu’avez-vous ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Quoi ! toutes deux contre mon cœur en même temps ! M’attaquer à droite et à gauche ! ah ! c’est contre le droit des gens : la partie n’est pas égale, et je m’en vais crier au meurtre.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Il faut avouer qu’il dit les choses d’une manière particulière.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Il a un tour admirable dans l’esprit.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Vous avez plus de peur que de mal, et votre cœur crie avant qu’on l’écorche.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Comment, diable ! il est écorché depuis la tête jusqu’aux pieds.</p>
+
+<h3 id="sc11">SCÈNE XI. — CATHOS, MADELON, MASCARILLE, MAROTTE</h3>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Madame, on demande à vous voir.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Qui ?</p>
+
+<pagenum num="198"/>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Le vicomte de Jodelet.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Le vicomte de Jodelet ?</p>
+
+<hstage><speaker>MAROTTE</speaker></hstage>
+<p>Oui, monsieur.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Le connoissez-vous ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>C’est mon meilleur ami.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Faites entrer vitement.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Il y a quelque temps que nous ne nous sommes vus, et je suis ravi de cette aventure.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Le voici.</p>
+
+<h3 id="sc12">SCÈNE XII. — CATHOS, MADELON, JODELET, MASCARILLE, MAROTTE, ALMANZOR</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Ah ! vicomte !</p>
+
+<hstage><speaker>JODELET</speaker>, s’embrassant l’un l’autre.</hstage>
+<p>Ah ! marquis !</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Que je suis aise de te rencontrer !</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Que j’ai de joie de te voir ici !</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Baise-moi donc encore un peu, je te prie<noteref noteid="note.198.1"/>.</p>
+
+<notes>
+  <note id="note.198.1">
+    <p>Allusion à l’usage où étaient les hommes de la cour, surtout les jeunes gens, qui avaient la ridicule habitude, lorsqu’ils se rencontraient, de s’embrasser à plusieurs reprises, avec de grands gestes et des paroles fort bruyantes, C’est ce que Molière appelait avec tant de vérité la <i>fureur de leurs embrassements</i>. (Auger.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADELON</speaker>, à Cathos.</hstage>
+<p>Ma toute bonne, nous commençons d’être connues ; voilà le beau monde qui prend le chemin de nous venir voir.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Mesdames, agréez que je vous présente ce gentilhomme-ci : sur ma parole, il est digne d’être connu de vous.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Il est juste de venir vous rendre ce qu’on vous doit ; et vos <pagenum num="199"/>attraits exigent leurs droits seigneuriaux sur toutes sortes de personnes.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>C’est pousser vos civilités jusqu’aux derniers confins de la flatterie.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Cette journée doit être marquée dans notre almanach comme une journée bienheureuse.</p>
+
+<hstage><speaker>MADELON</speaker>, à Almanzor.</hstage>
+<p>Allons, petit garçon, faut-il toujours vous répéter les choses ! Voyez-vous pas qu’il faut le surcroît d’un fauteuil ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Ne vous étonnez pas de voir le vicomte de la sorte ; il ne fait que sortir d’une maladie qui lui a rendu le visage pâle comme vous le voyez.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Ce sont fruits des veilles de la cour et des fatigues de la guerre.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Savez-vous, mesdames, que vous voyez dans le vicomte un des vaillants hommes du siècle ? C’est un brave à trois poils.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Vous ne m’en devez rien, marquis ; et nous savons ce que vous savez faire aussi.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Il est vrai que nous nous sommes vus tous deux dans l’occasion.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Et dans des lieux où il faisoit fort chaud.</p>
+
+<hstage><speaker>MASCARILLE</speaker>, regardant Cathos et Madelon.</hstage>
+<p>Oui ; mais non pas si chaud qu’ici. Hai, hai, hai.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Notre connoissance s’est faite à l’armée ; et, la première fois que nous nous vîmes, il commandoit un régiment de cavalerie sur les galères de Malte.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Il est vrai ; mais vous étiez pourtant dans l’emploi avant que j’y fusse ; et je me souviens que je n’étois que petit officier encore, que vous commandiez deux mille chevaux.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>La guerre est une belle chose ; mais, ma foi, la cour <pagenum num="200" b="récom-" a="pense">récompense</pagenum> bien mal aujourd’hui les gens de service comme nous.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>C’est ce qui fait que je veux pendre l’épée au croc.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Pour moi, j’ai un furieux tendre pour les hommes d’épée.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Je les aime aussi ; mais je veux que l’esprit assaisonne la bravoure.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Te souvient-il, de cette demi-lune que nous emportâmes sur les ennemis au siège d’Arras ?</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Que veux-tu dire avec ta demi-lune ? C’étoit bien une lune tout entière.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Je pense que tu as raison.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Il m’en doit bien souvenir, ma foi ! j’y fus blessé à la jambe d’un coup de grenade dont je porte encore les marques. Tâtez un peu, de grâce : vous sentirez quel coup c’étoit là.</p>
+
+<hstage><speaker>CATHOS</speaker>, après avoir touché l’endroit.</hstage>
+<p>Il est vrai que la cicatrice est grande.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Donnez-moi un peu votre main, et tâtez celui-ci ; là, justement au derrière de la tête. Y êtes-vous ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Oui : je sens quelque chose.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>C’est un coup de mousquet que je reçus, la dernière campagne que j’ai faite.</p>
+
+<hstage><speaker>JODELET</speaker>, découvrant sa poitrine.</hstage>
+<p>Voici un autre coup qui me perça de part en part à l’attaque de Gravelines.</p>
+
+<hstage><speaker>MASCARILLE</speaker>, mettant la main sur le bouton de son haut-de-chausses.</hstage>
+<p>Je vais vous montrer une curieuse plaie.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Il n’est pas nécessaire : nous le croyons sans y regarder.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Ce sont des marques honorables qui font voir ce qu’on est.</p>
+
+<pagenum num="201"/>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Nous ne doutons pas de ce que vous êtes.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Vicomte, as-tu là ton carosse ?</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Pourquoi ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Nous mènerions promener ces dames hors des portes<noteref noteid="note.201.1"/>, et leur donnerions un cadeau.</p>
+
+<notes>
+  <note id="note.201.1">
+    <p><i>Se promener hors des portes</i>, parce qu’à cette date Paris avait encore ses vieilles fortificatîons.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Nous ne saurions sortir aujourd’hui.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Ayons donc les violons pour danser.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Ma foi ! c’est bien avisé.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Pour cela nous y consentons ; mais il faut donc quelque surcroît de compagnie.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Holà ! Champagne, Picard, Bourguignon, Cascaret, Basque, la Verdure, Lorrain, Provençal, la Violette ! Au diable soient tous les laquais ! Je ne pense pas qu’il y ait gentilhomme en France plus mal servi que moi. Ces canailles me laissent toujours seul.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Almanzor, dites aux gens de monsieur le marquis qu’ils aillent quérir des violons, et nous faites venir ces messieurs et ces dames d’ici près, pour peupler la solitude de notre bal.</p>
+<pstage>Almanzor sort.</pstage>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Vicomte, que dis-tu de ces yeux ?</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Mais toi-même, marquis, que t’en semble ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Moi, je dis que nos libertés auront peine à sortir d’ici les braies<noteref noteid="note.201.2"/> nettes. Au moins pour moi, je reçois d’étranges secousses, et mon cœur ne tient qu’à un filet.</p>
+
+<notes>
+  <note id="note.201.2">
+    <p>La <i>braie</i>, en latin <i>bragum</i>, l’une des pièces les plus importantes du costume gaulois, répondait à notre pantalon moderne. La braie, qui tombait primitivement jusqu’au bas de la jambe, devint, en se raccourcissant, le haut-de-chausses, et plus tard la culotte.</p>
+
+    <p>Au sens propre, sortir <i>tes braies nettes d’une bagarre</i>, c’est en sortir sans avoir ses habits déchirés, et, au figuré, c’est en sortir sain et sauf.</p>
+  </note>
+</notes>
+
+<pagenum num="202"/>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Que tout ce qu’il dit est naturel ! Il tourne les choses le plus agréablement du monde.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Il est vrai qu’il fait une furieuse dépense en esprit.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Pour vous montrer que je suis véritable, je veux faire un impromptu là-dessus. <stage>Il médite.</stage></p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Eh ! je vous en conjure de toute la dévotion de mon cœur, que nous oyions quelque chose qu’on ait fait pour nous.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>J’aurois envie d’en faire autant ; mais je me trouve un peu incommodé de la veine poétique, pour la quantité de saignées que j’y ai faites ces jours passés.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Que diable est-ce là ! Je fais toujours bien le premier vers ; mais j’ai peine à faire les autres. Ma foi, ceci est un peu trop pressé ; je vous ferai un impromptu à loisir, que vous trouverez le plus beau du monde.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Il a de l’esprit comme un démon.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Et du galant, et du bien tourné.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Vicomte, dis-moi un peu, y a-t-il longtemps que tu n’as vu la comtesse ?</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Il y a plus de trois semaines que je ne lui ai rendu visite.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Sais-tu bien que le duc m’est venu voir ce matin, et m’a voulu mener à la campagne courir un cerf avec lui ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Voici nos amies qui viennent.</p>
+
+<h3 id="sc13">SCÈNE XIII. — LUCILE, CÉLIMÈNE, CATHOS, MADELON, MASCARILLE, JODELET, MAROTTE, ALMANZOR, V<s>IOLONS</s>.</h3>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Mon Dieu ! mes chères, nous vous demandons pardon. Ces <pagenum num="203"/>messieurs ont eu fantaisie de nous donner les âmes des pieds ; et nous vous avons envoyé quérir pour remplir les vides de notre assemblée.</p>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<p>Vous nous avez obligées, sans doute.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Ce n’est ici qu’un bal à la hâte ; mais l’un de ces jours, nous vous en donnerons un dans les formes. Les violons sont-ils venus ?</p>
+
+<hstage><speaker>ALMANZOR</speaker></hstage>
+<p>Oui, monsieur ; ils sont ici.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Allons donc, mes chères, prenez place.</p>
+
+<hstage><speaker>MASCARILLE</speaker>, dansant lui seul comme par prélude.</hstage>
+<p>La, la, la, la, la, la, la, la.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Il a la taille tout à fait élégante.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Et a la mine de danser proprement.</p>
+
+<hstage><speaker>MASCARILLE</speaker>, ayant pris Madelon pour danser.</hstage>
+<p>Ma franchise va danser la courante aussi bien que mes pieds. En cadence, violons ; en cadence. Oh ! quels ignorants ! Il n’y a pas moyen de danser avec eux. Le diable vous emporte ! ne sauriez-vous jouer en mesure ? La, la, la, la, la, la, la, la. Ferme ? ! O violons de village !</p>
+
+<hstage><speaker>JODELET</speaker>, dansant ensuite.</hstage>
+<p>Holà ! ne pressez pas si fort la cadence : je ne fais que sortir de maladie.</p>
+
+<h3 id="sc14">SCÈNE XIV. — DU CROISY, LA GRANGE, CATHOS, MADELON, LUCILE, CÉLIMÈNE, JODELET, MASCARILLE, MAROTTE, V<s>IOLONS</s>.</h3>
+
+<hstage><speaker>LA GRANGE</speaker>, un bâton à la main.</hstage>
+<p>Ah ! ah ! coquins ! que faites-vous ici ? Il y a trois heures que nous vous cherchons.</p>
+
+<hstage><speaker>MASCARILLE</speaker>, se sentant battre.</hstage>
+<p>Ahi ! ahi ! ahi ! vous ne m’aviez pas dit que les coups en seroient aussi.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Ahi ! ahi ! ahi !</p>
+
+<pagenum num="204"/>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>C’est bien à vous, infâme que vous êtes, à vouloir faire l’homme d’importance !</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Voilà qui vous apprendra à vous connoître.</p>
+
+<h3 id="sc15">SCÈNE XV. — CATHOS, MADELON, LUCILE, CÉLI-MÈNE, MASCARILLE, JODELET, MAROTTE, V<s>IOLONS</s>.</h3>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Que veut donc dire ceci ?</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>C’est une gageure.</p>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Quoi ! vous laisser battre de la sorte !</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Mon Dieu ! je n’ai pas voulu faire semblant de rien ; car je suis violent, et je me serois emporté.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Endurer un affront comme celui-là en notre présence !</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Ce n’est rien : ne laissons pas d’achever. Nous nous con-noissons il y a longtemps ; et, entre amis, on ne va pas se piquer pour si peu de chose.</p>
+
+<h3 id="sc16">SCÈNE XVI. — DU CROISY, LA GRANGE, MADELON, CATHOS, CÉLIMÈNE, LUCILE, MASCARILLE, JODELET, MAROTTE, V<s>IOLONS</s>.</h3>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>Ma foi, marauds, vous ne vous rirez pas de nous, je vous promets. Entrez, vous autres. <stage>Trois ou quatre spadassins entrent.</stage></p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Quelle est donc cette audace, de venir nous troubler de la sorte dans notre maison ?</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Comment ! mesdames, nous endurerons que nos laquais soient mieux reçus que nous ; qu’ils viennent vous faire l’amour à nos dépens et vous donnent le bal ?</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Vos laquais !</p>
+
+<pagenum num="205"/>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>Oui, nos laquais : et cela n’est ni beau ni honnête de nous les débaucher comme vous faites.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>O ciel ! quelle insolence !</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>Mais ils n’auront pas l’avantage de se servir de nos habits pour vous donner dans la vue ; et, si vous les voulez aimer, ce sera, ma foi, pour leurs beaux yeux. Vite, qu’on les dépouille sur-le-champ.</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Adieu notre braverie<noteref noteid="note.205.1"/>.</p>
+
+<notes>
+  <note id="note.205.1">
+    <p>Parure.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Voilà le marquisat et la vicomte à bas.</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Ah ! ah ! coquins ! vous avez l’audace d’aller sur nos brisées ! Vous irez chercher autre part de quoi vous rendre agréables aux yeux de vos belles, je vous en assure.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>C’est trop que de nous supplanter, et de nous supplanter avec nos propres habits.</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>O fortune ! quelle est ton inconstance !</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>Vite, qu’on leur ôte jusqu’à la moindre chose.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>Qu’on emporte toutes ces hardes, dépêchez. Maintenant, mesdames, en l’état qu’ils sont, vous pouvez continuer vos amours avec eux tant qu’il vous plaira ; nous vous laissons toute sorte de liberté pour cela, et nous vous protestons, monsieur et moi, que nous n’en serons aucunement jaloux.</p>
+
+<h3 id="sc17">SCÈNE XVII. — MADELON, CATHOS, JODELET, MASCARILLE, V<s>IOLONS</s>.</h3>
+
+<hstage><speaker>CATHOS</speaker></hstage>
+<p>Ah ! quelle confusion !</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Je crève de dépit !</p>
+
+<hstage><speaker>UN DES VIOLONS</speaker>, à Mascarille.</hstage>
+<p>Qu’est-ce donc que ceci ? Qui nous payera, nous autres ?</p>
+
+<pagenum num="206"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Demandez à monsieur le vicomte.</p>
+
+<hstage><speaker>UN DES VIOLONS</speaker>, à Jodelet.</hstage>
+<p>Qui est-ce qui nous donnera de l’argent ?</p>
+
+<hstage><speaker>JODELET</speaker></hstage>
+<p>Demandez à monsieur le marquis.</p>
+
+<h3 id="sc18">SCÈNE XVIII. — GORGIBUS, MADELON, CATHOS, JODELET, MASCARILLE, V<s>IOLONS</s>.</h3>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Ah ! coquines que vous êtes ! vous nous mettez dans de beaux draps blancs, à ce que je vois ; et je viens d’apprendre de belles affaires, vraiment, de ces messieurs qui sortent !</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Ah ! mon père, c’est une pièce sanglante qu’ils nous ont faite !</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Oui, c’est une pièce sanglante, mais qui est un effet de votre impertinence, infâmes ! Ils se sont ressentis du traitement que vous leur avez fait, et cependant, malheureux que je suis, il faut que je boive l’affront.</p>
+
+<hstage><speaker>MADELON</speaker></hstage>
+<p>Ah ! je jure que nous en serons vengées, ou que je mourrai en la peine. Et vous, marauds, osez-vous vous tenir ici après votre insolence ?</p>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<p>Traiter comme cela un marquis ! Voilà ce que c’est que du monde ; la moindre disgrâce nous fait mépriser de ceux qui nous chérissoient. Allons, camarade, allons chercher fortune autre part ; je vois bien qu’on n’aime ici que la vaine apparence, et qu’on n’y considère point la vertu toute nue.</p>
+
+<h3 id="sc19">SCÈNE XIX. — GORGIBUS, MADELON, CATHOS, V<s>IOLONS</s>.</h3>
+
+<hstage><speaker>UN DES VIOLONS</speaker></hstage>
+<p>Monsieur, nous entendons que vous nous contentiez, à leur défaut, pour ce que nous avons joué ici.</p>
+
+<hstage><speaker>GORGIBUS</speaker>, les battant.</hstage>
+<p>Oui, oui, je vous vais contenter ; et voici la monnoie dont je vous veux payer. Et vous, pendardes, je ne sais qui me tient que je ne vous en fasse autant ; nous allons servir <pagenum num="207"/>de fable et de risée à tout le monde, et voilà ce que vous vous êtes attiré par vos extravagances. Allez vous cacher, vilaines ; allez vous cacher pour jamais ! <stage>Seul.</stage> Et vous, qui êtes cause de leur folie, sottes billevesées, pernicieux amusements des esprits oisifs, romans, vers, chansons, sonnets et sonnettes, puissiez-vous être à tous les diables.</p>
+
+</page-sequence>
+</page-sequences>
+</bml>

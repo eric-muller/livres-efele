@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000492"
+        creation="2017-03-18T14:24:51-07:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>L’Impromptu de Versailles</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='15'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="sc01" label="Scène I"/>
+    <tocentry idref="sc02" label="Scène II"/>
+    <tocentry idref="sc03" label="Scène III"/>
+    <tocentry idref="sc04" label="Scène IV"/>
+    <tocentry idref="sc05" label="Scène V"/>
+    <tocentry idref="sc06" label="Scène VI"/>
+    <tocentry idref="sc07" label="Scène VII"/>
+    <tocentry idref="sc08" label="Scène VIII"/>
+    <tocentry idref="sc09" label="Scène IX"/>
+    <tocentry idref="sc10" label="Scène X"/>
+  </toc>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="477"/>
+
+<img src="images/frise13.png" class="center100" alt="frise"/>
+
+<h1>L’IMPROMPTU DE VERSAILLES</h1>
+
+<h2>COMÉDIE EN UN ACTE</h2>
+
+<h2>1663</h2>
+
+<vsep class="rule"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">MOLIÈRE, marquis ridicule.</p>
+<p class="sommaire">BRÉCOURT, homme de qualité.</p>
+<p class="sommaire">DE LA GRANGE, marquis ridicule.</p>
+<p class="sommaire">DU CROISY, poète. .</p>
+<p class="sommaire">LA THORILLIÈRE, marquis fâcheux.</p>
+<p class="sommaire">BÉJART, homme qui fait le nécessaire.</p>
+<p class="sommaire">M<sup>lle</sup> DU PARC, marquise façonnière.</p>
+<p class="sommaire">M<sup>lle</sup> BÉJART, prude.</p>
+<p class="sommaire">M<sup>lle</sup> DE BRIE, sage coquette.</p>
+<p class="sommaire">M<sup>lle</sup> MOLIÈRE, satirique spirituelle.</p>
+<p class="sommaire">M<sup>lle</sup> DU CROISY, peste doucereuse.</p>
+<p class="sommaire">M<sup>lle</sup> HERVÉ, servante précieuse.</p>
+<p class="sommaire">Q<s>UATRE</s> N<s>ÉCESSAIRES</s>.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est à Versailles, dans la salle de la comédie.</p>
+
+<vsep class="rule"/>
+
+<h3 id="sc01">SCÈNE I. — MOLIÈRE, BRÉCOURT, LA GRANGE, DU CROISY ; MESDEMOISELLES DU PARC, BÉJART, DE BRIE, MOLIÈRE, DU CROISY, HERVÉ</h3>
+
+<hstage><speaker>MOLIÈRE</speaker>, seul, parlant à ses camarades, qui sont derrière le théâtre.</hstage>
+<p>Allons donc, messieurs et mesdames ; vous moquez-vous avec votre longueur, et ne voulez-vous pas tous venir ici ? La peste soit des gens ! Holà ! ho ! monsieur de Brécourt !</p>
+
+<hstage><speaker>BRÉCOURT</speaker>, derrière le théâtre.</hstage>
+<p>Quoi ?</p>
+
+<pagenum num="478"/>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Monsieur de la Grange !</p>
+
+<hstage><speaker>LA GRANGE</speaker>, derrière le théâtre.</hstage>
+<p>Qu’est-ce ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Monsieur du Croisy !</p>
+
+<hstage><speaker>DU CROISY</speaker>, derrière le théâtre.</hstage>
+<p>Plaît-il ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mademoiselle du Parc !</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker>, derrière le théâtre.</hstage>
+<p>Eh bien ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mademoiselle Béjart !</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker>, derrière le théâtre.</hstage>
+<p>Qu’y-a-t-il ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mademoiselle de Brie !</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker>, derrière le théâtre.</hstage>
+<p>Que veut-on ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mademoiselle du Croisy !</p>
+
+<hstage><speaker>MADEMOISELLE DU CROISY</speaker>, derrière le théâtre.</hstage>
+<p>Qu’est-ce que c’est ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mademoiselle Hervé ?</p>
+
+<hstage><speaker>MADEMOISELLE HERVÉ</speaker>, derrière le théâtre.</hstage>
+<p>On y va.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Je crois que je deviendrai fou avec tous ces gens-ci. Hé ! <stage>Brécourt, la Grange, du Croisy entrent.</stage> Têtebleu ! messieurs, me voulez-vous faire enrager aujourd’hui ?</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>Que voulez-vous qu’on fasse ? Nous ne savons pas nos rôles ; et c’est nous faire enrager vous-même que de nous obliger à jouer de la sorte.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Ah ! les étranges animaux à conduire que des comédiens ! <stage>Mesdemoiselles Béjart, du Parc, de Brie, Molière, du Croisy et Hervé arrivent.</stage></p>
+
+<pagenum num="479"/>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Eh bien, nous voilà. Que prétendez-vous faire ?</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>Quelle est votre pensée ?</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>De quoi est-il question ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>De grâce, mettons-nous ici ; et, puisque nous voilà tous habillés et que le roi ne doit venir de deux heures, employons ce temps à répéter notre affaire et voir la manière dont il faut jouer les choses.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>Le moyen de jouer ce qu’on ne sait pas ?</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>Pour moi, je vous déclare que je ne me souviens pas d’un mot de ce personnage.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Je sais bien qu’il me faudra souffler le mien d’un bout à l’autre.</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Et moi, je me prépare fort à tenir mon rôle à la main.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>Et moi aussi.</p>
+
+<hstage><speaker>MADEMOISELLE HERVÉ</speaker></hstage>
+<p>Pour moi, je n’ai pas grand’chose à dire.</p>
+
+<hstage><speaker>MADEMOISELLE DU CROISY</speaker></hstage>
+<p>Ni moi non plus ; mais, avec cela, je ne répondrois pas de ne point manquer.</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>J’en voudrois être quitte pour dix pistoles.</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>Et moi, pour vingt bons coups de fouet, je vous assure.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Vous voilà tous bien malades, d’avoir un méchant rôle à jouer ! Et que feriez-vous donc si vous étiez en ma place ?</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Qui, vous ? vous n’êtes pas à plaindre ; car, ayant fait la pièce, vous n’avez pas peur d’y manquer.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Et n’ai-je à craindre que le manquement de mémoire ? Ne comptez-vous pour rien l’inquiétude d’un succès qui ne <pagenum num="480"/>regarde que moi seul ? Et pensez-vous que ce soit une petite affaire que d’exposer quelque chose de comique devant une assemblée comme celle-ci ; que d’entreprendre de faire rire des personnes qui nous impriment le respect et ne rient que quand ils veulent ? Est-il auteur qui ne doive trembler lorsqu’il en vient à cette épreuve ? Et n’est-ce pas à moi de dire que je voudrois en être quitte pour toutes les choses du monde.</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Si cela vous faisoit trembler, vous prendriez mieux vos précautions, et n’auriez pas entrepris en huit jours ce que vous avez fait.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Le moyen de m’en défendre, lorsqu’un roi me l’a commandé ?</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Le moyen ? Une respectueuse excuse fondée sur l’impossibilité de la chose, dans le peu de temps qu’on vous donne ; et tout autre, en votre place, ménageroit mieux sa réputation, et se seroit bien gardé de se commettre comme vous faites. Où en serez-vous, je vous prie, si l’affaire réussit mal ; et quel avantage pensez-vous qu’en prendront tous vos ennemis ?</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>En effet, il falloit s’excuser avec respect envers le roi, ou demander du temps davantage.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mon Dieu ! mademoiselle, les rois n’aiment rien tant qu’une prompte obéissance, et ne se plaisent point du tout à trouver des obstacles. Les choses ne sont bonnes que dans le temps qu’ils les souhaitent : et leur en vouloir reculer le divertissement est en ôter pour eux toute la grâce. Ils veulent des plaisirs qui ne se fassent point attendre, et les moins préparés leur sont toujours les plus agréables. Nous ne devons jamais nous regarder dans ce qu’ils désirent de nous ; nous ne sommes que pour leur plaire ; et, lorsqu’ils nous ordonnent quelque chose, c’est à nous à profiter vite de l’envie où ils sont. Il vaut mieux s’acquitter mal de ce qu’ils nous demandent que de ne s’en acquitter pas assez tôt ; et, si l’on a la honte de n’avoir pas bien réussi, on a toujours la gloire d’avoir obéi vite à leurs commandements. Mais songeons à répéter, s’il vous plaît.</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Comment prétendez-vous que nous fassions, si nous ne savons pas nos rôles ?</p>
+
+<pagenum num="481"/>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Vous les saurez, vous dis-je ; et, quand même vous ne les sauriez pas tout à fait, pouvez-vous pas y suppléer de votre esprit, puisque c’est de la prose, et que vous savez votre sujet ?</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Je suis votre servante. La prose est pis encore que les vers.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>Voulez-vous que je vous dise ? vous deviez faire une comédie où vous auriez joué tout seul.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Taisez-vous, ma femme, vous êtes une bête.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>Grand merci, monsieur mon mari. Voilà ce que c’est ! Le mariage change bien les gens, et vous ne m’auriez pas dit cela il y a dix-huit mois.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Taisez-vous, je vous prie.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>C’est une chose étrange, qu’une petite cérémonie soit capable de nous ôter toutes nos belles qualités, et qu’un mari et un galant regardent la même personne avec des yeux si différents.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Que de discours !</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>Ma foi, si je faisois une comédie, je la ferois sur ce sujet. Je justifierois les femmes de bien des choses dont on les accuse ; et je ferois craindre aux maris la différence qu’il y a de leurs manières brusques aux civilités des galants.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Ah ! laissons cela. Il n’est pas question de causer maintenant ; nous avons autre chose à faire.</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Mais, puisqu’on vous a commandé de travailler sur le sujet de la critique qu’on a faite contre vous, que n’avez-vous fait cette comédie des comédiens, dont vous nous avez parlé il y a longtemps ? C’étoit une affaire toute trouvée, et qui venoit fort bien à la chose, et d’autant mieux qu’ayant entrepris de vous peindre, ils vous ouvroient l’occasion de les peindre aussi, et que cela auroit pu s’appeler leur portrait, <pagenum num="482"/>à bien plus juste titre que tout ce qu’ils ont fait ne peut être appelé le vôtre. Car vouloir contrefaire un comédien dans un rôle comique, ce n’est pas le peindre lui-même, c’est peindre d’après lui les personnages qu’il représente, et se servir des mêmes traits et des mêmes couleurs qu’il est obligé d’employer aux différents tableaux des caractères ridicules qu’il imite d’après nature ; mais contrefaire un comédien dans des rôles sérieux, c’est le peindre par des défauts qui sont entièrement de lui, puisque ces sortes de personnages ne veulent ni les gestes ni les tons de voix ridicules dans lesquels on le reconnoît.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Il est vrai ; mais j’ai mes raisons pour ne le pas faire, et je n’ai pas cru, entre nous, que la cbose en valût la peine ; et puis il falloit plus de temps pour exécuter cette idée. Comme leurs jours de comédie sont les mêmes que les nôtres, à peine ai-je été les voir que trois ou quatre fois depuis que nous sommes à Paris ; je n’ai attrappé de leur manière de réciter que ce qui m’a d’abord sauté aux yeux, et j’aurois eu besoin de les étudier davantage pour faire des portraits bien ressemblants.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>Pour moi, j’en ai reconnu quelques-ims dans votre bouche.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Je n’ai jamais ouï parler de cela.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>C’est une idée qui m’avoit passé une fois par la tête, et que j’ai laissée là comme une bagatelle, une badinerie, qui peut-être n’auroit pas fait rire.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Dites-la-moi un peu, puisque vous l’avez dite aux autres.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Nous n’avons pas le temps maintenant.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Seulement deux mots.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>J’avois songé une comédie où il y auroit eu un poète, que j’aurois représenté moi-même, qui seroit venu pour offrir une pièce à une troupe de comédiens nouvellement arrivés de la campagne. « Avez-vous, auroit-il dit, des acteurs et des actrices qui soient capables de bien faire valoir un ouvrage ? <pagenum num="483"/>Car ma pièce est une pièce... — Eh ! monsieur, auraient répondu les comédiens, nous avons des hommes et des femmes qui ont été trouvés raisonnables partout où nous avons passé. — Et qui fait les roi parmi vous ? — Voilà un acteur qui s’en démêle parfois. — Qui ? ce jeune homme bien fait ? Vous moquez-vous ? Il faut un roi qui soit gros et gras comme quatre ; un roi, morbleu ! qui soit entripaillé<noteref noteid="note.483.1"/> comme il faut ; un roi d’une vaste circonférence, et qui puisse remplir un trône de la belle manière<noteref noteid="note.483.2"/>. La belle chose qu’un roi d’une taille galante ! Voilà déjà un grand défaut ; mais que je l’entende un peu réciter une douzaine de vers. » Là-dessus le comédien auroit récité, par exemple, quelques vers du roi, de <i>Nicomède</i>.</p>
+
+<blockquote>
+<poem>
+<l>Te le dirai-je, Araspe ? il m’a trop bien servi,</l>
+<l>Augmentant mon pouvoir...</l>
+</poem>
+</blockquote>
+
+<p class="cont">le plus naturellement qu’il lui auroit été possible. Et le poète : « Comment ! vous appelez cela réciter ? C’est se railler, il faut dire les choses avec emphase. Écoutez-moi. <stage>Il contrefait Montflemy, comédien de l’hôtel de Bourgogne.</stage></p>
+
+<blockquote>
+<poem>
+<l>Te le dirai-je, Araspe ? etc.</l>
+</poem>
+</blockquote>
+
+<p class="cont">Voyez-vous cette posture ? Remarquez bien cela. Là, appuyez comme il faut le dernier vers. Voilà ce qui attire l’approbation, et fait faire le brouhaha. — Mais, monsieur, auroit répondu le comédien, il me semble qu’un roi qui s’entretient tout seul avec son capitaine des gardes parle un peu plus humainement, et ne prend guère ce ton de démoniaque. — Vous ne savez ce que c’est. Allez-vous-en réciter comme vous faites, vous verrez si vous ferez faire aucun <i>ah !</i> Voyons un peu une scène d’amant et d’amante. » Là-dessus une comédienne et un comédien auraient fait une scène ensemble, qui est celle de Camille et de Curiace :</p>
+
+<blockquote>
+<poem>
+<l>Iras-tu, ma chère âme ? et ce funeste honneur</l>
+<l>Te plaît-il aux dépens de tout notre bonheur ?</l>
+<l>Hélas ! je vois trop bien, etc.</l>
+</poem>
+</blockquote>
+
+<p class="cont">tout de même que l’autre, et le plus naturellement qu’ils auraient pu. Et le poète aussitôt : « Vous vous moquez, vous <pagenum num="484"/>ne faites rien qui vaille ; et voici comme il faut réciter cela. <stage>Il imite mademoiselle de Beauchâteau, comédienne de l’hôtel de Bourgogne.</stage></p>
+
+<blockquote>
+<poem>
+<l>Iras-tu, ma chère âme, etc.</l>
+<l>Non, je te connois mieux, etc.</l>
+</poem>
+</blockquote>
+
+<p class="cont">Voyez-vous comme cela est naturel et passionné ? Admirez ce visage riant qu’elle conserve dans les plus grandes afflictions. » Enfin, voilà l’idée ; et il auroit parcouru de même tous les acteurs et toutes les actrices.</p>
+
+<notes>
+  <note id="note.483.1">
+    <p><i>Entripaillé</i> paraît être un mot de la création de Molière.</p>
+  </note>
+  <note id="note.483.2">
+    <p>Cette plaisanterie est dirigée contre Montfleury père, comédien de l’hôtel de Bourgogne, dont Molière va contrefaire la déclamation emphatique et outrée. Il était d’une corpulence énorme.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Je trouve cette idée assez plaisante, et j’en ai reconnu là dès le premier vers. Continuez, je vous prie.</p>
+
+<hstage><speaker>MOLIÈRE</speaker>, imitant Beauchâteau, comédien de l’hôtel de Bourgogne, dans les stances du Cid.</hstage>
+<blockquote>
+<poem>
+<l>Percé jusques au fond du cœur, etc.</l>
+</poem>
+</blockquote>
+<p class="cont">Et celui-ci, le reconnoîtrez-vous bien dans Pompée, de <i>Sertorius ?</i> <stage>Il contrefait Hauteroche, comédien de l’hôtel de Bourgogne.</stage></p>
+
+<blockquote>
+<poem>
+<l>L’inimitié qui règne entre les deux partis</l>
+<l>N’y rend pas de l’honneur, etc.</l>
+</poem>
+</blockquote>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Je le reconnois un peu, je pense.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Et celui-ci ? <stage>Imitant de Villiers, comédien de l’hôtel de Bourgogne.</stage></p>
+<blockquote>
+<poem>
+<l>Seigneur, Polybe est mort, etc.</l>
+</poem>
+</blockquote>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Oui, je sais qui c’est ; mais il y en a quelques-uns d’entre eux, je crois, que vous auriez peine à contrefaire.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mon Dieu, il n’y en a point qu’on ne pût attraper par quelque endroit, si je les avois bien étudiés. Mais vous me faites perdre un temps qui nous est cher. Songeons à nous, de grâce, et ne nous amusons point davantage à discourir. <stage>A la Grange.</stage> Vous, prenez garde à bien représenter avec moi votre rôle de marquis.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>Toujours des marquis !</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Oui, toujours des marquis. Que diable voulez-vous qu’on <pagenum num="485"/>prenne pour un caractère agréable de théâtre ? Le marquis aujourd’hui est le plaisant de la comédie ; et comme, dans toutes les comédies anciennes, on voit toujours un valet bouffon qui fait rire les auditeurs, de même, dans toutes nos pièces de maintenant, il faut toujours un marquis ridicule qui divertisse la compagnie.</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Il est vrai, on ne sauroit s’en passer.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Pour vous, mademoiselle...</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>Mon Dieu ! pour moi, je m’acquitterai fort mal de mon personnage ; et je ne sais pas pourquoi vous m’avez donné ce rôle de façonnière.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mon Dieu ! mademoiselle, voilà comme vous disiez, lorsque l’on vous donna celui de la <i>Critique de l’École des Femmes<noteref noteid="note.485.1"/> ;</i> cependant vous vous en êtes acquittée à merveille, et tout le monde est demeuré d’accord qu’on ne peut pas mieux faire que vous avez fait. Croyez-moi, celui-ci sera de même ; et vous le jouerez mieux que vous ne pensez.</p>
+
+<notes>
+  <note id="note.485.1">
+    <p>Mademoiselle du Parc jouait dans cette pièce le rôle de Climène.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>Comment cela se pourroit-il faire ? Car il n’y a point de personne au monde qui soit moins façonnière que moi.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Cela est vrai : et c’est en quoi vous faites mieux voir que vous êtes excellente comédienne, de bien représenter un personnage qui est si contraire à votre humeur. Tâchez donc de bien prendre, tous, le caractère de vos rôles, et de vous figurer que vous êtes ce que vous représentez. <stage>A du Croisy.</stage> Vous faites le poète, vous, et vous devez vous remplir de ce personnage, marquer cet air pédant qui se conserve parmi le commerce du beau monde, ce ton de voix sentencieux, et cette exactitude de prononciation qui appuie sur toutes les syllabes, et ne laisse échapper aucune lettre de la plus sévère orthographe. <stage>A Brécourt.</stage> Pour vous, vous faites un honnête homme de cour, comme vous avez déjà fait dans la <i>Critique de l’École des Femmes</i>, c’est-à-dire que vous devez prendre un air posé, un ton de voix naturel, et gesticuler le moins qu’il vous sera possible. <stage>A la Grange.</stage> Pour vous, je <pagenum num="486"/>n’ai rien à vous dire. <stage>A mademoiselle Béjart.</stage> Vous, vous représentez une de ces femmes qui, pourvu qu’elles ne fassent point l’amour, croient que tout le reste leur est permis ; de ces femmes qui se retranchent toujours fièrement sur leur pruderie, regardent un chacun de haut en bas, et veulent que toutes les plus belles qualités que possèdent les autres ne soient rien en comparaison d’un misérable honneur dont personne ne se soucie. Ayez toujours ce caractère devant les yeux, pour en bien faire les grimaces. <stage>A mademoiselle de Brie.</stage> Pour vous, vous faites une de ces femmes qui pensent être les plus vertueuses personnes du monde, pourvu qu’elles sauvent les apparences ; de ces femmes qui croient que le péché n’est que dans le scandale, qui veulent conduire doucement les affaires qu’elles ont, sur le pied d’attachement honnête, et appellent amis ce que les autres nomment galants. Entrez bien dans ce caractère. <stage>A mademoiselle Molière.</stage> Vous, vous faites le même personnage que dans la <i>Critique</i>, et je n’ai rien à vous dire, non plus qu’à mademoiselle du Parc. <stage>A mademoiselle du Croisy.</stage> Pour vous, vous représentez une de ces personnes qui prêtent doucement des charités à tout le monde<noteref noteid="note.486.1"/>, de ces femmes qui donnent toujours le petit coup de langue en passant, et seroient bien fâchées d’avoir souffert qu’on eût dit du bien du prochain. Je crois que vous ne vous acquitterez pas mal de ce rôle. <stage>A mademoiselle Hervé.</stage> Et pour vous, vous êtes la soubrette de la précieuse, qui se mêle de temps en temps dans la conversation, et attrape, comme elle peut, tous les termes de sa maîtresse. Je vous dis tous vos caractères, afin que vous vous les imprimiez fortement dans l’esprit. Commençons maintenant à répéter, et voyons comme cela ira. Ah ! voici justement un fâcheux ! Il ne nous falloit plus que cela !</p>
+
+<notes>
+  <note id="note.486.1">
+    <p>Prêtent <i>des torts</i>. Expression proverbiale qui n’est plus en usage.</p>
+  </note>
+</notes>
+
+<h3 id="sc02">SCÈNE II. — LA THORILLIÈRE, MOLIÈRE, BRÉCOURT, LA GRANGE, DU CROISY ; MESDEMOISELLES DU PARC, BÉJART, DE BRIE, MOLIÈRE, DU CROISY, HERVÉ</h3>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Bonjour, monsieur Molière.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Monsieur, votre serviteur. <stage>A part.</stage> La peste soit de l’homme.</p>
+
+<pagenum num="487"/>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Comment vous en va ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Fort bien, pour vous servir. <stage>Aux actrices.</stage> Mesdemoiselles, ne...</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Je viens d’un lieu où j’ai bien dit du bien de vous.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Je vous suis obligé. <stage>A part.</stage> Que le diable t’emporte ! <stage>Aux acteurs.</stage> Ayez un peu soin...</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Vous jouez une pièce nouvelle aujourd’hui ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Oui, monsieur. <stage>Aux actrices.</stage> N’oubliez pas...</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>C’est le roi qui vous l’a fait faire ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Oui, monsieur. <stage>Aux acteurs.</stage> De grâce, songez...</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Comment l’appelez-vous ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Oui, monsieur.</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Je vous demande comment vous la nommez.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Ah ! ma foi, je ne sais. <stage>Aux actrices.</stage> Il faut, s’il vous plaît, que vous...</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Comment serez-vous habillés ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Comme vous voyez. <stage>Aux acteurs.</stage> Je vous prie...</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Quand commencerez-vous ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Quand le roi sera venu. <stage>A part.</stage> Au diantre le questionneur !</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Quand croyez-vous qu’il vienne ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>La peste m’étouffe, monsieur, si je le sais.</p>
+
+<pagenum num="488"/>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Savez-vous point...</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Tenez, monsieur, je suis le plus ignorant homme du monde. Je ne sais rien de tout ce que vous pourrez me demander, je vous jure. <stage>A part.</stage> J’enrage ! Ce bourreau vient avec un air tranquille vous faire des questions, et ne se soucie pas qu’on ait en tête d’autres affaires.</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Mesdemoiselles, votre serviteur.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Ah ! bon, le voilà d’un autre côté !</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker>, à mademoiselle du Croisy.</hstage>
+<p>Vous voilà belle comme un petit ange. <stage>En regardant mademoiselle Hervé.</stage> Jouez-vous toutes deux aujourd’hui ?</p>
+
+<hstage><speaker>MADEMOISELLE DU CROISY</speaker></hstage>
+<p>Oui, monsieur.</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Sans vous, la comédie ne vaudroit pas grand’chose.</p>
+
+<hstage><speaker>MOLIÈRE</speaker>, bas, aux actrices.</hstage>
+<p>Vous ne voulez pas faire en aller cet homme-là.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker>, à la Thorillière.</hstage>
+<p>Monsieur, nous avons ici quelque chose à répéter ensemble.</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Ah ! parbleu, je ne veux pas vous empêcher ; vous n’avez qu’à poursuivre.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Mais...</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Non, non, je serois fâché d’incommoder personne. Faites librement ce que vous avez à faire.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Oui ; mais...</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Je suis homme sans cérémonie, vous dis-je ; et vous pouvez répéter ce qui vous plaira.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Monsieur, ces demoiselles ont peine à vous dire qu’elles souhaiteroient fort que personne ne fût ici pendant cette répétition.</p>
+
+<pagenum num="489"/>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Pourquoi ? il n’y a point de danger pour moi.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Monsieur, c’est une coutume qu’elles observent ; et vous aurez plus de plaisir quand les choses vous surprendront.</p>
+
+<hstage><speaker>LA THORILLIÈRE</speaker></hstage>
+<p>Je m’en vais donc dire que vous êtes prêts.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Point du tout, monsieur ; ne vous hâtez pas, de grâce.</p>
+
+<h3 id="sc03">SCÈNE III. — MOLIÈRE, BRÉCOURT, LA GRANGE, DU CROISY ; MESDEMOISELLES DU PARC, BÉJART, DE BRIE, MOLIÈRE, DU CROISY, HERVÉ.</h3>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Ah ! que le monde est plein d’impertinents ! Or sus, commençons. Figurez-vous donc premièrement que la scène est dans l’antichambre du roi ; car c’est un lieu où il se passe tous les jours des choses assez plaisantes. Il est aisé de faire venir là toutes les personnes qu’on veut, et on peut trouver des raisons mêmes pour y autoriser la venue des femmes que j’introduis. La comédie s’ouvre par deux marquis qui se rencontrent. <stage>A la Grange.</stage> Souvenez-vous bien, vous, de venir, comme je vous ai dit, là, avec cet air qu’on nomme le bel air, peignant votre perruque, et grondant une petite chanson entre vos dents. La, la, la, la, la, la. Rangez-vous donc, vous autres, car il faut du terrain à deux marquis ; et ils ne sont pas gens à tenir leur personne dans un petit espace. <stage>A la Grange.</stage> Allons parlez.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Bonjour, marquis.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mon Dieu ! ce n’est point là le ton d’un marquis ; il faut le prendre un peu plus haut ; et la plupart de ces messieurs affectent une manière de parler particulière, pour se distinguer du commun : <i>Bonjour, marquis</i>. Recommencez donc.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Bonjour marquis.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Ah ! marquis, ton serviteur.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Que fais-tu là ?</p>
+
+<pagenum num="490"/>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Parbleu, tu vois ; j’attends que tous ces messieurs aient débouché la porte, pour présenter là mon visage.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Têtebleu, quelle foule ! Je n’ai garde de m’y aller frotter, et j’aime bien mieux entrer des derniers.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Il y a là vingt gens qui sont fort assurés de n’entrer point, et qui ne laissent pas de se presser et d’occuper toutes les avenues de la porte.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Crions nos deux noms à l’huissier, afin qu’il nous appelle.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Cela est bon pour toi ; mais, pour moi, je ne veux pas être joué par Molière.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Je pense pourtant, marquis, que c’est toi qu’il joue dans la <i>Critique</i>.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Moi ? Je suis ton valet ; c’est toi-même en propre personne.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Ah ! ma foi, tu es bon de m’appliquer ton personnage.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Parbleu ! je te trouve plaisant de me donner ce qui t’appartient.</p>
+
+<hstage><speaker>LA GRANGE</speaker>, riant.</hstage>
+<p>« Ah, ah, ah ! cela est drôle.</p>
+
+<hstage><speaker>MOLIÈRE</speaker>, riant.</hstage>
+<p>« Ah, ah, ah ! cela est bouffon.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Quoi ! tu veux soutenir que ce n’est pas toi qu’on joue dans le marquis de la <i>Critique ?</i></p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Il est vrai, c’est moi. <i>Détestable, morbleu ! détestable ! tarte à la crème</i> ! C’est moi, c’est moi, assurément, c’est moi.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Oui, parbleu ! c’est toi, tu n’as que faire de railler ; et, si tu veux, nous gagerons, et verrons qui a raison des deux.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Et que veux-tu gager encore ?</p>
+
+<pagenum num="491"/>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Je gage cent pistoles que c’est toi.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Et moi, cent pistoles que c’est toi.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Cent pistoles comptant ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Comptant. Quatre-vingt-dix pistoles sur Amyntas, et dix pistoles comptant.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Je le veux.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Cela est fait.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Ton argent court grand risque.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Le tien est bien aventuré.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« A qui nous en rapporter ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker>, à Brécourt.</hstage>
+<p>« Voici un homme qui nous jugera. Chevalier...</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Quoi ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Bon ! voilà l’autre qui prend le ton de marquis ! Vous ai-je pas dit que vous faites un rôle où l’on doit parler naturellement ?</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>Il est vrai.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Allons donc. « Chevalier...</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Quoi ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Juge-nous un peu sut une gageure que nous avons faite.</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Et quelle ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Nous disputons qui est le marquis de la <i>Critique</i> de Molière, il gage que c’est moi, et moi, je gage que c’est lui.</p>
+
+<pagenum num="492"/>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Et moi, je juge que ce n’est ni l’un ni l’autre. Vous êtes fous tous deux de vouloir vous appliquer ces sortes de choses ; et voilà de quoi j’ouïs l’autre jour se plaindre Molière, parlant à des personnes qui le chargeoient de même chose que vous. Il disoit que rien ne lui donnoit du déplaisir comme d’être accusé de regarder quelqu’un dans les portraits qu’il fait : que son dessein est de peindre les mœurs sans vouloir toucher aux personnes, et que tous les personnages qu’il représente sont des personnages en l’air, et des fantômes proprement, qu’il habille à sa fantaisie, pour réjouir les spectateurs ; qu’il seroit bien fâché d’y avoir jamais marqué qui que ce soit ; et que si quelque chose étoit capable de le dégoûter de faire des comédies, c’étoit les ressemblances qu’on y vouloit toujours trouver, et dont ses ennemis tâchoient malicieusement d’appuyer la pensée, pour lui rendre de mauvais offices auprès de certaines personnes à qui il n’a jamais pensé. Et, en effet, je trouve qu’il a raison : car pourquoi vouloir, je vous prie, appliquer tous ses gestes et toutes ses paroles, et chercher à lui faire des affaires en disant hautement : Il joue un tel, lorsque ce sont des choses qui peuvent convenir à cent personnes ? Comme l’affaire de la comédie est de représenter en général tous les défauts des hommes et principalement des hommes de notre siècle, il est impossible à Molière de faire aucun caractère qui ne rencontre quelqu’un dans le monde ; et, s’il faut qu’on l’accuse d’avoir songé toutes les personnes où l’on peut trouver les défauts qu’il peint,  il faut sans doute qu’il ne fasse plus de comédies.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Ma foi, chevalier, tu veux justifier Molière, et épargner notre ami que voilà.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Point du tout. C’est toi qu’il épargne, et nous trouverons d’autres juges.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Soit. Mais dis-moi, chevalier, crois-tu pas que ton Molière est épuisé maintenant, et qu’il ne trouvera plus de matière pour...</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Plus de matière ? Eh ! mon pauvre marquis, nous lui en fournirons toujours assez, et nous ne prenons guère le <pagenum num="493"/>chemin de nous rendre sages pour tout ce qu’il fait et tout ce qu’il dit... »</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Attendez ; il faut marquer davantage tout cet endroit. Écoutez-le-moi dire un peu. « Et qu’il ne trouvera plus de matière pour... — Plus de matière ? Eh ! mon pauvre marquis, nous lui en fournirons toujours assez, et nous ne prenons guère le chemin de nous rendre sages pour tout ce qu’il fait et tout ce qu’il dit. Crois-tu qu’il ait épuisé dans ses comédies tout le ridicule des hommes ? Et, sans sortir de la cour, n’a-t-il pas encore vingt caractères de gens où il n’a point touché ? N’a-t-il pas, par exemple, ceux qui se font les plus grandes amitiés du monde, et qui, le dos tourné, font galanterie de se déchirer l’un l’autre ? N’a-t-il pas ces adulateurs à outrance, ces flatteurs insipides, qui n’assaisonnent d’aucun sel les louanges qu’ils donnent, et dont toutes les flatteries ont une douceur fade qui fait mal au cœur à ceux qui les écoutent ? N’a-t-il pas ces lâches courtisans de la faveur, ces perfides adorateurs de la fortune, qui vous encensent dans la prospérité, et vous accablent dans la disgrâce ? N’a-t-il pas ceux qui sont toujours mécontents de la cour, ces suivants inutiles, ces incommodes assidus, ces gens, dis-je, qui pour services ne peuvent compter que des importunités, et qui veulent que l’on les récompense d’avoir obsédé le prince dix ans durant ? N’a-t-il pas ceux qui caressent également tout le monde, qui promènent leurs civilités à droite et à gauche, et courent à tous ceux qu’ils voient, avec les mêmes embrassades et les mêmes protestations d’amitié ? — Monsieur, votre très humble serviteur. Monsieur, je suis tout à votre service. Tenez-moi des vôtres, mon cher. Faites état de moi, monsieur, comme du plus chaud de vos amis. Monsieur, je suis ravi de vous embrasser. Ah ! monsieur, je ne vous voyois pas ! Faites-moi la grâce de m’employer. Soyez persuadé que je suis entièrement à vous. Vous êtes l’homme du monde que je révère le plus. Il n’y a personne que j’honore à l’égal de vous. Je vous conjure de le croire. Je vous supplie de n’en point douter. Serviteur. Très humble valet. Va, va, marquis, Molière aura toujours plus de sujets qu’il n’en voudra ; et tout ce qu’il a touché jusqu’ici n’est rien que bagatelle, au prix de ce qui reste. » Voilà à peu près comme cela doit être joué.</p>
+
+<pagenum num="494"/>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>C’est assez.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Poursuivez.</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Voici Climène et Élise. »</p>
+
+<hstage><speaker>MOLIÈRE</speaker>, à mesdemoiselles du Parc et Molière.</hstage>
+<p>Là-dessus vous arriverez toutes deux. <stage>A mademoiselle du Parc.</stage> Prenez bien garde, vous, à vous déhancher comme il faut, et à faire bien des façons. Cela vous contraindra un peu ; mais qu’y faire ! Il faut parfois se faire violence.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Certes, madame, je vous ai reconnue de loin, et j’ai bien vu à votre air que ce ne pouvoit être une autre que vous.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Vous voyez. Je viens attendre ici la sortie d’un homme avec qui j’ai une affaire à démêler. .</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Et moi de même. »</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mesdames, voilà des coffres qui vous serviront de fauteuils.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Allons, madame, prenez place, s’il vous plaît.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Après vous, madame. »</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Bon. Après ces petites cérémonies muettes, chacun prendra place et parlera assis, hors les marquis, qui tantôt se lèveront et tantôt s’assoiront, suivant leur inquiétude naturelle. « Parbleu, chevalier, tu devrois faire prendre médecine à tes canons.</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Comment ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Ils se portent fort mal.</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Serviteur à la turlupinade !</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Mon Dieu ! madame, que je vous trouve le teint d’une blancheur éblouissante, et les lèvres d’un couleur de feu surprenant !</p>
+
+<pagenum num="495"/>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Ah ! que dites-vous là, madame ? ne me regardez point, je suis du dernier laid aujourd’hui.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Eh ! madame, levez un peu votre coiffe.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Fi ! je suis épouvantable, vous dis-je, et je me fais peur à moi-même.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Vous êtes si belle !</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Point, point.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Montrez-vous.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Ah ! fi donc, je vous prie.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« De grâce !</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Mon Dieu, non.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Si fait.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Vous me désespérez.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Un moment.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Hai.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Résolûment vous vous montrerez. On ne peut point se passer de vous voir.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Mon Dieu ! que vous êtes une étrange personne ! Vous voulez furieusement ce que vous voulez.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Ah ! madame, vous n’avez aucun désavantage à paroître au grand jour, je vous jure ! Les méchantes gens, qui assuroient que vous mettiez quelque chose ! Vraiment, je les démentirai bien maintenant.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Hélas ! je ne sais pas seulement ce qu’on appelle mettre quelque chose<noteref noteid="note.495.1"/> ! Mais où vont ces dames ?</p>
+
+<notes>
+  <note id="note.495.1">
+    <p> C’est-à-dire du fard, ou du rouge et du blanc.</p>
+  </note>
+</notes>
+
+<pagenum num="496"/>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>« Vous voulez bien, mesdames, que nous vous donnions en passant la plus agréable nouvelle du monde. Voilà monsieur Lysidas qui vient de nous avertir qu’on a fait une pièce contre Molière, que les grands comédiens vont jouer.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Il est vrai, on me l’a voulu lire ; et c’est un nommé Br... Brou... Broussaut qui l’a faite.</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>« Monsieur, elle est affichée sous le nom de Boursault. Mais, à vous dire le secret, bien des gens ont mis la main à cet ouvrage, et l’on en doit concevoir une assez haute attente. Comme tous les auteurs et tous les comédiens regardent Molière comme leur plus grand ennemi, nous nous sommes tous unis pour le desservir. Chacun de nous a donné un coup de pinceau à son portrait ; mais nous nous sommes bien gardés d’y mettre nos noms ; il lui auroit été trop glorieux de succomber, aux yeux du monde, sous les efforts de tout le Parnasse ; et, pour rendre sa défaite plus ignominieuse, nous avons voulu choisir tout exprès un auteur sans réputation.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Pour moi, je vous avoue que j’en ai toutes les joies imaginables.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Et moi aussi. Par la sambleu ! le railleur sera raillé, il aura sur les doigts, ma foi.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Cela lui apprendra à vouloir satiriser tout. Comment, cet impertinent ne veut pas que les femmes aient de l’esprit ! Il condamne toutes nos expressions élevées, et prétend que nous parlions toujours terre à terre !</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>« Le langage n’est rien ; mais il censure tous nos attachements, quelque innocents qu’ils puissent être ; et, de la façon qu’il en parle, c’est être criminelle que d’avoir du mérite.</p>
+
+<hstage><speaker>MADEMOISELLE DU CROISY</speaker></hstage>
+<p>« Cela est insupportable. Il n’y a pas une femme qui puisse plus rien faire. Que ne laisse-t-il en repos nos maris, sans leur ouvrir les yeux, et leur faire prendre garde à des choses dont ils ne s’avisent pas ?</p>
+
+<pagenum num="497"/>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>« Passe pour tout cela ; mais il satirise même les femmes de bien, et ce méchant plaisant leur donne le titre d’honnêtes diablesses<noteref noteid="note.497.1"/> !</p>
+
+<notes>
+  <note id="note.497.1">
+    <p> Allusion au vers de <i>l’École des Femmes :</i></p>
+    <blockquote>
+      <l>Ces dragons de vertu, ces honnêtes diablesses.</l>
+    </blockquote>
+  </note>
+</notes>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« C’est un impertinent. Il faut qu’il en ait tout le soûl.</p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>« La représentation de cette comédie, madame, aura besoin d’être appuyée ; et les comédiens de l’hôtel...</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Mon Dieu, qu’ils n’appréhendent rien ! Je leur garantis le succès de leur pièce, corps pour corps.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Vous avez raison, madame. Trop de gens sont intéressés à la trouver belle. Je vous laisse à penser si tous ceux qui se croient satirisés par Molière ne prendront pas l’occasion de se venger de lui en applaudissant à cette comédie.</p>
+
+<hstage><speaker>BRÉCOURT</speaker>, ironiquement.</hstage>
+<p>« Sans doute ; et pour moi, je réponds de douze marquis, de six précieuses, de vingt coquettes, et de trente cocus, qui ne manqueront pas d’y battre des mains.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« En effet. Pourquoi aller offenser toutes ces personnes-là, et particulièrement les cocus, qui sont les meilleures gens du monde ?</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Par la sambleu ! on m’a dit qu’on le va dauber, lui et toutes ses belles comédies, de la belle manière ; et que les comédiens et les auteurs depuis le cèdre jusqu’à l’hysope, sont diablement animés contre lui.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Cela lui sied fort bien ! Pourquoi fait-il de méchantes pièces que tout Paris va voir, et où il peint si bien les gens, que chacun s’y connoît ? Que ne fait-il des comédies comme celles de monsieur Lysidas ? Il n’auroit personne contre lui, et tous les auteurs en diroient du bien. Il est vrai que de semblables comédies n’ont pas ce grand concours de monde ; mais, en revanche, elles sont toujours bien écrites, personne n’écrit contre elles, et tous ceux qui les voient meurent d’envie de les trouver belles.</p>
+
+<pagenum num="498"/>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>« II est vrai que j’ai l’avantage de ne me point faire d’ennemis, et que tous mes ouvrages ont l’approbation des savants.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« Vous faites bien d’être content de vous. Cela vaut mieux que tous les applaudissements du public, et que tout l’argent qu’on sauroit gagner aux pièces de Molière. Que vous importe qu’il vienne du monde à vos comédies, pourvu qu’elles soient approuvées par messieurs vos confrères ?</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Mais quand jouera-t-on le <i>Portrait du Peintre ?</i></p>
+
+<hstage><speaker>DU CROISY</speaker></hstage>
+<p>« Je ne sais ; mais je me prépare fort à paroître des prête miers sur les rangs, pour crier : Voilà qui est beau !</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Et moi de même, parbleu !</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Et moi aussi, Dieu me sauve !</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>« Pour moi, j’y payerai de ma personne comme il faut ; et je réponds d’une bravoure d’approbation qui mettra en et déroute tous les jugements ennemis. C’est bien la moindre chose que nous devions faire que d’épauler de nos louanges le vengeur de nos intérêts !</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>« C’est fort bien dit.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>« Et ce qu’il nous faut faire toutes.</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>« Assurément.</p>
+
+<hstage><speaker>MADEMOISELLE DU CROISY</speaker></hstage>
+<p>« Sans doute.</p>
+
+<hstage><speaker>MADEMOISELLE HERVÉ</speaker></hstage>
+<p>« Point de quartier à ce contrefaiseur de gens.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Ma foi, chevalier, mon ami, il faudra que ton Molière se cache.</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Qui, lui ? Je te promets, marquis, qu’il fait dessein <pagenum num="499" b="d’al-" a="ler">d’aller</pagenum> sur le théâtre, rire avec tous les autres du portrait qu’on a fait de lui.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Parbleu ! ce sera donc du bout des dents qu’il rira.</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Va, va, peut-être qu’il y trouvera plus de sujets de rire que tu ne penses. On m’a montré la pièce ; et, comme tout ce qu’il y a d’agréable sont effectivement les idées qui ont été prises de Molière, la joie que cela pourra donner n’aura pas lieu de lui déplaire, sans doute ; car, pour l’endroit où l’on s’efforce de le noircir, je suis le plus trompé du monde, si cela est approuvé de personne ; et quant à tous les gens qu’ils ont tâché d’animer contre lui, sur ce qu’il fait, dit-on, des portraits trop ressemblants, outre que cela est de fort mauvaise grâce, je ne vois rien de plus ridicule et de plus mal repris ; et je n’avois pas cru jusqu’ici que ce fût un sujet de blâme pour un comédien, que de peindre trop bien les hommes.</p>
+
+<hstage><speaker>LA GRANGE</speaker></hstage>
+<p>« Les comédiens m’ont dit qu’ils l’attendoient sur la réponse, et que...</p>
+
+<hstage><speaker>BRÉCOURT</speaker></hstage>
+<p>« Sur la réponse ? Ma foi, je le trouverois un grand fou, s’il se mettoit en peine de répondre à leurs invectives. Tout le monde sait assez de quel motif elles peuvent partir ; et la meilleure réponse qu’il leur puisse faire, c’est une comédie qui réussisse comme toutes ses autres. Voilà le vrai moyen de se venger d’eux comme il faut ; et, de l’humeur dont je les connois, je suis fort assuré qu’une pièce nouvelle qui leur enlèvera le monde les fâchera bien plus que toutes les satires qu’on pourroit faire de leurs personnes.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>« Mais, chevalier... »</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Souffrez que j’interrompe pour un peu la répétition. <stage>A Molière.</stage> Voulez-vous que je vous die ? Si j’avois été en votre place, j’aurois poussé les choses autrement. Tout le monde attend de vous une réponse vigoureuse ; et, après la manière dont on m’a dit que vous étiez traité dans cette comédie, vous étiez en droit de tout dire contre les comédiens, et vous deviez n’en épargner aucun.</p>
+
+<pagenum num="500"/>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>J’enrage de vous ouïr parler de la sorte ; et voilà votre manie à vous autres femmes. Vous voudriez que je prisse feu d’abord contre eux, et qu’à leur exemple, j’allasse éclater promptement en invectives et en injures. Le bel honneur que j’en pourrois tirer, et le grand dépit que je leur ferois ! Ne sont-ils pas préparés de bonne volonté à ces sortes de choses ? Et lorsqu’ils ont délibéré s’ils joueroient le <i>Portrait du Peintre</i>, sur la crainte d’une riposte, quelques-uns d’entre eux n’ont-ils pas répondu : Qu’il nous rende toutes les injures qu’il voudra, pourvu que nous gagnions de l’argent ? N’est-ce pas là la marque d’une âme fort sensible à la honte ? et ne me vengerois-je pas bien d’eux en leur donnant ce qu’ils veulent bien recevoir ?</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Ils se sont fort plaints, toutefois, de trois ou quatre mots que vous avez dits d’eux dans la <i>Critique</i> et dans vos <i>Précieuses</i>.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Il est vrai, ces trois ou quatre mots sont fort offensants, et ils ont grande raison de les citer. Allez, allez, ce n’est pas cela. Le plus grand mal que je leur aie fait, c’est que j’ai eu le bonheur de plaire un peu plus qu’ils n’auroient voulu ; et tout leur procédé, depuis que nous sommes venus à Paris, a trop marqué ce qui les touche. Mais laissons-les faire tant qu’ils voudront ; toutes leurs entreprises ne doivent point m’inquiéter. Ils critiquent mes pièces, tant mieux ; et Dieu me garde d’en faire jamais qui leur plaisent ! ce seroit une mauvaise affaire pour moi.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Il n’y a pas grand plaisir pourtant à voir déchirer ses ouvrages.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Et qu’est-ce que cela me fait ? N’ai-je pas obtenu de ma comédie tout ce que j’en voulois obtenir, puisqu’elle a eu le bonheur d’agréer aux augustes personnes à qui particulièrement je m’efforce de plaire ? N’ai-je pas lieu d’être satisfait de sa destinée, et toutes leurs censures ne viennent-elles pas trop tard ? Est-ce moi, je vous prie, que cela regarde maintenant ? et lorsqu’on attaque une pièce qui a eu du succès, n’est-ce pas attaquer plutôt le jugement de ceux qui l’ont approuvée que l’art de celui qui l’a faite ?</p>
+
+<pagenum num="501"/>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Ma foi, j’aurois joué ce petit monsieur l’auteur, qui se mêle d’écrire contre des gens qui ne songent pas à lui.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Vous êtes folle. Le beau sujet à divertir la cour, que monsieur Boursault ! Je voudrois bien savoir de quelle façon on pourroit l’ajuster pour le rendre plaisant, et si, quand on le berneroit sur un théâtre, il seroit assez heureux pour faire rire le monde. Ce lui seroit trop d’honneur que d’être joué devant une auguste assemblée ; il ne demanderoit pas mieux ; et il m’attaque de gaieté de cœur, pour se faire connoître, de quelque façon que ce soit. C’est un homme qui n’a rien à perdre, et les comédiens ne me l’ont déchaîné que pour m’engager à une sotte guerre, et me détourner, par cet artifice, des autres ouvrages que j’ai à faire ; et cependant vous êtes assez simples pour donner toutes dans ce panneau. Mais enfin j’en ferai ma déclaration publiquement. Je ne prétends faire aucune réponse à toutes leurs critiques et leurs contre-critiques. Qu’ils disent tous les maux du monde de mes pièces, j’en suis d’accord. Qu’ils s’en saisissent après nous ; qu’ils les retournent comme un habit pour les mettre sur leur théâtre, et tâchent à profiter de quelque agrément qu’on y trouve, et d’un peu de bonheur que j’ai ; j’y consens, ils en ont besoin, et je serai bien aise de contribuer à les faire subsister, pourvu qu’ils se contentent de ce que je puis leur accorder avec bienséance. La courtoisie doit avoir des bornes ; et il y a des choses qui ne font rire ni les spectateurs, ni celui dont on parle. Je leur abandonne de bon cœur mes ouvrages, ma figure, mes gestes, mes paroles, mon ton de voix, et ma façon de réciter, pour en faire et dire tout ce qu’il leur plaira, s’ils en peuvent tirer quelque avantage. Je ne m’oppose point à toutes ces choses, et je serai ravi que cela puisse réjouir le monde ; mais, en leur abandonnant tout cela, ils me doivent faire la grâce de me laisser le reste, et de ne point toucher à des matières de la nature de celles sur lesquelles on m’a dit qu’ils m’attaquoient dans leurs comédies<noteref noteid="note.501.1"/>. C’est de quoi je prierai civilement cet honnête monsieur qui se mêle d’écrire pour eux, et voilà toute la réponse qu ils auront de moi.</p>
+
+<notes>
+  <note id="note.501.1">
+    <p>Molière se plaint ici du passage où Boursault cherchait à rendre sa religion suspecte.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Mais enfin...</p>
+
+<pagenum num="502"/>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mais enfin vous me feriez devenir fou. Ne parlons point de cela davantage ; nous nous amusons à faire des discours, au lieu de répéter notre comédie. Où en étions-nous ? Je ne m’en souviens plus.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Vous en étiez à l’endroit...</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Mon Dieu ! j’entends du bruit ; c’est le roi qui arrive assurément, et je vois bien que nous n’aurons pas le temps de passer outre. Voilà ce que c’est de s’amuser. Oh bien, faites donc, pour le reste, du mieux qu’il vous sera possible.</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Par ma foi, la frayeur me prend, et je ne saurois aller jouer mon rôle, si je ne le répète tout entier.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Comment, vous ne sauriez aller jouer votre rôle ?</p>
+
+<hstage><speaker>MADEMOISELLE BÉJART</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>Ni moi, le mien.</p>
+
+<hstage><speaker>MADEMOISELLE DE BRIE</speaker></hstage>
+<p>Ni moi non plus.</p>
+
+<hstage><speaker>MADEMOISELLE MOLIÈRE</speaker></hstage>
+<p>Ni moi.</p>
+
+<hstage><speaker>MADEMOISELLE HERVÉ</speaker></hstage>
+<p>Ni moi.</p>
+
+<hstage><speaker>MADEMOISELLE DU CROISY</speaker></hstage>
+<p>Ni moi.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Que pensez-vous donc faire ? Vous moquez-vous toutes de moi ?</p>
+
+<h3 id="sc04">SCÈNE IV. — BÉJART, MOLIÈRE, LA GRANGE, DU CROISY ; MESDEMOISELLES DU PARC, BÉJART, DE BRIE, MOLIÈRE, DU CROISY, HERVÉ</h3>
+
+<hstage><speaker>BÉJART</speaker></hstage>
+<p>Messieurs, je viens vous avertir que le roi est venu, et qu’il attend que vous commenciez.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Ah ! monsieur, vous me voyez dans la plus grande peine <pagenum num="503"/>du monde ; je suis désespéré, â l’heure que je vous parle ! Voici des femmes qui s’effrayent, et qui disent qu’il leur faut répéter leurs rôles avant que d’aller commencer. Nous demandons, de grâce, encore un moment. Le roi a de la bonté, et il sait bien que la chose a été précipitée.</p>
+
+<h3 id="sc05">SCÈNE V. — MOLIÈRE, LA GRANGE, DU CROISY ; MESDEMOISELLES DU PARC, BÉJART, DE BRIE, MOLIÈRE, DU CROISY, HERVÉ</h3>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Eh ! de grâce, tâchez de vous remettre, prenez courage, je vous prie.</p>
+
+<hstage><speaker>MADEMOISELLE DU PARC</speaker></hstage>
+<p>Vous devez vous aller excuser.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Comment m’excuser ?</p>
+
+<h3 id="sc06">SCÈNE VI. — MOLIÈRE, LA GRANGE, DU CROISY ; MESDEMOISELLES DU PARC, BÉJART, DE BRIE, MOLIÈRE, DU CROISY, HERVÉ ; UN NÉCESSAIRE<noteref noteid="note.503.1"/>.</h3>
+
+<notes>
+  <note id="note.503.1">
+    <p>On dit qu’un homme qui fait l’empressé dans une maison, qui s’y mêle de tout, qu’il <i>fait le nécessaire</i>. C’est dans ce sens qu’on appelle ici, substantivement, <i>des nécessaires, </i>ces gens qui viennent dire de commencer, sans en avoir reçu la mission de personne.</p>
+  </note>
+</notes>
+
+<hstage><speaker>UN NÉCESSAIRE</speaker></hstage>
+<p>Messieurs, commencez donc.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Tout à l’heure, monsieur. Je crois que je perdrai l’esprit de cette affaire-ci, et...</p>
+
+<h3 id="sc07">SCÈNE VII. — MOLIÈRE, LA GRANGE, DU CROISY ; MESDEMOISELLES DU PARC, BÉJART, DE BRIE, MOLIÈRE, DU CROISY, HERVÉ ; UN NÉCESSAIRE, UN SECOND NÉCESSAIRE</h3>
+
+<hstage><speaker>LE SECOND NÉCESSAIRE</speaker></hstage>
+<p>Messieurs, commencez donc.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Dans un moment, monsieur. <stage>A ses camarades.</stage> Eh quoi donc ! voulez-vous que j’aie l’affront...</p>
+
+<pagenum num="504"/>
+
+<h3 id="sc08">SCÈNE VIII. — MOLIÈRE, LA GRANGE, DU CROISY ; MESDEMOISELLES DU PARC, BÉJART, DE BRIE, MOLIÈRE, DU CROISY, HERVÉ ; UN NÉCESSAIRE, UN SECOND NÉCESSAIRE, UN TROISIÈME NÉCESSAIRE</h3>
+
+<hstage><speaker>LE TROISIÈME NÉCESSAIRE</speaker></hstage>
+<p>Messieurs, commencez donc.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Oui, messieurs, nous y allons. Eh ! que de gens se font de fête, et viennent dire : Commencez donc, à qui le roi ne l’a pas commandé !</p>
+
+<h3 id="sc09">SCÈNE IX. — MOLIÈRE, LA GRANGE, DU CROISY ; MESDEMOISELLES DU PARC, BÉJART, DE BRIE, MOLIÈRE, DU CROISY, HERVÉ ; UN NÉCESSAIRE, UN SECOND NÉCESSAIRE, UN TROISIÈME NÉCESSAIRE, UN QUATRIÈME NÉCESSAIRE</h3>
+
+<hstage><speaker>LE QUATRIÈME NÉCESSAIRE</speaker></hstage>
+<p>Messieurs, commencez donc,</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Voilà qui est fait, monsieur <stage>A ses camarades.</stage> Quoi donc ! recevrai-je la confusion...</p>
+
+<h3 id="sc10">SCÈNE X. — BÉJART, MOLIÈRE, LA GRANGE, DU CROISY ; MESDEMOISELLES DU PARC, BÉJART, DE BRIE, MOLIÈRE, DU CROISY, HERVÉ</h3>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Monsieur, vous venez pour nous dire de commencer ; mais...</p>
+
+<hstage><speaker>BÉJART</speaker></hstage>
+<p>Non, messieurs, je viens pour vous dire qu’on a dit au roi l’embarras où vous vous trouviez, et que, par une bonté toute particulière, il remet votre nouvelle comédie à une autre fois, et se contente, pour aujourd’hui, de la première que vous pourrez donner.</p>
+
+<hstage><speaker>MOLIÈRE</speaker></hstage>
+<p>Ah ! monsieur, vous me redonnez la vie ! Le roi nous fait la plus grande grâce du monde de nous donner du temps pour ce qu’il avoit souhaité ; et nous allons tous le remercier des extrêmes bontés qu’il nous fait paroître.</p>
+
+</page-sequence>
+</page-sequences>
+</bml>

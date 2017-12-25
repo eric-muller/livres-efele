@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000479"
+        creation="2016-12-28T12:34:36-08:00"
+        modification="2016-12-30T12:11:03-08:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>La Jalousie du Barbouillé</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='4'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="sc01" label="Scène I"/>
+    <tocentry idref="sc02" label="Scène II"/>
+    <tocentry idref="sc03" label="Scène III"/>
+    <tocentry idref="sc04" label="Scène IV"/>
+    <tocentry idref="sc05" label="Scène V"/>
+    <tocentry idref="sc06" label="Scène VI"/>
+    <tocentry idref="sc07" label="Scène VII"/>
+    <tocentry idref="sc08" label="Scène VIII"/>
+    <tocentry idref="sc09" label="Scène IX"/>
+    <tocentry idref="sc10" label="Scène X"/>
+    <tocentry idref="sc11" label="Scène XI"/>
+  </toc>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence recto="true">
+<pagenum num="1"/>
+
+<img src="images/frise2.png" class="center100" alt="frise"/>
+
+<h1>LA JALOUSIE DU BARBOUILLÉ</h1>
+
+<h2>COMÉDIE<noteref noteid="note.1.1"/></h2>
+
+<notes>
+  <note id="note.1.1">
+    <p>Cette comédie, l’un des premiers essais de Molière, n’a para jusqu’ici que dans un très petit nombre d’éditions. Bien qu’elle soit très loin des chefs-d’œuvre de l’auteur, elle y prélude ; on y pressent déjà ce naturel et cette verve qui doivent éclater plus tard. Plusieurs scènes méritaient d’être conservées. On est curieux d’ailleurs d’assister aux premiers débuts de Molière, et cette petite comédie est une sorte de point de départ qu’on ne sera pas fâché de trouver ici. (F. L.)</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">LE BARBOUILLÉ, mari d’Angélique.</p>
+<p class="sommaire">LE DOCTEUR.</p>
+<p class="sommaire">ANGÉLIQUE, fille de Gorgibus.</p>
+<p class="sommaire">VALÈRE, amant d’Angélique.</p>
+<p class="sommaire">CATHAU, suivante d’Angélique.</p>
+<p class="sommaire">GORGIBUS, père d’Angélique.</p>
+<p class="sommaire">VILLEBREQUIN.</p>
+<p class="sommaire">LA VALLÉE.</p>
+
+<vsep class="rule"/>
+
+<h3 id="sc01">SCÈNE I. — LE BARBOUILLÉ, <i>seul</i></h3>
+
+<p>Il faut avouer que je suis le plus malheureux de tous les hommes. J’ai une femme qui me fait enrager : au lieu de me <pagenum num="2"/>donner du soulagement, et de faire les choses à mon souhait, elle me fait donner au diable vingt fois le jour ; au lieu de se tenir à la maison, elle aime la promenade, la bonne chère, et fréquente je ne sais quelle sorte de gens. Ah ! pauvre Barbouillé, que tu es misérable ! Il faut pourtant la punir. Si tu la tu<oa/>is... l’intention ne vaut rien, car tu ser<oa/>is pendu. Si tu la fais<oa/>is mettre en prison... la carogne en sortir<oa/>it avec son passe-partout. Que diable faire donc ? Mais voilà monsieur le docteur qui passe par ici ; il faut que je lui demande un bon conseil sur ce que je dois faire.</p>
+
+<h3 id="sc02">SCÈNE II. — LE DOCTEUR, LE BARBOUILLÉ</h3>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Je m’en all<oa/>is vous chercher pour vous faire une prière sur une chose qui m’est d’importance.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Il faut que tu sois bien malappris, bien lourdaud, et bien mal morigéné, mon ami, puisque tu m’abordes sans ôter ton chapeau, sans observer <i>rationem loci, temporis et personœ</i>. Quoi ! débuter par un discours mal digéré, au lieu de dire : <i>Salve, vel salvus sis, doctor doctorum eruditissime</i>. Eh ! pour qui me prends-tu, mon ami ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Ma foi, excusez-moi, c’est que j’av<oa/>is l’esprit en écharpe, et je ne songe<oa/>is pas à ce que je fais<oa/>is ; mais je sais bien que vous êtes galant homme.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Sais-tu bien d’où vient le mot galant homme ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Qu’il vienne de Villejuif ou d’Aubervilliers, je ne m’en soucie guère.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Sache que le mot galant homme vient d’élégant : prenant le <i>g</i> et l’<i>a</i> de la dernière syllabe, cela fait <i>ga</i>, et puis prenant <i>l</i>, ajoutant un <i>a</i> et les deux dernières lettres, cela fait <i>galant</i>, et puis ajoutant <i>homme</i>, cela fait <i>galant homme</i>. Mais, encore, pour qui me prends-tu ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Je vous prends pour un docteur. Or çà, parlons un peu de l’affaire que je veux vous proposer ; il faut que vous sachiez...</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Sache auparavant que je ne suis pas seulement une fois <pagenum num="3"/>docteur, mais que je suis une, deux, trois, quatre, cinq, six, sept, huit, neuf et dix fois docteur. 1<sup>o</sup> Parce que, comme l’unité est la base, le fondement, et le premier de tous les nombres ; aussi, moi, je suis le premier de tous les docteurs, le docte des doctes. 2<sup>o</sup> Parce qu’il y a deux facultés nécessaires pour la parfaite conn<oa/>issance de toutes choses : le sens et l’entendement ; et, comme je suis tout sens et tout entendement, je suis deux fois docteur.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>D’accord. C’est que...</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>3<sup>o</sup> Parce que le nombre de trois est celui de la perfection, selon Aristote ; et, comme je suis parfait et que toutes mes productions le sont aussi, je suis trois fois docteur.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Eh bien, monsieur le docteur...</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>4<sup>o</sup> Parce que la philosophie a quatre parties : la logique, la morale, la physique, et la métaphysique ; et, comme je les possède toutes quatre et que je suis parfaitement versé en icelles, je suis quatre fois docteur.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Que diable, je n’en doute pas. Écoutez-moi donc.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>5<sup>o</sup> Parce qu’il y a cinq universaux : le genre, l’espèce, la différence, le propre et l’accident, sans la conn<oa/>issance desquels il est impossible de faire aucun bon raisonnement ; et, comme je m’en sers avec avantage et que j’en conn<oa/>is l’utilité, je suis cinq fois docteur.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Il faut que j’aie bonne patience.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>6<sup>o</sup> Parce que le nombre de six est le nombre du travail ; et, comme je travaille incessamment pour ma gloire, je suis six fois docteur.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Oh ! parle tant que tu voudras.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>7<sup>o</sup> Parce que le nombre de sept est le nombre de la félicité ; et, comme je possède une parfaite conn<oa/>issance de tout ce qui peut rendre heureux, et que je le suis en effet par mes talents, je me sens obligé de dire de moi-même : <i>O ter quaterque beatum !</i> 8<sup>o</sup> Parce que le nombre de huit est le nombre <pagenum num="4"/>de la justice à cause de l’égalité qui se rencontre en lui, et que la justice et la prudence avec lesquelles je mesure et pèse toutes mes actions me rendent huit fois docteur. 9<sup>o</sup> Parce qu’il y a neuf Muses, et que je suis également chéri d’elles. 10<sup>o</sup> Parce que, comme on ne peut passer le nombre de dix sans faire une répétition des autres nombres, et qu’il est le nombre universel ; aussi, quand on m’a trouvé, on a trouvé le docteur universel ; je contiens en moi tous les autres docteurs. Ainsi tu vois, par des raisons plausibles, vraies, démonstratives et convaincantes, que je suis une, deux, trois, quatre, cinq, six, sept, huit, neuf, dix fois docteur.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Que diable est ceci ? je croy<oa/>is trouver un homme bien savant, qui me donner<oa/>it un bon conseil, et je trouve un ramoneur de cheminées, qui, au lieu de me parler, s’amuse à jouer à la mourre. Un, deux, trois, quatre ; ah, ah, ah ! Oh bien, ce n’est pas cela ; c’est que je vous prie de m’écouter, et croyez que je ne suis pas un homme à vous faire perdre vos peines, et que, si vous me satisfaites sur ce que je veux de vous, je vous donnerai ce que vous voudrez ; de l’argent, si vous en voulez.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Eh ! de l’argent ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Oui, de l’argent, et toute autre chose que vous pourriez demander.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker>, troussant sa robe derrière son cul.</hstage>
+<p>Tu me prends donc pour un homme à qui l’argent fait tout faire, pour un homme attaché à l’intérêt, pour une âme mercenaire ? Sache, mon ami, que, quand tu me donner<oa/>is une bourse pleine de pistoles, et que cette bourse ser<oa/>it dans une riche boîte, cette boîte dans un étui précieux, cet étui dans un coffre admirable, ce coffre dans un cabinet curieux, ce cabinet dans une chambre magnifique, cette chambre dans un appartement agréable, cet appartement dans un château pompeux, ce château dans une citadelle incomparable, cette citadelle dans une ville célèbre, cette ville dans une île fertile, cette île dans une province opulente, cette province dans une monarchie florissante, cette monarchie dans tout le monde ; et que tout le monde où ser<oa/>it cette monarchie florissante, où ser<oa/>it cette province opulente, où ser<oa/>it cette île fertile, où ser<oa/>it cette ville célèbre, où ser<oa/>it cette citadelle incomparable, où ser<oa/>it ce château pompeux, où ser<oa/>it cet appartement <pagenum num="5"/>agréable, où ser<oa/>it ce cabinet curieux, où ser<oa/>it ce coffre admirable, où ser<oa/>it cet étui précieux, où ser<oa/>it cette riche boîte dans laquelle ser<oa/>it enfermée la bourse pleine de pistoles, que je me soucier<oa/>is aussi peu de ton argent et de toi que de cela. <stage>Il s’en va.</stage></p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Ma foi, je m’y suis mépris : à cause qu’il est vêtu comme un médecin, j’ai cru qu’il lui fall<oa/>it parler d’argent ; mais, puisqu’il n’en veut point, il n’y a rien de plus aisé que de le contenter : je m’en vais courir après lui. <stage>Il sort.</stage></p>
+
+<h3 id="sc03">SCÈNE III. — ANGÉLIQUE, VALÈRE, CATHAU</h3>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Monsieur, je vous assure que vous m’obligerez beaucoup de me tenir quelquefois compagnie ; mon mari est si mal bâti, si débauché, si ivrogne, que ce m’est un supplice d’être avec lui, et je vous laisse à penser quelle satisfaction on peut avoir d’un rustre comme lui.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Mademoiselle, vous me faites trop d’honneur de me vouloir souffrir. Je vous promets de contribuer de tout mon pouvoir à votre divertissement ; et, puisque vous témoignez que ma compagnie ne vous est point désagréable, je vous ferai conn<oa/>ître par mes empressements combien j’ai de joie de la bonne nouvelle que vous m’apprenez.</p>
+
+<hstage><speaker>CATHAU</speaker></hstage>
+<p>Ah ! changez de discours, voyez porte-guignon qui arrive.</p>
+
+<h3 id="sc04">SCÈNE IV. — LE BARBOUILLÉ, VALÈRE, ANGÉLIQUE, CATHAU</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Mademoiselle, je suis au désespoir de vous apporter de si méchantes nouvelles ; mais aussi bien les auriez-vous apprises de quelque autre ; et, puisque votre frère est fort malade...</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Monsieur, ne m’en dites pas davantage ; je suis votre servante, et vous rends grâce de la peine que vous avez prise.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Ma foi, sans aller chez le notaire, voilà le certificat de mon cocuage. Ah ! ah ! madame la carogne, je vous trouve avec un homme, après toutes les défenses que je vous ai faites et vous me voulez envoyer de Gemini en Capricorne !</p>
+
+<pagenum num="6"/>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Eh bien, faut-il gronder pour cela ? Ce monsieur vient de m’apprendre que mon frère est bien malade : où est le sujet de querelle ?</p>
+
+<hstage><speaker>CATHAU</speaker></hstage>
+<p>Ah ! le voilà venu ; je m’étonn<oa/>is bien si nous aurions longtemps du repos.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Vous vous gâtez, par ma foi, toutes deux, mesdames les carognes ; toi, Cathau, tu corromps ma femme ; depuis que tu la sers, elle ne vaut pas la moitié de ce qu’elle val<oa/>it.</p>
+
+<hstage><speaker>CATHAU</speaker></hstage>
+<p>Vraiment oui, <correction original="nous vous">vous nous</correction> la baillez bonne !</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Laisse là cet ivrogne ; ne vois-tu pas qu’il est si saoul, qu’il ne sait ce qu’il dit ?</p>
+
+<h3 id="sc05">SCÈNE V. — GORGIBUS, VILLEBREQUIN, ANGÉLIQUE, CATHAU, LÉ BARBOUILLÉ</h3>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Ne voilà pas encore mon maudit gendre qui querelle ma fille !</p>
+
+<hstage><speaker>VILLEBREQUIN</speaker></hstage>
+<p>Il faut savoir ce que c’est.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Eh quoi ! toujours se quereller ! vous n’aurez pas la paix dans votre ménage ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Cette coquine-là m’appelle ivrogne. <stage>A Angélique.</stage> Tiens, je suis bien tenté de te bailler une quinte-major, en présence de tes parents.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Au diable l’escarcelle, si vous l’aviez fait.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Mais aussi c’est lui qui commence toujours à...</p>
+
+<hstage><speaker>CATHAU</speaker></hstage>
+<p>Que maudite soit l’heure où vous avez choisi ce grigou.</p>
+
+<hstage><speaker>VILLEBREQUIN</speaker></hstage>
+<p>Allons, taisez-vous ; la paix !</p>
+
+<pagenum num="7"/>
+
+<h3 id="sc06">SCÈNE VI. — GORGIBUS, VILLEBREQUIN, ANGÉLIQUE, CATHAU, LE BARBOUILLÉ, LE DOCTEUR</h3>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Qu’est ceci ? quel désordre ! quelle querelle ! quel grabuge ! quel vacarme ! quel bruit ! quel différend ! quelle combustion ! Qu’y a-t-il ? messieurs, qu’y a-t-il ? Qu’y a-t-il ? Çà, çà, voyons s’il n’y a pas moyen de vous mettre d’accord ; que je sois votre pacificateur, que j’apporte l’union chez vous.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>C’est mon gendre et ma fille qui ont eu bruit ensemble.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Et qu’est-ce que c’est ? voyons, dites-moi un peu la cause de leur différend.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Monsieur...</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Mais en peu de paroles.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Oui-da, mettez donc votre bonnet.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Savez-vous d’où vient le mot bonnet ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Nenni.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Cela vient de <i>bonum est</i>, bon est, voilà qui est bon, parce qu’il garantit des catarrhes et fluxions.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Ma foi, je ne sav<oa/>is pas cela.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Dites donc vite cette querelle.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Voici ce qui est arrivé.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Je ne crois pas que vous soyez homme à me tenir longtemps, puisque je vous en prie. J’ai quelques affaires pressantes qui m’appellent à la ville ; mais, pour remettre la paix dans votre famille, je veux bien m’arrêter un moment.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>J’aurai fait en un moment.</p>
+
+<pagenum num="8"/>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Soyez donc bref.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Voilà qui est fait incontinent.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Il faut avouer, monsieur Gorgibus, que c’est une belle qualité que de dire les choses en peu de paroles, et que les grands parleurs, au lieu de se faire écouter, se rendent le plus souvent si importuns, qu’on ne les entend point ; <i>virtutem primam esse puta compescere linguam</i>. Oui, la plus belle qualité d’un honnête homme, c’est de parler peu.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Vous saurez donc...</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Socrate recommand<oa/>it trois choses fort soigneusement à ses disciples : la retenue dans les actions, la sobriété dans le manger, et de dire les choses en peu de paroles. Commencez donc, monsieur Gorgibus.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>C’est ce que je veux faire.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>En peu de mots, sans façon, sans vous amuser à beaucoup de discours ; tranchez-moi d’un apophthegme, vite, vite, monsieur Gorgibus, dépêchons, évitez la prolixité.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Laissez-moi donc parler.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Monsieur Gorgibus, touchez là, vous parlez trop ; il faut que quelque autre me dise la cause de leur querelle.</p>
+
+<hstage><speaker>VILLEBREQUIN</speaker></hstage>
+<p>Monsieur le docteur, vous saurez que...</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Vous êtes un ignorant, un indocte, un homme ignare de toutes les bonnes disciplines, un âne en bon franç<oa/>is. Eh quoi ! vous commencez la narration sans avoir fait un mot d’exorde ! Il faut que quelque autre me conte le désordre. Mademoiselle, contez-moi un peu le détail de ce vacarme.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Voyez-vous bien là mon gros coquin, mon sac à vin de mari ?</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Doucement, s’il vous plaît : parlez avec respect de votre <pagenum num="9"/>époux, quand vous êtes devant la moustache d’un docteur comme moi.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Ah ! vraiment oui, docteur ! Je me moque bien de vous et de votre doctrine, et je suis docteur quand je veux.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Tu es docteur quand tu veux ? Ouais ! Je pense que tu es un plaisant docteur. Tu as la mine de suivre fort ton caprice : des parties d’oraison, tu n’aimes que la conjonction ; des genres, que le masculin ; des déclinaisons, le génitif ; de la syntaxe, <i>mobile cum fixo ;</i> et enfin de la quantité, tu n’aimes que le dactyle, <i>quia constat ex una longa et duabus brevibus</i>. Venez çà, vous, dites-moi, un peu quelle est la cause, le sujet de votre combustion.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Monsieur le docteur...</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Voilà qui est bien commencé... monsieur le docteur ! ce mot a quelque chose de doux à l’oreille, quelque chose plein d’emphase ; monsieur le docteur !</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>A la mienne volonté...</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Voilà qui est bien... à la mienne volonté ! La volonté présuppose le souhait, le souhait présuppose des moyens pour arriver à ses fins, et la fin présuppose un objet ; voilà qui est bien... à la mienne volonté !</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>J’enrage !</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Otez-moi ce mot, j’enrage, voilà un terme bas et populaire.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Eh, monsieur le docteur, écoutez-moi, de grâce !</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p><i>Audi, quœso</i>, aur<oa/>it dit Cicéron.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Oh ! ma foi, si se rompt, si se casse, ou si se brise, je ne m’en mets guère en peine ; mais tu m’écouteras, ou je te vais casser ton museau doctoral ; et que diable donc est ceci ?</p>
+
+<pstage>Le Barbouillé, Angélique, Gorgibus, Cathau, Villebrequin, voulant dire la cause de la querelle, et le Docteur disant que <pagenum num="10"/>la, paix est une belle chose, parlent tous à la fois. Au milieu de tout ce bruit, le Barbouillé attache le Docteur par le pied, et le fait tomber ; le Docteur se doit laisser tomber sur le dos : le Barbouillé l’entraîne par la corde qu’il lui a attachée au pied, et, pendant qu’il l’entraîne, le Docteur doit toujours parler, et compter par ses doigts toutes ses raisons, comme s’il n’êt<oa/>it point à terre. — Le Barbouillé et le Docteur dispar<oa/>issent.</pstage>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Allons, ma fille, retirez-vous chez vous, et vivez bien avec votre mari.</p>
+
+<hstage><speaker>VILLEBREQUIN</speaker></hstage>
+<p>Adieu, serviteur et bonsoir. <stage>Villebrequin, Gorgibus et Angélique s’en vont.</stage></p>
+
+<h3 id="sc07">SCÈNE VII. — VALÈRE, LA VALLÉE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Monsieur, je vous suis obligé du soin que vous avez pris, et je vous promets de me rendre dans une heure à l’assignation que vous me donnez.</p>
+
+<hstage><speaker>LA VALLÉE</speaker></hstage>
+<p>Cela ne peut se différer ; et si vous tardez d’un quart d’heure, le bal sera fini dans un moment : vous n’aurez pas le bien d’y voir celle que vous aimez, si vous n’y venez tout présentement.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Allons donc ensemble de ce pas. <stage>Ils s’en vont.</stage></p>
+
+<h3 id="sc08">SCÈNE VIII. — ANGÉLIQUE, <i>seule</i>.</h3>
+
+<p>Cependant que mon mari n’y est pas, je vais faire un tour à un bal que donne une de mes voisines. Je serai revenue auparavant lui, car il est quelque part au cabaret ; il ne s’apercevra pas que je suis sortie. Ce maroufle-là me laisse toute seule à la maison, comme si j’ét<oa/>is son chien. <stage>Elle s’en va.</stage></p>
+
+<h3 id="sc09">SCÈNE IX. — LE BARBOUILLÉ, <i>seul</i>.</h3>
+
+<p>Je sav<oa/>is bien que j’aur<oa/>is raison de ce diable de docteur et de sa fichue doctrine. Au diable l’ignorant ! j’ai bien envoyé toute sa science par terre. Il faut pourtant que j’aille un peu voir si notre bonne ménagère m’aura fait à souper. <stage>Il sort.</stage></p>
+
+<h3 id="sc10">SCÈNE X. — ANGÉLIQUE, <i>seule</i>.</h3>
+
+<p>Que je suis malheureuse ! j’ai resté trop tard, l’assemblée est finie : je suis arrivée justement comme tout le monde <pagenum num="11"/>sort<oa/>it ; mais il n’importe, ce sera pour une autre fois. Je m’en vais cependant au logis comme si de rien n’ét<oa/>it. Ouais ! la porte est fermée ; Cathau ! Cathau !</p>
+
+<h3 id="sc11">SCÈNE XI. — LE BARBOUILLÉ, <i>à la fenêtre ;</i> ANGÉLiQUE</h3>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Cathau ! Cathau ! Eh bien, qu’a-t-elle fait, Cathau ? et d’où venez-vous, madame la carogne, à l’heure qu’il est, et par le temps qu’il fait ?</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>D’où je viens ? ouvre-moi seulement, et je te le dirai après.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Oui, ah ! ma foi, tu peux aller coucher là d’où tu viens, ou, si tu l’aimes mieux, dans la rue ; je n’ouvre point à une coureuse comme toi. Comment, diable ! être toute seule à l’heure qu’il est ! Je ne sais si c’est imagination, mais mon front m’en par<oa/>ît plus rude de moitié.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Eh bien, pour être toute seule, qu’en veux-tu dire ? Tu me querelles quand je suis en compagnie : comment donc faut-il faire ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Il faut être retirée à la maison, donner ordre au souper, avoir soin du ménage, des enfants ; mais, sans tant de discours inutiles, adieu, bonsoir, va-t’en au diable, et me laisse en repos.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Tu ne veux pas m’ouvrir ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Non, je n’ouvrirai pas.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Eh, mon pauvre petit mari, je t’en prie, ouvre-moi, mon cher petit cœur.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Ah ! crocodile ! ah ! serpent dangereux ! tu me caresses pour me trahir.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Ouvre, ouvre donc.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Adieu, <i>vade rétro, Satanas !</i></p>
+
+<pagenum num="12"/>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Quoi ! tu ne m’ouvriras pas ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Et tu n’as point de pitié de ta femme qui t’aime tant ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Non, je suis inflexible ; tu m’as offensé, je suis vindicatif comme tous les diables, c’est-à-dire bien fort, je suis inexorable.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Sais-tu bien que, si tu me pousses à bout et que tu me mettes en colère, je ferai quelque chose dont tu te repentiras ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Et que feras-tu, bonne chienne ?</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Tiens, si tu ne m’ouvres, je m’en vais me tuer devant la porte ; mes parents, qui sans doute viendront ici auparavant de se coucher, pour savoir si nous sommes bien ensemble, me trouveront morte, et tu seras pendu.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Ah, ah, ah, ah, la bonne bête ! et qui y perdra le plus de nous deux ? Va, va, tu n’es pas si sotte que de faire ce coup-là.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Tu ne le crois donc pas ? Tiens, tiens, voilà mon couteau tout prêt ; si tu ne m’ouvres, je m’en vais tout à cette heure m’en donner dans le cœur.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Prends garde, voilà qui est bien pointu.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Tu ne veux donc pas m’ouvrir ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Je t’ai déjà dit vingt fois que je n’ouvrirai point ; tue-toi, crève, va-t’en au diable, je ne m’en soucie pas.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker>, faisant semblant de se frapper.</hstage>
+<p>Adieu donc... Aïe ! je suis morte.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Ser<oa/>it-elle bien assez sotte pour avoir fait ce coup-là ? il faut que je descende avec la chandelle pour aller voir.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Il faut que je t’attrape. Si je peux entrer dans la maison <pagenum num="13"/>subtilement pendant que tu me chercheras, chacun aura bien son tour.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Eh bien, ne sav<oa/>is-je pas bien qu’elle n’ét<oa/>it pas si sotte ? Elle est morte, et si elle court comme le cheval de Pacolet. Ma foi, elle m’av<oa/>it fait peur tout de bon. Elle a bien fait de gagner au pied ; car, si je l’eusse trouvée en vie, après m’avoir fait cette frayeur-là, je lui aur<oa/>is apostrophé cinq ou six clystères de coups de pied dans le cul, pour lui apprendre à faire la bête. Je m’en vais me coucher cependant. Oh ! oh ! je pense que le vent a fermé la porte. Hé ! Cathau ! Cathau ! ouvre-moi.</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Cathau ! Cathau ! eh bien, qu’a-t-elle fait, Cathau ? et d’où venez-vous, monsieur l’ivrogne ? Ah ! vraiment, va, mes parents, qui vont venir dans un moment, sauront tes vérités. Sac à vin ! infâme ! tu ne bouges du cabaret, et tu laisses une pauvre femme avec des petits enfants, sans savoir s’ils ont besoin de quelque chose, à croquer le marmot tout le long du jour !</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Ouvre vite, diablesse que tu es, ou je te casserai la tête !</p>
+
+<h3 id="sc12">SCÈNE XII. — GORGIBUS, VILLEBREQUIN, ANGÉLIQUE, LE BARBOUILLÉ</h3>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Qu’est ceci ? toujours de la dispute, de la querelle, et de la dissension !</p>
+
+<hstage><speaker>VILLEBREQUIN</speaker></hstage>
+<p>Eh quoi ! vous ne serez jamais d’accord ?</p>
+
+<hstage><speaker>ANGÉLIQUE</speaker></hstage>
+<p>Mais voyez un peu, le voilà qui est saoul, et revient, à l’heure qu’il est, faire un vacarme horrible ; il me menace.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Mais aussi ce n’est pas là l’heure de revenir. Ne devriez-vous pas, comme un bon père de famille, vous retirer de bonne heure, et bien vivre avec votre femme ?</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Je me donne au diable si j’ai sorti de la maison : demandez plutôt à ces messieurs qui sont là-bas dans le parterre ; c’est elle qui ne fait que de revenir. Ah ! que l’innocence est opprimée !</p>
+
+<pagenum num="14"/>
+
+<hstage><speaker>VILLEBREQUIN</speaker></hstage>
+<p>Çà, çà ; allons, accordez-vous ; demandez-lui pardon.</p>
+
+<hstage><speaker>LE BARBOUILLÉ</speaker></hstage>
+<p>Moi, pardon ! j’aimer<oa/>is mieux que le diable l’eût emportée. Je suis dans une colère que je ne me sens pas.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Allons, ma fille, embrassez votre mari, et soyez bons amis.</p>
+
+<h3 id="sc13">SCÈNE XIII. — LE DOCTEUR <i>(à la fenêtre, en bonnet de nuit et en camisole</i>), LE BARBOUILLÉ, VILLEBREQUIN, GORGIBUS, ANGÉLIQUE</h3>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Eh quoi ! toujours du bruit, du désordre, de la dissension, des querelles, des débats, des différends, des combustions, des altercations éternelles ? Qu’est-ce ? qu’y a-t-il donc ? On ne saur<oa/>it avoir du repos.</p>
+
+<hstage><speaker>VILLEBREQUIN</speaker></hstage>
+<p>Ce n’est rien, monsieur le docteur ; tout le monde est d’accord.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>A propos d’accord, voulez-vous que je vous lise un chapitre d’Aristote, où il prouve que toutes les parties de l’univers ne subsistent que par l’accord qui est entre elles ?</p>
+
+<hstage><speaker>VILLEBREQUIN</speaker></hstage>
+<p>Cela est-il bien long ?</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Non, cela n’est pas long : cela contient environ soixante ou quatre-vingts pages.</p>
+
+<hstage><speaker>VILLEBREQUIN</speaker></hstage>
+<p>Adieu, bonsoir, nous vous remercions.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Il n’en est pas de besoin.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Vous ne le voulez pas ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Non.</p>
+
+<hstage><speaker>LE DOCTEUR</speaker></hstage>
+<p>Adieu donc, puisque ainsi est ; bonsoir : <i>latine, bona nox</i>.</p>
+
+<hstage><speaker>VILLEBREQUIN</speaker></hstage>
+<p>Allons-nous-en souper ensemble, nous autres.</p>
+
+</page-sequence>
+</page-sequences>
+</bml>

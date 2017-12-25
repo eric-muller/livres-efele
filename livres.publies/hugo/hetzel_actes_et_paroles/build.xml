@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_avant_l_exil'/>
+    <book x='02_pendant_l_exil'/>
+    <book x='03_depuis_l_exil_1870-1876'/>
+    <book x='04_depuis_l_exil_1876-1885'/>
+    <book x='05_paris'/>
+    <book x='06_mes_fils'/>
+    <book x='07_testament_litteraire'/>
+  </target>
+
+  <target name='collections'>
+    <collection x='hugo_actes_et_paroles_hetzel'/>
+  </target>
+
+
+</project>
+

@@ -1,0 +1,3824 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000483"
+        creation="2016-12-30T12:07:42-08:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Le Dépit amoureux</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='7'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="acte1" label="Acte I">
+      <tocentry idref="acte1sc01" label="Scène I"/>
+      <tocentry idref="acte1sc02" label="Scène II"/>
+      <tocentry idref="acte1sc03" label="Scène III"/>
+      <tocentry idref="acte1sc04" label="Scène IV"/>
+      <tocentry idref="acte1sc05" label="Scène V"/>
+      <tocentry idref="acte1sc06" label="Scène VI"/>
+    </tocentry>
+    <tocentry idref="acte2" label="Acte II">
+      <tocentry idref="acte2sc01" label="Scène I"/>
+      <tocentry idref="acte2sc02" label="Scène II"/>
+      <tocentry idref="acte2sc03" label="Scène III"/>
+      <tocentry idref="acte2sc04" label="Scène IV"/>
+      <tocentry idref="acte2sc05" label="Scène V"/>
+      <tocentry idref="acte2sc06" label="Scène VI"/>
+      <tocentry idref="acte2sc07" label="Scène VII"/>
+      <tocentry idref="acte2sc08" label="Scène VIII"/>
+      <tocentry idref="acte2sc09" label="Scène IX"/>
+    </tocentry>
+    <tocentry idref="acte3" label="Acte III">
+      <tocentry idref="acte3sc01" label="Scène I"/>
+      <tocentry idref="acte3sc02" label="Scène II"/>
+      <tocentry idref="acte3sc03" label="Scène III"/>
+      <tocentry idref="acte3sc04" label="Scène IV"/>
+      <tocentry idref="acte3sc05" label="Scène V"/>
+      <tocentry idref="acte3sc06" label="Scène VI"/>
+      <tocentry idref="acte3sc07" label="Scène VII"/>
+      <tocentry idref="acte3sc08" label="Scène VIII"/>
+      <tocentry idref="acte3sc09" label="Scène IX"/>
+      <tocentry idref="acte3sc10" label="Scène X"/>
+      <tocentry idref="acte3sc11" label="Scène XI"/>
+    </tocentry>
+    <tocentry idref="acte4" label="Acte IV">
+      <tocentry idref="acte4sc01" label="Scène I"/>
+      <tocentry idref="acte4sc02" label="Scène II"/>
+      <tocentry idref="acte4sc03" label="Scène III"/>
+      <tocentry idref="acte4sc04" label="Scène IV"/>
+    </tocentry>
+    <tocentry idref="acte5" label="Acte V">
+      <tocentry idref="acte5sc01" label="Scène I"/>
+      <tocentry idref="acte5sc02" label="Scène II"/>
+      <tocentry idref="acte5sc03" label="Scène III"/>
+      <tocentry idref="acte5sc04" label="Scène IV"/>
+      <tocentry idref="acte5sc05" label="Scène V"/>
+      <tocentry idref="acte5sc06" label="Scène VI"/>
+      <tocentry idref="acte5sc07" label="Scène VII"/>
+      <tocentry idref="acte5sc08" label="Scène VIII"/>
+      <tocentry idref="acte5sc09" label="Scène IX"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="108"/>
+
+<img src="images/frise5.png" class="center100" alt="frise"/>
+
+<h1>LE DÉPIT AMOUREUX</h1>
+
+<h2>COMÉDIE EN CINQ ACTES</h2>
+
+<h2><s>REPRÉSENTÉE A BÉZIERS EN 1656, ET A PARIS EN 1658</s></h2>
+
+<vsep class="rule"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">ÉRASTE, amant de Lucile.</p>
+<p class="sommaire">ALBERT, père de Lucile et d’Ascagne.</p>
+<p class="sommaire">GROS-RENÉ, valet d’Éraste.</p>
+<p class="sommaire">VALÈRE, fils de Polidore.</p>
+<p class="sommaire">LUCILE, fille d’Albert.</p>
+<p class="sommaire">MARINETTE, suivante de Lucile.</p>
+<p class="sommaire">POLIDORE, père de Valère.</p>
+<p class="sommaire">FROSINE, confidente d’Ascagne.</p>
+<p class="sommaire">ASCAGNE, fille d’Albert, déguisée en homme.</p>
+<p class="sommaire">MASCARILLE, valet de Valère.</p>
+<p class="sommaire">MÉTAPHRASTE, pédant.</p>
+<p class="sommaire">LA RAPIÈRE, bretteur.</p>
+
+<vsep class="rule"/>
+
+<h2 id="acte1">ACTE PREMIER</h2>
+
+<h3 id="acte1sc01">SCÈNE I. — ÉRASTE, GROS-RENÉ</h3>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Veux-tu que je te die ? une atteinte secrète</l>
+<l>Ne laisse point mon âme en une bonne assiette.</l>
+<l>Oui, quoi qu’à mon amour tu puisses repartir,</l>
+<l>Il craint d’être la dupe, à ne te point mentir ;</l>
+<l>Qu’en faveur d’un rival ta foi ne se corrompe,</l>
+<l>Ou du moins qu’avec moi toi-même on ne te trompe.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Pour moi, me soupçonner de quelque mauvais tour,</l>
+<l>Je dirai, n’en déplaise à monsieur votre amour,</l>
+<l>Que c’est injustement blesser ma prud’homie,</l>
+<pagenum num="109"/>
+<l>Et se connoître mal en physionomie.</l>
+<l>Les gens de mon minois ne sont point accusés</l>
+<l>D’être, grâces à Dieu, ni fourbes, ni rusés.</l>
+<l>Cet honneur qu’on nous fait, je ne le démens guères,</l>
+<l>Et suis homme fort rond de toutes les manières.</l>
+<l>Pour que l’on me trompât, cela se pourroit bien,</l>
+<l>Le doute est mieux fondé ; pourtant je n’en crois rien.</l>
+<l>Je ne vois point encore, ou je suis une bête,</l>
+<l>Sur quoi vous avez pu prendre martel en tête.</l>
+<l>Lucile, à mon avis, vous montre assez d’amour ;</l>
+<l>Elle vous voit, vous parle à toute heure du jour ;</l>
+<l>Et Valère, après tout, qui cause votre crainte,</l>
+<l>Semble n’être à présent souffert que par contrainte.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Souvent d’un faux espoir un amant est nourri :</l>
+<l>Le mieux reçu toujours n’est pas le plus chéri ;</l>
+<l>Et tout ce que d’ardeur font paroître les femmes</l>
+<l>Parfois n’est qu’un beau voile à couvrir d’autres flammes.</l>
+<l>Valère enfin, pour être un amant rebuté,</l>
+<l>Montre depuis un temps trop de tranquillité ;</l>
+<l>Et ce qu’à ces faveurs, dont tu crois l’apparence,</l>
+<l>Il témoigne de joie ou bien d’indifférence,</l>
+<l>M’empoisonne à tous coups leurs plus charmants appas,</l>
+<l>Me donne ce chagrin que tu ne comprends pas,</l>
+<l>Tient mon bonheur en doute, et me rend difficile</l>
+<l>Une entière croyance aux propos de Lucile.</l>
+<l>Je voudrois, pour trouver un tel destin bien doux,</l>
+<l>Y voir entrer un peu de son transport jaloux,</l>
+<l>Et, sur ses déplaisirs et son impatience,</l>
+<l>Mon âme prendroit lors une pleine assurance.</l>
+<l>Toi-même penses-tu qu’on puisse, comme il fait,</l>
+<l>Voir chérir un rival d’un esprit satisfait ?</l>
+<l>Et, si tu n’en crois rien, dis-moi, je t’en conjure,</l>
+<l>Si j’ai lieu de rêver dessus cette aventure.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Peut-être que son cœur a changé de désirs,</l>
+<l>Connoissant qu’il poussoit d’inutiles soupirs.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Lorsque par les rebuts une âme est détachée,</l>
+<l>Elle veut fuir l’objet dont elle fut touchée,</l>
+<l>Et ne rompt point sa chaîne avec si peu d’éclat,</l>
+<l>Qu’elle puisse rester en un paisible état.</l>
+<pagenum num="110"/>
+<l>De ce qu’on a chéri la fatale présence</l>
+<l>Ne nous laisse jamais dedans l’indifférence ;</l>
+<l>Et, si de cette vue on n’accroît son dédain,</l>
+<l>Notre amour est bien près de nous rentrer au sein.</l>
+<l>Enfin, crois-moi, si bien qu’on éteigne une flamme,</l>
+<l>Un peu de jalousie occupe encore une âme ;</l>
+<l>Et l’on ne sauroit voir, sans en être piqué,</l>
+<l>Posséder par un autre un cœur qu’on a manqué.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Pour moi, je ne sais point tant de philosophie :</l>
+<l>Ce que voyent mes yeux, franchement je m’y fie,</l>
+<l>Et ne suis point de moi si mortel ennemi.</l>
+<l>Que je m’aille affliger sans sujet ni demi<noteref noteid="note.110.1"/>.</l>
+<l>Pourquoi subtiliser et faire le capable</l>
+<l>A chercher des raisons pour être misérable ?</l>
+<l>Sur des soupçons en l’air je m’irois alarmer !</l>
+<l>Laissons venir la fête avant que la chômer.</l>
+<l>Le chagrin me paroît une incommode chose ;</l>
+<l>Je n’en prends point pour moi sans bonne et juste cause,</l>
+<l>Et mêmes à mes yeux cent sujets d’en avoir</l>
+<l>S’offrent le plus souvent que je ne veux pas voir.</l>
+<l>Avec vous en amour je cours même fortune ;</l>
+<l>Celle que vous aurez me doit être commune ;</l>
+<l>La maîtresse ne peut abuser votre foi,</l>
+<l>A moins que la suivante en fasse autant pour moi :</l>
+<l>Mais j’en fuis la pensée avec un soin extrême.</l>
+<l>Je veux croire les gens, quand on me dit : Je t’aime ;</l>
+<l>Et ne vais point chercher, pour m’estimer heureux,</l>
+<l>Si Mascarille ou non s’arrache les cheveux.</l>
+<l>Que tantôt Marinette endure qu’à son aise</l>
+<l>Jodelet par plaisir la caresse et la baise,</l>
+<l>Et que ce beau rival en rie ainsi qu’un fou ;</l>
+<l>A son exemple aussi j’en rirai tout mon saoûl,</l>
+<l>Et l’on verra qui rit avec meilleure grâce.</l>
+
+<notes>
+  <note id="note.110.1">
+    <p>C’est-à-dire <i>sans sujet ni demi-sujet ;</i> vieille locution tombée en désuétude.</p>
+  </note>
+</notes>
+
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Voilà de tes discours.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Mais je la vois qui passe.</l>
+
+<h3 id="acte1sc02">SCÈNE II. — ÉRASTE, MARINETTE, GROS-RENÉ</h3>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Si, Marinette !</l>
+
+<pagenum num="111"/>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Oh ! oh ! Que fais-tu là ?</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Ma foi,</l>
+<l>Demande : nous étions tout à l’heure sur toi.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Vous êtes aussi là, monsieur ! Depuis une heure</l>
+<l>Vous m’avez fait trotter comme un Basque, je meure.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Pour vous chercher j’ai fait dix mille pas,</l>
+<l>Et vous promets, ma foi...</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Quoi ?</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Que vous n’êtes pas</l>
+<l>Au temple, au cours, chez vous, ni dans la grande place.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Il en falloit jurer.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Apprends-moi donc, de grâce,</l>
+<l>Qui te fait me chercher.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Quelqu’un, en vérité,</l>
+<l>Qui pour vous n’a pas trop mauvaise volonté :</l>
+<l>Ma maîtresse, en un mot.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Ah ! chère Marinette,</l>
+<l>Ton discours de son cœur est-il bien l’interprète ?</l>
+<l>Ne me déguise point un mystère fatal ;</l>
+<l>Je ne t’en voudrai pas pour cela plus de mal :</l>
+<l>Au nom des dieux, dis-moi si ta belle maîtresse</l>
+<l>N’abuse point mes vœux d’une fausse tendresse.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Eh ! eh ! d’où vous vient donc ce plaisant mouvement ?</l>
+<l>Elle ne fait pas voir assez son sentiment ?</l>
+<l>Quel garant est-ce encor que votre amour demande ?</l>
+<l>Que lui faut-il ?</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">A moins que Valère se pende,</l>
+<l>Bagatelle ! son cœur ne s’assurera point.</l>
+
+<pagenum num="112"/>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Il est jaloux jusques en un tel point.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>De Valère ? Ah ! vraiment la pensée est bien belle !</l>
+<l>Elle peut seulement naître en votre cervelle ?</l>
+<l>Je vous croyois du sens, et jusqu’à ce moment</l>
+<l>J’avois de votre esprit quelque bon sentiment ;</l>
+<l>Mais, à ce que je vois, je m’étois fort trompée.</l>
+<l>Ta tête de ce mal est-elle aussi frappée ?</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Moi, jaloux ? Dieu m’en garde, et d’être assez badin</l>
+<l>Pour m’aller emmaigrir avec un tel chagrin !</l>
+<l>Outre que de ton cœur ta foi me cautionne,</l>
+<l>L’opinion que j’ai de moi-même est trop bonne</l>
+<l>Pour croire auprès de moi que quelque autre te plût.</l>
+<l>Où diantre pourrois-tu trouver qui me valût ?</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>En effet, tu dis bien ; voilà comme il faut être !</l>
+<l>Jamais de ces soupçons qu’un jaloux fait paroître.</l>
+<l>Tout le fruit qu’on en cueille est de se mettre mal,</l>
+<l>Et d’avancer par là les desseins d’un rival.</l>
+<l>Au mérite souvent de qui l’éclat vous blesse</l>
+<l>Vos chagrins font ouvrir les yeux d’une maîtresse ;</l>
+<l>Et j’en sais tel, qui doit son destin le plus doux</l>
+<l>Aux soins trop inquiets de son rival jaloux.</l>
+<l>Enfin, quoi qu’il en soit, témoigner de l’ombrage,</l>
+<l>C’est jouer en amour un mauvais personnage,</l>
+<l>Et se rendre, après tout, misérable à crédit.</l>
+<l>Cela, seigneur Éraste, en passant vous soit dit.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Eh bien, n’en parlons plus. Que venois-tu m’apprendre ?</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Vous mériteriez bien que l’on vous fît attendre,</l>
+<l>Qu’afin de vous punir je vous tinsse caché</l>
+<l>Le grand secret pourquoi je vous ai tant cherché.</l>
+<l>Tenez, voyez ce mot, et sortez hors de doute ;</l>
+<l>Lisez-le donc tout haut, personne ici n’écoute.</l>
+
+<hstage><speaker>ÉRASTE</speaker>, lit.</hstage>
+<l indent="2">« Vous m’avez dit que votre amour</l>
+<l indent="2">« Étoit capable de tout faire ;</l>
+<pagenum num="113"/>
+<l>« Il se couronnera lui-même dans ce jour,</l>
+<l indent="2">« S’il peut avoir l’aveu d’un père.</l>
+<l>« Faites parler les droits qu’on a dessus mon cœur,</l>
+<l indent="2">« Je vous en donne la licence ;</l>
+<l indent="2">« Et, si c’est en votre faveur,</l>
+<l indent="2">« Je vous réponds de mon obéissance. »</l>
+<l>Ah ! quel bonheur ! O toi qui me l’as apporté,</l>
+<l>Je te dois regarder comme une déité !</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Je vous le disois bien : contre votre croyance,</l>
+<l>Je ne me trompe guère aux choses que je pense.</l>
+
+<hstage><speaker>ÉRASTE</speaker> relit.</hstage>
+<l>« Faites parler les droits qu’on a dessus mon cœur,</l>
+<l indent="2">« Je vous en donne la licence ;</l>
+<l indent="2">« Et, si c’est en votre faveur,</l>
+<l indent="2">« Je vous réponds de mon obéissance. »</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Si je lui rapportois vos foiblesses d’esprit,</l>
+<l>Elle désavoueroit bientôt un tel écrit.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Ah ! cache-lui, de grâce, une peur passagère,</l>
+<l>Où mon âme a cru voir quelque peu de lumière ;</l>
+<l>Ou, si tu la lui dis, ajoute que ma mort</l>
+<l>Est prête d’expier l’erreur de ce transport ;</l>
+<l>Que je vais à ses pieds, si j’ai pu lui déplaire,</l>
+<l>Sacrifier ma vie à sa juste colère.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Ne parlons point de mort, ce n’en est pas le temps.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Au reste, je te dois beaucoup, et je prétends</l>
+<l>Reconnoître dans peu, de la bonne manière,</l>
+<l>Les soins d’une si noble et si belle courrière.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>A propos, savez-vous où je vous ai cherché</l>
+<l>Tantôt encore ?</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Eh bien ?</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Tout proche du marché,</l>
+<l>Où vous savez.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Où donc ?</l>
+
+<pagenum num="114"/>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Là... dans cette boutique,</l>
+<l>Où, dès le mois passé, votre cœur magnifique</l>
+<l>Me promit, de sa grâce, une bague.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Ah ! j’entends.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>La matoise !</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Il est vrai, j’ai tardé trop longtemps</l>
+<l>A m’acquitter vers toi d’une telle promesse ;</l>
+<l>Mais...</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Ce que j’en ai dit n’est pas que je vous presse.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Oh ! que non !</l>
+
+<hstage><speaker>ÉRASTE</speaker> lui donne sa bague.</hstage>
+<l cont="true">Celle-ci peut-être aura de quoi</l>
+<l>Te plaire ; accepte-la pour celle que je doi.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Monsieur, vous vous moquez, j’aurois honte à la prendre,</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Pauvre honteuse, prends sans davantage attendre ;</l>
+<l>Refuser ce qu’on donne est bon à faire aux fous.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Ce sera pour garder quelque chose de vous.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Quand puis-je rendre grâce à cet ange adorable ?</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Travaillez à vous rendre un père favorable.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Mais, s’il me rebutoit, dois-je...</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Alors comme alors ;</l>
+<l>Pour vous on emploiera toutes sortes d’efforts.</l>
+<l>D’une façon ou d’autre il faut qu’elle soit vôtre :</l>
+<l>Faites votre pouvoir, et nous ferons le nôtre.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Adieu, nous en saurons le succès dans ce jour.</l>
+<pstage>Éraste relit la lettre tout bas.</pstage>
+
+<pagenum num="115"/>
+
+<hstage><speaker>MARINETTE</speaker>, à Gros-René.</hstage>
+<l>Et nous, que dirons-nous aussi de notre amour ?</l>
+<l>Tu ne m’en parles point.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Un hymen qu’on souhaite,</l>
+<l>Entre gens comme nous, est chose bientôt faite.</l>
+<l>Je te veux, me veux-tu de même ?</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Avec plaisir.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Touche, il suffit.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Adieu, Gros-René, mon désir.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Adieu, mon astre.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Adieu, beau tison de ma flamme.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Adieu, chère comète, arc-en-ceil de mon âme.</l>
+<pstage>Marinette sort.</pstage>
+<l>Le bon Dieu soit loué, nos affaires vont bien ;</l>
+<l>Albert n’est pas un homme à vous refuser rien.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Valère vient à nous.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Je plains le pauvre hère,</l>
+<l>Sachant ce qui se passe.</l>
+
+<h3 id="acte1sc03">SCÈNE III. — VALÈRE, ÉRASTE, GROS-RENÉ</h3>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Eh bien, seigneur Valère.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Eh bien, seigneur Éraste ?</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">En quel état l’amour ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>En quel état vos feux ?</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Plus forts de jour en jour ;</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Et mon amour plus fort.</l>
+
+<pagenum num="116"/>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Pour Lucile ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Pour elle.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Certes, je l’avouerai, vous êtes le modèle</l>
+<l>D’une rare constance</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Et votre fermeté</l>
+<l>Doit être un rare exemple à la postérité.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Pour moi, je suis peu fait à cet amour austère</l>
+<l>Qui dans les seuls regards trouve à se satisfaire,</l>
+<l>Et je ne forme point d’assez beaux sentiments</l>
+<l>Pour souffrir constamment les mauvais traitements ;</l>
+<l>Enfin, quand j’aime bien, j’aime fort que l’on m’aime.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Il est très naturel, et j’en suis bien de même.</l>
+<l>Le plus parfait objet dont je serois charmé</l>
+<l>N’auroit pas mes tributs, n’en étant point aimé.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Lucile cependant...</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Lucile, dans son âme,</l>
+<l>Rend tout ce que je veux qu’elle rende à ma flamme.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Vous êtes donc facile à contenter ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Pas tant</l>
+<l>Que vous pourriez penser.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Je puis croire pourtant,</l>
+<l>Sans trop de vanité, que je suis en sa grâce.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Moi, je sais que j’y tiens une assez bonne place.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Ne vous abusez point, croyez-moi.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Croyez-moi,</l>
+<l>Ne laissez point duper vos yeux à trop de foi.</l>
+
+<pagenum num="117"/>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Si j’osois vous montrer une preuve assurée</l>
+<l>Que son cœur... Non, votre âme en seroit altérée.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Si je vous osois, moi, découvrir en secret...</l>
+<l>Mais je vous fâcherois, et veux être discret.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Vraiment, vous me poussez, et, contre mon envie,</l>
+<l>Votre présomption veut que je l’humilie.</l>
+<l>Lisez.</l>
+
+<hstage><speaker>VALÈRE</speaker>, après avoir lu.</hstage>
+<l cont="true">Ces mots sont doux.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Vous connoissez la main ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Oui, de Lucile.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Eh bien, cet espoir si certain... ?</l>
+
+<hstage><speaker>VALÈRE</speaker>, riant et s’en allant.</hstage>
+<l>Adieu, seigneur Éraste.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Il est fou, le bon sire.</l>
+<l>Où vient-il donc pour lui d’avoir le mot pour rire ?</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Certes, il me surprend, et j’ignore, entre nous,</l>
+<l>Quel diable de mystère est caché là-dessous.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Son valet vient, je pense.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Oui, je le vois paroître.</l>
+<l>Feignons, pour le jeter sur l’amour de son maître.</l>
+
+<h3 id="acte1sc04">SCÈNE IV. — ÉRASTE, MASCARILLE, GROS-RENÉ</h3>
+
+<hstage><speaker>MASCARILLE</speaker>, à part.</hstage>
+<l>Non, je ne trouve point d’état plus malheureux</l>
+<l>Que d’avoir un patron jeune et fort amoureux.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Bonjour.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Bonjour.</l>
+
+<pagenum num="118"/>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Où tend Mascarille à cette heure ?</l>
+<l>Que fait-il ? revient-il ? va-t-il ? ou s’il demeure ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non, je ne reviens pas, car je n’ai pas été ;</l>
+<l>Je ne vais pas aussi, car je suis arrêté ;</l>
+<l>Et ne demeure point, car, tout de ce pas même,</l>
+<l>Je prétends m’en aller.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">La rigueur est extrême :</l>
+<l>Doucement, Mascarille.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Ah ! monsieur, serviteur.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Vous nous fuyez bien vite ! eh quoi ! vous fais-je peur ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je ne crois pas cela de votre courtoisie.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Touche ; nous n’avons plus sujet de jalousie,</l>
+<l>Nous devenons amis, et mes feux, que j’éteins,</l>
+<l>Laissent la place libre à vos heureux desseins.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Plût à Dieu !</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Gros-René sait qu’ailleurs je me jette.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Sans doute ; et je te cède aussi la Marinette.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Passons sur ce point-là ; notre rivalité</l>
+<l>N’est pas pour en venir à grande extrémité ;</l>
+<l>Mais est-ce un coup bien sûr que Votre Seigneurie</l>
+<l>Soit désenamourée, ou si c’est raillerie ?</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>J’ai su qu’en ses amours ton maître étoit trop bien ;</l>
+<l>Et je serois un fou de prétendre plus rien</l>
+<l>Aux secrètes faveurs que lui fait cette belle.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Certes, vous me plaisez avec cette nouvelle.</l>
+<l>Outre qu’en nos projets je vous craignois un peu,</l>
+<l>Vous tirez sagement votre épingle du jeu.</l>
+<l>Oui, vous avez bien fait de quitter une place</l>
+<pagenum num="119"/>
+<l>Où l’on vous caressoit pour la seule grimace.</l>
+<l>Et mille fois, sachant tout ce qui se passoit,</l>
+<l>J’ai plaint le faux espoir dont on vous repaissoit ;</l>
+<l>On offense un brave homme alors que l’on l’abuse.</l>
+<l>Mais d’où diantre, après tout, avez-vous su la ruse ?</l>
+<l>Car cet engagement mutuel de leur foi</l>
+<l>N’eut pour témoins, la nuit, que deux autres et moi ;</l>
+<l>Et l’on croit jusqu’ici la chaîne fort secrète,</l>
+<l>Qui rend de nos amants la flamme satisfaite.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Eh ! que dis-tu ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Je dis que je suis interdit,</l>
+<l>Et ne sais pas, monsieur, qui peut vous avoir dit</l>
+<l>Que sous ce faux semblant, qui trompe tout le monde,</l>
+<l>En vous trompant aussi, leur ardeur sans seconde</l>
+<l>D’un secret mariage a serré le lien.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Vous en avez menti !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Monsieur, je le veux bien.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Vous êtes un coquin !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">D’accord.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Et cette audace</l>
+<l>Mériteroit cent coups de bâton sur la place !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous avez tout pouvoir.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Ah ! Gros-René !</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Monsieur ?</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Je démens un discours dont je n’ai que trop peur.</l>
+<l>Tu penses fuir ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Nenni.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Quoi ! Lucile est la femme...</l>
+
+<pagenum num="120"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non, monsieur, je raillois.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Ah ! vous railliez, infâme !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Non, je ne raillois point.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Il est donc vrai ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Non pas,</l>
+<l>Je ne dis pas cela.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Que dis-tu donc ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Hélas !</l>
+<l>Je ne dis rien, de peur de mal parler.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Assure</l>
+<l>Ou si c’est chose vraie, ou si c’est imposture.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>C’est ce qu’il vous plaira : je ne suis pas ici</l>
+<l>Pour vous rien contester.</l>
+
+<hstage><speaker>ÉRASTE</speaker>, tirant son épée.</hstage>
+<l cont="true">Veux-tu dire ? Voici,</l>
+<l>Sans marchander, de quoi te délier la langue.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Elle ira faire encor quelque sotte harangue.</l>
+<l>Eh ! de grâce, plutôt, si vous le trouvez bon,</l>
+<l>Donnez-moi vitement quelques coups de bâton,</l>
+<l>Et me laissez tirer mes chausses sans murmure.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Tu mourras, ou je veux que la vérité pure</l>
+<l>S’exprime par ta bouche.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Hélas ! je la dirai :</l>
+<l>Mais peut-être, monsieur, que je vous fâcherai.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Parle ; mais prends bien garde à ce que tu vas faire.</l>
+<l>A ma juste fureur rien ne te peut soustraire,</l>
+<l>Si tu mens d’un seul mot en ce que tu diras.</l>
+
+<pagenum num="121"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>J’y consens, rompez-moi les jambes et les bras.</l>
+<l>Faites-moi pis encor, tuez-moi, si j’impose,</l>
+<l>En tout ce que j’ai dit ici, la moindre chose.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Ce mariage est vrai ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Ma langue, en cet endroit,</l>
+<l>A fait un pas de clerc dont elle s’aperçoit.</l>
+<l>Mais enfin cette affaire est comme vous la dites,</l>
+<l>Et c’est après cinq jours de nocturnes visites,</l>
+<l>Tandis que vous serviez à mieux couvrir leur jeu,</l>
+<l>Que depuis avant-hier ils sont joints de ce nœud ;</l>
+<l>Et Lucile depuis fait encor moins paroître</l>
+<l>La violente amour qu’elle porte à mon maître</l>
+<l>Et veut absolument que tout ce qu’il verra,</l>
+<l>Et qu’en votre faveur son cœur témoignera.</l>
+<l>Il l’impute à l’effet d’une haute prudence,</l>
+<l>Qui veut de leurs secrets ôter la connoissance.</l>
+<l>Si, malgré mes serments, vous doutez de ma foi,</l>
+<l>Gros-René peut venir une nuit avec moi,</l>
+<l>Et je lui ferai voir, étant en sentinelle,</l>
+<l>Que nous avons dans l’ombre un libre accès chez elle.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Ote-toi de mes yeux, maraud !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Et de grand cœur.</l>
+<l>C’est ce que je demande.</l>
+
+<h3 id="acte1sc05">SCÈNE V. — ÉRASTE, GROS-RENÉ</h3>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Eh bien ?</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Eh bien, monsieur,</l>
+<l>Nous en tenons tous deux, si l’autre est véritable.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Las ! il ne l’est que trop, le bourreau détestable !</l>
+<l>Je vois trop d’apparence à tout ce qu’il a dit ;</l>
+<l>Et ce qu’a fait Valère, en voyant cet écrit,</l>
+<l>Marque bien leur concert, et que c’est une baie</l>
+<l>Qui sert, sans doute, aux feux dont l’ingrate le paie.</l>
+
+<pagenum num="122"/>
+
+<h3 id="acte1sc06">SCÈNE VI. — ÉRASTE, MARINETTE, GROS-RENÉ</h3>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Je viens vous avertir que tantôt, sur le soir,</l>
+<l>Ma maîtresse au jardin vous permet de la voir.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Oses-tu me parler, âme double et traîtresse !</l>
+<l>Va, sors de ma présence ; et dis à ta maîtresse</l>
+<l>Qu’avecque ses écrits elle me laisse en paix,</l>
+<l>Et que voilà l’état, infâme ! que j’en fais.</l>
+<pstage>Il déchire la lettre et sort.</pstage>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Gros-René, dis-moi donc quelle mouche le pique.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>M’oses-tu bien encor parler, femelle inique,</l>
+<l>Crocodile trompeur, de qui le cœur félon</l>
+<l>Est pire qu’un satrape, ou bien qu’un Lestrigon<noteref noteid="note.122.1"/> !</l>
+<l>Va, va rendre réponse à ta bonne maîtresse,</l>
+<l>Et dis-lui bien et beau que, malgré sa souplesse,</l>
+<l>Nous ne sommes plus sots, ni mon maître ni moi,</l>
+<l>Et désormais qu’elle aille au diable avecque toi !</l>
+
+<notes>
+  <note id="note.122.1">
+    <p><i>Lestrigons</i>, peuple de la Campanie, dont les poètes ont fait des antropophages.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MARINETTE</speaker>, seule.</hstage>
+<l>Ma pauvre Marinette, es-tu bien éveillée ?</l>
+<l>De quel démon est donc leur âme travaillée ?</l>
+<l>Quoi ! faire un tel accueil à nos soins obligeants !</l>
+<l>Oh ! que ceci chez nous va surprendre les gens !</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte2">ACTE SECOND</h2>
+
+<h3 id="acte2sc01">SCÈNE I. — ASCAGNE, FROSINE</h3>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Ascagne, je suis fille à secret, Dieu merci.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Mais, pour un tel discours, sommes-nous bien ici ?</l>
+<l>Prenons garde qu’aucun ne nous vienne surprendre,</l>
+<l>Ou que de quelque endroit on ne nous puisse entendre.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Nous serions au logis beaucoup moins sûrement :</l>
+<pagenum num="123"/>
+<l>Ici, de tous côtés, on découvre aisément,</l>
+<l>Et nous pouvons parler avec toute assurance.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Hélas ! que j’ai de peiné à rompre mon silence !</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Ouais ! ceci doit donc être un important secret ?</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Trop, puisque je le dis à vous-même à regret,</l>
+<l>Et que, si je pouvois le cacher davantage,</l>
+<l>Vous ne le sauriez point.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l cont="true">Ah ! c’est me faire outrage.</l>
+<l>Feindre à s’ouvrir à moi, dont vous avez connu</l>
+<l>Dans tous vos intérêts l’esprit si retenu !</l>
+<l>Moi, nourrie avec vous, et qui tiens sous silence</l>
+<l>Des choses qui vous sont de si grande importance !</l>
+<l>Qui sais...</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Oui, vous savez la secrète raison</l>
+<l>Qui cache aux yeux de tous mon sexe et ma maison ;</l>
+<l>Vous savez que dans celle où passa mon bas âge</l>
+<l>Je suis pour y pouvoir retenir l’héritage</l>
+<l>Que relâchoit ailleurs le jeune Ascagne mort,</l>
+<l>Dont mon déguisement fait revivre le sort ;</l>
+<l>Et c’est aussi pourquoi ma bouche se dispense</l>
+<l>A vous ouvrir mon cœur avec plus d’assurance.</l>
+<l>Mais, avant que passer, Frosine, à ce discours,</l>
+<l>Éclaircissez un doute où je tombe toujours.</l>
+<l>Se pourroit-il qu’Albert ne sût rien du mystère</l>
+<l>Qui masque ainsi mon sexe, et l’a rendu mon père ?</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>En bonne foi, ce point sur quoi vous me pressez</l>
+<l>Est une affaire aussi qui m’embarrasse assez ;</l>
+<l>Le fond de cette intrigue est pour moi lettre close,</l>
+<l>Et ma mère ne put m’éclaircir mieux la chose.</l>
+<l>Quand il mourut, ce fils, l’objet de tant d’amour,</l>
+<l>Au destin de qui, même avant qu’il vînt au jour,</l>
+<l>Le testament d’un oncle abondant en richesses</l>
+<l>D’un soin particulier avoit fait des largesses ;</l>
+<l>Et que sa mère fit un secret de sa mort,</l>
+<l>De son époux absent redoutant le transport,</l>
+<l>S’il voyoit chez un autre aller tout l’héritage</l>
+<pagenum num="124"/>
+<l>Dont sa maison tiroit un si grand avantage ;</l>
+<l>Quand, dis-je, pour cacher un tel événement,</l>
+<l>La supposition fut de son sentiment,</l>
+<l>Et qu’on vous prît chez nous, où vous étiez nourrie</l>
+<l>(Votre mère d’accord de cette tromperie</l>
+<l>Qui remplaçoit ce fils à sa garde commis),</l>
+<l>En faveur des présents le secret fut promis.</l>
+<l>Albert ne l’a point su de nous ; et pour sa femme,</l>
+<l>L’ayant plus de douze ans conservé dans son âme,</l>
+<l>Comme le mal fut prompt dont on la vit mourir,</l>
+<l>Son trépas imprévu ne put rien découvrir ;</l>
+<l>Mais cependant je vois qu’il garde intelligence</l>
+<l>Avec celle de qui vous tenez la naissance.</l>
+<l>J’ai su qu’en secret même il lui faisoit du bien,</l>
+<l>Et peut-être cela ne se fait pas pour rien.</l>
+<l>D’autre part, il vous veut porter au mariage ;</l>
+<l>Et, comme il le prétend, c’est un mauvais langage.</l>
+<l>Je ne sais s’il sauroit la supposition</l>
+<l>Sans le déguisement. Mais la digression</l>
+<l>Tout insensiblement pourroit trop loin s’étendre ;</l>
+<l>Revenons au secret que je brûle d’apprendre.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Sachez donc que l’amour ne sait point s’abuser,</l>
+<l>Que mon sexe à ses yeux n’a pu se déguiser,</l>
+<l>Et que ses traits subtils, sous l’habit que je porte,</l>
+<l>Ont su trouver le cœur d’une fille peu forte.</l>
+<l>J’aime enfin.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l cont="true">Vous aimez !</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Frosine, doucement.</l>
+<l>N’entrez pas tout à fait dedans l’étonnement ;</l>
+<l>Il n’est pas temps encore ; et ce cœur qui soupire</l>
+<l>A bien, pour vous surprendre, autre chose à vous dire.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Et quoi ?</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">J’aime Valère.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l cont="true">Ah ! vous avez raison.</l>
+<l>L’objet de votre amour, lui, dont à la maison</l>
+<l>Votre imposture enlève un puissant héritage,</l>
+<pagenum num="125"/>
+<l>Et qui, de votre sexe ayant le moindre ombrage,</l>
+<l>Verroit incontinent ce bien lui retourner !</l>
+<l>C’est encore un plus grand sujet de s’étonner.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>J’ai de quoi toutefois surprendre plus votre âme :</l>
+<l>Je suis sa femme.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l cont="true">O dieux ! sa femme !</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Oui, sa femme.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Ah ! certes, celui-là l’emporte, et vient à bout</l>
+<l>De toute ma raison !</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Ce n’est pas encor tout.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Encore ?</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Je la suis, dis-je, sans qu’il le pense,</l>
+<l>Ni qu’il ait de mon sort la moindre connoissance.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Oh ! poussez ; je le quitte, et ne raisonne plus,</l>
+<l>Tant mes sens coup sur coup se trouvent confondus.</l>
+<l>A ces énigmes-là je ne puis rien comprendre.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Je vais vous l’expliquer, si vous voulez m’entendre.</l>
+<l>Valère, dans les fers de ma sœur arrêté,</l>
+<l>Me sembloit un amant digne d’être écouté ;</l>
+<l>Je ne pouvois souffrir qu’on rebutât sa flamme,</l>
+<l>Sans qu’un peu d’intérêt touchât pour lui mon âme ;</l>
+<l>Je voulois que Lucile aimât son entretien ;</l>
+<l>Je blâmois ses rigueurs, et les blâmai si bien,</l>
+<l>Que moi-même j’entrai, sans pouvoir m’en défendre,</l>
+<l>Dans tous les sentiments qu’elle ne pouvoit prendre.</l>
+<l>C’étoit, en lui parlant, moi qu’il persuâdoit ;</l>
+<l>Je me laissois gagner aux soupirs qu’il perdoit ;</l>
+<l>Et ses vœux, rejetés de l’objet qui l’enflamme,</l>
+<l>Étoient, comme vainqueurs, reçus dedans mon âme.</l>
+<l>Ainsi mon cœur, Frosine, un peu trop foible, hélas !</l>
+<l>Se rendit à des soins qu’on ne lui rendoit pas,</l>
+<l>Par un coup réfléchi reçut une blessure,</l>
+<l>Et paya pour un autre avec beaucoup d’usure ;</l>
+<pagenum num="126"/>
+<l>Enfin, ma chère, enfin, l’amour que j’eus pour lui</l>
+<l>Se voulut expliquer, mais sous le nom d’autrui.</l>
+<l>Dans ma bouche<noteref noteid="note.126.1"/>, une nuit, cet amant trop aimable</l>
+<l>Crut rencontrer Lucile à ses vœux favorable ;</l>
+<l>Et je sus ménager si bien cet entretien,</l>
+<l>Que du déguisement il ne reconnut rien.</l>
+<l>Sous ce voile trompeur, qui flattoit sa pensée,</l>
+<l>Je lui dis que pour lui mon âme étoit blessée,</l>
+<l>Mais que, voyant mon père en d’autres sentiments,</l>
+<l>Je devois une feinte à ses commandements ;</l>
+<l>Qu’ainsi de notre amour nous ferions un mystère</l>
+<l>Dont la nuit seulement seroit dépositaire ;</l>
+<l>Et qu’entre nous, de jour, de peur de rien gâter,</l>
+<l>Tout entretien secret se devoit éviter,</l>
+<l>Qu’il me verroit alors la même indifférence</l>
+<l>Qu’avant que nous eussions aucune intelligence ;</l>
+<l>Et que de son côté, de même que du mien,</l>
+<l>Geste, parole, écrit, ne m’en dît jamais rien.</l>
+<l>Enfin, sans m’arrêter sur toute l’industrie</l>
+<l>Dont j’ai conduit le fil de cette tromperie,</l>
+<l>J’ai poussé jusqu’au bout un projet si hardi,</l>
+<l>Et me suis assuré l’époux que je vous di.</l>
+
+<notes>
+  <note id="note.126.1">
+    <p><i>Dans ma bouche</i>, c’est-à-dire d’après mes paroles. — Il n’y a pas moyen d’approuver cette façon de parler.</p>
+  </note>
+</notes>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Peste ! les grands talents que votre esprit possède !</l>
+<l>Diroit-on qu’elle y touche avec sa mine froide ?</l>
+<l>Cependant vous avez été bien vite ici ;</l>
+<l>Car je veux que la chose ait d’abord réussi,</l>
+<l>Ne jugez-vous pas bien, à regarder l’issue,</l>
+<l>Qu’elle ne peut longtemps éviter d’être sue ?</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Quand l’amour est bien fort, rien ne peut l’arrêter ;</l>
+<l>Ses projets seulement vont à se contenter ;</l>
+<l>Et, pourvu qu’il arrive au but qu’il se propose,</l>
+<l>Il croit que tout le reste après est peu de chose.</l>
+<l>Mais enfin aujourd’hui je me découvre à vous,</l>
+<l>Afin que vos conseils... Mais voici cet époux.</l>
+
+<h3 id="acte2sc02">SCÈNE II. — VALÈRE, ASCAGNE, FROSINE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Si vous êtes tous deux en quelque conférence</l>
+<pagenum num="127"/>
+<l>Où je vous fasse tort de mêler ma présence,</l>
+<l>Je me retirerai.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Non, non, vous pouvez bien,</l>
+<l>Puisque vous le faisiez, rompre notre entretien.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Moi !</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Vous-même.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Et comment ?</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Je disois que Valère</l>
+<l>Auroit, si j’étois fille, un peu trop su me plaire ;</l>
+<l>Et que, si je faisois tous les vœux de son cœur,</l>
+<l>Je ne tarderois guère à faire son bonheur.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Ces protestations ne coûtent pas grand’chose,</l>
+<l>Alors qu’à leur effet un pareil si s’oppose ;</l>
+<l>Mais vous seriez bien pris, si quelque événement</l>
+<l>Alloit mettre à l’épreuve un si doux compliment.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Point du tout ; je vous dis que, régnant dans votre âme</l>
+<l>Je voudrois de bon cœur couronner votre flamme.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Et si c’étoit quelqu’une où, par votre secours,</l>
+<l>Vous pussiez être utile au bonheur de mes jours ?</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Je pourrois assez mal répondre à votre attente.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Cette confession n’est pas fort obligeante.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Eh quoi ! vous voudriez, Valère, injustement,</l>
+<l>Qu’étant fille, et mon cœur vous aimant tendrement,</l>
+<l>Je m’allasse engager avec une promesse</l>
+<l>De servir vos ardeurs pour quelque autre maîtresse ?</l>
+<l>Un si pénible effort pour moi m’est interdit.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Mais cela n’étant pas ?</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Ce que je vous ai dit,</l>
+<pagenum num="128"/>
+<l>Je l’ai dit comme fille, et vous le devez prendre</l>
+<l>Tout de même.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Ainsi donc il ne faut rien prétendre,</l>
+<l>Ascagne, à des bontés que vous auriez pour nous,</l>
+<l>A moins que le ciel fasse un grand miracle en vous.</l>
+<l>Bref, si vous n’êtes fille, adieu votre tendresse,</l>
+<l>Il ne vous reste rien qui pour nous s’intéresse.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>J’ai l’esprit délicat plus qu’on ne peut penser,</l>
+<l>Et le moindre scrupule a de quoi m’offenser</l>
+<l>Quand il s’agit d’aimer. Enfin je suis sincère ;</l>
+<l>Je ne m’engage point à vous servir, Valère,</l>
+<l>Si vous ne m’assurez, au moins absolument,</l>
+<l>Que vous avez pour moi le même sentiment ;</l>
+<l>Que pareille chaleur d’amitié vous transporte,</l>
+<l>Et que, si j’étois fille, une flamme plus forte</l>
+<l>N’outrageroit point celle où je vivois pour vous.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Je n’avois jamais vu ce scrupule jaloux !</l>
+<l>Mais, tout nouveau qu’il est, ce mouvement m’oblige</l>
+<l>Et je vous fais ici tout l’aveu qu’il exige.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Mais sans fard ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Oui, sans fard.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">S’il est vrai, désormais</l>
+<l>Vos intérêts seront les miens, je vous promets.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>J’ai bientôt à vous dire un important mystère</l>
+<l>Où l’effet de ces mots me sera nécessaire.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Et j’ai quelque secret de même à vous ouvrir,</l>
+<l>Où votre coeur pour moi se pourra découvrir.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Eh ! de quelle façon cela pourroit-il être ?</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>C’est que j’ai de l’amour qui n’oseroit paroître ;</l>
+<l>Et vous pourriez avoir sur l’objet de mes vœux</l>
+<l>Un empire à pouvoir rendre mon sort heureux.</l>
+
+<pagenum num="129"/>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Expliquez-vous, Ascagne ; et croyez, par avance,</l>
+<l>Que votre heur est certain, s’il est en ma puissance.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Vous promettez ici plus que vous ne croyez.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Non, non ; dites l’objet pour qui vous m’employez.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Il n’est pas encor temps ; mais c’est une personne</l>
+<l>Qui vous touche de près.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Votre discours m’étonne</l>
+<l>Plût à Dieu que ma sœur...</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Ce n’est pas la saison</l>
+<l>De m’expliquer, vous dis-je.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Et pourquoi ?</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Pour raison.</l>
+<l>Vous saurez mon secret quand je saurai le vôtre.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>J’ai besoin pour cela de l’aveu de quelque autre.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Ayez-le donc ; et lors, nous expliquant nos vœux,</l>
+<l>Nous verrons qui tiendra mieux parole des deux.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Adieu, j’en suis content.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Et moi content, Valère.</l>
+<pstage>Valère sort.</pstage>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Il croit trouver en vous l’assistance d’un frère.</l>
+
+<h3 id="acte2sc03">SCÈNE III. — LUCILE, ASCAGNE, FROSINE, MARINETTE</h3>
+
+<hstage><speaker>LUCILE</speaker>, à Marinette, les trois premiers vers.</hstage>
+<l>C’en est fait ; c’est ainsi que je me puis venger ;</l>
+<l>Et, si cette action a de quoi l’affliger,</l>
+<l>C’est toute la douceur que mon cœur s’y propose.</l>
+<pagenum num="130"/>
+<l>Mon frère, vous voyez une métamorphose :</l>
+<l>Je veux chérir Valère après tant de fierté,</l>
+<l>Et mes vœux maintenant tournent de son côté.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Que dites-vous, ma sœur ? Comment ! courir au change !</l>
+<l>Cette inégalité me semble trop étrange.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>La vôtre me surprend avec plus de sujet.</l>
+<l>De vos soins autrefois Valère étoit l’objet ;</l>
+<l>Je vous ai vu pour lui m’accuser de caprice,</l>
+<l>D’aveugle cruauté, d’orgueil et d’injustice ;</l>
+<l>Et, quand je veux l’aimer, mon dessein vous déplaît,</l>
+<l>Et je vous vois parler contre son intérêt !</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Je le quitte, ma sœur, pour embrasser le vôtre.</l>
+<l>Je sais qu’il est rangé dessous les lois d’une autre ;</l>
+<l>Et ce seroit un trait honteux à vos appas,</l>
+<l>Si vous le rappeliez et qu’il ne revînt pas.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Si ce n’est que cela, j’aurai soin de ma gloire,</l>
+<l>Et je sais, pour son cœur, tout ce que j’en dois croire ;</l>
+<l>Il s’explique à mes yeux intelligiblement :</l>
+<l>Ainsi découvrez-lui sans peur mon sentiment ;</l>
+<l>Ou, si vous refusez de le faire, ma bouche</l>
+<l>Lui va faire savoir que son ardeur me touche.</l>
+<l>Quoi ! mon frère, à ces mots vous restez interdit ?</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Ah ! ma sœur, si sur vous je puis avoir crédit,</l>
+<l>Si vous êtes sensible aux prières d’un frère,</l>
+<l>Quittez un tel dessein, et n’ôtez point Valère</l>
+<l>Aux vœux d’un jeune objet dont l’intérêt m’est cher,</l>
+<l>Et qui, sur ma parole, a droit de vous toucher.</l>
+<l>La pauvre infortunée aime avec violence ;</l>
+<l>A moi seul de ses feux elle fait confidence,</l>
+<l>Et je vois dans son cœur de tendres mouvements</l>
+<l>A dompter la fierté des plus durs sentiments.</l>
+<l>Oui, vous auriez pitié de l’état de son âme,</l>
+<l>Connoissant de quel coup vous menacez sa flamme ;</l>
+<l>Et je ressens si bien la douleur qu’elle aura,</l>
+<l>Que je suis assuré, ma sœur, qu’elle en mourra,</l>
+<l>Si vous lui dérobez l’amant qui peut lui plaire.</l>
+<pagenum num="131"/>
+<l>Éraste est un parti qui doit vous satisfaire ;</l>
+<l>Et des feux mutuels...</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l cont="true">Mon frère, c’est assez.</l>
+<l>Je ne sais point pour qui vous vous intéressez,</l>
+<l>Mais, de grâce, cessons ce discours, je vous prie,</l>
+<l>Et me laissez un peu dans quelque rêverie.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Allez, cruelle sœur, vous me désespérez,</l>
+<l>Si vous effectuez vos desseins déclarés.</l>
+
+<h3 id="acte2sc04">SCÈNE IV. — LUCILE, MARINETTE</h3>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>La résolution, madame, est assez prompte.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Un cœur ne pèse rien alors que l’on l’affronte :</l>
+<l>Il court à sa vengeance, et saisit promptement</l>
+<l>Tout ce qu’il croit servir à son ressentiment.</l>
+<l>Le traître ! faire voir cette insolence extrême !</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Vous m’en voyez encor toute hors de moi-même ;</l>
+<l>Et, quoique là-dessus je rumine sans fin,</l>
+<l>L’aventure me passe, et j’y perds mon latin.</l>
+<l>Car enfin, aux transports d’une bonne nouvelle,</l>
+<l>Jamais cœur ne s’ouvrit d’une façon plus belle ;</l>
+<l>De l’écrit obligeant le sien tout transporté</l>
+<l>Ne me donnoit pas moins que de la déité ;</l>
+<l>Et cependant jamais, à cet autre message,</l>
+<l>Fille ne fut traitée avecque tant d’outrage.</l>
+<l>Je ne sais, pour causer de si grands changements,</l>
+<l>Ce qui s’est pu passer entre ces courts moments.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Rien ne s’est pu passer dont il faille être en peine,</l>
+<l>Puisque rien ne le doit défendre de ma haine.</l>
+<l>Quoi ! tu voudrois chercher hors de sa lâcheté</l>
+<l>La secrète raison de cette indignité ?</l>
+<l>Cet écrit malheureux, dont mon âme s’accuse,</l>
+<l>Peut-il à son transport souffrir la moindre excuse ?</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>En effet, je comprends que vous avez raison,</l>
+<l>Et que cette querelle est pure trahison.</l>
+<pagenum num="132"/>
+<l>Nous en tenons, madame : et puis, prêtons l’oreille</l>
+<l>Aux bons chiens de pendards qui nous chantent merveille ;</l>
+<l>Qui, pour nous accrocher, feignent tant de langueur ;</l>
+<l>Laissons à leurs beaux mots fondre notre rigueur ;</l>
+<l>Rendons-nous à leurs vœux, trop foibles que nous sommes !</l>
+<l>Foin de notre sottise, et peste soit des hommes !</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Eh bien ! bien ! qu’il s’en vante et rie à nos dépens,</l>
+<l>Il n’aura pas sujet d’en triompher longtemps ;</l>
+<l>Et je lui ferai voir qu’en une âme bien faite</l>
+<l>Le mépris suit de près la faveur qu’on rejette.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Au moins, en pareil cas, est-ce un bonheur bien doux,</l>
+<l>Quand on sait qu’on n’a point d’avantage sur vous.</l>
+<l>Marinette eut bon nez, quoi qu’on en puisse dire,</l>
+<l>De ne permettre rien un soir qu’on vouloit rire.</l>
+<l>Quelque autre, sous l’espoir de <i>matrimonion</i>,</l>
+<l>Auroit ouvert l’oreille à la tentation ;</l>
+<l>Mais moi, <i>nescio vos</i>.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l cont="true">Que tu dis de folies,</l>
+<l>Et choisis mal ton temps pour de telles saillies.</l>
+<l>Enfin je suis touchée au cœur sensiblement ;</l>
+<l>Et si jamais celui de ce perfide amant,</l>
+<l>Par un coup de bonheur, dont j’aurois tort, je pense,</l>
+<l>De vouloir à présent concevoir l’espérance</l>
+<l>(Car le ciel a trop pris plaisir à m’affliger,</l>
+<l>Pour me donner celui de me pouvoir venger) ;</l>
+<l>Quand, dis-je, par un sort à mes désirs propice,</l>
+<l>Il reviendroit m’offrir sa rue en sacrifice,</l>
+<l>Détester à mes pieds l’action d’aujourd’hui,</l>
+<l>Je te défends, surtout, de me parler pour lui.</l>
+<l>Au contraire, je veux que ton zèle s’exprime</l>
+<l>A me bien mettre aux yeux la grandeur de son crime ;</l>
+<l>Et même, si mon cœur étoit pour lui tenté,</l>
+<l>De descendre jamais à quelque lâcheté,</l>
+<l>Que ton affection me soit alors sévère,</l>
+<l>Et tienne comme il faut la main à ma colère.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Vraiment n’ayez point peur, et laissez faire à nous ;</l>
+<l>J’ai pour le moins autant de colère que vous ;</l>
+<l>Et je serois plutôt fille toute ma vie</l>
+<pagenum num="133"/>
+<l>Que mon gros traître aussi me redonnât envie</l>
+<l>S’il vient...</l>
+
+<h3 id="acte2sc05">SCÈNE V. — ALBERT, LUCILE, MARINETTE</h3>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Rentrez, Lucile, et me faites venir</l>
+<l>Le précepteur ; je veux un peu l’entretenir,</l>
+<l>Et m’informer de lui, qui me gouverne Ascagne,</l>
+<l>S’il sait point quel ennui depuis peu l’accompagne.</l>
+
+<h3 id="acte2sc06">SCÈNE VI. — ALBERT, <i>seul</i>.</h3>
+
+<l>En quel gouffre de soins et de perplexité</l>
+<l>Nous jette une action faite sans équité !</l>
+<l>D’un enfant supposé par mon trop d’avarice</l>
+<l>Mon cœur depuis longtemps souffre bien le supplice ;</l>
+<l>Et, quand je vois les maux où je me suis plongé,</l>
+<l>Je voudrois à ce bien n’avoir jamais songé.</l>
+<l>Tantôt je crains de voir, par la fourbe éventée,</l>
+<l>Ma famille en opprobre et misère jetée ;</l>
+<l>Tantôt pour ce fils-là, qu’il me faut conserver,</l>
+<l>Je crains cent accidents qui peuvent arriver.</l>
+<l>S’il advient que dehors quelque affaire m’appelle,</l>
+<l>J’appréhende au retour cette triste nouvelle :</l>
+<l>Las ! vous ne savez pas ? Vous l’a-t-on annoncé ?</l>
+<l>Votre fils a la fièvre, ou jambe, ou bras cassé ;</l>
+<l>Enfin, à tous moments, sur quoi que je m’arrête,</l>
+<l>Cent sortes de chagrins me roulent par la tête.</l>
+<l>Ah !...</l>
+
+<h3 id="acte2sc07">SCÈNE VII. — ALBERT, MÉTAPHRASTE</h3>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true"><i>Mandatum tuum euro diligenier</i>.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Maître, j’ai voulu...</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Maître est dit <i>a magis ter</i>.</l>
+<l>C’est comme qui diroit trois fois plus grand.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Je meure,</l>
+<l>Si je savois cela. Mais, soit, à la bonne heure.</l>
+<l>Maître, donc...</l>
+
+<pagenum num="134"/>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Poursuivez.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Je peux poursuivre aussi</l>
+<l>Mais ne poursuivez point, vous, d’interrompre ainsi.</l>
+<l>Donc, encore une fois, maître, c’est la troisième,</l>
+<l>Mon fils me rend chagrin : vous savez que je l’aime,</l>
+<l>Et que soigneusement je l’ai toujours nourri.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Il est vrai : <i>filio non potest prœferri</i></l>
+<l><i>Nisi filius<noteref noteid="note.134.1"/></i>.</l>
+
+<notes>
+  <note id="note.134.1">
+    <p>A un fils on ne saurait préférer qu’un fils.</p>
+  </note>
+</notes>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Maître, en discourant ensemble,</l>
+<l>Ce jargon n’est pas fort nécessaire, me semble ;</l>
+<l>Je vous crois grand latin, et grand docteur juré,</l>
+<l>Je m’en rapporte à ceux qui m’en ont assuré ;</l>
+<l>Mais, dans un entretien qu’avec vous je destine,</l>
+<l>N’allez point déployer toute votre doctrine,</l>
+<l>Faire le pédagogue, et cent mots me cracher,</l>
+<l>Comme si vous étiez en chaire pour prêcher.</l>
+<l>Mon père, quoiqu’il eût la tête des meilleures,</l>
+<l>Ne m’a jamais rien fait apprendre que mes Heures,</l>
+<l>Qui, depuis cinquante ans, dites journellement,</l>
+<l>Ne sont encor pour moi que du haut allemand.</l>
+<l>Laissez donc en repos votre science auguste,</l>
+<l>Et que votre langage à mon foible s’ajuste.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Soit.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">A mon fils, l’hymen semble lui faire peur ;</l>
+<l>Et, sur quelque parti que je sonde son cœur,</l>
+<l>Pour un pareil lien il est froid et recule.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Peut-être a-t-il l’humeur du frère de Marc-Tulle,</l>
+<l>Dont avec Atticus le même fait sermon ;</l>
+<l>Et comme aussi les Grecs disent <i>Atanaton</i>...</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Mon Dieu ! maître éternel, laissez-là, je vous prie,</l>
+<l>Les Grecs, les Albanois, avec l’Esclavonie,</l>
+<l>Et tous ces autres gens dont vous voulez parler ;</l>
+<l>Eux et mon fils n’ont rien ensemble à démêler.</l>
+
+<pagenum num="135"/>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Eh bien donc, votre fils...</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Je ne sais si dans l’âme</l>
+<l>Il ne sentiroit point une secrète flamme :</l>
+<l>Quelque chose le trouble, ou je suis fort déçu,</l>
+<l>Et je l’aperçus hier, sans en être aperçu,</l>
+<l>Dans un recoin du bois où nul ne se retire.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Dans un lieu reculé du bois, voulez-vous dire,</l>
+<l>Un endroit écarté, <i>latine, secessus ;</i></l>
+<l>Virgile l’a dit : <i>Est in seoessu... locus..</i>.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Comment auroit-il pu l’avoir dit, ce Virgile,</l>
+<l>Puisque je suis certain que, dans ce lieu tranquille,</l>
+<l>Ame du monde enfin n’étoit lors que nous deux ?</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Virgile est nommé là comme un auteur fameux</l>
+<l>D’un terme plus choisi que le mot que vous dites,</l>
+<l>Et non comme témoin de ce qu’hier vous vîtes.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Et moi, je vous dis, moi, que je n’ai pas besoin</l>
+<l>De terme plus choisi, d’auteur ni de témoin,</l>
+<l>Et qu’il suffit ici de mon seul témoignage.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Il faut choisir pourtant les mots mis en usage</l>
+<l>Par les meilleurs auteurs. <i>Tu vivendo bonos</i>,</l>
+<l>Comme on dit, <i>scribendo sequare peritos</i><noteref noteid="note.135.1"/>.</l>
+
+<notes>
+  <note id="note.135.1">
+    <p>Vers de Despautère : « Règle tes mœurs sur les gens de bien, tes écrits sur les bons auteurs. »</p>
+  </note>
+</notes>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Homme ou démon, veux-tu m’entendre sans conteste.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Quintilien en fait le précepte.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">La peste.</l>
+<l>Soit du causeur !</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Et dit là-dessus doctement</l>
+<l>Un mot que vous serez bien aise assurément</l>
+<l>D’entendre.</l>
+
+<pagenum num="136"/>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Je serai le diable qui t’emporte,</l>
+<l>Chien d’homme ! Oh ! que je suis tenté d’étrange sorte</l>
+<l>De faire sur ce mufle une application !</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Mais qui cause, seigneur, votre inflammation ?</l>
+<l>Que voulez-vous de moi ?</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Je veux que l’on m’écoute,</l>
+<l>Vous ai-je dit vingt fois, quand je parle.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Ah ! sans doute ;</l>
+<l>Vous serez satisfait s’il ne tient qu’à cela ;</l>
+<l>Je me tais.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Vous ferez sagement.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Me voilà</l>
+<l>Tout prêt de vous ouïr.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Tant mieux.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Que je trépasse,</l>
+<l>Si je dis plus mot.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Dieu vous en fasse la grâce !</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Vous n’accuserez point mon caquet désormais.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Ainsi soit-il !</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Parlez quand vous voudrez.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">J’y vais.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Et n’appréhendez plus l’interruption nôtre.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>C’est assez dit.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Je suis muet plus qu’aucun autre.</l>
+
+<pagenum num="137"/>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Je le crois.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">J’ai promis que je ne dirai rien.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Suffit.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Dès à présent je suis muet.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Fort bien.</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Parlez ; courage ! au moins je vous donne audience,</l>
+<l>Vous ne vous plaindrez pas de mon peu de silence :</l>
+<l>Je ne desserre pas la bouche seulement.</l>
+
+<hstage><speaker>ALBERT</speaker>, à part.</hstage>
+<l>Le traître !</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Mais, de grâce, achevez vitement ;</l>
+<l>Depuis longtemps j’écoute ; il est bien raisonnable</l>
+<l>Que je parle à mon tour.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Donc, bourreau détestable...</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l>Eh ! bon Dieu ! voulez-vous que j’écoute à jamais ?</l>
+<l>Partageons le parler au moins, ou je m’en vais.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Ma patience est bien...</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Quoi ! voulez-vous poursuivre ?</l>
+<l>Ce n’est pas encor fait ? <i>Per Jovem !</i> je suis ivre !</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Je n’ai pas dit...</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Encor ! Bon Dieu ! que de discours !</l>
+<l>Rien n’est-il suffisant d’en arrêter le cours ?</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>J’enrage !</l>
+
+<hstage><speaker>MÉTAPHRASTE</speaker></hstage>
+<l cont="true">Derechef ! O l’étrange torture !</l>
+<l>Eh ! laissez-moi parler un peu, je vous conjure.</l>
+<pagenum num="138"/>
+<l>Un sot qui ne dit mot ne se distingue pas</l>
+<l>D’un savant qui se tait.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Parbleu ! tu te tairas.</l>
+
+<h3 id="acte2sc08">SCÈNE VIII. — MÉTAPHRASTE, <i>seul</i>.</h3>
+
+<l>D’où vient fort à propos cette sentence expresse</l>
+<l>D’un philosophe : Parle, afin qu’on te connoisse.</l>
+<l>Doncques, si de parler le pouvoir m’est ôté,</l>
+<l>Pour moi, j’aime autant perdre aussi l’humanité,</l>
+<l>Et changer mon essence en celle d’une bête.</l>
+<l>Me voilà pour huit jours avec un mal de tête.</l>
+<l>Oh ! que les grands parleurs sont par moi détestés !</l>
+<l>Mais quoi ! si les savants ne sont point écoutés,</l>
+<l>Si l’on veut que toujours ils aient la bouche close,</l>
+<l>Il faut donc renverser l’ordre de chaque chose.</l>
+<l>Que les poules dans peu dévorent les renards ;</l>
+<l>Que les jeunes enfants remontrent aux vieillards ;</l>
+<l>Qu’à poursuivre les loups les agnelets s’ébattent ;</l>
+<l>Qu’un fou fasse les lois ; que les femmes combattent ;</l>
+<l>Que par les criminels les juges soient jugés,</l>
+<l>Et par les écoliers les maîtres fustigés ;</l>
+<l>Que le malade au sain présente le remède,</l>
+<l>Que le lièvre craintif...</l>
+
+<h3 id="acte2sc09">SCÈNE IX. — ALBERT, MÉTAPHRASTE</h3>
+
+<pstage>Albert sonne aux oreilles de Mêtaphraste une cloche de mulet qui le fait fuir.</pstage>
+
+<hstage><speaker>MÊTAPHRASTE</speaker>, fuyant.</hstage>
+<l cont="true">Miséricorde ! à l’aide !</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte3">ACTE TROISIÈME</h2>
+
+<h3 id="acte3sc01">SCÈNE I. — MASCARILLE, <i>seul</i>.</h3>
+
+<l>Le ciel parfois seconde un dessein téméraire,</l>
+<l>Et l’on sort comme on peut d’une méchante affaire.</l>
+<l>Pour moi, qu’une imprudence a trop fait discourir,</l>
+<l>Le remède plus prompt où j’ai su recourir,</l>
+<l>C’est de pousser ma pointe, et dire en diligence</l>
+<pagenum num="139"/>
+<l>A notre vieux patron toute la manigance.</l>
+<l>Son fils, qui m’embarrasse, est un évaporé :</l>
+<l>L’autre, diable ! disant ce que j’ai déclaré,</l>
+<l>Gare une irruption sur notre friperie !</l>
+<l>Au moins, avant qu’on puisse échauffer sa furie,</l>
+<l>Quelque chose de bon nous pourra succéder,</l>
+<l>Et les vieillards entre eux se pourront accorder.</l>
+<l>C’est ce qu’on va tenter ; et, de la part du nôtre,</l>
+<l>Sans perdre un seul moment, je m’en vais trouver l’autre.</l>
+<pstage>Il frappe à la porte d’Albert.</pstage>
+
+<h3 id="acte3sc02">SCÈNE II. — ALBERT, MASCARILLE</h3>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Qui frappe ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Amis.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Oh ! oh ! qui te peut amener,</l>
+<l>Mascarille ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Je viens, monsieur, pour vous donner</l>
+<l>Le bonjour.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Ah ! vraiment, tu prends beaucoup de peine :</l>
+<l>De tout mon cœur, bonjour.</l>
+<pstage>Il s’en va.</pstage>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">La réplique est soudaine.</l>
+<l>Quel homme brusque !</l>
+<pstage>Il heurte.</pstage>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Encor !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Vous n’avez pas ouï,</l>
+<l>Monsieur.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Ne m’as-tu pas donné le bonjour ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Oui.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Eh bien, bonjour, te dis-je.</l>
+<pstage>Il s’en va, Mascarille l’arrête.</pstage>
+
+<pagenum num="140"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Oui ; mais je viens encore</l>
+<l>Vous saluer au nom du seigneur Polidore.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Ah ! c’est un autre fait. Ton maître t’a chargé</l>
+<l>De me saluer ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Oui.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Je lui suis obligé.</l>
+<l>Va<noteref noteid="note.140.1"/>, que je lui souhaite une joie infinie.</l>
+<pstage>Il s’en va.</pstage>
+
+<notes>
+  <note id="note.140.1">
+    <p>Cette phrase n’a de sens qu’en sous-entendant : <i>dis-lui que</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Cet homme est ennemi de la cérémonie.</l>
+<pstage>Il heurte.</pstage>
+<l>Je n’ai pas achevé, monsieur, son compliment :</l>
+<l>Il voudroit vous prier d’une chose instamment.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Eh bien, quand il voudra, je suis à son service.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, l’arrêtant.</hstage>
+<l>Attendez, et souffrez qu’en deux mots je finisse.</l>
+<l>Il souhaite un moment pour vous entretenir</l>
+<l>D’une affaire importante, et doit ici venir.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Eh ! quelle est-elle encor, l’affaire qui l’oblige</l>
+<l>A me vouloir parler ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Un grand secret, vous dis-je,</l>
+<l>Qu’il vient de découvrir en ce même moment,</l>
+<l>Et qui, sans doute, importe à tous deux grandement.</l>
+<l>Voilà mon ambassade.</l>
+
+<h3 id="acte3sc03">SCÈNE III. — ALBERT, <i>seul</i>.</h3>
+
+<l cont="true">O juste ciel ! je tremble :</l>
+<l>Car enfin nous avons peu de commerce ensemble.</l>
+<l>Quelque tempête va renverser mes desseins,</l>
+<l>Et ce secret, sans doute, est celui que je crains.</l>
+<l>L’espoir de l’intérêt m’a fait quelque infidèle,</l>
+<l>Et voilà sur ma vie une tache éternelle.</l>
+<l>Ma fourbe est découverte. Oh ! que la vérité</l>
+<pagenum num="141"/>
+<l>Se peut cacher longtemps avec difficulté !</l>
+<l>Et qu’il eût mieux valu pour moi, pour mon estime<noteref noteid="note.141.1"/>,</l>
+<l>Suivre les mouvements d’une peur légitime,</l>
+<l>Par qui je me suis vu tenté plus de vingt fois</l>
+<l>De rendre à Polidore un bien que je lui dois,</l>
+<l>De prévenir l’éclat où ce coup-ci m’expose,</l>
+<l>Et faire qu’en douceur passât toute la chose !</l>
+<l>Mais, hélas ! c’en est fait, il n’est plus de saison ;</l>
+<l>Et ce bien, par la fraude, entré dans ma maison,</l>
+<l>N’en sera point tiré, que dans cette sortie</l>
+<l>Il n’entraîne du mien la meilleure partie.</l>
+
+<notes>
+  <note id="note.141.1">
+    <p><i>Estime</i> se disait autrefois pour <i>réputation</i>.</p>
+  </note>
+</notes>
+
+<h3 id="acte3sc04">SCÈNE IV. — ALBERT, POLIDORE</h3>
+
+<hstage><speaker>POLIDORE</speaker>, les quatre premiers vers sans voir Albert.</hstage>
+<l>S’être ainsi marié sans qu’on en ait su rien !</l>
+<l>Puisse cette action se terminer à bien !</l>
+<l>Je ne sais qu’en attendre ; et je crains fort du père</l>
+<l>Et la grande richesse et la juste colère.</l>
+<l>Mais je l’aperçois seul.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Ciel ! Polidore vient !</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Je tremble à l’aborder.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">La crainte me retient.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Par où lui débuter ?</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Quel sera mon langage ?</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Son âme est tout émue.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Il change de visage.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Je vois, seigneur Albert, au trouble de vos yeux</l>
+<l>Que vous savez déjà qui m’amène en ces lieux.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Hélas ! oui.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l cont="true">La nouvelle a droit de vous surprendre,</l>
+<pagenum num="142"/>
+<l>Et je n’eusse pas cru ce que je viens d’apprendre.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>J’en dois rougir de honte et de confusion.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Je trouve condamnable une telle action,</l>
+<l>Et je ne prétends point excuser le coupable.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Dieu fait miséricorde au pécheur misérable.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>C’est ce qui doit par vous être considéré.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Il faut être chrétien.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l cont="true">Il est très assuré.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Grâce, au nom de Dieu ! grâce, ô seigneur Polidore !</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Eh ! c’est moi qui de vous présentement l’implore.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Afin de l’obtenir je me jette à genoux.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Je dois en cet état être plutôt que vous.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Prenez quelque pitié de ma triste aventure.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Je suis le suppliant dans une telle injure.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Vous me fendez le cœur avec cette bonté.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Vous me rendez confus de tant d’humilité.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Pardon, encore un coup !</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l cont="true">Hélâs ! pardon vous-même !</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>J’ai de cette action une douleur extrême.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Et moi, j’en suis touché de même au dernier point.</l>
+
+<pagenum num="143"/>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>J’ose vous conjurer qu’elle n’éclate point.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Hélas ! seigneur Albert, je ne veux autre chose.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Conservons mon honneur.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l cont="true">Eh oui, je m’y dispose.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Quant au bien qu’il faudra, vous-même en résoudrez.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Je ne veux de vos biens que ce que vous voudrez ;</l>
+<l>De tous ces intérêts je vous ferai le maître.</l>
+<l>Et je suis trop content si vous le pouvez être.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Ah ! quel homme de Dieu ! Quel excès de douceur !</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Quelle douceur, vous-même, après un tel malheur !</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Que puissiez-vous avoir toutes choses prospères !</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Le bon Dieu vous maintienne !</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Embrassons-nous en frères.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>J’y consens de grand cœur, et me réjouis fort</l>
+<l>Que tout soit terminé par un heureux accord.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>J’en rends grâces au ciel.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l cont="true">Il ne vous faut rien feindre,</l>
+<l>Votre ressentiment me donnoit lieu de craindre ;</l>
+<l>Et Lucile tombée en faute avec mon fils,</l>
+<l>Comme on vous voit puissant et de biens et d’amis...</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Eh ! que parlez-vous là de faute et de Lucile ?</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Soit, ne commençons point un discours inutile,</l>
+<l>Je veux bien que mon fils y trempe grandement</l>
+<l>Même, si cela fait à votre allègement,</l>
+<pagenum num="144"/>
+<l>J’avouerai qu’à lui seul en est toute la faute,</l>
+<l>Que votre fille avoit une vertu trop haute</l>
+<l>Pour avoir jamais fait ce pas contre l’honneur,</l>
+<l>Sans l’incitation d’un méchant suborneur</l>
+<l>Que le traître a séduit sa pudeur innocente,</l>
+<l>Et de votre conduite ainsi détruit l’attente.</l>
+<l>Puisque la chose est faite, et que, selon mes vœux,</l>
+<l>Un esprit de douceur nous met d’accord tous deux,</l>
+<l>Ne ramentevons rien, et réparons l’offense</l>
+<l>Par la solennité d’une heureuse alliance.</l>
+
+<hstage><speaker>ALBERT</speaker>, à part.</hstage>
+<l>O Dieu ! quelle méprise ! et qu’est-ce qu’il m’apprend ?</l>
+<l>Je rentre ici d’un trouble en un autre aussi grand.</l>
+<l>Dans ces divers transports je ne sais que répondre,</l>
+<l>Et, si je dis un mot, j’ai peur de me confondre.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>A quoi pensez-vous-là, seigneur Albert ?</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">A rien.</l>
+<l>Remettons, je vous prie, à tantôt l’entretien.</l>
+<l>Un mal subit me prend, qui veut que je vous laisse.</l>
+
+<h3 id="acte3sc05">SCÈNE V. — POLIDORE, <i>seul</i>.</h3>
+
+<l>Je lis dedans son âme, et vois ce qui le presse.</l>
+<l>A quoi que sa raison l’eût déjà disposé,</l>
+<l>Son déplaisir n’est pas encor tout apaisé.</l>
+<l>L’image de l’affront lui revient, et sa fuite</l>
+<l>Tâche à me déguiser le trouble qui l’agite.</l>
+<l>Je prends part à sa honte, et son deuil m’attendrit.</l>
+<l>Il faut qu’un peu de temps remette son esprit :</l>
+<l>La douleur trop contrainte aisément se redouble.</l>
+<l>Voici mon jeune fou d’où nous vient tout ce trouble.</l>
+
+<h3 id="acte3sc06">SCÈNE VI. — POLIDORE, VALÈRE</h3>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Enfin, le beau mignon, vos beaux déportements</l>
+<l>Troubleront les vieux jours d’un père à tous moments ;</l>
+<l>Tous les jours vous ferez de nouvelles merveilles,</l>
+<l>Et nous n’aurons jamais autre chose aux oreilles !</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Que fais-je tous les jours qui soit si criminel ?</l>
+<l>En quoi mériter tant le courroux paternel ?</l>
+
+<pagenum num="145"/>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Je suis un étrange homme, et d’une humeur terrible,</l>
+<l>D’accuser un enfant si sage et si paisible !</l>
+<l>Las ! il vit comme un saint, et dedans la maison,</l>
+<l>Du matin jusqu’au soir il est en oraison !</l>
+<l>Dire qu’il pervertit l’ordre de la nature,</l>
+<l>Et fait du jour la nuit : ô la grande imposture !</l>
+<l>Qu’il n’a considéré père, ni parenté,</l>
+<l>En vingt occasions : horrible fausseté !</l>
+<l>Que de fraîche mémoire un furtif hyménée</l>
+<l>A la fille d’Albert a joint sa destinée,</l>
+<l>Sans craindre de la suite un désordre puissant :</l>
+<l>On le prend pour un autre ; et le pauvre innocent</l>
+<l>Ne sait pas seulement ce que je veux lui dire.</l>
+<l>Ah ! chien, que j’ai reçu du ciel pour mon martyre !</l>
+<l>Te croiras-tu toujours ? et ne pourrai-je pas</l>
+<l>Te voir être une fois sage avant mon trépas ?</l>
+
+<hstage><speaker>VALÈRE</speaker>, seul, et rêvant.</hstage>
+<l>D’où peut venir ce coup ? mon âme embarrassée</l>
+<l>Ne voit que Mascarille où jeter sa pensée.</l>
+<l>Il ne sera pas homme à m’en faire un aveu,</l>
+<l>Il faut user d’adresse et me contraindre un peu</l>
+<l>Dans ce juste courroux.</l>
+
+<h3 id="acte3sc07">SCÈNE VII. — VALÈRE, MASCARILLE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Mascarille, mon père,</l>
+<l>Que je viens de trouver, sait toute notre affaire.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Il la sait ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Oui.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">D’où diantre a-t-il pu la savoir ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Je ne sais point sur qui ma conjecture asseoir ;</l>
+<l>Mais enfin d’un succès cette affaire est suivie,</l>
+<l>Dont j’ai tous les sujets d’avoir l’âme ravie.</l>
+<l>Il ne m’en a pas dit un mot qui fût fâcheux ;</l>
+<l>Il excuse ma faute, il approuve mes feux :</l>
+<l>Et je voudrois savoir qui peut être capable</l>
+<pagenum num="146"/>
+<l>D’avoir pu rendre ainsi son esprit si traitable.</l>
+<l>Je ne puis t’exprimer l’aise que j’en reçoi.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Et que me diriez-vous, monsieur, si c’étoit moi</l>
+<l>Qui vous eût procuré cette heureuse fortune ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Bon ! bon ! tu voudrois bien ici m’en donner d’une.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>C’est moi, vous dis-je, moi, dont le patron le sait,</l>
+<l>Et qui vous ai produit ce favorable effet.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Mais, là, sans te railler ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Que le diable m’emporte</l>
+<l>Si je fais raillerie, et s’il n’est de la sorte !</l>
+
+<hstage><speaker>VALÈRE</speaker>, mettant l’épée à la main.</hstage>
+<l>Et qu’il m’entraîne, moi, si tout présentement</l>
+<l>Tu n’en vas recevoir le juste payement !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ah ! monsieur, qu’est ceci ? Je défends la surprise.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>C’est la fidélité que tu m’avois promise ?</l>
+<l>Sans ma feinte, jamais tu n’eusses avoué</l>
+<l>Le trait que j’ai bien cru que tu m’avois joué.</l>
+<l>Traître, de qui la langue à causer trop habile</l>
+<l>D’un père contre moi vient d’échauffer la bile,</l>
+<l>Qui me perds tout à fait, il faut, sans discourir,</l>
+<l>Que tu meures.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Tout beau. Mon âme, pour mourir,</l>
+<l>N’est pas en bon état. Daignez, je vous conjure,</l>
+<l>Attendre le succès qu’aura cette aventure.</l>
+<l>J’ai de fortes raisons qui m’ont fait révéler</l>
+<l>Un hymen que vous-même aviez peine à celer :</l>
+<l>C’étoit un coup d’État, et vous verrez l’issue</l>
+<l>Condamner la fureur que vous avez conçue.</l>
+<l>De quoi vous fâchez-vous, pourvu que vos souhaits</l>
+<l>Se trouvent par mes soins pleinement satisfaits.</l>
+<l>Et voyant mettre à fin la contrainte où vous êtes ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Et si tous ces discours ne sont que des sornettes ?</l>
+
+<pagenum num="147"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Toujours serez-vous lors à temps pour me tuer.</l>
+<l>Mais enfin mes projets pourront s’effectuer.</l>
+<l>Dieu fera pour les siens, et, content dans la suite,</l>
+<l>Vous me remercierez de ma rare conduite.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Nous verrons. Mais Lucile...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Alte ; son père sort.</l>
+
+<h3 id="acte3sc08">SCÈNE VIII. — ALBERT, VALÈRE, MASCARILLE</h3>
+
+<hstage><speaker>ALBERT</speaker>, les cinq premiers vers sans voir Valère.</hstage>
+<l>Plus je reviens du trouble où j’ai donné d’abord,</l>
+<l>Plus je me sens piqué de ce discours étrange,</l>
+<l>Sur qui ma peur prenoit un si dangereux change :</l>
+<l>Car Lucile soutient que c’est une chanson,</l>
+<l>Et m’a parlé d’un air à m’ôter tout soupçon.</l>
+<l>Ah ! monsieur, est-ce vous de qui l’audace insigne</l>
+<l>Met en jeu mon honneur, et fait ce conte indigne ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Seigneur Albert, prenez un ton un peu plus doux,</l>
+<l>Et contre votre gendre ayez moins de courroux.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Comment, gendre ? coquin ! tu portes bien la mine</l>
+<l>De pousser les ressorts d’une telle machine,</l>
+<l>Et d’en avoir été le premier inventeur.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je ne vois ici rien à vous mettre en fureur.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Trouves-tu beau, dis-moi, de diffamer ma fille,</l>
+<l>Et faire un tel scandale à toute une famille ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Le voilà prêt de faire en tout vos volontés.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Que voudrois-je, sinon qu’il dît des vérités ?</l>
+<l>Si quelque intention le pressoit pour Lucile,</l>
+<l>La recherche en pouvoit être honnête et civile ;</l>
+<l>Il falloit l’attaquer du côté du devoir,</l>
+<l>Il falloit de son père implorer le pouvoir,</l>
+<l>Et non pas recourir à cette lâche feinte,</l>
+<l>Qui porte à la pudeur une sensible atteinte.</l>
+
+<pagenum num="148"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quoi ! Lucile n’est pas, sous des liens secrets,</l>
+<l>A mon maître ?</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Non, traître, et n’y sera jamais.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Tout doux ! et, s’il est vrai que ce soit chose faite.</l>
+<l>Voulez-vous l’approuver, cette chaîne secrète ?</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Et, s’il est constant, toi, que cela ne soit pas,</l>
+<l>Veux-tu te voir casser les jambes et les bras ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Monsieur, il est aisé de vous faire paroître</l>
+<l>Qu’il dit vrai.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Bon ! voilà l’autre encor, digne maître</l>
+<l>D’un semblable valet ! O les menteurs hardis !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>D’homme d’honneur, il est ainsi que je le dis.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Quel seroit notre but de vous en faire accroire ?</l>
+
+<hstage><speaker>ALBERT</speaker>, à part.</hstage>
+<l>Ils s’entendent tous deux comme larrons en foire.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Mais venons à la preuve ; et, sans nous quereller,</l>
+<l>Faites sortir Lucile, et la laissez parler.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Et si le démenti par elle vous en reste ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Elle n’en fera rien, monsieur, je vous proteste.</l>
+<l>Promettez à leurs vœux votre consentement,</l>
+<l>Et je veux m’exposer au plus dur châtiment,</l>
+<l>Si de sa propre bouche elle ne vous confesse</l>
+<l>Et la foi qui l’engage et l’ardeur qui la presse.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Il faut voir cette affaire.</l>
+<pstage>Il va frapper à sa porte.</pstage>
+
+<hstage><speaker>MASCARILLE</speaker>, à Valère.</hstage>
+<l cont="true">Allez, tout ira bien.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Holà ! Lucile, un mot.</l>
+
+<pagenum num="149"/>
+
+<hstage><speaker>VALÈRE</speaker>, à Mascarille.</hstage>
+<l cont="true">Je crains...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Ne craignez rien.</l>
+
+<h3 id="acte3sc09">SCÈNE IX. — LUCILE, ALBERT, VALÈRE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Seigneur Albert, silence au moins. Enfin, madame,</l>
+<l>Toute chose conspire au bonheur de votre âme</l>
+<l>Et monsieur votre père, averti de vos feux,</l>
+<l>Vous laisse votre époux, et confirme vos vœux,</l>
+<l>Pourvu que, bannissant toutes craintes frivoles,</l>
+<l>Deux mots de votre aveu confirment nos paroles.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Que me vient donc conter ce coquin assuré ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Bon ! me voilà déjà d’un beau titre honoré.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Sachons un peu, monsieur, quelle belle saillie</l>
+<l>Fait ce conte galant qu’aujourd’hui l’on publie.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Pardon, charmant objet : un valet a parlé,</l>
+<l>Et j’ai vu, malgré moi, notre hymen révélé.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Notre hymen ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">On sait tout, adorable Lucile ;</l>
+<l>Et vouloir déguiser est un soin inutile.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Quoi ! l’ardeur de mes feux vous a fait mon époux ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>C’est un bien qui me doit faire mille jaloux ;</l>
+<l>Mais j’impute bien moins ce bonheur de ma flamme</l>
+<l>A l’ardeur de vos feux qu’aux bontés de votre âme.</l>
+<l>Je sais que vous avez sujet de vous fâcher,</l>
+<l>Que c’étoit un secret que vous vouliez cacher ;</l>
+<l>Et j’ai de mes transports forcé la violence</l>
+<l>A ne point violer votre expresse défense.</l>
+<l>Mais...</l>
+
+<pagenum num="150"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Eh bien, oui, c’est moi ; le grand mal que voilà !</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Est-il une imposture égale à celle-là ?</l>
+<l>Vous l’osez soutenir en ma présence même,</l>
+<l>Et pensez m’obtenir par ce beau stratagème ?</l>
+<l>O le plaisant amant, dont la galante ardeur</l>
+<l>Veut blesser mon honneur au défaut de mon cœur,</l>
+<l>Et que mon père, ému de l’éclat d’un sot conte,</l>
+<l>Paye avec mon hymen qui me couvre de honte !</l>
+<l>Quand tout contribueroit à votre passion,</l>
+<l>Mon père, les destins, mon inclination,</l>
+<l>On me verroit combattre, en ma juste colère,</l>
+<l>Mon inclination, les destins, et mon père,</l>
+<l>Perdre même le jour, avant que de m’unir</l>
+<l>A qui par ce moyen auroit cru m’obtenir.</l>
+<l>Allez ; et, si mon sexe, avecque bienséance,</l>
+<l>Se pouvoit emporter à quelque violence,</l>
+<l>Je vous apprendrois bien à me traiter ainsi !</l>
+
+<hstage><speaker>VALÈRE</speaker>, à Mascarille.</hstage>
+<l>C’en est fait, son courroux ne peut être adouci.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Laissez-moi lui parler. Eh ! madame, de grâce,</l>
+<l>A quoi bon maintenant toute cette grimace ?</l>
+<l>Quelle est votre pensée, et quel bourru transport</l>
+<l>Contre vos propres vœux vous fait roidir si fort ?</l>
+<l>Si monsieur votre père étoit homme farouche,</l>
+<l>Passe ; mais il permet que la raison le touche ;</l>
+<l>Et lui-même m’a dit qu’une confession</l>
+<l>Vous va tout obtenir de son affection.</l>
+<l>Vous sentez, je crois bien, quelque petite honte</l>
+<l>A faire un libre aveu de l’amour qui vous dompte ;</l>
+<l>Mais, s’il vous a fait prendre un peu de liberté,</l>
+<l>Par un bon mariage on voit tout rajusté ;</l>
+<l>Et, quoi que l’on reproche au feu qui vous consomme<noteref noteid="note.150.1"/>,</l>
+<l>Le mal n’est pas si grand que de tuer un homme.</l>
+<l>On sait que la chair est fragile quelquefois,</l>
+<l>Et qu’une fille, enfin, n’est ni caillou, ni bois.</l>
+<l>Vous n’avez pas été sans doute la première,</l>
+<l>Et vous ne serez pas, que je crois, la dernière.</l>
+
+<notes>
+  <note id="note.150.1">
+    <p>On se servait alors indifféremment des verbes <i>consommer</i> et <i>consumer</i>.</p>
+  </note>
+</notes>
+
+<pagenum num="151"/>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Quoi ! vous pouvez ouïr ces discours effrontés,</l>
+<l>Et vous ne dites mot à ces indignités ?</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Que veux-tu que je te die ? Une telle aventure</l>
+<l>Me met tout hors de moi.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Madame, je vous jure</l>
+<l>Que déjà vous devriez avoir tout confessé.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Et quoi donc confesser ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Quoi ? ce qui s’est passé</l>
+<l>Entre mon maître et vous. La belle raillerie !</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Et que s’est-il passé, monstre d’effronterie,</l>
+<l>Entre ton maître et moi ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Vous devez, que je croi,</l>
+<l>En savoir un peu plus de nouvelles que moi ;</l>
+<l>Et pour vous cette nuit fut trop douce pour croire</l>
+<l>Que vous puissiez si vite en perdre la mémoire.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>C’est trop souffrir, mon père, un impudent valet.</l>
+<pstage>Elle lui donne un soufflet.</pstage>
+
+<h3 id="acte3sc10">SCÈNE X. — ALBERT, VALÈRE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je crois qu’elle me vient de donner un soufflet.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Va, coquin, scélérat, sa main vient sur ta joue</l>
+<l>De faire une action dont son père la loue.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Et, nonobstant cela, qu’un diable en cet instant</l>
+<l>M’emporte, si j’ai dit rien que de très constant.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Et, nonobstant cela, qu’on me coupe une oreille</l>
+<l>Si tu portes fort loin une audace pareille !</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Voulez-vous deux témoins qui me justifieront ?</l>
+
+<pagenum num="152"/>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Veux-tu deux de mes gens qui te bâtonneront ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Leur rapport doit au mien donner toute créance.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Leurs bras peuvent du mien réparer l’impuissance.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je vous dis que Lucile agit par honte ainsi.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Je te dis que j’aurai raison de tout ceci.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Connoissez-vous Ormin, ce gros notaire habile ?</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Connois-tu bien Grimpant, le bourreau de la ville ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Et Simon le tailleur, jadis si recherché ?</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Et la potence mise au milieu du marché ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Vous verrez confirmer par eux cet hyménée.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Tu verras achever par eux ta destinée.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Ce sont eux qu’ils ont pris pour témoins de leur foi.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Ce sont eux qui dans peu me vengeront de toi.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Et ces yeux les ont vus s’entre-donner parole.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Et ces yeux te verront faire la capriole<noteref noteid="note.152.1"/>.</l>
+
+<notes>
+  <note id="note.152.1">
+    <p>On dît aujourd’hui <i>cabriole</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Et, pour signe, Lucile avoit un voile noir.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Et, pour signe, ton front nous le fait assez voir.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>O l’obstiné vieillard !</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">O le fourbe damnable !</l>
+<pagenum num="153"/>
+<l>Va, rends grâce à mes ans, qui me font incapable</l>
+<l>De punir sur-le-champ l’affront que tu me fais ;</l>
+<l>Tu n’en perds que l’attente, et je te le promets.</l>
+
+<h3 id="acte3sc11">SCÈNE XI. — VALÈRE, MASCARILLE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Eh bien, ce beau succès que tu devois produire...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>J’entends à demi-mot ce que vous voulez dire :</l>
+<l>Tout s’arme contre moi ; pour moi de tous côtés</l>
+<l>Je vois coups de bâton et gibets apprêtés.</l>
+<l>Aussi, pour être en paix dans ce désordre extrême,</l>
+<l>Je me vais d’un rocher précipiter moi-même,</l>
+<l>Si, dans le désespoir dont mon cœur est outré,</l>
+<l>Je puis en rencontrer d’assez haut à mon gré.</l>
+<l>Adieu, monsieur.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Non, non, ta fuite est superflue :</l>
+<l>Si tu meurs, je prétends que ce soit à ma vue.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je ne saurois mourir quand je suis regardé,</l>
+<l>Et mon trépas ainsi se verroit retardé.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Suis-moi, traître, suis-moi ; mon amour en furie</l>
+<l>Te fera voir si c’est matière à raillerie.</l>
+
+<hstage><speaker>MASCARILLE</speaker>, seul.</hstage>
+<l>Malheureux Mascarille, à quels maux aujourd’hui</l>
+<l>Te vois-tu condamner pour le péché d’autrui !</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte4">ACTE QUATRIÈME</h2>
+
+<h3 id="acte4sc01">SCÈNE I. — ASCAGNE, FROSINE</h3>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>L’aventure est fâcheuse.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Ah ! ma chère Frosine,</l>
+<l>Le sort absolument a conclu ma ruine.</l>
+<l>Cette affaire, venue au point où la voilà,</l>
+<l>N’est pas assurément pour en demeurer là :</l>
+<l>Il faut qu’elle passe outre ; et Lucile et Valère,</l>
+<pagenum num="154"/>
+<l>Surpris des nouveautés d’un semblable mystère,</l>
+<l>Voudront chercher un jour dans ces obscurités</l>
+<l>Par qui tous mes projets se verront avortés.</l>
+<l>Car enfin, soit qu’Albert ait part au stratagème,</l>
+<l>Ou qu’avec tout le monde on l’ait trompé lui-même,</l>
+<l>S’il arrive une fois que mon sort éclairci</l>
+<l>Mette ailleurs tout le bien dont le sien a grossi,</l>
+<l>Jugez s’il aura lieu de souffrir ma présence :</l>
+<l>Son intérêt détruit me laisse à ma naissance ;</l>
+<l>C’est fait de sa tendresse. Et, quelque sentiment,</l>
+<l>Où pour ma fourbe alors pût être mon amant,</l>
+<l>Voudra-t-il avouer pour épouse une fille</l>
+<l>Qu’il verra sans appui de biens et de famille ?</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Je trouve que c’est là raisonner comme il faut ;</l>
+<l>Mais ces réflexions devoient venir plus tôt.</l>
+<l>Qui vous a jusqu’ici caché cette lumière ?</l>
+<l>Il ne falloit pas être une grande sorcière</l>
+<l>Pour voir, dès le moment de vos desseins pour lui,</l>
+<l>Tout ce que votre esprit ne voit que d’aujourd’hui :</l>
+<l>L’action le disoit ; et, dès que je l’ai sue,</l>
+<l>Je n’en ai prévu guère une meilleure issue.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Que dois-je faire enfin ? Mon trouble est sans pareil :</l>
+<l>Mettez-vous en ma place et me donnez conseil.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Ce doit être à vous-même, en prenant votre place,</l>
+<l>A me donner conseil dessus cette disgrâce :</l>
+<l>Car je suis maintenant vous, et vous êtes moi :</l>
+<l>Conseillez-moi, Frosine ; au point où je me voi,</l>
+<l>Quel remède trouver ? Dites, je vous en prie.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Hélas ! ne traitez point ceci de raillerie ;</l>
+<l>C’est prendre peu de part à mes cuisants ennuis</l>
+<l>Que de rire, et de voir les termes où j’en suis.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Ascagne, tout de bon votre ennui m’est sensible,</l>
+<l>Et pour vous en tirer je ferois mon possible.</l>
+<l>Mais que puis-je, après tout ? Je vois fort peu de jour</l>
+<l>A tourner cette affaire au gré de votre amour.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Si rien ne peut m’aider, il faut donc que je meure.</l>
+
+<pagenum num="155"/>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Ah ! pour cela toujours il est assez bonne heure ;</l>
+<l>La mort est un remède à trouver quand on veut ;</l>
+<l>Et l’on s’en doit servir le plus tard que l’on peut.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Non, non, Frosine, non ; si vos conseils propices</l>
+<l>Ne conduisent mon sort parmi ces précipices,</l>
+<l>Je m’abandonne toute aux traits du désespoir.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Savez-vous ma pensée ? Il faut que j’aille voir</l>
+<l>La... Mais Éraste vient, qui pourroit nous distraire.</l>
+<l>Nous pourrons, en marchant, parler de cette affaire.</l>
+<l>Allons, retirons-nous.</l>
+
+<h3 id="acte4sc02">SCÈNE II. — ÉRASTE, GROS-RENÉ</h3>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Encore rebuté ?</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Jamais ambassadeur ne fut moins écouté.</l>
+<l>A peine ai-je voulu lui porter la nouvelle</l>
+<l>Du moment d’entretien que vous souhaitiez d’elle,</l>
+<l>Qu’elle m’a répondu, tenant son quant-à-moi :</l>
+<l>Va, va, je fais état de lui comme de toi ;</l>
+<l>Dis-lui qu’il se promène ; et, sur ce beau langage,</l>
+<l>Pour suivre son chemin, m’a tourné le visage.</l>
+<l>Et Marinette aussi, d’un dédaigneux museau,</l>
+<l>Lâchant un : Laisse-nous, beau valet de carreau !</l>
+<l>M’a planté là comme elle ; et mon sort et le vôtre</l>
+<l>N’ont rien à se pouvoir reprocher l’un à l’autre.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>L’ingrate ! recevoir avec tant de fierté</l>
+<l>Le prompt retour d’un cœur justement emporté !</l>
+<l>Quoi ! le premier transport d’un amour qu’on abuse</l>
+<l>Sous tant de vraisemblance est indigne d’excuse ?</l>
+<l>Et ma plus vive ardeur, en ce moment fatal,</l>
+<l>Devoit être insensible au bonheur d’un rival ?</l>
+<l>Tout autre n’eût pas fait même chose en ma place,</l>
+<l>Et se fût moins laissé surprendre à tant d’audace ?</l>
+<l>De mes justes soupçons suis-je sorti trop tard ?</l>
+<l>Je n’ai point attendu de serments de sa part ;</l>
+<l>Et, lorsque tout le monde encor ne sait qu’en croire,</l>
+<l>Ce cœur impatient lui rend toute sa gloire ;</l>
+<pagenum num="156"/>
+<l>Il cherche à s’excuser ; et le sien voit si peu</l>
+<l>Dans ce profond respect la grandeur de mon feu !</l>
+<l>Loin d’assurer une âme et lui fournir des armes</l>
+<l>Contre ce qu’un rival lui veut donner d’alarmes,</l>
+<l>L’ingrate m’abandonne à mon jaloux transport,</l>
+<l>Et rejette de moi message, écrit, abord !</l>
+<l>Ah ! sans doute un amour a peu de violence,</l>
+<l>Qu’est capable d’éteindre une si foible offense :</l>
+<l>Et ce dépit si prompt à s’armer de rigueur</l>
+<l>Découvre assez pour moi tout le fond de son cœur,</l>
+<l>Et de quel prix doit être à présent à mon âme</l>
+<l>Tout ce dont son caprice a pu flatter ma flamme.</l>
+<l>Non, je ne prétends plus demeurer engagé</l>
+<l>Pour un cœur où je vois le peu de part que j’ai ;</l>
+<l>Et, puisque l’on témoigne une froideur extrême</l>
+<l>A conserver les gens, je veux faire de même.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Et moi de même aussi. Soyons tous deux fâchés,</l>
+<l>Et mettons notre amour au rang des vieux péchés.</l>
+<l>Il faut apprendre à vivre à ce sexe volage,</l>
+<l>Et lui faire sentir que l’on a du courage.</l>
+<l>Qui souffre ses mépris les veut bien recevoir.</l>
+<l>Si nous avions l’esprit de nous faire valoir,</l>
+<l>Les femmes n’auroient pas la parole si haute.</l>
+<l>Oh ! qu’elles nous sont bien fières par notre faute !</l>
+<l>Je veux être pendu, si nous ne les verrions</l>
+<l>Sauter à notre cou plus que nous ne voudrions,</l>
+<l>Sans tous ces vils devoirs dont la plupart des hommes</l>
+<l>Les gâtent tous les jours dans le siècle où nous sommes.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Pour moi, sur toute chose, un mépris me surprend,</l>
+<l>Et, pour punir le sien par un autre aussi grand,</l>
+<l>Je veux mettre en mon cœur une nouvelle flamme.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Et moi, je ne veux plus m’embarrasser de femme ;</l>
+<l>A toutes je renonce, et crois, en bonne foi,</l>
+<l>Que vous feriez fort bien de faire comme moi.</l>
+<l>Car, voyez-vous, la femme est, comme on dit, mon maître,</l>
+<l>Un certain animal difficile à connoître,</l>
+<l>Et de qui la nature est fort encline au mal :</l>
+<l>Et, comme un animal est toujours animal,</l>
+<l>Et ne sera jamais qu’animal, quand sa vie</l>
+<pagenum num="157"/>
+<l>Dureroit cent mille ans ; aussi, sans repartie,</l>
+<l>La femme est toujours femme, et jamais ne sera</l>
+<l>Que femme, tant qu’entier le monde durera.</l>
+<l>D’où vient qu’un certain Grec dit que sa tête passe</l>
+<l>Pour un sable mouvant. Car, goûtez bien, de grâce,</l>
+<l>Ce raisonnement-ci, lequel est des plus forts :</l>
+<l>Ainsi que la tête est comme le chef du corps,</l>
+<l>Et que le corps sans chef est pire qu’une bête ;</l>
+<l>Si le chef n’est pas bien d’accord avec la tête,</l>
+<l>Que tout ne soit pas bien réglé par le compas,</l>
+<l>Nous voyons arriver de certains embarras ;</l>
+<l>La brutale partie alors veut prendre empire</l>
+<l>Dessus la sensitive, et l’on voit que l’un tire</l>
+<l>A dia, l’autre à hurhau ; l’un demande du mou,</l>
+<l>L’autre du dur ; enfin tout va sans savoir où :</l>
+<l>Pour montrer qu’ici-bas, ainsi qu’on l’interprète,</l>
+<l>La tête d’une femme est comme la girouette</l>
+<l>Au haut d’une maison, qui tourne au premier vent ;</l>
+<l>C’est pourquoi le cousin Aristote souvent</l>
+<l>La compare à la mer ; d’où vient qu’on dit qu’au monde</l>
+<l>On ne peut rien trouver de si stable que l’onde.</l>
+<l>Or, par comparaison (car la comparaison</l>
+<l>Nous fait distinctement comprendre une raison,</l>
+<l>Et nous aimons bien mieux, nous autres gens d’étude,</l>
+<l>Une comparaison qu’une similitude),</l>
+<l>Par comparaison donc, mon maître, s’il vous plaît,</l>
+<l>Comme on voit que la mer, quand l’orage s’accroît,</l>
+<l>Vient à se courroucer ; le vent souffle et ravage,</l>
+<l>Les flots contre les flots font un remue-ménage</l>
+<l>Horrible ; et le vaisseau, malgré le nautonier,</l>
+<l>Va tantôt à la cave et tantôt au grenier :</l>
+<l>Ainsi, quand une femme a sa tête fantasque,</l>
+<l>On voit une tempête en forme de bourrasque,</l>
+<l>Qui veut compétiter par de certains... propos ;</l>
+<l>Et lors un... certain vent, qui par... de certains flots</l>
+<l>De... certaine façon, ainsi qu’un banc de sable...</l>
+<l>Quand... Les femmes enfin ne valent pas le diable.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>C’est fort bien raisonner.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Assez bien, Dieu merci.</l>
+<l>Mais je les vois, monsieur, qui passent par ici.</l>
+<l>Tenez-vous ferme, au moins.</l>
+
+<pagenum num="158"/>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Ne te mets pas en peine</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>J’ai bien peur que ses yeux resserrent votre chaîne.</l>
+
+<h3 id="acte4sc03">SCÈNE III. — LUCILE, ÉRASTE, MARINETTE, GROS-RENÉ</h3>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Je l’aperçois encor, mais ne vous rendez point.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Ne me soupçonne pas d’être foible à ce point.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Il vient à nous.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Non, non, ne croyez pas, madame.</l>
+<l>Que je revienne encor vous parler de ma flamme.</l>
+<l>C’en est fait ; je me veux guérir, et connois bien</l>
+<l>Ce que de votre cœur a possédé le mien.</l>
+<l>Un courroux si constant pour l’ombre d’une offense</l>
+<l>M’a trop bien éclairci de votre indifférence,</l>
+<l>Et je dois vous montrer que les traits du mépris</l>
+<l>Sont sensibles surtout aux généreux esprits.</l>
+<l>Je l’avouerai, mes yeux observoient dans les vôtres</l>
+<l>Des charmes qu’ils n’ont point trouvés dans tous les autres,</l>
+<l>Et le ravissement où j’étois de mes fers</l>
+<l>Les auroit préférés à des sceptres offerts.</l>
+<l>Oui, mon amour pour vous, sans doute, étoit extrême ;</l>
+<l>Je vivois tout en vous ; et, je l’avouerai même,</l>
+<l>Peut-être qu’après tout j’aurai, quoique outragé,</l>
+<l>Assez de peine encore à m’en voir dégagé :</l>
+<l>Possible que, malgré la cure qu’elle essaie,</l>
+<l>Mon âme saignera longtemps de cette plaie,</l>
+<l>Et qu’affranchi d’un joug qui faisoit tout mon bien,</l>
+<l>Il faudra me résoudre à n’aimer jamais rien.</l>
+<l>Mais enfin il n’importe ; et, puisque votre haine</l>
+<l>Chasse un cœur tant de fois que l’amour vous ramène,</l>
+<l>C’est la dernière ici des importunités</l>
+<l>Que vous aurez jamais de mes vœux rebutés.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Vous pouvez faire aux miens la grâce tout entière,</l>
+<l>Monsieur, et m’épargner encor cette dernière.</l>
+
+<pagenum num="159"/>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Eh bien, madame, eh bien, ils seront satisfaits,</l>
+<l>Je romps avecque vous, et j’y romps pour jamais,</l>
+<l>Puisque vous le voulez. Que je perde la vie</l>
+<l>Lorsque de vous parler je reprendrai l’envie !</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Tant mieux : c’est m’obliger.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Non, non, n’ayez pas peur</l>
+<l>Que je fausse parole ; eussé-je un foible coeur</l>
+<l>Jusques à n’en pouvoir effacer votre image,</l>
+<l>Croyez que vous n’aurez jamais cet avantage</l>
+<l>De me voir revenir.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l cont="true">Ce seroit bien en vain.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Moi-même de cent coups je percerois mon sein,</l>
+<l>Si j’avois jamais fait cette bassesse insigne,</l>
+<l>De vous revoir après ce traitement indigne.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Soit ; n’en parlons donc plus.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Oui, oui, n’en parlons plus,</l>
+<l>Et, pour trancher ici tous propos superflus,</l>
+<l>Et vous donner, ingrate, une preuve certaine</l>
+<l>Que je veux, sans retour, sortir de votre chaîne,</l>
+<l>Je ne veux rien garder qui puisse retracer</l>
+<l>Ce que de mon esprit il me faut effacer.</l>
+<l>Voici votre portrait : il présente à la vue</l>
+<l>Cent charmes éclatants dont vous êtes pourvue ;</l>
+<l>Mais ils cachent sous eux cent défauts aussi grands,</l>
+<l>Et c’est un imposteur enfin que je vous rends.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Bon.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l cont="true">Et moi, pour vous suivre au dessein de tout rendre,</l>
+<l>Voilà le diamant que vous m’aviez fait prendre.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Fort bien.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Il est à vous encor, ce bracelet.</l>
+
+<pagenum num="160"/>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Et cette agate à vous, qu’on fit mettre en cachet.</l>
+
+<hstage><speaker>ÉRASTE</speaker> lit.</hstage>
+<l class='c'>« Vous m’aimez d’une amour extrême,</l>
+<l class='c'>« Éraste, et de mon cœur voulez être éclairci :</l>
+<l class='c'>« Si je n’aime Éraste de même,</l>
+<l class='c'>« Au moins aimé-je fort qu’Éraste m’aime ainsi.</l>
+<l class='r3'>« L<s>UCILE</s>. »</l>
+<l>Vous m’assuriez par là d’agréer mon service ;</l>
+<l>C’est une fausseté digne de ce supplice.</l>
+<pstage>Il déchire la lettre.</pstage>
+
+<hstage><speaker>LUCILE</speaker> lit.</hstage>
+<l class='c'>« J’ignore le destin de mon amour ardente,</l>
+<l class='c'>« Et jusqu’à quand je souffrirai ;</l>
+<l class='c'>« Mais je sais, ô beauté charmante !</l>
+<l class='c'>« Que toujours je vous aimerai.</l>
+<l class='r3'>« É<s>RASTE</s>. »</l>
+<l>Voilà qui m’assuroit à jamais de vos feux ;</l>
+<l>Et la main et la lettre ont menti toutes deux.</l>
+<pstage>Elle déchire la lettre.</pstage>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Poussez.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Elle est de vous. Suffit, même fortune.</l>
+
+<hstage><speaker>MARINETTE</speaker>, à Lucile.</hstage>
+<l>Ferme !</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l cont="true">J’aurois regret d’en épargner aucune.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker>, à Éraste.</hstage>
+<l>N’ayez pas le dernier.</l>
+
+<hstage><speaker>MARINETTE</speaker>, à Lucile.</hstage>
+<l cont="true">Tenez bon jusqu’au bout,</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Enfin, voilà le reste.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Et, grâce au ciel, c’est tout.</l>
+<l>Que sois-je exterminé, si je ne tiens parole !</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Me confonde le ciel, si la mienne est frivole !</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Adieu donc.</l>
+
+<pagenum num="161"/>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l cont="true">Adieu donc.</l>
+
+<hstage><speaker>MARINETTE</speaker>, à Lucile.</hstage>
+<l>Voilà qui va des mieux.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker>, à Éraste.</hstage>
+<l>Vous triomphez.</l>
+
+<hstage><speaker>MARINETTE</speaker>, à Lucile.</hstage>
+<l>Allons, ôtez-vous de ses yeux.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker>, à Éraste.</hstage>
+<l>Retirez-vous après cet effort de courage.</l>
+
+<hstage><speaker>MARINETTE</speaker>, à Lucile.</hstage>
+<l>Qu’attendez-vous encor ?</l>
+
+<hstage><speaker>GROS-RENÉ</speaker>, à Éraste.</hstage>
+<l>Que faut-il davantage ?</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Ah ! Lucile, Lucile, un cœur comme le mien</l>
+<l>Se fera regretter ; et je le sais fort bien.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Éraste, Éraste, un cœur fait comme est fait le vôtre</l>
+<l>Se peut facilement réparer par un autre.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Non, non ; cherchez partout, vous n’en aurez jamais</l>
+<l>De si passionné pour vous, je vous promets.</l>
+<l>Je ne dis pas cela pour vous rendre attendrie ;</l>
+<l>J’aurois tort d’en former encore quelque envie.</l>
+<l>Mes plus ardents respects n’ont pu vous obliger ;</l>
+<l>Vous avez voulu rompre ; il n’y faut plus songer.</l>
+<l>Mais personne, après moi, quoi qu’on vous fasse entendre,</l>
+<l>N’aura jamais pour vous de passion si tendre.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Quand on aime les gens, on les traite autrement ;</l>
+<l>On fait de leur personne un meilleur jugement.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Quand on aime les gens, on peut, de jalousie,</l>
+<l>Sur beaucoup d’apparence, avoir l’âme saisie ;</l>
+<l>Mais, alors qu’on les aime, on ne peut en effet</l>
+<l>Se résoudre à les perdre ; et vous, vous l’avez fait.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>La pure jalousie est plus respectueuse.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>On voit d’un œil plus doux une offense amoureuse.</l>
+
+<pagenum num="162"/>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Non, votre cœur, Éraste, étoit mal enflammé.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Non, Lucile, jamais vous ne m’avez aimé.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Eh ! je crois que cela foiblement vous soucie.</l>
+<l>Peut-être en seroit-il beaucoup mieux pour ma vie.</l>
+<l>Si je... Mais laissons là ces discours superflus :</l>
+<l>Je ne dis point quels sont mes pensers là-dessus.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Pourquoi ?</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l cont="true">Par la raison que nous rompons ensemble</l>
+<l>Et que cela n’est plus de saison, ce me semble.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Nous rompons ?</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l cont="true">Oui, vraiment : quoi ! n’en est-ce pas fait ?</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Et vous voyez cela d’un esprit satisfait ?</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Comme vous.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Comme moi ?</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l cont="true">Sans doute. C’est foiblesse</l>
+<l>De faire voir aux gens que leur perte nous blesse.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Mais, cruelle, c’est vous qui l’avez bien voulu,</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Moi ? point du tout. C’est vous qui l’avez résolu.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Moi ? je vous ai cru là faire un plaisir extrême.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Point ; vous avez voulu vous contenter vous-même.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Mais, si mon cœur encor revouloit sa prison ;</l>
+<l>Si, tout fâché qu’il est, il demandoit pardon ?...</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Non, non, n’en faites rien ; ma foiblesse est trop grande ;</l>
+<l>J’aurois peur d’accorder trop tôt votre demande.</l>
+
+<pagenum num="163"/>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Ah ! vous ne pouvez pas trop tôt me l’accorder,</l>
+<l>Ni moi sur cette peur trop tôt le demander :</l>
+<l>Consentez-y, madame ; une flamme si belle</l>
+<l>Doit, pour votre intérêt, demeurer immortelle.</l>
+<l>Je le demande enfin ; me l’accorderez-vous,</l>
+<l>Ce pardon obligeant ?</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l cont="true">Remenez-moi chez nous.</l>
+
+<h3 id="acte4sc04">SCÈNE IV. MARINETTE, GROS-RENÉ</h3>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Oh ! la lâche personne !</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Ah ! le foible courage !</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>J’en rougis de dépit !</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">J’en suis gonflé de rage !</l>
+<l>Ne t’imagine pas que je me rende ainsi.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Et ne pense pas, toi, trouver ta dupe aussi.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Viens, viens frotter ton nez auprès de ma colère.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Tu nous prends pour une autre, et tu n’as pas affaire</l>
+<l>A ma sotte maîtresse. Ardez le beau museau<noteref noteid="note.163.1"/>,</l>
+<l>Pour nous donner envie encore de sa peau !</l>
+<l>Moi, j’aurois de l’amour pour ta chienne de face !</l>
+<l>Moi, je te chercherois ! Ma foi ! l’on t’en fricasse</l>
+<l>Des filles comme nous !</l>
+
+<notes>
+  <note id="note.163.1">
+    <p><i>Ardez</i>, abréviation de <i>regardez</i>.</p>
+  </note>
+</notes>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Oui ! tu le prends par là !</l>
+<l>Tiens, tiens, sans y chercher tant de façon, voilà</l>
+<l>Ton beau galand<noteref noteid="note.163.2"/> de neige, avec ta nonpareille ;</l>
+<l>Il n’aura plus l’honneur d’être sur mon oreille.</l>
+
+<notes>
+  <note id="note.163.2">
+    <p>Nœud de ruban, <i>nonpareille</i>, ruban étroit.</p>
+  </note>
+</notes>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Et toi, pour te montrer que tu m’es à mépris,</l>
+<pagenum num="164"/>
+<l>Voilà ton demi cent d’aiguilles de Paris,</l>
+<l>Que tu me donnas hier avec tant de fanfare.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Tiens encor ton couteau. La pièce est riche et rare :</l>
+<l>Il te coûta six blancs lorsque tu m’en fis don.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Tiens tes ciseaux avec ta chaîne de laiton.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>J’oubliois d’avant-hier ton morceau de fromage,</l>
+<l>Tiens. Je voudrois pouvoir rejeter le potage</l>
+<l>Que tu me fis manger, pour n’avoir rien de toi.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Je n’ai point maintenant de tes lettres sur moi ;</l>
+<l>Mais j’en ferai du feu jusques à la dernière.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Et des tiennes tu sais ce que j’en saurai faire.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Prends garde à ne venir jamais me reprier.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Pour couper tout chemin à nous repatrier,</l>
+<l>Il faut rompre la paille. Une paille rompue</l>
+<l>Rend, entre gens d’honneur, une affaire conclue.</l>
+<l>Ne fais point les doux yeux ; je veux être fâché.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Ne me lorgne point, toi, j’ai l’esprit trop touché.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Romps : voilà le moyen de ne s’en plus dédire :</l>
+<l>Romps. Tu ris, bonne bête !</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Oui, car tu me fais rire.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>La peste soit ton ris ! Voilà tout mon courroux</l>
+<l>Déjà dulcifié. Qu’en dis-tu ? romprons-nous,</l>
+<l>Ou ne romprons-nous pas ?</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Vois.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Vois, toi.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Vois toi-même.</l>
+
+<pagenum num="165"/>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Est-ce que tu consens que jamais je ne t’aime ?</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Moi ? ce que tu voudras.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Ce que tu voudras, toi.</l>
+<l>Dis.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Je ne dirai rien.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Ni moi non plus.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Ni moi.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Ma foi, nous ferons mieux de quitter la grimace.</l>
+<l>Touche, je te pardonne.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Et moi, je te fais grâce.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Mon Dieu ! qu’à tes appas je suis acoquiné !</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Que Marinette est sotte après son Gros-René !</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte5">ACTE CINQUIÈME</h2>
+
+<h3 id="acte5sc01">SCÈNE I. — MASCARILLE, <i>seul</i>.</h3>
+
+<l>« Dès que l’obscurité régnera dans la ville,</l>
+<l>« Je me veux introduire au logis de Lucile ;</l>
+<l>« Va vite de ce pas préparer pour tantôt,</l>
+<l>« Et la lanterne sourde et les armes qu’il faut. »</l>
+<l>Quand il m’a dit ces mots, il m’a semblé d’entendre :</l>
+<l>Va vitement chercher un licou pour te pendre.</l>
+<l>Venez çà, mon patron ; car, dans l’étonnement</l>
+<l>Où m’a jeté d’abord un tel commandement,</l>
+<l>Je n’ai pas eu le temps de vous pouvoir répondre ;</l>
+<l>Mais je vous veux ici parler, et vous confondre :</l>
+<l>Défendez-vous donc bien, et raisonnons sans bruit.</l>
+<l>Vous voulez, dites-vous, aller voir cette nuit</l>
+<l>Lucile ? « Oui, Mascarille. » Et que pensez-vous faire ?</l>
+<pagenum num="166"/>
+<l>« Une action d’amant qui se veut satisfaire. »</l>
+<l>Une action d’un homme à fort petit cerveau,</l>
+<l>Que d’aller sans besoin risquer ainsi sa peau.</l>
+<l>« Mais tu sais quel motif à ce dessein m’appelle ;</l>
+<l>« Lucile est irritée. » Eh bien, tant pis pour elle.</l>
+<l>« Mais l’amour veut que j’aille apaiser son esprit. »</l>
+<l>Mais l’amour est un sot qui ne sait ce qu’il dit.</l>
+<l>Nous garantira-t-il, cet amour, je vous prie,</l>
+<l>D’un rival, ou d’un père, ou d’un frère en furie ?</l>
+<l>« Penses-tu qu’aucun d’eux songe à nous faire mal ? »</l>
+<l>Oui, vraiment, je le pense ; et surtout ce rival.</l>
+<l>« Mascarille, en tout cas, l’espoir où je me fonde,</l>
+<l>« Nous irons bien armés ; et, si quelqu’un nous gronde,</l>
+<l>« Nous nous chamaillerons. » Oui ? voilà justement</l>
+<l>Ce que votre valet ne prétend nullement.</l>
+<l>Moi, chamailler, bon Dieu ! Suis-je un Roland, mon maître,</l>
+<l>Ou quelque Ferragus ? C’est fort mal me connoître.</l>
+<l>Quand je viens à songer, moi, qui me suis si cher.</l>
+<l>Qu’il ne faut que deux doigts d’un misérable fer</l>
+<l>Dans le corps, pour vous mettre un humain dans la bière,</l>
+<l>Je suis scandalisé d’une étrange manière.</l>
+<l>« Mais tu seras armé de pied en cap. » Tant pis !</l>
+<l>J’en serai moins léger à gagner le taillis<noteref noteid="note.166.1"/> ;</l>
+<l>Et, de plus, il n’est point d’armure si bien jointe</l>
+<l>Où ne puisse glisser une vilaine pointe.</l>
+<l>« Oh ! tu seras ainsi tenu pour un poltron ! »</l>
+<l>Soit, pourvu que toujours je branle le menton<noteref noteid="note.166.2"/>.</l>
+<l>A table comptez-moi, si vous voulez, pour quatre ;</l>
+<l>Mais comptez-moi pour rien s’il s’agit de se battre.</l>
+<l>Enfin, si l’autre monde a des charmes pour vous,</l>
+<l>Pour moi, je trouvé l’air de celui-ci fort doux.</l>
+<l>Je n’ai pas grande faim de mort ni de blessure,</l>
+<l>Et vous ferez le sot tout seul, je vous assure.</l>
+
+<notes>
+  <note id="note.166.1">
+    <p>C’est-à-dire <i>gagner un bois pour échapper à un danger</i>.</p>
+  </note>
+  <note id="note.166.2">
+    <p>Pourvu que je puisse manger.</p>
+  </note>
+</notes>
+
+<h3 id="acte5sc02">SCÈNE II. — VALÈRE, MASCARILLE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Je n’ai jamais trouvé de jour plus ennuyeux :</l>
+<l>Le soleil semble s’être oublié dans les cieux ;</l>
+<l>Et jusqu’au lit qui doit recevoir sa lumière</l>
+<l>Je vois rester encore une telle carrière,</l>
+<pagenum num="167"/>
+<l>Que je crois que jamais il ne l’achèvera,</l>
+<l>Et que de sa lenteur mon âme enragera.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Et cet empressement pour s’en aller dans l’ombre</l>
+<l>Pêcher vite à tâtons quelque sinistre encombre...</l>
+<l>Vous voyez que Lucile, entière en ses rebuts...</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Ne me fais point ici de contes superflus.</l>
+<l>Quand j’y devrois trouver cent embûches mortelles</l>
+<l>Je sens de son courroux des gênes trop cruelles ;</l>
+<l>Et je veux l’adoucir, ou terminer mon sort,</l>
+<l>C’est un point résolu.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">J’approuve ce transport ;</l>
+<l>Mais le mal, est, monsieur, qu’il faudra s’introduire</l>
+<l>En cachette.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Fort bien.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Et j’ai peur de vous nuire.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Et comment ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Une toux me tourmente à mourir,</l>
+<l>Dont le bruit importun vous fera découvrir,</l>
+<pstage>Il tousse.</pstage>
+<l>De moment en moment. Vous voyez le supplice.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Ce mal te passera, prends du jus de réglisse.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Je ne crois pas, monsieur, qu’il se veuille passer.</l>
+<l>Je serois ravi, moi, de ne vous point laisser ;</l>
+<l>Mais j’aurois un regret mortel, si j’étois cause</l>
+<l>Qu’il fût à mon cher maître arrivé quelque chose.</l>
+
+<h3 id="acte5sc03">SCÈNE III. — VALÈRE, LA RAPIÈRE, MASCARILLE</h3>
+
+<hstage><speaker>LA RAPIÈRE</speaker></hstage>
+<l>Monsieur, de bonne part, je viens d’être informé,</l>
+<l>Qu’Éraste est contre vous fortement animé,</l>
+<l>Et qu’Albert parle aussi de faire pour sa fille</l>
+<l>Rouer jambes et bras à votre Mascarille.</l>
+<pagenum num="168"/>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Moi ! je ne suis pour rien dans tout cet embarras.</l>
+<l>Qu’ai-je fait pour me voir rouer jambes et bras ?</l>
+<l>Suis-je donc gardien, pour employer ce style,</l>
+<l>De la virginité des filles de la ville ?</l>
+<l>Sur la tentation ai-je quelque crédit ?</l>
+<l>Et puis-je mais, chétif, si le cœur leur en dit ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Oh ! qu’ils ne seront pas si méchants qu’ils le disent !</l>
+<l>Et, quelque belle ardeur que ses feux lui produisent,</l>
+<l>Éraste n’aura pas si bon marché de nous.</l>
+
+<hstage><speaker>LA RAPIÈRE</speaker></hstage>
+<l>S’il vous faisoit besoin, mon bras est tout à vous.</l>
+<l>Vous savez de tout temps que je suis un bon frère.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Je vous suis obligé, monsieur de la Rapière.</l>
+
+<hstage><speaker>LA RAPIÈRE</speaker></hstage>
+<l>J’ai deux amis encor que je vous puis donner,</l>
+<l>Qui contre tous venants sont gens à dégainer,</l>
+<l>Et sur qui vous pourrez prendre toute assurance.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Acceptez-les, monsieur.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">C’est trop de complaisance.</l>
+
+<hstage><speaker>LA RAPIÈRE</speaker></hstage>
+<l>Le petit Gile encore eût pu nous assister,</l>
+<l>Sans le triste accident qui vient de nous l’ôter.</l>
+<l>Monsieur, le grand dommage ! et l’homme de service !</l>
+<l>Vous avez su le tour que lui fit la justice,</l>
+<l>Il mourut en César, et, lui cassant les os,</l>
+<l>Le bourreau ne lui put faire lâcher deux mots.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Monsieur de la Rapière, un homme de la sorte</l>
+<l>Doit être regretté ; mais, quant à votre escorte,</l>
+<l>Je vous rends grâces.</l>
+
+<hstage><speaker>LA RAPIÈRE</speaker></hstage>
+<l cont="true">Soit ; mais soyez averti</l>
+<l>Qu’il vous cherche, et vous peut faire un mauvais parti.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Et moi, pour vous montrer combien je l’appréhende,</l>
+<pagenum num="169"/>
+<l>Je lui veux, s’il me cherche, offrir ce qu’il demande,</l>
+<l>Et par toute la ville aller présentement,</l>
+<l>Sans être accompagné que de lui seulement.</l>
+
+<h3 id="acte5sc04">SCÈNE IV. — VALÈRE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Quoi ! monsieur, vous voulez tenter Dieu ? Quelle audace !</l>
+<l>Las ! vous voyez tous deux comme l’on nous menace ;</l>
+<l>Combien de tous côtés...</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont='true'>Que regardes-tu là ?</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>C’est qu’il sent le bâton du côté que voilà.</l>
+<l>Enfin, si maintenant ma prudence en est crue,</l>
+<l>Ne nous obstinons point à rester dans la rue ;</l>
+<l>Allons nous renfermer.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Nous renfermer, faquin !</l>
+<l>Tu m’oses proposer un acte de coquin ?</l>
+<l>Sus, sans plus de discours, résous-toi de me suivre.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Eh ! monsieur mon cher maître, il est si doux de vivre !</l>
+<l>On ne meurt qu’une fois, et c’est pour si longtemps !...</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Je m’en vais t’assommer de coups, si je t’entends !</l>
+<l>Ascagne vient ici, laissons-le, il faut attendre</l>
+<l>Quel parti de lui-même il résoudra de prendre.</l>
+<l>Cependant avec moi viens prendre à la maison,</l>
+<l>Pour nous frotter...</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Je n’ai nulle démangeaison.</l>
+<l>Que maudit soit l’amour, et les filles maudites</l>
+<l>Qui veulent en tâter, puis font les chattemites !</l>
+
+<h3 id="acte5sc05">SCÈNE V. — ASCAGNE, FROSINE</h3>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Est-il bien vrai, Frosine, et ne rêvé-je point ?</l>
+<l>De grâce, contez-moi bien tout de point en point.</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Vous en saurez assez le détail, laissez faire.</l>
+<l>Ces sortes d’incidents ne sont, pour l’ordinaire,</l>
+<pagenum num="170"/>
+<l>Que redis trop de fois de moment en moment.</l>
+<l>Suffit que vous sachiez qu’après ce testament</l>
+<l>Qui vouloit un garçon pour tenir sa promesse,</l>
+<l>De la femme d’Albert la dernière grossesse</l>
+<l>N’accoucha que de vous, et que lui, dessous main,</l>
+<l>Ayant depuis longtemps concerté son dessein,</l>
+<l>Fit son fils de celui d’Ignès la bouquetière,</l>
+<l>Qui vous donna pour sienne à nourrir à ma mère</l>
+<l>La mort ayant ravi ce petit innocent</l>
+<l>Quelque dix mois après, Albert étant absent,</l>
+<l>La crainte d’un époux et l’amour maternelle</l>
+<l>Firent l’événement d’une ruse nouvelle.</l>
+<l>Sa femme en secret lors se rendit son vrai sang ;</l>
+<l>Vous devîntes celui qui tenoit votre rang ;</l>
+<l>Et la mort de ce fils, mis dans votre famille,</l>
+<l>Se couvrit pour Albert de celle de sa fille.</l>
+<l>Voilà de votre sort un mystère éclairci,</l>
+<l>Que votre feinte mère a caché jusqu’ici ;</l>
+<l>Elle en dit des raisons, et peut en avoir d’autres,</l>
+<l>Par qui ses intérêts n’étoient pas tous les vôtres.</l>
+<l>Enfin cette visite, où j’espérois si peu,</l>
+<l>Plus qu’on ne pouvait croire a servi votre feu.</l>
+<l>Cette Ignés vous relâche, et, par votre autre affaire,</l>
+<l>L’éclat de son secret devenu nécessaire,</l>
+<l>Nous en avons nous deux votre père informé.</l>
+<l>Un billet de sa femme a le tout confirmé :</l>
+<l>Et, poussant plus avant encore notre pointe,</l>
+<l>Quelque peu de fortune à notre adresse jointe,</l>
+<l>Aux intérêts d’Albert, de Polidore, après,</l>
+<l>Nous avons ajusté si bien les intérêts,</l>
+<l>Si doucement à lui déplié ces mystères,</l>
+<l>Pour n’effaroucher pas d’abord trop les affaires,</l>
+<l>Enfin, pour dire tout, mené si prudemment</l>
+<l>Son esprit pas à pas à l’accommodement,</l>
+<l>Qu’autant que votre père il montre de tendresse</l>
+<l>A confirmer les nœuds qui font votre allégresse.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Ah ! Frosine, la joie où vous m’acheminez...</l>
+<l>Eb ! que ne dois-je point à vos soins fortunés ?</l>
+
+<hstage><speaker>FROSINE</speaker></hstage>
+<l>Au reste, le bonhomme est en humeur de rire,</l>
+<l>Et pour son fils encor nous défend de rien dire.</l>
+
+<pagenum num="171"/>
+
+<h3 id="acte5sc06">SCÈNE VI. — POLIDORE, ASCAGNE, FROSINE</h3>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Approchez-vous, ma fille : un tel nom m’est permis</l>
+<l>Et j’ai su le secret que cachoient ces habits.</l>
+<l>Vous avez tait un trait qui, dans sa hardiesse,</l>
+<l>Fait briller tant d’esprit et tant de gentillesse,</l>
+<l>Que je vous en excuse, et tiens mon fils heureux</l>
+<l>Quand il saura l’objet de ses soins amoureux.</l>
+<l>Vous valez tout un monde, et c’est moi qui l’assure.</l>
+<l>Mais le voici ; prenons plaisir de l’aventure,</l>
+<l>Allez taire venir tous vos gens promptement.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Vous obéir sera mon premier compliment.</l>
+
+<h3 id="acte5sc07">SCÈNE VII. — POLIDORE, VALÈRE, MASCARILLE</h3>
+
+<hstage><speaker>MASCARILLE</speaker>, à Valère.</hstage>
+<l>Les disgrâces souvent sont du ciel révélées.</l>
+<l>J’ai songé cette nuit de perles défilées</l>
+<l>Et d’œufs cassés ; monsieur, un tel songe m’abat.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Chien de poltron !</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l cont="true">Valère, il s’apprête un combat</l>
+<l>Où toute ta valeur te sera nécessaire.</l>
+<l>Tu vas avoir en tête un puissant adversaire.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Et personne, monsieur, qui se veuille bouger</l>
+<l>Pour retenir des gens qui se vont égorger !</l>
+<l>Pour moi, je le veux bien ; mais, au moins, s’il arrive</l>
+<l>Qu’un funeste accident de votre fils vous prive,</l>
+<l>Ne m’en accusez point.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l cont="true">Non, non ; en cet endroit,</l>
+<l>Je le pousse moi-même à faire ce qu’il doit,</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Père dénaturé !</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Ce sentiment, mon père,</l>
+<l>Est d’un homme de cœur, et je vous en révère.</l>
+<l>J’ai dû vous offenser, et je suis criminel</l>
+<l>D’avoir fait tout ceci sans l’aveu paternel ;</l>
+<pagenum num="172"/>
+<l>Mais, à quelque dépit que ma faute vous porte,</l>
+<l>La nature toujours se montre la plus forte,</l>
+<l>Et votre honneur fait bien, quand il ne veut pas voir</l>
+<l>Que le transport d’Éraste ait de quoi m’émouvoir.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>On me faisoit tantôt redouter sa menace ;</l>
+<l>Mais les choses depuis ont bien changé de face ;</l>
+<l>Et, sans le pouvoir fuir, d’un ennemi plus fort</l>
+<l>Tu vas être attaqué.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Point de moyen d’accord ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Moi, le fuir ! Dieu m’en garde ! Et qui donc pourroit-ce être ?</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Ascagne.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Ascagne ?</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l cont="true">Oui, tu le vas voir paroître.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Lui, qui de me servir m’avoit donné sa foi !</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Oui, c’est lui qui prétend avoir affaire à toi,</l>
+<l>Et qui veut, dans le champ où l’honneur vous appelle,</l>
+<l>Qu’un combat seul à seul vide votre querelle.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>C’est un brave homme ; il sait que les cœurs généreux</l>
+<l>Ne mettent point les gens en compromis pour eux.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Enfin, d’une imposture ils te rendent coupable,</l>
+<l>Dont le ressentiment m’a paru raisonnable ;</l>
+<l>Si bien qu’Albert et moi sommes tombés d’accord</l>
+<l>Que tu satisferois Ascagne sur ce tort,</l>
+<l>Mais aux yeux d’un chacun, et sans nulles remises</l>
+<l>Dans les formalités en pareil cas requises.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Et Lucile, mon père, a, d’un cœur endurci...</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Lucile épouse Éraste, et te condamne aussi.</l>
+<l>Et, pour convaincre mieux tes discours d’injustice,</l>
+<l>Veut qu’à tes propres yeux cet hymen s’accomplisse.</l>
+
+<pagenum num="173"/>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Ah ! c’est une imprudence à me mettre en fureur !</l>
+<l>Elle a donc perdu sens, foi, conscience, honneur !</l>
+
+<h3 id="acte5sc08">SCÈNE VIII. — ALBERT, POLIDORE, LUCILE, ÉRASTE, VALÈRE, MASCARILLE</h3>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Eh bien, les combattants ? On amène le nôtre.</l>
+<l>Avez-vous disposé le courage du vôtre ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Oui, oui, me voilà prêt, puisqu’on m’y veut forcer ;</l>
+<l>Et, si j’ai pu trouver sujet de balancer,</l>
+<l>Un reste de respect en pouvoit être cause,</l>
+<l>Et non pas la valeur du bras que l’on m’oppose.</l>
+<l>Mais c’est trop me pousser, ce respect est à bout ;</l>
+<l>A toute extrémité mon esprit se résout,</l>
+<l>Et l’on fait voir un trait de perfidie étrange,</l>
+<l>Dont il faut hautement que mon amour se venge.</l>
+<pstage>A Lucile.</pstage>
+<l>Non pas que cet amour prétende encore à vous :</l>
+<l>Tout son feu se résout en ardeur de courroux ;</l>
+<l>Et, quand j’aurai rendu votre honte publique,</l>
+<l>Votre coupable hymen n’aura rien qui me pique.</l>
+<l>Allez, ce procédé, Lucile, est odieux :</l>
+<l>A peine en puis-je croire au rapport de mes yeux ;</l>
+<l>C’est de toute pudeur se montrer ennemie,</l>
+<l>Et vous devriez mourir d’une telle infamie.</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>Un semblable discours me pourroit affliger,</l>
+<l>Si je n’avois en main qui m’en saura venger.</l>
+<l>Voici venir Ascagne : il aura l’avantage</l>
+<l>De vous faire changer bien vite de langage,</l>
+<l>Et sans beaucoup d’effort.</l>
+
+<h3 id="acte5sc09">SCÈNE IX. — ALBERT, POLIDORE, ASCAGNE, LUCIE, ÉRASTE, VALÈRE, FROSINE, MARINETTE, GROS-RENÉ, MASCARILLE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Il ne le fera pas,</l>
+<l>Quand il joindrait au sien encor vingt autres bras.</l>
+<l>Je le plains de défendre une sœur criminelle :</l>
+<pagenum num="174"/>
+<l>Mais, puisque son erreur me veut faire querelle,</l>
+<l>Nous le satisferons, et vous, mon brave, aussi.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Je prenois intérêt tantôt à tout ceci ;</l>
+<l>Mais enfin, comme Ascagne a pris sur lui l’affaire,</l>
+<l>Je ne m’en mêle plus, et je le laisse faire,</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>C’est bien fait ; la prudence est toujours de saison.</l>
+<l>Mais...</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l cont="true">Il saura pour tous vous mettre à la raison.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Lui ?</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l cont="true">Ne t’y trompe pas, tu ne sais pas encore</l>
+<l>Quel étrange garçon est Ascagne.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Il l’ignore ;</l>
+<l>Mais il pourra dans peu le lui faire savoir.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Sus donc, que maintenant il me le fasse voir.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Aux yeux de tous ?</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l cont="true">Cela ne seroit pas honnête.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Se moque-t-on de moi ? Je casserai la tête</l>
+<l>A quelqu’un des rieurs. Enfin, voyons l’effet.</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l>Non, non, je ne suis pas si méchant qu’on me fait,</l>
+<l>Et, dans cette aventure où chacun m’intéresse,</l>
+<l>Vous allez voir plutôt éclater ma foiblesse,</l>
+<l>Connoître que le ciel, qui dispose de nous,</l>
+<l>Ne me fit pas un cœur pour tenir contre vous,</l>
+<l>Et qu’il vous réservoit, pour victoire facile,</l>
+<l>De finir le destin du frère de Lucile.</l>
+<l>Oui, bien loin de vanter le pouvoir de mon bras,</l>
+<l>Ascagne va par vous recevoir le trépas :</l>
+<l>Mais il veut bien mourir, si sa mort nécessaire</l>
+<l>Peut avoir maintenant de quoi vous satisfaire,</l>
+<l>En vous donnant pour femme, en présence de tous,</l>
+<pagenum num="175"/>
+<l>Celle qui justement ne peut être qu’à vous.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Non quand toute la terre, après sa perfidie</l>
+<l>Et les traits effrontés</l>
+
+<hstage><speaker>ASCAGNE</speaker></hstage>
+<l cont="true">Ah ! souffrez que je die,</l>
+<l>Valère, que le cœur qui vous est engagé</l>
+<l>D’aucun crime envers vous ne peut être chargé :</l>
+<l>Sa flamme est toujours pure et sa constance extrême,</l>
+<l>Et j’en prends à témoin votre père lui-même.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Oui, mon fils, c’est assez rire de ta fureur,</l>
+<l>Et je vois qu’il est temps de te tirer d’erreur.</l>
+<l>Celle à qui par serment ton âme est attachée</l>
+<l>Sous l’habit que tu vois à tes yeux est cachée ;</l>
+<l>Un intérêt de bien, dès ses plus jeunes ans,</l>
+<l>Fit ce déguisement qui trompe tant de gens ;</l>
+<l>Et, depuis peu, l’amour en a su faire un autre</l>
+<l>Qui t’abusa, joignant leur famille à la nôtre.</l>
+<l>Ne va point regarder à tout le monde aux yeux ;</l>
+<l>Je te fais maintenant un discours sérieux.</l>
+<l>Oui, c’est elle, en un mot, dont l’adresse subtile,</l>
+<l>La nuit, reçut ta foi sous le nom de Lucile,</l>
+<l>Et qui, par ce ressort qu’on ne comprenoit pas,</l>
+<l>A semé parmi vous un si grand embarras.</l>
+<l>Mais, puisque Ascagne ici fait place à Dorothée,</l>
+<l>Il faut voir de vos feux toute imposture ôtée,</l>
+<l>Et qu’un nœud plus sacré donne force au premier.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Et c’est là justement ce combat singulier</l>
+<l>Qui devoit envers nous réparer votre offense,</l>
+<l>Et pour qui les édits n’ont point fait de défense.</l>
+
+<hstage><speaker>POLIDORE</speaker></hstage>
+<l>Un tel événement rend tes esprits confus,</l>
+<l>Mais en vain tu voudrois balancer là dessus.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Non, non, je ne veux pas songer à m’en défendre,</l>
+<l>Et, si cette aventure a lieu de me surprendre,</l>
+<l>La surprise me flatte, et je me sens saisir</l>
+<l>De merveille<noteref noteid="note.175.1"/> à la fois, d’amour et de plaisir.</l>
+<l>Se peut-il que ces yeux.,.</l>
+
+<notes>
+  <note id="note.175.1">
+    <p><i>Merveille</i> dans le sens d’<i>admiration, étonnement</i>.</p>
+  </note>
+</notes>
+
+<pagenum num="176"/>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l cont="true">Cet habit, cher Valère,</l>
+<l>Souffre mal les discours que vous lui pourriez faire.</l>
+<l>Allons lui faire en prendre un autre, et cependant</l>
+<l>Vous saurez le détail de tout cet incident.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Vous, Lucile, pardon, si mon âme abusée...</l>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<l>L’oubli de cette injure est une chose aisée.</l>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Allons, ce compliment se fera bien chez nous,</l>
+<l>Et nous aurons loisir de nous en faire tous.</l>
+
+<hstage><speaker>ÉRASTE</speaker></hstage>
+<l>Mais vous ne songez pas, en tenant ce langage,</l>
+<l>Qu’il reste encore ici des sujets de carnage.</l>
+<l>Voilà bien à tous deux notre amour couronné ;</l>
+<l>Mais de son Mascarille et de mon Gros-René</l>
+<l>Par qui doit Marinette être ici possédée ?</l>
+<l>Il faut que par le sang l’affaire soit vidée.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Nenni, nenni, mon sang dans mon corps sied trop bien</l>
+<l>Qu’il l’épouse en repos, cela ne me fait rien.</l>
+<l>De l’humeur que je sais la chère Marinette,</l>
+<l>L’hymen ne ferme pas la porte à la fleurette.</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Et tu crois que de toi je ferois mon galant ?</l>
+<l>Un mari, passe encor ; tel qu’il est, on le prend ;</l>
+<l>On n’y va pas chercher tant de cérémonie :</l>
+<l>Mais il faut qu’un galant soit fait à faire envie.</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Écoute : quand l’hymen aura joint nos deux peaux,</l>
+<l>Je prétends qu’on soit sourde à tous les damoiseaux.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l>Tu crois te marier pour toi tout seul, compère ?</l>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<l>Bien entendu : je veux une femme sévère,</l>
+<l>Ou je ferai beau bruit.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">Eh, mon Dieu ! tu feras</l>
+<l>Comme les autres font, et tu t’adouciras.</l>
+<l>Ces gens, avant l’hymen, si fâcheux et critiques,</l>
+<l>Dégénèrent souvent en maris pacifiques.</l>
+
+<pagenum num="177"/>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l>Va, va, petit mari, ne crains rien de ma foi ;</l>
+<l>Les douceurs ne feront que blanchir contre moi,</l>
+<l>Et je te dirai tout.</l>
+
+<hstage><speaker>MASCARILLE</speaker></hstage>
+<l cont="true">O la fine pratique !</l>
+<l>Un mari confident !</l>
+
+<hstage><speaker>MARINETTE</speaker></hstage>
+<l cont="true">Taisez-vous, as de pique<noteref noteid="note.177.1"/> !</l>
+
+<notes>
+  <note id="note.177.1">
+    <l><i>Mauvaise langue, langue piquante</i>. Jeu de mots sur le sens figuré du verbe <i>piquer</i>. (F. Génin.)</l>
+  </note>
+</notes>
+
+<hstage><speaker>ALBERT</speaker></hstage>
+<l>Pour la troisième fois, allons-nous-en chez nous</l>
+<l>Poursuivre en liberté des entretiens si doux.</l>
+
+</page-sequence>
+</page-sequences>
+</bml>

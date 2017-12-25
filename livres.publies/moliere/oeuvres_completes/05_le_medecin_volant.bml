@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000480"
+        creation="2016-12-28T12:34:57-08:00"
+        modification="2016-12-30T12:11:29-08:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>Le Médecin volant</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='5'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="sc01" label="Scène I"/>
+    <tocentry idref="sc02" label="Scène II"/>
+    <tocentry idref="sc03" label="Scène III"/>
+    <tocentry idref="sc04" label="Scène IV"/>
+    <tocentry idref="sc05" label="Scène V"/>
+    <tocentry idref="sc06" label="Scène VI"/>
+    <tocentry idref="sc07" label="Scène VII"/>
+    <tocentry idref="sc08" label="Scène VIII"/>
+    <tocentry idref="sc09" label="Scène IX"/>
+    <tocentry idref="sc10" label="Scène X"/>
+    <tocentry idref="sc11" label="Scène XI"/>
+    <tocentry idref="sc12" label="Scène XII"/>
+    <tocentry idref="sc13" label="Scène XIII"/>
+    <tocentry idref="sc14" label="Scène XIV"/>
+    <tocentry idref="sc15" label="Scène XV"/>
+    <tocentry idref="sc16" label="Scène XVI"/>
+  </toc>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="15"/>
+
+<img src="images/frise3.png" class="center100" alt="frise"/>
+
+<h1>LE MEDECIN VOLANT</h1>
+
+<h2>COMÉDIE<noteref noteid="note.15.1"/></h2>
+
+<notes>
+  <note id="note.15.1">
+    <p>Cette petite comédie fut, comme la précédente, l’un des premiers essais de Molière. Elle est imitée d’un canevas italien, <i>il Medico volante</i>. C’est, du reste, une ébauche très défectueuse.</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">GORGIBUS, père de Lucile.</p>
+<p class="sommaire">LUCILE, fille de Gorgibus.</p>
+<p class="sommaire">VALÈRE, amant de Lucile.</p>
+<p class="sommaire">SABINE, cousine de Lucile.</p>
+<p class="sommaire">SGANARELLE, valet de Valère.</p>
+<p class="sommaire">GROS-RENÉ, valet de Gorgibus.</p>
+<p class="sommaire">U<s>N</s> A<s>VOCAT</s>.</p>
+
+<vsep class="rule"/>
+
+<h3 id="sc01">SCÈNE I. — VALÈRE, SABINE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Eh bien, Sabine, quel conseil me donnes-tu ?</p>
+
+<hstage><speaker>SABINE</speaker></hstage>
+<p>Vraiment, il y a bien des nouvelles. Mon oncle veut résolument que ma cousine épouse Villebrequin, et les affaires sont tellement avancées, que je crois qu’ils eussent été mariés dès aujourd’hui, si vous n’étiez aimé ; mais, comme ma cousine m’a confié le secret de l’amour qu’elle vous porte, et que noue nous sommes vues à l’extrémité par l’avarice de mon vilain oncle, nous nous sommes avisées d’une bonne invention pour différer le mariage. C’est que ma cousine, dès l’heure que je vous parle, contrefait la malade ; et le bon vieillard, qui est assez crédule, m’envoie quérir un médecin. Si vous en <pagenum num="16" b="pou-" a="viez">pouviez</pagenum> envoyer quelqu’un qui fût de vos bons amis, et qui fût de notre intelligence, il conseiller<oa/>it à la malade de prendre l’air à la campagne. Le bonhomme ne manquera pas de faire loger ma cousine à ce pavillon qui est au bout de notre jardin, et, par ce moyen, vous pourriez l’entretenir à l’insu de notre vieillard, l’épouser, et le laisser pester tout son saoûl avec Villebrequin.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Mais le moyen de trouver sitôt un médecin à ma poste, et qui voulût tant hasarder pour mon service ! Je te le dis franchement, je n’en conn<oa/>is pas un.</p>
+
+<hstage><speaker>SABINE</speaker></hstage>
+<p>Je songe à une chose : si vous faisiez habiller votre valet en médecin ; il n’y a rien de si facile à duper que le bonhomme.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>C’est un lourdaud qui gâtera tout ; mais il faut s’en servir, faute d’autre. Adieu, je le vais chercher. Où diable trouver ce maroufle à présent ? mais le voici tout à propos.</p>
+
+<h3 id="sc02">SCÈNE II. — VALÈRE, SGANARELLE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Ah ! mon pauvre Sganarelle, que j’ai de joie de te voir ! J’ai besoin de toi dans une affaire de conséquence ; mais, comme je ne sais pas ce que tu sais faire...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ce que je sais faire, monsieur ? employez-moi seulement en vos affaires de conséquence, ou pour quelque chose d’importance : par exemple, envoyez-moi voir quelle heure il est à une horloge, voir combien le beurre vaut au marché, abreuver un cheval, c’est alors que vous conn<oa/>îtrez ce que je sais faire.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Ce n’est pas cela ; c’est qu’il faut que tu contrefasses le médecin.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Moi, médecin, monsieur ! Je suis prêt à faire tout ce qu’il vous plaira ; mais, pour faire le médecin, je suis assez votre serviteur pour n’en rien faire du tout ; et par quel bout m’y prendre, bon Dieu ? Ma foi, monsieur, vous vous moquez de moi.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Si tu veux entreprendre cela, va, je te donnerai dix pistoles.</p>
+
+<pagenum num="17"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! pour dix pistoles, je ne dis pas que je ne sois médecin, car, voyez-vous bien, monsieur, je n’ai pas l’esprit tant, tant subtil, pour vous dire la vérité. Mais, quand je serai médecin, où irai-je ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Chez le bonhomme Gorgibus, voir sa fille qui est malade ; mais tu es un lourdaud qui, au lieu de bien faire, pourr<oa/>is bien...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh, mon Dieu, monsieur, ne soyez point en peine ; je vous réponds que je ferai aussi bien mourir une personne qu’aucun médecin qui soit dans la ville. On dit un proverbe, d’ordinaire : Après la mort le médecin ; mais vous verrez que, si je m’en mêle, on dira ; Après le médecin gare la mort ! Mais, néanmoins, quand je songe, cela est bien difficile de faire le médecin ; et si je ne fais rien qui vaille ?</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Il n’y a rien de si facile en cette rencontre : Gorgibus est un homme simple, grossier, qui se laissera étourdir de ton discours, pourvu que tu parles d’Hippocrate et de Galien, et que tu sois un peu effronté.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est-à-dire qu’il lui faudra parler philosophie, mathématique. Laissez-moi faire ; s’il est un homme facile, comme vous le dites, je vous réponds de tout ; venez seulement me faire avoir un habit de médecin et m’instruire de ce qu’il me faut faire, et me donner mes licences, qui sont les dix pistoles promises. <stage>Valère et Sganarelle s’en vont.</stage></p>
+
+<h3 id="sc03">SCÈNE III. — GORGIBUS, GROS-RENÉ</h3>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Allez vitement chercher un médecin, car ma fille est bien malade, et dépêchez-vous.</p>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<p>Que diable aussi ! pourquoi vouloir donner votre fille à un vieillard ? Croyez-vous que ce ne soit pas le désir qu’elle a d’avoir un jeune homme qui la travaille ? Voyez-vous la connexité qu’il y a, etc... <stage>Galimatias.</stage></p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Va-t’en vite ; je vois bien que cette maladie-là reculera bien les noces.</p>
+
+<pagenum num="18"/>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<p>Et c’est ce qui me fait enrager ; je croy<oa/>is refaire mon ventre d’une bonne carrelure, et m’en voilà sevré. Je m’en vais chercher un médecin pour moi, aussi bien que pour votre fille ; je suis désespéré. <stage>Il sort.</stage></p>
+
+<h3 id="sc04">SCÈNE IV. — SABINE, GORGIBUS, SGANARELLE</h3>
+
+<hstage><speaker>SABINE</speaker></hstage>
+<p>Je vous trouve à propos, mon oncle, pour vous apprendre une bonne nouvelle. Je vous amène le plus habile médecin du monde, un homme qui vient des pays étrangers, qui sait les plus beaux secrets, et qui sans doute guérira ma cousine. On me l’a indiqué par bonheur, et je vous l’amène. Il est si savant, que je voudr<oa/>is de bon cœur être malade, afin qu’il me guérît.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Où est-il donc ?</p>
+
+<hstage><speaker>SABINE</speaker></hstage>
+<p>Le voilà qui me suit ; tenez, le voilà.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Très humble serviteur à monsieur le médecin. Je vous envoie quérir pour voir ma fille, qui est malade ; je mets toute mon espérance en vous.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Hippocrate dit, et Galien, par vives raisons, persuade qu’une personne ne se porte pas bien quand elle est malade. Vous avez raison de mettre votre espérance en moi ; car je suis le plus grand, le plus habile, le plus docte médecin qui soit dans la Faculté végétable, sensitive et minérale.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>J’en suis fort ravi.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ne vous imaginez pas que je sois un médecin ordinaire, un médecin du commun. Tous les autres médecins ne sont, à mon égard, que des avortons de médecins. J’ai des talents particuliers, j’ai des secrets. Salamalec, salamalec. Rodrigue, as-tu du cœur ? <i>signor, si, signor, no. Per omnia sœcula sœcul-orum</i>. Mais encore voyons un peu.</p>
+
+<hstage><speaker>SABINE</speaker></hstage>
+<p>Eh ! ce n’est pas lui qui est malade, c’est sa fille.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il n’importe ; le sang du père et de la fille ne sont qu’une <pagenum num="19"/>même chose ; et, par l’altération de celui du père, je puis conn<oa/>ître la maladie de la fille. Monsieur Gorgibus, y aur<oa/>it-il moyen de voir de l’urine de l’égrotante ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Oui-da ; Sabine, vite allez quérir de l’urine de ma fille. <stage>Sabine sort.</stage> Monsieur le médecin, j’ai grand peur qu’elle ne meure.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! qu’elle s’en garde bien ! il ne faut pas qu’elle s’amuse à se laisser mourir sans l’ordonnance de la médecine <stage>Sabine rentre.</stage> Voilà de l’urine qui marque grande chaleur, grande inflammation dans les intestins ; elle n’est pas tant mauvaise, pourtant.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Eh quoi ! monsieur, vous l’avalez ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ne vous étonnez pas de cela : les médecins, d’ordinaire, se contentent de la regarder ; mais moi, qui suis un médecin hors du commun, je l’avale, parce qu’avec le goût je discerne bien mieux la cause et les suites de la maladie ; mais, à vous dire la vérité, il y en av<oa/>it trop peu pour avoir un bon jugement : qu’on la fasse encore pisser.</p>
+
+<hstage><speaker>SABINE</speaker> sort et revient.</hstage>
+<p>J’ai bien eu de la peine à la faire pisser.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Que cela ! voilà bien de quoi ! Faites-la pisser copieusement, copieusement. Si tous les malades pissent de la sorte, je veux être médecin toute ma vie.</p>
+
+<hstage><speaker>SABINE</speaker> sort et revient.</hstage>
+<p>Voilà tout ce qu’on peut avoir ; elle ne peut pas pisser davantage.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Quoi ! monsieur Gorgibus, votre fille ne pisse que des gouttes ? voilà une pauvre pisseuse que votre fille ; je vois bien qu’il faudra que je lui ordonne une potion pissatrice<noteref noteid="note.19.1"/>. N’y aur<oa/>it-il pas moyen de voir la malade ?</p>
+
+<notes>
+  <note id="note.19.1">
+    <p>Ces détails ne sont pas tolérables et Molière ne s’y laisse pas entrevoir.</p>
+  </note>
+</notes>
+
+<hstage><speaker>SABINE</speaker></hstage>
+<p>Elle est levée ; si vous voulez, je la ferai venir.</p>
+
+<pagenum num="20"/>
+
+<h3 id="sc05">SCÈNE V. — SABINE, GORGIBUS, SGANARELLE, LUCILE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh bien, mademoiselle, vous êtes malade ?</p>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<p>Oui, monsieur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Tant pis ! c’est une marque que vous ne vous portez pas bien. Sentez-vous de grandes douleurs à la tête, aux reins ?</p>
+
+<hstage><speaker>LUCILE</speaker></hstage>
+<p>Oui, monsieur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est fort bien fait. Oui, ce grand médecin, au chapitre qu’il a fait de la nature des animaux, dit... cent belles choses ; et, comme les humeurs qui ont de la connexité ont beaucoup de rapport ; car, par exemple, comme la mélancolie est ennemie de la joie, et que la bile qui se répand par le corps nous fait devenir jaunes, et qu’il n’est rien plus contraire à la santé que la maladie, nous pouvons dire, avec ce grand homme, que votre fille est fort malade. Il faut que je vous fasse une ordonnance.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Vite une table, du papier, de l’encre !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Y a-t-il quelqu’un qui sache écrire ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Est-ce que vous ne le savez point ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ah ! je ne m’en souven<oa/>is pas ; j’ai tant d’affaires dans la tête, que j’oublie la moitié... Je crois qu’il ser<oa/>it nécessaire que votre fille prît un peu l’air, qu’elle se divertît à la campagne.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Nous avons un fort beau jardin, et quelques chambres qui y répondent ; si vous le trouvez à propos, je l’y ferai loger.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Allons visiter les lieux. <stage>Ils sortent tous.</stage></p>
+
+<h3 id="sc06">SCÈNE VI. — L’AVOCAT, <i>seul</i>.</h3>
+
+<p>J’ai ouï dire que la fille de monsieur Gorgibus ét<oa/>it malade, il faut que je m’informe de sa santé, et que je lui offre mes <pagenum num="21"/>services comme ami de toute sa famille. Holà ! holà ! monsieur Gorgibus y est-il ?</p>
+
+<h3 id="sc07">SCÈNE VII. — GORGIBUS, L’AVOCAT</h3>
+
+<hstage><speaker>L’AVOCAT</speaker></hstage>
+<p>Ayant appris la maladie de mademoiselle votre fille, je vous suis venu témoigner la part que j’y prends, et vous faire offre de tout ce qui dépend de moi.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>J’ét<oa/>is là dedans avec le plus savant homme !</p>
+
+<hstage><speaker>L’AVOCAT</speaker></hstage>
+<p>N’y aur<oa/>it-il pas moyen de l’entretenir un moment ?</p>
+
+<h3 id="sc08">SCÈNE VIII. — GORGIBUS, L’AVOCAT, SGANARELLE</h3>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Monsieur, voilà un fort habile homme de mes amis, qui souhaiter<oa/>it de vous parler et vous entretenir.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je n’ai pas le loisir, monsieur Gorgibus ; il faut aller à mes malades. Je ne prendrai pas la droite avec vous, monsieur.</p>
+
+<hstage><speaker>L’AVOCAT</speaker></hstage>
+<p>Monsieur, après ce que m’a dit monsieur Gorgibus de votre mérite et de votre savoir, j’ai eu la plus grande passion du monde d’avoir l’honneur de votre conn<oa/>issance, et j’ai pris la liberté de vous saluer à ce dessein ; je crois que vous ne le trouverez pas mauvais. Il faut avouer que ceux qui excellent en quelque science sont dignes de grande louange, et particulièrement ceux qui font profession de la médecine, tant à cause de son utilité que parce qu’elle contient en elle plusieurs autres sciences ; ce qui rend sa parfaite conn<oa/>issance fort difficile : et c’est fort à propos qu’Hippocrate dit dans son premier aphorisme : <i>Vita brevis, ars vero longa, occasio autem prœceps, experimentum, judicium periculosum, difficile</i>.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à Gorgibus.</hstage>
+<p><i>Ficile tantinapota baril cambastibus</i>.</p>
+
+<hstage><speaker>L’AVOCAT</speaker></hstage>
+<p>Vous n’êtes pas de ces médecins qui ne s’appliquent qu’à la médecine qu’on appelle rationale ou dogmatique, et je crois que vous l’exercez tous les jours avec beaucoup de succès, <i>experientia magistra rerum</i>. Les premiers hommes qui firent <pagenum num="22"/>profession de la médecine furent tellement estimés d’avoir cette belle science, qu’on les mit au nombre des dieux pour les belles cures qu’ils fais<oa/>ient tous les jours. Ce n’est pas qu’on doive mépriser un médecin qui n’aur<oa/>it pas rendu la santé à son malade, puisqu’elle ne dépend pas absolument de ses remèdes, ni de son savoir ; <i>interdum docta plus valet arte malum</i>. Monsieur, j’ai peur de vous être importun : je prends congé de vous, dans l’espérance que j’ai qu’à la première vue j’aurai l’honneur de converser avec vous avec plus de loisir. Vos heures vous sont précieuses, etc. <stage>L’avocat sort.</stage></p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Que vous semble de cet homme-là ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il sait quelque petite chose. S’il fût demeuré tant soit peu davantage, je l’all<oa/>is mettre sur une matière sublime et relevée. Cependant je prends congé de vous. <stage>Gorgibus lui donne de l’argent.</stage> Eh, que voulez-vous faire ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Je sais bien ce que je vous dois.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous moquez-vous, monsieur Gorgibus ? Je n’en prendrai pas, je ne suis pas un homme mercenaire. <stage>Il prend l’argent.</stage> Votre très humble serviteur. <stage>Sganarelle sort, et Gorgibus rentre dans sa maison.</stage></p>
+
+<h3 id="sc09">SCÈNE IX. — VALÈRE, <i>seul</i>.</h3>
+
+<p>Je ne sais ce qu’aura fait Sganarelle : je n’ai point eu de ses nouvelles et je suis fort en peine où je le pourr<oa/>is rencontrer. <stage>Sganarelle revient en habit de valet.</stage> Mais bon, le voici. Eh bien, Sganarelle, qu’as-tu fait depuis que je ne t’ai pas vu ?</p>
+
+<h3 id="sc10">SCÈNE X. — VALÈRE, SGANARELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Merveille sur merveille ; j’ai si bien fait que Gorgibus me prend pour un habile médecin. Je me suis introduit chez lui ; je lui ai conseillé de faire prendre l’air à sa fille, laquelle est à présent dans un appartement qui est au bout de leur jardin, tellement qu’elle est fort éloignée du vieillard et que vous pourrez l’aller voir commodément.</p>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Ah ! que tu me donnes de joie ! Sans perdre de temps, je la vais trouver de ce pas. <stage>Il sort.</stage></p>
+
+<pagenum num="23"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il faut avouer que le bonhomme de Gorgibus est un vrai lourdaud de se laisser tromper de la sorte. <stage>Apercevant Gorgibus.</stage> Ah ! ma foi, tout est perdu ; c’est à ce coup que voilà la médecine renversée ; mais il faut que je le trompe.</p>
+
+<h3 id="sc11">SCÈNE XI. — SGANARELLE, GORGIBUS</h3>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Bonjour, monsieur.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, votre serviteur ; vous voyez un pauvre garçon au désespoir : ne conn<oa/>issez-vous pas un médecin qui est arrivé depuis peu en cette ville, qui fait des cures admirables ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Oui, je le conn<oa/>is ; il vient de sortir de chez moi.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je suis son frère, monsieur : nous sommes jumeaux ; et, comme nous nous ressemblons fort, on nous prend quelquefois l’un pour l’autre.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Je me donne au diable si je n’y ai été trompé. Et comment vous nommez-vous ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Narcisse, monsieur, pour vous rendre service. Il faut que vous sachiez qu’étant dans son cabinet j’ai répandu deux fioles d’essence qui ét<oa/>ient sur le bord de sa table ; aussitôt il s’est mis dans une colère si étrange contre moi, qu’il m’a mis hors du logis ; il ne me veut plus jamais voir, tellement que je suis un pauvre garçon à présent sans appui, sans support, sans aucune conn<oa/>issance.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Allez, je ferai votre paix ; je suis de ses amis, et je vous promets de vous remettre avec lui ; je lui parlerai d’abord que je le verrai.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je vous serai bien obligé, monsieur Gorgibus. <stage>Sganarelle sort et rentre aussitôt avec sa robe de médecin.</stage></p>
+
+<h3 id="sc12">SCÈNE XII. — SGANARELLE, GORGIBUS</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il faut avouer que quand ces malades ne veulent pas suivre l’avis du médecin, et. qu’ils s’abandonnent à la débauche...</p>
+
+<pagenum num="24"/>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Monsieur le médecin, très humble serviteur. Je vous demande une grâce.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qu’y a-t-il, monsieur ? est-il question de vous rendre service ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Monsieur, je viens de rencontrer monsieur votre frère, qui est tout à fait fâché de...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est un coquin, monsieur Gorgibus.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Je vous réponds qu’il est tellement contrit de vous avoir mis en colère.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est un ivrogne, monsieur Gorgibus.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Eh, monsieur, voulez-vous désespérer ce pauvre garçon ?</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Qu’on ne m’en parle plus ; mais voyez l’impudence de ce coquin-là, de vous aller trouver pour faire son accord ! Je vous prie de ne m’en pas parler.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Au nom de Dieu, monsieur le médecin, faites cela pour l’amour de moi. Si je suis capable de vous obliger en autre chose, je le ferai de bon cœur. Je m’y suis engagé, et...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous m’en priez avec tant d’instance... Quoique j’eusse fait serment de ne lui pardonner jamais, allez, touchez là, je lui pardonne. Je vous assure que je me fais grande violence, et qu’il faut que j’aie bien de la complaisance pour vous. Adieu, monsieur Gorgibus. <stage>Gorgibus rentre dans sa maison, et Sganarelle s’en va.</stage></p>
+
+<h3 id="sc13">SCÈNE XIII. — VALÈRE, SGANARELLE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Il faut que j’avoue que je n’eusse jamais cru que Sganarelle se fût si bien acquitté de son devoir. <stage>Sganarelle rentre avec ses habits de valet.</stage> Ah ! mon pauvre garçon, que je t’ai d’obligation ! que je t’ai de joie ! et que...</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Ma foi, vous parlez fort à votre aise. Gorgibus m’a <pagenum num="25" b="rencon-" a="tré ; ">rencontré ; </pagenum>et, sans une invention que j’ai trouvée, toute la mèche ét<oa/>it découverte, <stage>Apercevant Gorgibus.</stage> Mais fuyez-vous-en, le voici. <stage>Valère sort.</stage></p>
+
+<h3 id="sc14">SCÈNE XIV. — GORGIBUS, SGANARELLE</h3>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Je vous cherch<oa/>is partout pour vous dire que j’ai parlé à votre frère ; il m’a assuré qu’il vous pardonn<oa/>it ; mais, pour en être plus assuré, je veux qu’il vous embrasse en ma présence ; entrez dans mon logis, et je l’irai chercher.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Eh, monsieur Gorgibus, je ne crois pas que vous le trouviez à présent ; et puis je ne resterai pas chez vous : je crains trop de sa colère.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Ah ! vous y demeurerez, car je vous enfermerai. Je m’en vais à présent chercher votre frère ; ne craignez rien, je vous réponds qu’il n’est plus fâché. <stage>Gorgibus sort.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker>, de la fenêtre.</hstage>
+<p>Ma foi, me voilà attrapé ce coup-là ; il n’y a plus moyen de m’en échapper. Le nuage est fort épais, et j’ai bien peur que, s’il vient à crever, il ne grêle sur mon dos force coups de bâton, ou que, par quelque ordonnance plus forte que toutes celles des médecins, on ne m’applique tout au moins un cautère royal sur les épaules. Mes affaires vont mal : mais pourquoi se désespérer ? puisque j’ai tant fait, poussons la fourbe jusqu’au bout. Oui, oui, il en faut encore sortir, et faire voir que Sganarelle est le roi des fourbes. <stage>Sganarelle saute par la fenêtre et s’en va.</stage></p>
+
+<h3 id="sc15">SCÈNE XV. — GROS-RENÉ, GORGIBUS, SGANARELLE</h3>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<p>Ah ! ma foi, voilà qui est drôle ! comme diable on saute ici par les fenêtres ! Il faut que je demeure ici et que je voie à quoi tout cela aboutira.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Je ne saur<oa/>is trouver ce médecin ; je ne sais où diable il s’est caché. <stage>Apercevant Sganarelle qui revient en habit de médecin.</stage> Mais le voici. Monsieur, ce n’est pas assez d’avoir pardonné à votre frère ; je vous prie, pour ma satisfaction, <pagenum num="26"/>de l’embrasser : il est chez moi, et je vous cherch<oa/>is partout pour vous prier de faire cet accord en ma présence.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Vous vous moquez, monsieur Gorgibus ; n’est-ce pas assez que je lui pardonne ? je ne le veux jamais voir.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Mais, monsieur, pour l’amour de moi.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Je ne vous saur<oa/>is rien refuser : dites-lui qu’il descende.</p>
+<pstage>Pendant que Gorgibus entre dans la maison par la porte, Sganarelle y entre par la fenêtre.</pstage>
+
+<hstage><speaker>GORGIBUS</speaker>, à la fenêtre.</hstage>
+<p>Voilà votre frère qui vous attend là-bas : il m’a promis qu’il fera tout ce que vous voudrez.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à la fenêtre.</hstage>
+<p>Monsieur Gorgibus, je vous prie de le faire venir ici ; je vous conjure que ce soit en particulier que je lui demande pardon, parce que sans doute il me fer<oa/>it cent hontes, cent opprobres devant tout le monde.</p>
+<pstage>Gorgibus sort de sa maison par la porte, et Sganarelle par la fenêtre.</pstage>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Oui-da, je m’en vais lui dire... Monsieur, il dit qu’il est honteux, et qu’il vous prie d’entrer, afin qu’il vous demande pardon en particulier. Voilà la clef, vous pouvez entrer ; je vous supplie de ne me pas refuser, et de me donner ce contentement.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Il n’y a rien que je ne fasse pour votre satisfaction : vous allez entendre de quelle manière je le vais traiter. <stage>A la fenêtre.</stage> Ah ! te voilà, coquin ! — Monsieur mon frère, je vous demande pardon, je vous promets qu’il n’y a pas de ma faute. — Pilier de débauche ! coquin ! va, je t’apprendrai à venir avoir la hardiesse d’importuner monsieur Gorgibus, de lui rompre la tête de tes sottises ! — Monsieur mon frère... — Tais-toi, te dis-je ! — Je ne vous désoblig... — Tais-toi, coquin !</p>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<p>Qui diable pensez-vous qui soit chez vous à présent ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>C est le médecin et Narcisse son frère ; ils av<oa/>ient quelque différend, et ils font leur accord.</p>
+
+<pagenum num="27"/>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<p>Le diable emporte ! ils ne sont qu’un.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, à la fenêtre.</hstage>
+<p>Ivrogne que tu es, je t’apprendrai à vivre ! Comme il baisse la vue ! il voit bien qu’il a failli, le pendard ! Ah ! l’hypocrite, comme il fait le bon apôtre !</p>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<p>Monsieur, dites-lui un peu par plaisir qu’il fasse mettre son frère à la fenêtre.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Oui-da... Monsieur le médecin, je vous prie de faire par<oa/>ître votre frère à la fenêtre.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, de la fenêtre.</hstage>
+<p>Il est indigne de la vue des gens d’honneur, et puis je ne le saurais souffrir auprès de moi.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Monsieur, ne me refusez pas cette grâce, après toutes celles que vous m’avez faites.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, de la fenêtre.</hstage>
+<p>En vérité, monsieur Gorgibus, vous avez un tel pouvoir sur moi, que je ne vous puis rien refuser. Montre-toi, coquin. <stage>Après avoir disparu un moment, il se remontre en habit de valet.</stage> Monsieur Gorgibus, je suis votre obligé. <stage>Il dispar<oa/>ît encore et repar<oa/>ît aussitôt en robe de médecin.</stage> Eh bien, avez-vous vu cette image de la débauche ?</p>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<p>Ma foi, ils ne sont qu’un ; et, pour vous le prouver, dites-lui un peu que vous les voulez voir ensemble.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Mais faites-moi la grâce de le faire par<oa/>ître avec vous, et de l’embrasser devant moi à la fenêtre.</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>C’est une chose que je refuser<oa/>is à tout autre qu’à vous ; mais, pour vous montrer que je veux tout faire pour l’amour de vous, je m’y résous, quoique avec peine, et veux auparavant qu’il vous demande pardon de toutes les peines qu’il vous a données. — Oui, monsieur Gorgibus, je vous demande pardon de vous avoir tant importuné, et vous promets, mon frère, en présence de monsieur Gorgibus que voilà, de faire si bien désormais, que vous n’aurez plus lieu de vous plaindre, vous priant de ne plus songer à ce qui s’est passé. <stage>Il embrasse <pagenum num="28"/>son chapeau et sa fraise, qu’il a mis au bout de son coude.</stage></p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Eh bien, ne les voilà pas tous deux ?</p>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<p>Ah ! par ma foi, il est sorcier.</p>
+
+<hstage><speaker>SGANARELLE</speaker>, sortant de la maison en médecin.</hstage>
+<p>Monsieur, voilà la clef de votre maison que je vous rends ; je n’ai pas voulu que ce coquin soit descendu avec moi, parce qu’il me fait honte ; je ne voudr<oa/>is pas qu’on le vît en ma compagnie, dans la ville où je suis en quelque réputation. Vous irez le faire sortir quand bon vous semblera. Je vous donne le bonjour, et suis votre serviteur, etc. <stage>Il feint de s’en aller, et, après avoir mis bas sa robe, rentre dans la maison par la fenêtre.</stage></p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Il faut que j’aille délivrer ce pauvre garçon ; en vérité, s’il lui a pardonné, ce n’a pas été sans le bien maltraiter. <stage>Il entre dans sa maison, et en sort avec Sganarelle en habit de valet.</stage></p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, je vous remercie de la peine que vous avez prise, et de la bonté que vous avez eue ; je vous en serai obligé toute ma vie.</p>
+
+<hstage><speaker>GROS-RENÉ</speaker></hstage>
+<p>Où pensez-vous que soit à présent le médecin ?</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Il s’en est allé.</p>
+
+<hstage><speaker>GROS-RENÉ</speaker>, qui a ramassé la robe de Sganarelle.</hstage>
+<p>Je le tiens sous mon bras. Voilà le coquin qui fais<oa/>it le médecin, et qui vous trompe. Cependant qu’il vous trompe et joue la farce chez vous, Valère et votre fille sont ensemble, qui s’en vont à tous les diables.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Oh ! que je suis malheureux ! mais tu seras pendu, fourbe, coquin !</p>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<p>Monsieur, qu’allez-vous faire de me pendre ? Écoutez un mot, s’il vous plaît ; il est vrai que c’est par mon invention que mon maître est avec votre fille ; mais, en le servant, je ne vous ai point désobligé : c’est un parti sortable pour elle, tant pour la naissance que pour les biens. Croyez-moi, ne <pagenum num="29"/>faites point un vacarme qui tourner<oa/>it à votre confusion, et envoyez à tous les diables ce coquin-là avec Villebrequin. Mais voici nos amants.</p>
+
+<h3 id="sc16">SCÈNE XVI. — VALÈRE, LUCILE, GORGIBUS, SGANARELLE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<p>Nous nous jetons à vos pieds.</p>
+
+<hstage><speaker>GORGIBUS</speaker></hstage>
+<p>Je vous pardonne, et suis heureusement trompé par Sganarelle, ayant un si brave gendre. Allons tous faire noces, et boire à la santé de toute la compagnie.</p>
+
+</page-sequence>
+</page-sequences>
+</bml>

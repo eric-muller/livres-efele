@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb40142185f">
+
+      <titre>Œuvres complètes de Molière</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11916418p">
+        <nom-bibliographie>Molière</nom-bibliographie>
+        <dates>1622-1673</dates>
+       <nom-couverture>Molière</nom-couverture>
+      </auteur>
+
+<!--
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb10403533x" role="edt">
+        <nom-bibliographie>Lemaistre, Félix</nom-bibliographie>
+        <nom-couverture>Félix Lemaistre</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11928669t">
+        <nom-bibliographie>Voltaire</nom-bibliographie>
+        <dates>1694-1778</dates>
+        <nom-couverture>Voltaire</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb119102865">
+        <nom-bibliographie>La Harpe, Jean François de</nom-bibliographie>
+        <dates>1739-1803</dates>
+        <nom-couverture>Jean François de La Harpe</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12516826v">
+        <nom-bibliographie>Auger, Louis-Simon</nom-bibliographie>
+        <dates>1772-1829</dates>
+        <nom-couverture>Louis-Simon Auger</nom-couverture>
+      </auteur>
+-->
+      <editeur>
+        <nom>Garnier</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1915</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k5679741h"
+                 pages="n13 v-xxxviii 1-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000487"
+        creation="2017-01-02T14:12:36-08:00">
+
+      <surtitre>Œuvres complètes de Molière</surtitre>
+      <titre>L’École des Maris</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+
+      <collection id='c00016' volume='11'>
+        <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
+      </collection>
+
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="personnages" label="Personnages"/>
+    <tocentry idref="acte1" label="Acte I">
+      <tocentry idref="acte1sc01" label="Scène I"/>
+      <tocentry idref="acte1sc02" label="Scène II"/>
+      <tocentry idref="acte1sc03" label="Scène III"/>
+      <tocentry idref="acte1sc04" label="Scène IV"/>
+      <tocentry idref="acte1sc05" label="Scène V"/>
+      <tocentry idref="acte1sc06" label="Scène VI"/>
+    </tocentry>
+    <tocentry idref="acte2" label="Acte II">
+      <tocentry idref="acte2sc01" label="Scène I"/>
+      <tocentry idref="acte2sc02" label="Scène II"/>
+      <tocentry idref="acte2sc03" label="Scène III"/>
+      <tocentry idref="acte2sc04" label="Scène IV"/>
+      <tocentry idref="acte2sc05" label="Scène V"/>
+      <tocentry idref="acte2sc06" label="Scène VI"/>
+      <tocentry idref="acte2sc07" label="Scène VII"/>
+      <tocentry idref="acte2sc08" label="Scène VIII"/>
+      <tocentry idref="acte2sc09" label="Scène IX"/>
+      <tocentry idref="acte2sc10" label="Scène X"/>
+      <tocentry idref="acte2sc11" label="Scène XI"/>
+      <tocentry idref="acte2sc12" label="Scène XII"/>
+      <tocentry idref="acte2sc13" label="Scène XIII"/>
+      <tocentry idref="acte2sc14" label="Scène XIV"/>
+      <tocentry idref="acte2sc15" label="Scène XV"/>
+    </tocentry>
+    <tocentry idref="acte3" label="Acte III">
+      <tocentry idref="acte3sc01" label="Scène I"/>
+      <tocentry idref="acte3sc02" label="Scène II"/>
+      <tocentry idref="acte3sc03" label="Scène III"/>
+      <tocentry idref="acte3sc04" label="Scène IV"/>
+      <tocentry idref="acte3sc05" label="Scène V"/>
+      <tocentry idref="acte3sc06" label="Scène VI"/>
+      <tocentry idref="acte3sc07" label="Scène VII"/>
+      <tocentry idref="acte3sc08" label="Scène VIII"/>
+      <tocentry idref="acte3sc09" label="Scène IX"/>
+      <tocentry idref="acte3sc10" label="Scène X"/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_1.png" alt="Collection Selecta des Classiques Garnier. Œuvres complètes de Molière. Nouvelle édition accompagnée de notes tirées de tous les commentaire avec des remarques nouvelles. Par M. Félix Lemaistre. Précédée de la vie de Molière par Voltaire. Tome premier. Paris. Librairie Garnier Frères. 6, rue des Saints-Pères, 6"/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="292"/>
+
+<img src="images/frise9.png" class="center100" alt="frise"/>
+
+<h1>L’ÉCOLE DES MARIS</h1>
+
+<h2>COMÉDIE EN TROIS ACTES</h2>
+
+<vsep class="rule"/>
+
+<h2>A MONSEIGNEUR LE DUC D’ORLÉANS</h2>
+<h3><s>FRÈRE UNIQUE DU ROI</s></h3>
+
+<letter>
+<salutation>M<s>ONSEIGNEUR</s>,</salutation> 
+
+<p>Je fais voir ici à la France des choses bien peu proportionnées. Il n’est rien de si grand et de si superbe que le nom que je mets à la tête de ce livre, et rien de plus bas que ce qu’il contient. Tout le monde trouvera cet assemblage étrange ; et quelques-uns pourront bien dire, pour en exprimer l’inégalité, que c’est poser une couronne de perles et de diamants sur une statue de terre, et faire entrer par des portiques magnifiques et des arcs triomphaux superbes dans une méchante cabane. Mais, M<s>ONSEIGNEUR</s>, ce qui doit me servir d’excuse, c’est qu’en cette aventure je n’ai eu aucun choix à faire, et que l’honneur que j’ai d’être à V<s>OTRE</s> A<s>LTESSE</s> R<s>OYALE</s><noteref noteid="note.292.1"/> m’a imposé une nécessité absolue de lui dédier le premier ouvrage que je mets de moi-même au jour<noteref noteid="note.292.2"/>. Ce n’est pas un présent que je lui fais, c’est un devoir dont je m’acquitte ; et les hommes ne sont jamais regardés par les choses qu’ils portent. J’ai donc osé, M<s>ONSEIGNEUR</s>, dédier une bagatelle à V<s>OTRE</s> A<s>LTESSE</s> R<s>OYALE</s>, parce que je n’ai pu m’en dispenser ; et, si je me dispense ici de m’étendre sur les belles et glorieuses vérités qu’on pourroit dire d’Elle, c’est par la juste appréhension que ces grandes idées ne fissent éclater encore davantage la bassesse de mon offrande. Je me suis imposé silence pour trouver un endroit plus propre à placer de si belles choses ; et tout ce que j’ai prétendu dans cette épître, c’est de justifier mon action à toute la France, et d’avoir cette gloire de vous dire à vous-même, M<s>ONSEIGNEUR</s>, avec toute la soumission possible que je suis,</p>
+
+<p>D<s>E</s> V<s>OTRE</s> A<s>LTESSE</s> R<s>OYALE</s>,</p>
+
+<p class="r3">Le très humble, très obéissant et très fidèle serviteur,</p>
+
+<signature>J. B. P. M<s>OLIÈRE</s>.</signature>
+</letter>
+
+<notes>
+  <note id="note.292.1">
+    <p>Molière était chef de la troupe de M<s>ONSIEUR</s>.</p>
+  </note>
+  <note id="note.292.2">
+    <p>Molière ne fit imprimer les <i>Précieuses</i> que parce qu’on lui avait dérobé une copie de cet ouvrage. Le <i>Cocu imaginaire</i> avait été publié par Neufvillenaine et ses autres pièces n’étaient point encore imprimées.</p>
+  </note>
+</notes>
+
+<vsep class="rule"/>
+
+<pagenum num="293"/>
+
+<h3 id="personnages">PERSONNAGES</h3>
+
+<p class="sommaire">SGANARELLE, frère d’Ariste.</p>
+<p class="sommaire">ARISTE, frère de Sganarelle.</p>
+<p class="sommaire">ISABELLE, sœur de Léonor.</p>
+<p class="sommaire">LÉONOR, sœur d’Isabelle</p>
+<p class="sommaire">LISETTE, suivante de Léonor.</p>
+<p class="sommaire">VALÈRE, amant d’Isabelle.</p>
+<p class="sommaire">ERGASTE, valet de Valère.</p>
+<p class="sommaire">U<s>N</s> C<s>OMMISSAIRE</s>.</p>
+<p class="sommaire">U<s>N</s> N<s>OTAIRE</s>.</p>
+
+<vsep class="emptyline"/>
+
+<p>La scène est à Paris.</p>
+
+<vsep class="rule"/>
+
+<h2 id="acte1">ACTE PREMIER</h2>
+
+<h3 id="acte1sc01">SCÈNE I. — SGANARELLE, ARISTE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Mon frère, s’il vous plaît, ne discourons point tant,</l>
+<l>Et que chacun de nous vive comme il l’entend.</l>
+<l>Bien que sur moi des ans vous ayez l’avantage,</l>
+<l>Et soyez assez vieux pour devoir être sage,</l>
+<l>Je vous dirai pourtant que mes intentions</l>
+<l>Sont de ne prendre point de vos corrections ;</l>
+<l>Que j’ai pour tout conseil ma fantaisie à suivre,</l>
+<l>Et me trouve fort bien de ma façon de vivre.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Mais chacun la condamne.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Oui, des fous comme vous,</l>
+<l>Mon frère.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">Grand merci, le compliment est doux.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Je voudrois bien savoir, puisqu’il faut tout entendre,</l>
+<l>Ce que ces beaux censeurs en moi peuvent reprendre.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Cette farouche humeur, dont la sévérité</l>
+<l>Fuit toutes les douceurs de la société,</l>
+<l>A tous vos procédés inspire un air bizarre,</l>
+<l>Et, jusques à l’habit, rend tout chez vous barbare.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Il est vrai qu’à la mode il faut m’assujettir,</l>
+<l>Et ce n’est pas pour moi que je me dois vêtir.</l>
+<pagenum num="294"/>
+<l>Ne voudriez-vous point, par vos belles sornettes,</l>
+<l>Monsieur mon frère aîné, car, Dieu merci, vous l’êtes</l>
+<l>D’une vingtaine d’ans, à ne vous rien celer,</l>
+<l>Et cela ne vaut point la peine d’en parler ;</l>
+<l>Ne voudriez-vous point, dis-je, sur ces matières,</l>
+<l>De vos jeunes muguets<noteref noteid="note.294.1"/> m’inspirer les manières ?</l>
+<l>M’obliger à porter de ces petits chapeaux</l>
+<l>Qui laissent éventer leurs débiles cerveaux,</l>
+<l>Et de ces blonds cheveux de qui la vaste enflure</l>
+<l>Des visages humains offusque la figure ?</l>
+<l>De ces petits pourpoints sous les bras se perdants,</l>
+<l>Et de ces grands collets jusqu’au nombril pendants ?</l>
+<l>De ces manches qu’à table on voit tâter les sauces,</l>
+<l>Et de ces cotillons appelés hauts-de-chausses ?</l>
+<l>De ses souliers mignons, de rubans revêtus,</l>
+<l>Qui vous font ressembler à des pigeons pattus ?</l>
+<l>Et de ces grands canons où, comme en des entraves,</l>
+<l>On met, tous les matins, ses deux jambes esclaves,</l>
+<l>Et par qui nous voyons ces messieurs les galants</l>
+<l>Marcher écarquillés ainsi que des volants<noteref noteid="note.294.2"/> ?</l>
+<l>Je vous plairois sans doute équipé de la sorte ;</l>
+<l>Et je vous vois porter les sottises qu’on porte.</l>
+
+<notes>
+  <note id="note.294.1">
+    <p>Muguet, gentil, amoureux, <i>amator venustulus</i>. (Nicol.) C’est le nom de la fleur même transporté à ceux qui s’en parfumaient. <i>Mugueter</i>, faire le galant, chercher à plaire.</p>
+  </note>
+  <note id="note.294.2">
+    <p><i>Volants</i>, ailes de moulins. <i>Écarquillés comme des volants</i>, ouverts comme les ailes de moulins. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Toujours au plus grand nombre on doit s’accommoder,</l>
+<l>Et jamais il ne faut se faire regarder.</l>
+<l>L’un et l’autre excès choque, et tout homme bien sage</l>
+<l>Doit faire des habits ainsi que du langage,</l>
+<l>N’y rien trop affecter, et sans empressement,</l>
+<l>Suivre ce que l’usage y fait de changement.</l>
+<l>Mon sentiment n’est pas qu’on prenne la méthode</l>
+<l>De ceux qu’on voit toujours renchérir sur la mode,</l>
+<l>Et qui, dans cet excès dont ils sont amoureux,</l>
+<l>Seroient fâchés qu’un autre eût été plus loin qu’eux ;</l>
+<l>Mais je tiens qu’il est mal, sur quoi que l’on se fonde,</l>
+<l>De fuir obstinément ce que suit tout le monde ;</l>
+<l>Et qu’il vaut mieux souffrir d’être au nombre des fous</l>
+<l>Que du sage parti se voir seul contre tous.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Cela sent son vieillard qui, pour en faire accroire,</l>
+<pagenum num="295"/>
+<l>Cache ses cheveux blancs d’une perruque noire.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>C’est un étrange fait du soin que vous prenez</l>
+<l>A me venir toujours jeter mon âge au nez,</l>
+<l>Et qu’il faille qu’en moi sans cesse je vous voie</l>
+<l>Blâmer l’ajustement aussi bien que la joie :</l>
+<l>Comme si, condamnée à ne plus rien chérir,</l>
+<l>La vieillesse devoit ne songer qu’à mourir</l>
+<l>Et d’assez de laideur n’est pas accompagnée,</l>
+<l>Sans se tenir encor malpropre et rechignée.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Quoi qu’il en soit, je suis attaché fortement</l>
+<l>A ne démordre point de mon habillement.</l>
+<l>Je veux une coiffure, en dépit de la mode,</l>
+<l>Sous qui toute ma tête ait un abri commode ;</l>
+<l>Un bon pourpoint bien long, et fermé comme il faut,</l>
+<l>Qui, pour bien digérer, tienne l’estomac chaud ;</l>
+<l>Un haut-de-chausses fait justement pour ma cuisse ;</l>
+<l>Des souliers où mes pieds ne soient point au supplice,</l>
+<l>Ainsi qu’en ont usé sagement nos aïeux :</l>
+<l>Et qui me trouve mal n’a qu’à fermer les yeux.</l>
+
+<h3 id="acte1sc02">SCÈNE II. — LÉONOR, ISABELLE, LISETTE ; ARISTE <i>et</i> SGANARELLE, <i>parlant bas ensemble sur le devant du théâtre, sans être aperçus</i>,</h3>
+
+<hstage><speaker>LÉONOR</speaker>, à Isabelle.</hstage>
+<l>Je me charge de tout, en cas que l’on vous gronde.</l>
+
+<hstage><speaker>LISETTE</speaker>, à Isabelle.</hstage>
+<l>Toujours dans une chambre à ne point voir le monde ?</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Il est ainsi bâti.</l>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l cont="true">Je vous en plains, ma sceur.</l>
+
+<hstage><speaker>LISETTE</speaker>, à Léonor.</hstage>
+<l>Bien vous prend que son frère ait tout une autre humeur,</l>
+<l>Madame ; et le destin vous fut bien favorable</l>
+<l>En vous faisant tomber aux mains du raisonnable.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>C’est un miracle encor qu’il ne m’ait aujourd’hui</l>
+<l>Enfermée à la clef, ou menée avec lui</l>
+
+<pagenum num="296"/>
+
+<hstage><speaker>LISETTE</speaker></hstage>
+<l>Ma foi, je l’envoierois au diable avec sa fraise,</l>
+<l>Et...</l>
+
+<hstage><speaker>SGANARELLE</speaker>, heurté par Lisette.</hstage>
+<l cont="true">Où donc allez-vous, qu’il ne vous en déplaise ?</l>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l>Nous ne savons encore, et je pressois ma sœur</l>
+<l>De venir du beau temps respirer la douceur</l>
+<l>Mais...</l>
+
+<hstage><speaker>SGANARELLE</speaker>, à Léonor.</hstage>
+<l cont="true">Pour vous, vous pouvez aller où bon vous semble.</l>
+<pstage>Montrant Lisette.</pstage>
+<l>Vous n’avez qu’à courir, vous voilà deux ensemble.</l>
+<pstage>A Isabelle.</pstage>
+<l>Mais vous, je vous défends, s’il vous plaît, de sortir.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Eh ! laissez-les, mon frère, aller se divertir.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Je suis votre valet, mon frère.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">La jeunesse</l>
+<l>Veut...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">La jeunesse est sotte, et parfois la vieillesse.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Croyez-vous qu’elle est mal d’être avec Léonor ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Non pas ; mais avec moi je la crois mieux encor.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Mais...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Mais ses actions de moi doivent dépendre,</l>
+<l>Et je sais l’intérêt enfin que j’y dois prendre.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>A celles de sa sœur ai-je un moindre intérêt ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Mon Dieu ! chacun raisonne et fait comme il lui plaît.</l>
+<l>Elles sont sans parents, et notre ami leur père</l>
+<l>Nous commit leur conduite à son heure dernière,</l>
+<l>Et, nous chargeant tous deux, ou de les épouser,</l>
+<l>Ou, sur notre refus, un jour d’en disposer,</l>
+<pagenum num="297"/>
+<l>Sur elles, par contrat, nous sut dès leur enfance</l>
+<l>Et de père et d’époux donner pleine puissance !</l>
+<l>D’élever celle-là vous prîtes le souci,</l>
+<l>Et moi, je me chargeai du soin de celle-ci ;</l>
+<l>Selon vos volontés vous gouvernez la vôtre ;</l>
+<l>Laissez-moi, je vous prie, à mon gré régir l’autre.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Il me semble...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Il me semble, et je le dis tout haut,</l>
+<l>Que sur un tel sujet c’est parler comme il faut,</l>
+<l>Vous souffrez que la vôtre aille leste et pimpante :</l>
+<l>Je le veux bien ; qu’elle ait et laquais et suivante :</l>
+<l>J’y consens ; qu’elle coure, aime l’oisiveté,</l>
+<l>Et soit des damoiseaux fleurée en liberté ;</l>
+<l>J’en suis fort satisfait ; mais j’entends que la mienne</l>
+<l>Vive à ma fantaisie, et non pas à la sienne ;</l>
+<l>Que d’une serge honnête elle ait son vêtement,</l>
+<l>Et ne porte le noir qu’aux bons jours seulement,</l>
+<l>Qu’enfermée au logis, en personne bien sage,</l>
+<l>Elle s’applique toute aux choses du ménage,</l>
+<l>A recoudre mon linge aux heures de loisir,</l>
+<l>Ou bien à tricoter quelques bas par plaisir ;</l>
+<l>Qu’aux discours des muguets elle ferme l’oreille,</l>
+<l>Et ne sorte jamais sans avoir qui la veille.</l>
+<l>Enfin la chair est foible, et j’entends tous les bruits.</l>
+<l>Je ne veux point porter de cornes, si je puis ;</l>
+<l>Et, comme à m’épouser sa fortune l’appelle,</l>
+<l>Je prétends, corps pour corps, pouvoir répondre d’elle.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Vous n’avez pas sujet, que je crois...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Taisez-vous !</l>
+<l>Je vous apprendrai bien s’il faut sortir sans nous.</l>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l>Quoi donc, monsieur...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Mon Dieu, madame, sans langage,</l>
+<l>Je ne vous parle pas, car vous êtes trop sage.</l>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l>Voyez-vous Isabelle avec nous à regret ?</l>
+
+<pagenum num="298"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Oui, vous me la gâtez, puisqu’il faut parler net :</l>
+<l>Vos visites ici ne font que me déplaire,</l>
+<l>Et vous m’obligerez de ne nous en plus faire.</l>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l>Voulez-vous que mon cœur vous parle net aussi ?</l>
+<l>J’ignore de quel œil elle voit tout ceci ;</l>
+<l>Mais je sais ce qu’en moi feroit la défiance,</l>
+<l>Et, quoiqu’un même sang nous ait donné naissance,</l>
+<l>Nous sommes bien peu sœurs, s’il faut que chaque jour</l>
+<l>Vos manières d’agir lui donnent de l’amour.</l>
+
+<hstage><speaker>LISETTE</speaker></hstage>
+<l>En effet, tous ces soins sont des choses infâmes.</l>
+<l>Sommes-nous chez les Turcs, pour renfermer les femmes ?</l>
+<l>Car on dit qu’on les tient esclaves en ce lieu,</l>
+<l>Et que c’est pour cela qu’ils sont maudits de Dieu.</l>
+<l>Notre honneur est, monsieur, bien sujet à foiblesse</l>
+<l>S’il faut qu’il ait besoin qu’on le garde sans cesse ;</l>
+<l>Pensez-vous, après tout, que ces précautions</l>
+<l>Servent de quelque obstacle à nos intentions ?</l>
+<l>Et, quand nous nous mettons quelque chose à la tête</l>
+<l>Que l’homme le plus fin ne soit pas une bête ?</l>
+<l>Toutes ces gardes-là sont visions de fous ;</l>
+<l>Le plus sûr est, ma foi, de se fier en nous :</l>
+<l>Qui nous gêne se met en un péril extrême,</l>
+<l>Et toujours notre honneur veut se garder lui-même</l>
+<l>C’est nous inspirer presque un désir de pécher ;</l>
+<l>Que montrer tant de soins de nous en empêcher ;</l>
+<l>Et, si par un mari je me voyois contrainte,</l>
+<l>J’aurois fort grande pente à confirmer sa crainte.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, à Ariste.</hstage>
+<l>Voilà, beau précepteur, votre éducation.</l>
+<l>Et vous souffrez cela sans nulle émotion ?</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Mon frère, son discours ne doit que faire rire.</l>
+<l>Elle a quelque raison en ce qu’elle veut dire :</l>
+<l>Leur sexe aime à jouir d’un peu de liberté ;</l>
+<l>On le retient fort mal par tant d’austérité ;</l>
+<l>Et les soins défiants, les verrous et les grilles</l>
+<l>Ne font pas la vertu des femmes ni des filles :</l>
+<l>C’est l’honneur qui les doit tenir dans le devoir,</l>
+<l>Non, la sévérité que nous leur faisons voir.</l>
+<pagenum num="299"/>
+<l>C’est une étrange chose, à vous parler sans feinte,</l>
+<l>Qu’une dame qui n’est sage que par contrainte.</l>
+<l>En vain sur tous ses pas nous prétendons régner,</l>
+<l>Je trouve que le cœur est ce qu’il faut gagner ;</l>
+<l>Et je ne tiendrois, moi, quelque soin qu’on se donne,</l>
+<l>Mon honneur guère sûr aux mains d’une personne</l>
+<l>A qui, dans les désirs qui pourraient l’assaillir,</l>
+<l>Il ne manqueroit rien qu’un moyen de faillir.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Chansons que tout cela !</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">Soit ; mais je tiens sans cesse</l>
+<l>Qu’il nous faut en riant instruire la jeunesse,</l>
+<l>Reprendre ses défauts avec grande douceur,</l>
+<l>Et du nom de vertu ne lui point faire peur.</l>
+<l>Mes soins pour Léonor ont suivi ces maximes ;</l>
+<l>Des moindres libertés je n’ai point fait des crimes,</l>
+<l>A ses jeunes désirs j’ai toujours consenti,</l>
+<l>Et je ne m’en suis point, grâce au ciel, repenti.</l>
+<l>J’ai souffert qu’elle ait vu les belles compagnies,</l>
+<l>Les divertissements, les bals, les comédies ;</l>
+<l>Ce sont choses, pour moi, que je tiens de tout temps</l>
+<l>Fort propres à former l’esprit des jeunes gens ;</l>
+<l>Et l’école du monde, en l’air dont il faut vivre,</l>
+<l>Instruit mieux, à mon gré, que ne fait aucun livre.</l>
+<l>Elle aime à dépenser en habits, linge et nœuds ;</l>
+<l>Que voulez-vous ? je tâche à contenter ses vœux ;</l>
+<l>Et ce sont des plaisirs qu’on peut, dans nos familles,</l>
+<l>Lorsque l’on a du bien, permettre aux jeunes filles.</l>
+<l>Un ordre paternel l’oblige à m’épouser ;</l>
+<l>Mais mon dessein n’est pas de la tyranniser.</l>
+<l>Je sais bien que nos ans ne se rapportent guère,</l>
+<l>Et je laisse à son choix liberté tout entière.</l>
+<l>Si quatre mille écus de rente bien venants,</l>
+<l>Une grande tendresse et des soins complaisants</l>
+<l>Peuvent, à son avis, pour un tel mariage,</l>
+<l>Réparer entre nous l’inégalité d’âge,</l>
+<l>Elle peut m’épouser ; sinon, choisir ailleurs.</l>
+<l>Et j’aime mieux la voir sous un autre hyménée</l>
+<l>Que si contre son gré sa main m’étoit donnée.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Eh ! qu’il est doucereux ! c’est tout sucre et tout miel.</l>
+
+<pagenum num="300"/>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Enfin, c’est mon humeur, et j’en rends grâce au ciel.</l>
+<l>Je ne suivrois jamais ces maximes sévères</l>
+<l>Qui font que les enfants comptent les jours des pères.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Mais ce qu’en la jeunesse on prend de liberté</l>
+<l>Ne se retranche pas avec facilité ;</l>
+<l>Et tous ses sentiments suivront mal votre envie,</l>
+<l>Quand il faudra changer sa manière de vie.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Et pourquoi la changer ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Pourquoi ?</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">Oui.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Je ne sai.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Y voit-on quelque chose où l’honneur soit blessé ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Quoi ! si vous l’épousez, elle pourra prétendre</l>
+<l>Les mêmes libertés que fille on lui voit prendre ?</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Pourquoi non ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Vos désirs lui seront complaisants</l>
+<l>Jusques à lui laisser et mouches et rubans ?</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Sans doute.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">A lui souffrir, en cervelle troublée,</l>
+<l>De courir tous les bals et les lieux d’assemblée ?</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Oui, vraiment.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Et chez vous iront les damoiseaux ?</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Et quoi donc ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Qui joueront et donneront cadeaux ?</l>
+
+<pagenum num="301"/>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>D’accord.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Et votre femme entendra les fleurettes ?</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Fort bien.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Et vous verrez ces visites muguettes</l>
+<l>D’un œil à témoigner de n’en être point soûl ?</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Cela s’entend.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Allez, vous êtes un vieux fou.</l>
+<pstage>A Isabelle.</pstage>
+<l>Rentrez, pour n’ouïr point cette pratique infâme.</l>
+
+<h3 id="acte1sc03">SCÈNE III. — ARISTE, SGANARELLE, LÉONORE, LISETTE</h3>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Je veux m’abandonner à la foi de ma femme,</l>
+<l>Et prétends toujours vivre ainsi que j’ai vécu.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Que j’aurai de plaisir quand il sera cocu !</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>J’ignore pour quel sort mon astre m’a fait naître ;</l>
+<l>Mais je sais que pour vous, si vous manquez de l’être,</l>
+<l>On ne vous en doit point imputer le défaut,</l>
+<l>Car vos soins pour cela font bien tout ce qu’il faut.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Riez donc, beau rieur ! Oh ! que cela doit plaire,</l>
+<l>De voir un goguenard presque sexagénaire !</l>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l>Du sort dont vous parlez je le garantis, moi,</l>
+<l>S’il faut que par l’hymen il reçoive ma foi :</l>
+<l>Il s’en peut assurer ; mais sachez que mon âme</l>
+<l>Ne répondroit de rien, si j’étois votre femme.</l>
+
+<hstage><speaker>LISETTE</speaker></hstage>
+<l>C’est conscience à ceux qui s’assurent en nous ;</l>
+<l>Mais c’est pain bénit, certe à des gens comme vous.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Allez, langue maudite, et des plus mal apprises.</l>
+
+<pagenum num="302"/>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Vous vous êtes, mon frère, attiré ces sottises.</l>
+<l>Adieu. Changez d’humeur, et soyez averti</l>
+<l>Que renfermer sa femme est un mauvais parti.</l>
+<l>Je suis votre valet.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Je ne suis pas le vôtre.</l>
+
+<h3 id="acte1sc04">SCÈNE IV. — SGANARELLE, <i>seul</i>.</h3>
+
+<l>Oh ! que les voilà bien tous formés l’un pour l’autre !</l>
+<l>Quelle belle famille ! Un vieillard insensé</l>
+<l>Qui fait le dameret<noteref noteid="note.302.1"/> dans un corps tout cassé ;</l>
+<l>Une fille maîtresse et coquette suprême ;</l>
+<l>Des valets impudents : non, la Sagesse même</l>
+<l>N’en viendrait pas à bout, perdroit sens et raison</l>
+<l>A vouloir corriger une telle maison.</l>
+<l>Isabelle pourrait perdre dans ces hantises</l>
+<l>Les semences d’honneur qu’avec nous elle a prises ;</l>
+<l>Et, pour l’en empêcher, dans peu nous prétendons</l>
+<l>Lui faire aller revoir nos choux et nos dindons.</l>
+
+<notes>
+  <note id="note.302.1">
+    <p><i>Dameret</i> pour <i>damoiseau</i> jeune efféminé qui cherche à plaire aux femmes.</p>
+  </note>
+</notes>
+
+<h3 id="acte1sc05">SCÈNE V. — VALÈRE, SGANARELLE, ERGASTE</h3>
+
+<hstage><speaker>VALÈRE</speaker>, dans le fond du théâtre.</hstage>
+<l>Ergaste, le voilà, cet Argus que j’abhorre,</l>
+<l>Le sévère tuteur de celle que j’adore.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, se croyant seul.</hstage>
+<l>N’est-ce pas quelque chose enfin de surprenant</l>
+<l>Que la corruption des mœurs de maintenant ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Je voudrais l’accoster, s’il est en ma puissance,</l>
+<l>Et tâcher de lier avec lui connoissance.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, se croyant seul.</hstage>
+<l>Au lieu de voir régner cette sévérité</l>
+<l>Qui composoit si bien l’ancienne honnêteté,</l>
+<l>La jeunesse en ces lieux, libertine absolue,</l>
+<l>Ne prend...</l>
+<pstage>Valère salue Sganarelle de loin.</pstage>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Il ne voit pas que c’est lui qu’on salue,</l>
+
+<pagenum num="303"/>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Son mauvais œil peut-être est de ce côté-ci</l>
+<l>Passons du côté droit.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, se croyant seul.</hstage>
+<l cont="true">Il faut sortir d’ici.</l>
+<l>Le séjour de la ville en moi ne peut produire</l>
+<l>Que des...</l>
+
+<hstage><speaker>VALÈRE</speaker>, en s’approchant peu à peu.</hstage>
+<l cont="true">Il faut chez lui tâcher de m’introduire.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, entendant quelque bruit.</hstage>
+<l>Heu ! j’ai cru qu’on parloit.</l>
+<pstage>Se croyant seul.</pstage>
+<l cont="true">Aux champs, grâces aux cieux.</l>
+<l>Les sottises du temps ne blessent point mes yeux.</l>
+
+<hstage><speaker>ERGASTE</speaker>, à Valère.</hstage>
+<l>Abordez-le.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, entendant encore du bruit.</hstage>
+<l cont="true">Plaît-il ?</l>
+<pstage>N’entendant plus rien.</pstage>
+<l cont="true">Les oreilles me cornent.</l>
+<pstage>Se croyant seul.</pstage>
+<l>Là, tous les passe-temps de nos filles se bornent...</l>
+<pstage>Il aperçoit Valère, qui le salue.</pstage>
+<l>Est-ce à nous ?</l>
+
+<hstage><speaker>ERGASTE</speaker>, à Valère.</hstage>
+<l cont="true">Approchez.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, sans prendre garde à Valère.</hstage>
+<l cont="true">Là, nul godelureau</l>
+<pstage>Valère le salue encore.</pstage>
+<l>Ne vient... Que diable !</l>
+<pstage>Il se retourne, et voit Ergaste qui le salue de l’autre côté.</pstage>
+<l cont="true">Encor ? Que de coups de chapeau !</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Monsieur, un tel abord vous interrompt peut-être ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Cela se peut.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Mais quoi ! l’honneur de vous connoître</l>
+<l>M’est un si grand bonheur, m’est un si doux plaisir,</l>
+<l>Que de vous saluer j’avais un grand désir.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Soit.</l>
+
+<pagenum num="304"/>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Et de vous venir, mais sans nul artifice,</l>
+<l>Assurer que je suis tout à votre service.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Je le crois.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">J’ai le bien d’être de vos voisins,</l>
+<l>Et j’en dois rendre grâce à mes heureux destins.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>C’est bien fait.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Mais, monsieur, savez-vous les nouvelles</l>
+<l>Que l’on dit à la cour, et qu’on tient pour fidèles ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Que m’importe ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Il est vrai ; mais pour les nouveautés</l>
+<l>On peut avoir parfois des curiosités.</l>
+<l>Vous irez voir, monsieur, cette magnificence</l>
+<l>Que de notre Dauphin prépare la naissance<noteref noteid="note.304.1"/> ?</l>
+
+<notes>
+  <note id="note.304.1">
+    <p>Il s’agit ici du Dauphin, fils de Louis XIV, appelé Monseigneur, qui naquit à Fontainebleau le 1<sup>er</sup> novembre 1661, et mourut à Meudon le 14 avril 1711.</p>
+  </note>
+</notes>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Si je veux.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Avouons que Paris nous fait part</l>
+<l>De cent plaisirs charmants qu’on n’a point autre part :</l>
+<l>Les provinces auprès sont des lieux solitaires</l>
+<l>A quoi donc passez-vous le temps ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">A mes affaires.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>L’esprit veut du relâche, et succombe parfois</l>
+<l>Par trop d’attachement aux sérieux emplois.</l>
+<l>Que faites-vous les soirs avant qu’on se retire ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Ce qui me plaît.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Sans doute : on ne peut pas mieux dire,</l>
+<l>Cette réponse est juste, et le bon sens paroît</l>
+<l>A ne vouloir jamais faire que ce qui plaît.</l>
+<pagenum num="305"/>
+<l>Si je ne vous croyois l’âme trop occupée,</l>
+<l>J’irois parfois chez vous passer l’après-soupée.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Serviteur.</l>
+
+<h3 id="acte1sc06">SCÈNE VI. — VALÈRE, ERGASTE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Que dis-tu de ce bizarre fou ?</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Il a le repart<noteref noteid="note.305.1"/> brusque, et l’accueil loup-garou.</l>
+
+<notes>
+  <note id="note.305.1">
+    <p><i>Repart</i> pour repartie.</p>
+  </note>
+</notes>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Ah ! j’enrage !</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l cont="true">Et de quoi ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">De quoi ? C’est que j’enrage</l>
+<l>De voir celle que j’aime au pouvoir d’un sauvage,</l>
+<l>D’un dragon surveillant, dont la sévérité</l>
+<l>Ne lui laisse jouir d’aucune liberté.</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>C’est ce qui fait pour vous ; et sur ces conséquences</l>
+<l>Votre amour doit fonder de grandes espérances.</l>
+<l>Apprenez, pour avoir votre esprit affermi,</l>
+<l>Qu’une femme qu’on garde est gagnée à demi,</l>
+<l>Et que les noirs chagrins des maris ou des pères</l>
+<l>Ont toujours du galant avancé les affaires.</l>
+<l>Je coquette fort peu, c’est mon moindre talent,</l>
+<l>Et de profession je ne suis point galant ;</l>
+<l>Mais j’en ai servi vingt de ces chercheurs de proie</l>
+<l>Qui disoient fort souvent que leur plus grande joie</l>
+<l>Étoit de rencontrer de ces maris fâcheux</l>
+<l>Qui jamais sans gronder ne reviennent chez eux ;</l>
+<l>De ces brutaux fieffés qui, sans raison ni suite,</l>
+<l>De leurs femmes en tout contrôlent la conduite,</l>
+<l>Et, du nom de mari fièrement se parants,</l>
+<l>Leur rompent en visière aux yeux des soupirants.</l>
+<l>On en sait, disent-ils, prendre ses avantages,</l>
+<l>Et l’aigreur de la dame à ces sortes d’outrages,</l>
+<l>Dont la plaint doucement le complaisant témoin,</l>
+<l>Est un champ<noteref noteid="note.305.2"/> à pousser les choses assez loin ;</l>
+<pagenum num="306"/>
+<l>En un mot, ce vous est une attente assez belle</l>
+<l>Que la sévérité du tuteur d’Isabelle.</l>
+
+<notes>
+  <note id="note.305.2">
+    <p><i>Champ</i>, par métaphore pour <i>occasion</i>. (E. Génin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Mais, depuis quatre mois que je l’aime ardemment,</l>
+<l>Je n’ai pour lui parler pu trouver un moment.</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>L’amour rend inventif ; mais vous ne l’êtes guère :</l>
+<l>Et si j’avois été...</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Mais qu’aurois-tu pu faire,</l>
+<l>Puisque sans ce brutal on ne la voit jamais,</l>
+<l>Et qu’il n’est là dedans servantes ni valets</l>
+<l>Dont, par l’appât flatteur de quelque récompense,</l>
+<l>Je puisse pour mes feux ménager l’assistance ?</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Elle ne sait donc pas encor que vous l’aimez ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>C’est un point dont mes vœux ne sont pas informés.</l>
+<l>Partout où ce farouche a conduit cette belle,</l>
+<l>Elle m’a toujours vu comme une ombre après elle,</l>
+<l>Et mes regards aux siens ont tâché chaque jour</l>
+<l>De pouvoir expliquer l’excès de mon amour.</l>
+<l>Mes yeux ont fort parlé, mais qui me peut apprendre</l>
+<l>Si leur langage enfin a pu se faire entendre ?</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Ce langage, il est vrai, peut être obscur parfois,</l>
+<l>S’il n’a pour truchement l’écriture ou la voix.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Que faire pour sortir de cette peine extrême,</l>
+<l>Et savoir si la belle a connu que je l’aime ?</l>
+<l>Dis-m’en quelque moyen.</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l cont="true">C’est ce qu’il faut trouver :</l>
+<l>Entrons un peu chez vous, afin d’y mieux rêver.</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte2">ACTE SECOND</h2>
+
+<h3 id="acte2sc01">SCÈNE I. — ISABELLE, SGANARELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Va, je sais la maison, et connois la personne</l>
+<pagenum num="307"/>
+<l>Aux marques seulement que ta bouche me donne.</l>
+
+<hstage><speaker>ISABELLE</speaker>, à part.</hstage>
+<l>O ciel ! sois-moi propice, et seconde en ce jour</l>
+<l>Le stratagème adroit d’une innocente amour.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Dis-tu pas qu’on t’a dit qu’il s’appelle Valère ?</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Va, sois en repos, rentre, et me laisse faire ;</l>
+<l>Je vais parler sur l’heure à ce jeune étourdi.</l>
+
+<hstage><speaker>ISABELLE</speaker>, en s’en allant.</hstage>
+<l>Je fais, pour une fille, un projet bien hardi ;</l>
+<l>Mais l’injuste rigueur dont envers moi l’on use</l>
+<l>Dans tout esprit bien fait me servira d’excuse.</l>
+
+<h3 id="acte2sc02">SCÈNE II. — SGANARELLE, <i>seul</i>.</h3>
+
+<l>Ne perdons point de temps.</l>
+<pstage>Il va frapper à la porte de Valère.</pstage>
+<l cont="true">C’est ici. Qui va là ?</l>
+<l>Bon, je rêve. Holà ! dis-je, holà, quelqu’un ! holà !</l>
+<l>Je ne m’étonne pas, après cette lumière,</l>
+<l>S’il y venoit tantôt de si douce manière ;</l>
+<l>Mais je veux me hâter, et de son fol espoir...</l>
+
+<h3 id="acte2sc03">SCÈNE III. — VALÈRE, SGANARELLE, ERGASTE</h3>
+
+<hstage><speaker>SGANARELLE</speaker>, à Ergaste, qui est sorti brusquement.</hstage>
+<l>Peste soit du gros bœuf, qui, pour me faire choir,</l>
+<l>Se vient devant mes pas planter comme une perche !</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Monsieur, j’ai du regret...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Ah ! c’est vous que je cherche.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Moi, monsieur ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Vous. Valère est-il pas votre nom ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Je viens vous parler, si vous le trouvez bon.</l>
+
+<pagenum num="308"/>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Puis-je être assez heureux pour vous rendre service ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Non. Mais je prétends, moi, vous rendre un bon office ;</l>
+<l>Et c’est ce qui chez vous prend droit de m’amener.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Chez moi, monsieur ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Chez vous. Faut-il tant s’étonner ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>J’en ai bien du sujet ; et mon âme, ravie</l>
+<l>De l’honneur...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Laissons là cet honneur, je vous prie.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Voulez-vous pas entrer ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Il n’en est pas besoin.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Monsieur, de grâce.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Non, je n’irai pas plus loin.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Tant que vous serez là, je ne puis vous entendre.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Moi, je n’en veux bouger.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Eh bien, il faut se rendre</l>
+<l>Vite, puisque monsieur à cela se résout,</l>
+<l>Donnez un siège ici.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Je veux parler debout.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Vous souffrir de la sorte !...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Ah ! contrainte effroyable !</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Cette incivilité seroit trop condamnable.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>C’en est une que rien ne saurait égaler,</l>
+<l>De n’ouïr pas les gens qui veulent nous parler.</l>
+
+<pagenum num="309"/>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Je vous obéis donc.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Vous ne sauriez mieux faire.</l>
+<pstage>Ils font de grandes cérémonies pour se couvrir.</pstage>
+<l>Tant de cérémonie est fort peu nécessaire.</l>
+<l>Voulez-vous m’écouter ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Sans doute, et de grand cœur.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Savez-vous, dites-moi, que je suis le tuteur</l>
+<l>D’une fille assez jeune, et passablement belle,</l>
+<l>Qui loge en ce quartier, et qu’on nomme Isabelle ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Si vous le savez, je ne vous l’apprends pas,</l>
+<l>Mais savez-vous aussi, lui trouvant des appas,</l>
+<l>Qu’autrement qu’en tuteur sa personne me touche,</l>
+<l>Et qu’elle est destinée à l’honneur de ma couche ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Non.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Je vous l’apprends donc ; et qu’il est à propos</l>
+<l>Que vos feux, s’il vous plaît, la laissent en repos.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Qui ? moi, monsieur ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Oui, vous ; mettons bas toute feinte.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Qui vous a dit que j’ai pour elle l’âme atteinte ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Des gens à qui l’on peut donner quelque crédit.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Mais encore ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Elle-même.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Elle ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Elle. Est-ce assez dit ?</l>
+<pagenum num="310"/>
+<l>Comme une fille honnête, et qui m’aime d’enfance,</l>
+<l>Elle vient de m’en faire entière confidence,</l>
+<l>Et, de plus, m’a chargé de vous donner avis</l>
+<l>Que, depuis que par vous tous ses pas sont suivis,</l>
+<l>Son cœur, qu’avec excès votre poursuite outrage,</l>
+<l>N’a que trop de vos yeux entendu le langage ;</l>
+<l>Que vos secrets désirs lui sont assez connus,</l>
+<l>Et que c’est vous donner des soucis superflus</l>
+<l>De vouloir davantage expliquer une flamme</l>
+<l>Qui choque l’amitié que me garde son âme.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>C’est elle, dites-vous, qui de sa part vous fait...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Oui, vous venir donner cet avis franc et net ;</l>
+<l>Et qu’ayant vu l’ardeur dont votre âme est blessée,</l>
+<l>Elle vous eût plus tôt fait savoir sa pensée,</l>
+<l>Si son cœur avoit eu, dans son émotion,</l>
+<l>A qui pouvoir donner cette commission ;</l>
+<l>Mais qu’enfin la douleur d’une contrainte extrême</l>
+<l>L’a réduite à vouloir se servir de moi-même,</l>
+<l>Pour vous rendre averti, comme je vous ai dit,</l>
+<l>Qu’à tout autre que moi son cœur est interdit,</l>
+<l>Que vous avez assez joué de la prunelle,</l>
+<l>Et que, si vous avez tant soit peu de cervelle,</l>
+<l>Vous prendrez d’autres soins. Adieu, jusqu’au revoir.</l>
+<l>Voilà ce que j’avois à vous faire savoir.</l>
+
+<hstage><speaker>VALÈRE</speaker>, bas à Ergaste.</hstage>
+<l>Ergaste, que dis-tu d’une telle aventure ?</l>
+
+<hstage><speaker>SGANARELLE</speaker>, bas, à part.</hstage>
+<l>Le voilà bien surpris !</l>
+
+<hstage><speaker>ERGASTE</speaker>, bas à Valère.</hstage>
+<l cont="true">Selon ma conjecture,</l>
+<l>Je tiens qu’elle n’a rien de déplaisant pour vous,</l>
+<l>Qu’un mystère assez fin est caché là dessous,</l>
+<l>Et qu’enfin cet avis n’est pas d’une personne</l>
+<l>Qui veuille voir cesser l’amour qu’elle vous donne.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<l>Il en tient comme il faut.</l>
+
+<hstage><speaker>VALÈRE</speaker>, bas à Ergaste.</hstage>
+<l cont="true">Tu crois mystérieux...</l>
+
+<hstage><speaker>ERGASTE</speaker>, bas.</hstage>
+<l>Oui... Mais il nous observe, ôtons-nous de ses yeux.</l>
+
+<pagenum num="311"/>
+
+<h3 id="acte2sc04">SCÈNE IV. — SGANARELLE, <i>seul</i>.</h3>
+
+<l>Que sa confusion paroît sur son visage !</l>
+<l>Il ne s’attendoit pas, sans doute, à ce message.</l>
+<l>Appelons Isabelle : elle montre le fruit</l>
+<l>Que l’éducation dans une âme produit.</l>
+<l>La vertu fait ses soins, et son cœur s’y consomme</l>
+<l>Jusques à s’offenser des seuls regards d’un homme.</l>
+
+<h3 id="acte2sc05">SCÈNE V. — ISABELLE, SGANARELLE</h3>
+
+<hstage><speaker>ISABELLE</speaker>, bas, en entrant.</hstage>
+<l>J’ai peur que cet amant, plein de sa passion,</l>
+<l>N’ait pas de mon avis compris l’intention ;</l>
+<l>Et j’en veux, dans les fers où je suis prisonnière,</l>
+<l>Hasarder un qui parle avec plus de lumière.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Me voilà de retour.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Eh bien ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Un plein effet</l>
+<l>A suivi tes discours, et ton homme a son fait.</l>
+<l>Il me vouloit nier que son cœur fût malade ;</l>
+<l>Mais, lorsque de ta part j’ai marqué l’ambassade,</l>
+<l>Il est resté d’abord et muet et confus,</l>
+<l>Et je ne pense pas qu’il y revienne plus.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Ah ! que me dites-vous ? J’ai bien peur du contraire,</l>
+<l>Et qu’il ne vous prépare encor plus d’une affaire.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Et sur quoi fondes-tu cette peur que tu dis ?</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Vous n’avez pas été plutôt hors du logis,</l>
+<l>Qu’ayant, pour prendre l’air, la tête à ma fenêtre,</l>
+<l>J’ai vu dans ce détour un jeune homme paroître,</l>
+<l>Qui d’abord, de la part de cet impertinent,</l>
+<l>Est venu me donner un bonjour surprenant,</l>
+<l>Et m’a, droit dans ma chambre, une boîte jetée</l>
+<l>Qui renferme une lettre en poulet cachetée.</l>
+<l>J’ai voulu sans tarder lui rejeter le tout ;</l>
+<l>Mais ses pas de la rue avoient gagné le bout.</l>
+<l>Et je m’en sens le cœur tout gros de fâcherie.</l>
+
+<pagenum num="312"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Voyez un peu la ruse et la friponnerie !</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Il est de mon devoir de faire promptement</l>
+<l>Reporter boîte et lettre à ce maudit amant ;</l>
+<l>Et j’aurois pour cela besoin d’une personne...</l>
+<l>Car d’oser à vous-même...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Au contraire, mignonne,</l>
+<l>C’est me faire mieux voir ton amour et ta foi.</l>
+<l>Et mon cœur avec joie accepte cet emploi ;</l>
+<l>Tu m’obliges par là plus que je ne puis dire.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Tenez donc.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Bon. Voyons ce qu’il a pu t’écrire.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Ah ! ciel ! gardez-vous bien de l’ouvrir.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Et pourquoi ?</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Lui voulez-vous donner à croire que c’est moi ?</l>
+<l>Une fille d’honneur doit toujours se défendre</l>
+<l>De lire les billets qu’un homme lui fait rendre.</l>
+<l>La curiosité qu’on fait lors éclater</l>
+<l>Marque un secret plaisir de s’en ouïr conter :</l>
+<l>Et je trouve à propos que, toute cachetée,</l>
+<l>Cette lettre lui soit promptement reportée,</l>
+<l>Afin que d’autant mieux il connoisse aujourd’hui,</l>
+<l>Le mépris éclatant que mon cœur fait de lui ;</l>
+<l>Que ses feux désormais perdent toute espérance,</l>
+<l>Et n’entreprennent plus pareille extravagance.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Certes, elle a raison lorsqu’elle parle ainsi.</l>
+<l>Va, ta vertu me charme, et ta prudence aussi.</l>
+<l>Je vois que mes leçons ont germé dans ton âme,</l>
+<l>Et tu te montres digne enfin d’être ma femme.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Je ne veux pas pourtant gêner votre désir,</l>
+<l>La lettre est en vos mains, et vous pouvez l’ouvrir.</l>
+
+<pagenum num="313"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Non, je n’ai garde ; hélas ! tes raisons sont trop bonnes,</l>
+<l>Et je vais m’acquitter du soin que tu me donnes ;</l>
+<l>A quatre pas de là dire ensuite deux mots,</l>
+<l>Et revenir ici te remettre en repos.</l>
+
+<h3 id="acte2sc06">SCÈNE VI. — SGANARELLE, <i>seul</i></h3>
+
+<l>Dans quel ravissement est-ce que mon cœur nage,</l>
+<l>Lorsque je vois en elle une fille si sage !</l>
+<l>C’est un trésor d’honneur que j’ai dans ma maison.</l>
+<l>Prendre un regard d’amour pour une trahison,</l>
+<l>Recevoir un poulet comme une injure extrême,</l>
+<l>Et le faire au galant reporter par moi-même !</l>
+<l>Je voudrois bien savoir, en voyant tout ceci,</l>
+<l>Si celle de mon frère en useroit ainsi.</l>
+<l>Ma foi, les filles sont ce que l’on les fait être.</l>
+<l>Holà !</l>
+<pstage>Il frappe à la porte de Valère.</pstage>
+
+<h3 id="acte2sc07">SCÈNE VII. — SGANARELLE, ERGASTE</h3>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l cont="true">Qu’est-ce ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+
+<l cont="true">Tenez, dites à votre maître</l>
+<l>Qu’il ne s’ingère pas d’oser écrire encor</l>
+<l>Des lettres qu’il envoie avec des boîtes d’or,</l>
+<l>Et qu’Isabelle en est puissamment irritée.</l>
+<l>Voyez, on ne l’a pas au moins décachetée ;</l>
+<l>Il connoîtra l’état que l’on fait de ses feux,</l>
+<l>Et quel heureux succès il doit espérer d’eux.</l>
+
+<h3 id="acte2sc08">SCÈNE VIII. — VALÈRE, ERGASTE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Que vient de te donner cette farouche bête ?</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Cette lettre, monsieur, qu’avecque cette boîte</l>
+<l>On prétend qu’ait reçue Isabelle de vous,</l>
+<l>Et dont elle est, dit-il, en un fort grand courroux.</l>
+<l>C’est sans vouloir l’ouvrir qu’elle vous la fait rendre.</l>
+<l>Lisez vite, et voyons si je me puis méprendre.</l>
+
+<hstage><speaker>VALÈRE</speaker> lit.</hstage>
+
+<p>« Cette lettre vous surprendra sans doute, et l’on peut <pagenum num="314" b="trou-" a="ver">trouver</pagenum> bien, hardis pour moi, et le dessein de vous l’écrire, et la manière de vous la faire tenir ; mais je me vois dans un état à ne plus garder de mesure. La juste horreur d’un mariage dont je suis menacée dans six jours me fait hasarder toutes choses ; et, dans la résolution de m’en affranchir par quelque voie que ce soit, j’ai cru que je devois plutôt vous choisir que le désespoir. Ne croyez pas pourtant que vous soyez redevable de tout à ma mauvaise destinée : ce n’est pas la contrainte où je me trouve qui a fait naître les sentiments que j’ai pour vous ; mais c’est elle qui en précipite le témoignage, et qui me fait passer sur des formalités où la bienséance du sexe oblige. Il ne tiendra qu’à vous que je sois à vous bientôt, et j’attends seulement que vous m’ayez marqué les intentions de votre amour, pour vous faire savoir la résolution que j’ai prise ; mais, surtout, songez que le temps presse, et que deux cœurs qui s’aiment doivent s’entetendre à demi-mot. »</p>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Eh bien, monsieur, le tour est-il d’original ?</l>
+<l>Pour une jeune fille elle n’en sait pas mal !</l>
+<l>De ces ruses d’amour la croirait-on capable.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Ah ! je la trouve là tout à fait adorable.</l>
+<l>Ce trait de son esprit et de son amitié</l>
+<l>Accroît pour elle encor mon amour de moitié,</l>
+<l>Et joint aux sentiments que sa beauté m’inspire...</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>La dupe vient ; songez à ce qu’il vous faut dire.</l>
+
+<h3 id="acte2sc09">SCÈNE IX. — SGANARELLE, VALÈRE, ERGASTE</h3>
+
+<hstage><speaker>SGANARELLE</speaker>, se croyant seul.</hstage>
+<l>Oh ! trois et quatre fois béni soit cet édit</l>
+<l>Par qui des vêtements le luxe est interdit !</l>
+<l>Les peines des maris ne seront plus si grandes,</l>
+<l>Et les femmes auront un frein à leurs demandes.</l>
+<l>Oh ! que je sais au roi bon gré de ces décris<noteref noteid="note.313.1"/> !</l>
+<l>Et que, pour le repos de ces mêmes maris,</l>
+<l>Je voudrois bien qu’on fît de la coquetterie</l>
+<l>Comme de la guipure et de la broderie !</l>
+<l>J’ai voulu l’acheter, l’édit, expressément,</l>
+<pagenum num="315"/>
+<l>Afin que d’Isabelle il soit lu hautement ;</l>
+<l>Et ce sera tantôt, n’étant plus occupée,</l>
+<l>Le divertissement de notre après-soupée.</l>
+<pstage>Apercevant Valère.</pstage>
+<l>Envoierez-vous encor, monsieur aux blonds cheveux,</l>
+<l>Avec des boîtes d’or des billets amoureux ?</l>
+<l>Vous pensiez bien trouver quelque jeune coquette,</l>
+<l>Friande de l’intrigue et tendre à la fleurette ?</l>
+<l>Vous voyez de quel air on reçoit vos joyaux :</l>
+<l>Croyez-moi, c’est tirer votre poudre aux moineaux.</l>
+<l>Elle est sage, elle m’aime, et votre amour l’outrage ;</l>
+<l>Prenez visée ailleurs, et troussez-moi bagage.</l>
+
+<notes>
+  <note id="note.313.1">
+    <p><i>Décris</i>, ordonnances faites pour défendre de fabriquer, vendre ou porter certaines étoffes. (Aimé Martin.)</p>
+  </note>
+</notes>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Oui, oui, votre mérite, à qui chacun se rend,</l>
+<l>Est à mes yeux, monsieur, un obstacle trop grand ;</l>
+<l>Et c’est folie à moi, dans mon ardeur fidèle,</l>
+<l>De prétendre avec vous à l’amour d’Isabelle.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Il est vrai, c’est folie.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Aussi n’aurois-je pas</l>
+<l>Abandonné mon cœur à suivre ses appas,</l>
+<l>Si j’avois pu prévoir que ce cœur misérable</l>
+<l>Dût trouver un rival comme vous redoutable.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Je le crois.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Je n’ai garde à présent d’espérer ;</l>
+<l>Je vous cède, monsieur, et c’est sans murmurer.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Vous faites bien.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Le droit de la sorte l’ordonne,</l>
+<l>Et de tant de vertus brille votre personne,</l>
+<l>Que j’aurois tort de voir d’un regard de courroux</l>
+<l>Les tendres sentiments qu’Isabelle a pour vous.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Cela s’entend.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Oui, oui, je vous quitte la place ;</l>
+<l>Mais je vous prie au moins (et c’est la seule grâce,</l>
+<l>Monsieur, que vous demande un misérable amant</l>
+<pagenum num="316"/>
+<l>Dont vous seul aujourd’hui causez tout le tourment),</l>
+<l>Je vous conjure donc d’assurer Isabelle</l>
+<l>Que si depuis trois mois mon cœur brûle pour elle,</l>
+<l>Cet amour est sans tache, et n’a jamais pensé</l>
+<l>A rien dont son honneur ait lieu d’être offensé.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Oui.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Que, ne dépendant que du choix de mon âme,</l>
+<l>Tous mes desseins étoient de l’obtenir pour femme,</l>
+<l>Si les destins, en vous qui captivez son cœur,</l>
+<l>N’opposoient un obstacle à cette juste ardeur.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Fort bien.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Que, quoi qu’on fasse, il ne lui faut pas croire</l>
+<l>Que jamais ses appas sortent de ma mémoire ;</l>
+<l>Que, quelque arrêt des cieux qu’il me faille subir,</l>
+<l>Mon sort est de l’aimer jusqu’au dernier soupir ;</l>
+<l>Et, que si quelque chose étouffe mes poursuites,</l>
+<l>C’est le juste respect que j’ai pour vos mérites.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>C’est parler sagement ; et je vais de ce pas</l>
+<l>Lui faire ce discours, qui ne la choque pas ;</l>
+<l>Mais, si vous me croyez, tâchez de faire en sorte</l>
+<l>Que de votre cerveau cette passion sorte.</l>
+<l>Adieu.</l>
+
+<hstage><speaker>ERGASTE</speaker>, à Valère.</hstage>
+<l cont="true">La dupe est bonne !</l>
+
+<h3 id="acte2sc10">SCÈNE X. — SGANARELLE, <i>seul. </i>.</h3>
+
+<l cont="true">Il me fait grand’pitié,</l>
+<l>Ce pauvre malheureux tout rempli d’amitié ;</l>
+<l>Mais c’est un mal pour lui de s’être mis en tête</l>
+<l>De vouloir prendre un fort qui se voit ma conquête.</l>
+<pstage>Sganarelle heurte à sa porte.</pstage>
+
+<h3 id="acte2sc11">SCÈNE XI. — SGANARELLE, ISABELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Jamais amant n’a fait tant de trouble éclater.</l>
+<l>Au poulet renvoyé sans le décacheter :</l>
+<l>Il perd toute espérance enfin, et se retire ;</l>
+<pagenum num="317"/>
+<l>Mais il m’a tendrement conjuré de te dire :</l>
+<l>« Que du moins en t’aimant il n’a jamais pensé</l>
+<l>« A rien dont ton honneur ait lieu d’être offensé,</l>
+<l>« Et que, ne dépendant que du choix de son âme,</l>
+<l>« Tous ses désirs étoient de t’obtenir pour femme,</l>
+<l>« Si les destins, en moi, qui captive ton cœur,</l>
+<l>« N’opposoient un obstacle à cette juste ardeur ;</l>
+<l>« Que, quoi qu’on puisse faire, il ne te faut pas croire</l>
+<l>« Que jamais tes appas sortent de sa mémoire ;</l>
+<l>« Que, quelque arrêt des cieux qu’il lui faille subir,</l>
+<l>« Son sort est de t’aimer jusqu’au dernier soupir ;</l>
+<l>« Et que, si quelque chose étouffe sa poursuite,</l>
+<l>« C’est le juste respect qu’il a pour mon mérite »,</l>
+<l>Ce sont ses propres mots ; et, loin de le blâmer,</l>
+<l>Je le trouve honnête homme, et le plains de t’aimer.</l>
+
+<hstage><speaker>ISABELLE</speaker>, bas.</hstage>
+<l>Ses feux ne trompent point ma secrète croyance,</l>
+<l>Et toujours ses regards m’en ont dit l’innocence.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Que dis-tu ?</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Qu’il m’est dur que vous plaigniez si fort</l>
+<l>Un homme que je hais à l’égal de la mort ;</l>
+<l>Et que, si vous m’aimiez autant que vous le dites,</l>
+<l>Vous sentiriez l’affront que me font ses poursuites.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Mais il ne savoit pas tes inclinations ;</l>
+<l>Et, par l’honnêteté de ses intentions,</l>
+<l>Son amour ne mérite...</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Est-ce les avoir bonnes,</l>
+<l>Dites-moi, de vouloir enlever les personnes ?</l>
+<l>Est-ce être homme d’honneur, de former des desseins,</l>
+<l>Pour m’épouser de force en m’ôtant de vos mains ?</l>
+<l>Comme si j’étois fille à supporter la vie,</l>
+<l>Après qu’on m’auroit fait une telle infamie !</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Oui, oui, j’ai su que ce traître d’amant</l>
+<l>Parle de m’obtenir par un enlèvement ;</l>
+<l>Et j’ignore, pour moi, les pratiques secrètes</l>
+<pagenum num="318"/>
+<l>Qui l’ont instruit sitôt du dessein que vous faites</l>
+<l>De me donner la main dans huit jours au plus tard,</l>
+<l>Puisque ce n’est que d’hier que vous m en fîtes part,</l>
+<l>Mais il veut prévenir, dit-on, cette journée</l>
+<l>Qui doit à votre sort unir ma destinée.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Voilà qui ne vaut rien.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Oh ! que pardonnez-moi !</l>
+<l>C’est un fort honnête homme, et qui ne sent pour moi...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Il a tort ; et ceci passe la raillerie.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Allez, votre douceur entretient sa folie ;</l>
+<l>S’il vous eût vu tantôt lui parler vertement,</l>
+<l>Il craindroit vos transports et mon ressentiment :</l>
+<l>Car c’est encor depuis sa lettre méprisée</l>
+<l>Qu’il a dit ce dessein qui m’a scandalisée ;</l>
+<l>Et son amour conserve, ainsi que je l’ai su,</l>
+<l>La croyance qu’il est dans mon cœur bien reçu,</l>
+<l>Que je fuis votre hymen, quoi que le monde en croie,</l>
+<l>Et me verrois tirer de vos mains avec joie.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Il est fou.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Devant vous il sait se déguiser,</l>
+<l>Et son intention est de vous amuser.</l>
+<l>Croyez par ces beaux mots que le traître vous joue.</l>
+<l>Je suis bien malheureuse, il faut que je l’avoue,</l>
+<l>Qu’avecque tous mes soins pour vivre dans l’honneur</l>
+<l>Et rebuter les vœux d’un lâche suborneur,</l>
+<l>Il faille être exposée aux fâcheuses surprises</l>
+<l>De voir faire sur moi d’infâmes entreprises !</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Va, ne redoute rien.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Pour moi, je vous le dis,</l>
+<l>Si vous n’éclatez fort contre un trait si hardi,</l>
+<l>Et ne trouvez bientôt moyen de me défaire</l>
+<l>Des persécutions d’un pareil téméraire,</l>
+<l>J’abandonnerai tout, et renonce à l’ennui</l>
+<l>De souffrir les affronts que je reçois de lui.</l>
+
+<pagenum num="319"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Ne t’afflige point tant ; va, ma petite femme,</l>
+<l>Je m’en vais le trouver, et lui chanter sa gamme.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Dites-lui bien au moins qu’il le nieroit en vain,</l>
+<l>Que c’est de bonne part qu’on m’a dit son dessein ;</l>
+<l>Et qu’après cet avis, quoi qu’il puisse entreprendre,</l>
+<l>J’ose le défier de me pouvoir surprendre ;</l>
+<l>Enfin que, sans plus perdre et soupirs et moments,</l>
+<l>Il doit savoir pour vous quels sont mes sentiments,</l>
+<l>Et que, si d’un malheur, il ne veut être cause,</l>
+<l>Il ne se fasse pas deux fois dire une chose.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Je dirai ce qu’il faut.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Mais tout cela d’un ton</l>
+<l>Qui marque que mon cœur lui parle tout de bon.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Va, je n’oublierai rien, je t’en donne assurance.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>J’attends votre retour avec impatience ;</l>
+<l>Hâtez-le, s’il vous plaît, de tout votre pouvoir.</l>
+<l>Je languis quand je suis un moment sans vous voir.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Va, pouponne, mon cœur, je reviens tout à l’heure.</l>
+
+<h3 id="acte2sc12">SCÈNE XII. — SGANARELLE, <i>seul</i>.</h3>
+
+<l>Est-il une personne et plus sage et meilleure</l>
+<l>Ah ! que je suis heureux ! et que j’ai de plaisir</l>
+<l>De trouver une femme au gré de mon désir !</l>
+<l>Oui, voilà comme il faut que les femmes soient faites ;</l>
+<l>Et non, comme j’en sais, de ces franches coquettes</l>
+<l>Qui s’en laissent conter, et font dans tout Paris</l>
+<l>Montrer au bout du doigt leurs honnêtes maris.</l>
+<pstage>Il frappe à la porte de Valère.</pstage>
+<l>Holà ! notre galant aux belles entreprises !</l>
+
+<h3 id="acte2sc13">SCÈNE XIII. — VALÈRE, SGANARELLE, ERGASTE</h3>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Monsieur, qui vous ramène en ces lieux ?</l>
+
+<pagenum num="320"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Vos sottises.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Vous savez bien de quoi je veux parler</l>
+<l>Je vous croyois plus sage, à ne vous rien celer.</l>
+<l>Vous venez m’amuser de vos belles paroles,</l>
+<l>Et conservez sous main des espérances folles.</l>
+<l>Voyez-vous, j’ai voulu doucement vous traiter ;</l>
+<l>Mais vous m’obligerez à la fin d’éclater.</l>
+<l>N’avez-vous point de honte, étant ce que vous êtes,</l>
+<l>De faire en votre esprit les projets que vous faites ?</l>
+<l>De prétendre enlever une fille d’honneur,</l>
+<l>Et troubler un hymen qui fait tout son bonheur ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Qui vous a dit, monsieur, cette étrange nouvelle ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Ne dissimulons point, je la tiens d’Isabelle,</l>
+<l>Qui vous mande par moi, pour la dernière fois,</l>
+<l>Qu’elle vous a fait voir assez quel est son choix ;</l>
+<l>Que son cœur, tout à moi, d’un tel projet s’offense ;</l>
+<l>Qu’elle mourroit plutôt qu’en souffrir l’insolence ;</l>
+<l>Et que vous causerez de terribles éclats,</l>
+<l>Si vous ne mettez fin à tout cet embarras.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>S’il est vrai qu’elle ait dit ce que je viens d’entendre,</l>
+<l>J’avouerai que mes feux n’ont plus rien à prétendre ;</l>
+<l>Par ces mots assez clairs je vois tout terminé,</l>
+<l>Et je dois révérer l’arrêt qu’elle a donné.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>S’il ?... Vous en doutez donc, et prenez pour des feintes</l>
+<l>Tout ce que de sa part je vous ai fait de plaintes ?</l>
+<l>Voulez-vous qu’elle-même elle explique son cœur ?</l>
+<l>J’y consens volontiers, pour vous tirer d’erreur.</l>
+<l>Suivez-moi, vous verrez s’il est rien que j’avance,</l>
+<l>Et si son jeune cœur entre nous deux balance.</l>
+<pstage>Il va frapper à sa porte.</pstage>
+
+<h3 id="acte2sc14">SCÈNE XIV. — ISABELLE, SGANARELLE, VALÈRE, ERGASTE</h3>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Quoi ! vous me l’amenez. Quel est votre dessein ?</l>
+<pagenum num="321"/>
+<l>Prenez-vous contre moi ses intérêts en main ?</l>
+<l>Et voulez-vous, cliarmé de ses rares mérites,</l>
+<l>M’obliger à l’aimer, et souffrir ses visites ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Non, m’amie, et ton cœur pour cela m’est trop cher.</l>
+<l>Mais il prend mes avis pour des contes en l’air.</l>
+<l>Croit que c’est moi qui parle et te fais, par adresse,</l>
+<l>Pleine pour lui de haine et pour moi de tendresse ;</l>
+<l>Et par toi-même enfin j’ai voulu, sans retour.</l>
+<l>Le tirer d’une erreur qui nourrit son amour.</l>
+
+<hstage><speaker>ISABELLE</speaker>, à Valère.</hstage>
+<l>Quoi ! mon âme à vos yeux ne se montre pas toute,</l>
+<l>Et de mes vœux encor vous pouvez être en doute ?</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Oui, tout ce que monsieur de votre part m’a dit,</l>
+<l>Madame, a bien pouvoir de surprendre un esprit.</l>
+<l>J’ai douté, je l’avoue ; et cet arrêt suprême,</l>
+<l>Qui décide du sort de mon amour extrême,</l>
+<l>Doit m’être assez touchant, pour ne pas s’offenser</l>
+<l>Que mon cœur par deux fois le fasse prononcer.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Non, non, un tel arrêt ne doit pas vous surprendre ;</l>
+<l>Ce sont mes sentiments qu’il vous a fait entendre ;</l>
+<l>Et je les tiens fondés sur assez d’équité,</l>
+<l>Pour en faire éclater toute la vérité.</l>
+<l>Oui, je veux bien qu’on sache, et j’en dois être crue,</l>
+<l>Que le sort offre ici deux objets à ma vue,</l>
+<l>Qui, m’inspirant pour eux différents sentiments,</l>
+<l>De mon cœur agité font tous les mouvements.</l>
+<l>L’un, par un juste choix où l’honneur m’intéresse,</l>
+<l>A toute mon estime et toute ma tendresse ;</l>
+<l>Et, l’autre, pour le prix de son affection,</l>
+<l>A toute ma colère et mon aversion.</l>
+<l>La présence de l’un m’est agréable et chère,</l>
+<l>J’en reçois dans mon âme une allégresse entière ;</l>
+<l>Et l’autre, par sa vue, inspire dans mon cœur</l>
+<l>De secrets mouvements et de haine et d’horreur.</l>
+<l>Me voir femme de l’un est toute mon envie,</l>
+<l>Et, plutôt qu’être à l’autre, on m’ôteroit la vie.</l>
+<l>Mais c’est assez montrer mes justes sentiments,</l>
+<l>Et trop longtemps languir dans ces rudes tourments,</l>
+<l>Il faut que ce que j’aime, usant de diligence,</l>
+<pagenum num="322"/>
+<l>Fasse à ce que je hais perdre toutes espérance,</l>
+<l>Et qu’un heureux hymen affranchisse mon sort</l>
+<l>D’un supplice pour moi plus affreux que la mort.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Oui, mignonne, je songe à remplir ton attente.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>C’est l’unique moyen de me rendre contente.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Tu le seras dans peu.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Je sais qu’il est honteux</l>
+<l>Aux filles d’expliquer si librement leurs vœux.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Point, point.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Mais, en l’état où sont mes destinées.</l>
+<l>De telles libertés doivent m’être données ;</l>
+<l>Et je puis, sans rougir, faire un aveu si doux</l>
+<l>A celui que déjà je regarde en époux.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Oui, ma pauvre fanfan, pouponne de mon âme !</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Qu’il songe donc, de grâce, à me prouver sa flamme !</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Oui, tiens, baise ma main.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Que sans plus de soupirs </l>
+<l>Il conclue un hymen qui fait tous mes désirs,</l>
+<l>Et reçoive en ce lieu la foi que je lui donne</l>
+<l>De n’écouter jamais les vœux d’autre personne.</l>
+<pstage>Elle fait semblant d’embrasser Sganarelle, et donne sa main à baiser à Valère.</pstage>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Hai, hai, mon petit nez, pauvre petit bouchon,</l>
+<l>Tu ne languiras pas longtemps, je t’en répond.</l>
+<l>Va, chut.</l>
+<pstage>A Valère.</pstage>
+<l cont="true">Vous le voyez, je ne lui fais pas dire,</l>
+<l>Ce n’est qu’après moi seul que son âme respire.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Eh bien, madame, eh bien, c’est s’expliquer assez ;</l>
+<pagenum num="323"/>
+<l>Je vois par ce discours de quoi vous me pressez,</l>
+<l>Et je saurai dans peu vous ôter la présence</l>
+<l>De celui qui vous fait si grande violence.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Vous ne me sauriez faire un plus charmant plaisir ;</l>
+<l>Car enfin cette vue est fâcheuse à souffrir,</l>
+<l>Elle m’est odieuse ; et l’horreur est si forte...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Hé ! hé !</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Vous offensé-je en parlant de la sorte ?</l>
+<l>Fais-je...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Mon Dieu ! nenni, je ne dis pas cela :</l>
+<l>Mais je plains, sans mentir, l’état où le voilà.</l>
+<l>Et c’est trop hautement que ta haine se montre.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Je n’en puis trop montrer en pareille rencontre.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Oui, vous serez contente ; et, dans trois jours, vos yeux</l>
+<l>Ne verront plus l’objet qui vous est odieux.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>A la bonne heure. Adieu.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, à Valère.</hstage>
+<l cont="true">Je plains votre infortune ;</l>
+<l>Mais...</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Non, vous n’entendrez de mon cœur plainte aucune.</l>
+<l>Madame, assurément, rend justice à tous deux,</l>
+<l>Et je vais travailler à contenter ses vœux.</l>
+<l>Adieu.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Pauvre garçon ! sa douleur est extrême.</l>
+<l>Venez, embrassez-moi : c’est un autre elle-même.</l>
+<pstage>Il embrasse Valère.</pstage>
+
+<h3 id="acte2sc15">SCÈNE XV. — ISABELLE, SGANARELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Je le tiens fort à plaindre.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Allez, il ne l’est point.</l>
+
+<pagenum num="324"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Au reste, ton amour me touche au dernier point,</l>
+<l>Mignonnette, et je veux qu’il ait sa récompense.</l>
+<l>C’est trop que de huit jours pour ton impatience ;</l>
+<l>Dès demain je t’épouse, et n’y veux appeler...</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Dès demain !</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Par pudeur tu feins d’y reculer :</l>
+<l>Mais je sais bien la joie où ce discours te jette,</l>
+<l>Et tu voudrois déjà que la chose fût faite.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Mais... .</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Pour ce mariage allons tout préparer.</l>
+
+<hstage><speaker>ISABELLE</speaker>, à part.</hstage>
+<l>O ciel ! inspire-moi ce qui peut le parer.</l>
+
+<vsep class="rule"/>
+
+<h2 id="acte3">ACTE TROISIÈME</h2>
+
+<h3 id="acte3sc01">SCÈNE I. — ISABELLE, <i>seule</i>.</h3>
+
+<l>Oui, le trépas cent fois me semble moins à craindre</l>
+<l>Que cet hymen fatal où l’on veut me contraindre ;</l>
+<l>Et tout ce que je fais pour en fuir les rigueurs</l>
+<l>Doit trouver quelque grâce auprès de mes censeurs.</l>
+<l>Le temps presse, il fait nuit ; allons, sans crainte aucune,</l>
+<l>A la foi d’un amant commettre ma fortune.</l>
+
+<h3 id="acte3sc02">SCÈNE II. — SGANARELLE, ISABELLE</h3>
+
+<hstage><speaker>SGANARELLE</speaker>, parlant à ceux qui sont dans la maison.</hstage>
+<l>Je reviens, et l’on va pour demain de ma part...</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>O ciel !</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">C’est toi, mignonne ! Où vas-tu donc si tard ?</l>
+<l>Tu disois qu’en ta chambre, étant un peu lassée,</l>
+<l>Tu t’allois renfermer, lorsque je t’ai laissée ;</l>
+<l>Et tu m’avois prié même que mon retour</l>
+<l>T’y souffrît en repos jusques à demain jour<noteref noteid="note.324.1"/>.</l>
+
+<notes>
+  <note id="note.324.1">
+    <p>C’est-à-dire <i>à demain matin</i>.</p>
+  </note>
+</notes>
+
+<pagenum num="325"/>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Il est vrai ; mais...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Eh quoi ?</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Vous me voyez confuse,</l>
+<l>Et je ne sais comment vous en dire l’excuse.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Quoi donc ! que pourrait-ce être ?</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Un secret surprenant :</l>
+<l>C’est ma sœur qui m’oblige à sortir maintenant,</l>
+<l>Et qui, pour un dessein dont je l’ai fort blâmée,</l>
+<l>M’a demandé ma chambre, où je l’ai renfermée.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">L’eût-on pu croire ? Elle aime cet amant</l>
+<l>Que nous avons banni.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Valère ?</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Éperdûment.</l>
+<l>C’est un transport si grand, qu’il n’en est point de même</l>
+<l>Et vous pouvez juger de sa puissance extrême,</l>
+<l>Puisque seule, à cette heure, elle est venue ici</l>
+<l>Me découvrir à moi son amoureux souci,</l>
+<l>Me dire absolument qu’elle perdra la vie,</l>
+<l>Si son âme n’obtient l’effet de son envie ;</l>
+<l>Que, depuis plus d’un an, d’assez vives ardeurs</l>
+<l>Dans un secret commerce entretenoient leurs cœurs ;</l>
+<l>Et que même ils s’étoient, leur flamme étant nouvelle,</l>
+<l>Donné de s’épouser une foi mutuelle...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>La vilaine !</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Qu’ayant appris le désespoir</l>
+<l>Où j’ai précipité celui qu’elle aime à voir,</l>
+<l>Elle vient me prier de souffrir que sa flamme</l>
+<l>Puisse rompre un départ qui lui perceroit l’âme ;</l>
+<l>Entretenir ce soir cet amant sous mon nom,</l>
+<l>Par la petite rue où ma chambre répond ;</l>
+<pagenum num="326"/>
+<l>Lui peindre, d’une voix qui contrefait la mienne,</l>
+<l>Quelques doux sentiments dont l’appat le retienne,</l>
+<l>Et ménager enfin pour elle adroitement</l>
+<l>Ce que pour moi l’on sait qu’il a d’attachement.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Et tu trouves cela...</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Moi ? J’en suis courroucée.</l>
+<l>Quoi ! ma sœur, ai-je dit, êtes-vous insensée ?</l>
+<l>Ne rougissez-vous point d’avoir pris tant d’amour</l>
+<l>Pour ces sortes de gens qui changent chaque jour ?</l>
+<l>D’oublier votre sexe, et tromper l’espérance</l>
+<l>D’un homme dont le ciel vous donnoit l’alliance ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Il le mérite bien ; et j’en suis fort ravi.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Enfin de cent raisons mon dépit s’est servi</l>
+<l>Pour lui bien reprocher des bassesses si grandes,</l>
+<l>Et pouvoir cette nuit rejeter ses demandes ;</l>
+<l>Mais elle m’a fait voir de si pressants désirs.</l>
+<l>A tant versé de pleurs, tant poussé de soupirs,</l>
+<l>Tant dit qu’au désespoir je porterois son âme</l>
+<l>Si je lui refusois ce qu’exige sa flamme,</l>
+<l>Qu’à céder malgré moi mon cœur s’est vu réduit,</l>
+<l>Et, pour justifier cette intrigue de nuit,</l>
+<l>Où me faisoit du sang relâcher la tendresse,</l>
+<l>J’allois faire avec moi venir coucher Lucrèce,</l>
+<l>Dont vous me vantez tant les vertus chaque jour ;</l>
+<l>Mais vous m’avez surprise avec ce prompt retour.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Non, non, je ne veux point chez moi tout ce mystère.</l>
+<l>J’y pourrois consentir à l’égard de mon frère ;</l>
+<l>Mais on peut être vu de quelqu’un de dehors ;</l>
+<l>Et celle que je dois honorer de mon corps</l>
+<l>Non seulement doit être et pudique et bien née,</l>
+<l>Il ne faut pas que même elle soit soupçonnée.</l>
+<l>Allons chasser l’infâme, et de sa passion...</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Ah ! vous lui donneriez trop de confusion ;</l>
+<l>Et c’est avec raison qu’elle pourroit se plaindre</l>
+<l>Du peu de retenue où j’ai su me contraindre :</l>
+<l>Puisque de son dessein je dois me départir,</l>
+<pagenum num="327"/>
+<l>Attendez que du moins je la fasse sortir.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Ah bien, fais.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l cont="true">Mais surtout cachez-vous, je vous prie,</l>
+<l>Et, sans lui dire rien, daignez voir sa sortie.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Oui, pour l’amour de toi je retiens mes transports ;</l>
+<l>Mais, dès le même instant qu’elle sera dehors,</l>
+<l>Je veux, sans différer, aller trouver mon frère :</l>
+<l>J’aurai joie à courir lui dire cette affaire.</l>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Je vous conjure donc de ne me point nommer.</l>
+<l>Bonsoir, car tout d’un temps je vais me renfermer.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, seul.</hstage>
+<l>Jusqu’à demain, m’amie... En quelle impatience</l>
+<l>Suis-je de voir mon frère, et lui conter sa chance !</l>
+<l>Il en tient, le bonhomme, avec tout son phébus,</l>
+<l>Et je n’en voudrois pas tenir vingt bons écus.</l>
+
+<hstage><speaker>ISABELLE</speaker>, dans la maison.</hstage>
+<l>Oui, de vos déplaisirs l’atteinte m’est sensible ;</l>
+<l>Mais ce que vous voulez, ma sœur, m’est impossible ;</l>
+<l>Mon honneur, qui m’est cher, y court trop de hasard.</l>
+<l>Adieu. Retirez-vous avant qu’il soit plus tard.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>La voilà qui, je crois, peste de belle sorte :</l>
+<l>De peur qu’elle revînt, fermons à clef la porte.</l>
+
+<hstage><speaker>ISABELLE</speaker>, en sortant.</hstage>
+<l>O ciel ! dans mes desseins ne m’abandonnez pas !</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Où pourra-t-elle aller ? Suivons un peu ses pas.</l>
+
+<hstage><speaker>ISABELLE</speaker>, à part.</hstage>
+<l>Dans mon trouble du moins la nuit me favorise.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Au logis du galant ! Quelle est son entreprise ?</l>
+
+<h3 id="acte3sc03">SCÈNE III. — VALÈRE, ISABELLE, SGANARELLE</h3>
+
+<hstage><speaker>VALÈRE</speaker>, sortant brusquement.</hstage>
+<l>Oui, oui, je veux tenter quelque effort cette nuit</l>
+<l>Pour parler... Qui va là ?</l>
+
+<pagenum num="328"/>
+
+<hstage><speaker>ISABELLE</speaker>, à Valère.</hstage>
+<l cont="true">Ne faites point de bruit,</l>
+<l>Valère ; on vous prévient, et je suis Isabelle.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Vous en avez menti, chienne ; ce n’est pas elle</l>
+<l>De l’honneur que tu fuis elle suit trop les lois ;</l>
+<l>Et tu prends faussement et son nom et sa voix.</l>
+
+<hstage><speaker>ISABELLE</speaker>, à Valère.</hstage>
+<l>Mais à moins de vous voir par un saint hyménée...</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>Oui, c’est l’unique but où tend ma destinée ;</l>
+<l>Et je vous donne ici ma foi que dès demain</l>
+<l>Je vais où vous voudrez recevoir votre main.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, à part.</hstage>
+<l>Pauvre sot qui s’abuse !</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+
+<l cont="true">Entrez en assurance</l>
+<l>De votre Argus dupé je brave la puissance :</l>
+<l>Et, devant qu’il vous pût ôter à mon ardeur,</l>
+<l>Mon bras de mille coups lui perceroit le cœur.</l>
+
+<h3 id="acte3sc04">SCÈNE IV. — SGANARELLE, <i>seul</i>.</h3>
+
+<l>Ah ! je te promets bien que je n’ai pas envie</l>
+<l>De te l’ôter, l’infâme à ses feux asservie ;</l>
+<l>Que du don de ta foi je ne suis point jaloux,</l>
+<l>Et que, si j’en suis cru, tu seras son époux.</l>
+<l>Oui, faisons-le surprendre avec cette effrontée :</l>
+<l>La mémoire du père, à bon droit respectée,</l>
+<l>Jointe au grand intérêt que je prends à la sœur,</l>
+<l>Veut que du moins on tâche à lui rendre l’honneur.</l>
+<l>Holà !</l>
+<pstage>Il frappe à la porte d’un commissaire.</pstage>
+
+<h3 id="acte3sc05">SCÈNE V. — SGANARELLE, UN COMMISSAIRE, UN NOTAIRE ; UN LAQUAIS, <i>avec un flambeau</i>.</h3>
+
+<hstage><speaker>LE COMMISSAIRE</speaker></hstage>
+<l cont="true">Qu’est-ce ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Salut, monsieur le commissaire.</l>
+<l>Votre présence en robe est ici nécessaire.</l>
+<l>Suivez-moi, s’il vous plaît avec votre clarté.</l>
+<pagenum num="329"/>
+
+<hstage><speaker>LE COMMISSAIRE</speaker></hstage>
+<l>Nous sortons...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Il s’agit d’un fait assez hâté.</l>
+
+<hstage><speaker>LE COMMISSAIRE</speaker></hstage>
+<l>Quoi ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">D’aller là dedans, et d’y surprendre ensemble</l>
+<l>Deux personnes qu’il faut qu’un bon hymen assemble.</l>
+<l>C’est une fille à nous, que, sous un don de foi,</l>
+<l>Un Valère a séduite et fait entrer chez soi.</l>
+<l>Elle sort de famille et noble et vertueuse,</l>
+<l>Mais...</l>
+
+<hstage><speaker>LE COMMISSAIRE</speaker></hstage>
+<l cont="true">Si c’est pour cela, la rencontre est heureuse,</l>
+<l>Puisqu’ici nous avons un notaire.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Monsieur ?</l>
+
+<hstage><speaker>LE NOTAIRE</speaker></hstage>
+<l>Oui, notaire royal.</l>
+
+<hstage><speaker>LE COMMISSAIRE</speaker></hstage>
+<l cont="true">De plus, homme d’honneur.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Cela s’en va sans dire. Entrez dans cette porte,</l>
+<l>Et, sans bruit, ayez l’œil que personne n’en sorte :</l>
+<l>Vous serez pleinement contentés de vos soins ;</l>
+<l>Mais ne vous laissez pas graisser la patte au moins.</l>
+
+<hstage><speaker>LE COMMISSAIRE</speaker></hstage>
+<l>Comment ! vous croyez donc qu’un homme de justice...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Ce que j’en dis n’est pas pour taxer votre office.</l>
+<l>Je vais faire venir mon frère promptement :</l>
+<l>Faites que le flambeau m’éclaire seulement.</l>
+<pstage>A part.</pstage>
+<l>Je vais le réjouir, cet homme sans colère.</l>
+<l>Holà !</l>
+<pstage>Il frappe à la porte d’Ariste.</pstage>
+
+<h3 id="acte3sc06">SCÈNE VI. — ARISTE, SGANARELLE</h3>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">Qui frappe ? Ah ! ah ! que voulez-vous, mon frère ?</l>
+
+<pagenum num="330"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Venez, beau directeur, suranné damoiseau :</l>
+<l>On veut vous faire voir quelque chose de beau.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Je vous apporte une bonne nouvelle.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Quoi ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Votre Léonor, où, je vous prie, est-elle ?</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Pourquoi cette demande ? Elle est, comme je crois,</l>
+<l>Au bal chez son amie.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Eh ! oui, oui, suivez-moi :</l>
+<l>Vous verrez à quel bal la donzelle est allée.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Que voulez-vous conter ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Vous l’avez bien stylée :</l>
+<l>Il n’est pas bon de vivre en sévère censeur ;</l>
+<l>On gagne les esprits par beaucoup de douceur ;</l>
+<l>Et les soins défiants, les verrous et les grilles,</l>
+<l>Ne font pas la vertu des femmes ni des filles ;</l>
+<l>Nous les portons au mal par tant d’austérité,</l>
+<l>Et leur sexe demande un peu de liberté.</l>
+<l>Vraiment elle en a pris tout son soûl, la rusée ;</l>
+<l>Et la vertu chez elle est fort humanisée.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Où veut donc aboutir un pareil entretien ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Allez, mon frère aîné, cela vous sied fort bien ;</l>
+<l>Et je ne voudrois pas pour vingt bonnes pistoles</l>
+<l>Que vous n’eussiez ce fruit de vos maximes folles ;</l>
+<l>On voit ce qu’en deux sœurs nos leçons ont produit</l>
+<l>L’une fuit ce galant, et l’autre le poursuit.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Si vous ne me rendez cette énigme plus claire...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>L’énigme est que son bal est chez monsieur Valère ;</l>
+<pagenum num="331"/>
+<l>Que, de nuit, je l’ai vue y conduire ses pas,</l>
+<l>Et qu’à l’heure présente elle est entre ses bras.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Qui ?</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Léonor.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">Cessons de railler, je vous prie.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Je raille... Il est fort bon avec sa raillerie.</l>
+<l>Pauvre esprit ! Je vous dis et vous redis encor</l>
+<l>Que Valère chez lui tient votre Léonor,</l>
+<l>Et qu’ils s’étoient promis une foi mutuelle</l>
+<l>Avant qu’il eût songé de poursuivre Isabelle.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Ce discours d’apparence est si fort dépourvu...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Il ne le croira pas encore en l’ayant vu :</l>
+<l>J’enrage ! Par ma foi, l’âge ne sert de guère</l>
+<l>Quand on n’a pas cela.</l>
+<pstage>Il met le doigt sur son front.</pstage>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">Quoi ! voulez-vous, mon frère...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Mon Dieu, je ne veux rien. Suivez-moi seulement :</l>
+<l>Votre esprit tout à l’heure aura contentement,</l>
+<l>Vous verrez si j’impose, et si leur foi donnée</l>
+<l>N’avoit pas joint leurs cœurs depuis plus d’une année.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>L’apparence qu’ainsi, sans m’en faire avertir,</l>
+<l>A cet engagement elle eût pu consentir !</l>
+<l>Moi qui dans toute chose ai, depuis son enfance,</l>
+<l>Montré toujours pour elle entière complaisance,</l>
+<l>Et qui cent fois ai fait des protestations</l>
+<l>De ne jamais gêner ses inclinations !</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Enfin vos propres yeux jugeront de l’affaire.</l>
+<l>J’ai fait venir déjà commissaire et notaire :</l>
+<l>Nous avons intérêt que l’hymen prétendu</l>
+<l>Répare sur-le-champ l’honneur qu’elle a perdu ;</l>
+<l>Car je ne pense pas que vous soyez si lâche</l>
+<pagenum num="332"/>
+<l>De vouloir l’épouser avecque cette tache,</l>
+<l>Si vous n’avez encor quelques raisonnements</l>
+<l>Pour vous mettre au-dessus de tous les bernements.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Moi ? je n’aurai jamais cette foiblesse extrême</l>
+<l>De vouloir posséder un cœur malgré lui-même...</l>
+<l>Mais je ne saurois croire enfin...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Que de discours !</l>
+<l>Allons, ce procès-là continueroit toujours.</l>
+
+<h3 id="acte3sc07">SCÈNE VII. — SGANARELLE, ARISTE, UN COMMISSAIRE, UN NOTAIRE</h3>
+
+<hstage><speaker>LE COMMISSAIRE</speaker></hstage>
+<l>Il ne faut mettre ici nulle force en usage,</l>
+<l>Messieurs ; et si vos vœux ne vont qu’au mariage,</l>
+<l>Vos transports en ce lieu se peuvent apaiser,</l>
+<l>Tous deux également tendent à s’épouser ;</l>
+<l>Et Valère déjà, sur ce qui vous regarde,</l>
+<l>A signé que pour femme il tient celle qu’il garde.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>La fille ?</l>
+
+<hstage><speaker>LE COMMISSAIRE</speaker></hstage>
+<l cont="true">Est renfermée, et ne veut point sortir,</l>
+<l>Que vos désirs aux leurs ne veuillent consentir.</l>
+
+<h3 id="acte3sc08">SCÈNE VIII. — VALÈRE, UN COMMISSAIRE, UN NOTAIRE, SGANARELLE, ARISTE</h3>
+
+<hstage><speaker>VALÈRE</speaker>, à la fenêtre de sa maison.</hstage>
+<l>Non, messieurs ; et personne ici n’aura l’entrée,</l>
+<l>Que cette volonté ne m’ait été montrée.</l>
+<l>Vous savez qui je suis, et j’ai fait mon devoir</l>
+<l>En vous signant l’aveu qu’on peut vous faire voir.</l>
+<l>Si c’est votre dessein d’approuver l’alliance,</l>
+<l>Votre main peut aussi m’en signer l’assurance ;</l>
+<l>Sinon, faites état de m’arracher le jour,</l>
+<l>Plutôt que de m’ôter l’objet de mon amour. .</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Non, nous ne songeons pas à vous séparer d’elle.</l>
+<pstage>Bas, à part.</pstage>
+<l>Il ne s’est point encor détrompé d’Isabelle :</l>
+<l>Profitons de l’erreur.</l>
+
+<pagenum num="333"/>
+
+<hstage><speaker>ARISTE</speaker>, à Valère.</hstage>
+<l cont="true">Mais est-ce Léonor ?</l>
+
+<hstage><speaker>SGANARELLE</speaker>, à Ariste.</hstage>
+<l>Taisez-vous.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">Mais...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Paix donc !</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">Je veux savoir...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Encor ?</l>
+<l>Vous tairez-vous ? vous dis-je !</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l cont="true">Enfin, quoi qu’il advienne,</l>
+<l>Isabelle a ma foi ; j’ai de même la sienne,</l>
+<l>Et ne suis point un choix, à tout examiner,</l>
+<l>Que vous soyez reçus à faire condamner.</l>
+
+<hstage><speaker>ARISTE</speaker>, à Sganarelle.</hstage>
+<l>Ce qu’il dit là n’est pas...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Taisez-vous, et pour cause ;</l>
+<l>Vous saurez le secret.</l>
+<pstage>A Valère.</pstage>
+<l cont="true">Oui, sans dire autre chose,</l>
+<l>Nous consentons tous deux que vous soyez l’époux</l>
+<l>De celle qu’à présent on trouvera chez vous.</l>
+
+<hstage><speaker>LE COMMISSAIRE</speaker></hstage>
+<l>C’est dans ces termes-là que la chose est conçue,</l>
+<l>Et le nom est en blanc, pour ne l’avoir point vue.</l>
+<l>Signez. La fille après vous mettra tous d’accord.</l>
+
+<hstage><speaker>VALÈRE</speaker></hstage>
+<l>J’y consens de la sorte.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Et moi, je le veux fort.</l>
+<pstage>A part.</pstage>
+<l>Nous rirons bien tantôt.</l>
+<pstage>Haut.</pstage>
+<l cont="true">Là, signez donc, mon frère ;</l>
+<l>L’honneur vous appartient.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">Mais quoi ! tout ce mystère...</l>
+
+<pagenum num="334"/>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Diantre, que de façons ! Signez, pauvre butor.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Il parle d’Isabelle, et vous de Léonor.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>N’êtes-vous pas d’accord, mon frère, si c’est elle,</l>
+<l>De les laisser tous deux à leur foi mutuelle ?</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Sans doute.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Signez donc ; j’en fais de même aussi.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Soit. Je n’y comprends rien.</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l cont="true">Vous serez éclairci.</l>
+
+<hstage><speaker>LE COMMISSAIRE</speaker></hstage>
+<l>Nous allons revenir.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, à Ariste.</hstage>
+<l cont="true">Or çà, je vais vous dire</l>
+<l>La fin de cette intrigue.</l>
+<pstage>Ils se retirent dans le fond du théâtre.</pstage>
+
+<h3 id="acte3sc09">SCÈNE IX. — LÉONOR, SGANARELLE, ARISTE, LISETTE</h3>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l cont="true">O l’étrange martyre !</l>
+<l>Que tous ces jeunes fous me paroissent fâcheux !</l>
+<l>Je me suis dérobée au bal pour l’amour d’eux.</l>
+
+<hstage><speaker>LISETTE</speaker></hstage>
+<l>Chacun d’eux près de vous veut se rendre agréable.</l>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l>Et moi je n’ai rien vu de plus insupportable,</l>
+<l>Et je préférerois le plus simple entretien</l>
+<l>A tous les contes bleus de ces diseurs de rien.</l>
+<l>Ils croyent que tout cède à leur perruque blonde,</l>
+<l>Et pensent avoir dit le meilleur mot du monde,</l>
+<l>Lorsqu’ils viennent, d’un ton de mauvais goguenard,</l>
+<l>Vous railler sottement sur l’amour d’un vieillard ;</l>
+<l>Et moi, d’un tel vieillard je prise plus le zèle</l>
+<l>Que tous les beaux transports d’une jeune cervelle. </l>
+<l>Mais n’aperçois-je pas...</l>
+
+<pagenum num="335"/>
+
+<hstage><speaker>SGANARELLE</speaker>, à Ariste.</hstage>
+<l cont="true">Oui, l’affaire est ainsi.</l>
+<pstage>Apercevant Lêonor.</pstage>
+<l>Ah ! je la vois paroître, et la servante aussi.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Léonor, sans courroux, j’ai sujet de me plaindre.</l>
+<l>Vous savez si jamais j’ai voulu vous contraindre,</l>
+<l>Et si plus de cent fois je n’ai pas protesté</l>
+<l>De laisser à vos vœux leur pleine liberté :</l>
+<l>Cependant votre cœur, méprisant mon suffrage,</l>
+<l>De foi comme d’amour à mon insu s’engage.</l>
+<l>Je ne me repens pas de mon doux traitement ;</l>
+<l>Mais votre procédé me touche assurément ;</l>
+<l>Et c’est une action que n’a pas méritée</l>
+<l>Cette tendre amitié que je vous ai portée.</l>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l>Je ne sais pas sur quoi vous tenez ce discours ;</l>
+<l>Mais croyez que je suis de même que toujours,</l>
+<l>Que rien ne peut pour vous altérer mon estime,</l>
+<l>Que toute autre amitié me paroîtroit un crime,</l>
+<l>Et que, si vous voulez satisfaire mes vœux,</l>
+<l>Un saint nœud dès demain nous unira tous deux.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Dessus quel fondement venez-vous donc, mon frère...</l>
+
+<hstage><speaker>SGANARELLE</speaker></hstage>
+<l>Quoi ! vous ne sortez pas du logis de Valère ?</l>
+<l>Vous n’avez point conté vos amours aujourd’hui ?</l>
+<l>Et vous ne brûlez pas depuis un an pour lui ?</l>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l>Qui vous a fait de moi de si belles peintures,</l>
+<l>Et prend soin de forger de telles impostures ?</l>
+
+<h3 id="acte3sc10">SCÈNE X. — ISABELLE, VALÈRE, LÉONOR, ARISTE, SGANARELLE, UN COMMISSAIRE, UN NOTAIRE, LISETTE, ERGASTE</h3>
+
+<hstage><speaker>ISABELLE</speaker></hstage>
+<l>Ma sœur, je vous demande un généreux pardon,</l>
+<l>Si de mes libertés, j’ai taché votre nom.</l>
+<l>Le pressant embarras d’une surprise extrême</l>
+<l>M’a tantôt inspiré ce honteux stratagème ;</l>
+<l>Votre exemple condamne un tel emportement ;</l>
+<l>Mais le sort nous traita tous deux diversement.</l>
+<pagenum num="336"/>
+<pstage>A Sganarelle.</pstage>
+<l>Pour vous, je ne veux point, monsieur, vous faire excuse.</l>
+<l>Je vous sers beaucoup plus que je ne vous abuse.</l>
+<l>Le ciel pour être joints ne nous fit pas tous deux :</l>
+<l>Je me suis reconnue indigne de vos feux ;</l>
+<l>Et j’ai bien mieux aimé me voir aux mains d’un autre</l>
+<l>Que ne pas mériter un cœur comme le vôtre.</l>
+
+<hstage><speaker>VALÈRE</speaker>, à Sganarelle.</hstage>
+<l>Pour moi, je mets ma gloire et mon bien souverain.</l>
+<l>A la pouvoir, monsieur, tenir de votre main.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l>Mon frère, doucement, il faut boire la chose.</l>
+<l>D’une telle action vos procédés sont cause,</l>
+<l>Et je vois votre sort malheureux à ce point,</l>
+<l>Que, vous sachant dupé, l’on ne vous plaindra point.</l>
+
+<hstage><speaker>LISETTE</speaker></hstage>
+<l>Par ma foi, je lui sais bon gré de cette affaire ;</l>
+<l>Et ce prix de ses soins est un trait exemplaire.</l>
+
+<hstage><speaker>LÉONOR</speaker></hstage>
+<l>Je ne sais si ce trait se doit faire estimer ;</l>
+<l>Mais je sais bien qu’au moins je ne puis le blâmer.</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Au sort d’être cocu son ascendant l’expose ;</l>
+<l>Et ne l’être qu’en herbe est pour lui douce chose.</l>
+
+<hstage><speaker>SGANARELLE</speaker>, sortant de l’accablement dans lequel il étoit plongé.</hstage>
+<l>Non, je ne puis sortir de mon étonnement.</l>
+<l>Cette ruse d’enfer confond mon jugement,</l>
+<l>Et je ne pense pas que Satan en personne</l>
+<l>Puisse être si méchant qu’une telle friponne.</l>
+<l>J’aurois pour elle au feu mis la main que voilà.</l>
+<l>Malheureux qui se fie à femme après cela !</l>
+<l>La meilleure est toujours en malice féconde ;</l>
+<l>C’est un sexe engendré pour damner tout le monde.</l>
+<l>J’y renonce à jamais, à ce sexe trompeur,</l>
+<l>Et je le donne tout au diable de bon cœur.</l>
+
+<hstage><speaker>ERGASTE</speaker></hstage>
+<l>Bon.</l>
+
+<hstage><speaker>ARISTE</speaker></hstage>
+<l cont="true">Allons tous chez moi. Venez, seigneur Valère ;</l>
+<l>Nous tâcherons demain d’apaiser sa colère.</l>
+
+<hstage><speaker>LISETTE</speaker>, au parterre.</hstage>
+<l>Vous, si vous connoissez des maris loups-garous,</l>
+<l>Envoyez-les au moins à l’école chez nous.</l>
+
+</page-sequence>
+</page-sequences>
+</bml>
