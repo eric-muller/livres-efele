@@ -4,7 +4,6 @@
   <import file="../../../tools/build-common.xml"/>
 
   <target name='books'>
-<!--
     <book x='00_avant_propos'/>
     <book x='01_notice_historique'/>
     <book x='02_eloge_de_moliere'/>
@@ -15,8 +14,7 @@
     <book x='07_caracteres_et_anecdotes'/>
     <book x='08_tableaux_historiques'/>
     <book x='10_melanges_de_litterature'/>
--->
-<book x='12_theatre'/>
+    <book x='12_theatre'/>
   </target>
 
 <!--
