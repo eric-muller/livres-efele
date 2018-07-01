@@ -1,0 +1,5565 @@
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb30267616p">
+
+      <titre>Œuvres complètes de François Coppé</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11897612w">
+        <nom-bibliographie>Coppée, François</nom-bibliographie>
+        <dates>1842-1908</dates>
+        <nom-couverture>François Coppée</nom-couverture>
+      </auteur>
+      
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488218gg" role="ill">
+        <nom-bibliographie>Flameng, François</nom-bibliographie>
+        <dates>1856-1923</dates>
+        <nom-couverture>François Flameng</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488219t" role="ill">
+        <nom-bibliographie>Tofani, Oswaldo</nom-bibliographie>
+        <dates>1849-1915</dates>
+        <nom-couverture>Oswaldo Tofani</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb14967570r" role="ill">
+        <nom-bibliographie>Dawant, Albert Pierre</nom-bibliographie>
+        <dates>1852-1923</dates>
+        <nom-couverture>Albert Dawant</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>L. Hébert</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <editeur>
+        <nom>A. Houssiaux</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1885</date>
+
+      <langue>fr</langue>
+    </monographie>
+    
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k4080424"
+                 pages="N6 1-1 3-3 5-16 A1 17-250 B1 251-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000564"
+        creation="2018-07-01T08:36:57-07:00">
+      
+      <titre>Contes en vers et poésies diverses</titre>
+
+      <collection id="c00018" volume="9">
+        <titre>Œuvres complètes de François Coppée, édition Lemerre</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+  
+  <toc>
+    <tocentry idref="p01" label="Contes en Vers">
+      <tocentry idref="p02" label="La Marchande de Journaux"/>
+      <tocentry idref="p03" label="L’Épave"/>
+      <tocentry idref="p04" label="L’Enfant de la Balle"/>
+      <tocentry idref="p05" label="Les Boucles d’oreilles"/>
+      <tocentry idref="p06" label="Le Roman de Jeanne"/>
+      <tocentry idref="p07" label="Pour le Drapeau"/>
+      <tocentry idref="p08" label="Bleuette"/>
+    </tocentry>
+
+    <tocentry idref="p09" label="Poésies Diverses">
+      <tocentry idref="p10" label="Le Raisin"/>
+      <tocentry idref="p11" label="Premier désir"/>
+      <tocentry idref="p12" label="Une Aumone"/>
+      <tocentry idref="p13" label="Préface d’un Livre posthume"/>
+      <tocentry idref="p14" label="A un Amant"/>
+      <tocentry idref="p15" label="A un Élégiaque"/>
+      <tocentry idref="p16" label="La Chambre abandonnée"/>
+      <tocentry idref="p17" label="Le Bateau-mouche"/>
+      <tocentry idref="p18" label="La Nymphe de Ville-d’Avray"/>
+      <tocentry idref="p19" label="L’Anneau"/>
+      <tocentry idref="p20" label="Vieux Brouillon de lettre"/>
+      <tocentry idref="p21" label="Sur une Tombe au printemps"/>
+      <tocentry idref="p22" label="Le Vin"/>
+      <tocentry idref="p23" label="Portrait de Victor Hugo par Bonnat"/>
+      <tocentry idref="p24" label="L’Anniversaire"/>
+      <tocentry idref="p25" label="Résurrection"/>
+      <tocentry idref="p26" label="Le Rêve (d’après Jules Lefebvre)"/>
+      <tocentry idref="p27" label="L’Éducation maternelle (d’après Delaplanche)"/>
+      <tocentry idref="p28" label="Rêverie (d’après Jacquet)"/>
+      <tocentry idref="p29" label="Le Régiment qui passe (d’après Detaille)"/>
+      <tocentry idref="p30" label="Aux Femmes de Lyon"/>
+      <tocentry idref="p31" label="Le Cadeau de Sahagun le vieux"/>
+      <tocentry idref="p32" label="Pour Guitare solo"/>
+      <tocentry idref="p33" label="Ballade de Coppée à Banville"/>
+      <tocentry idref="p34" label="Ballade de Banville à Coppée"/>
+      <tocentry idref="p35" label="Préface Émile Blavet"/>
+      <tocentry idref="p36" label="Aux Bourgeois d’Amsterdam"/>
+      <tocentry idref="p37" label="Dizains"/>
+      <tocentry idref="p38" label="Statue d’Homme d’État"/>
+      <tocentry idref="p39" label="Sur un Exemplaire de l’Exilée"/>
+      <tocentry idref="p40" label="Pour une Fiancée"/>
+      <tocentry idref="p41" label="Très ancien Sonnet"/>
+      <tocentry idref="p42" label="Caprice attendri"/>
+      <tocentry idref="p43" label="Pour une Blonde inconnue"/>
+      <tocentry idref="p44" label="Ballade pour deux Dames"/>
+      <tocentry idref="p45" label="L’Éventail"/>
+      <tocentry idref="p46" label="Billet"/>
+      <tocentry idref="p47" label="L’Asile de Nuit"/>
+      <tocentry idref="p48" label="Au jardin du Luxembourg"/>
+      <tocentry idref="p49" label="A Petœfi"/>
+      <tocentry idref="p50" label="Poèmes magyars"/>
+      <tocentry idref="p51" label="L’Amiral Courbet"/>
+      <tocentry idref="p52" label="L’Étoile des Bergers"/>
+    </tocentry>
+  </toc>
+  
+  <cover src="images/couverture3.png" alt="Œuvres complètes de François Coppée de l’Académie française. Édition ornée du portrait de l’auteur gravé par M. Léopold Flameng et illustrée de 10 dessins de M. François Flameng et de 2 dessins de M. Tofani gravés au burin par MM. Boisson, Boutelié, Dubouchet et Jules Jacquet. Poésies — Tome III. Édition Lemerre. Paris. L. Hébert, libraire. 7, rue Perronet, 7. 1888"/>
+
+ <page-sequences>
+ <page-sequence recto="true" id="p01">
+<pagenum num="1"/>
+
+<vsep class="fewlines"/>
+
+<h1>CONTES EN VERS</h1>
+
+<pagenum num="2"/>
+ </page-sequence>
+ <page-sequence recto="true" id="p02">
+ <pagenum num="3"/>
+
+<vsep class="fewlines"/>
+
+<h1>LA MARCHANDE DE JOURNAUX</h1>
+
+<pagenum num="4"/>
+ </page-sequence>
+<page-sequence recto="true">
+ <pagenum num="5"/>
+
+<h2>LA MARCHANDE DE JOURNAUX</h2>
+
+<h2><s>CONTE PARISIEN</s></h2>
+<h2><s>A MOUNET-SULLY</s></h2>
+
+<poem>
+<h3>I</h3>
+
+<lg>
+<l>« Demandez les journaux du soir... la <i>Liberté</i>...</l>
+<l>La <i>France</i>... »</l>
+</lg>
+
+<lg>
+<l cont="true">A cet appel, sans cesse répété</l>
+<l>Par la vieille marchande à la voix âpre et claire,</l>
+<l>Je faisais halte au coin du faubourg populaire</l>
+<l>Dont les vitres flambaient dans le soleil couchant,</l>
+<l>Et prenais un journal pour le lire en marchant.</l>
+<l>Ce n’est pas que je sois ardent en politique :</l>
+<pagenum num="6"/>
+<l>Les révolutions rendent un peu sceptique ;</l>
+<l>Mais, par vieille habitude et besoin machinal,</l>
+<l>Je parcours volontiers, tous les soirs, un journal,</l>
+<l>Pour savoir si l’on va changer ou non de maître,</l>
+<l>Comme avant de sortir on voit le baromètre.</l>
+</lg>
+
+<lg>
+<l>— « Demandez les journaux.., le <i>Temps</i>... le <i>Moniteur</i>...</l>
+</lg>
+
+<lg>
+<l>Et, prenant le paquet tout frais, que le porteur</l>
+<l>Lui jetait, en courant, dans sa pauvre boutique,</l>
+<l>La bonne femme, active à servir la pratique,</l>
+<l>Derrière un vasistas ouvert sur le trottoir</l>
+<l>Se démenait, cherchait des sous dans son tiroir,</l>
+<l>Et vendait, d’une humeur absolument égale,</l>
+<l>Papier conservateur ou feuille radicale ;</l>
+<l>— Et, lorsque je prenais un journal, au hasard :</l>
+</lg>
+
+<lg>
+<l>— « Ah ! vous voilà, monsieur ! Vous arrivez bien tard ; —</l>
+<l>Disait-elle gaiement. — Voyez ! ma vente est faite.</l>
+<l>Je n’ai plus qu’un <i>Pays</i> et que deux <i>Estafette...</i></l>
+<l>Et c’est toujours ainsi, lorsque les députés,</l>
+<l>Comme ils ont fait hier, se sont bien disputés,</l>
+<l>Et quand on dit qu’on va changer le ministère. »</l>
+</lg>
+
+<lg>
+<l>Quelquefois, je causais, auprès de l’éventaire,</l>
+<pagenum num="7"/>
+<l>Avec la brave vieille aux yeux intelligents ;</l>
+<l>Car mon goût est très vif pour les petites gens.</l>
+<l>Et, tout en déployant la <i>Presse</i> ou la <i>Patrie</i>,</l>
+<l>Qui m’envoyait sa bonne odeur d’imprimerie,</l>
+<l>J’avais pour mes trois sous un instant d’entretien.</l>
+</lg>
+
+<lg>
+<l>— « Mon Dieu ! pour le moment, ça ne va pas trop bien.</l>
+<l>C’est la morte saison, vous savez... et la Chambre</l>
+<l>Ne se réunira que vers la mi-novembre.</l>
+<l>Les grands formats sont nuls, et les petits journaux</l>
+<l>N’ont que les faits divers et que les tribunaux...</l>
+<l>Vous autres, les messieurs, vous chassez, ou vous êtes</l>
+<l>Aux bains de mer, aux eaux... Sans le sou des grisettes,</l>
+<l>Qui ne voudraient pour rien manquer le feuilleton</l>
+<l>De leur <i>Petit Journal</i>, à peine vivrait-on...</l>
+<l>Pour écouler ce tas de papiers qu’on imprime,</l>
+<l>C’est triste à dire, mais il faudrait un gros crime...</l>
+<l>Je ne désire pas qu’il arrive, grand Dieu !</l>
+<l>Mais, du temps du procès Billoir, quel coup de feu !</l>
+<l>Quand on a publié toutes ces infamies,</l>
+<l>Monsieur, j’étais au bout de mes économies ;</l>
+<l>Mais, en un mois, et rien qu’avec les <i>illustrés</i>,</l>
+<l>Eh bien ! j’ai pu payer deux termes arriérés...</l>
+<l>Mais ce n’est qu’un hasard... Tandis que les tapages</l>
+<l>A Versailles, voilà le temps des forts tirages !</l>
+<pagenum num="8"/>
+<l>Ça ne peut pas manquer et ça revient vingt fois...</l>
+<l>Aussi, lorsque je fais un billet pour mon bois,</l>
+<l>Pendant la session j’en fixe l’échéance,</l>
+<l>Et je m’acquitte après une bonne séance. »</l>
+</lg>
+
+<lg>
+<l>Je m’éloignais, trouvant singulier le destin</l>
+<l>Qui voulait que ce fût le crime du matin,</l>
+<l>Ou le tumulte fait dans les Chambres, la veille,</l>
+<l>Qui donnât quelque aisance à cette pauvre vieille.</l>
+<l>Je trouvais un plaisir ironique à savoir</l>
+<l>Que l’antique combat du peuple et du pouvoir</l>
+<l>Et tout leur vain travail pour mettre en équilibre</l>
+<l>Le besoin d’être fort et l’ardeur d’être libre,</l>
+<l>Le prétoire vibrant à la voix des tribuns,</l>
+<l>L’Assemblée en démence et les cris importuns</l>
+<l>Qu’on poussera toujours autour du Capitole,</l>
+<l>Et tout ce que produit, aux jours de rage folle,</l>
+<l>Le parlementarisme et son jeu régulier,</l>
+<l>Aidassent cette femme à payer son loyer.</l>
+<l>Il me plaisait assez que le bruit de la Presse</l>
+<l>Assurât par hasard le pain d’une pauvresse,</l>
+<l>Et que tout ce scandale eût ce bon résultat</l>
+<l>Qu’elle pût vivre, à bord du vaisseau de l’État</l>
+<l>Durement ballotté sur la mer politique,</l>
+<l>Ainsi qu’une souris dans un transatlantique.</l>
+</lg>
+
+<pagenum num="9"/>
+
+<h3>II</h3>
+
+<lg>
+<l>Un soir, — les premiers froids étaient déjà venus, — </l>
+<l>Au fond de la chétive échoppe, j’aperçus</l>
+<l>Un spectacle nouveau, qui me fit de la peine.</l>
+<l>C’était un pauvre enfant, — huit ou dix ans à peine, —</l>
+<l>Blond, pâle, l’air malade, habillé tout en deuil,</l>
+<l>Qui se tenait assis dans un petit fauteuil</l>
+<l>Ayant sur ses genoux un vieux dictionnaire,</l>
+<l>Et regardant avec des yeux de poitrinaire.</l>
+</lg>
+
+<lg>
+<l>Je demandai :</l>
+</lg>
+
+<lg>
+<l cont="true">— « Quel est donc ce petit garçon ?</l>
+</lg>
+
+<lg>
+<l>— Mais c’est mon petit-fils ; il apprend sa leçon ! — </l>
+<l>Me répondit, d’un air tout orgueilleux, la vieille, — </l>
+<l>Et les frères en sont très contents.</l>
+</lg>
+
+<lg>
+<l cont="true">— A merveille ! — </l>
+<l>Repris-je... — Ses parents l’ont envoyé vous voir ?</l>
+</lg>
+
+<lg>
+<l>— Hélas ! mon bon monsieur, voyez... il est en noir.</l>
+<pagenum num="10"/>
+<l>Pauvre enfant ! il n’a plus sa mère ni son père...</l>
+<l>Mais sa bonne-maman l’élèvera, j’espère.</l>
+<l>Maintenant, il n’a plus que moi, cher innocent !</l>
+<l>Il a coûté la vie à ma fille en naissant...</l>
+<l>Et voilà des malheurs qu’on ne peut pas comprendre...</l>
+<l>Des orphelins d’un jour !... Quant à mon pauvre gendre,</l>
+<l>Il était étameur de glaces ; et les gens,</l>
+<l>Dans ce vilain métier, ne durent pas dix ans,</l>
+<l>S’ils n’ont pas les poumons comme un soufflet de forge,</l>
+<l>A cause du mercure.</l>
+</lg>
+
+<lg>
+<l cont="true">— Allons ! un sucre d’orge, » —</l>
+<l>Dis-je à l’enfant, qui vint pour me remercier,</l>
+<l>Prit mes sous et courut, joyeux, chez l’épicier.</l>
+<l>Et, quand je fus resté seul avec la marchande :</l>
+</lg>
+
+<lg>
+<l>— « L’enfant se porte bien ?</l>
+<l cont="true">— J’attendais la demande,</l>
+<l>Monsieur, — répondit-elle avec un gros soupir. —</l>
+<l>C’est le chagrin que j’ai tous les jours à subir.</l>
+<l>Non ! il ne va pas bien... Que je suis malheureuse !</l>
+<l>Avec ses yeux cernés et sa figure creuse,</l>
+<l>C’est tout son père... Il souffre, hélas ! le cher petit !</l>
+<l>Il tousse, il dort à peine, il n’a pas d’appétit.</l>
+<pagenum num="11"/>
+<l>Enfin, le médecin dit que c’est la croissance !...</l>
+<l>C’est qu’il est si mignon... et d’une obéissance !...</l>
+<l>Et tout ce qu’il voudrait, il l’apprendrait, je crois,</l>
+<l>Mon Joseph... A l’école, il a toujours la croix...</l>
+<l>Mais sa santé... voilà ce qui me désespère !</l>
+</lg>
+
+<lg>
+<l>— Courage ! — dis-je.</l>
+</lg>
+
+<lg>
+<l cont="true">— Enfin, mon commerce prospère, —</l>
+<l>Continua l’aïeule, — et de telle façon,</l>
+<l>Monsieur, que rien ne manque à mon pauvre garçon.</l>
+<l>Le bon Dieu, quand j’ai trop de mal, me vient en aide.</l>
+<l>Tenez ! j’ai cru l’enfant malade sans remède,</l>
+<l>Voilà tantôt trois ans... Le docteur ordonna</l>
+<l>Des médicaments chers, du vin de quinquina...</l>
+<l>Mais, juste en ce moment, je m’en souviens encore,</l>
+<l>La Chambre renversa le cabinet Dufaure,</l>
+<l>Et j’ai pu — je gagnais des douze francs par jour —</l>
+<l>Donner ce qu’il fallait à mon petit amour...</l>
+<l>Au Seize Mai, — la vente allait, je vous assure ! — </l>
+<l>J’ai fourni mon Joseph de linge et de chaussure ;</l>
+<l>Et quand le Maréchal, à la fin, est tombé,</l>
+<l>J’ai fait faire un habit tout neuf à mon bébé... »</l>
+</lg>
+
+<lg>
+<l>Le retour de Joseph finit la causerie ;</l>
+<pagenum num="12"/>
+<l>Mais je sortis de là l’âme tout attendrie,</l>
+<l>Et j’avais le cœur pris par le simple roman</l>
+<l>De cet enfant malade et de sa grand’maman.</l>
+<l>Le lendemain, je dus partir pour la province,</l>
+<l>Mais sans les oublier ; et l’intérêt fort mince</l>
+<l>Qu’aux choses de l’État jusqu’alors j’avais mis,</l>
+<l>Grandit, quand je songeais à mes humbles amis.</l>
+<l>Car je ne pouvais plus juger la politique</l>
+<l>Qu’au point de vue étroit de leur pauvre boutique ;</l>
+<l>Et quand, par un hasard devenu bien banal,</l>
+<l>J’apprenais, en voyant les pages du journal</l>
+<l>Pleines d’alinéas et de rappels à l’ordre,</l>
+<l>Que nos législateurs avaient failli se mordre Et qu’en plein</l>
+<l>Parlement ils s’étaient outragés,</l>
+<l>Rêveur, tout en lisant leurs discours prolongés,</l>
+<l>Où le bon sens souffrait autant que la grammaire,</l>
+<l>Je me disais :</l>
+</lg>
+
+<lg>
+<l cont="true">— « Tant mieux ! pour la pauvre grand’mère. »</l>
+</lg>
+
+<h3>III</h3>
+
+<lg>
+<l>A mon retour, j’appris que l’enfant était mort.</l>
+<pagenum num="13"/>
+<l>— « Ah ! monsieur, — médisait, en sanglotant bien fort,</l>
+<l>La vieille, devenue en peu de jours caduque, — </l>
+<l>Quand on perd, à mon âge, un enfant qu’on éduque,</l>
+<l>C’est trop dur !... Et bientôt, j’en mourrai, Dieu merci !...</l>
+<l>Je ne sais pas pourquoi je reste encore ici ;</l>
+<l>Car je perds la mémoire, un rien me bouleverse,</l>
+<l>Et je n’ai plus la tête à mon petit commerce.</l>
+<l>Autrefois, si j’étais âpre à gagner du pain,</l>
+<l>C’était pour partager avec mon chérubin.</l>
+<l>Maintenant, mon chagrin me nourrit... Que m’importe</l>
+<l>Le reste ?... Voyez-vous ! je suis à moitié morte ;</l>
+<l>J’aurais cent ans, monsieur, que je serais moins bas !...</l>
+<l>Un client, qui me prend tous les jours les <i>Débats</i>,</l>
+<l>Un bien brave homme, allez ! qui plaint les misérables,</l>
+<l>M’a promis de me faire admettre aux Incurables...</l>
+<l>Eh bien, soit !... J’irai là mourir un de ces jours... »</l>
+</lg>
+
+<lg>
+<l>Que pouvais-je répondre à ce navrant discours ?</l>
+<l>Que faire pour calmer une douleur si grande ?</l>
+<l>Hélas ! rien. Et depuis, chez la pauvre marchande,</l>
+<l>Quand j’entrais acheter quelques journaux du soir,</l>
+<l>J’étais muet devant cet affreux désespoir.</l>
+</lg>
+
+<lg>
+<l>Vers ce temps, — ce n’est plus pour nous une surprise, —</l>
+<l>Notre gouvernement était en pleine crise.</l>
+<pagenum num="14"/>
+<l>Voici l’intéressant langage qu’on tenait :</l>
+</lg>
+
+<lg>
+<l>— « C’est fort heureux ! Tant pis pour l’ancien cabinet !</l>
+<l>Il subit justement la loi de la bascule.</l>
+<l>Morel était trop vieux, et Morin ridicule ;</l>
+<l>Moreau s’imaginait être de droit divin,</l>
+<l>Et Morand recevait par trop de pots-de-vin...</l>
+<l>Tandis que parlez-moi du nouveau ministère !</l>
+<l>Dubois est éloquent et Dufour est austère ;</l>
+<l>Malgré ses tristes mœurs et deux serments trahis,</l>
+<l>Dupont, par ses talents, honore son pays ;</l>
+<l>Dupuis est fin ; Durand est loin d’être une bête...</l>
+<l>Nous aurons avec eux la politique honnête.</l>
+<l>Leur programme est très bien, que donne mon journal :</l>
+<l>L’ordre et la liberté... C’est fort original.</l>
+<l>Ces gens-là n’iront pas commettre une imprudence... »</l>
+<l>Bref, il était acquis, et de toute évidence,</l>
+<l>Que le groupe Morel-Morin-Morand-Moreau</l>
+<l>De tout progrès utile eût été le bourreau</l>
+<l>Et que droit à l’abîme il menait la patrie ;</l>
+<l>Tandis qu’agriculture, arts, commerce, industrie,</l>
+<l>Allaient fleurir et prendre un essor bien plus grand,</l>
+<l>Par la combinaison Dufour-Dubois-Durand.</l>
+</lg>
+
+<lg>
+<l>Je connaissais Durand, un homme fort aimable.</l>
+<pagenum num="15"/>
+<l>Et, depuis quelque temps, je me trouvais blâmable.</l>
+<l>Se désintéresser de tout, ce n’est pas bien.</l>
+<l>On finirait par être un mauvais citoyen...</l>
+<l>Voyons ! Ce cabinet ? Il n’a rien qui me gêne ;</l>
+<l>Il est conservateur, libéral, homogène,</l>
+<l>Très gentil !...</l>
+</lg>
+
+<lg>
+<l cont="true">Et déjà, plein d’un zèle subit,</l>
+<l>Le dos au feu, troussant les pans de mon habit,</l>
+<l>De mes nouveaux amis j’exposais la tactique</l>
+<l>A l’heure où, dans l’ennui d’un salon politique,</l>
+<l>Le thé circule avec les tranches de baba.</l>
+</lg>
+
+<lg>
+<l>Six semaines après, le cabinet tomba.</l>
+</lg>
+
+<lg>
+<l>Ah ! j’étais furieux, cette fois. Mettre à terre</l>
+<l>Des gens si bien pensants, un si bon ministère !</l>
+<l>C’est à désespérer de tout gouvernement !...</l>
+<l>Et, maudissant le vain besoin de changement</l>
+<l>Qui, ce jour-là, venait de troubler les cervelles,</l>
+<l>Levé de très bonne heure, avide de nouvelles,</l>
+<l>J’allai chez ma marchande acheter le journal.</l>
+<l>Paris avait été plus que moi matinal ;</l>
+<l>Il ne restait plus rien qu’un <i>Siècle</i> de la veille.</l>
+<l>Mais je fus stupéfait en regardant la vieille ;</l>
+<pagenum num="16"/>
+<l>Car je lui retrouvai l’air joyeux qu’elle avait</l>
+<l>Les jours de gain, du temps que son enfant vivait.</l>
+</lg>
+
+<lg>
+<l>— « Le pauvre mort — pensai-je en mon humeur stupide</l>
+<l>Est oublié... Ce n’est qu’une femme cupide. »</l>
+</lg>
+
+<lg>
+<l>Mais, devant mon regard, l’aïeule avait compris :</l>
+</lg>
+
+<lg>
+<l>— « Ah ! — fit-elle, — monsieur, ne soyez pas surpris</l>
+<l>Si j’ai le cœur content de ce bon jour de vente.</l>
+<l>Moi, je n’ai plus besoin de rien, et je m’en vante...</l>
+<l>Mais, pour Joseph, avec de l’argent emprunté,</l>
+<l>J’ai pu prendre un terrain à perpétuité,</l>
+<l>Et j’ai fait des billets, et l’huissier me menace...</l>
+<l>Puis, si vous pouviez voir son coin, à Montparnasse ?</l>
+<l>Un vrai jardin !... Je vais prier là, tous les mois...</l>
+<l>Ça me coûte bien cher ; mais aussi quand je vois</l>
+<l>Son tombeau tout couvert de fleurs et de verdure,</l>
+<l>Il me semble que c’est ma prière qui dure ! »</l>
+</lg>
+
+<lg>
+<l>Je lui serrai les mains, honteux de mon soupçon ;</l>
+<l>Et, depuis lors, ayant médité la leçon,</l>
+<l>Je suis tout consolé quand un ministre tombe ;</l>
+<l>Car, ces jours-là, l’enfant a des fleurs sur sa tombe.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+<page-sequence recto="true">
+ <pagenum num="A1"/>
+
+<img class="fullpageimage" src="images/img6.png" alt=""/>
+
+ </page-sequence>
+ <page-sequence recto="true" id="p03">
+<pagenum num="17"/>
+
+<vsep class="fewlines"/>
+
+<h1>L’ÉPAVE</h1>
+
+<pagenum num="18"/>
+ </page-sequence>
+<page-sequence recto="true">
+ <pagenum num="19"/>
+
+<h2>L’ÉPAVE</h2>
+
+<poem>
+<lg>
+<l>Devant la mer, assis au seuil de leur maison,</l>
+<l>La veuve du marin et son jeune garçon</l>
+<l>Sont en grand deuil. Hélas ! l’équinoxe d’automne</l>
+<l>A fait d’affreux malheurs sur la côte bretonne ;</l>
+<l>Et c’est pourquoi, rêveurs devant le ciel du soir,</l>
+<l>Cette femme et son fils sont habillés de noir.</l>
+<l>Ah ! dans ce lac paisible, où, sous la brise fraîche,</l>
+<l>Viennent de s’éloigner les fins bateaux de pêche</l>
+<l>Dont les voiles, là-bas, blanchissent dans le ciel,</l>
+<l>Nul ne reconnaîtrait cet Océan cruel</l>
+<l>Qui, l’an dernier, pendant la grande marée haute,</l>
+<l>En un jour, a broyé vingt barques sur la côte</l>
+<l>Et, parmi tant de deuils dont le pays est plein,</l>
+<pagenum num="20"/>
+<l>A navré cette femme et fait cet orphelin.</l>
+</lg>
+
+<lg>
+<l>Le ciel peut être pur, la mer peut être belle,</l>
+<l>La veuve du marin est sombre et se rappelle</l>
+<l>L’effroyable tempête où son homme a péri.</l>
+</lg>
+
+<lg>
+<l>— « C’est aussi de sa faute, à mon pauvre mari ! — </l>
+<l>Dit-elle en soupirant à son fils qui l’écoute. — </l>
+<l>Il faut porter secours aux malheureux, sans doute,</l>
+<l>Et nul ne l’a plus fait que mon brave Mathieu.</l>
+<l>Mais affronter ainsi la mort, c’est tenter Dieu !...</l>
+<l>On n’avait jamais vu de pareille marée.</l>
+<l>Ton père était chez nous ; sa barque était rentrée ;</l>
+<l>Il disait, en mangeant sa soupe : — « Il faut qu’on soit</l>
+<l>Maudit, pour être en mer par ce vent de noroît ! »</l>
+<l>Après dîner, Mathieu prend sa pipe et l’allume,</l>
+<l>Et va fumer dehors, comme il avait coutume.</l>
+<l>Là, malgré le gros temps, ils étaient quelques uns</l>
+<l>Qui regardaient sauter et mousser les embruns,</l>
+<l>Quand, tout à coup, voilà que mon homme remarque,</l>
+<l>Du côté des rochers Saint-Pierre, un trois-mâts barque...</l>
+<l>Doux Jésus ! Ce ne fut pas long. En un clin d’œil,</l>
+<l>Le malheureux navire échoua sur l’écueil.</l>
+<l>— « Un canot ! » — dit Mathieu... J’étais épouvantée ;</l>
+<l>Les autres lui montraient cette mer démontée</l>
+<pagenum num="21"/>
+<l>Et la lame en fureur qui crachait des galets.</l>
+<l>— « Un canot ! — répétait ton père. — Sauvons-les !</l>
+<l>Un canot à la mer, ou nous sommes des lâches !</l>
+<l>Le mien, si vous voulez, car aux plus rudes tâches</l>
+<l>Il est bon ; il ne craint ni le flot ni le vent.</l>
+<l>Et je l’ai baptisé d’un beau nom : <i>En avant !...</i> »</l>
+<l>Ah ! les hommes sont fous, mon Tiennot !... Ils partirent.</l>
+<l>Et tous ont péri, tous... A l’heure où se retirent</l>
+<l>Les vagues, tu m’as vue aller, tout cet hiver,</l>
+<l>Chaque jour, aussi loin que va la basse mer ;</l>
+<l>Mais l’Océan qui meurt à mes pieds et les lave</l>
+<l>N’a jamais rejeté la plus petite épave,</l>
+<l>Pas plus du grand trois-mâts que du pauvre canot...</l>
+<l>O mon mignon chéri ! Pauvre petit Tiennot !</l>
+<l>Ne va plus sur la mer... Tu sais, j’ai ta promesse !...</l>
+<l>Monsieur le recteur t’aime et tu lui sers sa messe ;</l>
+<l>Il t’apprend l’écriture... Eh bien, c’est ton destin,</l>
+<l>Tu deviendras un prêtre et parleras latin !</l>
+<l>Et puis, loin de ces flots dont le bruit m’épouvante,</l>
+<l>Quand tu seras curé, je serai ta servante.</l>
+<l>Ne te fais pas marin !... D’ailleurs, tu m’as promis... »</l>
+</lg>
+
+<lg>
+<l>L’enfant se tait. Il songe à ses petits amis,</l>
+<l>A ces gamins qu’il voit, dès que le matin brille,</l>
+<l>A bord d’une chaloupe, aller à la godille,</l>
+<pagenum num="22"/>
+<l>Tandis qu’il n’ose plus, le craintif orphelin,</l>
+<l>Pousser un aviron ni nouer un grelin.</l>
+<l>Il a promis, il veut obéir à sa mère.</l>
+<l>Mais, lorsque le curé, refermant sa grammaire,</l>
+<l>Lui dit : — « Va-t’en jouer ! » et qu’il est libre enfin,</l>
+<l>Troussé jusqu’aux genoux, et sur le sable fin</l>
+<l>Marchant pieds nus, il court bien vite sur la grève,</l>
+<l>Et le fils du marin cherche à tromper son rêve.</l>
+<l>Mais sentir l’âpre vent souffler dans ses cheveux</l>
+<l>Et l’eau froide monter sur ses mollets nerveux,</l>
+<l>Voir au loin le gros coup de la lame mauvaise</l>
+<l>Éclater en couvrant d’écume la falaise,</l>
+<l>Remplir tout un panier de crevettes, chercher</l>
+<l>Quelque hideux homard tapi sous un rocher</l>
+<l>Ou saisir le lançon dans sa fuite rapide,</l>
+<l>Cela ne suffit pas à l’enfant intrépide.</l>
+<l>Non ! son ardent désir, c’est le bateau mouvant,</l>
+<l>Avec sa voile ronde et ses deux focs au vent,</l>
+<l>Et le lest de galets humides qui le charge ;</l>
+<l>C’est la course au lointain horizon, c’est le large</l>
+<l>Avec sa forte houle et son grand souffle amer,</l>
+<l>C’est l’ivresse d’aller sur cette vaste mer</l>
+<l>Dont le parfum le grise et le rythme l’attire...</l>
+<l>Et voilà de longs mois que dure ce martyre !</l>
+<pagenum num="23"/>
+<l>Mais le temps passe. Encore un équinoxe affreux !</l>
+<l>Et les marins du port, un jour, causant entre eux,</l>
+<l>Tout comme l’an dernier, sur la mer en délire,</l>
+<l>Viennent de signaler un malheureux navire</l>
+<l>— Un brick, cette fois-ci, — qui touche le récif.</l>
+<l>A chaque lame, il fait ce sursaut convulsif</l>
+<l>Qu’on pourrait appeler le râle du naufrage.</l>
+</lg>
+
+<lg>
+<l>— « Un canot à la mer ! des hommes de courage ! »</l>
+<l>Dit quelqu’un. Aucun d’eux n’a pu, certe, oublier</l>
+<l>Les camarades morts de l’automne dernier ;</l>
+<l>Mais voilà qu’on entoure une barque et qu’on l’arme.</l>
+<l>La mère de Tiennot est là, pleine d’alarme,</l>
+<l>Elle étreint son garçon et lui redit tout bas :</l>
+<l>— « Tu sais, tu me l’as bien promis... tu n’iras pas ! »</l>
+<l>Et, les yeux dilatés et se mordant la bouche,</l>
+<l>L’enfant ne répond rien et regarde, farouche,</l>
+<l>Les braves compagnons qui parent le bateau.</l>
+<l>Tout à coup, une lourde et sombre masse d’eau</l>
+<l>S’écroule avec fracas, couvrant tout de sa bave,</l>
+<l>Et devant l’orphelin elle jette une épave,</l>
+<l>Une planche pourrie et rongée, où l’enfant</l>
+<l>A déjà distingué ces deux mots : <i>En avant ! </i></l>
+<l>L’Atlantique a tiré du fond de son repaire</l>
+<l>Ce débris de bateau. C’est un ordre du père !</l>
+<pagenum num="24"/>
+<l>Les sauveteurs sont prêts ; ils poussent leur canot ;</l>
+<l>Et, s’arrachant des bras de sa mère, Tiennot</l>
+<l>Saute auprès d’eux, saisit à la hâte une rame...</l>
+<l>Et les voilà partis avec l’énorme lame !</l>
+</lg>
+
+<lg>
+<l>Comme on les suit des yeux ! Hardi, là ! Comme ils vont !</l>
+<l>Sainte Vierge ! voyez cette lame de fond...</l>
+<l>Ils ont chaviré... Non ! le canot se redresse...</l>
+<l>Il va toucher, il touche au navire en détresse...</l>
+<l>Il était temps, le brick se penche à faire peur...</l>
+<l>Ils reviennent déjà... Voilà des gens de cœur !</l>
+<l>Qu’ils sont chargés ! Ils ont de l’eau jusqu’au bordage.</l>
+<l>— « Combien en avez-vous sauvé ? — Tout l’équipage !</l>
+<l>— Hurrah ! — Vite ! jetez une corde... Aidez-nous... »</l>
+<l>Et, tandis que, joyeux, sautent sur les cailloux</l>
+<l>Sauveteurs et sauvés, parmi l’écume amère,</l>
+<l>Le brave enfant Tiennot dit à sa pauvre mère,</l>
+<l>Qui de ses bras brisés l’entoure en sanglotant :</l>
+</lg>
+
+<lg>
+<l>— « Maman, ne gronde pas... Le père est si content ! »</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence recto="true" id="p04">
+ <pagenum num="25"/>
+
+<vsep class="fewlines"/>
+
+<h1>L’ENFANT DE LA BALLE</h1>
+
+<pagenum num="26"/>
+ </page-sequence>
+ <page-sequence recto="true">
+ <pagenum num="27"/>
+
+<h2>L’ENFANT DE LA BALLE</h2>
+
+<h3><s>CONTE PARISIEN</s></h3>
+
+<poem>
+<h3>I</h3>
+
+<lg>
+<l>Parfois, dans un coin triste et noir pousse une fleur.</l>
+</lg>
+
+<lg>
+<l>Sa mère était concierge et son père souffleur</l>
+<l>D’un théâtre qui fit des faillites célèbres.</l>
+<l>Semblables aux hiboux qui voient dans les ténèbres,</l>
+<l>Ces époux vivaient là, venus on ne sait d’où,</l>
+<l>La femme dans sa loge et l’homme dans son trou.</l>
+<l>Une enfant leur naquit ; elle vit la lumière</l>
+<l>— Du gaz, bien entendu, — le soir d’une « première »,</l>
+<l>A l’heure où justement la toile se levait.</l>
+<l>L’homme était à son poste, éloigné du chevet</l>
+<pagenum num="28"/>
+<l>De sa femme ; mais tous songeaient à l’accouchée.</l>
+<l>Les actrices, leur scène une fois dépêchée,</l>
+<l>De bruyants falbalas emplissant l’escalier,</l>
+<l>Auprès de la malade allaient se relayer ;</l>
+<l>Et, lorsque fut passé l’instant le plus critique,</l>
+<l>L’ingénue — elle avait un fils en rhétorique</l>
+<l>Et venait de donner les soins les plus adroits —</l>
+<l>Profita de son grand monologue du « trois »,</l>
+<l>— Alors que, d’une infâme action accusée,</l>
+<l>Elle devait tomber sur le sol, écrasée</l>
+<l>Sous un fardeau trop lourd d’angoisse et de douleur,</l>
+<l>Pour accomplir sa chute en face du souffleur,</l>
+<l>Et calmer le souci du père de famille</l>
+<l>En lui jetant, tout bas, ces mots : « C’est une fille ! »</l>
+<l>D’ailleurs, ce fut un jour de chance et de succès,</l>
+<l>Le drame — il était plein de fautes de français — </l>
+<l>Fit louer deux cents fois la salle, dès la veille ;</l>
+<l>Et la mère et l’enfant se portaient à merveille.</l>
+</lg>
+
+<lg>
+<l>Le nouveau-né gênant fort ses humbles auteurs,</l>
+<l>Une souscription entre tous les acteurs</l>
+<l>Fournit aux pauvres gens des secours provisoires.</l>
+<l>Le berceau fut prêté par le chef d’accessoires,</l>
+<l>Et le comique — un fort buveur, de son aveu, —</l>
+<l>Donna le biberon, pour faire rire un peu.</l>
+<pagenum num="29"/>
+<l>Tous aimaient la petite et tous s’occupaient d’elle,</l>
+<l>Et l’on tomba d’accord pour l’appeler Adèle,</l>
+<l>A cause d’<i>Antony</i> qu’en son meilleur destin</l>
+<l>Son père avait joué, — très obscur cabotin,</l>
+<l>Mais beau garçon, ayant l’œil noir, la taille mince, —</l>
+<l>Avec Dorval, faisant sa tournée en province.</l>
+<l>Puis le baptême eut lieu. La troupe, avec ferveur,</l>
+<l>Vit donner à l’enfant ce billet de faveur</l>
+<l>Que pour entrer au ciel on présente au contrôle ;</l>
+<l>Et le parrain, — c’était Saint-Phar, le premier rôle, —</l>
+<l>Ayant lu <i>Polyeucte</i> et « pioché » son <i>Credo</i>,</l>
+<l>Par son recueillement étonna le bedeau.</l>
+<l>La fête fut très bien de toutes les manières.</l>
+<l>On alla gentiment déjeuner près d’Asnières.</l>
+<l>A l’beure du spectacle, on revint à Paris,</l>
+<l>Au milieu des gamins, saluant à grands cris</l>
+<l>Ces voitures, de gais comédiens chargées ;</l>
+<l>Et, le soir, le pompier, lui-même, eut des dragées.</l>
+</lg>
+
+<h3>II</h3>
+
+<lg>
+<l>Les artistes ont très bon cœur, le plus souvent.</l>
+<l>C’était à qui prendrait le mieux soin de l’enfant,</l>
+<pagenum num="30"/>
+<l>— La concierge en sa loge étant très occupée, — </l>
+<l>A qui ferait sauter la gentille poupée,</l>
+<l>A qui l’entourerait de mille attentions.</l>
+<l>Les femmes l’apportaient aux répétitions,</l>
+<l>Et la petite Adèle y faisait les délices</l>
+<l>Des longs moments d’ennui perdus dans les coulisses.</l>
+<l>La duègne, en attendant l’appel du régisseur,</l>
+<l>Berçait sur ses deux bras l’enfant avec douceur,</l>
+<l>Puis, quand venait son tour, à sa réplique prête,</l>
+<l>Repassait le bébé, bien vite, à la soubrette.</l>
+<l>Quand elle eut quinze mois, quand son corps se tint droit,</l>
+<l>Ce fut madame Armand, l’étoile de l’endroit,</l>
+<l>Qui la fit marcher seule, et qui, de ses mains blanches,</l>
+<l>Guida les premiers pas d’Adèle sur les planches.</l>
+<l>Mais quel triomphe aussi, quand, un beau jour, soudain,</l>
+<l>Elle alla du « côté cour » au « côté jardin ! »</l>
+<l>Puis, dès qu’elle se mit à babiller, ces dames</l>
+<l>Lui firent répéter des mots de mélodrames,</l>
+<l>Et l’enfant, — influence étrange du milieu ! — </l>
+<l>Avant : « Papa, maman », vagit : « Merci, mon Dieu ! »</l>
+<l>Pourtant, madame Armand, pieuse à sa manière,</l>
+<l>Lui fit aussi, par cœur, apprendre sa prière ;</l>
+<l>Et lorsque les acteurs se taisaient un instant,</l>
+<l>Un fragment de <i>Pater</i> de derrière un portant</l>
+<l>S’envolait, murmuré par une voix plaintive,</l>
+<pagenum num="31"/>
+<l>Et quelquefois ces mots : <i>Que votre règne arrive !...</i></l>
+<l>Ou quelque <i>Ainsi soit-il !</i> ponctuaient, tour à tour,</l>
+<l>La tirade du traître ou la scène d’amour.</l>
+<l>C’est ainsi que vivait, depuis sept ans, Adèle,</l>
+<l>Heureuse de sentir tant d’amis autour d’elle</l>
+<l>Et faite à ce milieu tout artificiel.</l>
+<l>N’ayant presque jamais vu la couleur du ciel,</l>
+<l>Elle jouait dans l’ombre, et, la nuit, était brave</l>
+<l>Comme un frais papillon captif dans une cave.</l>
+</lg>
+
+<h3>III</h3>
+
+<lg>
+<l>Vers ce temps, le théâtre où grandissait l’enfant</l>
+<l>Allait très mal. L’été fut par trop étouffant,</l>
+<l>Et, trois mois, l’on joua devant la salle vide,</l>
+<l>Tandis que le public, de bocks mousseux avide,</l>
+<l>Dans les cafés-concerts allait prendre le frais ;</l>
+<l>Puis un drame à décors ne couvrit pas ses frais ;</l>
+<l>Puis vint une féerie, autre chute complète.</l>
+<l>Le directeur avait si bien perdu la tête,</l>
+<l>Que devant son bureau, toujours plus encombré</l>
+<pagenum num="32"/>
+<l>De manuscrits poudreux et de papier timbré,</l>
+<l>— Pauvre homme à moitié fou, fable de ses confrères ! — </l>
+<l>Il songeait à monter des pièces littéraires.</l>
+<l>Le malheureux parlait même d’un drame en vers,</l>
+<l>Lorsque, le rappelant à des goûts moins pervers,</l>
+<l>Son régisseur, avec sa voix la plus câline,</l>
+<l>Lui dit :</l>
+</lg>
+
+<lg>
+<l cont="true">— « Monsieur, si nous remontions <i>l’Orpheline ?</i> »</l>
+</lg>
+
+<lg>
+<l>L’homme fut tellement ému qu’il suffoqua ;</l>
+<l>Il se frappa le front, en criant : « : Eurêka ! »</l>
+<l><i>L’Orpheline</i> pouvait le tirer de l’abîme.</l>
+</lg>
+
+<lg>
+<l>C’était un vieux <i>mélo</i> du boulevard du Crime,</l>
+<l>Qui toujours avait fait, pendant de nombreux soirs,</l>
+<l>Ruisseler tous les yeux, tirer tous les mouchoirs ;</l>
+<l>Un titre qui d’avance assurait la recette.</l>
+<l>Le seul obstacle était le rôle de Suzette,</l>
+<l>De l’enfant de six ans prise par des voleurs,</l>
+<l>Dont la grâce touchante et les affreux malheurs</l>
+<l>Faisaient couler les pleurs comme une cataracte,</l>
+<l>Et qu’enfin retrouvait sa mère, au cinquième acte.</l>
+</lg>
+
+<lg>
+<l>Le directeur disait :</l>
+</lg>
+
+<pagenum num="33"/>
+
+<lg>
+<l cont="true">— « Qui me jouera cela ?</l>
+<l>La créatrice était la petite Stella...</l>
+<l>Mais elle est mariée et mère de famille,</l>
+<l>A présent... Où trouver une petite fille,</l>
+<l>Sachant « dire », sachant « marcher » ?...</l>
+</lg>
+
+<lg>
+<l cont="true">Le régisseur</l>
+<l>Eut un sourire fin de profond connaisseur,</l>
+<l>Et conseilla :</l>
+</lg>
+
+<lg>
+<l cont="true">— « Prenez donc la petite Adèle...</l>
+<l>Une enfant de la balle, allez !... Je réponds d’elle.</l>
+<l>Elle réussira, j’en ferais le pari.</l>
+<l>La petite est émue en voyant d’Ennery.</l>
+<l>Son premier alphabet fut <i>Lazare le Pâtre</i>...</l>
+<l>Artiste dans le sang !... C’est né pour le théâtre,</l>
+<l>Et ça vous portera joliment les haillons... »</l>
+</lg>
+
+<lg>
+<l>Et l’imprésario, rêveur, dit :</l>
+<l cont="true">— « Essayons ! »</l>
+</lg>
+
+<pagenum num="34"/>
+
+<h3>IV</h3>
+
+<lg>
+<l>On mit donc <i>l’Orpheline</i> à l’étude au plus vite,</l>
+<l>Et l’on distribua le rôle à la petite</l>
+<l>Après avoir, avec un cachet de dix francs,</l>
+<l>Apaisé les légers scrupules des parents</l>
+<l>Qui d’abord alléguaient sa faiblesse et son âge ;</l>
+<l>Et l’aisance régna dans le pauvre ménage,</l>
+<l>Et la loge lança, dès lors, aux environs,</l>
+<l>Des parfums de civet et de dinde aux marrons.</l>
+<l>Pour Adèle, elle était par la joie étourdie.</l>
+<l>Un rôle ! elle allait donc jouer la comédie !</l>
+<l>Un rôle ! elle pourrait enfin se maquiller !</l>
+</lg>
+
+<lg>
+<l>Quand le vieux régisseur l’eut bien fait travailler,</l>
+<l>On répéta. Chacun pressentit la victoire.</l>
+<l>La petite « vibrait » comme au Conservatoire,</l>
+<l>Disait juste, « écoutait » à merveille, et savait</l>
+<l>Avec le moindre mot obtenir un « effet ».</l>
+<l>Alors le directeur fit agir la réclame,</l>
+<l>Assiégea les journaux ; car, bien que son vieux drame</l>
+<l>Fût écrit en patois et fût bête à pleurer,</l>
+<pagenum num="35"/>
+<l>Il était maintenant sûr de tout réparer</l>
+<l>Et de combler le gouffre immense de sa dette.</l>
+<l>Adèle, sur l’affiche eut son nom en vedette,</l>
+<l>Au-dessus de Saint-Phar et de madame Armand,</l>
+<l>Ce qui fut un scandale ; et, depuis ce moment,</l>
+<l>L’actrice, qui naguère en faisait son idole,</l>
+<l>A l’enfant n’adressa même plus la parole,</l>
+<l>Et Saint-Phar, furieux, menaça d’un procès.</l>
+</lg>
+
+<lg>
+<l>Cependant, on donna la pièce. Quel succès !</l>
+<l>Dès qu’Adèle parut, la salle fut conquise ;</l>
+<l>Et vraiment la mignonne actrice était exquise</l>
+<l>Et ne ressemblait pas à ces pauvres enfants,</l>
+<l>Bâtards de perroquets et de singes savants,</l>
+<l>Dont parfois le théâtre exhibe la torture.</l>
+<l>En argot de métier, c’était une « nature » ;</l>
+<l>Elle vivait son rôle et ne le jouait point.</l>
+<l>L’artiste, en elle, était habile au dernier point,</l>
+<l>Et l’enfant conservait cependant tous ses charmes.</l>
+<l>Adèle fit répandre une averse de larmes,</l>
+<l>Quand, sans pain elle-même, aux pauvres du chemin</l>
+<l>Elle donnait les fleurs qu’elle avait à la main.</l>
+<l>Elle eut quatre rappels, vingt bouquets ; et la toile</l>
+<l>S’abaissa lentement sur la petite étoile,</l>
+<l>Au milieu des sanglots, des bravos et des cris.</l>
+<pagenum num="36"/>
+<l>Une altesse royale, en passage à Paris,</l>
+<l>Vint embrasser l’enfant et lui fit grand éloge</l>
+<l>Devant dix reporters accourus dans sa loge.</l>
+<l>Ce fut une folie, un gros succès d’argent !</l>
+<l>Le directeur, traité de « très intelligent »,</l>
+<l>Paya son personnel en retard d’un trimestre,</l>
+<l>Congédia la claque et supprima l’orchestre.</l>
+<l>Plein d’audace, il risqua des tarifs inouïs.</l>
+<l>Son théâtre, autrefois le dernier des <i>bouis-bouis</i>,</l>
+<l>Vit devant ses bureaux piaffer les équipages.</l>
+<l>Les journaux l’exaltaient à leurs troisièmes pages,</l>
+<l>Épuisant leurs clichés jusqu’aux « mots » de gamins,</l>
+<l>Et parlant du caissier qui se frottait les mains.</l>
+</lg>
+
+<h3>V</h3>
+
+<lg>
+<l>Hélas ! ne rions pas ; car l’enfant phénomène</l>
+<l>Est au dernier degré de la misère humaine.</l>
+<l>Regardez seulement ses grands yeux moribonds !</l>
+</lg>
+
+<lg>
+<l>Au milieu des bouquets et des sacs de bonbons,</l>
+<pagenum num="37"/>
+<l>Affolée et vivant comme dans une fête,</l>
+<l>Adèle se plaignait pourtant de maux de tête ;</l>
+<l>Un frisson secouait parfois son corps nerveux.</l>
+<l>Elle portait, d’instinct, la main à ses cheveux,</l>
+<l>Et disait : « C’est passé ! » Mais l’enfant de la balle,</l>
+<l>Un soir, ayant joué sa scène principale,</l>
+<l>Effraya les acteurs par son teint enflammé ;</l>
+<l>Et l’un deux, le fameux comique Bienaimé,</l>
+<l>Qu’adorent les titis pour son grand nez qui bouge,</l>
+<l>Lui dit :</l>
+</lg>
+
+<lg>
+<l cont="true">— « Mais pourquoi donc as-tu mis tant de rouge ? »</l>
+</lg>
+
+<lg>
+<l>Alors, touchant son front d’un geste machinal :</l>
+</lg>
+
+<lg>
+<l>— « Non ! je n’ai pas de fard, — fit Adèle. — J’ai mal !</l>
+</lg>
+
+<lg>
+<l>Elle joua pourtant, mais la pauvre petite</l>
+<l>Fut prise dans la nuit par une méningite.</l>
+</lg>
+
+<lg>
+<l>Quel désastre ! On doubla le rôle sans pitié ;</l>
+<l>Mais la location en baissa de moitié.</l>
+<l>Le médecin craignait une crise mortelle,</l>
+<l>Et l’on n’entendait plus qu’un mot : « Comment va-t-elle ? »</l>
+<l>Le directeur montra beaucoup de dévouement.</l>
+<pagenum num="38"/>
+<l>Il l’avait fait porter dans son appartement</l>
+<l>Et de ses père et mère il avait pris la place,</l>
+<l>Veillant la chère enfant, lui mettant de la glace</l>
+<l>Sur le front, l’entourant de ses soins amoureux.</l>
+<l>Une nuit, la malade eut un délire affreux.</l>
+<l>Elle croyait jouer avec ses camarades,</l>
+<l>Récitait des fragments de rôle, des tirades,</l>
+<l>Demandait si Nadar vendait sa carte-album,</l>
+<l>Et si l’on avait fait, le soir, le « maximum... »</l>
+<l>On crut qu’elle serait, à l’aurore, enlevée ;</l>
+<l>Mais, quand le docteur vint, il dit :</l>
+</lg>
+
+<lg>
+<l cont="true">— « Elle est sauvée !</l>
+</lg>
+
+<lg>
+<l>Et, vraiment, quatre jours après, elle allait mieux.</l>
+</lg>
+
+<lg>
+<l>Alors, tout le théâtre eut un air radieux ;</l>
+<l>On allait donc enfin revoir la chère absente,</l>
+<l>Reprendre <i>l’Orpheline !</i> Et la convalescente,</l>
+<l>Devant tous les acteurs penchés sur ses rideaux,</l>
+<l>Soulevait doucement le verre de bordeaux</l>
+<l>Que le bon directeur avait versé lui-même,</l>
+<l>Et disait avec un sourire :</l>
+</lg>
+
+<lg>
+<l cont="true">— « A la centième ! »</l>
+</lg>
+
+<pagenum num="39"/>
+
+<h3>VI</h3>
+
+<lg>
+<l>On était très pressé de jouer. Cependant,</l>
+<l>Avant qu’elle reprît son rôle, on crut prudent</l>
+<l>De l’envoyer passer huit jours à la campagne.</l>
+<l>Un riche fabricant de faux vin de Champagne,</l>
+<l>Sénateur influent, très fort sur le budget,</l>
+<l>Précisément, depuis quelques mois, protégeait</l>
+<l>Clorinde, la coquette, et, près de Courbevoie,</l>
+<l>Avait construit un nid de verdure et de soie</l>
+<l>Où ce législateur abritait ses amours.</l>
+<l>Clorinde y mènerait l’enfant pour quelques jours,</l>
+<l>Afin qu’elle revînt forte et prête à combattre ;</l>
+<l>Et l’on encaisserait encor cinq mille quatre,</l>
+<l>Le « maximum ! »</l>
+<l cont="true">Ce fut arrangé ; l’on partit.</l>
+</lg>
+
+<lg>
+<l>Le cottage où logeait Clorinde était petit ;</l>
+<l>Mais un charmant jardin, plein de roses trémières,</l>
+<l>Que le soleil de juin criblait de ses lumières,</l>
+<l>S’étendait, enchanteur, devant la véranda.</l>
+<pagenum num="40"/>
+<l>On mit là le fauteuil d’Adèle, on l’accouda</l>
+<l>Dans les coussins, devant cette fraîche nature.</l>
+<l>Elle n’avait jamais vu de fleurs qu’en peinture,</l>
+<l>De clartés que le gaz reflété par du zinc,</l>
+<l>Et s’écria d’abord :</l>
+</lg>
+
+<lg>
+<l cont="true">— « Tiens ! le décor du « cinq ! »</l>
+</lg>
+
+<lg>
+<l>Mais l’enfant tressaillit bientôt, toute surprise.</l>
+<l>Un enivrant parfum passait avec la brise,</l>
+<l>Et le soleil chauffait ses pieds sous son jupon.</l>
+<l>Elle ferma les yeux et dit :</l>
+<l cont="true">— « Ah ! que c’est bon ! »</l>
+</lg>
+
+<lg>
+<l>Et, dans ce doux état de langueur étonnée,</l>
+<l>Elle voulut rester là, toute la journée.</l>
+<l>Mon Dieu ! que c’était beau, que c’était bon, cela !</l>
+<l>Mais Clorinde, observant ses regards, se troubla</l>
+<l>D’y voir on ne sait quoi d’inquiétant éclore.</l>
+<l>— « Rentrons, mignonne...</l>
+</lg>
+
+<lg>
+<l cont="true">— Oh ! non, — dit l’enfant, — pas encore</l>
+</lg>
+
+<lg>
+<l>Elle rentra pourtant, quand le couchant pâlit ;</l>
+<pagenum num="41"/>
+<l>Mais elle frissonnait en se mettant au lit.</l>
+<l>L’air pur d’un ciel d’été, la chaleur naturelle</l>
+<l>D’un jour de juin, avaient été trop forts pour elle ;</l>
+<l>Et sans qu’une lueur de raison reparût,</l>
+<l>La nuit, elle eut encor le délire et mourut.</l>
+</lg>
+
+<lg>
+<l>Car c’était une fleur à l’ombre habituée ;</l>
+<l>Elle a vu le soleil un jour ; il l’a tuée.</l>
+</lg>
+</poem>
+
+ <pagenum num="42"/>
+ </page-sequence>
+<page-sequence recto="true" id="p05">
+<pagenum num="43"/>
+
+<vsep class="fewlines"/>
+
+<h1>LES BOUCLES D’OREILLES</h1>
+
+<pagenum num="44"/>
+ </page-sequence>
+<page-sequence recto="true">
+ <pagenum num="45"/>
+
+<h2>LES BOUCLES D’OREILLES</h2>
+<h2><s>CONTE PARISIEN</s></h2>
+
+<poem>
+<h3>I</h3>
+
+<lg>
+<l>Levée au point du jour, pour faire le chemin</l>
+<l>Vers un hôtel princier du faubourg Saint-Germain</l>
+<l>Dont le lierre envahit la porte blasonnée,</l>
+<l>Accourt de grand matin l’ouvrière en journée.</l>
+<l>Dans le brouillard, parmi les maçons au pied lourd,</l>
+<l>Qui, leur pain sous le bras, descendent le faubourg,</l>
+<l>La mignonne fillette arrive de Plaisance</l>
+<l>Et traverse, gantée et mise avec décence,</l>
+<l>La cour au sable frais que son pas fait crier.</l>
+<l>Un groom, guêtré de cuir, suivi d’un chien terrier,</l>
+<l>Lui sourit au passage, une paille à la bouche ;</l>
+<pagenum num="46"/>
+<l>Mais l’enfant va plus vite, et dédaigne, farouche,</l>
+<l>L’hommage du bel homme en culottes chamois.</l>
+</lg>
+
+<lg>
+<l>L’ouvrière travaille ici depuis un mois.</l>
+<l>Malgré les yeux hardis des valets d’écurie,</l>
+<l>Elle s’y plaît beaucoup... Trois francs, et bien nourrie !...</l>
+<l>Dans le petit salon, d’où l’on voit le jardin,</l>
+<l>Son ouvrage du jour est prêt, dès le matin,</l>
+<l>Et son café servi par la femme de charge.</l>
+<l>Tout lui parle, en ce lieu, de vie heureuse et large.</l>
+<l>La cheminée, où flambe un joyeux feu de bois,</l>
+<l>A son marbre encombré de bibelots chinois.</l>
+<l>Dans des panneaux bordés de dorures légères,</l>
+<l>On a peint des bergers aux pieds de leurs bergères.</l>
+<l>Les murs sont d’un blanc doux ; tout est riant et clair.</l>
+<l>Dehors, le parc — on touche à la fin de l’hiver —</l>
+<l>Est déjà printanier sur ses pelouses fraîches.</l>
+<l>Les arbres dépouillés laissent voir les deux flèches</l>
+<l>De l’église voisine, et des pigeons ramiers</l>
+<l>Vont des clochers aux nids dans leurs vols familiers.</l>
+<l>Tout ici semble faire accueil à la fillette,</l>
+<l>Qui, pour accommoder quelque objet de toilette,</l>
+<l>S’est mise à l’œuvre et tire allègrement son fil ;</l>
+<l>— Tout, jusqu’au grand portrait équestre, de profil,</l>
+<l>D’un aïeul en perruque, au nez de grande race,</l>
+<pagenum num="47"/>
+<l>Avec le cordon bleu traversant sa cuirasse,</l>
+<l>Qui gagne, en agitant un court bâton doré,</l>
+<l>La bataille qu’on voit sous son cheval cabré.</l>
+</lg>
+
+<lg>
+<l>Dire que, l’autre mois, elle était sans ouvrage !</l>
+<l>Oh ! comme elle a bien fait de prendre son courage</l>
+<l>A deux mains, et d’aller au couvent voir la sœur !</l>
+<l>Justement, on avait le même confesseur ;</l>
+<l>On l’avait remarquée aux vêpres, les dimanches.</l>
+<l>Sœur Agathe, cachant ses deux mains sous ses manches,</l>
+<l>Écouta sa requête et fit un gros soupir.</l>
+<l>Mais, dès le lendemain, on la faisait venir</l>
+<l>Pour travailler, et tous les jours, chez la duchesse.</l>
+</lg>
+
+<lg>
+<l>Comme, dans ce milieu de luxe et de richesse,</l>
+<l>On était bon pour elle, et comme on lui parlait !</l>
+<l>Toujours : « Mademoiselle », et toujours : « S’il vous plaît. »</l>
+<l>Très timide, elle s’est pourtant apprivoisée,</l>
+<l>Dans cette belle chambre, auprès de la croisée,</l>
+<l>Devant ce grand jardin par instants regardé.</l>
+<l>Quand, toute à son travail, le doigt coiffé d’un dé,</l>
+<l>Elle coud vivement, en cassant des aiguilles,</l>
+<l>Surviennent quelquefois la duchesse et ses filles,</l>
+<l>Les deux aimables sœurs qui se ressemblent tant.</l>
+<l>Pour parler de toilette, on s’arrête un instant,</l>
+<pagenum num="48"/>
+<l>Et la fille du peuple en est toute charmée ;</l>
+<l>Car ce sont des : — « Bonjour, mademoiselle Aimée...</l>
+<l>— Et ce fameux peignoir ? eh bien, avance-t-il ? »</l>
+<l>La grisette, piquant dans l’étoffe son fil,</l>
+<l>Explique aux jeunes sœurs auprès d’elle penchées,</l>
+<l>Comment elle fera des bordures ruchées ;</l>
+<l>Et l’on s’oublie alors en ces discours profonds</l>
+<l>Qu’ont les femmes toujours à propos de chiffons.</l>
+<l>L’ouvrière aime à voir les nobles demoiselles ;</l>
+<l>Et le parfum léger qui voltige autour d’elles,</l>
+<l>Leur voix fraîche, leur teint pur sans vulgaire éclat,</l>
+<l>Tout flatte et satisfait son instinct délicat.</l>
+<l>Elles disent : — « Maman, vois donc ! c’est une fée...</l>
+<l>Quelle adresse ! quel goût !... » Et, comme réchauffée</l>
+<l>Par l’éclair bienveillant jailli de leurs beaux yeux,</l>
+<l>Quand ces dames s’en vont, l’enfant travaille mieux.</l>
+</lg>
+
+<lg>
+<l>Pour elle, on a d’ailleurs des égards sympathiques.</l>
+<l>Elle ne mange pas avec les domestiques.</l>
+<l>Un laquais en livrée et moulé dans ses bas</l>
+<l>Apporte un guéridon à l’heure des repas,</l>
+<l>Met la nappe, et lui sert un tas de bonnes choses</l>
+<l>Dans de la porcelaine où sont peintes des roses,</l>
+<l>Et des mets inconnus dont le goût la surprend,</l>
+<l>Et des gros fruits comme on n’en voit qu’au restaurant.</l>
+<pagenum num="49"/>
+<l>Ce bien-être lui fait plaisir ; elle apprécie</l>
+<l>Tous ces riens d’élégance et d’aristocratie :</l>
+<l>Telle une fleur chétive et poussée en un coin,</l>
+<l>Qui n’a vu le soleil, au printemps, que de loin,</l>
+<l>Lorsqu’un rayon de juin un instant la visite,</l>
+<l>S’épanouit un peu dans l’ombre qu’elle habite.</l>
+</lg>
+
+<h3>II</h3>
+
+<lg>
+<l>Mais le soir vient. Il faut rentrer à la maison.</l>
+</lg>
+
+<lg>
+<l>Franchissant de nouveau la porte au vieux blason,</l>
+<l>Elle part, à travers la foule qui circule.</l>
+<l>Le gaz est blême encor ; la fin du crépuscule</l>
+<l>Met des tons saumonés dans le ciel d’un vert fin ;</l>
+<l>Et les passants nombreux se hâtent, ayant faim.</l>
+<l>Elle aussi se dépêche, ayant près d’une lieue</l>
+<l>A faire pour revoir le fond de sa banlieue,</l>
+<l>Et son triste logis et la soupe et le bœuf</l>
+<l>Que déjà doit servir le père, deux fois veuf,</l>
+<l>Vieil ouvrier courbé de tirer la bricole,</l>
+<pagenum num="50"/>
+<l>A ses deux petits gars revenant de l’école.</l>
+<l>Elle songe, à présent, à ce père. Pourvu</l>
+<l>Qu’il soit rentré déjà, pourvu qu’il n’ait pas bu,</l>
+<l>Pourvu qu’il n’ait pas fait aux enfants une scène !</l>
+<l>Car, ce soir, il a dû recevoir sa quinzaine,</l>
+<l>Et, des fois, il s’en va nocer pendant deux jours.</l>
+<l>Dans le fourmillement du peuple des faubourgs,</l>
+<l>Elle se hâte, en proie aux chagrins de famille,</l>
+<l>Sans s’entendre appeler : « Le joli brin de fille ! »</l>
+<l>Évitant, d’un détour brusque sur le trottoir,</l>
+<l>L’homme gris qui trébuche au seuil de l’assommoir,</l>
+<l>Ses charmants yeux baissés, un gros souci dans l’âme,</l>
+<l>Marchant vite, l’enfant a des façons de dame</l>
+<l>Qui la font respecter du rôdeur libertin.</l>
+</lg>
+
+<lg>
+<l>Cependant, elle arrive à son quartier lointain,</l>
+<l>Où les passants ont l’air de fusilleurs d’otages.</l>
+<l>Elle atteint sa maison, monte ses cinq étages,</l>
+<l>Entre chez elle... Ainsi qu’elle l’a pressenti,</l>
+<l>Son père — vilain homme ! — a fait le samedi.</l>
+<l>Les deux gamins, auxquels elle tient lieu de mère,</l>
+<l>Rentrés depuis longtemps de l’école primaire</l>
+<l>Et tout seuls au logis, ont déjà peur un peu.</l>
+<l>Elle donne un coup d’œil, bien vite, au pot-au-feu,</l>
+<l>Rassure les enfants d’une bonne parole,</l>
+<pagenum num="51"/>
+<l>Met le couvert, allume une lampe à pétrole,</l>
+<l>Et, quand les deux petits, enfin rassasiés,</l>
+<l>Ayant dîné trop tard, dorment sur leurs cahiers,</l>
+<l>Elle rêve.</l>
+</lg>
+
+<lg>
+<l cont="true">Mon Dieu ! que cette chambre est laide !</l>
+<l>La lampe la remplit d’une odeur âcre et tiède ;</l>
+<l>Sur le fauteuil, qui perd son crin, un chat pelé</l>
+<l>Auprès du petit poêle en fonte est installé ;</l>
+<l>Au mur pend une image à moitié déchirée :</l>
+<l>— Gambetta, tête nue, en pelisse fourrée,</l>
+<l>D’un geste de tribun guidant les bataillons ; — </l>
+<l>Les enfants assoupis sont vêtus de haillons.</l>
+<l>C’est la misère !... — Alors, l’humble enfant se rappelle</l>
+<l>L’hôtel vaste et pompeux, la chambre large et belle,</l>
+<l>Le joli déjeuner et toutes ses douceurs,</l>
+<l>Et la noble duchesse, et les deux jeunes sœurs</l>
+<l>Qui viennent auprès d’elle, alors qu’elle travaille,</l>
+<l>Si fraîches, se tenant gentiment par la taille,</l>
+<l>Avec les calmes yeux et le teint pur et clair</l>
+<l>Des heureux d’aujourd’hui, de demain et d’hier.</l>
+<l>Ah ! si l’on comparait leur vie avec sa vie !...</l>
+<l>Qu’éprouve-t-elle donc ? Serait-ce de l’envie ?</l>
+<l>Ce mauvais sentiment la fait pourtant frémir...</l>
+<l>Très lasse, elle s’accoude et voudrait bien dormir.</l>
+<pagenum num="52"/>
+<l>Dans la maison il règne un si profond silence</l>
+<l>Qu’elle se laisse aller à cette somnolence ;</l>
+<l>Mais un fracas connu vient soudain l’éveiller...</l>
+</lg>
+
+<lg>
+<l>C’est son père ivre-mort, tombant dans l’escalier !</l>
+</lg>
+
+<h3>III</h3>
+
+<lg>
+<l>Huit jours après, Aimée était à son ouvrage,</l>
+<l>Et rien n’avait changé du superbe entourage.</l>
+<l>Ratissant les massifs, un garçon jardinier</l>
+<l>Travaillait dans le parc un peu plus printanier.</l>
+<l>Les bergers des panneaux, gardant la même pose,</l>
+<l>Offraient leurs agnelets ornés d’un collier rose,</l>
+<l>Et l’ancêtre, campé sur son fougueux cheval,</l>
+<l>Livrait plus que jamais son combat triomphal.</l>
+</lg>
+
+<lg>
+<l>L’ouvrière cousait, quand les deux demoiselles</l>
+<l>Arrivèrent gaîment, en toilettes nouvelles,</l>
+<l>Se ressemblant toujours comme deux gouttes d’eau.</l>
+<l>« Mademoiselle, on vient pour vous faire un cadeau,</l>
+<pagenum num="53"/>
+<l>— Dit l’aînée. — Il s’agit de ces boucles d’oreilles.</l>
+<l>Nous les portons, ma sœur et moi, toujours pareilles,</l>
+<l>Et nous distribuons parfois nos vieux bijoux...</l>
+<l>Nous avons donc gardé cette paire pour vous,</l>
+<l>Et nous avons donné la seconde à Julie. »</l>
+</lg>
+
+<lg>
+<l>Une confusion qui la rend plus jolie</l>
+<l>A fait rougir Aimée ; elle ne sait comment</l>
+<l>Exprimer sa surprise et son remercîment.</l>
+<l>Mais, avant qu’elle puisse assembler ses paroles :</l>
+</lg>
+
+<lg>
+<l>« Laissez-nous faire ! » ont dit les deux charmantes folles ;</l>
+<l>Car elles sauteraient volontiers au plafond,</l>
+<l>Tant leur cœur est joyeux du plaisir qu’elles font.</l>
+<l>Et chacune aussitôt s’empare d’une oreille</l>
+<l>Qui, sous l’émotion, devient chaude et vermeille,</l>
+<l>Fait en un rien de temps le travail compliqué</l>
+<l>D’enlever de son trou le pendant de plaqué</l>
+<l>Acheté par Aimée à la « boutique à treize »,</l>
+<l>Et d’y substituer, tout en souriant d’aise,</l>
+<l>La frêle tige d’or où frissonne un saphir.</l>
+</lg>
+
+<lg>
+<l>« Elle est blonde ! Cela lui convient à ravir !...</l>
+<l>Quel bonheur !... Un miroir ! Vite ! Quelle s’y voie ! »</l>
+<l>Et voici que l’enfant du peuple, ivre de joie,</l>
+<pagenum num="54"/>
+<l>Regarde étinceler — spectacle fabuleux ! — </l>
+<l>Deux diamants d’azur auprès de ses yeux bleus.</l>
+<l>Quoi ! ces oreilles-là, vraiment, ce sont les siennes ?...</l>
+<l>Elle en tremble... Et pourtant les deux patriciennes,</l>
+<l>Ne sachant même pas ce que vaut leur présent,</l>
+<l>Ont donné ce bijou de luxe en s’amusant,</l>
+<l>Comme, au verger, quand juin souffle ses chaudes brises,</l>
+<l>Les gamines se font des boucles de cerises.</l>
+</lg>
+
+<h3>IV</h3>
+
+<lg>
+<l>La nuit tombe. Huit jours encor se sont passés.</l>
+</lg>
+
+<lg>
+<l>L’ouvrière revient chez elle à pas pressés.</l>
+<l>Les deux sœurs, si souvent sur son travail penchées,</l>
+<l>L’ont comblée aujourd’hui de cornets de dragées ;</l>
+<l>Car la plus jeune, espiègle au sourire taquin,</l>
+<l>La veille était marraine à Saint-Thomas d’Aquin.</l>
+<l>Aimée a le cœur gros pourtant et n’est pas gaie.</l>
+<l>Son père, absent trois jours, a bu toute sa paie.</l>
+<l>Hélas ! elle a quitté le logis sans savoir</l>
+<pagenum num="55"/>
+<l>Si les enfants auraient de quoi souper, ce soir.</l>
+<l>L’ivrogne — elle le gronde, à présent, quelle honte ! —</l>
+<l>Devait à son patron demander un acompte.</l>
+<l>Elle rentre en songeant :</l>
+<l cont="true">L’aura-t-il obtenu ? »</l>
+</lg>
+
+<lg>
+<l>L’incorrigible ! Il n’est pas même revenu.</l>
+<l>Dans la chambre glacée, elle trouve les mioches</l>
+<l>Seuls et sans pain. — Elle a des bonbons plein ses poches ! —</l>
+<l>Elle ouvre le buffet. Pas de pain ! pas de pain !</l>
+<l>Déjà son frère aîné lui dit : « Nous avons faim ! »</l>
+<l>Et le cadet — il a cinq ans — a l’air tout sombre.</l>
+<l>Alors, dans un miroir cassé, pendu dans l’ombre,</l>
+<l>L’ouvrière, tournant au hasard ses yeux fous,</l>
+<l>A ses oreilles voit briller les deux bijoux...</l>
+<l>Et les petits sont là, dont le regard implore !</l>
+<l>Le mont-de-piété doit être ouvert encore ;</l>
+<l>Elle sort brusquement en se touchant le front...</l>
+<l>N’ayez pas peur ! Ce soir, les enfants souperont.</l>
+</lg>
+
+<lg>
+<l>Cette nuit-là, ce fut la pire de ses veilles.</l>
+<l>Comment faire, à présent, sans les boucles d’oreilles ?</l>
+<l>Chez ces dames, demain, comment se présenter ?</l>
+<l>Et leurs regards surpris, comment les supporter ?...</l>
+<l>Tout dire ?... Mais dut-on croire son témoignage,</l>
+<pagenum num="56"/>
+<l>Il faudrait avouer les bijoux mis en gage,</l>
+<l>Son salaire mesquin qui ne peut tout payer,</l>
+<l>Et le vice du père, et l’horreur du foyer !...</l>
+<l>Dieu ! si l’on supposait qu’elle invente une histoire !</l>
+<l>Puis ce serait bien pis si l’on devait la croire ;</l>
+<l>On lui voudrait donner la charité... Jamais !</l>
+<l>Non ! non ! Elle oubliera le chemin, désormais,</l>
+<l>De la noble maison qui pourtant lui fut bonne ;</l>
+<l>Elle craint d’inspirer, en acceptant l’aumône,</l>
+<l>A ces cœurs qui pour elle eurent quelque amitié,</l>
+<l>Un peu de ce mépris que contient la pitié.</l>
+<l>Elle travaillera n’importe où, l’ouvrière.</l>
+<l>— Gens heureux, jugez-la trop honteuse ou trop fière ;</l>
+<l>Blâmez-la, gens heureux ! Je l’aime et je la plains. —</l>
+<l>Et, pour le méchant père et les deux orphelins,</l>
+<l>Elle ira, s’il le faut, demain, la désolée,</l>
+<l>Ainsi que dans l’hiver de la grande gelée</l>
+<l>Où l’on avait vendu la paillasse et les draps,</l>
+<l>Coudre, à vingt sous par jour, le linge des soldats !</l>
+</lg>
+
+<pagenum num="57"/>
+
+<h3>V</h3>
+
+<lg>
+<l>Or, hier, accompagnant ses filles, la duchesse</l>
+<l>Contait à sœur Agathe, au sortir de la messe,</l>
+<l>Comment sa protégée — « une perle, ma foi ! » —</l>
+<l>N’était plus revenue, et sans dire pourquoi,</l>
+<l>Malgré tous leurs efforts de bonté délicate.</l>
+</lg>
+
+<lg>
+<l>La sœur fut très confuse et dit :</l>
+<l cont="true">« C’est une ingrate ! »</l>
+</lg>
+</poem>
+
+ <pagenum num="58"/>
+ </page-sequence>
+<page-sequence recto="true" id="p06">
+<pagenum num="59"/>
+
+<vsep class="fewlines"/>
+
+<h1>LE ROMAN DE JEANNE</h1>
+
+<pagenum num="60"/>
+ </page-sequence>
+<page-sequence recto="true">
+ <pagenum num="61"/>
+
+<h2>LE ROMAN DE JEANNE</h2>
+
+<h2><s>POÈME</s></h2>
+
+<h2>Lu par l’auteur à l’Institut, dans la séance publique des cinq Académies, le 23 octobre 1886</h2>
+
+<h3><s>AU MARQUIS DE QUEUX DE SAINT-HILAIRE</s></h3>
+
+<poem>
+<h3>I</h3>
+
+<lg>
+<l>Les humbles, les vaincus résignés de la vie</l>
+<l>Restent mes préférés toujours, et j’ai l’envie</l>
+<l>De dire simplement, comme on me l’a conté,</l>
+<l>L’obscur roman d’un cœur seulement visité</l>
+<l>Par un triste rayon d’amour sans espérance :</l>
+<l>Tel un pauvre captif, enfermé dès l’enfance,</l>
+<l>Voit une lueur pâle éclairer tous les soirs</l>
+<pagenum num="62"/>
+<l>Faiblement sa fenêtre étroite aux barreaux noirs.</l>
+<l>Et, séparé du ciel qu’un mur épais lui voile,</l>
+<l>De tout le firmament ne connaît qu’une étoile.</l>
+</lg>
+
+<lg>
+<l>Elle s’appelait Jeanne ; elle avait dix-huit ans.</l>
+<l>Son père n’était plus, et, depuis quelque temps,</l>
+<l>Elle logeait avec sa mère, aveugle presque,</l>
+<l>Dans une vieille rue encore pittoresque,</l>
+<l>Tout au bout du pays latin, dans le quartier</l>
+<l>De l’étudiant pauvre et du petit rentier,</l>
+<l>Entre le Panthéon et le Jardin des Plantes.</l>
+<l>Là, les heures du jour passent, calmes et lentes.</l>
+<l>C’est la province, avec son charme habituel,</l>
+<l>Mais avec un accent plus intellectuel ;</l>
+<l>Là, souvent, le flâneur à la main porte un livre.</l>
+<l>C’est le dernier endroit où le rêveur peut vivre</l>
+<l>Dans ce Paris tout neuf, qui tourne au Chicago.</l>
+<l>Quel silence ! Le pas éveille encor l’écho.</l>
+<l>Je sais par là des coins pleins de mélancolie</l>
+<l>Où persiste l’ancien réverbère à poulie ;</l>
+<l>Et, dans une ruelle où j’ai souvent erré,</l>
+<l>Par une porte, on voit un jardin de curé</l>
+<l>Au fond duquel se dresse, entouré de feuillages,</l>
+<l>Napoléon premier, fait tout en coquillages.</l>
+<pagenum num="63"/>
+<l>Les deux femmes logeaient dans ce quartier perdu,</l>
+<l>Près des toits, et soignaient un jardin suspendu</l>
+<l>Sur un petit balcon, où, le soir, tout près d’elles,</l>
+<l>Passait le souple vol des noires hirondelles.</l>
+<l>C’était la pauvreté décente, ayant enfin</l>
+<l>Ce qu’il faut strictement pour n’avoir froid ni faim ;</l>
+<l>Mais, dans l’étroit logis des dames du cinquième,</l>
+<l>On sentait la chaleur des foyers où l’on s’aime.</l>
+<l>Les meubles, tous passés de mode et bien fanés,</l>
+<l>Rappelaient les splendeurs de temps plus fortunés.</l>
+<l>Un vieux bonheur du jour fleurait la bergamote,</l>
+<l>Et sur la cheminée, où brûlait une motte,</l>
+<l>Estelle et Némorin, en Saxe, un peu cassés,</l>
+<l>Avec le bout des doigts s’envoyaient des baisers.</l>
+<l>Là, chaque objet, rempli de muette éloquence,</l>
+<l>Était comme un témoin de l’ancienne élégance.</l>
+<l>On servait aux repas les mets de l’indigent,</l>
+<l>Mais avec une nappe et des couverts d’argent ;</l>
+<l>Et — dernier souvenir de richesses plus grandes —</l>
+<l>Un pastel vaporeux, dans son cadre à guirlandes,</l>
+<l>Évoquait une aïeule au regard ingénu,</l>
+<l>Son singe sous le bras, poudrée et le sein nu,</l>
+<l>Qui, depuis cent vingt ans, gardant la même pose,</l>
+<l>Souriait de trois quarts et tenait une rose.</l>
+<pagenum num="64"/>
+<l>Dans ce mélancolique et fier isolement</l>
+<l>Ces femmes vivaient donc, très pauvres, en s’aimant</l>
+<l>Et laissaient les étés se flétrir en automnes</l>
+<l>Sous la lourdeur de plomb des heures monotones.</l>
+<l>En mai, sur leur balcon, l’hiver, au coin du feu,</l>
+<l>Elles restaient au gîte et se montraient fort peu.</l>
+<l>Calmes et froids, ainsi qu’une source s’épanche,</l>
+<l>Les jours suivaient les jours.</l>
+<l cont="true">Cependant, le dimanche</l>
+<l>Parmi le grouillement du quartier Mouffetard,</l>
+<l>Elles allaient à la grand’messe, à Saint-Médard,</l>
+<l>Triste église, qui n’a, sous ses noires ogives,</l>
+<l>Qu’une rare assistance aux ligures plaintives :</l>
+<l>Orphelines des sœurs en petit bonnet rond,</l>
+<l>Pauvresses à marmots qui détournent le front</l>
+<l>Au moment où le clerc passe en faisant la quête,</l>
+<l>Et vieillards à genoux sur leur vieille casquette.</l>
+<l>Toutes deux se plaçaient dans la nef, et parfois</l>
+<l>Jeanne chantait, mêlant sa jeune et fraîche voix</l>
+<l>Au rituel romain que la maîtrise écorche ;</l>
+<l>Puis, ayant fait l’aumône aux mendiants du porche,</l>
+<l>Toutes deux regagnaient le logis, lentement.</l>
+</lg>
+
+<lg>
+<l>On les voyait encor, mais assez rarement,</l>
+<l>Quand les chaleurs d’été devenaient accablantes,</l>
+<pagenum num="65"/>
+<l>Dans un coin retiré du vieux Jardin des Plantes.</l>
+<l>Au pied d’un marronnier elles venaient s’asseoir.</l>
+<l>La mère aux yeux éteints tricotait sans y voir,</l>
+<l>Et Jeanne s’occupait à quelque broderie.</l>
+<l>Par instants, du côté de la Ménagerie,</l>
+<l>Éclataient de durs cris de volaille, et souvent,</l>
+<l>Dans le parfum des fleurs apporté par le vent,</l>
+<l>On sentait tout à coup une odeur fauve et rude.</l>
+<l>Jeanne, à peine jolie, en cette solitude</l>
+<l>Se plaisait, respirant les fleurs à quelques pas ;</l>
+<l>Et les rares passants ne la regardaient pas.</l>
+<l>C’étaient de pauvres gens, des résignés comme elle</l>
+<l>Une mère portant son fils à la mamelle,</l>
+<l>Deux soldats côte à côte, hypnotisés d’ennui,</l>
+<l>Ou bien, par le soleil et l’espace ébloui</l>
+<l>Et roulant dans ses yeux la tristesse et la crainte,</l>
+<l>L’ouvrier sans travail, mâchant sa pipe éteinte.</l>
+</lg>
+
+<h3>II</h3>
+
+<lg>
+<l>Mais, bien plus que la pauvre église du quartier</l>
+<l>Où se réfléchissait, dans l’eau du bénitier,</l>
+<pagenum num="66"/>
+<l>La haute nef de pierre aux nervures gothiques,</l>
+<l>Bien plus que le jardin aux senteurs exotiques,</l>
+<l>Les deux femmes aimaient la chère intimité</l>
+<l>De leur logis. Souvent, par les beaux soirs d’été,</l>
+<l>Sur la terrasse, après le dîner très sommaire,</l>
+<l>Dans un large fauteuil Jeanne installait sa mère</l>
+<l>Et restait là, rêveuse, au balcon s’accoudant,</l>
+<l>Devant le grand Paris dans la brume grondant.</l>
+<l>Le soleil se couchait. Sous son oblique flamme,</l>
+<l>Comme une hydre aux deux cous monstrueux, Notre-Dame</l>
+<l>Gonflait tout près de là son énorme chevet,</l>
+<l>Et plus loin, près du fleuve empourpré, s’élevait,</l>
+<l>Fine, svelte, ajourée, et d’ornements fleurie,</l>
+<l>La flèche du Palais, comme une orfèvrerie.</l>
+<l>Au couchant, tout nageait dans une poudre d’or.</l>
+<l>Vers l’Est, sombre déjà, se profilait encor,</l>
+<l>Sur un vaste horizon aux blancheurs opalines,</l>
+<l>L’amphithéâtre bleu des lointaines collines.</l>
+<l>Un bruit montait, semblant la poussière des voix ;</l>
+<l>Et sur le merveilleux paysage des toits</l>
+<l>Dont les tuiles étaient d’un reflet enflammées,</l>
+<l>S’élevaient lentement de paisibles fumées.</l>
+</lg>
+
+<lg>
+<l>Jeanne, laissant flotter au hasard son esprit,</l>
+<l>Était sur ce balcon quand l’amour la surprit.</l>
+<pagenum num="67"/>
+<l>On pouvait voir de là les mansardes voisines.</l>
+<l>Dans l’une, qu’encadraient de grêles capucines,</l>
+<l>Assis sur la fenêtre, un jeune homme lisait.</l>
+<l>Et Jeanne, sans raison, soudain s’intéressait</l>
+<l>A ce calme liseur au front lourd de pensée.</l>
+<l>Il avait sous la main, au bord de la croisée,</l>
+<l>Son repas : quelques fruits, du pain, un verre d’eau.</l>
+<l>Son livre l’absorbait. Au delà du rideau,</l>
+<l>Derrière lui, dans l’ombre, on apercevait, l’angle</l>
+<l>D’une pauvre chambrette, avec un lit de sangle</l>
+<l>Et la planche aux bouquins sur le mur à coté :</l>
+<l>Symboles de l’étude et de la pauvreté.</l>
+<l>Et Jeanne devinait, par instinct sympathique,</l>
+<l>Un pur et fier rêveur à vie érémitique,</l>
+<l>Un travailleur toujours sur son œuvre penché ;</l>
+<l>Et son cœur en était profondément touché.</l>
+<l>Quand la nuit le força de quitter sa lecture.</l>
+<l>Il mangea lentement sa pauvre nourriture,</l>
+<l>Puis, d’un geste élégant, jeta du bout des doigts</l>
+<l>Le reste de son pain aux moineaux sur les toits ;</l>
+<l>Et Jeanne remarquait sa grâce naturelle.</l>
+<l>Enfin, sans une fois lever les yeux sur elle,</l>
+<l>Après avoir lancé vers le Paris lointain</l>
+<l>Un regard où brillait comme un défi hautain</l>
+<l>Et comme le désir d’y devenir un maître,</l>
+<pagenum num="68"/>
+<l>Le jeune homme quitta brusquement sa fenêtre.</l>
+<l>Il rentra dans sa chambre. Une minute encor,</l>
+<l>Jeanne vit la mansarde et son humble décor</l>
+<l>Vivement éclairés par la lampe allumée ;</l>
+<l>Et lorsque fut enfin la fenêtre fermée</l>
+<l>Et que le vieux rideau sur sa tringle glissa,</l>
+<l>Jeanne eut un grand frisson... Elle l’aimait déjà !</l>
+</lg>
+
+<lg>
+<l>Elle le revit là bien des soirs... Oh ! l’attente !</l>
+<l>S’il paraissait, quel trouble ! Et qu’elle était contente</l>
+<l>Quel chagrin, quand la nuit du balcon la chassait !</l>
+<l>Savait-elle déjà qu’elle l’aimât ? Qui sait ?</l>
+<l>Mais le voir et le voir, c’était sa seule envie :</l>
+<l>Et Jeanne n’avait plus d’intérêt dans sa vie</l>
+<l>Passée en s’irritant du jour lent à finir,</l>
+<l>Que d’attendre cette heure et de s’en souvenir.</l>
+<l>D’ailleurs, elle gardait pour elle sa chimère ;</l>
+<l>Elle ne l’avait pas confiée à sa mère.</l>
+<l>Si ce n’est qu’au balcon on restait un peu tard,</l>
+<l>On vivait comme avant. Messes à Saint-Médard,</l>
+<l>Haltes dans le Jardin des Plantes, près des roses ;</l>
+<l>Toujours les mêmes jours avec les mêmes choses.</l>
+<l>Tout comme avant l’instant où l’amour la toucha,</l>
+<l>Jeanne, ouvrant son Érard au son d’harmonica,</l>
+<l>Pour sa mère, le soir, chantait quelque romance</l>
+<pagenum num="69"/>
+<l>Célébrant les ardeurs d’Isolier ou d’Hermance</l>
+<l>Et datant des anciens troubadours-abricot,</l>
+<l>Tandis qu’interrompant son éternel tricot,</l>
+<l>La maman souriait, très fière de sa fille,</l>
+<l>Et battait la mesure avec sa grande aiguille.</l>
+</lg>
+
+<lg>
+<l>Ainsi, ne laissant voir ni trouble, ni langueur,</l>
+<l>Jeanne dissimulait le secret de son cœur.</l>
+</lg>
+
+<h3>III</h3>
+
+<lg>
+<l>Une vieille venait pour faire le ménage,</l>
+<l>Qui savait le secret de tout le voisinage.</l>
+<l>Par elle, Jeanne apprit quel était l’inconnu.</l>
+<l>Dans l’immense Paris, depuis deux ans venu,</l>
+<l>Il recevait un peu d’argent de sa province,</l>
+<l>Rarement ; mais, très pauvre, il avait l’air d’un prince.</l>
+<l>Il vivait à l’écart, seul et mystérieux ;</l>
+<l>Sa jeunesse, son air farouche, ses beaux yeux,</l>
+<l>Ses longs cheveux flottants, comme en ont les artistes,</l>
+<l>Avaient tourné la tête aux petites modistes</l>
+<pagenum num="70"/>
+<l>Dont la boutique s’ouvre au coin du carrefour.</l>
+<l>Elles le fusillaient de sourires d’amour,</l>
+<l>Mais il passait, les yeux baissés, inabordable.</l>
+<l>Son portier prétendait, ayant vu sur sa table</l>
+<l>Des papiers noirs de mots alignés de travers,</l>
+<l>Que c’était un auteur et qu’il faisait des vers.</l>
+<l>Le fait certain, c’était que, toujours dans sa chambre,</l>
+<l>Même quand il manquait de feu, l’autre décembre,</l>
+<l>On l’entendait, la nuit, qui marchait à grands pas,</l>
+<l>En déclamant des mots qu’on ne comprenait pas.</l>
+</lg>
+
+<lg>
+<l>Un poète !... Oh ! que Jeanne avait le cœur en fête.</l>
+<l>Un poète ! C’était un pauvre et doux poète</l>
+<l>Vers qui tous ses désirs volaient si follement !</l>
+<l>Oh ! comme elle attendit le bienheureux moment</l>
+<l>Où le jeune homme avait coutume d’apparaître ;</l>
+<l>Et quand il vint s’asseoir au bord de sa fenêtre,</l>
+<l>De quelle émotion naïve elle trembla.</l>
+<l>L’inconnu lui parut bien plus beau, ce jour-là !</l>
+<l>Son front, que pâlissaient le jeûne et l’insomnie,</l>
+<l>Était comme éclairé d’un rayon de génie.</l>
+<l>Il lut quelques instants, fit son repas frugal ;</l>
+<l>Aux moineaux de Paris, dont l’essaim amical</l>
+<l>De petits cris joyeux charmaient sa solitude,</l>
+<l>Il émia son pain, selon son habitude,</l>
+<pagenum num="71"/>
+<l>Puis, s’accoudant, toujours hautain et gracieux,</l>
+<l>S’abîma dans son rêve en regardant les cieux.</l>
+</lg>
+
+<lg>
+<l>Ce fut alors que Jeanne eut la cruelle idée</l>
+<l>Qu’il ne l’avait jamais un instant regardée.</l>
+<l>Hélas ! ce fut alors qu’elle se rappela</l>
+<l>Les soirs, les nombreux soirs qu’elle avait passés là,</l>
+<l>Heureuse de subir ce charme involontaire,</l>
+<l>Sans que jamais les yeux du rêveur solitaire</l>
+<l>Se fussent une fois tournés de son côté ;</l>
+<l>Et, songeant tout à coup qu’elle était sans beauté,</l>
+<l>Qu’elle n’avait qu’un pâle et délicat visage,</l>
+<l>Qu’on ne se retournait jamais sur son passage,</l>
+<l>La pauvre enfant comprit, en sanglotant tout bas,</l>
+<l>Qu’elle était amoureuse et qu’on ne l’aimait pas.</l>
+</lg>
+
+<lg>
+<l>Elle connut alors la douleur. Mais que faire ?</l>
+<l>Son miroir, consulté, pour elle fut sévère.</l>
+<l>Avec lui quel navrant regard elle échangea !</l>
+<l>Jeanne vit tout son sort, se résignant déjà :</l>
+<l>Elle devait vieillir près de sa mère infirme.</l>
+<l>Il faut bien accepter un malheur qui s’affirme ;</l>
+<l>Elle oublierait, allons ! C’était bien résolu.</l>
+<l>Comme elle l’eût aimé, pourtant, s’il eût voulu !...</l>
+<l>Pensant de sa folie effacer toute trace,</l>
+<pagenum num="72"/>
+<l>Elle s’interdisait d’aller sur la terrasse</l>
+<l>Ou n’y venait que tard, à la nuit tout à fait.</l>
+<l>Mais là, le souvenir plus vif la poursuivait.</l>
+<l>S’appuyant au balcon, triste, un doigt sur la tempe,</l>
+<l>Elle voyait briller devant elle la lampe</l>
+<l>Du poète au travail, dans sa chambre enfermé.</l>
+<l>Ah ! s’il avait voulu, comme elle l’eût aimé...</l>
+<l>Alors, elle sentait plus fort son infortune,</l>
+<l>Et ses doux yeux en pleurs brillaient au clair de lune.</l>
+</lg>
+
+<h3>IV</h3>
+
+<lg>
+<l>Le temps passa, passa, sans calmer son souci.</l>
+</lg>
+
+<lg>
+<l>Jeanne, par charité, pour se distraire aussi,</l>
+<l>Donnait quelques leçons au fils d’une indigente,</l>
+<l>Sa voisine. Joli, de mine intelligente,</l>
+<l>Cet enfant lui faisait trouver les jours moins longs.</l>
+<l>Elle aimait à jouer avec ses cheveux blonds,</l>
+<l>Tandis qu’il récitait catéchisme ou grammaire ;</l>
+<l>Et quand Jeanne sortait, pour que sa vieille mère</l>
+<pagenum num="73"/>
+<l>Prit un peu d’exercice, on emmenait l’enfant.</l>
+</lg>
+
+<lg>
+<l>Elle était aussi douce, aussi bonne qu’avant</l>
+<l>L’orageux sentiment soulevé dans son âme.</l>
+<l>Un matin, elle sut, par cette bonne femme</l>
+<l>Qu’elle ne voulait plus pourtant interroger,</l>
+<l>Que le jeune voisin allait déménager</l>
+<l>Et changer tout à fait de manière de vivre,</l>
+<l>Qu’il devenait fameux, qu’il avait fait un livre,</l>
+<l>Et que l’on imprimait son nom dans les journaux.</l>
+</lg>
+
+<lg>
+<l>« Il ne jettera plus ses miettes aux moineaux,</l>
+<l>— Pensait la pauvre Jeanne, écoutant la bavarde, —</l>
+<l>Et je ne verrai plus sa lampe en sa mansarde.</l>
+<l>Tant mieux ! Qu’il soit heureux ! Moi, je dois l’oublier. »</l>
+</lg>
+
+<lg>
+<l>Deux jours après, avec leur petit écolier,</l>
+<l>Par une après-midi de juin des plus brûlantes,</l>
+<l>Jeanne et sa mère étaient dans le Jardin des Plantes,</l>
+<l>A l’ombre de leurs grands marronniers favoris.</l>
+<l>Heureux d’être dehors, le gamin de Paris</l>
+<l>Fouettait joyeusement près d’elles sa toupie ;</l>
+<l>L’aveugle, par la chaude atmosphère assoupie,</l>
+<l>Avait abandonné son tricot un moment,</l>
+<l>Et Jeanne, à son côté, brodait nerveusement.</l>
+<pagenum num="74"/>
+<l>Elle s’interrompit soudain. La jeune fille</l>
+<l>Venait contre son dé de casser son aiguille</l>
+<l>Et cherchait vainement près d’elle son étui,</l>
+<l>Quand, dans l’allée, un homme apparut... C’était lui!</l>
+<l>Elle le vit de loin : c’était lui, le poète !</l>
+<l>Il marchait absorbé, pensif, baissant la tête,</l>
+<l>Peut-être murmurant quelques rimes tout bas.</l>
+<l>Il s’avançait toujours ! Il était à dix pas !</l>
+<l>Jeanne eut le cœur étreint d’une émotion telle</l>
+<l>Qu’elle crut défaillir. Quand il fut tout près d’elle,</l>
+<l>Ayant vu quelque chose à terre, il se baissa.</l>
+<l>C’était l’étui perdu. Le passant ramassa</l>
+<l>L’objet, et, du regard cherchant à qui le rendre,</l>
+<l>Aperçut Jeanne et fit un pas pour le lui tendre.</l>
+<l>Alors la pauvre fille eut un immense espoir.</l>
+<l>Il allait lui parler, la connaître, la voir,</l>
+<l>La deviner, l’aimer peut-être ! Oh ! bonne chance.</l>
+<l>Mais le petit garçon, par gentille obligeance,</l>
+<l>Courut vers le jeune homme en lui tendant la main ;</l>
+<l>Le poète remit sa trouvaille au gamin,</l>
+<l>Et, par ces beaux cheveux d’enfant séduit sans doute,</l>
+<l>Le baisa sur le front et poursuivit sa route.</l>
+</lg>
+
+<lg>
+<l>Le fol espoir de Jeanne, hélas ! s’était enfui.</l>
+<l>Mais quand l’enfant, venant lui rapporter l’étui,</l>
+<pagenum num="75"/>
+<l>Lui présenta sa tête innocente et bouclée,</l>
+<l>L’amoureuse, un instant de désir affolée,</l>
+<l>Étreignit le petit d’un geste ardent et prompt,</l>
+<l>Et recueillit, collant ses lèvres sur ce front,</l>
+<l>Avec un rauque et long sanglot de tourterelle,</l>
+<l>Ce baiser de hasard qui n’était pas pour elle.</l>
+</lg>
+
+<h3>V</h3>
+
+<lg>
+<l>Le jeune homme a quitté sa chambre sous les toits ;</l>
+<l>Puis ont passé les jours, les semaines, les mois,</l>
+<l>Et celle que sa vue a pour jamais charmée</l>
+<l>Ne sait plus rien de lui que par la renommée.</l>
+<l>Pareille aux pauvres gens qu’on voit, en carnaval,</l>
+<l>Écouter la musique à la porte d’un bal,</l>
+<l>Jeanne, que font souffrir son cœur et sa mémoire,</l>
+<l>Entend de loin ce nom retentir dans la gloire,</l>
+<l>Tandis que sans amour, sans joie et sans beauté,</l>
+<l>Toujours elle s’enfonce en son obscurité.</l>
+<l>Sa vie est grise et morne ; elle veut s’y résoudre.</l>
+<l>Une ouvrière, assise à sa machine à coudre,</l>
+<pagenum num="76"/>
+<l>Habite la mansarde où Jeanne aimait à voir</l>
+<l>Le poète rêver devant le ciel du soir.</l>
+<l>Avec le calme ennui que l’habitude enfante,</l>
+<l>Elle fait son devoir de fille et de servante.</l>
+<l>Elle oublie ; et parfois, quand le petit garçon</l>
+<l>De la pauvre voisine arrive à la maison</l>
+<l>Et tend naïvement son front à sa caresse,</l>
+<l>Jeanne, se reprochant sa minute d’ivresse</l>
+<l>Et ne voulant plus même un moment se griser</l>
+<l>Avec le souvenir de l’ombre d’un baiser,</l>
+<l>A ne pas embrasser ce front pur se condamne.</l>
+</lg>
+
+<lg>
+<l>Et ce baiser, ce fut tout le roman de Jeanne.</l>
+</lg>
+</poem>
+
+<date class="l3">Château de Saint-Hilaire, octobre 1886.</date>
+
+ </page-sequence>
+<page-sequence recto="true" id="p07">
+ <pagenum num="77"/>
+
+<vsep class="fewlines"/>
+
+<h1>POUR LE DRAPEAU</h1>
+
+<pagenum num="78"/>
+ </page-sequence>
+<page-sequence recto="true">
+ <pagenum num="79"/>
+
+<h2>POUR LE DRAPEAU</h2>
+
+<poem>
+<lg>
+<l>Tu vis dans tous les cœurs, amour de la patrie !</l>
+</lg>
+
+<lg>
+<l>Après quarante-huit, au fond de l’Algérie,</l>
+<l>En plein désert, devant les gorges de l’Atlas,</l>
+<l>Des insurgés de juin, — des coupables, hélas !</l>
+<l>Mais des Français, — courbés sous un labeur servile,</l>
+<l>Expiaient les malheurs de la guerre civile,</l>
+<l>Gardés par des soldats, par des Français comme eux ;</l>
+<l>Et là, tous, l’orateur de clubs jadis fameux,</l>
+<l>L’envieux déclassé, l’utopiste sincère,</l>
+<l>L’honnête travailleur gâté par la misère,</l>
+<l>Tous, braves gens trompés ou sinistres voyous,</l>
+<l>Ils remuaient la terre et cassaient des cailloux.</l>
+<pagenum num="80"/>
+<l>Ce lieu farouche était bien choisi pour un bagne.</l>
+<l>D’un côté, le désert ; de l’autre, la montagne ;</l>
+<l>Çà et là, seulement quelques dattiers poudreux ;</l>
+<l>Et, brûlante prison qui, sur ces malheureux,</l>
+<l>Gardiens et prisonniers, la nuit, devait se clore,</l>
+<l>Un blockhaus sur lequel le drapeau tricolore</l>
+<l>Se déroulait au vent, dans l’azur infini.</l>
+<l>Ce fort, assez peu sûr, mais pourtant bien garni</l>
+<l>De riz et de biscuits, d’armes et de cartouches,</l>
+<l>Avec ses deux canons montrant leurs sombres bouches,</l>
+<l>Dressait sur l’horizon son profil menaçant.</l>
+</lg>
+
+<lg>
+<l>Les soldats étaient trente, et les déportés cent.</l>
+</lg>
+
+<lg>
+<l>Un jour, à l’heure où l’aube, en déchirant ses voiles,</l>
+<l>Fait taire les lions et pâlir les étoiles,</l>
+<l>Et comme les soldats allaient, fusils chargés,</l>
+<l>Conduire à leur travail les anciens insurgés,</l>
+<l>Tout à coup, s’élançant des ravins les plus proches,</l>
+<l>Blancs fantômes surgis au loin parmi les roches,</l>
+<l>En long burnous, montés sur leurs fins chevaux gris,</l>
+<l>Et jetant leurs fusils en l’air avec des cris</l>
+<l>Où se mêle le nom de leur Dieu qu’ils adjurent,</l>
+<l>Les Bédouins du désert, de tous côtés, parurent.</l>
+<l>Deux tribus, qui semblaient depuis longtemps dormir,</l>
+<pagenum num="81"/>
+<l>Venaient de relever l’étendard de l’Émir</l>
+<l>Et voulaient de nouveau faire parler la poudre.</l>
+<l>Ainsi qu’un gros nuage accourt, chargé de foudre,</l>
+<l>Ils venaient, soulevant un flot de sable ardent.</l>
+</lg>
+
+<lg>
+<l>Le commandant du fort, un brave cependant,</l>
+<l>Vieux troupier devenu lentement capitaine,</l>
+<l>Avait pâli devant cette attaque soudaine.</l>
+<l>Le pauvre homme perdait la tête absolument.</l>
+<l>Comment faire ? Il avait trente hommes seulement</l>
+<l>Pour défendre les murs de sa faible redoute ;</l>
+<l>Et quant aux condamnés politiques, sans doute,</l>
+<l>A s’enfuir ils n’allaient pas être les derniers.</l>
+</lg>
+
+<lg>
+<l>En ce moment, sorti des rangs des prisonniers,</l>
+<l>L’un d’eux, qu’on avait vu parler, dans le tumulte,</l>
+<l>A ses amis, de l’air d’un homme qui consulte,</l>
+<l>Un grand gaillard, portant sur ses traits amaigris</l>
+<l>La trace de vingt ans de misère à Paris</l>
+<l>Et dont les yeux profonds, sous leurs sombres arcades,</l>
+<l>Conservaient un reflet du feu des barricades,</l>
+<l>S’approcha lentement du vieil algérien</l>
+<l>Et dit, avec le ton traînant du faubourien :</l>
+</lg>
+
+<lg>
+<l>— « Mon capitaine, on vient vous dire que nous sommes</l>
+<pagenum num="82"/>
+<l>Cent condamnés, c’est vrai, cent forçats, mais cent hommes</l>
+<l>Tous du faubourg Antoine et tous gars bien choisis.</l>
+<l>Nous savons que le fort est bondé de fusils ;</l>
+<l>Sur tous ces moricauds, si vous voulez qu’on cogne,</l>
+<l>Armez-nous donc ! Après avoir fait la besogne,</l>
+<l>On rendra les outils, ma parole d’honneur !</l>
+<l>Vous ne me faites pas l’effet d’un chicaneur ;</l>
+<l>Vous aurez confiance en nous, — on en est digne ; — </l>
+<l>Et vous nous laisserez marcher avec la Ligne.</l>
+<l>Prêtez-nous les fusils et nous sommes sauvés !</l>
+<l>La loque qui flottait sur nos tas de pavés</l>
+<l>N’était pas, après tout, le vrai drapeau de France.</l>
+<l>Et le rouge n’est bon qu’en pantalon garance...</l>
+<l>Voyons ! mon capitaine, est-ce dit ? »</l>
+</lg>
+
+<lg>
+<l cont="true">L’officier,</l>
+<l>Trop ému pour répondre et pour remercier,</l>
+<l>Fit donner sur-le-champ au bagne, rendu libre !</l>
+<l>De bons fusils avec des balles de calibre.</l>
+<l>Il était temps. Trois cents Arabes étaient là,</l>
+<l>Galopant tout autour du fort, criant : « Allah ! »</l>
+<l>Et tiraillant déjà sur ses minces murailles.</l>
+<l>Soudain, les deux canons vomirent leurs mitrailles</l>
+<l>Qui firent reculer l’insolent tourbillon ;</l>
+<l>Puis, sortant du blockhaus, un hardi bataillon,</l>
+<pagenum num="83"/>
+<l>Où des soldats marchaient auprès de gens en blouse</l>
+<l>Et chaussés de sabots comme en quatre-vingt-douze,</l>
+<l>Vint se mettre en bataille et commença le feu.</l>
+<l>Le combat fut sanglant et vif, mais dura peu.</l>
+<l>Les Bédouins, qui croyaient surprendre un faible poste,</l>
+<l>Devant tous ces Français si prompts à la riposte</l>
+<l>Tentèrent bien, mettant tous les sabres au vent,</l>
+<l>Deux charges, qu’on reçut baïonnette en avant.</l>
+<l>Mais leur cheik y périt, et la bande affolée,</l>
+<l>Comme un vol de corbeaux reprenant sa volée,</l>
+<l>Tourna bride et bientôt dans l’Atlas se perdit.</l>
+</lg>
+
+<lg>
+<l>Alors les condamnés, ainsi qu’ils l’avaient dit,</l>
+<l>Tenant loyalement la parole jurée,</l>
+<l>Rentrèrent dans le fort en colonne serrée ;</l>
+<l>Sans hésitation, ils mirent en faisceaux,</l>
+<l>Devant le commandant, leurs fusils encor chauds ;</l>
+<l>Et le vieil officier, contenant mal ses larmes,</l>
+<l>A ses soldats d’un jour qui déposaient leurs armes</l>
+<l>Étreignait les deux mains à leur rougir la peau,</l>
+<l>Et disait rudement :</l>
+</lg>
+
+<lg>
+<l cont="true">— « Merci... pour le drapeau ! »</l>
+</lg>
+</poem>
+
+ <pagenum num="84"/>
+ </page-sequence>
+<page-sequence recto="true" id="p08">
+<pagenum num="85"/>
+
+<vsep class="fewlines"/>
+
+<h1>BLEUETTE</h1>
+
+<pagenum num="86"/>
+ </page-sequence>
+<page-sequence recto="true">
+ <pagenum num="87"/>
+
+<h2>BLEUETTE</h2>
+<h2><s>CONTE DE FÉE</s></h2>
+<h2><s>A MA PETITE AMIE MARIE-GERMAINE BRION</s></h2>
+
+<poem>
+<lg>
+<l>Il était une fois, le fait n’est pas récent,</l>
+<l>Dans un manoir du Rhin, un baron très puissant</l>
+<l>De qui tous les vassaux maudissaient l’avarice.</l>
+<l>Sa femme avait été jadis la bienfaitrice</l>
+<l>Du pays, et son cœur n’était que charité.</l>
+<l>Mais pour longtemps jamais un ange n’est prêté !</l>
+<l>Pendant quelques beaux jours, la terre à Dieu l’emprunte,</l>
+<l>Puis il remonte au ciel. La baronne défunte</l>
+<l>Avait laissé pourtant derrière elle une enfant,</l>
+<l>De ses vertus témoin et souvenir vivant.</l>
+<pagenum num="88"/>
+<l>Quinze ans, blonde, chétive, on la nommait Bleuette.</l>
+<l>Ainsi qu’un colibri dans un nid de chouette,</l>
+<l>Sa jeunesse égayait le château triste et nu.</l>
+</lg>
+
+<lg>
+<l>Le baron, qui s’était quelque peu contenu,</l>
+<l>Devint encor plus dur quand sa femme fut morte.</l>
+<l>Dès l’aube, ayant son seul écuyer pour escorte,</l>
+<l>Il s’en allait au bois, l’épervier sur le poing.</l>
+<l>Bleuette aimait son père et ne l’accusait point,</l>
+<l>Mais trouvait cependant bien tristes les journées</l>
+<l>Qu’elle passait, parmi les tentures fanées,</l>
+<l>Dans ce manoir glacé, désert et solennel,</l>
+<l>Où l’on ne faisait pas de feu, même à Noël.</l>
+<l>Comme le temps paraît moins long quand on l’occupe,</l>
+<l>La mignonne parfois se taillait une jupe</l>
+<l>Dans les draps ramagés et dans les vieux lampas</l>
+<l>Dont sa mère jadis rehaussait ses appas.</l>
+<l>Car jamais le baron à la pauvre fillette</l>
+<l>N’avait donné le moindre écu pour sa toilette ;</l>
+<l>Le vilain homme était bien trop ladre pour ça.</l>
+<l>Bien plus, après la mort de sa femme, il cessa,</l>
+<l>Quoiqu’à la sainte dame il en eût fait promesse,</l>
+<l>De fréquenter l’église et d’entendre la messe,</l>
+<l>Certain de trouver là, terrible épouvantail,</l>
+<l>Quatre ou cinq mendiants assis sous le portail ;</l>
+<pagenum num="89"/>
+<l>Et n’ayant jamais vu d’argent blanc ni d’or jaune,</l>
+<l>Bleuette n’avait pas de quoi faire l’aumône.</l>
+</lg>
+
+<lg>
+<l>C’était son gros chagrin. Elle se consolait</l>
+<l>De coudre à ses habits la reprise et l’ourlet</l>
+<l>Et d’être fagotée ainsi qu’une grand’mère ;</l>
+<l>Malgré tout, elle était jolie, et c’est chimère</l>
+<l>De croire qu’à son âge elle n’en savait rien.</l>
+<l>Mais comme elle souffrait, et de son cœur chrétien</l>
+<l>Quelle plainte montait, de Dieu seul entendue,</l>
+<l>Lorsqu’il fallait passer devant la main tendue</l>
+<l>D’un pauvre, et ne pouvoir rien mettre en cette main !</l>
+</lg>
+
+<lg>
+<l>Le dimanche surtout. Tout le long du chemin,</l>
+<l>Quand elle revenait, seule, portant son livre,</l>
+<l>Dans ce parfum d’encens qui longtemps vous enivre,</l>
+<l>Tout le long du chemin ce n’était que vieillards,</l>
+<l>Femmes portant marmots, aveugles, béquillards,</l>
+<l>Qui couraient sur ses pas en criant leur souffrance ;</l>
+<l>Les vieilles à bâton faisaient la révérence,</l>
+<l>Et les petits enfants envoyaient leur baiser.</l>
+<l>Elle ne trouvait pas de mots pour refuser,</l>
+<l>Mais le front bas, les yeux baissés, rouge de honte,</l>
+<l>Elle passait, prenant sa marche la plus prompte,</l>
+<l>Et pleurait, une fois rentrée à la maison.</l>
+<pagenum num="90"/>
+<l>Un dimanche, c’était au temps de la moisson,</l>
+<l>Elle vit, au moment de revenir de vêpres,</l>
+<l>Tant de pauvres couverts de loques et de lèpres,</l>
+<l>Aux marches du parvis assis et l’attendant,</l>
+<l>Que le cœur lui manqua rien qu’en les regardant.</l>
+<l>Bleuette n’osa pas affronter la sortie</l>
+<l>Et se souvint alors que, vers la sacristie,</l>
+<l>Une porte s’ouvrait sur le chemin des blés.</l>
+<l>Elle allait donc, le cœur tremblant, les yeux troublés,</l>
+<l>Prendre par ce chemin, quand, sous la colonnade,</l>
+<l>Une vieille, portant la jupe en cotonnade,</l>
+<l>Les lourds sabots de bois et le vaste bonnet</l>
+<l>Des aïeules, mais qui, dans une main, tenait,</l>
+<l>En s’appuyant dessus, une longue baguette,</l>
+<l>Apparut tout à coup, et, venant vers Bleuette,</l>
+<l>Lui dit :</l>
+</lg>
+
+<lg>
+<l cont="true">« Ma fille, il faut retourner sur tes pas.</l>
+<l>Tout ce qui peut tomber sous ta main, ne crains pas</l>
+<l>De l’offrir, sans rougir, au mendiant qui passe.</l>
+<l>L’aumône n’a de prix que par la bonne grâce</l>
+<l>De celui qui la donne. Enfant, avec deux mots,</l>
+<l>Avec un bon sourire, on calme bien des maux.</l>
+<l>Va ! l’on te saura gré d’une honte bravée. »</l>
+</lg>
+
+<lg>
+<l>Bleuette, qui vit bien que la vieille était fée,</l>
+<pagenum num="91"/>
+<l>Répondit poliment que d’aussi bons avis</l>
+<l>Comme un ordre devaient par elle être suivis,</l>
+<l>Puis, ayant salué, prit sa route ordinaire.</l>
+<l>Les mendiants, suivant le flot du populaire,</l>
+<l>S’étaient tous éloignés pendant ce moment-là,</l>
+<l>Et, seule, par les blés, Bleuette s’en alla.</l>
+</lg>
+
+<lg>
+<l>Elle cueillait, avec un vague espoir dans l’âme,</l>
+<l>Un gros bouquet de fleurs des champs, lorsqu’une femme</l>
+<l>Qui se tenait assise au revers d’un fossé</l>
+<l>L’aperçut, se leva, d’un air triste et lassé,</l>
+<l>Et, craintive, les yeux en larmes, vint vers elle.</l>
+</lg>
+
+<lg>
+<l>« Ayez pitié de moi, ma belle demoiselle ! — </l>
+<l>Dit la femme. — Aux moissons, d’ordinaire, je suis</l>
+<l>Vos vassaux, en glanant tout le blé que je puis.</l>
+<l>Je suis veuve, je suis bien pauvre et point hardie.</l>
+<l>Mais cette fois, voyez ! je sors de maladie,</l>
+<l>J’arrive la dernière et tout est ramassé,</l>
+<l>Et je meurs de fatigue au bord de ce fossé. »</l>
+</lg>
+
+<lg>
+<l>« Hélas ! — lui répondit la bonne demoiselle, — </l>
+<l>Je n’ai pas même un sou dans ma pauvre escarcelle ;</l>
+<l>Mais prenez ce gentil bouquet de fleurs des champs,</l>
+<l>Et vous pourrez l’offrir aux quelques braves gens</l>
+<pagenum num="92"/>
+<l>Qui voudront, j’en suis sûre, adoucir votre épreuve. »</l>
+</lg>
+
+<lg>
+<l>Sans vouloir refuser l’humble cadeau, la veuve</l>
+<l>Souriait cependant d’un air découragé ;</l>
+<l>Mais, quand elle l’eut pris, le bouquet fut changé,</l>
+<l>O merveille admirable ! en une énorme gerbe</l>
+<l>De brillants épis d’or, plus grosse et plus superbe</l>
+<l>Que celle que l’on porte à monsieur le curé.</l>
+</lg>
+
+<lg>
+<l>Comprenant que c’était un don inespéré</l>
+<l>Que lui faisait ainsi la bonne vieille fée,</l>
+<l>Bleuette, l’âme heureuse et toute réchauffée,</l>
+<l>Laissant l’autre charger d’épis son tablier,</l>
+<l>Se sauva par le bois et cueillit au hallier</l>
+<l>D’autres fleurs, pour tresser une belle couronne.</l>
+<l>Elle allait, — en songeant à la sainte baronne,</l>
+<l>Sa mère, à cette fée, au miracle accompli, — </l>
+<l>Quand un petit gamin en haillons, mais joli</l>
+<l>A croquer, et marchant pieds nus dans la poussière,</l>
+<l>A son tour, aborda la jeune bouquetière</l>
+<l>Et lui dit, le cœur gros et tout tremblant d’émoi :</l>
+</lg>
+
+<lg>
+<l>« Ma belle demoiselle, ayez pitié de moi !</l>
+<l>Depuis l’hiver, je suis orphelin. Mon aïeule,</l>
+<l>Elle a quatre-vingts ans ! avec moi reste seule.</l>
+<pagenum num="93"/>
+<l>Travailler ? Mais je suis trop jeune, on ne veut pas ;</l>
+<l>Et sous ce toit croulant que vous voyez là-bas,</l>
+<l>J’ai laissé grand’maman sans pain, sombre et muette. »</l>
+</lg>
+
+<lg>
+<l>« Prends seulement ces fleurs de hallier, — dit Bleuette,</l>
+<l>Pour les donner à qui calmera vos douleurs ;</l>
+<l>Car je n’ai rien. »</l>
+</lg>
+
+<lg>
+<l cont="true">Mais quand la couronne de fleurs</l>
+<l>Fut entre les deux mains du pauvre petit mioche,</l>
+<l>Elle devint un rond énorme de brioche,</l>
+<l>Toute chaude et dorée ainsi qu’un pain bénit.</l>
+</lg>
+
+<lg>
+<l>Bleuette, bien avant que l’orphelin finît</l>
+<l>De s’étonner, s’enfuit et gagna la grand’route.</l>
+<l>— Un beau lys frais éclos poussait au bord, sans doute,</l>
+<l>Pour qu’à s’en embellir elle se décidât.</l>
+</lg>
+
+<lg>
+<l>A l’ombre d’un noyer, elle vit un soldat</l>
+<l>Qui s’était assis là, sur une grosse pierre.</l>
+<l>Sac au dos, s’appuyant sur sa longue rapière,</l>
+<l>Cet homme paraissait de fatigue épuisé ;</l>
+<l>Son front — il revenait de la guerre, blessé, — </l>
+<l>Saignait sous un bandeau lié d’une ficelle.</l>
+<l>Et ce soldat lui dit :</l>
+</lg>
+
+<pagenum num="94"/>
+
+<lg>
+<l cont="true">« Ma belle demoiselle,</l>
+<l>L’étape était trop longue et le cœur m’a manqué ;</l>
+<l>Mais le bon vin remet un homme fatigué,</l>
+<l>Et vous devriez bien — la peine n’est pas lourde —</l>
+<l>Au village voisin aller remplir ma gourde. »</l>
+</lg>
+
+<lg>
+<l>« J’y cours, pauvre soldat, mais le village est loin,</l>
+<l>Et vous vous ennuierez tout seul dans votre coin ;</l>
+<l>Le parfum de ce lys vous tiendra compagnie. »</l>
+</lg>
+
+<lg>
+<l>L’homme d’armes sourit, et, sans cérémonie,</l>
+<l>Prit entre ses doigts noirs le calice embaumé.</l>
+<l>Mais, quand il le toucha, le lys fut transformé</l>
+<l>En un grand hanap plein de vin de la Moselle,</l>
+<l>Où le soleil dardait une fauve étincelle.</l>
+</lg>
+
+<lg>
+<l>Bleuette ne vit plus de pauvres ce jour-là.</l>
+<l>Mais, dans tout le pays, vous pensez qu’on parla</l>
+<l>Et que tous ses bienfaits laissèrent une trace.</l>
+<l>Or, son père, le soir, revenant de la chasse,</l>
+<l>Trouve tous ses vassaux émus et rassemblés ;</l>
+<l>Et tous de lui parler de la gerbe de blés,</l>
+<l>Comme de la brioche énorme et du grand verre.</l>
+<l>Il n’en peut plus douter : c’est un fait qu’on avère ;</l>
+<l>Et sa cupidité s’en réjouit déjà.</l>
+<pagenum num="95"/>
+<l>Donc, après le souper, que le baron mangea</l>
+<l>Sans appétit, et quand l’unique domestique</l>
+<l>Eut enfin desservi la table très rustique,</l>
+<l>Il attira Bleuette entre ses deux genoux :</l>
+</lg>
+
+<lg>
+<l>« Maintenant, — lui dit-il, — nous sommes entre nous.</l>
+<l>Reçois mon compliment. Vrai ! tu naquis coiffée.</l>
+<l>Je sais l’étrange don que t’a fait cette fée,</l>
+<l>Et j’en veux sur moi-même essayer le pouvoir.</l>
+<l>Fais-moi quelque présent, ma mignonne, pour voir</l>
+<l>Ce qu’il va devenir dans la main de ton père. »</l>
+</lg>
+
+<lg>
+<l>« Malgré tout mon respect, — dit Bleuette, — j’espère</l>
+<l>Que vous laisserez là ce projet dangereux.</l>
+<l>Je n’ai reçu ce don que pour les malheureux,</l>
+<l>Et non pour augmenter le bien de la famille. »</l>
+</lg>
+
+<lg>
+<l>« Laisse-moi donc ! C’est trop de scrupule, ma fille !</l>
+<l>Donne-moi seulement, rien que pour essayer,</l>
+<l>La médaille de plomb qui pend à ton collier.</l>
+<l>Le pire qu’il se peut faire, c’est qu’elle reste</l>
+<l>Ce qu’elle est, un bijou de valeur très modeste ;</l>
+<l>Mais si nous la voyons être soudainement</l>
+<l>Un lourd médaillon d’or ou bien un diamant,</l>
+<l>C’est qu’aussi ton pouvoir nous échoit en partage. »</l>
+<pagenum num="96"/>
+<l>Bleuette n’osa pas résister davantage,</l>
+<l>Et mit, bien qu’à regret, dans la main du vieux fou</l>
+<l>La médaille de plomb qui pendait à son cou ;</l>
+<l>Mais l’avare frémit quand il l’eut empoignée,</l>
+<l>Car il ne tenait plus qu’une horrible araignée,</l>
+<l>Toute noire, effroyable, avec des bras velus.</l>
+<l>Faisant pour la jeter des efforts superflus,</l>
+<l>L’avare serait mort d’effroi dans la bataille ;</l>
+<l>Mais la bête ne fut que la simple médaille</l>
+<l>Qu’elle était, quand l’enfant l’eut reprise en sa main.</l>
+</lg>
+
+<lg>
+<l>Le baron réfléchit, et, dès le lendemain,</l>
+<l>A Bleuette il fit don d’une pleine aumônière.</l>
+</lg>
+
+<lg>
+<l>Cette merveille-là ne fut pas la dernière</l>
+<l>Qu’accomplit cependant la mignonne aux yeux bleus.</l>
+<l>Elle avait conservé son don miraculeux,</l>
+<l>Et, quand elle sortait des vêpres, le dimanche,</l>
+<l>Le sou qu’elle donnait devenait pièce blanche,</l>
+<l>Le simple écu d’argent devenait un marc d’or,</l>
+<l>Et le marc un bijou plus précieux encor ;</l>
+<l>Si bien que sa gentille et bonne renommée</l>
+<l>Au Landgrave-Électeur fut un jour affirmée,</l>
+<l>Et, s’étant renseigné dans le pays entier,</l>
+<l>Il la voulut pour femme à son seul héritier.</l>
+<pagenum num="97"/>
+<l>Il se fit tout d’abord annoncer par un page,</l>
+<l>Et vint enfin, lui-même, en superbe équipage,</l>
+<l>Confier au baron le désir qu’il avait.</l>
+<l>Le fils de l’Électeur, gentilhomme parfait,</l>
+<l>Plut à Bleuette dès la première soirée,</l>
+<l>Et la noce, bientôt après, fut célébrée</l>
+<l>Avec tant d’allégresse et de luxe inouï,</l>
+<l>Qu’on en parle, là-bas, même encore aujourd’hui.</l>
+</lg>
+</poem>
+
+ <pagenum num="98"/>
+ </page-sequence>
+<page-sequence recto="true" id="p09">
+<pagenum num="99"/>
+
+<vsep class="fewlines"/>
+
+<h1>POÉSIES DIVERSES</h1>
+
+<pagenum num="100"/>
+ </page-sequence>
+<page-sequence recto="true" id="p10">
+ <pagenum num="101"/>
+
+<h2>LE RAISIN</h2>
+
+<h2><s>A MON VIEIL AMI ALEXIS ORSAT</s></h2>
+
+<poem>
+<lg>
+<l>Le malade baissait tous les jours. Pauvre père !</l>
+<l>Et dans l’humble logis, jadis presque prospère,</l>
+<l>Avait depuis longtemps sévi la pauvreté.</l>
+<l>Les sinistres papiers du mont-de-piété</l>
+<l>S’étaient accumulés derrière la pendule ;</l>
+<l>Et, toujours espérant, — le malheur est crédule,</l>
+<l>La famille vendait tout son petit trésor.</l>
+<l>La timbale, les six couverts, la montre en or,</l>
+<l>L’un après l’autre étaient retournés chez l’orfèvre.</l>
+<l>Au moribond toussant et grelottant la fièvre</l>
+<l>On sacrifiait tout, sans se décourager.</l>
+<pagenum num="102"/>
+<l>Un jour, le médecin dit :</l>
+</lg>
+
+<lg>
+<l cont="true">« S’il pouvait manger ! »</l>
+</lg>
+
+<lg>
+<l>Mais il avait déjà, le triste grabataire,</l>
+<l>Refusé le biscuit avec du vieux madère,</l>
+<l>Les trois huîtres et l’œuf poché dans du bouillon.</l>
+<l>Or, bien qu’on fut en mars, par un jour sans rayon,</l>
+<l>On parla de raisin, ne sachant plus que dire,</l>
+<l>Hélas ! — et le malade eut un faible sourire.</l>
+</lg>
+
+<lg>
+<l>On se saigna. Le soir, à ce pauvre chevet,</l>
+<l>— Dans la boîte portant la marque de Chevet</l>
+<l>Et montrant les grains durs et roux sous la dentelle</l>
+<l>De papier, — tentatrice, appétissante et telle</l>
+<l>Qu’au dessert, parmi les gourmets de belle humeur,</l>
+<l>Parut la ruineuse et splendide primeur.</l>
+<l>L’agonisant la vit, mais, sans y toucher même,</l>
+<l>Il détourna le front, plein d’un dégoût suprême,</l>
+<l>Et trois heures après, il s’en allait enfin</l>
+<l>Dans l’autre monde, où nul n’a sans doute plus faim.</l>
+</lg>
+
+<lg>
+<l>La misère attendait les enfants et la mère ;</l>
+<l>Mais, le surlendemain, à l’école primaire,</l>
+<l>Les orphelins faisaient envie aux écoliers</l>
+<l>En tirant ce raisin de leurs petits paniers.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p11">
+ <pagenum num="103"/>
+
+<h2>PREMIER DÉSIR</h2>
+
+<poem>
+<lg>
+<l>C’est un vieux souvenir de mon adolescence.</l>
+<l>J’étais un grand flandrin, pâli par la croissance,</l>
+<l>Horriblement timide et subissant toujours</l>
+<l>La honte de porter des pantalons trop courts.</l>
+<l>Je rêvais de fléchir une belle inhumaine,</l>
+<l>Et j’avais, entassant mes deux francs par semaine</l>
+<l>Pour mes trois poils de barbe acheté deux rasoirs.</l>
+<l>Tremblant d’émotion, tous les dimanches soirs,</l>
+<l>J’arrivais, le premier, toujours, chez Adrienne,</l>
+<l>Dont la famille était liée avec la mienne.</l>
+<pagenum num="104"/>
+<l>Pour compléter un whist, on m’avait invité.</l>
+<l>Dans le petit salon, près de la table à thé,</l>
+<l>Je trouvais la maman seule, — première épreuve, —</l>
+<l>Avec son havanais, dans sa robe de veuve,</l>
+<l>En lunettes d’argent, et, d’un air solennel,</l>
+<l>Regardant le portrait du défunt colonel,</l>
+<l>Son époux, effrayant sous un casque à chenille.</l>
+<l>On causait de la pluie et du beau temps ; sa fille</l>
+<l>Achevait sa toilette ; et, posé sur le bord</l>
+<l>D’un fauteuil, j’attendais, le cœur battant bien fort.</l>
+<l>Enfin, sur les appels répétés de sa mère,</l>
+<l>Elle arrivait, superbe, avec sa lèvre amère,</l>
+<l>Son corsage trop plein et ses regards luisants</l>
+<l>De belle brune, fille encore à vingt-six ans.</l>
+<l>Quand nos mains se touchaient, trop ému pour rien</l>
+<l>J’observais sur sa bouche un triomphant sourire ;</l>
+<l>Car alors son orgueil de femme était flatté</l>
+<l>De mon trouble rendant hommage à sa beauté.</l>
+<l>Mais c’était un éclair ; et, soudain, sa figure</l>
+<l>Prenait l’expression fâchée et presque dure</l>
+<l>De la fille sans dot qu’offense tout désir.</l>
+<l>Oh ! sa main ! Que j’aurais voulu la ressaisir</l>
+<l>Alors, et, suppliant, de ma voix la plus tendre,</l>
+<l>Lui dire de m’aimer, lui dire de m’attendre,</l>
+<l>Et qu’à tout prix, plus tard, je la mériterais !</l>
+<pagenum num="105"/>
+<l>A-t-elle dans mes yeux lu mes désirs secrets,</l>
+<l>Mes désirs insensés, — je sortais du collège ! — </l>
+<l>Et songé : « S’il était un homme, l’aimerais-je ? »</l>
+<l>A-t-elle eu quelquefois, pour cet amour d’enfant,</l>
+<l>Un peu de pitié douce en s’en apercevant ?</l>
+<l>Je ne m’en suis jamais douté ; mais je l’espère.</l>
+<l>C’est alors que venait un ami de son père,</l>
+<l>Vieux soldat alsacien, à l’aspect probe et dur,</l>
+<l>Dont la rosette rouge excusait l’habit mûr ;</l>
+<l>Et le whist commençait. O volupté parfaite !</l>
+<l>Elle était près de moi. Sa blanche main, distraite,</l>
+<l>Remuait les jetons dans le petit panier ;</l>
+<l>Et je voyais son beau visage s’égayer</l>
+<l>Lorsque le commandant, à qui, par maladresse,</l>
+<l>Je venais de couper une carte maîtresse,</l>
+<l>Murmurait un juron terrible entre ses dents,</l>
+<l>Et que, risquant des coups toujours plus imprudents,</l>
+<l>Par-dessous l’abat-jour, orné d’ombres chinoises,</l>
+<l>Vers elle je lançais des œillades sournoises.</l>
+<l>Enfin, elle servait le thé sur un plateau.</l>
+<l>Je choisissais ma tasse et mon petit gâteau,</l>
+<l>Lentement, et j’avais même parfois l’audace</l>
+<l>De la bien regarder, une seconde, en face.</l>
+<l>Mais la maman disait alors : « Comme il est tard ! »</l>
+<l>On partait ; et tout seul, sur le long boulevard</l>
+<pagenum num="106"/>
+<l>Par où l’on revenait de ce fond de banlieue,</l>
+<l>Dans le silence et dans la paix de la nuit bleue,</l>
+<l>Avec une douceur qui ne peut s’exprimer</l>
+<l>Je savourais le mal délicieux d’aimer.</l>
+</lg>
+
+<lg>
+<l>Ce fut tout le roman. Vous voyez qu’il est mince.</l>
+<l>Les deux femmes bientôt partirent en province,</l>
+<l>Pour vivre plus à l’aise auprès d’un vieux parent.</l>
+<l>J’étais pour Adrienne un simple indifférent.</l>
+<l>Je souffris. L’oubli vint... Je ne l’ai point revue.</l>
+</lg>
+
+<lg>
+<l>Or, l’autre jour, j’ai fait la rencontre imprévue</l>
+<l>De ce vieil officier, mon partenaire ancien,</l>
+<l>Qui grommelait avec un accent alsacien</l>
+<l>Quand je n’avais pas su répondre à son invite.</l>
+<l>Le vieillard m’a parlé d’Adrienne. Elle habite</l>
+<l>Dans l’Est, et n’est jamais revenue à Paris.</l>
+<l>C’est une pauvre veuve avec des cheveux gris,</l>
+<l>A présent. Son mari, fort triste personnage,</l>
+<l>Qui fit pendant dix ans le malheur du ménage,</l>
+<l>Est mort, en lui laissant un fils, qui doit avoir</l>
+<l>L’âge exact que j’avais, quand je venais, le soir,</l>
+<l>Faire le whist ; un grand garçon très bon pour elle.</l>
+<l>L’histoire était banale et toute naturelle ;</l>
+<l>Mais le spectre de mon premier désir d’amour,</l>
+<pagenum num="107"/>
+<l>Brusquement évoqué, m’a navré tout un jour :</l>
+<l>Elle ! par le malheur et par l’âge enlaidie...</l>
+<l>Ainsi, parfois, on pleure à quelque mélodie</l>
+<l>Que nous chantait jadis une bien chère voix,</l>
+<l>Et qu’on retrouve, avec le regret d’autrefois,</l>
+<l>Fausse et comme sortant des poumons d’un phtisique,</l>
+<l>Dans les sons tremblotés d’une boîte à musique.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p12">
+ <pagenum num="108"/>
+
+<h2>UNE AUMONE</h2>
+
+<poem>
+<lg>
+<l>Fumant à ma fenêtre, en été, chaque soir,</l>
+<l>Je voyais cette femme, à l’angle d’un trottoir,</l>
+<l>S’offrir à tous, ainsi qu’une chose à l’enchère.</l>
+<l>Non loin de là s’ouvrait une porte cochère,</l>
+<l>Où l’on entendait geindre ; en s’abritant dessous,</l>
+<l>Une fillette avec des bouquets de deux sous.</l>
+<l>Et celle qui traînait la soie et l’infamie</l>
+<l>Attendait que l’enfant se fût bien endormie,</l>
+<l>Et lui faisait alors l’aumône seulement.</l>
+<l>— Tu lui pardonneras, n’est-ce pas ? Dieu clément !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p13">
+ <pagenum num="109"/>
+
+<h2>PRÉFACE D’UN LIVRE POSTHUME</h2>
+<h2><s>A LA MÉMOIRE DE HENRI-CHARLES READ</s></h2>
+
+<poem>
+<lg>
+<l>Celui qui fit ces vers est mort à dix-neuf ans.</l>
+<l>— Tel l’amandier précoce, au début du printemps,</l>
+<l indent='2'>Meurt pour une neige qui tombe. — </l>
+<l>Il ne reste de lui que ce bouquet glané,</l>
+<l>Et d’une main pieuse, ainsi qu’un frère aîné,</l>
+<l indent='2'>Je viens le poser sur sa tombe.</l>
+</lg>
+
+<lg>
+<l>En lisant ses doux vers, qu’ils l’aient ou non connu,</l>
+<l>Tous seront attendris par leur charme ingénu,</l>
+<pagenum num="110"/>
+<l indent='2'>Par leur grâce simple et naïve,</l>
+<l>Et, devinant quel homme eût été cet enfant,</l>
+<l>Ils se demanderont pourquoi le sort défend</l>
+<l indent='2'>Qu’un tel être prospère et vive ;</l>
+</lg>
+
+<lg>
+<l>Pourquoi tant de charmants espoirs ont succombé ;</l>
+<l>Pourquoi sur le chemin on trouve un nid tombé ;</l>
+<l indent='2'>Pourquoi le vent brise l’arbuste ;</l>
+<l>Pourquoi l’Artiste, un jour, laisse là, sans regret,</l>
+<l>Une ébauche où déjà le chef-d’œuvre apparaît,</l>
+<l indent='2'>Et pourquoi le Ciel est injuste !</l>
+</lg>
+
+<lg>
+<l>Mais devant ce jeune homme au sépulcre enfermé,</l>
+<l>Moi qui vieillis, je dis à ceux qui l’ont aimé</l>
+<l indent='2'>Ou qui l’aimeront par son livre :</l>
+<l>Heureux qui n’a vécu qu’un jour, en floréal !</l>
+<l>Heureux qui meurt, tout jeune, avec son idéal !</l>
+<l indent='2'>Dieu lui fait grâce et le délivre.</l>
+</lg>
+
+<lg>
+<l>Car vivre, c’est souffrir. Quels maux n’eût pas soufferts</l>
+<l>Le cœur ardent et bon qui s’épanche en ces vers ?</l>
+<l indent='2'>Il portait la marque fatale.</l>
+<l>L’Art, le Bonheur, l’Amour à ses yeux avaient lui ;</l>
+<l>Il n’a pas eu le temps de voir fuir devant lui</l>
+<l indent='2'>Tous ces mirages de Tantale.</l>
+</lg>
+
+<pagenum num="111"/>
+
+<lg>
+<l>D’ailleurs, que savons-nous ? Hommes, courbons nos fronts !</l>
+<l>Au delà du tombeau vers lequel nous courons</l>
+<l indent='2'>Siège une immuable justice ;</l>
+<l>Et nous saurons un jour qu’il est essentiel</l>
+<l>Que l’âme d’un poète enfant remonte au ciel</l>
+<l indent='2'>Pour que le soleil resplendisse.</l>
+</lg>
+</poem>
+
+<date class='l3'>Décembre 1878.</date>
+
+ </page-sequence>
+ <page-sequence id="p14">
+ <pagenum num="112"/>
+
+<h2>A UN AMANT</h2>
+
+<poem>
+<lg>
+<l>Amant abandonné qu’une maîtresse oublie,</l>
+<l>Pourquoi ce poing fermé que tu montres aux cieux ?</l>
+<l>Pourquoi ce pli profond dans ton front soucieux</l>
+<l>Et ce regard où brûle une ardeur de folie ?</l>
+</lg>
+
+<lg>
+<l>Pourquoi ce désespoir ? Parce qu’elle est jolie,</l>
+<l>Parce qu’en caressant son corps délicieux,</l>
+<l>En respirant sa bouche, en admirant ses yeux,</l>
+<l>Tu trouvais un remède à ta mélancolie ?</l>
+</lg>
+
+<pagenum num="113"/>
+
+<lg>
+<l>Tu pâlis en songeant à l’odeur de sa chair ;</l>
+<l>Son visage est toujours le seul qui te soit cher ;</l>
+<l>De tout autre, aussitôt blasé, tu te dégoûtes.</l>
+</lg>
+
+<lg>
+<l>Va ! tu me fais pitié, triste martyr d’amour.</l>
+<l>La vie est un éclair, la beauté dure un jour !</l>
+<l>Songe aux têtes de morts qui se ressemblent toutes.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p15">
+ <pagenum num="114"/>
+
+<h2>A UN ÉLÉGIAQUE</h2>
+
+<poem>
+<lg>
+<l>Jeune homme, qui me viens lire tes plaintes vaines</l>
+<l>Garde-toi bien d’un mal dont je me suis guéri.</l>
+<l>Jadis, j’ai, comme toi, du plus pur de mes veines,</l>
+<l>Tiré des pleurs de sang, et le monde en a ri.</l>
+</lg>
+
+<lg>
+<l>Du courage ! La plainte est ridicule et lâche.</l>
+<l>Comme l’enfant de Sparte, ayant sous ses habits</l>
+<l>Un renard furieux qui le mord sans relâche,</l>
+<l>Ne laisse plus rien voir de tes tourments subis.</l>
+</lg>
+
+<pagenum num="115"/>
+
+<lg>
+<l>On fut cruel pour toi ? Sois indulgent et juste ;</l>
+<l>Rends le bien pour le mal, c’est le vrai talion.</l>
+<l>Mais, t’étant bien bardé le cœur d’orgueil robuste,</l>
+<l>Va ! calme comme un sage et seul comme un lion.</l>
+</lg>
+
+<lg>
+<l>Quand même, dans ton sein, les chagrins, noirs reptiles,</l>
+<l>Se tordraient, cache bien au public désœuvré</l>
+<l>Que tu gardes en toi des trésors inutiles</l>
+<l>Comme des lingots d’or sur un vaisseau sombré.</l>
+</lg>
+
+<lg>
+<l>Sois impassible, ainsi qu’un soldat sous les armes ;</l>
+<l>Et lorsque la douleur dressera tes cheveux</l>
+<l>Et qu’aux yeux, malgré toi, te monteront des larmes,</l>
+<l>N’en conviens pas, enfant, et dis que c’est nerveux !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p16">
+ <pagenum num="116"/>
+
+<h2>LA CHAMBRE ABANDONNÉE</h2>
+
+<poem>
+<lg>
+<l>La chambre est depuis très longtemps abandonnée,</l>
+<l>Les meubles sont flétris, la tenture est fanée.</l>
+<l>Un jour, on est parti sans fermer les volets ;</l>
+<l>Et le soleil, celui des torrides juillets</l>
+<l>Aussi bien que celui des décembres polaires,</l>
+<l>A longtemps promené ses regards circulaires,</l>
+<l>Comme il fera demain, comme il fait aujourd’hui,</l>
+<l>Dans ce lieu saturé de tristesse et d’ennui.</l>
+</lg>
+
+<lg>
+<l>La chambre est depuis très longtemps abandonnée.</l>
+<l>Un peignoir rose tendre en soie enrubannée</l>
+<pagenum num="117"/>
+<l>Conserve, sur le grand divan de satin noir,</l>
+<l>L’attitude d’un corps brisé de désespoir ;</l>
+<l>Et, depuis le départ, deux pantoufles mignonnes</l>
+<l>Traînent sur la peau d’ours, près du lit à colonnes,</l>
+<l>De la dernière nuit encor bouleversé.</l>
+<l>Partout, sur l’écrin vide et le livre laissé,</l>
+<l>Où la fuite fiévreuse et brusque se devine,</l>
+<l>La poussière a posé sa neige grise et fine ;</l>
+<l>Et, dans les hauts miroirs brumeux, rien n’est resté</l>
+<l>Du sourire qu’ils ont autrefois reflété.</l>
+</lg>
+
+<lg>
+<l>La chambre est depuis très longtemps abandonnée.</l>
+<l>Une causeuse est là, devant la cheminée ;</l>
+<l>Quel secret monotone échangent donc entre eux</l>
+<l>Le large fauteuil vide et le foyer poudreux ?</l>
+<l>O morne solitude ! ô silence sévère !</l>
+<l>Sur la table, une rose est morte dans un verre ;</l>
+<l>Les feuilles tour à tour ont chu comme un fardeau,</l>
+<l>Et leurs cadavres noirs, autour du verre d’eau,</l>
+<l>Sont épars tristement et font une jonchée</l>
+<l>Sur qui semble pleurer la tige desséchée.</l>
+<l>Enfin, la seule chose encor qui remuait</l>
+<l>Dans cet intérieur immobile et muet,</l>
+<l>Le seul objet doué d’une âme, d’une haleine,</l>
+<l>La pendule de Saxe aux fleurs de porcelaine</l>
+<pagenum num="118"/>
+<l>A dû depuis longtemps, très longtemps, s’arrêter...</l>
+<l>Comme tu cesseras bientôt de palpiter,</l>
+<l>O toi dont je maudis l’existence obstinée,</l>
+<l>Cœur plus désert que n’est la chambre abandonnée !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p17">
+ <pagenum num="119"/>
+
+<h2>LE BATEAU-MOUCHE</h2>
+
+<poem>
+<lg>
+<l>On court bien loin, bien loin, chercher des paysages</l>
+<l>Avec des pins brisés sur des torrents sauvages</l>
+<l>Et des paquets de mer tordus sur des récifs ;</l>
+<l>Mais le Parisien, dédaigneux des poncifs,</l>
+<l>Pour voir des coins charmants et des tableaux intimes,</l>
+<l>Se contente d’aller, pour ses quinze centimes,</l>
+<l>A bord d’un bateau-mouche alerte et matinal,</l>
+<l>Du viaduc d’Auteuil au pont National :</l>
+</lg>
+
+<lg>
+<l>Spectacle intéressant plus qu’on ne s’imagine !</l>
+<l>Bercé par le hoquet rythmé de la machine,</l>
+<pagenum num="120"/>
+<l>Auquel, parfois, l’écho des rivages répond,</l>
+<l>Le flâneur fume et rêve en marchant sur le pont.</l>
+<l>Là, du monde amusant survient à chaque escale :</l>
+<l>C’est l’ouvrier lisant la feuille radicale</l>
+<l>Que rédige pour lui Rochefort ou Naquet ;</l>
+<l>C’est le bourgeois de Londre, armé d’un Cook’s ticket,</l>
+<l>Et traînant après lui trois miss en robe courte ;</l>
+<l>Le patronnet portant sur sa tête une tourte ;</l>
+<l>Le gros homme en sueur qui s’assied et dit : « Ouf ! »</l>
+<l>Et la pâle grisette en mince waterproof,</l>
+<l>Avec ses jolis yeux et son teint de chlorose.</l>
+</lg>
+
+<lg>
+<l>Allez là par un temps voilé de brume rose,</l>
+<l>Par un matin d’octobre ou d’avril, voulez-vous ?</l>
+<l>Faites-moi le trajet complet, pour vos trois sous !</l>
+<l>Et puis, — j’aime à vous croire une âme délicate, —</l>
+<l>Autour des bains Vigier ou près de la frégate,</l>
+<l>Dites-moi franchement si vous n’avez pas vu</l>
+<l>Des vrais motifs à peindre et d’un charme imprévu,</l>
+<l>Émergeant du brouillard que le soleil dissipe,</l>
+<l>Où le père Corot aurait fumé sa pipe.</l>
+</lg>
+
+<lg>
+<l>Pour moi, qui de Paris fais mes seules amours,</l>
+<l>J’accomplis ce voyage au moins tous les huit jours.</l>
+<l>J’en connais tous les coins par cœur ; je me rappelle</l>
+<pagenum num="121"/>
+<l>Combien la flèche d’or de la Sainte-Chapelle,</l>
+<l>Par un matin d’hiver anime le tableau ;</l>
+<l>J’ai noté le fracas impétueux de l’eau</l>
+<l>Quand, cédant à l’effort du bateau-mouche en marche,</l>
+<l>Elle va se briser sous les ponts, contre l’arche.</l>
+<l>De tous ces riens charmants je ne suis jamais las.</l>
+<l>J’ai pour ami, devant le port Saint-Nicolas,</l>
+<l>Un vieil arbre isolé qui montre ses racines.</l>
+<l>Puis, quand j’ai bien assez regardé mes voisines</l>
+<l>Qui du <i>Petit Journal</i> lisent le feuilleton,</l>
+<l>Je descends, à travers la foule d’un ponton</l>
+<l>Qui ferait le bonheur des impressionnistes ;</l>
+<l>Et, tout le long des quais où sont les bouquinistes,</l>
+<l>Le cerveau tout grisé de tant d’aspects divers,</l>
+<l>Je rentre en feuilletant les volumes de vers.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p18">
+ <pagenum num="122"/>
+
+<h2>LA NYMPHE DE VILLE-D’AVRAY</h2>
+<h2><s>AU MONUMENT DE COROT</s></h2>
+
+<h3>Strophes dites par Mlle Blanche Barretta, de la Comédie-Française, le 27 mai 1880.</h3>
+
+<poem>
+<lg>
+<l>Devant ce marbre clair encadré de verdure,</l>
+<l>Qu’à l’intime et naïf ami de la nature</l>
+<l indent='2'>Ont élevé vos soins touchants,</l>
+<l>La nymphe de ces bois, muse simple et rustique,</l>
+<l>Doit apporter aussi son tribut poétique,</l>
+<l indent='2'>Les mains pleines de fleurs des champs.</l>
+</lg>
+
+<pagenum num="123"/>
+
+<lg>
+<l>Le bon Corot m’aimait. Je suis l’une de celles,</l>
+<l>Alors que l’aube emplit de vagues étincelles</l>
+<l indent='2'>L’horizon frileux du matin,</l>
+<l>Que l’artiste — c’était son heure favorite — </l>
+<l>Voyait passer, avec les yeux de Théocrite,</l>
+<l indent='2'>Au fond du brouillard argentin.</l>
+</lg>
+
+<lg>
+<l>C’est moi qu’il a montrée, assise au pied d’un hêtre</l>
+<l>Essayant de noter sur la flûte champêtre</l>
+<l indent='2'>Quelque musique de berger ;</l>
+<l>C’est moi, mêlée au chœur de mes sveltes compagnes</l>
+<l>Qu’il faisait, dans la paix sereine des campagnes,</l>
+<l indent='2'>Tourner sur un rythme léger.</l>
+</lg>
+
+<lg>
+<l>Je le connaissais bien, le vieux bonhomme en blouse</l>
+<l>Et, quand il préparait sur un coin de pelouse</l>
+<l indent='2'>Son chevalet et ses pinceaux,</l>
+<l>Pour embellir encor ses extases secrètes,</l>
+<l>J’étais là, j’exaltais l’odeur des violettes,</l>
+<l indent='2'>J’excitais le chant des oiseaux.</l>
+</lg>
+
+<lg>
+<l>Tandis qu’il travaillait, abrité par un saule,</l>
+<l>Je venais regarder par-dessus son épaule,</l>
+<l indent='2'>A petits pas, tout doucement ;</l>
+<pagenum num="124"/>
+<l>Il peignait à la hâte, et, sous sa brosse agile,</l>
+<l>J’ai pu voir bien souvent, moi, fille de Virgile,</l>
+<l indent='2'>Éclore son rêve charmant.</l>
+</lg>
+
+<lg>
+<l>Ses esquisses, c’est moi qui les vis la première.</l>
+<l>L’eau verte et pure où court un frisson de lumière,</l>
+<l indent='2'>L’azur du ciel, l’or du genêt,</l>
+<l>Le flot des épis mûrs ondulant sous les brises,</l>
+<l>Les couchants enflammés et les aurores grises,</l>
+<l indent='2'>J’étais là quand il les peignait.</l>
+</lg>
+
+<lg>
+<l>Hélas ! depuis cinq ans qu’est mort le grand artiste,</l>
+<l>Moi, la nymphe des bois qu’il aimait, j’étais triste,</l>
+<l indent='2'>Et souvent, tout bas, j’ai gémi,</l>
+<l>Quand, au printemps, gardant son souvenir fidèle,</l>
+<l>Devant moi, le bleuet disait à l’hirondelle :</l>
+<l indent='2'>— « Où donc est notre vieil ami ? »</l>
+</lg>
+
+<lg>
+<l>Mais vous nous le rendez. Voici notre poète !</l>
+<l>Un doux rossignol chante au-dessus de sa tête.</l>
+<l indent='2'>C’est lui ! nous le reconnaissons !</l>
+<l>C’est bien son bon visage. Il regarde, il respire !</l>
+<l>Oiseaux ! fleurs ! désormais, vous le verrez sourire,</l>
+<l indent='2'>Dans vos parfums, dans vos chansons ;</l>
+</lg>
+
+<pagenum num="125"/>
+
+<lg>
+<l>Et, près de la fontaine où vit sa chère image,</l>
+<l>Portant comme aujourd’hui quelque odorant hommage,</l>
+<l indent='2'>Je reviendrai souvent m’asseoir</l>
+<l>Au moment qui berçait si mollement son rêve,</l>
+<l>Quand l’étang s’assombrit, et quand au ciel se lève</l>
+<l indent='2'>La divine étoile du soir.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p19">
+<pagenum num="126"/>
+ 
+<h2>L’ANNEAU</h2>
+<h2><s>A E...</s></h2>
+
+<poem>
+<lg>
+<l>Lorsque des anciens morts on trouble le repos,</l>
+<l>Qu’on soulève le marbre effrité des tombeaux,</l>
+<l indent='2'>Qu’au sépulcre on ose descendre,</l>
+<l>Et qu’on viole, après un travail dur et long,</l>
+<l>Le funèbre secret des vieux cercueils de plomb,</l>
+<l indent='2'>On n’y trouve que de la cendre.</l>
+</lg>
+
+<lg>
+<l>Plus trace d’ossements, plus trace de linceul,</l>
+<l>L’implacable néant a tout dévoré, seul,</l>
+<l indent='2'>Comme une bête carnassière.</l>
+<pagenum num="127"/>
+<l>Lentement, lentement, tout s’est décomposé ;</l>
+<l>Le squelette lui-même à la fin s’est usé :</l>
+<l indent='2'>Rien, plus rien qu’un peu de poussière !</l>
+</lg>
+
+<lg>
+<l>Pourtant, en la fouillant du bout de son soulier,</l>
+<l>Parfois, le fossoyeur voit un objet briller</l>
+<l indent='2'>Parmi cette cendre incolore :</l>
+<l>C’est l’anneau que le mort jadis eut à son doigt,</l>
+<l>Et qui, métal fidèle et pur, comme il le doit,</l>
+<l indent='2'>Demeure intact et brille encore.</l>
+</lg>
+
+<lg>
+<l>Dans ces jours de chagrin où je hais le soleil,</l>
+<l>Il me semble souvent que mon cœur est pareil</l>
+<l indent='2'>A ces antiques sépultures,</l>
+<l>Et qu’on n’y peut plus rien désormais découvrir</l>
+<l>Des mille sentiments qui l’ont tant fait souffrir</l>
+<l indent='2'>Par leurs cruelles impostures.</l>
+</lg>
+
+<lg>
+<l>Ce n’est plus que néant, que ténèbres, qu’oubli ;</l>
+<l>Et ce tombeau, d’un peu de froide cendre empli,</l>
+<l indent='2'>M’en offre le parfait modèle ;</l>
+<l>Mais l’œil de ma pensée y voit briller encor,</l>
+<l>Comme, au fond de l’ancien sépulcre, l’anneau d’or,</l>
+<l indent='2'>Ton souvenir tendre et fidèle.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p20">
+ <pagenum num="128"/>
+
+<h2>VIEUX BROUILLON DE LETTRE</h2>
+
+<poem>
+<lg>
+<l>Adieu ! J’ai peur d’aimer. Quittons-nous ce soir même.</l>
+<l>Je te ferais souffrir et tu me rendrais fou.</l>
+<l>Ainsi qu’une coquette ôte un collier qu’elle aime,</l>
+<l>Je détache à regret tes bras blancs de mon cou.</l>
+</lg>
+
+<lg>
+<l>Adieu ! L’Amour viendrait. Bornons-nous au caprice.</l>
+<l>Ne nous torturons pas des larmes du départ.</l>
+<l>Adieu ! Mon cœur blessé saigne à sa cicatrice.</l>
+<l>J’ai tant souffert, vois-tu, pour avoir foi trop tard.</l>
+</lg>
+
+<pagenum num="129"/>
+
+<lg>
+<l>Adieu ! Pour nous punir de notre fantaisie,</l>
+<l>L’Amour veille, il nous guette, et le malheur le suit ;</l>
+<l>Pareil à ce bourreau qu’une reine d’Asie</l>
+<l>Postait pour égorger ses amants d’une nuit.</l>
+</lg>
+
+<lg>
+<l>Huit jours tu m’appartins, — ô joie, ivresse, gloire ! —</l>
+<l>Avec des soirs d’été pour sublime décor ;</l>
+<l>Et, parmi les amours étoilant ma mémoire,</l>
+<l>Nos amours sont ainsi que des planètes d’or.</l>
+</lg>
+
+<lg>
+<l>Mais puis-je, pauvre et fier, te garder, toi, trop belle ?</l>
+<l>C’est impossible, hélas ! Épargnons-nous des pleurs.</l>
+<l>Si nous tardions encor, — la vie est si cruelle ! — </l>
+<l>Nos soupirs d’aujourd’hui deviendraient des douleurs.</l>
+</lg>
+
+<lg>
+<l>Ayons pitié de nous ! Fuyons-nous, mon amie !</l>
+<l>Mais souffre qu’en un rêve où sont mouillés mes yeux</l>
+<l>Je te revoie encor dans mes bras endormie,</l>
+<l>Et pose entre tes seins le baiser des adieux !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p21">
+ <pagenum num="130"/>
+
+<h2>SUR UNE TOMBE AU PRINTEMPS</h2>
+<h2><s>A H. CIACOMELLI</s></h2>
+
+<poem>
+<lg>
+<l>La vieille croix s’effrite au fond du cimetière,</l>
+<l>Mais avril embellit le signe des douleurs ;</l>
+<l>La fauvette y fait halte, et de ses douces fleurs</l>
+<l>Un sauvage églantier la couvre tout entière.</l>
+</lg>
+
+<lg>
+<l>La voix du rossignol vaut bien une prière,</l>
+<l>Et moins que la rosée un regret a de pleurs.</l>
+<l>Dans ces parfums, dans ces chansons, dans ces couleurs,</l>
+<l>On sent revivre ici l’immortelle matière.</l>
+</lg>
+
+<pagenum num="131"/>
+
+<lg>
+<l>O vieux mort oublié, de qui l’orgueil humain</l>
+<l>A sans doute rêvé l’éternel lendemain</l>
+<l>Au sein du paradis, dans les apothéoses !</l>
+</lg>
+
+<lg>
+<l>Aujourd’hui, n’as-tu pas un destin aussi beau,</l>
+<l>Si ton esprit épars autour de ce tombeau</l>
+<l>Chante avec les oiseaux et fleurit dans les roses ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p22">
+ <pagenum num="132"/>
+
+<h2>LE VIN</h2>
+<h2><s>A ERNEST CHAZE</s></h2>
+
+<poem>
+<lg>
+<l>Longtemps, dans l’atmosphère humide des caveaux,</l>
+<l>Sous la voûte profonde et de nitre imprégnée,</l>
+<l>Sous la poussière et sous les toiles d’araignée,</l>
+<l>Le jeune vin vieillit dans les flacons nouveaux.</l>
+</lg>
+
+<lg>
+<l>Il faut que dans le calme et l’ombre des tombeaux</l>
+<l>La sublime liqueur dure plus d’une année,</l>
+<l>Avant que d’accomplir sa noble destinée</l>
+<l>D’exalter un instant nos cœurs et nos cerveaux.</l>
+</lg>
+
+<pagenum num="133"/>
+
+<lg>
+<l>Ainsi, Chaze, il en est de la pensée humaine ;</l>
+<l>C’est par un très secret et très lent phénomène</l>
+<l>Qu’elle se plie enfin au rythme harmonieux !</l>
+</lg>
+
+<lg>
+<l>Un doux sonnet mûrit comme un bordeaux suave ;</l>
+<l>Et tu fais bien, ami, qui vis dans une cave,</l>
+<l>De lire de beaux vers en buvant tes vins vieux.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p23">
+ <pagenum num="134"/>
+
+<h2>PORTRAIT DE VICTOR HUGO</h2>
+<h2><s>PAR BONNAT</s></h2>
+
+<poem>
+<lg>
+<l>C’est Hugo ! C’est bien lui ! Quelque puissante idée</l>
+<l>Occupe en ce moment cette tête accoudée ;</l>
+<l>Un noble songe emplit son œil terrible et doux,</l>
+<l>Et, dans ce front pensif qui nous domine tous</l>
+<l>Et, comme les vieux monts, a de la neige au faîte,</l>
+<l>Se forment en secret les grands vers de prophète</l>
+<l>Qu’il fait flamber aux murs des palais triomphants,</l>
+<l>Ou bien une chanson pour ses petits-enfants.</l>
+<l>Il est bien ressemblant. C’est le maître lui-même !</l>
+<l>Aussi, le siècle entier, qui l’admire et qui l’aime,</l>
+<pagenum num="135"/>
+<l>Approuve ton travail, peintre, et te dit merci</l>
+<l>D’avoir fait ce portrait juste en ce moment-ci,</l>
+<l>De nous avoir montré sa face auguste telle</l>
+<l>Qu’elle resplendira dans sa gloire immortelle,</l>
+<l>Et de nous avoir peint le vieillard triste et beau</l>
+<l>Qui fixe son regard profond sur le tombeau,</l>
+<l>Où le plus grand, hélas ! descend comme le moindre,</l>
+<l>Et qui, son labeur fait, va lentement rejoindre</l>
+<l>Homère en son Olympe et Dante en son Enfer,</l>
+<l>Calme comme un coucher de soleil sur la mer !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p24">
+ <pagenum num="136"/>
+
+<h2>L’ANNIVERSAIRE</h2>
+
+<l>Strophes dites par M. Mounet-Sully à la Comédie-Française, en présence de Victor Hugo, le 26 février 1882</l>
+
+<poem>
+<lg>
+<l>Un chêne est vieux. Pourtant, dans ses fortes ramures,</l>
+<l>Jamais plus de doux nids, plus de divins murmures</l>
+<l indent='2'>N’ont chanté sous le noir couvert ;</l>
+<l>Et jamais, quand le vent de floréal se lève,</l>
+<l>A ses bourgeons dorés n’a monté plus de sève ;</l>
+<l indent='2'>Plus il vieillit, plus il est vert.</l>
+</lg>
+
+<lg>
+<l>Un aigle est vieux. Jamais, s’élançant de son aire,</l>
+<l>Il n’a plus bravement volé vers le tonnerre,</l>
+<l indent='2'>Dans l’air d’orage lourd et chaud ;</l>
+<pagenum num="137"/>
+<l>Et jamais le grand coup de ses ailes sublimes</l>
+<l>Ne l’a mieux emporté par delà les abîmes ;</l>
+<l indent='2'>Plus il vieillit, plus il va haut.</l>
+</lg>
+
+<lg>
+<l>Le soleil est très vieux. Pourtant, sa face ardente</l>
+<l>N’a jamais mieux versé la chaleur fécondante</l>
+<l indent='2'>Aux fleurs, aux fruits, à la moisson ;</l>
+<l>Jamais plus doucement, dans l’exil où nous sommes,</l>
+<l>Ce sourire de Dieu n’a brillé sur les hommes ;</l>
+<l indent='2'>Plus il vieillit, plus il est bon.</l>
+</lg>
+
+<lg>
+<l>Il est très vieux aussi, le bien-aimé Poète,</l>
+<l>De qui nous célébrons par de longs cris de fête</l>
+<l indent='2'>Les quatre-vingts ans aujourd’hui.</l>
+<l>C’est lui qui, dans un mot d’éloquence suprême,</l>
+<l>Nous disait : « Je naquis avec ce siècle même,</l>
+<l indent='2'>Et je continue avec lui. »</l>
+</lg>
+
+<lg>
+<l>Mais, quand elle permet qu’un tel poète naisse,</l>
+<l>La nature lui donne un trésor de jeunesse.</l>
+<l indent='2'>L’aïeul au jeune homme est pareil ;</l>
+<l>Et l’Esprit devant qui tous les autres pâlissent,</l>
+<l>Superbe, ne vieillit pas plus que ne vieillissent</l>
+<l indent='2'>Le chêne, l’aigle et le soleil.</l>
+</lg>
+
+<pagenum num="138"/>
+
+<lg>
+<l>Oh ! longtemps, très longtemps, à cet anniversaire,</l>
+<l>Devant toi, courbant tous, ô grand vieillard sincère,</l>
+<l indent='2'>Nos fronts, d’émotion tremblants,</l>
+<l>Laisse-nous voir encor, plus nobles chaque année,</l>
+<l>Parmi les lauriers verts dont ta tête est ornée,</l>
+<l indent='2'>Briller tes jeunes cheveux blancs !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p25">
+ <pagenum num="139"/>
+
+<h2>RÉSURRECTION</h2>
+
+<l>Strophes dites à la Comédie-Française, le 22 mai 1886, par M. Got, doyen des sociétaires, à l’occasion du premier anniversaire de la mort de Victor Hugo.</l>
+
+<poem>
+<lg>
+<l>Quand dans le deuil du monde et de la France entière</l>
+<l>Le corbillard du pauvre allait au Panthéon,</l>
+<l>A travers le drap noir et le bois de la bière</l>
+<l>La foule croyait voir transparaître un rayon.</l>
+</lg>
+
+<lg>
+<l>Vainement on voulait chasser cette démence,</l>
+<l>Songeant que le Poète, à la tombe porté,</l>
+<l>Avait à l’univers légué son œuvre immense</l>
+<l>Et qu’il s’y survivrait pour l’immortalité !</l>
+</lg>
+
+<pagenum num="140"/>
+
+<lg>
+<l>Non ! sous le sombre drap, l’âme d’angoisse atteinte,</l>
+<l>Toujours on croyait voir, comme un espoir secret,</l>
+<l>Une flamme d’amour qui n’était pas éteinte,</l>
+<l>Un foyer d’idéal qui se rallumerait.</l>
+</lg>
+
+<lg>
+<l>Tu ne te trompais pas, ô Peuple ! Le Génie</l>
+<l>Faisait dans ce cercueil resplendir sa clarté !</l>
+<l>Le Maître n’est pas mort, l’œuvre n’est pas finie.</l>
+<l>Miracle ! il ressuscite ! il est ressuscité !</l>
+</lg>
+
+<lg>
+<l>Il veillait seulement sous la voûte glacée,</l>
+<l>Ainsi que Barberousse au fond du souterrain ;</l>
+<l>Pour nous livrer encor sa sublime pensée,</l>
+<l>Son caveau va s’ouvrir avec un bruit d’airain.</l>
+</lg>
+
+<lg>
+<l>Le Poète endormi sous les apothéoses</l>
+<l>Longtemps nous donnera des poèmes nouveaux.</l>
+<l>De son tombeau sacré sort un parfum de roses ;</l>
+<l>De son cercueil béni s’envolent des oiseaux.</l>
+</lg>
+
+<lg>
+<l>Peuple qu’il aima tant, viens ! puisqu’il te convie,</l>
+<l>Admirer le grand mort à son premier réveil,</l>
+<l>Et voir, de son sépulcre, encor si plein de vie,</l>
+<l>L’Œuvre surgir ainsi qu’un lever de soleil !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p26">
+ <pagenum num="141"/>
+
+<h2>LE RÊVE</h2>
+<h2><s>D’APRÈS LE TABLEAU DE JULES LEFEBVRE</s></h2>
+
+<poem>
+<lg>
+<l>Légère et d’or pâle coiffée,</l>
+<l>Dans un nuage, sur les eaux,</l>
+<l>C’est bien la transparente fée</l>
+<l>Des nénuphars et des roseaux.</l>
+</lg>
+
+<lg>
+<l>Demi voilé pour le profane,</l>
+<l>Il semble craindre le regard,</l>
+<l>Ce corps exquis et diaphane</l>
+<l>Qui se roule dans le brouillard.</l>
+</lg>
+
+<pagenum num="142"/>
+
+<lg>
+<l>Vers quel mystérieux voyage</l>
+<l>Va le blond fantôme flottant ?</l>
+<l>Est-ce une femme, est-ce un nuage,</l>
+<l>Qui glisse et vole sur l’étang ?</l>
+</lg>
+
+<lg>
+<l>Mais déjà tout s’emplit d’aurore,</l>
+<l>Et, dans le ciel rose et vermeil,</l>
+<l>L’apparition s’évapore,</l>
+<l>Au premier rayon du soleil,</l>
+</lg>
+
+<lg>
+<l>Et ne laisse pas plus de trace</l>
+<l>Que le rapide éclair d’azur</l>
+<l>De ce martin-pêcheur qui passe</l>
+<l>N’en a laissé sur le flot pur.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p27">
+ <pagenum num="143"/>
+
+<h2>L’ÉDUCATION MATERNELLE</h2>
+<h2><s>D’APRÈS LE GROUPE EN MARBRE D’EUGÈNE DELAPLANCHE</s></h2>
+
+<poem>
+<lg>
+<l>Debout, près de sa mère assise</l>
+<l>Qui lui présente l’A B C,</l>
+<l>La petite reste indécise,</l>
+<l>Bouche ouverte et regard baissé.</l>
+</lg>
+
+<lg>
+<l>Adorable sans être belle,</l>
+<l>La fillette aux mignons pieds nus,</l>
+<l>Avec attention épelle</l>
+<l>Les caractères mal connus.</l>
+</lg>
+
+<pagenum num="144"/>
+
+<lg>
+<l>La mère, dont le geste auguste</l>
+<l>Enseigne et protège à la fois,</l>
+<l>Enveloppe d’un bras robuste</l>
+<l>L’enfant qui lit à demi-voix.</l>
+</lg>
+
+<lg>
+<l>Et, montrant d’un bout de baguette</l>
+<l>Le livre encor bien mal appris,</l>
+<l>Sur le naïf visage guette</l>
+<l>L’éclair qui suit un mot compris.</l>
+</lg>
+
+<lg>
+<l>Sculpteur, ton œuvre est bonne ! En elle,</l>
+<l>Tu sus fixer l’instant soudain</l>
+<l>De cette attente maternelle</l>
+<l>Et de cet effort enfantin,</l>
+</lg>
+
+<lg>
+<l>A la Vierge près de Sainte Anne</l>
+<l>J’avais d’abord rêvé, devant</l>
+<l>Cette humble et douce paysanne</l>
+<l>Qui montre à lire à son enfant ;</l>
+</lg>
+
+<lg>
+<l>Puis j’ai mieux vu ton espérance,</l>
+<l>Et j’ai compris que tu courbais</l>
+<l>Le peuple à venir de la France</l>
+<l>Sur les lumineux alphabets.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p28">
+ <pagenum num="145"/>
+
+<h2>RÊVERIE</h2>
+<h2><s>D’APRÈS LE TABLEAU DE GUSTAVE JACQUET</s></h2>
+
+<poem>
+<lg>
+<l>Au sortir du lit de dentelle,</l>
+<l>Les cheveux emmêlés encor,</l>
+<l>Ce matin, à quoi rêve-t-elle,</l>
+<l>Dans le vieux fauteuil gaufré d’or ?</l>
+</lg>
+
+<lg>
+<l>Sur sa poitrine, sa main fine</l>
+<l>Se pose d’un geste distrait.</l>
+<l>Hélas ! est-ce qu’elle y devine</l>
+<l>Le lent travail d’un mal secret ?</l>
+</lg>
+
+<pagenum num="146"/>
+
+<lg>
+<l>Car c’est un matin de novembre,</l>
+<l>Et sous le velours onduleux</l>
+<l>De la longue robe de chambre,</l>
+<l>Son frêle corps est tout frileux.</l>
+</lg>
+
+<lg>
+<l>On dirait presque qu’elle tremble ;</l>
+<l>Ce cher visage est amaigri,</l>
+<l>Et cette bouche exquise semble</l>
+<l>Avoir plus toussé que souri.</l>
+</lg>
+
+<lg>
+<l>Serait-il si cruel, le rêve</l>
+<l>De l’enfant pensive aux yeux las ?</l>
+<l>Songe-t-elle qu’elle est bien brève</l>
+<l>La claire saison des lilas ?</l>
+</lg>
+
+<lg>
+<l>Pauvre mignonne ! Songe-t-elle</l>
+<l>Que l’automne vient de finir,</l>
+<l>Qu’il fait froid et que l’hirondelle</l>
+<l>Sera bien lente à revenir ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p29">
+ <pagenum num="147"/>
+
+<h2>LE RÉGIMENT QUI PASSE</h2>
+<h2><s>D’APRÈS LE TABLEAU D’ÉDOUARD DETAILLE</s></h2>
+
+<poem>
+<lg>
+<l>Par un temps de boue et de glace,</l>
+<l>Le peuple, toujours enfantin,</l>
+<l>Regarde un régiment qui passe</l>
+<l>Devant la porte Saint-Martin.</l>
+</lg>
+
+<lg>
+<l>C’est un régiment de la ligne ;</l>
+<l>Astiqué comme aux anciens jours,</l>
+<l>Le tambour-major, d’un air digne,</l>
+<l>Précède les petits tambours.</l>
+</lg>
+
+<pagenum num="148"/>
+
+<lg>
+<l>Deux officiers qui, pour les suivre,</l>
+<l>Maintiennent leurs chevaux au pas,</l>
+<l>Au delà des saxhorns de cuivre</l>
+<l>Dominent les fronts, et là-bas,</l>
+</lg>
+
+<lg>
+<l>A travers la brume incertaine,</l>
+<l>Tels des pavots dans les épis,</l>
+<l>S’avance la foule lointaine</l>
+<l>Des chassepots et des képis.</l>
+</lg>
+
+<lg>
+<l>Pour les soldats, le populaire</l>
+<l>S’est en grand’hâte rassemblé ;</l>
+<l>Un flot de gamins accélère</l>
+<l>Sa marche, à leur pas redoublé.</l>
+</lg>
+
+<lg>
+<l>La troupe passe, calme et gaie,</l>
+<l>Comme elle irait sous les obus,</l>
+<l>Devant les gens qui font la haie</l>
+<l>Et l’encombrement d’omnibus.</l>
+</lg>
+
+<lg>
+<l>Chacun l’accompagne ou s’arrête,</l>
+<l>Et l’on voit emboîter le pas</l>
+<l>L’ouvrier tirant sa charrette</l>
+<l>Ou portant son fils sur ses bras.</l>
+</lg>
+
+<pagenum num="149"/>
+
+<lg>
+<l>Et, rêvant déjà de bataille,</l>
+<l>Tous sont heureux naïvement ;</l>
+<l>Car toujours la France tressaille</l>
+<l>Au passage d’un régiment.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p30">
+<pagenum num="150"/>
+
+<h2>AUX FEMMES DE LYON</h2>
+<h2>Ces vers ont été récités à Lyon, quand une crise de l’industrie de la soie réduisait la population ouvrière à une grande misère.</h2>
+
+<poem>
+<lg>
+<l>O femmes qui vivez dans le luxe et la joie,</l>
+<l>Et qui, lasses un jour de vos robes de soie,</l>
+<l indent='2'>Les quittâtes avec dédain,</l>
+<l>O femmes qui suivez la mode séductrice,</l>
+<l>Il faut que vous sachiez que, pour ce seul caprice,</l>
+<l indent='2'>Des milliers d’hommes sont sans pain !</l>
+</lg>
+
+<lg>
+<l>Avez-vous jamais su, belles patriciennes,</l>
+<l>Alors que vous alliez aux fêtes anciennes</l>
+<l indent='2'>Danser, rire et parler d’amour,</l>
+<pagenum num="151"/>
+<l>Qu’un peuple d’ouvriers, plein d’enfants et de mères,</l>
+<l>Gagnait sa vie avec vos chiffons éphémères,</l>
+<l indent='2'>Avec vos parures d’un jour ?</l>
+</lg>
+
+<lg>
+<l>C’était ainsi pourtant. Pour que vous fussiez belles,</l>
+<l>Pour vous donner toujours des toilettes nouvelles,</l>
+<l indent='2'>Pour ces satins que vous portiez,</l>
+<l>Pour ces robes d’hier à présent dédaignées,</l>
+<l>Des milliers de canuts, actives araignées,</l>
+<l indent='2'>S’asseyaient devant leurs métiers.</l>
+</lg>
+
+<lg>
+<l>Parceque vous usiez ces vêtements de fête,</l>
+<l>Le tisserand lançait, en chantant, sa navette,</l>
+<l indent='2'>Et la Croix-Rousse prospérait ;</l>
+<l>Parceque vous changiez de jupe et de corsage,</l>
+<l>Le ménage vivait, la fillette était sage,</l>
+<l indent='2'>On n’allait pas au cabaret.</l>
+</lg>
+
+<lg>
+<l>Ces choses se passaient, mais vous n’y songiez guère.</l>
+<l>Puis, tout à coup, voici que la soie est vulgaire</l>
+<l indent='2'>Et que l’on n’en veut plus enfin.</l>
+<l>Le cachemire est mieux, le drap est plus commode ;</l>
+<l>On a quitté ce goût, on a changé de mode...</l>
+<l indent='2'>Et tout un peuple meurt de faim !</l>
+</lg>
+
+<pagenum num="152"/>
+
+<lg>
+<l>Femmes du monde, il faut vous dire cette chose ;</l>
+<l>Car, sans vous en douter, oui ! vous êtes la cause</l>
+<l indent='2'>Qui produit ce terrible effet.</l>
+<l>Vous devez regarder ce spectacle sévère</l>
+<l>Et mesurer le bien que vous avez à faire</l>
+<l indent='2'>A ce mal que vous avez fait !</l>
+</lg>
+
+<lg>
+<l>Sans être pour cela de profonds philosophes,</l>
+<l>Nous pouvons bien prévoir qu’aux anciennes étoffes</l>
+<l indent='2'>Vous reviendrez un beau matin ;</l>
+<l>Vous ferez des heureux en faisant des folies,</l>
+<l>Et trouverez encor moyen d’être jolies</l>
+<l indent='2'>Sous la moire et sous le satin.</l>
+</lg>
+
+<lg>
+<l>Mais, avant tout, songeons à la ville affamée.</l>
+<l>Ils sont sans pain ! Ils sont trente mille, — une armée</l>
+<l indent='2'>Et le désaccord est bien vieux</l>
+<l>Entre maigres et gras, entre joyeux et tristes.</l>
+<l>Il faut donner ! Ce sont les riches égoïstes</l>
+<l indent='2'>Qui font les pauvres envieux.</l>
+</lg>
+
+<lg>
+<l>Femmes, il faut donner !... Au père de famille,</l>
+<l>A la mère sans lait pour l’enfant, à la fille</l>
+<l indent='2'>Dont la beauté peut s’indigner</l>
+<pagenum num="153"/>
+<l>Que la faim creuse ainsi son visage livide,</l>
+<l>Aux petits écoliers qui vont le panier vide...</l>
+<l indent='2'>Il faut donner, donner, donner !</l>
+</lg>
+
+<lg>
+<l>Donner ! C’est la sagesse éternelle et profonde.</l>
+<l>Devant la charité, misère du vieux monde,</l>
+<l indent='2'>Tu recules et tu décrois !</l>
+<l>Partage ! amour ! bonté ! c’est bien la loi suprême.</l>
+<l>Et, depuis deux mille ans, pour qu’on s’entr’aide et s’aime</l>
+<l indent='2'>Jésus nous bénit sur la croix.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p31">
+ <pagenum num="154"/>
+
+<h2>LE CADEAU DE SAHAGUN LE VIEUX</h2>
+<h2><s>ESPADERO DE TOLÈDE</s></h2>
+<h2><s>AU BARON CH. DAVILLIER</s></h2>
+
+<poem>
+<lg>
+<l>Le vieux maître, à la lame ayant assujetti</l>
+<l>La poignée à quillons, pas-d’âne et contre-garde,</l>
+<l>Est debout sur le seuil de sa porte, et regarde</l>
+<l>Le chef-d’œuvre nouveau de sa forge sorti.</l>
+</lg>
+
+<lg>
+<l>Il songe que bientôt il l’aura converti</l>
+<l>En beaux ducats sonnants ; mais ayant, par mégarde,</l>
+<l>Levé les yeux, il voit, sous le feutre à cocarde,</l>
+<l>Passer un spadassin, dans sa cape blotti.</l>
+</lg>
+
+<pagenum num="155"/>
+
+<lg>
+<l>C’est le célèbre Ruy, dont l’humeur singulière</l>
+<l>Est de faire au pommeau de sa lourde rapière</l>
+<l>Une encoche au couteau, quand il tue un chrétien.</l>
+</lg>
+
+<lg>
+<l>Et, d’or moins que de gloire ayant l’âme occupée,</l>
+<l>L’artiste, qui voulait bien placer son épée,</l>
+<l>Arrêta le bretteur et la donna pour rien.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p32">
+ <pagenum num="156"/>
+
+<h2>POUR GUITARE SOLO</h2>
+
+<poem>
+<lg>
+<l>L’Argentier m’a tenté : — « Je t’offre</l>
+<l>Mes trésors, ami, si tu veux !</l>
+<l>Puise à pleines mains dans mon coffre.</l>
+<l>— Garde ton or ; j’ai ses cheveux.</l>
+</lg>
+
+<lg>
+<l>Le Torero m’a tenté : — « Page,</l>
+<l>Je prétends de pourpre arroser</l>
+<l>Pour toi seul le champ de carnage ! »</l>
+<l>— Garde ton sang, j’ai son baiser.</l>
+</lg>
+
+<pagenum num="157"/>
+
+<lg>
+<l>L’Inquisiteur m’a tenté : — « Maître,</l>
+<l>Ces bûchers flambant sous les cieux,</l>
+<l>A tes ordres, je veux les mettre ! »</l>
+<l>— Garde ta flamme ; j’ai ses yeux.</l>
+</lg>
+
+<lg>
+<l>L’Empereur m’a tenté : — « Beau sire,</l>
+<l>Si tu veux mon globe d’or fin,</l>
+<l>Je te le donne avec l’Empire. »</l>
+<l>— Garde ton globe ; j’ai son sein.</l>
+</lg>
+
+<lg>
+<l>Dieu m’a tenté : — « Pécheur rebelle,</l>
+<l>Je jugerai ton âme un jour.</l>
+<l>Veux-tu le Paradis pour elle ? »</l>
+<l>— Garde ton ciel ; j’ai son amour.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p33">
+ <pagenum num="158"/>
+
+<h2>BALLADE DE FRANÇOIS COPPÉE</h2>
+<h2>A SON MAÎTRE THÉODORE DE BANVILLE</h2>
+<h2>Sur leur commun Amour de la Poésie.</h2>
+
+<poem>
+<lg>
+<l>Tu l’as bien dit, mon bon maître Banville,</l>
+<l>Les temps sont durs pour les pauvres rimeurs.</l>
+<l>Nous ignorons, ne dînant guère en ville,</l>
+<l>Les crus classés et les fines primeurs,</l>
+<l>Et tout le gain est pour nos imprimeurs.</l>
+<l>Ce siècle est vieux, porte de la flanelle,</l>
+<l>Et n’entend plus sonnet ni villanelle ;</l>
+<l>Pourtant, le Luth est là, qu’il faut saisir.</l>
+<pagenum num="159"/>
+<l>Comme Caussade a tué La Tournelle,</l>
+<l>Faisons des vers pour rien, pour le plaisir !</l>
+</lg>
+
+<lg>
+<l>La politique est un plat vaudeville ;</l>
+<l>La soif de l’or aigrirait nos humeurs.</l>
+<l>Laissons les sots traiter de chose vile</l>
+<l>Nos rêves bleus d’amants et de fumeurs,</l>
+<l>Et dire, ô rythme immortel ! que tu meurs.</l>
+<l>Le philistin, à la voix solennelle,</l>
+<l>Peut s’enrouer comme Polichinelle ;</l>
+<l>Laissons-le geindre et gronder à loisir.</l>
+<l>Foin du bon sens de madame Pernelle !</l>
+<l>Faisons des vers pour rien, pour le plaisir !</l>
+</lg>
+
+<lg>
+<l>Le cœur joyeux, sans soin bas et servile,</l>
+<l>Abandonnons le monde et ses clameurs.</l>
+<l>Allons-nous-en par les bois de Chaville,</l>
+<l>Ou sur la Seine aux doux flots endormeurs,</l>
+<l>Pour y chanter des chansons de rameurs.</l>
+<l>Un libre esprit nous toucha de son aile</l>
+<l>Et la nature est pour nous fraternelle ;</l>
+<l>D’aucun sultan nul de nous n’est visir</l>
+<l>Et n’a blessé même une coccinelle.</l>
+<l>Faisons des vers pour rien, pour le plaisir !</l>
+</lg>
+
+ <pagenum num="160"/>
+
+<h3><s>ENVOI</s></h3>
+
+<lg>
+<l>O maître ! ô toi que la Muse éternelle</l>
+<l>Sur le Parnasse a mis en sentinelle</l>
+<l>Et pour son preux entre tous sut choisir,</l>
+<l>Notre œuvre est bonne et nous croyons en elle ;</l>
+<l>Faisons des vers pour rien, pour le plaisir !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p34">
+ <pagenum num="161"/>
+
+<h2>BALLADE DE BANVILLE</h2>
+<h2><s>A SON CHER FRANÇOIS COPPÉE</s></h2>
+
+<poem>
+<lg>
+<l>Oui ! cher rimeur, faisons des vers pour rien,</l>
+<l>Pour le plaisir, comme jadis Caussade</l>
+<l>Tuait, suivant un bon historien.</l>
+<l>Vive Thalie et sa douce embrassade !</l>
+<l>Chantons ! contons comme Schéhérazade !</l>
+<l>Que nos oiseaux divins s’élancent vers</l>
+<l>L’azur céleste et charment l’univers !</l>
+<l>Drame, sonnet, farce, idylle, épopée,</l>
+<pagenum num="162"/>
+<l>Tout nous sourit dans le bel art des vers,</l>
+<l>Car tu dis bien, maître François Coppée.</l>
+</lg>
+
+<lg>
+<l>Poème grec, chinois, assyrien,</l>
+<l>Tout nous est bon, si nulle palissade</l>
+<l>Ne vient heurter nos pas. Victorien</l>
+<l>A pris d’assaut avec une glissade</l>
+<l>Le noir palais à la triste façade.</l>
+<l>Pour moi, je suis contemplé de travers</l>
+<l>Par les vieillards ornés d’abat-jours verts ;</l>
+<l>Mais je me ris de leur prosopopée</l>
+<l>En m’amusant à des rythmes divers,</l>
+<l>Car tu dis bien, maître François Coppée.</l>
+</lg>
+
+<lg>
+<l>Chez notre idole être galérien</l>
+<l>Pour mon plaisir vaut mieux qu’une ambassade,</l>
+<l>Et tu chéris le luth aérien,</l>
+<l>Lorsqu’on ce temps réaliste et maussade</l>
+<l>Cadet-Roussel tourne au marquis de Sade.</l>
+<l>Foin des romans compliqués et pervers !</l>
+<l>Le sûr moyen d’être mangé des vers</l>
+<l>Est ce qu’on trouve en leur pharmacopée.</l>
+<l>Sur l’idéal gardons les yeux ouverts,</l>
+<l>Car tu dis bien, maître François Coppée.</l>
+</lg>
+
+<pagenum num="163"/>
+
+<h3><s>ENVOI</s></h3>
+
+<lg>
+<l>Aimons la Muse, en dépit des revers,</l>
+<l>Comme Rubens les déesses d’Anvers</l>
+<l>Ou bien Néron sa maîtresse Poppée.</l>
+<l>Pour elle encor j’ai la tête à l’envers,</l>
+<l>Car tu dis bien, maître François Coppée !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p35">
+ <pagenum num="164"/>
+
+<h2>PRÉFACE POUR LE PREMIER VOLUME DE <i>La Vie Parisienne</i> D’ÉMILE BLAVET</h2>
+
+<poem>
+<lg>
+<l>Compagnon des jours envolés,</l>
+<l>Donc, ami Blavet, vous voulez</l>
+<l indent='2'>Que je vous fasse,</l>
+<l>Pour votre livre frais éclos,</l>
+<l>Un petit bout d’avant-propos,</l>
+<l indent='2'>Une préface.</l>
+</lg>
+
+<lg>
+<l>Eh bien, mon ami, la voilà !</l>
+<l>Surtout n’y cherchez pas de la</l>
+<l indent='2'>Métaphysique.</l>
+<pagenum num="165"/>
+<l>Vers avant prose, simplement,</l>
+<l>Comme, en tête du régiment,</l>
+<l indent='2'>Va la musique.</l>
+</lg>
+
+<lg>
+<l>Tous les deux, nous avons mangé</l>
+<l>Quelque peu du bœuf enragé.</l>
+<l indent='2'>O jours de jeûnes !</l>
+<l>C’est oublié. Le lendemain,</l>
+<l>On dit, en se serrant la main :</l>
+<l indent='2'>Nous étions jeunes.</l>
+</lg>
+
+<lg>
+<l>Malgré le siècle corrompu,</l>
+<l>On a fait du mieux qu’on a pu,</l>
+<l indent='2'>Joyeux ou triste.</l>
+<l>Que de sentiers ! Chacun le sien !</l>
+<l>Vous êtes un Parisien,</l>
+<l indent='2'>Un journaliste,</l>
+</lg>
+
+<lg>
+<l>Un alerte et charmant bavard,</l>
+<l>Qui vivez sur le boulevard</l>
+<l indent='2'>Et dans la fièvre...</l>
+<l>Moi, par les beaux soirs constellés,</l>
+<l>Je cherche des rimes, sur les</l>
+<l indent='2'>Bords de la Bièvre ;</l>
+</lg>
+
+<pagenum num="166"/>
+
+<lg>
+<l>Je cultive, au faubourg lointain,</l>
+<l>Comme Candide, mon jardin,</l>
+<l indent='2'>Trouvant bouffonne</l>
+<l>La mode des amants pressés,</l>
+<l>Qui s’adressent mille baisers</l>
+<l indent='2'>Par téléphone.</l>
+</lg>
+
+<lg>
+<l>Je vivrais, ne connaissant pas</l>
+<l>Ce Paris dont j’entends là-bas</l>
+<l indent='2'>La voix qui monte,</l>
+<l>Ignorant tout ce qui s’y fait,</l>
+<l>Sans votre article, ami Blavet,</l>
+<l indent='2'>Qui me le conte.</l>
+</lg>
+
+<lg>
+<l>Je lis votre prose, mon cher,</l>
+<l>Comme un bourgeois de port de mer,</l>
+<l indent='2'>Très sédentaire,</l>
+<l>Parle avec curiosité</l>
+<l>Aux marins ayant visité</l>
+<l indent='2'>Toute la terre,</l>
+</lg>
+
+<lg>
+<l>Dans mes songes bleus de fumeur,</l>
+<l>J’admire de loin votre humeur</l>
+<l indent='2'>Si vagabonde,</l>
+<pagenum num="167"/>
+<l>Qui vous fait faire chaque jour,</l>
+<l>Avec tant de verve et d’humour,</l>
+<l indent='2'>Le tour d’un monde ;</l>
+</lg>
+
+<lg>
+<l>Et quand ces feuillets vifs et francs</l>
+<l>Deviennent volume à trois francs</l>
+<l indent='2'>Sous couverture,</l>
+<l>J’y goûte le plaisir exquis</l>
+<l>Que donne un album de croquis</l>
+<l indent='2'>D’après nature.</l>
+</lg>
+
+<lg>
+<l>La personne et l’événement</l>
+<l>Y sont définis lestement</l>
+<l indent='2'>D’un mot qui cingle ;</l>
+<l>Choses et gens des mois passés</l>
+<l>Sont tous là, papillons fixés</l>
+<l indent='2'>Par une épingle.</l>
+</lg>
+
+<lg>
+<l>Et c’est charmant ! Et grand merci</l>
+<l>De savoir nous montrer ainsi,</l>
+<l indent='2'>Homme intrépide,</l>
+<l>Le grand Paris d’un seul coup d’œil,</l>
+<l>Et de transformer mon fauteuil</l>
+<l indent='2'>En train rapide.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p36">
+ <pagenum num="168"/>
+
+<h2>AUX BOURGEOIS D’AMSTERDAM</h2>
+<h2>Strophes dites par M. Porel, le 3 juin 1883, à la première représentation donnée par la troupe de l’Odéon à Amsterdam.</h2>
+
+<poem>
+<lg>
+<l>Ainsi, mon cher Porel, vous allez en Hollande</l>
+<l>Pour voir les beaux tableaux et goûter le skidam,</l>
+<l>Et, de plus, vous voulez que je vous recommande,</l>
+<l>Vos compagnons et vous, aux bourgeois d’Amsterdam !</l>
+</lg>
+
+<lg>
+<l>Mais ils m’ont oublié, peut-être, au pays libre ;</l>
+<l>Je n’y suis pas allé depuis plusieurs hivers.</l>
+<l>Peut-être n’ont-ils plus un souvenir qui vibre</l>
+<l>Pour le poète errant qui leur a dit ses vers ?</l>
+</lg>
+
+<pagenum num="169"/>
+
+<lg>
+<l>Non ! Dans leur sympathie ils m’ont dû garder place,</l>
+<l>Car ils ne savent pas la donner à moitié.</l>
+<l>On conserve longtemps un beau fruit dans la glace ;</l>
+<l>Les gens des climats froids sont de chaude amitié.</l>
+</lg>
+
+<lg>
+<l>Et puisque vous avez cette aimable pensée</l>
+<l>De vouloir que mes vers vous présentent là-bas,</l>
+<l>Dites bien tout d’abord à la foule empressée</l>
+<l>Que mon cœur se souvient des nobles Pays-Bas ;</l>
+</lg>
+
+<lg>
+<l>Du pays généreux qui ne sait pas proscrire,</l>
+<l>Qui s’ouvre à tout martyr, à tout persécuté,</l>
+<l>Où chaque citoyen, dès l’enfance, respire,</l>
+<l>Avec le vent marin, l’air de la liberté,</l>
+</lg>
+
+<lg>
+<l>Et qui, si l’ennemi, par conquête ou par ruses,</l>
+<l>Revenait, comme au temps de Tromp et de Ruyter,</l>
+<l>Une deuxième fois ouvrirait ses écluses</l>
+<l>Et rendrait à la mer le sol pris à la mer ;</l>
+</lg>
+
+<lg>
+<l>De l’honnête pays, où, dans chaque famille,</l>
+<l>Dans chaque intérieur, toujours propre et décent,</l>
+<l>On voit autour de soi tant de bonté qui brille</l>
+<l>Que la chaleur du cœur vaut le soleil absent ;</l>
+</lg>
+
+<pagenum num="170"/>
+
+<lg>
+<l>Du verdoyant pays, où, sous ses voiles blanches,</l>
+<l>Le navire, au milieu des champs, paraît glisser,</l>
+<l>A tel point que, prenant ses vergues pour des branches,</l>
+<l>Les oiseaux quelquefois viennent pour s’y poser,</l>
+</lg>
+
+<lg>
+<l>Où les moulins à vent, comme des camarades,</l>
+<l>Semblent se faire entre eux un alerte signal,</l>
+<l>Où l’on peut rencontrer, pendant ses promenades,</l>
+<l>A chaque coin de route un tableau de Ruysdael ;</l>
+</lg>
+
+<lg>
+<l>Enfin, de ce pays que l’Art et la Pensée</l>
+<l>Plus que tous ses trésors rendent illustre et grand,</l>
+<l>Et qui vous voit passer dans sa gloire passée,</l>
+<l>Esprit de Spinoza, palette de Rembrandt !</l>
+</lg>
+
+<lg>
+<l>— Dites-leur bien cela de la part du poète</l>
+<l>Que chez eux, avec tant de grâce, ils ont admis ;</l>
+<l>Puis, quand ma gratitude aura payé sa dette,</l>
+<l>Regardez devant vous... C’est un public d’amis !</l>
+</lg>
+
+<lg>
+<l>Vous les reconnaissez à leurs figures franches ;</l>
+<l>Vous les vîtes cent fois gravés ou copiés.</l>
+<l>Ils n’ont plus, il est vrai, les collerettes blanches</l>
+<l>Qui parent, chez Van Ryn, les syndics des Drapiers,</l>
+</lg>
+
+<pagenum num="171"/>
+
+<lg>
+<l>Ni le lourd hausse-col de la garde civique,</l>
+<l>De ceux que Van der Helst nous montre, en grand chapeau,</l>
+<l>Tenant tous, à la fin d’un repas magnifique,</l>
+<l>Leur verre d’une main et de l’autre un drapeau.</l>
+</lg>
+
+<lg>
+<l>Mais, ressemblant toujours aux portraits des vieux maîtres,</l>
+<l>Leur sourire loyal et bon n’est pas trompeur ;</l>
+<l>Ils ont bien conservé les vertus des ancêtres,</l>
+<l>Ils sont hospitaliers... Ainsi, n’ayez pas peur !</l>
+</lg>
+
+<lg>
+<l>D’ailleurs, pour ma chanson chétive et familière</l>
+<l>Ils furent indulgents ; et vous leur apportez</l>
+<l>Regnard et Beaumarchais, et notre grand Molière,</l>
+<l>Vingt ouvrages encor, signés de noms vantés.</l>
+</lg>
+
+<lg>
+<l>Je n’avais que mes vers... Voyez la différence !</l>
+<l>J’ose donc, mon ami, vous prédire un succès ;</l>
+<l>Car on aime là-bas tout ce qui vient de France,</l>
+<l>Le bon vin et le libre et clair esprit français.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p37">
+ <pagenum num="172"/>
+
+<h2>DIZAINS</h2>
+
+<h3>I</h3>
+<h3><s>BRUNE</s></h3>
+
+<poem>
+<lg>
+<l>Sur le terrain de foire, au grand soleil brûlé,</l>
+<l>Le cirque des chevaux de bois s’est ébranlé</l>
+<l>Et l’orgue attaque l’air connu : « Tant mieux pour elle ! »</l>
+<l>Mais la brune grisette a fermé son ombrelle,</l>
+<l>Et, bien en selle, avec un petit air vainqueur,</l>
+<l>Elle va se payer deux sous de mal de cœur.</l>
+<l>Elle rit, car déjà le mouvement rapide</l>
+<l>Colle ses frisons noirs sur son front intrépide,</l>
+<l>Et le vent fait flotter sa jupe et laisse voir</l>
+<l>Un gai petit mollet, en bas rouge à coin noir.</l>
+</lg>
+
+<pagenum num="173"/>
+
+<h3>II</h3>
+<h3><s>BLONDE</s></h3>
+
+<lg>
+<l>D’un blond pâle, au profil de sainte de vitrail,</l>
+<l>Assise à sa fenêtre et toujours au travail,</l>
+<l>Et sans lever le nez, même au bruit des voitures,</l>
+<l>Elle se perd les yeux sur des miniatures.</l>
+<l>C’est au rez-de-chaussée, et les yeux du passant</l>
+<l>Devinent, rien qu’à voir le mobilier décent</l>
+<l>Mais très pauvre, et le feu de coke dans la grille,</l>
+<l>Combien la jeune artiste — elle restera fille — </l>
+<l>A de mal à gagner le pain de sa maman,</l>
+<l>Qui, lunettes au nez, dort sur un vieux roman.</l>
+</lg>
+
+<h3>III</h3>
+<h3><s>ROUSSE</s></h3>
+
+<lg>
+<l>La blanchisseuse rousse, agile comme un singe,</l>
+<l>Sur sa hanche enlevant son lourd panier de linge,</l>
+<pagenum num="174"/>
+<l>Saute dans l’omnibus, s’assied près du compteur,</l>
+<l>Et commence à causer avec le conducteur.</l>
+<l>L’ancien « sous-off » étant galant de sa nature,</l>
+<l>Sait plaire ; car longtemps la libre créature</l>
+<l>L’écoute parler bas avec des yeux songeurs ;</l>
+<l>Et l’homme, s’adressant aux autres voyageurs,</l>
+<l>Quand elle est descendue au bureau de Montrouge,</l>
+<l>Dit, en clignant de l’œil : — « Belle fille, la rouge ! »</l>
+</lg>
+
+<h3>IV</h3>
+<h3><s>BLANCHE</s></h3>
+
+<lg>
+<l>Les ifs au vent d’hiver ont de tristes frissons.</l>
+<l>La veuve accompagnant ses trois petits garçons,</l>
+<l>En gris, le crêpe au bras, deuil des gens sans fortune,</l>
+<l>Les emmène prier à la fosse commune.</l>
+<l>Ce fut près du pompeux tombeau de marbre noir</l>
+<l>D’un grand chocolatier, que je pus entrevoir</l>
+<l>Ce doux visage avec des yeux couleur d’étoile ;</l>
+<l>Mais, tout à coup, le vent écarta son long voile</l>
+<l>Et s’enfuit en faisant gémir les ifs tremblants.</l>
+<l>La pauvre jeune mère ! elle a les cheveux blancs.</l>
+</lg>
+
+<pagenum num="175"/>
+
+<h3>V</h3>
+
+<lg>
+<l>Vraiment, je lui trouvais l’air honnête et gentil,</l>
+<l>A ce petit corset, simple et svelte, en coutil ;</l>
+<l>Mais, hier, je ne l’ai plus revu dans la boutique.</l>
+<l>Une enfant du faubourg, jolie et chlorotique,</l>
+<l>L’a sans doute lacé sur ses mignons appas.</l>
+<l>Et c’est attendrissant de penser, n’est-ce pas ?</l>
+<l>Qu’il enferme à présent le sein pur d’une vierge,</l>
+<l>Ouvrière en journée ou fille de concierge,</l>
+<l>Et que, songeant tout bas : « L’amour ? Qu’est-ce que c’est ? »</l>
+<l>Un cœur battra bientôt sous le petit corset.</l>
+</lg>
+
+<h3>VI</h3>
+
+<lg>
+<l>Auprès de Saint-Sulpice, un spectacle odieux</l>
+<l>C’est l’exhibition des marchands de bons dieux.</l>
+<l>Je suis chrétien, d’accord, mais non pas idolâtre,</l>
+<l>Et j’ai pris en horreur ces bonshommes de plâtre,</l>
+<l>Peints d’un rouge canaille et d’un bleu de coiffeur :</l>
+<l>La Vierge au cœur saignant et le divin Sauveur,</l>
+<l>L’archevêque mitré, le martyr et sa palme,</l>
+<pagenum num="176"/>
+<l>Ils sont là tous, en rang d’oignons, l’air bête et calme,</l>
+<l>Fixant sur vous des yeux par l’extase arrondis.</l>
+<l>— Si c’était comme ça, pourtant, le Paradis ?</l>
+</lg>
+
+<h3>VII</h3>
+
+<lg>
+<l>Avec un dur fracas de chaînes et de roues,</l>
+<l>Passe près du trottoir le fardier blanc de boues ;</l>
+<l>Et l’on ne frôle point sans de petits frissons</l>
+<l>Le chariot pesant, où, sur des paillassons,</l>
+<l>Cube énorme, frémit une pierre de taille.</l>
+<l>Six percherons aux pieds poilus, de haute taille,</l>
+<l>D’un seul et rude effort traînent le bloc massif ;</l>
+<l>Et le Parisien se demande, pensif,</l>
+<l>Lorsque ce monstrueux morceau de sucre passe,</l>
+<l>De quel géant il doit sucrer la demi-tasse.</l>
+</lg>
+
+<h3>VIII</h3>
+<h3>(Du temps que l’auteur rédigeait un feuilleton dramatique.)</h3>
+
+<lg>
+<l>Se reposer ! Enfin ! Ne plus voir de « premières » !</l>
+<l>Soigner un jardinet plein de roses trémières,</l>
+<pagenum num="177"/>
+<l>Tout là-bas, boulevard Montparnasse ; y manger,</l>
+<l>En se sentant vieillir, un petit viager ;</l>
+<l>Par les soirs clairs de juin, s’en aller en savates</l>
+<l>Près de l’Observatoire, où sont les acrobates ;</l>
+<l>Avoir le Luxembourg pour <i>Ultima Thule ;</i></l>
+<l>Et rester, cependant, dans ce coin reculé,</l>
+<l>Par un vieux goût malsain de la littérature,</l>
+<l>L’abonné d’un petit cabinet de lecture !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p38">
+ <pagenum num="178"/>
+
+<h2>STATUE D’HOMME D’ÉTAT</h2>
+
+<poem>
+<lg>
+<l>C’était un bavard de talent très mince ;</l>
+<l>Et, pendant trente ans, il avait été</l>
+<l>Fameux à Paris, grand homme en province,</l>
+<l>Ministre deux fois, toujours député.</l>
+</lg>
+
+<lg>
+<l>Traité d’éminent et de sympathique,</l>
+<l>Il avait trahi deux ou trois serments,</l>
+<l>Ainsi qu’il convient dans la politique...</l>
+<l>Bref, c’était l’honneur de nos parlements.</l>
+</lg>
+
+<pagenum num="179"/>
+
+<lg>
+<l>Il mourut. Sa ville — elle était très fière</l>
+<l>D’avoir enfanté ce contemporain ! — </l>
+<l>Dès qu’il fut enfin muet dans la bière,</l>
+<l>Le fit sans tarder revivre en airain.</l>
+</lg>
+
+<lg>
+<l>J’ai vu sa statue. Elle est sur la place</l>
+<l>Où se tient aussi le marché couvert.</l>
+<l>C’est bien l’orateur ; son geste menace,</l>
+<l>Et sa redingote est en bronze vert.</l>
+</lg>
+
+<lg>
+<l>Mais les bons ruraux, vile multitude,</l>
+<l>Vendant les produits du pays natal,</l>
+<l>Sans y voir malice et par habitude,</l>
+<l>Laissent leurs baudets près du piédestal ;</l>
+</lg>
+
+<lg>
+<l>Et, tous les lundis, quand les paysannes</l>
+<l>Sous les piliers noirs viennent se ranger,</l>
+<l>Le tribun d’airain harangue des ânes...</l>
+<l>Et ça ne doit pas beaucoup le changer.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p39">
+ <pagenum num="180"/>
+
+<h2>SUR UN EXEMPLAIRE DE « L’EXILÉE »</h2>
+<h2><s>ILLUSTRÉ DE DESSINS A LA PLUME PAR UNE JEUNE FILLE</s></h2>
+
+<poem>
+<lg>
+<l>Le triste passé dont ces vers sont pleins</l>
+<l>M’est trop douloureux pour que je l’exhume.</l>
+<l>Pourquoi devant moi rouvrir ce volume</l>
+<l>Et me rendre ainsi tous mes vieux chagrins ?</l>
+</lg>
+
+<lg>
+<l>Mais, comme du temps qu’on croyait aux saints</l>
+<l>Les bons imagiers en avaient coutume,</l>
+<l>Une main de femme orna, par la plume,</l>
+<l>Ce missel d’amour de charmants dessins.</l>
+</lg>
+
+<pagenum num="181"/>
+
+<lg>
+<l>Livre où gît mon cœur, ta douleur gémie</l>
+<l>N’a pas su jadis toucher mon amie ;</l>
+<l>Que m’importe, hélas ! qu’on t’ait fait si beau ?</l>
+</lg>
+
+<lg>
+<l>Mais l’injuste plainte est vite étouffée,</l>
+<l>Et je m’attendris sur les doigts de fée</l>
+<l>Qui jonchent de fleurs cet humble tombeau.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p40">
+ <pagenum num="182"/>
+
+<h2>POUR UNE FIANCÉE</h2>
+<h2><s>A M<sup>lle</sup> ALICE G...</s></h2>
+
+<poem>
+<lg>
+<l>Elle était blonde comme vous,</l>
+<l>Celle dont les yeux fins et doux</l>
+<l>Me laissèrent l’âme blessée.</l>
+<l>Pourtant mon cœur n’est pas jaloux</l>
+<l>De vos bonheurs de fiancée.</l>
+</lg>
+
+<lg>
+<l>Honte à ceux qu’aigrit la douleur !</l>
+<l>Je n’ai rien d’elle qu’une fleur ;</l>
+<l>Mais quand un couple d’amants passe,</l>
+<l>Je dis au bon Dieu : « Rendez-leur</l>
+<l>En félicité ma disgrâce ! »</l>
+</lg>
+
+<pagenum num="183"/>
+
+<lg>
+<l>Bien qu’il soit de vous séparé,</l>
+<l>Votre ami se sent désiré ;</l>
+<l>Il est triste comme vous l’êtes.</l>
+<l>Moi, j’ignore s’ils ont pleuré,</l>
+<l>Les charmants yeux de violettes.</l>
+</lg>
+
+<lg>
+<l>Qu’on vous aime comme j’aimais,</l>
+<l>C’est le vœu que je me permets,</l>
+<l>Le secret que je vous confie.</l>
+<l>J’ai de la peine pour jamais ;</l>
+<l>Soyez heureuse pour la vie !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p41">
+ <pagenum num="184"/>
+
+<h2>TRÈS ANCIEN SONNET</h2>
+
+<poem>
+<lg>
+<l>Près du vitrail vermeil, où flotte</l>
+<l>L’ombre des tilleuls du jardin,</l>
+<l>Droite dans son vertugadin,</l>
+<l>Brode la fière huguenote.</l>
+</lg>
+
+<lg>
+<l>Le chat joue avec sa pelote.</l>
+<l>— L’aiguille s’arrête ; et soudain</l>
+<l>Elle perd son air de dédain,</l>
+<l>Se cache le front et sanglote.</l>
+</lg>
+
+<pagenum num="185"/>
+
+<lg>
+<l>C’est que, rouge encor du péché,</l>
+<l>La belle comtesse a caché</l>
+<l>Dans son sein, comme une relique,</l>
+</lg>
+
+<lg>
+<l>Le dernier bouquet défleuri</l>
+<l>Du petit page catholique</l>
+<l>Qu’hier a chassé son mari.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p42">
+ <pagenum num="186"/>
+
+<h2>CAPRICE ATTENDRI</h2>
+
+<poem>
+<lg>
+<l>Au paradis d’amour, mon enfant, je le sais,</l>
+<l>On ne mord qu’une fois la pomme tentatrice ;</l>
+<l>Et nous portons tous deux l’ardente cicatrice</l>
+<l>Du coup qui pour jamais, jadis, nous a blessés.</l>
+</lg>
+
+<lg>
+<l>Mais pour ne plus avoir les espoirs insensés,</l>
+<l>Il ne faut pourtant pas que tout bonheur périsse ;</l>
+<l>Nous savons le saisir encor dans un caprice,</l>
+<l>Nous nous attendrissons une heure, et c’est assez.</l>
+</lg>
+
+<pagenum num="187"/>
+
+<lg>
+<l>Renouvelons, veux-tu ? l’illusion charmante ;</l>
+<l>Jette-moi tes deux bras au cou, comme une amante,</l>
+<l>Baise-moi sur la bouche et dis-moi : « M’aimes-tu ? »</l>
+</lg>
+
+<lg>
+<l>Mon enfant, oublions l’Éden et notre chute</l>
+<l>Et bénissons l’amour, si, pour une minute,</l>
+<l>Nos yeux se sont mouillés et nos cœurs ont battu !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p43">
+ <pagenum num="188"/>
+
+<h2>POUR UNE BLONDE INCONNUE</h2>
+
+<poem>
+<lg>
+<l>Je ne vous connais pas, mais pas le moins du monde.</l>
+<l>Je ne sais rien de vous, pas même votre nom,</l>
+<l>Pas même la couleur de vos yeux ; rien, sinon</l>
+<l>Que vous êtes jolie et que vous êtes blonde.</l>
+</lg>
+
+<lg>
+<l>Ce caprice vous vint, pendant une seconde,</l>
+<l>De vouloir de mes vers, et je n’ai pas dit : « Non. »</l>
+<l>Vos cheveux sont l’aurore, et, pareil à Memnon,</l>
+<l>Il faut qu’à ce lever de soleil je réponde.</l>
+</lg>
+
+<pagenum num="189"/>
+
+<lg>
+<l>Car un amour perdu, mais dont je souffre encor,</l>
+<l>Naguère m’inspira pour un front nimbé d’or ;</l>
+<l>Ce sont des cheveux blonds qui me firent poète.</l>
+</lg>
+
+<lg>
+<l>Toute blonde me rend mon ancienne langueur ;</l>
+<l>Aussi pour vous ces vers ont chanté dans ma tête,</l>
+<l>Rythmés aux battements plus émus de mon cœur.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p44">
+ <pagenum num="190"/>
+
+<h2>BALLADE</h2>
+<h2><s>POUR DEUX. DAMES QUI SONT AMIES</s></h2>
+
+<poem>
+<lg>
+<l>Arabelle est blonde, et Thérèse</l>
+<l>Est brune avec des airs nerveux :</l>
+<l>L’une est la tendre miss anglaise,</l>
+<l>L’autre est la Grecque aux beaux cheveux.</l>
+<l>Entre elles partageant mes vœux,</l>
+<l>J’ose rêver de bigamies ;</l>
+<l>Car, pour être comme je veux,</l>
+<l>C’est le secret des deux amies.</l>
+</lg>
+
+<pagenum num="191"/>
+
+<lg>
+<l>J’ai pu les courtiser à l’aise,</l>
+<l>Un beau soir, loin de tous fâcheux ;</l>
+<l>Mais le cœur se prend, quand on baise</l>
+<l>Une main fine, un cou neigeux,</l>
+<l>Sans refus par trop ombrageux.</l>
+<l>Pourquoi leurs pudeurs endormies</l>
+<l>M’ont-elles permis ces doux jeux ?</l>
+<l>C’est le secret des deux amies.</l>
+</lg>
+
+<lg>
+<l>Avec la brune aux yeux de braise</l>
+<l>Ou la blonde aux bras paresseux,</l>
+<l>Je voudrais bien cueillir la fraise</l>
+<l>Ou sabler le Cliquot mousseux.</l>
+<l>De tous les moyens, quels sont ceux</l>
+<l>— Sans compter ces rimes gémies —</l>
+<l>Qui me rendraient aussi chanceux ?</l>
+<l>C’est le secret des deux amies.</l>
+</lg>
+
+<h3><s>ENVOI</s></h3>
+
+<lg>
+<l>Princesses, mon cœur langoureux</l>
+<l>A fait beaucoup d’économies.</l>
+<l>Qui de vous veut d’un amoureux ?</l>
+<l>C’est le secret des deux amies.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p45">
+ <pagenum num="192"/>
+
+<h2>L’ÉVENTAIL</h2>
+
+<poem>
+<lg>
+<l>Dans le chaud boudoir de dentelle,</l>
+<l>Je m’étais assis tout près d’elle ;</l>
+<l>Et, seul, son éventail ancien</l>
+<l>Me cachait sa bouche qui tente,</l>
+<l>Fragile barrière irritante</l>
+<l>Entre mon désir et le sien.</l>
+</lg>
+
+<lg>
+<l>Le satin aux branches légères,</l>
+<l>Où l’on avait peint des bergères</l>
+<l>Dans un paysage d’azur,</l>
+<l>Frais et souple comme une palme,</l>
+<pagenum num="193"/>
+<l>M’envoyait, de son rythme calme,</l>
+<l>Un parfum enivrant et pur.</l>
+<l>Elle s’en faisait un complice</l>
+</lg>
+
+<lg>
+<l>Pour exaspérer mon supplice,</l>
+<l>Et, lorsque je voulais oser,</l>
+<l>D’un geste vif de la coquette</l>
+<l>L’éventail, devenu baguette,</l>
+<l>Châtiait l’offre d’un baiser.</l>
+</lg>
+
+<lg>
+<l>Toute ruse était inutile.</l>
+<l>Cette bagatelle subtile</l>
+<l>Tenait de l’aile et du rayon,</l>
+<l>Et voltigeant à gauche, à droite,</l>
+<l>Évitait ma main maladroite</l>
+<l>A cette chasse au papillon.</l>
+</lg>
+
+<lg>
+<l>Qui sait comment finit la lutte ?</l>
+<l>A quelle adorable minute</l>
+<l>Palpita-t-il à coups plus lents ?...</l>
+<l>Mais ma tête est sur ton épaule ;</l>
+<l>L’éventail a changé de rôle</l>
+<l>Et rafraîchit nos fronts brûlants.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p46">
+ <pagenum num="194"/>
+
+<h2>BILLET</h2>
+
+<poem>
+<lg>
+<l>Chérie, un excellent poète a dit un jour :</l>
+<l>« Le meilleur du voyage est encor le retour. »</l>
+<l>A coup sûr, j’ai passé de bien bonnes journées</l>
+<l>Dans ce recoin perdu des vieilles Pyrénées.</l>
+<l>Au petit trot léger d’un cheval béarnais,</l>
+<l>J’ai couru ce beau val d’Ossau que tu connais ;</l>
+<l>J’ai revu les hameaux avec leurs toits d’ardoise,</l>
+<l>Les grands monts verdoyants sous un ciel de turquoise,</l>
+<l>Et le haut pic de Ger, au soleil tout roussi,</l>
+<l>Regardant par-dessus l’épaule du Gourzi.</l>
+<l>Tu sais que c’est charmant de trotter près du Gave</l>
+<l>Qui bondit en chantant sur les pierres qu’il lave,</l>
+<l>D’aspirer cet air pur et de jeter des sous</l>
+<pagenum num="195"/>
+<l>Aux enfants en haillons qui courent devant vous,</l>
+<l>Leurs sabots à la main, pieds nus, dans la poussière ;</l>
+<l>Et tu l’aimes aussi, la source hospitalière</l>
+<l>D’où je viens, ayant bu la vie, et les poumons</l>
+<l>Endurcis pour l’hiver au fort souffle des monts.</l>
+<l>Oui ! j’ai passé là-bas de très bons jours ; mais l’heure</l>
+<l>Du départ, crois-le bien, fut pour moi la meilleure.</l>
+<l>Monts géants, gaves purs, beaux arbres, ciel d’été,</l>
+<l>En quittant tout cela, je n’ai rien regretté !</l>
+<l>Car là-bas, bien plus loin que les collines bleues,</l>
+<l>Tout là-bas, dans le Nord, à plus de deux cents lieues,</l>
+<l>Je savais que j’allais retrouver ton amour ;</l>
+<l>Et, quand je suis monté, vois-tu, par un beau jour</l>
+<l>De septembre, aux fraîcheurs déjà presque automnales,</l>
+<l>Dans l’antique landau tout alourdi de malles,</l>
+<l>Et lorsque le cocher a fait claquer son fouet,</l>
+<l>Vers toi, mon cher amour, tout mon cœur refluait.</l>
+<l>Car j’allais te revoir ; car le vent de la plaine</l>
+<l>D’avance m’apportait dans sa suave haleine</l>
+<l>Ton baiser du retour qui sera si joyeux,</l>
+<l>Et le grand ciel avait la couleur de tes yeux.</l>
+<l>Tout semblait me parler de toi dans la nature ;</l>
+<l>Et, lorsque les chevaux de la vieille voiture</l>
+<l>Secouaient les harnais de cuir sur leurs garrots,</l>
+<l>Ta joie en m’espérant riait dans les grelots.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p47">
+ <pagenum num="196"/>
+
+<h2>L’ASILE DE NUIT</h2>
+
+<l>Poésie dite par M. Coquelia aîné, à l’occasion du centenaire de la Société philanthropique, le 9 mai 1880.</l>
+
+<poem>
+<lg>
+<l>Un soir, — ce souvenir me donne le frisson, — </l>
+<l>Un ami m’a conduit dans la triste maison</l>
+<l>Qui recueille, à Paris, les femmes sans asile.</l>
+<l>La porte est grande ouverte et l’accès est facile.</l>
+<l>Disant un nom, montrant quelque papier qu’elle a,</l>
+<l>Toute errante de nuit peut venir frapper là ;</l>
+<l>On l’interrogera seulement pour la forme.</l>
+<l>Sa soupe est chaude ; un lit est prêt pour qu’elle y dorme</l>
+<l>L’hôtesse qui la fait asseoir au coin du feu,</l>
+<l>Respectant son silence, attendra son aveu.</l>
+<pagenum num="197"/>
+<l>Car on veut ignorer, en lui rendant service,</l>
+<l>Si son nom est misère ou si son nom est vice,</l>
+<l>Et, dans ce lieu, devant tous les malheurs humains,</l>
+<l>On sait fermer les yeux autant qu’ouvrir les mains.</l>
+</lg>
+
+<lg>
+<l>J’ai vu. J’ai pénétré dans la salle commune</l>
+<l>Où, muettes, le dos courbé par l’infortune,</l>
+<l>Leur morne front chargé de pensers absorbants,</l>
+<l>Les femmes attendaient, assises sur des bancs.</l>
+<l>Que de chagrins poignants, que d’angoisses profondes</l>
+<l>Torturent dans le cœur ces pauvres vagabondes,</l>
+<l>Dont plusieurs même, avec un doux geste honteux,</l>
+<l>Étreignent un petit enfant, quelquefois deux !</l>
+<l>On m’a dit ce qu’étaient ces pauvres délaissées :</l>
+<l>Ouvrières sans pain, domestiques chassées,</l>
+<l>Et les femmes qu’un jour le mari laisse là,</l>
+<l>Et les vieilles que l’âge accable, et celles-là</l>
+<l>Dont la misère est triste entre les plus amères :</l>
+<l>Les victimes d’amour, hélas ! les filles mères,</l>
+<l>Qui, songeant à l’enfant resté dans l’hôpital,</l>
+<l>Soutiennent de la main le sein qui leur fait mal.</l>
+<l>J’ai vu cela. J’ai vu ces pauvresses livides</l>
+<l>Manger la soupe avec des sifflements avides,</l>
+<l>Puis, lourdes de fatigue et d’un pas affaibli,</l>
+<l>Monter vers ce dortoir, tous les soirs si rempli.</l>
+<pagenum num="198"/>
+<l>Mon regard les suivait, et, pour leur nuit trop brève,</l>
+<l>Je n’ai pas souhaité l’illusion du rêve,</l>
+<l>— Au matin, leur malheur en eût été plus fort ! —</l>
+<l>Mais un sommeil profond et semblable à la mort.</l>
+</lg>
+
+<lg>
+<l>Car dormir, c’est l’instant de calme dans l’orage ;</l>
+<l>Dormir, c’est le repos d’où renaît le courage,</l>
+<l>Ou c’est l’oubli, du moins, pour qui n’a plus d’espoir.</l>
+<l>Vous souffrirez demain, femmes, dormez, ce soir !</l>
+</lg>
+
+<lg>
+<l>Oh ! naguère, combien d’existences fatales</l>
+<l>Erraient sur le pavé maudit des capitales,</l>
+<l>Sans jamais s’arrêter un instant pour dormir !</l>
+<l>Car la loi, cette loi dure à faire frémir,</l>
+<l>Défend que sous le ciel de Dieu le pauvre dorme.</l>
+<l>Triste femme égarée en ce Paris énorme,</l>
+<l>Qui sors de l’hôpital, ton mal étant fini,</l>
+<l>Et qui n’as pas d’argent pour sonner au garni,</l>
+<l>Il est minuit. Va-t’en par le désert des rues !</l>
+<l>Sous le gaz qui te suit de ses lumières crues,</l>
+<l>Spectre rasant les murs et qui gémis tout bas,</l>
+<l>Marche droit devant toi, marche en pressant le pas !</l>
+<l>C’est l’hiver, et tes pleurs se glacent sur ta joue.</l>
+<l>Marche dans le brouillard et marche dans la boue !</l>
+<l>Marche jusqu’au soleil levant, jusqu’à demain,</l>
+<pagenum num="199"/>
+<l>Malheureuse ! et surtout ne prends pas le chemin</l>
+<l>Qui mène aux ponts où l’eau, murmurant contre l’arche,</l>
+<l>T’offrirait son lit froid et mortel... Marche ! marche !</l>
+</lg>
+
+<lg>
+<l>Ce supplice n’est plus. L’errante qu’on poursuit</l>
+<l>Peut frapper désormais à l’Asile de nuit ;</l>
+<l>Ce refuge est ouvert à la bête traquée,</l>
+<l>Et l’hospitalité, sans même être invoquée,</l>
+<l>L’attend là pour un jour, pour deux, pour trois, enfin</l>
+<l>Pour le temps de trouver du travail ou du pain.</l>
+</lg>
+
+<lg>
+<l>Mais la misère est grande et Paris est immense ;</l>
+<l>Et, malgré bien des dons, cette œuvre qui commence</l>
+<l>N’a qu’un pauvre logis, au faubourg, dans un coin,</l>
+<l>Là-bas, et le malheur doit y venir de loin.</l>
+<l>Abrégez son chemin, fondez un autre asile,</l>
+<l>Heureux du monde, à qui le bien est si facile !</l>
+<l>Donnez ! Une maison nouvelle s’ouvrira.</l>
+<l>Femme qui revenez, le soir, de l’Opéra,</l>
+<l>Au bercement léger d’une bonne voiture,</l>
+<l>Songez qu’à la même heure une autre créature</l>
+<l>Ne peut aller trouver, la force lui manquant,</l>
+<l>Tout au bout de Paris, le bois d’un lit de camp !</l>
+<l>Songez, quand vous irez, tout émue et joyeuse,</l>
+<l>Dans la petite chambre où tremble une veilleuse,</l>
+<pagenum num="200"/>
+<l>Réveiller d’un baiser votre enfant étonné,</l>
+<l>Que l’autre, dans ses bras porte son nouveau-né,</l>
+<l>Et que, se laissant choir sur un banc, par trop lasse,</l>
+<l>Jetant un œil navré sur l’omnibus qui passe,</l>
+<l>Elle ne peut gagner la maison du faubourg ;</l>
+<l>Car la route est trop longue et l’enfant est trop lourd !</l>
+</lg>
+
+<lg>
+<l>Oh ! si chacun faisait tout ce qu’il pourrait faire !...</l>
+</lg>
+
+<lg>
+<l>Un jour, sur ce vieux seuil connu de la misère,</l>
+<l>Une femme parut, de qui la pauvreté</l>
+<l>Semblait s’adresser là pour l’hospitalité ;</l>
+<l>On allait faire entrer la visiteuse pâle,</l>
+<l>Quand celle-ci, tirant de dessous son vieux châle</l>
+<l>Des vêtements d’enfant arrangés avec soin,</l>
+<l>Dit :</l>
+</lg>
+
+<lg>
+<l cont="true">« Mon petit est mort et n’en a plus besoin...</l>
+<l>Ce souvenir m’est cher, mais il est inutile ;</l>
+<l>Partagez ces effets aux bébés de l’asile...</l>
+<l>Car mon ange aime mieux — mon cœur du moins le croit</l>
+<l>Que d’autres aient bien chaud, pendant qu’il a si froid ! »</l>
+</lg>
+
+<lg>
+<l>Noble femme apportant le denier de la veuve,</l>
+<l>Mère qui te souviens d’autrui dans ton épreuve,</l>
+<pagenum num="201"/>
+<l>Grande âme où la douleur exalte encor l’amour,</l>
+<l>Sois bénie !... Et vous tous, riches, puissants du jour,</l>
+<l>Vous qui pouvez donner, ô vous à qui s’adresse</l>
+<l>Cet exemple de simple et sublime tendresse,</l>
+<l>Au nom des pleurs émus que vous avez versés,</l>
+<l>Ne faites pas moins qu’elle et vous ferez assez !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p48">
+ <pagenum num="202"/>
+
+<h2>AU JARDIN DU LUXEMBOURG</h2>
+
+<poem>
+<lg>
+<l>Cher et vieux Luxembourg ! — C’est vers cinquante-six</l>
+<l>Que, dans les environs du palais Médicis,</l>
+<l>S’étaient logés mes bons parents, dans la pensée</l>
+<l>Que je serais ainsi tout proche du lycée</l>
+<l>Dont alors j’étais l’un des mauvais écoliers ;</l>
+<l>Et le jardin royal, aux massifs réguliers,</l>
+<l>Aux vastes boulingrins de verdure qu’embrasse</l>
+<l>Le gracieux contour de sa double terrasse,</l>
+<l>M’accueillit bien souvent, externe paresseux.</l>
+<l>Parmi mes compagnons, j’étais déjà de ceux</l>
+<pagenum num="203"/>
+<l>Qui ne supportent pas la routine ordinaire</l>
+<l>Et font sécher des fleurs dans leur dictionnaire ;</l>
+<l>Et, poète futur, quand les rayons derniers</l>
+<l>Du soleil s’éteignaient sous les noirs marronniers</l>
+<l>Et que je m’attardais, rêveur, au pied d’un arbre,</l>
+<l>Il me semblait parfois que les dames de marbre,</l>
+<l>Clotilde aux longs cheveux, Jeanne écoutant ses voix,</l>
+<l>Et la fière Stuart et la fine Valois,</l>
+<l>Me jetaient des regards et me faisaient des signes.</l>
+<l>Parfois encore, auprès de la maison des cygnes,</l>
+<l>Quand les bateaux d’enfants, inclinant leurs agrès,</l>
+<l>Fuyaient sur le bassin ridé par un vent frais,</l>
+<l>Pour moi ces bricks mignons et ces frégates naines</l>
+<l>Évoquaient l’Océan et les courses lointaines.</l>
+<l>Ah ! depuis ce temps-là, j’ai revu bien souvent</l>
+<l>L’escadre en miniature enfuie au gré du vent,</l>
+<l>Et bien souvent revu les belles dames blanches,</l>
+<l>Dressant leurs sveltes corps sous l’épaisseur des branches ;</l>
+<l>Mais je sais maintenant combien il est amer</l>
+<l>De chérir une femme et de tenter la mer,</l>
+<l>Et songe que c’était un grand enfantillage</l>
+<l>De désirer ainsi l’amour et le voyage !</l>
+<l>L’amour ! ce fut aussi sous tes rameaux flottants,</l>
+<l>Jardin chéri, que j’ai tant souffert à vingt ans.</l>
+<l>T’en souviens-tu, vieux banc sur qui j’allais l’attendre,</l>
+<pagenum num="204"/>
+<l>La petite blondine au regard fin et tendre</l>
+<l>Par qui mon cœur naïf voulait se croire aimé ?</l>
+<l>Quand je passe par là, dans certains jours de mai</l>
+<l>Où l’haleine des fleurs semble plus odorante,</l>
+<l>Je revis les bons jours de notre idylle errante.</l>
+<l>J’habitais en famille, elle avait un jaloux,</l>
+<l>Et souvent pour abris, vieux parc, ces rendez-vous,</l>
+<l>Où l’amour me brûlait de ses ardeurs premières,</l>
+<l>N’eurent que tes lilas et tes roses trémières.</l>
+<l>Je n’obtenais, toujours au moindre bruit craintif,</l>
+<l>Qu’une rapide étreinte et qu’un baiser furtif.</l>
+<l>Pour effleurer son front de ma bouche affolée,</l>
+<l>Il fallait profiter du tournant d’une allée</l>
+<l>Et reprendre aussitôt l’air distrait et flâneur</l>
+<l>Devant le vieux gardien avec sa croix d’honneur.</l>
+<l>Mais nous avions vingt ans et c’était une fête !</l>
+<l>Et cette éternité d’amour que le Prophète</l>
+<l>Promet aux vrais croyants au sein du paradis,</l>
+<l>Oui ! je la donnerais toute, je vous le dis,</l>
+<l>Pour le moment si court, où, dans la Pépinière,</l>
+<l>Avec sa caressante et mignonne manière,</l>
+<l>Se serrant sur mon cœur, elle me demanda</l>
+<l>Ce long baiser que seul a vu la Velléda.</l>
+</lg>
+
+<lg>
+<l>O parc royal, tu vis finir sa fantaisie,</l>
+<pagenum num="205"/>
+<l>Et lorsque la douleur m’apprit la poésie,</l>
+<l>— Car on ne sent tout son bonheur qu’en le perdant, —</l>
+<l>C’est toi qui fus encor mon premier confident !</l>
+<l>Triste enfant de Paris, né loin de la nature,</l>
+<l>C’est grâce à ton charmant asile de verdure</l>
+<l>Que je l’ai devinée et que je la connais ;</l>
+<l>C’est par toi que, jeune homme à la chasse aux sonnets</l>
+<l>Qui passais sans les voir près des joueurs de paume,</l>
+<l>J’ai su que l’oiseau chante et que la fleur embaume.</l>
+<l>Et sous tes noirs rameaux je reviens aujourd’hui</l>
+<l>Chercher la rime rare ou le mot juste enfui,</l>
+<l>Et dans les volontés du rêve je m’enfonce</l>
+<l>A l’heure où le couchant saigne sous le quinconce</l>
+<l>Et quand, pour le départ, roule au loin le tambour.</l>
+</lg>
+
+<lg>
+<l>Pour toutes ces raisons, je t’aime, ô Luxembourg !</l>
+<l>Car ma jeunesse, hélas ! depuis longtemps passée,</l>
+<l>Sur ton sable a semé son cœur et sa pensée,</l>
+<l>Et mes premiers baisers comme mes premiers vers</l>
+<l>Ont pris leur libre essor sous tes vieux arbres verts.</l>
+<l>A toi je suis lié par un secret arcane.</l>
+<l>Et quand je reviendrai, vieillard traînant ma canne,</l>
+<l>Par quelque doux matin d’un automne attiédi,</l>
+<l>Sur tes bancs, au soleil, me chauffer à midi,</l>
+<l>Promets-moi, vieux jardin, témoin de mon aurore,</l>
+<pagenum num="206"/>
+<l>Quelque déception que me réserve encore</l>
+<l>La volupté qui blase ou la gloire qui ment,</l>
+<l>Que, devant une amante au bras de son amant</l>
+<l>Ou devant un rêveur qui va lisant un livre,</l>
+<l>Le souvenir encor me rendra le cœur ivre</l>
+<l>De ce qui l’enivrait en son doux floréal,</l>
+<l>Et que je bénirai l’amour et l’idéal !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p49">
+ <pagenum num="207"/>
+
+<h2>A PETŒFI</h2>
+
+<l>Strophes dites par l’auteur parlant au nom des hôtes français de la Hongrie, le 12 août 1885, devant la statue de Petœfi, à Buda-Pest.</l>
+
+<poem>
+<lg>
+<l>Comme en quittant la bonne et généreuse hôtesse</l>
+<l>Qui lui fit place au feu dans la froide saison,</l>
+<l>Un pauvre voyageur, pris soudain de tristesse,</l>
+<l>Baise au front longuement l’enfant de la maison ;</l>
+</lg>
+
+<lg>
+<l>Ainsi nous, les Français, hôtes de la Hongrie,</l>
+<l>Vers toi, des fleurs en main, nous sommes accourus,</l>
+<l>Soldat-poète, ô fils si cher à ta patrie,</l>
+<l>Qui pour elle chantas et pour elle mourus !</l>
+</lg>
+
+<pagenum num="208"/>
+
+<lg>
+<l>Oh ! brûler de génie et périr à la guerre,</l>
+<l>Se dresser en airain et mourir sans tombeau !...</l>
+<l>Mais je ne te plains pas et t’envie, ô mon frère !</l>
+<l>Nul sort plus que le tien n’est héroïque et beau.</l>
+</lg>
+
+<lg>
+<l>A l’endroit où, le nombre écrasant ton courage,</l>
+<l>Tu mourus pour entrer dans l’immortalité,</l>
+<l>Aujourd’hui, j’en suis sûr, pousse un rosier sauvage,</l>
+<l>Poète de l’amour et de la liberté !</l>
+</lg>
+
+<lg>
+<l>Un sauvage rosier où vit encor ton âme ;</l>
+<l>Et, quand auprès de lui passent deux fiancés,</l>
+<l>Sa fleur, que l’amoureux donne à la jeune femme,</l>
+<l>Rend plus doux leurs serments et plus chauds leurs baisers.</l>
+</lg>
+
+<lg>
+<l>Et quand, par les beaux soirs, le rossignol s’y pose,</l>
+<l>Le rossignol, ce libre et pur chanteur ailé,</l>
+<l>Il est comme enivré du parfum de la rose</l>
+<l>Et chante éperdûment sous le ciel étoilé.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p50">
+ <pagenum num="209"/>
+
+<h2>POÈMES MAGYARS</h2>
+<h2><s>D’APRÈS PETŒFI</s></h2>
+
+<h3>I</h3>
+<h3><s>QUI ME COMPREND ?</s></h3>
+
+<poem>
+<lg>
+<l>Qui me comprend ? On les croit fous,</l>
+<l>Mes vers, faits de lumière et d’ombre.</l>
+<l>J’aime et l’on m’aime, et c’est bien doux ;</l>
+<l>Je suis Magyar, et c’est bien sombre.</l>
+</lg>
+
+<lg>
+<l>De tendres pleurs mouillent mes yeux</l>
+<l>Au souvenir de ma chérie ;</l>
+<l>Et j’ai des sanglots furieux</l>
+<l>Pour les malheurs de la patrie.</l>
+</lg>
+
+<pagenum num="210"/>
+
+<lg>
+<l>Sur mon sein, ma mie aux yeux clairs</l>
+<l>Met un bouquet de fleurs divines ;</l>
+<l>Et l’amour du pays aux fers</l>
+<l>Me couronne le front d’épines.</l>
+</lg>
+
+<lg>
+<l>Je vais, triste et joyeux, versant</l>
+<l>Sur ma lyre, à travers l’orage,</l>
+<l>Des fleurs et des gouttes de sang,</l>
+<l>Des larmes d’amour et de rage !</l>
+</lg>
+
+<h3>II</h3>
+<h3><s>A ETELKA</s></h3>
+
+<lg>
+<l>Vois le Danube, ô bien-aimée,</l>
+<l>Étreignant cette île en son cours.</l>
+<l>Telle, en mon cœur, ô mes amours,</l>
+<l>Ta pure image est enfermée !</l>
+</lg>
+
+<lg>
+<l>Vois, trempé dans le flot grondeur,</l>
+<l>Ce rameau vert qui se balance ;</l>
+<l>Et laisse la verte espérance</l>
+<l>Se glisser de même en mon cœur !</l>
+</lg>
+
+<pagenum num="211"/>
+
+<h3>III</h3>
+<h3><s>MA FEMME ET MON SABRE</s></h3>
+
+<lg>
+<l>C’est la nuit. Le pigeon se tient au bord du toit,</l>
+<l>Et là-haut, dans le ciel, brille une étoile amie.</l>
+<l>Ma charmante repose, en mes bras endormie...</l>
+<l>Dieu ! si je l’embrassais, comme j’en ai le droit !</l>
+</lg>
+
+<lg>
+<l>Je veux — oui ! je le puis, — la tirer de son rêve,</l>
+<l>Voir s’ouvrir ses beaux yeux alanguis de sommeil,</l>
+<l>Et lui tenir tout bas ces propos du réveil</l>
+<l>Qu’interrompt le baiser, qu’une caresse achève.</l>
+</lg>
+
+<lg>
+<l>Joie infinie ! Amour incessamment accru !</l>
+<l>Bonheur doux et brillant comme une perle claire !...</l>
+<l>Mais mon vieux sabre, à qui cela semble déplaire,</l>
+<l>De son coin nous regarde et prend un air bourru.</l>
+</lg>
+
+<lg>
+<l>— Qu’as-tu donc, animal ? Est-ce que tu me blâmes</l>
+<l>Ne puis-je pas serrer ma mie entre mes bras ?</l>
+<pagenum num="212"/>
+<l>Camarade, ceci ne te regarde pas !</l>
+<l>Homme ! tu n’entends rien aux affaires de femmes.</l>
+</lg>
+
+<lg>
+<l>Ne la jalouse pas et calme-toi, mon vieux.</l>
+<l>Elle est, ainsi que toi, très brave, ma chérie.</l>
+<l>Que mon bras soit utile à la noble Hongrie,</l>
+<l>Bientôt, demain... Alors, tu la jugeras mieux.</l>
+</lg>
+
+<lg>
+<l>Oui-da ! tu n’aimes pas les femmes... Mais la nôtre,</l>
+<l>Lorsque retentira le cri de liberté,</l>
+<l>Nous bénissant, voudra te ceindre à mon côté,</l>
+<l>Et nous dira : « Soyez fidèles l’un à l’autre ! »</l>
+</lg>
+
+<h3><s>IV</s></h3>
+<h3><s>L’HIVER</s></h3>
+
+<lg>
+<l>Quel temps ! Qu’a donc le vent pour siffler de la sorte</l>
+<l>Le bassin du barbier danse devant la porte.</l>
+</lg>
+
+<lg>
+<l indent='2'>Qu’on est bien, dans cet abri sûr,</l>
+<l indent='2'>Près du poêle, à l’angle du mur !</l>
+</lg>
+
+<pagenum num="213"/>
+
+<lg>
+<l>L’artisan fend du bois au seuil de sa demeure ;</l>
+<l>La bise geint plus fort que son marmot qui pleure.</l>
+</lg>
+
+<lg>
+<l indent="2">Qu’on est bien, dans cet abri sûr,</l>
+<l indent="2">Près du poêle, à l’angle du mur !</l>
+</lg>
+
+<lg>
+<l>La sentinelle, ainsi qu’un homme qui s’irrite,</l>
+<l>A grands pas emportés va devant sa guérite.</l>
+</lg>
+
+<lg>
+<l indent="2">Qu’on est bien, dans cet abri sûr,</l>
+<l indent="2">Près du poêle, à l’angle du mur !</l>
+</lg>
+
+<lg>
+<l>L’étameur slave passe au loin, dans la campagne,</l>
+<l>Et son nez est brûlant comme un piment d’Espagne.</l>
+</lg>
+
+<lg>
+<l indent="2">Qu’on est bien, dans cet abri sûr,</l>
+<l indent="2">Près du poêle, à l’angle du mur !</l>
+</lg>
+
+<lg>
+<l>Et le Tzigane, hélas ! La bise souffle et crie,</l>
+<l>Et lui claque des dents, sous sa tente pourrie.</l>
+</lg>
+
+<lg>
+<l indent="2">Qu’on est bien, dans cet abri sûr,</l>
+<l indent="2">Près du poêle, à l’angle du mur !</l>
+</lg>
+
+<lg>
+<l>Quel temps ! Qu’a donc le vent pour siffler de la sorte ?</l>
+<l>Le bassin du barbier danse devant la porte.</l>
+</lg>
+
+<pagenum num="214"/>
+
+<lg>
+<l indent="2">Qu’on est bien, dans cet abri sûr,</l>
+<l indent="2">Près du poêle, à l’angle du mur !</l>
+</lg>
+
+<h3>V</h3>
+<h3><s>LA TERRE</s></h3>
+
+<lg>
+<l>Comment mourra la terre ? A force de chaleurs,</l>
+<l>Ou bien par un hiver d’une rigueur trop forte ?</l>
+<l>Hélas ! non. Elle doit geler au froid des cœurs,</l>
+<l>Des cœurs qu’elle recouvre et de ceux qu’elle porte.</l>
+</lg>
+
+<h3>VI</h3>
+<h3><s>LA FORGE</s></h3>
+
+<lg>
+<l>Mon cheval fauve est vite et sûr ;</l>
+<l>Sa crinière ondoie et rutile.</l>
+<l>On dirait un astre, au ciel pur,</l>
+<l indent="3">Qui file.</l>
+</lg>
+
+<pagenum num="215"/>
+
+<lg>
+<l>Maréchal, il lui faut, ce soir,</l>
+<l>Quatre fers tout neufs, et pour cause.</l>
+<l>Au grand galop, nous irons voir</l>
+<l indent="3">Ma rose.</l>
+</lg>
+
+<lg>
+<l>Ta forge aux vieux murs embrasés,</l>
+<l>Ta forge, pleine d’étincelles,</l>
+<l>Est bien moins ardente que ses</l>
+<l indent="3">Prunelles.</l>
+</lg>
+
+<lg>
+<l>Tu vois, rouge et brûlant, ce fer</l>
+<l>Fondre et s’amollir sur l’enclume.</l>
+<l>Tel mon cœur fond, quand son œil clair</l>
+<l indent="3">S’allume.</l>
+</lg>
+
+<h3>VII</h3>
+<h3><s>SCÈNE DE TSARDA<noteref noteid="note.215.1"/></s></h3>
+
+
+<notes>
+  <note id="note.215.1">
+    <l>Taverne.</l>
+  </note>
+</notes>
+
+<lg>
+<l>Il est tard. La tsarda penche sur l’eau son mur,</l>
+<l>Mais ne peut s’y mirer, tant la rivière est sombre.</l>
+<pagenum num="216"/>
+<l>Le bac reste immobile, à la chaîne, dans l’ombre.</l>
+<l>Le monde se repose et le ciel est obscur.</l>
+</lg>
+
+<lg>
+<l>Quel bruit dans la tsarda ! Chants et cris à la ronde.</l>
+<l>Le cymbalum frissonne et retentit sans fin.</l>
+<l>« Eh ! l’hôtesse ! Fleur d’or ! Apporte-nous du vin,</l>
+<l>Vieux comme mon aïeul et chaud comme ma blonde !</l>
+</lg>
+
+<lg>
+<l>« Allons, Tsigane ! Ici tout de suite, et dansons !</l>
+<l>Que la danse me brûle à son ardente flamme !</l>
+<l>Je veux perdre en sautant mon argent et mon âme.</l>
+<l>Donc, tu vas nous jouer tes plus folles chansons. »</l>
+</lg>
+
+<lg>
+<l>Mais on frappe à la vitre. — « Holà ! qu’on se dégrise !</l>
+<l>C’est un vacarme affreux. Mon maître veut dormir. »</l>
+<l>— « Qu’il aille au diable !... Et toi, Tsigane, fais frémir</l>
+<l>Ton archet, fallût-il te donner ma chemise ! »</l>
+</lg>
+
+<lg>
+<l>On frappe de nouveau. C’est un enfant. — « Pitié !...</l>
+<l>Un peu plus bas !... Ma mère est malade... ma mère ! »</l>
+<l>On fait : « Chut ! » au Tsigane, on boit le fond du verre,</l>
+<l>Et tous les gars s’en vont sur la pointe du pied.</l>
+</lg>
+
+<pagenum num="217"/>
+
+<h3>VIII</h3>
+<h3><s>CHANSON POPULAIRE</s></h3>
+
+<lg>
+<l>J’ai bu deux flacons de vin vieux.</l>
+<l>Dans le village, au clair de lune,</l>
+<l>Je danse en diable furieux.</l>
+</lg>
+
+<lg>
+<l>Un cruel souci m’importune.</l>
+<l>Gai, gai, Tsigane ! Un air joyeux,</l>
+<l>Sous la fenêtre de ma brune.</l>
+</lg>
+
+<lg>
+<l>La chère étoile, je l’aimais !...</l>
+<l>L’étoile file et l’amour vole.</l>
+<l>Elle aime un autre désormais.</l>
+</lg>
+
+<lg>
+<l>Gai, Tsigane ! Une chanson folle,</l>
+<l>Afin qu’elle ignore à jamais</l>
+<l>Que sa fausseté me désole.</l>
+</lg>
+
+<pagenum num="218"/>
+
+<h3>IX</h3>
+<h3><s>VŒU</s></h3>
+
+<lg>
+<l>Le Ciel m’a dit : « Choisis ta mort ; elle est prochaine. »</l>
+<l>J’ai répondu : « Seigneur... En automne, un jour pur,</l>
+<l>Devant les arbres d’or frissonnant dans l’azur...</l>
+<l>Et qu’un oiseau tardif chante encor dans un chêne !</l>
+</lg>
+
+<lg>
+<l>« Ainsi que la nature à l’arrière-saison,</l>
+<l>Oh ! que je sente, avant qu’elle ne me saisisse,</l>
+<l>Venir tout doucement la mort, et que je puisse</l>
+<l>Chanter, comme l’oiseau, ma suprême chanson.</l>
+</lg>
+
+<lg>
+<l>« Puis, quand sera venu le moment de me taire,</l>
+<l>Approche alors, et clos mes lèvres d’un baiser,</l>
+<l>Tendre et cher cœur sur qui j’ai pu me reposer,</l>
+<l>Mon adorée, ô la plus belle sur la terre !</l>
+</lg>
+
+<lg>
+<l>« Mais non ! non !... Ce n’est pas, Seigneur, mon dernier vœu,</l>
+<l>Un beau jour de printemps, de guerre et de furie,</l>
+<pagenum num="219"/>
+<l>Avec des fleurs de sang émaillant la prairie ;</l>
+<l>C’est la mort que tu dois m’accorder, ô mon Dieu !</l>
+</lg>
+
+<lg>
+<l>« La mort le sabre au poing ! Oui ! la mort violente.</l>
+<l>Quand le clairon se mêle au chant du rossignol,</l>
+<l>Que mon âme, en avril, prenne son libre vol,</l>
+<l>Que de mon cœur jaillisse une rose sanglante !</l>
+</lg>
+
+<lg>
+<l>« Et, lorsque mon cheval à bas m’aura jeté,</l>
+<l>Oh ! viens et ferme alors ma bouche avec ta bouche,</l>
+<l>Toi que j’aimai toujours d’amour âpre et farouche,</l>
+<l>Chaste fille du Ciel, sublime Liberté ! »</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id="p51">
+ <pagenum num="220"/>
+
+<h2>L’AMIRAL COURBET</h2>
+
+<l>Strophes dites par M. Paul Mounet, de l’Odéon, à l’assemblée générale de la Société centrale de sauvetage des Naufragés, le 12 mai 1886.</l>
+
+<poem>
+<lg>
+<l>Quinze ans avaient passé depuis l’époque sombre,</l>
+<l>O France, où ton effort succombant sous le nombre,</l>
+<l indent='2'>L’honneur seul avait survécu !</l>
+<l>Et, depuis les jours noirs de l’effroyable épreuve,</l>
+<l>Tes soldats n’avaient plus qu’une bannière neuve,</l>
+<l indent='2'>Le triste drapeau du vaincu ;</l>
+</lg>
+
+<lg>
+<l>Et, quand un régiment passait, musique en tête,</l>
+<l>Avec son étendard datant de la défaite,</l>
+<l indent='2'>Nous nous rappelions nos revers,</l>
+<pagenum num="221"/>
+<l>Et nos chers vieux drapeaux, si criblés par les balles,</l>
+<l>Que, lorsque les gonflait le vent par intervalles,</l>
+<l indent='2'>On voyait l’azur au travers.</l>
+</lg>
+
+<lg>
+<l>Et nous disions : « Drapeaux d’hier, drapeaux sans joie</l>
+<l>Qu’il vienne donc enfin, le Chef qui vous déploie</l>
+<l indent='2'>En plein soleil, sous le ciel bleu ;</l>
+<l>Et, commandant d’escadre ou général d’armée,</l>
+<l>Qu’il vous donne, parmi la poudre et la fumée,</l>
+<l indent='2'>Le noble baptême du feu ! »</l>
+</lg>
+
+<lg>
+<l>Il vint. Après quinze ans de deuil et de nuit noire,</l>
+<l>Il nous fit tressaillir, encore, au mot : « Victoire ! »</l>
+<l indent='2'>Courbet, grand et vénéré nom !</l>
+<l>Il vint. Il apparut et disparut trop vite ;</l>
+<l>Et sa gloire brilla pour s’éteindre, subite,</l>
+<l indent='2'>Ainsi que l’éclair d’un canon.</l>
+</lg>
+
+<lg>
+<l>Ce qu’il fut ? Un marin ; — un marin, c’est-à-dire</l>
+<l>L’homme qui n’est heureux qu’en mer, sur le navire</l>
+<l indent='2'>Qui peut devenir son tombeau ;</l>
+<l>L’homme qui, pour servir son pays, sacrifie</l>
+<l>Et risque, chaque jour, à chaque instant, sa vie...</l>
+<l indent='2'>Un marin ! — Et rien n’est plus beau !</l>
+</lg>
+
+<pagenum num="222"/>
+
+<lg>
+<l>Il eut ces deux amours : la patrie et l’espace.</l>
+<l>Certe ! il est grand. Partout où son escadre passe,</l>
+<l indent='2'>C’est pour l’honneur du pavillon ;</l>
+<l>Partout où l’ont porté la voile et la machine,</l>
+<l>Il laisse, le marin fameux des mers de Chine,</l>
+<l indent='2'>De la gloire dans son sillon.</l>
+</lg>
+
+<lg>
+<l>Mais il meurt... Tu n’es pas heureuse, ô pauvre France !</l>
+<l>Après Chanzy, Courbet ! Deux fois, ton espérance</l>
+<l indent='2'>Se perd dans un lugubre deuil.</l>
+<l>Tu suis des yeux, là-bas, ton héros qui navigue...</l>
+<l>Il est mort au devoir, il est mort de fatigue ;</l>
+<l indent='2'>Le <i>Bayard</i> rapporte un cercueil !</l>
+</lg>
+
+<lg>
+<l>Battez aux champs pour lui, tambours couverts de voiles</l>
+<l>Car, quand il conduisait, la nuit, sous les étoiles,</l>
+<l indent='2'>Ses cuirassés de premier rang,</l>
+<l>Son rêve, j’en suis sûr, était bien autre chose</l>
+<l>Que couler une jonque ou que bloquer Formose ;</l>
+<l indent='2'>Son espoir était bien plus grand.</l>
+</lg>
+
+<lg>
+<l>O Courbet ! âme pure et de vertus nourrie,</l>
+<l>Français qui sur les mers fis flotter ta patrie,</l>
+<l indent='2'>Gardien du drapeau relevé,</l>
+<pagenum num="223"/>
+<l>N’est-ce pas, Amiral vainqueur, grand chef austère,</l>
+<l>Que tu te préparais pour la meilleure guerre</l>
+<l indent='2'>Et pour le bon combat rêvé ?</l>
+</lg>
+
+<lg>
+<l>Nous le comprenons bien en te rendant hommage !</l>
+<l>Nous faisons parmi nous triompher ton image</l>
+<l indent='2'>Dans l’indestructible métal ;</l>
+<l>Nous te plaçons parmi les hommes les plus rares,..</l>
+<l>Pourquoi n’avoir, hélas ! que quelques noms barbares</l>
+<l indent='2'>A graver sur ton piédestal ?</l>
+</lg>
+
+<lg>
+<l>Ah ! quand se dressera ta figure guerrière,</l>
+<l>Telle qu’on la voyait sur le gaillard d’arrière,</l>
+<l indent='2'>Debout dans le grand vent amer,</l>
+<l>Sans rhétorique creuse et longtemps débattue,</l>
+<l>Écrivons simplement ces mots sous ta statue :</l>
+<l indent='2'>« Il aima la France et la mer. »</l>
+</lg>
+</poem>
+
+<date class='l3'>Avril 1886.</date>
+
+ </page-sequence>
+ <page-sequence id="p52">
+ <pagenum num="224"/>
+
+<h2>L’ÉTOILE DES BERGERS</h2>
+
+<poem>
+<lg>
+<l>Quand, dans la froide nuit, au ciel,</l>
+<l>Dont les champs infinis s’azurent,</l>
+<l>Passa l’étoile de Noël,</l>
+<l>De pauvres bergers l’aperçurent.</l>
+</lg>
+
+<lg>
+<l>Laissant là chèvres et moutons,</l>
+<l>Prenant crosses et sacs de toile,</l>
+<l>Ils dirent aussitôt : « Partons ! »</l>
+<l>Et suivirent l’errante étoile.</l>
+</lg>
+
+<pagenum num="225"/>
+
+<lg>
+<l>Les autres, amis du repos,</l>
+<l>Les prudents et les économes,</l>
+<l>Rirent, en gardant leurs troupeaux,</l>
+<l>De la démence de ces hommes.</l>
+</lg>
+
+<lg>
+<l>Quand ils revinrent, étonnés,</l>
+<l>Contant comme un fait véritable</l>
+<l>Que l’astre les avait menés</l>
+<l>Voir un enfant dans une étable,</l>
+</lg>
+
+<lg>
+<l>Des voleurs avaient, à ces fous,</l>
+<l>Pendant leur absence funeste,</l>
+<l>Pris bien des brebis, et les loups</l>
+<l>Dévoraient déjà tout le reste ;</l>
+</lg>
+
+<lg>
+<l>Et l’on se moqua beaucoup d’eux.</l>
+<l>Garder son bien, voilà l’utile,</l>
+<l>Pourquoi donc courir, hasardeux,</l>
+<l>Après une étoile qui file ?</l>
+</lg>
+
+<lg>
+<l>Mais souffrir et n’avoir plus rien</l>
+<l>Contentait ces humbles apôtres :</l>
+<l>Le peu qui leur resta de bien,</l>
+<l>Ce fut pour le donner aux autres.</l>
+</lg>
+
+<pagenum num="226"/>
+
+<lg>
+<l>Fidèles au divin signal</l>
+<l>Qu’ils avaient suivi sans rien dire,</l>
+<l>Ils rendaient le bien pour le mal</l>
+<l>Et pour une insulte, un sourire.</l>
+</lg>
+
+<lg>
+<l>La nuit, près du fleuve, en secret,</l>
+<l>Ils chantaient en chœur sous les saules,</l>
+<l>Et quand un agneau s’égarait,</l>
+<l>Le rapportaient sur leurs épaules.</l>
+</lg>
+
+<lg>
+<l>Bons, ils pardonnaient au méchant,</l>
+<l>Et, par un merveilleux mystère,</l>
+<l>Régénéraient, en la touchant,</l>
+<l>La courtisane ou l’adultère.</l>
+</lg>
+
+<lg>
+<l>Et les autres bergers, pleins d’or,</l>
+<l>Dont l’avarice méprisable</l>
+<l>Creusait, pour y mettre un trésor,</l>
+<l>Des trous dans la chaleur du sable,</l>
+</lg>
+
+<lg>
+<l>Avaient des haines d’envieux</l>
+<l>Pour ces pauvres de haute mine,</l>
+<l>Qui gardaient au fond de leurs yeux</l>
+<l>Un peu de l’étoile divine.</l>
+</lg>
+
+<pagenum num="227"/>
+
+<h3>II</h3>
+
+<lg>
+<l>Comme dans le mythe chrétien</l>
+<l>Dont ce temps mauvais n’est plus digne,</l>
+<l>L’astre du beau, l’astre du bien,</l>
+<l>Passe parfois et nous fait signe.</l>
+</lg>
+
+<lg>
+<l>Qui le suit est déshérité</l>
+<l>De tout ce que le monde envie.</l>
+<l>Idéal d’art ou de bonté,</l>
+<l>Il faut en souffrir pour la vie ;</l>
+</lg>
+
+<lg>
+<l>Gravir les chemins durs et droits ;</l>
+<l>Fuir les jougs que met sur nos nuques</l>
+<l>Ou la morale des bourgeois</l>
+<l>Ou la critique des eunuques ;</l>
+</lg>
+
+<lg>
+<l>Jeter ses perles aux pourceaux ;</l>
+<l>Être toujours, sans qu’on s’irrite,</l>
+<l>Traité d’insensé par les sots,</l>
+<l>Traité d’impur par l’hypocrite ;</l>
+</lg>
+
+<pagenum num="228"/>
+
+<lg>
+<l>Voir triompher autour de soi</l>
+<l>Le laid, l’imbécile et l’injuste ;</l>
+<l>— Et sentir plus ferme sa foi</l>
+<l>Et sa volonté plus robuste...</l>
+</lg>
+
+<lg>
+<l>Artiste, d’un rêve obsédé,</l>
+<l>Ou pauvre homme à la chair fragile,</l>
+<l>Va ! par une étoile guidé,</l>
+<l>Comme un berger de l’Évangile.</l>
+</lg>
+
+<lg>
+<l>Va ! sourd à l’intérêt vénal,</l>
+<l>Va ! loin des faux dieux qu’on encense,</l>
+<l>Vers le Bethléem idéal,</l>
+<l>Vers la beauté, vers l’innocence.</l>
+</lg>
+
+<lg>
+<l>Et si quelque gouffre effrayant,</l>
+<l>Que ton imprudence te voile,</l>
+<l>T’engloutit, meurs en souriant,</l>
+<l>Les yeux fixés sur ton étoile !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ </page-sequences>
+</bml>
