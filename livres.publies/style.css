@@ -1,5 +1,9 @@
+  @font-face {font-family: Spectral;font-weight: normal;font-style: normal;src: url('Spectral-Medium.otf'); }
+
+  @font-face {font-family: Spectral;font-weight: normal;font-style: italic;src: url('Spectral-MediumItalic.otf'); }
+
 body {
-  font-family: sans-serif;
+  font-family: Spectral, serif;
 }
 
 .auteur {
