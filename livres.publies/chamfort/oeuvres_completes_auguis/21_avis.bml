@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://gallica.bnf.fr/ark:/12148/bpt6k202650h">
+
+      <titre>Œuvres complètes de Chamfort</titre> 
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11910132z">
+        <nom-bibliographie>Chamfort, Sébastien-Roch-Nicolas de</nom-bibliographie>
+        <dates>1741?-1794</dates>
+        <nom-couverture>Sébastien-Roch-Nicolas de Chamfort</nom-couverture>
+      </auteur>
+
+      <auteur role="edt" bnf="http://catalogue.bnf.fr/ark:/12148/cb124785168">
+        <nom-bibliographie>Auguis, Pierre-René</nom-bibliographie>
+        <dates>1786-1864</dates>
+        <nom-couverture>Pierre-René Auguis</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>Chaumerot jeune</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1824-1825</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k2026541"
+                 pages="1-500"/>
+<!--1-195 126 195-500-->
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000577"
+        creation="2018-10-27T09:24:54-07:00">
+
+      <surtitre>Œuvres complètes de Chamfort</surtitre> 
+      <titre>Avis</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+
+  <toc>
+  </toc>
+
+  <cover src="images/couverture5.png" alt="Œuvres complètes de Chamfort, recueillies et publiées, avec une notice historique sur la vie et les écrits de l’auteur, Par P. R. Auguis. Tome cinquième. Paris. Chez Chaumerot Jeune, libraire. Palais-Royal, galeries de Bois, no. 189. 1825."/>
+
+<page-sequences>
+<page-sequence>
+<pagenum num="6"/>
+
+<h1>AVIS.</h1>
+
+<p>L’abondance des matériaux que nous ont communiqués des personnes qui avaient connu Chamfort, et qui pouvaient donner des renseignemens précis sur ses travaux littéraires, nous a mis dans la nécessité d’ajouter un cinquième volume au recueil de ses Œuvres : nous nous plaisons à croire que les Souscripteurs trouveront dans l’intérêt des pièces dont ce volume est composé, un ample dédommagement, et nous sauront même quelque gré des soins que nous avons pris de ne rien omettre de ce que nous avons pu nous procurer du portefeuille de Chamfort, tombé après sa mort en des mains trop discrètes.</p>
+
+</page-sequence>
+</page-sequences>
+</bml>
