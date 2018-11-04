@@ -313,7 +313,7 @@
     <attribute name='tirage'/>
     <attribute name='ext'/>
     <sequential>
-      <zip destfile="results/${id}/${x}.@{tirage}@{ext}.zip" encoding="UTF-8">
+      <zip destfile="results/${id}/${x}_@{tirage}@{ext}.zip" encoding="UTF-8">
         <mappedresources>
           <fileset dir="results" includes="*/*@{tirage}@{ext}"/>
           <flattenmapper/>
@@ -327,8 +327,8 @@
 
 
   <target name='zipsources'>
-    <delete file='results/${id}/${x}.sources.zip'/>
-    <zip destfile="results/${id}/${x}.sources.zip">
+    <delete file='results/${id}/${x}_sources.zip'/>
+    <zip destfile="results/${id}/${x}_sources.zip">
       <zipfileset dir="${tools}" includes="bml.rnc"/>
       <zipfileset dir="." includes="*.xsl"/>
       <zipfileset dir="." includes="*.rnc"/>
