@@ -321,8 +321,11 @@
       <fileset dir='.' includes='index.html'/>
       <fileset dir='.' includes='style.css'/>
       <fileset dir='.' includes='feed.xml'/>
-      <fileset dir='../tools' includes='feed-icon-14x14.png'/>
-      <fileset dir='../tools' includes='twitter.png'/>
+      <fileset dir='.' includes='.htaccess'/>
+      <fileset dir='.' includes='Spectral-Medium.ttf'/>
+      <fileset dir='.' includes='Spectral-MediumItalic.ttf'/>
+      <fileset dir='.' includes='feed-icon-14x14.png'/>
+      <fileset dir='.' includes='twitter.png'/>
       <fileset dir='.' includes='efele_catalogue_commun.txt'/>
       <fileset dir='.' includes='liste.*.html'/>
     </copy>
