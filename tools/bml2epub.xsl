@@ -581,10 +581,10 @@
     </xsl:for-each>
   </xsl:variable>
 
-  <div class="note">
+  <div class="note" id="note.{@id}">
     <div class="numero-de-note">
       <sup>
-        <a id="note.{@id}" href="{$targetfile}.xhtml#noteref.{@id}">
+        <a href="{$targetfile}.xhtml#noteref.{@id}">
           <xsl:apply-templates select='.' mode='notelabel'/>
         </a>
       </sup>
