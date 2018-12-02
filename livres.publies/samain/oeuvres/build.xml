@@ -5,8 +5,8 @@
 
   <target name='books'>
     <book x='01_au_jardin_de_l_infante'/>
-<!--
     <book x='02_le_chariot_d_or'/>
+<!--
     <book x='03_symphonie_heroique'/>
 -->
     <book x='04_aux_flancs_du_vase'/>
@@ -15,6 +15,10 @@
     <book x='06_polypheme'/>
     <book x='07_poemes_inacheves'/>
 -->
+  </target>
+
+  <target name='collections'>
+    <collection  x='samain'/>
   </target>
 
 </project>
