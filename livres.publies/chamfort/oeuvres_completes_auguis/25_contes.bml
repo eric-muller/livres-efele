@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="https://catalogue.bnf.fr/ark:/12148/cb30217974n">
+
+      <titre>Œuvres complètes de Chamfort</titre> 
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11895962s">
+        <nom-bibliographie>Chamfort, Sébastien-Roch-Nicolas de</nom-bibliographie>
+        <dates>1741?-1794</dates>
+        <nom-couverture>Sébastien-Roch-Nicolas de Chamfort</nom-couverture>
+      </auteur>
+
+      <auteur role="edt" bnf="http://catalogue.bnf.fr/ark:/12148/cb124785168">
+        <nom-bibliographie>Auguis, Pierre-René</nom-bibliographie>
+        <dates>1786-1864</dates>
+        <nom-couverture>Pierre-René Auguis</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>Chaumerot jeune</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1824-1825</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k2026541"
+                 pages="1-500"/>
+<!--1-195 126 195-500-->
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000586"
+        creation="2018-12-02T10:28:35-08:00">
+
+      <surtitre>Œuvres complètes de Chamfort</surtitre> 
+      <titre>Contes</titre>
+
+      <collection id='c00020' volume='26'>
+        <titre>Œuvres complètes de Chamfort, édition P. R. Auguis</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="La Querelle du Riche et du Pauvre. Apologue"/>
+    <tocentry idref="p02" label="La Jambe de bois et le Bas perdu."/>
+    <tocentry idref="p03" label="Le Héros économe."/>
+    <tocentry idref="p04" label="Le Rendez-vous inutile."/>
+    <tocentry idref="p06" label="Le Chapelier."/>
+    <tocentry idref="p07" label="La Mariée sans Mari."/>
+    <tocentry idref="p08" label="L’Avare éborgné."/>
+    <tocentry idref="p09" label="Fragment d’un Conte. Apologue"/>
+    <tocentry idref="p10" label="Prologue d’un autre Conte."/>
+    <tocentry idref="p11" label="Calcul patriotique."/>
+    <tocentry idref="p12" label="La vraie Sagesse."/>
+    <tocentry idref="p13" label="La Jouissance tardive."/>
+    <tocentry idref="p14" label="Paris justifié."/>
+    <tocentry idref="p15" label="Le Peintre d’histoire."/>
+    <tocentry idref="p16" label="Le Calcul."/>
+    <tocentry idref="p17" label="Le Pronom indiscret."/>
+    <tocentry idref="p18" label="Le Calendrier des Jésuites."/>
+    <tocentry idref="p19" label="Le Saut de la Soupente."/>
+    <tocentry idref="p20" label="Le Linceul du Pélerin."/>
+    <tocentry idref="p21" label="L’Armement inutile."/>
+    <tocentry idref="p22" label="L’Abbesse condamnée au Chapelain."/>
+    <tocentry idref="p23" label="Le Coq et le Chapon."/>
+    <tocentry idref="p24" label="La Peur de la Mort."/>
+    <tocentry idref="p25" label="La Consolation des Cocus."/>
+    <tocentry idref="p26" label="La Fidélité a toute épreuve."/>
+    <tocentry idref="p27" label="Le Connaisseur."/>
+    <tocentry idref="p28" label="La Prude."/>
+    <tocentry idref="p29" label="L’Illusion du Cloitre."/>
+  </toc>
+
+  <cover src="images/couverture5.png" alt="Œuvres complètes de Chamfort, recueillies et publiées, avec une notice historique sur la vie et les écrits de l’auteur, Par P. R. Auguis. Tome cinquième. Paris. Chez Chaumerot Jeune, libraire. Palais-Royal, galeries de Bois, no. 189. 1825."/>
+
+<page-sequences>
+<!--
+<page-sequence>
+
+<pagenum num="131"/>
+
+<vsep class="fewlines"/>
+
+<h1>CONTES.</h1>
+
+<pagenum num="132"/>
+</page-sequence>
+-->
+<page-sequence recto='true'>
+<pagenum num="133"/>
+
+<h1>CONTES.</h1>
+
+<vsep class="rule"/>
+
+<h2 id="p01">LA QUERELLE DU RICHE ET DU PAUVRE,</h2>
+<h2><s>APOLOGUE.</s></h2>
+
+<l>Le riche avec le pauvre a partagé la terre,</l>
+<l>Et vous voyez comment : l’un eut tout, l’autre rien.</l>
+<l>Mais depuis ce traité qui réglait tout si bien,</l>
+<l>Les pauvres ont par fois recommencé la guerre :</l>
+<l>On sait qu’ils sont vaincus, sans doute pour toujours.</l>
+<l>J’ai lu, dans un écrit, tenu pour authentique,</l>
+<l>Qu’après le siècle d’or, qui dura quelques jours,</l>
+<l>Les vaincus, opprimés sous un joug tyrannique,</l>
+<l>S’adressèrent au ciel : c’est-là leur seul recours.</l>
+<l>Un humble député de l’humble république</l>
+<l>Au souverain des dieux présenta leur supplique.</l>
+<l>La pièce était touchante, et le texte était bon ;</l>
+<l>L’orateur y plaidait très-bien les droits des hommes :</l>
+<l>Elle parlait au cœur non moins qu’à la raison ;</l>
+<l>Je ne la transcris point, vu le siècle où nous sommes.</l>
+<l>Jupiter, l’ayant lue, en parut fort frappé.</l>
+<l>« Mes amis, leur dit-il, je me suis bien trompé :</l>
+<l>C’est le destin des rois ; ils n’en conviennent guères.</l>
+<l>J’avais cru qu’à jamais les hommes seraient frères :</l>
+<l>Tout bon père se flatte, et pense que ses fils,</l>
+<l>D’un même sang formés, seront toujours amis.</l>
+<l>J’ai bâti sur ce plan. J’aperçois ma méprise.</l>
+<l>Je m’en suis repenti souvent, quoiqu’on en dise ;</l>
+<pagenum num="134"/>
+<l>Mais, soumis à des lois que je ne puis changer,</l>
+<l>Je n’ai plus qu’un moyen propre à vous soulager.</l>
+<l>Je hais vos oppresseurs : les riches sont barbares ;</l>
+<l>Ils paraîtront souvent l’objet de mon courroux ;</l>
+<l>Mécontens, ennuyés, prodigues, vains, bizarres,</l>
+<l>Ce sont de vrais tourmens : mais le plus grand de tous,</l>
+<l>C’est l’avarice ; eh bien ! je vais les rendre avares :</l>
+<l>C’en est fait, les voilà pauvres tout comme vous. »</l>
+<l>Ainsi fit Jupiter. Les Dieux ont leur système.</l>
+<l>Mais, soit dit sans fronder leur volonté suprême,</l>
+<l>Je voudrais que le ciel, moins prompt à nous venger,</l>
+<l>Sût un peu moins punir, et sût mieux corriger.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p02">LA JAMBE DE BOIS ET LE BAS PERDU.</h2>
+
+<l>Est-ce un conte ? est-ce un apologue ?</l>
+<l>Vous en déciderez : voilà tout mon prologue.</l>
+
+<vsep class="emptyline"/>
+
+<l>Une dame en faveur, je vous tairai son nom,</l>
+<l>Belle encor quoiqu’un peu passée,</l>
+<l>Eut, je ne sais comment, la jambe fracassée :</l>
+<l>Il fallut en venir à l’amputation.</l>
+<l>Grand fut le désespoir, plus grande la souffrance ;</l>
+<l>Mais on se tira bien de l’opération.</l>
+<l>Bref, on touche au moment de la convalescence :</l>
+<l>Il fallut s’habiller ; une jambe d’emprunt,</l>
+<l>Dans une double éclisse avec art enchassée,</l>
+<l>Supplément du membre défunt,</l>
+<l>Au lieu vacant fut promptement placée :</l>
+<l>L’autre jambe, la bonne, était déjà chaussée.</l>
+<pagenum num="135"/>
+<l>Madame de son lit descendait ; mais, hélas !</l>
+<l>Admirez l’étrange caprice,</l>
+<l>La malade soudain veut ravoir l’autre bas.</l>
+<l>On cherche, on se tracasse, il ne se trouve pas :</l>
+<l>Elle de s’obstiner, soit sottise ou malice ;</l>
+<l>La voilà qui gronde ses gens,</l>
+<l>Maltraite époux, amis, parens,</l>
+<l>Troupe indulgente, autour du lit groupée,</l>
+<l>Par pitié, voyez-vous, pour la pauvre éclopée.</l>
+<l>Jugez où l’on en fut, lorsqu’en sa déraison</l>
+<l>Elle parla de quitter la maison !</l>
+<l>Chez nous même travers s’est montré tout à l’heure.</l>
+<l>Perdre bons marquisats fit pousser moins de cris</l>
+<l>Que perdre le beau nom de monsieur le marquis :</l>
+<l>Une jambe est coupée, et c’est le bas qu’on pleure.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p03">LE HÉROS ÉCONOME.</h2>
+
+<l>Pourquoi faut-il que l’humaine faiblesse,</l>
+<l>Chez les mortels que nous nommons héros,</l>
+<l>Souvent se montre, et par de tels défauts</l>
+<l>Qu’en les voyant, on se dit : Pauvre espèce !</l>
+<l>Livrons le monde et la gazette aux sots.</l>
+<l>Pourquoi de l’or l’avidité cupide</l>
+<l>A-t-elle, hélas ! souillé plus d’un grand nom,</l>
+<l>Flétri, perdu Démosthènes, Bacon ;</l>
+<l>Et, qui pis est, de sa rouille sordide</l>
+<l>Atteint Brutus et le premier Caton ?</l>
+<l>La vanité me gâte Cicéron ;</l>
+<pagenum num="136"/>
+<l>Annibal fourbe, Agésilas perfide,</l>
+<l>Luxembourg fat, et Villars fanfaron :</l>
+<l>C’est grand pitié : Catinat.... je ménage</l>
+<l>Et ma pudeur et les mânes d’un sage.</l>
+<l>Sur Marlborough je serai moins discret,</l>
+<l>Car son péché n’était pas un secret.</l>
+<l>Dans l’Angleterre éprise de sa gloire,</l>
+<l>Sur sa lésine on faisait mainte histoire,</l>
+<l>En affublant d’épigramme ou chanson</l>
+<l>Ce grand rival de Mars et d’Harpagon.</l>
+<l>Chez les guerriers ce mélange est très-rare ;</l>
+<l>Et tout héros est plus voleur qu’avare :</l>
+<l>Mais je finis, mon prologue est trop long.</l>
+<l>Pour regagner sur la narration</l>
+<l>Le temps perdu, courons de compagnie</l>
+<l>Vite en Hollande, aux états-généraux,</l>
+<l>Où l’on reçoit en grand’cérémonie</l>
+<l>Des alliés le support, le héros,</l>
+<l>Ce Marlborough, qui, repassant les flots,</l>
+<l>S’en va revoir sa brillante patrie.</l>
+<l>Le général à Windsor est mandé ;</l>
+<l>De ses emplois il est dépossédé,</l>
+<l>Vu que soudain, milédi, son épouse,</l>
+<l>Brusque et hautaine, imprudente et jalouse,</l>
+<l>Près la reine Anne a perdu sa faveur.</l>
+<l>Sur une robe une aiguière versée,</l>
+<l>Même la jatte avec dépit cassée,</l>
+<l>Au cœur royal ont donné de l’humeur.</l>
+<l>Tout va changer : la Hollande, l’Empire</l>
+<l>Baissent le ton, et la France respire.</l>
+<l>La paix naîtra de ce grave incident,</l>
+<l>Qui dans l’Europe est encor un mystère ;</l>
+<pagenum num="137"/>
+<l>Mais Marlborough, qui le sait cependant,</l>
+<l>Fait son paquet, et maudit, en partant,</l>
+<l>Anne, et sa femme, et la jatte, et l’aiguière ;</l>
+<l>Ce grand méchef, ces débats féminins</l>
+<l>Ferment pour lui le champ de la victoire.</l>
+<l>Il se console à l’aspect de sa gloire,</l>
+<l>Surtout de l’or qu’elle verse en ses mains.</l>
+<l>Le Hollandais, moins par reconnaissance</l>
+<l>Que pour mâter le vieux roi, dit le Grand,</l>
+<l>Va cette fois écorner sa finance.</l>
+<l>Faire dépit à cette cour de France</l>
+<l>Est, comme on sait, pour messieurs d’Amsterdam,</l>
+<l>Le seul plaisir qui vaille leur argent.</l>
+<l>La fête s’ouvre, et le vainqueur s’avance ;</l>
+<l>Dieux ! quel accueil ! quelle munificence !</l>
+<l>On lui prodigue, on étale à ses yeux</l>
+<l>Cent raretés de l’un et l’autre monde ;</l>
+<l>Mais tout s’efface à l’éclat radieux</l>
+<l>D’un diamant le plus beau que Golconde</l>
+<l>Depuis long-temps ait vu sortir du sein</l>
+<l>De son argile opulente et féconde.</l>
+<l>Il est trop cher pour plus d’un souverain :</l>
+<l>Il est sans prix : nul Juif ne l’évalue.</l>
+<l>Déjà placé par une adroite main</l>
+<l>Sur un chapeau qu’au sien on substitue,</l>
+<l>Sous un panache, il brille au front du lord.</l>
+<l>On applaudit sa noble contenance,</l>
+<l>Son air, son geste ; et l’on pouvait encor,</l>
+<l>Comme on va voir, louer sa prévoyance :</l>
+<l>Vers un des siens, qui du riche joyau,</l>
+<l>Grands yeux ouverts, contemplait la merveille,</l>
+<l>Milord s’approche, et tout bas à l’oreille :</l>
+<l>« Songe à ravoir, dit-il, mon vieux chapeau. »</l>
+
+<pagenum num="138"/>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p04">LE RENDEZ-VOUS INUTILE.</h2>
+
+<l>Hier au soir on nous a fait un conte,</l>
+<l>Qui me parut assez original ;</l>
+<l>Il faut, messieurs, que je vous le raconte ;</l>
+<l>Il est très-court et surtout point moral.</l>
+
+<vsep class="emptyline"/>
+
+<l>Damis, Églé, couple élégant, volage,</l>
+<l>Étaient unis, mais par le sacrement ;</l>
+<l>L’amour jadis les unit davantage.</l>
+<l>Églé sensible, au sortir du couvent,</l>
+<l>Avait aimé son époux sans partage ;</l>
+<l>Quoiqu’à la cour tout s’excuse à son âge,</l>
+<l>Damis lui-même était un tendre amant.</l>
+<l>Mais tout à coup, sans qu’on sût trop comment,</l>
+<l>Par ton, par air, fuyant le tête à tête,</l>
+<l>Avec fracas courant de fête en fête,</l>
+<l>Croyant surtout avoir bien du plaisir,</l>
+<l>De s’adorer on n’eut plus le loisir.</l>
+<l>Un mari mort, on souffre le veuvage ;</l>
+<l>Mais quand il vit, c’est un cruel outrage ;</l>
+<l>Églé le sent : Églé va se venger.</l>
+<l>Je vois d’ici ces messieurs s’arranger,</l>
+<l>Et minuter le beau brevet d’usage</l>
+<l>Au bon Damis. Pour vous faire enrager,</l>
+<l>Mes chers amis, Églé restera sage ;</l>
+<l>Et du mari l’honneur est sans danger.</l>
+<l>Madame, un soir, après la comédie,</l>
+<l>Rentre chez elle : aimable compagnie,</l>
+<l>Cercle brillant ; on apporte un billet,</l>
+<l>Elle ouvre... ô ciel ! sottise de valet.</l>
+<pagenum num="139"/>
+<l>Églé rougit, et regarde à l’adresse.</l>
+<l>Or, vous saurez que le susdit poulet</l>
+<l>Est pour Damis ; que certaine comtesse</l>
+<l>Vers le minuit rendez-vous lui donnait,</l>
+<l>Et que d’un mot l’orthographe mal mise</l>
+<l>Peut d’un vieux Suisse excuser la méprise.</l>
+<l>La belle Églé prend son parti soudain :</l>
+<l>En un clin d’œil elle devient charmante :</l>
+<l>Noble enjoûment, gaîté vive et piquante</l>
+<l>Sont mis en jeu : le souper fut divin ;</l>
+<l>Nul quolibet, des contes agréables ;</l>
+<l>Les gens d’esprit, les convives aimables</l>
+<l>Étincelaient ; les sots, les ennuyeux</l>
+<l>Furent bruyans, ne pouvant faire mieux.</l>
+<l>Madame avait cette coquetterie</l>
+<l>Qui plaît, enflamme, amuse tour à tour,</l>
+<l>Et qui permet à la galanterie</l>
+<l>De ressembler quelquefois à l’amour.</l>
+<l>Or, devinez si chacun voulut plaire.</l>
+<l>Mais savez-vous sur qui le charme opère</l>
+<l>Plus puissamment ? c’est sur notre mari.</l>
+<l>De son bonheur avisé par autrui,</l>
+<l>De la tendresse il a pris le langage ;</l>
+<l>Malgré l’affront de paraître amoureux,</l>
+<l>Un air folâtre, un riant badinage,</l>
+<l>Cachaient, montraient ses transports et ses feux.</l>
+<l>Chacun sortit ; on s’en va, bon voyage.</l>
+<l>Damis est seul : voilà Damis heureux ;</l>
+<l>Même on prétend que, dans cette occurrence,</l>
+<l>Un doux refus, une adroite défense</l>
+<l>Fit d’un époux un amant merveilleux.</l>
+<l>A pareil trait on ne pouvait s’attendre ;</l>
+<pagenum num="140"/>
+<l>Mais un mari s’étonne d’être aimé :</l>
+<l>On est surpris, on veut aussi surprendre ;</l>
+<l>L’honneur s’en mêle, on se trouve animé.</l>
+<l>Damis se croit vainqueur de l’aventure ;</l>
+<l>Baissant les yeux, sa modeste moitié</l>
+<l>Prend plaisamment un air humilié :</l>
+<l>« Écoutez-moi, Damis, je vous conjure ;</l>
+<l>Je sens, dit-elle avec timidité,</l>
+<l>Qu’à vous fixer je ne saurais prétendre ;</l>
+<l>A la raison je sens qu’il faut se rendre,</l>
+<l>Et vous céder à la société.</l>
+<l>Fait comme vous.... — O ciel ! êtes-vous folle ?</l>
+<l>Songez-vous bien ? — Oui, monsieur... Je m’immole...</l>
+<l>Lisez... Eh bien ! reprit-on d’un air doux,</l>
+<l>Vous n’allez pas bien vite au rendez-vous ?</l>
+<l>— Qui ? moi... J’y suis... — Le mot est bien aimable.</l>
+<l>Mais songez-vous qu’une femme adorable</l>
+<l>En ce moment... Ah ! du moins, écrivez...</l>
+<l>— Écrire ! quoi !... — Je le veux, vous devez</l>
+<l>Une réplique à la tendre semonce. »</l>
+<l>Alors Damis confus, un peu troublé,</l>
+<l>« Je ne dois rien, dit-il ; et mon Eglé</l>
+<l>A tout surpris, la lettre... et la réponse. »</l>
+
+<h3 id="p05"><s>ENVOI A MADAME LA COMTESSE DE R***</s></h3>
+
+<l>Si ce Damis, que j’ai peint si volage,</l>
+<l>O R..... eût été votre époux,</l>
+<l>L’heureux Damis, tendre et digne de vous,</l>
+<l>Jamais ailleurs n’eût porté son hommage.</l>
+<l>Non moins heureux, si le sort eût permis</l>
+<l>Que vous fussiez son aimable comtesse,</l>
+<l>Jamais d’Églé la beauté ni l’adresse</l>
+<pagenum num="141"/>
+<l>A ses genoux n’eût ramené Damis ;</l>
+<l>Ou, de céder s’il eût eu la faiblesse,</l>
+<l>Volant chez vous, honteux de ses succès,</l>
+<l>Il eût si bien, dans son ardeur nouvelle,</l>
+<l>Rendu justice à vos charmans attraits,</l>
+<l>Qu’il n’aurait pu vous paraître infidelle.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p06">LE CHAPELIER.</h2>
+
+<l>Un Pénitent venait purifier</l>
+<l>Sa conscience aux pieds d’un Barnabite.</l>
+<l>Ça, mon ami, votre état ? — Chapelier.</l>
+<l>— Bon. Et quelle est la coulpe favorite ?</l>
+<l>— Voir la donzelle est mon cas familier.</l>
+<l>— Souvent ? — Assez. — Et quel est l’ordinaire ?</l>
+<l>Hem ! tous les mois ? — Ah ! c’est trop peu, mon père.</l>
+<l>— Tous les huit jours ? — Je suis plus coutumier.</l>
+<l>— De deux jours l’un ? — Plus encor ; j’ai beau faire</l>
+<l>A tous momens le plus ferme propos...</l>
+<l>— Quoi ! tous les jours ? — Je suis un misérable.</l>
+<l>— Soir et matin ? — Justement. — Comment diable !</l>
+<l>Et dans quel temps faites-vous des chapeaux !</l>
+
+<pagenum num="142"/>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p07">LA MARIÉE SANS MARI.</h2>
+
+<l>Voir marier dauphin ou fils de France,</l>
+<l>C’est, je l’avoue, un vrai plaisir pour moi ;</l>
+<l>Car, sans compter que l’on a l’espérance</l>
+<l>De ne pouvoir jamais manquer de roi,</l>
+<l>Fille sans dot, à Paris, au village,</l>
+<l>Qui sans hymen eût langui tristement,</l>
+<l>Se voit payer pour prendre son amant ;</l>
+<l>Veuille le ciel conserver cet usage !</l>
+<l>Or, vous saurez que tout nouvellement</l>
+<l>Certaine Agnès, désirant mariage,</l>
+<l>Chez son curé s’en alla bonnement.</l>
+<l>« Je viens m’inscrire. — Oh ! soit. Votre nom ? — Lise.</l>
+<l>— Et le futur... » Ma foi, Lise est à bout.</l>
+<l>— « Parlez. — Eh ! mais, dit la fille surprise,</l>
+<l>Je croyais, moi, qu’on fournissait de tout. »</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p08">L’AVARE ÉBORGNÉ.</h2>
+
+<l>Un Harpagon, d’un œil hypothéqué,</l>
+<l>Gardait la chambre en mauvaise posture.</l>
+<l>« Grave est le cas, le globe est attaqué,</l>
+<l>Lui disait-on ; craignez quelqu’aventure ;</l>
+<l>Voyez Granjean. — Non, parbleu, je vous jure,</l>
+<l>Il est habile, il doit être bien cher ;</l>
+<l>Pour me guérir, il suffit d’un frater. »</l>
+<l>Le frater vient, entreprend cette cure,</l>
+<pagenum num="143"/>
+<l>Le bistourise, et de son instrument</l>
+<l>Lui crève l’œil, mais très-parfaitement.</l>
+<l>Harpagon crie ; Esculape s’évade</l>
+<l>A petit bruit le long de l’escalier,</l>
+<l>Très-inquiet de sa sotte algarade.</l>
+<l>Vite on accourt aux clameurs du malade.</l>
+<l>« Un œil ! O ciel ! ah ! quel aventurier !</l>
+<l>Dans les deux cas, ignorance ou malice,</l>
+<l>Pourvoyez-vous en réparation ;</l>
+<l>Un bon procès doit vous faire justice,</l>
+<l>Et contre lui vous avez action. »</l>
+<l>Le borgne alors, d’un ton tout débonnaire,</l>
+<l>« Laissez, dit-il, laissez ce pauvre haire ;</l>
+<l>Je sais très-bien qu’il peut être plaidé ;</l>
+<l>Mais il en coûte à poursuivre une affaire :</l>
+<l>Et puis d’ailleurs il n’a rien demandé. »</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p09">FRAGMENT D’UN CONTE,</h2>
+<h2><s>PROLOGUE.</s></h2>
+
+<l>Vous croyez tous que, brodant quelquefois</l>
+<l>Nouvelle en vers, ou conte, ou comédie,</l>
+<l>J’aime à surprendre ou sottise, ou folie,</l>
+<l>Et suis charmé de tout ce que je vois ;</l>
+<l>Que quand Églé, qui veut être à la mode,</l>
+<l>Suit à la piste un fat suivant la cour,</l>
+<l>Donne une scène, ou fait quelque bon tour,</l>
+<l>Qui peut m’offrir un plaisant épisode ;</l>
+<l>J’en fais les feux, et que je ris d’autant.</l>
+<l>Non, point du tout ; j’en suis très-mécontent.</l>
+<pagenum num="144"/>
+<l>Bien il est vrai que l’amour m’intéresse :</l>
+<l>J’en suis fâché, mais j’ai cette faiblesse.</l>
+<l>Damis s’en moque, et me trouve pédant ;</l>
+<l>Cléon me plaint : il fuit le sentiment,</l>
+<l>Se croit un sage ; et que s’il a Delphire,</l>
+<l>Ne l’aimant point, on n’a rien à lui dire.</l>
+<l>Delphire même est fort de cet avis :</l>
+<l>C’est sans aimer qu’on trompe les maris.</l>
+<l>C’est un grand mal, mais très-grand, que les femmes</l>
+<l>Aiment un peu qu’on les ait à son tour ;</l>
+<l>Je ne dis mot ; mais, s’il se peut, mesdames,</l>
+<l>Dans vos boudoirs daignez placer l’Amour.</l>
+<vsep class="dots"/>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p10">PROLOGUE D’UN AUTRE CONTE.</h2>
+
+<l>Je fus toujours un peu républicain ;</l>
+<l>C’est un travers dans une monarchie.</l>
+<l>Vous conclurez, certes, que le destin,</l>
+<l>Sous Louis-Quinze a mal placé ma vie.</l>
+<l>Assez long-temps j’en ai gémi tout bas.</l>
+<l>On me disait : La France est ta patrie,</l>
+<l>Il faut l’aimer ; cela ne prenait pas.</l>
+<l>Triste habitant d’une terre avilie,</l>
+<l>Je consolais ma pensée ennoblie,</l>
+<l>En la tournant vers ces climats heureux,</l>
+<l>Qui présentaient à mon cœur, à mes vœux,</l>
+<l>La liberté, ma maîtresse chérie.</l>
+<l>Je m’étais fait Anglais, faute de mieux.</l>
+<l>Ou bien, par fois, rêveur, silencieux,</l>
+<l>Je saluais les monts de l’Helvétie,</l>
+<pagenum num="145"/>
+<l>Cherchant des yeux, dans le simple Apenzel,</l>
+<l>L’Égalité, cette fille du ciel,</l>
+<l>Faite pour l’homme et par l’homme haïe :</l>
+<l>Péché d’orgueil que son malheur expie.</l>
+<vsep class="dots"/>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p11">CALCUL PATRIOTIQUE.</h2>
+
+<l>Cent mille écus pour la justice !</l>
+<l>Deux cents pour la religion !</l>
+<l>Prêtres, juges, la nation</l>
+<l>Surpaie un peu votre service.</l>
+<l>Mais aussi, vous craignez, dit-on,</l>
+<l>Qu’habilement on ne saisisse</l>
+<l>Cette attrayante occasion</l>
+<l>D’opérer, par suppression</l>
+<l>De maint office et bénéfice,</l>
+<l>Quelque bonification :</l>
+<l>Et vraiment, vous avez raison,</l>
+<l>Plaise au ciel qu’on y réussisse !</l>
+<l>Croire et plaider sont deux impôts</l>
+<l>Que tout peuple met sur lui-même ;</l>
+<l>Aux dépens des heureux travaux</l>
+<l>De Bacchus et de Triptolême ;</l>
+<l>Croire et plaider sont deux besoins</l>
+<l>De notre mince et folle espèce,</l>
+<l>Que la France, dans sa détresse,</l>
+<l>Tâche de satisfaire à moins.</l>
+<l>De nos jours la philosophie</l>
+<l>A porté quelqu’économie</l>
+<pagenum num="146"/>
+<l>Dans la dépense du chrétien.</l>
+<l>Mettons de côté l’autre vie :</l>
+<l>Ce qu’on perd en théologie,</l>
+<l>En finance on le gagne bien.</l>
+<l>L’américaine prud’hommie</l>
+<l>Croit très-peu pour ne payer rien.</l>
+<l>Que dites-vous de ce moyen ?</l>
+<l>Il est bien fort pour ma patrie ;</l>
+<l>Mais elle y viendra, je parie.</l>
+<l>En attendant un si grand bien,</l>
+<l>Je me console, en citoyen,</l>
+<l>Des malheurs de la sacristie.</l>
+<l>Courage ! allons, mes chers Français,</l>
+<l>Méritez un second succès :</l>
+<l>Attaquez cette autre manie :</l>
+<l>Émondez l’arbre des procès ;</l>
+<l>Et mettant de même au rabais</l>
+<l>De <i>messieurs</i> l’avare industrie :</l>
+<l>Économisez sur les frais</l>
+<l>De la seconde maladie,</l>
+<l>Dont nous ne guérissons jamais.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p12">LA VRAIE SAGESSE.</h2>
+
+<l>C’est encor parmi nous un grand bien d’être sage ;</l>
+<l>Il en faut convenir ; mais ce bonheur si doux,</l>
+<l>Chez les Grecs autrefois l’était bien davantage :</l>
+<l>Il laissait partager tous les plaisirs des fous.</l>
+<l>L’ivresse de Bacchus, une plus douce ivresse,</l>
+<l>Chez ce peuple charmant, moins ennuyé que nous,</l>
+<pagenum num="147"/>
+<l>Était le prix de la sagesse.</l>
+<l>Mais ne serait-ce point la sagesse en effet ?</l>
+<l>Et pourquoi non ? Consultons les sept sages :</l>
+<l>Leur nom, sans leurs plaisirs, eût péri tout à fait.</l>
+<l>N’avons-nous pas oublié net</l>
+<l>Et leurs écrits et leurs ouvrages ?</l>
+<l>On parle encor de leur banquet.</l>
+<l>Socrate qui le remarquait,</l>
+<l>Un jour alla chez Aspasie,</l>
+<l>Qui ne voulait jamais être que son amie.</l>
+<l>Il entre : elle brodait, dans ce goût élégant,</l>
+<l>Que la mode aujourd’hui parmi nous renouvèle,</l>
+<l>Car la Grèce est toujours en tout notre modèle.</l>
+<l>« Hé bien ! dit-il en s’approchant,</l>
+<l>Serez-vous donc toujours la même ?</l>
+<l>Rien que de l’amitié ! quoi ! jamais rien de plus ?</l>
+<l>Et d’autres vœux jamais ne seront entendus !</l>
+<l>Quoi ! n’être que l’ami de l’objet que l’on aime !</l>
+<l>Encor si votre cœur savait, ainsi que nous,</l>
+<l>Mêler à l’amitié des mouvemens plus doux !</l>
+<l>Car toujours dans notre âme un grain de convoitise</l>
+<l>Assaisonne, quoiqu’on en dise,</l>
+<l>Cette pure amitié que nous avons pour vous ?</l>
+<l>Vous paraissez rêveuse, et vos regards baissés</l>
+<l>Sur le canevas sont fixés :</l>
+<l>Parlez, daignez au moins m’apprendre</l>
+<l>Pour quel heureux mortel vos mains, dans ce moment...</l>
+<l>— Pour qui ? dit Aspasie avec étonnement.</l>
+<l>Eh ! mais... en vérité... je ne puis vous comprendre ;</l>
+<l>C’est pour... — Hé bien ? — Pour un de mes amis.</l>
+<l>— Pour un de vos amis ! Achevez de m’instruire,</l>
+<l>Dit Socrate avec un souris ?</l>
+<pagenum num="148"/>
+<l>Parlez. — Eh bien ! c’est vous, puisqu’il faut vous le dire . »</l>
+<l>Le philosophe, au comble de ses vœux,</l>
+<l>Sentit... que sais-je, moi ! ce que l’amour inspire,</l>
+<l>Quand, par bonheur pour lui, le sage est amoureux.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p13">LA JOUISSANCE TARDIVE.</h2>
+
+<l>Je te disais : « Cloé, prends mes leçons, prends-moi ;</l>
+<l>Tu ris : de nos beaux jours il n’est qu’un seul emploi ;</l>
+<l>Use de ton printemps : chasteté, c’est vieillesse,</l>
+<l>Pour les femmes surtout. » Cloé ne m’a point cru ;</l>
+<l>Les roses de son teint, hélas ! ont disparu :</l>
+<l>Elle connaît l’erreur de sa triste sagesse.</l>
+<l>Moins belle et plus sensible, au midi de ses ans,</l>
+<l>Elle ressent l’injure et le bienfait du temps.</l>
+<l>Elle gagne, elle perd, et compte avec son âge.</l>
+<l>Plus de fête : elle fuit les vains amusemens ;</l>
+<l>Il lui faut des plaisirs et non des passe-temps.</l>
+<l>Le passe-temps l’ennuie, un soupir la soulage ;</l>
+<l>Pensive, son miroir, moins entouré d’amans,</l>
+<l>Lui parle du passé, lui dit : « C’est bien dommage ! »</l>
+<l>Un désir inquiet le lui dit davantage.</l>
+<l>J’ai vu tomber sur moi ses regards languissans.</l>
+<l>J’ignore si je plais ; je vois que j’intéresse :</l>
+<l>Sa longue indifférence est un poids qui l’oppresse.</l>
+<l>A mes vœux négligés elle accorde un regret,</l>
+<l>Ses sens aident son cœur à trahir son secret ;</l>
+<l>Son repentir tardif ressemble à la tendresse.</l>
+<l>« Ma Cloé, jouissons : près de toi ranimé,</l>
+<l>Mon cœur, mes souvenirs te rendent ta jeunesse ;</l>
+<l>Donne-moi ce que j’aime, ou bien ce que j’aimai. »</l>
+
+<pagenum num="149"/>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p14">PARIS JUSTIFIÉ.</h2>
+
+<l>C’est toi, c’est ta funeste flâme,</l>
+<l>Disait Anténor à Pâris,</l>
+<l>Qui va mettre en cendre Bergame,</l>
+<l>Et rougir de sang ses débris.</l>
+<l>Quand de trois déesses rivales,</l>
+<l>L’une offre à tes vœux la grandeur,</l>
+<l>L’autre des palmes triomphales,</l>
+<l>Et la sagesse et le bonheur :</l>
+<l>C’est Vénus que tu leur préfères !</l>
+<l>De ses promesses mensongères</l>
+<l>Hélène est le gage imposteur !</l>
+<l>La jouissance d’une belle,</l>
+<l>Arbitre insensé, valait-elle</l>
+<l>La sagesse ou la royauté ?</l>
+<l>— Oui, répond Paris irrité ;</l>
+<l>Croyons-en les trois immortelles,</l>
+<l>Qui, dans leurs jalouses querelles,</l>
+<l>Ne s’enviaient que la beauté.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p15">LE PEINTRE D’HISTOIRE.</h2>
+
+<l>Pour la première fois la jeune Agnès aimait,</l>
+<l>Elle veut régaler Damis de son portrait :</l>
+<l>Elle grimpe au grenier d’un successeur d’Apelle,</l>
+<l>Qui, la trouvant si belle,</l>
+<pagenum num="150"/>
+<l>Croit dans son atelier voir le séjour des dieux.</l>
+<l>Son âme tout entière a passé dans ses yeux.</l>
+<l>Il admire, il soupire, il s’écrie : « Ah, la peste !</l>
+<l>Qu’on va faire de vous un portrait séduisant ;</l>
+<l>Mais, plaignez-moi, je peins l’histoire seulement !</l>
+<l>— Hé, mon Dieu ! dit Agnès, qui me peindra le reste ?</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p16">LE CALCUL.</h2>
+
+<l>Une prêtresse de l’Amour,</l>
+<l>Soupant chez Quincy, l’autre jour,</l>
+<l>Vantait d’un ton de pruderie</l>
+<l>Et sa constance et ses beaux sentimens.</l>
+<l>J’ai, dit-elle, cédé quelquefois dans ma vie ;</l>
+<l>Mais tout le monde ici peut compter mes amans.</l>
+<l>— Oui, lui répond Quincy ; le calcul est facile ;</l>
+<l>Qui ne sait compter jusqu’à mille ?</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p17">LE PRONOM INDISCRET.</h2>
+
+<l>Sur un homme à bonne fortune</l>
+<l>Quelques femmes s’entretenaient,</l>
+<l>Et presque toutes soutenaient</l>
+<l>Que de ses maîtresses pas une</l>
+<l>N’avait possédé tout un jour</l>
+<l>Son cœur, ses sens et son amour.</l>
+<l>Une enfin, prenant sa défense,</l>
+<l>Dit : « Je crois pouvoir, dieu merci !</l>
+<pagenum num="151"/>
+<l>Vous éclairer sur ce point-ci,</l>
+<l>Sans redouter la médisance :</l>
+<l>Chacun dans Paris me connaît.</l>
+<l>On sait quelle est ma répugnance</l>
+<l>Pour un semblable freluquet.</l>
+<l>Mais, tout fat et fripon qu’il est,</l>
+<l>Je puis jurer, en conscience</l>
+<l>(Et le fait est des plus certains,</l>
+<l>De sa maîtresse je le tiens),</l>
+<l>Qu’au moins une fois en sa vie,</l>
+<l>Il sut aimer solidement :</l>
+<l>Sa maîtresse était mon amie ;</l>
+<l>Elle m’a tout dit franchement.</l>
+<l>Un matin chez elle en entrant,</l>
+<l>Moitié transport, moitié folie,</l>
+<l>De cet air vif et séduisant</l>
+<l>Dont il subjugua tant de femmes,</l>
+<l>Entre ses bras il la saisit,</l>
+<l>Et la transporta sur son lit :</l>
+<l>Mêmes feux consumaient leurs âmes ;</l>
+<l>Ils éprouvaient mêmes désirs ;</l>
+<l>Et là, dans des flots de plaisirs,</l>
+<l>Trois jours entiers <i>nous</i> demeurâmes.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p18">LE CALENDRIER DES JÉSUITES.</h2>
+
+<l>Fiers rejetons du fameux Loyola,</l>
+<l>Dont Port-Royal a foudroyé l’école ;</l>
+<l>Vous que jadis sans cesse harcela</l>
+<l>Le grand Pascal, étayé par Nicole ;</l>
+<pagenum num="152"/>
+<l>Vous, qui, de Rome usant les arsenaux,</l>
+<l>Fîtes frapper du fatal anathême,</l>
+<l>Pour soutenir votre lâche systême,</l>
+<l>Les Augustins sous le nom des Arnaud ;</l>
+<l>Vous, dont Quesnel, digne fils de Bérule,</l>
+<l>A tant de fois éprouvé la férule,</l>
+<l>Et qui, voyant dans ses puissans écrits</l>
+<l>De Molina les sentimens proscrits,</l>
+<l>Contre son livre, au benin Clément Onze,</l>
+<l><correction original="Fites">Fîtes</correction> pointer le redoutable bronze ;</l>
+<l>Vous, qui dans Chine alliez à la fois</l>
+<l>Confucius et Dieu mort sur la croix,</l>
+<l>Et dont le culte équivoque et commode</l>
+<l>Rapporte à Dieu celui d’une pagode ;</l>
+<l>De la morale éternels corrupteurs,</l>
+<l>Qui du salut élargissez la voie ;</l>
+<l>Et qui, guidant, par des chemins de fleurs,</l>
+<l>Les pénitens que le ciel vous envoie,</l>
+<l>Au champ de Dieu ne semez que l’ivraie ;</l>
+<l>Des grands du siècle adroits adulateurs ;</l>
+<l>Vils artisans de mensonge et de fourbe ;</l>
+<l>De qui le dos sous l’iniquité courbe ;</l>
+<l>Qui, démasqués et partout reconnus,</l>
+<l>Êtes pourtant partout les bien venus</l>
+<l>(Car il n’est lieu de l’un à l’autre pôle</l>
+<l>Où, dieu merci, n’ayez le premier rôle),</l>
+<l>Dites-nous donc par quel puissant moyen</l>
+<l>Vous trouvez l’art d’en imposer aux autres,</l>
+<l>Et de coiffer la mître des apôtres</l>
+<l>Chez l’infidèle et le peuple chrétien ?</l>
+<l>Si l’on en croit vos longs martyrologes,</l>
+<l>Où le mensonge a tracé vos éloges,</l>
+<pagenum num="153"/>
+<l>L’Inde rougit du sang de vos martyrs ;</l>
+<l>Sur un trépied vous rendez des oracles ;</l>
+<l>Et le payen, avide de miracles,</l>
+<l>Les voit éclore au gré de ses désirs ;</l>
+<l>L’avide mort, au teint livide et blême,</l>
+<l>Lâche sa proie à votre voix suprême ;</l>
+<l>Par vous le sang qu’elle a coagulé,</l>
+<l>Dans les vaisseaux a de nouveau coulé ;</l>
+<l>A l’ordre seul d’un petit thaumaturge,</l>
+<l>L’air de vapeurs ou se charge ou se purge ;</l>
+<l>Et vous avez à vos commandemens</l>
+<l>Le vent, la foudre et tous les élémens.</l>
+<l>A ce propos, on m’a fait certain conte,</l>
+<l>Mes révérends, qu’il faut que je vous conte :</l>
+<l>De vers Golgonde, où la terre en son sein,</l>
+<l>De ses sablons forme la reine pierre,</l>
+<l>Dont le poli réfléchit la lumière</l>
+<l>En cent façons, était un jeune essain</l>
+<l>D’Ignaciens, qui, dans l’âme indienne,</l>
+<l>Allait, Dieu sait, plantant la foi chrétienne.</l>
+<l>Tous les beaux fils qu’a l’Inde sur son bord,</l>
+<l>Étaient par eux catéchisés d’abord ;</l>
+<l>Les cordeliers qu’ils avaient pour annexe,</l>
+<l>De leur côté baptisaient le beau sexe.</l>
+<l>Tout allait bien ; et leur apostolat</l>
+<l>Fructifiait, moyennant ce partage :</l>
+<l>Si que de Dieu le nouvel héritage</l>
+<l>Allait croissant avec beaucoup d’éclat.</l>
+<l>Là, le démon, qu’en figure de bronze,</l>
+<l>Fait adorer l’ignorance du bonze,</l>
+<l>Grâces aux fils d’Ignace et de François,</l>
+<l>Allait perdant tous les jours de ses droits.</l>
+<pagenum num="154"/>
+<l>L’Ignacien, à ces nouvelles plantes,</l>
+<l>Distribuait les grâces suffisantes,</l>
+<l>Si largement que l’efficace là</l>
+<l>Glanait après les fils de Loyola</l>
+<l>Petitement. Quoiqu’il en soit, les drôles,</l>
+<l>Par maints bons tours, maintes belles paroles,</l>
+<l>Passaient pour saints, se faisaient vénérer</l>
+<l>Du peuple indien qu’ils savaient attirer.</l>
+<l>Le bruit en vint jusqu’au roi de Golgonde ;</l>
+<l>Ce prince était un vieux payen fieffé,</l>
+<l>Qui de son diable était si fort coiffé,</l>
+<l>Qu’il n’encensait que cet esprit immonde ;</l>
+<l>Il voulait voir des apôtres nouveaux,</l>
+<l>Que de son diable on disait les rivaux.</l>
+<l>Bien croyait-il entendre des oracles,</l>
+<l>Et comme Hérode aller voir des miracles.</l>
+<l>Nos révérends, le crucifix en main,</l>
+<l>Lui prêchent Dieu mort pour le genre humain,</l>
+<l>En déclamant contre le simulacre</l>
+<l>De Satanas. Le roi, dont la bile acre</l>
+<l>Jà s’échauffait à leur beau plaidoyer,</l>
+<l>Leur dit : « Messieurs, quand aux dieux on insulte,</l>
+<l>Et qu’on annonce un si singulier culte,</l>
+<l>Encor faut-il de preuves l’étayer ?</l>
+<l>Depuis six mois la sécheresse afflige</l>
+<l>Tout mon royaume ; et votre zèle exige</l>
+<l>Que de ce Dieu vous obteniez de l’eau.</l>
+<l>Si dans trois jours vous n’en faites répandre,</l>
+<l>Comme imposteurs je vous ferai tous pendre ;</l>
+<l>Pensez-y bien. » Nos frocards eurent beau</l>
+<l>Représenter à l’absolu monarque</l>
+<l>Que ce serait tenter le Tout-Puissant :</l>
+<l>« Nous connaîtrons, dit-il, à cette marque,</l>
+<pagenum num="155"/>
+<l>S’il est le Dieu sur la terre agissant. »</l>
+<l>Force fut donc aux moines de promettre,</l>
+<l>Sauf à tenter l’avis du baromètre,</l>
+<l>Qui, consulté par eux tous les instans,</l>
+<l>Ne répondait jamais que du beau temps.</l>
+<l>Tous de concert allaient plier bagage,</l>
+<l>Pour le martire éprouvant peu d’attraits,</l>
+<l>Quand un frater qu’ils laissaient là pour gage,</l>
+<l>Et qui pour eux aurait payé les frais,</l>
+<l>D’un tel départ leur demanda la cause.</l>
+<l>« Las ! dirent-ils, le prince nous propose</l>
+<l>De décorer nos collets de la hard,</l>
+<l>S’il ne pleut pas dans trois jours au plus tard.</l>
+<l>— Quoi ! voilà tout ? Allez, reprit le frère,</l>
+<l>Par Loyola, patron du monastère,</l>
+<l>Dites au roi que dès demain matin</l>
+<l>Nous en aurons, ou j’y perds mon latin. »</l>
+<l>Pas ne mentait notre moderne Élie :</l>
+<l>Du sein des mers un nuage élevé,</l>
+<l>A point nommé, de sa féconde pluie,</l>
+<l>Vit du pays chaque champ abreuvé.</l>
+<l>Et de crier en Golgonde au miracle !</l>
+<l>Et de donner le bon frère en spectacle !</l>
+<l>Puis dit tout bas à nos moines joyeux :</l>
+<l>« Mes révérends, si j’ai tenu parole,</l>
+<l>Vous le devez à certaine vérole</l>
+<l>Qu’exprès pour vous me conservaient les cieux.</l>
+<l>Toutes les fois que l’atmosphère aride</l>
+<l>Va condensant de nouvelles vapeurs,</l>
+<l>L’air surchargé de l’élément humide</l>
+<l>Ne manque pas de doubler mes douleurs. »</l>
+<l>On n’en dit mot à messieurs de Golgonde,</l>
+<pagenum num="156"/>
+<l>Dans le pays il resta constaté</l>
+<l>Que ce n’était qu’un fruit de sainteté,</l>
+<l>Et non celui de cette peste immonde</l>
+<l>Dont le pénard se trouvait infecté.</l>
+<l>Puisque le bien naît ainsi du désordre,</l>
+<l>Que le bon Dieu la conserve à tout l’ordre !</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p19">LE SAUT DE LA SOUPENTE.</h2>
+
+<l>Dans le lit nuptial, après maintes façons,</l>
+<l>Au pouvoir d’un lourdaut Perrette abandonnée,</l>
+<l>S’attendait aux plaisirs que promet l’hyménée ;</l>
+<l>Car, malgré l’innocence, on a certains soupçons :</l>
+<l>On pleure, on crie, on se lamente</l>
+<l>Au moindre mouvement que veut faire un époux ;</l>
+<l>Mais s’il laissait en paix reposer l’innocente,</l>
+<l>Ce serait bien autre peine entre nous.</l>
+<l>Témoin notre épouse nouvelle,</l>
+<l>Modestement tapie au bord de la ruelle,</l>
+<l>Dans le ferme projet de faire le dragon,</l>
+<l>Si Blaise seulement lui prenait le menton,</l>
+<l>Et qui voyant le discret personnage,</l>
+<l>A l’autre bord du lit établir son quartier,</l>
+<l>Ne put tenir son fier, et le cœur plein de rage,</l>
+<l>Venait, aventurant près du sot écolier,</l>
+<l>D’abord un bras, un pied, puis le corps tout entier.</l>
+<l>Point n’entendait le pauvre sire</l>
+<l>Ce que voulait l’Amour et permettait l’Hymen,</l>
+<l>Ce que sa femme voulait dire,</l>
+<l>En lui serrant les genoux et la main :</l>
+<pagenum num="157"/>
+<l>Il allait s’endormir, lorsque notre épousée</l>
+<l>Prit le parti, de crainte d’accident,</l>
+<l>De s’expliquer, sans doute en bégayant.</l>
+<l>(Car enfin, femme encor doit être embarrassée).</l>
+<l>« Eh bian ! que ferions-nous... là... pour rire un instant ?</l>
+<l>Qu’en dis-tu, Blaise ? — Oh oui ; c’est fort bien dit, voirment.</l>
+<l>Eh bian ! voyons : queu divertissement ?...</l>
+<l>Un jour de noce il faut une fête complette ;</l>
+<l>Allons... » Et de sauter du lit de la pauvrette.</l>
+<l>« Où cours-tu ?...Laisse-moi. Mais encore... quel sot !..</l>
+<l>— J’ons des pommes dans la soupente,</l>
+<l>Tu les aimes, j’y vole, et tu seras contente :</l>
+<l>Vois-tu, j’entends à demi mot. »</l>
+<l>Notre benêt monte à l’échelle ;</l>
+<l>Sa femme furieuse est bientôt sur ses pas,</l>
+<l>Tire d’abord l’échelle à bas :</l>
+<l>« Charche ; nigaud ; charche, dit-elle ; »</l>
+<l>Et puis se remet dans ses draps.</l>
+<l>Un bon vivant, sûr de plaire à la belle,</l>
+<l>Qui, pour se divertir un peu,</l>
+<l>S’était caché dans la ruelle,</l>
+<l>Voyant qu’Amour lui faisait si beau jeu,</l>
+<l>Sort brusquement de sa cachette,</l>
+<l>Se glisse au lit de la fillette,</l>
+<l>Et d’un baiser vous accole Perrette ;</l>
+<l>« Paix, dit-il, paix ! c’est Lucas ;</l>
+<l>A mes transports ne te dérobe pas ;</l>
+<l>C’est un bon compagnon, un amant qui remplace</l>
+<l>Un mari sot et tout de glace. »</l>
+<l>Perrette volontiers aurait fait les hauts cris ;</l>
+<l>Mais elle eut éveillé sa mère</l>
+<l>Qui couchait, voyez-vous, dans le même taudis.</l>
+<pagenum num="158"/>
+<l>Le plus prudent était donc de se taire,</l>
+<l>- Et Perrette se tut. Perrette se taisant,</l>
+<l>Lucas va son chemin, Lucas marche en avant ;</l>
+<l>Et tandis que, bloti dans sa soupente,</l>
+<l>Ne pensant pas à son malheur,</l>
+<l>L’époux cherche des fruits, l’amant cueille une fleur</l>
+<l>Qu’avec ravissement lui cède son amante.</l>
+<l>La bonne mère aux écoutes était :</l>
+<l>« Eh mais ! pas trop mal ce me semble ;</l>
+<l>Blaise n’est pas si sot qu’on le contait,</l>
+<l>En besogne il va tout fin droit ;</l>
+<l>Pour ma fille plus je ne tremble ;</l>
+<l>De ce train-là, tredame, y moudront bien ensemble.</l>
+<l>— Bon, disait-elle, au plus faible soupir</l>
+<l>Que l’Amour arrachait à Lucas, à Perrette ;</l>
+<l>Au moindre bruit de la couchette.</l>
+<l>— Bon, toujours bon... queu noce ! queu plaisir !</l>
+<l>Et puis, ma fille est raisonnable ;</l>
+<l>Y sont fort bian sur ce ton-là,</l>
+<l>Il est pressant, elle est traitable,</l>
+<l>Y ne disont plus rian... ma fi, les y voilà. »</l>
+<l>Bien juste au fond pensait la bonne dame ;</l>
+<l>Précisément l’affaire en était-là.</l>
+<l>Mais l’époux n’avait part à ce grand opéra,</l>
+<l>Le benêt ramassait des pommes à sa femme.</l>
+<l>Chargé comme un mulet, enfin le bon chrétien</l>
+<l>Cherche l’échelle et ne trouve plus rien.</l>
+<l>Il appelle Perrette, et puis sa belle mère ;</l>
+<l>Perrette ne dit mot, fait sortir son galant ;</l>
+<l>Mais ardente à savoir tout le fond de l’affaire,</l>
+<l>La bonne mère, hélas ! qui croit chacun content,</l>
+<l>A son beau fils répond en demandant :</l>
+<pagenum num="159"/>
+<l>« Quelle nouvelle... est-tu bien là, mon gendre ?</l>
+<l>— Oh ! palsanguienne, en vérité,</l>
+<l>J’y suis monté ;</l>
+<l>Mais je ne sais comment descendre.</l>
+<l>— Eh ! glisse-toi, nigaud, sur le côté.</l>
+<l>— Sur le côté ?... voirment, voilà tout le mystère,</l>
+<l>Grand merci... Pa-ta-tra, mon benêt tombe à terre. »</l>
+<l>Au bruit de cette chûte, aux cris de mon lourdaut,</l>
+<l>Mère effrayée, et fille en peine,</l>
+<l>Du lit à bas ne font qu’un saut,</l>
+<l>Et vont, sans savoir où, comme la peur les mène.</l>
+<l>Une lumière enfin vient les rassembler tous,</l>
+<l>Et montre à la mère étonnée,</l>
+<l>Blaise étendu loin du lit d’hyménée,</l>
+<l>Et tombé de plus haut que ne tombe un époux.</l>
+<l>« Eh mais, lui dit la mère impatiente,</l>
+<l>Quel saut as-tu donc fait ?... — Le saut de la soupente. »</l>
+<l>La mère regarda Perrette et la comprit ;</l>
+<l>Femmes ont pour s’entendre un merveilleux esprit ;</l>
+<l>Et l’époux seul, plus sot que d’ordinaire,</l>
+<l>Froissé, raillé, trompé, fut se remettre au lit,</l>
+<l>Sans rien comprendre à cette affaire.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p20">LE LINCEUL DU PÉLERIN.</h2>
+
+<l>Hélène, de pleurs inondée,</l>
+<l>Songeait au courageux Mainfroi,</l>
+<l>Qui, dans les champs de la Judée,</l>
+<l>Combattait au nom de la foi.</l>
+<pagenum num="160"/>
+<l>« Dût ma funeste impatience,</l>
+<l>Disait-elle, aggraver mon sort,</l>
+<l>Dieux qui m’enviez sa présence,</l>
+<l>Rendez-le moi vivant ou mort.</l>
+<l>Beau manoir, opulens domaines,</l>
+<l>Présens que m’a fait son amour,</l>
+<l>Côteaux rians, fertiles plaines,</l>
+<l>Que j’aperçois de cette tour,</l>
+<l>Ne m’étalez point vos richesses</l>
+<l>S’il ne doit plus les partager ;</l>
+<l>De ses regards, de ses caresses,</l>
+<l>Pouvez-vous me dédommager ? »</l>
+<l>La nuit allait couvrir la terre.</l>
+<l>Enveloppé d’un noir manteau,</l>
+<l>Un pélerin, au front sévère,</l>
+<l>Aborde un page du château :</l>
+<l>— « Page, va dire à ta maîtresse,</l>
+<l>Un pélerin daignez ouir ;</l>
+<l>De l’objet qui vous intéresse</l>
+<l>Il voudrait vous entretenir.</l>
+<l>— Bon pélerin, à mon veuvage,</l>
+<l>Quelle allégeance apportez-vous ?</l>
+<l>— J’ai vu l’Iduméen rivage,</l>
+<l>J’ai vu combattre votre époux.</l>
+<l>— Ah ! rendez la paix à mon âme ;</l>
+<l>Quand finiront tous ces combats ?</l>
+<l>— Votre époux le sait, noble dame,</l>
+<l>Mieux que personne d’ici bas.</l>
+<l>— Oh ! combien de flèches aigues</l>
+<l>Ont dû l’atteindre et le blesser !</l>
+<l>— Les blessures qu’il a reçues,</l>
+<l>Jà n’est besoin de les panser.</l>
+<pagenum num="161"/>
+<l>— Mais d’où vient, parlez-moi sans feinte,</l>
+<l>Ne m’apportez-vous de sa part,</l>
+<l>Ni vrai morceau de la croix sainte,</l>
+<l>Ni perles fines, ni brocard ?</l>
+<l>— Je n’ai brocard, ni perle fine ;</l>
+<l>Tout ce que j’ai pour vous, hélas !</l>
+<l>C’est qu’aux champs de la Palestine</l>
+<l>Votre époux attend le trépas.</l>
+<l>A ces mots, Hélène éperdue</l>
+<l>Remplit le château de ses cris ;</l>
+<l>Les pleurs ont obscurci sa vue,</l>
+<l>La douleur trouble ses esprits.</l>
+<l>— « Oh, pélerin ! malheur t’advienne,</l>
+<l>Pour m’avoir dit ces mots affreux !</l>
+<l>Mais ne vas pas penser qu’Hélène</l>
+<l>Demeure oisive dans ces lieux.</l>
+<l>Dût ma funeste impatience</l>
+<l>Aggraver l’horreur de mon sort,</l>
+<l>Je jouirai de la présence</l>
+<l>De mon époux vivant ou mort.</l>
+<l>Page chéri, je t’en conjure,</l>
+<l>Cherche-moi, dans tout le canton,</l>
+<l>D’un pélerin l’humble chaussure,</l>
+<l>La robe grise et le bourdon.</l>
+<l>Que ces réseaux d’or et de soie,</l>
+<l>Ces franges, ces rubans, ces fleurs,</l>
+<l>Tous ces atours faits pour la joie,</l>
+<l>Cessent d’insulter à mes pleurs.</l>
+<l>Coupe ma longue chevelure,</l>
+<l>Prends mon collier, prends mes bijoux,</l>
+<l>Quelque fatigue que j’endure,</l>
+<l>Je veux aller voir mon époux.</l>
+<pagenum num="162"/>
+<l>Dût ma funeste impatience</l>
+<l>Aggraver l’horreur de mon sort,</l>
+<l>Je veux jouir de sa présence,</l>
+<l>Et l’embrasser vivant ou mort. »</l>
+<l>Étonné d’un amour si tendre,</l>
+<l>Le pélerin lui dit : « Restez,</l>
+<l>Restez, de grâce ; et pour m’entendre,</l>
+<l>Calmez vos sens trop agités :</l>
+<l>« Porte mes adieux à ma femme,</l>
+<l>« Me dit votre époux expirant ;</l>
+<l>« L’instant d’après il rendit l’âme,</l>
+<l>« Cet anneau d’or est mon garant.</l>
+<l>— « Comment, ô ciel ! le méconnaître ?</l>
+<l>Il vient de moi cet anneau d’or,</l>
+<l>Il n’aurait pas changé de maître,</l>
+<l>Si mon époux vivait encor.</l>
+<l>Mais que cette douceur dernière</l>
+<l>Aggrave ou non mon triste sort :</l>
+<l>Je n’ai pu fermer sa paupière ;</l>
+<l>Je veux le voir après sa mort.</l>
+<l>— Abjure un projet inutile.</l>
+<l>En vain ton cœur brûlant d’amour</l>
+<l>Presserait son cœur immobile ;</l>
+<l>Tu ne saurais le rendre au jour.</l>
+<l>Vas, songe à conserver tes charmes ;</l>
+<l>A ton destin résigne toi ;</l>
+<l>Ne gémis plus, séche tes larmes ;</l>
+<l>Chacun est ici bas pour soi.</l>
+<l>— Respectez ma douleur amère ;</l>
+<l>Cruel, ne m’opposez plus rien.</l>
+<l>Dussé-je accroître ma misère,</l>
+<l>J’irai voir mon unique bien. »</l>
+<pagenum num="163"/>
+<l>Après un moment de silence,</l>
+<l>« Ma fille, dit le pélerin,</l>
+<l>Tu peux jouir de sa présence,</l>
+<l>Sans aller au bord du Jourdain.</l>
+<l>— Parle, ô mon ange tutélaire !</l>
+<l>Fais qu’il paraisse devant moi !</l>
+<l>Mon or, mes joyaux, mon douaire,</l>
+<l>Toute ma fortune est à toi. »</l>
+<l>L’étranger, fourbe autant qu’avare,</l>
+<l>Un livre ouvert devant ses yeux,</l>
+<l>Feint de lire un jargon barbare</l>
+<l>Des secrets émanés des cieux.</l>
+<l>— De ton époux l’ombre fidèle</l>
+<l>En ces lieux erre nuitamment.</l>
+<l>Mais la terreur marche avec elle ;</l>
+<l>Un linceul est son vêtement.</l>
+<l>— N’importe, exauce ma prière.</l>
+<l>Ah ! dussé-je aggraver mon sort ;</l>
+<l>Je n’ai pu fermer sa paupière,</l>
+<l>Je veux le voir après sa mort.</l>
+<l>— Ce soir il promet d’apparaître</l>
+<l>Où sont inhumés tes vassaux.</l>
+<l>Cours aux pieds du souverain maître,</l>
+<l>Former des vœux pour son repos.</l>
+<l>Quand la nuit deviendra plus sombre,</l>
+<l>Parmi ces tombeaux vas t’asseoir,</l>
+<l>Et sans approcher de son ombre,</l>
+<l>Qu’il te suffise de la voir. »</l>
+<l>Dans sa chapelle solitaire,</l>
+<l>Long-temps Hélène, avec ferveur,</l>
+<l>Compte les grains de son rosaire,</l>
+<l>Ou s’abandonne à sa douleur.</l>
+<pagenum num="164"/>
+<l>Puis d’un fol espoir abusée,</l>
+<l>Au souffle d’un vent glacial,</l>
+<l>Les cheveux baignés de rosée,</l>
+<l>Elle arrive à l’enclos fatal.</l>
+<l>L’astre des nuits éclaire à peine</l>
+<l>La cime de ces vieux ormeaux ;</l>
+<l>On n’entend au loin dans la plaine</l>
+<l>Que le bruit du vent et des eaux ;</l>
+<l>Et dans un coin du cimetière,</l>
+<l>Hélène qui répète encor :</l>
+<l>« Je n’ai pu fermer ta paupière ;</l>
+<l>Je viens te voir après ta mort. »</l>
+<l>A vingt pas d’elle se présente</l>
+<l>Un fantôme vêtu de blanc ;</l>
+<l>Elle pousse un cri d’épouvante,</l>
+<l>Et tombe morte au même instant.</l>
+<l>Le pélerin (que Dieu punisse)</l>
+<l>Jette le linceul imposteur,</l>
+<l>Et maudissant son avarice,</l>
+<l>S’enfonce un poignard dans le cœur.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p21">L’ARMEMENT INUTILE.</h2>
+
+<l>Maître Gaspard, marchand et marguillier,</l>
+<l>A cinquante ans désirant faire souche,</l>
+<l>Prit jeune femme l’an dernier,</l>
+<l>Digne en tout point de l’honneur de sa couche.</l>
+<l>Gertrude était son nom, elle avait mille attraits,</l>
+<l>Œil bien fendu, petite bouche,</l>
+<l>Les dents d’ivoire, le teint frais ;</l>
+<pagenum num="165"/>
+<l>Gaspard ayant de la bourgeoise garde</l>
+<l>Été sergent, en certain coin</l>
+<l>Conservait avec soin</l>
+<l>Sa vieille épée avec sa hallebarde ;</l>
+<l>Et quand il se trouvait les soirs de bonne humeur,</l>
+<l>A sa femme il racontait comme,</l>
+<l>En telle année, il avait eu l’honneur</l>
+<l>De garder le logis de tel ou tel seigneur ;</l>
+<l>Que dans son temps il était très-bel homme,</l>
+<l>Mais qu’il paraissait bien plus beau,</l>
+<l>Quand il avait cocarde à son chapeau.</l>
+<l>Dans la ville, par aventure</l>
+<l>Revient un jeune jouvenceau,</l>
+<l>Leste, bien fait, et d’aimable figure,</l>
+<l>L’œil tendre, et pourtant un peu fier ;</l>
+<l>Bref, il était d’une tournure</l>
+<l>A réchauffer les cœurs, même au sein de l’hiver :</l>
+<l>De plus il était militaire.</l>
+<l>Il vit Gertrude, et bientôt les désirs</l>
+<l>Vont leur train ; et suivant la coutume ordinaire,</l>
+<l>Par tendres regards, doux soupirs,</l>
+<l>Il fait ses efforts pour lui plaire ;</l>
+<l>Il fait plus : certain soir, il la trouve à l’écart ;</l>
+<l>Il dit que, par l’amour percé de part en part,</l>
+<l>Il va mourir, si la belle ne cède,</l>
+<l>Et ne lui donne un doux et prompt remède.</l>
+<l>Avec courroux la belle entend son cas ;</l>
+<l>En vain lui plaît le personnage ;</l>
+<l>Vertu de femme aime à faire fracas ;</l>
+<l>Et puis déjà j’ai dit qu’elle était sage :</l>
+<l>« Allez, monsieur, n’espérez pas</l>
+<l>Qu’à mon mari je fasse un tel outrage ;</l>
+<pagenum num="166"/>
+<l>Apprenez que, depuis que je suis en ménage,</l>
+<l>Mon honneur n’a jamais fait le moindre faux-pas. »</l>
+<l>Le drôle ne perd point courage ;</l>
+<l>Il sait que des femmes l’honneur</l>
+<l>Est un brouillard, une vapeur,</l>
+<l>Qui sur la mer des préjugés s’élève,</l>
+<l>Et se dissipe à la chaleur</l>
+<l>Des rayons de l’amour, quand cet astre se lève.</l>
+<l>Le soir Gertrude étant avec Gaspard,</l>
+<l>Fière d’avoir fait résistance,</l>
+<l>Va lui conter l’amour de l’égrillard,</l>
+<l>Comme elle a su le tancer d’importance,</l>
+<l>Et que n’étant point femme à faire un tel écart,</l>
+<l>Elle a bien dans son cœur éteint toute espérance.</l>
+<l>« Parbleu ! répond l’époux, c’est bien manquer d’égard,</l>
+<l>Voyez un peu l’impertinence ;</l>
+<l>Vouloir de moi faire un cornard !</l>
+<l>Je veux punir son insolence.</l>
+<l>S’il revient, finement attire le gaillard :</l>
+<l>Par un demi-soupir ou par un doux regard,</l>
+<l>Il te faut ranimer sa tendre pétulance ;</l>
+<l>S’il te demande un rendez-vous,</l>
+<l>Feins l’embarras de quelqu’un qui balance,</l>
+<l>Et dont l’amour amollit le courroux ;</l>
+<l>Lui même il se viendra livrer à ma vengeance ;</l>
+<l>Caché près de ton lit, armé jusques aux dents,</l>
+<l>Nous verrons à quel point il porte l’impudence ;</l>
+<l>Et je saurai, quand il en sera temps,</l>
+<l>Châtier son incontinence ;</l>
+<l>Ne vas pas craindre à contre-temps,</l>
+<l>Par quelques privautés de blesser la décence ;</l>
+<l>Il payera cher ces doux instans.</l>
+<pagenum num="167"/>
+<l>Sans scrupule, laisse-le faire :</l>
+<l>L’arrêter sera mon affaire. »</l>
+<l>Gertrude promet d’obéir.</l>
+<l>Le lendemain, pressé par le désir,</l>
+<l>L’amant revient chanter sa litanie.</l>
+<l>Il reçoit un baiser sur la bouche chérie ;</l>
+<l>On gronde à peine : et sa flamme enhardie</l>
+<l>Prétend aller de faveur en faveur.</l>
+<l>On l’arrête, et sa douce amie</l>
+<l>Promet le lendemain de combler son ardeur.</l>
+<l>Le soir, la docile Gertrude</l>
+<l>Ne manque pas de dire à son époux</l>
+<l>L’heure et l’instant du rendez-vous.</l>
+<l>« Bon, dit Gaspard, surtout ne fais pas trop la prude,</l>
+<l>Quand il viendra se rendre à l’atelier ?</l>
+<l>— Ne craignez rien, j’y prendrai garde. »</l>
+<l>Maître Gaspard monte au grenier</l>
+<l>Y prend sa vieille hallebarde,</l>
+<l>Un sabre, un casque et son cimier ;</l>
+<l>Il les dérouille, s’arme, à la glace se mire ;</l>
+<l>Il paraît à ses yeux un Achille, un César ;</l>
+<l>Il met flamberge au vent, pousse en l’air et s’admire.</l>
+<l>Le jouvenceau, ma foi, va courir grand hasard.</l>
+<l>L’heure approchant, il va, dans la ruelle,</l>
+<l>De vengeance altéré, se mettre en sentinelle.</l>
+<l>Le galant vient, Gertrude se repent</l>
+<l>D’avoir, par sa coupable adresse,</l>
+<l>Conduit au piége qui l’attend</l>
+<l>Amant si plein de gentillesse ;</l>
+<l>Mais trop tard vient ce repentir :</l>
+<l>Maître Gaspard est trop près d’elle</l>
+<l>Pour qu’elle puisse l’avertir,</l>
+<pagenum num="168"/>
+<l>Sans s’exposer à paraître infidèle.</l>
+<l>Elle ne peut, dans cette extrémité,</l>
+<l>Qu’espérer en la providence</l>
+<l>Qui, mieux que l’humaine prudence,</l>
+<l>Peut nous tirer de la calamité.</l>
+<l>Le jouvenceau que le désir embrase,</l>
+<l>Trouvant que le plaisir vaut bien mieux qu’une phrase,</l>
+<l>Veut sans délai lui prouver son ardeur.</l>
+<l>Elle résiste autant que le veut la pudeur ;</l>
+<l>Et puis enfin... enfin elle s’arrange.</l>
+<l>L’amant alors tire de ses goussets</l>
+<l>A deux coups deux bons pistolets,</l>
+<l>En lui disant : « Voilà, mon ange,</l>
+<l>De quoi punir les indiscrets,</l>
+<l>S’ils apportaient obstacle à nos plaisirs secrets. »</l>
+<l>Notre époux sent alors que le front lui démange ;</l>
+<l>Mais par respect pour les armes à feu,</l>
+<l>En enrageant il voit jusqu’au bout tout le jeu,</l>
+<l>Tremblant et respirant à peine,</l>
+<l>De peur qu’on n’entendît le bruit de son haleine.</l>
+<l>L’amant, comblé des plaisirs les plus doux,</l>
+<l>De Gertrude louant les charmes,</l>
+<l>L’embrasse, et sort en reprenant ses armes.</l>
+<l>Gaspard lâchant alors la bride à son couroux,</l>
+<l>Apostrophe Gertrude, et lui dit : « Osez-vous,</l>
+<l>Après un tel forfait, lever sur moi la vue ?</l>
+<l>— A tort vous êtes mécontent,</l>
+<l>Que ne l’empêchiez-vous, dit Gertrude à l’instant,</l>
+<l>Au lieu de rester à froid comme une statue ?</l>
+<l>— Voyant les pistolets, pouvais-je me montrer ?</l>
+<l>— Armé de pied en cap, quand la peur vous entrave,</l>
+<l>Simple femme, comment pouvais-je être plus brave ?</l>
+<pagenum num="169"/>
+<l>Oui, de honte, Gaspard, vous devriez pleurer ;</l>
+<l>C’est par votre rodomontade</l>
+<l>Qu’en ce jour je perds mon honneur ;</l>
+<l>Sans vos ordres, jamais, ma vertu, ma pudeur,</l>
+<l>N’auraient souffert une telle incartade ;</l>
+<l>Mais de pareille lâcheté</l>
+<l>Les tribunaux me feront bien justice ;</l>
+<l>Il me faut une indemnité</l>
+<l>Pour mon honneur, ou bien qu’on vous traîne au supplice. »</l>
+<l>Gaspard sentant qu’il avait tort,</l>
+<l>Et craignant que sa turpitude</l>
+<l>Ne transpirât par le bouillant transport</l>
+<l>Du courroux que montrait Gertrude,</l>
+<l>Pour l’appaiser se fit effort,</l>
+<l>Et quitta pour jamais et sabre et hallebarde ;</l>
+<l>Mais il ne put détacher sa cocarde.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p22">L’ABBESSE CONDAMNÉE AU CHAPELAIN.</h2>
+
+<l>Pour un procès pendant au Parlement,</l>
+<l>Vint à Paris dernièrement</l>
+<l>Une abbesse jeune et jolie,</l>
+<l>Qui, d’une amoureuse folie,</l>
+<l>N’avait jamais connu l’égarement.</l>
+<l>Entrée au couvent dès l’enfance,</l>
+<l>Elle avait pu facilement</l>
+<l>Garder sa première innocence.</l>
+<l>Elle prit un appartement</l>
+<l>Chez certaine cousine, ou marquise ou comtesse</l>
+<l>Dont le fils, chevalier charmant,</l>
+<pagenum num="170"/>
+<l>Joignait à maint autre agrément</l>
+<l>L’esprit et la délicatesse.</l>
+<l>Sans intérêt il ne put voir</l>
+<l>L’embonpoint reposé de notre aimable abbesse,</l>
+<l>Dont la fraîcheur et la finesse</l>
+<l>Auraient fait plus d’effet à la cour qu’au parloir :</l>
+<l>Nez retroussé, peau blanche, fine, œil noir</l>
+<l>Rempli de feux et de tendresse,</l>
+<l>De l’amour dans son cœur firent passer l’ivresse ;</l>
+<l>Mais ce dieu doublement signala son pouvoir.</l>
+<l>Le cavalier est beau, bien fait et leste,</l>
+<l>L’air mâle, le ton noble et le maintien modeste ;</l>
+<l>Jamais auprès de son moutier</l>
+<l>N’avait paru si charmante figure,</l>
+<l>Sans quoi l’on pourrait parier</l>
+<l>Qu’elle n’eût pas adopté la clôture.</l>
+<l>Par un regard où se peint le désir,</l>
+<l>Notre amant entame l’affaire ;</l>
+<l>Après vient un tendre soupir,</l>
+<l>Que l’on écoute sans colère :</l>
+<l>Car peut-on se fâcher de ce qui fait plaisir,</l>
+<l>Surtout contre un cousin, quand le cousin sait plaire ?</l>
+<l>Enhardi par l’impunité,</l>
+<l>L’amant ose dire qu’il aime.</l>
+<l>« Je le crois bien, dit-elle, et moi de même.</l>
+<l>Ne doit-on pas aimer sa parenté ? »</l>
+<l>Ils étaient seuls, et la témérité</l>
+<l>Toujours se trouve où l’ardeur est extrême.</l>
+<l>L’amant avec vivacité</l>
+<l>Porte la main vers le bonheur suprême...</l>
+<l>D’une pareille liberté</l>
+<l>La sensible abbesse surprise,</l>
+<pagenum num="171"/>
+<l>Un peu tard à la vérité,</l>
+<l>Veut s’opposer à l’entreprise :</l>
+<l>« Ah ! monsieur, quelle indignité !</l>
+<l>Vous abusez de ma bonté... »</l>
+<l>Discours perdus, il ne lâche point prise ;</l>
+<l>Il savait trop qu’en ces soins là,</l>
+<l>L’excès peut faire seul excuser l’insolence :</l>
+<l>Au comble il porta la licence,</l>
+<l>Et le succès fit voir qu’il ne se trompait pas.</l>
+<l>L’épouse du seigneur, enivrée, éperdue,</l>
+<l>Le serre sans oser sur lui jeter la vue ;</l>
+<l>Il vit, dans son tendre embarras,</l>
+<l>La honte et le plaisir d’avoir été vaincue.</l>
+<l>Quelques momens après, encore tout émue</l>
+<l>« O ciel ! qu’ai-je éprouvé ! lui dit-elle tout bas,</l>
+<l>A jamais vous m’avez perdue ;</l>
+<l>Sans cette volupté qui m’était inconnue,</l>
+<l>Je ne pourrai plus vivre, cher cousin ;</l>
+<l>Que faire à mon couvent, quand j’y serai rendue,</l>
+<l>Des longs sermons d’un triste chapelain !</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p23">LE COQ ET LE CHAPON.</h2>
+
+<l>De Sparte antique on regrette le temps ;</l>
+<l>On a raison : alors jeune fillette</l>
+<l>De son époux connaissait les talens</l>
+<l>Avant qu’hymen en eût fait la conquête.</l>
+<l>Besoin n’était d’un regard pénétrant,</l>
+<l>Pour qu’au travers d’une étoffe discrète,</l>
+<l>L’amour secret allât furtivement</l>
+<l>D’appas cachés contrôler la retraite.</l>
+<l>Pour voir bondir à la fleur de seize ans</l>
+<pagenum num="172"/>
+<l>Désirs naissans de jeune pastourette,</l>
+<l>Besoin n’était aux sincères amans</l>
+<l>Du cercle étroit d’une froide lorgnette ;</l>
+<l>Ses charmes nus brillaient dans leur printemps ;</l>
+<l>Nature alors parlait sans interprète ;</l>
+<l>Dans l’ombre alors point d’amoureux déduit ;</l>
+<l>Cette pudeur dont on fait tant de bruit,</l>
+<l>Triste avorton d’une ardeur contrefaite,</l>
+<l>Du charme obscur d’une prudente nuit</l>
+<l>Ne voilait point la nature imparfaite.</l>
+<l>O l’heureux temps que ce siècle tout nu !...</l>
+<l>Du premier homme on suivait l’innocence ;</l>
+<l>L’amour plus jeune était plus ingénu ;</l>
+<l>De la beauté l’impudique décence</l>
+<l>A son flambeau sans danger se montrait ;</l>
+<l>D’un sexe à l’autre errait son inconstance ;</l>
+<l>Fidèle ardeur jamais ne l’arrêtait,</l>
+<l>De sa pudeur avec grâce voilée,</l>
+<l>La jeune vierge innocemment marchait.</l>
+<l>De tant d’appas l’âme à peine troublée,</l>
+<l>Son jeune amant près d’elle s’approchait :</l>
+<l>Ainsi qu’on vit, avant que d’une pomme</l>
+<l>Elle eût cueilli le péché défendu,</l>
+<l>D’Ève en sa fleur le corps pudique et nu,</l>
+<l>Chaste s’asseoir auprès du premier homme.</l>
+<l>Amour alors, sans flèche, ni flambeau,</l>
+<l>Au front n’avait cet aveugle bandeau,</l>
+<l>Nuage épais dont la sombre fumée</l>
+<l>Ne laisse voir qu’au travers des brouillards,</l>
+<l>Dont la vapeur obscurcit les regards,</l>
+<l>Les traits confus de la vierge charmée.</l>
+<l>O l’heureux temps que ce siècle tout nu !...</l>
+<pagenum num="173"/>
+<l>Point de surprise !... alors point de reproche !</l>
+<l>Brûlé des feux d’un amour ingénu,</l>
+<l>Jamais l’hymen ne prenait chat en poche.</l>
+<l>Ce temps n’est plus. Qu’en est-il advenu ?</l>
+<l>Pour époux, Lise a pris le jeune Alcandre.</l>
+<l>Qui l’eût pensé que ce bel ingénu,</l>
+<l>Jeune, attentif, plein d’une ardeur si tendre,</l>
+<l>A son amante eût si mal répondu ?</l>
+<l>Aux feux brûlans d’un amour éperdu,</l>
+<l>Humainement Lise avait cru se rendre.</l>
+<l>O sort affreux !... cet amoureux si prompt,</l>
+<l>Que pour un coq Lise avait osé prendre...</l>
+<l>Qu’a-t-il fait ? Rien... Ce coq est un chapon.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p24">LA PEUR DE LA MORT.</h2>
+
+<l>Auprès d’un bois écarté, solitaire,</l>
+<l>Un bûcheron, pauvre comme il en est,</l>
+<l>Avait construit une frêle chaumière,</l>
+<l>Où tous les soirs le bonhomme traînait</l>
+<l>Son lourd fagot, sa faim et sa misère.</l>
+<l>Cela soit dit sans affliger ton cœur ;</l>
+<l>Car mon dessein n’est tel, ami lecteur.</l>
+<l>Le forestier veuf et content de l’être,</l>
+<l>N’avait qu’un fils, l’espoir de ses vieux ans :</l>
+<l>C’était Janot. Dans le réduit champêtre,</l>
+<l>Sous le taillis où le ciel l’a fait naître,</l>
+<l>Il a déjà compté quinze printemps,</l>
+<l>Et voit, dit-on, le seizième paraître,</l>
+<l>Plus beau pour lui que tous les précédens.</l>
+<pagenum num="174"/>
+<l>Trop faible encor pour porter la coignée,</l>
+<l>Mais de bonne heure au travail façonnée,</l>
+<l>Tantôt sa main donne au flexible osier,</l>
+<l>En se jouant, la forme d’un panier :</l>
+<l>Tantôt il sème autour de son asile,</l>
+<l>Non pas des fleurs, mais un légume utile</l>
+<l>Que l’appétit assaisonne au besoin,</l>
+<vsep class="dots"/>
+<l>Et pour compagne Annette sa cousine,</l>
+<l>Rose naissante ; elle était orpheline</l>
+<l>Dès son enfance ; et n’ayant d’autre appui</l>
+<l>Que son pauvre oncle, elle vivait chez lui.</l>
+<l>Tout beau, conteur, va dire un petit maître ;</l>
+<l>De sa beauté vous ne nous dites mot :</l>
+<l>Faites la belle, ou vous n’êtes qu’un sot.</l>
+<l>Belle ! eh qu’importe ? a-t-on besoin de l’être</l>
+<l>A quatorze ans ? mais Annette l’était,</l>
+<l>Sans le savoir. Ah ! je n’ose le dire :</l>
+<l>Une fontaine avait pu l’en instruire.</l>
+<l>Sur ce point là si Janot se taisait,</l>
+<l>Dans ses regards elle avait pu le lire.</l>
+<l>Concluons donc qu’Annette s’en doutait,</l>
+<l>C’était beaucoup : élevé sans culture,</l>
+<l>Germe tombé des mains de la nature,</l>
+<l>Ce couple heureux ne savait presque rien,</l>
+<l>A ses penchans se livrait sans mesure,</l>
+<l>Et conservant une âme libre et pure</l>
+<l>Faisait sans choix et le mal et le bien.</l>
+<l>Un jour de ceux que le printemps ramène,</l>
+<l>Qui semblait naître exprès pour les plaisirs,</l>
+<l>Nos deux enfans que le destin entraîne,</l>
+<l>S’étant assis à l’ombre d’un vieux chêne,</l>
+<l>Y respiraient sous l’aile du zéphir.</l>
+<pagenum num="175"/>
+<l>Mais tout-à-coup sa douce et fraîche haleine</l>
+<l>Devint pour eux le souffle du désir.</l>
+<l>« Ma chère Annette, hélas ! dans le bocage</l>
+<l>J’étais venu pour goûter la fraîcheur,</l>
+<l>Disait Janot ; mais toute sa chaleur</l>
+<l>Nous a suivis sous le naissant feuillage.</l>
+<l>— Moi, dit Annette, à ces gazons nouveaux</l>
+<l>Je demandais un moment de repos ;</l>
+<l>Mais le sommeil a trompé mon attente ;</l>
+<l>Le sommeil fuit ma paupière brûlante.</l>
+<l>C’est pourtant là qu’hier je m’endormis :</l>
+<l>Mais j’étais seule, et ta main caressante</l>
+<l>N’y pressait pas ainsi ma main tremblante ;</l>
+<l>A mes genoux tu ne t’étais pas mis.</l>
+<l>Séparons-nous pour trouver l’un et l’autre</l>
+<l>Le calme heureux que nous venons chercher. »</l>
+<l>Pauvres enfans ! quel espoir est le vôtre ?</l>
+<l>Fuyez, un dieu saura vous rapprocher.</l>
+<l>Pour un moment aux vœux de sa cousine</l>
+<l>Janot sourit ; mais la belle orpheline</l>
+<l>Fuit lentement. L’amour vient l’arrêter.</l>
+<l>Du jouvenceau l’embarras n’est pas moindre ;</l>
+<l>S’il fait lui-même un pas pour la quitter,</l>
+<l>Il en fait deux bientôt pour la rejoindre.</l>
+<l>Bref, le fripon est encore à ses pieds.</l>
+<l>Là, moins soumis, mais plus ardent, plus tendre :</l>
+<l>« Nous séparer ! cesse de le prétendre,</l>
+<l>Dit-il, les yeux de quelques pleurs mouillés ;</l>
+<l>N’ordonne pas que je m’éloigne encore ;</l>
+<l>Dans ce moment plein d’un trouble inconnu,</l>
+<l>A tes genoux je me sens retenu</l>
+<l>Par le besoin d’un plaisir que j’ignore.</l>
+<pagenum num="176"/>
+<l>Demeure, Annette, ou bien je vais mourir.</l>
+<l>— Mourir ! quel mot, cria la jeune amante !</l>
+<l>Quel mot affreux à côté du plaisir !</l>
+<l>Et quelle image, hélas ! il me présente !</l>
+<l>Quand on est mort, sais-tu bien comme on est ?</l>
+<l>Dans cet état j’ai vu ma pauvre mère ;</l>
+<l>J’étais bien jeune alors, mais le portrait</l>
+<l>De mon esprit ne s’effacera guère.</l>
+<l>Sans mouvement et ne respirant plus,</l>
+<l>On a les pieds et les bras étendus,</l>
+<l>D’un voile épais la paupière couverte,</l>
+<l>Les yeux éteints et la bouche entr’ouverte. »</l>
+<l>A ce portrait bien fait pour l’alarmer,</l>
+<l>Le jeune amant s’étonne, s’inquiète :</l>
+<l>« S’il est ainsi, dit-il, ma chère Annette,</l>
+<l>Ne mourons pas, vivons pour nous aimer. »</l>
+<l>Déjà leurs cœurs qu’avait glacés la crainte,</l>
+<l>Sont ranimés par les brûlans désirs.</l>
+<l>Triste raison, mère de la contrainte,</l>
+<l>N’approche pas de cette aimable enceinte ;</l>
+<l>Et toi, nature, appelle les plaisirs :</l>
+<l>Mais je les vois et la fête commence.</l>
+<l>Des deux côtés d’abord mêmes soupirs,</l>
+<l>Mêmes sermens d’éternelle constance.</l>
+<l>Aux doux propos succède le silence ;</l>
+<l>Mille baisers échauffés par l’amour,</l>
+<l>Sont pris, rendus et repris tour-à-tour ;</l>
+<l>Vers le bonheur ainsi Janot s’avance.</l>
+<l>Les vents légers, complices de ses feux,</l>
+<l>Ont dévoilé tous les charmes d’Annette ;</l>
+<l>L’un en jouant fait flotter ses cheveux,</l>
+<l>L’autre s’envole avec sa colerette ;</l>
+<pagenum num="177"/>
+<l>Le plus hardi chatouille ses pieds nus,</l>
+<l>Un peu plus haut adroitement se glisse,</l>
+<l>Baise en passant l’albâtre de sa cuisse,</l>
+<l>Et monte enfin au temple de Vénus.</l>
+<l>Janot le sut ; mais le dieu de Cythère</l>
+<l>Vient l’arracher à ce guide incertain,</l>
+<l>En lui mettant l’encensoir à la main,</l>
+<l>Les yeux fermés le mène au sanctuaire.</l>
+<l>Arrête, arrête, ô peintre téméraire !</l>
+<l>La volupté t’en impose la loi,</l>
+<l>De ses attraits respecte le mystère.</l>
+<l>Fils de Cypris, dissipe ton effroi,</l>
+<l>Vas, je sais être aveugle comme toi ;</l>
+<l>Et tes faveurs m’ont appris à me taire.</l>
+<l>Charme puissant des plaisirs défendus,</l>
+<l>De nos crayons vous n’avez rien à craindre ;</l>
+<l>Quand on vous goûte, hélas ! peut-on vous peindre !</l>
+<l>Peut-on vous peindre en ne vous goûtant plus ?</l>
+<l>Dans les transports de la première ivresse,</l>
+<l>Janot sans force et non pas sans désir,</l>
+<l>Suivant de près la trace du plaisir,</l>
+<l>Le cherche encore au sein de sa maîtresse.</l>
+<l>Annette, hélas ! sur les gazons fleuris,</l>
+<l>Ne répond plus à des caresses vaines,</l>
+<l>Le doux poison répandu dans ses veines</l>
+<l>Tient à la fois tous ses sens engourdis.</l>
+<l>L’amant novice à l’instant se rappelle</l>
+<l>Les traits affreux dont elle a peint la mort,</l>
+<l>Soulève, presse, avec un tendre effort,</l>
+<l>Contre son cœur, un des bras de la belle,</l>
+<l>Croit lui donner une chaleur nouvelle ;</l>
+<l>Le bras échappe et tombe sans ressort,</l>
+<pagenum num="178"/>
+<l>« Annette ! Annette ! » En vain sa voix l’appelle ;</l>
+<l>Janot, trop sûr de son malheureux sort,</l>
+<l>Reste un moment immobile comme elle.</l>
+<l>Tout en impose à sa crédulité.</l>
+<l>Les yeux fixés sur ceux de sa cousine</l>
+<l>N’y trouvent plus cette flamme divine,</l>
+<l>Qui tout-à-l’heure animait sa beauté :</l>
+<l>« Annette est morte ! hélas ! je l’ai perdue,</l>
+<l>S’écrie alors l’amant épouvanté.</l>
+<l>Triste tableau qu’elle offrait à ma vue,</l>
+<l>Deviez-vous être une réalité !</l>
+<l>Annette est morte, et c’est moi qui la tue.</l>
+<l>Qui que tu sois dont l’immense pouvoir</l>
+<l>Rend à nos champs leur première verdure,</l>
+<l>Annette est morte et tu l’as dû prévoir !</l>
+<l>Fais la revivre ainsi que la nature ! »</l>
+<l>En exprimant ces frivoles regrets,</l>
+<l>Ces vains désirs, de larmes il arrose</l>
+<l>Le front d’Annette et ses mornes attraits,</l>
+<l>Baise en tremblant sa bouche demi-close.</l>
+<l>Anne s’éveille ! hélas ! ce tendre mot</l>
+<l>Est le premier que ses lèvres prononcent,</l>
+<l>Et le second que les soupirs annoncent</l>
+<l>Plus tendre encore est celui de Janot.</l>
+<l>« Elle revit ! Annette m’est rendue !</l>
+<l>Tristes regrets, vous êtes effacés ;</l>
+<l>Elle revit, tous mes maux sont passés.</l>
+<l>Plaisirs, rentrez dans mon âme éperdue. »</l>
+<l>A ce discours Anne n’a rien compris,</l>
+<l>Et sur Janot fixant un œil surpris,</l>
+<l>Accompagné d’une voix ingénue,</l>
+<l>« Que veux-tu dire ? et quel est ce transport ?</l>
+<pagenum num="179"/>
+<l>Moi j’étais morte ! — Oui, tout comme ta mère,</l>
+<l>Tu ne l’es plus et je bénis mon sort.</l>
+<l>— Si c’est ainsi, répond la bocagère,</l>
+<l>Que l’on arrive à son heure dernière,</l>
+<l>On est bien sot d’avoir peur de la mort.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p25">LA CONSOLATION DES COCUS.</h2>
+
+<l>D’un préambule, ami, je vous dispense,</l>
+<l>Figurez-vous, au sein de la Provence,</l>
+<l>Un couvent de nonains,</l>
+<l>Bien desservi par deux Bénédictins,</l>
+<l>Chacun d’eux y remplit son devoir en bon prêtre ;</l>
+<l>L’un absout les péchés ; l’autre les fait commettre.</l>
+<l>Ce dernier, jeune encor, vigoureux compagnon,</l>
+<l>A très-bon droit nommé père Tampon,</l>
+<l>Au par-dessus beau sire,</l>
+<l>Était chéri surtout de la mère Alison,</l>
+<l>La fabriquante en chef d’Enfans-Jésus de cire.</l>
+<l>Aussi l’histoire dit, et sans peine on le croit,</l>
+<l>Qu’Enfans-Jésus sortis de sa manufacture,</l>
+<l>Ressemblaient à Tampon toujours par quelqu’endroit,</l>
+<l>Et que cet endroit-là n’était en mignature.</l>
+<l>Mais comme bon chrétien voit tout du bon côté,</l>
+<l>Il n’était pas une seule béate</l>
+<l>Qui, loin de se choquer de cette disparate,</l>
+<l>N’y crût voir l’attribut de la divinité,</l>
+<l>Et n’eût dit volontiers son bénédicité.</l>
+<l>Tout allait bien enfin, quand la reconnaissance</l>
+<l>Persuada, sans doute, à l’amoureux Tampon,</l>
+<pagenum num="180"/>
+<l>Que pour payer les soins de la tendre Alison,</l>
+<l>Il devait faire aussi sa ressemblance ;</l>
+<l>Et dès le même soir, il ébauche un poupon ;</l>
+<l>Ce poupon là n’était de cire ;</l>
+<l>Ergó, point ne fondit : et les nones de rire ;</l>
+<l>J’entends celles qu’Amour tenait sous son empire,</l>
+<l>Et qui risquaient souvent</l>
+<l>Dans les bras du plaisir pareil événement.</l>
+<l>Les vieilles de gronder, et cela va sans dire ;</l>
+<l>Elles ne faisaient plus un péché si charmant.</l>
+<l>Après maint ris moqueur, mainte antienne fâcheuse,</l>
+<l>Pour la maison des champs, mère Alison partit ;</l>
+<l>Et la sœur accoucheuse,</l>
+<l>Layette sous le bras, aussitôt la suivit.</l>
+<l>En secret, tant qu’on put, l’accouchement se fit ;</l>
+<l>Le jardinier pourtant en apprit quelque chose ;</l>
+<l>Et ne pouvant garder sur ce point lettre close,</l>
+<l>Le dimanche suivant,</l>
+<l>En portant le cerfeuil, le concombre, au couvent,</l>
+<l>Il en lâcha deux mots à la tourière,</l>
+<l>Qui vous le chapitra d’une étrange manière ;</l>
+<l>Et lui montrant un Christ, lui dit : « Pauvre idiot,</l>
+<l>Avec un tel époux, veux-tu qu’une récluse</l>
+<l>Puisse faire un marmot ?</l>
+<l>Le rustre alors se prosterne à genoux,</l>
+<l>Et s’écrie : « Ah, bon Dieu ! comme l’on vous abuse ;</l>
+<l>De ces béguines-là si vous êtes l’époux,</l>
+<l>Las ! vous êtes cocu tout aussi bien que nous.</l>
+
+<pagenum num="181"/>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p26">LA FIDÉLITÉ A TOUTE ÉPREUVE.</h2>
+
+<l>Une nymphe de l’Opéra,</l>
+<l>Leste, fringante, et <i>cœtera</i>,</l>
+<l>Après avoir joué le rôle d’Immortelle,</l>
+<l>Craignait de se crotter pour retourner chez elle.</l>
+<l>Fort à propos, un élégant marquis</l>
+<l>Arrive, lorgne, admire, offre son vis-à-vis.</l>
+<l>Fouette, cocher ! L’on part, et soudain la cruelle</l>
+<l>De demander : « Que fait votre main-là ?</l>
+<l>— Chut... ma boucle s’accroche à votre falbala.</l>
+<l>— Ah, monstre ! je crîrai ; j’y suis très-résolue.</l>
+<l>— Enfance ! — Mon honneur ! — Comment vous en avez ?</l>
+<l>Quel affront. — quel plaisir. — Je suis... je suis... vaincue ;</l>
+<l>Il était temps, ma foi ; nous sommes arrivés.</l>
+<l>— Mais je monte chez vous ; pourquoi ces révérences ?</l>
+<l>— Non, monsieur. — Entre amis, ridicule à ce point ?</l>
+<l>— Fidèle à mon amant, je ne me permets point...</l>
+<l>— Quoi ! — De nouvelles connaissances.</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p27">LE CONNAISSEUR.</h2>
+
+<l>Que de sots renommés pour l’esprit, pour le goût,</l>
+<l>N’ont eu que des grands airs, du jargon, de l’audace !</l>
+<l>C’est ainsi qu’autrefois maint courtisan surtout</l>
+<l>Cachait bien peu de fond sous beaucoup de surface.</l>
+<pagenum num="182"/>
+<l>Nous avons tous connu le célèbre Milfleur,</l>
+<l>Né, comme ses ayeux, duc, riche et connaisseur ;</l>
+<l>Il devait des talens se montrer idolâtre.</l>
+<l>Aussi dans son palais avait-il un théâtre,</l>
+<l>Des bronzes, des tableaux, des médailles en or :</l>
+<l>Mais son plus cher trésor</l>
+<l>Était un pavillon tapissé de gravures ;</l>
+<l>Il en faisait d’abord admirer les bordures,</l>
+<l>Le sujet, le dessin ; ensuite il s’écriait :</l>
+<l>« Remarquez, s’il vous plait,</l>
+<l>Que toutes sont <i>avant la lettre.</i> »</l>
+<l>Or, comme il retenait,</l>
+<l>Ou bien qu’il écrivait peut-être,</l>
+<l>Ce qu’en le visitant chaque amateur disait,</l>
+<l>Et qu’il le répétait ;</l>
+<l>Effleurant des beaux arts la surface agréable,</l>
+<l>Il semblait marier la palme du savant</l>
+<l>Au bouquet séduisant</l>
+<l>Du petit maître aimable.</l>
+<l>Une de nos Laïs, un jour, dit-on, s’y prit ;</l>
+<l>Et son cœur partageait l’erreur de son esprit,</l>
+<l>Lorsque Milfleur voulant brusquer cette conquête,</l>
+<l>Écrivit un billet, mais si plat, mais si bête,</l>
+<l>Que la nymphe en rougit,</l>
+<l>Et que, dans son dépit,</l>
+<l>Sur l’enveloppe elle se borne à mettre ;</l>
+<l>« Vous n’êtes plus <i>avant la lettre.</i></l>
+
+<pagenum num="183"/>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p28">LA PRUDE.</h2>
+
+<l>Amour et pruderie</l>
+<l>Eurent toujours quelque léger débat ;</l>
+<l>La dame par orgueil donne à tout de l’éclat ;</l>
+<l>Puis, je ne sais comment elle fait sa partie,</l>
+<l>Elle finit toujours par avoir le dessous.</l>
+
+<vsep class="emptyline"/>
+
+<l>« A propos de cela, messieurs, connaissez-vous</l>
+<l>La prude Arsinoé ? — Qui ? cette présidente</l>
+<l>Dont le cœur a quinze ans, le visage quarante ?</l>
+<l>— Précisément ; veuve depuis trois mois,</l>
+<l>On la voit convoler pour la troisième fois.</l>
+<l>Dorval, hier, a fait cette conquête ;</l>
+<l>Il est intéressant ;</l>
+<l>Chez le peuple insurgent,</l>
+<l>Il abattit la tête</l>
+<l>De maint et maint forban ;</l>
+<l>Et troqua ses deux bras contre un double ruban.</l>
+<l>Je ne vous peindrai pas la modeste grimace,</l>
+<l>Qu’en prononçant son <i>oui</i>, notre bégueule fit.</l>
+<l>Après bien des façons, la voilà dans son lit ;</l>
+<l>De ceci, de cela, je vous fais encore grâce ;</l>
+<l>Le désir, sous le lin, comme un zéphyr léger,</l>
+<l>Circule en murmurant ; c’est l’heure du berger.</l>
+<l>L’époux était de feu, l’épouse résignée</l>
+<l>Dédiait ses soupirs au dieu de l’hyménée,</l>
+<l>Quand.... hélas ! — Vous riez ? Ah ! plaignons-les plutôt.</l>
+<l>Si faudrait-il au moins qu’hymen ne fut manchot.</l>
+<pagenum num="184"/>
+<l>Le Tantale nouveau, de la voix et du geste,</l>
+<l>Appelle un prompt secours, que sa position</l>
+<l>Devant tout cœur bien fait, sollicite de reste.</l>
+<l>La volupté dit oui, mais la pudeur dit non.</l>
+<l>On supplie, on refuse, on presse, on boude, on peste ;</l>
+<l>On avance en tremblant un doigt, puis deux, puis trois ;</l>
+<l>Enfin, notre héroïne est réduite aux abois,</l>
+<l>De l’humanité sainte elle écoute la voix ;</l>
+<l>Déjà son protégé l’en payait par deux fois ;</l>
+<l>Quand par un trait nouveau de fine pruderie,</l>
+<l>La voilà qui s’écrie :</l>
+<l>« Devoir, tu l’as voulu, mais j’en jure par toi !</l>
+<l>L’ôtera qui voudra, ce ne sera pas moi. »</l>
+
+<vsep class="fullwidth-rule"/>
+
+<h2 id="p29">L’ILLUSION DU CLOITRE.</h2>
+
+<l><i>Désir de fille est un feu qui dévore,</i></l>
+<l><i>Désir de nonne est cent fois pis encore,</i></l>
+<l>A dit certain auteur</l>
+<l>D’immortelle mémoire.</l>
+<l>Des recluses surtout il connaissait le cœur,</l>
+<l>Son enthousiasme heureux, sa brûlante ferveur ;</l>
+<l>Et quiconque lira cette pieuse histoire,</l>
+<l>Va s’écrier avec notre docteur :</l>
+<l><i>Désir de fille est un feu qui dévore,</i></l>
+<l><i>Désir de nonne est cent fois pis encore</i>.</l>
+<l>Une belle au cœur tendre, à l’œil étincelant,</l>
+<l>Victime de ses vœux et d’un père tyran,</l>
+<l>Gémissait, sous la guimpe, au fond d’une province.</l>
+<l>Son époux lui laissait, consolateur trop mince,</l>
+<l>Et de bien tristes jours et de plus tristes nuits ;</l>
+<pagenum num="185"/>
+<l>Sur son front la jonquille attestait ses ennuis.</l>
+<l>Heureusement pour notre prisonnière,</l>
+<l>Une pensionnaire</l>
+<l>Qu’embellissent déjà deux lustres et trois ans,</l>
+<l>Doit attendre, au moutier, que deux ou trois printemps,</l>
+<l>Caressant ses attraits de leur aile fleurie,</l>
+<l>Peignent en incarnat</l>
+<l>Certain petit bouton encor trop délicat,</l>
+<l>L’entrouvent au désir, à l’amour, à la vie.</l>
+<l>L’hymen le guette, armé de son contrat.</l>
+<l>Cependant à ce dieu on taillait de l’ouvrage ;</l>
+<l>Car, comptant chaque jour dix larcins par ses doigts,</l>
+<l>La nonne lui soufflait les trois quarts de ses droits.</l>
+<l>Souffler n’est pas jouer, va s’écrier un sage.</l>
+<l>Ne nous amusons pas à ces distinctions ;</l>
+<l>Trop heureux le mortel qui vit d’illusions !</l>
+<l>Enfin un réel mariage</l>
+<l>Vient livrer la nonnette aux ennuis du veuvage.</l>
+<l>Elle pleure, gémit ;</l>
+<l>Se mort les doigts, enrage ;</l>
+<l>Et puis en fille sage,</l>
+<l>Elle prend à l’écart son Élise et lui dit :</l>
+<l>« Ah ! du moins, jurez-moi de m’envoyer l’image</l>
+<l>Du trait toujours vainqueur,</l>
+<l>Qui doit..... Son front se couvre de rougeur...</l>
+<l>Sa langue s’embarrasse.... Admirons tous la nonne ;</l>
+<l>Elle n’ose nommer le séduisant bijou,</l>
+<l>Dont en grâce, jadis, toute honnête matronne</l>
+<l>Ornait publiquement l’albâtre de son cou ;</l>
+<l>Mais on l’a devinée, et son trouble s’appaise.</l>
+<l>De l’emplette, à Paris, on charge une Marton.</l>
+<l>Le marchand dit : « Ce bijou, le veut-on</l>
+<l>A l’espagnole, ou bien à la française ?</l>
+<pagenum num="186"/>
+<l>A l’espagnole courts, ils brillent en grosseur ;</l>
+<l>Minces à la française, ils brillent en longueur.</l>
+<l>A cette question, l’acquéreuse indécise</l>
+<l>N’ose risquer son goût, crainte d’une méprise.</l>
+<l>La bonne amie à la recluse écrit,</l>
+<l>Et voici mot pour mot ce qu’elle répondit :</l>
+<l>« S’il faut sur ton cadeau parler avec franchise,</l>
+<l>C’est dans le goût français surtout qu’il me plaira ;</l>
+<l>Mais pour Dieu, mon enfant, dis qu’on l’espagnolise,</l>
+<l>Autant que faire se pourra. »</l>
+
+</page-sequence>
+</page-sequences>
+</bml>
