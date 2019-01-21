@@ -68,6 +68,11 @@
   </metadata>
   
   <toc>
+    <tocentry idref='p01' label='A ma mère'/>
+    <tocentry idref='p02' label='Personnages'/>
+    <tocentry idref='p03' label='Scène première'/>
+    <tocentry idref='p04' label='Scène II'/>
+    <tocentry idref='p05' label='Scène III'/>
   </toc>
   
   <cover src="images/couverture14.png" alt="Œuvres complètes de François Coppée de l’Académie française. Édition illustrée par François Flameng et Tofani. Gravure au burin par Boisson, Boutelié, Dubouchet, Lépold Frameng et Jules Jacquet. Théâtre — Tome I. Édition Lemerre. Paris. Librairie L. Hébert. Alexandre Houssieux et Cie, Successeurs. 7, rue Perronet, 7. 1892"/>
@@ -86,7 +91,7 @@
 
 <pagenum num="34"/>
  </page-sequence>
- <page-sequence>
+ <page-sequence id="p01">
  <pagenum num="35"/>
 
 <h2>A MA MÈRE</h2>
@@ -148,7 +153,7 @@
 <h1>DEUX DOULEURS</h1>
 
  </page-sequence>
- <page-sequence>
+ <page-sequence id="p02">
  <pagenum num="38"/>
 
 <h3>PERSONNAGES</h3>
@@ -163,7 +168,9 @@
 
 <p><i>A Paris, de nos jours.</i></p>
 
-<pagenum num="39"/>
+ </page-sequence>
+ <page-sequence id="p03">
+ <pagenum num="39"/>
 
 <h1>DEUX DOULEURS</h1>
 
@@ -173,7 +180,7 @@
 
 <pstage>Un cabinet de travail très riche et très artistique. Des livres, des papiers sont épars sur les meubles, sur le tapis. Partout un désordre confus de livres, d’armes, de statues, d’objets d’art. Il fait nuit. Une lampe allumée sur une table.</pstage>
 
-<h2>SCÈNE PREMIÈRE</h2>
+<h3>SCÈNE PREMIÈRE</h3>
 
 <cast>BERTHE, DOMINIQUE.</cast>
 
@@ -285,7 +292,7 @@
 <l>Puis, demain, nous irons ensemble au cimetière.</l>
 <pstage>Dominique s’incline et sort.</pstage>
 
-<h2>SCÈNE II</h2>
+<h3 id="p04">SCÈNE II</h3>
 
 <hstage><speaker>BERTHE</speaker>.</hstage>
 <l>C’est ici qu’il est mort. C’est ici que souvent</l>
@@ -333,7 +340,7 @@
 <l cont="true">On entre. Cachons-nous.</l>
 <pstage>Berthe se réfugie avec effroi derrière un paravent déployé ; elle reste visible pour le public. Renée, voilée et très émue, entre par la petite porte et s’arrête en s’appuyant, comme accablée, sur le dossier d’un fauteuil.</pstage>
 
-<h2>SCÈNE III</h2>
+<h3 id="p05">SCÈNE III</h3>
 
 <cast>BERTHE, d’abord cachée, RENÉE.</cast>
 
