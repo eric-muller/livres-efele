@@ -1,0 +1,662 @@
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb30267616p">
+
+      <titre>Œuvres complètes de François Coppé</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11897612w">
+        <nom-bibliographie>Coppée, François</nom-bibliographie>
+        <dates>1842-1908</dates>
+        <nom-couverture>François Coppée</nom-couverture>
+      </auteur>
+      
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488218gg" role="ill">
+        <nom-bibliographie>Flameng, François</nom-bibliographie>
+        <dates>1856-1923</dates>
+        <nom-couverture>François Flameng</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488219t" role="ill">
+        <nom-bibliographie>Tofani, Oswaldo</nom-bibliographie>
+        <dates>1849-1915</dates>
+        <nom-couverture>Oswaldo Tofani</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb14967570r" role="ill">
+        <nom-bibliographie>Dawant, Albert Pierre</nom-bibliographie>
+        <dates>1852-1923</dates>
+        <nom-couverture>Albert Dawant</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>L. Hébert</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <editeur>
+        <nom>A. Houssiaux</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1885</date>
+
+      <langue>fr</langue>
+    </monographie>
+    
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k408037p"
+                 pages="N6 1-90 A1 91-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000592"
+        creation="2019-01-21T09:39:24-08:00">
+      
+      <titre>Fais ce que dois</titre>
+
+      <collection id="c00018" volume="35">
+        <titre>Œuvres complètes de François Coppée, édition Lemerre</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+  
+  <toc>
+    <tocentry idref='p01' label='Dédicace'/>
+    <tocentry idref='p02' label='Personnages'/>
+    <tocentry idref='p03' label='Scène première'/>
+    <tocentry idref='p04' label='Scène II'/>
+    <tocentry idref='p05' label='Scène III'/>
+    <tocentry idref='p06' label='Scène IV'/>
+  </toc>
+  
+  <cover src="images/couverture14.png" alt="Œuvres complètes de François Coppée de l’Académie française. Édition illustrée par François Flameng et Tofani. Gravure au burin par Boisson, Boutelié, Dubouchet, Lépold Frameng et Jules Jacquet. Théâtre — Tome I. Édition Lemerre. Paris. Librairie L. Hébert. Alexandre Houssieux et Cie, Successeurs. 7, rue Perronet, 7. 1892"/>
+
+ <page-sequences>
+ <page-sequence>
+ <pagenum num="65"/>
+
+<vsep class="fewlines"/>
+
+<h1>FAIS CE QUE DOIS</h1>
+
+<h2>ÉPISODE DRAMATIQUE, EN UN ACTE, EN VERS</h2>
+
+<h2><s>REPRÉSENTÉ POUR LA PREMIÈRE FOIS SUR LE THÉÂTRE DE L’ODÉON, LE 21 OCTOBRE 1871.</s></h2>
+
+ <pagenum num="66"/>
+ </page-sequence>
+ <page-sequence id="p01">
+<pagenum num="67"/>
+
+<h2>A BEAUVALLET</h2>
+
+<p><i>Comme un témoignage du profond chagrin que m’a causé le douloureux accident qui a empêché le grand tragédien de créer le rôle de Daniel.</i></p>
+
+<vsep class="rule"/>
+
+<h2>A LOUIS DUMAINE</h2>
+
+<p><i>Son élève, qui, en disant ces quelques vers, a fait planer sur les spectateurs l’âme même de la Patrie.</i></p>
+
+<vsep class="emptyline"/>
+
+<p><i>A tous deux,</i></p>
+
+<p><i>Admiration et reconnaissance,</i></p>
+
+<signature>F<s>RANÇOIS</s> C<s>OPPÉE</s>.</signature>
+
+<date class="l3">21 octobre 1871.</date>
+
+ </page-sequence>
+ <page-sequence id="p02">
+ <pagenum num="68"/>
+
+<h3>PERSONNAGES</h3>
+
+<table>
+<tbody>
+<tr><td>DANIEL, maître d’école.</td><td>M.</td><td>D<s>UMAINE</s>.</td></tr>
+<tr><td>MARTHE, veuve d’un officier.</td><td>M<sup>lles</sup></td><td>S<s>ARAH</s> B<s>ERNHARDT</s>.</td></tr>
+<tr><td>HENRI, son jeune fils.</td><td/><td>J<s>EANNE</s> B<s>ERNHARDT</s>.</td></tr>
+</tbody>
+</table>
+
+<p class="c"><i>Dans un port de mer, en 1871.</i></p>
+
+ </page-sequence>
+ <page-sequence id="p03">
+ <pagenum num="69"/>
+
+<h1>FAIS CE QUE DOIS</h1>
+
+<vsep class="rule"/>
+
+<pstage>La terrasse d’un hôtel meublé, dans un port. Au fond, par une galerie à jour, on aperçoit des mâts de navire et l’horizon de la mer. — Au lever du rideau, Marthe, en grand deuil, est assise. Son fils Henri, garçon de quatorze ans environ, en deuil aussi, se tient debout auprès d’elle.</pstage>
+
+<h2>SCÈNE PREMIÈRE</h2>
+
+<cast>MARTHE, HENRI.</cast>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l>Ainsi, nous émigrons ?</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">Oui, nous quittons la France.</l>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l>Voyager ! quel bonheur !</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">C’est assez de souffrance.</l>
+<l>Ces quelques mois me font plus vieille de dix ans.</l>
+<l>Nous avons des moyens de vivre suffisants,</l>
+<pagenum num="70"/>
+<l>Et nous nous embarquons, ce soir, pour l’Amérique.</l>
+<l>Non ! je ne forme pas un espoir chimérique</l>
+<l>En croyant que là-bas tu feras ton chemin.</l>
+<l>Mais, ici, j’ai vraiment trop peur du lendemain !</l>
+<l>Nous partons.</l>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l cont="true">Tu seras heureuse ?</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">Je l’espère.</l>
+<pstage>L’enfant s’éloigne et va regarder l’Océan ; elle le suit des yeux.</pstage>
+<l>Cette guerre maudite ! elle m’a pris ton père,</l>
+<l>Et je ne connais pas l’endroit de son tombeau ;</l>
+<l>Et toi, mon bien-aimé, toi, si pur et si beau,</l>
+<l>On te réserverait la même destinée !</l>
+<l>— O France que j’aimais, patrie où je suis née,</l>
+<l>Dont le langage est doux à mes lèvres toujours,</l>
+<l>Car enfin c’est celui de mes jeunes amours</l>
+<l>Et celui dans lequel ce fils m’a dit : Ma mère !</l>
+<l>Hélas ! je devais donc t’accuser d’être amère,</l>
+<l>Trouver ton ciel funeste et ton air étouffant !</l>
+<l>Mais tu m’as faite veuve et je n’ai qu’un enfant.</l>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l>Comme c’est beau, la mer ! et comme un long voyage,</l>
+<pagenum num="71"/>
+<l>Ce doit être amusant ! Mais vois donc ce nuage</l>
+<l>De fumée et ce grand vaisseau.</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">C’est un steamer</l>
+<l>Qui revient de là-bas.</l>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l cont="true">Comme c’est beau la mer !</l>
+<l>Tantôt, maman, j’ai vu notre trois-mâts qu’on charge.</l>
+<l>Un matelot disait : — Le vent souffle du large. —</l>
+<l>Cela faisait flotter, ainsi que des rubans,</l>
+<l>Les joyeux pavillons pavoisant les haubans ;</l>
+<l>Un mulâtre, tout noir sous la blancheur du linge,</l>
+<l>Passait ; un petit mousse, agile comme un singe,</l>
+<l>Descendait d’une vergue ; et, tout le long des quais</l>
+<l>Au milieu des ballots, des fruits, des perroquets,</l>
+<l>De l’odeur du goudron et du frisson des voiles,</l>
+<l>Enchanté, je lisais, peints en noir sur des toiles,</l>
+<l>Ces noms clairs et légers comme des cris d’oiseau :</l>
+<l>Le Brésil, La Plata, Lima, Valparaiso.</l>
+<l>Oh ! partir sur la mer ! — Et puis j’ai du courage.</l>
+<l>J’ai réfléchi. Tant pis si nous faisons naufrage.</l>
+<l>Comment ! j’aimerais mieux que la mer écumât,</l>
+<l>Car je te sauverais sur un débris de mât.</l>
+<pagenum num="72"/>
+<l>Je sais mon Robinson par cœur. Que tu le veuilles</l>
+<l>Ou non, je te ferais une maison de feuilles</l>
+<l>Sur une plage d’or, devant les flots nombreux,</l>
+<l>Et là nous resterions tout seuls et très heureux,</l>
+<l>Bien plus, chère maman, qu’ici nous ne le sommes ;</l>
+<l>Car ne te vois-je pas triste parmi les hommes ?</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Enfant !</l>
+<pstage>A part.</pstage>
+<l cont="true">Comme à cet âge on sait vite oublier !</l>
+<pstage>Haut.</pstage>
+<l>Allons ! va voir un peu jusqu’à notre voilier :</l>
+<l>Je crains que l’on n’ait pas inscrit notre passage.</l>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l>J’y cours.</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">Embrasse-moi, mon mignon, et sois sage.</l>
+<pstage>Henri l’embrasse et sort.</pstage>
+
+<h2 id="p04">SCÈNE II</h2>
+
+<cast>MARTHE</cast>
+
+<l>Non, si je n’étais pas heureuse dans l’exil,</l>
+<l>Du moins ce pauvre cher petit le sera-t-il !</l>
+<pagenum num="73"/>
+<l>La patrie, après tout, un préjugé vulgaire,</l>
+<l>Qui me prendrait cet ange à la prochaine guerre</l>
+<l>Et qui le jetterait en pâture au canon !</l>
+<l>Et cependant, ô France ! il prononçait ton nom,</l>
+<l>Ce héros que j’aimais, tombé dans la mêlée.</l>
+<l>— Mon Dieu, s’il pouvait voir que je m’en suis allée</l>
+<l>Du village de France où nous fûmes heureux,</l>
+<l>Et qu’en deuil, à travers le monde aventureux,</l>
+<l>J’emmène son enfant pour tenter la fortune ;</l>
+<l>Si, tout sanglant... Ce songe horrible m’importune !</l>
+<l>Mais je suis mère, et j’ai bien fait comme je fis.</l>
+<l>Je n’ai d’autre devoir que de sauver mon fils.</l>
+<l>Mon âme interrogée a confiance en elle ;</l>
+<l>Elle doit écouter sa crainte maternelle.</l>
+<l>Tout autre sentiment dans mon cœur est tari.</l>
+<pstage>Daniel paraît au fond.</pstage>
+<l>Ah ! Daniel, le vieil ami de mon mari !</l>
+
+<h2 id="p05">SCÈNE III</h2>
+
+<cast>MARTHE, DANIEL.</cast>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Vous partez ?</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">Ce soir même.</l>
+
+<pagenum num="74"/>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l cont="true">Et l’enfant ?</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">M’accompagne.</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Écoutez. Dans la pauvre école de campagne</l>
+<l>Où j’apprends l’alphabet aux petits paysans,</l>
+<l>Je n’ai là que des cœurs bons et peu médisants ;</l>
+<l>Mais lorsqu’ils ont appris que, pour un long voyage</l>
+<l>Avec leur jeune ami vous quittiez le village,</l>
+<l>Que devant l’avenir sombre et plein de danger,</l>
+<l>Leur petit compagnon fuyait à l’étranger,</l>
+<l>O Marthe, ils ont trouvé le mot qui déconcerte,</l>
+<l>Et, comme d’un soldat, ils ont dit : — Il déserte.</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Mon ami !...</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l cont="true">Votre fils, c’est vrai, n’est qu’un enfant :</l>
+<l>Vous disposez de lui ; mais l’honneur vous défend</l>
+<l>De l’entraîner si loin, avant qu’il y consente.</l>
+<l>Avez-vous éclairé sa jeune âme innocente ?</l>
+<l>De vous, pauvre affolée, a-t-il bien pu savoir</l>
+<l>Ce qu’est une patrie et quel est son devoir ?</l>
+<pagenum num="75"/>
+<l>Connaît-il cette guerre infâme et notre haine ?</l>
+<l>Sait-il qu’on nous a pris l’Alsace et la Lorraine,</l>
+<l>Que Metz et que Strasbourg ont dû courber leurs fronts</l>
+<l>Sous le joug allemand, et que nous en souffrons</l>
+<l>Comme un soldat, pendant sa vieillesse attristée,</l>
+<l>Souffre encor dans sa jambe autrefois amputée ?</l>
+<l>Sait-il que dans nos mains on a brisé le fer ?</l>
+<l>Et sait-il que son père est mort à Frœschwiller ?</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Oui. Mais il sait encore, et surtout, que je l’aime,</l>
+<l>Qu’il est toute ma vie et mon espoir suprême,</l>
+<l>Et, s’il fallait le perdre, enfin, que j’en mourrais.</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Marthe !</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">Rappelez-vous le soir où je pleurais,</l>
+<l>Près de vous, au début de l’affreuse campagne,</l>
+<l>Lorsque cet officier, captif en Allemagne,</l>
+<l>M’envoya cette croix d’honneur de mon mari</l>
+<l>Et ces mots, par lesquels je sais qu’il a péri.</l>
+<l>Rappelez-vous ! C’était une nuit de septembre ;</l>
+<l>M’agenouillant alors du côté de la chambre</l>
+<l>Où se trouvait le lit de mon fils endormi,</l>
+<pagenum num="76"/>
+<l>Ardemment j’ai prié devant vous, mon ami,</l>
+<l>Disant : — Conservez-le, Seigneur plein d’indulgence,</l>
+<l>Pour mon amour !</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l cont="true">Et j’ai songé : Pour la vengeance.</l>
+<l>O Marthe, au nom du sang, au nom des pleurs versés...</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Non. La France m’a pris mon époux : c’est assez !</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Vous ne pouvez partir !</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">Dès ce soir, je l’emmène.</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Lâcheté !</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">Je n’ai pas l’âme d’une Romaine.</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Mais vous regretterez, demain, ce moment-ci.</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Je suis mère.</l>
+<pagenum num="77"/>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l cont="true">La France est une mère aussi.</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Une mère qui veut qu’on s’égorge pour elle.</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Nous lui devons nos bras pour venger sa querelle.</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Et vous vous déchirez entre vous aujourd’hui.</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>O Marthe ! votre époux vous entend.</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">Oui, c’est lui</l>
+<l>Dont la voix dit : Va-t’en ! — tout bas, à mon oreille.</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Vous blasphémez !</l>
+<pagenum num="78"/>
+
+<h2 id="p06">SCÈNE IV</h2>
+
+<cast>MARTHE, DANIEL, HENRI.</cast>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l cont="true">Maman, le navire appareille,</l>
+<l>Et ses voiles déjà palpitent dans le ciel.</l>
+<l>Partons vite, partons ! Ah ! monsieur Daniel.</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Henri...</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">N’écoute pas cet homme ; il va te dire,</l>
+<l>Enfant, qu’il ne faut pas monter sur ce navire,</l>
+<l>Il va t’épouvanter du voyage lointain,</l>
+<l>Des dangers inconnus et du but incertain.</l>
+<l>Puis il prononcera bien haut le nom de France ;</l>
+<l>Il voudra te donner sa menteuse espérance ;</l>
+<l>Il prédira des temps meilleurs, des jours plus beaux</l>
+<l>Un souffle glorieux passant dans les drapeaux,</l>
+<l>Et les joyeux soldats marchant à la frontière.</l>
+<l>N’écoute pas cet homme, enfant ! Ta vie entière,</l>
+<l>Il la sacrifierait à son rêve trompeur.</l>
+<l>Il fera résonner les grands mots qui font peur,</l>
+<pagenum num="79"/>
+<l>Évoquant le passé sombre et les morts eux-mêmes.</l>
+<l>— Enfant, n’écoute pas cet homme, si tu m’aimes !</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Marthe, vous vous trompez ; et je ne doute pas</l>
+<l>Du calme et vrai bonheur qui vous attend là-bas.</l>
+<l>Vous me connaissez trop pour croire que je mente.</l>
+<l>Partez. Le ciel est pur et la mer est clémente ;</l>
+<l>Vous avez le bon vent et le flot régulier.</l>
+<l>Partez. Le nouveau Monde, au sol hospitalier,</l>
+<l>Où vous irez, conduits par la brise docile,</l>
+<l>Vous garde ses déserts immenses pour asile</l>
+<l>Qui, dans la solitude, au soleil assoupis,</l>
+<l>N’attendent qu’un colon pour se charger d’épis,</l>
+<l>Et ses plaines sans fin et jamais parcourues</l>
+<l>Où l’on trouve de l’or au sillon des charrues.</l>
+<l>C’est là qu’est le bonheur. Aussi, je vous le dis,</l>
+<l>Partez. Vous trouverez là-bas un paradis.</l>
+<l>— Pour un homme pratique, et qui compte, et qui s’aime,</l>
+<l>La patrie est le champ qu’on laboure et qu’on sème,</l>
+<l>Et c’est un sentiment très stupide et très vieux</l>
+<l>De s’attacher au sol où dorment les aïeux.</l>
+<l>Et puis, que quittez-vous ? une France frappée,</l>
+<l>Qui saigne en s’appuyant sur un tronçon, d’épée.</l>
+<l>Fuyez. Vous resteriez ici dans un enfer.</l>
+<pagenum num="80"/>
+<pstage>Avec une profonde tristesse.</pstage>
+<l>Nous sommes arrivés à notre âge de fer,</l>
+<l>Et ce pays descend une fatale pente.</l>
+<l>Espérer qu’il s’arrête un jour et se repente,</l>
+<l>Nourrir cette sublime et folle illusion</l>
+<l>Qu’il redevienne encor la grande nation,</l>
+<l>Qu’il se relève enfin, je ne l’ose plus guère.</l>
+<l>Hélas ! ce que j’ai vu dans la dernière guerre</l>
+<l>M’a souvent fait penser que j’avais trop vécu,</l>
+<l>Et, dussé-je irriter ta rage de vaincu,</l>
+<l>Peuple qui dans l’orgueil et le mal persévères,</l>
+<l>Tes fils sauront de moi les vérités sévères.</l>
+<l>Oui ! lorsque dans l’école ils viendront se ranger</l>
+<l>Et sur nos grands malheurs d’hier m’interroger,</l>
+<l>Il faudra que leur maître accablé leur raconte</l>
+<l>Qu’il a pleuré du sang et sué de la honte.</l>
+<l>Il faudra qu’il distingue, en sa ferme équité,</l>
+<l>De ce qui fut fatal, ce qui fut mérité ;</l>
+<l>Qu’il leur dise quel vent d’incroyable folie</l>
+<l>Souffla pendant six mois sur la France envahie ;</l>
+<l>Ces chefs et ces soldats se jetant sans raison</l>
+<l>Le mot de lâcheté, le mot de trahison ;</l>
+<l>Les factieux, malgré le danger de la ville,</l>
+<l>Réservant leurs fusils pour la guerre civile ;</l>
+<pagenum num="81"/>
+<l>Les aboiements des clubs, les efforts des partis</l>
+<l>Par le malheur public à peine ralentis ;</l>
+<l>La foule se grisant de journaux et d’affiches ;</l>
+<l>La chasse aux croix d’honneur ; des gens devenus riches</l>
+<l>En volant sur le pain et l’habit du soldat ;</l>
+<l>Et, dernier déshonneur et suprême attentat !</l>
+<l>A l’heure du profond désespoir et des larmes</l>
+<l>Où Paris épuisé dut déposer les armes,</l>
+<l>A l’heure où, sous ces murs, ceux qui l’avaient vaincu,</l>
+<l>Tristes que le géant eût encor survécu,</l>
+<l>N’osaient trop s’approcher et se disaient : — Il bouge ! —</l>
+<l>L’émeute parricide et folle au drapeau rouge,</l>
+<l>L’émeute des instincts sans patrie et sans Dieu,</l>
+<l>Ensanglantant la ville et la livrant au feu,</l>
+<l>Devant les joyeux toasts portés à nos ruines</l>
+<l>Par cent mille Allemands debout sur les collines !</l>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l>O maître, finissez ! Vous me faites rougir.</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Non, enfant, il est temps encor de réagir :</l>
+<l>Parfois la guérison est prompte après la crise.</l>
+<l>Oui ! je veux appliquer le fer qui cautérise</l>
+<l>Sur le mauvais orgueil, dans ces jeunes esprits.</l>
+<pagenum num="82"/>
+<l>Mais, lorsque je verrai qu’ils m’ont enfin compris</l>
+<l>Et qu’ils courbent le front sous ma sombre parole,</l>
+<l>Alors je leur tiendrai le discours qui console.</l>
+<l>— Je leur dirai qu’il fut encore des héros</l>
+<l>Chez nos pauvres soldats arrachés aux hameaux,</l>
+<l>Lorsque nous inonda cette effroyable armée ;</l>
+<l>Comme on a bien souffert dans la ville affamée</l>
+<l>Où pas un ne parlait de se vendre, pas un !</l>
+<l>Et comme on a bien su mourir à Châteaudun.</l>
+<l>Je leur dirai comment, dans Paris qu’on assiège</l>
+<l>Et dans les camps lointains dispersés sur la neige,</l>
+<l>On lutta de son mieux et l’on fit son devoir ;</l>
+<l>Comment ceux-ci voyant toujours l’horizon noir,</l>
+<l>Ceux-là croyant toujours, ô France ! à ton étoile,</l>
+<l>Mangèrent le pain dur, dormirent sous la toile</l>
+<l>Et tombèrent, vaincus, mais frappés par devant.</l>
+<l>Je leur raconterai ces histoires, enfant :</l>
+<l>Je les enivrerai de haine et de souffrance,</l>
+<l>Et je préparerai des vengeurs à la France.</l>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l>Des vengeurs !</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">Daniel, Daniel, songez-y !</l>
+<l>Vous le savez : je n’ai que ce pauvre enfant-ci.</l>
+<pagenum num="83"/>
+<l>Vous savez quelle fut la mort affreuse et lente</l>
+<l>De son père, couché sur la paille sanglante,</l>
+<l>Au milieu des hourrahs vainqueurs des ennemis.</l>
+<l>Vous-même convenez que le doute est permis,</l>
+<l>Que cette nation est peut-être perdue.</l>
+<l>Daniel, répondez. Faut-il qu’on me le tue</l>
+<l>Pour un dernier effort inutile, pour rien ?</l>
+<l>Oh ! je n’ai plus d’espoir !</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l cont="true">Marthe, écoutez-moi bien.</l>
+<l>Je suis simple d’esprit et n’ai rien d’un prophète,</l>
+<l>Et pourtant, malgré tout, malgré notre défaite,</l>
+<l>Je crois que nous pouvons encore être sauvés.</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Mais un enfant !...</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l cont="true">Enfants, c’est vous qui le pouvez.</l>
+<l>Car pour notre revanche, hélas ! trop peu certaine,</l>
+<l>Nous n’osons entrevoir qu’une date lointaine.</l>
+<l>L’œuvre doit être longue et patiente ; et nous,</l>
+<l>Nous qui vous aurons fait monter sur nos genoux</l>
+<l>Afin de vous parler plus près des représailles,</l>
+<l>Lorsque vous partirez, enfants, pour les batailles,</l>
+<pagenum num="84"/>
+<l>Nos cheveux déjà gris seront tout à fait blancs,</l>
+<l>Et nous vous bénirons avec des bras tremblants.</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Vous doutez cependant de ce pays frivole ?</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Nous le transformerons, nous, les maîtres d’école.</l>
+<l>Donnez vos fils ; ils sont ardents et belliqueux.</l>
+<l>Donnez. Nous sauverons la patrie avec eux.</l>
+<l>— Si nous le voulons bien...</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l cont="true">La revanche ! chimère,</l>
+<l>Vain rêve, œuvre impossible !</l>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l cont="true">Écoutons-le, ma mère.</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Oui, si ce peuple veut et si tout son passé</l>
+<l>De folie et d’erreur est un jour effacé,</l>
+<l>Si de son ignorance enfin il se délivre,</l>
+<l>S’il apprend à choisir la parole et le livre,</l>
+<l>S’il cherche le progrès logique et régulier,</l>
+<pagenum num="85"/>
+<l>S’il se plie à la loi, s’il sait répudier</l>
+<l>La révolution dont le monde s’effraie,</l>
+<l>Et, prenant le chemin de la liberté vraie,</l>
+<l>Qui n’est que le respect de soi-même et d’autrui,</l>
+<l>S’il répare et maudit ses fautes d’aujourd’hui,</l>
+<l>Il reprendra sa place à la tête du monde.</l>
+<l><correction original="Certe">Certes</correction>, avant de fonder la paix bonne et féconde,</l>
+<l>Il lui faudra combattre encor, il lui faudra</l>
+<l>Une guerre où l’Europe entière tremblera ;</l>
+<l>Car il n’est pas de joug qu’enfin on ne secoue :</l>
+<l>Il ne peut pas garder ce soufflet sur la joue.</l>
+<l>Mais pour cette œuvre sainte il n’a qu’un seul moyen,</l>
+<l>C’est de faire un soldat de chaque citoyen,</l>
+<l>De la patrie entière une famille armée</l>
+<l>Et du seul sentiment du devoir enflammée,</l>
+<l>Où le riche bourgeois coudoîra l’artisan,</l>
+<l>Où le noble sera l’égal du paysan.</l>
+<l>Car dans le régiment la nation se mêle :</l>
+<l>On partage la tente, on mange à la gamelle,</l>
+<l>On se voit, on se parle et l’on devient amis.</l>
+<l>Et quand tous ces soldats, à de vrais chefs soumis,</l>
+<l>S’estimant, et montrant, dans le même service,</l>
+<l>Un même dévoûment, un même sacrifice,</l>
+<l>Contents du travail fait et du fusil porté,</l>
+<l>Unis par les liens de la fraternité,</l>
+<l>Marcheront dans le rang, calmes, forts, sans murmure,</l>
+<pagenum num="86"/>
+<l>O mon pays en deuil, la chose sera mûre,</l>
+<l>Et, poussant vers le ciel ton cri de conquérant,</l>
+<l>Tu pourras les répandre alors comme un torrent,</l>
+<l>Et planter, glorieux, les trois couleurs altières</l>
+<l>De notre vieux drapeau sur nos vieilles frontières !</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Et si nous succombons encore ? Si, vainqueur,</l>
+<l>Le fer de l’Allemand nous entre jusqu’au cœur ?</l>
+<l>Si Paris voit encor autour de ses murailles ?...</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l>Femme, nul ne connaît le destin des batailles.</l>
+<l>Mais, s’il doit les revoir couvrir son horizon,</l>
+<l>Que Paris cette fois songe à son vieux blason.</l>
+<pstage>Avec enthousiasme.</pstage>
+<l>O navire ! voilà bien longtemps que la houle</l>
+<l>Sur le morne Océan te harcèle et te roule,</l>
+<l>Et que le rude assaut des lames et des vents</l>
+<l>Fait craquer ta carène et grincer tes haubans.</l>
+<l>Nous t’avons vu souvent, sous l’effort de l’orage,</l>
+<l>Courir vers les écueils et voler au naufrage,</l>
+<l>O vaisseau qui du grand Paris portes le nom !</l>
+<l>Dans l’ouragan hurlant plus haut que le canon,</l>
+<l>Nous t’avons vu souvent t’abîmer sous la brume ;</l>
+<pagenum num="87"/>
+<l>Mais tu te relevais toujours, couvert d’écume,</l>
+<l>Superbe, et vomissant l’eau par les écubiers.</l>
+<l>Donc, s’il faut qu’à la fin, Français, vous succombiez</l>
+<l>Dans un combat suprême, écrasés par le nombre,</l>
+<l>Si Paris doit périr, si c’est bien l’heure sombre</l>
+<l>D’amener pavillon ou de couler à pic,</l>
+<l>Souviens-toi de Jean-Bart et de Du Couëdic,</l>
+<l>Navire, souviens-toi de Villaret-Joyeuse !</l>
+<l>Lorsqu’après la bataille atroce et furieuse,</l>
+<l>Rouge de sang, n’ayant plus de mâts, plus d’agrès,</l>
+<l>Tu verras ces maudits face à face, tout près,</l>
+<l>Et te jetant déjà les chaînes de l’esclave,</l>
+<l>Meurs en volcan pour les engloutir sous ta lave !</l>
+<l>Et que le monde entier convienne avec effroi</l>
+<l>Que le sort du Vengeur est seul digne de toi !</l>
+
+<hstage><speaker>HENRI</speaker>.</hstage>
+<l>O mère, il a raison ! C’est un conseil funeste</l>
+<l>Que te donnait tout bas ton désespoir.</l>
+<pstage>A Daniel.</pstage>
+<l cont="true">Je reste.</l>
+
+<hstage><speaker>MARTHE</speaker>, à Daniel.</hstage>
+<l>Hélas ! qu’avez-vous fait ?</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l cont="true">Le devoir est ici.</l>
+<pagenum num="88"/>
+
+<hstage><speaker>MARTHE</speaker>, à Henri.</hstage>
+<l>Tu l’exiges de moi, cruel enfant ?</l>
+
+<hstage><speaker>HENRI</speaker>, se jetant à son cou.</hstage>
+<l cont="true">Merci !</l>
+
+<hstage><speaker>MARTHE</speaker>.</hstage>
+<l>Soit, je cède, et je mets au ciel mon espérance.</l>
+<l>Dieu, protège mon fils !</l>
+
+<hstage><speaker>DANIEL</speaker>.</hstage>
+<l cont="true">Dieu, protège la France !</l>
+
+ </page-sequence>
+ </page-sequences>
+</bml>
