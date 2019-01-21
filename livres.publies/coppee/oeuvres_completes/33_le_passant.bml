@@ -1,0 +1,842 @@
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb30267616p">
+
+      <titre>Œuvres complètes de François Coppé</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11897612w">
+        <nom-bibliographie>Coppée, François</nom-bibliographie>
+        <dates>1842-1908</dates>
+        <nom-couverture>François Coppée</nom-couverture>
+      </auteur>
+      
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488218gg" role="ill">
+        <nom-bibliographie>Flameng, François</nom-bibliographie>
+        <dates>1856-1923</dates>
+        <nom-couverture>François Flameng</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488219t" role="ill">
+        <nom-bibliographie>Tofani, Oswaldo</nom-bibliographie>
+        <dates>1849-1915</dates>
+        <nom-couverture>Oswaldo Tofani</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb14967570r" role="ill">
+        <nom-bibliographie>Dawant, Albert Pierre</nom-bibliographie>
+        <dates>1852-1923</dates>
+        <nom-couverture>Albert Dawant</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>L. Hébert</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <editeur>
+        <nom>A. Houssiaux</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1885</date>
+
+      <langue>fr</langue>
+    </monographie>
+    
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k408037p"
+                 pages="N6 1-90 A1 91-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000590"
+        creation="2019-01-20T19:32:47-08:00">
+      
+      <titre>Le passant</titre>
+
+      <collection id="c00018" volume="33">
+        <titre>Œuvres complètes de François Coppée, édition Lemerre</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+  
+  <toc>
+    <tocentry idref='p01' label='Personnages'/>
+    <tocentry idref='p02' label='Scène première'/>
+    <tocentry idref='p03' label='Scène II'/>
+    <tocentry idref='p04' label='Scène III'/>
+  </toc>
+  
+  <cover src="images/couverture14.png" alt="Œuvres complètes de François Coppée de l’Académie française. Édition illustrée par François Flameng et Tofani. Gravure au burin par Boisson, Boutelié, Dubouchet, Lépold Frameng et Jules Jacquet. Théâtre — Tome I. Édition Lemerre. Paris. Librairie L. Hébert. Alexandre Houssieux et Cie, Successeurs. 7, rue Perronet, 7. 1892"/>
+
+ <page-sequences>
+ <page-sequence>
+ <pagenum num="1"/>
+
+<vsep class="fewlines"/>
+
+<h1>LE PASSANT</h1>
+
+<h2>COMÉDIE EN UN ACTE, EN VERS</h2>
+
+<h3><s>REPRÉSENTÉE POUR LA PREMIÈRE FOIS SUR LE THÉÂTRE DE L’ODÉON, LE 14 JANVIER 1869.</s></h3>
+
+<pagenum num="2"/>
+ </page-sequence>
+ <page-sequence>
+ <pagenum num="3"/>
+
+<h1>A MADEMOISELLE AGAR</h1>
+
+<salutation><i>Mademoiselle,</i></salutation>
+
+<p><i>Après avoir remercié la direction de l’Odéon de l’excellent concours qu’elle m’a prêté et avoir joint mes applaudissements à ceux du public pour M<sup>lle</sup> Sarah Bernhardt, qui a bien voulu donner au rôle de Zanetto le prestige de son exquise beauté blonde et de son talent plein d’élégance et de grâce, je veux dire encore ici tout ce que vous doit cette fugitive fantaisie d’un poète. Je veux que tous ceux qui s’intéresseront à cette œuvre légère sachent avec quelle bonté vous l’avez accueillie, avec quel dévouement vous avez aplani la route qui la séparait de la scène, avec quelle ardeur de grande et généreuse artiste enfin vous avez étudié, réalisé, créé cette figure de <pagenum num="4"/>Silvia qui, grâce à vous, apparaît au spectateur si magnifiquement belle et si noblement pathétique.</i></p>
+
+<p><i>Permettez-moi donc, Mademoiselle, de vous dédier cette comédie, comme un faible témoignage de l’admiration et de la reconnaissance</i></p>
+
+<p class='r3'><i>de votre très respectueux et très dévoué serviteur et ami,</i></p>
+
+<signature>F<s>RANÇOIS</s> C<s>OPPÉE</s>.</signature>
+
+ </page-sequence>
+ <page-sequence>
+ <pagenum num="5"/>
+
+<vsep class="fewlines"/>
+
+<h1>LE PASSANT</h1>
+
+ </page-sequence>
+ <page-sequence id='p01'>
+ <pagenum num="6"/>
+
+<h2>PERSONNAGES</h2>
+
+<table>
+<tbody>
+<tr><td>ZANETTO</td><td>M<sup>lles</sup></td><td>S<s>ARAH</s> B<s>ERNHARDT</s></td></tr>
+<tr><td>SILVIA</td><td/><td>A<s>GAR</s></td></tr>
+</tbody>
+</table>
+
+<p class="c"><i>Renaissance italienne.</i></p>
+
+<pagenum num="7"/>
+ </page-sequence>
+ <page-sequence id='p02'>
+ 
+<h1>LE PASSANT</h1>
+
+<h2><s>COMÉDIE EN UN ACTE, EN VERS</s></h2>
+
+<vsep class="rule"/>
+
+<pstage>Un paysage lunaire. A droite, une maison de plaisance avec une rampe en pente douce qui descend sur le devant du théâtre. Un vieux banc. Au fond, Florence vaguement aperçue. Le ciel est plein d’étoiles.</pstage>
+
+<h3>SCÈNE PREMIÈRE</h3>
+
+<hstage><speaker>SILVIA</speaker>, seule.</hstage>
+
+<pstage>Silvia, en déshabillé blanc, est accoudée sur la rampe de la terrasse et contemple, rêveuse, le paysage.</pstage>
+
+<l>Que l’amour soit maudit ! Je ne puis plus pleurer.</l>
+
+<pstage>Elle descend lentement la pente douce.</pstage>
+
+<l>J’ai passé ma jeunesse à me faire adorer.</l>
+<l>Je suis la froide et la méchante souveraine.</l>
+<l>Tous, ils baisent ma main comme une main de reine,</l>
+<l>Humbles, sans que jamais, par un frisson vainqueur,</l>
+<l>La chaleur du baiser m’ait monté jusqu’au cœur.</l>
+<l>Qui le croirait pourtant ? La Silvia s’ennuie.</l>
+<l>Et toujours cet azur banal ! Deux mois sans pluie !</l>
+<pagenum num="8"/>
+<l>Toujours les belles nuits et le tranquille été !</l>
+<l>Vraiment, le ciel m’en veut et s’est mis du côté</l>
+<l>Des poètes et des donneurs de sérénades.</l>
+<l>Il leur offre à loisir les comparaisons fades ;</l>
+<l>Et mon nom va rimer, à la fin des sonnets,</l>
+<l>Avec toutes les fleurs où je me reconnais.</l>
+<l>Et cependant je suis l’idole, et l’on envie</l>
+<l>Tous ces flatteurs courbés que traîne la Silvie</l>
+<l>Dans le sillon que laisse en passant son dédain.</l>
+<l>L’aventurier toscan, alourdi de butin,</l>
+<l>Vient jeter à mes pieds les anneaux et les chaînes ;</l>
+<l>L’orgueilleux podestat et l’argentier de Gênes</l>
+<l>Luttent à qui pourra troubler mes yeux sereins</l>
+<l>En ouvrant devant eux la splendeur des écrins.</l>
+<l>Mais nul ne m’a causé même de la surprise.</l>
+<l>Ah ! c’est que je les hais comme je les méprise,</l>
+<l>Tous ces hommes au cœur aisément contenté,</l>
+<l>Dont le désir me veut moins que la vanité.</l>
+<l>Je souffre ! Vivre ainsi, sans amour, est-ce vivre ?</l>
+<l>Je n’ai rien, ni la fleur qui sèche dans un livre,</l>
+<l>Ni les cheveux gardés, ni le mot si touchant</l>
+<l>Auquel, tous les minuits, on pense en se couchant.</l>
+<l>Ma vie est sans plaisirs comme elle est sans alarmes,</l>
+<l>Hélas ! et j’ai perdu jusqu’au secret des larmes.</l>
+<l>Oh ! comme je suis triste !</l>
+
+<pagenum num="9"/>
+
+<pstage>Montrant la ville au loin.</pstage>
+<l cont="true">Et dire que voici</l>
+<l>Florence et que la nuit est si pure, et qu’ainsi</l>
+<l>Que moi, sous quelque toit de la ville, peut-être,</l>
+<l>Le regard dans le ciel, le coude à sa fenêtre,</l>
+<l>Soupire et rêve un pauvre et timide écolier</l>
+<l>Qui m’a vue une fois et n’a pu m’oublier,</l>
+<l>Et me garde un amour dont je ne suis plus digne</l>
+<l>Oh ! qu’il n’espère pas que mon cœur se résigne</l>
+<l>A le laisser partir, celui-là, si jamais</l>
+<l>Il vient dans mon chemin fatal. Je lui promets</l>
+<l>Que je ne serai plus la seule malheureuse</l>
+<l>Et que je n’entends pas faire la généreuse !</l>
+
+<hstage><speaker>ZANETTO</speaker>, chantant dans le lointain.</hstage>
+
+<blockquote class="smaller c`">
+<poem>
+<l>Mignonne, voici l’avril !</l>
+<l>Le soleil revient d’exil ;</l>
+<l>Tous les nids sont en querelles.</l>
+<l>L’air est pur, le ciel léger,</l>
+<l>Et partout on voit neiger</l>
+<l>Des plumes de tourterelles.</l>
+</poem>
+</blockquote>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>Tout, jusqu’à cette voix si fraîche dans la nuit,</l>
+<l>M’irrite. La gaîté des autres me poursuit.</l>
+<l>Je suis triste et maudis le printemps ; il le chante.</l>
+
+<pagenum num="10"/>
+
+<hstage><speaker>ZANETTO</speaker>, dont la voix se rapproche.</hstage>
+<blockquote class='smaller c'>
+<poem>
+<l>Prends, pour que nous nous trouvions,</l>
+<l>Le chemin des papillons</l>
+<l>Et des frêles demoiselles.</l>
+<l>Viens, car tu sais qu’on t’attend</l>
+<l>Sous le bois, près de l’étang</l>
+<l>Où vont boire les gazelles.</l>
+</poem>
+</blockquote>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>La mélodie est douce et la voix est touchante ;</l>
+<l>Mais je ne comprends plus tous ces riens amoureux,</l>
+<l>Rentrons. Il faut laisser la place aux gens heureux.</l>
+
+<pstage>Elle remonte lentement sur la terrasse, en regardant, distraite, du coté d’où venait la voix. Zanetto, sa guitare sur l’épaule et portant sous le bras son manteau qui traîne dans l’herbe, entre gaîment, sans voir Silvia.</pstage>
+
+<h3 id='p03'>SCÈNE II</h3>
+
+<cast>SILVIA, sur la terrasse, ZANETTO.</cast>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Vivent les nuits d’été pour faire un bon voyage !</l>
+<l>Le soir, on a soupé dans quelque humble village,</l>
+<l>Sous la treille, devant les splendeurs du couchant ;</l>
+<l>Et l’on part au lever de la lune. En marchant,</l>
+<pagenum num="11"/>
+<l>On chante, et l’on oublie, en chantant, la fatigue.</l>
+<l>Vivent les nuits d’été, quand le ciel est prodigue</l>
+<l>De clartés et que l’astre au regard presque humain</l>
+<l>Vous sourit à travers les arbres du chemin !</l>
+<l>Vivent les nuits de juin et vive l’espérance !</l>
+<l>M’y voici. Dès demain je saurai si Florence</l>
+<l>Aime toujours le luth et les chansons d’amour.</l>
+<l>Mais nous sommes encor bien loin du petit jour ;</l>
+<l>Et quand on est ainsi vêtu de vieille serge</l>
+<pstage>Montrant sa guitare.</pstage>
+<l>Et qu’on porte ceci sur l’épaule, l’auberge</l>
+<l>Est sourde au poing qui frappe et s’ouvre avec ennui.</l>
+<l>Où pourrais-je donc bien me coucher aujourd’hui ?</l>
+<pstage>Il aperçoit le banc.</pstage>
+<l>Ce vieux banc ? Oui. C’est dur. Mais la nuit est si douce !</l>
+<l>Et puis je les connais, les oreillers de mousse :</l>
+<l>On y dort ; et, si l’on a froid dans son sommeil,</l>
+<l>Le matin on se chauffe en dansant au soleil.</l>
+<pstage>Il se dispose à dormir sur le banc.</pstage>
+<l>C’est égal, on est mieux entre deux draps de toile.</l>
+<l>Cette nuit, je te prends pour gîte, ô belle étoile,</l>
+<l>Auberge du bon Dieu qui fait toujours crédit.</l>
+
+<pstage>Il s’étend sur le banc, à demi caché dans son manteau, et ferme les yeux.</pstage>
+
+<pagenum num="12"/>
+
+<hstage><speaker>SILVIA</speaker>, regardant du haut de la terrasse.</hstage>
+<l>Pauvre enfant ! C’est qu’il va faire comme il le dit.</l>
+<l>Et moi qui me plaignais que la nuit fut si belle !</l>
+<l>Comme je suis méchante !</l>
+<pstage>Elle descend rapidement la pente.</pstage>
+<l cont="true">Il faut que je l’appelle,</l>
+<l>Car je manque au devoir de l’hospitalité.</l>
+<l>On est ainsi pourtant : on se plaint de l’été</l>
+<l>Parce qu’on est en proie à la mélancolie ;</l>
+<l>On voudrait que la nuit fût sombre, et l’on oublie</l>
+<l>Tous ces pauvres errants que le sort négligea</l>
+<l>Et qui n’ont pas d’abri.</l>
+<pstage>Regardant Zanetto endormi.</pstage>
+<l cont="true">Mais c’est qu’il dort déjà,</l>
+<l>Pauvre petit ! il a sans doute l’habitude.</l>
+<l>Mais quoi donc ? Ce silence et cette solitude,</l>
+<l>Cette nuit parfumée et cet enfant qui dort</l>
+<l>Me troublent. On dirait que mon cœur bat plus fort</l>
+<l>Et qu’une émotion nouvelle le soulève.</l>
+<l>Ah ! je suis folle !</l>
+<pstage>Regardant Zanetto de plus près.</pstage>
+<l cont="true">Hélas ! il ressemble à mon rêve.</l>
+<pagenum num="13"/>
+<pstage>Lui prenant doucement la main.</pstage>
+<l>Allons ! réveillez-vous. L’air du soir est mauvais.</l>
+
+<hstage><speaker>ZANETTO</speaker>, s’éveillant et regardant Silvia avec une admiration étonnée.</hstage>
+<l>Une fée ! — Ah ! c’était de vous que je rêvais ;</l>
+<l>Car mon sommeil était plein de visions blanches.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>Bah ! c’était un rayon d’étoile entre les branches.</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Non ! et c’est bien en vous mon rêve que je vois,</l>
+<l>Car il me semble aussi connaître votre voix.</l>
+<l>Quand on dort, on ne peut savoir, mais on devine ;</l>
+<l>Et j’entendais un bruit de musique divine.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>Ce que vous avez pris sans doute pour des mots</l>
+<l>Mélodieux, c’était, dans les sombres rameaux,</l>
+<l>Le murmure que fait en s’envolant la brise.</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Mais qui donc êtes-vous alors ?</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l cont="true">Une surprise</l>
+<pagenum num="14"/>
+<l>Qui vient vous proposer repas et gîte enfin,</l>
+<l>Si vous avez sommeil et si vous avez faim.</l>
+
+<hstage><speaker>ZANETTO</speaker>, la regardant toujours.</hstage>
+<l>Merci. J’ai soupé tard et je n’ai plus envie</l>
+<l>De dormir.</l>
+
+<hstage><speaker>SILVIA</speaker>, à part.</hstage>
+<l cont="true">Sois clémente, ô cruelle Silvie !</l>
+<l>Aujourd’hui souviens-toi que tout te le défend,</l>
+<l>Que ton amour fait mal et que c’est un enfant.</l>
+<pstage>Haut.</pstage>
+<l>Et n’ai-je pas le droit de chercher à connaître</l>
+<l>Celui qui prétendait dormir sous ma fenêtre ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Si fait. Je ne veux pas garder l’incognito.</l>
+<l>Je suis musicien et j’ai nom Zanetto.</l>
+<l>Depuis l’enfance, étant d’un naturel nomade,</l>
+<l>Je voyage. Ma vie est une promenade.</l>
+<l>Je crois n’avoir jamais dormi trois jours entiers</l>
+<l>Sous un toit ; et je vis de vingt petits métiers</l>
+<l>Dont on n’a pas besoin. Mais, pour être sincère,</l>
+<l>L’inutile, ici-bas, c’est le plus nécessaire.</l>
+<l>Je sais faire glisser un bateau sur le lac,</l>
+<l>Et, pour placer la courbe exquise d’un hamac,</l>
+<pagenum num="15"/>
+<l>Choisir dans le jardin les branches les plus souples.</l>
+<l>Je sais conduire aussi les lévriers par couples</l>
+<l>Et dompter un cheval rétif. Je sais encor</l>
+<l>Jongler dans un sonnet avec les rimes d’or,</l>
+<l>Et suis de plus, mérite assurément très rare,</l>
+<l>Éleveur de faucons et maître de guitare.</l>
+
+<hstage><speaker>SILVIA</speaker>, souriant.</hstage>
+<l>Toutes professions à dîner rarement,</l>
+<l>N’est-ce pas ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Oh ! bien moins qu’on ne croirait vraiment.</l>
+<l>Pourtant, c’est vrai, je suis un être peu pratique.</l>
+<l>L’heure de mes repas est très problématique,</l>
+<l>Et je suis quelquefois forcé de l’oublier</l>
+<l>Alors que le pays m’est inhospitalier.</l>
+<l>Souvent, loin des maisons banales où vous êtes,</l>
+<l>Assis au fond des bois, j’ai dîné de noisettes ;</l>
+<l>Mais cela m’a donné l’âme d’un écureuil.</l>
+<l>Et puis presque partout on me fait bon accueil ;</l>
+<l>Je tiens si peu de place et veux si peu de chose !</l>
+<l>J’entre dans les châteaux, le soir, et je propose</l>
+<l>De dire une chanson pendant qu’on va souper.</l>
+<l>Tout en chantant, je vois le maître découper</l>
+<l>Le quartier de chevreuil et la volaille grasse ;</l>
+<pagenum num="16"/>
+<l>Et ma voix en a plus de moelleux et de grâce.</l>
+<l>Je lance aux plats fumants de longs regards amis ;</l>
+<l>On comprend, et voilà que mon couvert est mis.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>J’entends ; et vous allez à Florence sans doute ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Sans doute ? Non. Je vais par là ; mais, si la route</l>
+<l>Se croise de chemins qui me semblent meilleurs,</l>
+<l>Eh bien, je prends le plus charmant et vais ailleurs.</l>
+<l>J’ai mon caprice pour seul guide, et je voyage</l>
+<l>Comme la feuille morte et comme le nuage.</l>
+<l>Je suis vraiment celui qui vient on ne sait d’où</l>
+<l>Et qui n’a pas de but, le poète, le fou,</l>
+<l>Avide seulement d’horizon et d’espace,</l>
+<l>Celui qui suit au ciel les oiseaux, et qui passe :</l>
+<l>On n’entend qu’une fois mes refrains familiers.</l>
+<l>Je m’arrête un instant, pour cueillir aux halliers</l>
+<l>Des lianes en fleur dont j’orne ma guitare,</l>
+<l>Puis je repars. Je suis le voyageur bizarre</l>
+<l>Que tous ont rencontré, léger de ses seize ans,</l>
+<l>Dans le sentier nocturne où sont les vers luisants.</l>
+<l>Quand il pleut, je me mets sous l’épaisse feuillée,</l>
+<l>Et je sors, ruisselant, de la forêt mouillée,</l>
+<pagenum num="17"/>
+<l>Pour courir du côté riant de l’arc-en-ciel.</l>
+<l>Ne la cherchant jamais, je trouve naturel</l>
+<l>De n’avoir pas encor rencontré la fortune.</l>
+<l>Je suis le pèlerin qui marche sous la lune,</l>
+<l>Boit au ruisseau jaseur, passe le fleuve à gué,</l>
+<l>Va toujours et n’est pas encore fatigué.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>Et n’avez-vous songé jamais à faire halte ?</l>
+<l>Dans cette folle course, où votre esprit s’exalte</l>
+<l>A rêver le douteux espoir du lendemain,</l>
+<l>N’avez-vous donc jamais, au tournant du chemin,</l>
+<l>Aperçu la maison calme, toute petite</l>
+<l>Et blanche sous le pampre et sous la clématite,</l>
+<l>Avec son bon vieux chien qui dort près du portail</l>
+<l>Et sa fenêtre dont s’entr’ouvre le vitrail</l>
+<l>Pour montrer le profil pur et le fin corsage</l>
+<l>D’une enfant qui vous donne un bonjour au passage ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Quelquefois. Mais j’ai cru toujours que mes chansons</l>
+<l>Feraient, comme en jetant des pierres aux buissons</l>
+<l>On en fait s’échapper tout un nid de vipères,</l>
+<l>Sortir de ces logis les tuteurs et les pères.</l>
+<l>Or, avec cet aspect de franc bohémien,</l>
+<pagenum num="18"/>
+<l>Je suis peu de leur goût, comme ils sont peu du mien,</l>
+<l>Et j’aime autant laisser tranquilles les familles.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>Quoi ! vous ne rêviez pas lorsque les jeunes filles</l>
+<l>Vous lançaient en riant les fleurs de leurs corsets ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>A quoi bon ? J’envoyais un baiser et passais.</l>
+<l>Et puis, je vous dirai, ma liberté m’est chère.</l>
+<l>Si j’aimais, je perdrais cette marche légère ;</l>
+<l>Et, tant que je pourrai, je n’aurai pour fardeaux</l>
+<l>Que ma plume au bonnet et ma guitare au dos.</l>
+<l>Un amour dans le cœur, c’est un si lourd bagage !</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>Vous êtes un oiseau qu’on ne peut mettre en cage ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Jamais.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l cont="true">Et qui pourtant fera son nid un jour,</l>
+<l>N’est-il pas vrai ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Non, non ! J’ai trop peur de l’amour.</l>
+<pagenum num="19"/>
+<l>Ah ! vous ne savez pas. C’est une douce chose</l>
+<l>De s’arrêter ainsi qu’un papillon se pose,</l>
+<l>D’aller, de revenir, si l’on veut, sur ses pas,</l>
+<l>Et puis de repartir ensuite.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l cont="true">Ce n’est pas</l>
+<l>Le bonheur. Ainsi donc, vous venez à Florence,</l>
+<l>Mais vous n’êtes guidé par aucune espérance ;</l>
+<l>Vous venez, le hasard vous tenant par la main,</l>
+<l>Parce que vous avez trouvé doux le chemin,</l>
+<l>Ou que dans l’air du soir, à votre loi fidèle,</l>
+<l>Vous suivîtes de loin le vol d’une hirondelle,</l>
+<l>Ou que la brise hier de ce côté souffla ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>A peu près.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l cont="true">Ce n’est donc pas tout à fait cela.</l>
+<l>Auriez-vous un projet ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Si vague !</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l cont="true">Mais encore ?</l>
+
+<pagenum num="20"/>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Ce que demain pour moi doit être, je l’ignore.</l>
+
+<hstage><speaker>SILV1A</speaker>.</hstage>
+<l>Si je puis vous aider ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Il n’en est pas besoin.</l>
+<l>Et peut-être, après tout, n’irai-je pas plus loin.</l>
+<l>Écoutez. Il me vient en tête une chimère.</l>
+<l>Les êtres comme moi n’ont ni père ni mère.</l>
+<l>Suis-je le fils d’un rustre ou le fils d’un marquis ?</l>
+<l>Je ne sais. Mais, bien sûr, le jour où je naquis</l>
+<l>Dut être un beau matin de la saison nouvelle ;</l>
+<l>Car le joyeux rayon qui loge en ma cervelle</l>
+<l>M’empêche de songer que je suis orphelin.</l>
+<l>Jusqu’ici j’ai couru comme un jeune poulain,</l>
+<l>Libre, sans désirer d’existence meilleure.</l>
+<l>Mais, je dois l’avouer, madame, tout à l’heure,</l>
+<l>Tandis que vous parliez avec tant de douceur,</l>
+<l>Tout à coup j’ai rêvé vaguement d’une sœur ;</l>
+<l>Et lorsque vous m’avez fait comprendre l’asile</l>
+<l>Où l’intime bonheur loin des regards s’exile,</l>
+<l>La petite maison que voilent les lilas,</l>
+<l>Pour la première fois je me suis senti las.</l>
+<pagenum num="21"/>
+<l>Eh bien ! à votre doux conseil je m’abandonne.</l>
+<l>Alors qu’on est si belle on doit être si bonne !</l>
+<l>Voulez-vous essayer, madame, s’il vous plaît,</l>
+<l>De garder près de vous le petit roitelet</l>
+<l>Et de le transformer en oiseau de volière ?</l>
+<l>Tenez : je quitterais ma vie irrégulière</l>
+<l>Et je vivrais ici, n’ayant d’autre dessein</l>
+<l>Que de passer le jour assis sur un coussin,</l>
+<l>A vos pieds, vous faisant trouver les heures brèves</l>
+<l>Et berçant de chansons fugitives vos rêves.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>Vous êtes un enfant !</l>
+<pstage>A part.</pstage>
+<l cont="true">Oh ! pourquoi cet émoi</l>
+<l>Et pourquoi cette peur ? L’avoir là, près de moi,</l>
+<l>Toujours ! l’environner de soins et de tendresse !</l>
+<l>L’entendre me donner le nom de sa maîtresse !</l>
+<l>Voir se réaliser le plus cher de mes vœux !...</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Vous m’avez entendu. Voulez-vous ?</l>
+
+<hstage><speaker>SILVIA</speaker>, à part.</hstage>
+<l cont="true">Si je veux ?</l>
+<l>Oh ! jamais ! Et pourtant c’est lui qui le demande.</l>
+
+<pagenum num="22"/>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Madame, je sais bien que la faveur est grande.</l>
+<l>Mais... voulez-vous ?</l>
+
+<hstage><speaker>SILVIA</speaker>, à part.</hstage>
+<l cont="true">Demain, il saurait qui je suis.</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Une dernière fois, voulez-vous ?</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l cont="true">Je ne puis.</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Vous ne pouvez ! Pourquoi ?</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l cont="true">Je ne suis pas la femme</l>
+<l>Que vous croyez. Il faut être une grande dame</l>
+<l>Pour traiter dignement chez soi, comme les siens,</l>
+<l>Les poètes errants et les musiciens.</l>
+<l>Je suis pauvre et n’ai point un si grand équipage.</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Quoi ! pas un écuyer ?</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l cont="true">Non.</l>
+
+<pagenum num="23"/>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Pas même de page ?</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>Non.</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Je dîne d’un fruit et dors en un fauteuil.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>Je ne puis.</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Mais...</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l cont="true">Je suis veuve, je suis en deuil,</l>
+<l>Et vis très seule.</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Hélas ! madame, je n’exige</l>
+<l>Qu’une place à vos pieds.</l>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l cont="true">Impossible, vous dis-je.</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Adieu donc, ô doux sort que mon cœur envia !</l>
+<l>Je serai plus heureux demain chez Silvia,</l>
+<l>Peut-être.</l>
+
+<pagenum num="24"/>
+
+<hstage><speaker>SILVIA</speaker>, à part.</hstage>
+<l cont="true">Que dit-il ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Puisqu’il n’est pas possible</l>
+<l>De vivre près de vous l’existence paisible</l>
+<l>Que tout à l’heure, en vous écoutant, j’entrevis,</l>
+<l>Voulez-vous me donner du moins un bon avis ?</l>
+<l>L’autre jour, on m’a dit qu’à Florence il existe</l>
+<l>Une femme à laquelle aucun cœur ne résiste</l>
+<l>Et dont le seul regard fait tomber à genoux.</l>
+<l>On la dépeint royale et pâle comme vous.</l>
+<l>Vous connaissez son nom, sans doute : la Silvie ?</l>
+<l>On ajoute de plus qu’elle mène une vie</l>
+<l>Somptueuse et que tous viennent des environs,</l>
+<l>Heureux de se mêler à ses décamérons.</l>
+<l>Comme elle doit goûter la musique câline</l>
+<l>Qui, sous un doigt savant, sort d’une mandoline,</l>
+<l>A vrai dire, c’était chez elle que j’allais.</l>
+
+<hstage><speaker>SILVIA</speaker>, à part.</hstage>
+<l>Mon Dieu !</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Je puis trouver place dans son palais</l>
+<l>Entre son négrillon et son valet de meute ;</l>
+<pagenum num="25"/>
+<l>Mais j’entends murmurer en moi la sourde émeute</l>
+<l>De tous mes sentiments d’orgueil et de fierté.</l>
+<l>Et puis on dit qu’elle est d’une étrange beauté,</l>
+<l>Qu’on respire, en vivant près d’elle, une atmosphère</l>
+<l>Funeste. Enfin, j’ai peur. Dites, que dois-je faire ?</l>
+<l>Madame, je me fie à vous en ce moment.</l>
+<l>Vous m’avez repoussé, c’est vrai, mais doucement ;</l>
+<l>Vous ne vous êtes pas sans peine décidée ;</l>
+<l>Et, je ne sais pourquoi, je garde cette idée</l>
+<l>Que pour moi votre cœur est maternel et doux,</l>
+<l>Que je vous intéresse et qu’un conseil de vous</l>
+<l>Me portera bonheur et pour toute la vie.</l>
+<l>J’attends votre ordre. — Dois-je aller chez la Silvie ?</l>
+
+<hstage><speaker>SILVIA</speaker>, à part.</hstage>
+<l>J’ai bien compris. Demain il serait revenu.</l>
+<l>Ce passant qui s’appelle Amour, cet inconnu</l>
+<l>Dont la vue a rempli mon âme de tendresse,</l>
+<l>C’est à moi, bien à moi, que le destin l’adresse.</l>
+<l>C’est le bonheur qui passe, et je le chasserais !</l>
+<l>Non. C’est trop étouffer mes sentiments secrets,</l>
+<l>Et je veux...</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Êtes-vous donc si peu mon amie</l>
+<l>Que vous vous taisez ?</l>
+
+<pagenum num="26"/>
+
+<hstage><speaker>SILVIA</speaker>, à part.</hstage>
+<l cont="true">Ah ! si c’est une infamie,</l>
+<l>Je pourrai dire au moins que le sort s’en mêla.</l>
+<pstage>Haut.</pstage>
+<l>Vous le voulez ? Eh bien !...</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l cont="true">Eh bien ?</l>
+
+<hstage><speaker>SILVIA</speaker>, après un silence et avec un violent effort.</hstage>
+<l cont="true">N’allez pas là !</l>
+<l>Croyez-moi. N’allez pas, ami, chez cette infâme.</l>
+<l>Ah ! vous ne savez pas ces choses-là. Votre âme</l>
+<l>Est innocente au point d’ignorer le danger,</l>
+<l>Mais moi qui ne peux rien, rien pour vous protéger,</l>
+<l>Hélas ! et qui vous dus refuser la première</l>
+<l>Ce qu’on vous a toujours donné dans la chaumière,</l>
+<l>Un asile, je puis vous sauver à présent.</l>
+<l>Quoi ! vous, l’enfant des bois, qui passez, amusant</l>
+<l>Les échos et luttant dans votre libre course</l>
+<l>Avec le passereau, le nuage et la source,</l>
+<l>Vous qui n’avez au cœur rien d’artificiel,</l>
+<l>Vous qui chantez ainsi que les oiseaux du ciel,</l>
+<l>Vous franchiriez, la joue humide de rosée,</l>
+<l>Le seuil de la maison funeste et méprisée ;</l>
+<pagenum num="27"/>
+<l>Vous entreriez avec le soleil du matin</l>
+<l>Dans la salle où finit à peine le festin ;</l>
+<l>Et votre lèvre pure, enfant, serait rougie</l>
+<l>A la coupe banale où s’abreuve l’orgie ;</l>
+<l>On vous en offrirait les infâmes débris ;</l>
+<l>Et vous prostituriez à ces regards flétris</l>
+<l>Par la veille, et que la débauche décolore,</l>
+<l>Vos grands yeux pleins d’azur et vos cheveux d’aurore</l>
+<l>Aller chez Silvia ? vous ne le pouvez pas.</l>
+<l>Payer d’une chanson son gîte et son repas,</l>
+<l>Rien de mieux ; mais il faut connaître davantage,</l>
+<l>Voyez-vous, le logis et le pain qu’on partage.</l>
+<l>Pardon. Je parle presque avec sévérité,</l>
+<l>A vous, tout d’innocence et tout de pureté,</l>
+<l>Quand seule j’ai besoin d’indulgence moi-même.</l>
+<l>Mais, si je suis émue, ah ! c’est que je vous aime...</l>
+<l>Comme un enfant qu’on veut arracher du péril.</l>
+<l>Non, Zanetto, restez le doux coureur d’avril !</l>
+<l>Que toujours, à travers les campagnes vermeilles,</l>
+<l>Bourdonne votre luth comme un essaim d’abeilles,</l>
+<l>Et, quand le ciel sera trop noir, allez-vous-en</l>
+<l>Chez le vieux châtelain ou le bon paysan,</l>
+<l>Et reprenez après votre éternel voyage.</l>
+<l>Enfin, si, traversant la place d’un village</l>
+<l>Par un riant matin de la jeune saison,</l>
+<pagenum num="28"/>
+<l>Vous voyez, travaillant au seuil de sa maison,</l>
+<l>Une humble et pure enfant aux yeux de fiancée,</l>
+<l>C’est là qu’il faut borner la route commencée :</l>
+<l>Vivez-y les longs jours calmes d’un moissonneur</l>
+<l>Et vous verrez, ami, que c’est là le bonheur.</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Je vous obéirai. Mais pourtant cette femme,</l>
+<l>La Silvie, il se peut aussi qu’on la diffame.</l>
+<l>Ceux qui m’avaient parlé d’elle m’avaient fait voir</l>
+<l>Son palais comme un lieu moins terrible et moins noir</l>
+<l>Et je n’y serais pas allé, je vous assure,</l>
+<l>Si j’avais su...</l>
+<pstage>Remarquant un geste douloureux de Silvia.</pstage>
+<l cont="true">Pardon ! Je touche une blessure ;</l>
+<l>Je devine. Tantôt, en m’arrêtant au seuil,</l>
+<l>Ne m’avez-vous pas dit que vous étiez en deuil ?</l>
+<l>En deuil ! On l’est surtout d’une amitié ravie.</l>
+<l>Un frère, un fiancé, pris par cette Silvie,</l>
+<l>N’est-ce pas ? Ah ! soyez bonne, et pardonnez-moi</l>
+<l>De comprendre si tard, devant un tel émoi,</l>
+<l>Que ce n’est pas mon seul intérêt qu’il épouse,</l>
+<l>Que vous souffrez, enfin que vous êtes jalouse.</l>
+
+<pagenum num="29"/>
+
+<hstage><speaker>SILVIA</speaker>, très sombre.</hstage>
+<l>Ami, votre soupçon vous trompe étrangement.</l>
+<l>Je ne regrette pas de frère ni d’amant,</l>
+<l>Et mon émotion est bien plus naturelle ;</l>
+<l>Je connais la Silvie et j’éprouve pour elle</l>
+<l>De la pitié, sachant qu’elle est, en vérité,</l>
+<l>Capable d’un moment de générosité</l>
+<l>Envers celui que son innocence protège ;</l>
+<l>Mais au cruel désir de marcher sur la neige</l>
+<l>Pourrait-elle longtemps résister ? C’est moins sûr,</l>
+<l>Car au fond elle hait le naïf et le pur.</l>
+<l>Partez donc, et croyez que seul ici mon zèle</l>
+<l>Me fait vous conseiller de n’aller pas chez elle.</l>
+<l>En vous le prescrivant j’accomplis un devoir.</l>
+<l>Éloignez-vous. Partez.</l>
+<pstage>Avec une douleur contenue.</pstage>
+<l cont="true">Vous ne pouvez savoir</l>
+<l>Combien il m’est pénible et combien il me coûte,</l>
+<l>Enfant, de détourner vos pas de cette route.</l>
+<l>Vous ne pouvez comprendre, et je le veux ainsi ;</l>
+<l>Mais je mérite bien qu’on me dise merci.</l>
+<pstage>A part.</pstage>
+<l>C’est fini. Mais, hélas ! s’il m’avait devinée !</l>
+
+<pagenum num="30"/>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Je n’irai pas. C’est vous qui l’avez condamnée.</l>
+<l>Je partirai, trouvant peut-être moins heureux</l>
+<l>Aujourd’hui qu’autrefois mon sort aventureux ;</l>
+<l>Car ici j’ai compris tout le charme indicible</l>
+<l>D’un repos qui pour moi, sans doute, est impossible.</l>
+<l>Mais j’emporte pourtant comme un bonheur confus ;</l>
+<l>Quelque chose de tendre était dans vos refus.</l>
+<l>N’emporterai-je rien de plus qui me rappelle</l>
+<l>Que, si vous dûtes être à mon souhait rebelle,</l>
+<l>Vous en aviez au cœur quelque chagrin secret</l>
+<l>Et que vous avez dit le doux mot de regret ?</l>
+
+<hstage><speaker>SILVIA</speaker>, vivement et lui offrant une de ses bagues.</hstage>
+<l>Oh ! certes, et gardez, pour qu’il vous en souvienne,</l>
+<l>Cet anneau...</l>
+
+<hstage><speaker>ZANETTO</speaker>, avec un geste de refus.</hstage>
+<l cont="true">Non, madame. Il est de forme ancienne</l>
+<l>Et rare, en or massif, orné d’un diamant</l>
+<l>Énorme. Je ne puis accepter. Non vraiment.</l>
+<l>Merci. — N’êtes-vous pas, madame, pauvre et veuve ?</l>
+
+<hstage><speaker>SILVIA</speaker>, à part.</hstage>
+<l>M’aurait-il reconnue et serait-ce une épreuve ?</l>
+<pagenum num="31"/>
+<l>Saurait-il d’où je tiens ces bijoux odieux ?</l>
+<l>Il se tait. Son regard me fait baisser les yeux.</l>
+<pstage>Haut.</pstage>
+<l>Et que voulez-vous donc enfin que je vous donne ?</l>
+
+<hstage><speaker>ZANETTO</speaker>.</hstage>
+<l>Je veux un souvenir et non pas une aumône,</l>
+<l>Un rien, mais qui soit bien à vous. — Tenez. Je veux</l>
+<l>La triste fleur qui meurt dans vos sombres cheveux.</l>
+
+<hstage><speaker>SILVIA</speaker>, lui donnant la fleur.</hstage>
+<l>Hélas ! prenez. Avant que vienne la journée,</l>
+<l>Cette rose sera, dans votre main fanée ;</l>
+<l>Mais je veux que sa mort vous rappelle ma loi,</l>
+<l>Et, quand elle sera flétrie, oubliez-moi.</l>
+<l>Adieu.</l>
+
+<hstage><speaker>ZANETTO</speaker>, s’élançant vers Silvia qui s’éloigne.</hstage>
+<l cont="true">Madame, un mot encore. Car je tremble</l>
+<l>De reprendre ma route éternelle. Il me semble</l>
+<l>Qu’il n’est plus par ici de sentier conduisant</l>
+<l>Au bonheur, et j’ai peur de choisir à présent.</l>
+<l>Choisissez donc pour moi. Soyez d’intelligence</l>
+<l>Dans cette occasion avec ma bonne chance.</l>
+<l>Je pars, mais je prendrai, pour me mettre en chemin,</l>
+<pagenum num="32"/>
+<l>Le côté vers lequel vous étendrez la main.</l>
+<l>Choisissez.</l>
+
+<hstage><speaker>SILVIA</speaker>, qui a déjà remonté à demi la rampe de la terrasse, indique à Zanetto le côté opposé à la ville.</hstage>
+<l cont="true">Allez donc du côté de l’aurore !</l>
+<pstage>Zanetto fait encore quelques pas vers Silvia ; mais celle-ci l’arrête d’un geste, et, après avoir fait un mouvement plein de désespoir, il sort brusquement.</pstage>
+
+<h3 id='p04'>SCÈNE III</h3>
+
+<cast>SILVIA seule.</cast>
+
+<pstage>Elle reste un moment sur la terrasse, accoudée et regardant s’éloigner Zanetto. Puis, tout à coup, elle se cache la tête dans les mains et fond en larmes,</pstage>
+
+<hstage><speaker>SILVIA</speaker>.</hstage>
+<l>Que l’amour soit béni ! je puis pleurer encore.</l>
+
+ </page-sequence>
+ </page-sequences>
+</bml>
