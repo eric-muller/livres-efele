@@ -1,0 +1,5864 @@
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb36568717w">
+
+      <titre>Le miroir des heures</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11921397j">
+        <nom-bibliographie>Régnier, Henri de</nom-bibliographie>
+        <dates>1864-1936</dates>
+        <nom-couverture>Henri de Régnier</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>Société du Mercure de France</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1897</date>
+
+      <langue>fr</langue>
+    </monographie>
+    
+    <volume>
+      <facsimile href="https://archive.org/details/lemiroirdesheure00rguoft"
+                 pages="N10 7-600"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000596"
+        creation="2019-03-24T11:01:13-07:00">
+      
+      <collection id='c00015'>
+        <titre>Œuvres d’Henri de Régnier</titre>
+      </collection>
+
+      <titre>Le miroir des heures</titre>
+      <soustitre>Poésies — En marge de Shakespeare — Le miroir des amants — Sept estampes amoureuses — Le médaillier — Don Juan au tombeau</soustitre>
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+  
+  <toc>
+    <tocentry idref='p00' label='POÉSIES'>
+      <tocentry idref='p01' label='DÉDICACE'/>
+      <tocentry idref='p02' label='LES VOYAGEURS'/>
+      <tocentry idref='p03' label='PAYSAGE'/>
+      <tocentry idref='p04' label='PRINTEMPS'/>
+      <tocentry idref='p05' label='L’ENNUI'/>
+      <tocentry idref='p06' label='LE SECRET'/>
+      <tocentry idref='p07' label='L’AMI'/>
+      <tocentry idref='p08' label='LE BEAU PAYS'/>
+      <tocentry idref='p09' label='CONSEIL'/>
+      <tocentry idref='p10' label='L’ORAGE'/>
+      <tocentry idref='p11' label='ÉPIGRAMMES'>
+        <tocentry idref='p12' label='Voici des roses'/>
+        <tocentry idref='p13' label='Que ma flûte entendue'/>
+        <tocentry idref='p14' label='N’enfermez pas, amis'/>
+      </tocentry>
+      <tocentry idref='p15' label='LA SOURCE'/>
+      <tocentry idref='p16' label='AUTOMNE'/>
+      <tocentry idref='p17' label='SOIR'/>
+      <tocentry idref='p18' label='L’ESPOIR SUPRÊME'/>
+      <tocentry idref='p19' label='STANCES'/>
+      <tocentry idref='p20' label='A UN POÈTE'/>
+      <tocentry idref='p21' label='LA VEILLÉE'/>
+      <tocentry idref='p22' label='LETTRE DE ROME'/>
+      <tocentry idref='p23' label='L’ARÈNE'/>
+      <tocentry idref='p24' label='L’ILE'/>
+      <tocentry idref='p25' label='NOUVELLES DE VENISE'/>
+      <tocentry idref='p26' label='VENISE MARINE'/>
+      <tocentry idref='p27' label='LA ROSE'/>
+      <tocentry idref='p28' label='LE PALAIS ROUGE'/>
+      <tocentry idref='p29' label='LE REFUGE'/>
+      <tocentry idref='p30' label='LE BOUQUET'/>
+      <tocentry idref='p31' label='LE DIVAN'/>
+      <tocentry idref='p32' label='RETOUR D’ORIENT'/>
+      <tocentry idref='p33' label='LE PRINCE CAPTIF'/>
+      <tocentry idref='p34' label='LE REPOS'/>
+      <tocentry idref='p35' label='BLANCHE-COURONNE'/>
+    </tocentry>
+
+    <tocentry idref='p36' label='EN MARGE DE SHAKESPEARE'>
+      <tocentry idref='p37' label='ANTOINE ET CLÉOPATRE'/>
+      <tocentry idref='p38' label='HAMLET'/>
+      <tocentry idref='p39' label='A OTHELLO'/>
+      <tocentry idref='p40' label='PORTIA'/>
+      <tocentry idref='p41' label='MACBETH'/>
+      <tocentry idref='p42' label='ROMÉO ET JULIETTE'/>
+    </tocentry>
+
+    <tocentry idref='p43' label='LE MIROIR DES AMANTS'>
+      <tocentry idref='p44' label='J’offre à votre visage'/>
+      <tocentry idref='p45' label='LE BONHEUR'/>
+      <tocentry idref='p46' label='L’AMOUREUSE'/>
+      <tocentry idref='p47' label='L’EXHORTATION'/>
+      <tocentry idref='p48' label='LE CHOIX'/>
+      <tocentry idref='p49' label='LA CAPTIVE'/>
+      <tocentry idref='p50' label='LA GLOIRE'/>
+      <tocentry idref='p51' label='L’INTRUS'/>
+      <tocentry idref='p52' label='LE REPOS APRÈS L’AMOUR'/>
+      <tocentry idref='p53' label='L’ANGOISSE DIVINE'/>
+      <tocentry idref='p54' label='LE JALOUX'/>
+      <tocentry idref='p55' label='VISAGES'/>
+      <tocentry idref='p56' label='L’AVEU'/>
+      <tocentry idref='p57' label='LA RUPTURE'/>
+      <tocentry idref='p58' label='LE RETOUR'/>
+      <tocentry idref='p59' label='Ce n’est pas moi qui parle'/>
+    </tocentry>
+
+    <tocentry idref='p60' label='SEPT ESTAMPES AMOUREUSES'>
+      <tocentry idref='p61' label='LUCINDE AU CORPS DIVIN'/>
+      <tocentry idref='p62' label='ALBERTE AU CHER VISAGE'/>
+      <tocentry idref='p63' label='ELVIRE AUX YEUX BAISSÉS'/>
+      <tocentry idref='p64' label='PAULINE AU CŒUR TROP TENDRE'/>
+      <tocentry idref='p65' label='JULIE AUX YEUX D’ENFANT'/>
+      <tocentry idref='p66' label='ALINE'/>
+      <tocentry idref='p67' label='CORYSE'/>
+    </tocentry>
+
+    <tocentry idref='p68' label='LE MÉDAILLIER'>
+      <tocentry idref='p69' label='LE DISCIPLE'/>
+      <tocentry idref='p70' label='LES MÉDAILLES'/>
+      <tocentry idref='p71' label='L’OFFRANDE'/>
+      <tocentry idref='p72' label='LE SALAIRE'/>
+      <tocentry idref='p73' label='AGRIGENTE'/>
+      <tocentry idref='p74' label='MÉTAPONTE'/>
+      <tocentry idref='p75' label='CYZIQUE'/>
+      <tocentry idref='p76' label='ÉPITAPHE'/>
+      <tocentry idref='p77' label='LE MIROIR'/>
+      <tocentry idref='p78' label='L’ESCLAVE'/>
+      <tocentry idref='p79' label='LE SOUVENIR'/>
+      <tocentry idref='p80' label='LE DON'/>
+      <tocentry idref='p81' label='LA BEAUTÉ'/>
+      <tocentry idref='p82' label='SALOMÉ'/>
+      <tocentry idref='p83' label='LE CASQUE'/>
+      <tocentry idref='p84' label='L’ARRIVÉE'/>
+      <tocentry idref='p85' label='LES OSMANLIS'/>
+      <tocentry idref='p86' label='AU CHAMP DES MORTS'/>
+      <tocentry idref='p87' label='RETOUR SUR L’EAU'/>
+      <tocentry idref='p88' label='L’AVEUGLE'/>
+      <tocentry idref='p89' label='CROQUIS D’ORIENT'/>
+      <tocentry idref='p90' label='LA MOURADIÉ'/>
+      <tocentry idref='p91' label='LE TURBÉ VERT'/>
+      <tocentry idref='p92' label='LE NOM'/>
+      <tocentry idref='p93' label='LE DÉPART'/>
+      <tocentry idref='p94' label='SOUVENIRS D’ORIENT'/>
+      <tocentry idref='p95' label='LE CYPRÈS'/>
+      <tocentry idref='p96' label='LE CROISSANT'/>
+      <tocentry idref='p97' label='LE SPECTRE ROUGE'/>
+      <tocentry idref='p98' label='LÉPANTE'/>
+      <tocentry idref='p99' label='L’ACHILLÉION'/>
+      <tocentry idref='p100' label='L’ILE'/>
+      <tocentry idref='p101' label='URBIS GENIO'/>
+      <tocentry idref='p102' label='LE SURNOM'/>
+      <tocentry idref='p103' label='SUR UN EXEMPLAIRE DES « DIALOGUES D’AMOUR »'/>
+      <tocentry idref='p104' label='LE LECTEUR'/>
+      <tocentry idref='p105' label='JOUR DE VENT'/>
+      <tocentry idref='p106' label='L’ADIEU'/>
+      <tocentry idref='p107' label='LES VILLES'/>
+      <tocentry idref='p108' label='LA BELLE ALDA'/>
+      <tocentry idref='p109' label='MÉDAILLE'/>
+      <tocentry idref='p110' label='LES JARDINS'/>
+      <tocentry idref='p111' label='LA VILLA'/>
+      <tocentry idref='p112' label='RENCONTRE STENDHALIENNE'/>
+      <tocentry idref='p113' label='BRESCIA'/>
+      <tocentry idref='p114' label='EN PASSANT PAR BERGAME'/>
+      <tocentry idref='p115' label='LE CASTELLO'/>
+      <tocentry idref='p116' label='LE COPISTE'/>
+      <tocentry idref='p117' label='LE CLOITRE'/>
+      <tocentry idref='p118' label='PARVA DOMUS'/>
+      <tocentry idref='p119' label='L’ABSENCE'/>
+      <tocentry idref='p120' label='CORNEILLE'/>
+      <tocentry idref='p121' label='AU BAS D’UN PORTRAIT DE MOLIÈRE'/>
+      <tocentry idref='p122' label='LA JOURNÉE DE RACINE'/>
+      <tocentry idref='p123' label='LE JEUNE ORFÈVRE'/>
+    </tocentry>
+
+    <tocentry idref='p124' label='DON JUAN AU TOMBEAU'>
+      <tocentry idref='p125' label='DON JUAN AU TOMBEAU'/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/07_couverture.png" alt="Henri de Régnier. Les jeux rustiques et divins. Aréthuse — Les roseaux de la flûte — Inscriptions pour les treize portes de la ville — La corbeille des heures — Poèmes divers. Deuxième édition. Paris. Société du Mercure de France. XV, rue de l’Échaudé-Saint-Germain, XV. M DCCC XCVII. Tous droits réservés."/>
+
+ <page-sequences>
+
+<page-sequence recto="true" id='p00'>
+<pagenum num="9"/>
+
+<h2 id='p01'>DÉDICACE</h2>
+
+<poem>
+<lg>
+<l><i>Si j’ai pu souhaiter que, pareil à Ronsard,</i></l>
+<l indent="2"><i>De l’une à l’autre tempe,</i></l>
+<l><i>Me verdît sur le front le laurier de mon art,</i></l>
+<l indent="2"><i>A l’heure de l’estampe,</i></l>
+</lg>
+<lg>
+<l><i>Ce n’est pas par désir que mon nom d’âge en âge,</i></l>
+<l indent="2"><i>Des siècles répété,</i></l>
+<l><i>Gagnât comme le sien l’honneur et l’avantage</i></l>
+<l indent="2"><i>De l’Immortalité,</i></l>
+</lg>
+
+<pagenum num="10"/>
+
+<lg>
+<l><i>Non ! si je t’ai choisi pour patron et pour maître,</i></l>
+<l indent="2"><i>O noble Vendômois,</i></l>
+<l><i>C’est moins avec l’espoir de t’égaler et d’être</i></l>
+<l indent="2"><i>Honoré par les Rois</i></l>
+</lg>
+<lg>
+<l><i>Que parce que, jadis, regardant de ton seuil</i></l>
+<l indent="2"><i>Le pin de la prairie,</i></l>
+<l><i>Tu fis bien résonner aux échos de Bourgueil</i></l>
+<l indent="2"><i>Le doux nom de Marie !</i></l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p02'>
+<pagenum num="11"/>
+
+<h2>LES VOYAGEURS</h2>
+
+<poem>
+<lg>
+<l>Adieu, vous qui partez pour ce même voyage</l>
+<l>Que jadis, au matin, avant vous, j’ai tenté !</l>
+<l>Vous me retrouverez assis sur ce rivage</l>
+<l>Que vos cœurs oublieront quand vous l’aurez quitté.</l>
+</lg>
+
+<lg>
+<l>Adieu donc ! que vos bras hissent la blanche voile</l>
+<l>Où va souffler le vent qui vous porte ma voix ;</l>
+<l>Puissent avec faveur la marée et l’étoile</l>
+<l>Vous conduire à ces bords où déjà je vous vois !</l>
+</lg>
+
+<pagenum num="12"/>
+
+<lg>
+<l>Compagnons orgueilleux, amis ingrats que j’aime,</l>
+<l>Je vous laisse partir sur la mer, sans regrets.</l>
+<l>Qu’importe le vaisseau si la route est la même !</l>
+<l>Sans aller avec vous je suis où vous irez.</l>
+</lg>
+
+<lg>
+<l>Tandis que vous croirez découvrir, à l’aurore,</l>
+<l>Le prestige changeant d’un nouvel horizon,</l>
+<l>Ma mémoire, fidèle au passé qu’elle honore,</l>
+<l>M’en rendra la couleur, la ligne et la saison ;</l>
+</lg>
+
+<lg>
+<l>Et, de la rive aride où la mer monotone</l>
+<l>Avec le même bruit mire les mêmes cieux,</l>
+<l>Je n’aurai, pour revoir tout ce qui vous étonne,</l>
+<l>Qu’à me ressouvenir et qu’à fermer les yeux.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p03'>
+<pagenum num="13"/>
+
+<h2>PAYSAGE</h2>
+
+<poem>
+<lg>
+<l>On voit, de cette place, entre ces deux pins verts</l>
+<l indent="2">Dont l’écorce est vermeille,</l>
+<l>La douceur d’un beau ciel au-dessus d’une mer</l>
+<l indent="2">A son azur pareille.</l>
+</lg>
+
+<lg>
+<l>Les hauts arbres égaux que balance le vent,</l>
+<l indent="2">En leurs fines aiguilles</l>
+<l>Laissent pendre leurs fruits, écailleux et vivants,</l>
+<l indent="2">Ainsi que des coquilles.</l>
+</lg>
+
+<pagenum num="14"/>
+
+<lg>
+<l>Dans le flot invisible et transparent de l’air</l>
+<l indent="2">Elles baignent, bercées,</l>
+<l>Tant le ciel semble bien continuer la mer</l>
+<l indent="2">Jusques en nos pensées</l>
+</lg>
+
+<lg>
+<l>Où se confond, avec le murmure marin,</l>
+<l indent="2">De la vague à la grève,</l>
+<l>Le doux, le long soupir que fait, parmi les pins,</l>
+<l indent="2">La brise la plus brève...</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p04'>
+<pagenum num="15"/>
+
+<h2>PRINTEMPS</h2>
+
+<poem>
+<lg>
+<l>De tout ce beau printemps où renaissent les roses</l>
+<l>Et qui pare la terre et qui change les cieux,</l>
+<l>Dans ma chambre fermée où les vitres sont closes,</l>
+<l>Assis auprès de toi, je n’ai vu que tes yeux.</l>
+</lg>
+
+<lg>
+<l>Que d’autres en riant s’en aillent vers l’aurore</l>
+<l>Et reviennent, le soir, par les mêmes chemins,</l>
+<l>En pressant sur leur sein où l’amour vient d’éclore</l>
+<l>La fleur au nom sacré qui parfume leurs mains !</l>
+</lg>
+
+<pagenum num="16"/>
+
+<lg>
+<l>Moi, je n’ai pas besoin, pour que mon cœur palpite,</l>
+<l>De la lumière neuve et du soleil nouveau :</l>
+<l>Un éternel avril en ma mémoire habite.</l>
+<l>Que m’importe au dehors ce que chante l’oiseau !</l>
+</lg>
+
+<lg>
+<l>Que m’importent la source où l’arbre doux se mire,</l>
+<l>Et l’odeur de la terre et la couleur des cieux,</l>
+<l>Puisque c’est sur ta bouche où sourit et respire</l>
+<l>La rose d’un printemps que j’ai vu dans tes jeux !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p05'>
+<pagenum num="17"/>
+
+<h2>L’ENNUI</h2>
+
+<poem>
+<lg>
+<l>Pour distraire aujourd’hui ma tristesse importune</l>
+<l>Ne pose pas ta main sur mon front soucieux,</l>
+<l>Car l’angoisse de vivre y plisse sa rancune</l>
+<l>Dont le mauvais éclair brûle encor dans mes yeux.</l>
+</lg>
+
+<lg>
+<l>Fais glisser lentement sur les fenêtres closes</l>
+<l>Les longs rideaux obscurs qui devancent la nuit ;</l>
+<l>En ce cristal terni laisse mourir ces roses :</l>
+<l>Leurs feuilles en tombant disent le temps qui fuit.</l>
+</lg>
+
+<pagenum num="18"/>
+
+<lg>
+<l>Ne viens pas me parler de bonheur et de gloire :</l>
+<l>Mon cœur est sans désir et mon esprit est las ;</l>
+<l>Mon destin lourdement rame sur une eau noire</l>
+<l>Où la barre dévie et résiste à mon bras.</l>
+</lg>
+
+<lg>
+<l>Que ton pas soit léger comme le pas d’une ombre !</l>
+<l>Le silence convient à ce jour détesté,</l>
+<l>Puisque mon rêve morne, interminable et sombre</l>
+<l>Hante un fleuve pesant qui n’est pas le Léthé.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p06'>
+<pagenum num="19"/>
+
+<h2>LE SECRET</h2>
+
+<poem>
+<lg>
+<l>Je ne chanterai plus, mon cœur, tes noirs secrets,</l>
+<l>Mais je leur sculpterai, tels que, d’or et d’ébène,</l>
+<l>En porte la Tristesse entre ses mains de reine,</l>
+<l>Un de ces lourds, profonds et singuliers coffrets.</l>
+</lg>
+
+<lg>
+<l>Je ne livrerai plus aux passants du chemin</l>
+<l>La clé des beaux palais de ma mélancolie</l>
+<l>Et ne permettrai plus qu’on cueille en son jardin</l>
+<l>Les fruits de ma mémoire et les fleurs de ma vie.</l>
+</lg>
+
+<pagenum num="20"/>
+
+<lg>
+<l>Ne vient-il pas un temps où, sans de vains aveux,</l>
+<l>La bouche doit se clore et la voix doit se taire,</l>
+<l>Si même on laisse encor deviner dans ses yeux</l>
+<l>Quelque muet tourment à jamais solitaire ?</l>
+</lg>
+
+<lg>
+<l>Aussi, pour les garder des regards indiscrets,</l>
+<l>Je remets en vos mains, Silence, et vous Tristesse,</l>
+<l>Avec tout son amour et toute sa détresse,</l>
+<l>Mon taciturne cœur et ses sombres secrets.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p07'>
+<pagenum num="21"/>
+
+<h2>L’AMI</h2>
+
+<poem>
+<lg>
+<l>Dites-moi la douceur que vous avez connue</l>
+<l>A la tenir longtemps en vos bras, lasse et nue,</l>
+<l>Après la longue attente et l’inquiet désir,</l>
+<l>Comment vos mains savaient doucement la servir</l>
+<l>Et, promptes, dénouer d’une hâte inégale</l>
+<l>La ceinture flexible et l’étroite sandale,</l>
+<l>Tandis que, devant vous, docile à votre amour,</l>
+<l>Lascive, rougissante ou grave, tour à tour,</l>
+<l>Ses regards souriaient à la porte fermée ;</l>
+<pagenum num="22"/>
+<l>Dites-moi, mon ami, que vous l’avez aimée,</l>
+<l>Que jamais le soleil ne vous parut plus beau,</l>
+<l>Que la terre, le ciel, le vent, la feuille, l’eau</l>
+<l>Vous semblaient pleins de chants, de joie et de lumière,</l>
+<l>Qu’elle était douce, et tendre, et simple, et jeune, et fière ;</l>
+<l>Dites-moi son visage et ses yeux et sa voix,</l>
+<l>La fleur qu’elle tenait, vivante, entre ses doigts,</l>
+<l>Que le jour était pur parce qu’elle était belle,</l>
+<l>Et, lorsque jusqu’au soir vous m’aurez parlé d’elle,</l>
+<l>Je m’en irai, et, dans la nuit, sur le chemin,</l>
+<l>En me ressouvenant de mon printemps lointain,</l>
+<l>Je croirai, par la vôtre à la mienne rendue,</l>
+<l>Entendre me parler ma jeunesse perdue.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p08'>
+<pagenum num="23"/>
+
+<h2>LE BEAU PAYS</h2>
+
+<poem>
+<lg>
+<l>Je ne suis pas le fils des îles lumineuses</l>
+<l>Qui parfument la mer d’un éternel printemps,</l>
+<l>Et je n’ai pas connu leurs nuits mystérieuses,</l>
+<l>Car je ne suis pas né sous leurs cieux éclatants.</l>
+</lg>
+
+<lg>
+<l>J’ai vécu les premiers des jours que j’eus à vivre</l>
+<l>Dans l’étroite maison tournée au vent du Nord,</l>
+<l>Écoutant, à travers la vitre où luit le givre,</l>
+<l>La rumeur de la rue et les sifflets du port.</l>
+</lg>
+
+<pagenum num="24"/>
+
+<lg>
+<l>Les barques qui partaient, bissant leurs blanches voiles</l>
+<l>Dans l’aube pâle encore ou dans le clair matin,</l>
+<l>S’en revenaient toujours aux premières étoiles,</l>
+<l>Et leur voyage prompt n’était jamais lointain.</l>
+</lg>
+
+<lg>
+<l>Elles ne rapportaient de leur course voisine</l>
+<l>Ni les fleurs, ni les fruits d’un rivage inconnu,</l>
+<l>Ni, prise ruisselante à l’écume divine,</l>
+<l>Dans leur filet marin, la Sirène au sein nu.</l>
+</lg>
+
+<lg>
+<l>Elles n’avaient vu poindre en quelque ardente aurore</l>
+<l>Ni Charybde aboyant ni le rauque Scylla,</l>
+<l>Ni salué de loin, au cap, debout encore,</l>
+<l>Quelque temple en ruine et pourtant toujours là.</l>
+</lg>
+
+<lg>
+<l>Cependant, à mes yeux d’enfant qui rit et joue</l>
+<l>Et dont le cœur pensif bat d’un désir obscur,</l>
+<l>La voile la plus rude et la plus humble proue</l>
+<l>Évoquaient des pays de musique et d’azur.</l>
+</lg>
+
+<lg>
+<l>Beau pays ! ton mirage enivra ma jeunesse,</l>
+<l>Et mon cœur a connu tes aubes et tes nuits ;</l>
+<l>Devant moi, ta Sirène a dénoué sa tresse,</l>
+<l>Et j’ai goûté tes fleurs, tes sources et tes fruits.</l>
+</lg>
+
+<pagenum num="25"/>
+
+<lg>
+<l>O toi, dont nul regret n’a terni le mensonge,</l>
+<l>Parce qu’il me suffit que je ferme les yeux</l>
+<l>Pour sentir en mon rêve et pour voir en mon songe</l>
+<l>Ta forme ton parfum, ta lumière et tes Dieux !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p09'>
+<pagenum num="26"/>
+
+<h2>CONSEIL</h2>
+
+<poem>
+<lg>
+<l>Je vous ai dit, mon cœur, en ce grave matin</l>
+<l>Où, sur la chambre vide et le foyer éteint,</l>
+<l>A l’aube, en frissonnant, nous fermâmes la porte,</l>
+<l>Avant que de tenter d’une sandale forte</l>
+<l>La route qui conduit du seuil de la maison</l>
+<l>Vers le jeune soleil d’un nouvel horizon,</l>
+<l>Je vous disais : Mon cœur, soyez fort et stoïque,</l>
+<l>Car le chemin est fourbe et la voie est oblique,</l>
+<l>Et le caillou fréquent y fait buter les pas ;</l>
+<pagenum num="27"/>
+<l>La source sera loin lorsque vous serez las ;</l>
+<l>Lorsque nous aurons faim, l’arbre dans sa verdure</l>
+<l>N’aura pour nous qu’un fruit amer comme une injure ;</l>
+<l>Nous saignerons sans doute aux ronces du fossé ;</l>
+<l>Le sable sera rouge où nous aurons passé.</l>
+<l>Êtes-vous prêt, pourtant, à ces sévères choses,</l>
+<l>Vous que l’épine aiguë éloignait de ses roses,</l>
+<l>Vous si faible, et si doux, mon cœur, êtes-vous prêt</l>
+<l>A vous perdre avec moi dans la sombre forêt,</l>
+<l>A traverser la mer où souffle le vent rude,</l>
+<l>A subir longuement, après la solitude,</l>
+<l>Le fouet du charretier, le coude du passant,</l>
+<l>La corne du taureau, le cri du chien méchant ?</l>
+<l>Êtes-vous prêt, au gîte où vous croirez atteindre,</l>
+<l>A voir l’huis se fermer et la lampe s’éteindre,</l>
+<l>A ce que le laurier que vous vouliez cueillir</l>
+<l>Devienne un rameau vain qui semble se flétrir ?</l>
+<l>Saurez-vous affronter l’opprobre et l’avanie ?</l>
+<l>N’aurez-vous pas horreur de la route haïe,</l>
+<l>Mon cœur ? Consultez-vous, si vous êtes de ceux</l>
+<l>Qui vont obstinément vers un but hasardeux,</l>
+<l>Fier, si luit un instant, sur votre destinée,</l>
+<l>La pourpre d’un beau ciel au soir de sa journée ?</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p10'>
+<pagenum num="28"/>
+
+<h2>L’ORAGE</h2>
+
+<poem>
+<lg>
+<l>Les lis du vase vert ont une odeur d’orage,</l>
+<l indent="2">Et, peu à peu,</l>
+<l>Se dessinent la grille et l’aile d’un nuage</l>
+<l indent="2">Au ciel trop bleu ;</l>
+</lg>
+
+<lg>
+<l>Le miroir sur le mur, en sa rocaille torse</l>
+<l indent="2">Crispant son or,</l>
+<l>Paraît terne, engourdi, sans reflet et sans force,</l>
+<l indent="2">Et comme mort ;</l>
+</lg>
+
+<pagenum num="29"/>
+
+<lg>
+<l>Les lis trop parfumés, en leur faïence verte,</l>
+<l indent="2">Semblent trop blancs,</l>
+<l>Et, dans l’air lourd, là-bas, à la fenêtre ouverte,</l>
+<l indent="2">Parfois j’entends,</l>
+</lg>
+
+<lg>
+<l>Tandis que je regarde à travers la dentelle</l>
+<l indent="2">Votre sein nu,</l>
+<l>Passer comme un éclair le cri des hirondelles</l>
+<l indent="2">Au vol aigu...</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p11'>
+<pagenum num="30"/>
+
+<h2>ÉPIGRAMMES</h2>
+
+<h2 id='p12'>I</h2>
+
+<poem>
+<lg>
+<l>Voici des roses. L’an nouveau vous les apporte.</l>
+<l>Puissent-elles, un jour, plaire à vos yeux contents !</l>
+<l>Si leur fraîcheur est brève et passe en peu de temps,</l>
+<l>Leur parfum dure encor lorsque la fleur est morte ;</l>
+<l>Ainsi du Souvenir l’odeur tenace et forte</l>
+<l>Persiste sans faiblir et demeure longtemps.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p13'>
+<pagenum num="31"/>
+
+<h2>II</h2>
+
+<poem>
+<lg>
+<l>Que ma flûte entendue au milieu du bois noir,</l>
+<l>T’indique, ô voyageur, la source solitaire ;</l>
+<l>Car, pareille au Regret et pareille à l’Espoir,</l>
+<l>Elle mire en son eau, tour à tour sombre ou claire,</l>
+<l>L’Étoile du matin et l’Étoile du soir !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p14'>
+<pagenum num="32"/>
+
+<h2>III</h2>
+
+<poem>
+<lg>
+<l>N’enfermez pas, amis, aux flancs de l’urne creuse</l>
+<l indent="2">La cendre de mon corps brûlé,</l>
+<l>Je ne veux pas, au fond de la nuit argileuse,</l>
+<l indent="2">Dormir mon repos isolé.</l>
+</lg>
+
+<lg>
+<l>Si l’esprit inquiet habite la poussière</l>
+<l indent="2">De celui qui fut un vivant,</l>
+<l>Laissez-la s’envoler dans la belle lumière,</l>
+<l indent="2">Dispersée au souffle du vent.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p15'>
+<pagenum num="33"/>
+
+<h2>LA SOURCE</h2>
+
+<poem>
+<lg>
+<l>J’ai longtemps habité le pays taciturne</l>
+<l>Où la Tristesse, nue en ses voiles d’airain</l>
+<l>Et l’épaule lassée au fardeau de son urne,</l>
+<l>Écoutait murmurer un fleuve souterrain ;</l>
+</lg>
+
+<lg>
+<l>Et l’obscure rumeur de cette onde lointaine</l>
+<l>Était l’unique voix dont me parvînt l’écho :</l>
+<l>Car de la terre inerte et de l’air sans haleine</l>
+<l>Aucun bruit ne troublait l’immobile repos ;</l>
+</lg>
+
+<pagenum num="34"/>
+
+<lg>
+<l>Et quand, las de silence et las de solitude</l>
+<l>Et du même horizon où s’épuisaient mes veux,</l>
+<l>Je me laissais tomber, le front sur le roc rude,</l>
+<l>J’entendais sourdre en bas le flot mystérieux ;</l>
+</lg>
+
+<lg>
+<l>Et sa plainte secrète, éloquente et profonde,</l>
+<l>Emplissait mon esprit et pénétrait ma chair</l>
+<l>Du désir douloureux de voir avec son onde</l>
+<l>Jaillir la source vive où rirait le ciel clair.</l>
+</lg>
+
+<lg>
+<l>Mais debout, et tenant sur l’épaule son urne</l>
+<l>Où de sa propre cendre elle portait le poids,</l>
+<l>Reine aux voiles d’airain du pays taciturne,</l>
+<l>La Tristesse allongeait son ombre jusqu’à moi.</l>
+</lg>
+
+<vsep class="onestar"/>
+
+<lg>
+<l>Maintenant que ta main me guide vers l’aurore,</l>
+<l>O toi qui m’arrachas à mon mal détesté,</l>
+<l>L’air que nous respirons vibre à ta voix sonore</l>
+<l>Et les fleurs de la nuit parfument ta beauté,</l>
+</lg>
+
+<pagenum num="35"/>
+
+<lg>
+<l>Tu m’as appris où sont les sources du bois sombre</l>
+<l>Et les sources des prés et les sources des monts</l>
+<l>Dont, longtemps souterraine et froide encor de l’ombre,</l>
+<l>L’eau s’irise au soleil d’éclairs et de rayons,</l>
+</lg>
+
+<lg>
+<l>L’eau qui, bue au cristal, ou qui, bue en l’argile,</l>
+<l>De sa vertu limpide exalte nos matins</l>
+<l>Où ton pas plus léger et mon pas plus agile</l>
+<l>Nous mènent, en chantant, sur les nouveaux chemins.</l>
+</lg>
+
+<lg>
+<l>Et c’est ainsi qu’un jour, de fontaine en fontaine,</l>
+<l>En quelque doux vallon où son flot est caché,</l>
+<l>Nous atteindrons, parmi les lauriers et les chênes,</l>
+<l>L’onde deux fois divine où rit un Dieu penché.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p16'>
+<pagenum num="36"/>
+
+<h2>AUTOMNE</h2>
+
+<poem>
+<lg>
+<l>Les matins de printemps ont des douceurs légères</l>
+<l>Qui font que, si l’on aime, on croit qu’on est aimé,</l>
+<l>Car on entend chanter parmi les primevères</l>
+<l>Les fontaines d’avril et les oiseaux de mai.</l>
+</lg>
+
+<lg>
+<l>J’aime les jours d’été dont l’aurore est si belle</l>
+<l>Que la fleur s’illumine et que la feuille luit,</l>
+<l>Et qu’on pense, tant leur clarté semble éternelle,</l>
+<l>Qu’ils n’auront pas de fin et qu’ils seront sans nuit ;</l>
+</lg>
+
+<pagenum num="37"/>
+
+<lg>
+<l>Mais je préfère encor les rouges soirs d’automne</l>
+<l>Dont la pourpre flamboie à l’horizon en feu,</l>
+<l>Parce que notre cœur en sa cendre s’étonne</l>
+<l>D’avoir été pareil à leur ardent adieu !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p17'>
+<pagenum num="38"/>
+
+<h2>SOIR</h2>
+
+<poem>
+<lg>
+<l>Il est doux, ô mes yeux, lorsque le vent d’automne</l>
+<l>Cesse de s’acharner à l’arbre dont frissonne</l>
+<l>Le spectre dépouillé qui craque et tremble encor,</l>
+<l>De voir, dans l’air muet où son vol se balance,</l>
+<l>Tomber en tournoyant, à travers le silence,</l>
+<l indent="2">Une dernière feuille d’or !</l>
+</lg>
+
+<lg>
+<l>Quand au jour éclatant qui se voile succède</l>
+<l>Le crépuscule lent, humide, mol et tiède,</l>
+<l>Qui fait perler la mousse au dos des bancs velus,</l>
+<l>Il est doux, au jardin mystérieux, d’entendre</l>
+<l>Résonner dans le soir le rire obscur et tendre</l>
+<l indent="2">Des visages qu’on ne voit plus.</l>
+</lg>
+
+<pagenum num="39"/>
+
+<lg>
+<l>Il est doux, ô mon cœur, lorsque la route est noire,</l>
+<l>D’écouter longuement au fond de sa mémoire</l>
+<l>Le pas du Souvenir aux échos de la nuit.</l>
+<l>Si le divin flambeau est mort en sa main sombre,</l>
+<l>Et s’il n’est pas l’Amour, peut-être en est-ce l’ombre</l>
+<l indent="2">Au moins qu’il ramène avec lui !...</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p18'>
+<pagenum num="40"/>
+
+<h2>L’ESPOIR SUPRÊME</h2>
+
+<poem>
+<lg>
+<l>Qu’importe si la tombe à présent où tu dors</l>
+<l>Et qui ne fait de toi qu’un mort d’entre les morts</l>
+<l>N’arrête point les pas de la foule rapide</l>
+<l>Par son urne pompeuse ou par sa pyramide,</l>
+<l>Et si son marbre dur ou son solide airain</l>
+<l>N’attire pas les yeux du passant incertain</l>
+<l>Et de ceux qui, devant les grandes destinées,</l>
+<l>Courbent pieusement leurs têtes inclinées !</l>
+<l>Que d’autres, pour montrer leur faste ou leur orgueil,</l>
+<pagenum num="41"/>
+<l>Sur leur cendre avec soin scellent des blocs de deuil,</l>
+<l>Ne te suffit-il pas, à toi, que tu reposes</l>
+<l>Sous ce cyprès aigu qu’enlacent quelques roses ?</l>
+<l>Et, si nul ne s’attarde autour de ton tombeau,</l>
+<l>N’est-ce donc pas assez qu’il y chante un oiseau ?</l>
+<l>Et, si même, en un jour futur, de l’humble pierre,</l>
+<l>Que rongera la mousse et couvrira le lierre,</l>
+<l>Ton nom s’efface, eh bien ! que t’importe, pourvu</l>
+<l>Que l’ombre de l’amour y pose son pied nu !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p19'>
+<pagenum num="42"/>
+
+<h2>STANCES</h2>
+
+<poem>
+<lg>
+<l>Il ne faut souhaiter de voir un trop long âge</l>
+<l>Et mieux vaut mourir tôt que de vivre longtemps,</l>
+<l>Car fol est qui s’acharne à porter au visage</l>
+<l>L’aspect de la vieillesse et le masque du temps !</l>
+</lg>
+
+<lg>
+<l>Qu’un autre trouve en soi la constance et la force</l>
+<l>Qui le fassent durer, content de ce qu’il est !</l>
+<l>A mon sens, l’arbre mort dont ne croît plus l’écorce</l>
+<l>Encombre le taillis et gâte la forêt.</l>
+</lg>
+
+<pagenum num="43"/>
+
+<lg>
+<l>Aussi, non dans l’hiver, mais en mon plein automne,</l>
+<l>Veux-je que, d’un seul coup, m’abatte le destin,</l>
+<l>Pour qu’en tombant mon soir encore se couronne</l>
+<l>Du feuillage compact qui paraît son matin,</l>
+</lg>
+
+<lg>
+<l>Et pour que le tranchant du fer qui le taillade,</l>
+<l>Au delà de la fibre et de l’aubier vivant,</l>
+<l>Rencontre au cœur du tronc la chair de la Dryade</l>
+<l>En qui s’en pourpre encor la sève de mon sang !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p20'>
+<pagenum num="44"/>
+
+<h2>A UN POÈTE</h2>
+
+<poem>
+<lg>
+<l>Du même geste dont on sème</l>
+<l>Au sillon l’or épars du grain,</l>
+<l>Tu composes chaque poème</l>
+<l>Selon ton geste ample et serein ;</l>
+</lg>
+
+<lg>
+<l>En ta strophe, je crois entendre</l>
+<l>Le bruit éclatant ou secret</l>
+<l>Que fait le vent, grondeur ou tendre,</l>
+<l>Dans les feuilles de la forêt ;</l>
+</lg>
+
+<pagenum num="45"/>
+
+<lg>
+<l>Ton vers, tour à tour, marche ou vole,</l>
+<l>Tantôt grave, tantôt ailé ;</l>
+<l>Et tantôt il est la corolle,</l>
+<l>Tantôt le fruit mûr et gonflé ;</l>
+</lg>
+
+<lg>
+<l>Tout le ciel et toute la terre</l>
+<l>Se sont peints au fond de tes yeux,</l>
+<l>La bête et son humble mystère,</l>
+<l>Et l’homme qui songe à ses Dieux ;</l>
+</lg>
+
+<lg>
+<l>Salut à toi, fils de Virgile !</l>
+<l>La Muse te dresse un autel,</l>
+<l>Car tu sus, d’un roseau fragile,</l>
+<l>Faire naître un chant immortel !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p21'>
+<pagenum num="46"/>
+
+<h2>LA VEILLÉE</h2>
+
+<poem>
+<lg>
+<l>Venez. Je vous promets pour réjouir vos yeux</l>
+<l>La lampe familière et le foyer joyeux</l>
+<l>Où la pomme de pin vivement allumée</l>
+<l>Craque et pétille en flamme à travers la fumée.</l>
+<l>Les volets seront clos. La porte sur vos pas</l>
+<l>Se fermera pour que les fâcheux n’entrent pas ;</l>
+<l>Et, si l’un, cependant, comme une ombre importune,</l>
+<l>Soudain, entre nous deux, se montrait par fortune,</l>
+<l>Je prendrais cet éclat de marbre, d’un fronton</l>
+<l>Tombé, et recueilli devant le Parthénon,</l>
+<l>Et qui repose là sur le coin de ma table,</l>
+<l>Et j’en lapiderais ce spectre détestable.</l>
+<pagenum num="47"/>
+<l>Car, ce soir, nous voulons, graves, seuls et pieux,</l>
+<l>Parler en liberté des héros et des dieux</l>
+<l>Et nous ressouvenir de la Grèce immortelle</l>
+<l>En redisant tout haut ce que nous savons d’elle.</l>
+<l>Tous deux, n’avons-nous pas foulé son sol sacré</l>
+<l>Et vu, dans l’air divin au couchant empourpré</l>
+<l>Ou dans le ciel plus clair et que l’aurore teinte,</l>
+<l>Le soleil se lever ou mourir sur Corinthe ?</l>
+</lg>
+
+<lg>
+<l>C’est pourquoi, tout un soir, alternativement,</l>
+<l>Tandis que brûleront la pomme et le sarment,</l>
+<l>Tour à tour, et pareils à des Bergers d’églogue,</l>
+<l>Nos voix répéteront l’éternel dialogue</l>
+<l>Auquel, de siècle en siècle, un même écho répond</l>
+<l>Et qui chante l’honneur de la Terre au beau nom ;</l>
+<l>Et, chacun, évoquant du fond de sa mémoire</l>
+<l>Des images de paix, d’héroïsme et de gloire,</l>
+<l>L’un vantera le temple et l’autre la cité,</l>
+<l>La montagne neigeuse et le golfe argenté ;</l>
+<l>Et nous célébrerons la lumière qui dore</l>
+<l>Les marbres d’Éleusis, d’Égine et d’Épidaure.</l>
+</lg>
+
+<lg>
+<l>Et nul ne troublera notre veille. Parfois,</l>
+<l>Lorsque l’émotion fera trembler nos voix,</l>
+<l>Et que nous nous tairons d’avoir nommé sans crainte</l>
+<pagenum num="48"/>
+<l>Quelque antre fabuleux ou quelque source sainte :</l>
+<l>Hippocrène et son flot, Delphes et son laurier,</l>
+<l>Alors, presque peureux et prêts à le prier</l>
+<l>De ne pas nous punir de notre audace impie,</l>
+<l>Nous croirons voir rôder, dans la chambre assombrie</l>
+<l>Où la lampe charbonne auprès de l’âtre éteint,</l>
+<l>Fantôme familier à la fois et hautain,</l>
+<l>Quelque vieux roi d’Argos paternel et farouche</l>
+<l>Qui, loin de châtier nos yeux et notre bouche,</l>
+<l>D’un geste, à son baiser, tendra l’antique anneau</l>
+<l>Où rue en l’or massif l’empreinte d’un taureau.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p22'>
+<pagenum num="49"/>
+
+<h2>LETTRE DE ROME</h2>
+
+<poem>
+<lg>
+<l>Je vous écris, ce soir, de la Ville Éternelle...</l>
+<l>Sa poussière héroïque a touché ma semelle ;</l>
+<l>Je respire une odeur de marbre et de laurier,</l>
+<l>Et ma plume à mes doigts tremble sur le papier</l>
+<l>En y traçant ce nom sonore et grave : Rome.</l>
+<l>L’hôtel est convenable et l’hôtelier brave homme ;</l>
+<l>Il a l’air d’être Suisse et porte un nom romain.</l>
+<l>Ma chambre est vaste et l’on doit m’éveiller demain</l>
+<l>A six heures. Je suis arrivé à la gare,</l>
+<pagenum num="50"/>
+<l>Qu’il faisait déjà noir. J’ai dîné. Mon cigare</l>
+<l>Sera presque fumé sitôt ce mot écrit.</l>
+<l>Puisse Rome être douce à ma première nuit !</l>
+<l>D’elle, je n’ai rien vu qu’une ville quelconque,</l>
+<l>Des maisons, une place où soufflait dans sa conque</l>
+<l>Un Triton qui lançait un flexible jet d’eau,</l>
+<l>Et maintenant, j’entends à travers le rideau</l>
+<l>Les cloches, dans le ciel, d’une église voisine,</l>
+<l>Et j’écoute mon cœur battre dans ma poitrine.</l>
+<l>J’ai peur. Autour de moi, dans l’ombre où elle dort,</l>
+<l>Rome est là, comme un fantôme de bronze et d’or,</l>
+<l>Et mon esprit est plein d’une rumeur sacrée.</l>
+<l>Rome est ainsi pour qui, longtemps, l’a désirée,</l>
+<l>Et savoir qu’elle est là, derrière ce carreau,</l>
+<l>C’est émouvant, c’est mystérieux et c’est beau,</l>
+<l>Et penser, quand le jour blanchira la fenêtre,</l>
+<l>Que c’est sur Rome enfin que l’aurore va naître</l>
+<l>Vous étreint d’une joie où tremble un peu d’effroi...</l>
+<l>Mais ma bougie est naine et mon cigare est froid</l>
+<l>Adieu, songez à moi. Je suis heureux. L’attente</l>
+<l>Rend le cœur plus fébrile et l’âme plus ardente.</l>
+<l>Rome ! je te vais voir en ton matin vermeil,</l>
+<l>Et, pour te posséder déjà dans mon sommeil,</l>
+<l>J’entrerai dans la nuit que ta gloire illumine</l>
+<l>En répétant sept fois les noms des sept collines.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p23'>
+<pagenum num="51"/>
+
+<h2>L’ARÈNE</h2>
+
+<poem>
+<lg>
+<l>L’arène est vaste, nue, ardente, circulaire,</l>
+<l>Et le soleil couchant, de ses rayons, éclaire</l>
+<l>Les gradins. Déjà, l’ombre en gravit la moitié.</l>
+<l>Le bloc soutient le bloc à sa masse appuyé,</l>
+<l>Et tout le large cirque, en sa rondeur immense,</l>
+<l>Semble une cuve creuse et pleine de silence,</l>
+<l>Tandis que, sur le ciel, se dresse un pan de mur</l>
+<l>Debout et fruste, avec trois arcades d’azur.</l>
+<l>Et l’on songe devant ces débris, taciturne.</l>
+<pagenum num="52"/>
+<l>Comme on respire un vin à l’argile de l’urne,</l>
+<l>Que, peut-être, jadis, coula du sang chrétien</l>
+<l>Sur ce sable... Et déjà le crépuscule vient</l>
+<l>Avec, vers l’occident, des lueurs empourprées ;</l>
+<l>Et l’on pense à des bonds de bêtes éventrées,</l>
+<l>Et dans l’air rôde encor une odeur de martyr...</l>
+<l>Mais l’ombre est plus épaisse et dit qu’il faut partir.</l>
+<l>Les derniers visiteurs s’en vont vers la sortie.</l>
+<l>D’un campanile sonne une cloche amortie.</l>
+<l>Il ne reste à présent dans l’arène que nous</l>
+<l>Et, là-haut, dans l’arcade claire du mur roux</l>
+<l>Qui semble fauve encor de torches et de flammes,</l>
+<l>Un gros prêtre qui rit, très fort, entre deux Marnes.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p24'>
+<pagenum num="53"/>
+
+<h2>L’ILE</h2>
+
+<poem>
+<lg>
+<l>Puisqu’à nos souvenirs le Destin la mêla,</l>
+<l>Nous reviendrons un jour à l’Isola Bella,</l>
+<l>Et nous retournerons, puisque tu l’as aimée,</l>
+<l>Au rivage divin de l’Ile parfumée</l>
+<l>Et qui, sur l’eau, semble endormie en du bonheur.</l>
+<l>Le vieux gardien indifférent au visiteur</l>
+<l>Nous ouvrira l’accès de la Villa baroque,</l>
+<l>Et le trousseau de clés que sa main entre-choque</l>
+<l>Fera trembler le lustre et vibrer le miroir,</l>
+<pagenum num="54"/>
+<l>Et dans le doux jardin qu’il montre — sans en voir</l>
+<l>Les fleurs, le labyrinthe et les triples terrasses</l>
+<l>D’où ne s’envolent pas les colombes trop grasses</l>
+<l>— Nous le suivrons, et tout encor sera pareil,</l>
+<l>Avec le même azur et le même soleil.</l>
+<l>L’air sera transparent, noble, mol et limpide ;</l>
+<l>Pas plus que le ciel bleu le lac n’aura de ride,</l>
+<l>Et, le long du mur jaune où luit le citron d’or,</l>
+<l>Dans le silence clair, nous entendrons encor</l>
+<l>Battre, oiseaux revenus au nid du temps sans aile,</l>
+<l>Nos cœurs toujours heureux dans l’île toujours belle.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p25'>
+<pagenum num="55"/>
+
+<h2>NOUVELLES DE VENISE</h2>
+
+<poem>
+<lg>
+<l>Vous m’écrivez de Venise</l>
+<l>Que jamais printemps plus beau</l>
+<l>N’a tiédi l’air qui s’irise</l>
+<l>Et miré le ciel dans l’eau,</l>
+</lg>
+
+<lg>
+<l>Que la lagune est divine</l>
+<l>D’argent vif ou d’or pâli</l>
+<l>Et que la mousse marine</l>
+<l>Brode le bois des « pali »,</l>
+</lg>
+
+<pagenum num="56"/>
+
+<lg>
+<l>Que les linges aux ficelles</l>
+<l>Sèchent sur les vieux balcons</l>
+<l>Et qu’on voit les hirondelles</l>
+<l>Filer sous l’arche des ponts...</l>
+</lg>
+
+<vsep class="onestar"/>
+
+<lg>
+<l>Vous dites, entre autres choses,</l>
+<l>Que, sur la Rio San Stin,</l>
+<l>Une escalade de roses</l>
+<l>Franchit le mur d’un jardin,</l>
+</lg>
+
+<lg>
+<l>Que dans l’air où il blasonne,</l>
+<l>Gueule ouverte et flanc gonflé,</l>
+<l>Le Lion sur sa colonne</l>
+<l>Arque mieux son dos ailé,</l>
+</lg>
+
+<lg>
+<l>Que Venise tout entière,</l>
+<l>Canaux, églises, palais,</l>
+<l>N’est que silence, lumière,</l>
+<l>Couleur — et que tu t’y plais.</l>
+</lg>
+
+<pagenum num="57"/>
+
+<vsep class="onestar"/>
+
+<lg>
+<l>Et j’évoque en ma mémoire</l>
+<l>Ton visage auprès du mien</l>
+<l>Lorsque nous goûtions la gloire</l>
+<l>Du printemps vénitien,</l>
+</lg>
+
+<lg>
+<l>Et je crois, lointain délice</l>
+<l>Qui m’enchante et me fait mal,</l>
+<l>Que notre gondole glisse</l>
+<l>Et tourne au coin d’un canal,</l>
+</lg>
+
+<lg>
+<l>Et, soudain, qu’elle débouche,</l>
+<l>Noire sur le flot doré</l>
+<l>Par le soleil qui se couche</l>
+<l>Sur San Giorgio Maggiore !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p26'>
+<pagenum num="58"/>
+
+<h2>VENISE MARINE</h2>
+
+<poem>
+<lg>
+<l>C’est l’heure la plus belle et le plus beau matin</l>
+<l indent="2">Du reste de ta vie</l>
+<l>Que tu goûtes peut-être en ce petit jardin,</l>
+<l indent="2">Sous ce ciel d’Italie.</l>
+</lg>
+
+<lg>
+<l>Le dahlia, la sauge, avec l’œillet poivré</l>
+<l indent="2">Et la rose d’automne,</l>
+<l>Fleurissent dans l’air pur, transparent et doré</l>
+<l indent="2">Où l’abeille bourdonne.</l>
+</lg>
+
+<pagenum num="59"/>
+
+<lg>
+<l>Derrière le mur rouge où grimpent en feston</l>
+<l indent="2">La vigne et la glycine,</l>
+<l>Une fille frappe la dalle, du talon,</l>
+<l indent="2">Dans la <i>calle</i> voisine.</l>
+</lg>
+
+<lg>
+<l>Puis tout se tait, et le silence de nouveau</l>
+<l indent="2">S’étale, s’éternise,</l>
+<l>Jusqu’à ce que le bruit d’une rame sur l’eau</l>
+<l indent="2">Le disperse et le brise...</l>
+</lg>
+
+<lg>
+<l>Le <i>rio</i>, la <i>calle</i>, le ciel et le jardin,</l>
+<l indent="2">Cette cloche qui sonne,</l>
+<l>Et ce silence, et cette odeur, et ce matin,</l>
+<l indent="2">Et ces roses d’automne,</l>
+</lg>
+
+<lg>
+<l>O mon cœur, tout cela qui passe, tout cela</l>
+<l indent="2">Qui te charme et t’enchante,</l>
+<l>Jouis-en, ô mon cœur, car chaque instant s’en va</l>
+<l indent="2">Et nulle heure n’est lente !</l>
+</lg>
+
+<pagenum num="60"/>
+
+<vsep class="onestar"/>
+
+<lg>
+<l>Et cependant que te faut-il pour que tu sois</l>
+<l indent="2">Plein d’une flamme alerte ?</l>
+<l>Il suffit du parfum de ces fleurs que tu vois</l>
+<l indent="2">Par la fenêtre ouverte.</l>
+</lg>
+
+<lg>
+<l>Aurais-je cru jamais que tu fusses content</l>
+<l indent="2">De si peu, cœur avide,</l>
+<l>Toi qui rêvais jadis quelque illustre tourment</l>
+<l indent="2">Où battre, plus rapide !</l>
+</lg>
+
+<lg>
+<l>Mais à quoi bon ce songe et qu’importent ces vœux</l>
+<l indent="2">Où le destin s’oppose,</l>
+<l>Car c’est ceci que j’aime et ceci que je veux</l>
+<l indent="2">Sans qu’il soit autre chose :</l>
+</lg>
+
+<lg>
+<l>C’est un étroit jardin auprès d’un vieux canal</l>
+<l indent="2">Sous ce ciel d’Italie</l>
+<l>Où sonne, avec un bruit de soie et de cristal,</l>
+<l indent="2">Une heure où tout s’oublie.</l>
+</lg>
+
+<pagenum num="61"/>
+
+<vsep class="onestar"/>
+
+<lg>
+<l>Que d’autres aient pour eux ces beaux soleils couchants</l>
+<l indent="2">Qui dorent la mémoire,</l>
+<l>Le triomphe, la joie et le rire et les chants,</l>
+<l indent="2">La jeunesse, la gloire,</l>
+</lg>
+
+<lg>
+<l>C’est bien ! mais moi, j’entends tout bas clapoter l’eau</l>
+<l indent="2">Aux marches de ma porte,</l>
+<l>Et je veux en gondole aller à Torcello,</l>
+<l indent="2">Par la lagune morte,</l>
+</lg>
+
+<lg>
+<l>Et je verrai, ce soir, la lune au croissant clair</l>
+<l indent="2">Se lever sur Fusine,</l>
+<l>Dans cette odeur de sel et d’iode qu’a l’air</l>
+<l indent="2">De Venise marine.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p27'>
+<pagenum num="62"/>
+
+<h2>LA ROSE</h2>
+
+<poem>
+<lg>
+<l>En voyant mourir cette rose</l>
+<l>Dans ce vase de bronze obscur,</l>
+<l>Je songe à sa pareille éclose</l>
+<l>A l’ombre tiède du vieux mur,</l>
+</lg>
+
+<lg>
+<l>Dans ce doux jardin de septembre</l>
+<l>Que, du Palazzo Venier,</l>
+<l>Par la fenêtre de ta chambre,</l>
+<l>Nous contemplions, l’an dernier.</l>
+</lg>
+
+<pagenum num="63"/>
+
+<lg>
+<l>Et c’est l’automne de Venise</l>
+<l>Qui renaît en mon souvenir</l>
+<l>Avec sa grâce où s’éternise</l>
+<l>L’été qui ne veut pas finir.</l>
+</lg>
+
+<lg>
+<l>Je te revois sur la lagune,</l>
+<l>Glissant comme en un ciel marin,</l>
+<l>Ainsi qu’un noir croissant de lune,</l>
+<l>Gondole, quartier d’astre éteint !</l>
+</lg>
+
+<lg>
+<l>Voici le canal et la porte,</l>
+<l>Et ces façades de palais</l>
+<l>Dont le marbre irise l’eau morte</l>
+<l>Des fantômes de leurs reflets...</l>
+</lg>
+
+<lg>
+<l>Et ce balcon où l’on s’étonne</l>
+<l>De ne plus voir, sur le rideau,</l>
+<l>Se pâmer encor Desdémone</l>
+<l>Dans les sombres bras d’Othello !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p28'>
+<pagenum num="64"/>
+
+<h2>LE PALAIS ROUGE</h2>
+
+<poem>
+<lg>
+<l>Te souvient-il du Palais rouge</l>
+<l>Si mystérieux et si beau</l>
+<l>Dont le reflet s’enfonce et bouge</l>
+<l>Dans l’onde lourde du rio ?</l>
+</lg>
+
+<lg>
+<l>Au bout de la ruelle étroite</l>
+<l>Qui mène à ce pont courbe, vois,</l>
+<l>Au-dessus de l’eau qui miroite,</l>
+<l>Sa façade qui vient vers toi.</l>
+</lg>
+
+<pagenum num="65"/>
+
+<lg>
+<l>Pour aller jusqu’à lui, ma belle,</l>
+<l>Il a fallu suivre un chemin</l>
+<l>Plus compliqué que la dentelle</l>
+<l>Qui bat au souille de ton sein,</l>
+</lg>
+
+<lg>
+<l>Car, sinueuse et délicate</l>
+<l>Comme l’œuvre de ses fuseaux,</l>
+<l>Venise ressemble à l’agate</l>
+<l>Avec ses veines de canaux.</l>
+</lg>
+
+<lg>
+<l>Plus qu’Ariane qu’elle imite,</l>
+<l>Mais sans le fil qui vous conduit,</l>
+<l>Elle vous égare bien vite</l>
+<l>Au labyrinthe des « calli ».</l>
+</lg>
+
+<lg>
+<l>N’est-ce pas ainsi, chère folle,</l>
+<l>Que nous avons marché longtemps</l>
+<l>Dans l’ombre épaisse, tiède et molle</l>
+<l>Où se cherchaient nos yeux ardents ?</l>
+</lg>
+
+<lg>
+<l>N’avions-nous pas sur nos visages</l>
+<l>Ce masque blanc que Longhi peint</l>
+<l>A celui de ses personnages</l>
+<l>Sous leur baüta de satin ?</l>
+</lg>
+
+<pagenum num="66"/>
+
+<lg>
+<l>Mais, un soir, nous nous reconnûmes</l>
+<l>Sur un campo, près d’un canal,</l>
+<l>A cette heure où Venise allume</l>
+<l>Les derniers feux du carnaval ;</l>
+</lg>
+
+<lg>
+<l>Et, soudain, graves et farouches,</l>
+<l>Nous sentîmes, avec des pleurs,</l>
+<l>Monter au rire de nos bouches</l>
+<l>Le double désir de nos cœurs.</l>
+</lg>
+
+<lg>
+<l>Ce fut ainsi que nous allâmes</l>
+<l>Vers ce vieux Palais rouge et beau</l>
+<l>Qui semble tout léché de flammes</l>
+<l>Et que l’Amour eut pour tombeau.</l>
+</lg>
+
+<lg>
+<l>Sa façade de lieu sans maître,</l>
+<l>Dresse un mur de pourpre écorché,</l>
+<l>Mais on y voit à la fenêtre</l>
+<l>Luire la lampe de Psyché !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p29'>
+<pagenum num="67"/>
+
+<h2>LE REFUGE</h2>
+
+<poem>
+<lg>
+<l>Je ne veux rien de vous, ce soir, en ma pensée,</l>
+<l indent="2">O mon pays lointain.</l>
+<l>Ni rien de vous non plus, ma jeunesse passée,</l>
+<l indent="2">Dont le feu s’est éteint !</l>
+</lg>
+
+<lg>
+<l>Que votre souvenir impatient renonce</l>
+<l indent="2">A me parler tout bas,</l>
+<l>Laissez l’écho dormir où se perd et s’enfonce</l>
+<l indent="2">La rumeur de vos pas !</l>
+</lg>
+
+<pagenum num="68"/>
+
+<lg>
+<l>Je suis venu chercher sur ce brûlant rivage,</l>
+<l indent="2">Que bat un flot plus clair,</l>
+<l>Pour un autre moi-même, un autre paysage,</l>
+<l indent="2">Et j’ai passé la mer.</l>
+</lg>
+
+<lg>
+<l>Je n’écoute plus rien des voix que mon oreille</l>
+<l indent="2">Écouta trop longtemps</l>
+<l>Et que me murmurait la parole vermeille</l>
+<l indent="2">De ta bouche, Printemps !</l>
+</lg>
+
+<lg>
+<l>Mes yeux ne veulent plus suivre dans les allées</l>
+<l indent="2">De ton jardin moussu,</l>
+<l>Automne, les espoirs et les ombres voilées</l>
+<l indent="2">Qui m’ont longtemps déçu !...</l>
+</lg>
+
+<lg>
+<l>C’est pourquoi, sous ce ciel torride et monotone,</l>
+<l indent="2">D’azur pacifiant,</l>
+<l>Je suis venu chercher le lourd repos que donne</l>
+<l indent="2">La terre d’Orient ;</l>
+</lg>
+
+<lg>
+<l>Et, sans que rien de plus occupât ma pensée,</l>
+<l indent="2">Tout le jour, jusqu’au soir,</l>
+<l>J’ai regardé mourir cette rose enlacée</l>
+<l indent="2">A ce beau cyprès noir.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p30'>
+<pagenum num="69"/>
+
+<h2>LE BOUQUET</h2>
+
+<poem>
+<lg>
+<l>J’ai, tendue à mon mur, une toile persane</l>
+<l>Où des œillets en fleurs et des cyprès sont peints</l>
+<l>Et d’où secrètement et doucement émane</l>
+<l>Le parfum vagabond des Orients lointains.</l>
+</lg>
+
+<lg>
+<l>Il me semble parfois, lorsque mes yeux moroses</l>
+<l>Regardent ce décor odorant et fleuri,</l>
+<l>Qu’une Ispahan pâmée en ses jardins de roses</l>
+<l>A travers le tissu se réveille et sourit.</l>
+</lg>
+
+<pagenum num="70"/>
+
+<lg>
+<l>Alors, le blond tabac qui fume par ma bouche,</l>
+<l>Dans la chambre, répand un arôme nouveau ;</l>
+<l>Tout pas, dans la maison, est un pas de babouche ;</l>
+<l>J’écoute un rossignol, si chante un humble oiseau !</l>
+</lg>
+
+<lg>
+<l>La fontaine qui coule en sa cuve de pierre</l>
+<l>Murmure avec la voix qu’ont ses sœurs de là-bas</l>
+<l>Où leur flot transparent mouille pour la prière</l>
+<l>Quelque beau front pieux que coiffe un turban bas ;</l>
+</lg>
+
+<lg>
+<l>Si le carré de ciel qu’encadre ma fenêtre</l>
+<l>Est d’un bleu dont l’azur se fonce au soir plus frais,</l>
+<l>Je crois que, tout à coup, j’y vais voir apparaître</l>
+<l>Un dôme de faïence entre ses minarets ;</l>
+</lg>
+
+<lg>
+<l>Et lorsque vous venez, par la porte entr’ouverte,</l>
+<l>Vous asseoir au divan où, longtemps, j’ai rêvé,</l>
+<l>J’admire à votre pied la mule souple et verte</l>
+<l>Dont le cuir fin imite un croissant incurvé,</l>
+</lg>
+
+<lg>
+<l>Et ma pensée, au mur, sur la toile persane</l>
+<l>Où des œillets en fleurs et des cyprès sont peints,</l>
+<l>Cueille, afin de l’offrir aux doigts de la sultane,</l>
+<l>Le fidèle bouquet de mes songes lointains.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p31'>
+<pagenum num="71"/>
+
+<h2>LE DIVAN</h2>
+
+<poem>
+<lg>
+<l>Son tapis, qu’ont jadis tissé des mains persanes</l>
+<l>De tulipes, d’œillets, de cyprès et d’oiseaux,</l>
+<l>Est venu, de très loin, au pas des caravanes,</l>
+<l>De quelque ville bleue où chantent les jets d’eaux.</l>
+</lg>
+
+<lg>
+<l>Aux fils entrecroisés de ses trames écloses</l>
+<l>Il imite à nos yeux l’éclat de vos jardins,</l>
+<l>Ispahan, où le soir s’empourpre à mille roses,</l>
+<l>Mossoul, sur qui l’aurore est pâle de jasmins !</l>
+</lg>
+
+<pagenum num="72"/>
+
+<lg>
+<l>Jadis, il m’eût donné vers les cités lointaines</l>
+<l>Le désir de porter mes pas sous d’autres cieux</l>
+<l>Et d’entendre, au bruit frais qui monte des fontaines,</l>
+<l>Le rossignol répondre au rosier amoureux ;</l>
+</lg>
+
+<lg>
+<l>Jadis, j’aurais voulu, dans l’aube orientale,</l>
+<l>Auprès du dôme courbe entre ses minarets,</l>
+<l>Voir sur la tige en feu fleurir l’ardent pétale</l>
+<l>Et les oiseaux d’amour voler vers le cyprès ;</l>
+</lg>
+
+<lg>
+<l>Mais aujourd’hui mes yeux à ce tapis de Perse</l>
+<l>Ne demandent plus rien de ses riches couleurs</l>
+<l>Que d’offrir à ton corps qui sur lui se renverse</l>
+<l>Le printemps éternel de ses laines en fleurs ;</l>
+</lg>
+
+<lg>
+<l>Que m’importe le bain où rirent les sultanes</l>
+<l>Et le mystère bleu d’un pays inconnu.</l>
+<l>S’il me suffit de voir, tissés de mains persanes,</l>
+<l>La tulipe et l’œillet caresser ton pied nu !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p32'>
+<pagenum num="73"/>
+
+<h2>RETOUR D’ORIENT</h2>
+
+<poem>
+<lg>
+<l>Ce n’est plus aujourd’hui ton aube qui m’éveille,</l>
+<l indent="2">O divine clarté</l>
+<l>Dont l’ardeur éclatait triomphale et vermeille,</l>
+<l indent="2">Au ciel ensanglanté !</l>
+</lg>
+
+<lg>
+<l>Ce soleil sans éclat qui s’abaisse et se couche</l>
+<l indent="2">Au bout de l’horizon</l>
+<l>N’est plus l’astre brûlant dont la pourpre farouche</l>
+<l indent="2">Mourait sur Ilion.</l>
+</lg>
+
+<pagenum num="74"/>
+
+<lg>
+<l>La lune qui blêmit à ma vitre morose</l>
+<l indent="2">Et ne l’éclaire pas</l>
+<l>Ce n’est plus vous, lune d’or jaune ou d’argent rose,</l>
+<l indent="2">Qui brilliez sur Damas !</l>
+</lg>
+
+<lg>
+<l>Puisqu’il en est ainsi, faites, de leurs embrasses.</l>
+<l indent="2">Tomber à long plis lourds</l>
+<l>Les rideaux refermés que fatiguent les masses</l>
+<l indent="2">De leur pesant velours ;</l>
+</lg>
+
+<lg>
+<l>Allumez, suspendue au plafond de la chambre,</l>
+<l indent="2">La lampe en verre peint</l>
+<l>Où versa doucement son huile couleur d’ambre</l>
+<l indent="2">La jarre d’Aladin.</l>
+</lg>
+
+<lg>
+<l>Sur le divan profond où le corps se renverse,</l>
+<l indent="2">Qu’on étende avec soin</l>
+<l>Cette étoffe de Brousse et ce tapis de Perse</l>
+<l indent="2">Que l’œillet brode au coin ;</l>
+</lg>
+
+<lg>
+<l>Posez auprès de moi cette aiguière au col fourbe,</l>
+<l indent="2">Et dont le bec mord l’eau,</l>
+<l>Et tirez ce beau sabre étincelant et courbe</l>
+<l indent="2">Du cuir de son fourreau ;</l>
+</lg>
+
+<pagenum num="75"/>
+
+<lg>
+<l>Donnez-moi ce flacon qui garde encore enclose</l>
+<l indent="2">En un vivant sommeil</l>
+<l>L’odeur qu’eurent jadis le jasmin et la rose</l>
+<l indent="2">A mourir au soleil...</l>
+</lg>
+
+<lg>
+<l>Puis laissez-moi. Je vais abaisser ma paupière</l>
+<l indent="2">Et fermer maintenant</l>
+<l>Mes yeux pleins de l’ardente et terrible lumière</l>
+<l indent="2">Des midis d’Orient !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p33'>
+<pagenum num="76"/>
+
+<h2>LE PRINCE CAPTIF</h2>
+
+<poem>
+<lg>
+<l>Je suis Prince persan et n’ai pour tout royaume</l>
+<l indent="2">Que ce feuillet où je suis peint</l>
+<l>Et qui n’est pas beaucoup plus large que la paume</l>
+<l indent="2">D’une autre main et de ma main.</l>
+</lg>
+
+<lg>
+<l>Moi qui pouvais jadis voir se lever l’aurore</l>
+<l indent="2">Des terrasses de cent palais</l>
+<l>Et qui traînais le pan d’une foule sonore</l>
+<l indent="2">Sur mes pas, partout où j’allais,</l>
+</lg>
+
+<pagenum num="77"/>
+
+<lg>
+<l>Me voici désormais prisonnier de la page</l>
+<l indent="2">Où quelque peintre de l’Iran</l>
+<l>A, fraîche des pinceaux, enfermé mon image</l>
+<l indent="2">Dans la marge et l’encadrement.</l>
+</lg>
+
+<lg>
+<l>Mais qu’importe à mon cœur de prince magnanime</l>
+<l indent="2">Qui sait les pièges du Destin</l>
+<l>Et qu’au regard d’Allah tout mortel est infime,</l>
+<l indent="2">Cet exil en pays lointain,</l>
+</lg>
+
+<lg>
+<l>Puisque dans la prison de papier qui m’enserre</l>
+<l indent="2">Je suis toujours noble à vos yeux</l>
+<l>Et que mon gros rubis, de son feu solitaire,</l>
+<l indent="2">Empourpre mon turban soyeux,</l>
+</lg>
+
+<lg>
+<l>Puisque je monte encor mon bel étalon rose,</l>
+<l indent="2">Que mon faucon, comme autrefois,</l>
+<l>Peut, du haut de mon poing où sa patte se pose,</l>
+<l indent="2">Becqueter l’œillet à mes doigts,</l>
+</lg>
+
+<lg>
+<l>Puisque mon sabre courbe, au velours qui l’engaine,</l>
+<l indent="2">Pend toujours de mon ceinturon</l>
+<l>Et que je porte encore, à ma selle indienne</l>
+<l indent="2">Accroché, mon bouclier rond,</l>
+</lg>
+
+<pagenum num="78"/>
+
+<lg>
+<l>Puisque, comme jadis, devant vous, je traverse</l>
+<l indent="2">Un paysage calme et frais</l>
+<l>Où monte, dans le ciel où son arc se renverse,</l>
+<l indent="2">La lune entre deux longs cyprès,</l>
+</lg>
+
+<lg>
+<l>Puisque à côté de moi ma Princesse fidèle,</l>
+<l indent="2">Réglant son cheval sur le mien,</l>
+<l>Écoute s’exalter dans la nuit triste et belle</l>
+<l indent="2">Le rossignol qui se souvient,</l>
+</lg>
+
+<lg>
+<l>Tandis que, par respect pour l’amour, à l’oreille,</l>
+<l indent="2">Et tout bas, elle me redit</l>
+<l>Quelque tendre pensée, à la sienne pareille,</l>
+<l indent="2">D’Omar Khayam ou de Sâdi !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p34'>
+<pagenum num="79"/>
+
+<h2>LE REPOS</h2>
+
+<poem>
+<lg>
+<l>Éteins, ô visiteur, cette torche importune ;</l>
+<l>Ne penche pas ainsi sa flamme. Penses-tu</l>
+<l>Que ses gouttes de feu en tombant une à une</l>
+<l>Vont ranimer la cendre où, vivant, j’ai vécu ?</l>
+</lg>
+
+<lg>
+<l>Non. Si même la pierre à l’étincelle vaine</l>
+<l>Entr’ouvrait un instant sa froide dureté,</l>
+<l>Et si, dans ma nuit morne, insensible et lointaine,</l>
+<l>Revenaient jusqu’à moi la vie et la clarté,</l>
+</lg>
+
+<pagenum num="80"/>
+
+<lg>
+<l>Crois~tu donc, ô Passant, qu’au désir de revivre</l>
+<l>Ma poussière tranquille, inerte et sans regret,</l>
+<l>Renonçant au bienfait de la mort qui délivre,</l>
+<l>Dans l’ombre ténébreuse encor palpiterait ?</l>
+</lg>
+
+<lg>
+<l>Pourtant, je fus heureux. L’Amour a sur ma bouche</l>
+<l>Posé sa bouche ardente, et la gloire à mon front</l>
+<l>A tressé de sa main délicate et farouche</l>
+<l>Les feuilles du laurier qui couronnent mon nom ;</l>
+</lg>
+
+<lg>
+<l>Mais l’heure la plus douce et l’heure la plus tendre</l>
+<l>Laissaient une amertume en mon cœur incertain,</l>
+<l>Tandis que maintenant je suis là sans attendre</l>
+<l>Le retour de la nuit et l’éveil du matin.</l>
+</lg>
+
+<lg>
+<l>Que le jour généreux ou que le soir morose</l>
+<l>Apportent aux mortels la joie ou le tourment,</l>
+<l>Qu’importe à celui-là dont la cendre repose</l>
+<l>Dans l’urne, sous le marbre et sous l’oubli pesant !</l>
+</lg>
+
+<lg>
+<l>C’est pourquoi, ni ton pas, ni ta torche brûlante,</l>
+<l>Ton geste, ni ta voix qui m’appelle tout haut</l>
+<l>Ne feront tressaillir ma paix impatiente,</l>
+<l>O visiteur, qui viens t’asseoir sur mon tombeau,</l>
+</lg>
+
+<pagenum num="81"/>
+
+<lg>
+<l>Quand bien même ta main, pieuse en son outrage,</l>
+<l>Romprait le bronze dur et le gond arraché,</l>
+<l>Et si, du fond de l’ombre, ô tendre, ô cher visage,</l>
+<l>Je te reconnaissais, Amour, sur moi penché ?</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p35'>
+<pagenum num="82"/>
+
+<h2><i>BLANCHE-COURONNE</i></h2>
+
+<poem>
+<lg>
+<l><i>Aujourd’hui j’ai revu ce calme coin de terre</i></l>
+<l indent="2"><i>Que vous aimiez,</i></l>
+<l><i>Le vieux perron où pousse encor la saponaire,</i></l>
+<l indent="2"><i>Les deux palmiers...</i></l>
+</lg>
+
+<lg>
+<l><i>Le figuier plus tordu n’a cessé de s’accroître</i></l>
+<l indent="2"><i>De jets nouveaux,</i></l>
+<l><i>Et les rosiers en fleurs parfument le cher cloître</i></l>
+<l indent="2"><i>Aux blancs arceaux ;</i></l>
+</lg>
+
+<pagenum num="83"/>
+
+<lg>
+<l><i>Les hélianthes d’or dominent la toiture</i></l>
+<l indent="2"><i>Basse du puits,</i></l>
+<l><i>Où l’eau sommeille, aussi froide que la verdure</i></l>
+<l indent="2"><i>Du sombre buis ;</i></l>
+</lg>
+
+<lg>
+<l><i>Autour des piliers plats la glycine s’enlace</i></l>
+<l indent="2"><i>Et il y a</i></l>
+<l><i>Dans un angle toujours, fleurissant à sa place,</i></l>
+<l indent="2"><i>Le bignonia.</i></l>
+</lg>
+
+<lg>
+<l><i>C’est toujours ce doux lieu dont clairet frais résonne</i></l>
+<l indent="2"><i>Le double nom</i></l>
+<l><i>Auquel, Douce-Fontaine ou bien Blanche-Couronne,</i></l>
+<l indent="2"><i>L’écho répond.</i></l>
+</lg>
+
+<lg>
+<l><i>Vous en aimiez la paix, les loisirs, les ombrages</i></l>
+<l indent="2"><i>Et les chemins,</i></l>
+<l><i>Et les beaux bois avec leurs différents feuillages,</i></l>
+<l indent="2"><i>Hêtres et pins ;</i></l>
+</lg>
+
+<lg>
+<l><i>Il vous plaisait d’y voir le chêne d’Amérique</i></l>
+<l indent="2"><i>Près du bouleau,</i></l>
+<l><i>Le cactus tropical et l’aloès qui pique</i></l>
+<l indent="2"><i>Comme un couteau ;</i></l>
+</lg>
+
+<pagenum num="84"/>
+
+<lg>
+<l><i>Et vous vous asseyiez, votre cigare aux lèvres,</i></l>
+<l indent="2"><i>Sur ce vieux banc,</i></l>
+<l><i>A ce paisible endroit, à cause de ses cèdres,</i></l>
+<l indent="2"><i>Dit « le Liban ».</i></l>
+</lg>
+
+<lg>
+<l><i>Vous y rêviez peut-être, en ces soirs où l’on pense</i></l>
+<l indent="2"><i>A son matin,</i></l>
+<l><i>Au jeune homme jadis venu vers notre France</i></l>
+<l indent="2"><i>D’un ciel lointain.</i></l>
+</lg>
+
+<lg>
+<l><i>A votre voix vibraient, quadruples et jumelles,</i></l>
+<l indent="2"><i>Les rimes d’or,</i></l>
+<l><i>Car vos sonnets, à vous, furent vos caravelles,</i></l>
+<l indent="2"><i>Conquistador !</i></l>
+</lg>
+
+<lg>
+<l><i>L’heure est douce. Le cèdre en pyramide étale</i></l>
+<l indent="2"><i>Les verts plateaux,</i></l>
+<l><i>En étages, de sa ramure horizontale,</i></l>
+<l indent="2"><i>Tente ou tombeau !...</i></l>
+</lg>
+
+<lg>
+<l><i>Mais le jour, peu à peu, qui commence à décroître</i></l>
+<l indent="2"><i>Et qui s’en va,</i></l>
+<l><i>Me rappelle à mon tour, vers le préau du cloître,</i></l>
+<l indent="2"><i>Sombre déjà,</i></l>
+</lg>
+
+<pagenum num="85"/>
+
+<lg>
+<l><i>Partons, mais en partant, au jardin de septembre,</i></l>
+<l indent="2"><i>Cueillons aussi</i></l>
+<l><i>Ces fleurs que vous voyiez jadis, de votre chambre,</i></l>
+<l indent="2"><i>Fleurir ici.</i></l>
+</lg>
+
+<lg>
+<l><i>Roses d’or triomphal, roses de pourpre noire,</i></l>
+<l indent="2"><i>Trophée altier</i></l>
+<l><i>A qui se mêle maintenant l’odeur de gloire</i></l>
+<l indent="2"><i>Du vert laurier !</i></l>
+</lg>
+</poem>
+
+<pagenum num="86"/>
+</page-sequence>
+<page-sequence id='p36'>
+<pagenum num="87"/>
+
+<vsep class="fewlines"/>
+
+<h1>EN MARGE DE SHAKESPEARE</h1>
+
+<epigraphe>
+<p><i>à M<sup>me</sup> André Chaumeix.</i></p>
+</epigraphe>
+
+<pagenum num="88"/>
+</page-sequence>
+<page-sequence id='p37'>
+<pagenum num="89"/>
+
+<h2>ANTOINE ET CLÉOPATRE</h2>
+
+<poem>
+<lg>
+<l>Ce soir, j’ai vu mourir Cléopâtre ! J’ai vu</l>
+<l>L’aspic du Nil mordre son sein et son bras nu</l>
+<l>Et se dresser, sifflant, parmi les figues vertes.</l>
+<l>Le lourd sceptre est tombé de ses mains entr’ouvertes,</l>
+<l>Mais la couronne encor cercle son front étroit...</l>
+<l>Celle de qui l’amour faisait plus grand qu’un Roi</l>
+<l>Le mortel fortuné choisi pour son étreinte</l>
+<l>Semble dormir. La mort baisa sa lèvre peinte,</l>
+<l>Si doucement que, lorsque César est entré,</l>
+<pagenum num="90"/>
+<l>En vain il a cherché sur le sol empourpré</l>
+<l>Quelque tache de sang, goutte à goutte, élargie.</l>
+<l>Et cependant tu vas pleurer, Alexandrie,</l>
+<l>Quand on emportera vers leur lit souterrain</l>
+<l>Et ta Reine amoureuse et son amant romain !</l>
+</lg>
+
+<lg>
+<l>Car bientôt vont venir, avec leurs aromates,</l>
+<l>Les embaumeurs, portant en des fioles plates,</l>
+<l>La résine durable et les sombres onguents ;</l>
+<l>Et les bandes de lin, en funèbres serpents</l>
+<l>S’enrouleront autour de la belle Lagide</l>
+<l>Qui, désormais, légère, incorruptible et vide,</l>
+<l>Sous ces liens que nul ne pourra délier,</l>
+<l>En son cercueil de cèdre et peint d’un épervier,</l>
+<l>Ne sera plus dans l’ombre, hélas ! ensevelie,</l>
+<l>Que sa froide, immobile et royale momie !</l>
+</lg>
+
+<lg>
+<l>Mais quelqu’un a gardé la clé de ton caveau.</l>
+<l>Reine ! Réveille-toi. Voici que, de nouveau,</l>
+<l>Un jeune sang frémit dans tes veines et chante</l>
+<l>Ardemment en ta chair glorieuse et vivante !</l>
+<l>De nouveau le vieux Nil se déroule à tes yeux ;</l>
+<l>Tu revois ton Égypte et retrouves tes Dieux,</l>
+<l>Et voici que ta vie éclatante et divine</l>
+<l>Recommence. Le monde en t’adorant s’incline.</l>
+<pagenum num="91"/>
+<l>Une aurore rayonne autour de ta beauté ;</l>
+<l>Un seul de tes regards vaut une éternité ;</l>
+<l>Les Rois à tes genoux prosternent leurs couronnes.</l>
+<l>Si tu poses le pied aux marches de leurs trônes,</l>
+<l>Le marbre le plus pur ensuite y garde empreint</l>
+<l>En son contour brûlant ton talon souverain.</l>
+<l>C’est pour avoir goûté l’ivresse de ta bouche</l>
+<l>Qu’Antoine n’a pas su s’arracher à ta couche.</l>
+<l>La sueur de l’amour, sur son torse puissant,</l>
+<l>Avec l’eau de Cydnus s’est mêlée à son sang.</l>
+<l>O charmeuse, il suffit d’un geste de ta grâce</l>
+<l>Pour que rampe la louve et que l’aigle vorace</l>
+<l>Hier encor, volant farouche en l’air latin,</l>
+<l>Te caresse de l’aile et mange dans ta main.</l>
+<l>Mais prends garde, aux plus grands la Fortune est contraire</l>
+<l>Soudain ! Parfois au port se brise la galère !</l>
+<l>Tu tombes, Marc-Antoine, et demain c’est César</l>
+<l>Qui montrera dans Rome, attachée à son char,</l>
+<l>A moins que d’un tel sort l’aspic ne la délivre,</l>
+<l>Cléopâtre vaincue et honteuse de vivre !</l>
+</lg>
+
+<lg>
+<l>C’est ainsi chaque soir que tu meurs et renais,</l>
+<l>Cléopâtre, immortelle et vivante à jamais,</l>
+<l>Parce qu’un autre soir, dans un bouge de Londre,</l>
+<l>A l’heure où la chandelle achève de se fondre,</l>
+<l>Quelqu’un, assis au coin d’une table, devant</l>
+<pagenum num="92"/>
+<l>Un pot d’ale, tantôt rêvant, tantôt buvant,</l>
+<l>Tandis qu’autour de lui l’on jure et fait tapage,</l>
+<l>Vit, du fond du passé, se dresser ton image</l>
+<l>Et te prit par la main, au seuil de ton tombeau,</l>
+<l>Pour te faire monter aux planches du tréteau</l>
+<l>D’où ta voix amoureuse aux siècles fait redire</l>
+<l>Le nom de Marc-Antoine et le nom de Shakspeare.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p38'>
+<pagenum num="93"/>
+
+<h2>HAMLET</h2>
+
+<poem>
+<lg>
+<l>Donnez-moi votre main, Prince Hamlet. Je connais</l>
+<l>Cette fièvre qui bat au creux de vos poignets</l>
+<l>Et qui cerne les yeux et qui sèche la bouche,</l>
+<l>Car le même fantôme implacable et farouche</l>
+<l>M’a parlé, comme à vous, sur la tour d’Elseneur,</l>
+<l>Et j’ai trouvé l’aurore amère et sans bonheur</l>
+<l>Après qu’il m’eut fait voir, sous la pourpre félonne,</l>
+<l>Le faux Roi titubant sous sa fausse couronne</l>
+<l>Et que, d’un geste brusque et rude, il m’eût montré</l>
+<pagenum num="94"/>
+<l>Sous le masque rieur le visage exécré.</l>
+<l>Comme vous, quand la Vie à mes yeux apparue</l>
+<l>Se dressa devant moi difforme, vile et nue</l>
+<l>Avec du sang aux doigts et de la boue au front,</l>
+<l>J’ai senti, dans ma chair et mes os, ce frisson</l>
+<l>D’horreur, de désespoir et de mélancolie</l>
+<l>Que ni les pleurs, hélas ! ni les fleurs d’Ophélie</l>
+<l>N’ont pu guérir en vous et dont vous seriez mort</l>
+<l>Mieux que du noir poison qui, dans la coupe d’or,</l>
+<l>A son piège tenta votre lèvre trompée</l>
+<l>Ou que ne vous tua la pointe de l’épée.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p39'>
+<pagenum num="95"/>
+
+<h2>A OTHELLO</h2>
+
+<poem>
+<lg>
+<l>Je pense à vous, seigneur Othello. Me voici</l>
+<l>En ces lieux, autrefois où vous vîntes. Ici,</l>
+<l>Votre rouge galère en ce port s’est ancrée :</l>
+<l>Les acclamations ont fêté votre entrée,</l>
+<l>Et Chypre, tout entière, en vous apercevant,</l>
+<l>Accueillait d’un seul cri le More au bras puissant</l>
+<l>Accouru de si loin pour combattre avec elle.</l>
+<l>Je vous vois. Vous avez posé votre semelle</l>
+<l>Sur cette dalle unie où le marbre est si dur,</l>
+<pagenum num="96"/>
+<l>Et votre ombre guerrière a passé sur ce mur.</l>
+<l>J’entends toujours vibrer votre voix rude et forte ;</l>
+<l>Vous avez salué, au-dessus de la porte</l>
+<l>Où le soleil couchant en fait un blason d’or,</l>
+<l>Ce beau lion ailé qu’on y distingue encor</l>
+<l>Et dont Venise, au temps de ses gloires hautaines,</l>
+<l>Marquait jadis le front de ses villes lointaines</l>
+</lg>
+
+<lg>
+<l>Maintenant, le lion, par le temps effrité,</l>
+<l>Ne garde plus, hélas ! qu’un débris de cité.</l>
+<l>Famagouste n’est plus qu’une fauve ruine</l>
+<l>Que solennelle, grave et massive, domine</l>
+<l>De ses deux tours, dont l’une est croulée à demi,</l>
+<l>Sa cathédrale haute et gothique, parmi</l>
+<l>Quelques palmiers poudreux qui balancent leurs palmes</l>
+<l>Dans l’air limpide, chaud, silencieux et calme</l>
+<l>— Famagouste qu’enserre, autour d’elle debout</l>
+<l>En sa pierre fidèle et forte jusqu’au bout,</l>
+<l>Immuable aujourd’hui encor comme naguère,</l>
+<l>De son double rempart, son enceinte de guerre.</l>
+</lg>
+
+<lg>
+<l>Et c’est là que je songe à vous, sombre Othello,</l>
+<l>Tandis que s’empourprent le ciel, la terre et l’eau</l>
+<l>Et que le sol ardent brûle mon pas sonore ;</l>
+<l>A vous, ô vaillant chef, à vous, ô noble More,</l>
+<pagenum num="97"/>
+<l>A vous, à qui l’amour avait souri, malgré</l>
+<l>Votre visage obscur par le Turc balafré,</l>
+<l>A vous que, fils lointain de la barbare Afrique,</l>
+<l>Avait fait l’un des siens la ville adriatique,</l>
+<l>A vous qu’elle envoyait, comme son seul espoir,</l>
+<l>Défendre cette Chypre où je crois vous revoir,</l>
+<l>A vous que va bientôt, sur ce rivage, suivre</l>
+<l>Celle dont votre cœur se délecte et s’enivre</l>
+<l>Et qui mêle l’éclat de son rire enfantin</l>
+<l>A la rude rumeur de votre âpre destin</l>
+<l>Et tresse à votre front que le laurier couronne</l>
+<l>Le vert rameau du myrte amoureux, — Desdémone !</l>
+</lg>
+
+<lg>
+<l>Othello, Othello, pourquoi n’avez-vous pas</l>
+<l>Écouté cette enfant qui riait en vos bras,</l>
+<l>Si tendrement, les mains jointes à votre épaule ?</l>
+<l>Il est tard. Le flot bleu déferle sur le môle</l>
+<l>Et l’ombre des hauts murs s’allonge sur la mer.</l>
+<l>La lune d’Orient monte dans le ciel clair</l>
+<l>Et votre femme, au vent du soir plus frais, dénoue</l>
+<l>Les longs cheveux dorés qui caressent sa joue.</l>
+<l>Sur le lit, près duquel elle vient de prier,</l>
+<l>Voici le drap unique et le double oreiller,</l>
+<l>Venez : son jeune sein est doux sous les dentelles.</l>
+<l>De poste en poste court le cri des sentinelles.</l>
+<pagenum num="98"/>
+<l>Famagouste s’endort. Dormez, fermez les yeux.</l>
+<l>Pourquoi ces poings serrés et ce front soucieux ?</l>
+</lg>
+
+<lg>
+<l>Que d’autres, Othello, maudissent ta mémoire :</l>
+<l>Je te plains, car l’enfer luit sur ta face noire.</l>
+<l>Horreur ! pour un seul mot bassement chuchoté</l>
+<l>Et dont l’impur écho dans ton âme est resté,</l>
+<l>Le soupçon, monstrueux, subtil, âpre, vorace,</l>
+<l>Te pénètre, te mord au cœur, t’étreint, t’enlace</l>
+<l>Et fait grincer tes dents et trembler tes genoux !</l>
+<l>Pour un mot, pour un mot, entends-tu, ô jaloux,</l>
+<l>Pour un mot que n’a pas repoussé ton oreille,</l>
+<l>Sonore cependant de la clameur vermeille</l>
+<l>Des batailles, du bruit des flots et de la mer</l>
+<l>Et du cri des clairons et des beaux chocs du fer</l>
+<l>Et du frissonnement des drapeaux sur la proue,</l>
+<l>Pour un mot que n’a pas rejeté dans la boue</l>
+<l>Le divin talisman des paroles d’amour,</l>
+<l>Pour un seul mot, auquel tu devais être sourd,</l>
+<l>Tu n’es plus maintenant, en ces lieux dont ton ombre</l>
+<l>Hante la solitude et le fauve décombre,</l>
+<l>Qu’un fantôme à jamais des siècles exécré,</l>
+<l>Que, ce soir, devant eux, mes pas ont rencontré</l>
+<l>Et qui, spectre sans voix, tâte d’une main vaine</l>
+<l>Des larmes et du sang sur sa face africaine !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p40'>
+<pagenum num="99"/>
+
+<h2>PORTIA</h2>
+
+<poem>
+<lg>
+<l>Portia, vous rêvez et ce soir est divin.</l>
+<l>Déjà l’ombre est plus longue aux cyprès du jardin ;</l>
+<l>Par la fenêtre ouverte entre l’odeur des roses.</l>
+<l>Votre main, en jouant, aux trois serrures closes</l>
+<l>Touche, et vous hésitez à leur triple secret.</l>
+<l>Sera-ce l’or, l’argent ou le plomb du coffret</l>
+<l>Qui tentera Celui dont vos beaux yeux suivront</l>
+<l>Le geste vers l’argent, vers l’or ou vers le plomb ?</l>
+<l>Mais vous avez souri, Portia, quand, dans l’ombre</l>
+<pagenum num="100"/>
+<l>De ce bosquet obscur où le soir est plus sombre,</l>
+<l>Le hautbois, la viole et la flûte ont chanté,</l>
+<l>Et votre jeune cœur est sans anxiété,</l>
+<l>Car il sait que Celui qui doit par son amour</l>
+<l>Deviner les coffrets présentés tour à tour</l>
+<l>Saura comprendre alors pour diriger son choix</l>
+<l>Ce que murmureront la flûte et le hautbois</l>
+<l>Et ce que dit tout bas à qui prête l’oreille</l>
+<l>La viole savante aux sept cordes pareilles.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p41'>
+<pagenum num="101"/>
+
+<h2>MACBETH</h2>
+
+<poem>
+<lg>
+<l>La fin de ce beau jour est douce à cette rose</l>
+<l>Qui parfume la tige où sa grâce est éclose,</l>
+<l>Et l’ombre est plus aiguë au cadran du jardin.</l>
+<l>Les martinets criards n’ont, depuis le matin,</l>
+<l>Cessé de visiter, anxieux et fidèles,</l>
+<l>Leurs nids ronds suspendus aux créneaux des tourelles</l>
+<l>D’où l’on voit la forêt, la lande et le lac bleu ;</l>
+<l>Mais le soir vient sur la campagne, peu à peu,</l>
+<l>Et les âpres parfums de la terre d’Écosse</l>
+<pagenum num="102"/>
+<l>Montent dans l’air salubre où luit, courbe et féroce,</l>
+<l>Coupante et déjà claire, une lune en croissant.</l>
+<l>Au sommet de la tour du Nord, l’étendard pend,</l>
+<l>Sans qu’un seul de ses plis ondule, flotte ou bouge,</l>
+<l>A sa hampe que semble mordre un lion rouge ;</l>
+<l>Les veilleurs déjà sont à leurs postes de nuit.</l>
+<l>La porte du château s’est fermée avec bruit.</l>
+<l>Les fagots épineux où flambent les résines</l>
+<l>Empourprent en craquant les dalles des cuisines.</l>
+<l>On a donné l’avoine et le foin aux chevaux.</l>
+<l>La viande dans les plats et le vin dans les pots</l>
+<l>Sont prêts. Mangez, buvez : le maître veut qu’on mange</l>
+<l>Et qu’on boive. Il le faut, car, dit-on, l’homme change</l>
+<l>En lui le vin en rêve et la viande en sommeil.</l>
+<l>Le maître veut qu’on ait le visage vermeil</l>
+<l>Autour de lui, et que l’on rie et qu’on soit ivre.</l>
+<l>C’est la vie, et la vie, il aime à la voir vivre :</l>
+<l>Mangez donc et buvez et dormez, car au roi</l>
+<l>Vous devez obéir parce qu’il est la loi.</l>
+<l>Que vous importe, à vous, qui connaissez l’aubaine</l>
+<l>De dormir d’un seul trait jusqu’à l’aube prochaine,</l>
+<l>Que vous importe, à vous, si Macbeth ne dort pas,</l>
+<l>Si le remords lui parle à l’oreille tout bas,</l>
+<l>Et s’il reste debout lorsque chacun repose,</l>
+<l>Si sa paupière en feu, le matin, n’est pas close,</l>
+<l>S’il a peur, s’il entend résonner dans l’écho</l>
+<pagenum num="103"/>
+<l>Le râle de Malcolm ou le cri de Banquo,</l>
+<l>Si, les yeux grands ouverts et le doigt à la tempe,</l>
+<l>Il regarde, hagard, tarir l’huile à la lampe,</l>
+<l>Tandis que, devant lui, lasse d’un geste vain,</l>
+<l>Sa femme laisse pendre en silence sa main</l>
+<l>Où la tache de sang semble s’être élargie,</l>
+<l>Et songe longuement aux parfums d’Arabie ?...</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p42'>
+<pagenum num="104"/>
+
+<h2>ROMÉO ET JULIETTE</h2>
+
+<poem>
+<lg>
+<l>Juliette Capulet et Roméo Montagne,</l>
+<l>L’amour cruel a mis la fiole et la dague</l>
+<l>Entre vos jeunes mains faites pour d’autres jeux ;</l>
+<l>L’éclair a lui trop tôt sur vos sorts orageux ;</l>
+<l>Ensemble vous n’avez dormi que dans la tombe ;</l>
+<l>Un funèbre cyprès où pleure une colombe</l>
+<l>Est l’emblème que veut votre mortel destin.</l>
+<l>Et cependant, aux grenadiers du vert jardin,</l>
+<l>Vous avez écoulé, dans la nuit, bouche à bouche,</l>
+<pagenum num="105"/>
+<l>La voix du rossignol amoureux et farouche</l>
+<l>Et crier l’alouette au ciel, vers le soleil,</l>
+<l>Vous que le noir poison et que le fer vermeil</l>
+<l>Devaient unir, un jour, en une même cendre,</l>
+<l>O vous, dont le désir ne voulait pas entendre,</l>
+<l>O sourds amants, gronder de leurs griefs nouveaux</l>
+<l>Vos deux palais haineux, ennemis et rivaux,</l>
+<l>D’où, la main à l’épée et le poing à la torche,</l>
+<l>Le meurtre et la vengeance embusqués sous le porche</l>
+<l>S’épiaient, l’œil mauvais et le visage ardent,</l>
+<l>Tandis que, plus subtil que la flamme et le vent.</l>
+<l>L’amour astucieux, riant de la querelle,</l>
+<l>Parce qu’il était beau, parce qu’elle était belle,</l>
+<l>Irrésistiblement l’un vers l’autre appelait,</l>
+<l>Vieux Montague, ton fils, — ta fille, Capulet !</l>
+</lg>
+</poem>
+
+<pagenum num="106"/>
+</page-sequence>
+<page-sequence id='p43'>
+<pagenum num="107"/>
+
+<vsep class="fewlines"/>
+
+<h1>LE MIROIR DES AMANTS</h1>
+<h2><s>SUIVI DE</s></h2>
+<h1>SEPT ESTAMPES AMOUREUSES</h1>
+
+<pagenum num="108"/>
+</page-sequence>
+<page-sequence id='p44'>
+<pagenum num="109"/>
+
+<vsep class="fewlines"/>
+
+<poem>
+<lg>
+<l><i>J’offre à votre visage, Amants, et vous Amantes,</i></l>
+<l><i>Ce miroir, tour à tour morose et radieux,</i></l>
+<l><i>Selon que se reflète en ses ondes dormantes</i></l>
+<l><i>Le rire de vos dents ou le deuil de vos yeux.</i></l>
+</lg>
+
+<lg>
+<l><i>Comme une source unique, en diverses fontaines</i></l>
+<l><i>S’écoule, et, par chacune, est d’un goût différent,</i></l>
+<l><i>Le variable Amour tend aux lèvres humaines</i></l>
+<l><i>Son poison meurtrier ou son philtre enivrant.</i></l>
+</lg>
+
+<pagenum num="110"/>
+
+<lg>
+<l><i>Les uns boivent en lui l’éternelle amertume</i></l>
+<l><i>Dont leur bouche à jamais gardera l’âcre pli,</i></l>
+<l><i>Et s’en vont, emportant en leur cœur qu’il consume,</i></l>
+<l><i>Un feu sourd dont la cendre, hélas ! est sans oubli.</i></l>
+</lg>
+
+<lg>
+<l><i>D’autres n’ont conservé de sa rencontre heureuse</i></l>
+<l><i>Que le frais souvenir des limpides ruisseaux</i></l>
+<l><i>Où leurs mains doucement jointes en coupe creuse</i></l>
+<l><i>Ont puisé le bonheur qui chantait dans leurs eaux.</i></l>
+</lg>
+
+<lg>
+<l><i>C’est pourquoi vous verrez, satisfaits ou farouches,</i></l>
+<l><i>Et pleins d’un douloureux ou d’un tendre passé,</i></l>
+<l><i>S’attrister des regards ou sourire des bouches</i></l>
+<l><i>En ce même cristal chaleureux ou glacé,</i></l>
+</lg>
+
+<lg>
+<l><i>Mais, content de la route ou las du dur voyage,</i></l>
+<l><i>Soit le pas qui s’approche allègre ou bien pesant,</i></l>
+<l><i>Amour, c’est toujours toi, Prince au double visage,</i></l>
+<l><i>Qui te mires par eux à ce miroir changeant !</i></l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p45'>
+<pagenum num="111"/>
+
+<h2>LE BONHEUR</h2>
+
+<poem>
+<lg>
+<l>Nul n’est venu, pourtant, m’apporter la couronne</l>
+<l>Que chacun, une fois, pose en rêve à son front ;</l>
+<l>Je ne suis point, non plus, celui pour qui résonne</l>
+<l>Le pas du messager qu’on vit à l’horizon.</l>
+</lg>
+
+<lg>
+<l>On n’a pas, au réveil, déroulé sous ma tente</l>
+<l>Les tapis somptueux dont les tissus persans,</l>
+<l>Par la rose et l’œillet en leur laine éclatante,</l>
+<l>Rappellent aux regards le jardin du printemps ;</l>
+</lg>
+
+<pagenum num="112"/>
+
+<lg>
+<l>En de lourds sacs de cuir noués par des lanières,</l>
+<l>Mes mains avidement n’ont pas plongé leurs doigts</l>
+<l>Pour y tâter un or aux empreintes grossières</l>
+<l>Et pour y caresser des figures de rois.</l>
+</lg>
+
+<lg>
+<l>Le coureur haletant, ni l’espion servile</l>
+<l>N’ont paru devant moi, poussiéreux ou courbé,</l>
+<l>M’apprenant que demain on aura pris la ville</l>
+<l>Et que mon ennemi dans mon piège est tombé ;</l>
+</lg>
+
+<lg>
+<l>Et cependant je sens comme un bonheur étrange</l>
+<l>Si profond et si fort qu’il en semble éternel ;</l>
+<l>La fleur que je respire et le fruit que je mange</l>
+<l>Ont comme un goût d’azur, comme une odeur de ciel.</l>
+</lg>
+
+<lg>
+<l>C’est que, plus fortuné que les Dieux qui t’ont faite,</l>
+<l>J’ai dormi, cette nuit, près de ton corps divin,</l>
+<l>Et que j’ai vu, pareille à ta beauté parfaite,</l>
+<l>S’éveiller dans tes yeux la couleur du matin.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id='p46'>
+<pagenum num="113"/>
+
+<h2>L’AMOUREUSE</h2>
+
+<poem>
+<lg>
+<l>Celui qui le mieux plaît à mon cœur solitaire,</l>
+<l>De tous les beaux jardins qu’ont visités mes pas,</l>
+<l>C’est vous, que je revois en le nommant tout bas,</l>
+<l>O cher enclos, dont l’ombre est pleine de mystère !</l>
+</lg>
+
+<lg>
+<l>D’autres sont plus que vous, ô petit coin de terre,</l>
+<l>Embaumés de jasmin ou fleuris de lilas,</l>
+<l>Mais, malgré leurs bosquets et leurs eaux, ils n’ont pas</l>
+<l>Le charme familier de votre humble parterre.</l>
+</lg>
+
+<pagenum num="114"/>
+
+<lg>
+<l>Quelques roses qu’aucune rose n’égala,</l>
+<l>Auprès du bassin clair, y poussent çà et là ;</l>
+<l>Nul parfum ne m’est doux que leur odeur lointaine,</l>
+</lg>
+
+<lg>
+<l>Car dans mon souvenir, ô roses du jardin,</l>
+<l>Vous mêlez votre arôme au chant de la fontaine</l>
+<l>Où l’amour effeuilla la fleur de mon matin.</l>
+</lg>
+</poem>
+
+</page-sequence>
+ <page-sequence id='p47'>
+<pagenum num="115"/>
+
+<h2>L’EXHORTATION</h2>
+
+<poem>
+<lg>
+<l>Vous êtes, mon enfant, plus chaste et plus farouche</l>
+<l>Que le lis du vallon et la rose des bois,</l>
+<l>Et cependant j’ai vu s’attendrir votre bouche</l>
+<l>Quand la rose et le lis s’effeuillaient de vos doigts,</l>
+</lg>
+
+<lg>
+<l>Car vous savez, hélas ! que les fleurs les plus belles</l>
+<l>D’un parfum passager embaument le printemps</l>
+<l>Et qu’il ne survit rien de ce qui charme en elles</l>
+<l>Quand l’automne a fané leurs contours odorants ;</l>
+</lg>
+
+<pagenum num="116"/>
+
+<lg>
+<l>Et vous savez aussi que l’âge vous mesure</l>
+<l>La saison de l’amour et de la volupté</l>
+<l>Et que le souvenir est ce qui reste et dure</l>
+<l>Et de toute jeunesse et de toute beauté.</l>
+</lg>
+
+<lg>
+<l>C’est pourquoi, dans un soir de délire et de fièvre,</l>
+<l>Vous sentirez en vous votre orgueil se briser</l>
+<l>Parce que vous voudrez que votre jeune lèvre</l>
+<l>Connaisse la douceur qu’a le goût du baiser.</l>
+</lg>
+
+<lg>
+<l>Alors, obéissante à celui qui vous aime,</l>
+<l>Vous permettrez dans l’ombre à l’amant anxieux</l>
+<l>Que son hardi regard apprenne de vous-même</l>
+<l>Ce qu’en sait son désir et qu’ignorent vos yeux,</l>
+</lg>
+
+<lg>
+<l>Et vous, enfant pareille aux fleurs du bois sauvage,</l>
+<l>Sans défendre à sa main vos voiles soulevés,</l>
+<l>Vous offrirez vous-même à l’amour en hommage</l>
+<l>Votre rose secrète et vos lis réservés.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p48'>
+ <pagenum num="117"/>
+
+<h2>LE CHOIX</h2>
+
+<poem>
+<lg>
+<l>Je ne me suis pas dit lorsque je vous ai vue</l>
+<l indent="2">Pour la première fois,</l>
+<l>Ni lorsque j’ai senti votre main retenue</l>
+<l indent="2">Frémir entre mes doigts,</l>
+</lg>
+
+<lg>
+<l>Je ne me suis pas dit : « Mon cœur, voici l’orage</l>
+<l indent="2">Avec elle qui vient !</l>
+<l>Puisse l’éclair luire en ses jeux, et son visage</l>
+<l indent="2">S’incliner vers le mien !</l>
+</lg>
+
+<pagenum num="118"/>
+
+<lg>
+<l>« Que quelque magnifique et foudroyant prodige,</l>
+<l indent="2">Ainsi qu’il n’en est pas,</l>
+<l>Soudain, et d’un élan de trouble et de vertige,</l>
+<l indent="2">La jette entre mes bras !</l>
+</lg>
+
+<lg>
+<l>« Qu’elle entre éblouissante et brusque dans ma vie</l>
+<l indent="2">Et d’un pas si vainqueur</l>
+<l>Que j’entende souffler comme un vent de folie</l>
+<l indent="2">Aux échos de mon cœur ! »</l>
+</lg>
+
+<lg>
+<l>Non, quand je vous ai vue et que votre main lasse</l>
+<l indent="2">Eut frémi doucement</l>
+<l>En la mienne, j’ai dit votre nom à voix basse</l>
+<l indent="2">Et pensé simplement :</l>
+</lg>
+
+<lg>
+<l>« Tu es belle, tes yeux, ta bouche et ton visage</l>
+<l indent="2">Sont beaux comme ton corps ;</l>
+<l>Heureux celui qui t’aime et qui, la nuit, partage</l>
+<l indent="2">Le lit où tu t’endors !</l>
+</lg>
+
+<lg>
+<l>« Heureux qui, chaque soir, peut dénouer à l’aise</l>
+<l indent="2">Tes cheveux abondants</l>
+<l>Et qui touche ta joue et ta gorge et qui baise</l>
+<l indent="2">Ton rire sur tes dents.</l>
+</lg>
+
+<pagenum num="119"/>
+
+<lg>
+<l>« L’homme qui peut jouir de tes beautés secrètes</l>
+<l indent="2">Est plus heureux qu’un Dieu,</l>
+<l>Car, lorsqu’un double attrait unit des forces prêtes.</l>
+<l indent="2">L’amour est un beau jeu.</l>
+</lg>
+
+<lg>
+<l>« Il ne faut rien de plus pour échauffer l’étreinte,</l>
+<l indent="2">O chair, que la beauté,</l>
+<l>Et, de la cendre d’or de la toison éteinte,</l>
+<l indent="2">Renaît la Volupté ! »</l>
+</lg>
+
+<lg>
+<l>C’est pourquoi, quand tu viens, taciturne et docile,</l>
+<l indent="2">Proposer au plaisir</l>
+<l>Ton beau corps langoureux dont caresse l’argile</l>
+<l indent="2">La flamme du Désir,</l>
+</lg>
+
+<lg>
+<l>Je raille ces Amants douloureux et farouches</l>
+<l indent="2">Dont l’amère fureur</l>
+<l>S’irrite et se nourrit de l’écume, à leurs bouches,</l>
+<l indent="2">Des orages du cœur.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p49'>
+ <pagenum num="120"/>
+
+<h2>LA CAPTIVE</h2>
+
+<poem>
+<lg>
+<l>Je vous ai si souvent regardée au visage</l>
+<l>Que j’en ai désiré votre corps tout entier,</l>
+<l>Et maintenant mes yeux conservent une image</l>
+<l>Que mon cœur désormais ne peut plus oublier.</l>
+</lg>
+
+<lg>
+<l>Que m’importe à présent si vos mains trop rapides</l>
+<l>Couvrent votre beauté de longs voiles jaloux !</l>
+<l>C’est en vain qu’à vos pieds tombent leurs plis rigides</l>
+<l>Puisqu’ils ne sont plus là lorsque je pense à vous.</l>
+</lg>
+
+<pagenum num="121"/>
+
+<lg>
+<l>Le jour peut s’achever et la nuit ténébreuse</l>
+<l>Peut vous confondre toute à son obscurité,</l>
+<l>N’êtes-vous pas debout dans son ombre amoureuse</l>
+<l>En un rêve pareil à votre nudité ?</l>
+</lg>
+
+<lg>
+<l>Et si vous détournez du mien votre visage,</l>
+<l>Si, loin de moi, s’en va votre pas orgueilleux,</l>
+<l>Est-il rien qui pourra dénouer l’esclavage</l>
+<l>Qui vous fait ma captive et vous lie à mes yeux ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p50'>
+ <pagenum num="122"/>
+
+<h2>LA GLOIRE</h2>
+
+<poem>
+<lg>
+<l>Je suis fier, car je sais, comme le plus robuste,</l>
+<l>Tendre l’arc recourbé d’où part la flèche juste,</l>
+<l>Et parce que mon bras musculeux sait comment</l>
+<l>On dompte l’étalon, le hongre, la jument,</l>
+<l>Et de quel geste sûr, par l’épieu, l’on transperce</l>
+<l>Le loup qui se débat ou l’ours qui se renverse !</l>
+<l>Car la chasse est un jeu magnifique. Elle sert</l>
+<l>A durcir sourdement le muscle sous la chair</l>
+<l>Et, lorsque l’on poursuit les hôtes au poil rude,</l>
+<pagenum num="123"/>
+<l>Leur rencontre, farouche et sauvage, prélude</l>
+<l>Au plaisir plus mortel, plus meurtrier, plus beau,</l>
+<l>De brandir au soleil le glaive au lourd pommeau</l>
+<l>Que la Guerre implacable et qui souffle la haine</l>
+<l>Fait luire au poing fermé de l’homme qu’elle entraîne</l>
+<l>Et qu’elle rue, avec des cris, et d’un seul bond,</l>
+<l>Vers la Victoire en sang debout à l’horizon !</l>
+</lg>
+
+<lg>
+<l>C’est pourquoi je suis orgueilleux, sentant leur force,</l>
+<l>De mon bras énergique et de mon jeune torse ;</l>
+<l>Mais c’est moins d’eux pourtant que me vient ma fierté,</l>
+<l>Ni de la flèche aiguë ou du glaive irrité,</l>
+<l>Que d’avoir, délaissant leur double exploit stupide,</l>
+<l>Cueilli, le cœur battant et le geste timide,</l>
+<l>La rose du hallier et le lis du ravin</l>
+<l>Pour en offrir l’hommage à ton regard divin</l>
+<l>Que charme leur couleur et réjouit leur vue,</l>
+<l>Et de pouvoir, étreint par toute ta chair nue,</l>
+<l>Faire, amant triomphal et vainqueur glorieux,</l>
+<l>Gémir d’amour ta bouche et se fermer tes yeux.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p51'>
+ <pagenum num="124"/>
+
+<h2>L’INTRUS</h2>
+
+<poem>
+<lg>
+<l>Il fait sombre ; la rue est grise, le ciel bas...</l>
+<l>Le spleen à l’aile maigre et qu’alourdit la fange,</l>
+<l>Fantôme familier qui n’est pas même étrange,</l>
+<l>Visite les amants et leur parle tout bas.</l>
+</lg>
+
+<lg>
+<l>Aux uns, pour que leur cœur s’en distraie, il conseille</l>
+<l>De chercher autre part une autre volupté</l>
+<l>Et, tandis qu’il les pousse à l’infidélité,</l>
+<l>Sa monotone voix bourdonne à leur oreille,</l>
+</lg>
+
+<pagenum num="125"/>
+
+<lg>
+<l>Aux autres, pour guérir un mal qui vient de lui,</l>
+<l>Leur reprochant leur bouche et leurs mains inactives,</l>
+<l>Il persuade avec des paroles lascives</l>
+<l>D’essayer de plaisirs qui trompent leur ennui.</l>
+</lg>
+
+<lg>
+<l>C’est alors que, dupés au double stratagème,</l>
+<l>Ils rêvent sourdement à leur désir nouveau,</l>
+<l>D’une main frémissante écartant le rideau,</l>
+<l>Leur front pâle appuyé contre la vitre blême...</l>
+</lg>
+
+<vsep class="onestar"/>
+
+<lg>
+<l>Mais, tu n’entreras pas, Démon au vol pesant ;</l>
+<l>En vain gratte au carreau ton aile désarmée,</l>
+<l>Le crépuscule en vain sur la ville embrumée</l>
+<l>Tombe, ce n’est pas toi que ma veillée attend ;</l>
+</lg>
+
+<lg>
+<l>Ici, dans l’âtre vif, brille une flamme ardente.</l>
+<l>Que m’importe l’automne et que me fait le soir,</l>
+<l>L’image d’une rose y rit dans le miroir !</l>
+<l>Le silence est divin et l’ombre est odorante...</l>
+</lg>
+
+<lg>
+<l>Va-t’en. Je suis heureux. L’Amour est là. Va-t-en !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p52'>
+ <pagenum num="126"/>
+
+<h2>LE REPOS APRÈS L’AMOUR</h2>
+
+<poem>
+<lg>
+<l>Nul parfum n’est plus doux que celui d’une rose</l>
+<l>Lorsque l’on se souvient de l’avoir respiré</l>
+<l>Ou quand l’ardent flacon, où son âme est enclose,</l>
+<l>En conserve au cristal l’arôme capturé.</l>
+</lg>
+
+<lg>
+<l>C’est pourquoi, si jamais avec fièvre et délice</l>
+<l>J’ai senti votre corps renversé dans mes bras</l>
+<l>Après avoir longtemps souffert l’âcre supplice</l>
+<l>De mon désir secret que vous ne saviez pas,</l>
+</lg>
+
+<pagenum num="127"/>
+
+<lg>
+<l>Si, tour à tour, muet, pressant, humble, farouche,</l>
+<l>Rôdant autour de vous dans l’ombre, brusquement,</l>
+<l>J’ai fini par cueillir la fleur de votre bouche,</l>
+<l>O vous, mon cher plaisir qui fûtes mon tourment !</l>
+</lg>
+
+<lg>
+<l>Si j’ai connu par vous l’ivresse sans pareille</l>
+<l>Dont la voluptueuse ou la tendre fureur</l>
+<l>Mystérieusement renaît et se réveille</l>
+<l>Chaque fois que mon cœur bat contre votre cœur,</l>
+</lg>
+
+<lg>
+<l>Cependant la caresse étroite, ni l’étreinte</l>
+<l>Ni le double baiser que le désir rend court</l>
+<l>Ne valent deux beaux yeux dont la flamme est éteinte</l>
+<l>En ce repos divin qu’on goûte après l’amour !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p53'>
+ <pagenum num="128"/>
+
+<h2>L’ANGOISSE DIVINE</h2>
+
+<poem>
+<lg>
+<l>Regarde-moi. Là-bas, j’ai vu s’enfuir l’orage</l>
+<l>Et la nuée éparse et l’éclair sans retour ;</l>
+<l>Mon étroite maison semble celle du sage,</l>
+<l>J’ai l’air d’avoir vaincu la colère et l’amour.</l>
+</lg>
+
+<lg>
+<l>Le soir qui va venir est doux à mon silence ;</l>
+<l>La solitude nue est assise à mes pieds,</l>
+<l>Et l’horloge muette où l’aiguille s’avance</l>
+<l>Sonnera bientôt l’heure où tout est oublié.</l>
+</lg>
+
+<pagenum num="129"/>
+
+<lg>
+<l>Mais qu’un rayon perdu du soleil qui se couche</l>
+<l>Par la croisée en feu descende sur ma main,</l>
+<l>Ou qu’un cher souvenir effleure de sa bouche</l>
+<l>Ma mémoire tremblante à son souffle incertain,</l>
+</lg>
+
+<lg>
+<l>Que la rose qui meurt en ce vase de Perse,</l>
+<l>Odorante, à l’adieu de son éclat défunt,</l>
+<l>Avec trop de douceur dans l’ombre molle, verse</l>
+<l>Son suprême pétale et son dernier parfum,</l>
+</lg>
+
+<lg>
+<l>Alors mon cœur — ce cœur qui bat dans ma poitrine</l>
+<l>Et que je croyais mort d’être silencieux — </l>
+<l>Me remplit tout à coup d’une angoisse divine</l>
+<l>Qui monte brusquement en larmes vers mes yeux,</l>
+</lg>
+
+<lg>
+<l>Et tout mon vieux passé de tourment et d’orage</l>
+<l>Dont palpite l’éclair et gronde l’écho sourd,</l>
+<l>De son reflet ardent empourpre mon visage</l>
+<l>Que vaincront de nouveau la colère et l’amour.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p54'>
+ <pagenum num="130"/>
+
+<h2>LE JALOUX</h2>
+
+<poem>
+<lg>
+<l>Ne faites pas semblant, en effeuillant ces roses,</l>
+<l>De penser à celui dont mon cœur est jaloux ;</l>
+<l>N’abaissez pas ainsi vos paupières mi-closes</l>
+<l>Sur ce regard trop lourd, trop lointain et trop doux.</l>
+</lg>
+
+<lg>
+<l>Car il est trop cruel déjà pour qui vous aime</l>
+<l>Que de vous, trop longtemps, le destin l’ait exclu,</l>
+<l>Toute votre jeunesse, hélas ! fut à vous-même</l>
+<l>Et vous en avez fait ce qu’il vous aura plu !</l>
+</lg>
+
+<pagenum num="131"/>
+
+<lg>
+<l>Laissez à mon amour le soin de sa torture,</l>
+<l>Qu’il la puisse choisir parmi votre passé,</l>
+<l>Celui-là souffre moins dont la plaie est obscure</l>
+<l>Et qui ne connaît pas la main qui l’a blessé !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p55'>
+ <pagenum num="132"/>
+
+<h2>VISAGES</h2>
+
+<poem>
+<lg>
+<l>Je vous ai trop aimée, Automne au cher visage, —</l>
+<l>Dit-il, — ô vous pareille à celle que j’aimais !</l>
+<l>Son cœur, comme le vôtre, était ardent et sage ;</l>
+<l>Vos yeux, comme les siens, me sont doux à jamais.</l>
+</lg>
+
+<lg>
+<l>Lorsque vous regardiez sans regret, une à une,</l>
+<l>Vos feuilles dans le vent s’envoler vers la nuit,</l>
+<l>Il me semblait la voir, comme vous sans rancune.</l>
+<l>Sourire indifférente à l’heure qui s’enfuit.</l>
+</lg>
+
+<pagenum num="133"/>
+
+<lg>
+<l>En vous je retrouvais sa façon d’être belle :</l>
+<l>Car elle eut, comme vous, cette même beauté</l>
+<l>Qui, d’un instant, paraît devoir être éternelle</l>
+<l>Et qui se rajeunit de sa maturité.</l>
+</lg>
+
+<lg>
+<l>Ainsi, faite de brume et d’air et de feuillage,</l>
+<l>Votre face divine et qui ne meurt jamais,</l>
+<l>Automne, se confond avec un cher visage</l>
+<l>Et celui que je vois est celui que j’aimais !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p56'>
+ <pagenum num="134"/>
+
+<h2>L’AVEU</h2>
+
+<poem>
+<lg>
+<l>Mon cœur est sans regret, ce soir, et sans tristesse ;</l>
+<l>Le jour a fui pourtant, et vous n’êtes plus là ;</l>
+<l>Ces roses, peu à peu, dans l’ombre plus épaisse,</l>
+<l>Semblent des fleurs de cendre où quelque feu brûla ;</l>
+</lg>
+
+<lg>
+<l>Cependant, aujourd’hui vous étiez toujours belle,</l>
+<l>Vos mains étaient vos mains, vos yeux étaient vos yeux,</l>
+<l>Et comme j’eusse hier trouvé morne et cruelle</l>
+<l>L’heure où vous me laissez seul et silencieux !</l>
+</lg>
+
+<pagenum num="135"/>
+
+<lg>
+<l>Mais, ce soir, je me sens le cœur ingrat et sombre ;</l>
+<l>Vous étiez près de moi, et j’étais loin de vous,</l>
+<l>Et j’aurais souhaité que s’effaçât dans l’ombre</l>
+<l>Votre visage pur, délicieux et doux,</l>
+</lg>
+
+<lg>
+<l>Car je voudrais pouvoir vous haïr, vous que j’aime,</l>
+<l>Rose qui parfumez mon destin embaumé !</l>
+<l>Pour m’éviter ainsi, par un vil stratagème,</l>
+<l>Peut-être le tourment de n’être plus aimé ;</l>
+</lg>
+
+<lg>
+<l>Je voudrais, cœur honteux de sa lâche espérance,</l>
+<l>Ne plus me souvenir de vous par qui je vis...</l>
+<l>Mais c’est encor l’amour, un amour qui d’avance</l>
+<l>Se prépare à la haine et se force à l’oubli ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p57'>
+ <pagenum num="136"/>
+
+<h2>LA RUPTURE</h2>
+
+<poem>
+<lg>
+<l>Ce n’est pas votre adieu qui me tire ces larmes</l>
+<l indent="2">Que je ne cache pas,</l>
+<l>Et si je fus blessé, ce n’est point par vos armes :</l>
+<l indent="2">Elles frappent trop bas.</l>
+</lg>
+
+<lg>
+<l>Si vos yeux insolents regardent ma détresse,</l>
+<l indent="2">N’en prenez point sujet</l>
+<l>Pour vous enorgueillir de l’état où me laisse</l>
+<l indent="2">Cette douleur que j’ai,</l>
+</lg>
+
+<pagenum num="137"/>
+
+<lg>
+<l>Car vous avez en vain dans ma coupe tendue</l>
+<l indent="2">Versé l’âcre poison</l>
+<l>Et, pendant mon sommeil, effeuillé la ciguë</l>
+<l indent="2">De votre trahison ;</l>
+</lg>
+
+<lg>
+<l>En vain votre mauvais et perfide sourire</l>
+<l indent="2">Me raille lâchement</l>
+<l>D’avoir tenu pour vrai ce que vous savez dire</l>
+<l indent="2">D’une bouche qui ment.</l>
+</lg>
+
+<lg>
+<l>Non ! ce n’est pas cela, voyez-vous, que je pleure,</l>
+<l indent="2">Le front entre mes mains,</l>
+<l>Et ce n’est ni vous-même, hélas ! et ni le leurre</l>
+<l indent="2">De vos yeux incertains,</l>
+</lg>
+
+<lg>
+<l>Mais que votre beauté à qui je fus crédule</l>
+<l indent="2">Ait dupé mon amour</l>
+<l>Et d’avoir trop longtemps pris votre crépuscule</l>
+<l indent="2">Pour l’aube d’un beau jour ;</l>
+</lg>
+
+<lg>
+<l>Car je n’ai dans mes bras serré que le mensonge</l>
+<l indent="2">D’un fantôme vivant</l>
+<l>Et me voici pareil à celui dont le songe</l>
+<l indent="2">Jette son or au vent...</l>
+</lg>
+
+<pagenum num="138"/>
+
+<lg>
+<l>Et ce que je regrette en ces larmes cruelles</l>
+<l indent="2">Où vous n’êtes pour rien</l>
+<l>Ce n’est pas, sachez-le, vous sans pitié pour elles,</l>
+<l indent="2">Votre amour, c’est le mien !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p58'>
+ <pagenum num="139"/>
+
+<h2>LE RETOUR</h2>
+
+<poem>
+<lg>
+<l>Je connais ce visage et ces veux, et ta bouche,</l>
+<l indent="2">Je la connais aussi,</l>
+<l>Et cet air inquiet, misérable et farouche</l>
+<l indent="2">En lequel te voici.</l>
+</lg>
+
+<lg>
+<l>Je sais pourquoi tes mains, ami, tremblent encore</l>
+<l indent="2">De désir et de peur,</l>
+<l>Et que, si je tâtais ta poitrine sonore</l>
+<l indent="2">A l’endroit de ton cœur,</l>
+</lg>
+
+<pagenum num="140"/>
+
+<lg>
+<l>Je le sentirais battre et frémir sous mon pouce</l>
+<l indent="2">Au choc sourd de ton sang ;</l>
+<l>Je sais pourquoi ta voix est rauque, lasse et douce</l>
+<l indent="2">Et ton pas chancelant.</l>
+</lg>
+
+<lg>
+<l>C’est parce que ta lèvre a prononcé dans l’ombre</l>
+<l indent="2">Un nom mystérieux</l>
+<l>Et qu’une forme nue en ta mémoire sombre</l>
+<l indent="2">Brûle devant tes yeux !</l>
+</lg>
+
+<lg>
+<l>Car te voici, ce soir, Dieu qui redeviens homme,</l>
+<l indent="2">Revenu sans retour</l>
+<l>Du ténébreux, ardent et terrible royaume</l>
+<l indent="2">Où t’a conduit l’amour !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p59'>
+ <pagenum num="141"/>
+
+<vsep class="fewlines"/>
+
+<poem>
+<lg>
+<l><i>Ce n’est pas moi qui parle en ces vers. Non, c’est vous,</i></l>
+<l><i>Amants heureux, amants trahis, amants jaloux,</i></l>
+<l><i>Vous qui dites tout haut par mes lèvres fermées</i></l>
+<l><i>Ce que vous murmuriez sur des bouches aimées</i></l>
+<l><i>Et ce que votre voix de colère et d’amour,</i></l>
+<l><i>Maudissant la lumière ou bénissant le jour,</i></l>
+<l><i>Répétait, furieuse ou douce, rauque ou tendre...</i></l>
+<l><i>Ma parole est l’écho où l’on peut vous entendre,</i></l>
+<l><i>Toi, dont la passion fut un songe vermeil,</i></l>
+<l><i>Plein de roses, de chants, de joie et de soleil,</i></l>
+<l><i>Et toi qui, déchiré par l’anxieux tourment</i></l>
+<l><i>De la chair qui se donne et de l’âme qui ment,</i></l>
+<l><i>Cherches, vaine toujours au milieu du bois sombre,</i></l>
+<l><i>D’arbre en arbre, à saisir le prestige d’une ombre</i></l>
+<l><i>Qui se montre et se cache à travers les cyprès ;</i></l>
+<l><i>Et toi qui, tout saignant de honte et de regrets,</i></l>
+<pagenum num="142"/>
+<l><i>T’es assis en pleurant sur le bord de la route ;</i></l>
+<l><i>C’est vous tous, tour à tour, que ma mémoire écoute,</i></l>
+<l><i>Amants heureux, amants trahis, amants jaloux,</i></l>
+<l><i>Et ce n’est pas moi qui parle en ces vers. C’est vous !</i></l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p60'>
+ <pagenum num="143"/>
+
+<vsep class="fewlines"/>
+
+<h1><i>SEPT ESTAMPES AMOUREUSES</i></h1>
+
+<pagenum num="144"/>
+ </page-sequence>
+ <page-sequence id='p61'>
+ <pagenum num="145"/>
+
+<h2>LUCINDE AU CORPS DIVIN</h2>
+
+<poem>
+<lg>
+<l>Lucinde n’est pas née au temps où ses aïeux</l>
+<l>Habitaient leurs palais d’Espagne ou d’Italie,</l>
+<l>Aussi voit-on, parfois, errer dans ses beaux yeux</l>
+<l>Un regard de regret et de mélancolie.</l>
+</lg>
+
+<lg>
+<l>Enfant, elle n’a pas, parmi les orangers,</l>
+<l>Admiré leurs fruits mûrs à leurs branches lointaines,</l>
+<l>Ni, du dôme abondant des bosquets trop chargés,</l>
+<l>Vu les lourds citrons d’or tomber près des fontaines ;</l>
+</lg>
+
+<pagenum num="146"/>
+
+<lg>
+<l>Au bord des bassins ronds qu’entoure un sombre buis,</l>
+<l>Elle n’a pas marché sous les charmilles basses,</l>
+<l>Ni le soir, pour rêver, recherché les appuis</l>
+<l>Du marbre où l’on s’accoude aux rampes des terrasses ;</l>
+</lg>
+
+<lg>
+<l>Elle n’a pas, dans l’ombre, écouté les secrets</l>
+<l>Que murmure tout bas le silence des choses,</l>
+<l>Et la lune levée au-dessus des cyprès</l>
+<l>N’a pas, en ses doigts fins, fait s’effeuiller des roses.</l>
+</lg>
+
+<lg>
+<l>Lucinde n’a pas eu des jardins pleins de Dieux</l>
+<l>Où le jet d’eau brillant rit aux vasques moussues,</l>
+<l>Ni des palais remplis d’échos mystérieux</l>
+<l>Au vestibule vaste où veillent des statues ;</l>
+</lg>
+
+<lg>
+<l>Les cascades n’ont pas chanté sous son balcon</l>
+<l>Leur fureur langoureuse ou leurs fluides plaintes ;</l>
+<l>Elle n’a pas dormi sous un riche plafond</l>
+<l>Où, dans les entrelacs, des figures sont peintes.</l>
+</lg>
+
+<lg>
+<l>Non ! la chambre est petite où Lucinde s’endort</l>
+<l>Et sa fenêtre haute ouvre sur un ciel vide,</l>
+<l>Et le miroir étroit n’a pas de cadre d’or</l>
+<l>Où se voit, au réveil, son visage candide ;</l>
+</lg>
+
+<pagenum num="147"/>
+
+<lg>
+<l>Mais qu’a-t-elle besoin de ce qu’elle n’a pas,</l>
+<l>Des perles de l’Ophyr ou des tissus de l’Inde,</l>
+<l>Puisque la moindre fleur s’embellit sous ses pas</l>
+<l>Et que, parée ou non, elle est toujours Lucinde ?</l>
+</lg>
+
+<lg>
+<l>Car ne suffit-il point, pour que le clair matin</l>
+<l>Comme sa jeune reine à genoux la salue</l>
+<l>Et pour que l’air entier soit un printemps divin,</l>
+<l>Qu’en riant à son corps elle se mette nue ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p62'>
+ <pagenum num="148"/>
+
+<h2>ALBERTE AU CHER VISAGE</h2>
+
+<poem>
+<lg>
+<l>Lorsque je pense à vous, Alberte au cher visage,</l>
+<l>Et, quel que soit le lieu, le jour ou la saison,</l>
+<l>Quand je vois à mes yeux se former votre image,</l>
+<l>Je suis comme quelqu’un qui sort de sa prison :</l>
+</lg>
+
+<lg>
+<l>Un voile ténébreux devant moi se déchire</l>
+<l>Et s’ouvre tout à coup sur un ciel plein d’oiseaux.</l>
+<l>Ma bouche avec ivresse, à l’air qu’elle respire,</l>
+<l>Voluptueusement, trouve des goûts nouveaux ;</l>
+</lg>
+
+<pagenum num="149"/>
+
+<lg>
+<l>J’entends chanter en moi des fontaines sonores</l>
+<l>Que n’épuiseraient pas les feux de cent étés</l>
+<l>Et qui savent garder la fraîcheur des aurores</l>
+<l>Sous le pesant soleil des midis irrités ;</l>
+</lg>
+
+<lg>
+<l>Je crois aller vers vous par un jardin d’Asie</l>
+<l>Que parfument des fleurs qui ne se fanent pas,</l>
+<l>Et je sens se hausser, en sa pourpre polie,</l>
+<l>Une marche de marbre à chacun de mes pas ;</l>
+</lg>
+
+<lg>
+<l>Puis c’est un grand silence où bat le cœur des choses</l>
+<l>Et tout semble éternel, ineffable et divin,</l>
+<l>Et le rouge pétale où s’effeuillent les roses</l>
+<l>Jusques à votre seuil me montre le chemin...</l>
+</lg>
+
+<lg>
+<l>Et cependant la rue autour de moi bourdonne,</l>
+<l>A moins que, dans ma chambre au plafond enfumé,</l>
+<l>Je n’écoute vibrer l’horloge monotone</l>
+<l>Ou l’averse frappant le carreau refermé ;</l>
+</lg>
+
+<lg>
+<l>Mais, pour faire en mon cœur naître, par votre image,</l>
+<l>Ces roses, ces jardins, ces fontaines, ces cieux,</l>
+<l>Il suffit que je pense à ce jeune visage</l>
+<l>Dont les yeux à jamais ont ébloui mes jeux !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p63'>
+ <pagenum num="150"/>
+
+<h2>ELVIRE AUX YEUX BAISSÉS</h2>
+
+<poem>
+<lg>
+<l>Quand le désir d’amour écarte ses genoux</l>
+<l>Et que son bras plié jusqu’à sa bouche attire,</l>
+<l>Tout à l’heure si clairs, si baissés et si doux,</l>
+<l>On ne reconnaît plus les chastes yeux d’Elvire.</l>
+</lg>
+
+<lg>
+<l>Eux qui s’attendrissaient aux roses du jardin</l>
+<l>Et cherchaient une étoile à travers le feuillage,</l>
+<l>Leur étrange regard est devenu soudain</l>
+<l>Plus sombre que la nuit et plus noir que l’orage.</l>
+</lg>
+
+<pagenum num="151"/>
+
+<lg>
+<l>Toute Elvire à l’amour prend une autre beauté ;</l>
+<l>D’un souffle plus ardent s’enfle sa gorge dure,</l>
+<l>Et son visage implore avec félicité</l>
+<l>La caresse trop longue et le plaisir qui dure...</l>
+</lg>
+
+<lg>
+<l>C’est en vain qu’à sa jambe elle a fait, sur sa peau,</l>
+<l>Monter le bas soyeux et que la cuisse ajuste,</l>
+<l>Et qu’elle a, ce matin, avec un soin nouveau,</l>
+<l>Paré son jeune corps délicat et robuste.</l>
+</lg>
+
+<lg>
+<l>La robe, le jupon, le linge, le lacet,</l>
+<l>Ni la boucle ne l’ont cependant garantie</l>
+<l>Contre ce feu subtil, langoureux et secret</l>
+<l>Qui la dresse lascive et l’étend alanguie.</l>
+</lg>
+
+<lg>
+<l>Elvire ! il a fallu, pleine de déraison,</l>
+<l>Qu’au grand jour, à travers la ville qui vous guette,</l>
+<l>Peureuse, vous vinssiez obéir au frisson</l>
+<l>Qui brûlait sourdement votre chair inquiète ?</l>
+</lg>
+
+<lg>
+<l>Il a fallu laisser tomber de votre corps</l>
+<l>Le corset au long busc et la souple chemise</l>
+<l>Et montrer à des yeux, impurs en leurs transports,</l>
+<l>Vos yeux d’esclave heureuse, accablée et soumise.</l>
+</lg>
+
+<pagenum num="152"/>
+
+<lg>
+<l>Car, sous le rude joug de l’amour souverain,</l>
+<l>Vous n’êtes plus l’Elvire enfantine et pudique</l>
+<l>Qui souriait naïve aux roses du jardin</l>
+<l>Et qui cherchait l’étoile au ciel mélancolique.</l>
+</lg>
+
+<lg>
+<l>Maintenant le désir écarte vos genoux,</l>
+<l>Mais quand, grave, contente, apaisée et vêtue,</l>
+<l>Vous ne serez plus là, vous rappellerez-vous</l>
+<l>Mystérieusement l’heure où vous étiez nue ?</l>
+</lg>
+
+<lg>
+<l>Non ! Dans votre jardin, doux à vos pas lassés,</l>
+<l>Où, parmi le feuillage, une étoile palpite,</l>
+<l>De nouveau, vous serez Elvire aux yeux baissés</l>
+<l>Que dispense l’oubli du soin d’être hypocrite.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p64'>
+ <pagenum num="153"/>
+
+<h2>PAULINE AU CŒUR TROP TENDRE</h2>
+
+<poem>
+<lg>
+<l>One dira-t-on de vous, Pauline au cœur plus tendre,</l>
+<l>Que le tendre regard de vos beaux yeux si doux</l>
+<l>Et qui semblez toujours en souriant attendre</l>
+<l>Qu’avant de vous parler on se mette à genoux ?</l>
+</lg>
+
+<lg>
+<l>Ceux dont la foi s’est prise à la promesse vaine</l>
+<l>De votre jeune rire et de votre beauté</l>
+<l>En garderont peut-être un souvenir de haine</l>
+<l>Et maudiront les jeux de votre fausseté ;</l>
+</lg>
+
+<pagenum num="154"/>
+
+<lg>
+<l>Pour d’autres, vous serez l’ingrate et l’Infidèle</l>
+<l>Parce que vous aurez pris un autre chemin</l>
+<l>Et que la fleur d’amour qu’ils croyaient éternelle</l>
+<l>N’aura fleuri pour eux que le temps d’un matin ;</l>
+</lg>
+
+<lg>
+<l>Mais lui, songeant à vous, en silence, dans l’ombre,</l>
+<l>Il les laissera dire et s’en ira loin d’eux</l>
+<l>Pour rêver longuement à ce soir tiède et sombre</l>
+<l>Où sa joue a touché vos seins et vos cheveux.</l>
+</lg>
+
+<lg>
+<l>Car n’est-ce pas assez, Pauline au cœur trop tendre,</l>
+<l>D’avoir senti frémir entre ses bras, avant</l>
+<l>Que vous ne soyez plus que poussière et que cendre,</l>
+<l>Votre corps partagé, sans doute, mais charmant ?</l>
+</lg>
+
+<lg>
+<l>Qu’importe à qui respire une corolle éclose</l>
+<l>Le bouquet plus nombreux qu’elle eût pu composer,</l>
+<l>Son parfum n’est-il pas dans une seule rose</l>
+<l>Comme toute la bouche est dans un seul baiser ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p65'>
+ <pagenum num="155"/>
+
+<h2>JULIE AUX YEUX D’ENFANT</h2>
+
+<poem>
+<lg>
+<l>Lorsque Julie est nue et s’apprête au plaisir,</l>
+<l>Ayant jeté la rose où s’amusait sa bouche,</l>
+<l>On ne voit dans ses yeux ni honte ni désir ;</l>
+<l>L’attente ne la rend ni tendre ni farouche.</l>
+</lg>
+
+<lg>
+<l>Sur son lit où le drap mêle sa fraîche odeur</l>
+<l>Au parfum doux et chaud de sa chair savoureuse,</l>
+<l>En silence, elle étend sa patiente ardeur</l>
+<l>Et son oisive main couvre sa toison creuse.</l>
+</lg>
+
+<pagenum num="156"/>
+
+<lg>
+<l>Elle prépare ainsi sans curiosité</l>
+<l>Pour l’instant du baiser sa gorge et son visage,</l>
+<l>Car, fleur trop tôt cueillie et fruit trop tôt goûté,</l>
+<l>Julie aux yeux d’enfant est jeune et n’est plus sage !</l>
+</lg>
+
+<lg>
+<l>Sa chambre aux murs savants lui montre en ses miroirs</l>
+<l>Elle-même partout répétée autour d’elle</l>
+<l>Ainsi qu’en d’autres lits, elle s’est, d’autres soirs,</l>
+<l>Offerte, indifférente, en sa grâce infidèle.</l>
+</lg>
+
+<lg>
+<l>Mais lorsqu’entre ses bras on la serre et l’étreint,</l>
+<l>La caresse importune en son esprit n’éveille</l>
+<l>Que l’écho monotone, ennuyeux et lointain</l>
+<l>De quelque autre caresse, à celle-là pareille ;</l>
+</lg>
+
+<lg>
+<l>C’est pourquoi, sans tendresse, hélas ! et sans désir,</l>
+<l>Sur ce lit insipide où sa beauté la couche</l>
+<l>Elle songe à la mort et s’apprête au plaisir,</l>
+<l>Lasse d’être ce corps, ces membres, cette bouche...</l>
+</lg>
+
+<lg>
+<l>Et pourquoi, ô Julie, ayant goûté ta chair,</l>
+<l>De ta jeunesse vaine et stérile on emporte</l>
+<l>Un morne souvenir de ton baiser amer,</l>
+<l>Julie aux yeux d’enfant, qui voudrais être morte !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p66'>
+ <pagenum num="157"/>
+
+<h2>ALINE</h2>
+
+<poem>
+<lg>
+<l>Aline, la pudeur est douce sur ta joue</l>
+<l>Quand son fard délicat en colorant ta peau</l>
+<l>Imite la couleur de l’incarnat qu’on loue</l>
+<l>Aux roses du printemps ou de l’été nouveau.</l>
+</lg>
+
+<lg>
+<l>La colère en tes yeux, ô violente Aline,</l>
+<l>Est belle et l’on dirait en t’admirant qu’on voit</l>
+<l>Soudain, quand ton regard s’éclaire et s’illumine,</l>
+<l>Une déesse vivre et se dresser en toi.</l>
+</lg>
+
+<pagenum num="158"/>
+
+<lg>
+<l>Mais aussi la tristesse, Aline, sur ta bouche</l>
+<l>Est charmante, pensive et pleine de secrets,</l>
+<l>Si bien qu’on ne sait pas, triste, ardente ou farouche,</l>
+<l>Ce qu’on aime le mieux de tout ce que tu es.</l>
+</lg>
+
+<lg>
+<l>Car le brûlant soleil, la nuée et l’orage</l>
+<l>Conviennent tour à tour à ta triple beauté,</l>
+<l>Mais rien ne vaut pourtant, Aline, ce visage</l>
+<l>Qu’à ton jeune désir donne la volupté !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p67'>
+ <pagenum num="159"/>
+
+<h2>CORYSE</h2>
+
+<poem>
+<lg>
+<l>Coryse, tout, en vous, fait penser à l’amour,</l>
+<l indent="2">Tout vous-même vous y exhorte :</l>
+<l>Vos cheveux pleins de nuit et vos yeux pleins de jour...</l>
+<l indent="2">Vous êtes belle, souple et forte.</l>
+</lg>
+
+<lg>
+<l>Sur un lit où noueraient deux cygnes leurs cols tors</l>
+<l indent="2">Je voudrais vous voir étendue</l>
+<l>Et que vous y fussiez auprès d’un autre corps,</l>
+<l indent="2">Coryse, et que vous soyez nue,</l>
+</lg>
+
+<pagenum num="160"/>
+
+<lg>
+<l>Car il n’est pas de jeu plus noble et plus charmant</l>
+<l indent="2">Que celui de la chair heureuse,</l>
+<l>Et vous seriez, Coryse, aux bras de votre amant</l>
+<l indent="2">Ma plus belle estampe amoureuse !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p68'>
+ <pagenum num="161"/>
+
+<vsep class="fewlines"/>
+
+<h1>LE MÉDAILLIER</h1>
+
+<epigraphe>
+<p><i>à M<sup>me</sup> la Comtesse de Béarn.</i></p>
+</epigraphe>
+
+<pagenum num="162"/>
+ </page-sequence>
+ <page-sequence id='p69'>
+ <pagenum num="163"/>
+
+<h2><i>LE DISCIPLE</i></h2>
+
+<poem>
+<lg>
+<l><i>Ainsi qu Alphésibée imite dans Virgile</i></l>
+<l><i>Les satyres dansants que surprend le matin,</i></l>
+<l><i>O mon maître, j’essaie, à mon souffle incertain,</i></l>
+<l><i>De retrouver ta voix sur ma flûte fragile.</i></l>
+</lg>
+
+<lg>
+<l><i>Que la rose éphémère ou le lierre agile</i></l>
+<l><i>A défaut du laurier me couronne au festin</i></l>
+<l><i>Où, comme tu haussais de ton geste hautain</i></l>
+<l><i>Ta coupe d’or, je lève une tasse d’argile !</i></l>
+</lg>
+
+<lg>
+<l><i>Si de quelque beau chant résonne par ma bouche</i></l>
+<l><i>La rumeur éclatante, héroïque et farouche,</i></l>
+<l><i>Que la gloire l’ajoute à l’écho de ton nom,</i></l>
+</lg>
+
+<lg>
+<l><i>Car la torche allumée à ton bûcher qui brûle</i></l>
+<l><i>A fait seule, au galop sur la pente du mont,</i></l>
+<l><i>Les Centaures s’enfuir devant l’ombre d Hercule !</i></l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p70'>
+ <pagenum num="164"/>
+
+<h2>LES MÉDAILLES</h2>
+
+<poem>
+<lg>
+<l>Regarde. Dans l’argent, l’électrum ou l’airain,</l>
+<l>Ou dans l’or pur, selon le pays ou la ville,</l>
+<l>Tu peux voir — qu’y fixa la frappe indélébile — </l>
+<l>Le symbole civique ou l’attribut divin.</l>
+</lg>
+
+<lg>
+<l>Ces médailles, trésor que soupèse ta main,</l>
+<l>Que leur relief soit fruste ou soit parfait leur style,</l>
+<l>Pièces à fleur de coin de Grèce et de Sicile,</l>
+<l>Pentadrachme, statère, obole, tout est vain.</l>
+</lg>
+
+<lg>
+<l>Égine, Cos, Chalkis, Cyzique, Syracuse,</l>
+<l>Tarente ! Le comptoir aujourd’hui les récuse ;</l>
+<l>Le temps ne leur laissa que leur seule beauté ;</l>
+</lg>
+
+<lg>
+<l>Si bien que leur métal, pur comme un rythme d’ode,</l>
+<l>En porte encor, peut-être, avec plus de fierté,</l>
+<l>L’Épi de Métaponte ou la Rose de Rhodes.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p71'>
+ <pagenum num="165"/>
+
+<h2>L’OFFRANDE</h2>
+
+<poem>
+<lg>
+<l>Ce n’est pas à vous, Dieux du flot hellespontique</l>
+<l>Dont l’onde, tour à tour, âpre ou calme, a porté,</l>
+<l>Dans la brise facile ou le vent irrité,</l>
+<l>Ma barque au mât solide où bat la voile unique,</l>
+</lg>
+
+<lg>
+<l>Que j’offrirai, trophée écailleux et nautique,</l>
+<l>L’honneur de mon filet, ce beau thon argenté ;</l>
+<l>Non, c’est à toi que je le voue, ô ma Cité,</l>
+<l>O toi qui m’as vu naître et que j’aime, Cyzique !</l>
+</lg>
+
+<lg>
+<l>Comme Agrigente un crabe ou Tarente un dauphin,</l>
+<l>Tu frappes ton métal d’un symbole marin.</l>
+<l>Reçois donc ce tribut de ma pêche, en hommage,</l>
+</lg>
+
+<lg>
+<l>Puisque dans l’électrum, Cyzique, ou dans l’argent,</l>
+<l>Tes pièces de monnaie en conservent l’image</l>
+<l>Au revers poissonneux de leur disque luisant.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p72'>
+ <pagenum num="166"/>
+
+<h2>LE SALAIRE</h2>
+
+<poem>
+<lg>
+<l>Tout le jour, sur le flot du changeant Hellespont</l>
+<l>Qui tantôt veut la rame et tantôt la voilure,</l>
+<l>Pêcheur, fus de pêcheurs, il a, sans un murmure,</l>
+<l>Relevé les filets et lancé le harpon.</l>
+</lg>
+
+<lg>
+<l>Au soleil, la sueur lui coula du menton ;</l>
+<l>Plus d’une fois l’écaille écorcha sa peau dure,</l>
+<l>Mais dans sa barque, au soir, s’entassent le silure,</l>
+<l>La sole, le turbot, le rouget et le thon.</l>
+</lg>
+
+<lg>
+<l>La nuit tombe. Il revient au port ; la brise est fraîche.</l>
+<l>Il songe qu’à son poids on lui paiera sa pêche</l>
+<l>D’un bon prix qui bientôt sonnera dans sa main,</l>
+</lg>
+
+<lg>
+<l>Et, dans le ciel, il voit, luisante et métallique,</l>
+<l>Déjà, comme un salaire à son travail marin,</l>
+<l>Une lune d’argent se lever sur Cyzique.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p73'>
+ <pagenum num="167"/>
+
+<h2>AGRIGENTE</h2>
+
+<poem>
+<lg>
+<l>Sur la colline fauve où l’herbe fut brûlante,</l>
+<l>Le fronton grec s’appuie encore au chapiteau,</l>
+<l>Mais plus d’une colonne a chu sous le fardeau</l>
+<l>Et les temples, par blocs, jonchent la noble pente.</l>
+</lg>
+
+<lg>
+<l>Le soir vient. L’olivier dont la feuille s’argente</l>
+<l>Frissonne au bord poudreux de l’Acragas sans eau,</l>
+<l>Et dans le sable sec piétine le troupeau</l>
+<l>Des chèvres que mènent tes pâtres, Agrigente !</l>
+</lg>
+
+<lg>
+<l>Tes médailles jadis, dans l’or et dans l’argent,</l>
+<l>Montraient l’aigle céleste et le crabe nageant,</l>
+<l>Quelque profil divin ou le quadrige agile,</l>
+</lg>
+
+<lg>
+<l>Mais aujourd’hui sur toi, dans l’azur noir des cieux,</l>
+<l>La lune arrondit seule en la nuit de Sicile</l>
+<l>Son disque sans emblème et son orbe sans dieux.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p74'>
+ <pagenum num="168"/>
+
+<h2>MÉTAPONTE</h2>
+
+<poem>
+<lg>
+<l>Que celui-ci, pasteur, s’occupe de la tonte,</l>
+<l>Que l’un soigne la ruche et l’autre le jardin,</l>
+<l>Que tel taille la vigne et coupe le raisin,</l>
+<l>Qu’un autre encor maîtrise un étalon qu’il dompte,</l>
+</lg>
+
+<lg>
+<l>Que celui-là, du haut de la barque qu’il monte,</l>
+<l>Lance l’aigu trident ou le filet marin,</l>
+<l>Aucun de nos travaux n’est inutile et vain</l>
+<l>Et notre effort divers enrichit Métaponte !...</l>
+</lg>
+
+<lg>
+<l>Moi, son rustique fils, et qui tiens l’aiguillon,</l>
+<l>Je pousse la charrue et creuse le sillon</l>
+<l>D’où la houle du blé déroulera sa nappe,</l>
+</lg>
+
+<lg>
+<l>Et c’est moi qui lui donne, honneur du sol natal,</l>
+<l>Pour l’inscrire en symbole aux pièces qu’elle frappe,</l>
+<l>Le bel Épi qu’on voit au revers du métal.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p75'>
+ <pagenum num="169"/>
+
+<h2>CYZIQUE</h2>
+
+<poem>
+<lg>
+<l>Un grand platane étend son ombre magnifique</l>
+<l>Où chante une fontaine avec un clair bruit d’eau ;</l>
+<l>Un petit âne gris enjambe le ruisseau</l>
+<l>Et trotte, qu’un vieux Turc menace de sa trique ;</l>
+</lg>
+
+<lg>
+<l>Une cigogne au ciel passe d’un vol oblique ;</l>
+<l>L’air est limpide, pur, odorant, calme, chaud,</l>
+<l>Et l’éternelle mer étale un flot nouveau</l>
+<l>Le long de la verte presqu’île où fut Cyzique.</l>
+</lg>
+
+<lg>
+<l>En son orbe qui luit à l’horizon encor,</l>
+<l>Le soleil fait songer à ces statères d’or</l>
+<l>Qu’en un fauve métal, sans mélange et sans tares,</l>
+</lg>
+
+<lg>
+<l>Tu frappais autrefois de ton coin, ô Cité,</l>
+<l>Et qui portaient jadis jusqu’aux terres barbares</l>
+<l>Le renom de ta gloire et de ta probité.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p76'>
+ <pagenum num="170"/>
+
+<h2>ÉPITAPHE</h2>
+
+<poem>
+<lg>
+<l>Je suis mort. J’ai fermé mes jeux à la clarté.</l>
+<l>Celui qui fut hier Proklès de Clazomène</l>
+<l>N’est plus qu’une ombre errante et qu’une cendre vaine,</l>
+<l>Sans parents, sans amis, sans maison, sans cité.</l>
+</lg>
+
+<lg>
+<l>Est-ce déjà mon tour de boire au froid Léthé ?</l>
+<l>Mais le sang ralenti s’est figé dans ma veine ;</l>
+<l>Fleur du sol d’Ionie, à quinze ans, c’est à peine</l>
+<l>Si mon printemps trop bref devina son été.</l>
+</lg>
+
+<lg>
+<l>Adieu, ville ! Je pars pour le sombre voyage</l>
+<l>Et j’emporte avec moi pour payer mon passage</l>
+<l>La drachme que l’on doit au nocher souterrain.</l>
+</lg>
+
+<lg>
+<l>Heureux à son métal de retrouver encore,</l>
+<l>Sur le disque d’argent qui luira dans ma main,</l>
+<l>Le beau cygne qui manque au fleuve sans aurore !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p77'>
+ <pagenum num="171"/>
+
+<h2>LE MIROIR</h2>
+
+<poem>
+<lg>
+<l>Les Dieux m’aiment, Passant ; c’est pourquoi je suis morte</l>
+<l>Dans l’éclat parfumé de ma jeunesse en fleur ;</l>
+<l>Jusqu’au trépas ma joue a gardé sa couleur,</l>
+<l>Et mon corps est léger au destin qui l’emporte.</l>
+</lg>
+
+<lg>
+<l>Que le printemps sans moi reparaisse, qu’importe !</l>
+<l>Ne crois pas que mon sort mérite quelque pleur</l>
+<l>Parce que, quand viendra l’été lourd de chaleur,</l>
+<l>Je ne m’assoirai plus sur le seuil de ma porte :</l>
+</lg>
+
+<lg>
+<l>Je ne regrette rien de la clarté du jour.</l>
+<l>J’ai vu ta face, ô Mort, et ton visage, Amour !</l>
+<l>A qui fut doux l’amour, la mort n’est pas cruelle.</l>
+</lg>
+
+<lg>
+<l>Je descends vers le Styx et non vers le Léthé,</l>
+<l>Car, pour me souvenir que, là-haut, je fus belle,</l>
+<l>N’ai-je point le miroir où riait ma beauté ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p78'>
+ <pagenum num="172"/>
+
+<h2>L’ESCLAVE</h2>
+
+<poem>
+<lg>
+<l>C’est bien. Vos poings brutaux ont défoncé ma porte</l>
+<l>Et vous avez pillé la grange et le cellier</l>
+<l>Et tari la citerne et rompu l’escalier.</l>
+<l>L’oreille n’entend plus quand la voix est trop forte.</l>
+</lg>
+
+<lg>
+<l>Vous jouâtes mon or aux dés de la cohorte.</l>
+<l>Ma vie et mon destin sont à vous. Au pilier,</l>
+<l>Mon corps débile et nu fut facile à lier.</l>
+<l>J’étais libre. Je suis esclave. Que m’importe !</l>
+</lg>
+
+<lg>
+<l>Vous pouvez m’emmener, courbé sous le fouet dur,</l>
+<l>Vers les mornes pays où l’aube est sans azur,</l>
+<l>Rendre aveugles mes yeux qui virent ma ruine,</l>
+</lg>
+
+<lg>
+<l>Mais m’empêcherez-vous d’avoir, et pour jamais,</l>
+<l>— O jeune souvenir dont ma nuit s’illumine ! —</l>
+<l>Entre mes bras tenu la femme que j’aimais ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p79'>
+ <pagenum num="173"/>
+
+<h2>LE SOUVENIR</h2>
+
+<poem>
+<lg>
+<l>Laisse-moi. Tu sais bien que mon cœur est blessé,</l>
+<l>O Souvenir ! Pourquoi me parles-tu dans l’ombre,</l>
+<l>A moi qui ne veux plus revoir sous un ciel sombre</l>
+<l>Le chemin de l’amour où mes pas ont passé ?</l>
+</lg>
+
+<lg>
+<l>Pourquoi m’apportes-tu, du temple renversé,</l>
+<l>Cette pierre choisie au monceau du décombre,</l>
+<l>Et pourquoi donc choisir, seule parmi leur nombre</l>
+<l>Celle qui porte encore un nom presque effacé ?</l>
+</lg>
+
+<lg>
+<l>Ah ! je n’ai pas besoin, pour que je me souvienne,</l>
+<l>Que ta cruelle main s’empare de la mienne</l>
+<l>Afin de la poser sur mon cœur palpitant !</l>
+</lg>
+
+<lg>
+<l>Il me suffit que, tendre, odorante et farouche,</l>
+<l>Fleurisse, toujours jeune en le jeune printemps,</l>
+<l>La rose qui ressemble à ce que fut sa bouche !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p80'>
+ <pagenum num="174"/>
+
+<h2>LE DON</h2>
+
+<poem>
+<lg>
+<l>J’aurais pu, comme un autre, à la panse du vase</l>
+<l>Dessiner d’un beau trait la figure des Dieux :</l>
+<l>Mars irrité, Bacchus, Apollon radieux,</l>
+<l>Neptune et son trident, Mercure et son pétase ;</l>
+</lg>
+
+<lg>
+<l>Ou bien, sur la paroi dont le contour s’évase,</l>
+<l>J’aurais pu te montrer, pour réjouir tes yeux,</l>
+<l>Les Trois Grâces avec le chœur mélodieux</l>
+<l>Des Neuf Muses qu’à la fontaine suit Pégase.</l>
+</lg>
+
+<lg>
+<l>Mais, sachant ton respect des lignes, j’ai voulu</l>
+<l>Qu’il se dressât en sa beauté, debout et nu,</l>
+<l>Sans que dansât autour la Nymphe ou le Satyre,</l>
+</lg>
+
+<lg>
+<l>Et si pur en son galbe éloquent et sacré</l>
+<l>Que tu crusses, en regardant son flanc pourpré,</l>
+<l>Entendre un chant d’amour aux cordes d’une Lyre !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p81'>
+ <pagenum num="175"/>
+
+<h2>LA BEAUTÉ</h2>
+
+<poem>
+<lg>
+<l>Ta divine présence éparse en chaque chose</l>
+<l>Se révèle parfois à nos jeux, ô Beauté,</l>
+<l>Et tu es, tour à tour, en ta diversité,</l>
+<l>Aussi bien ce fruit clos que cette étoile éclose.</l>
+</lg>
+
+<lg>
+<l>Tu es cette eau qui fuit et cette eau qui repose</l>
+<l>Entre les herbes d’or et le sable argenté,</l>
+<l>Cette senteur d’automne et ce parfum d’été,</l>
+<l>Et tu es cette aurore et tu es cette rose.</l>
+</lg>
+
+<lg>
+<l>Le changeant univers est ta forme secrète ;</l>
+<l>La nature en son jeu te reprend et te prête</l>
+<l>Les visages nombreux où je te reconnais,</l>
+</lg>
+
+<lg>
+<l>Mais jamais, ô Beauté, tu ne m’es apparue</l>
+<l>Plus belle que quand, grave et soudaine, tu fais</l>
+<l>D’une femme sans voile une Déesse nue.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p82'>
+<pagenum num="176"/>
+
+<h2>SALOMÉ</h2>
+
+<poem>
+<lg>
+<l>Salomé, vous avez les parfums et les baumes</l>
+<l>Et les jardins royaux dans la pourpre des soirs,</l>
+<l>Les étoffes, les fards, les gemmes, les miroirs,</l>
+<l>Et les citernes d’eau, sonores sous leurs dômes !</l>
+</lg>
+
+<lg>
+<l>Salomé, vous avez les danses. A vos paumes</l>
+<l>On a peint des signes magiques, verts et noirs ;</l>
+<l>Votre corps qui les guide à d’infâmes espoirs</l>
+<l>Rend aux morts le désir et l’ardeur aux fantômes.</l>
+</lg>
+
+<lg>
+<l>Alors pourquoi voulûtes-vous, ô Salomé,</l>
+<l>Que, du tronc nu, roulât le chef inanimé ?</l>
+<l>Fut-ce enfin que se tût la voix âpre et farouche ?</l>
+</lg>
+
+<lg>
+<l>Ou pour voir si, parjure à ses rêves divins,</l>
+<l>Ne tressaillirait pas au feu de votre bouche</l>
+<l>La tête aux yeux fermés qui saignait en vos mains ?</l>
+</lg>
+</poem>
+ 
+</page-sequence>
+ <page-sequence id='p83'>
+ <pagenum num="177"/>
+
+<h2>LE CASQUE</h2>
+
+<epigraphe>
+<p><i>Que bénie soit la tête qui porte ce casque !</i></p>
+<p class="r3">Inscription du casque de Chah-Abbas I. (British Muséum.)</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Cinquième souverain des sultans Séfévides,</l>
+<l>Chah-Abbas a régné sur la Perse. Il fut grand.</l>
+<l>Son nom, entre les noms des princes de l’Iran,</l>
+<l>N’est pas qu’un écho vain fait de syllabes vides,</l>
+</lg>
+
+<lg>
+<l>Car il bâtit, pour défier les ans rapides,</l>
+<l>Mesdjid-i-Chah, mosquée à quadruple liwan ;</l>
+<l>Comme au palais d’Achref, au Tchar-Bag d’Ispahan,</l>
+<l>Il vit fleurir la rose en ses jardins splendides...</l>
+</lg>
+
+<lg>
+<l>Guerrier, son casque, avec couvre-nuque et nasal,</l>
+<l>Montre, damasquinée en son riche métal,</l>
+<l>L’arabesque sans fin qui renaît d’elle-même,</l>
+</lg>
+
+<lg>
+<l>Et, dans l’acier où l’or aux lettres resplendit,</l>
+<l>On peut lire en relief des versets de poème,</l>
+<l>L’un, entre autres, tiré du Bostan de Sâdi.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p84'>
+ <pagenum num="178"/>
+
+<h2>L’ARRIVÉE</h2>
+
+<poem>
+<lg>
+<l>C’est le matin de la Mille et Unième Nuit...</l>
+<l>Le navire léger glisse sur l’onde plane ;</l>
+<l>La mer est transparente et l’air est diaphane ;</l>
+<l>L’alcyon nous précède et le dauphin nous suit.</l>
+</lg>
+
+<lg>
+<l>Sur Stamboul, que nos yeux connaîtront aujourd’hui,</l>
+<l>Un brouillard vaporeux flotte, s’étend et plane ;</l>
+<l>Les fuseaux des cyprès à des mains de sultane</l>
+<l>En ont filé les fils d’argent où de l’or luit.</l>
+</lg>
+
+<lg>
+<l>Ainsi nous apparut, ô Ville orientale,</l>
+<l>Ton visage secret et souriant et pâle</l>
+<l>Sous le voile subtil de l’aube et de l’été,</l>
+</lg>
+
+<lg>
+<l>Comme Schéhérazade, ô toi, dont, belle encore,</l>
+<l>Le Temps au sabre courbe épargna la beauté</l>
+<l>Pour entendre ta voix lui parler à l’aurore !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p85'>
+ <pagenum num="179"/>
+
+<h2>LES OSMANLIS</h2>
+
+<poem>
+<lg>
+<l>Ils sont là, tous, depuis celui des fils d’Osman</l>
+<l>Qui, par la Porte d’Or, en un soir de conquête,</l>
+<l>Sur Byzance planta l’étendard du Prophète,</l>
+<l>Et qui soumit la croix au joug mahométan.</l>
+</lg>
+
+<lg>
+<l>Tous : Sélim, Bayésid, Mourad, Suléïman,</l>
+<l>Chacun, en son habit de victoire et de fête,</l>
+<l>N’est plus, sous le brocart, qu’un mannequin sans tête</l>
+<l>Que, d’une aigrette en feu, coiffe le lourd turban.</l>
+</lg>
+
+<lg>
+<l>Leur simulacre vide est une forme vaine.</l>
+<l>Ils sont morts, et le sabre, en l’or clair de la gaine,</l>
+<l>S’offre aux manches sans bras, sans poignet et sans main ;</l>
+</lg>
+
+<lg>
+<l>Mais, sur le Vieux Sérail qu’empourpre leur histoire,</l>
+<l>Monte encor vers le ciel le cri du muezin</l>
+<l>Et, derrière eux, Stamboul est debout dans sa gloire !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p86'>
+ <pagenum num="180"/>
+
+<h2>AU CHAMP DES MORTS</h2>
+
+<poem>
+<lg>
+<l>Ils ne sont de mon sang non plus que de ma race</l>
+<l>Ceux qui dorment ici, dans le sol musulman,</l>
+<l>Et nous n’avons vécu dans le temps et l’espace</l>
+<l>Ni les mêmes espoirs ni le même tourment...</l>
+</lg>
+
+<lg>
+<l>A Scutari la sainte où pousse l’herbe grasse,</l>
+<l>Sous les sombres cyprès d’Eyoub cher au croyant,</l>
+<l>Ne reposera pas, en leur paix où je passe,</l>
+<l>Mon sommeil étranger sous la stèle à turban.</l>
+</lg>
+
+<lg>
+<l>Mais en ce jour où j’ai rêvé parmi leurs tombes</l>
+<l>En regardant au loin bleuir la Corne d’Or,</l>
+<l>Là, je me suis senti fraternel à tes morts,</l>
+</lg>
+
+<lg>
+<l>Stamboul, ayant comme eux vu voler tes colombes,</l>
+<l>Aimé ton ciel, tes eaux, tes arbres, et, comme eux,</l>
+<l>Le visage voilé de femmes aux beaux yeux !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p87'>
+ <pagenum num="181"/>
+
+<h2>RETOUR SUR L’EAU</h2>
+
+<poem>
+<lg>
+<l>Le jour décroît. Stamboul s’éloigne. Le caïque</l>
+<l>Remonte le Bosphore en fendant le flot prompt</l>
+<l>Et longe, sous l’effort qui pèse à l’aviron,</l>
+<l>Silencieusement la rive asiatique.</l>
+</lg>
+
+<lg>
+<l>Des villages. Maisons en bois. Platane. Crique.</l>
+<l>Vieux yalis peints de rouge et d’ocre. Un doux vallon.</l>
+<l>Un kiosque, une odeur de jasmin, et, le long</l>
+<l>D’un quai de marbre où passe un Turc, un chien étique...</l>
+</lg>
+
+<lg>
+<l>Quelques tombes parmi les cyprès... C’est le soir.</l>
+<l>Je pense à cet habit de guerre qu’on fait voir</l>
+<l>Au Trésor des Sultans, en sa vitrine close :</l>
+</lg>
+
+<lg>
+<l>Au siège de Bagdad, Amurat l’a porté...</l>
+<l>La gloire ne vaut pas le parfum d’une rose,</l>
+<l>Et le temps où l’on aime est seul l’éternité !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p88'>
+ <pagenum num="182"/>
+
+<h2>L’AVEUGLE</h2>
+
+<epigraphe>
+<p>à M. le Comte Primoli.</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Sa jeunesse jadis a vu naître l’aurore</l>
+<l>Dans le ciel matinal et sur les calmes eaux,</l>
+<l>Et le soleil, de ses rayons horizontaux,</l>
+<l>Teindre de mille feux les ondes du Bosphore ;</l>
+</lg>
+
+<lg>
+<l>Maintenant, devant lui, la foule au pas sonore</l>
+<l>Passe invisiblement sans hâte ni repos,</l>
+<l>Et ses yeux, sur le monde, à jamais se sont clos.</l>
+<l>Son regard ne voit pas l’aumône qu’il implore.</l>
+</lg>
+
+<lg>
+<l>Sur le grand pont qui joint Stamboul à Galata,</l>
+<l>Pareil au Souvenir, chaque jour, il est là.</l>
+<l>Si la ville, là-bas, est d’or ou d’hyacinthe,</l>
+</lg>
+
+<lg>
+<l>Qu’importe ! Un rêve ardent remplit sa cécité,</l>
+<l>Car il conserve encor, vivante en sa beauté,</l>
+<l>Constantinople au fond de sa prunelle éteinte !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p89'>
+ <pagenum num="183"/>
+
+<h2>CROQUIS D’ORIENT</h2>
+
+<poem>
+<lg>
+<l>Le soleil, dans l’azur épais, luisant et gras,</l>
+<l>Est comme un fruit obèse et dont l’écorce éclate,</l>
+<l>Auquel ce bon vieux Turc compare sur sa natte</l>
+<l>La citrouille turgide au milieu des cédrats.</l>
+</lg>
+
+<lg>
+<l>Au seuil de sa boutique amoncellent leurs tas</l>
+<l>L’aubergine vineuse et la rouge tomate,</l>
+<l>Et son œil en extase aux couleurs se dilate.</l>
+<l>Le turban rond s’enroule à son crâne au poil ras.</l>
+</lg>
+
+<lg>
+<l>Dans l’ombre, il va bientôt s’étendre pour la sieste,</l>
+<l>Tandis qu’une âcre odeur de miasme et de peste</l>
+<l>S’exhale autour de lui de ce quai d’Orient,</l>
+</lg>
+
+<lg>
+<l>Où, Sultane de rêve aux merveilleux royaumes,</l>
+<l>Il sent venir, avec un frisson souriant,</l>
+<l>La fièvre fabuleuse et diverse en fantômes.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p90'>
+ <pagenum num="184"/>
+
+<h2>LA MOURADIÉ</h2>
+
+<poem>
+<lg>
+<l>Le vieil Imân à turban vert, maigre et courbé,</l>
+<l>Égrène un chapelet qui glisse sous son pouce,</l>
+<l>Et, devant nous, d’un geste très pieux, il pousse,</l>
+<l>Silencieusement, la porte du Turbé.</l>
+</lg>
+
+<lg>
+<l>Les quatre murs sont blancs sous le dôme bombé,</l>
+<l>D’où, par un trou rond, coule une lumière douce,</l>
+<l>Et, dans le sarcophage empli de terre, pousse</l>
+<l>Un peu d’herbe à l’endroit où la pluie a tombé.</l>
+</lg>
+
+<lg>
+<l>C’est ainsi que voulut dormir son dernier somme</l>
+<l>Mourad, sultan de Brousse, aux yeux d’Allah, pauvre homme,</l>
+<l>Sous la coupole ouverte aux orages du ciel,</l>
+</lg>
+
+<lg>
+<l>Lui qui se fit tailler, humble en sa gloire altière,</l>
+<l>Afin d’être mieux prêt à l’ordre d’Azraël,</l>
+<l>Un carré de cuir brut pour tapis de prière !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p91'>
+ <pagenum num="185"/>
+
+<h2>LE TURBÉ VERT</h2>
+
+<poem>
+<lg>
+<l>C’est un vainqueur qui dort sous la pompe persane</l>
+<l>De ces riches carreaux dont l’enduit transparent,</l>
+<l>En sa couleur changeante et son reflet errant,</l>
+<l>Montre des fleurs d’émail que nul hiver ne fane.</l>
+</lg>
+
+<lg>
+<l>Mais à quoi bon avoir, pour la foi musulmane,</l>
+<l>Par le sabre imposé la règle du Coran,</l>
+<l>Et que t’aura servi ce tombeau, Conquérant,</l>
+<l>Puisque le vil talon du giaour le profane ?</l>
+</lg>
+
+<lg>
+<l>Malgré ta gloire, ô Mohammed, tu n’es plus rien !</l>
+<l>Ton nom fait-il songer à son éclat ancien</l>
+<l>Cette fillette assise à l’ombre d’un platane,</l>
+</lg>
+
+<lg>
+<l>Et qui, l’œil mi-voilé lorsque passe un chrétien,</l>
+<l>Caresse, en regardant ton Turbé de turquoise,</l>
+<l>Le petit lièvre roux que sa main apprivoise ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p92'>
+ <pagenum num="186"/>
+
+<h2>LE NOM</h2>
+
+<poem>
+<lg>
+<l>Vous ne fûtes longtemps, ô nom oriental,</l>
+<l>Qu’un incertain écho de splendeur et de gloire</l>
+<l>Où pour moi se mêlait, dans un bruit sans mémoire</l>
+<l>Le frisson de la soie à l’éclair du métal.</l>
+</lg>
+
+<lg>
+<l>Vous étiez le marteau délicat et brutal</l>
+<l>Sous qui le fer ardent bave à l’enclume noire,</l>
+<l>Et l’aiguille qui fait, au tissu qui se moire</l>
+<l>Courir en arabesque un fil ornemental.</l>
+</lg>
+
+<lg>
+<l>Maintenant, ô Damas, je sais votre beauté.</l>
+<l>Je connais dans leur grâce et dans leur vérité</l>
+<l>Le parfum de vos fleurs et l’eau de vos fontaines,</l>
+</lg>
+
+<lg>
+<l>Car, devant le turbé du sultan Saladin,</l>
+<l>J’ai vu, par un beau soir, près d’une vasque pleine,</l>
+<l>S’épanouir la rose à l’ombre du jasmin !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p93'>
+ <pagenum num="187"/>
+
+<h2>LE DÉPART</h2>
+
+<poem>
+<lg>
+<l>Dans le bazar bruyant, mystérieux et sombre</l>
+<l>Qui sent l’huile, le fruit, le cuir et le jasmin,</l>
+<l>J’ai marchandé longtemps et touché de la main</l>
+<l>Le harnais, le tapis, la ligue et le concombre.</l>
+</lg>
+
+<lg>
+<l>Grave et chaude, j’ai vu sur toi descendre l’ombre,</l>
+<l>Damas ! Un soir, le long de ton vieux mur romain</l>
+<l>Où le Seigneur frappa saint Paul en son chemin,</l>
+<l>J’ai marché lentement sur la route en décombre.</l>
+</lg>
+
+<lg>
+<l>Sur le toit en terrasse et sur le dôme blanc,</l>
+<l>J’ai vu la lune courbe au beau ciel musulman</l>
+<l>Faire aboyer les chiens et gémir les fontaines,</l>
+</lg>
+
+<lg>
+<l>Et, pour mieux conserver l’image où tu me suis,</l>
+<l>J’emporterai, gardien de tes beautés lointaines,</l>
+<l>Ce clair sabre pareil à l’astre de tes nuits !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p94'>
+ <pagenum num="188"/>
+
+<h2>SOUVENIRS D’ORIENT</h2>
+
+<poem>
+<lg>
+<l>Quand je ferme les yeux, ô souvenir, je vois</l>
+<l>Une cour de mosquée où le pigeon roucoule</l>
+<l>Et, sur le pavé blanc que bigarre la foule,</l>
+<l>L’ombre d’un dôme rond et de minarets droits.</l>
+</lg>
+
+<lg>
+<l>Puis c’est le bazar sombre et ses couloirs étroits</l>
+<l>Et la boutique où s’offre à mon pied qui le foule</l>
+<l>L’éclatante couleur d’un tapis qu’on déroule</l>
+<l>Tandis que le marchand calcule sur ses doigts.</l>
+</lg>
+
+<lg>
+<l>Je respire une odeur d’Orient où se mêle</l>
+<l>La feuille de la rose au poil de la chamelle,</l>
+<l>La graisse qui grésille et le café qui bout,</l>
+</lg>
+
+<lg>
+<l>Et, sur ma langue avide et que le sucre allèche,</l>
+<l>Il me semble, ô Damas, sentir encor le goût</l>
+<l>De l’abricot confit et de la figue sèche !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p95'>
+ <pagenum num="189"/>
+
+<h2>LE CYPRÈS</h2>
+
+<poem>
+<lg>
+<l>Si, plus doux, le parfum des roses dans le soir,</l>
+<l>Au fond du jardin sombre où le silence écoute,</l>
+<l>Se mêle au bruit plus frais de l’eau qui, goutte à goutte,</l>
+<l>Déborde de la vasque et coule au réservoir ;</l>
+</lg>
+
+<lg>
+<l>Si, dans l’ombre plus solennelle, je crois voir,</l>
+<l>— Moi dont le long amour pensait te savoir toute,</l>
+<l>O cher visage auquel un prestige s’ajoute, — </l>
+<l>Ton regard plus profond, plus secret et plus noir,</l>
+</lg>
+
+<lg>
+<l>C’est que j’évoque alors, auprès d’autres fontaines,</l>
+<l>D’autres roses en fleurs, puissantes et lointaines,</l>
+<l>Que Brousse et que Damas colorent de leur sang,</l>
+</lg>
+
+<lg>
+<l>Et qu’un charme nouveau, de là-bas, t’a suivie</l>
+<l>Pour avoir entendu dans les nuits d’Orient</l>
+<l>Le rossignol gémir sur les cyprès d’Asie.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p96'>
+ <pagenum num="190"/>
+
+<h2>LE CROISSANT</h2>
+
+<poem>
+<lg>
+<l>La poterne, dans la muraille, ouvre à l’abord</l>
+<l>Sa voûte oblique et basse où le pavé résonne,</l>
+<l>Et l’antique rempart que le créneau couronne</l>
+<l>Veille toujours à pic sur la plaine et le port.</l>
+</lg>
+
+<lg>
+<l>Le palais du Grand Maître est là, debout encor ;</l>
+<l>Ici les Chevaliers dont l’Ordre l’environne</l>
+<l>Ont leurs nobles logis qu’un blason écussonne.</l>
+<l>L’héroïque passé survit en son décor.</l>
+</lg>
+
+<lg>
+<l>Si l’épais bastion que la tour ronde flanque</l>
+<l>N’a pas, du joug haï, sauvé la cité franque,</l>
+<l>Rhodes, tu coûtas cher au vainqueur musulman,</l>
+</lg>
+
+<lg>
+<l>Car, autour de tes murs, un vaste cimetière</l>
+<l>S’incurve encore, comme un funèbre croissant,</l>
+<l>Où trente mille Turcs ont pourri dans la terre !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p97'>
+ <pagenum num="191"/>
+
+<h2>LE SPECTRE ROUGE</h2>
+
+<poem>
+<lg>
+<l>Tes os ne dorment pas au tombeau que Venise</l>
+<l>Te dressa vainement, ô grand Patricien !</l>
+<l>Il est vide. Tu ne gis pas en lieu chrétien,</l>
+<l>O martyr qui connus le couteau qu’on aiguise !</l>
+</lg>
+
+<lg>
+<l>L’épitaphe est pompeuse et noble. Qu’on la lise</l>
+<l>Et l’on saura quel sort farouche fut le tien :</l>
+<l>O deuil, Chypre tombée au pouvoir du païen,</l>
+<l>Et ta mort héroïque à Famagouste prise !</l>
+</lg>
+
+<lg>
+<l>Ici, dans son vieux port que son haut mur défend,</l>
+<l>A la place où les Turcs t’ont écorché vivant,</l>
+<l>Écarlate et debout en ta chair torturée,</l>
+</lg>
+
+<lg>
+<l>J’ai cru voir, Bragadin, rôder sur le rempart</l>
+<l>Ton fantôme sans peau tendant sa main pourprée</l>
+<l>Que léchait en pleurant le Lion de Saint-Marc.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p98'>
+ <pagenum num="192"/>
+
+<h2>LÉPANTE</h2>
+
+<poem>
+<lg>
+<l>Sur le golfe, le port, la ville et le rempart,</l>
+<l>Le soir est bleu. La mer en murmurant se brise</l>
+<l>Où, jadis, dans un bruit d’abordage et de prise,</l>
+<l>Retentit le pierrier et claqua l’étendard.</l>
+</lg>
+
+<lg>
+<l>L’aigle à deux têtes et le lion de Saint-Marc</l>
+<l>Ont guidé là, d’un vol que l’histoire éternise,</l>
+<l>Les galères d’Espagne et celles de Venise</l>
+<l>Que ruait sur le Turc l’impérial bâtard.</l>
+</lg>
+
+<lg>
+<l>Salut, Juan ! par qui la croix fut la plus forte !...</l>
+<l>Aujourd’hui le silence endort la cité morte</l>
+<l>Derrière ses vieux murs pleins d’échos glorieux ;</l>
+</lg>
+
+<lg>
+<l>Et j’ai vu, du château qui couronne sa pente,</l>
+<l>Se lever, souvenir d’un soir injurieux,</l>
+<l>Pâle encor, le croissant, en face de Lépante !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p99'>
+ <pagenum num="193"/>
+
+<h2>L’ACHILLÉION</h2>
+
+<epigraphe>
+<p>« J’ai consacré mon palais à Achille », dit l’Impératrice.</p>
+<p class="r3">(M<s>AURICE</s> B<s>ARRÉS</s>, <i>Amori et dolori sacrum</i>.)</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>La villa blanche est close, et le jardin désert</l>
+<l>Jusqu’au golfe descend de terrasse en terrasse,</l>
+<l>L’allée est sans empreinte où personne ne passe</l>
+<l>Et nulle voix ne vibre au silence de l’air.</l>
+</lg>
+
+<lg>
+<l>Près du rosier en fleurs et près du laurier vert,</l>
+<l>Homérique et guerrier sous sa lourde cuirasse,</l>
+<l>En son marbre succombe au mal qui le terrasse</l>
+<l>Un Achille blessé qui meurt devant la mer.</l>
+</lg>
+
+<lg>
+<l>Toi que l’odeur du vent et des roses enivre,</l>
+<l>Va-t’en, et porte ailleurs le bruit qu’on fait à vivre,</l>
+<l>Car une ombre tragique est errante en ces lieux,</l>
+</lg>
+
+<lg>
+<l>Qui, comme le héros par la flèche ennemie,</l>
+<l>Sous la pourpre royale et doublement rougie,</l>
+<l>A connu plus que lui la colère des Dieux !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p100'>
+ <pagenum num="194"/>
+
+<h2>L’ILE</h2>
+
+<poem>
+<lg>
+<l>Sous la lumière d’or que le soleil tiédit</l>
+<l>Et qui brille, s’épand, se disperse et ruisselle</l>
+<l>Sur la mer, dont au loin l’azur lisse étincelle,</l>
+<l>L’île en un clair sommeil doucement s’engourdit.</l>
+</lg>
+
+<lg>
+<l>Silence. Pas un vol dans le ciel de midi</l>
+<l>Ni dans le bois obscur où ne bat aucune aile.</l>
+<l>Le temps semble immobile en une heure éternelle</l>
+<l>Qui brûle, se consume et toujours resplendit.</l>
+</lg>
+
+<lg>
+<l>Pieuse et verte, auprès du rivage dalmate,</l>
+<l>Où, comme un fruit, Raguse en ses vieux murs éclate,</l>
+<l>Elle étage ses pins autour de son couvent ;</l>
+</lg>
+
+<lg>
+<l>Et, dans l’air pur qu’imprègne un parfum balsamique,</l>
+<l>Cime à cime, parfois, d’un frisson, on l’entend</l>
+<l>Palpiter tout entière au souffle adriatique.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p101'>
+ <pagenum num="195"/>
+
+<h2>URBIS GENIO</h2>
+
+<epigraphe>
+<p><i>Urbis genio Johannes Darius.</i></p>
+<p class="r3">(Inscription votive du Palais Dario.)</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Venise ne t’a pas inscrit au Livre d’or</l>
+<l>Parmi ses fils fameux dont la gloire y rayonnne,</l>
+<l>Dario, mais ton nom oriental résonne</l>
+<l>Toujours, dans un écho de faste et de trésor,</l>
+</lg>
+
+<lg>
+<l>Puisque, riche étranger venu de quelque port</l>
+<l>De l’Archipel ou né sur la côte esclavonne,</l>
+<l>Tu construisis, sans écusson qui le blasonne,</l>
+<l>Ce palais, dont le Grand Canal est fier encor.</l>
+</lg>
+
+<lg>
+<l>Grâce à lui, tu survis, car sa façade blanche</l>
+<l>Contre en disques luisants, dans son marbre qui penche,</l>
+<l>Le porphyre vineux et le vert serpentin,</l>
+</lg>
+
+<lg>
+<l>Et l’on peut lire encor l’inscription latine</l>
+<l>Par laquelle tu dédias son seuil marin</l>
+<l>Au génie ondoyant de la ville marine.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p102'>
+ <pagenum num="196"/>
+
+<h2>LE SURNOM</h2>
+
+<epigraphe>
+<p><i>Francisco Maurocenio, Peloponnesiaco, adhuc viventi.</i></p>
+<p class="r3">(Inscription au monument du doge Francisco Morosini, dit le Péloponnèsiaque.)</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Ce fut « vivant encor » que Venise à ta gloire</l>
+<l>Vota l’honneur du bronze et voulut, ô guerrier</l>
+<l>Dont le bras lui conquit la terre du laurier,</l>
+<l>Qu’à ton nom s’ajoutât le nom de ta victoire.</l>
+</lg>
+
+<lg>
+<l>Afin de ne pas être ingrate à ta mémoire</l>
+<l>Et sachant l’homme enclin à trop vite oublier,</l>
+<l>Pendant que durait l’œuvre et vivait l’ouvrier,</l>
+<l>Elle a payé sa dette et devancé l’Histoire.</l>
+</lg>
+
+<lg>
+<l>C’est pourquoi, Francesco Morosini, tes yeux</l>
+<l>T’ont pu voir dans l’airain civique, glorieux,</l>
+<l>Tel que contre le Turc tu commandais l’attaque,</l>
+</lg>
+
+<lg>
+<l>Et que, sur ta galère à quadruple fanal,</l>
+<l>Doge au noble surnom, Peloponnèsiaque,</l>
+<l>Tu serrais à ton poing le lourd bâton ducal !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p103'>
+ <pagenum num="197"/>
+
+<h2>SUR UN EXEMPLAIRE DES <i>DIALOGUES D’AMOUR</i> DE LÉON L’HÉBREU</h2>
+
+<poem>
+<lg>
+<l>Prends cet Alde. Il est souple et poli sous ta main.</l>
+<l>Le papier est de choix et la lettre est accorte,</l>
+<l>Et la première page, au bas du titre, porte</l>
+<l>La haute ancre marine où s’enroule un dauphin.</l>
+</lg>
+
+<lg>
+<l>Pour le couvrir, on n’a voulu ni parchemin</l>
+<l>Trop orné, ni velours trop éclatant, de sorte</l>
+<l>Que son double plat noir, pour tout luxe, comporte</l>
+<l>A chacun de ses coins un seul fleuron d’or fin.</l>
+</lg>
+
+<lg>
+<l>En sa parure sobre et sombre autant que belle,</l>
+<l>Il évoque un décor de gondole, comme elle,</l>
+<l>Or sur noir, à la fois galant et ténébreux,</l>
+</lg>
+
+<lg>
+<l>Car c’est ainsi jadis qu’un seigneur de Venise</l>
+<l>Fit relier pour lui, sans chiffre ni devise,</l>
+<l>Ce livre qui plaisait à son cœur amoureux.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p104'>
+ <pagenum num="198"/>
+
+<h2>LE LECTEUR</h2>
+
+<epigraphe>
+<p><i>La Vita del gran Philosopho Apollonio Tianeo, composita da Philostrato, scrittor greco, el tradotta nella lingua volgare de M. Lodovico Dolce. In Vinegia. Appresso Gabriel Giolitto de Ferrari,</i> <s>MDXLIX</s>.</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>C’est un de ces beaux fils comme les peint Titien.</l>
+<l>Le soleil de Venise a bronzé sa peau mate ;</l>
+<l>Sous le <i>felze</i> bombé de sa gondole plate,</l>
+<l>Il rêve d’un amour qui répondrait au sien.</l>
+</lg>
+
+<lg>
+<l>Aussi feuillette-t-il, d’un doigt patricien,</l>
+<l>Ce vieux livre, traduit du grec de Philostrate,</l>
+<l>Qui d’Apollonius de Tyane relate</l>
+<l>Les pouvoirs merveilleux et l’art magicien.</l>
+</lg>
+
+<lg>
+<l>Connaîtra-t-il jamais la science suprême</l>
+<l>Qui fait qu’on soit aimé de celle que l’on aime ?</l>
+<l>Il soupire : à quoi bon chercher le vain secret ?</l>
+</lg>
+
+<lg>
+<l>Mais un profil charmant s’évoque en sa mémoire</l>
+<l>Et, tour à tour, avec espérance et regret,</l>
+<l>Il contemple anxieux la page blanche et noire.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p105'>
+ <pagenum num="199"/>
+
+<h2>JOUR DE VENT</h2>
+
+<poem>
+<lg>
+<l>Ce soir, le rude vent qui souffle de la mer</l>
+<l>Est un passant bourru qui brusquement vous frôle ;</l>
+<l>L’eau du canal s’irrite, et la lagune au môle</l>
+<l>Pousse son onde forte et son flot plus amer.</l>
+</lg>
+
+<lg>
+<l>Tout gronde, vibre, tremble, en ce fracas de l’air ;</l>
+<l>La masure s’appuie au palais qui l’épaule,</l>
+<l>Car l’antique Borée, échappé de sa geôle,</l>
+<l>Gonfle l’Adriatique où le vaisseau se perd.</l>
+</lg>
+
+<lg>
+<l>Jadis, quand l’ouragan hurlait à pleine bouche,</l>
+<l>Ton Lion, ô Saint-Marc, anxieux et farouche,</l>
+<l>Interrogeait les flots de son regard d’airain,</l>
+</lg>
+
+<lg>
+<l>Mais qu’importe, aujourd’hui, leur calme ou leur colère,</l>
+<l>Venise n’attend plus à l’horizon marin</l>
+<l>Le retour écumeux de ses rouges galères !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p106'>
+ <pagenum num="200"/>
+
+<h2>L’ADIEU</h2>
+
+<epigraphe>
+<p>« Elle se déclara fort contente de son séjour à Venise, et quand elle en partit, nous l’accompagnâmes jusqu’à Vérone. »</p>
+<p class="r3">(Chronique de Baldassare Aldramin.)</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Que leur aurez-vous dit de la ville aux beaux noms</l>
+<l>Qui fait Zani, de Jean, et, de Louis, Alvise,</l>
+<l>Et dont notre mémoire à nos yeux divinise</l>
+<l>Le prestige émouvant où nous nous enivrons ?</l>
+</lg>
+
+<lg>
+<l>Le marbre noblement y résonne aux talons,</l>
+<l>Se dispose en façade et se découpe en frise</l>
+<l>Et, d’un vol sans essor en l’air bleu qui l’irise,</l>
+<l>Unit des ailes d’aigle à des corps de lions.</l>
+</lg>
+
+<lg>
+<l>Vous avez parcouru la Ville inextricable,</l>
+<l>Si belle en ses canaux que la lagune ensable,</l>
+<l>Et, de tant de beauté, n’emporterez-vous pas,</l>
+</lg>
+
+<lg>
+<l>Dans un long souvenir d’ardeur et de mollesse,</l>
+<l>Ce doux regret, mêlé de désir, qu’au cœur laisse</l>
+<l>Le charme d’un amour qu’on ne satisfait pas ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p107'>
+ <pagenum num="201"/>
+
+<h2>LES VILLES</h2>
+
+<poem>
+<lg>
+<l>Vous êtes à mon cœur plus douce que les villes</l>
+<l>Que l’on voit apparaître à l’aurore et qui sont</l>
+<l>Chères au souvenir par l’écho de leur nom,</l>
+<l>Venises au beau ciel ou dansantes Sévilles.</l>
+</lg>
+
+<lg>
+<l>Qu’elles dressent dans l’air dômes ou campaniles,</l>
+<l>Flèches, clochers, tour à créneaux, porte à blason,</l>
+<l>Et que leur fier passé domine, à l’horizon,</l>
+<l>Plaines, forêts, lacs, ports ou golfes semés d’îles :</l>
+</lg>
+
+<lg>
+<l>C’est en vous, pour jamais, que j’ai cherché l’abri ;</l>
+<l>Vous êtes le séjour où murmure sans bruit</l>
+<l>Le peuple rouge et chaud du sang qui vous habite,</l>
+</lg>
+
+<lg>
+<l>Tandis qu’à vos pieds nus coule, souple et joyeux,</l>
+<l>Parmi les roseaux d’or où je chante sa fuite,</l>
+<l>Le fleuve de mes jours qui reflète vos yeux.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p108'>
+ <pagenum num="202"/>
+
+<h2>LA BELLE ALDA</h2>
+
+<epigraphe>
+<p><i>Aida la bella e galanta.</i></p>
+<p class="r3">(Vieille faïence italienne.)</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Mon visage charmant, tendre et mélancolique,</l>
+<l>Pour vous, je l’ai fait peindre, en toute la beauté</l>
+<l>De son jeune printemps qui n’aura pas d’été,</l>
+<l>En couleur, au fond d’un grand plat de majolique.</l>
+</lg>
+
+<lg>
+<l>Lorsque je serai morte, — ainsi que vous l’indique</l>
+<l>Le parchemin qui vous dira ma volonté, — </l>
+<l>Placez-y, grappe à grappe, un raisin velouté,</l>
+<l>L’amande souvent double et la grenade unique.</l>
+</lg>
+
+<lg>
+<l>Amis, que ces beaux fruits que toucheront vos mains</l>
+<l>Rappellent à vos cœurs des jeux déjà lointains !</l>
+<l>Fut-il de plus doux fruit que ma bouche vivante ?</l>
+</lg>
+
+<lg>
+<l>Et moi, je sourirai sous l’émail précieux</l>
+<l>Et que décore la banderole où vos yeux</l>
+<l>Liront qu’Alda fut belle et qu’Alda fut galante.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p109'>
+ <pagenum num="203"/>
+
+<h2>MÉDAILLE</h2>
+
+<epigraphe>
+<p>Leonellus Marchio Estensis Opus Pisani Pictoris.</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Qu’il soit mort par le fer, le poison ou la peste,</l>
+<l>Podestà magnanime ou tyran redouté,</l>
+<l>Plus d’un n’est devenu pour la postérité</l>
+<l>Qu’un nom que nul ne loue et que nul ne déteste.</l>
+</lg>
+
+<lg>
+<l>Mais toi, ce que tu fus ta médaille l’atteste,</l>
+<l>Et ton brusque profil en sa jeune fierté</l>
+<l>Par l’airain a conquis presque l’éternité.</l>
+<l>L’Art t’immortalisa, Lionel, marquis d’Este.</l>
+</lg>
+
+<lg>
+<l>Le grand Pisanello, père de ta mémoire,</l>
+<l>N’en assura-t-il pas la durée et la gloire</l>
+<l>Dans ce disque de bronze où tu sembles vivant,</l>
+</lg>
+
+<lg>
+<l>Et qui, sur son revers, en des poses pareilles,</l>
+<l>Modelés par un pouce héroïque et savant,</l>
+<l>Montre deux hommes nus qui portent des corbeilles ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p110'>
+ <pagenum num="204"/>
+
+<h2>LES JARDINS</h2>
+
+<poem>
+<lg>
+<l>Ne pensez pas, un jour, que mon cœur vous oublie</l>
+<l>Et qu’il ne se souvienne plus d’avoir aimé</l>
+<l>Vos ombrages souvent dont la paix m’a charmé,</l>
+<l>Beaux promenoirs d’amour et de mélancolie,</l>
+</lg>
+
+<lg>
+<l>Vous dont la pompe illustre à la grâce s’allie,</l>
+<l>Qui mêlez l’un à l’autre en votre air embaumé</l>
+<l>Et la rose odorante et le buis parfumé,</l>
+<l>Jardins, ô chers jardins, de France et d’Italie !</l>
+</lg>
+
+<lg>
+<l>Vous voici. Je revois vos marbres et vos eaux ;</l>
+<l>J’entends mon pas lointain au fond de vos échos,</l>
+<l>Car les lieux, comme nous, ont aussi leur mémoire ;</l>
+</lg>
+
+<lg>
+<l>Et vous ne changez point et le temps passe en vain</l>
+<l>Et l’ombre tourne encor, mouvante, aiguë et noire,</l>
+<l>Autour de l’if français et du cyprès romain !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p111'>
+ <pagenum num="205"/>
+
+<h2>LA VILLA</h2>
+
+<poem>
+<lg>
+<l>Quel Prince au nom romain ou quel altier Prélat,</l>
+<l>Las de la Cour papale ou du rouge Conclave,</l>
+<l>Au milieu de ce site agreste, noble et grave,</l>
+<l>A tracé ces jardins autour de sa villa ?</l>
+</lg>
+
+<lg>
+<l>D’intrigue ou de complot venaient-ils rêver là,</l>
+<l>De plaisir sans regret et d’orgueil sans entrave,</l>
+<l>Et dans leur cœur encore ambitieux et brave</l>
+<l>Quel long désir d’amour ou de gloire brûla ?</l>
+</lg>
+
+<lg>
+<l>Je ne sais, mais il rôde en ces lieux magnifiques,</l>
+<l>Plantés de rouvres verts et de cyprès coniques,</l>
+<l>Comme une obscure fièvre et comme un philtre errant,</l>
+</lg>
+
+<lg>
+<l>Et, vers le soir, du bord des terrasses hautaines,</l>
+<l>On entend se mêler et frémir sourdement</l>
+<l>Le frisson du feuillage au frisson des fontaines.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p112'>
+ <pagenum num="206"/>
+
+<h2>RENCONTRE STENDHALIENNE</h2>
+
+<poem>
+<lg>
+<l>L’ombre qui m’accompagne et que suivent mes jeux</l>
+<l>N’est point votre ombre, à vous, Madone du Corrège,</l>
+<l>A qui l’ascension des Anges fait cortège</l>
+<l>Dans la coupole haute où vous êtes aux cieux.</l>
+</lg>
+
+<lg>
+<l>C’est une autre et qui rit d’un air mystérieux.</l>
+<l>Sa grâce lui compose un tendre sortilège ;</l>
+<l>Elle semble mener vos pas vers quelque piège</l>
+<l>Que saura déjouer son pied malicieux.</l>
+</lg>
+
+<lg>
+<l>Elle est belle, amoureuse et duchesse. Fabrice </l>
+<l>L’aime. Ranuce-Ernest s’incline à son caprice,</l>
+<l>Sachant quel ongle aigu sa main délicate a...</l>
+</lg>
+
+<lg>
+<l>Et j’écris ce sonnet dont la rime me charme,</l>
+<l>A l’heure où l’angelus sonne à la Steccata,</l>
+<l>Dans les jardins Farnèse, un soir d’automne, à Parme.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p113'>
+ <pagenum num="207"/>
+
+<h2>BRESCIA</h2>
+
+<poem>
+<lg>
+<l>Jadis, tes artisans savaient l’art belliqueux</l>
+<l>De battre et de polir l’acier d’une cuirasse</l>
+<l>Et, sur son dur métal, de nouer avec grâce</l>
+<l>L’élégante arabesque au rinceau vigoureux.</l>
+</lg>
+
+<lg>
+<l>Nuls forgeurs d’Italie ou de France ainsi qu’eux</l>
+<l>Ne surent, d’une main qu’aucune ne surpasse,</l>
+<l>Tremper l’arme qui garde et l’arme qui terrasse</l>
+<l>Dont l’éclair brille au poing prudent ou valeureux.</l>
+</lg>
+
+<lg>
+<l>C’est pourquoi, il convient, Brescia l’armurière,</l>
+<l>Qu’un jour on ait trouvé dans ta cité guerrière</l>
+<l>Cette Victoire antique et qui, toute d’airain,</l>
+</lg>
+
+<lg>
+<l>Semble, vibrante encor des enclumes frappées,</l>
+<l>Avoir mêlé jadis, ô fille de Vulcain</l>
+<l>Le bronze de son aile au fer de tes épées !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p114'>
+ <pagenum num="208"/>
+
+<h2>EN PASSANT PAR BERGAME</h2>
+
+<poem>
+<lg>
+<l>Sur la Fiera déserte autour de sa fontaine,</l>
+<l>La boutique brillante et le joyeux tréteau</l>
+<l>N’attirent plus la foule, attentive au rideau,</l>
+<l>Par leur splendeur bizarre et leur gaieté foraine.</l>
+</lg>
+
+<lg>
+<l>On n’y vend plus brocart, velours, satin et laine,</l>
+<l>La denrée étrangère et le bijou nouveau ;</l>
+<l>Arlequin, plus léger qu’un singe ou qu’un oiseau,</l>
+<l>N’y rosse plus Brighelle en courtisant la Naine.</l>
+</lg>
+
+<lg>
+<l>C’en est fait de la vive et folle Comédie !</l>
+<l>Et, de la ville haute où le moine mendie,</l>
+<l>Au théâtre en plein vent ne viennent plus s’asseoir</l>
+</lg>
+
+<lg>
+<l>Le galant cavalier et la galante dame...</l>
+<l>Et cependant l’on voit, dans le ciel pur, ce soir,</l>
+<l>La lune, en masque d’or, se lever sur Bergame !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p115'>
+ <pagenum num="209"/>
+
+<h2>LE CASTELLO</h2>
+
+<poem>
+<lg>
+<l>La tour est rouge, afin que de loin on la voie !</l>
+<l>Haute, massive et forte et d’un solide élan,</l>
+<l>Elle dresse toujours sur le ciel de Milan</l>
+<l>Ses lourds créneaux construits par Bonne de Savoie</l>
+</lg>
+
+<lg>
+<l>Au-dessous, largement, le Castello déploie</l>
+<l>Son enceinte que garde un fossé vigilant,</l>
+<l>Et son mur pourpre porte, incrusté dans son flanc,</l>
+<l>L’écu ducal sur qui la guivre bleue ondoie.</l>
+</lg>
+
+<lg>
+<l>Ses salles et ses cours sont sonores aux pas ;</l>
+<l>Les fresques des plafonds montrent des entrelacs</l>
+<l>Assez pareils à ceux dont Ludovic le More,</l>
+</lg>
+
+<lg>
+<l>A Loches, enfermé vivant dans son tombeau,</l>
+<l>Orna, d’un art obscur qui nous émeut encore,</l>
+<l>Sa prison souterraine au donjon tourangeau.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p116'>
+ <pagenum num="210"/>
+
+<h2>LE COPISTE</h2>
+
+<epigraphe>
+<p><i>Incipit vita domni Karoli Imperatoris Magni édita ab Alcuino magisiro.</i></p>
+<p class="r3">(Manuscrit de Cluny. Fol. 32<sup>2</sup>-41<sup>2</sup>.)</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>C’est l’été. Dans l’air vole un moucheron taquin</l>
+<l>Qui se pose et s’acharne au rond de la tonsure</l>
+<l>Et que le moine, en vain, de sa manche de bure,</l>
+<l>Chasse. Il fait chaud. Le froc sent la cire et le suint.</l>
+</lg>
+
+<lg>
+<l>De celui qui vainquit l’Avare et l’Africain,</l>
+<l>Du grand Charles, de qui la gloire toujours dure,</l>
+<l>Il copie avec soin, sans surcharge et rature,</l>
+<l>La vie, ainsi que l’écrivit maître Alcuin.</l>
+</lg>
+
+<lg>
+<l>Il s’arrête parfois, tourne la tête, songe :</l>
+<l>L’encre sèche, le soir vient et l’ombre s’allonge</l>
+<l>Sur la dalle, et le moine a tressailli, croyant,</l>
+</lg>
+
+<lg>
+<l>Dans la corne d’un pâtre, au fond de la campagne,</l>
+<l>Là-bas, soudain entendre, au souffle de Roland,</l>
+<l>Le cor à Roncevaux appeler Charlemagne !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p117'>
+ <pagenum num="211"/>
+
+<h2>LE CLOITRE</h2>
+
+<poem>
+<lg>
+<l>Jadis, quelque rustique et pieux jardinier,</l>
+<l>Bêche en main, au soleil inclinant sa tonsure,</l>
+<l>A décoré de fleurs et planté de verdure</l>
+<l>Ce doux jardin qu’enclôt le cloître familier.</l>
+</lg>
+
+<lg>
+<l>Depuis, enguirlandant l’arcade et le pilier,</l>
+<l>A l’abri du vent brusque et de la bise dure,</l>
+<l>Du parterre natal jusques à la voussure,</l>
+<l>A grimpé le lierre et grandi le rosier.</l>
+</lg>
+
+<lg>
+<l>Mon amour est pareil au jardin de ce cloître</l>
+<l>Solitaire où le temps, qui détruit tout, fait croître</l>
+<l>Plus vivace la fleur et plus fort le rameau,</l>
+</lg>
+
+<lg>
+<l>Car, à chaque printemps, je vois ma vie éclose,</l>
+<l>En son même parfum éternel et nouveau,</l>
+<l>Au rosier plus nombreux, d’une plus haute rose.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p118'>
+ <pagenum num="212"/>
+
+<h2>PARVA DOMUS</h2>
+
+<epigraphe>
+<p>à M. Gabriel Hanotaux.</p>
+</epigraphe>
+
+<poem>
+<lg>
+<l>Ami, votre maison domine la vallée.</l>
+<l>Au flanc du coteau vert elle est plaisante à voir</l>
+<l>Près de son rocher creux où fut le vieux pressoir</l>
+<l>Qui lui donna le nom dont elle est appelée.</l>
+</lg>
+
+<lg>
+<l>J’aime son salon clair et sa salle dallée</l>
+<l>Où le losange alterne au carreau, blanc et noir,</l>
+<l>Et sa terrasse bonne à s’y venir asseoir</l>
+<l>Du matin vaporeux à la nuit étoilée.</l>
+</lg>
+
+<lg>
+<l>Fidèle au coin de terre où sont nés vos aïeux,</l>
+<l>Devant cet horizon familier à vos yeux,</l>
+<l>Vous cueillez doucement les grappes de la vie ;</l>
+</lg>
+
+<lg>
+<l>Heureux celui qui peut, comme vous, de son seuil,</l>
+<l>Respirer l’air de France avec un fier orgueil</l>
+<l>Et l’aimer mieux encor de l’avoir bien servie !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p119'>
+ <pagenum num="213"/>
+
+<h2>L’ABSENCE</h2>
+
+<poem>
+<lg>
+<l>Dans la chambre déserte, auprès de l’âtre éteint,</l>
+<l>Où l’air silencieux a l’odeur de l’absence,</l>
+<l>Je viens lire, l’esprit plein d’espoir et de transe,</l>
+<l>Chaque lettre de toi qu’apporte le matin ;</l>
+</lg>
+
+<lg>
+<l>Le timbre qui la marque est d’un pays lointain.</l>
+<l>Mais que me font le temps, l’espace et la distance ?</l>
+<l>Le papier parle, rit, soupire, pleure, pense ;</l>
+<l>Un fantôme s’esquisse au miroir incertain.</l>
+</lg>
+
+<lg>
+<l>O miracle ! Le feu sous la cendre vermeille</l>
+<l>Renaît ; la flamme luit, palpite, se réveille.</l>
+<l>Il me semble t’entendre et que je te revois,</l>
+</lg>
+
+<lg>
+<l>Car, par un cher prestige où mon cœur s’émerveille,</l>
+<l>La lettre, le miroir, me rendent à la fois</l>
+<l>L’écho de ton image et l’ombre de ta voix.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p120'>
+ <pagenum num="214"/>
+
+<h2>CORNEILLE</h2>
+
+<poem>
+<lg>
+<l>Lorsque par lui le Cid tira sa jeune épée,</l>
+<l>La France tressaillit d’un tragique frisson</l>
+<l>A voir le fils venger — et de quelle façon ! — </l>
+<l>La paternelle joue indignement frappée.</l>
+</lg>
+
+<lg>
+<l>Puis ce furent Horace et, de pourpre drapée,</l>
+<l>Rome tendant les bras à ce fier nourrisson,</l>
+<l>La clémence d’Auguste et sa noble leçon</l>
+<l>Et Rodogune avec Polyeucte et Pompée.</l>
+</lg>
+
+<lg>
+<l>Mais le feuillage meurt avant l’arbre vieilli,</l>
+<l>Et le plus beau laurier défend-il de l’oubli</l>
+<l>Puisque son siècle fut ingrat au grand Corneille ?</l>
+</lg>
+
+<lg>
+<l>Et qu’il fallut, un jour, que la Postérité,</l>
+<l>Pareille à quelque Cid en qui l’honneur s’éveille,</l>
+<l>Rajustât sa couronne à ce front irrité ?</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p121'>
+ <pagenum num="215"/>
+
+<h2>AU BAS D’UN PORTRAIT DE MOLIÈRE</h2>
+
+<poem>
+<lg>
+<l>Le valet qui friponne et le tuteur qui peste,</l>
+<l>Le pédant, le marquis, le sot et le barbon,</l>
+<l>L’apothicaire, le fâcheux, tout lui fut bon,</l>
+<l>De l’esclave rustique au Jupiter céleste ;</l>
+</lg>
+
+<lg>
+<l>L’intrigue et l’imbroglio, la gambade et le geste,</l>
+<l>La mascarade, la seringue et le bâton,</l>
+<l>Et jusqu’au Turc obèse à turban de coton,</l>
+<l>Et le sac de Scapin et les rubans d’Alceste.</l>
+</lg>
+
+<lg>
+<l>Mais, farce à la chandelle ou haute comédie,</l>
+<l>De tout ce qu’inventa sa verve, son génie</l>
+<l>En a fait de la vie et de la vérité ;</l>
+</lg>
+
+<lg>
+<l>Et c’est pourquoi ces yeux, ce front et cette bouche</l>
+<l>Reçurent le baiser de l’Immortalité,</l>
+<l>Qui, d’abord, avaient pris leçon de Scaramouche !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p122'>
+ <pagenum num="216"/>
+
+<h2>LA JOURNÉE DE RACINE</h2>
+
+<poem>
+<lg>
+<l>Le poète Racine a fini sa journée :</l>
+<l>Le coude sur la table, il songe. Est-il content ?</l>
+<l>Et le bec de la plume au bruit intermittent</l>
+<l>Ne mord plus sous sa main la page égratignée.</l>
+</lg>
+
+<lg>
+<l>A-t-il d’une épigramme élégamment tournée</l>
+<l>Trouvé la pointe acerbe et le trait irritant ?</l>
+<l>Non, un plus noble soin l’a tenu haletant,</l>
+<l>Et voici qu’il relit la scène terminée.</l>
+</lg>
+
+<lg>
+<l>Son regard, dont parfois l’expression trop fine</l>
+<l>A fait dire de lui : le perfide Racine,</l>
+<l>Est très tendre, très fier, très pensif et très doux,</l>
+</lg>
+
+<lg>
+<l>Car il fut, tout le jour, ô douleur, ô délice !</l>
+<l>Témoin des beaux adieux qu’adresse sans courroux,</l>
+<l>A Titus qui la fuit, la reine Bérénice.</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ <page-sequence id='p123'>
+ <pagenum num="217"/>
+
+<h2><i>LE JEUNE ORFÈVRE</i></h2>
+
+<epigraphe>
+<p>Mieux qu’aucun maître inscrit au livre de maîtrise...</p>
+<p class="r3"><s>J.-M. DE MEREDIA</s>. <i>Le vieil Orfèvre.</i></p>
+</epigraphe>
+
+<poem>
+<lg>
+<l><i>Il n’est pas défendu, quand le maître est sorti,</i></l>
+<l><i>Ayant, sa tâche faite, achevé sa journée,</i></l>
+<l><i>Qu’au lieu de délaisser la forge abandonnée,</i></l>
+<l><i>A son tour, au travail s’exerce l’apprenti.</i></l>
+</lg>
+
+<lg>
+<l><i>Le voilà seul. Sa main touche sur l’établi</i></l>
+<l><i>Le poinçon glorieux et par qui fut signée</i></l>
+<l><i>La bague au fier chaton savamment façonnée</i></l>
+<l><i>Où brille le béryl dans l’or courbe serti.</i></l>
+</lg>
+
+<lg>
+<l><i>Mais soudain, rougissant de sa naïve audace,</i></l>
+<l><i>Il lui semble qu’un œil le raille et le menace</i></l>
+<l><i>Dans le rubis farouche et le clair diamant ;</i></l>
+</lg>
+
+<lg>
+<l><i>Hélas ! son nom encor n’est pas inscrit au Livre</i></l>
+<l><i>Et, modeste, il s’applique à fixer humblement</i></l>
+<l><i>Une perle de verre en un cercle de cuivre !</i></l>
+</lg>
+</poem>
+
+ <pagenum num="218"/>
+ </page-sequence>
+ <page-sequence id='p124'>
+<pagenum num="219"/>
+
+<vsep class="fewlines"/>
+
+<h1>DON JUAN AU TOMBEAU</h1>
+
+<pagenum num="220"/>
+ </page-sequence>
+ <page-sequence id='p125'>
+ <pagenum num="221"/>
+
+<h2>DON JUAN AU TOMBEAU</h2>
+
+<poem>
+<lg>
+<l>La flamme a jusqu’au bout fondu la cire ardente</l>
+<l>Des cierges consumés au ras du chandelier,</l>
+<l>Et voici que s’éteint la mèche grésillante.</l>
+</lg>
+
+<lg>
+<l>Les deux moines en froc qui sont là pour prier</l>
+<l>Et qui, toute la nuit, à genoux sur la dalle,</l>
+<l>Ont suivi l’oraison aux pages du psautier,</l>
+</lg>
+
+<pagenum num="222"/>
+
+<lg>
+<l>Soudain lèvent les yeux vers la lumière pâle</l>
+<l>Qui glisse lentement, avec l’aube qui vient,</l>
+<l>De la haute fenêtre, au pavé de la salle ;</l>
+</lg>
+
+<lg>
+<l>Puis un verset final penche leur front chrétien</l>
+<l>Et, debout, côte à cote, ils regardent en bière</l>
+<l>Ce mort inquiétant dont l’aspect les retient :</l>
+</lg>
+
+<lg>
+<l>Car, pour eux, cette nuit de veille et de prière</l>
+<l>Fut longue de frissons, d’angoisses et d’effrois,</l>
+<l>A s’en ressouvenir jusqu’à l’heure dernière,</l>
+</lg>
+
+<lg>
+<l>Et, malgré l’eau bénite et les signes de croix,</l>
+<l>Malgré les chapelets et malgré les reliques,</l>
+<l>Dans l’ombre il leur parut ouïr, plus d’une fois,</l>
+</lg>
+
+<lg>
+<l>Des rires infernaux et des bruits sataniques,</l>
+<l>Tandis que s’agitaient les cierges effleurés</l>
+<l>De quelque aile griffue à leurs flammes obliques...</l>
+</lg>
+
+<lg>
+<l>Oui, malgré les répons repris et murmurés,</l>
+<l>Ils ont senti, courbés, sous un souffle qui brûle,</l>
+<l>S’inonder de sueur leurs crânes tonsurés,</l>
+</lg>
+
+<pagenum num="223"/>
+
+<lg>
+<l>Et, prodige qui fait que le plus saint recule,</l>
+<l>Ils ont même cru voir le cadavre roidi</l>
+<l>Soulever du cercueil son corps de jeune Hercule</l>
+</lg>
+
+<lg>
+<l>Dont la chair — s’il en est ce que tout bas l’on dit</l>
+<l>Porte marquée encor l’étreinte impitoyable</l>
+<l>D’une main vengeresse à son poignet maudit,</l>
+</lg>
+
+<lg>
+<l>Car celui dont voici la dépouille coupable</l>
+<l>Ne s’est pas endormi dans le pardon de Dieu,</l>
+<l>Mais il a succombé dans le piège du Diable.</l>
+</lg>
+
+<lg>
+<l>Sa scandaleuse vie, en tout temps, en tout lieu,</l>
+<l>Fut vouée au péché avec sollicitude ;</l>
+<l>Il eût souillé la neige et corrompu le feu !</l>
+</lg>
+
+<lg>
+<l>Luxurieux, impie, orgueilleux, hardi, rude,</l>
+<l>Il fut subtil aussi comme l’est le serpent,</l>
+<l>Et sa damnation est une certitude.</l>
+</lg>
+
+<lg>
+<l>Fut-il jamais de ceux dont le cœur se repent ?</l>
+<l>Fils irrespectueux, il n’eut pour son vieux père,</l>
+<l>En réponse à des pleurs qu’un rire impénitent !</l>
+</lg>
+
+<pagenum num="224"/>
+
+<lg>
+<l>Et cependant il fut heureux, riche et prospère</l>
+<l>Jusqu’à ce que sa voix invitât au festin,</l>
+<l>Par un défi nouveau, le Convive de pierre,</l>
+</lg>
+
+<lg>
+<l>Et que, s’étant assis à la table, hautain,</l>
+<l>Et calme et souriant d’un sarcasme suprême,</l>
+<l>Il entendît sans peur venir le pas lointain...</l>
+</lg>
+
+<lg>
+<l>Et ce fut là, qu’à l’aube on le retrouva blême,</l>
+<l>Sans chaleur, sans regard, sans souffle, toujours beau,</l>
+<l>Et la lèvre crispée en un dernier blasphème.</l>
+</lg>
+
+<lg>
+<l>Aussi, depuis hier creuse-t-on son tombeau,</l>
+<l>Tandis que, devant son cadavre on prie encore</l>
+<l>Dans la salle funèbre où fume le flambeau !</l>
+</lg>
+
+<lg>
+<l>Mais la nuit est passée et fait place à l’aurore ;</l>
+<l>Bientôt les pénitents et les meneurs de deuil</l>
+<l>Vont venir le chercher par le couloir sonore ;</l>
+</lg>
+
+<lg>
+<l>Ils franchiront la porte ou, groupés sur le seuil,</l>
+<l>S’arrêteront, pendant qu’à grands coups dans le chêne</l>
+<l>Le marteau pour jamais fermera le cercueil ;</l>
+</lg>
+
+<pagenum num="225"/>
+
+<lg>
+<l>Puis quatre compagnons, l’empoignent avec peine,</l>
+<l>Porteront le défunt dans la cour où l’attend</l>
+<l>Toute la parenté jusqu’à la plus lointaine,</l>
+</lg>
+
+<lg>
+<l>Et qui va, puisqu’il est malgré tout de leur sang,</l>
+<l>Le conduire avec ordre, en la pompe prescrite,</l>
+<l>A l’église où se dresse un catafalque ardent.</l>
+</lg>
+
+<lg>
+<l>Et ce sera, derrière lui, tout une suite</l>
+<l>D’hommes en manteaux noirs et la golille au cou</l>
+<l>Et qui feront la rue étroite et trop petite,</l>
+</lg>
+
+<lg>
+<l>Et le piétinement dans Séville debout,</l>
+<l>D’un cortège, mêlant la toque à la cagoule,</l>
+<l>Autour de la bannière où l’hérétique bout ;</l>
+</lg>
+
+<lg>
+<l>Au parvis que le peuple encombre de sa houle</l>
+<l>Le convoi déploiera sa parade de mort</l>
+<l>Et passera le porche, aux regards de la foule ;</l>
+</lg>
+
+<lg>
+<l>Puis, dans la cathédrale, au branle sourd et fort</l>
+<l>Des cloches — tandis que la Giralda vermeille</l>
+<l>Dressera vers l’azur son ange aux ailes d’or, — </l>
+</lg>
+
+<pagenum num="226"/>
+
+<lg>
+<l>Les prêtres, tour à tour, dont le rite appareille</l>
+<l>Les voix, psalmodieront, en un chant alterné,</l>
+<l>Le psaume à qui le Christ, d’en haut, prête l’oreille,</l>
+</lg>
+
+<lg>
+<l>Car on a vu parfois le méchant pardonné ;</l>
+<l>Mais celui-là qui gît, foudroyé dans sa faute,</l>
+<l>Seigneur, n’est-il donc pas certainement damné ?...</l>
+</lg>
+
+<lg>
+<l>Et les deux moines, les mains jointes, côte à côte,</l>
+<l>Se sentent tout honteux d’avoir prié pour lui,</l>
+<l>Pour lui, de qui le cœur eut le Malin pour hôte !</l>
+</lg>
+
+<lg>
+<l>Et pourquoi donc aussi ne pas avoir conduit</l>
+<l>Sa dépouille maudite à quelque fosse immonde,</l>
+<l>Comme on fait des sorciers qu’on enterre, la nuit ?</l>
+</lg>
+
+<lg>
+<l>C’est que ce vil pécheur en qui le vice abonde</l>
+<l>Et que Satan, au bras, a marqué de son sceau,</l>
+<l>Infime aux yeux de Dieu, fut grand aux yeux du monde :</l>
+</lg>
+
+<lg>
+<l>D’une race fameuse il est le noir rameau</l>
+<l>Et sa racine plonge au plus vieux sol d’Espagne ;</l>
+<l>D’un illustre blason s’ornera son tombeau.</l>
+</lg>
+
+<pagenum num="227"/>
+
+<lg>
+<l>Le renom des aïeux dans la mort l’accompagne :</l>
+<l>Nul plus que lui n’aurait été l’un de ceux-là</l>
+<l>Qui sont dignes d’avoir la Gloire pour compagne.</l>
+</lg>
+
+<lg>
+<l>La Nature l’avait paré du riche éclat</l>
+<l>De ses dons les plus beaux et les plus magnifiques</l>
+<l>Et Séville admirait ce fils de Maraña.</l>
+</lg>
+
+<lg>
+<l>Qui savait, comme lui, dans les joutes publiques,</l>
+<l>Courir la bague, souple, et prompt, et gracieux</l>
+<l>Parader au galop d’un étalon d’Afrique ?</l>
+</lg>
+
+<lg>
+<l>Ou, dans le cirque rond, pour le régal des yeux.</l>
+<l>D’un seul coup, au garot, de son épée agile</l>
+<l>Agenouiller l’élan du taureau furieux,</l>
+</lg>
+
+<lg>
+<l>Ou lire, mieux qu’un clerc, Théocrite ou Virgile</l>
+<l>Et recueillir le miel aux lèvres de Platon,</l>
+<l><correction original="O">Ou</correction> transcrire un sonnet sur le vélin fragile ?</l>
+</lg>
+
+<lg>
+<l>Mais de cet or, hélas ! qu’en a-t-il fait ?</l>
+<l>Du plomb ! Le mensonge habitait sa parole incertaine</l>
+<l>Et le sang a rougi sa main et son talon.</l>
+</lg>
+
+<pagenum num="228"/>
+
+<lg>
+<l>Brave comme le Cid, il eût trompé Chimène !</l>
+<l>Mais combien cependant tombèrent en ses lacs !</l>
+<l>Et, d’un geste, il brisait la coupe encore pleine.</l>
+</lg>
+
+<lg>
+<l>Et toujours il allait insatiable et las ;</l>
+<l>Le désir l’attirait vers des lèvres nouvelles ;</l>
+<l>Les mères avaient peur en le nommant tout bas.</l>
+</lg>
+
+<lg>
+<l>O douleur ! les plus amoureuses, les plus belles</l>
+<l>Ne furent qu’un jouet pour sa méchanceté</l>
+<l>Et, sans qu’il les aimât, il était aimé d’elles.</l>
+</lg>
+
+<lg>
+<l>Et les moines, le cœur sourdement irrité,</l>
+<l>Songeaient avec envie à toutes ces amantes</l>
+<l>Qui prosternaient, en vain, à ses pieds, leur beauté :</l>
+</lg>
+
+<lg>
+<l>« N’est-il pas juste qu’à présent tu te lamentes,</l>
+<l>Funeste séducteur ? Et le spectre a bien fait</l>
+<l>D’entr’ouvrir sous tes pas les géhennes fumantes !</l>
+</lg>
+
+<lg>
+<l>Le Convive de pierre a puni ton forfait</l>
+<l>Et si tu le frappas au défaut de l’armure</l>
+<l>Il t’a rendu tes coups, et l’ordre est satisfait.</l>
+</lg>
+
+<pagenum num="229"/>
+
+<lg>
+<l>Maintenant tu n’es plus qu’une dépouille impure</l>
+<l>Que les feux de l’enfer vont éternellement</l>
+<l>Brûler et qui n’est plus déjà que pourriture ;</l>
+</lg>
+
+<lg>
+<l>Le crime, grâce au ciel, reçoit son châtiment ! »</l>
+<l>Et les moines soudain se courbent avec rage</l>
+<l>Pour contempler ce mort coupable au jugement :</l>
+</lg>
+
+<lg>
+<l>Les vers ont dû, déjà, baver sur son visage</l>
+<l>Et, déjà le souillant de leurs anneaux visqueux,</l>
+<l>Commencer en sa chair leur sinistre ravage...</l>
+</lg>
+
+<lg>
+<l>Mais, moines, quel spectacle apparaît à vos yeux !</l>
+<l>L’aurore, en éclairant cette face damnée,</l>
+<l>Sur elle fait errer un fard mystérieux ;</l>
+</lg>
+
+<lg>
+<l>La jeunesse fleurit sur sa peau satinée,</l>
+<l>Sa lèvre est toujours rouge et sa joue est encor</l>
+<l>Fraîche comme au matin de la vingtième année ;</l>
+</lg>
+
+<lg>
+<l>Un rayon de soleil allonge son trait d’or</l>
+<l>Sur ce front radieux que le printemps couronne</l>
+<l>Et qui demeure pur, au souffle de la mort.</l>
+</lg>
+
+<pagenum num="230"/>
+
+<lg>
+<l>Alors !... il est donc vain que Dieu condamne et tonne !</l>
+<l>Et comment ce pécheur que Satan vint saisir</l>
+<l>Garde-t-il cet orgueil dont le regard s’étonne ?</l>
+</lg>
+
+<lg>
+<l>C’est que rien ne le put, ô moines, assouvir,</l>
+<l>Et qu’il fut, par son âme anxieuse et mouvante,</l>
+<l>Une incarnation de l’Éternel Désir.</l>
+</lg>
+
+<lg>
+<l>C’est, que, malgré la nuit de foudre et d’épouvante</l>
+<l>Où le sombre invité du suprême festin</l>
+<l>Fit sous un doigt de feu crier la chair vivante,</l>
+</lg>
+
+<lg>
+<l>Dans le sépulcre clos que scellera l’airain,</l>
+<l>Lorsque l’on étendra, moines, malgré vos blâmes,</l>
+<l>Au son de l’orgue grave et du psaume latin,</l>
+</lg>
+
+<lg>
+<l>Ce doux corps caressé par tant de mains de femmes,</l>
+<l>S’il est toujours ainsi voluptueux et beau</l>
+<l>C’est qu’il fut plus brûlant, encore, que les flammes</l>
+</lg>
+
+<lg>
+<l>Et que c’est toi, Don Juan, que l’on met au tombeau !</l>
+</lg>
+
+<pagenum num="231"/>
+
+<vsep class="onestar"/>
+
+<lg>
+<l>On dit que, vers le soir de la même journée,</l>
+<l>A l’heure où le vent frais, né du Guadalquivir,</l>
+<l>Effeuille aux chignons bruns la rose safranée,</l>
+</lg>
+
+<lg>
+<l>Dans l’église où la nef commence à s’assombrir,</l>
+<l>Trois femmes, toutes trois en longs voiles, et belles,</l>
+<l>Se retrouvèrent là dans un commun désir ;</l>
+</lg>
+
+<lg>
+<l>Et, le chœur étant vide, et vides les chapelles,</l>
+<l>Toutes trois s’avançaient silencieusement ;</l>
+<l>Et l’histoire rapporte aussi que l’une d’elles</l>
+</lg>
+
+<lg>
+<l>Était Doña Elvire en deuil de son amant,</l>
+<l>La seconde, Doña Anna, et la troisième,</l>
+<l>La plus jeune, très pâle, encor presque une enfant.</l>
+</lg>
+
+<lg>
+<l>Et toutes trois, sans se parler, cherchaient de même,</l>
+<l>De pilier en pilier, un sépulcre récent</l>
+<l>Afin de dire au mort aimé l’adieu suprême,</l>
+</lg>
+
+<pagenum num="232"/>
+
+<lg>
+<l>Et, l’ayant reconnu pour son marbre plus blanc</l>
+<l>Entouré d’une grille et dans une encoignure,</l>
+<l>Elles se dirigeaient par là, d’un pas tremblant ;</l>
+</lg>
+
+<lg>
+<l>Mais comme elles allaient pour ouvrir la serrure</l>
+<l>Il leur sembla soudain, à travers les barreaux,</l>
+<l>Apercevoir quelqu’un derrière la clôture,</l>
+</lg>
+
+<lg>
+<l>Qui, courbé vers le sol et leur tournant le dos,</l>
+<l>A deux mains soulevait la pierre sépulcrale,</l>
+<l>En l’ayant prise et la tirant par les anneaux,</l>
+</lg>
+
+<lg>
+<l>Et toutes trois, Anna, Elvire et l’enfant pâle,</l>
+<l>Virent qu’ayant enfin descellé le bloc lourd,</l>
+<l>Debout, leur souriait, et le pied sur la dalle,</l>
+</lg>
+
+<lg>
+<l>Un Ange aux ailes d’or et pareil à l’Amour !</l>
+</lg>
+</poem>
+
+ </page-sequence>
+ </page-sequences>
+</bml>
