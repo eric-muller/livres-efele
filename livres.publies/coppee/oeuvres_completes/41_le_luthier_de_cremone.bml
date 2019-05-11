@@ -1,0 +1,1392 @@
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb30267616p">
+
+      <titre>Œuvres complètes de François Coppée</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11897612w">
+        <nom-bibliographie>Coppée, François</nom-bibliographie>
+        <dates>1842-1908</dates>
+        <nom-couverture>François Coppée</nom-couverture>
+      </auteur>
+      
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488218gg" role="ill">
+        <nom-bibliographie>Flameng, François</nom-bibliographie>
+        <dates>1856-1923</dates>
+        <nom-couverture>François Flameng</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488219t" role="ill">
+        <nom-bibliographie>Tofani, Oswaldo</nom-bibliographie>
+        <dates>1849-1915</dates>
+        <nom-couverture>Oswaldo Tofani</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb14967570r" role="ill">
+        <nom-bibliographie>Dawant, Albert Pierre</nom-bibliographie>
+        <dates>1852-1923</dates>
+        <nom-couverture>Albert Dawant</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>L. Hébert</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <editeur>
+        <nom>A. Houssiaux</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1885</date>
+
+      <langue>fr</langue>
+    </monographie>
+    
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k408040c"
+                 pages="N6 1-52 A1 53-164 B1 165-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000604"
+        creation="2019-05-11T08:20:41-07:00">
+      
+      <titre>Le luthier de Crémone</titre>
+
+      <collection id="c00018" volume="41">
+        <titre>Œuvres complètes de François Coppée, édition Lemerre</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+  
+  <toc>
+    <tocentry idref='personnages' label="Personnages"/>
+    <tocentry idref='p01' label="Scène première"/>
+    <tocentry idref='p02' label="Scène II"/>
+    <tocentry idref='p03' label="Scène III"/>
+    <tocentry idref='p04' label="Scène IV"/>
+    <tocentry idref='p05' label="Scène V"/>
+    <tocentry idref='p06' label="Scène VI"/>
+    <tocentry idref='p07' label="Scène VII"/>
+    <tocentry idref='p08' label="Scène VIII"/>
+    <tocentry idref='p09' label="Scène IX"/>
+    <tocentry idref='p10' label="Scène X"/>
+    <tocentry idref='p11' label="Scène XI"/>
+    <tocentry idref='p12' label="Scène XII"/>
+    <tocentry idref='p13' label="Scène XIII"/>
+    <tocentry idref='p14' label="Scène XIV"/>
+  </toc>
+  
+  <cover src="images/couverture14.png" alt="Œuvres complètes de François Coppée de l’Académie française. Édition illustrée par François Flameng et Tofani. Gravure au burin par Boisson, Boutelié, Dubouchet, Lépold Frameng et Jules Jacquet. Théâtre — Tome I. Édition Lemerre. Paris. Librairie L. Hébert. Alexandre Houssieux et Cie, Successeurs. 7, rue Perronet, 7. 1892"/>
+
+ <page-sequences>
+ <page-sequence>
+ <pagenum num="49"/>
+
+<vsep class="fewlines"/>
+
+<h1>LE LUTHIER DE CRÉMONE</h1>
+
+<h2><s>COMÉDIE EN UN ACTE, EN VERS</s></h2>
+
+<h2><s>REPRÉSENTÉE POUR LA PREMIÈRE FOIS A LA COMÉDIE FRANÇAISE, LE 23 MAI 1876.</s></h2>
+
+ </page-sequence>
+ <page-sequence>
+ <pagenum num="50"/>
+
+<vsep class="fewlines"/>
+
+<h2> A CONSTANT COQUELIN</h2>
+
+<h2><s>SON AMI RECONNAISSANT</s></h2>
+
+<signature>F. C.</signature>
+
+ </page-sequence>
+ <page-sequence>
+ <pagenum num="51"/>
+
+<h2 id='personnages'>PERSONNAGES</h2>
+
+<table>
+<tbody>
+<tr><td>TADDEO FERRARI, maître luthier</td>
+<td>MM.</td> <td>T<s>HIRON</s>.</td></tr>
+
+<tr><td>FILIPPO, son élève.</td><td/><td>C<s>OQUELIN</s>.</td></tr>
+<tr><td>SANDRO, id.</td><td/><td>L<s>AROCHE</s>.</td></tr>
+<tr><td>GIANNINA.</td><td>M<sup>lle</sup></td><td>B<s>L</s>. B<s>ARETTA</s>.</td></tr>
+<tr><td>L<s>A</s> C<s>ORPORATION DES</s> L<s>UTHIERS</s>.</td></tr>
+</tbody>
+</table>
+
+<vsep class="emptyline"/>
+
+<p>A Crémone, vers 1750.</p>
+
+ <pagenum num="52"/>
+<pagenum num="A1"/>
+
+<img class='fullpageimage' src='images/img14.png' alt=''/>
+
+ </page-sequence>
+ <page-sequence>
+ 
+<pagenum num="53"/>
+
+<h1>LE LUTHIER DE CRÉMONE</h1>
+
+<h2>COMÉDIE EN UN ACTE, EN VERS</h2>
+
+<vsep class="rule"/>
+
+<pstage>Un atelier de lutherie au <s>XVIII</s><sup>e</sup> siècle. Au fond, une vitrine avec une grande porte s’ouvrant sur une rue de la ville, dont on aperçoit les maisons. — Des violons, des violoncelles, des basses et d’autres instruments de musique sont épars dans l’atelier. — A gauche, un comptoir, bien en vue. — A droite, un grand fauteuil près d’une table. — Au fond, à droite, un pupitre. — Deux portes latérales.</pstage>
+
+<h2 id='p01'>SCÈNE PREMIÈRE</h2>
+
+<cast>MAITRE FERRARI, GIANNINA</cast>
+
+<hstage><speaker>MAITRE FERRARI</speaker>, légèrement pris de vin.</hstage>
+<l>Non, Giannina, j’ai fait un serment d’honnête homme</l>
+<l>Et je veux le tenir. Aussi vrai qu’on me nomme</l>
+<l>Taddeo Ferrari, maître et patron luthier</l>
+<l>A Crémone et syndic des gens de mon métier</l>
+<pagenum num="54"/>
+<l>Dont aux processions je porte la bannière,</l>
+<l>Tu seras mariée et de cette manière...</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Mais, mon père...</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>J’agis très raisonnablement.</l>
+<l>Notre vieux Podestat, décédé récemment,</l>
+<l>— Que Jésus le reçoive en ses miséricordes ! —</l>
+<l>Voulant que le renom des instruments à cordes</l>
+<l>Sortis de notre vieille et fameuse cité</l>
+<l>Reste dans l’avenir toujours plus mérité,</l>
+<l>Vient de léguer sa chaîne en or à l’homme habile</l>
+<l>Qui ferait le meilleur violon de la ville.</l>
+<l>Le concours est ouvert et se juge aujourd’hui.</l>
+<l>Et moi, simple artisan, mais m’inspirant de lui,</l>
+<l>Aux compagnons luthiers assemblés en famille ;</l>
+<l>J’ai promis de donner ma maison et ma fille</l>
+<l>A celui qui, par son talent dans notre état,</l>
+<l>Aurait la chaîne d’or du défunt Podestat.</l>
+<l>C’est convenu, conclu, réglé ! Donc, point d’affaire !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Je vous ai dit que j’ai quelqu’un que je préfère.</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>Sandro ! Tu l’oublieras. Le voilà prévenu.</l>
+
+<pagenum num="55"/>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Mais, enfin, si c’était, cet artiste inconnu,</l>
+<l>Un méchant gars et point digne de vous, en somme ?</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>Un habile ouvrier est toujours honnête homme.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>... Un paresseux, n’ayant de l’avenir nuls soins ?</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>Étant payé plus cher, il peut travailler moins.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>... Un brutal qui battrait les femmes ? Il s’en trouve.</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>S’il n’a pas le repos au logis, je l’approuve.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>... Un buveur, par le vin le dimanche alourdi ?</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>Et comment suis-je donc, ma fille, le lundi ?</l>
+<l>Respect aux amateurs des vendanges d’octobre !</l>
+<l>Un bon musicien ne doit pas être sobre.</l>
+<l>On ne fait pas mentir un dicton. C’est très mal.</l>
+
+<pagenum num="56"/>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Mais, enfin, si c’était un tel original</l>
+<l>Qu’il refusât ma main ?... Ah !</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>Par sainte Cécile,</l>
+<l>Ce drôle-là serait, vraiment, bien difficile.</l>
+<l>Non ! non ! Un bon parti comme toi, Giannina,</l>
+<l>Vois-tu bien, ce n’est pas tous les jours qu’on en a.</l>
+<l>Deux mille écus lombards ne sont point bagatelle,</l>
+<l>Et c’est ta dot, ma fille, avec ma clientèle,</l>
+<l>A moi, l’élève aimé de Stradivarius.</l>
+<l>D’ailleurs, j’ai fait serment... Ainsi, n’en parlons plus.</l>
+<l>Rendu par l’âge, auquel il n’est point de remède,</l>
+<l>Moins habile, je veux un successeur qui m’aide.</l>
+<l>Le lauréat aura ma fille et ma maison.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Mon bon père, pourtant...</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>C’est assez de raison !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Si le vainqueur, — je ris lorsque je fais ce rêve, —</l>
+<l>Mais, pourtant, si c’était votre petit élève</l>
+<l>Filippo ?</l>
+
+<pagenum num="57"/>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>Filippo ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>S’il obtenait le prix ?</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>Mais je n’en serais pas extrêmement surpris.</l>
+<l>Et si du Podestat il m’apportait la chaîne,</l>
+<l>Vous vous épouseriez la semaine prochaine.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Épouser Filippo !</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>Pourquoi pas ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Un bossu !</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>J’ai les yeux assez bons pour m’en être aperçu ;</l>
+<l>Mais, le fût-il deux fois, que cela ne me trouble,</l>
+<l>— Il m’apparaît souvent ainsi, quand j’y vois double,</l>
+<l>Il serait ton mari.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Sainte Vierge !</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>D’ailleurs,</l>
+<pagenum num="58"/>
+<l>Filippo n’est-il pas un garçon des meilleurs,</l>
+<l>Bon, serviable, honnête ?... Il a l’air un peu triste,</l>
+<l>Il est bossu, c’est vrai ; mais c’est un grand artiste.</l>
+<l>Il est musicien comme Palestrina.</l>
+<l>Dans le petit concert qu’un jour il nous donna,</l>
+<l>— Et je suis cependant un critique sévère, —</l>
+<l>Comme je l’écoutais, en regardant mon verre</l>
+<l>Plein de vieux vin d’Asti, — tu sais, le bon cachet ! —</l>
+<l>Il fit si bien gémir les cordes sous l’archet</l>
+<l>Et mit dans son jeu tant de douleur et de charmes,</l>
+<l>Que je me suis senti venir deux grosses larmes.</l>
+<l>Ah ! je les ai voulu retenir, mais en vain,</l>
+<l>Et j’ai, pour une fois, mis de l’eau dans mon vin.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>J’estime Filippo tout comme vous, mon père,</l>
+<l>Je le plains, et j’ai fait de mon mieux, je l’espère,</l>
+<l>Pour lui faire oublier, à force de bonté,</l>
+<l>Son chagrin, sa misère et sa difformité</l>
+<l>Qu’avec tant de douceur le pauvre être supporte,</l>
+<l>Depuis le jour d’hiver où, devant notre porte,</l>
+<l>En mendiant son pain, Filippo s’arrêta...</l>
+<l>Mais pourrais-je l’aimer ? Voyons !</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>Ta, ra, ta, ta.</l>
+<pagenum num="59"/>
+<l>Si tu ne prétends rien m’objecter de plus grave,</l>
+<l>Restons-en là. Je vais faire un tour à ma cave.</l>
+<l>Il faut, pour ce grand jour, quelques flacons poudreux</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Si j’allais... L’escalier est raide et dangereux,</l>
+<l>On y peut trébucher, et je serai plus prompte...</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>Je ne m’en aperçois que lorsque je remonte.</l>
+<l>Non. Laisse-moi, vois-tu ! car le plus grand plaisir,</l>
+<l>Avant de boire un vin, c’est d’aller le choisir.</l>
+
+<pstage>Il sort à gauche.</pstage>
+
+<h2 id='p02'>SCÈNE II</h2>
+
+<cast>GIANNINA, SANDRO</cast>
+
+<pstage>Seule un instant, Giannina pousse un soupir ; puis Sandro entre à gauche, portant un violon dans un étui en bois noir, qu’il pose sur le comptoir à gauche.</pstage>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Eh bien, signorina ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Sandro !</l>
+
+<pagenum num="60"/>
+
+<hstage><speaker>SANDRO</speaker>, lui prenant les mains.</hstage>
+<l cont='true'>Quelle nouvelle ?</l>
+<l>Le maître garde-t-il toujours dans sa cervelle</l>
+<l>Sa résolution de ne vous marier</l>
+<l>Qu’à celui qui sera le meilleur ouvrier ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Hélas ! plus que jamais.</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Quelle folie extrême !</l>
+<l>Mais a-t-il su de vous à quel point je vous aime,</l>
+<l>Et que, si je n’ai pas votre main, j’en mourrai ?</l>
+<l>Qu’a-t-il donc répondu ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Que je vous oublierai.</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Le cruel !</l>
+
+<hstage><speaker>GIANNINA</speaker>, montrant l’étui à violon.</hstage>
+<l cont='true'>Avez-vous fini votre chef-d’œuvre ?</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Fussé-je paresseux autant qu’une couleuvre,</l>
+<l>J’eusse été toujours prêt ; car, hélas ! c’est en lui</l>
+<l>Qu’est mon dernier espoir, et l’on doit aujourd’hui,</l>
+<pagenum num="61"/>
+<l>Par la voix des experts, à la maison commune,</l>
+<l>Décider de ma bonne ou mauvaise fortune.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Au moins, en êtes-vous satisfait ?</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>C’est selon !</l>
+<l>Je sais bien mon métier. J’ai fait un violon</l>
+<l>Dans les règles de l’art, juste en ses quatre octaves,</l>
+<l>Pur dans les tons aigus, profond dans les tons graves.</l>
+<l>J’ai mis là tout mon temps et des soins infinis ;</l>
+<l>J’ai bien choisi mon bois, mes cordes, mon vernis,</l>
+<l>Et c’est un instrument, je crois, digne d’un maître.</l>
+
+<hstage><speaker>GIANNINA</speaker>, avec joie.</hstage>
+<l>Mais alors vous aurez le prix, Sandro !</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Peut-être !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Mais vous aurez le prix ! Voyons ! Pourquoi douter ?</l>
+<l>Quel concurrent fameux pouvez-vous redouter ?</l>
+<l>Et pourquoi faut-il donc que toujours je sermonne ?</l>
+<l>Mon père est le premier artiste de Crémone,</l>
+<l>Et c’est chez lui, Sandro, que vous avez appris...</l>
+<l>Et puis, d’abord, je veux que vous ayez le prix !</l>
+
+<pagenum num="62"/>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Aucun rival sorti d’un atelier d’un autre</l>
+<l>Ne me fait peur.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Eh bien ?</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Mais j’en ai dans le nôtre.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Quoi ! dans notre atelier ?...</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Eh bien, oui, le bossu !</l>
+<l>Et maudit soit le jour où vous l’avez reçu !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Filippo concourrait ?</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>La petite vipère</l>
+<l>Devant moi l’annonçait hier à votre père.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Mon père qui disait tantôt en plaisantant</l>
+<l>Que, s’il avait le prix, je devrais bien pourtant</l>
+<l>Accepter le bossu pour mari !</l>
+
+<pagenum num="63"/>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Que disais-je ?</l>
+
+<hstage><speaker>GIANNINA</speaker>, riant.</hstage>
+<l>Que ma sainte patronne en ce cas nous protège !</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Il vous croit libre ; il peut espérer.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Ce soupçon</l>
+<l>Ne peut pas me venir sur le pauvre garçon.</l>
+<l>Il veut la chaîne d’or et le titre de maître.</l>
+<l>Qu’il soit ambitieux, nous devons le permettre ;</l>
+<l>Mais il se connaît trop pour prétendre à ma main.</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Eh ! n’importe, s’il sort vainqueur de l’examen.</l>
+<l>Tenez ! je n’ai jamais tant souffert de ma vie.</l>
+<l>J’éprouve un sentiment affreux.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Lequel ?</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>L’envie !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Envieux, vous, Sandro ! C’est impossible. Vous !</l>
+
+<pagenum num="64"/>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Oui, moi ! car je connais son œuvre, et suis jaloux ;</l>
+<l>Et bientôt ils vont tous, comme moi, la connaître.</l>
+<l>— Ah !... C’était l’autre nuit. J’étais à ma fenêtre,</l>
+<l>Et je pensais à vous devant le ciel d’été.</l>
+<l>Dans le jardin, parmi la fraîche obscurité,</l>
+<l>Un rossignol chantait, et ses notes perlées</l>
+<l>Montaient éperdument aux voûtes étoilées.</l>
+<l>Tout a coup, j’entendis dans l’ombre un autre chant</l>
+<l>Aussi divin, aussi sublime, aussi touchant</l>
+<l>Que celui de l’oiseau. Je me penche et regarde,</l>
+<l>Et je vois le bossu tout seul, dans sa mansarde,</l>
+<l>Assis à son pupitre et l’archet à la main.</l>
+<l>Son violon, avec un accent presque humain,</l>
+<l>Exprimant un amour où la douleur se mêle,</l>
+<l>Égalait en douceur la voix de Philomèle.</l>
+<l>Le plaintif instrument, l’oiseau sentimental,</l>
+<l>Alternaient dans la nuit leurs trilles de cristal.</l>
+<l>Et moi-même, écoutant l’harmonieuse lutte,</l>
+<l>Je ne distinguais plus, au bout d’une minute,</l>
+<l>Lequel de ces deux chants, prenant ainsi leur vol,</l>
+<l>Venait du violon ou bien du rossignol.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Le succès d’un rival vous rendrait aussi triste ?</l>
+
+<pagenum num="65"/>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Ah ! c’est un sentiment indigne d’un artiste.</l>
+<l>Mais si dans votre père il trouve tant d’appui,</l>
+<l>S’il est vainqueur...</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>C’est vous que j’aime, et non pas lui,</l>
+<l>Je promets d’être à vous, ou sinon à personne.</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Bien sûr ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Bien sûr.</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Mon Dieu ! comme vous êtes bonne !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Pour gage du serment, voici ma main.</l>
+
+<hstage><speaker>SANDRO</speaker>, lui baisant la main.</hstage>
+<l cont='true'>Merci !</l>
+
+<pstage>Tumulte au dehors.</pstage>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Mais quel est ce tapage ?</l>
+
+<pagenum num="66"/>
+
+<h2 id='p03'>SCÈNE III</h2>
+
+<cast>FILIPPO, SANDRO, GIANNINA.</cast>
+
+<pstage>Filippo entre vivement au fond, referme brusquement la porte derrière lui, puis, tout essoufflé.</pstage>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Ouf ! Enfin, m’y voici !</l>
+<l>Les petits gueux ! J’ai bien cru qu’ils allaient m’atteindre.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Qu’est-ce donc, Filippo ? qui donc semblez-vous craindre</l>
+<l>Et qui donc vous poursuit ?</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>De méchants polissons</l>
+<l>Qui, s’armant de cailloux fort durs et de tessons,</l>
+<l>Ont voulu m’assommer.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Vous ?</l>
+
+<hstage><speaker>FILIPPO</speaker>, se touchant la tête.</hstage>
+<l cont='true'>A telles enseignes</l>
+<l>Que, là, je sens au front...</l>
+
+<pstage>Montrant sa main.</pstage>
+<l cont='true'>Voyez plutôt.</l>
+
+<pagenum num="67"/>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Tu saignes !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>De l’eau !... vite !</l>
+
+<pstage>Elle va chercher sur une crédence un vase et une aiguière.</pstage>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Dis-nous comment ceci t’advint.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Ah ! parbleu, c’est bien simple. Ils étaient quinze ou vingt,</l>
+<l>Gâte-sauce, écoliers, un tas de rien qui vaille,</l>
+<l>A lapider un chien au pied d’une muraille,</l>
+<l>Un pauvre chien, aux yeux éteints, aux poils pendants,</l>
+<l>Ayant la force au plus de leur montrer les dents,</l>
+<l>Infirme et se traînant sur sa patte brisée.</l>
+<l>En voyant cette bête ainsi martyrisée,</l>
+<l>J’eus le cœur soulevé d’un douloureux émoi :</l>
+<l>Je croyais voir souffrir un humble comme moi.</l>
+<l>Bravement je m’élance au sein du populaire ;</l>
+<l>En demandant pitié, j’excite la colère ;</l>
+<l>Ah ! l’on ne songe plus à la bête, à présent.</l>
+<l>Lapider un bossu, c’est bien plus amusant !</l>
+<l>Je me mets à courir, les traînant à ma suite,</l>
+<l>J’enfile une ruelle, une autre ; et, sans ma fuite,</l>
+<l>On m’eût assassiné, cela n’est pas douteux...</l>
+<pagenum num="68"/>
+<l>Mais j’ai sauvé la vie au pauvre chien boiteux !</l>
+
+<pstage>Il tombe épuisé sur un fauteuil.</pstage>
+
+<hstage><speaker>GIANNINA</speaker>, posant son mouchoir trempé d’eau sur le front de Filippo.</hstage>
+<l>Ces vagabonds ! Vit-on jamais tant de malice ?</l>
+<l>Pauvre garçon !</l>
+
+<hstage><speaker>FILIPPO</speaker>, à part.</hstage>
+<l cont='true'>Sa main sur mon front ! ô délice !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Êtes-vous mieux ?</l>
+
+<hstage><speaker>FILIPPO</speaker>, se levant, et d’une voix très émue.</hstage>
+<l cont='true'>Merci, je n’ai plus mal.</l>
+
+<hstage><speaker>SANDRO</speaker>, à part.</hstage>
+<l cont='true'>Vraiment,</l>
+<l>C’est trop d’émotion pour un remerciement !</l>
+<l>Je ne me trompe pas. Il l’aime !</l>
+
+<h2 id='p04'>SCÈNE IV</h2>
+
+<cast>L<s>ES MÊMES</s>, MAITRE FERRARI.</cast>
+
+<hstage><speaker>MAITRE FERRARI</speaker>, un peu plus gris que d’abord, et portant un panier de bouteilles.</hstage>
+<l cont='true'>C’est étrange !</l>
+<l>Voilà plus de vingt ans, mes amis, que je range</l>
+<pagenum num="69"/>
+<l>Mes deux sortes de vins en un lieu bien couvert :</l>
+<l>A droite, cachet rouge ; à gauche, cachet vert.</l>
+<l>Personne n’entre là, j’ai la clef dans ma poche.</l>
+<l>Eh bien ! je viens de voir, soit dit sans nul reproche,</l>
+<l>Que mes vins, qui sont là de toute éternité,</l>
+<l>M’ont fait le mauvais tour de changer de côté.</l>
+<l>Hein ! Mes flacons entre eux font-ils donc la débauche,</l>
+<l>Ou ne connais-je plus ma droite de ma gauche ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Mon père !...</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>Toi, fillette !... Eh bien ! je te cherchais.</l>
+<l>Tantôt, quand on aura fait grincer les archets</l>
+<l>Et qu’enfin nous saurons à qui je te marie,</l>
+<l>Je reçois à dîner toute la confrérie.</l>
+<l>Viens donc m’aider à mettre, afin que je sois beau,</l>
+<l>Ma perruque de fête et mon habit barbeau.</l>
+<l>En manquant de tenue, un homme se dégrade.</l>
+<l>Viens !</l>
+
+<pstage>Il sort à droite, suivi de Giannina.</pstage>
+
+<pagenum num="70"/>
+
+<h2 id='p05'>SCÈNE V</h2>
+<cast>FILIPPO, SANDRO.</cast>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>L’instant décisif approche.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Oui, camarade.</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Ton violon est prêt ?</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Il l’est.</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Es-tu content ?</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Oui, bien sincèrement. Et toi ?</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Moi, pas autant.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Tant pis. Dans la courtoise et fraternelle lutte,</l>
+<l>Ce qui m’aurait le mieux consolé d’une chute,</l>
+<pagenum num="71"/>
+<l>C’eût été ton succès, à toi, mon compagnon.</l>
+<l>Voyons ! Sandro, veux-tu me donner la main ?</l>
+
+<hstage><speaker>SANDRO</speaker>, après un silence.</hstage>
+<l cont='true'>Non !</l>
+
+<pstage>Il sort brusquement.</pstage>
+
+<h2 id='p06'>SCÈNE VI</h2>
+<cast>FILIPPO, seul.</cast>
+
+<l>Un envieux !... Voilà que le chagrin commence !</l>
+<l>Il souffre. Pardonnons. Mais, parbleu ! c’est démence</l>
+<l>De croire qu’à l’ami pauvre et déshérité,</l>
+<l>Qui n’envia jamais sa force et sa beauté,</l>
+<l>Un homme trouve un jour le plus mince mérite</l>
+<l>Sans que son amour-propre aussitôt s’en irrite.</l>
+<l>Ce serait bien pourtant : être amis et rivaux !</l>
+<l>Celui-là ne sait pas non plus ce que tu vaux,</l>
+<l>O cœur plein de tendresse et que le monde isole !</l>
+<l>Mais mon chef-d’œuvre est là qui de tout me console.</l>
+<l>Pauvre cher violon ! Je suis pareil à lui :</l>
+<l>Instrument délicat dans un informe étui.</l>
+
+<pstage>Il va prendre, dans une armoire, son violon qui est renfermé dans un étui rouge, et le pose sur la table à droite.</pstage>
+
+<l>Viens ! Je veux te revoir encor, ô mon ouvrage,</l>
+<pagenum num="72"/>
+<l>Chère création sur qui j’eus le courage,</l>
+<l>Moi, l’ouvrier débile et dévoré d’ennuis,</l>
+<l>De passer au travail tant de jours et de nuits !</l>
+<l>Viens ! de ton sein profond va jaillir tout à l’heure</l>
+<l>Le scherzo qui babille et le lento qui pleure.</l>
+<l>Sur le monde tu vas répandre, ô mon ami !</l>
+<l>Le sublime concert dans ton sein endormi.</l>
+<l>Viens ! Je veux te revoir et te toucher encore !</l>
+<l>Je n’éveillerai pas ton haleine sonore,</l>
+<l>Mais je veux seulement voir mon regard miré</l>
+<l>Une dernière fois dans ton beau bois doré ;</l>
+<l>Car il faut nous quitter pour ta gloire et la mienne.</l>
+<l>Mais, dans ta vie, ami, noble ou bohémienne,</l>
+<l>Que tu fasses danser le peuple des faubourgs</l>
+<l>Ou que devant les grands du monde et dans les cours</l>
+<l>Tu frémisses aux doigts des puissants virtuoses,</l>
+<l>Moi qui, naïvement, crois à l’esprit des choses,</l>
+<l>En te disant adieu je viens te supplier,</l>
+<l>Noble et cher instrument, de ne pas oublier</l>
+<l>Celui qui t’a donné tes beaux accents de flamme</l>
+<l>Et le pauvre bossu qui t’a soufflé son âme !</l>
+<pstage>Il remet le violon dans son étui.</pstage>
+<l>Mais quel enfant je suis ! Et puis, non, je me mens</l>
+<l>A moi-même et j’étouffe en vain mes sentiments.</l>
+<pagenum num="73"/>
+<l>Pauvre fou ! Ce n’est pas seulement pour la gloire</l>
+<l>Que j’ai voulu sur tous gagner cette victoire</l>
+<l>Et que sur ce travail mon effort s’obstina ;</l>
+<l>C’est pour elle, la douce et belle Giannina !</l>
+<l>Car seule elle eut pitié de ma peine en ce monde,</l>
+<l>Et lorsque mon enfance errante et vagabonde</l>
+<l>S’arrêta sur le seuil de maître Ferrari,</l>
+<l>Si bonne en m’accueillant, seule, elle n’a pas ri.</l>
+<l>Non, ce muet amour de son ami d’enfance,</l>
+<l>Giannina ne peut pas le prendre pour offense,</l>
+<l>Ni m’en vouloir du grand désir que j’ai formé</l>
+<l>D’être assez glorieux un jour pour être aimé.</l>
+<l>Oh ! certes, si j’obtiens le succès que j’espère,</l>
+<l>Je ne m’armerai pas du serment de son père...</l>
+<l>Mais peut-être... qui sait ?... son cœur est libre encor.</l>
+<l>Quand je lui donnerai la belle chaîne d’or,</l>
+<l>Quand elle sentira que de ce corps si frêle</l>
+<l>La flamme du génie a pu jaillir pour elle,</l>
+<l>Elle est fille d’artiste, elle aura la grandeur,</l>
+<l>En songeant au talent, d’oublier la laideur,</l>
+<l>Et par tant de raisons son âme combattue</l>
+<l>Pourrait bien... Oh ! je fais un rêve qui me tue !</l>
+
+<pagenum num="74"/>
+
+<h2 id='p07'>SCÈNE VII</h2>
+<cast>FILIPPO, GIANNINA.</cast>
+
+<hstage><speaker>GIANNINA</speaker>, entrant.</hstage>
+<l>Il est seul... Ah ! je veux lui parler et savoir</l>
+<l>Si Sandro peut encor conserver quelque espoir.</l>
+<pstage>Haut.</pstage>
+<l>Filippo !</l>
+
+<hstage><speaker>FILIPPO</speaker>, sortant de sa rêverie.</hstage>
+<l cont='true'>Dieu ! c’est elle !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Il faut que je vous gronde,</l>
+<l>Car seule j’ignorais ce que sait tout le monde,</l>
+<l>Et ce n’est pas par vous que je l’ai même appris.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Quoi donc ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Que vous allez concourir pour le prix.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>A vous il eût fallu d’abord que je l’apprisse,</l>
+<l>C’est vrai. Mais quand j’ai su le singulier caprice</l>
+<pagenum num="75"/>
+<l>Du maître et le serment qu’il avait prononcé,</l>
+<l>Pardon, signorina ! mais je n’ai plus osé.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Oui ! mais laissons cela. Mon vieux père qui m’aime</l>
+<l>Ne voudra pas ainsi disposer de moi-même</l>
+<l>Ni charger le hasard du soin de mon bonheur.</l>
+<l>Quant à la chaîne d’or, quant au brevet d’honneur,</l>
+<l>C’est différent, chacun a le droit d’y prétendre,</l>
+<l>Et vous surtout, d’après ce que je viens d’apprendre.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Mais vous avez construit un instrument</l>
+<l>Qui, dit-on, doit avoir le prix, certainement.</l>
+<l>Un chef-d’œuvre...</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>J’ai fait de mon mieux, je l’avoue</l>
+<l>Mais que dans le concours je triomphe ou j’échoue,</l>
+<l>Qui donc, signorina, s’en préoccuperait ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Qui ?... Mais bien des amis vous portent intérêt,</l>
+<l>Vous l’ont même prouvé.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Pardon ! je suis stupide.</l>
+<pagenum num="76"/>
+<l>On paraît méfiant quand on n’est que timide,</l>
+<l>Et de tous mes secrets je vous dois la moitié.</l>
+<l>Quand j’avais du chagrin, vous avez eu pitié ;</l>
+<l>Vous vous réjouirez d’un bonheur, s’il m’arrive.</l>
+<l>Mais je suis devenu comme la sensitive,</l>
+<l>Et quand on vient vers moi, d’un geste machinal</l>
+<l>Je recule et je crois qu’on veut me faire mal.</l>
+<l>Pardonnez !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>S’il en est ainsi, je me retire.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Non ! par grâce, restez ! Non ! je veux tout vous dire,</l>
+<l>Car j’étais un ingrat et je vous offensais :</l>
+<l>Sachez-le donc, je suis presque sûr du succès.</l>
+<l>Je juge mon travail sans aucune indulgence,</l>
+<l>Est-ce talent ou bien seulement bonne chance ?</l>
+<l>Je l’ignore, mais j’ai tout à fait réussi.</l>
+<pstage>Montrant son violon.</pstage>
+<l>Lorsque j’ai commencé mon œuvre que voici,</l>
+<l>J’ai bien construit, avec tout le soin désirable,</l>
+<l>La boite en vieux sapin et le manche en érable,</l>
+<l>Bref, j’ai fait de mon mieux... mais cela n’était rien ;</l>
+<l>Les autres violons peuvent être aussi bien...</l>
+<l>Non, voyez-vous ! mon coup de maître, ma merveille,</l>
+<pagenum num="77"/>
+<l>C’est que j’ai retrouvé, dans une heure de veille,</l>
+<l>Le vernis d’autrefois, le secret envolé...</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Quoi ! le fameux vernis des vieux maîtres ?...</l>
+
+<hstage><speaker>FILIPPO</speaker>, s’animant.</hstage>
+<l cont='true'>Je l’ai.</l>
+<l>Et je veux dès demain, en généreux émule,</l>
+<l>A tous mes concurrents en donner la formule.</l>
+<l>Allez ! j’ai comparé mon œuvre d’apprenti</l>
+<l>Avec un violon de l’illustre Amati ;</l>
+<l>C’était le même son. Cela tient du prodige !</l>
+<l>Juste le même son, oui, le même, vous dis-je !</l>
+<l>J’en suis sûr, et, pareil aux maîtres d’autrefois,</l>
+<l>Je fais jaillir de ces quatre planches de bois</l>
+<l>Une note profonde, immense, magistrale</l>
+<l>Et sonore à remplir toute une cathédrale.</l>
+
+<hstage><speaker>GIANNINA</speaker>, à part.</hstage>
+<l>Hélas ! pauvre Sandro !</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Depuis ce jour heureux,</l>
+<l>Je cache mon bonheur ainsi qu’un amoureux.</l>
+<l>Que j’aie ou non le prix, puisque mon œuvre est faite,</l>
+<pagenum num="78"/>
+<l>Que m’importe à présent ? ma vie est une fête.</l>
+<l>Je jouis, en avare et seul, de mon trésor.</l>
+<l>Tous les matins, avant qu’il fasse jour encor,</l>
+<l>Je traverse Crémone endormie et je gagne</l>
+<l>Un endroit que je sais, là-bas, dans la campagne,</l>
+<l>Avec mon violon caché sous mon manteau.</l>
+<l>Là, je m’assieds, tout seul, au versant d’un coteau,</l>
+<l>Dans le gazon trempé de rosée, et je rêve</l>
+<l>Jusqu’à l’heure sublime où le soleil se love.</l>
+<l>Enfin, quand l’horizon s’emplit de diamants,</l>
+<l>Lorsque s’annonce, avec de longs frémissements,</l>
+<l>Autour de moi le grand réveil de la nature,</l>
+<l>Lorsque l’herbe frissonne et que le bois murmure,</l>
+<l>Et que des buissons verts par la nuit rajeunis</l>
+<l>S’échappe le concert éblouissant des nids,</l>
+<l>Je prends mon violon, joyeux, et j’improvise !</l>
+<l>Ah ! voyez-vous, c’est là la récompense exquise !</l>
+<l>Et j’accompagne alors d’un archet triomphant</l>
+<l>Tous ces bruits glorieux dans le soleil levant,</l>
+<l>Ces longs soupirs du vent à travers la feuillée</l>
+<l>Et ces gazouillements de volière éveillée.</l>
+<l>Je joue avec ivresse, et l’instrument vainqueur</l>
+<l>Que je sens tressaillir là, tout près de mon cœur,</l>
+<l>Mêle à ces chants d’aurore où mon âme se noie</l>
+<l>Un hymne merveilleux de jeunesse et de joie !</l>
+
+<pagenum num="79"/>
+
+<hstage><speaker>GIANNINA</speaker>, à part.</hstage>
+<l>Pauvre, pauvre Sandro !</l>
+<pstage>Haut.</pstage>
+<l cont='true'>C’est si beau que cela ?</l>
+
+<hstage><speaker>FILIPPO</speaker>, mettant son violon à l’épaule.</hstage>
+<l>Écoutez seulement comme il donne le la.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Oh ! jouez donc un air ! Je voudrais mieux l’entendre,</l>
+
+<hstage><speaker>FILIPPO</speaker>, à part.</hstage>
+<l>En me priant ainsi, sa voix est presque tendre.</l>
+<l>Mon Dieu ! pour mon succès ferait-elle des vœux ?</l>
+<pstage>Haut.</pstage>
+<l>Vraiment, signorina, vous voulez ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Oui, je veux.</l>
+<pstage>A part.</pstage>
+<l>C’est l’unique moyen de savoir s’il se flatte</l>
+<l>Ou s’il dit vrai.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Je prends, s’il vous plaît, la sonate</l>
+<l>En sol, de Corelli ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Tout ce que vous voudrez.</l>
+
+<pagenum num="80"/>
+
+<hstage><speaker>FILIPPO</speaker>, derrière le pupitre.</hstage>
+<l>Écoutez bien cela.</l>
+
+<pstage>Scène muette. Filippo exécute les premières mesures d’un thème majestueux et grave sur son violon, qui est d’une sonorité merveilleuse. Le visage de Giannina, qui l’écoute attentivement, ne tarde pas à exprimer une admiration douloureuse ; puis elle laisse tomber sa tête dans ses mains et fond en larmes. Filippo s’en aperçoit enfin et s’écrie :</pstage>
+
+<l cont='true'>Que vois-je ? vous pleurez !</l>
+<l>Ainsi je fais pleurer, moi qui faisais tant rire !</l>
+<l>N’est-ce pas qu’on dirait une voix qui soupire ?</l>
+<l>Et n’est-ce pas que l’art est consolant et beau,</l>
+<l>Puisque ce malheureux bossu, ce Filippo</l>
+<l>Qu’ils accablaient tantôt de rires et de pierres,</l>
+<l>A pu faire germer des pleurs sous vos paupières ?</l>
+<l>Oh ! non, je ne suis plus le paria d’hier,</l>
+<l>J’ai le droit de lever la tête et d’être fier :</l>
+<l>Je vous ai fait pleurer ! mais ceci me dispense,</l>
+<l>Giannina, d’autre gloire et d’autre récompense,</l>
+<l>Et nul prix ne serait pour moi plus précieux</l>
+<l>Que les chers diamants qui tombent de vos yeux !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Arrêtez... Je ne puis vous tromper davantage.</l>
+<l>Je comprends votre orgueil d’artiste et le partage</l>
+<l>Comme j’ai partagé naguère vos douleurs ;</l>
+<l>Mais ce n’est pas cela qui fait couler mes pleurs.</l>
+
+<pagenum num="81"/>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Et qu’est-ce donc ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Je vais vous faire de la peine ;</l>
+<l>Mais vous aurez pitié de moi, j’en suis certaine,</l>
+<l>Quand je vous aurai dit, mon bon, mon vieil ami,</l>
+<l>Que j’avais un amour dans le cœur, que parmi</l>
+<l>Les rivaux je rêvais le succès pour un autre...</l>
+<l>Et que tout mon bonheur est détruit par le vôtre.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Ah !</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>C’est qu’il ne faut pas en être trop fâché,</l>
+<l>Voyons !... j’ignorais tout, vous m’aviez tout caché.</l>
+<l>Je vous croyais encore un ouvrier novice ;</l>
+<l>C’était tout naturel, après tout, que je fisse</l>
+<l>Des souhaits de bonheur pour l’homme que j’aimais.</l>
+<l>Si j’avais su la chose, ah ! je vous le promets,</l>
+<l>Je ne me serais pas sans effort décidée</l>
+<l>Entre vous deux ; j’aurais accepté cette idée</l>
+<l>Que vous pouviez avoir plus de talent que lui...</l>
+<l>Enfin, je n’aurais pas pleuré comme aujourd’hui.</l>
+
+<hstage><speaker>FILIPPO</speaker>, désignant la porte par où est sorti Sandro.</hstage>
+<l>Vous aimez ?</l>
+
+<pagenum num="82"/>
+
+<hstage><speaker>GIANNINA</speaker>, à voix basse</hstage>
+<l cont='true'>Oui !</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Sandro ?</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Voyez ! je vous confie</l>
+<l>Sans hésitation le secret de ma vie...</l>
+<l>Il nourrissait aussi l’espoir de réussir,</l>
+<l>Et c’était, j’en conviens, mon plus ardent désir ;</l>
+<l>Mais maintenant, après ce que je viens d’entendre,</l>
+<l>Je vois bien qu’à ce prix il ne doit plus prétendre,</l>
+<l>A ce prix qui servait notre amour mutuel.</l>
+<l>Perdre un si cher espoir, n’est-ce pas ? c’est cruel.</l>
+<l>Oh ! mon chagrin n’a pas d’amertume ; au contraire,</l>
+<l>Car c’est mon compagnon d’enfance, c’est mon frère</l>
+<l>Qui doit avoir ce prix et qui l’a mérité...</l>
+<l>Mais c’est plus fort que moi... Pardon !...</l>
+
+<pstage>Elle pleure abondamment.</pstage>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>En vérité,</l>
+<l>Je souffre autant que vous, et je vous en supplie...</l>
+
+<hstage><speaker>GIANNINA</speaker>, avec un effort.</hstage>
+<l>Oh ! oui, c’est mal, je suis bien injuste... j’oublie</l>
+<l>Votre infortune, à vous, et je ne songe pas</l>
+<pagenum num="83"/>
+<l>Que, malade et chétif, vous n’avez ici-bas,</l>
+<l>Pauvre ami, que votre art, qui du moins vous console.</l>
+<l>C’est fini. Je n’ai plus de chagrin. J’étais folle.</l>
+<l>C’est bien ainsi : l’amour à lui, la gloire à vous.</l>
+<l>Mon cher Sandro sera quand même mon époux ;</l>
+<l>Et vous êtes un grand artiste que j’admire,</l>
+<l>Et je vous aime bien, et je veux vous sourire.</l>
+<pstage>Elle lui prend les mains.</pstage>
+<l>Et je ne pleure plus... je le veux, je le doi...</l>
+<l>Vous voyez, je souris...</l>
+<pstage>Éclatant en sanglots.</pstage>
+<l cont='true'>Mais c’est plus fort que moi !</l>
+<pstage>Elle sort.</pstage>
+
+<h2 id='p08'>SCÈNE VIII</h2>
+<cast>FILIPPO, seul, après un instant de méditation douloureuse.</cast>
+
+<l>Eh bien, quoi ? Tout est dit... c’est un autre qu’elle aime</l>
+<l>Et voilà d’un seul mot résolu le problème</l>
+<l>De mon bonheur... Un autre !... Oui, ce jeune ouvrier...</l>
+<l>Pourquoi pas, après tout ? Vas-tu te récrier,</l>
+<l>L’accuser d’injustice et t’indigner contre elle ?</l>
+<l>Mais, malheureux, la chose est toute naturelle.</l>
+<l>A son âge, un amant, comment le rêve-t-on ?</l>
+<l>Pareil à ce jeune homme ; et toi, triste avorton,</l>
+<pagenum num="84"/>
+<l>Qui fais sur ton chemin rire la populace,</l>
+<l>Tu ne t’es donc jamais regardé dans la glace ?</l>
+<l>Et je n’ai rien vu, rien ! Aveugle ! Aveugle et fou !</l>
+<l>Allons ! va te cacher, bossu, dans quelque trou !</l>
+<l>Elle aime ce Sandro ! Qu’ils soient heureux ensemble !</l>
+<l>Toi, va-t-en, souffre et meurs ! Oh ! quel vide ! Il me semble</l>
+<l>Que quelque chose en moi s’est éteint pour toujours.</l>
+<l>A quoi bon, maintenant, prendre part au concours ?</l>
+<l>A quoi bon, maintenant, ce triomphe illusoire ?</l>
+<l>Qu’en ferais-tu, rêveur, qui ne voulais la gloire,</l>
+<l>Hélas ! que pour lui plaire et t’en voir admirer,</l>
+<l>Et qui n’as réussi qu’à la faire pleurer ?</l>
+<l>Je ne concourrai pas. — Ce Sandro, dans la ville,</l>
+<l>Est, je pense, après moi, l’homme le plus habile.</l>
+<l>Qu’il ait le prix, afin qu’elle ne pleure plus !</l>
+<pstage>Prenant son violon.</pstage>
+<l>Et toi pour qui j’ai fait tant d’efforts superflus,</l>
+<l>Inutile travail qu’à présent je méprise,</l>
+<l>Ainsi que mon espoir, il faut que je te brise.</l>
+<pstage>S’arrêtant.</pstage>
+<l>Mais quelle idée !... Oh ! Dieu ! comme mon cœur est pris !</l>
+<l>Si quelque autre ouvrier allait avoir le prix ?</l>
+<l>S’il l’épousait ?... C’est trop l’aimer ! C’est ridicule !...</l>
+<l>Non ! c’est le dévouement qui s’offre, et je recule !</l>
+<l>Car ces deux instruments sont tout pareils ; je puis</l>
+<pagenum num="85"/>
+<l>Renoncer à mon œuvre en les changeant d’étuis.</l>
+<l>Ce Sandro n’a pas l’âme assez musicienne</l>
+<l>Pour distinguer d’abord mon œuvre de la sienne,</l>
+<l>Lorsque l’on essaiera les instruments là-bas...</l>
+<l>Je lui dirai plus tard... On ne rouvrira pas</l>
+<l>Ces boîtes : on les porte au jury tout à l’heure...</l>
+<l>Tant pis ! Je ne veux plus que la pauvre enfant pleure ;</l>
+<l>Et toi, mon violon, tu ne dois plus périr,</l>
+<l>Puisque tu peux encor l’empêcher de souffrir !</l>
+<l>Courage ! Rendons-lui ce suprême service.</l>
+<pstage>Il ouvre les deux étuis, met le violon de Sandro dans l’étui rouge ; puis, au moment de déposer le sien dans l’étui noir :</pstage>
+<l>C’est pourtant un cruel et rude sacrifice !</l>
+<l>Je n’aurais cru jamais — ô faibles cœurs humains —</l>
+<l>Qu’on pût tenir autant au travail de ses mains,</l>
+<l>Et que l’âme de feu d’un artiste eût en elle</l>
+<l>Ce foyer de tendresse émue et paternelle.</l>
+<l>Je t’aimais bien, ô cher ouvrage que je fis !</l>
+<l>Adieu donc pour toujours, mon chef-d’œuvre, mon fils !</l>
+<l>Je puis me pardonner ma faiblesse dernière,</l>
+<l>Car dans ce coffre étroit et noir comme une bière,</l>
+<l>Je crois, en te posant, tant j’ai le cœur en deuil !</l>
+<l>Que c’est mon enfant mort que je couche au cercueil.</l>
+<l>Il referme brusquement l’étui ; puis, d’une voix sourde :</l>
+<l>C’est fait !</l>
+
+<pagenum num="86"/>
+
+<h2 id='p09'>SCÈNE IX</h2>
+<cast>FILIPPO, MAITRE FERRARI, SANDRO.</cast>
+
+<hstage><speaker>MAITRE FERRARI</speaker>, entrant au fond.</hstage>
+<l cont='true'>Allons ! Sandro... Filippo... l’heure approche,</l>
+<l>Et vous n’êtes pas prêts encor !... Quadruple croche !</l>
+
+<hstage><speaker>SANDRO</speaker>, entrant à droite.</hstage>
+<l>Si fait, patron !</l>
+
+<hstage><speaker>FILIPPO</speaker>, désignant les deux étuis.</hstage>
+<l cont='true'>Voici nos envois préparés.</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>J’espère, mes enfants, que vous triompherez,</l>
+<l>L’un ou l’autre. Je suis un maître, et les profanes</l>
+<l>Peuvent sur leurs crincrins user des colophanes !...</l>
+<l>Le prix sera pour nous. — Je viens de faire un tour</l>
+<l>Dans la ville, et partout s’annonce le grand jour.</l>
+<l>Les gens endimanchés vont voir en ribambelle</l>
+<l>S’assembler le jury ; le maître de chapelle</l>
+<l>Déjà siège au fauteuil, et son noble profil</l>
+<l>Se voit de loin, poudré comme un pommier d’avril.</l>
+<l>Il circule dans l’air un souffle mélodique ;</l>
+<l>Dans la rue, on respire, on sent de la musique.</l>
+<pagenum num="87"/>
+<l>Par la flûte d’Euterpe et le luth d’Apollon !</l>
+<l>A chaque carrefour s’accorde un violon.</l>
+<l>Dans tous les pignons noirs, dans toutes les tourelles,</l>
+<l>On entend doucement gémir les chanterelles ;</l>
+<l>Et Crémone, où grandit un confus crescendo,</l>
+<l>Semble un orchestre avant le lever du rideau !</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Ainsi, maître, il est temps de partir ?</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>Certe, en route !</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Me suis-tu, Filippo ?</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Non, camarade. Écoute...</l>
+<l>Partout où je me montre, on se moque de moi,</l>
+<l>Et tu m’obligerais d’emporter mon envoi</l>
+<l>Avec le tien. Agis en loyal adversaire,</l>
+<l>Car tantôt, n’est-ce pas ? tu n’étais pas sincère.</l>
+<l>D’ailleurs, l’hôtel de ville est à deux pas d’ici.</l>
+<pstage>Sandro prend, en détournant la tête, la main que lui tend Filippo.</pstage>
+<l>Allons ! Sandro, rends-moi ce service !</l>
+
+<pagenum num="88"/>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Oui.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Merci !</l>
+
+<pstage>Sandro sort, emportant les deux violons dans leurs étuis.</pstage>
+
+<h2 id='p10'>SCÈNE X</h2>
+<cast>FILIPPO, MAITRE FERRARI.</cast>
+
+<hstage><speaker>FILIPPO</speaker>, à part.</hstage>
+<l>Le sacrifice est fait. Ah ! qu’il faut de courage !...</l>
+<pstage>Haut, à maître Ferrari.</pstage>
+<l>Vous n’allez donc pas voir couronner son ouvrage ?</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>Si, je pars. Mais Sandro n’a pas le prix encor,</l>
+<l>Et toi-même, tu peux gagner la chaîne d’or.</l>
+<l>As-tu moins de talent et moins d’intelligence</l>
+<l>Que lui ?...</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Non, vous savez, moi, je n’ai pas de chance.</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>Tu doutes trop de toi, sans te le reprocher.</l>
+<l>Pour n’être pas, sans doute, aussi droit qu’un clocher,</l>
+<pagenum num="89"/>
+<l>Tu n’es pas un moins bon luthier, et, par la messe !</l>
+<l>Si le prix est pour toi, je tiendrai ma promesse,</l>
+<l>Et je te choisirai pour gendre et successeur.</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Maître !...</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>Laisse-moi donc, je suis fin connaisseur,</l>
+<l>Et tu ferais, je crois, un homme de ménage.</l>
+<l>Tiens ! lorsque j’ai pris femme, ayant deux fois ton âge,</l>
+<l>Et qu’en cet atelier je me suis établi,</l>
+<l>Vraiment, je n’étais pas non plus joli, joli...</l>
+<l>Pas mal, mais comme on dit, la beauté chiffonnée.</l>
+<l>Ma femme — elle touchait à sa vingtième année —</l>
+<l>Était assez coquette, et c’était dangereux.</l>
+<l>Bien des jeunes seigneurs s’en montraient amoureux ;</l>
+<l>Ils poussaient par ici toutes leurs promenades</l>
+<l>Et, le soir, lui venaient donner des sérénades.</l>
+<l>Mais admire à présent à quel point le hasard</l>
+<l>Sauvegarde l’honneur des hommes de notre art :</l>
+<l>A tous ces beaux messieurs aux manières câlines</l>
+<l>Je vendais dans le jour de bonnes mandolines,</l>
+<l>Et la nuit, bien couché, je devinais, au son</l>
+<l>De l’instrument, celui qui donnait la chanson ;</l>
+<l>De sorte que, paisible et sans peine importune,</l>
+<pagenum num="90"/>
+<l>J’ai surveillé ma femme et j’ai fait ma fortune.</l>
+<l>Mais, diable ! il ne faut pas oublier le concours !...</l>
+<l>Ma canne !... je dois être en retard, et j’y cours.</l>
+<pstage>Il sort à droite.</pstage>
+
+<h2 id='p11'>SCÈNE XI</h2>
+<cast>FILIPPO, puis GIANNINA.</cast>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Il me tarde déjà que tout se réalise.</l>
+<pstage>Apercevant Giannina qui entre au fond, portant une mantille et tenant à la main un livre de prières.</pstage>
+<l>Elle !... Encor !...</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l cont='true'>Filippo, je reviens de l’église.</l>
+<l>J’allais — pardon, j’ai tant de chagrin dans le cœur</l>
+<l>Prier pour que Sandro, malgré tout, fut vainqueur ;</l>
+<l>Mais, en m’agenouillant devant sainte Cécile,</l>
+<l>Voyez-vous ! j’ai senti comme il est difficile</l>
+<l>De demander jamais rien d’injuste au bon Dieu.</l>
+<l>Et quoi qu’il arrivât, mon ami, j’ai fait vœu</l>
+<l>Pour vous et pour toujours de demeurer la même.</l>
+<l>Au revoir !... A bientôt !...</l>
+<pstage>Elle traverse la scène et sort à droite.</pstage>
+
+<pagenum num="91"/>
+
+<h2 id='p12'>SCÈNE XII</h2>
+<cast>FILIPPO, seul.</cast>
+
+<l cont='true'>Hélas ! comme elle l’aime !</l>
+<l>Et si j’avais été tel que lui, fort et beau,</l>
+<l>Comme elle m’eût aimé !</l>
+
+<h2 id='p13'>SCÈNE XIII</h2>
+<cast>FILIPPO, SANDRO.</cast>
+
+<hstage><speaker>SANDRO</speaker>, entrant précipitamment par le fond, dans le plus grand trouble.</hstage>
+<l cont='true'>Filippo ! Filippo !</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Quoi ! des pleurs dans tes yeux ! ta figure blêmie !</l>
+<l>Que t’arrive-t-il donc ?</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>J’ai fait une infamie,</l>
+<l>Je suis un scélérat... Pardon !... Pardon !... Pardon !</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Qui ? Moi, te pardonner, mon ami ? Eh quoi donc ?</l>
+
+<pagenum num="92"/>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Vois-tu ! je l’aimais trop... j’avais l’âme obsédée !...</l>
+<l>Et je ne pouvais pas me faire à cette idée</l>
+<l>Qu’un rival, quel qu’il fût, pût me vaincre à ses yeux.</l>
+<l>Je suis un misérable, un lâche, un envieux...</l>
+<l>Lorsque j’eus ton chef-d’œuvre en mes mains, — c’est infâme !</l>
+<l>Mais la tentation se glissa dans mon âme ;</l>
+<l>J’avais le cœur perdu de rage et de douleur,</l>
+<l>J’ai cédé !... Près d’ici, tremblant comme un voleur,</l>
+<l>Sous l’ombre d’un portail des ruelles étroites,</l>
+<l>Filippo, j’ai changé nos violons de boîtes !</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Toi ?</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l cont='true'>Je les ai portés devant les juges, puis,</l>
+<l>Au moment où l’expert ouvrait les deux étuis,</l>
+<l>Ah ! je n’ai pas pu voir cela... j’ai pris la fuite.</l>
+<l>Venge-toi ! Devant tous dévoile ma conduite !</l>
+<l>Mais qu’elle n’en soit pas, par pitié, le témoin !</l>
+<l>Je t’écrirai l’aveu du crime, et puis, bien loin,</l>
+<l>Je m’en irai mourir, car la honte est mortelle...</l>
+<l>Mais ne m’oblige pas à rougir devant elle !</l>
+<pstage>Il tombe à genoux.</pstage>
+
+<pagenum num="93"/>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Non, Sandro, je n’ai pas besoin de me venger :</l>
+<l>Ton propre châtiment, tu viens de t’en charger.</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Que dis-tu ?</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Cette gloire, à mon chef-d’œuvre due,</l>
+<l>Je te l’avais cédée, et tu me l’as rendue.</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Ces instruments, que ta main échangea,</l>
+<l>Moi-même je les ai changés d’étuis déjà.</l>
+
+<hstage><speaker>SANDRO</speaker>.</hstage>
+<l>Qu’entends-je ! mon remords n’ose comprendre encore !</l>
+<l>Pourquoi l’avais-tu fait ?</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Parce que je l’adore,</l>
+<l>Et parce que c’est toi que l’enfant préférait ;</l>
+<l>Et si j’ai le cœur plein d’un douloureux regret,</l>
+<l>Si de ton action je te cherche querelle,</l>
+<l>C’est qu’elle anéantit ce que j’ai fait pour elle.</l>
+
+<pagenum num="94"/>
+
+<hstage><speaker>SANDRO</speaker>, se relevant,</hstage>
+<l>Non, j’ai commis un crime, et je m’en veux punir.</l>
+<l>Dis un mot, et je pars pour ne plus revenir.</l>
+<l>Si Giannina m’oublie... eh bien ! je me résigne...</l>
+<l>Tu t’en feras aimer, car toi seul en es digne...</l>
+<l>Je pars... je dois partir...</l>
+<pstage>Tumulte au dehors.</pstage>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Non. Reste. Obéis-moi !</l>
+
+<h2 id='p14'>SCÈNE XIV</h2>
+<cast>TOUS.</cast>
+
+<pstage>Maître Ferrari entre au fond et lève les bras au ciel en apercevant Filippo. Il est suivi de toute la corporation des luthiers et de deux pages aux couleurs de la ville, portant, l’un la chaîne d’or du podestat sur un coussin, l’autre le violon de Filippo orné de rubans et de fleurs. — Giannina paraît sur le seuil de la porte de droite.</pstage>
+<l>Vivat !</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>, à Filippo.</hstage>
+<l cont='true'>Viens dans mes bras ! Je te proclame roi</l>
+<l>Du métier, lauréat et maître ès lutherie ;</l>
+<l>Et sur-le-champ, devant toute la confrérie,</l>
+<l>Je vais d’abord tenir ma promesse au vainqueur.</l>
+<pagenum num="95"/>
+<l>Donc, mon associé, mon gendre, sur mon cœur !...</l>
+<l>Mais avant tout... voilà que je me le rappelle...</l>
+<pstage>Prenant la chaîne, et s’avançant vers Filippo.</pstage>
+<l>La chaîne d’or...</l>
+
+<hstage><speaker>FILIPPO</speaker>, la lui prenant des mains et allant la mettre au cou de Giannina.</hstage>
+<l cont='true'>Je l’offre à Giannina la belle,</l>
+<l>En la priant d’en faire un bijou favori</l>
+<l>Quand mon ami Sandro deviendra son mari.</l>
+
+<hstage><speaker>GIANNINA</speaker>.</hstage>
+<l>Bon Filippo !</l>
+
+<hstage><speaker>SANDRO</speaker>, à voix basse, à Filippo.</hstage>
+<l cont='true'>Mon noble ami, mon frère !</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>Halte !</l>
+<l>Tu n’as point fait tes vœux de chevalier de Malte,</l>
+<l>Et tu peux l’épouser...</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l cont='true'>Non, mon bon maître, non !</l>
+<l>Je veux aller au loin porter votre renom,</l>
+<l>Et dès demain je pars pour mon tour d’Italie.</l>
+<l>Voyez-vous ! j’avais fait un rêve... une folie !...</l>
+<l>Et ce qui pouvait être, enfin, n’a pas été.</l>
+<l>Oui, je pars, trop heureux si je suis regretté</l>
+<l>Et suivi du regard comme les hirondelles...</l>
+<pagenum num="96"/>
+<l>Je ne demande pas de souvenirs fidèles,</l>
+<l>Seulement un regret !... c’est plus que je ne vaux.</l>
+<pstage>Attirant vers lui Sandro et Giannina.</pstage>
+<l>Et lorsque l’atelier reprendra ses travaux</l>
+<l>Et qu’à notre établi, près de ta bien-aimée,</l>
+<l>Compagnon, tu feras ta tâche accoutumée,</l>
+<l>Si quelque corde, ainsi qu’il arrive parfois,</l>
+<l>Avec un son plaintif se brise entre tes doigts,</l>
+<l>Songez tous deux, songez qu’en cet adieu suprême</l>
+<l>Je sens mon pauvre cœur qui se brise de même !...</l>
+<l>Je sais, mes bons amis, que vous n’y pouvez rien...</l>
+<l>Mais n’oubliez jamais que je vous aimais bien !</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l>Ingrat ! mais tu veux donc que ma maison périsse ?</l>
+
+<hstage><speaker>FILIPPO</speaker>.</hstage>
+<l>Je vous laisse Sandro.</l>
+
+<hstage><speaker>MAITRE FERRARI</speaker>.</hstage>
+<l cont='true'>Quel étrange caprice !</l>
+<l>Tu plantes là bonheur, fortune, et cætera...</l>
+<l>Que gardes-tu ?</l>
+
+<hstage><speaker>FILIPPO</speaker>, saisissant son violon.</hstage>
+<l cont='true'>Ceci.</l>
+<pstage>A part.</pstage>
+<l cont='true'>qui me consolera.</l>
+
+ </page-sequence>
+ </page-sequences>
+</bml>
