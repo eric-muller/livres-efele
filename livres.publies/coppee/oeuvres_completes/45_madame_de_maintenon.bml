@@ -1,0 +1,4872 @@
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb30267616p">
+
+      <titre>Œuvres complètes de François Coppée</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11897612w">
+        <nom-bibliographie>Coppée, François</nom-bibliographie>
+        <dates>1842-1908</dates>
+        <nom-couverture>François Coppée</nom-couverture>
+      </auteur>
+      
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488218gg" role="ill">
+        <nom-bibliographie>Flameng, François</nom-bibliographie>
+        <dates>1856-1923</dates>
+        <nom-couverture>François Flameng</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488219t" role="ill">
+        <nom-bibliographie>Tofani, Oswaldo</nom-bibliographie>
+        <dates>1849-1915</dates>
+        <nom-couverture>Oswaldo Tofani</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb14967570r" role="ill">
+        <nom-bibliographie>Dawant, Albert Pierre</nom-bibliographie>
+        <dates>1852-1923</dates>
+        <nom-couverture>Albert Dawant</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>L. Hébert</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <editeur>
+        <nom>A. Houssiaux</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1885</date>
+
+      <langue>fr</langue>
+    </monographie>
+    
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k408040c"
+                 pages="N6 1-52 A1 53-164 B1 165-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000611"
+        creation="2019-05-25T10:43:23-07:00">
+      
+      <titre>Madame de Maintenon</titre>
+
+      <collection id="c00018" volume="45">
+        <titre>Œuvres complètes de François Coppée, édition Lemerre</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+  
+  <toc>
+    <tocentry idref='personnages' label='Personnages'/>
+    <tocentry idref='p01' label='Prologue'>
+      <tocentry idref='p02' label='Scène première'/>
+      <tocentry idref='p03' label='Scène II'/>
+      <tocentry idref='p04' label='Scène III'/>
+      <tocentry idref='p05' label='Scène IV'/>
+      <tocentry idref='p06' label='Scène V'/>
+    </tocentry>
+    <tocentry idref='p07' label='Acte premier'>
+      <tocentry idref='p08' label='Scène première'/>
+      <tocentry idref='p09' label='Scène II'/>
+      <tocentry idref='p10' label='Scène III'/>
+      <tocentry idref='p11' label='Scène IV'/>
+      <tocentry idref='p12' label='Scène V'/>
+      <tocentry idref='p13' label='Scène VI'/>
+      <tocentry idref='p14' label='Scène VII'/>
+    </tocentry>
+    <tocentry idref='p15' label='Acte deuxième'>
+      <tocentry idref='p18' label='Scène première'/>
+      <tocentry idref='p19' label='Scène II'/>
+      <tocentry idref='p20' label='Scène III'/>
+      <tocentry idref='p21' label='Scène IV'/>
+      <tocentry idref='p22' label='Scène V'/>
+      <tocentry idref='p23' label='Scène VI'/>
+    </tocentry>
+    <tocentry idref='p24' label='Acte troisième'>
+      <tocentry idref='p25' label='Scène première'/>
+      <tocentry idref='p26' label='Scène II'/>
+      <tocentry idref='p27' label='Scène III'/>
+      <tocentry idref='p28' label='Scène IV'/>
+      <tocentry idref='p29' label='Scène V'/>
+      <tocentry idref='p30' label='Scène VI'/>
+      <tocentry idref='p31' label='Scène VII'/>
+      <tocentry idref='p32' label='Scène VIII'/>
+      <tocentry idref='p33' label='Scène IX'/>
+      <tocentry idref='p34' label='Scène X'/>
+      <tocentry idref='p35' label='Scène XI'/>
+    </tocentry>
+    <tocentry idref='p36' label='Acte quatrième'>
+      <tocentry idref='p37' label='Scène première'/>
+      <tocentry idref='p38' label='Scène II'/>
+      <tocentry idref='p39' label='Scène III'/>
+      <tocentry idref='p40' label='Scène IV'/>
+      <tocentry idref='p41' label='Scène V'/>
+      <tocentry idref='p42' label='Scène VI'/>
+    </tocentry>
+    <tocentry idref='p43' label='Acte cinquième'>
+      <tocentry idref='p44' label='Scène premiere'/>
+      <tocentry idref='p45' label='Scène II'/>
+      <tocentry idref='p46' label='Scène III'/>
+      <tocentry idref='p47' label='Scène IV'/>
+    </tocentry>
+  </toc>
+  
+  <cover src="images/couverture14.png" alt="Œuvres complètes de François Coppée de l’Académie française. Édition illustrée par François Flameng et Tofani. Gravure au burin par Boisson, Boutelié, Dubouchet, Lépold Frameng et Jules Jacquet. Théâtre — Tome I. Édition Lemerre. Paris. Librairie L. Hébert. Alexandre Houssieux et Cie, Successeurs. 7, rue Perronet, 7. 1892"/>
+
+ <page-sequences>
+ <page-sequence>
+<pagenum num="159"/>
+
+<h1>MADAME DE MAINTENON</h1>
+
+<h2><s>DRAME EN VERS, EN CINQ ACTES AVEC PROLOGUE</s></h2>
+
+<h2><s>REPRÉSENTÉ POUR LA PREMIÈRE FOIS AU THÉATRE NATIONAL DE L’ODÉON LE 12 AVRIL 1881</s></h2>
+
+<pagenum num="160"/>
+ </page-sequence>
+ <page-sequence>
+ <pagenum num="161"/>
+
+<h2>A M. CHARLES DE LA ROUNAT</h2>
+
+<h2><s>DIRECTEUR DE L’ODÉON</s></h2>
+
+<h2><s>CE DRAME EST DÉDIÉ COMME UN FAIBLE TÉMOIGNAGE DE MA SINCÈRE RECONNAISSANCE</s></h2>
+
+<p class='r3'>F. C.</p>
+
+<pagenum num="162"/>
+ </page-sequence>
+ <page-sequence id='personnages'>
+ <pagenum num="163"/>
+
+<h2>PERSONNAGES DU PROLOGUE</h2>
+
+<table>
+<tbody>
+<tr>
+<td>ANTOINE DE MÉRAN.</td>
+<td>MM.</td>
+<td>C<s>HELLES</s>.</td>
+</tr>
+<tr>
+<td>LE COMTE DE LUDE.</td>
+<td/>
+<td>A<s>MAURY</s>.</td>
+</tr>
+<tr>
+<td>M. DE LAVARDIN.</td>
+<td/>
+<td>E<s>SQUIER</s>.</td>
+</tr>
+<tr>
+<td>LE POÈTE FRANÇOIS COLLETET.</td>
+<td/>
+<td>C<s>LERH</s>.</td>
+</tr>
+<tr>
+<td>FRANÇOISE D’AUBIGNÉ, femme de SCARRON.</td>
+<td>M<sup>lle</sup></td>
+<td>A<s>NAÏS</s> F<s>ARGUEIL</s>.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>PERSONNAGES DE LA PIÈCE</h2>
+
+<table>
+<tbody>
+<tr>
+<td>LOUIS XIV.</td>
+<td>MM.</td>
+<td>L<s>ACRESSONNIÈRE</s>.</td>
+</tr>
+<tr>
+<td>SAMUEL DE MÉRAN.</td>
+<td/>
+<td>C<s>HELLES</s>.</td>
+</tr>
+<tr>
+<td>LOUVOIS.</td>
+<td/>
+<td>A<s>LBERT</s> L<s>AMBERT</s>.</td>
+</tr>
+<tr>
+<td>LE BARON DE CROIX SAINT-PAUL.</td>
+<td/>
+<td>P<s>AUL</s> M<s>OUNET</s>.</td>
+</tr>
+<tr>
+<td>L’ENVOYÉ DE GUILLAUME D’ORANGE.</td>
+<td/>
+<td>S<s>ICARD</s>.</td>
+</tr>
+<tr>
+<td>GRISARD, agent de L<s>OUVOIS</s>.</td>
+<td/>
+<td>F<s>RANÇOIS</s>.</td>
+</tr>
+<tr>
+<td>UN MINISTRE PROTESTANT.</td>
+<td/>
+<td>C<s>ORNAGLIA</s>.</td>
+</tr>
+<tr>
+<td>M. DE PONS.</td>
+<td/>
+<td>H<s>AUBERT</s>.</td>
+</tr>
+<tr>
+<td>M. DE TRACY.</td>
+<td/>
+<td>L<s>AFERTE</s>.</td>
+</tr>
+<tr>
+<td>LE MARÉCHAL.</td>
+<td/>
+<td>R<s>EBEL</s>.</td>
+</tr>
+<tr>
+<td>LE DUC.</td>
+<td/>
+<td>K<s>ÉRAVAL</s>.</td>
+</tr>
+<tr>
+<td>LE CHEVALIER.</td>
+<td/>
+<td>F<s>OUCAULT</s>.</td>
+</tr>
+<tr>
+<td>LE MARQUIS DE SEIGNELAY, fils de C<s>OLBERT</s>.</td>
+<td/>
+<td>C<s>OURDIER</s>.</td>
+</tr>
+<tr>
+<td>PIERRE PUGET.</td>
+<td/>
+<td>G<s>RENET</s>-D<s>ANCOURT</s>.</td>
+</tr>
+<tr>
+<td>UN MEMBRE DU SYNODE CALVINISTE.</td>
+<td/>
+<td>B<s>OUDIER</s>.</td>
+</tr>
+<tr>
+<td>UN GREFFIER.</td>
+<td/>
+<td>F<s>ARRE</s>.</td>
+</tr>
+<tr>
+<td>M<sup>me</sup> DE MAINTENON.</td>
+<td>M<sup>mes</sup></td>
+<td>A<s>NAÏS</s> F<s>ARGUEIL</s>.</td>
+</tr>
+<tr>
+<td>HENRIETTE D’AUBUSSON.</td>
+<td/>
+<td>M<s>ALVAU</s>.</td>
+</tr>
+<tr>
+<td>LA COMTESSE.</td>
+<td/>
+<td>A<s>LICE</s> C<s>HÊNE</s>.</td>
+</tr>
+<tr>
+<td>NANON.</td>
+<td/>
+<td>C<s>ROSNIER</s>.</td>
+</tr>
+</tbody>
+</table>
+
+<pagenum num="164"/>
+
+<vsep class="emptyline"/>
+
+<p>L<s>ES</s> M<s>ARQUIS DE</s> C<s>ROISSY ET DE</s> C<s>HATEAUNEUF</s>, secrétaires d’État, personnages muets.</p>
+
+<vsep class="emptyline"/>
+
+<p>S<s>EIGNEURS ET DAMES DE LA COUR</s>. — M<s>EMBRES DU SYNODE CALMNISTE</s>. — S<s>OLDATS</s>, G<s>EOLIER</s>, etc., etc.</p>
+
+<vsep class="emptyline"/>
+
+<p>N<s>OTA</s>. — <i>Les deux rôles d’Antoine de Méran dans le prologue, et de Samuel de Méran dans la pièce, doivent être représentés par le même comédien.</i></p>
+
+ </page-sequence>
+ <page-sequence>
+ <pagenum num="B1"/>
+
+<img class='fullpageimage' src='images/img15.png' alt=''/>
+
+ </page-sequence>
+ <page-sequence recto='true' id='p01'>
+ <pagenum num="165"/>
+
+<h1>PROLOGUE</h1>
+
+<h2><s>AOUT</s> 1660</h2>
+
+<pstage>Chez Scarron. — La chambre jaune où il recevait ses amis. Au fond, près d’une large fenêtre, ouverte sur un balcon praticable, le fauteuil vide où se tenait ordinairement le cul-de-jatte. — Portes à droite et à gauche.</pstage>
+
+<h2 id='p02'>SCÈNE PREMIÈRE</h2>
+<cast>LE COMTE DE LUDE, stupéfait devant le fauteuil vide ; UN PETIT LAQUAIS, puis M. DE LAVARDIN, puis FRANÇOIS COLLETET.</cast>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l>Scarron dehors ! Mais c’est incroyable, inouï !</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>, entrant, au comte de Lude.</hstage>
+<l>Bonjour, comte.</l>
+<pstage>Apercevant à son tour le fauteuil vide.</pstage>
+<l cont='true'>Comment ? Scarron n’est pas chez lui</l>
+
+<pagenum num="166"/>
+
+<hstage><speaker>FRANÇOIS COLLETET</speaker>, entrant.</hstage>
+<l>Victoire ! On a sifflé, l’autre jour, du Corneille.</l>
+<l>En étiez-vous ?</l>
+
+<hstage><speaker>M. DE LUDE</speaker>, lui cachant le fauteuil.</hstage>
+<l cont='true'>Poète, apprends une merveille.</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>Laquelle ?</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l cont='true'>Colletet, je vous le donne en cent,</l>
+<l>Je vous le donne en mille.</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l cont='true'>Eh ?</l>
+
+<hstage><speaker>M. DE LUDE</speaker>, montrant le fauteuil vide.</hstage>
+<l cont='true'>Scarron est absent.</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>Ah ! pour une merveille, en effet, c’en est une.</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l>J’y suis !... Le cul-de-jatte est en bonne fortune.</l>
+<pstage>Ils rient.</pstage>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>S’il vous entendait, comte, il serait indigné.</l>
+<l>Il aime, en bon mari, Françoise d’Aubigné.</l>
+
+<pagenum num="167"/>
+
+<hstage><speaker>M. DE LUDE</speaker>, au laquais.</hstage>
+<l>Ah ! petit, va chez elle et dis-lui que nous sommes</l>
+<l>A l’attendre, un poète avec deux gentilshommes.</l>
+<pstage>Le petit laquais s’incline et sort.</pstage>
+<l>Nous saurons bien par elle où Scarron s’est enfui.</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>, se jetant dans un fauteuil.</hstage>
+<l>Dites-nous, Colletet, quoi de neuf aujourd’hui ?</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>Peu de chose, sinon la chaleur étouffante,</l>
+<l>Et les Parisiens qui veulent voir l’Infante</l>
+<l>Qu’aujourd’hui notre Roi, vainqueur de ses rivaux,</l>
+<l>Ramène dans un grand carrosse à six chevaux.</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>.</hstage>
+<l>C’est vrai. Cela m’était sorti de la cervelle.</l>
+<l>Elle est belle, dit-on, cette Reine nouvelle ?</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l>La Reine l’est toujours.</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>.</hstage>
+<l cont='true'>Je l’irai voir. Je veux</l>
+<l>Connaître la couleur, au moins, de ses cheveux.</l>
+<l>Ce sera, dans trois jours, celle des nœuds d’épée.</l>
+
+<pagenum num="168"/>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>Votre attente, Messieurs, pourrait être trompée.</l>
+<l>L’Infante est un vilain fruit d’Espagne, assez noir,</l>
+<l>Et se met tellement de rouge qu’on croit voir</l>
+<l>Déteindre sur sa joue, où tant de pourpre éclate,</l>
+<l>Du damné Mazarin le camail écarlate.</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l>Ah ! nous regrettons donc toujours, Monsieur l’auteur,</l>
+<l>Les dîners d’autrefois chez le coadjuteur ?</l>
+<l>Faites-en votre deuil. La Fronde est enterrée.</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>Le monde en va-t-il mieux ?</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>.</hstage>
+<l cont='true'>Mais la paix est rentrée</l>
+<l>En France.</l>
+
+<hstage><speaker>M. DE LUDE</speaker>, à Colletet.</hstage>
+<l>Et puis, de quoi vous plaignez-vous ? On dit</l>
+<l>Qu’auprès du jeune Roi les lettrés ont crédit.</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>Oui ! qui protège-t-il, s’il vous plaît ? Ce Molière,</l>
+<l>Dont la scurrilité basse et familière</l>
+<l>S’étale indécemment dans le Petit-Bourbon ;</l>
+<l>Despréaux, — un horrible envieux ! — Rien de bon.</l>
+<pagenum num="169"/>
+<l>Ils font de la satire et de la comédie ;</l>
+<l>Je vous demande un peu... La jeunesse est hardie...</l>
+<l>La Comédie ! après <i>Le Menteur !</i></l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l cont='true'>Et pourtant,</l>
+<l>De Corneille sifflé vous paraissiez content ?</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>D’accord, mais ce n’est pas une raison, en somme,</l>
+<l>Parce qu’on siffle un vieux, d’applaudir un jeune homme.</l>
+<l>Le bel esprit se meurt, je vous le dis.</l>
+<pstage>Madame Scarron entre à droite.</pstage>
+
+<hstage><speaker>M. DE LUDE</speaker>, l’apercevant, à Lavardin.</hstage>
+<l cont='true'>Baron,</l>
+<l>Faisons la révérence à Madame Scarron.</l>
+
+<h2 id='p03'>SCÈNE II</h2>
+<cast>M. DE LUDE, M. DE LAVARDIN, COLLETET, MADAME SCARRON.</cast>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Bonjour, Messieurs. Je viens vous expliquer l’absence</l>
+<l>De mon mari.</l>
+
+<pagenum num="170"/>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l cont='true'>Mais nul ne s’en plaint. Sa présence</l>
+<l>Nous empêcherait d’être assez audacieux</l>
+<l>Pour vous dire le mal que nous font vos beaux yeux.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Comte, je vous en prie, assez de badinage !</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>Mais où donc est Scarron ?</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Dans notre voisinage.</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>.</hstage>
+<l>Il s’est fait transporter, alors ?</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Oui. Mon mari,</l>
+<l>Ce matin même, a su que ce bon Scudéri,</l>
+<l>S’étant fort échauffé dans une polémique</l>
+<l>A défendre Scarron et Le Roman Comique,</l>
+<l>Et d’un mot par trop vif se trouvant offensé...</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>Il s’est battu ?</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>.</hstage>
+<l cont='true'>Comment ?</l>
+
+<pagenum num="171"/>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Il est même blessé.</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l>Bravo ! C’est comme au temps du feu Roi Louis treize !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Et Scarron, sur-le-champ, s’est fait porter en chaise</l>
+<l>Pour aller embrasser ce meilleur des amis.</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>Un duel pour un roman !... Mais ce n’est pas permis.</l>
+<l>Et moi, lorsque j’entends déchirer un confrère,</l>
+<l>Je ne me fâche pas, je l’avoue.</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>.</hstage>
+<l cont='true'>Au contraire.</l>
+<pstage>On s’assied.</pstage>
+
+<hstage><speaker>M. DE LUDE</speaker>, à M<sup>me</sup> Scarron.</hstage>
+<l>Quand sera de retour votre joyeux époux ?</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Bientôt.</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>.</hstage>
+<l cont='true'>Nous projetions de dîner avec vous.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>C’est trop d’honneur.</l>
+
+<pagenum num="172"/>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>.</hstage>
+<l cont='true'>Selon l’usage, ma voisine,</l>
+<l>Nous avons déposé nos plats à la cuisine.</l>
+<l>Moi, j’apporte une carpe, et de Lude un pâté.</l>
+
+<hstage><speaker>COLLETET</speaker>, à M. de Lude.</hstage>
+<l>Sauf un grand appétit, je n’ai rien apporté.</l>
+<l>Mais je ne vois pas là de rôti, mon cher comte ?</l>
+
+<hstage><speaker>M. DE LUDE</speaker>, à M<sup>me</sup> Scarron, gracieusement.</hstage>
+<l>Vous le remplacerez, Madame, par un conte.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>, avec une nuance de tristesse.</hstage>
+<l>Votre indulgence est douce à notre pauvreté,</l>
+<l>Et vous êtes trop bons, Messieurs, en vérité.</l>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l>Mais vous allez bientôt, Madame, être plus riche.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Comment cela ?</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l cont='true'>C’est vrai. La reine Anne d’Autriche</l>
+<l>— Elle l’a dit, du moins, hier à Monsieur Fouquet, —</l>
+<l>Veut oublier le temps où Scarron attaquait</l>
+<l>Mazarin, et lui rend, en dame débonnaire,</l>
+<l>Son titre et son brevet de malade ordinaire,</l>
+<l>Avec ses quinze cents livres de pension.</l>
+
+<pagenum num="173"/>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>.</hstage>
+<l>Malepeste ! Il remplit trop bien la fonction.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Dieu conserve longtemps celle qui nous protège !</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>.</hstage>
+<l>Mais nous voulions aller voir passer le cortège</l>
+<l>Des deux jeunes époux qui sur nous vont régner.</l>
+<l>Nous ferez-vous l’honneur de nous accompagner ?</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l>J’ai mon carrosse en bas pour cette promenade.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Vous l’oubliez, je suis une garde-malade,</l>
+<l>Et je reste au logis presque comme au tombeau.</l>
+<l>— Pourtant ce jeune roi, que chacun dit si beau,</l>
+<l>J’aurais voulu le voir, une fois, dans ma vie...</l>
+<l>N’importe ! Il ne faut pas céder à cette envie :</l>
+<l>Scarron va revenir, et je dois être ici.</l>
+
+<hstage><speaker>COLLETET</speaker>, se levant.</hstage>
+<l>Donc, vous ne venez pas avec nous ?</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Non, merci !</l>
+
+<pstage>Tous se lèvent, et, tandis que Lavardin et Colletet se disposent à partir, M. de Lude s’approche de Scarron et lui parle à demi-voix.</pstage>
+
+<pagenum num="174"/>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l>Dois-je aussi vous quitter ?</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Mais, sans doute.</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l cont='true'>Ah ! Madame,</l>
+<l>Aurez-vous donc toujours tant de rigueur dans l’âme,</l>
+<l>Et ne permettrez-vous jamais qu’à votre aspect</l>
+<l>L’amour fasse oublier un moment le respect ?</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>, bas et sérieusement.</hstage>
+<l>Pas un mot de plus, comte ! il serait une offense</l>
+<l>Pour la femme d’un pauvre infirme, sans défense.</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l>Si vous saviez...</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Monsieur, je ne veux rien savoir.</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l>Adieu, cruelle !</l>
+
+<pstage>Les trois hommes saluent pour prendre congé.</pstage>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Adieu, Messieurs, jusqu’au revoir.</l>
+
+<pstage>MM. de Lude, de Lavardin et Colletet sortent.</pstage>
+
+<pagenum num="175"/>
+
+<h2 id='p04'>SCÈNE III</h2>
+<cast>MADAME SCARRON, seule.</cast>
+
+<l>Leur amour ! leur respect ! Ah ! mensonge ! mensonge !</l>
+<l>L’abîme de leur cœur, quand mon regard y plonge,</l>
+<l>Est vide, je le sais, de respect et d’amour.</l>
+<l>Bah ! c’est tout simple. On est du monde, de la Cour,</l>
+<l>On fréquente Scarron, le bouffon à la mode ;</l>
+<l>Sa femme est là qu’on peut courtiser. C’est commode.</l>
+<l>Elle n’a vraiment pas le droit de s’étonner</l>
+<l>Puisqu’on a fait cadeau d’un plat pour le dîner,</l>
+<l>Et puisque son mari, qui voit qu’on la désire,</l>
+<l>— Déshonneur ! — le permet et fait semblant d’en rire</l>
+<l>Quel enfer ! Vivre avec ce cynique impotent,</l>
+<l>Savoir que ses habits et son argent comptant,</l>
+<l>Et les meubles fanés de ce vieux salon jaune,</l>
+<l>Tout, absolument tout ici, vient de l’aumône ;</l>
+<l>Voir ce vieillard, pour être aidé, nourri, vêtu,</l>
+<l>Tout flétrir : le talent, l’honneur et la vertu ;</l>
+<l>Partager cette honte, et trouver cette fange</l>
+<l>Sur la robe qu’on met et dans le pain qu’on mange !</l>
+<l>Oh ! je veux fuir ! Mon cœur, trop longtemps résigné...</l>
+<l>— De quoi te plains-tu donc, Françoise d’Aubigné ?</l>
+<pagenum num="176"/>
+<l>Pourquoi donc faire ainsi l’orgueilleuse et la prude ?</l>
+<l>Mais c’est de la démence et de l’ingratitude !</l>
+<l>Ton sort, tu l’as voulu. Scarron t’a dit souvent :</l>
+<l>— Ma belle, choisissez : Ma main, ou le couvent ! —</l>
+<l>Cet homme a le cœur bon ; il t’aime comme un père.</l>
+<l>Vas-tu pas le traiter de langue de vipère</l>
+<l>Parce qu’il aime à rire, et n’est-il pas permis</l>
+<l>Aux dépens du prochain d’amuser ses amis ?</l>
+<l>Si ces mêmes amis lui donnent son aisance,</l>
+<l>Tu leur dois, comme lui, de la reconnaissance.</l>
+<l>Et parce que l’un d’eux, touché de tes attraits,</l>
+<l>Dans un moment d’oubli t’a parlé de trop près,</l>
+<l>Est-ce donc un motif de crier de la sorte ?</l>
+<l>C’est folie !...</l>
+
+<pstage>Avec accablement.</pstage>
+
+<l cont='true'>Eh bien, non ! Je voudrais être morte !</l>
+
+<pstage>Se remettant un peu.</pstage>
+
+<l>Et cet homme que j’aime !... Ah ! mon cœur est trop plein !</l>
+
+<pstage>Après un silence.</pstage>
+
+<l>Il faudra que j’en parle à l’abbé Gobelin,</l>
+<l>Et qu’au saint tribunal je montre à nu mon âme.</l>
+<l>— Comme cette chaleur est pesante !...</l>
+
+<pagenum num="177"/>
+
+<h2 id='p05'>SCÈNE IV</h2>
+<cast>MADAME SCARRON, ANTOINE DE MÉRAN.</cast>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l cont='true'>Madame,</l>
+<l>Je vous salue.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Antoine !... Ah ! vite, dites-moi !</l>
+<l>Monsieur Fouquet a-t-il parlé de vous au Roi ?</l>
+<l>Avez-vous quelque espoir pour cette lieutenance ?</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>On me la promettait, lorsque Son Éminence</l>
+<l>L’a donnée au neveu du médecin Guénaud.</l>
+<l>D’ailleurs, quand on a su que j’étais huguenot...</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Toujours ce même obstacle !</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l cont='true'>Hélas !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Courage, Antoine,</l>
+
+<pagenum num="178"/>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>Je n’en ai plus. Je suis seul et sans patrimoine,</l>
+<l>A vingt-deux ans, avec un enfant à nourrir,</l>
+<l>— Ce fils que l’an dernier, presque avant de mourir,</l>
+<l>Mon vieux père eut encor de sa seconde femme. —</l>
+<l>Je suis noble, et mon droit de porter cette lame</l>
+<l>M’interdit tout travail qui me ferait manger.</l>
+<l>Que puis-je faire ? Aller servir à l’étranger ?</l>
+<l>Comment courir les camps avec mon petit frère ?</l>
+<l>Je dois vivre pour lui, je ne peux m’y soustraire ;</l>
+<l>Mais, devant mon devoir si lourd de frère aîné,</l>
+<l>Je suis seul et sans pain...Ah ! pourquoi suis-je né ?</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Pour vous calmer, Antoine, une fable me tente.</l>
+<pstage>Geste d’étonnement d’Antoine.</pstage>
+<l>Vous rappelez-vous bien la maison de ma tante,</l>
+<l>Madame de Neuillant, où je vous ai connu ?</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>Certes, plus d’une fois je m’en suis souvenu.</l>
+<l>Que n’a-t-elle pas fait, cette femme inhumaine,</l>
+<l>Pour nous donner sa foi catholique et romaine,</l>
+<l>A nous, pauvres enfants chez elle recueillis,</l>
+<l>Moi, parce que mon père était loin du pays,</l>
+<l>Et vous, parce qu’hélas ! vous étiez orpheline ?</l>
+<pagenum num="179"/>
+<l>Comme vous, sous sa froide et rude discipline,</l>
+<l>Si mon père n’était à la fin revenu,</l>
+<l>J’abjurais... Certes oui, je m’en suis souvenu.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Et vous rappelez-vous la chambre sans lumière,</l>
+<l>Si froide, dont le mur n’a qu’une meurtrière,</l>
+<l>Où l’on m’emprisonnait pendant les nuits d’été,</l>
+<l>Seule, au pain sec, lorsque j’avais mal récité</l>
+<l>Mes quatrains de Pibrac ou mon histoire sainte ?</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>Sans doute. Brave enfant, vous alliez là sans plainte !</l>
+<l>— Et mon âme s’indigne encore au souvenir !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Mais c’est que ce cachot, qui devait me punir,</l>
+<l>Avait pris en pitié l’enfance prisonnière ;</l>
+<l>C’est que le vent du soir, par cette meurtrière,</l>
+<l>M’apportait les odeurs exquises du jardin.</l>
+<l>Ainsi, n’admirez plus mon courageux dédain,</l>
+<l>Antoine, car j’aimais être en ces murs moroses</l>
+<l>Où je mangeais mon pain dans le parfum des roses.</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>Et la moralité de l’apologue ?</l>
+
+<pagenum num="180"/>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>C’est</l>
+<l>Qu’en vous la lâcheté coupable se glissait ;</l>
+<l>Car, au plus bas degré de l’humaine souffrance,</l>
+<l>Dieu nous laisse un grand bien.</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l cont='true'>Et lequel ?</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>L’espérance</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>L’espérance ! Ah ! pour moi ce mot est insensé !...</l>
+<l>Et, puisque vous avez évoqué le passé,</l>
+<l>Madame, et rappelé notre enfance martyre,</l>
+<l>Je sens que mon secret m’échappe et veux vous dire</l>
+<l>Quand même j’y perdrais le bonheur de vous voir,</l>
+<l>Le sentiment cruel qui fait mon désespoir.</l>
+<l>Je vous aime, Françoise !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Antoine !</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l cont='true'>Je vous aime !</l>
+<l>Oui, ce qui fait mes yeux si creux, mon front si blême</l>
+<l>Ce n’est point le souci d’un frère à protéger,</l>
+<pagenum num="181"/>
+<l>Quand je n’ai même pas de pain à partager ;</l>
+<l>Ce n’est point mon passé de lutte et de misère ;</l>
+<l>Non ! ce qui m’a rongé le cœur comme un ulcère,</l>
+<l>C’est un rêve brisé, c’est un espoir déçu,</l>
+<l>C’est un amour d’enfant que vous n’avez pas su !</l>
+<l>— Madame, pardonnez si je vous mécontente !</l>
+<l>Mais, lorsque nous étions tous deux chez votre tante,</l>
+<l>— C’est bien loin ! vous aviez douze ans, j’en avais dix,</l>
+<l>On nous traitait ainsi que des enfants maudits ;</l>
+<l>Moi surtout, vous savez, j’étais le plus rebelle !</l>
+<l>Eh bien, dans ce temps-là, déjà vous étiez belle ;</l>
+<l>Vous étiez bonne aussi ! Vous avez bien traité,</l>
+<l>Vous seule, le petit huguenot détesté</l>
+<l>Dont les larmes mouillaient vos mains de sœur aînée.</l>
+<l>Voyez-vous, c’est alors que ma folie est née !</l>
+<l>L’innocence se perd à pleurer nuit et jour.</l>
+<l>Vieilli par le malheur, j’étais mûr pour l’amour,</l>
+<l>Et mes baisers d’enfant — pardonnez-moi, Madame ! —</l>
+<l>Étaient ceux d’un amant qui vous livrait son âme.</l>
+<l>Mon père m’enleva du château de Neuillant,</l>
+<l>Mais mon amour grandit encore en vous fuyant,</l>
+<l>Chaque jour plus ardent, comme le feu qui couve !</l>
+<l>Et, lorsqu’après douze ans passés je vous retrouve,</l>
+<l>L’ayant toujours au cœur, pur, constant et profond,</l>
+<l>Vous êtes catholique et femme d’un bouffon !...</l>
+<pagenum num="182"/>
+<l>Ah ! quand vous m’avez dit : Espérance et courage,</l>
+<l>Pardon ! mais je n’ai pu garder mon cri de rage :</l>
+<l>Vous touchiez le serpent dans mon sein endormi !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Antoine de Méran, mon frère, mon ami,</l>
+<l>Cet aveu que m’a fait votre cœur noble et tendre,</l>
+<l>De tout autre que vous je n’aurais pu l’entendre,</l>
+<l>Et si vous m’avez vue écouter jusqu’au bout,</l>
+<l>Antoine, mon excuse est que je savais tout.</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>Vous saviez ?...</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Les regards trahissent quand on aime,</l>
+<l>Et de vous deviner j’étais heureuse même.</l>
+<l>Mais vous n’auriez pas dû me le faire savoir,</l>
+<l>Car il faut maintenant renoncer à nous voir.</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>Mon Dieu !...</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>De mon honneur, ami, je suis jalouse.</l>
+<l>Et plus le malheureux dont on m’a fait épouse</l>
+<l>Est bas, plus il acquiert un burlesque renom,</l>
+<l>Et plus je veux qu’en moi l’on respecte son nom.</l>
+<l>Je n’avais pas de robe, et j’étais insultée</l>
+<pagenum num="183"/>
+<l>Chez ma tante. Scarron m’a prise et respectée.</l>
+<l>Cet homme est bon ; sans lui j’entrais dans un couvent</l>
+<l>Je veux qu’aucun soupçon n’aille, de son vivant,</l>
+<l>A sa femme pas plus qu’à la reine de France.</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>Hélas !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Je vous ai dit tout à l’heure : Espérance !</l>
+<l>Et je vous le répète, Antoine. Écoutez-moi.</l>
+<l>Je me fiance à vous et vous jure ma foi !</l>
+
+<hstage><speaker>ANTOINE</speaker>, avec joie.</hstage>
+<l>Ciel !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>De mon cœur, sinon de ma main, je suis libre.</l>
+<l>Pour un autre que vous rien dans ce cœur ne vibre,</l>
+<l>Et je vous dis : Partez, ami, pour revenir !</l>
+<l>Car celle dont le temps d’épreuve peut finir,</l>
+<l>Heureuse de l’amour que vous emportez d’elle,</l>
+<l>Vous gardera le sien toujours pur et fidèle.</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>Qu’ai-je entendu, Françoise, et quel mot adoré</l>
+<l>Avez-vous dit ?...</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Partez, Antoine ! J’attendrai.</l>
+
+<pagenum num="184"/>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>Longtemps alors... Je veux pour vous gloire et fortune.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>J’attendrai.</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l cont='true'>Soit ! Mais... lui ?</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>, les yeux baissés.</hstage>
+<l cont='true'>C’est une loi commune</l>
+<l>Aux vieillards que la mort ; elle plane autour d’eux.</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>L’horrible espoir !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Assez ! Nous rougirions tous deux.</l>
+<pstage>Silence.</pstage>
+<l>Avant l’adieu, — je veux qu’il soit court et sévère, —</l>
+<l>Dites-moi ! Qu’avez-vous l’intention de faire ?</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l>Je vais...</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>Où ?</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l cont='true'>N’importe où, puisque je pars content.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Mais encor ?</l>
+
+<pagenum num="185"/>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l cont='true'>Des colons, du parti protestant,</l>
+<l>S’embarquent dans un mois, à Brest, pour l’Amérique.</l>
+<l>Jusqu’ici j’avais cru leur œuvre chimérique ;</l>
+<l>Mais maintenant, hasard, tout ce que tu voudras !</l>
+<l>Avec mon cher petit Samuel dans les bras,</l>
+<l>Quelque argent que j’emprunte et ma solide épée,</l>
+<l>Comme le roi Jason de l’antique épopée</l>
+<l>Je pars, et je m’en vais chercher ma Toison d’or !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Quittons-nous à présent, Antoine.</l>
+
+<hstage><speaker>ANTOINE</speaker>.</hstage>
+<l cont='true'>Oh ! pas encor !</l>
+<l>Car de ce que m’a dit votre adoré langage,</l>
+<l>Je voudrais emporter un souvenir, un gage,</l>
+<l>Où je retrouve enfin mon espoir tout entier.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Vous le désirez. Soit !</l>
+<pstage>Elle va à une table sur laquelle elle prend un petit volume.</pstage>
+<l cont='true'>Voici le vieux psautier</l>
+<l>Qu’Agrippa d’Aubigné, mon noble aïeul, naguère,</l>
+<l>Portait toujours caché sous son pourpoint de guerre.</l>
+<l>L’ami du Béarnais, le poète-soldat,</l>
+<pagenum num="186"/>
+<l>Entonnait le premier, le matin du combat,</l>
+<l>Ces vieux hymnes qu’en chœur chantait toute l’armée.</l>
+<l>Bien que je ne sois plus de la foi réformée</l>
+<l>Et que Rome aujourd’hui m’ait reçue en ses bras,</l>
+<l>J’aime ce souvenir de famille. A Coutras,</l>
+<l>Il sauva mon aïeul d’un coup de pertuisane.</l>
+<l>Voyez ! le fer de lance a troué la basane</l>
+<l>Qui recouvre le livre, et l’homme en réchappa.</l>
+<pstage>Elle s’assied et prend une plume.</pstage>
+<l>Eh bien ! sur le recueil de psaumes d’Agrippa,</l>
+<l>J’écris donc : Au revoir ! — et je date, — et je signe :</l>
+<l>Françoise d’Aubigné.</l>
+<pstage>Elle lui donne le livre.</pstage>
+<l cont='true'>Tenez !</l>
+
+<hstage><speaker>ANTOINE</speaker>, très ému.</hstage>
+<l cont='true'>Je serai digne</l>
+<l>De votre amour, Françoise, et vous me reverrez.</l>
+
+<pstage>Tumulte au dehors. Le comte de Lude, Lavardin et François Colletet entrent successivement.</pstage>
+
+<pagenum num="187"/>
+
+<h2 id='p06'>SCÈNE V</h2>
+<cast>MADAME SCARRON, ANTOINE DE MÉRAN, LE COMTE DE LUDE, LAVARDIN, COLLETET.</cast>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Que veut dire ce bruit ?</l>
+
+<hstage><speaker>M. DE LUDE</speaker>, entrant en riant.</hstage>
+<l cont='true'>Ah ! Madame, accourez !</l>
+
+<hstage><speaker>M. DE LAVARDIN</speaker>, de même.</hstage>
+<l>Venez voir !</l>
+
+<hstage><speaker>COLLETET</speaker>, de même.</hstage>
+<l cont='true'>Mettez-vous bien vite à la fenêtre !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>, étonnée.</hstage>
+<l>Messieurs...</l>
+
+<hstage><speaker>M. DE LUDE</speaker>, du balcon.</hstage>
+<l cont='true'>Ils vont tourner la rue ; ils vont paraître !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l>Mais, m’expliquerez-vous ?...</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l cont='true'>C’est un événement</l>
+<pagenum num="188"/>
+<l>Dont Paris doit pouffer de rire en ce moment :</l>
+<l>Un succès pour Scarron, un triomphe !...</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>.</hstage>
+<l cont='true'>J’écoute.</l>
+
+<hstage><speaker>M. DE LUDE</speaker>.</hstage>
+<l>Notre ami revenait en chaise, par la route</l>
+<l>Du cortège du Roi, juste au moment final</l>
+<l>Et lorsqu’allait passer le fameux cardinal.</l>
+<l>— Ah ! voyez-vous ! je ris encor de l’aventure. —</l>
+<l>Mazarin triomphait au fond de sa voiture</l>
+<l>Attendant les vivat, le vieux Napolitain !</l>
+<l>Et souriant à tous, quand la foule soudain</l>
+<l>Aperçoit son farceur chéri, son cul-de-jatte,</l>
+<l>Et, laissant défiler le carrosse écarlate</l>
+<l>Parmi les sabres nus de tout un escadron,</l>
+<l>Court à votre mari, criant : Vive Scarron !</l>
+<l>Non ! c’était à se croire au bon temps de la Fronde !</l>
+<l>Comme un roi, le bouffon saluait tout ce monde,</l>
+<l>Tandis que s’éloignait Mazarin, furieux.</l>
+<l>Et votre époux revient, — voyez ! c’est curieux, —</l>
+<l>Prenant son air modeste et priant qu’on s’en aille,</l>
+<l>Et suivi par les cris de toute la canaille.</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>, à part, regardant Antoine.</hstage>
+<l>O honte ! devant lui !</l>
+<pstage>Les cris redoublent au dehors.</pstage>
+
+<pagenum num="189"/>
+
+<hstage><speaker>COLLETET</speaker>.</hstage>
+<l cont='true'>Venez donc voir.</l>
+<pstage>Il va rejoindre de Lude et Lavardin sur le balcon. Antoine s’approche de M<sup>me</sup> Scarron, accablée.</pstage>
+
+<hstage><speaker>ANTOINE</speaker>, à Scarron.</hstage>
+<l cont='true'>Adieu,</l>
+<l>Colombe recueillie au fond d’un mauvais lieu !</l>
+<l>Lys qui sèche aux feuillets impurs d’un mauvais livre</l>
+<l>Patience ! Je vais pour toi lutter et vivre.</l>
+<l>Antoine de Méran s’engage sur sa foi</l>
+<l>A t’apporter bientôt un sort digne de toi,</l>
+<l>Où, s’il n’y réussit, à ne plus reparaître...</l>
+<l>J’en jure sur le vieux psautier de ton ancêtre.</l>
+<l>— Au revoir !</l>
+<pstage>Il baise la main de M<sup>me</sup> Scarron et sort avec un grand geste d’adieu.</pstage>
+
+<hstage><speaker>COLLETET</speaker>, du balcon.</hstage>
+<l cont='true'>Venez donc, Madame, ils sont en bas !</l>
+
+<hstage><speaker>MADAME SCARRON</speaker>, avec une profonde tristesse.</hstage>
+<l>Quelque chose me dit qu’il ne reviendra pas.</l>
+
+<pagenum num="190"/>
+ </page-sequence>
+ <page-sequence recto='true' id='p07'>
+ <pagenum num="191"/>
+
+<h1>ACTE PREMIER</h1>
+
+<vsep class="rule"/>
+
+<h2><s>NOVEMBRE</s> 1685</h2>
+
+<pstage>Un site dans le parc de Versailles, à la fin de l’automne. — A droite et à gauche, des allées bordées par des charmilles.</pstage>
+
+<vsep class="rule"/>
+
+<h2 id='p08'>SCÈNE PREMIÈRE</h2>
+<cast>LE DUC, LA COMTESSE, LE CHEVALIER, et, plus loin, quelques groupes de courtisans, puis LE MARÉCHAL.</cast>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>Oui, duc, j’ai profité de ce beau jour d’automne</l>
+<l>Pour aller admirer le Milon de Crotone,</l>
+<l>Le groupe du Puget ; et de ce parc, vraiment,</l>
+<l>Ce sera désormais le plus bel ornement.</l>
+
+<hstage><speaker>LE DUC</speaker>.</hstage>
+<l>Mais j’ai vu comme vous la nouvelle statue.</l>
+
+<pagenum num="192"/>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>Eh bien ! qu’en pensez-vous, franchement ?</l>
+
+<hstage><speaker>LE DUC</speaker>, hésitant.</hstage>
+<l cont='true'>Peu vêtue.</l>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>C’est juste, j’oubliais que vous êtes dévot.</l>
+
+<hstage><speaker>LE DUC</speaker>.</hstage>
+<l>Je ne sais pas encor ce que cette œuvre vaut,</l>
+<l>Mais, dites-moi ! comment la trouve la Marquise</l>
+<l>De Maintenon ?</l>
+
+<hstage><speaker>LA COMTESSE</speaker>, souriant.</hstage>
+<l cont='true'>Très belle.</l>
+
+<hstage><speaker>LE DUC</speaker>.</hstage>
+<l cont='true'>Ah ! ma voix est conquise !</l>
+<l>Que ne me disiez-vous qu’elle la protégeait ?</l>
+<l>Vous me présenterez, n’est-ce pas, ce Puget.</l>
+<l>La Marquise l’estime... Eh ! mais, je me rappelle,</l>
+<l>Je l’ai dit le premier... la statue est fort belle.</l>
+
+<hstage><speaker>LA COMTESSE</speaker>, bas, au chevalier.</hstage>
+<l>Tout à l’heure il fera courbette au piédestal.</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>, entrant au milieu des saluts.</hstage>
+<l>Bonjour, Messieurs, bonjour !</l>
+
+<pagenum num="193"/>
+
+<hstage><speaker>LE CHEVALIER</speaker>, s’inclinant très bas.</hstage>
+<l cont='true'>Monsieur le Maréchal !</l>
+
+<hstage><speaker>LE DUC</speaker>, touchant la main du maréchal.</hstage>
+<l>Eh bien ! vous voilà donc de retour des Cévennes ?</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l>Où mes peines, Messieurs, n’ont pas été trop vaines.</l>
+<l>Les bons convertisseurs, morbleu, que mes dragons !</l>
+<l>Le croiriez-vous ? J’apporte au Roi, dans mes fourgons,</l>
+<l>Vingt mille âmes, et plus, de nouveaux catholiques...</l>
+<l>Par exemple, un pays des plus mélancoliques !</l>
+<l>J’avais soif d’air de Cour... Qu’est-ce que l’on y dit ?</l>
+
+<hstage><speaker>LE DUC</speaker>.</hstage>
+<l>Mais, d’abord, qu’on fit bien de révoquer l’édit.</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l>Sans doute. Et la santé de Sa Majesté ?</l>
+
+<hstage><speaker>LE DUC</speaker>.</hstage>
+<l cont='true'>Bonne.</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l>Les bruits de guerre ?</l>
+
+<hstage><speaker>LE DUC</speaker>.</hstage>
+<l cont='true'>Aucun. La paix de Ratisbonne</l>
+<l>Est partout respectée et, l’on croit, pour longtemps.</l>
+
+<pagenum num="194"/>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l>Tant pis ! — Et nos soldats ne sont pas mécontents</l>
+<l>Que Vauban, sans égard pour l’état militaire,</l>
+<l>Leur fasse à Maintenon tant remuer la terre ?</l>
+<pstage>Un silence.</pstage>
+
+<hstage><speaker>LE DUC</speaker>, à demi-voix.</hstage>
+<l>Maréchal, un conseil d’ami !</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l cont='true'>Moi !... Pourquoi non ?</l>
+
+<hstage><speaker>LE DUC</speaker>.</hstage>
+<l>Dites avec respect ce mot de Maintenon.</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l>Ah ! la Marquise, alors...</l>
+
+<hstage><speaker>LE DUC</speaker>.</hstage>
+<l cont='true'>Ayez-la pour amie.</l>
+<pstage>Le maréchal rêve un instant, puis se rapproche de la comtesse et du chevalier.</pstage>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>Vous savez, La Fontaine est de l’Académie,</l>
+<l>Et nous aurons bientôt l’<i>Armide</i> de Lulli.</l>
+
+<hstage><speaker>LE CHEVALIER</speaker>.</hstage>
+<l>Allez voir Trianon, c’est du dernier joli.</l>
+
+<pagenum num="195"/>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>J’ai là, de Sévigné, deux lettres curieuses...</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l>Comtesse, occupons-nous de choses sérieuses :</l>
+<l>Le Roi va-t-il créer quelque duc à brevet ?</l>
+
+<hstage><speaker>LE CHEVALIER</speaker>.</hstage>
+<l>Mais on dit que Coislin...</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l cont='true'>Celui qui se trouvait</l>
+<l>Devant Dole ? Il aurait un titre légitime.</l>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>La Marquise a monsieur de Nogent en estime,</l>
+<l>Et son Royal-Picard travaille à l’aqueduc.</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l>Mais... quel rapport ?...</l>
+
+<hstage><speaker>LE DUC</speaker>.</hstage>
+<l cont='true'>Monsieur de Nogent sera duc.</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>, à part, réprimant un geste de colère.</hstage>
+<l>Après ce qu’on m’a dit, du diable ! si je bouge.</l>
+<pstage>Haut.</pstage>
+<l>Et n’a-t-on pas donné de nouveau cordon rouge ?</l>
+
+<pagenum num="196"/>
+
+<hstage><speaker>LE CHEVALIER</speaker>.</hstage>
+<l>Non, mais à Nantouillet il pourrait bien échoir :</l>
+<l>Hier, au coucher, le Roi lui donna le bougeoir.</l>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>A monsieur d’Heudicourt toute chance est acquise :</l>
+<l>Il portait l’éventail, hier, de la Marquise.</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l>Mais, morbleu ! Nantouillet passa le Rhin.</l>
+
+<hstage><speaker>LE DUC</speaker>.</hstage>
+<l cont='true'>Pardon !</l>
+<l>C’est monsieur d’Heudicourt qui sera grand cordon.</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>, bas, au duc.</hstage>
+<l>Quoi ! la veuve, après tout, d’un poète burlesque,</l>
+<l>La femme de Scarron, n’est pas la reine !</l>
+
+<hstage><speaker>LE DUC</speaker>, de même.</hstage>
+<l cont='true'>Presque !</l>
+<l>De mes conseils, demain, vous me direz merci.</l>
+
+<hstage><speaker>LE CHEVALIER</speaker>, regardant dans une des allées.</hstage>
+<l>Ah ! monsieur de Louvois s’avance par ici.</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>, empressé.</hstage>
+<l>Je veux le saluer.</l>
+
+<pstage>Louvois entre, les yeux baissés et méditant ; il est suivi de Grisard, en costume de voyage et botté.</pstage>
+
+<pagenum num="197"/>
+
+<hstage><speaker>LE MARÉCHAL</speaker>, à part.</hstage>
+<l cont='true'>Comme il a l’air sinistre !</l>
+
+<hstage><speaker>LE DUC</speaker>, bas au maréchal.</hstage>
+<l>Un mot ! Ne soyez pas trop chaud près du ministre ;</l>
+<l>Car la Marquise...</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l cont='true'>Encore !</l>
+
+<hstage><speaker>LE DUC</speaker>, lui prenant le bras.</hstage>
+<l cont='true'>Allons-nous-en.</l>
+
+<hstage><speaker>LE MARÉCHAL</speaker>.</hstage>
+<l cont='true'>Je vois !</l>
+<l>Le vent ne souffle pas du côté de Louvois.</l>
+
+<pstage>Les seigneurs saluent respectueusement Louvois, qui descend à l’avant-scène avec Grisard ; puis ils se retirent au fond, et peu à peu disparaissent.</pstage>
+
+<h2 id='p09'>SCÈNE II</h2>
+<cast>LOUVOIS, GRISARD.</cast>
+
+<hstage><speaker>LOUVOIS</speaker>, avec une sourde colère.</hstage>
+<l>Donc, rien ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Jusqu’à présent.</l>
+
+<pagenum num="198"/>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Rien contre cette femme !</l>
+<l>Tenez ! je suis servi d’une manière infâme,</l>
+<l>Mons Grisard... Vous devez tout voir et tout savoir :</l>
+<l>Vous avez la police et le cabinet noir,</l>
+<l>Des lettres de cachet plein vos poches... Que sais-je ?</l>
+<l>Et vous ne trouvez rien !</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Monseigneur, vous dirai-je</l>
+<l>Ce qu’on a fait déjà, ce qu’on va faire ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Non !</l>
+<l>Vous n’avez rien trouvé contre la Maintenon.</l>
+<l>— Ah ! vraiment, l’on me trompe et l’on me dévalise !</l>
+<l>Quand le Roi très chrétien, fils aîné de l’Église,</l>
+<l>Va se déshonorer ; quand il veut — j’en pâlis</l>
+<l>De rage ! — faire asseoir sous les trois fleurs de lys</l>
+<l>Les restes de Scarron le bateleur, sa veuve ;</l>
+<l>Et quand, pour l’empêcher, je demande une preuve,</l>
+<l>Un de ces souvenirs des anciennes amours</l>
+<l>Tels que ces femmes-là les conservent toujours,</l>
+<l>Des lettres, un portrait, n’importe quoi ! personne</l>
+<l>N’y parvient !</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Monseigneur a tort, s’il me soupçonne.</l>
+<pagenum num="199"/>
+<l>J’ai fait ce qu’on pouvait tenter humainement.</l>
+<l>Quand la Marquise sort de son appartement,</l>
+<l>J’entre, moi ; j’ai les clefs de toutes les serrures ;</l>
+<l>J’ai fouillé les habits, inspecté les parures,</l>
+<l>Sondé tout, feuilleté les livres, soulevé</l>
+<l>Tentures et tapis ; et je n’ai rien trouvé.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Mais cette aventurière est donc invulnérable !...</l>
+<l>Et pourtant, j’en suis sûr, c’est une misérable.</l>
+<l>Nous ne savons que trop son étrange passé,</l>
+<l>Après que son mari, Scarron, eut trépassé.</l>
+<l>— Ce n’est que bien après qu’aux bâtards on l’attache.</l>
+<l>Pour aller recevoir l’aumône, à Saint-Eustache,</l>
+<l>Elle marchait alors à pied dans les ruisseaux.</l>
+<l>Le vieux Villars, Beuvron et les trois Villarceaux</l>
+<l>L’ont fait vivre ; elle avait la Lenclos pour amie :</l>
+<l>Et rien n’a surnagé d’une telle infamie ?</l>
+<l>Allons donc !</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Je peux dire à Monsieur le marquis</l>
+<l>Que, d’après les derniers rapports, il est acquis</l>
+<l>Qu’elle avait un amant, même avant son veuvage,</l>
+<l>Un jeune huguenot, espèce de sauvage,</l>
+<l>Citant l’Ecclésiaste et vêtu de bougran...</l>
+
+<pagenum num="200"/>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Cet homme s’appelait ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Antoine de Méran.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Et puis ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>L’abandonnant, un jour, comme Ariane,</l>
+<l>Il est allé chercher fortune à la Guyane.</l>
+<l>Peut-être, en écrivant...</l>
+
+<hstage><speaker>LOUVOIS</speaker>, haussant les épaules.</hstage>
+<l cont='true'>Un voyage au long cours !</l>
+<l>Maître sot ! Si le Roi l’épouse dans huit jours !</l>
+<pstage>Grisard s’incline avec un geste de découragement.</pstage>
+<l>Enfin, cherchez toujours, cherchez... et du silence !</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l>Maintenant, je ferai part à Votre Excellence</l>
+<l>D’un fait...</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Qui la concerne ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Oui, — pas très important,</l>
+<pagenum num="201"/>
+<l>Mais qui, bien présenté, bien grossi, peut pourtant</l>
+<l>Auprès du Roi lui rendre un très mauvais office.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Donc ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Me trouvant hier, pour cause de service,</l>
+<l>A Melun, d’où j’arrive à l’instant, tout botté,</l>
+<l>Je vis dans une auberge, où j’étais arrêté,</l>
+<l>Un vieux seigneur en noir, de mine huguenote.</l>
+<l>J’observai — vous savez, l’habitude ! — et pris note</l>
+<l>Qu’à table, un capucin qui dînait là s’étant</l>
+<l>Signé, selon l’usage, il n’en fit pas autant.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Ah !</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Pour savoir son nom, je me levai de table ;</l>
+<l>Cela ne m’eut pas l’air d’être un nom véritable :</l>
+<l>Un nom, ça sonne clair ou faux, comme un écu.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Très juste, mons Grisard.</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Déjà bien convaincu</l>
+<l>— Je suis bon chien d’arrêt ! — que j’étais sur la piste</l>
+<pagenum num="202"/>
+<l>D’un notable meneur du parti calviniste,</l>
+<l>Dans son verre, à souper, je mets, tout simplement..</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Hein ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>De quoi l’endormir assez profondément</l>
+<l>Pour l’aller voir la nuit, sans qu’il s’en scandalise</l>
+<l>Et délicatement visiter sa valise.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Eh bien ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Jamais je n’eus un plus juste soupçon,</l>
+<l>Monseigneur. Je tenais le comte d’Aubusson,</l>
+<l>Parent de la Scarron. — Nous étions en famille.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Celui dont elle a pris auprès d’elle la fille</l>
+<l>Qu’elle cherche, depuis trois mois, à convertir ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l>Et celui qu’elle a fait, depuis trois mois, partir</l>
+<l>Sur un vaisseau du Roi, dont il est capitaine.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>C’était bien lui ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Tenez la chose pour certaine.</l>
+<pagenum num="203"/>
+<l>Fouillant le sac, — ainsi qu’un curieux le doit, —</l>
+<l>Je vis d’abord ce gant unique, ce gant droit,</l>
+<l>Mais qui porte une croix de drap rouge en sa paume.</l>
+
+<hstage><speaker>LOUVOIS</speaker>, examinant le gant que Grisard vient de lui remettre.</hstage>
+<l>Étrange !</l>
+
+<hstage><speaker>GRISARD</speaker>, lui donnant divers papiers.</hstage>
+<l cont='true'>Plus l’état des villes du royaume</l>
+<l>Qui, toutes, — on le voit par ces divers écrits, —</l>
+<l>Au synode secret, dont le siège est Paris,</l>
+<l>Lancent un député huguenot, qui s’y glisse</l>
+<l>Au nez des parlements et de votre police.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Un synode ! à Paris ! Quand ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Ce soir. Est-ce clair ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Où ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Dans un souterrain, près la porte d’Enfer.</l>
+<l>C’est là que la Réforme a célébré son culte,</l>
+<l>Depuis un mois.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Malgré l’édit ! C’est une insulte</l>
+<pagenum num="204"/>
+<l>Au Roi, c’est un complot en règle ! Et des amis</l>
+<l>De Madame Scarron s’y trouvent compromis !...</l>
+<l>Ce d’Aubusson est bien de sa proche famille ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l>C’est son cousin.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Qu’en as-tu fait ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>A la Bastille.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Bien ! — Je veux assister au synode. Comment ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l>Ce gant mystérieux leur sert de ralliement.</l>
+<l>Mettez-le.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Mais vois donc l’imprudence où tu tombes !</l>
+<l>Si l’on me reconnaît ?...</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Eh bien ! les catacombes</l>
+<l>Dans ces caveaux perdus doivent donner accès ?</l>
+
+<hstage><speaker>LOUVOIS</speaker></hstage>
+<l>Peut-être... Assure-t-en, sans plus tarder.</l>
+
+<pagenum num="205"/>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Je sais</l>
+<l>Un escalier tournant, auprès du Val-de-Grâce.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Va vite !</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Monseigneur, suis-je encore en disgrâce ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Non ! mais ne faites pas trop tôt le triomphant.</l>
+
+<pstage>Madame de Maintenon, accompagnée d’Henriette et de la comtesse, entre au fond du théâtre.</pstage>
+
+<l>C’est elle ! Laisse-moi.</l>
+
+<pstage>Grisard s’incline et sort.</pstage>
+
+<h2 id='p10'>SCÈNE III</h2>
+<cast>LA MARQUISE DE MAINTENON, HENRIETTE, LA COMTESSE, LOUVOIS.</cast>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à Henriette.</hstage>
+<l cont='true'>Voyons ! ma chère enfant,</l>
+<l>Nos articles de foi diffèrent peu des vôtres ;</l>
+<l>Vous ne changez qu’un mot au Credo des apôtres.</l>
+<l>Vous ne répondez rien à tous mes arguments</l>
+<pagenum num="206"/>
+<l>Sur la confession et sur les sacrements,</l>
+<l>Henriette, et s’ils sont, en effet, sans réplique,</l>
+<l>Allez donc jusqu’au bout et soyez catholique !</l>
+<pstage>A Louvois, qui s’approche et la salue.</pstage>
+<l>Ah ! Monsieur de Louvois !</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Madame !...</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Vous voyez !</l>
+<l>Nous suivons les chemins par votre édit frayés :</l>
+<l>Je tâche à convertir aussi.</l>
+
+<hstage><speaker>LOUVOIS</speaker>, avec une légère ironie.</hstage>
+<l cont='true'>Mademoiselle</l>
+<l>Cédera, j’en réponds, à votre pieux zèle.</l>
+<l>Quand vous cherchez à plaire au Roi, c’est bientôt fait.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Il n’est rien que pour lui je ne fasse, en effet ;</l>
+<l>Et si Sa Majesté n’est pas indifférente</l>
+<l>A la conversion de ma jeune parente,</l>
+<l>Humblement je mettrai cette œuvre aux pieds du Roi,</l>
+<l>Pour le remercier de ses bontés pour moi.</l>
+<pstage>A Henriette.</pstage>
+<l>N’est-ce pas que j’aurai bientôt votre promesse ?</l>
+
+<pagenum num="207"/>
+
+<hstage><speaker>LA COMTESSE</speaker>, gaiement.</hstage>
+<l>Henri quatre disait : Paris vaut une messe.</l>
+<l>Imitez-le, mignonne, et convertissez-vous ;</l>
+<l>Et nous vous trouverons alors un noble époux,</l>
+<l>Car pour votre beauté la Cour est le seul cadre.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Et monsieur d’Aubusson sera fait chef d’escadre,</l>
+<l>Si, suivant votre exemple, il abjure à son tour.</l>
+<l>Les nouveaux convertis sont bien vus à la Cour.</l>
+<l>Vous fondez sa fortune...</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à Henriette.</hstage>
+<l cont='true'>Et vous sauvez votre âme.</l>
+<l>Hésitez-vous encor ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>, timidement.</hstage>
+<l cont='true'>Ma cousine... Madame...</l>
+<l>Non, je ne voudrais rien dire qui vous déplût ;</l>
+<l>Ce que vous avez fait n’est que pour mon salut ;</l>
+<l>Vous vaincrez mes derniers scrupules, je l’espère.</l>
+<l>Mais puisque vous avez dit le nom de mon père,</l>
+<l>A qui mon séjour même, ici, n’est pas connu,</l>
+<l>J’attendrai donc qu’il soit en France revenu</l>
+<l>Et que je sois remise en sa main paternelle.</l>
+
+<pagenum num="208"/>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, avec un peu d’impatience.</hstage>
+<l>Mais non, ma pauvre enfant ! Sur votre âme éternelle</l>
+<l>Votre père n’a pas de droits. Monsieur de Meaux</l>
+<l>Vous le prouvait encore, hier, en quelques mots,</l>
+<pstage>A la comtesse.</pstage>
+<l>Et j’en prends à témoin notre gentille amie.</l>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>J’ai, pendant le sermon, peur de m’être endormie,</l>
+<l>Madame, et j’en exprime ici mon repentir.</l>
+<l>Mais cela ne fait rien. Je veux la convertir,</l>
+<l>Car je ne puis souffrir les modes calvinistes.</l>
+<l>Fi d’un Dieu que l’on prie en toilettes si tristes !</l>
+<l>Je suis pour le satin, l’or et les diamants ;</l>
+<l>Et j’empêcherai bien qu’avec ces yeux charmants,</l>
+<l>Notre jolie enfant soit plus longtemps rebelle</l>
+<l>A la religion qui permet d’être belle.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Folle ! vous rirez donc toujours ?</l>
+<pstage>Nanon entre.</pstage>
+<l cont='true'>Que veut Nanon ?</l>
+
+<pagenum num="209"/>
+
+<h2 id='p11'>SCÈNE IV</h2>
+<cast>LA MARQUISE DE MAINTENON, HENRIETTTE, LA COMTESSE, LOUVOIS, NANON.</cast>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l>Madame, on vous demande une audience.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Non !</l>
+<l>Quelque solliciteur à chaque pas m’arrête.</l>
+<l>Je ne puis. Et si j’ai le crédit qu’on me prête,</l>
+<l>C’est que j’en ai toujours usé discrètement.</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l>Mais, Madame, on ne veut vous parler qu’un moment,</l>
+<l>Et puis ce visiteur a l’air d’un gentilhomme.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Enfin !... T’a-t-il, au moins, dit comment il se nomme ?</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l>Oui. — Monsieur de Méran.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, avec épouvante.</hstage>
+<l cont='true'>Lui !</l>
+
+<pagenum num="210"/>
+
+<hstage><speaker>HENRIETTE</speaker>, à part, avec une surprise heureuse.</hstage>
+<l cont='true'>Lui !</l>
+
+<hstage><speaker>LOUVOIS</speaker>, à part.</hstage>
+<l cont='true'>Qu’ai-je entendu ?</l>
+<l>Méran ! L’ancien amant que l’on croyait perdu !</l>
+<l>Oh ! le sort est pour moi !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, dans le plus grand trouble.</hstage>
+<l cont='true'>Dis-moi, Nanon, ma fille...</l>
+<l>Ce gentilhomme est là ?</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l cont='true'>Derrière la charmille,</l>
+<l>A quelques pas d’ici. Dois-je l’aller quérir ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part, défaillante.</hstage>
+<l>Antoine qui revient ?... Oh ! je me sens mourir.</l>
+
+<hstage><speaker>LA COMTESSE</speaker>, avec empressement.</hstage>
+<l>Mais qu’avez-vous, Madame ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>, regardant madame de Maintenon dans les yeux.</hstage>
+<l cont='true'>Oui... vous êtes troublée.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, se dominant.</hstage>
+<l>La journée est humide et m’a toute accablée...</l>
+<l>Parfois, par ce temps-ci, ce vertige me prend.</l>
+<l>— Nanon, va me chercher ce Monsieur de Méran.</l>
+<pagenum num="211"/>
+<pstage>Nanon sort. — A Henriette et à la comtesse.</pstage>
+<l>Je vais mieux. Laissez-moi, Mesdames, je vous prie.</l>
+<pstage>Henriette et la comtesse sortent. La marquise reste accablée, à l’avant-scène.</pstage>
+<pstage>A part.</pstage>
+<l>Oh ! le revoir !</l>
+
+<hstage><speaker>LOUVOIS</speaker>, au fond, à part, la menaçant du geste.</hstage>
+<l cont='true'>Marquise, assez de duperie !</l>
+<l>A nous deux ! Le vengeur ne revient pas trop tard.</l>
+<pstage>Apercevant Samuel, qui entre, introduit par Nanon.</pstage>
+<l>Ce jeune homme ! un Méran !... Oh ! peut-être un bâtard !</l>
+<pstage>Il sort.</pstage>
+
+<h2 id='p12'>SCÈNE V</h2>
+<cast>LA MARQUISE DE MAINTENON, SAMUEL DE MÉRAN.</cast>
+
+<hstage><speaker>SAMUEL</speaker>, saluant.</hstage>
+<l>Madame la marquise...</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part, avec effroi.</hstage>
+<l cont='true'>Oh ! sa voix !... Du courage.</l>
+<pstage>Elle se retourne et le regarde, puis, épouvantée.</pstage>
+<l>Lui ! c’est lui !... Voila bien son regard... son visage...</l>
+<pagenum num="212"/>
+<l>Lui, tel qu’il est parti !... Lui, toujours jeune et beau !</l>
+<l>Est-ce donc son fantôme, et sort-il du tombeau ?</l>
+
+<hstage><speaker>SAMUEL</speaker>, gravement.</hstage>
+<l>Calmez cette frayeur, Madame. Car la tombe</l>
+<l>Se ferme pour toujours, hélas ! quand on y tombe.</l>
+<l>Celui dont vous croyez voir le spectre est au ciel :</l>
+<l>Antoine est mort... Je suis son frère Samuel.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Comment ! Antoine est mort ! C’est vrai ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Voyez ! je pleure.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Antoine est mort... mon Dieu !... Pardon ! mais tout à l’heure</l>
+<l>Quand vous avez paru devant mes yeux troublés,</l>
+<l>J’avais cru voir son spectre, et vous lui ressemblez</l>
+<l>A tel point...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Il n’est plus, depuis un an, Madame.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Ah ! la terreur fait place au chagrin dans mon âme.</l>
+<l>Mort ! avez-vous dit ? Mort !...</l>
+
+<pagenum num="213"/>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Dois-je croire à ceci ?</l>
+<l>Vous en souveniez-vous ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Voyez ! je pleure aussi.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Je viens pour accomplir ici son vœu suprême.</l>
+<l>Ne lui dîtes-vous pas autrefois : — Je vous aime,</l>
+<l>Et je vous attendrai. Partez, pour revenir !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Oui.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Si vous en avez gardé le souvenir,</l>
+<l>Il l’eut toujours présent, jusqu’à son agonie.</l>
+<l>Ah ! lorsqu’il arriva dans cette colonie,</l>
+<l>Où, serrant son épée avec ses parchemins,</l>
+<l>Lui, noble, il a vécu du travail de ses mains,</l>
+<l>Il aimait, il croyait qu’on l’attendait en France.</l>
+<l>Antoine, soutenu par sa chère espérance,</l>
+<l>Fut tour à tour colon, boucanier, chercheur d’or.</l>
+<l>Tout échoua pour lui... Je crois le voir encor</l>
+<l>Le soir, assis au seuil de sa maison de planches,</l>
+<l>Regarder sur la mer partir les voiles blanches,</l>
+<pagenum num="214"/>
+<l>Plus sombre chaque jour, et pressentant tout bas</l>
+<l>Que comme elles, en France, il ne reviendrait pas.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Antoine !... Pauvre ami !...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Les mois, les ans passèrent</l>
+<l>Et ses derniers espoirs lentement s’effacèrent.</l>
+<l>Pauvre frère ! il était sans nouvelles de vous.</l>
+<l>Il apprit seulement la mort de votre époux,</l>
+<l>Et puis, plus tard, — fortune étrange et surprenante ! —</l>
+<l>Que des bâtards du Roi vous étiez gouvernante.</l>
+<l>Pleurant, plus que le sien, votre bonheur perdu,</l>
+<l>Souvent il vous plaignait de l’avoir attendu.</l>
+<l>Une fièvre le prit... Sa vie était frappée...</l>
+<l>Un soir, il m’embrassa, me donna son épée ;</l>
+<l>Triste, il me confia son secret tout entier,</l>
+<l>Et tirant de son sein ce livre, ce psautier,</l>
+<l>M’y montra cette date : Août, seize-cent-soixante,</l>
+<l>Ces deux mots : <i>au revoir</i>, et le nom de l’absente.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Hélas ! hélas !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Retourne en France, me dit-il ;</l>
+<l>Va vers elle, dis-lui que je meurs en exil,</l>
+<pagenum num="215"/>
+<l>La bénissant encore et gardant toujours d’elle</l>
+<l>Le même souvenir pur, profond et fidèle...</l>
+<l>— Puis, signant et datant de ce funèbre lieu,</l>
+<l>Sur ce même psautier il écrivit : Adieu !</l>
+<pstage>Après avoir remis le livre à madame de Maintenon.</pstage>
+<l>J’exécute aujourd’hui ce qu’il m’a dit de faire.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Samuel, je prierai toujours pour votre frère,</l>
+<l>Et je veux conserver ce livre à tout jamais.</l>
+<l>Mais il me reste encor de l’homme que j’aimais</l>
+<l>Un autre souvenir plus cher.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Lequel ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Vous-même.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Moi ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>J’interpréterais bien mal le legs suprême</l>
+<l>D’Antoine de Méran, si mon cœur n’accordait</l>
+<l>Toute sa bienveillance à ce frère cadet,</l>
+<l>A ce cher dernier-né qu’il aima comme un père.</l>
+
+<pagenum num="216"/>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Madame !...</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Ce devoir est bien doux, et j’espère</l>
+<l>Vous aider, Samuel, et vous porter bonheur.</l>
+<l>Vous savez que le Roi me traite avec honneur</l>
+<l>Et que Sa Majesté, comme marque d’estime,</l>
+<l>Daigne parfois m’admettre en son conseil intime.</l>
+<l>Eh bien ! tout le crédit, tout le pouvoir que j’ai...</l>
+
+<hstage><speaker>SAMUEL</speaker>, l’arrêtant du geste.</hstage>
+<l>Pardon ! Je ne saurais être le protégé .</l>
+<l>Du Roi.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Vous n’êtes pas catholique. Qu’importe ?</l>
+<l>Pour le faire oublier, je crois être assez forte.</l>
+<l>Vous évoquez en moi le bonheur ancien,</l>
+<l>Cher enfant ! Ce regard, que je prends pour le sien,</l>
+<l>M’inspire une amitié douce et passionnée</l>
+<l>Qui me fait votre mère ou votre sœur aînée.</l>
+<l>Dites, que voulez-vous ? Confiez-vous à moi.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Madame, grand merci ! Ni de vous, ni du Roi,</l>
+<l>Je n’accepterai rien.</l>
+
+<pagenum num="217"/>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Mais pourquoi ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Les prières</l>
+<l>Qu’après l’heure terrible et les affres dernières,</l>
+<l>Et lorsque j’eus cousu mon frère en son linceul,</l>
+<l>Je lisais dans le vieux psautier de votre aïeul,</l>
+<l>Sont celles qu’aujourd’hui ce même Roi de France,</l>
+<l>Qui vient de révoquer l’édit de tolérance,</l>
+<l>Interdit d’adresser à Dieu ; ce sont aussi</l>
+<l>Celles que vont chantant, juste en ce moment-ci,</l>
+<l>Les pauvres protestants exilés du royaume,</l>
+<l>Qui tous, laissant maisons de pierre ou toits de chaume,</l>
+<l>Ont accepté, plutôt que de se convertir,</l>
+<l>L’exil d’où je reviens, mais pour y repartir.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Que dites-vous ? L’édit vous chasse ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Comme un autre.</l>
+<l>Je ne sais sur le Roi quel pouvoir est le vôtre ;</l>
+<l>Mais celle à qui j’ai fait les adieux d’un mourant,</l>
+<l>Celle pour qui mon frère, Antoine de Méran,</l>
+<l>Succomba sous vingt ans d’efforts et de misère,</l>
+<pagenum num="218"/>
+<l>Celle-là — laissez-moi, Madame, être sincère ! —</l>
+<l>Celle-là qui descend d’Agrippa d’Aubigné,</l>
+<l>Est, aux yeux du parti protestant indigné,</l>
+<l>Auprès de ce grand Roi, qu’elle pousse à sa chute,</l>
+<l>La femme qui nous hait et qui nous persécute !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Ah ! n’en dites pas plus... Je ne souffrirai point</l>
+<l>Que pour moi votre esprit soit injuste à ce point.</l>
+<l>Aux yeux des huguenots, quel est le crime énorme</l>
+<l>Que j’ai commis ? Le Roi condamne la Réforme ;</l>
+<l>Il est pieux ; il veut de France l’arracher.</l>
+<l>Qui vous dit que je n’ai rien fait pour l’empêcher ?</l>
+<l>Mais c’est moi qu’on accuse... et pourquoi, je vous prie ?</l>
+<l>Pourquoi ? Parce qu’un soir, à ma tapisserie,</l>
+<l>Voyant ce Roi, qui n’a qu’à froncer les sourcils</l>
+<l>Pour que tous les vieillards à son conseil assis</l>
+<l>Pâlissent, et qu’au loin l’Europe s’en effare,</l>
+<l>Voyant, dis-je, ce Roi de France et de Navarre</l>
+<l>Mettre une signature au bas d’un parchemin,</l>
+<l>Je n’ai pas arraché la plume de sa main !...</l>
+<l>La Réforme, je l’ai bien plutôt protégée :</l>
+<l>C’est une erreur que j’ai naguère partagée ;</l>
+<l>Je n’aurais pas voulu qu’on la persécutât.</l>
+<l>Mais, que faire ? l’Église et la raison d’État</l>
+<pagenum num="219"/>
+<l>L’exigeaient... Cet édit, au fond, je le déplore...</l>
+<l>Mais suis-je reine, enfin ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Pas tout à fait encore.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Ah ! vous êtes injuste et vous êtes cruel !</l>
+<l>Mais mon cœur ne peut pas admettre, Samuel,</l>
+<l>Que vous me condamniez, ainsi, sur l’apparence.</l>
+<l>Car, lorsque votre frère eut émigré de France,</l>
+<l>Ce que j’ai souffert, moi, dites, le savez-vous ?</l>
+<l>Seule, sans vrais amis, veuve, et de quel époux</l>
+<l>J’ai vécu de cadeaux et de dîners en ville.</l>
+<l>Je fus auprès des grands l’amie humble et servile,</l>
+<l>La pauvre protégée, et je le dis, mon Dieu !</l>
+<l>A peu près la servante... A l’hôtel Richelieu,</l>
+<l>On m’envoyait pour faire avancer le carrosse...</l>
+<l>Et j’étais jeune et belle, et... tenez, c’est atroce !</l>
+<l>Dans ces salons dorés, seule en mes noirs habits,</l>
+<l>On ne saura jamais quels dégoûts j’ai subis ;</l>
+<l>Puis ce sont les bâtards qu’à mes soins on confie ;</l>
+<l>J’entre à la Cour... Encore une agréable vie !</l>
+<l>Et cette Montespan, dont m’outrageait l’orgueil,</l>
+<l>Et toujours ces regards baissés, toujours ce deuil,</l>
+<l>Toujours ce masque froid de dévote et de prude,</l>
+<pagenum num="220"/>
+<l>C’est horrible ! et quand j’ai, par un travail si rude,</l>
+<l>A force de sévère et patient devoir,</l>
+<l>Moi qui voulais la paix, obtenu le pouvoir ;</l>
+<l>Quand je me crois tranquille et respectée en somme,</l>
+<l>Un enfant que j’allais aimer, un tout jeune homme,</l>
+<l>Ignorant, qui la veille était à l’étranger,</l>
+<l>Prend une calomnie et vient pour m’outrager !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Soit ! Madame, j’ai tort, et tout vous justifie.</l>
+<l>A mon âge on n’a pas tant de philosophie...</l>
+<l>Pardon, pourtant, d’avoir durement refusé</l>
+<l>Ce que spontanément vous m’avez proposé.</l>
+<l>Mais la foi qu’on opprime a la parole amère.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Adieu donc !... Cependant, vous n’avez pas de mère,</l>
+<l>Pas de parents, d’amis, de conseil, ici-bas...</l>
+<l>Vous m’avez repoussée... Oh ! je n’insiste pas...</l>
+<l>Mais, si quelque danger planait sur votre tête,</l>
+<l>Souvenez-vous de moi. Je serai toujours prête.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Bientôt je pars, Madame, avec tous les bannis.</l>
+<l>Pourtant, je vous rends grâce.</l>
+
+<pagenum num="221"/>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Et moi, je vous bénis.</l>
+<pstage>Elle sort.</pstage>
+
+<h2 id='p13'>SCÈNE VI</h2>
+<cast>SAMUEL, HENRIETTE.</cast>
+
+<hstage><speaker>SAMUEL</speaker>, seul.</hstage>
+<l>Ah ! la pitié s’agite en mon âme inquiète,</l>
+<l>Et peut-être ai-je été trop sévère...</l>
+<pstage>Henriette entre et court à lui.</pstage>
+<l cont='true'>Henriette !</l>
+<l>Henriette ! — O hasard bienheureux ! Mais pourquoi</l>
+<l>Vous trouvé-je à la Cour ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Samuel, sauvez-moi !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Vous courez un danger !... Grand Dieu ! par mon épée</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Pour vous voir un instant, je me suis échappée.</l>
+<l>J’étais ici lorsque vous annonça Nanon.</l>
+
+<pagenum num="222"/>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Ici, sans doute, avec votre père ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Hélas ! non.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Je vous vis près de lui, voilà trois mois à peine,</l>
+<l>A Toulon.</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Mais depuis, avec monsieur Duquesne,</l>
+<l>A bord de la frégate il est à voyager,</l>
+<l>Et va donnant la chasse aux pirates d’Alger.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Il vous laissa donc seule ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>A peine une semaine.</l>
+<l>Car la Marquise — elle est ma cousine germaine — </l>
+<l>M’a fait alors venir à Versailles.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Comment ?</l>
+<l>Dans quel but ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>J’avais cru, d’abord, ingénument,</l>
+<l>Qu’en amie et craignant pour moi la solitude...</l>
+
+<pagenum num="223"/>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Eh bien ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Non. Chaque jour j’acquiers la certitude</l>
+<l>Qu’à la Cour la Marquise a voulu m’attirer,</l>
+<l>Seule, auprès d’elle, afin de me faire abjurer.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Est-ce possible ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Elle est, au fond, très alarmée</l>
+<l>De compter des parents dans la foi réformée.</l>
+<l>On se sert de cela contre elle, auprès du Roi.</l>
+<l>Si je me convertis, elle espère, par moi,</l>
+<l>Que mon père à son tour...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Faire abjurer le comte ?</l>
+<l>Jamais !... Et vous avez bien résisté ! j’y compte,</l>
+<l>Car le plus grand malheur qui pût nous arriver,</l>
+<l>Serait...</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Je vous ai dit, ami, de me sauver !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Vous hésitez ?</l>
+
+<pagenum num="224"/>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Ma foi, Samuel, est tenace.</l>
+<l>Mais, quelquefois, leur voix qui séduit et menace,</l>
+<l>Me fait rêver comme Ève écoutant le serpent.</l>
+<l>On me dit que le sort de mon père en dépend...</l>
+<l>Par instants, je faiblis et ne sais plus que faire.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Et je me reprochais d’avoir été sévère !</l>
+<l>Et tantôt j’épargnais encor, sur mon honneur,</l>
+<l>Cette femme qui veut me voler mon bonheur !</l>
+<l>— Oh ! dites-moi que j’ai votre âme ressaisie,</l>
+<l>Que vous ne songez plus à cette apostasie !</l>
+<l>Je connais votre père et vous parle en son nom,</l>
+<l>Henriette ! Jurez que vous leur direz non !</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Oh ! oui, répétez-moi que je suis insensée,</l>
+<l>Ami !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Vous souvient-il de notre traversée,</l>
+<l>Lorsque, de la Guyane ayant quitté le port,</l>
+<l>Le comte d’Aubusson vous avait à son bord ?</l>
+<l>C’est là que vous avez deviné la souffrance</l>
+<l>Du triste passager qui revenait en France,</l>
+<l>En laissant un tombeau sur la terre d’exil.</l>
+<pagenum num="225"/>
+<l>C’est là, chère Henriette, oh ! vous en souvient-il ?</l>
+<l>Qu’un soir où le vaisseau marchait à pleines voiles.</l>
+<l>Et que dans l’Océan se miraient les étoiles,</l>
+<l>Avec des yeux émus vous avez regardé</l>
+<l>Le pauvre voyageur au bordage accoudé,</l>
+<l>De qui l’âme, par vous au désespoir ravie,</l>
+<l>Se donna tout entière et pour toute la vie.</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Je me souviens aussi qu’alors, ô Samuel,</l>
+<l>Nous nous sommes promis un amour mutuel,</l>
+<l>Que mon père si bon, pénétrant ma pensée,</l>
+<l>Vous laissa me donner le nom de fiancée,</l>
+<l>Et que tout mon bonheur au vôtre fut lié.</l>
+<l>— Vous le voyez, ami ! je n’ai pas oublié.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Mais, si vous me gardez cette amitié constante,</l>
+<l>Pensez donc qu’en quittant l’église protestante</l>
+<l>Vous mettez entre nous un obstacle éternel !</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Oh ! pardon !... Je vous fais un serment solennel...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Non pas ! Songez d’abord au sort qui me menace ;</l>
+<l>Songez que cet édit nous dépouille et nous chasse ;</l>
+<pagenum num="226"/>
+<l>Songez bien qu’en jurant de garder notre foi,</l>
+<l>Vous voulez la misère et l’exil avec moi.</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Ah ! Samuel ces mots me semblent une injure.</l>
+
+<hstage><speaker>SAMUEL</speaker>, avec joie.</hstage>
+<l>Jure alors, ô ma bien-aimée !</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Oui, je le jure !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Merci ! car maintenant j’ai sauvé notre amour.</l>
+<pstage>Regardant dans une des allées.</pstage>
+<l>Mais, qui vient là ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Le Roi !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Le Roi ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Toute la Cour.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Ce Roi qui veut que l’âme, aussi, soit son esclave !</l>
+<l>Je ne le verrai pas. — Adieu ! Vous serez brave,</l>
+<l>N’est-ce pas, Henriette ?</l>
+
+<pagenum num="227"/>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Oh ! je vous le promets.</l>
+<l>Mais quand reviendrez-vous ?</l>
+
+<hstage><speaker>SAMUEL</speaker>, lui baisant les mains.</hstage>
+<l cont='true'>A demain !</l>
+
+<hstage><speaker>HENRIETTE</speaker>, lui envoyant un dernier baiser.</hstage>
+<l cont='true'>A jamais !</l>
+
+<pstage>Samuel sort, et le Roi, entouré de toute la Cour, entre au fond. — Parmi la foule des courtisans, Puget, le duc, le maréchal, le chevalier et la comtesse. Louvois, un peu à l’écart. Louis XIV se tient auprès de la marquise de Maintenon, dont les vêtements sombres font contraste avec les costumes brillants des autres dames.</pstage>
+
+<h2 id='p14'>SCÈNE VII</h2>
+<cast>LOUIS XIV <s>ET</s> SA COUR</cast>
+
+<hstage><speaker>LE ROI</speaker>, à Puget.</hstage>
+<l>Nous admirons beaucoup ce Milon de Crotone,</l>
+<l>Vraiment, Monsieur Puget, et notre esprit s’étonne</l>
+<l>Que toujours le sculpteur fasse du marbre dur</l>
+<l>Jaillir si sûrement le contour ferme et pur,</l>
+<l>Et soit maître à ce point de l’outil qu’il manie...</l>
+<pagenum num="228"/>
+<l>Oui, pour ne pas trembler, il faut votre génie,</l>
+<l>Lorsque vous entamez, Monsieur, un bloc pareil.</l>
+
+<hstage><speaker>PUGET</speaker>.</hstage>
+<l>Sire, le bon Homère eut lui-même sommeil.</l>
+<l>Mais quand la forme enfin frémit sous la matière,</l>
+<l>Quand l’inspiration me saisit l’âme entière,</l>
+<l>En prenant mon marteau je ne sens nul émoi,</l>
+<l>Et c’est le marbre alors qui tremble devant moi.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Bien dit, Monsieur Puget ! Nous voulons, pour vous plaire,</l>
+<l>Que vous sculptiez pour nous un type de galère</l>
+<l>Qui rende nos voisins de Hollande jaloux...</l>
+<l>En vérité, devant des hommes tels que vous,</l>
+<l>Un vrai Roi sent toujours qu’il est trop économe.</l>
+<l>— Notez, Monsieur Lebrun !...</l>
+<pstage>Le Roi et la Cour descendent à l’avant-scène.</pstage>
+
+<hstage><speaker>LOUVOIS</speaker>, à part, isolé, observant la marquise.</hstage>
+<l cont='true'>En quittant ce jeune homme</l>
+<l>La Marquise tenait un livre dans sa main.</l>
+<l>Quel peut être ce livre ? — Oh ! je l’aurai demain.</l>
+
+<hstage><speaker>LE ROI</speaker>, à madame de Maintenon.</hstage>
+<l>Ah ! Madame, Mansart nous donne des nouvelles</l>
+<pagenum num="229"/>
+<l>Qui vont réjouir fort vos jeunes demoiselles :</l>
+<l>Il pousse activement les travaux de Saint-Cyr.</l>
+<l>C’est un projet que j’aime et qui doit réussir,</l>
+<l>Non pas tant pour son but utile et sa largesse,</l>
+<l>Mais bien parce qu’il est né de votre sagesse.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Oh ! vous me comblez, Sire, et Votre Majesté</l>
+<l>Estime beaucoup trop l’œuvre de charité</l>
+<l>Qui me fit partager aux filles de naissance</l>
+<l>Les bienfaits que je tiens de sa munificence.</l>
+<l>A Rueil, j’ai commencé cet établissement ;</l>
+<l>Mais je me souvenais pour cela seulement</l>
+<l>D’avoir été jadis seule, pauvre, orpheline.</l>
+<l>Mais, quand vous le prenez sous votre discipline,</l>
+<l>Sire, quand vous ouvrez ses abris protecteurs</l>
+<l>Aux plus pauvres enfants de vos bons serviteurs</l>
+<l>Pour leur rendre, plus tard, des épouses parfaites,</l>
+<l>Vous faites grand, ainsi que tout ce que vous faites,</l>
+<l>Et c’est m’apprécier bien plus que je ne vaux.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Non pas. — Mais nous irons visiter les travaux</l>
+<l>Dés demain. Nous voulons qu’ils soient à notre guise.</l>
+<l>Puis, si vous permettez, Madame la Marquise,</l>
+<pagenum num="230"/>
+<l>Nous nous occuperons de ceux de Maintenon.</l>
+<pstage>La marquise s’incline, le Roi lui prend la main et s’éloigne, suivi de toute sa Cour.</pstage>
+
+<hstage><speaker>LE MARÉCHAL</speaker>, bas, au duc.</hstage>
+<l>Oui, vous disiez vrai, duc, c’est notre reine.</l>
+
+<hstage><speaker>LOUVOIS</speaker>, à part.</hstage>
+<l cont='true'>Non !</l>
+
+ </page-sequence>
+ <page-sequence recto='true' id='p15'>
+ <pagenum num="231"/>
+
+<h1>ACTE DEUXIÈME</h1>
+
+<vsep class="rule"/>
+
+<pstage>Une crypte dans les catacombes de Paris. Plusieurs galeries se perdent dans les ténèbres. La scène est éclairée par la lumière rouge de deux torches. Sur un bloc de pierre une Bible in-folio, ouverte.</pstage>
+
+<vsep class="rule"/>
+
+<h2 id='p18'>SCÈNE PREMIÈRE</h2>
+<pstage>Au lever du rideau, un certain nombre de membres du synode secret sont arrivés déjà et causent par groupes de trois ou quatre.</pstage>
+<cast>SAMUEL DE MÉRAN, LE BARON DE CROIX SAINT-PAUL, M. DE PONS, M. DE TRACY et UN MINISTRE en robe noire.</cast>
+
+<pstage>Quand un nouveau membre du synode entre en scène, en nommant la province qui l’envoie, il étend sa main droite, grande ouverte, et montre aux autres la paume de son gant noir, où est cousue une croix en drap rouge.</pstage>
+
+<hstage><speaker>M. DE PONS</speaker>, au baron de Croix Saint-Paul.</hstage>
+<l>Et combien serons-nous, ce soir ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, vieillard tout blanc.</hstage>
+<l cont='true'>Une trentaine.</l>
+<l>Mais on vient... Qui va là ?</l>
+
+<pagenum num="232"/>
+
+<hstage><speaker>DEUX HUGUENOTS</speaker>, entrant en présentant leur gant.</hstage>
+<l cont='true'>Normandie. — Aquitaine.</l>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l>Où pourra-t-on s’asseoir pour siéger ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>N’importe où.</l>
+<l>Par terre, sur ces blocs.</l>
+
+<hstage><speaker>TROIS AUTRES HUGUENOTS</speaker>, entrant.</hstage>
+<l cont='true'>Saintonge. — Aunis. — Poitou.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Les provinces vont être au complet.</l>
+
+<hstage><speaker>DEUX AUTRES HUGUENOTS</speaker>.</hstage>
+<l cont='true'>Picardie. — </l>
+<l>Guyenne.</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l cont='true'>C’est un vrai décor de tragédie</l>
+<l>Que vous nous donnez là, baron de Croix Saint-Paul.</l>
+<l>Brrr ! Qu’il fait froid !...</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Messieurs, au pays cévénol,</l>
+<l>Nous allons au désert pour tenir l’assemblée.</l>
+<l>Celle-ci, j’en réponds, ne sera pas troublée,</l>
+<pagenum num="233"/>
+<l>Mais je me méfiais des portes et des murs :</l>
+<l>J’ai choisi ce tombeau.</l>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l cont='true'>Sommes-nous donc bien sûrs</l>
+<l>Qu’on ne puisse épier quelque part, sous ces voûtes ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Non, cette galerie est déserte entre toutes.</l>
+<l>Deux carriers y sont morts, écrasés, l’autre mois.</l>
+<l>On ne s’y risque plus.</l>
+
+<hstage><speaker>DEUX AUTRES HUGUENOTS</speaker>.</hstage>
+<l cont='true'>Roussillon. — Angoumois.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Ils sont exacts. C’est bien.</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l cont='true'>D’ailleurs l’heure s’avance.</l>
+
+<hstage><speaker>D’AUTRES MEMBRES</speaker>, arrivant.</hstage>
+<l>Maine. — Perche. — Berry. — Béarn. — Artois. — Provence.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, au Ministre.</hstage>
+<l>Nous pouvons commencer.</l>
+<pstage>A voix haute.</pstage>
+<l cont='true'>Le synode est ouvert,</l>
+<l>Messieurs.</l>
+<pagenum num="234"/>
+
+<pstage>Les assistants se rangent en demi-cercle, à droite et à gauche. Le Ministre se place près du bloc où est la Bible, et Croix Saint-Paul est à ses côtés, exerçant une sorte de présidence.</pstage>
+
+<hstage><speaker>LE MINISTRE</speaker>.</hstage>
+<l cont='true'>Frères, pour qui Jésus-Christ a souffert,</l>
+<l>Et qui venez ici des confins du royaume,</l>
+<l>Nous lirons le Psalmiste en son septième psaume.</l>
+
+<pstage>Tous se découvrent. — Il lit.</pstage>
+
+<poem>
+<lg>
+<l>— David chante touchant le Benjamite Cus :</l>
+<l>Éternel, ô mon Dieu ! vers toi je me retire,</l>
+<l>De peur que le lion cruel ne me déchire.</l>
+<l>Confonds mes ennemis et fais qu’ils soient vaincus !</l>
+</lg>
+<lg>
+<l>Si des iniquités que m’impute l’envie,</l>
+<l>Éternel, ô mon Dieu ! je suis vraiment l’auteur,</l>
+<l>Si j’ai commis le mal, que mon persécuteur</l>
+<l>Mette ma gloire en poudre et foule aux pieds ma vie !</l>
+</lg>
+<lg>
+<l>Ton peuple est assemblé ; tu sièges au milieu.</l>
+<l>Je mets mon innocence aux pieds de ta justice.</l>
+<l>Que sur l’homme pervers ta main s’appesantisse,</l>
+<l>Toi qui sondes les reins et les cœurs, ô mon Dieu !</l>
+</lg>
+<lg>
+<l>Lève-toi ! Car ta droite est juste et rigoureuse.</l>
+<l>Le méchant de son glaive aiguise le tranchant ;</l>
+<pagenum num="235"/>
+<l>Retourne contre lui le glaive du méchant,</l>
+<l>Et fais-le choir au fond de la fosse qu’il creuse.</l>
+</lg>
+<lg>
+<l>Lève-toi ! Lève-toi dans ta colère ! Il faut</l>
+<l>De son forfait frapper la tête criminelle ;</l>
+<l>Et je célébrerai ta justice éternelle,</l>
+<l>Et je psalmodierai le nom du Dieu très haut ! — </l>
+</lg>
+</poem>
+
+<hstage><speaker>TOUS</speaker>.</hstage>
+<l>Amen.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, après un silence.</hstage>
+<l cont='true'>Et maintenant, entrons en conférence.</l>
+
+<pstage>Les membres du synode se groupent diversement, les uns debout, les autres assis sur des pierres.</pstage>
+
+<l>Députés protestants du royaume de France,</l>
+<l>De la religion purs et fermes soutiens,</l>
+<l>Sous ces voûtes, ainsi que les premiers chrétiens,</l>
+<l>Nous nous réunissons sans mauvaise pensée</l>
+<l>Et nous voulons sauver notre foi menacée.</l>
+<l>Le pacte d’Henri quatre avec les protestants,</l>
+<l>Cet édit, qui depuis soixante-dix-sept ans</l>
+<l>Nous avait protégés, cet autel trop fragile</l>
+<l>Sur lequel nous avions posé notre Évangile,</l>
+<l>Il n’est plus ; et le Roi vient de l’anéantir.</l>
+<l>L’alternative est simple : ou rebelle, ou martyr.</l>
+<pagenum num="236"/>
+<l>Faut-il fuir, ou venger la bonne foi trompée ?</l>
+<l>Prendrons-nous le bâton du proscrit, ou l’épée ?</l>
+<l>Choisissons, mes amis, et rendons, en ce lieu,</l>
+<l>Ce qu’on doit à César, et ce qu’on doit à Dieu.</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l>La révocation de l’édit est un crime.</l>
+<l>Nous devons résister.</l>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l cont='true'>La lutte est légitime.</l>
+<l>La conscience humaine est au-dessus des rois.</l>
+
+<hstage><speaker>UN MEMBRE DU SYNODE</speaker>.</hstage>
+<l>Nos temples sont rasés depuis quatre-vingt-trois,</l>
+<l>Et l’édit est d’hier...</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l cont='true'>Il faut des représailles ;</l>
+<l>Le Rhône est rouge encor des meurtres de Noailles.</l>
+<l>Œil pour œil, dent pour dent. La loi du talion !</l>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l>Au parjure on répond par la rébellion ;</l>
+<l>Et nous vivions en paix sous nos lois respectées.</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l>Le Vivarais est las des missions bottées ;</l>
+<l>Il est prêt.</l>
+
+<pagenum num="237"/>
+
+<hstage><speaker>UN MEMBRE DU SYNODE</speaker>.</hstage>
+<l cont='true'>En Béarn, déjà, nous nous liguons</l>
+<l>Pour chasser de chez nous Boufflers et ses dragons.</l>
+<l>Je suis sûr de Bayonne.</l>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l cont='true'>Et je réponds de Nîmes.</l>
+
+<hstage><speaker>TOUS</speaker>.</hstage>
+<l>Oui, guerre ! guerre à mort !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Vous êtes unanimes, Messieurs.</l>
+<l>Soit ! Combattons et mourons en chrétiens</l>
+<l>Mais, de vaincre avons-nous l’espoir et les moyens ?</l>
+<l>Aux plus gros bataillons appartient la victoire,</l>
+<l>Hélas ! Rappelons-nous notre sanglante histoire ;</l>
+<l>Oui, rappelons-nous Dreux, Jarnac et Moncontour.</l>
+<l>Je pense, mes amis, — je le dis sans détour, — </l>
+<l>Que votre enthousiasme est trop prompt, et s’abuse.</l>
+<l>Décrocher de son clou quelque vieille arquebuse,</l>
+<l>Changer en guet-apens nos monts et nos forêts,</l>
+<l>Cela, nous le pouvons peut-être... Mais, après ?...</l>
+<l>Quand nous réunirons quelques milliers d’épées,</l>
+<l>Des troupes sans argent, sans chefs, mal équipées,</l>
+<l>Pourrons-nous les mener au combat ? Contre qui ?</l>
+<l>Contre les vieux soldats de Condé, de Créqui,</l>
+<pagenum num="238"/>
+<l>De Catinat ? Messieurs, je vous le dis : Chimère !</l>
+<l>J’en souffre, mais j’en ai la certitude amère :</l>
+<l>Sans gloire ni profit, c’est courir au trépas.</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l>Baron de Croix Saint-Paul, ne découragez pas ;</l>
+<l>La route de l’exil n’est que trop fréquentée.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Hélas !... Ah ! si par vous pouvait être acceptée,</l>
+<l>Dans ce péril commun, une offre que je sais,</l>
+<l>Je pourrais, sur ma foi, répondre du succès.</l>
+
+<hstage><speaker>VOIX DIVERSES</speaker>.</hstage>
+<l>Une offre ? — Quoi ? — Laquelle ? — Expliquez-vous !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Qu’on m’aide</l>
+<l>Seulement, et je puis à tout porter remède.</l>
+<l>Mais, l’on refusera.</l>
+
+<hstage><speaker>VOIX DIVERSES</speaker>.</hstage>
+<l cont='true'>Mais non ! — Parlez ! — Parlez !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Eh bien ! écoutez donc alors, si vous voulez</l>
+<l>Que sous notre étendard la victoire se range,</l>
+<l>Les propositions de Guillaume d’Orange.</l>
+
+<pagenum num="239"/>
+
+<hstage><speaker>SAMUEL DE MÉRAN</speaker>, qui est resté assis sur un bloc de pierre, se lève brusquement et dit, avec une indignation douloureuse :</hstage>
+<l>L’appel à l’étranger ! Ah !...</l>
+<pstage>Moment de silence général.</pstage>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Son agent secret</l>
+<l>Attend votre plaisir, à s’expliquer tout prêt.</l>
+<l>Le synode veut-il qu’ici je l’introduise ?</l>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l>Nous revenons au temps des Valois et des Guise ;</l>
+<l>Mais n’importe...</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l cont='true'>Poussons les choses jusqu’au bout.</l>
+<pstage>Tandis que le baron de Croix Saint-Paul sort pour chercher l’Envoyé de Hollande, des conversations s’échangent à voix basse.</pstage>
+
+<hstage><speaker>SAMUEL</speaker>, à part.</hstage>
+<l>L’appel à l’étranger ! Juste Dieu ! mon sang bout.</l>
+<l>Ah ! quelle aveugle est donc la conscience humaine,</l>
+<l>Que la vertu parfois jusqu’au crime la mène !</l>
+<l>O masque des partis, tu tombes à mes yeux :</l>
+<l>Aujourd’hui, des martyrs ; demain, des factieux !</l>
+<pstage>Croix Saint-Paul rentre, accompagné de l’Envoyé de Hollande. Un silence attentif s’établit dans le synode.</pstage>
+
+<pagenum num="240"/>
+
+<h2 id='p19'>SCÈNE II</h2>
+<cast>L<s>ES</s> M<s>ÊMES</s>, L’ENVOYÉ DE HOLLANDE.</cast>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, à l’Envoyé.</hstage>
+<l>Le synode, Monsieur, veut bien qu’on vous entende,</l>
+
+<hstage><speaker>L’ENVOYÉ</speaker>.</hstage>
+<l>Messieurs, Guillaume-Henri, stathouder de Hollande,</l>
+<l>Mon maître, m’a chargé de vous faire savoir</l>
+<l>Qu’il considérera toujours comme un devoir</l>
+<l>D’aider et protéger le parti calviniste.</l>
+<l>Son Altesse vous plaint, et voit d’une âme triste</l>
+<l>Les persécutions dont vous êtes l’objet.</l>
+<l>Depuis longtemps, le prince à vos malheurs songeait</l>
+<l>Et voulait vous soustraire à tant de tyrannies :</l>
+<l>Mais rien n’est mûr encor. Les Provinces-Unies</l>
+<l>Saignent, vous le savez, de leurs récents combats.</l>
+<l>Les hommes et l’argent manquent aux Pays-Bas.</l>
+<l>Nous avons pour sujets fâcheux de rêveries,</l>
+<l>En France, les dévots ; à Londres, les tories.</l>
+<l>Les Hollandais, jadis vaincus par vos exploits,</l>
+<l>Ont peur d’être forcés, une seconde fois,</l>
+<l>D’inonder leur pays et d’ouvrir les écluses.</l>
+<pagenum num="241"/>
+<l>Ce ne sont point ici de banales excuses :</l>
+<l>Mon maître est prêt, vous dis-je, à vous porter secours ;</l>
+<l>Et si je fais valoir le prix de son concours,</l>
+<l>C’est pour vous préparer à la juste requête</l>
+<l>Dont je vais devant vous me faire l’interprète.</l>
+<l>Pour sauver votre cause et garder votre foi,</l>
+<l>Messieurs, le stathouder vous fait tenir par moi,</l>
+<l>Sur-le-champ, trois cent mille écus d’or, et vous arme.</l>
+<l>Quand la guerre civile aura jeté l’alarme,</l>
+<l>Et lorsque l’étendard levé des protestants</l>
+<l>Tiendra tout le midi, Guillaume, en même temps,</l>
+<l>Au nord, envahissant la Belgique entamée,</l>
+<l>Apparaîtra, suivi d’une nombreuse armée.</l>
+<l>L’Empereur Léopold et le Roi Charles deux</l>
+<l>Entrent dans notre ligue ; et, pour être sûrs d’eux,</l>
+<l>Nous venons de signer une alliance occulte.</l>
+<l>Vainqueur, le stathouder rétablit votre culte,</l>
+<l>Et de le maintenir toujours vous fait serment.</l>
+<l>Il exige de vous pour cela, seulement,</l>
+<l>De ne pas désarmer ni quitter la campagne</l>
+<l>Qu’il n’ait neutralisé, sans les rendre à l’Espagne,</l>
+<l>Par un traité de paix à la France accordé,</l>
+<l>Maubeuge, Saint-Omer, Valenciennes, Condé,</l>
+<l>Et tout le sol sur qui Louis quatorze allègue</l>
+<l>Le droit qu’il a conquis à la paix de Nimègue.</l>
+
+<pagenum num="242"/>
+
+<hstage><speaker>TOUS</speaker>, avec un long murmure.</hstage>
+<l>Ah !</l>
+
+<hstage><speaker>L’ENVOYÉ</speaker>.</hstage>
+<l cont='true'>Vous consentirez à ce pacte ; sinon,</l>
+<l>Pas un écu sonnant, pas un coup de canon !</l>
+<l>Voyez si vous devez refuser, ou promettre ;</l>
+<l>Mais c’est le dernier mot de mon auguste maître.</l>
+<pstage>Après le discours de l’Envoyé de Hollande, le synode présente un caractère de confusion ; puis on commence à distinguer quelques paroles dans le tumulte des entretiens.</pstage>
+
+<hstage><speaker>UN MEMBRE DU SYNODE</speaker>.</hstage>
+<l>Cette offre est dérisoire !</l>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l cont='true'>Ah ! vous êtes bien prompt.</l>
+<l>Il faut y réfléchir.</l>
+
+<hstage><speaker>UN MEMBRE DU SYNODE</speaker>.</hstage>
+<l cont='true'>Les protestants mourront</l>
+<l>Tous, avant que de voir mutiler le royaume.</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l>Mais, enfin, le pays que réclame Guillaume</l>
+<l>N’est français que depuis l’an soixante-dix-neuf,</l>
+<l>Après tout.</l>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l cont='true'>Oui, le droit de conquête est tout neuf.</l>
+<l>Acceptons.</l>
+
+<pagenum num="243"/>
+
+<hstage><speaker>UN MEMBRE DU SYNODE</speaker>.</hstage>
+<l cont='true'>C’est infâme !</l>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l cont='true'>Eh non ! c’est politique.</l>
+<l>Vous êtes un trembleur !</l>
+
+<hstage><speaker>UN MEMBRE DU SYNODE</speaker>.</hstage>
+<l cont='true'>Et vous, un fanatique !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Silence ! C’est assez de tumulte et d’émoi.</l>
+<l>Aucun de vous n’a plus rien à dire ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Si, moi !</l>
+<l>Moi qui, bien que nouveau venu parmi mes frères,</l>
+<l>Oserai prononcer des paroles sévères ;</l>
+<l>Car je ne comprends pas comment cet homme a pu</l>
+<l>Vous parler si longtemps sans être interrompu ;</l>
+<l>Car, dans ce moment-ci, le rouge au front me monte</l>
+<l>Car je le vois encor vous proposer sans honte,</l>
+<l>A vous chrétiens, à vous nobles, à vous soldats,</l>
+<l>L’or affreux qui frémit dans la main de Judas !</l>
+<l>Courage ! Suivrez-vous jusqu’au bout cet exemple ?</l>
+<l>Cet or, cent fois maudit, qu’il jeta dans le temple</l>
+<l>Quand le feu du remords enfin le consuma</l>
+<pagenum num="244"/>
+<l>Et dont on a payé le champ d’Aceldama,</l>
+<l>Fermerez-vous sur lui votre main mercenaire ?</l>
+<l>Il a vendu son Dieu ! Vendrez-vous votre mère ?</l>
+<l>Ah ! vraiment, cela trouble et passe la raison :</l>
+<l>Pour sa croyance avoir supporté la prison,</l>
+<l>L’amende, les excès brutaux des garnisaires ;</l>
+<l>Par avance accepté l’exil et ses misères</l>
+<l>Et coupé son bâton, déjà, pour le chemin ;</l>
+<l>Puis, au dernier moment, et touchant de la main</l>
+<l>La palme du martyre aux champs du ciel fleurie,</l>
+<l>Se laisser proposer de livrer sa patrie !</l>
+<l>— C’est impossible ! non, la rage des partis</l>
+<l>Ne peut pas vous avoir à ce point pervertis !</l>
+<l>Je ne crois pas qu’aucun d’entre vous se décide</l>
+<l>A commettre ce lâche et cruel parricide !</l>
+<l>Vous êtes des Français, et vous en souviendrez !</l>
+<l>Si vous accomplissez ce crime, ô conjurés !</l>
+<l>Si vous abandonnez ce sacré territoire,</l>
+<l>Dont la moindre cité porte un nom de victoire ;</l>
+<l>Oui, si vous oubliez, pour vous venger du Roi,</l>
+<l>Le grand Condé, jetant son bâton à Rocroy,</l>
+<l>Jean-Bart, liant son fils à son mât de misaine,</l>
+<l>Luxembourg, conquérant les villes par douzaine,</l>
+<l>Et tant de glorieux et terribles combats,</l>
+<l>Et Duquesne impassible au fort du branle-bas,</l>
+<pagenum num="245"/>
+<l>Et Vauban sous Maastricht, et la mort de Turenne ;</l>
+<l>Si, par mauvais esprit de colère et de haine,</l>
+<l>Vous osez à ce point renier le passé,</l>
+<l>Toute la gloire acquise et tout le sang versé</l>
+<l>Par les vieilles maisons dont, après tout, nous sommes !</l>
+<l>Si vous faites cela, Français et gentilshommes,</l>
+<l>Si vous trempez les mains dans cette trahison,</l>
+<l>L’édit qui vous poursuit, alors, aura raison !</l>
+<l>Le Roi ne sera plus un tyran, mais un juge ;</l>
+<l>Et, si contre ses coups vous trouvez un refuge,</l>
+<l>Si même à triompher vous pouvez parvenir,</l>
+<l>Que la foudre du ciel tombe pour nous punir !</l>
+
+<hstage><speaker>QUELQUES MEMBRES DU SYNODE</speaker>.</hstage>
+<l>Aux voix !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Maudite soit la harangue insensée !</l>
+<l>Si l’offre de Nassau par vous est repoussée,</l>
+<l>Notre dernier rayon d’espérance aura lui...</l>
+<l>Sans lui, c’est la défaite.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Et la honte, avec lui.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>C’est un frère, il nous tend sa main loyale et franche.</l>
+
+<pagenum num="246"/>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>C’est un vaincu qui cherche à prendre sa revanche.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Seul, le triomphe est bon !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Le martyre est meilleur !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Qui veut la liberté ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Qui veut du déshonneur ?</l>
+
+<hstage><speaker>VOIX NOMBREUSES</speaker>.</hstage>
+<l>Aux voix ! aux voix !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Messieurs, encore une minute !..</l>
+<l>Guillaume est notre seul allié dans la lutte.</l>
+<l>Songez au Roi despote, à ses serments trahis !</l>
+<l>Sauvons notre croyance !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Aimons notre pays !</l>
+
+<hstage><speaker>VOIX NOMBREUSES</speaker>.</hstage>
+<l>Aux voix !</l>
+
+<pagenum num="247"/>
+
+<hstage><speaker>LE MINISTRE</speaker>, s’avançant.</hstage>
+<l cont='true'>C’en est assez... Votons en conscience...</l>
+<l>Que ceux qui sont d’avis d’accepter l’alliance</l>
+<l>Avec le stathouder, veuillent lever la main.</l>
+<pstage>MM. de Croix Saint-Paul, de Pons et de Tracy lèvent seuls la main.</pstage>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Soit ! nous sommes perdus.</l>
+<pstage>A l’Envoyé.</pstage>
+<l cont='true'>Après mûr examen,</l>
+<l>Le synode, Monsieur, n’a rien à faire dire</l>
+<l>A Guillaume d’Orange.</l>
+
+<hstage><speaker>L’ENVOYÉ</speaker>, avec hauteur.</hstage>
+<l cont='true'>Allons ! je me retire.</l>
+<l>Je rentre en mon pays, qui n’a point de tyran,</l>
+<l>Messieurs, et vous salue.</l>
+<pstage>Il sort.</pstage>
+
+<h2 id='p20'>SCÈNE III</h2>
+<cast>L<s>ES</s> M<s>ÊMES, MOINS</s> L’ENVOYÉ.</cast>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, à Samuel.</hstage>
+<l cont='true'>Ah ! Monsieur de Méran,</l>
+<l>Vous pouvez à présent prendre la présidence,</l>
+<pagenum num="248"/>
+<l>Puisque l’on suit si bien vos conseils de prudence</l>
+<l>Et puisque seul, ici, vous êtes écouté.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Mais, baron, j’ai parlé dans ma sincérité.</l>
+<l>Christ a dit, quand Malchus eut l’oreille coupée :</l>
+<l>Si quelqu’un prend l’épée, il mourra par l’épée.</l>
+<pstage>Au Ministre.</pstage>
+<l>D’ailleurs, je m’en rapporte à Monsieur le pasteur.</l>
+
+<hstage><speaker>LE MINISTRE</speaker>.</hstage>
+<l>Vous dites vrai, Monsieur.</l>
+<pstage>A l’assemblée.</pstage>
+<l cont='true'>Notre seul protecteur</l>
+<l>Est dans le ciel. Soyons frères, non pas complices !</l>
+<l>Jurons de confesser jusque dans les supplices</l>
+<l>La foi que nous gardons et qui nous unit tous ;</l>
+<l>Et, sans colère et sans terreur, séparons-nous.</l>
+<l>Notre cause est la bonne et doit être sauvée.</l>
+<l>— Députés protestants, la séance est levée.</l>
+<pstage>Les membres du synode se retirent lentement, ainsi que le Ministre. Au moment où Samuel va sortir, un des derniers, il est arrêté par le baron de Croix Suint-Paul, suivi de MM. de Pons et de Tracy.</pstage>
+
+<pagenum num="249"/>
+
+<h2 id='p21'>SCÈNE IV</h2>
+<cast>SAMUEL, LE BARON DE CROIX SAINT-PAUL, M. DE PONS, M. DE TRACY.</cast>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, barrant le passage à Samuel.</hstage>
+<l>Halte-là !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Pourquoi donc m’arrêtez-vous ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Deux mots</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>J’écoute.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Vous serez cause de bien des maux,</l>
+<l>Monsieur. Avant un mois, des familles entières,</l>
+<l>Pour ne plus revenir, franchiront les frontières</l>
+<l>Et s’en iront mourir de faim à l’étranger.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Un chrétien doit souffrir. C’est à Dieu de venger.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Personne ne vous a conseillé ?</l>
+
+<pagenum num="250"/>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Moi !... Personne !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, lui prenant la main.</hstage>
+<l>On doit toute franchise au frère qu’on soupçonne.</l>
+<l>Votre main dans ma main, dites-moi : Ces avis</l>
+<l>Qui par nos compagnons viennent d’être suivis,</l>
+<l>Nul ne vous les a donc inspirés ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Cette offense !...</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Vous êtes innocent ; nous le croyons d’avance.</l>
+<l>Mais là, par votre honneur, frère, par votre nom,</l>
+<l>Qu’alliez-vous ce matin dire à la Maintenon ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Vous savez ?...</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>,</hstage>
+<l cont='true'>Qu’aujourd’hui vous étiez à Versailles.</l>
+
+<hstage><speaker>SAMUEL</speaker>, avec calme.</hstage>
+<l>Voyez si je rougis ou si ma main tressaille,</l>
+<l>Ou si dans ce regard vous lisez un remord.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Mais cette femme ?...</l>
+
+<pagenum num="251"/>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Assez ! C’est le secret d’un mort,</l>
+<l>C’est un devoir sacré qui m’a conduit près d’elle.</l>
+<l>Je n’en dirai pas plus.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Donc, vous êtes fidèle ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Autant que dévoué. Je vous en fais serment.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Et si je m’adressais à votre dévouement</l>
+<l>Pour un danger ?...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Je suis tout prêt.</l>
+<hstage><speaker>M. DE PONS</speaker>, bas, à Croix Saint-Paul.</hstage>
+<l cont='true'>Ce que vous faites</l>
+<l>Est grave. Du secret dépendent nos trois têtes.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, bas, à M. de Pons.</hstage>
+<l>Laissez-moi donc. Sa main n’a pas du tout tremblé ;</l>
+<l>D’avoir l’air d’un poltron il est déjà troublé.</l>
+<l>Je lui montre un abîme ; il aura le vertige.</l>
+
+<hstage><speaker>M. DE TRACY</speaker>, de même.</hstage>
+<l>Prenez garde !</l>
+
+<pagenum num="252"/>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, de même.</hstage>
+<l cont='true'>Il sera notre allié, vous dis-je.</l>
+<pstage>A Samuel, haut.</pstage>
+<l>Permettez que, d’abord, je vous présente ici</l>
+<l>Mes deux amis, messieurs de Pons et de Tracy.</l>
+<pstage>Samuel et les deux gentilshommes se saluent.</pstage>
+<l>Nous avons un moyen, — et je vous le propose, — </l>
+<l>Un moyen prompt et sûr de sauver notre cause.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Lequel ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Je n’ai jamais, moi, prud’homme et barbon,</l>
+<l>Du synode secret auguré rien de bon.</l>
+<l>Je sais des huguenots les timides scrupules ;</l>
+<l>Un colloque ne sert qu’à réfuter des bulles,</l>
+<l>Et — notre histoire est là — jamais il n’est sorti</l>
+<l>De tout ce bavardage un sage et bon parti ;</l>
+<l>Tout au plus des discours sur la théologie.</l>
+<l>Mais vous voyez ici trois hommes d’énergie</l>
+<l>Qui, malgré le synode avorté d’aujourd’hui,</l>
+<l>Sauveront le parti protestant, malgré lui.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Comment ?</l>
+
+<pagenum num="253"/>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>L’ancien édit, entre autres avantages,</l>
+<l>Donnait aux huguenots plusieurs villes otages,</l>
+<l>N’est-ce pas ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Que nous a reprises Richelieu...</l>
+<l>On sait cela.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Vous ne supposez pas, pardieu !</l>
+<l>Qu’à nous trois nous voulions aller mettre l’échelle</l>
+<l>Aux murs de Montauban ou bien de La Rochelle,</l>
+<l>Comme nos bons aïeux l’eussent fait cependant.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Eh bien ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Notre projet, plus simple et plus prudent,</l>
+<l>Prend sur Louis quatorze un garant moins vulgaire</l>
+<l>Et bien plus précieux qu’une place de guerre.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Mais, quel est-il donc ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>C’est le complot hasardeux</l>
+<l>Qui jadis a failli nous livrer François deux ;</l>
+<l>Celui qu’avaient conçu la cervelle hardie</l>
+<pagenum num="254"/>
+<l>D’un Condé, d’un Mazère ou d’un La Renaudie,</l>
+<l>Et les têtes enfin des vaillants huguenots</l>
+<l>Qu’Amboise vit alors pourrir sur ses créneaux.</l>
+<l>— Tout est prêt, et l’espoir du succès est immense.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Vous voulez enlever le Roi... Quelle démence !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Le Roi ? Non, car sa cour le garde et le défend.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Mais, alors ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Nous voulons lui prendre son enfant,</l>
+<l>Son petit-fils.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Le duc de Bourgogne ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Lui-même.</l>
+<l>Ah ! l’on doit tout oser dans ce péril suprême...</l>
+<l>Nous entrons dans le parc, grâce aux fêtes de nuit,</l>
+<l>Demain ; nous nous cachons, nous attendons minuit ;</l>
+<l>Lorsque tout est éteint nous tuons, sans qu’il crie,</l>
+<l>Le garde en faction près de l’orangerie.</l>
+<l>Puis un laquais, que l’or a fait notre dévot,</l>
+<l>Nous ouvre, après avoir enivré de pavot,</l>
+<pagenum num="255"/>
+<l>Dans sa tasse de lait, la vieille maréchale</l>
+<l>Qui couche auprès du duc et dans la même salle.</l>
+<l>Quoique prince et Bourbon, le petit lionceau</l>
+<l>N’est, après tout, ami, qu’un enfant au berceau ;</l>
+<l>Sous mon vieux manteau noir, je puis voler un prince.</l>
+<l>Le coup fait, je m’enfuis jusque dans ma province,</l>
+<l>Par le plus court, au grand galop... J’ai mes relais...</l>
+<l>Et tandis que le Roi, pleurant dans son palais,</l>
+<l>Lancera sa police et fera des neuvaines,</l>
+<l>J’aurai déjà caché l’enfant dans mes Cévennes.</l>
+<l>Ah ! l’on pourra, pour le ravoir, dans les faubourgs,</l>
+<l>Montrer des tonneaux d’or et battre les tambours :</l>
+<l>Ce n’est que contre un bon édit de tolérance</l>
+<l>Que sera retrouvé jamais le Fils de France !</l>
+<l>Et m’absolve celui qui mourut sur la croix !</l>
+<l>— Qu’en dites-vous ? C’est bien imaginé, je crois.</l>
+<l>C’est plus court qu’un synode, et c’est plus efficace.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Le complot, je l’avoue, est d’une rare audace.</l>
+<l>Vous jouez là, baron, un rude coup de dés.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Mais pour gagner l’enjeu, trois hommes décidés,</l>
+<l>Trois seulement, c’est peu, ce n’est pas assez même.</l>
+<l>Samuel, voulez-vous être le quatrième ?</l>
+
+<pagenum num="256"/>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Moi ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Vous.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>J’irai partout où le devoir conduit.</l>
+<l>Cependant... égorger un soldat dans la nuit,</l>
+<l>Enlever un enfant sans défense... J’hésite.</l>
+
+<hstage><speaker>M. DE PONS</speaker>, bas, à Croix Saint-Paul.</hstage>
+<l>Que vous avais-je dit ?</l>
+
+<hstage><speaker>M. DE TRACY</speaker>, de même.</hstage>
+<l cont='true'>Je flairais l’hypocrite.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, avec une colère contenue.</hstage>
+<l>Une dernière fois, vous ne voulez pas ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Non.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, éclatant.</hstage>
+<l>Allez nous vendre, alors, à votre Maintenon !</l>
+
+<hstage><speaker>SAMUEL</speaker>, tirant son épée.</hstage>
+<l>Ah ! par le Christ ! L’épée à la main... tout de suite !</l>
+
+<hstage><speaker>M. DE PONS</speaker>, s’interposant.</hstage>
+<l>Messieurs !...</l>
+
+<pagenum num="257"/>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, avec dédain.</hstage>
+<l cont='true'>Un duel serait une erreur de conduite,</l>
+<l>Et de le corriger il me sera permis</l>
+<l>Lorsque j’aurai sauvé ma cause et mes amis ;</l>
+<l>Mais pas avant.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>J’aurai raison de cette injure !</l>
+<pstage>Étendant la main sur la Bible.</pstage>
+<l>Pour l’instant, sur la Bible ouverte, je vous jure</l>
+<l>Que ce que vous m’avez révélé dans ce lieu</l>
+<l>Est bien enseveli dans ma poitrine. — Adieu !</l>
+<l>Monsieur de Croix Saint-Paul, doutez de mon courage</l>
+<l>Mais sachez, par ces yeux étincelants de rage,</l>
+<l>Sachez bien, par ces bras de colère tremblants,</l>
+<l>Que vous avez raison d’avoir des cheveux blancs.</l>
+<pstage>Il sort.</pstage>
+
+<h2 id='p22'>SCÈNE V</h2>
+<cast>M. DE CROIX SAINT-PAUL, M. DE PONS, M. DE TRACY.</cast>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l>Baron, vous avez fait une faute.</l>
+
+<pagenum num="258"/>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, rêveur.</hstage>
+<l cont='true'>Peut-être.</l>
+<l>Je ne puis croire encor que Méran soit un traître.</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l>Tantôt, vous l’insultiez.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Hier, je l’estimais.</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l>Mais nous serions prudents de renoncer...</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Jamais !</l>
+<l>Plus le péril est grand, amis, moins on recule.</l>
+<l>Demain soir, à l’instant du dernier crépuscule,</l>
+<l>Nous montons à cheval, — et Dieu soit avec nous !</l>
+<l>Il faut partir. Vous, Pons, prenez la Bible ; et vous,</l>
+<l>Tracy, renversez donc ces torches, je vous prie.</l>
+<pstage>M. de Pons prend le livre. M. de Tracy éteint les torches en les écrasant par terre. La scène est plongée dans une obscurité complète. On aperçoit seulement, au bout de la galerie par laquelle les différents personnages sont sortis, un vague rayon de lune.</pstage>
+<l>En route, maintenant... par cette galerie...</l>
+<pstage>Ils sortent. La scène reste vide une seconde ; puis, par un autre corridor, dont l’entrée est masquée à demi par un éboulement, entrent Louvois, Grisard et quelques hommes en longs manteaux et armés. L’un d’eux porte une lanterne sourde.</pstage>
+
+<pagenum num="259"/>
+
+<h2 id='p23'>SCÈNE VI</h2>
+<cast>LOUVOIS, GRISARD, <s>L</s>’E<s>SCORTE</s>.</cast>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l>Qu’en pense Monseigneur ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Complot bien préparé...</l>
+<l>L’heure est donc ?...</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>A minuit, demain soir.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>J’y serai.</l>
+<pstage>Ils se dirigent, pour sortir, vers la galerie éclairée par la lune. Le rideau tombe.</pstage>
+
+ </page-sequence>
+ <page-sequence recto='true' id='p24'>
+ <pagenum num="260"/>
+
+<h1>ACTE TROISIÈME</h1>
+
+<vsep class="rule"/>
+
+<pstage>Un salon dans le château de Versailles, s’ouvrant, au fond, par trois larges portes donnant sur une galerie illuminée. — A droite, deux grandes portes-fenêtres s’ouvrant sur une terrasse. — A gauche, une petite porte basse, fermée.</pstage>
+
+<vsep class="rule"/>
+
+<h2 id='p25'>SCÈNE PREMIÈRE</h2>
+<cast>LA COMTESSE, LE CHEVALIER, <s>GROUPES DE COURTISANS</s>.</cast>
+
+<pstage>Au lever du rideau, des seigneurs et des dames circulent en scène ou traversent la galerie du fond. On entend un orchestre lointain qui joue un air de menuet jusqu’à la fin de la scène première.</pstage>
+
+<hstage><speaker>LA COMTESSE</speaker>, au chevalier.</hstage>
+<l>Eh bien, que dites-vous de la fête ?</l>
+
+<hstage><speaker>LE CHEVALIER</speaker>.</hstage>
+<l cont='true'>Comtesse,</l>
+<l>Elle est d’une absolue et parfaite tristesse.</l>
+<l>Les dévots courtisans, dans ces graves salons,</l>
+<l>Sont tous scandalisés du bruit des violons.</l>
+<l>Ces fleurs même, oui, ces fleurs prennent des airs pudiques.</l>
+
+<pagenum num="261"/>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>Comme il est loin, le temps des <i>Amants magnifiques</i>,</l>
+<l>Lorsque le jeune Roi dansait dans les ballets !</l>
+
+<hstage><speaker>LE CHEVALIER</speaker>.</hstage>
+<l>Ces beaux jours sont passés, comtesse ! oubliez-les.</l>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>Faisons notre salut. C’est la dernière mode.</l>
+
+<hstage><speaker>LE CHEVALIER</speaker>.</hstage>
+<l>Avec cela, vraiment, que la chose est commode !</l>
+<l>A la moindre parole on vous blâme, aussitôt,</l>
+<l>Ou d’être janséniste, ou d’être huguenot.</l>
+<l>Une église est proscrite, et l’autre détestée,</l>
+<l>Et le meilleur parti c’est encor d’être athée.</l>
+
+<hstage><speaker>LA COMTESSE</speaker>.</hstage>
+<l>Hein ! Si le Roi savait ce que vous dites là !</l>
+<pstage>La Marquise entre au fond, suivie de Nanon et saluée par les courtisans qui s’éloignent peu à peu.</pstage>
+
+<hstage><speaker>LA COMTESSE</speaker>, l’apercevant.</hstage>
+<l>La Marquise !</l>
+
+<hstage><speaker>LE CHEVALIER</speaker>.</hstage>
+<l cont='true'>Ma foi ! comtesse, évitons-la.</l>
+
+<pstage>M<sup>me</sup> de Maintenon et Nanon, qui sont descendues à l’avant-scène, restent seules.</pstage>
+
+<pagenum num="262"/>
+
+<h2 id='p26'>SCÈNE II</h2>
+<cast>MADAME DE MAINTENON, NANON.</cast>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Et selon toi, Nanon, c’est un complot encore,</l>
+<l>C’est un péril prochain ?</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l cont='true'>Oui, Madame. J’ignore</l>
+<l>D’où viennent et quels sont les propos malfaisants ;</l>
+<l>Mais on lit la disgrâce aux yeux des courtisans,</l>
+<l>Et je vous avertis du danger qui menace.</l>
+<l>Vous le conjurerez, d’ailleurs.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Je suis bien lasse !</l>
+<l>Comme ils savent haïr, ces prétendus chrétiens !</l>
+<l>S’ils connaissaient le prix des faveurs que j’obtiens,</l>
+<l>Comme ils m’épargneraient leur basse jalousie !</l>
+<l>Certes, je n’aurai pas pour toi l’hypocrisie</l>
+<l>De paraître accepter mon sort comme un devoir.</l>
+<l>C’est un enivrement bien fort que le pouvoir,</l>
+<l>Et je ne ferai pas la désintéressée,</l>
+<l>Nanon, car tu connais ma secrète pensée</l>
+<l>Et, pour me consoler de mes longs jours d’ennuis,</l>
+<pagenum num="263"/>
+<l>Quel rêve audacieux hante toutes mes nuits !</l>
+<l>— Mais mon œuvre est si lente, et si lourde est ma tâche,</l>
+<l>Et ce monde des cours si méchant et si lâche,</l>
+<l>Que parfois le regret entre en ce cœur lassé</l>
+<l>Et l’entraîne avec lui vers le lointain passé !</l>
+<l>Oui, près d’un Roi qui m’aime, à l’ombre de ce trône,</l>
+<l>Souvent je me revois dans le vieux salon jaune,</l>
+<l>Jeune femme accoudée au fauteuil de Scarron,</l>
+<l>Et j’écoute causer son gai décaméron.</l>
+<l>Puis, c’est notre mansarde et les longs mois d’épreuve,</l>
+<l>Lorsque tu reprisais mes vieux habits de veuve</l>
+<l>Et lorsque je vivais — courage aidé du tien — </l>
+<l>Attendant de Dieu seul mon pain quotidien...</l>
+<l>Pauvre et libre jeunesse !... Oui, c’est étrange comme</l>
+<l>Hier j’étais émue en voyant ce jeune homme !</l>
+<l>Pour lui, je me sens mère, et mon cœur a battu.</l>
+<l>Mais non ! il me méprise, il me hait, entends-tu ?</l>
+<l>Oui, cet enfant me hait, ainsi que tout le monde.</l>
+<l>Oh ! quand il me parlait avec sa voix profonde,</l>
+<l>J’ai cru que Dieu voulait, par lui, me châtier.</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l>De grâce !...</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Et qu’as-tu fait, Nanon, de ce psautier</l>
+<l>Du pauvre mort ?</l>
+
+<pagenum num="264"/>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l cont='true'>Hier, je l’ai serré — pour cause ! —</l>
+<l>Dans votre chambre, au fond du coffre en bois de rose,</l>
+<l>Et j’eus soin de fermer ce meuble à triple tour.</l>
+<l>Je crains les espions.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Ah ! cette horrible cour !</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l>Quel découragement funeste vous entraîne,</l>
+<l>Madame, qui devez être bientôt ma Reine ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Reine !... Ah ! ce mot cruel, ne le prononce pas.</l>
+<l>Je n’ose même plus me le dire tout bas,</l>
+<l>Et, crois-moi ! si j’étais au début de ma vie,</l>
+<l>Cette route par moi ne serait plus gravie,</l>
+<l>Ce calvaire du trône, où j’ai tombé vingt fois,</l>
+<l>Sous le poids d’un désir aussi lourd qu’une croix !...</l>
+<pstage>Après un silence.</pstage>
+<l>— Pauvre Nanon ! Quand donc me verras-tu sourire ?</l>
+
+<pagenum num="265"/>
+
+<h2 id='p27'>SCÈNE III</h2>
+<cast>L<s>ES MÊMES</s>, HENRIETTE.</cast>
+
+<pstage>Elle entre rapidement, en donnant les signes de la plus vive émotion.</pstage>
+
+<hstage><speaker>HENRIETTE</speaker>, courant à la Marquise.</hstage>
+<l>Ah ! Madame !... Madame !...</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Eh ! mon Dieu ! que veut dire ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Ma cousine... Oh ! je meurs de douleur et d’effroi !</l>
+<l>Vous qu’on dit tellement puissante auprès du Roi,</l>
+<l>Secourez une enfant qui pleure et désespère,</l>
+<l>Sauvez votre parent ! Grâce ! Sauvez mon père !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Mais, quel danger ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Je viens de l’apprendre à l’instant.</l>
+<l>Mon pauvre père était du complot protestant ;</l>
+<l>Ils l’ont fait prisonnier, il est à la Bastille.</l>
+<l>Vous m’aimez ! Vous aimez toute votre famille,</l>
+<l>Madame ! Sauvez-le !</l>
+
+<pagenum num="266"/>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, avec effroi.</hstage>
+<l cont='true'>Quoi ! dans ma parenté,</l>
+<l>Se trouve un criminel de lèse-majesté !</l>
+<pstage>A Nanon.</pstage>
+<l>C’est ma perte, Nanon, et par un de mes proches.</l>
+<pstage>A Henriette.</pstage>
+<l>Mon cousin conspirait ?...</l>
+
+<hstage><speaker>HENRIETTE</speaker>, suppliante.</hstage>
+<l cont='true'>A quoi bon des reproches ?</l>
+<l>Ah ! sauvez-le d’abord.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Quel piège je prévois !</l>
+<l>Comment avez-vous su ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Par Monsieur de Louvois.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, avec terreur.</hstage>
+<l>Ah !...</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Il vous avertit, prétend-il, pour vous plaire,</l>
+<l>Que le Roi laisse voir une grande colère,</l>
+<l>Qu’à sévir durement il paraît décidé.</l>
+<l>Le ministre, pourtant, est bien persuadé</l>
+<pagenum num="267"/>
+<l>Que de Sa Majesté la clémence infinie,</l>
+<l>Et que votre pouvoir...</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Très bien, de l’ironie !...</l>
+<l>Ah ! cet homme est profond et redoutable.</l>
+
+<hstage><speaker>HENRIETTE</speaker>, avec anxiété.</hstage>
+<l cont='true'>Eh bien !</l>
+<l>Que pensez-vous tenter pour mon père ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, sèchement.</hstage>
+<l cont='true'>Moi ? Rien.</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Grand Dieu !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, avec amertume.</hstage>
+<l cont='true'>Que puis-je donc ? Vous m’avez entendue,</l>
+<l>Ma petite. Monsieur d’Aubusson m’a perdue.</l>
+<l>Lui, que sais-je ? il sera banni, décapité ;</l>
+<l>Et ce soir, j’apprendrai, moi, que Sa Majesté</l>
+<l>Trouve que maintenant le climat de ma terre</l>
+<l>A ma faible santé serait très salutaire...</l>
+<l>Tomber, et de si haut !... Ah ! j’étouffe, Nanon.</l>
+<l>Ouvre cette fenêtre...</l>
+
+<hstage><speaker>HENRIETTE</speaker>, tombant, accablée, sur un siège.</hstage>
+<l cont='true'>Ah ! mon père !</l>
+
+<pagenum num="268"/>
+
+<hstage><speaker>NANON</speaker>, à M<sup>me</sup> de Maintenon, avec violence.</hstage>
+<l cont='true'>Eh bien, non ! Non !</l>
+<l>c’est abandonner trop vite la partie.</l>
+<l>Jetez aux pieds du Roi cette enfant convertie,</l>
+<l>Et, pour premier garant de la soumission</l>
+<l>De son père, montrez cette abjuration.</l>
+<l>C’est là, pour la clémence, une route trouvée.</l>
+<l>Quelques larmes encore... et vous êtes sauvée !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Oui, l’on pourrait toucher ainsi Louis-le-Grand.</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Est-ce vrai ? J’obtiendrais la grâce en abjurant ?...</l>
+<l>Oh ! je suis prête alors... Madame, courons vite</l>
+<l>Nous jeter...</l>
+
+<pstage>Comme frappée d’une pensée subite.</pstage>
+<l cont='true'>Ah ! mon Dieu !...</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Qu’avez-vous donc, petite</l>
+
+<hstage><speaker>HENRIETTE</speaker>, à part.</hstage>
+<l>Hélas ! et mon serment au pauvre Samuel !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Qu’avez-vous ?</l>
+
+<pagenum num="269"/>
+
+<hstage><speaker>HENRIETTE</speaker>, vivement.</hstage>
+<l cont='true'>Je me dis : Le Roi n’est pas cruel ;</l>
+<l>Il s’inquiète peu que je me convertisse.</l>
+<l>Mes larmes suffiront pour toucher sa justice.</l>
+<l>Il est bon, il verra d’un indulgent regard</l>
+<l>Deux femmes l’implorant pour sauver un vieillard.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Pourtant, vous vouliez bien abjurer tout à l’heure ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Eh bien ! je serai franche... Oui !... regardez, je pleure...</l>
+<l>Mais la conversion me sépare à jamais</l>
+<l>— Oh ! ne m’en veuillez pas ! — de l’homme que j’aimais.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Et c’est cet intérêt mondain qui vous arrête ?</l>
+<l>Une intrigue d’enfant, une folle amourette,...</l>
+<l>Dans un moment pareil... Vous devriez rougir !</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Mon Dieu ! Si vous saviez, je pourrais vous fléchir ;</l>
+<l>Cet innocent amour, mon père l’a vu naître !</l>
+<l>Cet amant, vous devez — j’y songe — le connaître ;</l>
+<l>Vous me pardonneriez, si vous saviez son nom.</l>
+<l>De grâce, laissez-moi vous dire...</l>
+
+<pagenum num="270"/>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, avec dureté.</hstage>
+<l cont='true'>Cent fois non !</l>
+<l>Non !... Vous abjurerez. Vous n’allez pas, j’espère,</l>
+<l>Préférer un amant aux jours de votre père !</l>
+<l>Jurez-moi d’obéir.</l>
+
+<hstage><speaker>HENRIETTE</speaker>, à genoux.</hstage>
+<l cont='true'>Ayez pitié de moi !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, avec emportement.</hstage>
+<l>Jurez, mais jurez donc, malheureuse !</l>
+
+<hstage><speaker>UN PAGE</speaker>, entre en annonçant :</hstage>
+<l cont='true'>Le Roi !</l>
+
+<h2 id='p28'>SCÈNE IV</h2>
+<cast>L<s>ES MÊMES</s>, LE ROI, LOUVOIS, <s>SEIGNEURS ET DAMES DE LA COUR</s>.</cast>
+
+<pstage>Le Roi, entouré d’une suite nombreuse de courtisans, entre en scène. Il a l’air très sombre, et, en apercevant M<sup>me</sup> de Maintenon et Henriette, il leur jette un regard sévère. Louvois, mêlé à la foule, épie ce qui va se passer.</pstage>
+
+<hstage><speaker>LE ROI</speaker>, à M<sup>me</sup> de Maintenon.</hstage>
+<l>Madame, vous savez la pénible nouvelle :</l>
+<l>Le comte d’Aubusson contre nous est rebelle.</l>
+<pagenum num="271"/>
+<l>Votre proche parent ! votre cousin germain !</l>
+<l>Ah ! nous ferons sentir le poids de notre main</l>
+<l>Aux huguenots, puisque l’édit ne peut suffire.</l>
+<l>Quoi ! quand nous lui laissions son grade et son navire,</l>
+<l>Quand nous ne voulions pas, même, qu’il émigrât !</l>
+<l>Il n’est pas seulement coupable : il est ingrat.</l>
+<l>Nous sommes malheureux avec votre famille,</l>
+<l>En vérité ! Jusqu’à cette petite fille</l>
+<l>Qui résiste toujours à nos plus saints prélats.</l>
+<l>Mais c’est trop d’indulgence, enfin ; nous sommes las.</l>
+<l>Tant d’aveugle bonté porte aux rois préjudice ;</l>
+<l>Nous nous en souviendrons, et nous ferons justice.</l>
+<pstage>Long silence.</pstage>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, au Roi, très humblement.</hstage>
+<l>Le Roi permettra-t-il que je parle après lui ?...</l>
+<l>Seule, Sa Majesté doit juger aujourd’hui</l>
+<l>Si, pour l’éclat royal que l’Europe contemple,</l>
+<l>Un acte de pitié vaudrait moins qu’un exemple ;</l>
+<l>Et, que dis-je ? — il serait fâcheux qu’elle hésitât</l>
+<l>Un moment à punir un criminel d’État,</l>
+<l>Parce qu’il est parent de son humble servante.</l>
+<l>— Non ! ce qui me désole et ce qui m’épouvante,</l>
+<l>C’est que de ce forfait de monsieur d’Aubusson</l>
+<l>Il puisse rejaillir sur moi quelque soupçon ;</l>
+<pagenum num="272"/>
+<l>C’est que le Roi, cédant au courroux légitime,</l>
+<l>Ne me conserve pas toujours la même estime.</l>
+<l>Mais, cela, mon honneur ne l’admettra jamais !</l>
+<l>Donc, au coup qui me frappe, ici, je me soumets,</l>
+<l>Et, comme une faveur, j’implore ma retraite,</l>
+<l>Pour que tous, quel que soit le motif qu’on me prête,</l>
+<l>Me respectent encore, et que Sa Majesté</l>
+<l>Me pardonne un malheur vaillamment accepté.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Comment ! vous voudriez ?...</l>
+
+<hstage><speaker>LOUVOIS</speaker>, à part.</hstage>
+<l cont='true'>Dois-je y croire ? Elle cède</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Oui, Sire ! Je vous dois tout ce que je possède ;</l>
+<l>Mais le tenir de vous en faisait le seul prix.</l>
+<l>Tous mes biens — car un Roi n’a jamais rien repris —</l>
+<l>Iront à la maison de Saint-Cyr, à l’asile</l>
+<l>Où vous permettrez bien, Sire, que je m’exile,</l>
+<l>Pour qu’en cette demeure, où mes jours vont finir,</l>
+<l>Je retrouve partout votre grand souvenir.</l>
+
+<hstage><speaker>LE ROI</speaker>, avec effroi.</hstage>
+<l>Et si nous combattions ce scrupule sincère ?</l>
+<l>Si votre dévouement nous était nécessaire ?</l>
+<l>Si nous vous demandions de rester près de nous ?</l>
+
+<pagenum num="273"/>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, prenant Henriette par la main et la faisant tomber aux pieds du Roi.</hstage>
+<l>Sire, je pousserais, alors, à vos genoux</l>
+<l>Cette plaintive enfant, qui n’a pas d’autres armes</l>
+<l>Que son vrai repentir, sa jeunesse et ses larmes,</l>
+<l>Et qui, de ses erreurs faisant ici l’aveu,</l>
+<l>Dans la faute d’un père a vu la main de Dieu ;</l>
+<l>Cette enfant qui, sans même implorer une grâce,</l>
+<l>Jure par votre main royale qu’elle embrasse,</l>
+<l>Sire, de n’avoir plus désormais d’autre foi</l>
+<l>Que celle qui défend d’être traître à son Roi !</l>
+
+<hstage><speaker>LOUVOIS</speaker>, à part.</hstage>
+<l>Ah ! je n’ai pas encore écrasé la vipère.</l>
+
+<hstage><speaker>LE ROI</speaker>, à Henriette.</hstage>
+<l>Ainsi, Mademoiselle...</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Oui ! Grâce pour mon père !</l>
+<l>A votre autel, pour vous, je prierai chaque jour...</l>
+<l>Mais, grâce !</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Levez-vous.</l>
+
+<hstage><speaker>HENRIETTE</speaker>, se relevant, à part.</hstage>
+<l cont='true'>Meurs donc, mon pauvre amour !</l>
+
+<pagenum num="274"/>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Certes, ce repentir me touche et j’en suis aise.</l>
+<l>Ce soir, nous comptons voir le Père de La Chaise</l>
+<l>Et nous lui mènerons cette enfant de ce pas.</l>
+
+<hstage><speaker>LOUVOIS</speaker>, s’avançant.</hstage>
+<l>Mais...</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Monsieur de Louvois, ne m’interrompez pas.</l>
+<l>Le soin de notre gloire, ici, seul nous conseille ;</l>
+<l>Louis s’est rappelé l’Auguste de Corneille...</l>
+<l>Que monsieur d’Aubusson soit mis en liberté !</l>
+
+<hstage><speaker>HENRIETTE</speaker> <s>ET</s> <speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Ah !</l>
+
+<hstage><speaker>LE ROI</speaker>, à M<sup>me</sup> de Maintenon.</hstage>
+<l cont='true'>Nous devons, Madame, à votre piété</l>
+<l>Cet ouvrage, et pour nous c’est un plaisir immense,</l>
+<l>Car vous nous permettez une heure de clémence.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Sire, votre bonté me comble ! Mais comment</l>
+<l>La pourrai-je jamais reconnaître ?</l>
+
+<hstage><speaker>LE ROI</speaker>, bas, à l’oreille de la Marquise.</hstage>
+<l cont='true'>En m’aimant.</l>
+<pagenum num="275"/>
+<pstage>Haut, à Henriette.</pstage>
+<l>Vous, mon enfant, venez avec moi. Ce soir même,</l>
+<l>Vous entrez en retraite... Allons, Messieurs !...</l>
+<pstage>Il sort, suivi de tous les assistants et d’Henriette, soutenue par Nanon. Louvois, en se retirant, échange avec la Marquise un regard de défi. Quand le Roi est sorti avec sa suite, des laquais ferment les portes du fond, et la scène n’est plus éclairée que par quelques candélabres.</pstage>
+
+<h2 id='p29'>SCÈNE V</h2>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, seule.</hstage>
+<l cont='true'>Il m’aime !</l>
+<l>Il m’aime encor ! Du calme, ô cœur trop triomphant !</l>
+<l>Quoi ! ce que m’a prédit, lorsque j’étais enfant,</l>
+<l>Ce vieux noir qui pour moi voyait luire une étoile,</l>
+<l>Serait vrai ? De mon front j’arracherais ce voile</l>
+<l>Pour ceindre la couronne, et ce royal hymen</l>
+<l>Viendrait substituer dans cette faible main,</l>
+<l>Contre qui tout l’orgueil de la France conspire,</l>
+<l>Aux grains d’un chapelet les rênes d’un empire ?</l>
+<l>Un trône ! un trône, à moi !... Voyons, c’est insensé !</l>
+<l>Garder un tel espoir après un tel passé ;</l>
+<l>Prétendre, à cinquante ans, recommencer sa vie ?</l>
+<l>N’importe, le Roi m’aime !... Oh ! ma secrète envie !</l>
+<pagenum num="276"/>
+<l>Reine, — après les cruels affronts que j’ai soufferts</l>
+<l>De ces femmes de cour, de tous ces ducs et pairs,</l>
+<l>Qui, désignés d’avance à l’amitié du maître,</l>
+<l>N’ont eu tout simplement que la peine de naître !</l>
+<l>Être leur Reine à tous ! leur Reine !... Je le puis...</l>
+<l>Mais je prétends rester la femme que je suis ;</l>
+<l>Parmi leurs noms pompeux et leurs luxes célèbres,</l>
+<l>Je garderai mon deuil et mes coiffes funèbres,</l>
+<l>Grande par l’esprit seul et par la volonté !</l>
+<l>Et, sentant mon dédain jusque dans ma bonté,</l>
+<l>Ils viendront adresser leur humble révérence</l>
+<l>Bien plus à la Scarron qu’à la Reine de France !</l>
+<l>Oh ! quel bonheur amer !... Mais, je l’aurai, du moins.</l>
+<pstage>Pendant les dernières paroles de M<sup>me</sup> de Maintenon, Samuel est entré, a reconnu la Marquise et s’est approché d’elle.</pstage>
+
+<h2 id='p30'>SCÈNE VI</h2>
+<cast>MADAME DE MAINTENON, SAMUEL.</cast>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, reconnaissant Samuel.</hstage>
+<l>Samuel !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Je puis donc vous parler sans témoin...</l>
+
+<pagenum num="277"/>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Vous revenez vers moi ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>N’en soyez pas surprise :</l>
+<l>Je n’ai d’espoir qu’en vous, et mon orgueil se brise.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Parlez ! Que vous faut-il ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Henriette !...</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, inquiète.</hstage>
+<l cont='true'>Mon Dieu !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Vous l’avez, près de vous, attirée en ce lieu</l>
+<l>Afin qu’elle abjurât la foi de sa famille ;</l>
+<l>Et c’est dans l’intérêt de cette jeune fille</l>
+<l>Que vous avez agi, je le crois, j’en suis sûr,</l>
+<l>Madame ; mais au nom de l’amour noble et pur</l>
+<l>Qu’Antoine vous garda dans sa longue misère,</l>
+<l>Au nom de l’amitié que votre cœur sincère,</l>
+<l>En souvenir du mort, offrit au survivant,</l>
+<l>Ne cherchez pas à faire abjurer cette enfant !</l>
+<l>Qu’à sa religion elle reste fidèle ;</l>
+<l>Car, voyez-vous, je l’aime et je suis aimé d’elle,</l>
+<pagenum num="278"/>
+<l>Et, puisque vous voulez notre bonheur, laissez</l>
+<l>Devant le même autel s’unir deux fiancés.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part.</hstage>
+<l>Fatalité ! c’est lui qu’elle aime !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Quoi ! Madame,</l>
+<l>Vous vous taisez ? Songez que ce que je réclame</l>
+<l>Est juste, et que ma voix vous prie au nom d’un mort.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part.</hstage>
+<l>Ils s’aiment ! J’ai détruit leur bonheur. O remord !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Vous vous taisez toujours !... Seriez-vous insensible ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Ce que vous demandez, hélas ! n’est plus possible.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Plus possible ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Henriette, ici même, à l’instant,</l>
+<l>A promis d’abjurer le culte protestant,</l>
+<l>Devant le Roi, qui l’a conduite à la chapelle.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Mensonge ! Elle jurait, hier, je me rappelle,</l>
+<pagenum num="279"/>
+<l>Tout le contraire, à moi !... Mensonge et trahison !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Vous ne savez pas tout... Son père est en prison,</l>
+<l>Mêlé dans un complot calviniste. Que sais-je ?</l>
+<l>Oh ! c’est affreux !... Louvois avait tendu le piège...</l>
+<l>J’ai moi-même poussé l’enfant aux pieds du Roi...</l>
+<l>Et vous l’aimiez ! Pourquoi venir si tard ? Pourquoi ?</l>
+<l>— Henriette a juré, mais pour sauver son père !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Non ! c’est vous qui l’avez traînée en ce repaire,</l>
+<l>Vous qui l’avez contrainte à cette lâcheté !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Mais le comte accusé de lèse-majesté !...</l>
+<l>Songez-y donc... Louvois préparant le supplice !...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Qui me dit qu’en cela vous n’étiez pas complice ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Samuel !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Finissons. J’étais venu vers vous,</l>
+<l>Moins sévère, l’esprit calmé, le cœur plus doux ;</l>
+<l>Vous teniez mon bonheur dans votre main fermée ;</l>
+<pagenum num="280"/>
+<l>Vous n’aviez qu’à l’ouvrir et je vous eusse aimée.</l>
+<l>Maintenant, grâce à vous, je n’ai plus qu’à mourir.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Que dit-il ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Un danger m’attend ; j’y vais courir.</l>
+<l>Je demande au destin la mort comme une aumône...</l>
+<l>Vous, courage ! marchez hardiment jusqu’au trône,</l>
+<l>Et ne reculez pas, quand vous y monterez,</l>
+<l>Si mon sang répandu coule sur les degrés.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Arrêtez... Expliquez cette horrible parole...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Je vous dis qu’un danger m’attend, et que j’y vole.</l>
+<pstage>Il sort.</pstage>
+
+<h2 id='p31'>SCÈNE VII</h2>
+<cast>MADAME DE MAINTENON, pus LE ROI <s>ET</s> LOUVOIS.</cast>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, seule.</hstage>
+<l>Samuel ! Lui, mourir ! Lui, le frère adoré</l>
+<l>Du seul homme pour qui j’ai souffert et pleuré !</l>
+<pagenum num="281"/>
+<l>Lui qui m’a fait trouver quelque tendresse encore</l>
+<l>Dans ce cœur que la froide ambition dévore !</l>
+<l>Non ! je réparerai le mal dès aujourd’hui,</l>
+<l>Et je veux sur-le-champ prier le Roi...</l>
+<pstage>Elle aperçoit Louis XIV, qui vient d’entrer, suivi de Louvois.</pstage>
+<l cont='true'>C’est lui !</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Oui, Madame, je viens présenter mon excuse.</l>
+<l>Oui, ma colère était trop vive, et je m’accuse</l>
+<l>D’avoir pu, sur de faux rapports, un seul moment,</l>
+<l>Concevoir un soupçon sur votre dévouement.</l>
+<l>Mais il a fait entendre un si noble langage,</l>
+<l>Cette conversion nous en est un tel gage,</l>
+<l>Que nous ne voulons pas plus longtemps ajourner</l>
+<l>Le grand acte qui doit nous faire pardonner.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part.</hstage>
+<l>Je n’ose pas comprendre !... Oh Dieu ! que va-t-il faire</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Mon cœur, vous le savez, depuis longtemps diffère</l>
+<l>De prendre ce parti, par plusieurs combattu.</l>
+<l>Mais tant d’affection, de charme, de vertu,</l>
+<l>L’ont enfin emporté dans ce cœur qui vous aime.</l>
+<l>Je ne puis vous placer, hélas ! au rang suprême,</l>
+<l>Car le peuple nous juge avec trop de rigueur</l>
+<pagenum num="282"/>
+<l>Pour pardonner aux Rois les faiblesses du cœur ;</l>
+<l>Il admire Titus renvoyant Bérénice.</l>
+<l>Mais que la sainte Église en secret nous unisse,</l>
+<l>Et que vous ne soyez l’épouse que pour moi,</l>
+<l>Mon peuple ne peut pas l’interdire à son Roi.</l>
+<l>Et même j’attends bien, en vous voyant si grande,</l>
+<l>Que pour sa Reine, un jour, la France vous demande.</l>
+<l>— Madame, voulez-vous m’accorder votre main ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part.</hstage>
+<l>Sa femme, aujourd’hui même... et la Reine, demain.</l>
+<pstage>Haut, et voulant s’agenouiller.</pstage>
+<l>Ah ! Sire, à vos genoux, je veux, du fond de l’âme,</l>
+<l>Vous exprimer...</l>
+
+<hstage><speaker>LE ROI</speaker>, l’arrêtant.</hstage>
+<l cont='true'>Ma place est aux vôtres, Madame,</l>
+<l>Puisque de consentir vous me faites l’honneur !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Oh ! prenez garde... On peut mourir d’un tel bonheur.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Il faudra le cacher, pourtant, avec prudence,</l>
+<l>Hélas ! — Si j’ai voulu qu’en cette confidence</l>
+<l>Mon ministre, Monsieur de Louvois, fût admis,</l>
+<pagenum num="283"/>
+<l>C’est qu’il doit désormais être de vos amis.</l>
+<l>— Recevez, maintenant, l’anneau des épousailles.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, ivre d’orgueil et de joie, pendant que le Roi lui met un anneau au doigt.</hstage>
+<l>Ah !</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Monsieur de Harlay, demain, vient à Versailles,</l>
+<l>Dans la nuit, nous donner le sacrement divin.</l>
+<l>Nos témoins sont Louvois et Montchevreuil ; enfin</l>
+<l>Mon pieux confesseur célébrera la messe.</l>
+<l>Vous avez ma parole, et j’ai votre promesse :</l>
+<l>Tout est dit. Entre nous rien ne sera changé ;</l>
+<l>Le monde ignorera notre amour partagé.</l>
+<l>Mais, lorsque je me tais, mon regard seul ordonne,</l>
+<l>Et la Cour comprendra le rang que je vous donne.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Sire, je dirais mal ce que mon cœur ressent.</l>
+<l>Permettez donc que j’aille aux pieds du Tout-Puissant,</l>
+<l>Qui m’a tracé vers vous une invisible voie,</l>
+<l>Verser mes pleurs d’amour, de tendresse et de joie.</l>
+<pstage>M<sup>me</sup> de Maintenon s’incline et baise la main du Roi, puis il la reconduit jusqu’au fond et elle sort.</pstage>
+
+<pagenum num="284"/>
+
+<h2 id='p32'>SCÈNE VIII</h2>
+<cast>LE ROI, LOUVOIS.</cast>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Quoi que vous en disiez, c’est un point résolu,</l>
+<l>Et j’ai réalisé tout ce que j’ai voulu.</l>
+<l>C’est notre bon plaisir. Vous devez vous soumettre,</l>
+<l>Monsieur...</l>
+<pstage>Louvois tire son épée et la présente au Roi, en mettant un genou en terre.</pstage>
+<l cont='true'>Que faites-vous ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Sire... mon Roi, mon maître</l>
+<l>Oui, prenez cette épée et donnez-moi la mort !</l>
+<l>Plutôt périr cent fois que d’avoir le remord</l>
+<l>De ne pas démasquer à la fin cette infâme.</l>
+
+<hstage><speaker>LE ROI</speaker>, terrible.</hstage>
+<l>Par le ciel !</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Vous aurez horreur de cette femme,</l>
+<l>Sire, dans un instant, et Votre Majesté</l>
+<l>Se félicitera de m’avoir écouté.</l>
+<l>C’est un droit que jamais elle ne me dénie.</l>
+
+<pagenum num="285"/>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Voyons donc ! Quel mensonge et quelle calomnie</l>
+<l>Allez-vous déterrer encor ? C’est odieux !</l>
+<l>Son passé de malheur la grandit à mes yeux,</l>
+<l>Sachez-le ! C’est dans l’ombre où la vertu se trouve.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Mais le crime s’y cache, — et j’accuse et je prouve.</l>
+<l>Oui, j’accuse tout haut, la nommant par son nom,</l>
+<l>Françoise d’Aubigné, dame de Maintenon,</l>
+<l>D’avoir eu pour amant, avant que d’étre veuve,</l>
+<l>Antoine, chevalier de Méran...</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Une preuve !</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Et de cet homme, mort en Guyane plus tard,</l>
+<l>Tout me fait supposer qu’il lui reste un bâtard...</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Une preuve !</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Et qu’elle a l’impudence suprême,</l>
+<l>Sire, de recevoir ce jeune homme ici même.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Marquis, prouvez cela ! prouvez vite ! il le faut,</l>
+<pagenum num="286"/>
+<l>Car vous avez au front l’ombre d’un échafaud !</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Si j’ai trompé mon Roi, je ne tiens plus à vivre !</l>
+<pstage>Il tire de sa poche le psautier et le présente au Roi.</pstage>
+<l>Que Votre Majesté daigne prendre ce livre.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Ciel ! ces deux noms unis !</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Lisez donc ! C’est signé :</l>
+<l>Antoine de Méran ; Françoise d’Aubigné.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Qui donc a rapporté ce psautier ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Un jeune homme, —</l>
+<l>Comprenez-vous ? — qui vient d’Amérique.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Il se nomme ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Samuel de Méran.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Son âge ?</l>
+
+<pagenum num="287"/>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Vingt-cinq ans.</l>
+
+<hstage><speaker>LE ROI</speaker>, avec horreur.</hstage>
+<l>Dieu !</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>La date et le nom sont assez convaincants.</l>
+<l>Il est secrètement reçu par la Marquise ;</l>
+<l>C’est son bâtard. La preuve en est par trop acquise.</l>
+
+<hstage><speaker>LE ROI</speaker>, éclatant.</hstage>
+<l>Quoi ! celle dont j’ai tant respecté la vertu,</l>
+<l>La seule auprès de qui mon désir se soit tu !</l>
+<l>Quoi ! ma sagesse était à ce point endormie ?...</l>
+<l>Celle dont je voulais... — Être dupe ! Infamie !</l>
+<l>Dupe ! Louis de France ! oui, le Roi très chrétien !</l>
+<l>Ah ! Marquis, ce sera terrible, entends-tu bien ?</l>
+<l>Je sens gronder en moi la rage et la folie !...</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Sire, qu’ordonnez-vous ?</l>
+
+<hstage><speaker>LE ROI</speaker>, se maîtrisant.</hstage>
+<l cont='true'>Eh bien, non ! je m’oublie.</l>
+<l>Non ! j’ai tort : je condamne avant d’avoir jugé.</l>
+<l>A l’aveugle courroux de l’honneur outragé</l>
+<l>Un homme céderait ; mais un Roi le réprime.</l>
+<pagenum num="288"/>
+<l>J’ai la présomption, non la preuve d’un crime ;</l>
+<l>J’attendrai. Dans ceci plus d’un point reste obscur,</l>
+<l>Et je ne veux punir que quand je serai sûr.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Mais pour un tel soupçon on perdrait une Reine !</l>
+<l>Sire, votre penchant funeste vous entraîne ;</l>
+<l>Prenez garde ! La France observe avec effroi...</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Assez, Monsieur ! j’ai dit. Je le veux, moi, le Roi.</l>
+
+<h2 id='p33'>SCÈNE IX</h2>
+<cast>LOUVOIS, puis GRISARD.</cast>
+
+<hstage><speaker>LOUVOIS</speaker>, seul.</hstage>
+<l>Aveugle !... Il me faut donc une preuve meilleure.</l>
+<l>Si mes calculs sont bons, je l’aurai tout à l’heure.</l>
+<pstage>Grisard entre, suivi de laquais qui emportent les candélabres, sauf un seul.</pstage>
+
+<hstage><speaker>LOUVOIS</speaker>, à Grisard.</hstage>
+<l>Eh bien, les conjurés ?</l>
+
+<hstage><speaker>GRISARD</speaker>, montrant le dernier flambeau.</hstage>
+<l cont='true'>Ils entreront ici</l>
+<pagenum num="289"/>
+<l>Dès que disparaîtra le flambeau que voici.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Ils ont osé...</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>...Franchir, malgré le clair de lune,</l>
+<l>Le mur du parc, auprès du bassin de Neptune.</l>
+<l>J’avais eu soin de mettre un léger désarroi</l>
+<l>Dans la garde, au moment du grand coucher du Roi.</l>
+<l>Ils en ont profité pour gagner la terrasse.</l>
+
+<hstage><speaker>LOUVOIS</speaker>, montrant la droite.</hstage>
+<l>Ils sont si près ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Et moi, comme eût fait à ma place</l>
+<l>Le laquais qu’à séduire ils étaient parvenus,</l>
+<l>Je m’en vais leur donner les signaux convenus.</l>
+<l>Grisard va pour prendre le dernier candélabre.</l>
+
+<hstage><speaker>LOUVOIS</speaker>, l’arrêtant du geste.</hstage>
+<l>Et ce Méran ?</l>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>Il est maintenant leur complice.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Bien ! vous serez un jour lieutenant de police.</l>
+<l>Je suis content de vous, Grisard.</l>
+
+<pagenum num="290"/>
+
+<hstage><speaker>GRISARD</speaker>.</hstage>
+<l cont='true'>C’est trop d’honneur !</l>
+<pstage>Il prend le candélabre et l’agite devant une des portes vitrées.</pstage>
+<l>Là, c’est fait... Maintenant, suivez-moi, Monseigneur.</l>
+<pstage>Grisard sort par la petite porte de gauche, en précédant Louvois, la lumière à la main. La scène reste vide un instant, seulement éclairée par le clair de lune qui frappe les deux portes vitrées.</pstage>
+
+<h2 id='p34'>SCÈNE X</h2>
+<cast>CROIX SAINT-PAUL, SAMUEL, M. DE PONS <s>ET</s> M. DE TRACY.</cast>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, entrant avec précaution à droite par une des portes vitrées, puis se tournant vers la terrasse.</hstage>
+<l>Par ici!</l>
+
+<hstage><speaker>SAMUEL</speaker>, même jeu.</hstage>
+<l cont='true'>Par ici !</l>
+<pstage>Au baron de Croix Saint-Paul.</pstage>
+<l cont='true'>Mais tout nous favorise,</l>
+<l>Monsieur de Croix Saint-Paul.</l>
+<pstage>MM. de Pons et de Tracy entrent de même.</pstage>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, regardant autour de lui.</hstage>
+<l cont='true'>Je crains quelque surprise ;</l>
+<pagenum num="291"/>
+<l>Pourtant, tout est silence et calme en ce château.</l>
+<l>On a fait le signal à travers ce rideau.</l>
+<pstage>Montrant la porte basse, à gauche.</pstage>
+<l>Ici loge le duc de Bourgogne, et l’on passe,</l>
+<l>Pour monter l’escalier, par cette porte basse.</l>
+<l>Mais... Messieurs, un moment... L’homme qui me vendit</l>
+<l>Cette clef que voilà, nous avait pourtant dit</l>
+<l>Qu’au bas de l’escalier veillait un mousquetaire ?</l>
+
+<hstage><speaker>M. DE TRACY</speaker>.</hstage>
+<l>Oui !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Je n’ai vu personne en ce coin solitaire,</l>
+<l>Et nous sommes entrés par trop facilement...</l>
+<l>Ah ! je voudrais douter de mon pressentiment,</l>
+<l>Mais je suis inquiet et je redoute un piège.</l>
+
+<hstage><speaker>M. DE PONS</speaker>.</hstage>
+<l>Vraiment ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Votre complice a tout prévu. Que sais-je ?</l>
+<l>Ce mousquetaire absent, c’est un meurtre évité.</l>
+<l>En avant !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, sévèrement, à Samuel.</hstage>
+<l cont='true'>Je n’ai pas moins de témérité</l>
+<l>Que vous, croyez-le bien ! mais à l’heure où nous sommes,</l>
+<pagenum num="292"/>
+<l>Je fais risquer leur tête à de bons gentilshommes.</l>
+<l>S’ils meurent, Dieu pourra m’en demander raison.</l>
+<l>Je dois me méfier de toute trahison.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Me soupçonneriez-vous ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, saisissant Samuel par le bras.</hstage>
+<l cont='true'>Je lis mal dans votre âme,</l>
+<l>Samuel ! Ce complot avait tout votre blâme :</l>
+<l>Pourquoi, si promptement, vous y jeter ainsi ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Pour me venger.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>De qui ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Du Roi qui dort ici.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Le Roi, lui qu’au synode, hier, vous défendîtes ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Que, pour avoir parlé, mes lèvres soient maudites !</l>
+<l>J’étais, le lendemain, victime du tyran.</l>
+
+<pagenum num="293"/>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Si nous réussissons, Samuel de Méran,</l>
+<l>Je vous demanderai pardon de ma conduite.</l>
+<l>Mais, vraiment...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Il suffit. Agissez tout de suite,</l>
+<l>Au lieu de perdre ainsi le temps à m’outrager,</l>
+<l>Et, pour me juger mieux, montrez-moi le danger.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Eh bien, soit !... Prenez donc la clef de cette porte.</l>
+<l>Le poignard dans la gorge à qui crierait : Main forte !</l>
+<l>Allez ! nous vous suivons. — Sois pour nous, Dieu des forts !</l>
+
+<pstage>Au moment où Samuel, suivi des trois protestants, s’approche de la porte basse, toutes les autres portes s’ouvrent et laissent déborder sur la scène des soldats armés, dont quelques-uns portent des torches.</pstage>
+
+<htage>><speaker>LES QUATRE HUGUENOTS</speaker>, entourés par les soldats et mettant l’épée à la main.</htage>
+<l>Ah !</l>
+
+<h2 id='p35'>SCÈNE XI</h2>
+<cast>L<s>ES</s> M<s>ÊMES</s>, LOUVOIS, GRISARD, S<s>OLDATS</s>.</cast>
+
+<hstage><speaker>LOUVOIS</speaker>, entrant par la petite porte de gauche.</hstage>
+<l cont='true'>Si vous résistez, Messieurs, vous êtes morts.</l>
+
+<pagenum num="294"/>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l>Quoi ! mes prévisions ne s’étaient pas trompées.</l>
+<l>Trahis !</l>
+
+<hstage><speaker>MM. DE PONS</speaker> et <speaker>DE TRACY</speaker>.</hstage>
+<l cont='true'>Trahis !</l>
+
+<hstage><speaker>SAMUEL</speaker>, avec épouvante.</hstage>
+<l cont='true'>Mon Dieu !</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Rendez-moi vos épées,</l>
+<l>Messieurs.</l>
+<pstage>Un officier désarme les conspirateurs.</pstage>
+<l cont='true'>Vous achevez le parti protestant,</l>
+<l>Et vous vous doutez bien du sort qui vous attend.</l>
+<l>Recommandez à Dieu votre âme tout de suite ;</l>
+<l>Car le Roi ne veut pas que ce fait s’ébruite ;</l>
+<l>Et votre châtiment aura pour horizon</l>
+<l>Les quatre murs muets et sourds d’une prison.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, avec force.</hstage>
+<l>Nous serons des martyrs ignorés de l’histoire ;</l>
+<l>Mais Dieu nous jugera !</l>
+
+<hstage><speaker>LOUVOIS</speaker>, s’adressant à Samuel, avec ironie.</hstage>
+<l cont='true'>Pour vous, je n’ose croire</l>
+<l>Que comme vos amis vous alliez à la mort.</l>
+<pagenum num="295"/>
+<l>La Marquise peut bien adoucir votre sort ;</l>
+<l>Vous êtes si puissant auprès de cette dame...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Moi !</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>.</hstage>
+<l cont='true'>Qu’entends-je ?</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Ah ! Monsieur le Marquis, c’est infâme !</l>
+<l>Je ne vous connais point. Rien ne vous a permis</l>
+<l>De me déshonorer aux yeux de mes amis.</l>
+<l>Sanglant, comme le leur, que mon sort s’accomplisse !</l>
+<l>Je veux ma part de gloire et ma part de supplice.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l>Peu m’importe ! Il suffit que vous me compreniez.</l>
+
+<hstage><speaker>SAMUEL</speaker>, stupéfait.</hstage>
+<l>Ah !</l>
+
+<hstage><speaker>LOUVOIS</speaker>, à l’officier.</hstage>
+<l cont='true'>Navailles, menez ces quatre prisonniers</l>
+<l>A la Bastille, avec les mesures d’usage.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, s’arrachant des mains de ses gardiens et courant vers Samuel.</hstage>
+<l>Traître, je te maudis et te crache au visage !</l>
+
+<pstage>Les soldats retiennent Croix Saint-Paul et Samuel, qui veulent s’élancer l’un sur l’autre. — Le rideau tombe.</pstage>
+
+ </page-sequence>
+ <page-sequence recto='true' id='p36'>
+ <pagenum num="296"/>
+
+<h1>ACTE QUATRIÈME</h1>
+
+<vsep class="rule"/>
+
+<pstage>La chambre de M<sup>me</sup> de Maintenon. Au fond, le lit. A gauche, la chaise et le métier à tapisserie de la Marquise ; tout près de cette chaise, le fauteuil du Roi. A droite, une grande table, entourée de tabourets pour les ministres. C’est le soir, aux lumières. — Grande porte, à droite. Portes, à droite et â gauche.</pstage>
+
+<vsep class="rule"/>
+
+<h2 id='p37'>SCÈNE PREMIÈRE</h2>
+<cast>MADAME DE MAINTENON, debout devant un coffre ouvert, NANON, auprès d’elle.</cast>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>As-tu bien vu partout ?</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l cont='true'>Partout.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Et le psautier ?</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l>Perdu. Je l’ai cherché pendant un jour entier,</l>
+<pagenum num="297"/>
+<l>Vainement. On a pris l’empreinte, j’en suis sûre,</l>
+<l>Et fait la double clef pour ouvrir la serrure ;</l>
+<l>Car, lorsque j’ai serré le psautier, l’autre jour,</l>
+<l>J’ai pourtant bien fermé le coffre à triple tour</l>
+<l>Et j’ai gardé la clef... Ah ! c’est inexplicable !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Disparu ! disparu ! Tiens, Nanon, tout m’accable !</l>
+<l>Car je sens bien le but de ce vol, et je croi</l>
+<l>Que ce livre fatal est dans les mains du Roi.</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l>Impossible ! Le Roi, cette nuit, vous épouse.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Non ! j’ai vu sur son front comme une ombre jalouse ;</l>
+<l>Il ne m’a pas parlé, ce matin ! comprends-tu ?</l>
+<l>Et ce Louvois, qu’hier je croyais abattu,</l>
+<l>A fait peser sur moi son regard noir de haine.</l>
+<l>Rien n’est fini : je sens une crise prochaine.</l>
+<l>— Tantale, vois ces fruits que tu ne peux toucher !</l>
+<l>Sisyphe, roule encore une fois ton rocher !</l>
+<l>Et, pour clore un destin qu’on envie et qu’on prône,</l>
+<l>Toi, tombe de fatigue et meurs aux pieds d’un trône !</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l>Et vous parlez ainsi, Madame, quand ce soir,</l>
+<pagenum num="298"/>
+<l>Dans un instant, ici, le Roi viendra s’asseoir ;</l>
+<l>Quand, de son habitude esclave très fidèle,</l>
+<l>Sa Majesté voudra vous avoir auprès d’elle,</l>
+<l>Et ne suivra l’avis de ses vieux conseillers</l>
+<l>Qu’autant qu’il vous convienne et que vous le vouliez</l>
+<l>Quand, d’un mot, vous pouvez bouleverser l’Europe !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Non ! non ! te dis-je, un vent de malheur m’enveloppe.</l>
+<l>Et ce qui m’est encore un présage cruel,</l>
+<l>C’est le funèbre adieu que m’a fait Samuel.</l>
+<l>Cet enfant qui parlait de mourir... c’est horrible !</l>
+
+<hstage><speaker>NANON</speaker>.</hstage>
+<l>Eh ! Madame, écartez ce souvenir pénible.</l>
+<l>Mourir ! C’est, vous savez, le grand mot des amants :</l>
+<l>Le monde finirait s’ils tenaient leurs serments.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Ah ! ne ris pas !... Mon Dieu ! que je suis inquiète !</l>
+
+<pagenum num="299"/>
+
+<h2 id='p38'>SCÈNE II</h2>
+<cast>MADAME DE MAINTENON, NANON, HENRIETTE.</cast>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, avec bonté, à Henriette qui entre.</hstage>
+<l>Vous, mon enfant !... Eh bien, votre père, Henriette</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Libre depuis une heure, et parti sans me voir.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Comment ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Il s’en est fait un douloureux devoir...</l>
+<l>Car, de sa foi cette âme inflexible gardienne</l>
+<l>Admire en moi la fille et blâme la chrétienne ;</l>
+<l>Et, pleurant le serment qu’on m’a fait prononcer,</l>
+<l>Pour ne pas me maudire, il part sans m’embrasser.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Et que pourrais-je encor faire pour vous ?</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Je compte</l>
+<l>Cacher dans un couvent mon chagrin et ma honte.</l>
+<pagenum num="300"/>
+<l>Votre Dieu, pour lequel mon cœur s’est parjuré,</l>
+<l>Offre la paix du cloître à tout désespéré.</l>
+<l>Puissent me consoler vos prières latines !</l>
+<l>J’entre en noviciat, demain, aux Feuillantines...</l>
+<l>Mais c’est l’heure du Roi... Je dois me retirer.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Henriette !</l>
+
+<pstage>Elle va à Henriette, les bras tendus, comme pour l’embrasser ; mais la jeune fille se dérobe à son étreinte par une révérence respectueuse, et sort par la porte de gauche.</pstage>
+
+<h2 id='p39'>SCÈNE III</h2>
+<cast>MADAME DE MAINTENON, NANON.</cast>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Elle aussi va souffrir et pleurer...</l>
+<l>Nuirai-je donc toujours à ce qui m’environne,</l>
+<l>Et faudra-t-il, avant d’atteindre la couronne,</l>
+<l>Frapper tous ceux que j’aime et passer sur leurs corps,</l>
+<l>Ainsi qu’un conquérant qui foule aux pieds des morts ?</l>
+<l>Hélas ! ma conscience en vain se le déguise,</l>
+<l>C’est Dieu qui me poursuit.</l>
+
+<pstage>Elle retombe dans sa rêverie. Le Roi entre par la grande porte, suivi de quatre secrétaires d’État, Louvois, MM. de Seignelay et de Croissy, tous deux fils de Colbert, et le marquis de Châteauneuf. Ces deux derniers sont des personnages muets.</pstage>
+
+<pagenum num="301"/>
+
+<h2 id='p40'>SCÈNE IV</h2>
+<cast>LE ROI, MADAME DE MAINTENON, LOUVOIS, L<s>ES</s> M<s>INISTRES</s>, NANON.</cast>
+
+<pstage>Les ministres s’arrêtent au fond du théâtre. Le Roi s’approche de M<sup>me</sup> de Maintenon et la salue avec la plus grande courtoisie.</pstage>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Madame la Marquise,</l>
+<l>C’est mon heure. — Comment êtes-vous en santé ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Bien faible... Je rends grâce à Votre Majesté.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Avez-vous vu Fagon ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Non, pas cette semaine.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Vous avez tort. Il a sauvé le duc du Maine.</l>
+<l>C’est un fort savant homme ; il vous soulagerait.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Sa Majesté, pour moi, prend bien trop d’intérêt.</l>
+<l>L’indisposition, sans doute, est passagère.</l>
+
+<pagenum num="302"/>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Non pas. Votre santé plus qu’à vous nous est chère.</l>
+<l>Voyez monsieur Fagon.</l>
+<pstage>A Louvois, qu’il conduit dans un coin.</pstage>
+<l cont='true'>Ah ! quatre mots, Marquis.</l>
+
+<hstage><speaker>NANON</speaker>, bas, à la Marquise, en l’aidant à s’installer à sa tapisserie.</hstage>
+<l>Eh bien, que disiez-vous ? Le Roi vous est acquis ;</l>
+<l>Vous le voyez. Toujours la même courtoisie.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, bas, à Nanon.</hstage>
+<l>Je ne me trompe pas ; son regard m’a saisie,</l>
+<l>Et sa colère est près d’éclater, c’est certain.</l>
+
+<hstage><speaker>LE ROI</speaker>, bas, à Louvois.</hstage>
+<l>Ainsi donc on les a jugés, et, ce matin,</l>
+<l>Ces quatre scélérats qui, sans peur ni vergogne,</l>
+<l>Voulaient porter la main sur le duc de Bourgogne,</l>
+<l>Ont été condamnés à mort ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Et, sans surseoir,</l>
+<l>Ils seront en secret décapités ce soir.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Leurs noms ?</l>
+
+<pagenum num="303"/>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Permettez-moi de garder le silence,</l>
+<l>Sire, car je vais mettre en vos mains la balance</l>
+<l>Et vous allez peser un terrible attentat.</l>
+<l>Tout à l’heure, en traitant les affaires d’État,</l>
+<l>Que Votre Majesté, quoi que je dise et fasse,</l>
+<l>Observe la Marquise et la regarde en face,</l>
+<l>Et ne la perde pas un seul instant des yeux.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Ce langage, Marquis, est bien mystérieux.</l>
+<l>Je suivrai ce conseil, pourtant, quoiqu’il m’en coûte.</l>
+<l>— Faites donc.</l>
+<pstage>Il va auprès de M<sup>me</sup> de Maintenon et fait signe aux ministres de s’asseoir.</pstage>
+<l cont='true'>Travaillons, Messieurs ! Je vous écoute.</l>
+
+<pstage>Tous prennent place, le Roi dans son fauteuil, à côté de la Marquise qui fait do la tapisserie les yeux baissés, et Louvois et les ministres à la table, à gauche. Nanon s’est retirée discrètement.</pstage>
+
+<hstage><speaker>LOUVOIS</speaker>, tirant les dépêches des sacs et en ouvrant une.</hstage>
+<l>De Hollande. — On signale à Votre Majesté</l>
+<l>Que le grand stathouder fait l’hospitalité</l>
+<l>Bien large aux protestants qui quittent le royaume.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Je connais le chemin qui mène chez Guillaume ;</l>
+<pagenum num="304"/>
+<l>Je ne l’engage pas à trop s’occuper d’eux.</l>
+
+<hstage><speaker>LOUVOIS</speaker>, lisant une autre dépêche.</hstage>
+<l>De Madrid. — Ah ! vraiment, sous ce roi Charles deux</l>
+<l>L’Espagne offre un tableau de deuil et de tristesse ;</l>
+<l>Ce Mœdina, qui met à l’encan la grandesse,</l>
+<l>C’est scandaleux.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part.</hstage>
+<l cont='true'>Qu’ont-ils pu se dire tout bas ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>, lisant une nouvelle dépêche.</hstage>
+<l>De Rome. — Le Saint-Père...</l>
+
+<hstage><speaker>LE ROI</speaker>, avec impatience.</hstage>
+<l cont='true'>Ah ! ne m’en parlez pas.</l>
+<l>Si le Pape est de fer, le Roi sera de bronze.</l>
+<l>Je reste gallican.</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Pourtant, Innocent onze,</l>
+<l>Dans un bref très récent, donne comme certain</l>
+<l>Son droit...</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Il ne sait pas, m’a-t-on dit, le latin ;</l>
+<l>Il cessera de nous en inonder, j’espère :</l>
+<l>Nous prendrons, s’il le faut, Avignon au Saint-Père.</l>
+<l>Je suis un assez bon catholique, je croi ;</l>
+<pagenum num="305"/>
+<l>Je l’ai prouvé. Qu’il sache, aussi, que je suis Roi !</l>
+<l>— Passons. L’armée ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Au grand complet, malgré la trêve.</l>
+<l>Mais, comme le canal du Languedoc s’achève,</l>
+<l>Nos soldats, devenus terrassiers et maçons,</l>
+<l>Auront bientôt fini les travaux.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Bien ! passons. — </l>
+<l>La flotte ?</l>
+
+<hstage><speaker>LE MARQUIS DE SEIGNELAY</speaker>.</hstage>
+<l cont='true'>Nous avons, au moment où nous sommes,</l>
+<l>Cent quatre-vingt-dix-huit navires, cent mille hommes.</l>
+<l>Je viens de recevoir le compte officiel.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Votre père a fini cette œuvre, grâce au ciel !</l>
+<l>Colbert nous laisse là des forces bien solides.</l>
+
+<hstage><speaker>LE MARQUIS DE SEIGNELAY</speaker>.</hstage>
+<l>A propos, Sire, on a remis aux Invalides</l>
+<l>Le butin que Duquesne a rapporté d’Alger.</l>
+<l>Pour les canons, c’est bien : nous allons les ranger</l>
+<l>Sur leurs affûts, devant l’hôtel, en batterie.</l>
+<pagenum num="306"/>
+<l>Mais que faire à présent des drapeaux, je vous prie ?</l>
+<l>Leur place, cependant, est dans cette maison.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Ma foi ! je ne sais trop...</l>
+<pstage>Montrant M<sup>me</sup> de Maintenon.</pstage>
+<l cont='true'>Consultez la Raison.</l>
+<l>C’est, dans tout embarras, ici que j’en appelle.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Ne peut-on les suspendre aux murs de la chapelle,</l>
+<l>Sire ? Toute victoire, ici-bas, vient de Dieu.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Que disais-je ? — On suivra, Madame, votre vœu.</l>
+<l>Je vous reconnais là... Toujours pieuse et sage !</l>
+<pstage>Aux ministres.</pstage>
+<l>Ensuite ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>.</hstage>
+<l cont='true'>Nous avons payé, selon l’usage,</l>
+<l>La dépense — en voici le mémoire acquitté —</l>
+<l>Pour le Jardin du Roi, qui s’est fort augmenté,</l>
+<l>Pour la Bibliothèque et les Académies.</l>
+<l>Mais nous devons songer à des économies.</l>
+<l>Sire, c’est ruineux ! Il faut y réfléchir.</l>
+
+<pagenum num="307"/>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Payez ! Se ruiner ainsi, c’est s’enrichir.</l>
+<l>— Après ?</l>
+
+<hstage><speaker>LOUVOIS</speaker>, après un silence.</hstage>
+<l cont='true'>Nous n’avons plus qu’une affaire pendante,</l>
+<l>Celle des huguenots jugés en chambre ardente.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part.</hstage>
+<l>Des huguenots ! Encore !</l>
+
+<hstage><speaker>LE ROI</speaker>, à M<sup>me</sup> de Maintenon.</hstage>
+<l cont='true'>Ah, oui ! figurez-vous</l>
+<l>Que quatre aventuriers, — je dis mal, — quatre fous,</l>
+<l>Ont cru que leur parti reprendrait l’avantage</l>
+<l>Quand il aurait le duc de Bourgogne en otage.</l>
+<l>C’est affreux, n’est-ce pas ? Mon petit-fils volé !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part.</hstage>
+<l>Ah ! ce danger, duquel Samuel m’a parlé...</l>
+<l>Je tremble !</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Heureusement toute la bande est prise.</l>
+<l>Le marquis de Louvois veillait, et l’entreprise</l>
+<l>A misérablement avorté cette nuit.</l>
+<l>Ils seront châtiés sans éclat et sans bruit ;</l>
+<l>Car nous ne voulons pas de martyrs politiques.</l>
+
+<pagenum num="308"/>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, d’une voix tremblante.</hstage>
+<l>Et comment se nommaient ces quatre fanatiques ?</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Dites ces criminels ! Songez donc ! Dieu puissant !</l>
+<l>Oser porter la main sur un prince du sang !</l>
+<l>Leurs affreux noms, je les ignore, sur mon âme !</l>
+<pstage>A Louvois.</pstage>
+<l>Ayez donc la bonté de contenter Madame.</l>
+
+<hstage><speaker>LOUVOIS</speaker>, parcourant un de ses papiers avec une feinte indifférence.</hstage>
+<l>Croix Saint-Paul... Pons... Tracy...</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, soulagée.</hstage>
+<l cont='true'>Des inconnus.</l>
+
+<hstage><speaker>LOUVOIS</speaker>, feignant de chercher dans ses papiers.</hstage>
+<l cont='true'>Pardon !</l>
+<l>Il en reste un. Comment, déjà, le nomme-t-on ?</l>
+<l>— Tous, d’ailleurs, subiront la justice sommaire...</l>
+<pstage>Après un silence.</pstage>
+<l>Samuel de Méran.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, se levant, avec un grand cri.</hstage>
+<l cont='true'>Ah ! lui !</l>
+<pstage>Elle retombe, défaillante, sur sa chaise. — Tous se lèvent.</pstage>
+
+<pagenum num="309"/>
+
+<hstage><speaker>LOUVOIS</speaker>, à l’oreille du Roi, lui montrant la Marquise.</hstage>
+<l cont='true'>C’est bien sa mère !</l>
+
+<hstage><speaker>LE ROI</speaker>, à part, accablé.</hstage>
+<l>France, pardonne-moi ! Pardonnez-moi, mon Dieu !</l>
+<pstage>Aux ministres, haut.</pstage>
+<l>Que l’exécution, cette nuit même, ait lieu.</l>
+<l>A des traîtres jamais grâce n’est accordée.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part.</hstage>
+<l>Ciel !</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Mais, ce soir, Madame est fort incommodée.</l>
+<l>A demain ! Vous pouvez sortir, Messieurs.</l>
+<pstage>Louvois et les ministres sortent.</pstage>
+
+<h2 id='p41'>SCÈNE V</h2>
+<cast>LE ROI, MADAME DE MAINTENON.</cast>
+
+<hstage><speaker>LE ROI</speaker>, debout devant la Marquise, d’une voix terrible.</hstage>
+<l cont='true'>Eh bien ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, suppliante.</hstage>
+<l>Sire, êtes-vous un Roi clément, un Roi chrétien ?</l>
+<l>Sire, avez-vous dit vrai ? M’aimez-vous un peu, Sire</l>
+<pagenum num="310"/>
+<l>Mon Dieu ! je ne sais pas ce qu’ils ont pu vous dire,</l>
+<l>Mais je lis dans vos yeux, mon Roi ! mon bienfaiteur !</l>
+<l>Qu’ils vous auront montré ce livre accusateur ;</l>
+<l>Qu’ils vous auront fait voir, comme une horrible offense,</l>
+<l>Ce triste souvenir de jeunesse et d’enfance !</l>
+<l>Je me justifierai sur-le-champ... Mais d’abord,</l>
+<l>Grâce ! Ne laissez pas partir l’arrêt de mort.</l>
+<l>Si Samuel mourait, je vous le certifie,</l>
+<l>Sire, vous mettriez un crime dans ma vie,</l>
+<l>Que cet affreux moment abrège de moitié !</l>
+<l>Grâce pour Samuel, Sire ! grâce et pitié !</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Assez ! Je vais d’un mot vous forcer à vous taire !</l>
+<l>Car, c’est par trop d’audace à l’amante adultère</l>
+<l>D’Antoine de Méran, qui m’implore aujourd’hui,</l>
+<l>De prétendre sauver le fils qu’elle eut de lui !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Qui ? Samuel ?</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Osez soutenir le contraire.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Mais, ils en ont menti ! Samuel est le frère</l>
+<l>D’Antoine ! Ils ont menti, devant Dieu qui nous voit !</l>
+
+<pagenum num="311"/>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Fable ! Je ne suis plus la dupe qui vous croit.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Sire, je prouverai...</l>
+
+<hstage><speaker>LE ROI</speaker>, jetant le psautier aux pieds de M<sup>me</sup> de Maintenon.</hstage>
+<l cont='true'>Tenez ! voilà ce livre.</l>
+<l>D’abord, j’ai récusé la preuve qu’il me livre ;</l>
+<l>Mais tout à l’heure, ici, je n’en ai plus douté,</l>
+<l>En entendant le cri que vous avez jeté.</l>
+<l>Je ne me trompe pas : c’est le cri d’une mère !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Sire, il n’est pas mon fils !</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Bah ! Mensonge ! Chimère !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Et cet arrêt de mort ! Sire, un sursis du moins,</l>
+<l>Un sursis ! Car je puis produire des témoins.</l>
+<l>Chacun sait bien là-bas...</l>
+
+<hstage><speaker>LE ROI</speaker>, ironiquement.</hstage>
+<l cont='true'>La ruse est peu vulgaire...</l>
+<l>Qu’on fasse appareiller un navire de guerre,</l>
+<pagenum num="312"/>
+<l>N’est-ce pas ? pour savoir quel est ce hobereau ?</l>
+<l>— Non ! je ne dois pas faire attendre le bourreau.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Eh bien ! il est encor connu dans ma famille.</l>
+<l>Le comte d’Aubusson lui destinait sa fille :</l>
+<l>Qu’ils soient interrogés ! Ils seront les garants</l>
+<l>Que je ne vous mens point.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Qui cela ? Vos parents ?</l>
+<l>Précieux témoignage ! Avec ces créatures</l>
+<l>Vous avez combiné ce tissu d’impostures.</l>
+<l>Puis, s’il n’est pas de vous, ce bâtard protestant,</l>
+<l>— Prenez garde ! — pourquoi me suppliez-vous tant ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, éperdûment.</hstage>
+<l>Oui, c’est vrai, je le perds ! Mon Dieu, je deviens folle</l>
+<l>Et, là-bas, l’échafaud se dresse ! Et le temps vole !</l>
+<l>Je fais un rêve affreux... Grâce, encore une fois !</l>
+<l>Ce sont vos courtisans, c’est l’infâme Louvois,</l>
+<l>Qui m’ont précipitée en ce piège de boue !</l>
+<l>Mon Dieu ! ce que je dois avouer, je l’avoue.</l>
+<l>Antoine de Méran m’aimait, et je l’aimais ;</l>
+<l>Mais je n’ai pas été sa maîtresse, jamais !</l>
+<l>Un roman de jeunesse, ai-je dit le contraire ?</l>
+<pagenum num="313"/>
+<l>Samuel est son frère, — entendez-vous ? — son frère !</l>
+<l>Qu’est-ce qu’ils ont donc tous à fouiller mon passé ?...</l>
+<l>Ne me regardez pas avec cet air glacé,</l>
+<l>Ou je vais à vos pieds mourir de la torture !</l>
+<l>Grâce ! je ne suis pas coupable, je le jure</l>
+<l>Sur mon âme éternelle, et sur le crucifix !</l>
+<l>Grâce, encore une fois ! grâce ! il n’est pas mon fils !</l>
+
+<hstage><speaker>LE ROI</speaker>, à part.</hstage>
+<l>Oh ! doute affreux !</l>
+<pstage>Haut.</pstage>
+<l cont='true'>Mais si je vous croyais, en somme,</l>
+<l>Serait-ce une raison pour épargner cet homme ?</l>
+<l>Si vous trouviez le mot qui vous innocentât,</l>
+<l>N’en serait-il pas moins un criminel d’État ?</l>
+<l>La justice a parlé, Madame : il faut qu’il meure.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Ah ! j’y renonce... Ils vont le tuer tout à l’heure ;</l>
+<l>Mais je voudrais en vain l’arracher au trépas !...</l>
+<l>C’est fini... je me tais... Vous ne me croyez pas.</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Vous ne voyez donc pas que je voudrais vous croire,</l>
+<l>Et qu’il reste toujours gravé dans ma mémoire,</l>
+<l>Le serment qui devait cette nuit nous unir ?</l>
+<pagenum num="314"/>
+<l>Vous ne voyez donc pas que c’est pour le tenir</l>
+<l>Que je fais de vos cris retentir ces murailles,</l>
+<l>Et que je veux tirer, du fond de vos entrailles,</l>
+<l>La preuve qu’il n’est pas un coupable insensé,</l>
+<l>Ce Roi, qui jusqu’à vous enfin s’est abaissé ?</l>
+<l>Oui ! Quand la jalousie atroce me dévore,</l>
+<l>Vous ne voyez donc pas que je vous aime encore !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Vous m’aimez ? En effet, et c’est bien le prouver !</l>
+<l>Mais non ! vous êtes bon, vous allez le sauver.</l>
+<l>Il est déjà bien tard... mais, à bride abattue,</l>
+<l>Quelqu’un peut arriver avant qu’on ne le tue...</l>
+<l>Mon Dieu ! c’est si tôt fait, un mot sur un papier...</l>
+<l>Ah ! vous me faites bien durement expier</l>
+<l>L’orgueil que votre amour m’avait inspiré, Sire.</l>
+<l>Vous m’aimez ! Vous m’aimez !... Je ne sais plus que dire !</l>
+<l>Mais celle dont hier vous demandiez la main,</l>
+<l>Voyez-vous ! elle aura des cheveux blancs demain !...</l>
+<l>Vous gardez le silence ?... encor ?... toujours ?...</l>
+<pstage> Elle défaille.</pstage>
+<l cont='true'>J’expire !</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Eh bien ! soit donc... Je cède au démon qui m’inspire,</l>
+<l>Et vous ne direz plus que je suis si cruel.</l>
+<pagenum num="315"/>
+<pstage>Écrivant un mot à la hâte sur la table à gauche, et tendant le papier à la Marquise.</pstage>
+<l>Voici la grâce... Allez sauver ce Samuel !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Ah !...</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Je pénètre ainsi le secret de votre âme.</l>
+<l>Si vous rendez la vie à cet homme, Madame,</l>
+<l>C’est qu’il est votre fils, et, sans mots superflus,</l>
+<l>Jamais devant mes yeux ne reparaissez plus.</l>
+<l>— Moi, j’oublierai combien vous me parûtes belle.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Grand Dieu !</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>Mais si demain, dès l’aube, à la chapelle,</l>
+<l>Où je vous attendrai d’un cœur tranquille et fort,</l>
+<l>Vous venez m’apporter la preuve de sa mort,</l>
+<l>C’est qu’il ne vous est rien... et vous serez ma femme.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Non ! j’ai mal entendu... Non ! ce serait infâme !</l>
+<l>Moi, le sacrifier... Je vous prie à genoux...</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l>Madame, vous avez six heures devant vous,</l>
+<l>Et je veux ignorer ce que vous allez faire.</l>
+<pagenum num="316"/>
+<l>Plus un mot ! Je pourrais devenir plus sévère.</l>
+<l>Épouser un grand prince ou sauver un bandit :</l>
+<l>Choisissez !</l>
+<pstage>Il se dirige vers la porte.</pstage>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Sire... Sire... Un mot encor !...</l>
+
+<hstage><speaker>LE ROI</speaker>.</hstage>
+<l cont='true'>J’ai dit.</l>
+<pstage>Il sort.</pstage>
+
+<h2 id='p42'>SCÈNE VI</h2>
+<cast>MADAME DE MAINTENON, puis HENRIETTE.</cast>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, un instant seule, ayant à la main la grâce de Samuel, que lui a donnée le Roi.</hstage>
+<l>Perdre un trône, ou tuer cet homme ?</l>
+<pstage>Avec épouvante.</pstage>
+<l cont='true'>Horreur ! j’hésite !</l>
+<pstage>Apercevant le psautier jeté à terre par le Roi.</pstage>
+<l>Mon psautier !</l>
+<pstage>Elle le prend avec violence, et le baise avec ardeur.</pstage>
+<l cont='true'>Oh ! merci !</l>
+<pstage>Elle ouvre la porte de gauche et appelle.</pstage>
+<pagenum num="317"/>
+<l cont='true'>Henriette ! Bien vite !</l>
+<l>Oh ! bien vite !</l>
+<pstage>Henriette entre.</pstage>
+<l cont='true'>Courons !</l>
+
+<hstage><speaker>HENRIETTE</speaker>, surprise.</hstage>
+<l cont='true'>Où donc ? Pourquoi courir ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Pour sauver Samuel, qu’ils vont faire mourir !</l>
+<pstage>Elle l’entraîne.</pstage>
+
+ </page-sequence>
+ <page-sequence recto='true' id='p43'>
+ <pagenum num="318"/>
+
+<h1>ACTE CINQUIÈME</h1>
+
+<vsep class="rule"/>
+
+<pstage>Une salle basse, à la Bastille. A gauche, une porte. Au fond, une large ouverture cintrée, fermée par une grille et donnant sur une galerie. La scène n’est éclairée que par une résine, brûlant dans une torchère de fer, à la muraille.</pstage>
+
+<vsep class="rule"/>
+
+<h2 id='p44'>SCÈNE PREMIERE</h2>
+<cast>SAMUEL DE MÉRAN, debout devant UN GREFFIER, ayant à la main un parchemin qu’il vient de lire ; LE GEOLIER est à la grille du fond, qu’il tient ouverte.</cast>
+
+<hstage><speaker>SAMUEL</speaker>, au greffier.</hstage>
+<l>Et l’exécution, Monsieur ?</l>
+
+<hstage><speaker>LE GREFFIER</speaker>.</hstage>
+<l cont='true'>Dans un quart d’heure.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>On ne peut m’apporter de nouvelle meilleure.</l>
+<l>Et nous mourrons tous quatre ensemble ?</l>
+
+<pagenum num="319"/>
+
+<hstage><speaker>LE GREFFIER</speaker>.</hstage>
+<l cont='true'>C’est ainsi</l>
+<l>Que le porte l’arrêt.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>C’est bien, Monsieur. — Merci !</l>
+<pstage>Le greffier sort. — Le geôlier referme la grille derrière lui.</pstage>
+
+<h2 id='p45'>SCÈNE II</h2>
+
+<hstage><speaker>SAMUEL</speaker>, seul.</hstage>
+<l>Donc l’échafaud se dresse... En m’y voyant paraître,</l>
+<l>Ils n’auront plus le droit de m’appeler un traître ;</l>
+<l>Et la mort m’est bien douce, après l’horrible affront</l>
+<l>Que leur cruelle erreur a jeté sur mon front.</l>
+<l>O mon sang, tout mon sang pour laver cette boue,</l>
+<l>Ce crachat du vieillard qui me brûle la joue !</l>
+<l>Mort ! sois la bienvenue et prends-moi ! Je suis prêt.</l>
+<l>Merci, juges de sang ! j’accepte votre arrêt :</l>
+<l>Il me permet enfin de relever la tête.</l>
+
+<pagenum num="320"/>
+
+
+<h2 id='p46'>SCÈNE III</h2>
+<cast>SAMUEL, MADAME DE MAINTENON, HENRIETTE.</cast>
+
+<hstage><speaker>HENRIETTE</speaker>, derrière la grille, au geôlier.</hstage>
+<l>Ordre du Roi ! Laissez-moi passer.</l>
+
+<hstage><speaker>SAMUEL</speaker>, la reconnaissant.</hstage>
+<l cont='true'>Henriette !</l>
+<pstage>Le geôlier ouvre la grille. La jeune fille se jette dans les bras de Samuel. M<sup>me</sup> de Maintenon entre derrière elle.</pstage>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Samuel ! Il n’est pas trop tard ! Rien n’est fini.</l>
+<l>Vous avez eu pitié, mon Dieu ! Soyez béni !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Henriette !... Ah ! je sens se fondre mon courage.</l>
+<l>Je m’étais préparé pour l’éternel voyage ;</l>
+<l>Mais je songe, devant ce que je laisse ici :</l>
+<l>Est-il un ange au ciel pareil à celui-ci ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, s’approchant.</hstage>
+<l>Il vient pour vous sauver, et c’est Dieu qui l’envoie...</l>
+<l>Samuel, soyez fort pour une grande joie !</l>
+<l>Celle dont vous avez soupçonné l’amitié</l>
+<pagenum num="321"/>
+<l>Et qu’hier vous avez maudite sans pitié,</l>
+<l>Vous allez voir comment elle se justifie...</l>
+<pstage>Elle lui donne l’ordre de grâce.</pstage>
+<l>Prenez... Lisez... Voici le bonheur et la vie.</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>La vie et le bonheur ! Ai-je bien entendu ?</l>
+<l>Ma grâce !... Ah ! cette fois, je suis vraiment perdu !</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Mon Dieu ! le malheureux ne comprend pas encore...</l>
+<l>La Marquise vous sauve...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Elle me déshonore.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Moi ? Quel nouveau malheur !...</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Mais vous ignorez donc</l>
+<l>Que mes amis, qui n’ont nul espoir de pardon,</l>
+<l>Mes amis, dont la tête ici sera tranchée,</l>
+<l>Savent que je vous ai, par deux fois, approchée,</l>
+<l>Et que d’affreux soupçons ces grands cœurs envahis</l>
+<l>M’accusent hautement de les avoir trahis !</l>
+<l>Mon innocence était par ma mort reconnue ;</l>
+<pagenum num="322"/>
+<l>Mais cette grâce infâme, et par vous obtenue,</l>
+<l>— Oui, par vous qui mettez le comble à mes malheurs, —</l>
+<l>Me rend traître à mes yeux, Madame, ainsi qu’aux leurs !</l>
+<l>— Je refuse !</l>
+
+<hstage><speaker>HENRIETTE</speaker>, à M<sup>me</sup> de Maintenon.</hstage>
+<l cont='true'>Mon Dieu ! Son désespoir l’excuse.</l>
+<l>Sauvons-le malgré lui, n’est-ce pas ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à part.</hstage>
+<l cont='true'>Il refuse.</l>
+<l>Arrière, tentateur ! Pas de trône à ce prix !</l>
+<pstage>Haut, à Samuel.</pstage>
+<l>Mais, malheureux enfant, vous n’avez pas compris.</l>
+<l>Ce que pensent ces trois criminels, que m’importe ?</l>
+<l>Vous êtes innocent ! — Et, ce qu’ici j’apporte,</l>
+<l>Ce n’est pas seulement le supplice évité,</l>
+<l>C’est aussi le bonheur, l’amour, la liberté.</l>
+<l>Regardez cette enfant qui supplie et qui tremble !</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Elle a raison, mon bien-aimé ! Fuyons ensemble !</l>
+<l>Fuyons !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l cont='true'>Il est trop tard, et tout me le défend...</l>
+<l>Mais merci d’évoquer notre amour, pauvre enfant !</l>
+<pagenum num="323"/>
+<l>Dans mon sombre passé de souffrance et de luttes,</l>
+<l>Lui seul m’a pu donner quelques douces minutes.</l>
+<l>Laisse donc, dans ce tendre et suprême baiser,</l>
+<l>Laisse encore une fois mon cœur se reposer,</l>
+<l>Ainsi que la frileuse hirondelle en voyage,</l>
+<l>Traversant l’Océan par une nuit d’orage,</l>
+<l>Avant de remonter dans le ciel plein d’éclairs,</l>
+<l>Se repose un moment sur le courroux des mers...</l>
+<l>Sois heureuse sans moi ! Je t’aime !</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l cont='true'>Infortunée !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Sois heureuse, Henriette ! et soyez pardonnée,</l>
+<l>Madame. Le bonheur ne m’était pas permis,</l>
+<l>Et je dois partager le sort de mes amis ;</l>
+<l>Leur tombe me requiert, leur supplice m’attire...</l>
+<l>Mais je suis plein d’amour, je ne sais plus maudire.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l>Non, il ne mourra pas !</l>
+<pstage>A Henriette.</pstage>
+<l cont='true'>Oh ! n’est-ce pas qu’il faut</l>
+<l>Lui barrer le chemin qui mène à l’échafaud !</l>
+<l>Si je ne pouvais pas à la mort le soustraire,</l>
+<pagenum num="324"/>
+<l>Je verrais chaque nuit le spectre de son frère</l>
+<l>Me demander raison du sang de ce martyr.</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Consens, mon Samuel, oui, tu dois consentir,</l>
+<l>Ou je vais expirer sur ta main que j’embrasse !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Je souffre !</l>
+
+<pstage>La porte de gauche s’ouvre et donne passage à Croix Saint-Paul et à MM. de Pons et de Tracy, le col nu. Ils s’avancent entourés d’une escorte que précède le greffier.</pstage>
+
+<h2 id='p47'>SCÈNE IV</h2>
+<cast>SAMUEL, MADAME DE MAINTENON, HENRIETTE, LE BARON DE CROIX SAINT-PAUL, M. DE PONS, M. DE TRACY, LE GREFFIER.</cast>
+
+<hstage><speaker>LE GREFFIER</speaker>, à Samuel.</hstage>
+<l cont='true'>Êtes-vous prêt, Monsieur ?</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Il a sa grâce !</l>
+
+<hstage><speaker>HENRIETTE</speaker>.</hstage>
+<l>Sa grâce ! Hors d’ici donc, bourreaux et soldats !</l>
+
+<pagenum num="325"/>
+
+<hstage><speaker>LE GREFFIER</speaker>.</hstage>
+<l>Il faut un seing royal.</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, à Samuel, d’une voix terrible.</hstage>
+<l cont='true'>Vois ton œuvre, Judas !</l>
+
+<hstage><speaker>SAMUEL</speaker>.</hstage>
+<l>Horreur !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, à Samuel.</hstage>
+<l cont='true'>Mais donne donc l’ordre de grâce ! Donne !</l>
+<l>Sais-tu que j’ai perdu l’espoir d’une couronne</l>
+<l>Pour avoir ce papier, et qu’un trône, là-bas,</l>
+<l>Est préparé pour moi si tu n’acceptes pas ?</l>
+<l>Pourtant, vois, je t’en prie... à tes pieds je me traîne...</l>
+<l>Oui, ta vie avant tout !...</l>
+
+<hstage><speaker>SAMUEL</speaker>, déchirant brusquement le papier.</hstage>
+<l cont='true'>Eh bien, non ! soyez Reine.</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>, avec un cri de douleur.</hstage>
+<l>Ah !</l>
+
+<hstage><speaker>SAMUEL</speaker>, courant se ranger auprès des condamnés.</hstage>
+<l cont='true'>Je meurs avec vous ! Suis-je un traître à présent ?</l>
+
+<hstage><speaker>CROIX SAINT-PAUL</speaker>, l’embrassant.</hstage>
+<l>Donne-moi ton pardon, mon frère, en m’embrassant,</l>
+<l>Toi dont injustement j’ai nié le courage !</l>
+<pagenum num="326"/>
+<l>Mon baiser sur ta joue effacera l’outrage.</l>
+<l>Oui, pardonne au vieillard ; Dieu voit mon repentir...</l>
+<l>Et maintenant, reprends ton rang, soldat martyr,</l>
+<l>Parmi la légion des chrétiens décimée.</l>
+
+<pstage>Sur un geste du greffier, les condamnés se dirigent vers la grille au fond ; mais, arrivé là, Croix Saint-Paul se retourne et s’adresse à la Marquise :</pstage>
+
+<l>Et vous, vous si fatale à la foi réformée,</l>
+<l>Fille des d’Aubigné, Marquise, écoutez-moi :</l>
+<l>Vous allez devenir la femme du Grand Roi,</l>
+<l>Au but longtemps rêvé votre ambition touche ;</l>
+<l>Mais c’est le soir du règne, et son soleil se couche.</l>
+<l>Redoutez l’avenir prédit par un mourant...</l>
+<l>Malheur sur le Grand Roi ! malheur !</l>
+
+<hstage><speaker>MADAME DE MAINTENON</speaker>.</hstage>
+<l cont='true'>Dieu seul est grand !</l>
+
+ </page-sequence>
+ </page-sequences>
+</bml>
