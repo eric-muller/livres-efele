@@ -235,9 +235,12 @@ img.fullpageimage {
 }
 
 img.center, img.center100 {
+  display: block;
   max-width: 100%;
   max-height: 100%;
-  text-align: center; }
+  margin-left: auto;
+  margin-right: auto;
+}
 
 img.center90 {
   max-width: 90%;
