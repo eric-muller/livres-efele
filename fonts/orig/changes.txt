@@ -48,3 +48,12 @@
 ./pyftfeatfreeze.py -v -s latn -f locl,pnum,onum MinionPro-It.otf ../MinionPro-It.otf
 
 ./pyftfeatfreeze.py -v -s latn -f locl,pnum,onum MinionPro-Bold.otf ../MinionPro-Bold.otf
+
+
+
+python ./pyftfeatfreeze.py -v -s latn -f locl,pnum,onum CheltenhamStd-Book.otf ../CheltenhamStd-Book.otf
+
+python ./pyftfeatfreeze.py -v -s latn -f locl,pnum,onum,c2sc CheltenhamStd-Book.otf ../CheltenhamStd-Book.sc.otf
+
+python ./pyftfeatfreeze.py -v -s latn -f locl,pnum,onum CheltenhamStd-BookItalic.otf ../CheltenhamStd-BookItalic.otf
+
