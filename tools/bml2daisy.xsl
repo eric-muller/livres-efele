@@ -114,7 +114,7 @@
 <!--================================================================= smil/dtb -->
 
 
-<xsl:template match='bml:div | bml:blockquote | bml:smaller | bml:epigraphe | bml:poem | bml:letter | bml:ul | bml:li' mode='smil'>
+<xsl:template match='bml:div | bml:blockquote | bml:smaller | bml:epigraphe | bml:dedicace | bml:poem | bml:letter | bml:ul | bml:li' mode='smil'>
   <xsl:param name='targetfile' tunnel='yes'/>
   <xsl:variable name='id' select='if (@id) then @id else generate-id()'/>
 

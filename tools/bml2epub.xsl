@@ -213,6 +213,18 @@
   <div class="apresepigraphe"/>
 </xsl:template>
 
+<xsl:template match='bml:dedicace' mode='html'>
+  <div class="avantdedicace"/>
+  <div>
+    <xsl:call-template name='transfer-common-attributes'>
+      <xsl:with-param name='class'>dedicace</xsl:with-param>
+    </xsl:call-template>
+      <xsl:apply-templates mode='html'/>
+  </div>
+  <div class="apresdedicace"/>
+</xsl:template>
+
+
 <xsl:template match='bml:page-sequence/bml:div/bml:poem' mode='html'>
   <div style="margin-top:3em;">
     <xsl:call-template name='transfer-common-attributes'>

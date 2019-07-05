@@ -1,0 +1,148 @@
+<?xml version='1.0'?>
+
+<edition xmlns="http://efele.net/2010/ns/bml">
+  <style colophon="Chaparral" body="ChaparralPro">
+    <fonts href='../../../fonts/ChaparralPro.xml'/>
+
+    <css>
+
+.avantdedicace, .apresdedicace {
+  clear: both;
+}
+
+.dedicace {
+  margin: 1em 2em 1em 33%;
+  float: right;
+  clear: both;
+}
+
+img
+{
+  width: 100%;
+}
+
+p img
+{
+  float: left;
+  width: 100%;
+  padding: 1em 0 1em 0;
+}
+
+img[src='images/021.png'],
+img[src='images/025.png'],
+img[src='images/031.png'],
+img[src='images/051.png'],
+img[src='images/141.png'],
+img[src='images/185.png'],
+img[src='images/233.png'],
+img[src='images/239.png']
+{
+  float: right;
+  width: 50%;
+  padding: 0.5em 0 0.5em 0.5em;
+  shape-image-threshold: .2;
+  shape-margin: 2em;
+}
+
+img[src='images/003b.png'],
+img[src='images/199.png'],
+img[src='images/211.png'],
+img[src='images/243.png']
+{
+  float: right;
+  width: 33%;
+  padding: 0.5em 0 0.5em 0.5em;
+  shape-image-threshold: .2;
+  shape-margin: 2em;
+}
+
+
+img[src='images/030.png'],
+img[src='images/054.png'],
+img[src='images/084.png'],
+img[src='images/128.png'],
+img[src='images/194.png'],
+img[src='images/208.png'],
+img[src='images/226.png']
+{
+  float: left;
+  width: 50%;
+  padding: 0.5em 0.5em 0.5em 0;
+  shape-image-threshold: .2;
+  shape-margin: 2em;
+}
+
+img[src='images/003a.png'],
+img[src='images/216.png']
+{
+  float: left;
+  width: 33%;
+  padding: 0.5em 0.5em 0.5em 0;
+  shape-image-threshold: .2;
+  shape-margin: 2em;
+}
+
+
+img[src='images/021.png']
+{  shape-outside: url(images/021.png); }
+
+img[src='images/025.png']
+{  shape-outside: url(images/025.png); }
+
+img[src='images/031.png']
+{  shape-outside: url(images/031.png); }
+
+img[src='images/051.png']
+{  shape-outside: url(images/051.png); }
+
+img[src='images/141.png']
+{  shape-outside: url(images/141.png); }
+
+img[src='images/185.png']
+{  shape-outside: url(images/185.png); }
+
+img[src='images/233.png']
+{  shape-outside: url(images/233.png); }
+
+img[src='images/239.png']
+{  shape-outside: url(images/239.png); }
+
+
+
+img[src='images/199.png']
+{  shape-outside: url(images/199.png); }
+
+img[src='images/211.png']
+{  shape-outside: url(images/211.png); }
+
+img[src='images/243.png']
+{  shape-outside: url(images/243.png); }
+
+
+
+
+img[src='images/030.png']
+{  shape-outside: url(images/030.png); }
+
+img[src='images/054.png']
+{  shape-outside: url(images/054.png); }
+
+img[src='images/084.png']
+{  shape-outside: url(images/084.png); }
+
+img[src='images/128.png']
+{  shape-outside: url(images/128.png); }
+
+img[src='images/194.png']
+{  shape-outside: url(images/194.png); }
+
+img[src='images/208.png']
+{  shape-outside: url(images/208.png); }
+
+img[src='images/226.png']
+{  shape-outside: url(images/226.png); }
+
+}
+    </css>
+  </style>
+</edition>

@@ -384,14 +384,19 @@ toc_list =
 
 block |= toc_list
 
-#------------------------------------------------------------------ epigraph ---
+#------------------------------------------------------------------ dedicace ---
 
-epigraph =
-  element epigraphe {
+block |=
+  element dedicace {
     common-attributes,
     block* }
 
-block |= epigraph
+#----------------------------------------------------------------- epigraphe ---
+
+block |= 
+  element epigraphe {
+    common-attributes,
+    block* }
 
 #------------------------------------------------------------------- headers ---
 
