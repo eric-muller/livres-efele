@@ -285,11 +285,13 @@
     <a href="http://www.v2asp.paris.fr/commun/v2asp/musees/balzac/furne/presentation.htm"><i>http://&#x200b;www.v2asp.paris.fr/&#x200b;commun/&#x200b;v2asp/&#x200b;musees/&#x200b;balzac/&#x200b;furne/&#x200b;presentation.htm</i></a></p>
     
     <p>― l’ancienne édition du groupe Ebooks Libres et
-    Gratuits : <a href="http://​www.ebooksgratuits.org"><i>http://​www.ebooksgratuits.org</i></a></p>
+    Gratuits : <a href="http://www.ebooksgratuits.org"><i>http://www.ebooksgratuits.org</i></a></p>
     
     <p>― l’édition Furne scannée
-    par Google Books : <a href="http://​books.google.com"><i>http://​books.google.com</i></a></p>
+    par Google Books : <a href="http://books.google.com"><i>http://books.google.com</i></a></p>
     
+    <p>— l’édition de <a href="https://ebalzac.com">http://ebalzac.com.</a></p>
+
     <p>Merci à ces groupes de fournir gracieusement leur travail.</p>
 
         <vsep class="emptyline"/>
