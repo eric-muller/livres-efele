@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+
+<edition xmlns="http://efele.net/2010/ns/bml">
+  <style colophon="Garamond Premier" body="GaramondPremrPro">
+    <fonts href='../../../fonts/GaramondPremrPro.xml'/>
+
+    <css>
+.photo {
+float: left; width: 100vw;
+padding: 1em 0 1em 0;
+}
+
+.photo + p {
+  clear: both;
+}
+
+.photo p {
+text-indent: 0; }
+
+.photo img {
+  object-fit: scale-down;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}  
+    </css>
+  </style>
+</edition>

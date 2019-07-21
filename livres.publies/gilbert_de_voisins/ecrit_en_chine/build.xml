@@ -1,0 +1,13 @@
+<?xml version='1.0'?>
+
+<project name='efele' default='build'>
+
+  <property name='schema' value='schema.rnc'/>
+  <property name='toefele_xsl' value='toefele.xsl'/>
+
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='ecrit_en_chine'/>
+  </target>
+</project>

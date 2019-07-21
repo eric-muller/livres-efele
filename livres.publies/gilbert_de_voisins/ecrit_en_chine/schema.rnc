@@ -1,0 +1,20 @@
+default namespace bml = "http://efele.net/2010/ns/bml"
+
+include "../../../tools/bml.rnc" {
+}
+
+block |=
+  element photo {
+    attribute src { text },
+    pagenum?,
+    element titre { inline+ },
+    element date { inline+ }?,
+    pagenum? }
+
+
+block |=
+  element entree {
+    element entree-lieu { inline* },
+    element entree-date { inline* },
+    block+ }
+
