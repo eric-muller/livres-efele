@@ -1,0 +1,2347 @@
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="http://catalogue.bnf.fr/ark:/12148/cb30267616p">
+
+      <titre>Œuvres complètes de François Coppée</titre>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb11897612w">
+        <nom-bibliographie>Coppée, François</nom-bibliographie>
+        <dates>1842-1908</dates>
+        <nom-couverture>François Coppée</nom-couverture>
+      </auteur>
+      
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488218gg" role="ill">
+        <nom-bibliographie>Flameng, François</nom-bibliographie>
+        <dates>1856-1923</dates>
+        <nom-couverture>François Flameng</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb13488219t" role="ill">
+        <nom-bibliographie>Tofani, Oswaldo</nom-bibliographie>
+        <dates>1849-1915</dates>
+        <nom-couverture>Oswaldo Tofani</nom-couverture>
+      </auteur>
+
+      <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb14967570r" role="ill">
+        <nom-bibliographie>Dawant, Albert Pierre</nom-bibliographie>
+        <dates>1852-1923</dates>
+        <nom-couverture>Albert Dawant</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>L. Hébert</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <editeur>
+        <nom>A. Houssiaux</nom>
+        <ville>Paris</ville>
+      </editeur>
+      
+      <date>1885</date>
+
+      <langue>fr</langue>
+    </monographie>
+    
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k408046n"
+                 pages="N6 1-3 5-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000622"
+        creation="2019-07-28T13:52:05-07:00">
+      
+      <titre>Maître Ambros</titre>
+
+      <collection id="c00018" volume="50">
+        <titre>Œuvres complètes de François Coppée, édition Lemerre</titre>
+      </collection>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+  
+  <toc>
+    <tocentry idref='p02' label='Personnages'/>
+    <tocentry idref='p03' label='Acte premier'/>
+    <tocentry idref='p04' label='Acte deuxième'/>
+    <tocentry idref='p05' label='Acte troisième'/>
+    <tocentry idref='p06' label='Acte quatrième'/>
+  </toc>
+  
+  <cover src="images/couverture17.png" alt="Œuvres complètes de François Coppée de l’Académie française. Édition illustrée par François Flameng et Tofani. Gravure au burin par Boisson, Boutelié, Dubouchet, Lépold Frameng et Jules Jacquet. Théâtre — Tome IV. Édition Lemerre. Paris. Librairie L. Hébert. Alexandre Houssieux et Cie, Successeurs. 7, rue Perronet, 7. 1892"/>
+
+ <page-sequences>
+ <page-sequence id='p01' recto='true'>
+<pagenum num="43"/>
+
+<h1>MAITRE AMBROS</h1>
+
+<h2>DRAME LYRIOUE</h2>
+
+<h2><s>EN QUATRE ACTES ET CINQ TABLEAUX</s></h2>
+
+<h2>REPRÉSENTÉ POUR LA PREMIÈRE FOIS PARIS, AU THÉATRE DE L’OPÉRA-COMIQUE, LE 6 MAI 1886</h2>
+
+<h2>EN COLLABORATION AVEC M. A. DORCHAIN</h2>
+
+<h2>MUSIQUE DE CH.-M. WIDOR</h2>
+
+ </page-sequence>
+ <page-sequence id='p02'>
+ <pagenum num="44"/>
+
+<h2>PERSONNAGES</h2>
+
+<table>
+<tbody>
+<tr>
+<td>M<s>AÎTRE</s> AMBROS, capitaine corsaire</td>
+<td>MM.</td>
+<td>B<s>OUVET</s>.</td>
+</tr>
+<tr>
+<td>HENDRICK, officier de la garde civique</td>
+<td/>
+<td>L<s>UBERT</s>.</td>
+</tr>
+<tr>
+<td>ANTON, sergent</td>
+<td/>
+<td>F<s>OURNETS</s>.</td>
+</tr>
+<tr>
+<td>LE BOURGMESTRE</td>
+<td/>
+<td>D<s>ULIN</s>.</td>
+</tr>
+<tr>
+<td>NELLA</td>
+<td>M<sup>mes</sup></td>
+<td>C. S<s>ALLA</s>.</td>
+</tr>
+<tr>
+<td>ADRIAN, mousse (travesti)</td>
+<td/>
+<td>C<s>ASTAGNÉ</s>.</td>
+</tr>
+<tr>
+<td>UN SOLDAT</td>
+<td>MM.</td>
+<td>C<s>AMBOT</s>.</td>
+</tr>
+<tr>
+<td>UN OFFICIER</td>
+<td/>
+<td>T<s>ESTE</s>.</td>
+</tr>
+</tbody>
+</table>
+
+<vsep class="emptyline"/>
+
+<p>O<s>FFICIERS ET</s> S<s>OLDATS DE LA GARDE CIVIQUE</s>, M<s>OUSSES</s>, B<s>OURGEOIS</s>, G<s>ENS DU PEUPLE</s>, P<s>OISSONNIÈRES, ETC</s>.</p>
+
+<vsep class="emptyline"/>
+
+<p>L’action se panse à Amsterdam, en 1650.</p>
+
+<vsep class="emptyline"/>
+
+<p>En 1650, lorsque Guillaume II voulant s’assurer de la capitale hollandaise, envoya un corps de troupes pour occuper la ville, les magistrats fermèrent bravement les portes, enrôlèrent les marins du port, braquèrent leurs canons sur la campagne et s’apprêtèrent à la résistance : leur contenance fut si vaillante que les troupes du stalhouder n’osèrent commencer l’attaque ; et, comme elles ne se retiraient point assez vite au gré des magistrats, on rompit une digue, ce qui faillit les noyer en partie.</p>
+
+<signature>H<s>ENRY</s> H<s>AVARD</s>.</signature>
+
+<p class="r3">(Amsterdam et Venise.)</p>
+
+ </page-sequence>
+ <page-sequence id='p03'>
+<pagenum num="45"/>
+
+<h1>MAITRE AMBROS</h1>
+
+<vsep class="rule"/>
+
+<h1>ACTE PREMIER</h1>
+
+<h2>PREMIER TABLEAU</h2>
+
+<h3>Intérieur hollandais, chez Ambros. Portes au fond et à gauche.</h3>
+
+<h2>SCÈNE PREMIÈRE</h2>
+
+<cast>AMBROS, HENDRICK, le BOURGMESTRE, ADRIAN, ANTON, O<s>FFICIERS</s> et P<s>ORTE</s>-D<s>RAPEAU DE LA GARDE CIVIQUE</s>, une S<s>ERVANTE</s>.</cast>
+
+<pstage>Au lever du rideau, les personnages sont groupés autour d’une table servie et la mise en scène reproduit à peu près le fameux tableau de Van der Helz : <i>le Repas de la garde civique</i>.</pstage>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Verse en nos âmes le courage,</l>
+<l>Amour de la noble cité,</l>
+<l>Et que chacun de nous s’engage</l>
+<l>A mourir pour toi, Liberté !</l>
+<pagenum num="46"/>
+<l>En l’honneur des vieilles franchises</l>
+<l>Jadis conquises</l>
+<l>Par nos aïeux,</l>
+<l>Chantons l’hymne qui met sa flamme</l>
+<l>Et dans notre âme</l>
+<l>Et dans nos yeux.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Voici mon meilleur vin, mes hôtes.</l>
+<l>Voici ma bière et mon skidam.</l>
+<l>Levons tous nos verres à côtes</l>
+<l>En l’honneur du libre Amsterdam.</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>.</hstage>
+<l>Puisqu’au mépris de l’ancien privilège</l>
+<l>Guillaume Deux vient avec du canon</l>
+<l>Et sous nos murs ose mettre le siège,</l>
+<l>Céderons-nous à la force ?</l>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>Non, non !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Bons officiers de la garde civique,</l>
+<l>Dans le péril qui nous presse aujourd’hui,</l>
+<l>Vous avez pris l’arquebuse et la pique ; </l>
+<l>Saurez-vous bien vous en servir ?</l>
+
+<pagenum num="47"/>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>Oui, oui !</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker> et <speaker>HENDRICK</speaker>.</hstage>
+<l>C’est dit. Tout Amsterdam se range</l>
+<l>Sous la bannière de la loi.</l>
+<l>Oui, nous résisterons à Guillaume d’Orange,</l>
+<l>C’est notre stathouder, ce n’est pas notre roi.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>D’ailleurs, n’avons-nous pas l’intrépide corsaire</l>
+<l>Que voici, — Maître Ambros, vainqueur dans cent combats ?</l>
+<l>C’est le chef acclamé, le héros populaire ;</l>
+<l>Il fera de vous des soldats.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Autant que moi vous saurez être utile,</l>
+<l>Noble Hendrick... Je vous vis à l’œuvre et m’en souviens.</l>
+<l>Jamais on ne prendra la ville</l>
+<l>Qui compte tant de fiers et vaillants citoyens.</l>
+<l>Et, si nous étions près de succomber quand même</l>
+<l>Sous les assauts du stathouder,</l>
+<l>Il resterait encor la ressource suprême :</l>
+<l>Rompre la digue, inonder le polder !</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Rompre la digue, inonder le polder !</l>
+
+<pagenum num="48"/>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Comptez sur moi : la nuit, je veille,</l>
+<l>Quand Nassau croit tout endormi,</l>
+<l>Au fort du vieux moulin d’où l’on suit à merveille</l>
+<l>Les mouvements de l’ennemi.</l>
+<l>— Pour que la digue soit ouverte,</l>
+<l>Il suffit, à la moindre alerte,</l>
+<l>Que l’on hisse au mât du signal</l>
+<l>Un fanal...</l>
+<l>Et, comme l’ouragan dissipe la fumée,</l>
+<l>La mer emporte au loin Guillaume et son armée !</l>
+<l>— Donc, rien à redouter, sauf une trahison...</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Une trahison ?...</l>
+
+<hstage><speaker>ANTON</speaker>, à part.</hstage>
+<l>Quoi ! Saurait-il ?...</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>De ce siège</l>
+<l>Beaucoup de gens dans le peuple sont las,</l>
+<l>Qui, sans souci du privilège,</l>
+<l>Pour le stathouder font des vœux tout bas.</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Méchants bruits ! Vaines craintes !</l>
+
+<pagenum num="49"/>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Pas si vaines, car il paraît</l>
+<l>Qu’on entend répéter ces plaintes</l>
+<l>Dans plus d’un cabaret.</l>
+<l>— N’est-ce pas, Adrian ?</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Oui, la chose est certaine.</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Quoi ! vous vous fiez, capitaine,</l>
+<l>Aux rapports de ce garnement ?</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Certes, car jamais il ne ment.</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Attrape, Anton !...</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Ainsi, sur trop de confiance,</l>
+<l>Messieurs, ne nous endormons pas ;</l>
+<l>Redoublons tous de vigilance ;</l>
+<l>Observons de près nos soldats.</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>.</hstage>
+<l>Afin de cacher notre inquiétude,</l>
+<l>Nous avons décidé que, comme d’habitude,</l>
+<pagenum num="50"/>
+<l>La kermesse aurait lieu. — Dans une heure, au plus tard,</l>
+<l>L’épée au poing, clairons en tête,</l>
+<l>Pour le montrer au peuple et pour ouvrir la fête,</l>
+<l>Nous reviendrons ici chercher notre étendard.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Oui, montrons le drapeau !... L’idée est fière et sage,</l>
+<l>Monsieur le Bourgmestre... — Oui, tous les mécontents</l>
+<l>Retrouveront à son passage</l>
+<l>L’âme de la Patrie entre ses plis flottants !</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Verse en nos âmes le courage,</l>
+<l>Amour de la noble Cité !</l>
+<l>Et que chacun de nous s’engage</l>
+<l>A mourir pour toi, Liberté !</l>
+<l>En l’honneur des vieilles franchises</l>
+<l>Jadis conquises</l>
+<l>Par nos aïeux,</l>
+<l>Chantons l’hymne qui met sa flamme</l>
+<l>Et dans notre âme</l>
+<l>Et dans nos yeux !</l>
+
+<pstage>Tous sortent, à l’exception d’Ambros, du Bourgmestre et d’Adrian.</pstage>
+
+<pagenum num="51"/>
+
+<h2>SCÈNE II</h2>
+
+<cast>AMBROS, LE BOURGMESTRE, ADRIAN, puis les M<s>OUSSES</s>.</cast>
+
+<hstage><speaker>AMBROS</speaker>, à Adrian.</hstage>
+<l>Nella va revenir ; il faut que rien ne traîne.</l>
+<l>Fais vite enlever tout ceci.</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>, à Ambros, avec malice.</hstage>
+<l>Il paraît, mon cher capitaine,</l>
+<l>Que vous n’êtes plus seul ici !</l>
+
+<pstage>Ils se dirigent vers le fond de la scène.</pstage>
+
+<hstage><speaker>ADRIAN</speaker>, appelant.</hstage>
+<l>A la rescousse, l’équipage !</l>
+
+<hstage><speaker>LES MOUSSES</speaker>, accourant.</hstage>
+<l>Hoï ho ! Hoï ho !</l>
+<l>Voici le vent, bon matelot !</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Enlevez cette table, et point tant de tapage !</l>
+
+<pagenum num="52"/>
+
+<hstage><speaker>LES MOUSSES</speaker>.</hstage>
+<l>Hoï ho ! Hoï ho !</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>, à Ambros.</hstage>
+<l>Et cette noble demoiselle,</l>
+<l>Qui donc est-elle ?</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>L’unique enfant de mon pauvre amiral,</l>
+<l>Du bienfaiteur sous qui j’ai gagné tous mes grades</l>
+<l>Et qui, frappé de deux arquebusades,</l>
+<l>Mourut entre mes bras dans ce combat fatal.</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>.</hstage>
+<l>La plus noble héritière</l>
+<l>De tous les Pays-Bas !</l>
+<l>Peste ! Ambros, je ne vous plains pas,</l>
+<l>Puisque tels sont pour vous les hasards de la guerre</l>
+
+<hstage><speaker>AMBROS</speaker>, d’un ton pénétré.</hstage>
+<l>Cette enfant-là, c’est un dépôt sacré</l>
+<l>Qu’en de plus dignes mains un jour je remettrai...</l>
+<l>A son sujet pas de plaisanterie,</l>
+<l>Je vous en prie.</l>
+<pagenum num="53"/>
+<l>— Orpheline, Nella vivait aux environs</l>
+<l>D’Amsterdam, seule avec une vieille suivante.</l>
+<l>La duègne soudain, prise d’épouvante,</l>
+<l>S’enfuit au premier appel des clairons...</l>
+<l>C’est alors que Nella vint demander asile</l>
+<l>A l’ami de son père et, bravant le danger,</l>
+<l>Comme nous voulut partager</l>
+<l>Le sort de la ville.</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>, vidait un dernier verre.</hstage>
+<l>Une patriote, vraiment !...</l>
+<l>Présentez-lui mon humble compliment.</l>
+
+<pstage>Ils sortent.</pstage>
+
+<h2>SCÈNE III</h2>
+
+<cast>NELLA, seule. Elle entre en chantant.</cast>
+
+<poem>
+<lg>
+<l>Range à serrer la misaine !</l>
+<l>Le flot nous entraîne,</l>
+<l>Le vent est cruel.</l>
+<l>Pare à carguer la grand’voile !</l>
+<l>Pas une étoile</l>
+<l>Dans le ciel !</l>
+</lg>
+<pagenum num="54"/>
+<lg>
+<l>Ah ! depuis qu’il a levé l’ancre,</l>
+<l>Le trois-mâts de mon doux ami,</l>
+<l>Le ciel est noir comme de l’encre</l>
+<l>Et le vent toujours a gémi ;</l>
+<l>Et sur la grève où dans la brume</l>
+<l>La lame à grands coups furieux,</l>
+<l>Jette à mes pieds sa blanche écume,</l>
+<l>Je l’attends, la main sur les yeux.</l>
+</lg>
+<lg>
+<l>Range à serrer la misaine !</l>
+<l>Le flot nous entraîne,</l>
+<l>Le vent est cruel.</l>
+<l>Pare à carguer la grand’voile !</l>
+<l>Pas une étoile</l>
+<l>Dans le ciel !</l>
+</lg>
+<lg>
+<l>Mais l’Océan couvert de bave,</l>
+<l>Du navire où sont mes amours</l>
+<l>Ne m’ayant pas rendu d’épave,</l>
+<l>Mon espoir persiste toujours ;</l>
+<l>Et j’attendrai, dans la tempête</l>
+<l>Et sous le vol des goélands,</l>
+<l>Quand même le vent sur ma tête,</l>
+<l>Ferait flotter des cheveux blancs !</l>
+</lg>
+</poem>
+
+<pstage>A la fin de la chanson, Ambros est entré et s’est arrêté à la porte du fond. Il écoute, rêveur, attendri.</pstage>
+
+<pagenum num="55"/>
+
+<h2>SCÈNE IV</h2>
+<cast>NELLA, AMBROS, puis ADRIAN.</cast>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Vous, Ambros !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>J’écoutais ce vieux chant de marin.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Oui, c’est à bord du vaisseau de mon père</l>
+<l>Que l’on m’apprit ce triste et doux refrain.</l>
+<l>Il ne vous déplaît pas, j’espère ?</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Tout ce qui vient de vous me plaît.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Un compliment !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Non, la vérité seulement.</l>
+
+<pagenum num="56"/>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Votre amitié, bon Ambros, m’est si chère,</l>
+<l>Et je suis près de vous si libre et sans souci,</l>
+<l>Que je ne me sens pas en ces lieux étrangère</l>
+<l>Et qu’il me semble avoir vécu toujours ainsi.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Hélas ! un souci me pénètre !</l>
+<l>Ces jours trop doux auront un lendemain amer.</l>
+<l>Vous quitterez ce toit... bientôt peut-être,</l>
+<l>Et seul, et pour longtemps je reprendrai la mer.</l>
+
+<vsep class="emptyline"/>
+
+<l>Vous partirez, gentille hôtesse,</l>
+<l>Et, près du foyer déserté,</l>
+<l>Dès le lendemain, la tristesse</l>
+<l>Viendra s’asseoir à mon côté.</l>
+<l>Ce logis où sur toutes choses</l>
+<l>Votre charme plane aujourd’hui,</l>
+<l>Ce sera le jardin sans roses,</l>
+<l>Le nid d’où l’oiseau s’est enfui ;</l>
+<l>Et reparti sur mon navire,</l>
+<l>Le cœur plein de regrets, souvent,</l>
+<l>J’entendrai votre joyeux rire</l>
+<l>Passer dans la plainte du vent.</l>
+
+
+<pagenum num="57"/>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Non, Ambros, si de vivre ensemble</l>
+<l>Nous devons perdre la douceur,</l>
+<l>Nous serons toujours, il me semble,</l>
+<l>Ainsi que le frère et la sœur.</l>
+<l>Vous vous direz dans vos voyages</l>
+<l>Que sur l’immensité des eaux</l>
+<l>Nos souvenirs, légers messages,</l>
+<l>Se croisent comme des oiseaux.</l>
+<l>Donc, tandis qu’en votre demeure</l>
+<l>Peuvent battre nos cœurs amis,</l>
+<l>Vivons au caprice de l’heure</l>
+<l>Et goûtons le bonheur permis.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Ah ! mon âme est tout enivrée,</l>
+<l>Nul charme au vôtre n’est pareil ;</l>
+<l>Et chez moi vous êtes entrée</l>
+<l>Ainsi qu’un rayon de soleil.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Pour mon cœur elle a trop de charme,</l>
+<l>L’amitié qui vient nous unir,</l>
+<l>Car je sens perler une larme</l>
+<l>En songeant qu’elle peut finir.</l>
+
+
+<pagenum num="58"/>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Pardon...</l>
+
+<hstage><speaker>NELLA</speaker>, se retournant.</hstage>
+<l>C’est Adrian.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Eh bien ?</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Le capitaine Hendrick désire</l>
+<l>Quelques minutes d’entretien.</l>
+
+<hstage><speaker>NELLA</speaker>, à Ambros.</hstage>
+<l>Permettez que je me retire.</l>
+
+<hstage><speaker>AMBROS</speaker>, à Nella.</hstage>
+<l>Rien qu’un moment.</l>
+<pstage>A Adrian.</pstage>
+<l>Je vais le recevoir.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Au revoir !</l>
+
+<pstage>Elle sort. Adrian introduit Hendrick.</pstage>
+
+ <pagenum num="59"/>
+
+<h2>SCÈNE V</h2>
+<cast>AMBROS, HENDRICK.</cast>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Cher Ambros, je vous viens demander assistance.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Sans hésiter je la promets :</l>
+<l>Il me souvient du jour qui dans mon existence</l>
+<l>M’a fait votre obligé, noble Hendrick, pour jamais.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Eh bien, j’aime Nella.</l>
+
+<hstage><speaker>AMBROS</speaker>, portant la main à son cœur.</hstage>
+<l>Ciel !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Et ma juste envie</l>
+<l>Est d’unir ma vie à sa vie.</l>
+<pagenum num="60"/>
+<l>— On admire, dans le trésor</l>
+<l>Qu’ont formé jadis mes ancêtres,</l>
+<l>Leurs fameux tableaux de vieux maîtres,</l>
+<l>Leurs tulipes de pourpre et d’or...</l>
+<l>Que Nella vienne et qu’elle pare</l>
+<l>L’antique maison des aïeux,</l>
+<l>Ce serait une fleur plus rare,</l>
+<l>Un chef-d’œuvre plus précieux.</l>
+
+<hstage><speaker>AMBROS</speaker>, à part.</hstage>
+<l>C’est vrai, pourtant, c’est là sa place.</l>
+<l>Mais d’où vient que mon cœur se glace ?</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Aidez-moi, car je veux devenir son époux.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Quoi ! vous l’aimez, vraiment ?</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Elle est si belle !</l>
+<l>Et pour ne pas sentir quel charme émane d’elle,</l>
+<l>Il faut être, mon brave, un marin tel que vous !</l>
+<l>— Comme ce pêcheur de la Chine,</l>
+<l>Vous aviez une perle fine,</l>
+<l>De sa valeur insouciant...</l>
+<pagenum num="61"/>
+<l>Moi, j’en veux faire ma parure</l>
+<l>Et la mettre dans la monture</l>
+<l>Où brillerait son orient.</l>
+<l>— Donc, vous appuierez ma demande</l>
+<l>Pour que j’obtienne un bon accueil.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Je le ferai, car tout me le commande...</l>
+<l>Je suis à vous.</l>
+<pstage>A part.</pstage>
+<l>Il a moins d’amour que d’orgueil !</l>
+<pstage>A Hendrick.</pstage>
+<l>Parlez-lui donc d’abord.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Quand cela ?</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Tout de suite. </l>
+<l>Elle est au jardin, à deux pas.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>J’y vais, mais si son cœur hésite,</l>
+<l>Mon cher Ambros, ne m’abandonnez pas.</l>
+
+<pstage>Il sort à droite.</pstage>
+
+ <pagenum num="62"/>
+
+<h2>SCÈNE VI</h2>
+<cast>AMBROS, seul.</cast>
+
+<l>Mes yeux se sont ouverts... Je l’aimais... ô folie !</l>
+<l>Cet Hendrick a raison, se peut-il que j’oublie !</l>
+<l>Je ne suis qu’un grossier matelot parvenu...</l>
+<l>Je ne dois pas l’aimer, et cependant je l’aime,</l>
+<l>Et je sens au fond de moi-même</l>
+<l>Un tourment inconnu.</l>
+
+<vsep class="emptyline"/>
+
+<l>Triste amour qui n’oses</l>
+<l>Subir son regard,</l>
+<l>Meurs comme les roses</l>
+<l>Écloses</l>
+<l>Trop tard !</l>
+<l>A quoi donc rêvais-je ?</l>
+<l>Voici le douloureux réveil !</l>
+<l>Mon espoir fond comme la neige</l>
+<l>Au soleil !</l>
+
+<vsep class="emptyline"/>
+
+<l>En moi l’espérance folle</l>
+<l>A pu fleurir à demi...</l>
+<l>Cette illusion s’envole ;</l>
+<l>Réveillons-nous, j’ai dormi !</l>
+<pagenum num="63"/>
+<l>Triste amour qui n’oses</l>
+<l>Subir son regard,</l>
+<l>Meurs comme les roses</l>
+<l>Écloses</l>
+<l>Trop tard !</l>
+<l>A quoi donc rêvais-je ?</l>
+<l>Voici le douloureux réveil !</l>
+<l>Mon espoir fond comme la neige</l>
+<l>Au soleil !</l>
+
+<h2>SCÈNE VII</h2>
+<cast>AMBROS, HENDRICK, NELLA.</cast>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>C’est elle ! Cachons-lui le trouble de mon âme.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Je vous amène Hendrick ; il m’a fait ses aveux.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Eh bien ! consentez-vous à devenir sa femme ?</l>
+
+<pagenum num="64"/>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Cher Ambros, avant tout je veux</l>
+<l>Demander votre avis comme celui d’un frère.</l>
+
+<hstage><speaker>HENDRICK</speaker>, à Nella.</hstage>
+<l>Ambros, je vous l’ai dit, approuve cet hymen.</l>
+
+<hstage><speaker>AMBROS</speaker>, désignant Hendrick.</hstage>
+<l>Oui, je le crois digne de votre main.</l>
+
+<hstage><speaker>NELLA</speaker>, à part.</hstage>
+<l>Je veux savoir s’il est sincère.</l>
+<pstage>A Hendrick.</pstage>
+<l>Hendrick, pour le choix d’un époux</l>
+<l>Je me sens le cœur plein de doute.</l>
+<l>Si vous voulez qu’on vous écoute,</l>
+<l>Dites-lui de parler pour vous.</l>
+
+<hstage><speaker>AMBROS</speaker>, à part.</hstage>
+<l>Ah ! cette épreuve est trop cruelle,</l>
+<l>Et cet ordre est trop inhumain !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Plaidez donc ma cause auprès d’elle ;</l>
+<l>Mon bonheur est dans votre main.</l>
+
+<pagenum num="65"/>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Allons, plaidez pour le timide,</l>
+<l>Trouvez le mot qui me décide</l>
+<l>A l’agréer pour mon époux.</l>
+<l>Ami bien cher, ami fidèle,</l>
+<l>Voici ma main, disposez d’elle ;</l>
+<l>Mon avenir dépend de vous.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Allons, plaidez pour le timide,</l>
+<l>Trouvez le mot qui la décide</l>
+<l>A m’agréer pour son époux.</l>
+<l>Prenez sa main, disposez d’elle.</l>
+<l>Ami bien cher, ami fidèle,</l>
+<l>Mon avenir dépend de vous.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Quel secret sentiment la guide ?</l>
+<l>Prétendre que je la décide</l>
+<l>A prendre Hendrick pour son époux !...</l>
+<l>Non, cette épreuve est trop cruelle !</l>
+<l>Et la coquette voudrait-elle</l>
+<l>Me rendre ainsi le cœur jaloux ?</l>
+
+
+<pagenum num="66"/>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Parlez, Ambros, je vous en prie !</l>
+<l>Et si vous croyez qu’avec lui</l>
+<l>Il convient que je me marie,</l>
+<l>Dites oui, dites oui.</l>
+<l>Si votre amitié généreuse</l>
+<l>Redoute qu’en prenant son nom,</l>
+<l>Un jour, je ne sois pas heureuse,</l>
+<l>Dites non, dites non.</l>
+<l>En vous seul je me confie,</l>
+<l>En votre avis seul j’ai foi.</l>
+<l>Disposez donc de ma vie,</l>
+<l>Ami, disposez de moi !</l>
+
+<hstage><speaker>AMBROS</speaker>, brusquement.</hstage>
+<l>Jamais ! Dispensez-m’en.</l>
+
+<hstage><speaker>NELLA</speaker>, à part.</hstage>
+<l>Pourquoi ?</l>
+
+<pagenum num="67"/>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Pourquoi ne pas le dire,</l>
+<l>Ce mot que je désire,</l>
+<l>Ce mot qui sera mon arrêt ?</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>A ce discours si tendre</l>
+<l>Il ne veut rien comprendre.</l>
+<l>Quel accueil mon cœur lui ferait !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Ne crois pas qu’elle t’aime</l>
+<l>Car tu devrais quand même,</l>
+<l>Pauvre Ambros, garder ton secret !</l>
+
+
+<hstage><speaker>HENDRICK</speaker>, à Nella.</hstage>
+<l>Et que décidez-vous ?</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>D’aller à la kermesse,</l>
+<l>De vous revoir, Hendrick, et de vous juger mieux.</l>
+<l>Puis, s’il me plaît, alors, de vous faire promesse</l>
+<l>De céder à vos vœux.</l>
+
+<pagenum num="68"/>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Enfin, aujourd’hui même,</l>
+<l>J’espère bien savoir</l>
+<l>Si la chère enfant m’aime,</l>
+<l>Et je brûle d’espoir.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Je suis sûre qu’il m’aime,</l>
+<l>Je garde mon espoir,</l>
+<l>Mais de sa bouche même</l>
+<l>Je prétends le savoir.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Ne crois pas qu’elle t’aime,</l>
+<l>Étouffe ton espoir ;</l>
+<l>Et jusqu’au bout, quand même,</l>
+<l>Ambros, fais ton devoir !</l>
+
+
+<pagenum num="69"/>
+
+<h2>DEUXIÈME TABLEAU</h2>
+
+<pstage>Le Dam (place de l’Hôtel-de-Ville). A gauche, la maison d’Ambros ; au fond, l’Hôtel de Ville avec une porte monumentale à laquelle on accède par un large escalier de pierre. A droite, au premier plan, le chevet d’une église ; au second plan, un porche voûté attenant à l’Hôtel de Ville.</pstage>
+
+<h2>SCÈNE UNIQUE</h2>
+
+<cast>L<s>ES</s> C<s>ORPORATIONS</s>, <s>LA</s> G<s>ARDE CIVIQUE</s>, <s>LA</s> F<s>OULE</s>, C<s>HŒUR INVISIBLE D’ENFANTS DANS L’ÉGLISE</s>, puis <s>TOUS LES PERSONNAGES DU PREMIER TABLEAU</s>.</cast>
+
+<hstage><speaker>CHŒUR</speaker> sur la scène.</hstage>
+<l>Guerre à Nassau,</l>
+<l>Sans trêve !</l>
+<l>Hors du fourreau</l>
+<l>Le glaive !</l>
+
+<hstage><speaker>CHŒUR</speaker> dans l’église.</hstage>
+<l>« O Seigneur ! dans les combats</l>
+<l>Mets nos ennemis à bas,</l>
+<l>Et leurs chefs et leurs soldats ! »</l>
+<pstage>Orgue.</pstage>
+
+<pagenum num="70"/>
+
+<hstage><speaker>VOIX</speaker> dans la foule.</hstage>
+<l>Écoutez ! dans ce temple on prie</l>
+<l>Pour le salut de la Patrie.</l>
+
+<hstage><speaker>CHŒUR</speaker> dans l’église.</hstage>
+<l>« Si ta droite nous défend,</l>
+<l>Ils seront, ô Dieu vivant !</l>
+<l>Comme la poussière au vent ! »</l>
+
+<pstage>Orgue.</pstage>
+
+<hstage><speaker>CHŒUR</speaker> sur la scène.</hstage>
+<l>Soutiens nos cœurs dans les alarmes !</l>
+<l>Conduis nos pas dans le danger,</l>
+<l>Et, pour confondre l’étranger,</l>
+<l>Bénis nos drapeaux et nos armes !</l>
+
+<pstage>La porte de l’Hôtel-de-Ville s’ouvre ; un officier paraît et lève son épée. Sonnerie de trompettes. Le porte-drapeau paraît à son tour, suivi du bourgmestre, de Nella, d’Hendrick, d’Adrian et des officiers de la garde civique, qui s’échelonnent sur les marches et au bas de l’escalier. Ambros se détache du groupe, en haut des marches.</pstage>
+
+<hstage><speaker>VOIX</speaker> dans la foule.</hstage>
+<l>Ambros ! — Le voici ! le voici !</l>
+<l>— Qu’il parle ! — Vive Ambros !...</l>
+
+<pagenum num="71"/>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Mes chers amis, merci !</l>
+<pstage>Il fait un signe, les cris cessent.</pstage>
+<l>Je sais mal m’exprimer, mais dans mon âme vibre</l>
+<l>L’amour de la cité que je veux grande et libre,</l>
+<l>Et ma parole ira de mon cœur à vos cœurs !</l>
+
+<hstage><speaker>LA FOULE</speaker>.</hstage>
+<l>Vive Ambros !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Le Nassau redouble ses rigueurs :</l>
+<l>Nos vaisseaux arrêtés, nos régents pris au piège,</l>
+<l>Nos échevins punis ainsi que des félons,</l>
+<l>Voilà ses hauts faits, — et j’abrège !</l>
+
+<hstage><speaker>LA FOULE</speaker>.</hstage>
+<l>Guerre ! guerre !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l cont='true'>Ainsi donc, à soutenir un siège</l>
+<l>Vous voulez persister ?</l>
+
+<hstage><speaker>LA FOULE</speaker>.</hstage>
+<l cont='true'>Oui, oui, nous le voulons !</l>
+
+<pagenum num="72"/>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Mes amis, nous avons, pour défendre nos portes,</l>
+<l>Des bras forts, mais il faut aussi des âmes fortes :</l>
+<l>Oui, citoyens, il faut savoir,</l>
+<l>Quoi qu’il en coûte, à ce moment suprême,</l>
+<l>Oublier tout : fortune, amis et parents même,</l>
+<l>— Plus encor... la femme qu’on aime, —</l>
+<l>Oublier tout pour le Devoir !</l>
+<l>Maintenant, si quelqu’un hésite, qu’il s’en aille !</l>
+<l>Il en est temps encor...</l>
+
+<hstage><speaker>HENDRICK</speaker>, puis <speaker>LE CHŒUR.</speaker></hstage>
+<l cont='true'>Non, nul ne partira !</l>
+<l>Non, la veille de la bataille</l>
+<l>Personne ne désertera !</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>.</hstage>
+<l>Songez-y : pour longtemps ce siège en ses entraves</l>
+<l>Vous tiendra prisonniers...</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l cont='true'>Soit, mais non pas esclaves</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Ils seront sans pitié...</l>
+
+<pagenum num="73"/>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l cont='true'>Nous serons sans effroi.</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>.</hstage>
+<l>Ils sont nombreux...</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l cont='true'>Nous sommes braves !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Ils ont la force...</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l cont='true'>Nous, la foi !</l>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>Personne ici ne tremble ;</l>
+<l>Nos cœurs battent ensemble</l>
+<l>Sitôt ce cri jeté :</l>
+<l>Patrie et Liberté !</l>
+
+<hstage><speaker>AMBROS</speaker>, s’avançant avec enthousiasme sur le devant de la scène.</hstage>
+<l>Vois tes enfants, noble Patrie,</l>
+<l>Pour ton salut prêts à mourir !</l>
+<l>O Liberté ! prends notre vie !</l>
+<pagenum num="74"/>
+<l>Nous sommes fiers de te l’offrir.</l>
+<l>Que ton règne par nous puisse à jamais fleurir !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Comme nos armes sont trempées,</l>
+<l>Trempe nos cœurs !</l>
+<l>Mets un éclair à nos épées !</l>
+<l>Fais-nous vainqueurs !</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>, puis <speaker>HENDRICK</speaker> et <speaker>AMBROS</speaker>.</hstage>
+<l>O cité ! pour ta délivrance</l>
+<l>Tu vois tes fils prêts à la mort ;</l>
+<l>Et si, malgré notre espérance,</l>
+<l>L’oppresseur était le plus fort,</l>
+<l>Tu nous verrais, pour qu’il périsse</l>
+<l>Mieux que par la poudre et le fer,</l>
+<l>Rendre à la mer libératrice</l>
+<l>Le vieux sol conquis sur la mer !</l>
+
+<hstage><speaker>NELLA</speaker>, se détachant d’un groupe, une écharpe de soie à la main et s’approchant du drapeau.</hstage>
+<l>A ce drapeau, qui dans la fête</l>
+<l>Va briller au milieu des fleurs,</l>
+<l>Chers amis, souffrez que je mette</l>
+<l>Cette écharpe brodée à nos fières couleurs.</l>
+<pagenum num="75"/>
+<l>Mon père la portait à plus d’une victoire...</l>
+<l>Quand la bataille reprendra,</l>
+<l>Qu’elle vous soit encore un présage de gloire !</l>
+<l>L’ennemi la reconnaîtra.</l>
+
+<pstage>Le porte-drapeau incline l’étendard ; Nella noue son écharpe à l’extrémité de la hampe.</pstage>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>Que de courage !</l>
+<l>Que de beauté !</l>
+<l>Que de fierté</l>
+<l>Sur son visage !</l>
+
+<hstage><speaker>NELLA</speaker>, bas à Ambros.</hstage>
+<l>Je suis fière de vous... fière, de tout mon cœur !</l>
+
+<hstage><speaker>AMBROS</speaker>, qui feint de n’avoir pas entendu.</hstage>
+<l>Partons ! et qu’un défi moqueur</l>
+<l>Aille mettre Orange en colère !</l>
+<l>Que le vieux refrain populaire</l>
+<l>Par nous tous soit repris en chœur !</l>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>Vois tes enfants, noble Patrie,</l>
+<l>Pour ton salut prêts à mourir !</l>
+<pagenum num="76"/>
+<l>O Liberté ! prends notre vie !</l>
+<l>Nous sommes fiers de te l’offrir.</l>
+<l>Que ton règne par nous puisse à jamais fleurir !</l>
+<l>Par nos pères, les Gueux sublimes,</l>
+<l>L’Espagnol jadis fut vaincu...</l>
+<l>Apprends, Nassau qui nous opprimes,</l>
+<l>Que leurs enfants n’ont pas déchu ;</l>
+<l>Que, lorsqu’il s’agit de défendre</l>
+<l>Le droit ou l’honneur menacé,</l>
+<l>Nous trouvons encor sous la cendre</l>
+<l>La flamme de leur grand passé !</l>
+
+<pstage>On lève le drapeau. L’enthousiasme de la foule est à son comble. Tous les carillons de la ville entrent en branle.</pstage>
+
+ </page-sequence>
+ <page-sequence id='p04'>
+ <pagenum num="77"/>
+ 
+<h1>ACTE DEUXIÈME</h1>
+
+<h2>TROISIÈME TABLEAU</h2>
+
+<h3>Le jardin, chez Ambros.</h3>
+
+<pstage>Au fond, un mur percé d’une porte. A droite, la maison, dont la porte surélevée de quelques marches et la fenêtre, ornée de fleurs, font face au public. Massifs d’arbustes, parterre de tulipes. A gauche, une table et un siège.</pstage>
+
+<h2>SCÈNE PREMIÈRE</h2>
+
+<hstage><speaker>NELLA</speaker>, seule.</hstage>
+<l>Maintenant, j’en suis sûre, oui, c’est Ambros que j’aime,</l>
+<l>C’est le marin rude et loyal.</l>
+<l>Mais pourquoi semble-t-il lui-même</l>
+<l>Me pousser dans les bras d’Hendrick, de son rival ?</l>
+<l>En croyant qu’il m’aimait, me serais-je abusée ?</l>
+<l>Ah ! dès ce soir</l>
+<l>Je veux savoir</l>
+<l>Quelle est d’Ambros la secrète pensée.</l>
+<pagenum num="78"/>
+<l>J’ai deux amoureux :</l>
+<l>L’un parle, mais l’autre est silencieux ;</l>
+<l>Et c’est celui-ci que j’aime le mieux</l>
+<l>Et par qui je me sens chérie.</l>
+<l>J’ai deux amoureux :</l>
+<l>L’un parle, mais l’autre est silencieux ;</l>
+<l>Et c’est celui-ci dont je veux,</l>
+<l>A force de tendresse et de coquetterie,</l>
+<l>Recevoir enfin les aveux.</l>
+
+<vsep class="emptyline"/>
+
+<l>Ah ! que mon cher secret me pèse !</l>
+<l>Ils vont venir, mes deux</l>
+<l>Amoureux ;</l>
+<l>Mais il n’en est qu’un qui me plaise.</l>
+<l>Ah ! pourquoi faut-il aujourd’hui</l>
+<l>Que celui que j’aime, celui</l>
+<l>Qui pourrait m’obtenir par un seul mot, se taise ?</l>
+
+<vsep class="emptyline"/>
+
+<l>— J’ai deux amoureux :</l>
+<l>L’un parle, mais l’autre est silencieux ;</l>
+<l>Et c’est de celui-ci que je me sens chérie,</l>
+<l>De celui-ci seul que je veux,</l>
+<l>Par tendresse ou coquetterie,</l>
+<l>Recevoir les aveux.</l>
+
+<pstage>Ambros entre.</pstage>
+
+<pagenum num="79"/>
+
+<h2>SCÈNE II</h2>
+
+<cast>NELLA, AMEROS.</cast>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>C’est lui !... Toujours son front est chargé de tristesse.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Encore ici ? L’on vous attend.</l>
+<l>Hendrick est à la kermesse</l>
+<l>Le cœur palpitant.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Toujours Hendrick ! Pour lui que vous montrez de zèle !</l>
+<l>Vous voulez donc qu’il me plaise ?</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l cont='true'>Jamais !</l>
+<l>— Pourquoi vous a-t-il vue et vous trouve-t-il belle !...</l>
+<l>Hendrick !... Par instants je le hais !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Vous êtes donc jaloux, Ambros ?</l>
+
+<pagenum num="80"/>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l cont='true'>Quelle pensée !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Vous l’avez presque dit...</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l cont='true'>Je n’ai pas dit cela !</l>
+<l>Et, quand j’aurais rêvé cette chose insensée,</l>
+<l>L’ancien gabier ne peut être aimé de Nella.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Qu’importe le passé ! — C’est le présent qu’on aime.</l>
+<l>Nella garde un espoir vainement réprimé :</l>
+<l>Ambros est à ses yeux la bonté, l’honneur même ;</l>
+<l>Personne plus que lui n’est digne d’être aimé !</l>
+<l>Parlez ! — Rien d’un ami ne peut être une offense.</l>
+<l>Que craignez-vous de moi, pour que vous vous taisiez ?</l>
+<l>Ce que vous me direz, mon cœur le sait d’avance ;</l>
+<l>Et pourtant, j’ai besoin que vous me le disiez !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Eh bien ! je n’ai plus de courage !</l>
+<l>C’en est fait, l’amour est vainqueur,</l>
+<l>Et l’aveu, fort comme un orage,</l>
+<l>Aux lèvres me monte du cœur !</l>
+<pagenum num="81"/>
+<l>Oui, dans ma fierté farouche,</l>
+<l>J’ai lutté longtemps, éperdu...</l>
+<l>Mais il veut sortir de ma bouche</l>
+<l>Le mot trop longtemps suspendu !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Il va donc sortir de sa bouche</l>
+<l>Le mot si longtemps attendu !</l>
+<l>O triomphe ! en tout mon être</l>
+<l>O rayon qui pénètre !</l>
+<l>Il m’aimait ! je le savais !</l>
+<l>Il m’aimait, celui que j’aimais !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Comme une fleur sous la rosée,</l>
+<l>Après les ombres de la nuit,</l>
+<l>Soudain mon âme à son aveu s’épanouit.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>O suprême délice ! ineffable pensée !</l>
+<l>Désormais c’est fini des tempêtes du sort :</l>
+<l>Le voyage s’achève, et l’amour est le port !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Quand mon père rentrait des batailles navales,</l>
+<l>Avec le peuple entier j’allais le recevoir ;</l>
+<pagenum num="82"/>
+<l>Et l’escadre lançait des salves triomphales,</l>
+<l>Et les drapeaux flottaient sur la pourpre du soir.</l>
+<l>Eh bien, ces beaux retours dans la poudre et la flamme,</l>
+<l>Ces vaisseaux pavoisés, mon père triomphant,</l>
+<l>N’ont pas mis plus de joie en mon âme d’enfant</l>
+<l>Que cet instant si doux qui me fait votre femme !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>C’est donc vrai !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l cont='true'>Cher Ambros, nous ne nous trompions pas</l>
+<l>Tous deux nous attendions ce même aveu suprême...</l>
+<l>Donc, redisons tout haut ce qui chantait tout bas :</l>
+<l>Je me donne à vous, je vous aime !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Je me donne à vous, je vous aime !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Ce mot qui fait s’ouvrir les cieux,</l>
+<l>Je veux, je veux l’entendre encore !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Je vous aime, je vous adore !</l>
+<l>Et tout mon ciel est dans vos yeux !</l>
+
+<pagenum num="83"/>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Ce soir, avant que l’heure au danger vous appelle,</l>
+<l>Afin que par le ciel nos vœux soient exaucés,</l>
+<l>Allons ensemble à la chapelle</l>
+<l>Échanger devant Dieu l’anneau des fiancés.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>J’y serai, j’y serai !</l>
+
+<pstage>Il accompagne Nella jusqu’à la porte de la maison, où elle entre ; puis, se retournant, il aperçoit Hendrick qui vient d’ouvrir la porte du jardin.</pstage>
+
+<h2>SCÈNE III</h2>
+
+<cast>AMBROS, HENDRICK.</cast>
+
+<hstage><speaker>AMBROS</speaker>, à part.</hstage>
+<l>Hendrick !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l cont='true'>Dans les bras l’un de l’autre !</l>
+<l>Quelle trahison est la vôtre ?</l>
+<l>Et tout à l’heure, ici, que me promettiez-vous ?</l>
+
+<pagenum num="84"/>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Ai-je vraiment promis ?... Nella, d’une parole,</l>
+<l>Vient d’effacer cette promesse folle,</l>
+<l>Car je l’aime, elle m’aime — et nous serons époux</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Vous, son époux !... Et quel mari pour elle !</l>
+<l>Un grossier matelot sans fortune et sans nom !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Vous cherchez donc une querelle ?</l>
+<l>Soit, nous allons nous battre...</l>
+
+<pstage>Il tire son épée.</pstage>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l cont='true'>Non !</l>
+<l>Aujourd’hui notre sang n’est dû qu’à la Patrie.</l>
+<l>Puis, rappelez-vous, malheureux !</l>
+<l>Vous me devez l’honneur et peut-être la vie...</l>
+
+<hstage><speaker>AMBROS</speaker>, accablé.</hstage>
+<l>C’est vrai !... Quel souvenir affreux !</l>
+
+<pstage>Il jette son épée.</pstage>
+
+<pagenum num="85"/>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Rappelez-vous la nuit d’orgie !</l>
+<l>Ayant déjà perdu votre part de butin,</l>
+<l>A la table de vin rougie</l>
+<l>Vous perdiez, vous perdiez encor, jusqu’au matin !</l>
+<l>C’étaient la ruine et la honte...</l>
+<l>Pour mourir vous teniez le pistolet levé...</l>
+<l>Qui donc, sans vous demander compte,</l>
+<l>A tout payé ? Qui donc, Ambros, vous a sauvé ?</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Vous ! Vous ! c’est vrai... J’étais ingrat, perfide même.</l>
+<l>Mon passé, le voilà !</l>
+<l>Oui, que votre désir soit mon arrêt suprême :</l>
+<l>Je renonce à Nella !</l>
+<l>Et si son jeune cœur un instant put s’éprendre,</l>
+<l>Je veux</l>
+<l>Contre elle-même la défendre</l>
+<l>Et lui rendre son cœur en dessillant ses yeux.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Oui, rendez-lui son cœur en dessillant ses yeux !</l>
+
+<pagenum num="86"/>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Châtiment qui m’accable !</l>
+<l>Souvenir implacable</l>
+<l>Que je croyais chassé !</l>
+<l>Voici que le passé</l>
+<l>Se dresse, inexorable,</l>
+<l>Et rien n’est effacé !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Doux espoir qui m’enflamme !</l>
+<l>Je l’attends, je l’attends ce moment bienheureux</l>
+<l>Où va s’ouvrir son âme,</l>
+<l>Où vont s’ouvrir ses yeux !</l>
+
+<hstage><speaker>AMBROS</speaker>, à part.</hstage>
+<l>Il le faut !... Lui parler ? Non pas, je ferai mieux :</l>
+<l>Redevenir, une heure, en sa présence,</l>
+<l>Le matelot brutal et querelleur...</l>
+<l>Le voilà, le moyen ! Inspire-lui l’horreur,</l>
+<l>Ambros ! que ton amour lui paraisse une offense,</l>
+<l>Et le sien une erreur !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Puis-je compter sur vous, Ambros ?</l>
+
+<pagenum num="87"/>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l cont='true'>Je me résigne !</l>
+<l>D’un pareil amour je n’étais pas digne,</l>
+<l>Et cette fois, vous allez voir</l>
+<l>Que je saurai payer mes dettes. A ce soir !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>A ce soir !</l>
+
+<hstage><speaker>LA VOIX DE NELLA</speaker>, chantant dans la coulisse.</hstage>
+<l>« Et j’attendrai dans la tempête</l>
+<l>Et sous le vol des goélands,</l>
+<l>Quand même le vent sur ma tête</l>
+<l>Ferait flotter des cheveux blancs ! »</l>
+
+<pstage>A cette voix, Hendrick, qui s’était dirigé vers le fond pour sortir, s’arrête sur le seuil de la porte et écoute avec ravissement. Ambros, accoudé à la table, relève la tête, les yeux pleins de larmes. La toile tombe.</pstage>
+
+</page-sequence>
+<page-sequence id='p05'>
+ <pagenum num="88"/>
+
+<h1>ACTE TROISIÈME</h1>
+
+<h2>QUATRIÈME TABLEAU</h2>
+
+<h3>L<s>E</s> D<s>AM</s>, comme au deuxième tableau, mais pavoisé pour la kermesse.</h3>
+
+<h2>SCÈNE PREMIÈRE</h2>
+
+<cast>ANTON, <s>LES</s> C<s>HŒURS</s>, <s>LA</s> D<s>ANSE</s>.</cast>
+
+<pstage>Au lever du rideau, la fête est dans toute son animation. Scènes et danses populaires des tableaux de Van Ostade ; buveurs attablés, la pipe au chapeau ; bourgeois et bourgeoises endimanchés ; soldats de la garde civique ; marchands et marchandes circulant parmi les groupes.</pstage>
+
+<hstage><speaker>CHŒUR DES HOMMES</speaker> .</hstage>
+<l>Voici la kermesse,</l>
+<l>C’est jour d’allégresse !</l>
+<l>Déposons fusils et drapeaux.</l>
+<l>Mettez, fillettes blanches,</l>
+<l>Vos habits des dimanches</l>
+<l>Et vous, garçons, faites-vous beaux.</l>
+<l>Les tables sont dressées,</l>
+<l>Les danses commencées,</l>
+<l>La bière écume dans les pots.</l>
+
+<pagenum num="89"/>
+
+<hstage><speaker>CHŒUR DES FEMMES</speaker>.</hstage>
+<l>On respire une odeur de fête ;</l>
+<l>L’auberge allume ses fourneaux</l>
+<l>Et, monté sur quatre tonneaux,</l>
+<l>L’orchestre prélude et s’apprête ;</l>
+<l>Et nos bons amis,</l>
+<l>Farauds et bien mis,</l>
+<l>Nous attendent sous la tonnelle ;</l>
+<l>Ils nous feront</l>
+<l>Danser en rond</l>
+<l>Et gaîment nous embrasseront</l>
+<l>A la ritournelle.</l>
+
+<hstage><speaker>PREMIER CORYPHÉE</speaker>.</hstage>
+<l>Entendez-vous les violons ?</l>
+<l>Allons voir qui s’approche, — allons !</l>
+
+<hstage><speaker>DEUXIÈME CORYPHÉE</speaker>.</hstage>
+<l>Ce sont les poissonnières.</l>
+
+<hstage><speaker>CHŒUR DES POISSONNIÈRES</speaker>, qui entrent, précédées de deux violoneux.</hstage>
+<l>Oui-da ! les poissonnières !</l>
+<l>Vous nous reconnaissez,</l>
+<pagenum num="90"/>
+<l>Car nos belles manières</l>
+<l>Vous le disent assez.</l>
+<l>Achetez-nous de l’anguille,</l>
+<l>Du saumon couleur de chair</l>
+<l>Ou du hareng qui frétille ;</l>
+<l>Ce n’est pas cher.</l>
+<l>Mais aujourd’hui les pratiques</l>
+<l>Peuvent passer leur chemin,</l>
+<l>Car nous fermons nos boutiques</l>
+<l>Jusqu’à demain.</l>
+
+<h2>SCÈNE II</h2>
+
+<cast>L<s>ES MÊMES</s>, ADRIAN, <s>LES</s> M<s>OUSSES</s>.</cast>
+
+<pstage>Adrian et les mousses entrent en courant et en chantant à tue-tête ; ils prennent d’assaut les tables de droite où, parmi les buveurs, est assis Anton.</pstage>
+
+<hstage><speaker>ADRIAN</speaker> et <speaker>LES MOUSSES</speaker>.</hstage>
+<l>Hoï ho ! hoï ho !</l>
+<l>Voici le vent, bon matelot !</l>
+
+<hstage><speaker>ANTON</speaker>, avec mauvaise humeur.</hstage>
+<l>Passez votre chemin, les mousses !</l>
+
+<pagenum num="91"/>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Nous voulons notre place ici.</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Pourquoi faire ?</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l cont='true'>Pour boire aussi :</l>
+<l>Nous avons soif autant que toi qui nous repousses !</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Tu veux boire, et tu n’as pas d’argent, polisson !</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Je paierai mon écot avec une chanson.</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Oui, qu’il nous chante une chanson !</l>
+
+<hstage><speaker>ADRIAN</speaker> monte sur un escabeau et fait un signe à ses petits camarades qui se groupent autour de lui pour chanter le refrain.</hstage>
+
+<h3>I</h3>
+<l>A l’heure vermeille</l>
+<l>Du soleil levant,</l>
+<l>Voici que s’éveille</l>
+<l>Le moulin à vent.</l>
+<pagenum num="92"/>
+<l>Du haut de la digue</l>
+<l>On voit dans les blés</l>
+<l>Tourner sans fatigue</l>
+<l>Ses longs bras ailés.</l>
+
+<hstage><speaker>LES MOUSSES</speaker>.</hstage>
+<l>Tourne, tourne, mon moulin,</l>
+<l>Tes blanches ailes de lin !</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+
+<h3>II</h3>
+
+<l>Debout la première</l>
+<l>Au chant des oiseaux,</l>
+<l>Déjà la meunière</l>
+<l>Tourne ses fuseaux.</l>
+<l>Le rouet qui tremble</l>
+<l>Et le moulin noir</l>
+<l>Bourdonnent ensemble</l>
+<l>Du matin au soir.</l>
+
+<hstage><speaker>LES MOUSSES</speaker>.</hstage>
+<l>Tourne, tourne, mon moulin,</l>
+<l>Tes blanches ailes de lin !</l>
+
+<pagenum num="93"/>
+
+<hstage><speaker>CHŒUR GÉNÉRAL</speaker>.</hstage>
+<l>Bravo ! Bravo !</l>
+
+<hstage><speaker>ADRIAN</speaker>, montrant le visage renfrogné d’Anton.</hstage>
+<l cont='true'>Messieurs, voyez ce compagnon !</l>
+<l>Quel air grognon !</l>
+<l>Quel air maussade !</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Anton !</l>
+
+<hstage><speaker>ANTON</speaker>, d’un ton bourru.</hstage>
+<l cont='true'>Quoi donc ?</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l cont='true'>En vérité,</l>
+<l>Lui seul, je crois, n’a pas goûté,</l>
+<l>N’a pas applaudi ma ballade !</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>C’est vrai, parbleu ! je suis maussade,</l>
+<l>Je n’ai pas le cœur aux chansons !</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Pourquoi ? Pourquoi ?</l>
+
+<pagenum num="94"/>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l cont='true'>J’ai mes raisons.</l>
+<l>Et je proclame </l>
+<l>Que plus d’un parmi vous, dans le fond de son âme,</l>
+<l>Pense tout bas ce que je dis tout haut.</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Parle donc ! Il le faut !</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Eh bien ! ce long siège nous lasse,</l>
+<l>Nous, les petits marchands, notre commerce est mort.</l>
+<l>Nous sommes ruinés.</l>
+
+<hstage><speaker>PREMIER DEMI-CHŒUR (BOURGEOIS)</speaker>.</hstage>
+<l>C’est faux !</l>
+
+<hstage><speaker>DEUXIÈME DEMI-CHŒUR (ORANGISTES)</speaker>.</hstage>
+<l>Il n’a pas tort.</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Mieux vaudrait que Nassau fût entré dans la place.</l>
+
+<hstage><speaker>LES ORANGISTES</speaker>.</hstage>
+<l>Oui, oui !</l>
+
+<pagenum num="95"/>
+
+<hstage><speaker>LES BOURGEOIS</speaker>.</hstage>
+<l>C’est une trahison !</l>
+
+<hstage><speaker>LES ORANGISTES</speaker>.</hstage>
+<l>Il a raison ! Il a raison !</l>
+
+<hstage><speaker>LES BOURGEOIS</speaker>.</hstage>
+<l>Qu’importe ! Qu’importe !</l>
+<l>Malgré les mécontents,</l>
+<l>Guillaume attendra longtemps</l>
+<l>A la porte.</l>
+
+<hstage><speaker>LES ORANGISTES</speaker>.</hstage>
+<l>Nous sommes las ! Nous sommes las !</l>
+
+<hstage><speaker>LES BOURGEOIS</speaker>.</hstage>
+<l>Il n’entrera pas ! Il n’entrera pas !</l>
+
+<pstage>Peu à peu, Les buveurs oui formé deux camps.</pstage>
+
+<pagenum num="96"/>
+
+<h2>SCÈNE III</h2>
+
+<cast>L<s>ES</s> M<s>ÊMES</s>, <s>LE</s> BOURGMESTRE.</cast>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>.</hstage>
+<l>Holà ! je crois qu’on se querelle !</l>
+<l>Personne ici ne songe à trahir la cité ;</l>
+<l>Tous nous saurions mourir pour elle,</l>
+<l>Mais nous n’en sommes pas à cette extrémité.</l>
+<l>Guillaume nous entend : buvons à sa santé !</l>
+
+<hstage><speaker>LES BOURGEOIS</speaker>, gaiment.</hstage>
+<l>Buvons, buvons à sa santé !</l>
+
+<hstage><speaker>LES ORANGISTES</speaker>, d’un air de défi.</hstage>
+<l>Oui, nous buvons à sa santé !</l>
+
+<pstage>Le bourgmestre et les bourgeois s’éloignent. Adrian sort derrière eux, après s’ètre retourné plusieurs fois vers Anton avec défiance. La foule se disperse. Bientôt les orangistes et Anton restent seuls en scène.</pstage>
+
+<pagenum num="97"/>
+
+<h2>SCÈNE IV</h2>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Vous voyez, la moitié du peuple est avec vous.</l>
+<l>Mais à présent, camarades,</l>
+<l>Assez de discours ! assez de bravades !</l>
+<l>Le moment d’agir est venu pour nous.</l>
+<l>— Vous savez qu’aussitôt la kermesse finie,</l>
+<l>Ce soir, au Vieux-Moulin, c’est notre compagnie</l>
+<l>Qui prend la garde... Eh bien, si nous sommes d’accord,</l>
+<l>Nous pouvons réduire au silence</l>
+<l>Ces bourgeois gonflés d’insolence,</l>
+<l>J’en connais le moyen...</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Lequel ?...</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Livrer le fort !</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Oui ! oui ! livrons le fort.</l>
+
+<pagenum num="98"/>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Écoutez : — tout d’abord on entoure, on désarme</l>
+<l>Le capitaine Hendrick. — Pour qu’un signal d’alarme</l>
+<l>Ne puisse être allumé,</l>
+<l>En arrivant au poste Ambros est enfermé.</l>
+<l>Puis, comme avec Nassau je suis d’intelligence,</l>
+<l>Je le fais prévenir en toute diligence</l>
+<l>Et, sans danger pour nous, sans risques à courir,</l>
+<l>Il vient et dans la ville entre sans coup férir.</l>
+
+<pstage>Quelques groupes, parmi lesquels est Ambros, reparaissent sur la place. Anton fait signe à ses complices de ne point parler, et il observe ; la foule rentre peu à peu en scène.</pstage>
+
+<h2>SCÈNE V</h2>
+
+<cast>AMBROS, ANTON, <s>LES</s> C<s>HŒURS</s>.</cast>
+
+<hstage><speaker>AMBROS</speaker>, à part, sur le devant de la scène.</hstage>
+<l>Oui, contre elle-même, il faut la défendre !</l>
+<l>Oui, son cœur, je dois le lui rendre !... </l>
+<l>Nella dans un instant va passer par ici...</l>
+<pstage>Apercevant Anton et les soldats attablés.</pstage>
+<l>Provoquons ces buveurs... Le moyen, le voici !</l>
+
+<pagenum num="99"/>
+
+<hstage><speaker>ANTON</speaker>, aux orangistes, montrant Ambros.</hstage>
+<l>Seul ! mes amis, sans plus attendre,</l>
+<l>Si dès à présent nous pouvions</l>
+<l>Nous emparer de lui !... Comment s’y prendre ?</l>
+<l>Le griser ?... Essayons !</l>
+
+<hstage><speaker>LES ORANGISTES</speaker>.</hstage>
+<l>Essayons !</l>
+
+<hstage><speaker>AMBROS</speaker>, à part, sans avoir rien entendu.</hstage>
+<l>C’est encor le plus sûr...</l>
+
+<hstage><speaker>ANTON</speaker>, l’abordant el lui frappant sur l’épaule.</hstage>
+<l>On prétend que naguère</l>
+<l>Vous étiez grand buveur.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Oui-da !</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Mais, converti,</l>
+<l>Vous n’êtes plus, dit-on, qu’un buveur d’eau vulgaire !</l>
+<l>Est-ce vrai ?</l>
+
+<pagenum num="100"/>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Non, morbleu ! l’on vous en a menti !</l>
+<l>Si vous croyez à cette sotte histoire,</l>
+<l>Je vais vous détromper... A boire !</l>
+
+<pstage>Il frappe du poing la table. Le cabaretier et ses servantes apportent des pots. Il boit.</pstage>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Mes amis, je n’ai pas en vain</l>
+<l>Navigué vingt ans par le monde ;</l>
+<l>Je connais l’ivresse du vin,</l>
+<l>Du gin et de la bière blonde.</l>
+<l>D’abord, je n’ai que du mépris</l>
+<l>Pour le genièvre d’Angleterre,</l>
+<l>Car il vous rend, quand on est gris,</l>
+<l>Triste à porter le diable en terre.</l>
+<l>La bière est moins rude au palais ;</l>
+<l>L’ivresse en est lourde, — et je l’aime...</l>
+<l>— J’en ai bu de bonne à Calais ;</l>
+<l>J’en ai bu de meilleure à Brème.</l>
+<l>Quand on veut s’emplir de soleil,</l>
+<l>De chansons, d’amour, d’espérance,</l>
+<l>Il faut boire un flacon vermeil</l>
+<l>Du vieux vin des vignes de France...</l>
+<pagenum num="101"/>
+<l>Mais pour un bourgeois d’Amsterdam,</l>
+<l>Rien ne vaut encor le skidam !</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Non, pour un bourgeois d’Amsterdam</l>
+<l>Rien ne vaut encor le skidam !</l>
+
+<h2>SCÈNE VI</h2>
+
+<cast>L<s>ES</s> M<s>ÊMES</s>, NELLA, en vêtements de fête.</cast>
+
+<pstage>Au moment où Nella paraît, Ambros l’aperçoit ; sa gorge se serre, le verre s’arrête à ses lèvres. Nella s’avance de son côté, sans le voir.</pstage>
+
+<hstage><speaker>AMBROS</speaker>, à part.</hstage>
+<l>Du courage ! C’est elle !</l>
+
+<hstage><speaker>NELLA</speaker>, à part.</hstage>
+<l>C’est l’heure... Il doit déjà m’attendre à la chapelle</l>
+
+<hstage><speaker>ANTON</speaker>, remarquant le trouble d’Ambros.</hstage>
+<l>Eh bien !</l>
+<l>Qu’avez-vous ?</l>
+
+<pagenum num="102"/>
+
+<hstage><speaker>AMBROS</speaker>, reprenant son rôle.</hstage>
+<l>Moi ? — Rien.</l>
+<pstage>Il se raidit contre la douleur, se lève et commence une chanson de cabaret.</pstage>
+<l>Je vois la vie en rose,</l>
+<l>C’est déjà quelque chose,</l>
+<l>Mais ce n’est pas assez...</l>
+<l>— Versez encor ! Versez !</l>
+<pstage>Il s’approche, avec un sourire galant, de Nella qui est comme affolée par la surprise et la honte.</pstage>
+<l>Laissez-moi donc, ma belle,</l>
+<l>Vous parler sans façon !...</l>
+<l>La femme est infidèle,</l>
+<l>Je resterai garçon...</l>
+<pstage>Il détourne la tête et, le visage crispé par la souffrance intérieure, reprend avec plus de fièvre son refrain de buveur, pendant que Nella se tord les bras de désespoir.</pstage>
+<l>Je vois la vie en rose,</l>
+<l>C’est déjà quelque chose,</l>
+<l>Mais ce n’est pas assez...</l>
+<l>Versez encor ! Versez !</l>
+
+<hstage><speaker>ANTON</speaker> et <speaker>LES ORANGISTES</speaker>.</hstage>
+<l>Versez !</l>
+
+<pagenum num="103"/>
+
+<hstage><speaker>NELLA</speaker>, à part.</hstage>
+<l>Que dit-il ? quels mots insensés ?...</l>
+<pstage>A Ambros.</pstage>
+<l>Ah ! reconnaissez-moi !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Sotte cabaretière !</l>
+
+<hstage><speaker>NELLA</speaker>, à part.</hstage>
+<l>Il n’a plus sa raison !</l>
+
+<hstage><speaker>AMBROS</speaker>, à Nella.</hstage>
+<l>Au diable soit ta bière !</l>
+<l>Rentre dans ta maison.</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Insulter une femme !</l>
+
+<hstage><speaker>AMBROS</speaker>, s’emparant d’un broc, comme pour fendre la tète à ceux qui l’entourent.</hstage>
+<l>Ah ! malheur à qui bouge,</l>
+<l>Car je vois rouge !</l>
+<pstage>S’adressant à des personnages imaginaires.</pstage>
+<l>Sus donc aux miquelets maudits !</l>
+<pagenum num="104"/>
+<l>Prenez la hache d’abordage !</l>
+<l>Frappez ! taillez ! tuez ! courage !...</l>
+<pstage>Les orangisles cherchent à le saisir ; il se débat furieusement.</pstage>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Arrêtez-le !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Misérables ! bandits !...</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Le voilà, dans sa folle rage,</l>
+<l>Le voilà, notre défenseur !</l>
+<l>Il nous insulte, il nous outrage ;</l>
+<l>Rien ne peut calmer sa fureur.</l>
+
+<hstage><speaker>LES ORANGISTES</speaker>.</hstage>
+<l>Tenons-le bien... Malheur à toi si tu résistes !...</l>
+
+<hstage><speaker>AMBROS</speaker>, comme brisé par un dernier effort, va tomber, anéanti, la tête sur la table. — A part.</hstage>
+<l>Ah ! je ne pourrais plus, c’est trop !..</l>
+<pstage>Relevant la tête et regardant les soldats d’un air égaré.</pstage>
+<l>Vous êtes tristes...</l>
+<pagenum num="105"/>
+<l>Ce n’est pas étonnant après un temps pareil...</l>
+<l>Qu’il fait chaud !... La tempête !... A boire !... J’ai sommeil !</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Il chancelle... Il succombe...</l>
+<pstage>Ambros s’affaisse comme ivre-mort.</pstage>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Adieu, jour de bonheur !</l>
+<l>Voici la nuit qui tombe</l>
+<l>Au ciel et dans mon cœur !</l>
+
+<pstage>La nuit est venue. La foule s’est peu à peu dispersée. Il ne reste plus en scène que Nella sur le devant du théâtre, Anton et ses complices au fond.</pstage>
+
+<hstage><speaker>ANTON</speaker>, à Ambros.</hstage>
+<l>Bonsoir ! Cuve ton vin, Ambros, et dors tranquille !</l>
+<l>A ta place au moulin c’est nous qui veillerons.</l>
+<pstage>Roulement de tambours dans la coulisse : Aux soldats.</pstage>
+<l>Messieurs, bouclez vos ceinturons,</l>
+<l>Car déjà le tambour bat à l’Hôtel de Ville.</l>
+
+<pstage>Tous sortent à droite, par la voûte, à l’exception de Nella qui traverse la scène et s’arrête devant Ambros étendu par terre.</pstage>
+
+<pagenum num="106"/>
+
+<h2>SCÈNE VII</h2>
+
+<cast>AMBROS, NELLA.</cast>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Nella, voici ton fiancé !</l>
+<l>Tout me mentait-il donc ? Tout s’est-il effacé ?</l>
+<l>— Pourtant, ce n’était pas un leurre !</l>
+<l>C’était bien lui qui tout à l’heure</l>
+<l>Commandait à la foule ainsi qu’un souverain.</l>
+<l>C’est bien lui que je viens d’entendre</l>
+<l>Me parler d’une voix si tendre</l>
+<l>Et les yeux dans mes yeux et la main dans ma main :</l>
+<l>Est-ce possible ? Ou suis-je folle ?</l>
+<l>Non ! non !... réveille-toi !</l>
+<l>Ambros, une parole !</l>
+<l>Entends-moi ! réponds-moi !</l>
+
+<pstage>Air de marche dans la coulisse. Nella, qui s’était agenouillée devant Ambros, se relève avec anxiété. A mesure que la marche se rapproche, Nella recule lentement à gauche, vers la maison d’Amhros, et elle s’y réfugie au moment où la ronde de nuit commence à entrer en scène par le passage voûté.</pstage>
+
+<pagenum num="107"/>
+
+<h2>SCÈNE VIII</h2>
+
+<cast>AMBROS, LE BOURGMESTRE, HENDRICK, ANTON, S<s>OLDATS</s>, P<s>EUPLE</s>.</cast>
+
+<pstage>Quand la ronde de nuit commence à défiler, les personnages sont groupés à peu près comme dans le tableau de Rembrandt.</pstage>
+
+<hstage><speaker>CHŒUR DES SOLDATS</speaker>.</hstage>
+<l>Que tout le monde</l>
+<l>Rentre sans bruit !</l>
+<l>Voici la ronde</l>
+<l>De nuit !</l>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>.</hstage>
+<l>Halte ! Il est temps, Hendrick, de rassembler vos hommes,</l>
+<l>Allez à votre poste et qu’on n’y dorme pas,</l>
+<l>Car je crois que nous sommes</l>
+<l>Exposés cette nuit à quelque branle bas.</l>
+<l>Je ne vois point Ambros... A la redoute</l>
+<l>Il est déjà sans doute.</l>
+
+<hstage><speaker>ANTON</speaker>, à part.</hstage>
+<l>Non, il n’y sera pas !</l>
+
+<pagenum num="108"/>
+
+<hstage><speaker>LE BOURGMESTRE</speaker>.</hstage>
+<l>En route !</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Que tout le monde</l>
+<l>Rentre sans bruit !</l>
+<l>Voici la ronde</l>
+<l>De nuit !</l>
+
+<pstage>Les soldats d’Hendrick, rangés derrière leur capitaine, sortent avec lui et Anton, à droite. Les autres soldats, conduits par le Bourgmestre, sortent à gauche. Le Bourgmestre jette en passant un coup d’œil sur Ambros, mais il ne le reconnaît point. La scène reste vide un instant, puis Adrian accourt, essoufflé, et va frapper à la porte de la maison d’Ambros. Nella paraît.</pstage>
+
+<h2>SCÈNE IX</h2>
+
+<cast>AMBROS, NELLA, ADRIAN.</cast>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Qu’est-ce, Adrian ?...</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Le maître est-il ici ?</l>
+<l>Il faut que je lui parle à l’instant.</l>
+
+<pagenum num="109"/>
+
+<hstage><speaker>NELLA</speaker>, montrant Ambros.</hstage>
+<l>Le voici !</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Ivre ! quand la ville est trahie</l>
+<l>Par Anton et sa compagnie !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Ah ! grand Dieu !</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Le moulin par eux sera livré</l>
+<l>Cette nuit.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Mais alors... Ambros... déshonoré !</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Comment faire ?</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Plus bas ! — Écoute :</l>
+<l>Pour prévenir Hendrick, je cours à la redoute.</l>
+<l>Auprès de lui si je peux pénétrer...</l>
+<l>Il m’aime : il va tout réparer.</l>
+
+<pstage>Elle fait signe au mousse de rester auprès d’Ambros et sort en courant.</pstage>
+
+<pagenum num="110"/>
+
+<h2>SCENE X</h2>
+
+<cast>AMBROS, ADRIAN.</cast>
+
+<hstage><speaker>AMBROS</speaker>, se relevant, à part.</hstage>
+<l>Allons !</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Debout !... Vous venez donc d’entendre ?...</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Complot, trahison, je sais tout.</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Mais... Nella ?</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Je devais la tromper jusqu’au bout.</l>
+<l>Ne cherche pas à me comprendre !</l>
+
+<hstage><speaker>ADRIAN</speaker>.</hstage>
+<l>Mais la redoute, alors ?</l>
+
+<pagenum num="111"/>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Je connais un chemin,</l>
+<l>Par la cave du Vieux-Moulin,</l>
+<l>Qui conduit au canal, nous allons nous y rendre.</l>
+<l>— Ah ! c’est en vain que mon cœur saigne et crie !</l>
+<l>Devant les maux de la patrie</l>
+<l>Je ne dois plus songer aux miens.</l>
+<l>— Et maintenant, courons sauver la ville ! Viens !</l>
+
+<pstage>Ils sortent à droite.</pstage>
+
+ </page-sequence>
+ <page-sequence id='p06'>
+ <pagenum num="112"/>
+
+<h1>ACTE QUATRIÈME</h1>
+
+<h2>CINQUIÈME TABLEAU</h2>
+
+<h3>La redoute du Vieux-Moulin.</h3>
+
+<pstage>A droite, sur une éminence, le moulin ruiné, avec une porte praticable à laquelle on accède par quelques marches. Le reste de la scène est occupé par la redoute. Deux canons sont braqués sur les polders. Au fond, un mât à signaux. A droite, au premier plan, une petite baraque ouverte où sont placés trois ou quatre barils de poudre et quelques piles de boulets. Au loin, les polders vaguement éclairés par la lune.</pstage>
+
+
+<h2>SCÈNE PREMIÈRE</h2>
+
+<cast>S<s>OLDATS DU POSTE</s>, S<s>ENTINELLES</s>, <s>UN</s> C<s>APITAINE</s>.</cast>
+
+<hstage><speaker>CHŒUR DE SOLDATS</speaker>.</hstage>
+
+<h3>I</h3>
+
+<l>Veillons ! — Sous la tente</l>
+<l>L’ennemi s’endort ;</l>
+<l>La lune éclatante</l>
+<l>Illumine le fort.</l>
+<pagenum num="113"/>
+<l>A la clarté sereine</l>
+<l>De ses rayons,</l>
+<l>L’œil fixé sur la plaine</l>
+<l>Veillons ! Veillons !</l>
+
+<h3>II</h3>
+
+<l>Prêts à la riposte,</l>
+<l>Armés comme il faut,</l>
+<l>S’ils cernent le poste,</l>
+<l>Nous soutiendrons l’assaut...</l>
+<l>Mais la nuit est tranquille,</l>
+<l>Ils dorment tous...</l>
+<l>Habitants de la ville,</l>
+<l>Comptez sur nous.</l>
+
+<hstage><speaker>UNE SENTINELLE</speaker>, dans le lointain.</hstage>
+<l>Sentinelles, garde à vous !</l>
+
+<pstage>Ce cri, répété de sentinelle en sentinelle, va se rapprochant, puis :</pstage>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Sentinelles, garde à vous !</l>
+
+<hstage><speaker>UNE SENTINELLE</speaker>, au loin.</hstage>
+<l>Halte-là ! — Qui vive ?</l>
+
+<pstage>Mélodrame, air de marche.</pstage>
+
+<hstage><speaker>LE CAPITAINE</speaker>.</hstage>
+<l>Tous à vos rangs ! La garde arrive.</l>
+
+<pagenum num="114"/>
+
+<h2>SCÈNE II</h2>
+
+<cast>L<s>ES</s> M<s>ÊMES</s>, HENDRICK <s>ET SES</s> H<s>OMMES</s>, ANTON.</cast>
+
+<pstage>Hendrick arrive, à la tête de sa compagnie. On échange le mot d’ordre ; on relève les sentinelles. La compagnie qui vient d’ètre relevée s’éloigne. Toute cette scène sur un mélodrame. Puis :</pstage>
+
+<hstage><speaker>HENDRICK</speaker>, à un sergent qui porte une lanterne.</hstage>
+<l>Suis-moi.</l>
+<l>Je ferai ma ronde avec toi.</l>
+<pstage>Il s’éloigne avec le sergent.</pstage>
+
+<h2>SCÈNE III</h2>
+
+<cast>ANTON, <s>QUELQUES</s> S<s>OLDATS</s>.</cast>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Donc, mes amis, l’heure est venue.</l>
+<l>Il faut d’Hendrick nous emparer d’abord.</l>
+<l>Et quand le stathouder approchera du fort,</l>
+<l>Pas de fanal, pas de digue rompue !</l>
+<pagenum num="115"/>
+<l>Il entre et nous avons la paix.</l>
+<l>Leur Ambros n’est plus redoutable :</l>
+<l>D’un sommeil épais</l>
+<l>Il dort sous la table !</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Enfin, nous allons pouvoir</l>
+<l>Près de nos femmes, ce soir,</l>
+<l>Retirer ces nippes,</l>
+<l>Et, battant notre briquet,</l>
+<l>A nos mèches de mousquet,</l>
+<l>Allumer nos pipes !</l>
+
+<hstage><speaker>ANTON</speaker>, arrachant de la main d’un soldat la pipe qu’il est en train d’allumer.</hstage>
+<l>Malheureux, que fais-tu ? Fumer en ce moment !</l>
+<l>Ces tonneaux sont remplis de poudre.</l>
+<l>Une étincelle seulement,</l>
+<l>Et tu fais éclater la foudre !</l>
+
+<hstage><speaker>CHŒUR</speaker>, au soldat.</hstage>
+<l>Va-t’en !</l>
+
+<hstage><speaker>ANTON</speaker>, apercevant Hendrick qui revient.</hstage>
+<l>Le capitaine ! — Il ne soupçonne rien.</l>
+<l>Avant de l’arrêter, voyons si tout va bien.</l>
+
+<pstage>Il sort à droite avec ses soldats.</pstage>
+
+<pagenum num="116"/>
+
+<h2>SCÈNE IV</h2>
+
+<cast>HENDRICK, seul.</cast>
+
+<l>Ambros a-t-il tenu cette fois sa promesse ?</l>
+<l>Puis-je garder l’espoir qui toujours me poursuit</l>
+<l>De voir enfin Nella céder à ma tendresse ?... </l>
+<l>Versez en moi le calme, étoiles de la nuit !</l>
+<l>Étoile de l’amour, toi qui luis la première,</l>
+<l>Sous ta douce et pâle lumière </l>
+<l>Tout s’apaise et s’endort et la peine s’enfuit !...</l>
+<l>Mais moi j’attends, je veille et mon cœur bat plus vite,</l>
+<l>Un cher espoir l’agite...</l>
+<l>Versez en moi le calme, étoiles de la nuit !</l>
+
+<h2>SCÈNE V</h2>
+
+<cast>HENDRICK, <s>UNE</s> S<s>ENTINELLE</s>, <s>UN</s> S<s>OLDAT</s>, puis NELLA.</cast>
+
+<hstage><speaker>UNE SENTINELLE</speaker>, dans la coulisse,</hstage>
+<l>Halte-là ! Qui vive ?</l>
+
+<hstage><speaker>UN SOLDAT</speaker>, introduisant Nella voilée.</hstage>
+<l>Une femme.</l>
+
+<pagenum num="117"/>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>A cette heure ! une femme ici !</l>
+<l>Que nous veut-elle ?</l>
+
+<hstage><speaker>LE SOLDAT</speaker>.</hstage>
+<l>Elle réclame</l>
+<l>Le commandant du poste.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Le voici.</l>
+
+<pstage>Il fait signe au soldat de se retirer. Nella relève son voile.</pstage>
+
+<l>Quoi, Nella, vous !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Écoutez ! le temps presse. </l>
+<l>Ambros, oublieux du devoir,</l>
+<l>Plongé dans une lourde ivresse</l>
+<l>Ne sera pas à son poste ce soir.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Que dites-vous ?</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Et la ville est trahie ;</l>
+<l>Et ce sont les soldats de votre compagnie</l>
+<pagenum num="118"/>
+<l>Qui vont livrer la porte, cette nuit.</l>
+<l>De cette trahison vous êtes seul instruit.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Eh quoi ! Dans ce péril extrême</l>
+<l>Vous n’avez pas donné l’alarme ? Seul contre eux !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Il fallait bien sauver Ambros... quand même !</l>
+<l>Je vous sais généreux.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Ah ! c’en est trop ! Toujours cet homme</l>
+<l>Qui se dresse entre vous et moi !</l>
+<l>Il est toujours le seul qu’on nomme</l>
+<l>Et le seul en qui l’on ait foi !</l>
+<l>Rien n’a donc pu le chasser de votre âme ?</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Puis-je oublier son amitié ?</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Vous l’aimeriez, fût-il infâme ?</l>
+
+<pagenum num="119"/>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Fût-il coupable, ayez pitié !</l>
+<l>Hendrick, il faut donner le signal à sa place.</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Jamais, entendez-vous ? Jamais !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Que dites-vous ?... Votre regard me glace !...</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Je vous aime, Nella !... Cet Ambros, je le hais !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Ah ! Ciel !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Oui, Nella, je vous aime</l>
+<l>D’un amour immuable et fort</l>
+<l>Et j’attends cet arrêt suprême</l>
+<l>Qui doit décider de mon sort.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Pitié !</l>
+
+<pagenum num="120"/>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Pour Ambros ? Que m’importe ?</l>
+<l>Tant mieux si mon rival se perd !</l>
+<l>Ma passion est la plus forte...</l>
+<l>Je vous veux et j’ai trop souffert.</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Est-ce vous qui parlez ? Dans cette heure de crise,</l>
+<l>Quand sur Nassau vainqueur va se lever le jour,</l>
+<l>Lorsque la liberté du pays agonise,</l>
+<l>Vous ne songez qu’à votre amour !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Périsse la patrie et qu’un tyran nous dompte !</l>
+<l>Vous n’épouserez pas Ambros déshonoré,</l>
+<l>Et moi je n’aurai pas la douleur et la honte</l>
+<l>De vous voir dans les bras d’un rival abhorré !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Ah ! Dieu ! tout m’abandonne !</l>
+<l>Tout s’écroule à la fois !</l>
+<l>J’implore en vain : personne</l>
+<l>Qui réponde à ma voix !</l>
+<pagenum num="121"/>
+<l>Voyez, c’est une femme,</l>
+<l>Le désespoir dans l’âme,</l>
+<l>Qui tombe à vos genoux</l>
+<l>Et qui n’a d’autres armes</l>
+<l>Que sa plainte et ses larmes...</l>
+<l>Sauvez-nous ! sauvez-nous !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Pardon !... Relevez-vous !... J’ai pitié de moi-même !</l>
+<l>Ma tête s’égarait, je ne voyais plus rien...</l>
+<l>Pardon, car ce cœur qui vous aime,</l>
+<l>C’est celui d’un soldat, celui d’un citoyen !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Du sacrifice, alors, je vais donner l’exemple :</l>
+<l>Par la patrie en deuil, par Dieu qui nous contemple,</l>
+<l>Je vous le jure, Hendrick, mon cœur appartiendra</l>
+<l>Tout entier, pour jamais, à qui nous sauvera !</l>
+
+<hstage><speaker>HENDRICK</speaker>, radieux.</hstage>
+<l>Tu l’entends, nuit d’astres fleurie !</l>
+<l>Elle a promis, elle a juré !</l>
+<l>A mon tour je jure, ô patrie !</l>
+<l>Que c’est moi qui te sauverai !</l>
+
+<pagenum num="122"/>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Je renonce à moi-même et je me sacrifie !</l>
+<l>Sans regret, pour Ambros, j’aurais donné ma vie,</l>
+<l>Je puis bien donner mon bonheur !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Il est fait, le serment qui pour jamais nous lie !</l>
+<l>Mon devoir, je le vois, ma haine, je l’oublie...</l>
+<l>De moi-même je suis vainqueur !</l>
+
+<hstage><speaker>LA VOIX D’ANTON</speaker>, chantant dans la coulisse.</hstage>
+<l>« Dans son justaucorps de drap fin</l>
+<l>Le bourgeois est gras comme un chantre.</l>
+<l>Et tandis qu’il mange à sa faim,</l>
+<l>Nous nous serrons le ventre ! »</l>
+
+<hstage><speaker>NELLA</speaker>, à Hendrick.</hstage>
+<l>Écoutez ! ce sont vos hommes...</l>
+<l>Ils triomphent déjà ! Là-bas, vers le rempart</l>
+<l>L’ennemi vient... Songez au péril où nous sommes !</l>
+<l>Au signal !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Au signal ! Il en est temps...</l>
+
+<pstage>Au moment où il s’élance vers le màt à signaux, Anton se précipite au-devant de lui et l’arrête.</pstage>
+
+<pagenum num="123"/>
+
+<h2>SCÈNE VI</h2>
+
+<cast>L<s>ES</s> M<s>ÊMES</s>, ANTON, <s>LES</s> S<s>OLDATS</s>.</cast>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Trop tard !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Dieu !</l>
+
+<hstage><speaker>ANTON</speaker>, à ses hommes en leur montrant Hendrick.</hstage>
+<l>Faites !</l>
+
+<hstage><speaker>HENDRICK</speaker>, à Anton.</hstage>
+<l>Scélérat !</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>L’injure est inutile.</l>
+<pstage>Aux soldats.</pstage>
+<l>J’ai donné l’ordre ; exécutez !</l>
+<pstage>Ils s’emparent d’Hendrick.</pstage>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Tu trahis ton pays !</l>
+
+<pagenum num="124"/>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Je délivre la ville.</l>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>Vive Nassau !</l>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>Vivent nos libertés !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Seigneur, ma voix te prie !</l>
+<l>Que ton secours nous descende du ciel !</l>
+
+<hstage><speaker>HENDRICK</speaker> et <speaker>NELLA</speaker>.</hstage>
+<l>A nous, à la patrie</l>
+<l>Épargnez l’opprobre éternel !</l>
+
+<hstage><speaker>CHŒUR</speaker>.</hstage>
+<l>Allons, laissez-vous faire,</l>
+<l>N’espérez pas d’appui !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Ambros ! au secours !...</l>
+<pstage>Ambros, enfonçant la porte vermoulue du moulin, apparaît au haut des marches.</pstage>
+
+<pagenum num="125"/>
+
+<h2>SCÈNE VII</h2>
+
+<hstage><speaker>TOUS</speaker>.</hstage>
+<l>Lui !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Vous ne m’attendiez pas, me voici !</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Téméraire !</l>
+<l>Qu’on le saisisse !</l>
+
+<hstage><speaker>AMBROS</speaker>, descendant d’un bond jusqu’auprès des barils de poudre et braquant sur l’un d’eux son pistolet armé.</hstage>
+<l>Ah ! qui me touche est mort !</l>
+<l>Si vous bougez d’un pas, je fais sauter le fort !</l>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>Dieu ! les barils de poudre !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Oui, nous périrons tous. Le ciel daigne m’absoudre !</l>
+<pstage>Les soldais épouvantés ont reculé, laissant libres Hendrick et Nella.</pstage>
+<l>Nella, fuyez !</l>
+
+<pagenum num="126"/>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>Je veux partager votre sort !</l>
+
+<hstage><speaker>ANTON</speaker>, aux soldats.</hstage>
+<l>Quoi ! pour si peu le sang se glace dans vos veines !</l>
+<l>Lâches, vous reculez à des menaces vaines !</l>
+<pstage>Montrant Nella.</pstage>
+<l>Cette enfant nous protège.</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Allumez le fanal !</l>
+
+<hstage><speaker>ANTON</speaker> et <speaker>LE CHŒUR</speaker>.</hstage>
+<l>Jamais ! A mort !</l>
+
+<hstage><speaker>AMBROS</speaker> à Nella, suppliant.</hstage>
+<l>Nella, fuyez !</l>
+
+<hstage><speaker>NELLA</speaker>, luì donnant la main.</hstage>
+<l>Vois si je tremble.</l>
+<pstage>Aux soldats.</pstage>
+<l>Je suis sa fiancée et fille d’amiral.</l>
+<l>Faut-il mourir ? — Mourons ensemble !</l>
+
+<pstage>Hendrick s’élance, l’épée à la main, à côté d’Ambros et de Nella. Tous trois présentent leur poitrine aux armes des conjurés et entonnent fièrement l’hymne patriotique.</pstage>
+
+<pagenum num="127"/>
+
+<hstage><speaker>AMBROS</speaker>, <speaker>NELLA</speaker>, <speaker>HENDRICK</speaker>.</hstage>
+<l>Vois tes enfants, noble Patrie,</l>
+<l>Pour ton salut prêts à mourir !</l>
+<l>O Liberté ! prends notre vie !</l>
+<l>Nous sommes fiers de te l’offrir.</l>
+<l>Que ton règne par nous puisse à jamais fleurir !</l>
+
+<pstage>Devant une telle fermeté, la plupart des soldats abaissent leurs épées et leurs mousquets et se rangent du parti d’Ambros.</pstage>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>Vive Ambros !</l>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Trahison !</l>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>C’est toi, c’est toi le traître !</l>
+
+<hstage><speaker>AMBROS</speaker>.</hstage>
+<l>Pour la dernière fois, allumez le fanal !</l>
+
+<hstage><speaker>NELLA</speaker>.</hstage>
+<l>J’y vais !</l>
+
+<pstage>Elle s’élance vers le mât à signaux, protégée contre les derniers révoltés par l’épée d’Hendrick, tandis qu’Ambros reste immobile, le pistolet toujours braqué sur les barils de poudre. Elle hisse le fanal qui monte lentement jusqu’au sommet du mât. Une lueur rouge éclaire la scène.</pstage>
+
+<l cont='true'>Sauvés !</l>
+
+<pagenum num="128"/>
+
+<hstage><speaker>ANTON</speaker>.</hstage>
+<l>Perdu ! Je n’ai qu’à disparaître.</l>
+<pstage>Il saute par-dessus le rempart.</pstage>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>Le signal ! Le signal !</l>
+<pstage>Coup de canon lointain. Bruit de cataractes. L’inondation se répand sur les polders.</pstage>
+
+<hstage><speaker>HENDRICK</speaker>.</hstage>
+<l>On a rompu la digue et le flot se déchaîne !</l>
+
+<hstage><speaker>LE CHŒUR</speaker>.</hstage>
+<l>Devant le torrent des eaux</l>
+<l>L’ennemi fuit dans la plaine</l>
+<l>Au galop de ses chevaux !</l>
+
+<pstage>La foule envahit la redoute. Les cloches de la ville se mettent en branle. Le bourgmestre paraît au fond avec le drapeau. Sur le devant de la scène, Nella est dans les bras d’Ambros, et Hendrick, un genou en terre, semble implorer son pardon. La toile tombe aux cris de : « Vive Ambros ! »</pstage>
+
+ </page-sequence>
+ </page-sequences>
+</bml>
