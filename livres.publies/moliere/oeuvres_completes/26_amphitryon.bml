@@ -54,7 +54,8 @@
     
     <electronique
         identificateur="http://efele.net/ebooks/livres/000503"
-        creation="2017-06-13T09:13:34-07:00">
+        creation="2017-06-13T09:13:34-07:00"
+        modification='2021-01-31T20:53:15-08:00'>
 
       <surtitre>Œuvres complètes de Molière</surtitre>
       <titre>Amphitryon</titre>
@@ -67,6 +68,10 @@
       <collection id='c00016' volume='26'>
         <titre>Œuvres complètes de Molière, édition Lemaistre</titre>
       </collection>
+
+      <merci>
+        <p>Merci à Xavier Dolques pour les erreurs qu’il a signalées.</p>
+      </merci>
 
     </electronique>
   </metadata>
@@ -613,7 +618,7 @@
 <l>Moi.</l>
 
 <hstage><speaker>MERCURE</speaker></hstage>
-<l>Oui, moi ?</l>
+<l>Qui, moi ?</l>
 
 <hstage><speaker>SOSIE</speaker>, à part.</hstage>
 <l>Moi. Courage, Sosie.</l>
