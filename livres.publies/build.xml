@@ -47,6 +47,7 @@
       <ant target='@{target}' dir='adam/le_trust'/>
       <ant target='@{target}' dir='allais/l_affaire_blaireau'/>
       <ant target='@{target}' dir='allary/au_pays_des_cigales'/>
+      <ant target='@{target}' dir='andurain/le_mari_passeport'/>
       <ant target='@{target}' dir='apollinaire/alcools'/>
       <ant target='@{target}' dir='apollinaire/la_femme_assise'/>
       <ant target='@{target}' dir='apollinaire/le_flaneur_des_deux_rives'/>
@@ -72,6 +73,7 @@
       <ant target='@{target}' dir='barbusse/j_accuse'/>
       <ant target='@{target}' dir='barbusse/l_illusion'/>
       <ant target='@{target}' dir='barbusse/nous_autres'/>
+      <ant target='@{target}' dir='barbusse/russie'/>
       <ant target='@{target}' dir='baudelaire/les_fleurs_du_mal_1857'/>
       <ant target='@{target}' dir='baudelaire/les_fleurs_du_mal_1861'/>
       <ant target='@{target}' dir='bernard/citoyens_animaux_phenomenes'/>
@@ -121,6 +123,9 @@
       <ant target='@{target}' dir='huysmans/en_rade'/>
       <ant target='@{target}' dir='huysmans/marthe'/>
       <ant target='@{target}' dir='janin/un_hiver_a_paris'/>
+      <ant target='@{target}' dir='jaloux/au_dessus_de_la_ville'/>
+      <ant target='@{target}' dir='jaloux/la_constellation'/>
+      <ant target='@{target}' dir='jaloux/le_reste_est_silence'/>
       <ant target='@{target}' dir='journet/l_ere_de_la_femme'/>
       <ant target='@{target}' dir='kock/l_enfant_de_ma_femme'/>
       <ant target='@{target}' dir='kock/un_mari_perdu'/>
@@ -231,6 +236,7 @@
   <target name='zipsources'>      <iterate target="zipsources"/>    </target>
   <target name='validate'>        <iterate target='validate'/>      </target>
   <target name='tidy'>            <iterate target='tidy'/>          </target>
+  <target name='tidystrong'>      <iterate target='tidystrong'/>    </target>
   <target name='export-books'>    <iterate target='export'/>        </target>
 
 

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+
+<edition xmlns="http://efele.net/2010/ns/bml">
+  <style colophon="Minion" body="MinionPro">
+    <fonts href='../../../fonts/MinionPro.xml'/>
+
+<css>
+
+/* all the -1 and -2 images have the same size and are set 
+   on the page width. */
+
+img[src*='-1.'] { 
+  width: 100%; max-height: 50vh; }
+
+img[src*='-2.'] { 
+  margin-top: 2em;
+  width: 100%; max-height: 30vh; }
+
+</css>
+  </style>
+
+
+</edition>
