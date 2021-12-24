@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+
+<edition xmlns="http://efele.net/2010/ns/bml">
+  <style colophon="Sabon" body="Sabon">
+    <fonts href='../../../fonts/Sabon.xml'/>
+  </style>
+
+   <css>
+body {
+  line-height: 1.5em;
+}
+
+h3 {
+  font-variant-caps: all-small-caps;
+}
+
+.dedicace {
+  margin-left: 50%;
+  font-style: italic;
+}
+   </css>
+
+
+</edition>

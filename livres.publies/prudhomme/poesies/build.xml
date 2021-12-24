@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+
+<project name='livew' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_stances_et_poemes'/>
+
+<!--
+    <book x='02_les_epreuves'/>
+    <book x='03_les_ecuries_d_augias'/>
+    <book x='04_croquis_italiens'/>
+    <book x='05_les_solitudes'/>
+    <book x='06_impressions_de_la_guerre'/>
+
+    <book x='07_les_vaines_tendresses'/>
+    <book x='08_la_france'/>
+    <book x='09_la_revolte_des_fleurs'/>
+    <book x='10_poesies_diverses'/>
+    <book x='11_les_destins'/>
+    <book x='12_le_zenith'/>
+
+    <book x='13_lucrece'/>
+    <book x='14_la_justice'/>
+
+    <book x='15_le_prisme'/>
+    <book x='16_le_bonheur'/>
+-->
+  </target>
+</project>
