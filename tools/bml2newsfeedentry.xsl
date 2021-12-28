@@ -174,10 +174,7 @@
       </tr>
     </table>
     
-    <p>Disponible en EPUB, Kindle, et DAISY sur le site <a href='{bml:electronique/@identificateur}'>ÉFÉLÉ</a>.</p>
-<!--
-    <p>Disponible en EPUB, Mobipocket, PDF, et DAISY sur le site <a href='{bml:electronique/@identificateur}'>ÉFÉLÉ</a>.</p>
--->
+    <p>Disponible sur le site <a href='{bml:electronique/@identificateur}'>ÉFÉLÉ</a>.</p>
       </div>
     </content>
   </entry>

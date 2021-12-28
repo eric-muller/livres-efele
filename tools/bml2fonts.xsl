@@ -7,7 +7,7 @@
   xmlns:opf="http://www.idpf.org/2007/opf"
   xmlns="http://www.w3.org/1999/xhtml" 
   exclude-result-prefixes="bml"
-  version="2.0">
+  version="3.0">
 
 <xsl:output
     method="text"

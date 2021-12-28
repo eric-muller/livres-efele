@@ -14,6 +14,8 @@
             value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-3.0b1/epubcheck-3.0b1.jar'/>
   <property name='epubcheck402'
             value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-4.0.2/epubcheck.jar'/>
+  <property name='epubcheck425'
+            value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-4.2.5/epubcheck.jar'/>
 
   <property name='exportdir'
             value='c:/users/emuller/home/eric/efele.net/ebooks/livres'/>
@@ -25,8 +27,12 @@
     <pathelement path="C:/Users/emuller/home/afe/cafe/bin/release"/>
     <pathelement path="c:/users/emuller/home/eric/epub/esciurus"/>
     <pathelement path="c:/users/emuller/home/eric/epub/net.efele.epub/bin"/>
+    <pathelement path="c:/users/emuller/home/eric/epub/net.efele.epub/src"/>
     <pathelement path="c:/users/emuller/home/unicode/software/publication"/>
-    <pathelement path='C:/Program Files/Java/saxonhe9-3-0-5j/saxon9he.jar'/>
+    <!--
+      <pathelement path='C:/Program Files/Java/saxonhe9-3-0-5j/saxon9he.jar'/>
+    -->
+    <pathelement path='C:/Program Files/Java/saxonhe10-0J/saxon-he-10.0.jar'/>
   </path>
 
 
@@ -107,7 +113,7 @@
   <macrodef name='epub2check'>
     <attribute name='epub'/>
     <sequential>
-      <java jar='${epubcheck402}' fork='true'>
+      <java jar='${epubcheck425}' fork='true'>
         <arg value="@{epub}"/>
       </java>
     </sequential>
@@ -116,7 +122,7 @@
   <macrodef name='epub3check'>
     <attribute name='epub'/>
     <sequential>
-      <java jar='{epubcheck30}' fork='true'>
+      <java jar='${epubcheck425}' fork='true'>
         <arg value="@{epub}"/>
       </java>
     </sequential>
@@ -186,6 +192,40 @@
       <copy todir='@{dest}/images' flatten='true'>
         <filelist dir="." files='${images.@{dest}}'/>
       </copy>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='scripts'>
+    <attribute name='src'/>
+    <attribute name='dest'/>
+
+    <sequential>
+      <java classname="net.sf.saxon.Transform" fork="true"
+            outputproperty='scripts.@{dest}'>
+        <classpath refid="classpath"/>
+        <arg value="-xsl:${tools}/bml2scripts.xsl"/>
+        <arg value="-s:@{src}"/>
+      </java>
+      
+      <copy todir='@{dest}' flatten='true'>
+        <filelist dir="." files='${scripts.@{dest}}'/>
+      </copy>
+    </sequential>
+  </macrodef>
+
+  <macrodef name='fonts3'>
+    <attribute name='font-files3'/>
+    <attribute name='id'/>
+    <attribute name='x'/>
+    <attribute name='flavor'/>
+    
+    <sequential>
+      <java classname="net.efele.epub.FontEmbedder4" fork="true">
+        <classpath refid="classpath"/>
+        <arg value='build/@{id}/@{flavor}/epub/OEBPS'/>
+        <arg value='build/@{id}/@{flavor}/epub/OEBPS'/>
+        <arg line='@{font-files3}'/>
+      </java>
     </sequential>
   </macrodef>
 
@@ -293,7 +333,6 @@
 
   <target name='tirages-book'>
     <bv id='${id}' x='${x}'/>
-    <antcall target='zipsources-book'/>
   </target>
 
 
@@ -305,8 +344,6 @@
     <zip-tirage tirage='epub'      ext=''/>
     <zip-tirage tirage='mobi'      ext=''/>
     <zip-tirage tirage='daisy'     ext='.zip'/>
-
-    <antcall target='zipsources'/>
   </target>
 
   <macrodef name='zip-tirage'>
@@ -325,19 +362,6 @@
 
 
 
-
-  <target name='zipsources'>
-    <delete file='results/${id}/${x}_sources.zip'/>
-    <zip destfile="results/${id}/${x}_sources.zip">
-      <zipfileset dir="${tools}" includes="bml.rnc"/>
-      <zipfileset dir="." includes="*.xsl"/>
-      <zipfileset dir="." includes="*.rnc"/>
-      <zipfileset dir="." includes="*.bml"/>
-      <zipfileset dir="." includes="images/*"/>
-    </zip>
-  </target>
-
-  <target name='zipsources-book' depends='zipsources'/>
 
 
   <target name='thumbnail'>
@@ -498,10 +522,14 @@
     <echo>----------------------------------- ${id} ${x}</echo>
     <mkdir dir='results'/>
     <mkdir dir='results/${id}'/>
+
+    <available file="${x}.notes" property="notes.present"/>
+
     <java classname="net.sf.saxon.Transform" fork="true">
       <classpath refid="classpath"/>
       <arg value="-o:results/${id}/index.html"/>
       <arg value="-xsl:${tools}/bml2desc.xsl"/>
+      <arg value="descPresent=${notes.present}"/>
       <arg value="desc=${x}.notes"/>
       <arg value="id=${id}"/>
       <arg value="collectionId=${collectionId}"/>
@@ -588,27 +616,25 @@
       <delete dir='build/@{id}'/>
       <mkdir dir='build/@{id}'/>
 
-    <parallel>
-
-      <!--============================================================= EPUB -->
+      <!--============================================================ EPUB3 -->
 
       <sequential>
-      <echo>== epub</echo>
-      <mkdir dir='build/@{id}/epub'/>
+      <echo>== epub3</echo>
+      <mkdir dir='build/@{id}/epub3'/>
 
-      <toefele src='@{x}' dest='build/@{id}/epub/text.bml' 
+      <toefele src='@{x}' dest='build/@{id}/epub3/text.bml' 
            endnotes='${endnotes}' review='${review}'
            correction='${correction}'
            tirage='${tirage-epub-font}'/>
 
       <spacehandler mode='rich'
-                    src='build/@{id}/epub/text.bml' 
-                    dest='build/@{id}/epub/text3.bml'/>
+                    src='build/@{id}/epub3/text.bml' 
+                    dest='build/@{id}/epub3/text3.bml'/>
       
-      <validate-bml src='build/@{id}/epub/text3.bml'/>
+      <validate-bml src='build/@{id}/epub3/text3.bml'/>
 
       <java classname="net.sf.saxon.Transform" fork="true"
-            outputproperty='font-files'>
+            outputproperty='font-files3'>
         <classpath refid="classpath"/>
         <arg value="-xsl:${tools}/bml2fonts.xsl"/>
         <arg value="-s:edition.xml"/>
@@ -617,46 +643,48 @@
       <java classname="net.sf.saxon.Transform" fork="true">
         <classpath refid="classpath"/>
         <arg value="-xsl:${tools}/bml2epub.xsl"/>
-        <arg value="targetdir=build/@{id}/epub/epub"/>
-        <arg value="page-template=page-template.xpgt"/>
+        <arg value="targetdir=build/@{id}/epub3/epub"/>
         <arg value="fonts=yes"/>
-        <arg value="epub-fonts=${font-files}"/>
+        <arg value="epub-fonts=${font-files3}"/>
         <arg value="review=${review}"/>
         <arg value="eml=../../../edition.xml"/>
-        <arg value="-s:build/@{id}/epub/text3.bml"/>
+        <arg value="-s:build/@{id}/epub3/text3.bml"/>
       </java>
 
-      <copy todir='build/@{id}/epub/epub/OEBPS'>
+      <copy todir='build/@{id}/epub3/epub/OEBPS'>
         <fileset dir='${tools}'>
           <include name='style-common.css'/>
-          <include name='page-template.xpgt'/>
         </fileset>
       </copy>
 
-      <copy todir='build/@{id}/epub/epub/META-INF'>
+      <copy todir='build/@{id}/epub3/epub/META-INF'>
         <fileset dir='${tools}'>
           <include name='com.apple.ibooks.display-options.xml'/>
         </fileset>
       </copy>
 
-      <images src='build/@{id}/epub/text3.bml'
-              dest='build/@{id}/epub/epub/OEBPS'/>
+      <images src='build/@{id}/epub3/text3.bml'
+              dest='build/@{id}/epub3/epub/OEBPS'/>
+
+      <scripts src='build/@{id}/epub3/text3.bml'
+               dest='build/@{id}/epub3/epub/OEBPS'/>
 
       <epubzip epubfile='results/@{id}/@{x}.epub' 
-               dir='build/@{id}/epub/epub'/>
+               dir='build/@{id}/epub3/epub'/>
 
-      <fonts font-files='${font-files}'
+      <fonts3 font-files3='${font-files3}'
              id='@{id}'
-             x='@{x}'/>
+             x='@{x}'
+             flavor='epub3'/>
 
       <epubzip epubfile='results/@{id}/@{x}.epub' 
-               dir='build/@{id}/epub/epub'/>
+               dir='build/@{id}/epub3/epub'/>
 
-      <epub2check epub='results/@{id}/@{x}.epub'/>
+      <epub3check epub='results/@{id}/@{x}.epub'/>
 
       <!-- verify the size of component files -->
       <length property="bigfiles" mode="each">
-        <fileset dir='build/@{id}/epub/epub/OEBPS' includes='*.xml'>
+        <fileset dir='build/@{id}/epub3/epub/OEBPS' includes='*.xml'>
           <size value='280' units='Ki' when='more'/>
         </fileset>
       </length>
@@ -665,74 +693,7 @@
 
       </sequential>
 
-      <!--============================================================ DAISY -->
-
-      <sequential>
-      <echo>== daisy</echo>
-      <mkdir dir='build/@{id}/daisy'/>
-
-      <toefele src='@{x}' dest='build/@{id}/daisy/text.bml' 
-           endnotes='no' review='${review}'
-           correction='${correction}'
-           tirage='${tirage-daisy}'/>
-
-      <spacehandler mode='plain' src='build/@{id}/daisy/text.bml'
-                    dest='build/@{id}/daisy/text3.bml'/>
-
-      <validate-bml src='build/@{id}/daisy/text3.bml'/>
-
-      <java classname="net.sf.saxon.Transform" fork="true">
-        <classpath refid="classpath"/>
-        <arg value="-o:build/@{id}/daisy/text4.bml"/>
-        <arg value="-xsl:${tools}/bmlpagenum.xsl"/>
-        <arg value="-s:build/@{id}/daisy/text3.bml"/>
-      </java>
-
-      <java classname="net.sf.saxon.Transform" fork="true">
-        <classpath refid="classpath"/>
-        <arg value="-xsl:${tools}/bml2daisy.xsl"/>
-        <arg value="targetdir=build/@{id}/daisy/daisy/@{x}.daisy"/>
-        <arg value="style1=style-plain.css"/>
-        <arg value="style2=style-common.css"/>
-        <arg value="review=${review}"/>
-        <arg value="-s:build/@{id}/daisy/text4.bml"/>
-      </java>
-
-      <copy todir='build/@{id}/daisy/daisy/@{x}.daisy'>
-        <fileset dir='${tools}'>
-          <include name='style-common.css'/>
-          <include name='style-plain.css'/>
-          <include name='page-template.xpgt'/>
-          <include name='resource.res'/>
-        </fileset>
-      </copy>
-
-      <images src='build/@{id}/daisy/text3.bml'
-              dest='build/@{id}/daisy/daisy/@{x}.daisy'/>
-
-      <zip destfile='results/@{id}/@{x}.daisy.zip' basedir="build/@{id}/daisy/daisy"/>
-      </sequential>
-
-    </parallel>
-
-      <echo>== mobi</echo>
-
-      <exec executable='${kindlegen}'
-            output='build/@{id}/mobi.log' resultproperty='mobi-result'
-            errorproperty='nowhere'
-            dir='results/@{id}'>
-        <arg value='@{x}.epub'/>
-        <arg value='-o'/>
-        <arg value='@{x}.mobi'/>
-      </exec>
-      <fail>
-        <condition>
-          <equals arg1="${mobi-result}" arg2="2"/>
-        </condition>
-      </fail>
-
-
-</sequential>
+    </sequential>
 
   </macrodef>
 
@@ -740,6 +701,16 @@
 
   <target name='tidy'>
     <delete dir='build'/>
+  </target>
+
+  <target name='tidystrong' depends="tidy">
+    <delete>
+      <fileset dir="results" includes="**/*.epub"/>
+      <fileset dir="results" includes="**/*.daisy.zip"/>
+      <fileset dir="results" includes="**/*.epub"/>
+      <fileset dir="results" includes="**/*.mobi"/>
+      <fileset dir="results" includes="**/*_sources.zip"/>
+    </delete>
   </target>
 
   <target name='clean' depends="tidy">

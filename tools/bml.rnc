@@ -151,7 +151,7 @@ page-sequences =
 script =
   element script { 
     attribute type { "text/javascript" },
-    text }
+    attribute src { text } }
 
 #--------------------------------------------------------------- generic div ---
 
@@ -170,6 +170,7 @@ block |= division
 poem = 
   element poem {
     common-attributes,
+    attribute m { "2" | "3" | "4" | "5" | "6" | "8" | "10" | "12" },
     ( linegroup
     | line
     | vsep
@@ -183,6 +184,7 @@ poem =
 linegroup =
   element lg {
     common-attributes,
+    attribute m { "2" | "3" | "4" | "5" | "6" | "8" | "10" | "12" }?,
     ( line
     | vsep
     | pagination )+ }
@@ -190,11 +192,11 @@ linegroup =
 line =
   element l {
      common-attributes,
+     attribute m { "2" | "3" | "4" | "5" | "6" | "8" | "10" | "12" }?,
      attribute class {
        list { ("smaller")?,
               ( "c" | "r3")? }}?,
      attribute cont { "true" }?,
-     attribute indent { "0" | "1" | "2" | "3" | "4" | "5" | "c" }?,
      inline+ }
 
 cast =
@@ -474,7 +476,9 @@ inline |= bracelist
 figure =
   element figure {
     common-attributes,
-    block* }
+    blockimage,
+    element figcaption { 
+       block+ | inline* }? }
 
 block |= figure
 
@@ -486,7 +490,7 @@ blockimage =
                     | "left33" | "left50" | "left66" 
                     | "center50" | "center66" | "center90" | "center100" | "center"
                     | "right66" | "right50" | "right33" }?, 
-    attribute alt { text }}
+    attribute alt { text }? }
 
 inlineimage |=
   element img {
@@ -538,6 +542,7 @@ date =
 block |=
   element p {
     common-attributes,
+    attribute repeat { text }?,
     attribute class { 
       list { ("smaller")?, 
              ("cont" | "l0" | "l3" | "c" | "r3" | "r1"
@@ -568,8 +573,9 @@ inline |=
   | element b { common-attributes, inline* }      # bold
   | element s { common-attributes, inline* }      # small caps
 
-#inline |=
-#  element u { inline* }      # underline
+
+inline |=
+  element u { inline* }      # underline
 
 inline |=
   element sup { inline* }    # superior

@@ -1,9 +1,8 @@
 html {
-  margin: 0;
-  padding: 0;
   border: none;
   font-weight: normal;
-  font-variant: normal; }
+  font-variant: normal;
+  font-variant-numeric: oldstyle-nums proportional-nums; }
 
 h1 h2 h3 h4 .nohyphen {
   -epub-hyphens: manual;
@@ -15,24 +14,34 @@ body {
   -webkit-hyphens: auto;
   hyphens: auto; }
 
-h1 {
+
+/* the purpose of the "#page-titre > h1" is so that the style for h1
+   coming from the content can be controlled in the content
+   stylesheet (via the "h1" selector) without affecting the style
+   of the h1 in the title page */
+
+h1,  #page-titre > h1 {
   padding: 0;
   margin: 3em 0 3em 0;
   text-align: center;
   text-indent: 0;
   font-size:  120%;
-  font-weight: normal; }
+  font-style: normal;
+  font-weight: normal; 
+  page-break-after: avoid; }
 
 h1 + h1 {
   margin: -2em 0 3em 0; }
 
-h2 {
+h2, #page-titre > h2 {
   padding: 0;
   margin: 2em 0 2em 0;
   text-align: center;
   text-indent: 0;
-  font-size: 100%; 
-  font-weight: normal; }
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal; 
+  page-break-after: avoid; }
 
 h2 + h2 {
   margin: -1em 0 2em 0; }
@@ -42,7 +51,7 @@ h3 {
   margin: 2em 0 1em 0;
   text-align: center;
   text-indent: 0;
-  font-size: 100%; 
+  font-size: 100%;
   font-weight: normal;
   page-break-after: avoid; }
 
@@ -54,11 +63,13 @@ h4 {
   margin: 1em 0 1em 0;
   text-align: center;
   text-indent: 0;
-  font-size: 100%; 
+  font-size: 100%;
   font-weight: normal;
   page-break-after: avoid; }
 
-    
+
+h1:first-child, h2:first-child, h3:first-child {
+  margin-top: 5em; }      
 
 div.recto {
   page-break-before: left; }
@@ -71,8 +82,6 @@ div.cadre {
 p {
   orphans: 1;
   widows: 1;
-  margin: 0;
-  padding: 0;
   text-align: justify;
   text-indent: 1em; }
 
@@ -122,7 +131,6 @@ b {
   font-variant-caps: normal; }
 
 .smcp {
-  font-weight: 300;
   font-style: normal;
   font-variant-caps: all-small-caps; }
 
@@ -145,6 +153,24 @@ b {
 
 .cont {
   text-indent: 0; }
+
+
+
+
+.poem {
+  margin-left: 50%; }
+
+.poem h3 {
+  margin-left: -100%; }
+
+.lg {
+  margin: 1em 0 1em 0; }
+
+.l {
+  text-align: left;
+  text-indent: 0; }
+
+
 
 .l0 {
   text-indent: 0;
@@ -180,6 +206,14 @@ b {
   padding: 0 0 0 3em;
   text-align: right; }
 
+
+
+
+hr.dots {
+  content: ". . . . . . . . . . . . . . . . . . .";
+  text-indent: 0;
+  text-align-last: justify; }
+
 hr.rule {
   margin: 1em 33% 1em 33%;
   border-top: 1px solid; }
@@ -195,6 +229,8 @@ hr.ruletop {
 hr.rulebottom {
   margin: 0 0 1em 0;
   border-top: 1px solid; }
+
+
 
 
 
@@ -219,6 +255,7 @@ blockquote {
   text-align: right; }
 
 
+
 .fullpageimage-wrapper {
   height: 99%;
   width: 100%;
@@ -233,6 +270,7 @@ img.fullpageimage {
   height: 100%;
   margin: 0 auto;
 }
+
 
 img.center, img.center100 {
   display: block;
@@ -303,8 +341,10 @@ td {
   vertical-align: text-top; }
 
 sup {
-  font-size: 65%;
-  vertical-align: 0.5em;
+  font-size: 1em;
+  vertical-align: baseline;
+  font-variant-numeric: lining-nums;
+  font-variant-position: super;
   line-height: 0; }
 
 .date {
@@ -340,56 +380,6 @@ sup {
 
 blockquote .poem {
   margin: 0 0 0 2em;  }
-
-.poem-inner {
-  margin-left: auto;
-  margin-right: auto; }
-
-.lg {
-  margin: 1em 0 1em 0; }
-
-.l_, .l_0 {
-  margin: 0 0 0 4em;
-  text-align: left;
-  text-indent: -4em; }
-
-.l_1 {
-  margin: 0 0 0 5em;
-  text-align: left;
-  text-indent: -4em; }
-
-.l_2 {
-  margin: 0 0 0 6em;
-  text-align: left;
-  text-indent: -4em; }
-
-.l_3 {
-  margin: 0 0 0 7em;
-  text-align: left;
-  text-indent: -4em; }
-
-.l_4 {
-  margin: 0 0 0 8em;
-  text-align: left;
-  text-indent: -4em; }
-
-.l_5 {
-  margin: 0 0 0 9em;
-  text-align: left;
-  text-indent: -4em; }
-
-.l_c {
-  text-indent: 0em;
-  text-align: center; }
-
-.poem .r3 {
-  margin: 0 3em 0 2em;
-  text-align: right; }
-
-.poem .c {
-  margin: 0 0 0 0;
-  text-indent: 0;
-  text-align: center; }
 
 
 
@@ -561,3 +551,20 @@ table {
   margin-bottom: 0.5em;
   text-indent: 0;
   text-align: center; }
+
+
+
+
+figure > img {
+  max-width: 100%;
+  max-height: 70%;   /* to make sure there is room for the caption */
+  width: auto; }
+  
+figure > figcaption {
+  margin-top: 1em;
+  text-align: center; }
+
+* { 
+  margin: 0;
+  padding: 0;
+  border: 0; }

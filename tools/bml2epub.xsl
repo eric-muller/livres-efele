@@ -6,6 +6,7 @@
   xmlns:bml="http://efele.net/2010/ns/bml"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:opf="http://www.idpf.org/2007/opf"
+  xmlns:epub="http://www.idpf.org/2007/ops"
   xmlns="http://www.w3.org/1999/xhtml" 
   exclude-result-prefixes="bml"
   version="2.0">
@@ -52,9 +53,13 @@
   </navMap>
 </xsl:template>
 
+<xsl:template match='bml:toc' mode='nav-toc'>
+    <ol>
+      <xsl:apply-templates mode='nav-toc'/>
+    </ol>
+</xsl:template>
 
 <xsl:template match='bml:tocentry' mode='ncx'>
-  
   <navPoint id='navpoint.{generate-id()}' xmlns="http://www.daisy.org/z3986/2005/ncx/">
 
     <xsl:attribute name='playOrder'><xsl:number count='bml:tocentry' level='any'/></xsl:attribute>
@@ -84,6 +89,50 @@
   </navPoint>
 </xsl:template>
 
+<xsl:template match='bml:tocentry' mode='nav-toc'>
+  <xsl:variable name='target'>
+    <xsl:choose>
+      <xsl:when test='@idref'>
+        <xsl:variable name='targetfile'>
+          <xsl:for-each select='key("id-key",@idref)'>
+            <xsl:call-template name='file-of'/>
+          </xsl:for-each>
+        </xsl:variable>
+        <xsl:value-of select='$targetfile'/>
+        <xsl:text>.xhtml#</xsl:text>
+        <xsl:value-of select='@idref'/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:variable name='targetfile'>
+          <xsl:for-each select='key("pageref-key",concat(@v,"-",@pageref))'>
+            <xsl:call-template name='file-of'/>
+          </xsl:for-each>
+        </xsl:variable>
+        <xsl:value-of select='$targetfile'/>
+          <xsl:text>.xhtml#page.</xsl:text>
+          <xsl:value-of select='@v'/>
+          <xsl:text>.</xsl:text>
+          <xsl:value-of select='@pageref'/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:variable>
+
+  <li>
+    <a href='{$target}'><xsl:value-of select='@label'/></a>
+    <xsl:if test='bml:tocentry'>
+      <ol>
+        <xsl:apply-templates mode='nav-toc'/>
+      </ol>
+    </xsl:if>
+  </li>
+
+</xsl:template>
+
+
+
+
+
+
 <xsl:template match='bml:page-sequences' mode='ncx'>
   <pageList xmlns="http://www.daisy.org/z3986/2005/ncx/">
     <xsl:apply-templates mode='ncx'/>
@@ -109,6 +158,10 @@
   <xsl:apply-templates mode='ncx'/>
 </xsl:template>
 
+<xsl:template match='node()' mode='nav-toc'>
+  <xsl:apply-templates mode='nav-toc'/>
+</xsl:template>
+
 
 <!--================================================================ pagemap -->
 
@@ -124,6 +177,19 @@
 
 <xsl:template match='node()' mode='pagemap'>
   <xsl:apply-templates mode='pagemap'/>
+</xsl:template>
+
+
+<xsl:template match='bml:pagenum' mode='nav-page-list'>
+  <xsl:variable name='targetfile'>
+      <xsl:call-template name='file-of'/>
+  </xsl:variable>
+
+  <li><a href="{$targetfile}.xhtml#page.{@v}.{@num}"><xsl:value-of select='@num'/></a></li>
+</xsl:template>
+
+<xsl:template match='node()' mode='nav-page-list'>
+  <xsl:apply-templates mode='nav-page-list'/>
 </xsl:template>
 
 <!--=================================================================== html -->
@@ -214,41 +280,42 @@
 </xsl:template>
 
 <xsl:template match='bml:dedicace' mode='html'>
-  <div class="avantdedicace"/>
   <div>
     <xsl:call-template name='transfer-common-attributes'>
       <xsl:with-param name='class'>dedicace</xsl:with-param>
     </xsl:call-template>
       <xsl:apply-templates mode='html'/>
   </div>
-  <div class="apresdedicace"/>
 </xsl:template>
 
 
+<!--
 <xsl:template match='bml:page-sequence/bml:div/bml:poem' mode='html'>
-  <div style="margin-top:3em;">
+  <div style="margin-top:3em; margin-left: 50%;">
     <xsl:call-template name='transfer-common-attributes'>
       <xsl:with-param name='class'>poem</xsl:with-param>
     </xsl:call-template>
-    <div class="poem-inner">
       <xsl:apply-templates mode='html'/>
-    </div>
   </div>
 </xsl:template>
+-->
 
 <xsl:template match='bml:poem' mode='html'>
   <div>
     <xsl:call-template name='transfer-common-attributes'>
       <xsl:with-param name="class">poem</xsl:with-param>
     </xsl:call-template>
-    <div class="poem-inner">
-      <xsl:apply-templates mode='html'/>
-    </div>
+
+    <xsl:apply-templates mode='html'/>
   </div>
 </xsl:template>
 
 <xsl:template match='bml:lg' mode='html'>
   <div>
+    <xsl:if test='count(bml:l) &lt; 6'>
+      <xsl:attribute name='style'>page-break-inside: avoid;</xsl:attribute>
+    </xsl:if>
+
     <xsl:call-template name='transfer-common-attributes'>
       <xsl:with-param name='class'>lg</xsl:with-param>
     </xsl:call-template>
@@ -268,18 +335,23 @@
 </xsl:template>
 
 <xsl:template match='bml:l' mode='html'>
-  <p>
+  <xsl:variable name='m'
+                select='(if (@m) then @m else if (../@m) then ../@m  else ../../@m)'/>
+
+  <p style="text-indent: -{$m}em">
+
     <xsl:call-template name='transfer-common-attributes'>
-      <xsl:with-param name='class'>l_<xsl:value-of select='@indent'/></xsl:with-param>
+      <xsl:with-param name='class'>l</xsl:with-param>
     </xsl:call-template>
+
     <xsl:if test="@cont">
       <span style="visibility:hidden;">
         <xsl:call-template name='collectpreviouslines'>
           <xsl:with-param name='hidden' tunnel='yes'>true</xsl:with-param>
         </xsl:call-template>
       </span>
+      <xsl:text> </xsl:text>
     </xsl:if>
-    <xsl:text> </xsl:text>
     <xsl:apply-templates mode='html'/>
   </p>
 </xsl:template>
@@ -444,12 +516,8 @@
 </xsl:template>
 
 <xsl:template match='bml:vsep[@class="dots"]' mode="html">
-<!-- the <span> has enough width to force it to be on a second line, 
-     and 0 height so that it does not take space. Hence the content
-     before the span is a single justified line. -->
-  <p style="text-indent: 0; margin: 0; padding: 0; text-align:justify;">
+  <p style="text-indent: 0; margin: 0; padding: 0; text-align-last:justify;">
     <xsl:text>. . . . . . . . . . . . . . . . . . .</xsl:text>
-    <span style="display: inline-block; position: relative; width: 100%; height: 0;"></span>
   </p>
 </xsl:template>
 
@@ -480,25 +548,22 @@
 </xsl:template>
 
 <xsl:template match='bml:figure' mode='html'>
-  <div>
-    <xsl:call-template name='transfer-common-attributes'>
-      <xsl:with-param name="class">figure</xsl:with-param>
-    </xsl:call-template>
+  <figure>
+    <xsl:call-template name='transfer-common-attributes'/>
     <xsl:apply-templates mode='html'/>
-  </div>
+  </figure>
 </xsl:template>
 
 <xsl:template match='bml:figure/bml:img' mode='html'>
-  <p>
-    <xsl:call-template name='transfer-common-attributes'>
-      <xsl:with-param name="class">c</xsl:with-param>
-    </xsl:call-template>
-
-    <img style='max-width: {@width}; margin: 1em 0 1em 0;'
-         src='{@src}'
-         alt='{@alt}'/>
-  </p>
+  <img src='{@src}' alt='{@alt}'/>
 </xsl:template>
+
+<xsl:template match='bml:figure/bml:figcaption' mode='html'>
+  <figcaption>
+     <xsl:apply-templates mode='html'/>
+  </figcaption>
+</xsl:template>
+
 
 <xsl:template match='bml:img' mode='html'>
   <img src='{@src}'
@@ -879,8 +944,7 @@
 </xsl:template>
 
 <xsl:template match='bml:script' mode='html'>
-  <script type="{@type}">
-    <xsl:apply-templates mode='copy'/>
+  <script type="{@type}" src="{@src}">
   </script>
 </xsl:template>
 
@@ -899,6 +963,8 @@
 <!--======================================================================== / -->
 
 <xsl:template match='/'>
+  <!--_______________________________________________________ OCF 3.2 files -->
+
   <xsl:result-document
      method='text'
      href='{$targetdir}/mimetype'>
@@ -915,134 +981,65 @@
     </container>
   </xsl:result-document>
 
+  <!-- no META-INF/signatures.xml -->
+
+<!--
   <xsl:result-document
       method='xml'
-      href='{$targetdir}/META-INF/manifest.xml'>
-
-    <manifest 
-        xmlns="urn:oasis:names:tc:opendocument:xmlns:manifest:1.0">
-
-      <file-entry 
-          full-path="mimetype" 
-          media-type="text/plain"/>
-
-      <file-entry
-          full-path="META-INF/container.xml"
-          media-type="text/xml"/>
-
-      <file-entry
-          full-path="OEBPS/package.opf"
-          media-type="application/oebps-package+xml"/>
-
-      <file-entry
-          full-path="OEBPS/toc.ncx"
-          media-type="application/x-dtbncx+xml"/>
-
-      <xsl:if test='//bml:pagenum and $realpagenums = "yes"'>
-        <file-entry
-            full-path="OEBPS/page-map.xml"
-            media-type="application/oebps-page-map+xml"/>
-      </xsl:if>
-
-      <xsl:if test='$fonts = "yes"'>
-        <xsl:for-each select='tokenize (normalize-space ($epub-fonts), " ")'>
-          <file-entry
-              full-path="OEBPS/{.}"
-              media-type="application/x-font-opentype"/>
-        </xsl:for-each>
-
-        <file-entry full-path="OEBPS/style.css" media-type="text/css"/>
-        <file-entry full-path="OEBPS/style-common.css" media-type="text/css"/>
-      </xsl:if>
-
-      <xsl:if test="page-template != 'none'">
-        <file-entry
-            full-path="OEBPS/{$page-template}"
-            media-type="application/vnd.adobe-page-template+xml"/>
-      </xsl:if>
-
-      <xsl:for-each select='bml:bml/bml:page-sequences/bml:page-sequence'>
-        <xsl:variable name='targetfile'>
-          <xsl:call-template name='file-of'/>
-        </xsl:variable>
-
-        <file-entry 
-            full-path="OEBPS/{$targetfile}"
-            media-type="application/xhtml+xml"/>
-      </xsl:for-each>
-
-      <xsl:for-each select='distinct-values(bml:bml/bml:page-sequences//bml:img/@src | bml:bml//bml:initcap/@img)'>
-        <xsl:variable name='src'><xsl:value-of select='.'/></xsl:variable>
-        <file-entry full-path='OEBPS/{$src}'>
-          <xsl:attribute name='media-type'>
-            <xsl:choose>
-              <xsl:when test='ends-with($src,".png")'>image/png</xsl:when>
-              <xsl:when test='ends-with($src,".jpg")'>image/jpeg</xsl:when>
-              <xsl:when test='ends-with($src,".gif")'>image/gif</xsl:when>
-              <xsl:when test='ends-with($src,".svg")'>image/svg+xml</xsl:when>
-            </xsl:choose>
-          </xsl:attribute>
-        </file-entry>
-      </xsl:for-each>
-
-    </manifest>
+      href='{$targetdir}/META-INF/encryption.xml'>
+    <encryption xmlns='urn:oasis:names:tc:opendocument:xmlns:container'>
+      ERIC TODO
+    </encryption>
   </xsl:result-document>
+-->
 
-  <xsl:result-document
-     method='text'
-     href='{$targetdir}/OEBPS/style.css'>
-    <xsl:text>@import "style-common.css";</xsl:text>
-    <xsl:apply-templates select='document($eml,.)' mode='style.css'/>
-  </xsl:result-document>
+  <!--______________________________________________ OEBPS Packages 3.2 files -->
 
   <xsl:result-document
       method='xml'
       indent='yes'
       href='{$targetdir}/OEBPS/package.opf'>
     
-    <package unique-identifier="uniqueId" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+    <package xmlns="http://www.idpf.org/2007/opf"
+             xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article]/bml:langue}"
+             unique-identifier="uniqueId" 
+             version="3.0">
 
       <metadata>
         <xsl:apply-templates select='//bml:bml/bml:metadata' mode='dc'/>
 
-        <xsl:if test="//bml:bml/bml:cover">
-          <meta name='cover' content='{translate (//bml:bml/bml:cover/@src, "/", "-")}'/>
-        </xsl:if>
-
+        <meta property='rendition:flow'>paginated</meta>
       </metadata>
 
       <manifest>
-
-        <item href="package.opf"  id='opf'  media-type="text/xml"/>
-        <item href="toc.ncx"      id='ncx'  media-type="application/x-dtbncx+xml"/>
-
-        <xsl:if test='//bml:pagenum and $realpagenums = "yes"'>
-          <item href="page-map.xml" id="pagemap" media-type="application/oebps-page-map+xml"/>
-        </xsl:if>
+        <item id='nav' href='nav.xhtml' properties='nav' media-type='application/xhtml+xml'/>
 
         <xsl:if test='$fonts = "yes"'>
           <xsl:for-each select='tokenize (normalize-space ($epub-fonts), " ")'>
             <item
                 href="{.}"
                 id="{.}"
-                media-type="application/x-font-opentype"/>
+                media-type="application/font-sfnt"/>
           </xsl:for-each>
           
           <item href='style.css' id='style.css' media-type='text/css'/>
-          <item href='style-common.css' id='style-common.css' media-type='text/css'/>
         </xsl:if>
         
-        <xsl:if test="$page-template != 'none'">
-          <item href="{$page-template}" id='page-template'
-                media-type="application/vnd.adobe-page-template+xml"/>
-        </xsl:if>
-
+        <item href='style-common.css' id='style-common.css' media-type='text/css'/>
+        <!-- chapters -->
         <xsl:for-each select='bml:bml/bml:page-sequences/bml:page-sequence'>
           <xsl:variable name='xx'>
             <xsl:call-template name='file-of'/>
           </xsl:variable>
-          <item href="{$xx}.xhtml"     id='{$xx}' media-type="application/xhtml+xml"/>
+          <item href="{$xx}.xhtml"     id='{$xx}' media-type="application/xhtml+xml">
+            <xsl:if test='bml:script'>
+              <xsl:attribute name='properties'>scripted</xsl:attribute>
+            </xsl:if>
+          </item>
         </xsl:for-each>
+
+        <!-- images -->
+        <xsl:variable name='cover'><xsl:value-of select='bml:bml/bml:cover/@src'/></xsl:variable>
 
         <xsl:for-each select='distinct-values(bml:bml/bml:page-sequences//bml:img/@src | bml:bml/bml:cover/@src | bml:bml//bml:initcap/@img)'>
           <xsl:variable name='src'><xsl:value-of select='.'></xsl:value-of></xsl:variable>
@@ -1052,62 +1049,80 @@
               <xsl:choose>
                 <xsl:when test='ends-with($src,".png")'>image/png</xsl:when>
                 <xsl:when test='ends-with($src,".jpg")'>image/jpeg</xsl:when>
+                <xsl:when test='ends-with($src,".jpeg")'>image/jpeg</xsl:when>
                 <xsl:when test='ends-with($src,".gif")'>image/gif</xsl:when>
                 <xsl:when test='ends-with($src,".svg")'>image/svg+xml</xsl:when>
               </xsl:choose>
             </xsl:attribute>
+            <xsl:if test='$src eq $cover'>
+              <xsl:attribute name='properties'>cover-image</xsl:attribute>
+            </xsl:if>
           </item>
+        </xsl:for-each>
 
+        <!-- scripts -->
+        <xsl:for-each select='distinct-values(bml:bml//bml:script/@src)'>
+          <xsl:variable name='src'><xsl:value-of select='.'/></xsl:variable>
+          <item href='{$src}' id='{$src}' media-type='application/javascript'/>
         </xsl:for-each>
       </manifest>
 
-      <spine toc="ncx">
-        <xsl:if test='//bml:pagenum and $realpagenums = "yes"'>
-          <xsl:attribute name='page-map'>pagemap</xsl:attribute>
-        </xsl:if>
+      <spine>
         <xsl:for-each select='bml:bml/bml:page-sequences/bml:page-sequence'>
           <xsl:variable name='xx'>
             <xsl:call-template name='file-of'/>
           </xsl:variable>
-          <itemref idref="{$xx}"/>
+
+          <itemref idref="{$xx}">
+            <xsl:if test='@recto = "true"'>
+              <xsl:attribute name='properties'>page-spread-right</xsl:attribute>
+            </xsl:if>
+          </itemref>
+
         </xsl:for-each>
       </spine>
     </package>
-
   </xsl:result-document>
 
   <xsl:result-document
-      method="xml"
-      indent="no"
-      href="{$targetdir}/OEBPS/toc.ncx"
-      doctype-public="-//NISO//DTD ncx 2005-1//EN"
-      doctype-system="http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
-
-    <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+      method='xml'
+      indent='yes'
+      href='{$targetdir}/OEBPS/nav.xhtml'>
+<!--
+      doctype-public="html" 
+      doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+-->
+    <html 
+        xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article]/bml:langue}">
       <head>
-        <meta name="dtb:uid" content="{//bml:bml/bml:metadata/bml:electronique/@identificateur}"/>
-        <meta name="dtb:depth" content="1"/>
-        <meta name="dtb:totalPageCount" content="0"/>
-        <meta name="dtb:maxPageNumber" content="0"/>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+        <title>Navigation document</title>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
       </head>
-
-      <docTitle><text><xsl:value-of select='bml:bml/bml:metadata/bml:electronique/bml:titre'/></text></docTitle>
-
-      <xsl:apply-templates mode='ncx'/>
-    </ncx>
+      <body>
+        <nav epub:type='toc'>
+          <xsl:apply-templates mode='nav-toc'/>
+        </nav>
+        <xsl:if test='//bml:bml//bml:pagenum'>
+          <nav epub:type='page-list'>
+            <ol>
+              <xsl:apply-templates mode='nav-page-list'/>
+            </ol>
+          </nav>          
+        </xsl:if>
+      </body>
+    </html>
   </xsl:result-document>
 
-  <xsl:if test='//bml:pagenum and $realpagenums = "yes"'>
-    <xsl:result-document
-        method="xml"
-        indent="yes"
-        href="{$targetdir}/OEBPS/page-map.xml">
-      
-      <page-map xmlns="http://www.idf.org/2007/opf" >
-        <xsl:apply-templates mode='pagemap'/>
-      </page-map>
-    </xsl:result-document>
-  </xsl:if>
+  <!-- no longer needed or there -->
+
+  <xsl:result-document
+     method='text'
+     href='{$targetdir}/OEBPS/style.css'>
+    <xsl:text>@import "style-common.css";</xsl:text>
+    <xsl:apply-templates select='document($eml,.)' mode='style.css'/>
+  </xsl:result-document>
+
 
   <xsl:apply-templates select='bml:bml/bml:page-sequences/bml:page-sequence'
                        mode='html'/>
@@ -1122,10 +1137,11 @@
   <xsl:result-document
       method="xml"
       indent="no"
-      href="{$targetdir}/{$targetfile}.xhtml"
-      doctype-public="-//W3C//DTD XHTML 1.1//EN" 
+      href="{$targetdir}/{$targetfile}.xhtml">
+<!--
+      doctype-public="html" 
       doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-    
+-->    
     <html 
           xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article]/bml:langue}">
       <head>
@@ -1200,5 +1216,4 @@
 
 </xsl:template>
   
-</xsl:stylesheet
->
+</xsl:stylesheet>

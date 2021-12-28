@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<xsl:stylesheet 
+<xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:bml="http://efele.net/2010/ns/bml"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -12,62 +12,77 @@
 <xsl:template match='bml:metadata' mode='dc'>
 
   <dc:title id="dc_title1"><xsl:value-of select="bml:electronique/bml:titre"/></dc:title>
+  <opf:meta refines="#dc_title1" property='title-type'>main</opf:meta>
 
-<!--
-  <meta refines="#dc_title1" property='title-type'>main</meta>
-  
   <xsl:if test='bml:electronique/bml:collection'>
-    <dc:title id="dc_title2"><xsl:value-of select="bml:electronique/bml:collection/bml:titre"/></dc:title>
-    <meta refines="#dc_title2" property='title-type'>collection</meta>
+    <opf:meta property="belongs-to-collection" id="collection"><xsl:value-of select="bml:electronique/bml:collection/bml:titre"/></opf:meta>
+
     <xsl:if test='bml:electronique/bml:collection/@volume'>
-      <meta refines="#dc_title2" property='group-position'>
+      <opf:meta refines="#collection" property='group-position'>
         <xsl:value-of select='bml:electronique/bml:collection/@volume'/>
-      </meta>
+      </opf:meta>
     </xsl:if>
   </xsl:if>
--->
+
 
   <xsl:for-each select='bml:monographie/bml:auteur|bml:article/bml:auteur'>
     <xsl:element name='{if (@role = "aut") then "dc:creator"
-                        else if (@role) then "dc:contributor"
-                        else "dc:creator"}'>
-      <xsl:attribute name='opf:role'>
-        <xsl:value-of select='if (@role) then @role else "aut"'/>
-      </xsl:attribute>
-      <xsl:attribute name='opf:file-as'>
-        <xsl:value-of select='bml:nom-bibliographie'/>
-      </xsl:attribute>
+                       else if (@role) then "dc:contributor"
+                       else "dc:creator"}'>
+      <xsl:attribute name='id'><xsl:value-of select='generate-id()'/></xsl:attribute>
       <xsl:value-of select='bml:nom-couverture'/>
     </xsl:element>
+
+    <opf:meta refines='#{generate-id()}' property="role" scheme="marc:relators">
+      <xsl:value-of select='if (@role) then @role else "aut"'/>
+    </opf:meta>
+
+    <opf:meta refines='#{generate-id()}' property="file-as">
+      <xsl:value-of select='bml:nom-bibliographie'/>
+    </opf:meta>
   </xsl:for-each>
-  
+
   <xsl:for-each select='bml:monographie/bml:editeur'>
     <dc:publisher><xsl:value-of select="bml:nom"/>, <xsl:value-of select="bml:ville"/></dc:publisher>
   </xsl:for-each>
-  
+
   <dc:language><xsl:value-of select="bml:*/bml:langue"/></dc:language>
-  
+
   <dc:date>
     <xsl:apply-templates select='bml:monographie/bml:date' mode='dc'/>
     <xsl:apply-templates select='bml:article/bml:numero/bml:date' mode='dc'/>
   </dc:date>
-  
+
   <xsl:for-each select='bml:electronique/bml:producteur'>
-    <dc:contributor opf:role='bkd'><xsl:value-of select="bml:nom"/></dc:contributor>
+    <dc:contributor id='{generate-id()}'><xsl:value-of select="bml:nom"/></dc:contributor>
+    <opf:meta refines='#{generate-id()}' property='role' scheme='marc:relators'>bkd</opf:meta>
   </xsl:for-each>
-  
+
   <dc:identifier id="uniqueId">
     <xsl:value-of select="bml:electronique/@identificateur"/>
   </dc:identifier>
-  
+
+  <opf:meta property='dcterms:modified'>
+    <xsl:choose>
+      <xsl:when test='bml:electronique/@modification'>
+        <xsl:value-of select='concat(substring(bml:electronique/@modification,1.19), "Z")'/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select='concat(substring(bml:electronique/@creation,1,19), "Z")'/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </opf:meta>
+
   <xsl:for-each select='bml:volume/bml:facsimile'>
     <dc:source><xsl:value-of select='@href'/></dc:source>
   </xsl:for-each>
-  
-  <dc:relation id='catalogue-bnf'>
-    <xsl:value-of select='bml:monographie/@bnf'/>
-    <xsl:value-of select='bml:article/bml:periodique/@bnf'/>
-  </dc:relation>
+
+  <xsl:if test='bml:monographie/@bml | bml:article/bml:periodique/@bnf'>
+    <dc:relation id='catalogue-bnf'>
+      <xsl:value-of select='bml:monographie/@bnf'/>
+      <xsl:value-of select='bml:article/bml:periodique/@bnf'/>
+    </dc:relation>
+  </xsl:if>
 </xsl:template>
 
 <xsl:template match='bml:date[@iso]' mode='dc'>

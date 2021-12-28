@@ -11,6 +11,7 @@
 <xsl:include href="bml-common.xsl"/>
 
 <xsl:param name='bookFile'/>
+<xsl:param name='descPresent'/>
 <xsl:param name='desc'/>
 <xsl:param name='id'/>
 
@@ -66,13 +67,15 @@
     <xsl:apply-templates select='bml:metadata'/>
     <hr/>
 
-    <p>&#xa0;</p>
+    <xsl:if test='$descPresent = "true"'>
+      <p>&#xa0;</p>
 
-    <div style='max-width: 30em; margin-left:auto; margin-right:auto;'>
-      <xsl:for-each select='document($desc,.)'>
-        <xsl:apply-templates select='.'/>
-      </xsl:for-each>
-    </div>
+      <div style='max-width: 30em; margin-left:auto; margin-right:auto;'>
+        <xsl:for-each select='document($desc,.)'>
+          <xsl:apply-templates select='.'/>
+        </xsl:for-each>
+      </div>
+    </xsl:if>
   </body>
   </html>
 </xsl:template>
@@ -193,13 +196,7 @@
       </tr>
     </table>
     
-    <p><a href="../../index.html#formats">Tirages</a> faits le <xsl:call-template name='tirage-date'/> :
-    <a href='{$bookFile}.epub'>epub</a>
-    <xsl:text> </xsl:text>
-    <a href="{$bookFile}.mobi">kindle</a>
-    <xsl:text> </xsl:text>
-    <a href="{$bookFile}.daisy.zip">daisy</a>
-    </p>
+    <p><a href="../../index.html#formats">Epub</a> fait le <xsl:call-template name='tirage-date'/>.</p>
 
     <xsl:if test='bml:electronique/bml:collection'>
       <p>Ce livre fait partie de la collection <a href='../{bml:electronique/bml:collection/@id}/index.html'><xsl:apply-templates select='bml:electronique/bml:collection/bml:titre'/></a>.</p>
@@ -221,18 +218,12 @@
             <a href='{@href}'><xsl:value-of select='position()'/></a>
             <xsl:text> </xsl:text>
           </xsl:for-each>
-          <xsl:if test='count (bml:electronique/bml:collection) = 0'> — </xsl:if>
         </xsl:when>
         
         <xsl:when test='count (bml:volume/bml:facsimile) = 1'>
           <a href='{bml:volume/bml:facsimile/@href}'>Facsimilé</a>
-          <xsl:if test='count (bml:electronique/bml:collection) = 0'> — </xsl:if>
         </xsl:when>
       </xsl:choose>
-
-      <xsl:if test='count (bml:electronique/bml:collection) = 0'>
-        <a href='{$bookFile}.sources.zip'>Source XML</a>
-      </xsl:if>
     </p>
   </div>
 </xsl:template>
