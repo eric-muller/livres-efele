@@ -1,0 +1,2071 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+ <metadata>
+  <monographie
+    bnf="http://catalogue.bnf.fr/ark:/12148/cb314202601">
+
+   <titre>Poésies de Sully Prudhomme : 1866-1872</titre>
+
+   <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12496761k">
+    <nom-bibliographie>Prudhomme, Sully</nom-bibliographie>
+    <dates>1839-1907</dates>
+    <nom-couverture>Sully Prudhomme</nom-couverture>
+   </auteur>
+
+   <editeur>
+    <nom>A. Lemerre</nom>
+    <ville>Paris</ville>
+   </editeur>
+
+   <date>1872</date>
+   <langue>fr</langue>
+  </monographie>
+
+  <volume>
+   <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k2003925"
+         pages="n1 1-500"/>
+  </volume>
+  
+  <electronique
+    identificateur="http://efele.net/ebooks/livres/000638"
+    creation="2021-12-27T21:43:22-08:00">
+
+   <titre>Les épreuves</titre>
+
+   <producteur>
+    <nom>ÉFÉLÉ</nom>
+    <email>livres@efele.net</email>
+   </producteur>
+  </electronique>
+ </metadata>
+
+ <toc>
+   <tocentry idref="p01" label="Au lecteur"/>
+   <tocentry idref="p03" label="Amour">
+     <tocentry idref="p03" label="L’Inspiration"/>
+     <tocentry idref="p04" label="La Folle"/>
+     <tocentry idref="p05" label="Envoi"/>
+     <tocentry idref="p06" label="Les Danaides"/>
+     <tocentry idref="p07" label="Conseil"/>
+     <tocentry idref="p08" label="La Note"/>
+     <tocentry idref="p09" label="Inquiétude"/>
+     <tocentry idref="p10" label="Trahison"/>
+     <tocentry idref="p11" label="Profanation"/>
+     <tocentry idref="p12" label="Au Prodigue"/>
+     <tocentry idref="p13" label="Les Blessures"/>
+     <tocentry idref="p14" label="Fatalité"/>
+     <tocentry idref="p15" label="Ou vont-ils ?"/>
+     <tocentry idref="p16" label="L’Art sauveur"/>
+     <tocentry idref="p17" label="Sépulture"/>
+   </tocentry>
+   <tocentry idref="p18" label="Doute">
+     <tocentry idref="p18" label="Piété hardie"/>
+     <tocentry idref="p19" label="La Prière"/>
+     <tocentry idref="p20" label="Bonne Mort"/>
+     <tocentry idref="p21" label="La Grande Ourse"/>
+     <tocentry idref="p22" label="Cri perdu"/>
+     <tocentry idref="p23" label="Tout ou Rien"/>
+     <tocentry idref="p24" label="La Lutte"/>
+     <tocentry idref="p25" label="Rouge ou Noire"/>
+     <tocentry idref="p26" label="Chez l’Antiquaire"/>
+     <tocentry idref="p27" label="Les Dieux"/>
+     <tocentry idref="p28" label="Un Bonhomme"/>
+     <tocentry idref="p29" label="Scrupule"/>
+     <tocentry idref="p30" label="La Confession"/>
+     <tocentry idref="p31" label="Les Deux Vertiges"/>
+     <tocentry idref="p32" label="Le Doute"/>
+     <tocentry idref="p33" label="Tombeau"/>
+   </tocentry>
+   <tocentry idref="p34" label="Rêve">
+     <tocentry idref="p34" label="Repos"/>
+     <tocentry idref="p35" label="Sieste"/>
+     <tocentry idref="p36" label="Éther"/>
+     <tocentry idref="p37" label="Sur l’Eau"/>
+     <tocentry idref="p38" label="Le Vent"/>
+     <tocentry idref="p39" label="Hora prima"/>
+     <tocentry idref="p40" label="A Kant"/>
+     <tocentry idref="p41" label="LA Vie de loin"/>
+     <tocentry idref="p42" label="Les Ailes"/>
+     <tocentry idref="p43" label="Dernières Vacances"/>
+     <tocentry idref="p44" label="Fin du Rêve"/>
+   </tocentry>
+   <tocentry idref="p45" label="Action">
+     <tocentry idref="p45" label="Homo sum"/>
+     <tocentry idref="p46" label="La Patrie"/>
+     <tocentry idref="p47" label="Un Songe"/>
+     <tocentry idref="p48" label="L’Axe du monde"/>
+     <tocentry idref="p49" label="La Roue"/>
+     <tocentry idref="p50" label="Le Fer"/>
+     <tocentry idref="p51" label="Une Damnée"/>
+     <tocentry idref="p52" label="L’Épée"/>
+     <tocentry idref="p53" label="Aux Conscrits"/>
+     <tocentry idref="p54" label="Chagrin d’Automne"/>
+     <tocentry idref="p55" label="Dans l’Abime"/>
+     <tocentry idref="p56" label="En Avant !"/>
+     <tocentry idref="p57" label="Réalisme"/>
+     <tocentry idref="p58" label="Le Monde à nu"/>
+     <tocentry idref="p59" label="Le Rendez-vous"/>
+     <tocentry idref="p60" label="Les Téméraires"/>
+     <tocentry idref="p61" label="La Joie"/>
+     <tocentry idref="p62" label="Au Désir"/>
+     <tocentry idref="p63" label="A Auguste Brachet"/>
+   </tocentry>
+ </toc>
+
+ <cover src="images/couverture2.png" alt=""/>
+
+<page-sequences>
+<page-sequence id="p01">
+<pagenum num="3"/>
+
+<h1>AU LECTEUR</h1>
+
+<poem m="12">
+<lg>
+<l>J’avais cueilli ces fleurs sur le bord de la route</l>
+<l>Où m’ont jeté les bons et les mauvais hasards,</l>
+<l>Mais je n’osais livrer des souvenirs épars ;</l>
+<l>J’en fais une guirlande, ils plairont mieux sans doute.</l>
+</lg>
+<lg>
+<l>Fraîche encore, une rose y pleure goutte à goutte ;</l>
+<l>J’y mets une pensée aux ténébreux regards.</l>
+<l>Puis les plantes des lacs, de rêveurs nénuphars,</l>
+<l>Puis des épis naissants : ma vie y sera toute.</l>
+</lg>
+<lg>
+<l>La tienne aussi, lecteur, car les hommes entre eux</l>
+<l>Sont en cela pareils, qu’heureux ou malheureux,</l>
+<l>Ils ont pleuré d’amour et pensé sans connaître,</l>
+</lg>
+<lg>
+<l>Qu’ils ont au moins perdu vingt printemps à rêver,</l>
+<l>Et qu’enfin tous un jour ont voulu se lever</l>
+<l>Et semer quelque chose avant de disparaître.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p02">
+<pagenum num="4"/>
+
+<h1>LES ÉPREUVES</h1>
+
+<vsep class="rule"/>
+
+<h2>AMOUR — DOUTE — RÊVE — ACTION</h2>
+
+</page-sequence>
+<page-sequence id="p03">
+<pagenum num="5"/>
+
+<h1>AMOUR</h1>
+
+<vsep class="rule"/>
+
+<h2>L’INSPIRATION</h2>
+
+<poem m="12">
+<lg>
+<l>Un oiseau solitaire aux bizarres couleurs</l>
+<l>Est venu se poser sur une enfant ; mais elle,</l>
+<l>Arrachant son plumage où le prisme étincelle,</l>
+<l>De toute sa parure elle fait des douleurs.</l>
+</lg>
+<lg>
+<l>Et le duvet moelleux, plein d’intimes chaleurs,</l>
+<l>Épars, flotte au doux vent d’une bouche cruelle.</l>
+<l>Or l’oiseau, c’est mon cœur ; l’enfant coupable est celle,</l>
+<l>Celle dont je ne puis dire le nom sans pleurs.</l>
+</lg>
+<lg>
+<l>Ce jeu l’amuse, et moi j’en meurs, et j’ai la peine</l>
+<l>De voir dans le ciel vide errer sous son haleine</l>
+<l>La beauté de mon cœur pour le plaisir du sien !</l>
+</lg>
+<lg>
+<l>Elle aime à balancer mes rêves sur sa tête</l>
+<l>Par un souffle, et je suis ce qu’on nomme un poëte.</l>
+<l>Que ce souffle leur manque, et je ne suis plus rien.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p04">
+<pagenum num="6"/>
+
+<h2>LA FOLLE</h2>
+
+<poem m="12">
+<lg>
+<l>Errante, elle demande aux enfants d’alentour</l>
+<l>Une fleur qu’elle a vue un jour en Allemagne,</l>
+<l>Frêle, petite et sombre, une fleur de montagne</l>
+<l>Au parfum pénétrant comme un aveu d’amour.</l>
+</lg>
+<lg>
+<l>Elle a fait ce voyage, et depuis son retour</l>
+<l>L’incurable langueur du souvenir la gagne :</l>
+<l>Sans doute un charme étrange et mortel accompagne</l>
+<l>Cette fleur qu’elle a vue en Allemagne un jour.</l>
+</lg>
+<lg>
+<l>Elle dit qu’en baisant la corolle on devine</l>
+<l>Un autre monde, un ciel, à son odeur divine,</l>
+<l>Qu’on y sent l’âme heureuse et chère de quelqu’un.</l>
+</lg>
+<lg>
+<l>Plusieurs s’en vont chercher la fleur qu’elle demande</l>
+<l>Mais cette plante est rare et l’Allemagne est grande ;</l>
+<l>Cependant elle meurt du regret d’un parfum.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p05">
+<pagenum num="7"/>
+
+<h2>ENVOI</h2>
+
+<poem m="12">
+<lg>
+<l>Faites-vous de ces vers un intime entretien,</l>
+<l>Pardonnez-moi tous ceux où, pour la renommée,</l>
+<l>J’ai pu chanter l’amour sans vous avoir nommée,</l>
+<l>Où j’ai mis plus du cœur des autres que du mien.</l>
+</lg>
+<lg>
+<l>Mais à d’autres que vous ceux-ci ne diraient rien :</l>
+<l>La tendresse n’est là que pour vous exprimée ;</l>
+<l>A peine y verrait-on qu’une femme est aimée,</l>
+<l>Car je ne le dis pas ; et vous le sentez bien.</l>
+</lg>
+<lg>
+<l>La nuit, quand vous pleurez, la veilleuse d’albâtre</l>
+<l>Mêle une lueur douce au feu mourant de l’âtre,</l>
+<l>Et ne luit que dans l’ombre, et dès le jour pâlit.</l>
+</lg>
+<lg>
+<l>Pareils à la veilleuse et doux comme sa flamme,</l>
+<l>Ces vers, faits seulement pour la nuit de votre âme,</l>
+<l>Aussitôt pâliront si le monde les lit.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p06">
+<pagenum num="8"/>
+
+<h2>LES DANAIDES</h2>
+
+<poem m="12">
+<lg>
+<l>Toutes, portant l’amphore, une main sur la hanche,</l>
+<l>Théano, Callidie, Amymone, Agavé,</l>
+<l>Esclaves d’un labeur sans cesse inachevé,</l>
+<l>Courent du puits à l’urne où l’eau vaine s’épanche.</l>
+</lg>
+<lg>
+<l>Hélas ! le grès rugueux meurtrit l’épaule blanche,</l>
+<l>Et le bras faible est las du fardeau soulevé :</l>
+<l>— « Monstre, que nous avons nuit et jour abreuvé,</l>
+<l>O gouffre, que nous veut ta soif que rien n’étanche ? »</l>
+</lg>
+<lg>
+<l>Elles tombent, le vide épouvante leurs cœurs ;</l>
+<l>Mais la plus jeune alors, moins triste que ses sœurs,</l>
+<l>Chante, et leur rend la force et la persévérance.</l>
+</lg>
+<lg>
+<l>Tels sont l’œuvre et le sort de nos illusions :</l>
+<l>Elles tombent toujours, et la jeune Espérance</l>
+<l>Leur dit toujours : « Mes sœurs, si nous recommencions ! »</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p07">
+<pagenum num="9"/>
+
+<h2>CONSEIL</h2>
+
+<poem m="12">
+<lg>
+<l>Pour vous, enfant, le monde est une nouveauté ;</l>
+<l>De leur nid vos vertus, colombes inquiètes,</l>
+<l>Regardent en tremblant les printanières fêtes</l>
+<l>Et cherchent le secret d’y vivre en sûreté.</l>
+</lg>
+<lg>
+<l>Le voici : n’aimez l’or que pour sa pureté ;</l>
+<l>N’aimez que la candeur dans vos blanches toilettes ;</l>
+<l>Et si vous vous posez au front des violettes,</l>
+<l>Aimez la modestie en leur simple beauté.</l>
+</lg>
+<lg>
+<l>Qu’ainsi votre parure à vos yeux soit l’emblème</l>
+<l>De toutes les vertus qui font la grâce même,</l>
+<l>Ce geste aisé du cœur dont le luxe est jaloux ;</l>
+</lg>
+<lg>
+<l>Et qu’au retour d’un bal innocemment profane,</l>
+<l>Quand vous dépouillerez l’ornement qui se fane,</l>
+<l>Rien ne tombe avec lui de ce qui plut en vous.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p08">
+<pagenum num="10"/>
+
+<h2>LA NOTE</h2>
+
+<poem m="12">
+<lg>
+<l>Que n’ai-je un peu de voix ! J’ai le cruel ennui</l>
+<l>De sentir mon poëme en ma poitrine éclore,</l>
+<l>Et de ne pouvoir pas, plus créateur encore,</l>
+<l>Comme j’ai mis mon cœur, mettre mon souffle en lui.</l>
+</lg>
+<lg>
+<l>Le chant aérien laisse, après qu’il a fui,</l>
+<l>Des lèvres jusqu’au ciel un sillage sonore</l>
+<l>Où l’âme, rajeunie et plus légère, explore</l>
+<l>Les paradis anciens qu’elle pleure aujourd’hui.</l>
+</lg>
+<lg>
+<l>La note est comme une aile au pied du vers posée ;</l>
+<l>Comme l’aile des vents fait trembler la rosée,</l>
+<l>Elle le fait frémir plus sonore et plus frais.</l>
+</lg>
+<lg>
+<l>O vierges qu’effarouche un seul mot, le plus tendre,</l>
+<l>Peut-être modulé daigneriez-vous l’entendre,</l>
+<l>Vous qui l’osez chanter sans le dire jamais !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p09">
+<pagenum num="11"/>
+
+<h2>INQUIÉTUDE</h2>
+
+<poem m="12">
+<lg>
+<l>Pour elle désormais je veux être si bon,</l>
+<l>Si bon, qu’elle se sache aveuglément chérie ;</l>
+<l>Je ne lui dirai plus : « Il faut, » mais : « Je t’en prie... »</l>
+<l>Et je prendrai les torts, lui laissant le pardon.</l>
+</lg>
+<lg>
+<l>Mais quel âpre murmure au fond de moi dit : « Non ! »</l>
+<l>Contre un servile amour toute ma fierté crie.</l>
+<l>Non ! je veux qu’étant mienne, à ma guise pétrie,</l>
+<l>Ce soit elle, et non moi, qui craigne l’abandon.</l>
+</lg>
+<lg>
+<l>Tantôt je lui découvre en entier ma faiblesse,</l>
+<l>Tantôt, rebelle injuste et jaloux, je la blesse</l>
+<l>Et je sens dans mon cœur sourdre la cruauté.</l>
+</lg>
+<lg>
+<l>Elle ne comprend pas, et je lui semble infâme.</l>
+<l>Oh ! que je serais doux si tu n’étais qu’une âme !</l>
+<l>Ce qui me rend méchant, vois-tu, c’est ta beauté.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p10">
+<pagenum num="12"/>
+
+<h2>TRAHISON</h2>
+
+<poem m="12">
+<lg>
+<l>Quand on a tant aimé, c’est un rude réveil !</l>
+<l>Tu t’es cru dans un nid semblable aux nids des haies,</l>
+<l>Caché, sûr et profond. Vain songe ! Tu t’effraies</l>
+<l>D’avoir osé dormir ce dangereux sommeil.</l>
+</lg>
+<lg>
+<l>La foi, bonne ou mauvaise, a donc un front pareil !</l>
+<l>Tu ne veux même plus croire les larmes vraies ;</l>
+<l>Et si l’amitié cherche à te panser tes plaies,</l>
+<l>Ton désespoir viril arrache l’appareil.</l>
+</lg>
+<lg>
+<l>Tu goûtes l’âcreté de l’insulte récente :</l>
+<l>Gonflé de sa douleur en niant qu’il la sente,</l>
+<l>Ton grand cœur se console à la bien soutenir.</l>
+</lg>
+<lg>
+<l>Mais, si tu veux garder vivace ta rancune,</l>
+<l>Marche au soleil, et fuis les pâles clairs de lune,</l>
+<l>Et crains plus que la mort ton plus doux souvenir.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p11">
+<pagenum num="13"/>
+
+<h2>PROFANATION</h2>
+
+<poem m="12">
+<lg>
+<l>Beauté qui rends pareils à des temples les corps,</l>
+<l>Es-tu donc à ce point par les dieux conspuée</l>
+<l>De descendre du ciel sur la prostituée,</l>
+<l>De prêter ta splendeur vivante à des cœurs morts ?</l>
+</lg>
+<lg>
+<l>Faite pour revêtir les cœurs chastes et forts,</l>
+<l>D’habitants à ta taille es-tu si dénuée ?</l>
+<l>Et quelle esclave es-tu pour t’être habituée,</l>
+<l>Souriante, à masquer l’opprobre et ses remords ?</l>
+</lg>
+<lg>
+<l>Beauté, retourne au ciel, va-t’en, tu te profanes ;</l>
+<l>Fuis ; et n’avilis plus aux pieds des courtisanes</l>
+<l>Le génie et l’amour qui n’y cherchent que toi.</l>
+</lg>
+<lg>
+<l>Déserte pour jamais le blanc troupeau des femmes,</l>
+<l>Ou qu’enfin, se moulant sur le nu de leurs âmes,</l>
+<l>La forme leur inflige un front de bonne foi !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p12">
+<pagenum num="14"/>
+
+<h2>AU PRODIGUE</h2>
+
+<poem m="12">
+<lg>
+<l>Le cœur n’est pas fragile, il est fait d’or solide :</l>
+<l>Plût aux dieux que, pareil à l’amphore de grès,</l>
+<l>Il ne servît qu’un temps et fût poussière après !</l>
+<l>Mais il ne s’use point, ô douleur ! il se vide !</l>
+</lg>
+<lg>
+<l>Au bord, la volupté rôde toujours avide :</l>
+<l>Frère, ne permets pas qu’elle y boive à longs traits ;</l>
+<l>Garde sévèrement ce qu’il contient de frais,</l>
+<l>Trésor vingt ans accru qu’une nuit dilapide.</l>
+</lg>
+<lg>
+<l>Sois avare de lui. Malheur à l’insensé</l>
+<l>Qui, portant ce beau vase aux rouges bacchanales,</l>
+<l>En perd le baume aux pieds des idoles banales !</l>
+</lg>
+<lg>
+<l>Il sent un jour, sincère et traître fiancé,</l>
+<l>Les lèvres d’une vierge à son cœur se suspendre,</l>
+<l>Et son cœur grand ouvert n’a plus rien à répandre.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p13">
+<pagenum num="15"/>
+
+<h2>LES BLESSURES</h2>
+
+<poem m="12">
+<lg>
+<l>Le soldat frappé tombe en poussant de grands cris ;</l>
+<l>On l’emporte ; le baume assainit la blessure,</l>
+<l>Elle se ferme un jour ; il marche, il se rassure,</l>
+<l>Et, par un beau soleil, il croit ses maux guéris.</l>
+</lg>
+<lg>
+<l>Mais, au premier retour d’un ciel humide et gris,</l>
+<l>De l’ancienne douleur il ressent la morsure ;</l>
+<l>Alors la guérison ne lui paraît pas sûre,</l>
+<l>Le souvenir du fer gît dans ses flancs meurtris.</l>
+</lg>
+<lg>
+<l>Ainsi, selon le temps qu’il fait dans ma pensée,</l>
+<l>A la place où mon âme autrefois fut blessée</l>
+<l>Il est un renouveau d’angoisses que je crains ;</l>
+</lg>
+<lg>
+<l>Une larme, un chant triste, un seul mot dans un livre,</l>
+<l>Nuage au ciel limpide où je me plais à vivre,</l>
+<l>Me fait sentir au cœur la dent des vieux chagrins.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p14">
+<pagenum num="16"/>
+
+<h2>FATALITÉ</h2>
+
+<poem m="12">
+<lg>
+<l>Que n’ai-je appris l’amour sous un regard moins beau !</l>
+<l>Je n’aurais pas traîné si longtemps sur la terre</l>
+<l>Cet âpre souvenir, le seul que rien n’altère,</l>
+<l>Et qui, le plus lointain, me soit toujours nouveau.</l>
+</lg>
+<lg>
+<l>Hélas ! je ne peux pas souffler comme un flambeau</l>
+<l>L’œil bleu pâle qui luit dans mon cœur solitaire ;</l>
+<l>On ne se remplit pas d’une nuit volontaire,</l>
+<l>Pas même en se voilant des ombres du tombeau.</l>
+</lg>
+<lg>
+<l>Que n’ai-je, comme eux tous, aimé d’abord la grâce,</l>
+<l>Non la grande beauté qui fait mal, qui dépasse</l>
+<l>L’horizon du désir et la force du cœur !</l>
+</lg>
+<lg>
+<l>J’eusse aimé librement selon ma fantaisie ;</l>
+<l>Mais l’amante que j’ai, je ne l’ai pas choisie,</l>
+<l>Je ne pourrais pas plus la changer que ma sœur.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p15">
+<pagenum num="17"/>
+
+<h2>OU VONT-ILS ?</h2>
+
+<poem m="12">
+<lg>
+<l>Ceux qui sont morts d’amour ne montent pas au ciel :</l>
+<l>Ils n’auraient plus les soirs, les sentiers, les ravines,</l>
+<l>Et ne goûteraient pas, aux demeures divines,</l>
+<l>Un miel qui du baiser pût effacer le miel.</l>
+</lg>
+<lg>
+<l>Ils ne descendent pas dans l’enfer éternel :</l>
+<l>Car ils se sont brûlés aux lèvres purpurines,</l>
+<l>Et l’ongle des démons fouille moins les poitrines</l>
+<l>Que le doute incurable et le dédain cruel.</l>
+</lg>
+<lg>
+<l>Où vont-ils ? Quels plaisirs, quelles douleurs suprêmes</l>
+<l>Pour ceux-là, si les cœurs au tombeau sont les mêmes,</l>
+<l>Passeront les douleurs et les plaisirs sentis ?</l>
+</lg>
+<lg>
+<l>Comme ils ont eu l’enfer et le ciel dans leur vie,</l>
+<l>L’infini qu’on redoute et celui qu’on envie,</l>
+<l>Ils sont morts jusqu’à l’âme, ils sont anéantis.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p16">
+<pagenum num="18"/>
+
+<h2>L’ART SAUVEUR</h2>
+
+<poem m="12">
+<lg>
+<l>S’il n’était rien de bleu que le ciel et la mer,</l>
+<l>De blond que les épis, de rose que les roses,</l>
+<l>S’il n’était de beauté qu’aux insensibles choses,</l>
+<l>Le plaisir d’admirer ne serait point amer.</l>
+</lg>
+<lg>
+<l>Mais avec l’océan, la campagne et l’éther,</l>
+<l>Des formes d’un attrait douloureux sont écloses ;</l>
+<l>Le charme des regards, des sourires, des poses,</l>
+<l>Mord trop avant dans l’âme, ô femme ! il est trop cher.</l>
+</lg>
+<lg>
+<l>Nous t’aimons, et de là les douleurs infinies :</l>
+<l>Car Dieu, qui fit la grâce avec des harmonies,</l>
+<l>Fit l’amour d’un soupir qui n’est pas mutuel.</l>
+</lg>
+<lg>
+<l>Mais je veux, revêtant d’art sacré pour armure,</l>
+<l>Voir des lèvres, des yeux, l’or d’une chevelure,</l>
+<l>Comme l’épi, la rose, et la mer, et le ciel.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p17">
+<pagenum num="19"/>
+
+<h2>SÉPULTURE</h2>
+
+<poem m="12">
+<lg>
+<l>Ils m’ont dit : « Le secret est la marque des forts :</l>
+<l>Tu n’as pas respecté la peine de ta vie,</l>
+<l>Tu ne l’as point aux yeux stoïquement ravie. »</l>
+<l>Ah ! combien mes aveux m’ont coûté plus d’efforts !</l>
+</lg>
+<lg>
+<l>Pour sauver une forme éphémère et chérie,</l>
+<l>Le profane embaumeur, troublé, mais sans remords,</l>
+<l>Plongeant sa main hardie aux entrailles des morts,</l>
+<l>Y dépose avec art les parfums de Syrie.</l>
+</lg>
+<lg>
+<l>Et moi, du deuil aussi je me suis fait un art :</l>
+<l>Mes vers, plus pénétrants que la myrrhe et le nard,</l>
+<l>Conserveront pour moi ma jeunesse amoureuse.</l>
+</lg>
+<lg>
+<l>Dans la tombe qu’au fond de mon cœur je lui creuse,</l>
+<l>En sauvant sa fraîcheur j’ai voulu l’enfermer,</l>
+<l>Et j’ai dû malgré moi l’ouvrir pour l’embaumer.</l>
+</lg>
+
+</poem>
+<pagenum num="20"/>
+</page-sequence>
+<page-sequence id="p18">
+<pagenum num="21"/>
+
+<h1>DOUTE</h1>
+
+<vsep class="rule"/>
+
+<h2>PIÉTÉ HARDIE</h2>
+
+<poem m="12">
+<lg>
+<l>Vrai Dieu, si quelque part dans un monde écarté</l>
+<l>J’eusse grandi tout seul, nourri par une chèvre,</l>
+<l>Sans maîtres, bégayant du cœur et de la lèvre,</l>
+<l>Par l’esprit et les yeux épelant la clarté,</l>
+</lg>
+<lg>
+<l>J’aurais pu dans tes bras jouir en liberté</l>
+<l>Des robustes plaisirs dont l’étude me sèvre ;</l>
+<l>Religieux debout, et curieux sans fièvre,</l>
+<l>Je n’aurais pas perdu la paix et la fierté.</l>
+</lg>
+<lg>
+<l>Mais ils sont venus tous s’acharner sur mon âme.</l>
+<l>Ils me rendent aveugle au jour qui te proclame</l>
+<l>Et n’agitent en moi que des flambeaux obscurs.</l>
+</lg>
+<lg>
+<l>Tes chemins sont barrés de tant de sacrés murs,</l>
+<l>Qu’à peine, en sapant tout sur mes pas, te verrai-je,</l>
+<l>Et que ma piété ressemble au sacrilège !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p19">
+<pagenum num="22"/>
+
+<h2>LA PRIÈRE</h2>
+
+<poem m="12">
+<lg>
+<l>Je voudrais bien prier, je suis plein de soupirs !</l>
+<l>Ma cruelle raison veut que je les contienne.</l>
+<l>Ni les vœux suppliants d’une mère chrétienne,</l>
+<l>Ni l’exemple des saints, ni le sang des martyrs,</l>
+</lg>
+<lg>
+<l>Ni mon besoin d’aimer, ni mes grands repentirs,</l>
+<l>Ni mes pleurs, n’obtiendront que la foi me revienne.</l>
+<l>C’est une angoisse impie et sainte que la mienne :</l>
+<l>Mon doute insulte en moi le Dieu de mes désirs.</l>
+</lg>
+<lg>
+<l>Pourtant je veux prier, je suis trop solitaire ;</l>
+<l>Voici que j’ai posé mes deux genoux à terre :</l>
+<l>Je vous attends, Seigneur ; Seigneur, êtes-vous là ?</l>
+</lg>
+<lg>
+<l>J’ai beau joindre les mains, et, le front sur la Bible,</l>
+<l>Redire le Credo que ma bouche épela,</l>
+<l>Je ne sens rien du tout devant moi. C’est horrible.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p20">
+<pagenum num="23"/>
+
+<h2>BONNE MORT</h2>
+
+<poem m="12">
+<lg>
+<l>Le Phédon jette en l’âme un céleste reflet,</l>
+<l>Mais rien n’est plus suave au cœur que l’Évangile.</l>
+<l>Délicat embaumeur de la raison fragile,</l>
+<l>Il sent la myrrhe, il coule aussi doux que le lait.</l>
+</lg>
+<lg>
+<l>Dans ses pures leçons rien n’est prouvé ; tout plaît :</l>
+<l>Le bon Samaritain qui prodigue son huile,</l>
+<l>L’héroïsme indulgent pour la plèbe servile,</l>
+<l>L’âme offerte à l’épreuve et la joue au soufflet.</l>
+</lg>
+<lg>
+<l>On dit que les mourants ont foi dans ce beau livre :</l>
+<l>Quand la raison fléchit, il apaise, il enivre,</l>
+<l>Et l’agonie y trouve un généreux soutien.</l>
+</lg>
+<lg>
+<l>Prêtre, tu mouilleras mon front qui te résiste ;</l>
+<l>Trop faible pour douter, je m’en irai moins triste</l>
+<l>Dans le néant peut-être, avec l’espoir chrétien.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p21">
+<pagenum num="24"/>
+
+<h2>LA GRANDE OURSE</h2>
+
+<poem m="12">
+<lg>
+<l>La Grande Ourse, archipel de l’Océan sans bords,</l>
+<l>Scintillait bien avant qu’elle fût regardée,</l>
+<l>Bien avant qu’il errât des pâtres en Chaldée,</l>
+<l>Et que l’âme anxieuse eût habité les corps ;</l>
+</lg>
+<lg>
+<l>D’innombrables vivants contemplent depuis lors</l>
+<l>Sa lointaine lueur aveuglément dardée ;</l>
+<l>Indifférente aux yeux qui l’auront obsédée,</l>
+<l>La Grande Ourse luira sur le dernier des morts.</l>
+</lg>
+<lg>
+<l>Tu n’as pas l’air chrétien, le croyant s’en étonne,</l>
+<l>O figure fatale, exacte et monotone,</l>
+<l>Pareille à sept clous d’or plantés dans un drap noir.</l>
+</lg>
+<lg>
+<l>Ta précise lenteur et ta froide lumière</l>
+<l>Déconcertent la foi : c’est toi qui la première</l>
+<l>M’as fait examiner mes prières du soir.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p22">
+<pagenum num="25"/>
+
+<h2>CRI PERDU</h2>
+
+<poem m="12">
+<lg>
+<l>Quelqu’un m’est apparu très-loin dans le passé :</l>
+<l>C’était un ouvrier des hautes Pyramides,</l>
+<l>Adolescent perdu dans ces foules timides</l>
+<l>Qu’écrasait le granit pour Chéops entassé.</l>
+</lg>
+<lg>
+<l>Or ses genoux tremblaient ; il pliait, harassé</l>
+<l>Sous la pierre, surcroît au poids des cieux torrides ;</l>
+<l>L’effort gonflait son front et le creusait de rides ;</l>
+<l>Il cria tout à coup comme un arbre cassé.</l>
+</lg>
+<lg>
+<l>Ce cri fit frémir l’air, ébranla l’éther sombre,</l>
+<l>Monta, puis atteignit les étoiles sans nombre</l>
+<l>Où l’astrologue lit les jeux tristes du sort ;</l>
+</lg>
+<lg>
+<l>Il monte, il va, cherchant les dieux et la justice,</l>
+<l>Et depuis trois mille ans sous l’énorme bâtisse,</l>
+<l>Dans sa gloire, Chéops inaltérable dort.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p23">
+<pagenum num="26"/>
+
+<h2>TOUT OU RIEN</h2>
+
+<poem m="12">
+<lg>
+<l>J’ai deux tentations, fortes également,</l>
+<l>Le duvet de la rose et le crin du cilice :</l>
+<l>Une rose du moins qui jamais ne se plisse,</l>
+<l>Un cilice qui morde opiniâtrement ;</l>
+</lg>
+<lg>
+<l>Car les répits ne font qu’attiser le tourment,</l>
+<l>Et le plus léger trouble est le pire supplice,</l>
+<l>S’il traverse la vie aux heures de délice :</l>
+<l>Plutôt le franc malheur que le bonheur qui ment !</l>
+</lg>
+<lg>
+<l>Un jeûne incorruptible ou bien l’ivresse entière !</l>
+<l>Maintenir vierge en soi l’horreur de la matière,</l>
+<l>Ou, moins beau, sans remords en épuiser l’amour !</l>
+</lg>
+<lg>
+<l>Mais, pur et vil, je sens le charbon d’Isaïe</l>
+<l>Et le trop cher baiser de la femme ennemie</l>
+<l>Châtier ou flatter mes lèvres tour à tour.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p24">
+<pagenum num="27"/>
+
+<h2>LA LUTTE</h2>
+
+<poem m="12">
+<lg>
+<l>Chaque nuit, tourmenté par un doute nouveau,</l>
+<l>Je provoque le sphinx, et j’affirme et je nie...</l>
+<l>Plus terrible se dresse aux heures d’insomnie</l>
+<l>L’inconnu monstrueux qui hante mon cerveau.</l>
+</lg>
+<lg>
+<l>En silence, les yeux grands ouverts, sans flambeau,</l>
+<l>Sur le géant je tente une étreinte infinie,</l>
+<l>Et dans mon lit étroit, d’où la joie est bannie,</l>
+<l>Je lutte sans bouger comme dans un tombeau.</l>
+</lg>
+<lg>
+<l>Parfois ma mère vient, lève sur moi sa lampe</l>
+<l>Et me dit, en voyant la sueur qui me trempe :</l>
+<l>« Souffres-tu, mon enfant ? Pourquoi ne dors-tu pas ? »</l>
+</lg>
+<lg>
+<l>Je lui réponds, ému de sa bonté chagrine,</l>
+<l>Une main sur mon front, l’autre sur ma poitrine :</l>
+<l>Avec Dieu cette nuit, mère, j’ai des combats, »</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p25">
+<pagenum num="28"/>
+
+<h2>ROUGE OU NOIRE</h2>
+
+<poem m="12">
+<lg>
+<l>Pascal ! pour mon salut à quel dieu dois-je croire</l>
+<l>— Tu doutes ? crois au mien, c’est le moins hasardeux.</l>
+<l>Il est ou non : forcé d’avouer l’un des deux,</l>
+<l>Parie. A l’infini court la rouge ou la noire.</l>
+</lg>
+<lg>
+<l>Tu risques le plaisir pour l’immortelle gloire ;</l>
+<l>Contre l’éternité, le plus grand des enjeux,</l>
+<l>N’exposer qu’une vie est certe avantageux</l>
+<l>La plus sûre vaut moins qu’un ciel aléatoire.</l>
+</lg>
+<lg>
+<l>— Pitié ! maître, j’avance et retire ma main ;</l>
+<l>Joueur que le tapis sollicite et repousse,</l>
+<l>J’hésite, tant la vie est légitime et douce !</l>
+</lg>
+<lg>
+<l>Tout mon être répugne à ce choix inhumain ;</l>
+<l>Le cœur a ses raisons où la raison s’abîme,</l>
+<l>Et ton calcul est faux si je m’en sens victime.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p26">
+<pagenum num="29"/>
+
+<h2>CHEZ L’ANTIQUAIRE</h2>
+
+<poem m="12">
+<lg>
+<l>Entre mille débris au hasard amassés,</l>
+<l>Un Christ en vieil ivoire, exposé dans la rue,</l>
+<l>Jette l’adieu suprême à sa foi disparue</l>
+<l>Et sent fuir ses genoux infiniment lassés.</l>
+</lg>
+<lg>
+<l>En face, une Vénus, gloire des arts passés,</l>
+<l>Sort de la draperie à ses flancs retenue,</l>
+<l>Naturelle et divine, offrant sa beauté nue,</l>
+<l>Sans bras, pareille aux troncs de lierres enlacés.</l>
+</lg>
+<lg>
+<l>La Volupté sereine et l’immense Tendresse</l>
+<l>Aux passants affairés n’offrent plus de caresse :</l>
+<l>L’une a les bras cloués, l’autre a les bras rompus.</l>
+</lg>
+<lg>
+<l>L’homme, sans charité, revend ce qu’il achète ;</l>
+<l>La femme lui marchande une nuit inquiète :</l>
+<l>Les beaux embrassements ne se prodiguent plus.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p27">
+<pagenum num="30"/>
+
+<h2>LES DIEUX</h2>
+
+<poem m="12">
+<lg>
+<l>Le dieu du laboureur est comme un très-vieux roi</l>
+<l>De chair et d’os, seigneur du champ qu’il ensemence ;</l>
+<l>Le dieu de son curé règne aussi, mais immense,</l>
+<l>Trois fois unique, esprit, fils et père de soi ;</l>
+</lg>
+<lg>
+<l>Le déiste contemple un pur je ne sais quoi</l>
+<l>Lointain, par qui le monde, en s’ordonnant, commence ;</l>
+<l>Et le savant qui rit de leur sainte démence</l>
+<l>Nomme son dieu Nature et n’en fait qu’une loi ;</l>
+</lg>
+<lg>
+<l>Kant ne sait même plus si quelque chose existe,</l>
+<l>Et Fichte, usurpateur du temple vide et triste,</l>
+<l>Se divinise afin qu’un dieu reste debout.</l>
+</lg>
+<lg>
+<l>Ainsi roulent toujours, du néant aux idoles,</l>
+<l>Du blasphème aux credo, les multitudes folles !</l>
+<l>Dieu n’est pas rien, mais Dieu n’est personne : il est Tout.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p28">
+<pagenum num="31"/>
+
+<h2>UN BONHOMME</h2>
+
+<poem m="12">
+<lg>
+<l>C’était un homme doux, de chétive santé,</l>
+<l>Qui, tout en polissant des verres de lunettes,</l>
+<l>Mit l’essence divine en formules très-nettes,</l>
+<l>Si nettes que le monde en fut épouvanté.</l>
+</lg>
+<lg>
+<l>Ce sage démontrait avec simplicité</l>
+<l>Que le bien et le mal sont d’antiques sornettes,</l>
+<l>Et les libres mortels d’humbles marionnettes</l>
+<l>Dont le fil est aux mains de la nécessité.</l>
+</lg>
+<lg>
+<l>Pieux admirateur de la sainte Écriture,</l>
+<l>Il n’y voulait pas voir un dieu contre nature ;</l>
+<l>A quoi la synagogue en rage s’opposa.</l>
+</lg>
+<lg>
+<l>Loin d’elle, polissant des verres de lunettes,</l>
+<l>Il aidait les savants à compter les planètes.</l>
+<l>C’était un homme doux, Baruch de Spinoza.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p29">
+<pagenum num="32"/>
+
+<h2>SCRUPULE</h2>
+
+<poem m="12">
+<lg>
+<l>Vous êtes ignorants comme moi, plus encore,</l>
+<l>Innombrables soleils ! La raison de vos lois</l>
+<l>Vous échappe, et, soumis, vous prodiguez sans choix</l>
+<l>Les vibrantes clartés dont l’abîme se dore.</l>
+</lg>
+<lg>
+<l>Tu ne sais rien non plus, rose qui viens d’éclore,</l>
+<l>Et vous ne savez rien, zéphyrs, fleuves et bois !</l>
+<l>Et le monde invisible et celui que je vois</l>
+<l>Ne savent rien d’un but et d’un plan que j’ignore.</l>
+</lg>
+<lg>
+<l>L’ignorance est partout ; et la divinité,</l>
+<l>Ni dans l’atome obscur, ni dans l’humanité,</l>
+<l>Ne se lève en criant : « Je suis et me révèle ! »</l>
+</lg>
+<lg>
+<l>Étrange vérité, pénible à concevoir,</l>
+<l>Gênante pour le cœur comme pour la cervelle,</l>
+<l>Que l’Univers, le Tout, soit Dieu sans le savoir !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p30">
+<pagenum num="33"/>
+
+<h2>LA CONFESSION</h2>
+
+<poem m="12">
+<lg>
+<l>Un de mes grands péchés me suivait pas à pas,</l>
+<l>Se plaignant de vieillir dans un lâche mystère ;</l>
+<l>Sous la dent du remords il ne se pouvait taire,</l>
+<l>Et parlait haut tout seul quand je n’y veillais pas.</l>
+</lg>
+<lg>
+<l>Voulant du lourd secret dont je me sentais las</l>
+<l>Me soulager au sein d’un bon dépositaire,</l>
+<l>J’ai, pour trouver la nuit, fait un trou dans la terre,</l>
+<l>Et là j’ai confessé ma faute à Dieu, tout bas.</l>
+</lg>
+<lg>
+<l>Heureux le meurtrier qu’absout la main d’un prêtre :</l>
+<l>Il ne voit plus le sang épongé reparaître</l>
+<l>A l’heure ténébreuse où le coup fut donné !</l>
+</lg>
+<lg>
+<l>J’ai dit un moindre crime à l’oreille divine ;</l>
+<l>Où je l’ai dit, la terre a fait croître une épine,</l>
+<l>Et je n’ai jamais su si j’étais pardonné.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p31">
+<pagenum num="34"/>
+
+<h2>LES DEUX VERTIGES</h2>
+
+<poem m="12">
+<lg>
+<l>Le voyageur, debout sur la plus haute cime,</l>
+<l>A travers le rideau d’une rose vapeur,</l>
+<l>Mesure avec la sonde immense de la peur</l>
+<l>Sous ses genoux tremblants la fuite de l’abîme</l>
+</lg>
+<lg>
+<l>De ce besoin de voir téméraire victime,</l>
+<l>Du haut de la raison je sonde avec stupeur</l>
+<l>Le dessous infini de ce monde trompeur,</l>
+<l>Et je traîne avec moi partout mon gouffre intime.</l>
+</lg>
+<lg>
+<l>L’abîme est différent, mais pareil notre émoi :</l>
+<l>Le grand vide, attirant le voyageur, l’étonne ;</l>
+<l>Sollicité par Dieu, j’ai des éclairs d’effroi !</l>
+</lg>
+<lg>
+<l>Mais lui, par son vertige il ne surprend personne :</l>
+<l>On trouve naturel qu’il pâlissent et frissonne ;</l>
+<l>Et moi, j’ai l’air d’un fou ; je ne sais pas pourquoi.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p32">
+<pagenum num="35"/>
+
+<h2>LE DOUTE</h2>
+
+<poem m="12">
+<lg>
+<l>La blanche Vérité dort au fond d’un grand puits.</l>
+<l>Plus d’un fuit cet abîme ou n’y prend jamais garde ;</l>
+<l>Moi, par un sombre amour, tout seul je m’y hasarde,</l>
+<l>J’y descends à travers la plus noire des nuits.</l>
+</lg>
+<lg>
+<l>Et j’entraîne le câble aussi loin que je puis.</l>
+<l>Or, je l’ai déroulé jusqu’au bout : je regarde,</l>
+<l>Et, les bras étendus, la prunelle hagarde,</l>
+<l>J’oscille sans rien voir ni rencontrer d’appuis,</l>
+</lg>
+<lg>
+<l>Elle est là cependant, je l’entends qui respire ;</l>
+<l>Mais, pendule éternel que sa puissance attire,</l>
+<l>Je passe et je repasse et tâte l’ombre en vain.</l>
+</lg>
+<lg>
+<l>Ne pourrai-je allonger cette corde flottante,</l>
+<l>Ni remonter au jour dont la gaîté me tente ?</l>
+<l>Et dois-je dans l’horreur me balancer sans fin ?</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p33">
+<pagenum num="36"/>
+
+<h2>TOMBEAU</h2>
+
+<poem m="12">
+<lg>
+<l>L’homme qu’on a cru mort, de son sommeil profond</l>
+<l>S’éveille. Un frisson court dans sa chair engourdie ;</l>
+<l>Il appelle. Personne ! Et sa plainte assourdie</l>
+<l>Lui semble retomber d’un étrange plafond.</l>
+</lg>
+<lg>
+<l>Seul dans le vide épais que les ténèbres font,</l>
+<l>Il écoute, et, roulant pleine de léthargie</l>
+<l>Sa prunelle par l’ombre et la peur élargie,</l>
+<l>Il sonde éperdument l’obscurité sans fond.</l>
+</lg>
+<lg>
+<l>Persone ! A se dresser faible et lent il s’apprête,</l>
+<l>Et voilà que des pieds, des reins et de la tête,</l>
+<l>Horreur ! il a heurté six planches à la fois.</l>
+</lg>
+<lg>
+<l>Dors, ne te dresse plus vers le haut empyrée,</l>
+<l>O mon âme, retiens ton essor et ta voix</l>
+<l>Pour ne pas te sentir toute vive enterrée.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p34">
+<pagenum num="37"/>
+
+<h1>RÊVE</h1>
+
+<vsep class="rule"/>
+
+<h2>REPOS</h2>
+
+<poem m="12">
+<lg>
+<l>Ni l’amour ni les dieux ! Ce double mal nous tue.</l>
+<l>Je ne poursuivrai plus la guêpe du baiser,</l>
+<l>Et, las d’approfondir, je veux me reposer</l>
+<l>De l’ingrate besogne où mon front s’évertue.</l>
+</lg>
+<lg>
+<l>Ni l’amour ni les dieux ! Qu’enfin je m’habitue</l>
+<l>A ne sentir jamais le désir m’embraser,</l>
+<l>Ni l’éternel secret des choses m’écraser !</l>
+<l>Qu’enfin je sois heureux ! Que je vive en statue,</l>
+</lg>
+<lg>
+<l>Comme un Terme habitant sa gaine avec plaisir !</l>
+<l>Il emprunte une vie auguste à la nature ;</l>
+<l>Une mousse lui fait sa verte chevelure ;</l>
+</lg>
+<lg>
+<l>Un liseron lui fait des lèvres sans soupir ;</l>
+<l>Une feuille est son cœur ; un lierre ami, ses hanches ;</l>
+<l>Et ses yeux souriants sont faits de deux pervenches.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p35">
+<pagenum num="38"/>
+
+<h2>SIESTE</h2>
+
+<poem m="12">
+<lg>
+<l>Je passerai l’été dans l’herbe, sur le dos,</l>
+<l>La nuque dans les mains, les paupières mi-closes,</l>
+<l>Sans mêler un soupir à l’haleine des roses</l>
+<l>Ni troubler le sommeil léger des clairs échos.</l>
+</lg>
+<lg>
+<l>Sans peur je livrerai mon sang, ma chair, mes os,</l>
+<l>Mon être, au cours de l’heure et des métamorphoses,</l>
+<l>Calme et laissant la foule innombrable des causes</l>
+<l>Dans l’ordre universel assurer mon repos.</l>
+</lg>
+<lg>
+<l>Sous le pavillon d’or que le soleil déploie,</l>
+<l>Mes yeux boiront l’éther, dont l’immuable joie</l>
+<l>Filtrera dans mon âme au travers de mes cils,</l>
+</lg>
+<lg>
+<l>Et je dirai, songeant aux hommes : « Que font-ils ? »</l>
+<l>Et le ressouvenir des amours et des haines</l>
+<l>Me bercera, pareil au bruit des mers lointaines.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p36">
+<pagenum num="39"/>
+
+<h2>ÉTHER</h2>
+
+<poem m="12">
+<lg>
+<l>Quand on est sur la terre étendu sans bouger,</l>
+<l>Le ciel paraît plus haut, sa splendeur plus sereine ;</l>
+<l>On aime à voir, au gré d’une insensible haleine,</l>
+<l>Dans l’air sublime fuir un nuage léger ;</l>
+</lg>
+<lg>
+<l>Il est tout ce qu’on veut : la neige d’un verger,</l>
+<l>Un archange qui plane, une écharpe qui traîne,</l>
+<l>Ou le lait bouillonnant d’une coupe trop pleine ;</l>
+<l>On le voit différent sans l’avoir vu changer.</l>
+</lg>
+<lg>
+<l>Puis un vague lambeau lentement s’en détache,</l>
+<l>S’efface, puis un autre, et l’azur luit sans tache,</l>
+<l>Plus vif, comme l’acier qu’un souffle avait terni.</l>
+</lg>
+<lg>
+<l>Tel change incessamment mon être avec mon âge ;</l>
+<l>Je ne suis qu’un soupir animant un nuage,</l>
+<l>Et je vais disparaître, épars dans l’infini.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p37">
+<pagenum num="40"/>
+
+<h2>SUR L’EAU</h2>
+
+<poem m="12">
+<lg>
+<l>Je n’entends que le bruit de la rive et de l’eau,</l>
+<l>Le chagrin résigné d’une source qui pleure</l>
+<l>Ou d’un rocher qui verse une larme par heure,</l>
+<l>Et le vague frisson des feuilles de bouleau.</l>
+</lg>
+<lg>
+<l>Je ne sens pas le fleuve entraîner le bateau,</l>
+<l>Mais c’est le bord fleuri qui passe, et je demeure ;</l>
+<l>Et dans le flot profond, que de mes yeux j’effleure,</l>
+<l>Le ciel bleu renversé tremble comme un rideau.</l>
+</lg>
+<lg>
+<l>On dirait que cette onde en sommeillant serpente,</l>
+<l>Oscille et ne sait plus le côté de la pente :</l>
+<l>Une fleur qu’on y pose hésite à le choisir.</l>
+</lg>
+<lg>
+<l>Et, comme cette fleur, tout ce que l’homme envie</l>
+<l>Peut se venir poser sur le flot de ma vie</l>
+<l>Sans désormais m’apprendre où penche mon désir.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p38">
+<pagenum num="41"/>
+
+<h2>LE VENT</h2>
+
+<poem m="12">
+<lg>
+<l>Il fait grand vent, le ciel roule de grosses voix,</l>
+<l>Des géants de vapeur y semblent se poursuivre,</l>
+<l>Les feuilles mortes fuient avec un bruit de cuivre,</l>
+<l>On ne sait quel troupeau hurle à travers les bois.</l>
+</lg>
+<lg>
+<l>Et je ferme les yeux et j’écoute. Or je crois</l>
+<l>Ouïr l’âpre combat qui nuit et jour se livre :</l>
+<l>Cris de ceux qu’on enchaîne et de ceux qu’on délivre,</l>
+<l>Rumeur de liberté, son du bronze des rois...</l>
+</lg>
+<lg>
+<l>Mais je laisse aujourd’hui le grand vent de l’histoire</l>
+<l>Secouer l’écheveau confus de ma mémoire</l>
+<l>Sans qu’il éveille en moi des regrets ni des vœux,</l>
+</lg>
+<lg>
+<l>Comme je laisse errer cette vaine tempête</l>
+<l>Qui passe furieuse en flagellant ma tête</l>
+<l>Et ne peut, rien sur moi qu’agiter mes cheveux.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p39">
+<pagenum num="42"/>
+
+<h2>HORA PRIMA</h2>
+
+<poem m="12">
+<lg>
+<l>J’ai salué le jour dès avant mon réveil :</l>
+<l>Il colorait déjà ma pesante paupière,</l>
+<l>Et je dormais encor, mais sa rougeur première</l>
+<l>A visité mon âme à travers le sommeil.</l>
+</lg>
+<lg>
+<l>Pendant que je gisais immobile, pareil</l>
+<l>Aux morts sereins sculptés sur les tombeaux de pierre,</l>
+<l>Sous mon front se levaient des pensers de lumière,</l>
+<l>Et, sans ouvrir les yeux, j’étais plein de soleil.</l>
+</lg>
+<lg>
+<l>Le frais et pur salut des oiseaux à l’aurore,</l>
+<l>Confusément perçu, rendait mon cœur sonore,</l>
+<l>Et j’étais embaumé d’invisibles lilas.</l>
+</lg>
+<lg>
+<l>Hors du néant, mais loin des secousses du monde,</l>
+<l>Un moment j’ai connu cette douceur profonde</l>
+<l>De vivre sans dormir, tout en ne veillant pas.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p40">
+<pagenum num="43"/>
+
+<h2>A KANT</h2>
+
+<poem m="12">
+<lg>
+<l>Je veux de songe en songe avec toi fuir sans trêve</l>
+<l>Le sol avare et froid de la réalité :</l>
+<l>Le rêve offre toujours une hospitalité</l>
+<l>Sereine et merveilleuse à l’âme qu’il soulève.</l>
+</lg>
+<lg>
+<l>Et, tu l’as dit, ce monde, après tout, n’est qu’un rêve,</l>
+<l>Fantôme insaisissable à qui l’a médité,</l>
+<l>Apparence cruelle et sans solidité</l>
+<l>Où l’idéal s’ébauche et jamais ne s’achève.</l>
+</lg>
+<lg>
+<l>Chaque sens fait un rêve : harmonie et parfum,</l>
+<l>Saveur, couleur, beauté, toute forme en est un ;</l>
+<l>L’homme à ces spectres vains prête un corps qu’il invente.</l>
+</lg>
+<lg>
+<l>Ému, je ne sais rien de la cause émouvante :</l>
+<l>C’est moi-même ébloui que j’ai nommé le ciel,</l>
+<l>Et je ne sens pas bien ce que j’ai de réel.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p41">
+<pagenum num="44"/>
+
+<h2>LA VIE DE LOIN</h2>
+
+<poem m="12">
+<lg>
+<l>Ceux qui ne sont pas nés, les peuples de demain,</l>
+<l>Entendent vaguement, comme de sourds murmures,</l>
+<l>Les grands coups de marteaux et les grands chocs d’armures</l>
+<l>Et tous les battements des pieds sur le chemin.</l>
+</lg>
+<lg>
+<l>Ce tumulte leur semble un immense festin,</l>
+<l>Dans un doux bruit de flots, sous de folles ramures ;</l>
+<l>Et déjà, tressaillant au sein des vierges mures,</l>
+<l>Tous réclament la vie et le bonheur certain.</l>
+</lg>
+<lg>
+<l>Il n’est donc pas un mort qui, de retour dans l’ombre,</l>
+<l>Leur dise que cet hymne est fait de cris sans nombre</l>
+<l>Et qu’ils dorment en paix sur un enfer béant,</l>
+</lg>
+<lg>
+<l>Afin que ces heureux qui n’ont ni pleurs ni rire</l>
+<l>Écoutent sans envie, autour de leur néant,</l>
+<l>Le tourbillon maudit des atomes bruire ?</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p42">
+<pagenum num="45"/>
+
+<h2>LES AILES</h2>
+
+<poem m="12">
+<lg>
+<l>Grand ciel, tu m’es témoin que j’étais tout enfant</l>
+<l>Quand par témérité j’ai demandé des ailes ;</l>
+<l>Convoitant de si bas les voûtes éternelles,</l>
+<l>Mes vœux n’altéraient pas ton calme triomphant.</l>
+</lg>
+<lg>
+<l>Je me sentais mourir dans un air étouffant,</l>
+<l>Ciel pur ! et j’aspirais à des saisons nouvelles ;</l>
+<l>Et c’est ta faute aussi, puisque tu nous appelles</l>
+<l>Par ton sublime azur, par l’oiseau qui le fend !</l>
+</lg>
+<lg>
+<l>Maintenant qu’épuisé, vaincu, je te proclame</l>
+<l>Trop vaste pour tenir tout entier dans mon âme,</l>
+<l>Pourquoi te venges-tu d’impuissantes amours ?</l>
+</lg>
+<lg>
+<l>Et quel jaloux archange aux gaîtés malfaisantes</l>
+<l>M’a planté dans le dos ses deux ailes géantes</l>
+<l>Qui palpitent sans cesse en m’accablant toujours ?</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p43">
+<pagenum num="46"/>
+
+<h2>DERNIÈRES VACANCES</h2>
+
+<poem m="12">
+<lg>
+<l>Heureux l’enfant qui meurt dans sa septième année</l>
+<l>Avant l’âge où le cœur doit saigner pour jouir ;</l>
+<l>Qui meurt de défaillance, en regardant bleuir</l>
+<l>Sous les orangers d’or la Méditerranée !</l>
+</lg>
+<lg>
+<l>On ne tient plus sont âme aux leçons enchaînée,</l>
+<l>Et, libre de s’éteindre, il croit s’épanouir.</l>
+<l>Plus de maîtres ! c’est lui qui se fait obéir,</l>
+<l>Et sa mère est pour lui comme une sœur aînée.</l>
+</lg>
+<lg>
+<l>Par sa faiblesse même il fait céder les forts ;</l>
+<l>Il prend ce qu’il désire avant qu’on le lui donne,</l>
+<l>Et sa pâleur l’absout avant qu’on lui pardonne.</l>
+</lg>
+<lg>
+<l>Indocile et choyé, paresseux sans remords,</l>
+<l>C’est en suivant des yeux la fuite d’un navire</l>
+<l>Qu’un soir, pendant qu’il rêve un voyage, il expire.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p44">
+<pagenum num="47"/>
+
+<h2>FIN DU RÊVE</h2>
+
+<poem m="12">
+<lg>
+<l>Le rêve, serpent traître éclos dans le duvet,</l>
+<l>Roule autour de mes bras une flatteuse entrave,</l>
+<l>Sur mes lèvres distille un philtre dans sa bave,</l>
+<l>Et m’amuse aux couleurs changeantes qu’il revêt.</l>
+</lg>
+<lg>
+<l>Depuis qu’il est sorti de dessous mon chevet,</l>
+<l>Mon sang glisse figé comme une tiède lave,</l>
+<l>Ses nœuds me font captif et ses regards esclave,</l>
+<l>Et je vis comme si quelque autre en mot vivait.</l>
+</lg>
+<lg>
+<l>Mais bientôt j’ai connu le mal de sa caresse ;</l>
+<l>Vainement je me tords sous son poids qui m’oppresse,</l>
+<l>Je retombe et ne peux me défaire de lui.</l>
+</lg>
+<lg>
+<l>Sa dent cherche mon cœur, le retourne et le ronge ;</l>
+<l>Et, tout embarrassé dans des lambeaux de songe,</l>
+<l>Je meurs. — O monstre lourd ! qui donc es-tu ? — L’Ennui.</l>
+</lg>
+
+</poem>
+<pagenum num="48"/>
+</page-sequence>
+<page-sequence id="p45">
+<pagenum num="49"/>
+
+<h1>ACTION</h1>
+
+<vsep class="rule"/>
+
+<h2>HOMO SUM</h2>
+
+<poem m="12">
+<lg>
+<l>Durant que je vivais, ainsi qu’en plein désert,</l>
+<l>Dans le rêve, insultant la race qui travaille,</l>
+<l>Comme un lâche ouvrier ne faisant rien qui vaille</l>
+<l>S’enivre et ne sait plus à quoi l’outil lui sert,</l>
+</lg>
+<lg>
+<l>Un soupir, né du mal autour de moi souffert,</l>
+<l>M’est venu des cités et des champs de bataille,</l>
+<l>Poussé par l’orphelin, le pauvre sur la paille,</l>
+<l>Et le soldat tombé qui sent son cœur ouvert.</l>
+</lg>
+<lg>
+<l>Ah ! parmi les douleurs, qui dresse en paix sa tente,</l>
+<l>D’un bonheur sans rayons jouit et se contente,</l>
+<l>Stoïque impitoyable en sa sérénité ?</l>
+</lg>
+<lg>
+<l>Je ne puis : ce soupir m’obsède comme un blâme,</l>
+<l>Quelque chose de l’homme a traversé mon âme,</l>
+<l>Et j’ai tous les soucis de la fraternité.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p46">
+<pagenum num="50"/>
+
+<h2>LA PATRIE</h2>
+
+<poem m="12">
+<lg>
+<l>Viens, ne marche pas seul dans un jaloux sentier.</l>
+<l>Mais suis les grands chemins que l’humanité foule ;</l>
+<l>Les hommes ne sont forts, bons et justes, qu’en foule :</l>
+<l>Ils s’achèvent ensemble, aucun d’eux n’est entier.</l>
+</lg>
+<lg>
+<l>Malgré toi tous les morts t’ont fait leur héritier ;</l>
+<l>La patrie a jeté le plus fier dans son moule,</l>
+<l>Et son nom fait toujours monter comme une houle</l>
+<l>De la poitrine aux yeux l’enthousiasme altier !</l>
+</lg>
+<lg>
+<l>Viens, il passe au forum un immense zéphyre ;</l>
+<l>Viens, l’héroïsme épars dans l’air qu’on y respire</l>
+<l>Secoue utilement les moroses langueurs.</l>
+</lg>
+<lg>
+<l>Laisse à travers ton luth souffler le vent des âmes,</l>
+<l>Et tes vers flotteront comme des oriflammes</l>
+<l>Et comme des tambours sonneront dans les cœurs.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p47">
+<pagenum num="51"/>
+
+<h2>UN SONGE</h2>
+
+<poem m="12">
+<lg>
+<l>Le laboureur m’a dit en songe : Fais ton pain,</l>
+<l>Je ne te nourris plus, gratte la terre et sème.</l>
+<l>Le tisserand m’a dit : Fais tes habits toi-même.</l>
+<l>Et le maçon m’a dit : Prends la truelle en main.</l>
+</lg>
+<lg>
+<l>Et seul, abandonné de tout le genre humain</l>
+<l>Dont je traînais partout l’implacable anathème,</l>
+<l>Quand j’implorais du ciel une pitié suprême,</l>
+<l>Je trouvais des lions debout dans mon chemin.</l>
+</lg>
+<lg>
+<l>J’ouvris les yeux, doutant si l’aube était réelle :</l>
+<l>De hardis compagnons sifflaient sur leur échelle,</l>
+<l>Les métiers bourdonnaient, les champs étaient semés ;</l>
+</lg>
+<lg>
+<l>Je connus mon bonheur et qu’au monde où nous somme</l>
+<l>Nul ne se peut vanter de se passer des hommes ;</l>
+<l>Et depuis ce jour-là je les ai tous aimés.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p48">
+<pagenum num="52"/>
+
+<h2>L’AXE DU MONDE</h2>
+
+<poem m="12">
+<lg>
+<l>Atlas porte le monde, et, les poings sur les reins,</l>
+<l>Suant, le front plissé, le sang à la narine ;</l>
+<l>Il pleure, et dans le creux de sa grande poitrine</l>
+<l>Appuie en gémissant sa barbe aux rudes crins.</l>
+</lg>
+<lg>
+<l>« Debout ! forgez des socs, des leviers et des freins !</l>
+<l>Crie Atlas aux mortels que le travail chagrine ;</l>
+<l>Les bêtes, les forêts, les champs et l’eau marine,</l>
+<l>Subjugués, vous feront rivaux des dieux sereins ;</l>
+</lg>
+<lg>
+<l>« C’est moi qu’ils ont chargé de la plus lourde tâche.</l>
+<l>Aurez-vous à ce point l’âme inféconde et lâche</l>
+<l>De rester fainéants quand je peine pour vous ?</l>
+</lg>
+<lg>
+<l>« Dressez une montagne ou quelque énorme ville,</l>
+<l>Pour égaler les dieux et rendre moins stérile</l>
+<l>Le labeur éternel de mes fermes genoux. »</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p49">
+<pagenum num="53"/>
+
+<h2>LA ROUE</h2>
+
+<poem m="12">
+<lg>
+<l>Inventeur de la roue, inconnu demi-dieu,</l>
+<l>Qui le premier, ployant un souple et ferme érable,</l>
+<l>Créas cette œuvre antique, œuvre à jamais durable,</l>
+<l>Ce beau cercle qui porte un astre en son milieu !</l>
+</lg>
+<lg>
+<l>Par Orphée et par toi, par la lyre et l’essieu,</l>
+<l>L’espace aux marbres lourds n’est plus infranchissable,</l>
+<l>Et nous voyons glisser comme l’eau sur le sable</l>
+<l>Les pierres que leur poids rivait au même lieu.</l>
+</lg>
+<lg>
+<l>Quand la terre frémit d’un roulement sonore,</l>
+<l>L’élite des coursiers dans les enfers t’honore.</l>
+<l>Au souvenir des chars qu’entraînaient leurs grands pas ;</l>
+</lg>
+<lg>
+<l>Mais que la roue aux chars d’Olympie était lente !</l>
+<l>Regarde-la qui vibre et fuit, toute brûlante</l>
+<l>D’une rapidité que tu n’inventas pas !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p50">
+<pagenum num="54"/>
+
+<h2>LE FER</h2>
+
+<poem m="12">
+<lg>
+<l>Nous avons oublié combien la terre est dure :</l>
+<l>Au pas lent de nos bœufs le fer tranchant du soc</l>
+<l>L’entame en retournant le chaume et la verdure,</l>
+<l>La divise, et soulève un gros et large bloc.</l>
+</lg>
+<lg>
+<l>Ce labeur dont les mains saignaient, le fer l’endure.</l>
+<l>Plus souple que l’ormeau, plus ferme que le roc,</l>
+<l>Il tient sans trahison tant que sa tâche dure,</l>
+<l>Patient sous l’effort, inaltérable au choc.</l>
+</lg>
+<lg>
+<l>O vous tous, bienfaiteurs par amour ou génie,</l>
+<l>De tous les temps, de race ou maudite ou bénie,</l>
+<l>Sans choix je vous salue, et, si j’osais trier,</l>
+</lg>
+<lg>
+<l>J’admirerais surtout les nouveaux qu’on renomme,</l>
+<l>Mais je proclamerais premier sauveur de l’homme</l>
+<l>Tubalcaïn, l’enfant du premier meurtrier !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p51">
+<pagenum num="55"/>
+
+<h2>UNE DAMNÉE</h2>
+
+<poem m="12">
+<lg>
+<l>La forge fait son bruit, pleine de spectres noirs.</l>
+<l>Le pilon monstrueux, la scie âpre et stridente,</l>
+<l>L’indolente cisaille atrocement mordante,</l>
+<l>Les lèvres sans merci des fougueux laminoirs,</l>
+</lg>
+<lg>
+<l>Tout hurle, et dans cet antre, où les jours sont des soirs</l>
+<l>Et les nuits des midis d’une rougeur ardente,</l>
+<l>On croit voir se lever la figure de Dante</l>
+<l>Qui passe, interrogeant d’éternels désespoirs :</l>
+</lg>
+<lg>
+<l>C’est l’enfer de la Force obéissante et triste.</l>
+<l>« Quel ennemi toujours me pousse ou me résiste ?</l>
+<l>Dit-elle. N’ai-je point débrouillé le chaos ? »</l>
+</lg>
+<lg>
+<l>Mais l’homme, devinant ce qu’elle peut encore,</l>
+<l>Plus hardi qu’elle, et riche en secrets qu’elle ignore,</l>
+<l>Recule à l’infini l’heure de son repos.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p52">
+<pagenum num="56"/>
+
+<h2>L’ÉPÉE</h2>
+
+<poem m="12">
+<lg>
+<l>Qu’est ce tranchant de fer souple, affilé, pointu ?</l>
+<l>Ce ne sont pas les flancs de la terre qu’il fouille,</l>
+<l>Ni les pierres qu’il fend, ni les bois qu’il dépouille.</l>
+<l>Quel art a-t-il servi, quel fléau combattu ?</l>
+</lg>
+<lg>
+<l>Est-ce un outil ? Non pas ! car l’homme de vertu</l>
+<l>L’abhorre : ce n’est pas la sueur qui le mouille,</l>
+<l>Et ce qu’on aime en lui, c’est la plus longue rouille.</l>
+<l>« Lame aux éclairs d’azur et de pourpre, qu’es-tu ?</l>
+</lg>
+<lg>
+<l>— Je suis l’épée, outil des faiseurs d’ossuaires,</l>
+<l>Et, comme l’ébauchoir aux mains des statuaires,</l>
+<l>Je cours au poing des rois, taillant l’homme à leur gré.</l>
+</lg>
+<lg>
+<l>« Or, je dois tous les ans couper la fleur des races,</l>
+<l>Jusqu’à l’heure où la chair se fera des cuirasses,</l>
+<l>Plus fortes que le fer, avec le droit sacré. »</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p53">
+<pagenum num="57"/>
+
+<h2>AUX CONSCRITS</h2>
+
+<poem m="12">
+<lg>
+<l>Tant que vous marcherez sous le soleil des plaines,</l>
+<l>Par les mauvais chemins poussant les lourds canons,</l>
+<l>O frères, dont les rois ne savent pas les noms,</l>
+<l>Et qui ne savez rien de leurs subtiles haines ;</l>
+</lg>
+<lg>
+<l>Tant qu’au hasard frappés par les armes lointaines</l>
+<l>Ou parmi la mêlée aveugle et sans pardons,</l>
+<l>Vous mourrez dans l’horreur de tous les abandons,</l>
+<l>Altérés et rêvant aux natales fontaines ;</l>
+</lg>
+<lg>
+<l>Nous lutterons aussi, nous qui sommes restés ;</l>
+<l>Nous n’achèterons plus de lâches voluptés,</l>
+<l>O fils des paysans vainement économes !</l>
+</lg>
+<lg>
+<l>Mais nous travaillerons, tourmentés du remords</l>
+<l>D’avoir payé le sang des autres jeunes hommes.</l>
+<l>Et peut-être aurons-nous nos blessés et nos morts.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p54">
+<pagenum num="58"/>
+
+<h2>CHAGRIN D’AUTOMNE</h2>
+
+<poem m="12">
+<lg>
+<l>Les lignes du labour dans les champs en automne</l>
+<l>Fatiguent l’œil, qu’à peine un toit fumant distrait,</l>
+<l>Et la voûte du ciel tout entière apparaît,</l>
+<l>Bornant d’un cercle nu la plaine monotone.</l>
+</lg>
+<lg>
+<l>En des âges perdus dont la vieillesse étonne</l>
+<l>Là même a dû grandir une vierge forêt,</l>
+<l>Où le chant des oiseaux sonore et pur vibrait,</l>
+<l>Avec l’hymne qu’au vent le clair feuillage entonne !</l>
+</lg>
+<lg>
+<l>Les poëtes chagrins redemandent aux bras</l>
+<l>Qui font ce plat désert sous des rayons sans voile</l>
+<l>La verte nuit des bois que le soleil étoile ;</l>
+</lg>
+<lg>
+<l>Ils pleurent, oubliant, dans leurs soupirs ingrats,</l>
+<l>Que des mornes sillons sort le pain qui féconde</l>
+<l>Leurs cerveaux, dont le rêve est plus beau que le monde !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p55">
+<pagenum num="59"/>
+
+<h2>DANS L’ABIME</h2>
+
+<poem m="12">
+<lg>
+<l>Le fond de l’océan ravit l’œil des sondeurs :</l>
+<l>Mystérieux printemps, Eden multicolore</l>
+<l>Qui tressaille en silence et ne cesse d’éclore</l>
+<l>Aux frais courants, zéphyrs des glauques profondeurs.</l>
+</lg>
+<lg>
+<l>Lourds oiseaux d’un ciel vert, d’innombrables rôdeurs,</l>
+<l>Dans les enlacements d’une vivante flore,</l>
+<l>Et sous un jour voilé comme une pâle aurore,</l>
+<l>Glissent en aspirant les marines odeurs.</l>
+</lg>
+<lg>
+<l>C’est là qu’immense et lourd, loin de l’assaut des ondes,</l>
+<l>Un câble, un pont jeté pour l’âme entre deux mondes,</l>
+<l>Repose en un lit d’algue et de sable nacré ;</l>
+</lg>
+<lg>
+<l>Car la foudre qu’hier l’homme aux cieux alla prendre,</l>
+<l>Il la fait maintenant au fond des mers descendre,</l>
+<l>Messagère asservie à son verbe sacré.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p56">
+<pagenum num="60"/>
+
+<h2>EN AVANT !</h2>
+
+<poem m="12">
+<lg>
+<l>Il est donc vrai ! la terre est si vieille ! Oh ! raconte</l>
+<l>Comment elle a trouvé son solide contour,</l>
+<l>Le vaporeux chaos, sa lutte avec le jour,</l>
+<l>L’universelle mer, le sol herbeux qui monte,</l>
+</lg>
+<lg>
+<l>L’affreux serpent ailé, le pesant mastodonte,</l>
+<l>Puis l’air pur, le ciel bleu, la rose, Ève, l’amour,</l>
+<l>Le monde entier, qui marche en avant sans retour,</l>
+<l>A pas lents et certains que son écorce compte !</l>
+</lg>
+<lg>
+<l>Dis-moi surtout, dis-moi qu’il ne s’est point lassé,</l>
+<l>Qu’il aspire du fond d’un éternel passé</l>
+<l>Au terme indéfini de sa beauté future.</l>
+</lg>
+<lg>
+<l>O savant curieux, mais dur, qui soulevas</l>
+<l>Les langes chauds encor de la vive nature,</l>
+<l>Prouve au moins l’Idéal si tu ne le sens pas !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p57">
+<pagenum num="61"/>
+
+<h2>RÉALISME</h2>
+
+<poem m="12">
+<lg>
+<l>Elle part, mais je veux, à mon amour fidèle,</l>
+<l>La garder tout entière en un pieux portrait,</l>
+<l>Portrait naïf où rien ne me sera soustrait</l>
+<l>Des grâces, des défauts, chers aussi, du modèle.</l>
+</lg>
+<lg>
+<l>Arrière les pinceaux ! sur la toile cruelle</l>
+<l>Le profane idéal du peintre sourirait :</l>
+<l>C’est elle que je veux, c’est elle trait pour trait,</l>
+<l>Belle d’une beauté que seul je vois en elle.</l>
+</lg>
+<lg>
+<l>Mais, ô soleil, ami qui la connais le mieux,</l>
+<l>Qui prêtes à son cœur, quand nous sommes ensemble,</l>
+<l>Tes rayons les plus purs pour luire dans ses yeux,</l>
+</lg>
+<lg>
+<l>Artiste dont la main ne cherche ni ne tremble,</l>
+<l>Viens toi-même au miroir que je t’offre imprimer</l>
+<l>Chacun de ces rayons qui me la font aimer.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p58">
+<pagenum num="62"/>
+
+<h2>LE MONDE A NU</h2>
+
+<poem m="12">
+<lg>
+<l>Entouré de flacons, d’étranges serpentins,</l>
+<l>De fourneaux, de matras aux encolures torses,</l>
+<l>Le chimiste, sondant les caprices des forces,</l>
+<l>Leur impose avec art des rendez-vous certains.</l>
+</lg>
+<lg>
+<l>Il règle leurs amours jusque-là clandestins,</l>
+<l>Devine et fait agir leurs secrètes amorces,</l>
+<l>Les unit, les provoque à de brusques divorces,</l>
+<l>Et guide utilement leurs aveugles destins.</l>
+</lg>
+<lg>
+<l>Apprends-moi donc à lire au fond de tes cornu</l>
+<l>O sage qui sais voir les forces toutes nues,</l>
+<l>L’intérieur du-monde au delà des couleurs ;</l>
+</lg>
+<lg>
+<l>De grâce, introduis-moi dans cet obscur empire :</l>
+<l>C’est aux réalités sans, voile que j’aspire ;</l>
+<l>Trop belle, l’apparence est féconde en douleurs.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p59">
+<pagenum num="63"/>
+
+<h2>LE RENDEZ-VOUS</h2>
+
+<poem m="12">
+<lg>
+<l>Il est tard ; l’astronome aux veilles obstinées,</l>
+<l>Sur sa tour, dans le ciel où meurt le dernier bruit</l>
+<l>Cherche des îles d’or, et, le front dans la nuit,</l>
+<l>Regarde à l’infini blanchir des matinées ;</l>
+</lg>
+<lg>
+<l>Les mondes fuient pareils à des graines vannées ;</l>
+<l>L’épais fourmillement des nébuleuses luit ;</l>
+<l>Mais, attentif à l’astre échevelé qu’il suit,</l>
+<l>Il le somme et lui dit : « Reviens dans mille années. »</l>
+</lg>
+<lg>
+<l>Et l’astre reviendra. D’un pas ni d’un instant</l>
+<l>Il ne saurait frauder la science éternelle ;</l>
+<l>Des hommes passeront, l’humanité l’attend ;</l>
+</lg>
+<lg>
+<l>D’un œil changeant mais sûr elle fait sentinelle ;</l>
+<l>Et, fût-elle abolie au temps de son retour,</l>
+<l>Seule, la Vérité veillerait sur la tour.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p60">
+<pagenum num="64"/>
+
+<h2>LES TÉMÉRAIRES</h2>
+
+<poem m="12">
+<lg>
+<l>Du pôle il va tenter les merveilleux hivers ;</l>
+<l>Il part, le grand navire ! Une puissante enflure</l>
+<l>Au souffle d’un bon vent lève et tend la voilure</l>
+<l>Sur trois beaux mâts portant neuf vergues en travers.</l>
+</lg>
+<lg>
+<l>Il est parti. Là-bas, au soleil, dans les airs</l>
+<l>Traînant son pavillon comme une chevelure,</l>
+<l>Il a pris sa superbe et gracieuse allure</l>
+<l>Et du côté du Nord gagne les hautes mers.</l>
+</lg>
+<lg>
+<l>D’un œil triste je suis au loin son blanc sillage :</l>
+<l>Il va sombrer peut-être au but de son voyage,</l>
+<l>Par des géants de glace étreint de toutes parts !</l>
+</lg>
+<lg>
+<l>Et près de moi, debout, l’enfant du capitaine,</l>
+<l>Dans la brise ravi vers la brume lointaine,</l>
+<l>Agite dans son cœur d’aventureux départs.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p61">
+<pagenum num="65"/>
+
+<h2>LA JOIE</h2>
+
+<poem m="12">
+<lg>
+<l>Pour une heure de joie unique et sans retour,</l>
+<l>De larmes précédée et de larmes suivie,</l>
+<l>Pour une heure tu peux, tu dois aimer la vie :</l>
+<l>Quel homme, une heure au moins, n’est heureux à son tour ?</l>
+</lg>
+<lg>
+<l>Une heure de soleil fait bénir tout le jour,</l>
+<l>Et quand ta main serait tout le jour asservie,</l>
+<l>Une heure de tes nuits ferait encore envie</l>
+<l>Aux morts, qui n’ont plus même une nuit pour l’amour.</l>
+</lg>
+<lg>
+<l>Ne te plains pas, tu vis ! Plus grand que misérable !</l>
+<l>Et l’univers, jaloux de ton cœur vulnérable,</l>
+<l>Achèterait la joie au même prix que lui ;</l>
+</lg>
+<lg>
+<l>Pour la goûter, si peu que cette ivresse dure,</l>
+<l>Les monts accepteraient l’éternelle froidure,</l>
+<l>L’Océan l’insomnie, et les déserts l’ennui.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p62">
+<pagenum num="66"/>
+
+<h2>AU DÉSIR</h2>
+
+<poem m="10">
+<lg>
+<l>Ne meurs pas encore, ô divin Désir,</l>
+<l m="6">Qui sur toutes choses</l>
+<l>Vas battant de l’aile et deviens plaisir</l>
+<l m="6">Dès que tu te poses.</l>
+</lg>
+<lg>
+<l>Rôdeur curieux, es-tu las d’ouvrir</l>
+<l m="6">Les lèvres, les roses ?</l>
+<l>N’as-tu désormais rien à découvrir</l>
+<l m="6">Au pays des causes ?</l>
+</lg>
+<lg>
+<l>Couvre de baisers la face du beau,</l>
+<l>Jusqu’au fond du vrai porte ton flambeau,</l>
+<l m="6">Fils de la jeunesse !</l>
+</lg>
+<lg>
+<l>Encor des pensers, encor des amours !</l>
+<l>Que ta grande soif s’abreuve toujours</l>
+<l m="6">Et toujours renaisse !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p63">
+<pagenum num="67"/>
+
+<h2>A AUGUSTE BRACHET</h2>
+
+<poem m="12">
+<lg>
+<l>Ami, la passion du Verbe et de ses lois</l>
+<l>Nous obsède tous deux. Toi, d’une oreille austère,</l>
+<l>Tu scrutes savamment le son dépositaire</l>
+<l>Du génie et du cœur des hommes d’autrefois ;</l>
+</lg>
+<lg>
+<l>Tu sais sur quel passage appuie ou court la voix,</l>
+<l>Sous quelle fixe règle un mot vibre et s’altère.</l>
+<l>Moi qui, sans le sonder, jouis de ce mystèr,</l>
+<l>Je nombre le langage en comptant sur mes doigts ;</l>
+</lg>
+<lg>
+<l>J’observe à mon insu les lois que tu démontres ;</l>
+<l>Je devine les mots, leurs divines rencontres,</l>
+<l>Le secret de leur vie et l’art de les choisir.</l>
+</lg>
+<lg>
+<l>Échangeons nos travaux pour adoucir nos veilles :</l>
+<l>Dis-moi la discipline et les mœurs des abeilles.</l>
+<l>Et je recueillerai leur miel pour ton plaisir.</l>
+</lg>
+
+</poem>
+</page-sequence>
+</page-sequences>
+</bml>
