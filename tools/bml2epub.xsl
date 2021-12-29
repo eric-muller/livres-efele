@@ -200,30 +200,11 @@
 
 <xsl:template name='transfer-common-attributes'>
   <xsl:param name='class'/>
-  <xsl:param name='default-align' required='no'/>
-
-<!--
-  <xsl:variable name='set-font'>
-    <xsl:if test='@font'>
-      <xsl:text>set-font-</xsl:text>
-      <xsl:value-of select='(@font,"default")[1]'/>
-    </xsl:if>
-  </xsl:variable>
-
-  <xsl:variable name='use-font'>
-    <xsl:text>use-font-</xsl:text>
-    <xsl:value-of select='(ancestor-or-self::*[@font][1]/@font, "default")[1]'/>
-  </xsl:variable>
--->
-
-  <xsl:variable 
-      name='align'
-      select="distinct-values (tokenize (@class, '\s+')[.=$align-classes])"/>
 
   <xsl:variable name='classes'>
     <xsl:value-of 
         separator=' '
-        select='$class, @class, if ($align) then "" else $default-align'/>
+        select='$class, @class'/>
   </xsl:variable>
 
   <xsl:if test="normalize-space($classes) != ''">
@@ -437,7 +418,6 @@
   <p>
     <xsl:call-template name='transfer-common-attributes'>
       <xsl:with-param name='class'>date</xsl:with-param>
-      <xsl:with-param name='default-align'>r3</xsl:with-param>
     </xsl:call-template>
 
     <xsl:apply-templates mode='html'/>
@@ -1016,9 +996,10 @@
 
         <xsl:if test='$fonts = "yes"'>
           <xsl:for-each select='tokenize (normalize-space ($epub-fonts), " ")'>
+            <xsl:variable name="x" select="tokenize(., '/')[position() = last()]"/>
             <item
-                href="{.}"
-                id="{.}"
+                href="{$x}"
+                id="{$x}"
                 media-type="application/font-sfnt"/>
           </xsl:for-each>
           
@@ -1196,6 +1177,8 @@
 </xsl:template>
 
 <xsl:template match='bml:font' mode='style.css'>
+  <xsl:variable name="x" select="tokenize(@u, '/')[position() = last()]"/>
+  
   <xsl:text>@font-face {</xsl:text>
 
   <xsl:text>font-family: </xsl:text>
@@ -1211,7 +1194,7 @@
   <xsl:text>;</xsl:text>
 
   <xsl:text>src: url('</xsl:text>
-  <xsl:value-of select='@u'/>
+  <xsl:value-of select='$x'/>
   <xsl:text>'); }</xsl:text>
 
 </xsl:template>

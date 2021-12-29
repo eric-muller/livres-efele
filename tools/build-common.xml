@@ -213,8 +213,8 @@
     </sequential>
   </macrodef>
 
-  <macrodef name='fonts3'>
-    <attribute name='font-files3'/>
+  <macrodef name='fonts'>
+    <attribute name='font-files'/>
     <attribute name='id'/>
     <attribute name='x'/>
     <attribute name='flavor'/>
@@ -224,27 +224,11 @@
         <classpath refid="classpath"/>
         <arg value='build/@{id}/@{flavor}/epub/OEBPS'/>
         <arg value='build/@{id}/@{flavor}/epub/OEBPS'/>
-        <arg line='@{font-files3}'/>
-      </java>
-    </sequential>
-  </macrodef>
-
-  <macrodef name='fonts'>
-    <attribute name='font-files'/>
-    <attribute name='id'/>
-    <attribute name='x'/>
-
-    <sequential>
-      <java classname="net.efele.epub.FontEmbedder2" fork="true">
-        <classpath refid="classpath"/>
-        <arg value='results/@{id}/@{x}.epub'/>
-        <arg value='build/@{id}/epub/epub/OEBPS'/>
         <arg line='@{font-files}'/>
       </java>
     </sequential>
   </macrodef>
 
-    
   <macrodef name='validate'>
     <attribute name='x'/>
     <sequential>
@@ -634,7 +618,7 @@
       <validate-bml src='build/@{id}/epub3/text3.bml'/>
 
       <java classname="net.sf.saxon.Transform" fork="true"
-            outputproperty='font-files3'>
+            outputproperty='font-files'>
         <classpath refid="classpath"/>
         <arg value="-xsl:${tools}/bml2fonts.xsl"/>
         <arg value="-s:edition.xml"/>
@@ -645,7 +629,7 @@
         <arg value="-xsl:${tools}/bml2epub.xsl"/>
         <arg value="targetdir=build/@{id}/epub3/epub"/>
         <arg value="fonts=yes"/>
-        <arg value="epub-fonts=${font-files3}"/>
+        <arg value="epub-fonts=${font-files}"/>
         <arg value="review=${review}"/>
         <arg value="eml=../../../edition.xml"/>
         <arg value="-s:build/@{id}/epub3/text3.bml"/>
@@ -672,7 +656,7 @@
       <epubzip epubfile='results/@{id}/@{x}.epub' 
                dir='build/@{id}/epub3/epub'/>
 
-      <fonts3 font-files3='${font-files3}'
+      <fonts font-files='${font-files}'
              id='@{id}'
              x='@{x}'
              flavor='epub3'/>

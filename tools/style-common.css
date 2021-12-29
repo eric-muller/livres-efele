@@ -351,7 +351,10 @@ sup {
   margin: 1em 0 1em 0;
   font-size: 90%;
   text-indent: 0; 
-  page-break-after: avoid; }
+  page-break-after: avoid; 
+
+  padding: 0 3em 0 3em;
+  text-align: right; }
 
 .sig {
   margin: 1em 1em 1em 0;
