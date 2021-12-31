@@ -337,6 +337,22 @@
   </p>
 </xsl:template>
 
+<xsl:template match='bml:poem/bml:date' mode='html'>
+  <!-- div: so that the text-indent is the text em, not the
+       date em -->
+
+  <div style="margin-left: -{../@m}em">
+    <p>
+      <xsl:call-template name='transfer-common-attributes'>
+        <xsl:with-param name='class'>date</xsl:with-param>
+      </xsl:call-template>
+      
+      <xsl:apply-templates mode='html'/>
+    </p>
+  </div>
+</xsl:template>
+
+
 
 
 <xsl:template match='bml:letter' mode='html'>
