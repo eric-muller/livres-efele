@@ -341,11 +341,18 @@ td {
   vertical-align: text-top; }
 
 sup {
-  font-size: 1em;
-  vertical-align: baseline;
-  font-variant-numeric: lining-nums;
-  font-variant-position: super;
-  line-height: 0; }
+  /* override the default styling */
+  font-size: unset;
+  vertical-align: unset;
+
+  /* font-variant-position: super; is currently supported only in
+     firefox, so we need to explicitly invoke the sups feature. */
+  font-feature-settings: "sups";
+ 
+  line-height: 0;
+  font-variant-numeric: lining-nums; }
+
+
 
 .date {
   margin: 1em 0 1em 0;
