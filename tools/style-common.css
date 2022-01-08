@@ -342,8 +342,8 @@ td {
 
 sup {
   /* override the default styling */
-  font-size: unset;
-  vertical-align: unset;
+  font-size: 100%;
+  vertical-align: baseline;
 
   /* font-variant-position: super; is currently supported only in
      firefox, so we need to explicitly invoke the sups feature. */
