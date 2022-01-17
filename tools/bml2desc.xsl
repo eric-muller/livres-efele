@@ -44,7 +44,7 @@
       </meta>
       <meta name="twitter:description">
         <xsl:attribute name="content">
-          <xsl:text>epub kindle daisy</xsl:text>
+          <xsl:text>epub</xsl:text>
         </xsl:attribute>
       </meta>
       <meta name="twitter:image" content="http://efele.net/ebooks/livres/{$id}/thumbnail-tw.png"/>
@@ -196,7 +196,7 @@
       </tr>
     </table>
     
-    <p><a href="../../index.html#formats">Epub</a> fait le <xsl:call-template name='tirage-date'/>.</p>
+    <p><a href="{$bookFile}.epub">Epub</a> fait le <xsl:call-template name='tirage-date'/>.</p>
 
     <xsl:if test='bml:electronique/bml:collection'>
       <p>Ce livre fait partie de la collection <a href='../{bml:electronique/bml:collection/@id}/index.html'><xsl:apply-templates select='bml:electronique/bml:collection/bml:titre'/></a>.</p>
