@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+ <metadata>
+  <monographie
+    bnf="http://catalogue.bnf.fr/ark:/12148/cb37746388w">
+
+   <titre>Poésies de Sully Prudhomme : 1872-1878</titre>
+
+   <auteur bnf="http://catalogue.bnf.fr/ark:/12148/cb12496761k">
+    <nom-bibliographie>Prudhomme, Sully</nom-bibliographie>
+    <dates>1839-1907</dates>
+    <nom-couverture>Sully Prudhomme</nom-couverture>
+   </auteur>
+
+   <editeur>
+    <nom>A. Lemerre</nom>
+    <ville>Paris</ville>
+   </editeur>
+
+   <date>18??</date>
+   <langue>fr</langue>
+  </monographie>
+
+  <volume>
+   <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k200393j"
+         pages="n3 1-500"/>
+  </volume>
+  
+  <electronique
+    identificateur="http://efele.net/ebooks/livres/000651"
+    creation="2022-02-13T09:23:00-08:00">
+
+   <titre>Poésies diverses</titre>
+
+   <producteur>
+    <nom>ÉFÉLÉ</nom>
+    <email>livres@efele.net</email>
+   </producteur>
+  </electronique>
+ </metadata>
+
+ <toc>
+   <tocentry idref="p02" label="Le Point du jour"/>
+   <tocentry idref="p03" label="Adieux de Mme Arnould-Plessy à la Comédie-Française"/>
+   <tocentry idref="p04" label="A Ernesto Rossi"/>
+   <tocentry idref="p05" label="A Propos de la comédie de M. E. Gondinet Les Grandes Demoiselles"/>
+   <tocentry idref="p06" label="La Charité"/>
+   <tocentry idref="p07" label="Sur six Médaillons du statuaire H. Chapu"/>
+   <tocentry idref="p08" label="La Nature et la Tradition"/>
+   <tocentry idref="p09" label="Les Funérailles de M. Thiers"/>
+   <tocentry idref="p10" label="Les Caffieri"/>
+   <tocentry idref="p11" label="Sonnet"/>
+   <tocentry idref="p12" label="Le Fleuve et la Rue"/>
+   <tocentry idref="p13" label="L’Attrait de la tombe"/>
+   <tocentry idref="p14" label="Métamorphoses"/>
+ </toc>
+
+ <cover src="images/couverture3.png" alt=""/>
+
+<page-sequences>
+<!--
+<page-sequence id="p01">
+<pagenum num="185"/>
+
+<vsep class="fewlines"/>
+
+<h1>POÉSIES DIVERSES</h1>
+
+<pagenum num="186"/>
+</page-sequence>
+-->
+<page-sequence id="p02">
+<pagenum num="187"/>
+
+<h1>POÉSIES DIVERSES</h1>
+
+<vsep class="rule"/>
+
+<h2>LE POINT DU JOUR</h2>
+
+<poem m="8">
+<lg>
+<l>C’est l’heure indécise où l’aurore</l>
+<l>Annonce son prochain retour</l>
+<l>Plus à l’âme qu’aux yeux encore,</l>
+<l>Quand il ne fait ni nuit ni jour ;</l>
+</lg>
+<lg>
+<l>Il semble que la terre épie</l>
+<l>L’imminent baiser du soleil ;</l>
+<l>C’est comme un arrêt dans la vie,</l>
+<l>Un subit effroi du réveil.</l>
+</lg>
+<pagenum num="188"/>
+<lg>
+<l>Des hiboux et des rôdeurs traîtres</l>
+<l>L’appel vague et rare a cessé,</l>
+<l>Mais la rumeur de tous les êtres</l>
+<l>N’a pas encore commencé ;</l>
+</lg>
+<lg>
+<l>A peine un coq s’est fait entendre,</l>
+<l>A peine fume un premier feu</l>
+<l>Dans le ciel humide et si tendre</l>
+<l>Qu’on ne sait s’il est blanc ou bleu ;</l>
+</lg>
+<lg>
+<l>Sur la route flotte et s’allonge</l>
+<l>Un lambeau d’errante vapeur</l>
+<l>Qui semble en fuite comme un songe</l>
+<l>A qui la lumière a fait peur ;</l>
+</lg>
+<lg>
+<l>La rosée, où ne s’illumine</l>
+<l>Pas encore un seul diamant,</l>
+<l>Sous une gaze blême et fine</l>
+<l>Ensevelit le pré dormant ;</l>
+</lg>
+<lg>
+<l>Comme un miroir de fiancée</l>
+<l>Où tremblent des reflets de lis,</l>
+<l>L’eau des ruisseaux est nuancée</l>
+<l>Par la nacre des cieux pâlis.</l>
+</lg>
+<pagenum num="189"/>
+<lg>
+<l>En souriant à ses voisines,</l>
+<l>Une fille aux yeux entr’ouverts</l>
+<l>S’éveille dans les capucines</l>
+<l>De sa fenêtre aux volets verts.</l>
+</lg>
+<lg>
+<l>Mais un souffle léger s’élève :</l>
+<l>Au brusque éclat du jour vainqueur</l>
+<l>L’horizon tressaille et se crève,</l>
+<l>Et tous les nids chantent en chœur !</l>
+</lg>
+<lg>
+<l>Et là-bas sur la glèbe rose</l>
+<l>D’où l’alouette prend l’essor,</l>
+<l>Marchent dans une apothéose</l>
+<l>Des bœufs de pourpre aux cornes d’or !</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p03">
+<pagenum num="190"/>
+
+<h2>ADIEUX DE M<sup>ME</sup> ARNOULD-PLESSY A LA COMÉDIE-FRANÇAISE</h2>
+
+<poem m="12">
+<lg>
+<l>La douleur de l’adieu m’est par vous embellie,</l>
+<l>Mais, en abandonnant cette scène à jamais,</l>
+<l>Pourrais-je déserter comme un toit qu’on oublie,</l>
+<l>Sans un mot de tendresse et de mélancolie,</l>
+<l>Sans filial soupir, la maison que j’aimais ?</l>
+</lg>
+<lg>
+<l>Nous avons tant de fois fêté Molière ensemble,</l>
+<l>Tant de fois vos regards cléments m’ont fait oser</l>
+<l>Quand j’épelais ses vers comme un écho qui tremble ;</l>
+<l>Je vous ai tant montré mon âme, qu’il me semble</l>
+<l>N’avoir plus, en partant, de masque à déposer !</l>
+</lg>
+<pagenum num="191"/>
+<lg>
+<l>Les heures d’idéal, les seules fortunées,</l>
+<l>Je vous les dois ; j’aurais à renaître aujourd’hui,</l>
+<l>Je choisirais encore entre les destinées</l>
+<l>Celle où les visions peuvent être incarnées,</l>
+<l>Où le cœur bat toujours avec le cœur d’autrui.</l>
+</lg>
+<lg>
+<l>Tout le deuil est pour moi qui m’en vais solitaire.</l>
+<l>Pour vous, les soirs passés auront des lendemains.</l>
+<l>Le temps ne force pas les chefs-d’œuvre à se taire,</l>
+<l>Des flambeaux du génie humble dépositaire</l>
+<l>Ma main lasse les cède à de plus jeunes mains.</l>
+</lg>
+<lg>
+<l>Du moins je viendrai voir, au travers de mon voile,</l>
+<l>Si l’ancien feu sacré luit toujours sur l’autel,</l>
+<l>Et, palpitante encore aux frissons de la toile,</l>
+<l>Applaudir avec vous plus d’un lever d’étoile,</l>
+<l>Car la France est féconde et l’art est immortel.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p04">
+<pagenum num="192"/>
+
+<h2>A ERNESTO ROSSI</h2>
+
+<h3>Sonnet</h3>
+
+<poem m="12">
+<lg>
+<l>Quand le monde réel m’est un trop lourd fardeau,</l>
+<l>Je voudrais bien m’en faire un autre à mon usage</l>
+<l>Et, comme toi, muant mon âme et mon visage,</l>
+<l>Devenir un autre homme au lever du rideau ;</l>
+</lg>
+<lg>
+<l>Agiter, tout un soir, plus fort, plus grand, plus beau,</l>
+<l>Le fantôme évoqué d’un héros et d’un âge,</l>
+<l>Dussé-je, aveuglément fidèle au personnage,</l>
+<l>Le rideau descendu, le suivre en son tombeau.</l>
+</lg>
+<lg>
+<l>Je ne le puis. Jamais le rôle que je rêve,</l>
+<l>Dans l’espace où l’on marche et parle, ne s’achève,</l>
+<l>Et l’espace où l’on rêve est si près du néant !</l>
+</lg>
+<lg>
+<l>Par tes créations, tu vis plus d’une vie,</l>
+<l>Mais moi je n’en ai qu’une et l’épuise en créant.</l>
+<l>C’est pourquoi le poète, en t’admirant, t’envie.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p05">
+<pagenum num="193"/>
+
+<h2>A PROPOS DE LA COMÉDIE DE M. E. GONDINET LES GRANDES DEMOISELLES</h2>
+
+<h3>Jouée dans un salon</h3>
+
+<h3>PROLOGUE</h3>
+
+<poem m="12">
+<lg>
+<l>Prenez pitié de moi, mesdames et messieurs,</l>
+<l>Car jamais directeur ne fut plus soucieux.</l>
+<l>Voyez comme le sort est parfois ironique :</l>
+<l>J’avais toujours rêvé d’avoir un fils unique,</l>
+<l>Un garçon sérieux et sûr qui pût m’aider,</l>
+<l>Et dans ma tâche ingrate un jour me succéder ;</l>
+<l>Mais voilà qu’en vingt ans il m’est né dix-huit filles !</l>
+</lg>
+<lg>
+<l>Le ciel bénit, dit-on, les nombreuses familles :</l>
+<l>Il a certes béni mes dix-huit rejetons,</l>
+<pagenum num="194"/>
+<l>Car il les a doués des plus aimables dons,</l>
+<l>D’innocence, de grâce et d’esprit tout ensemble ;</l>
+<l>Ma famille en un mot de tous points me ressemble.</l>
+<l>Mais, pour un directeur, se sentir sur les bras</l>
+<l>Tant d’actrices en herbe est un gros embarras ;</l>
+<l>Plusieurs sont aujourd’hui de grandes demoiselles.</l>
+<l>Quelle troupe à garder ! (mes filles sont si belles !)</l>
+<l>C’est à perdre l’esprit, quand on est, comme moi,</l>
+<l>Assailli de ténors qui cherchent de l’emploi.</l>
+<l>Je tâche d’accorder la morale et la scène ;</l>
+<l>Mais déjà la cadette a, dans les Célimène,</l>
+<l>Un jeu si naturel que j’en suis effrayé !</l>
+<l>Bon père, je ne suis directeur qu’à moitié :</l>
+<l>Malgré moi, leur succès trop précoce m’alarme,</l>
+<l>Ne me les gâtez pas ! Si leur talent vous charme,</l>
+<l>Mesdames et messieurs, de grâce restez froids,</l>
+<l>Gardez-vous d’applaudir, surtout aux bons endroits ;</l>
+<l>Ménagez leur fragile et tendre modestie,</l>
+<l>Trompez-les pour leur bien : si dans la repartie</l>
+<l>Quelqu’une hasardait un brin de sentiment,</l>
+<l>Sifflez-la, je vous prie, impitoyablement.</l>
+</lg>
+<lg>
+<l>Le pire ennui pour moi, c’est qu’on ne trouve guères</l>
+<l>Des pièces où placer dix-huit jeunes premières !</l>
+<pagenum num="195"/>
+<l>Une intrigue amenant à la fois, dans un jour,</l>
+<l>Pour dénoûment dix-huit mariages d’amour,</l>
+<l>C’est presque invraisemblable en ce siècle d’affaires.</l>
+<l>Mais toutes ont horreur des rôles plus sévères.</l>
+<l>Je les raisonne en vain, je n’en puis décider</l>
+<l>Aucune, pour l’amour de l’art, à se rider.</l>
+<l>Aussi vous montrerai-je, en dépit de l’usage,</l>
+<l>Des filles possédant des mères de leur âge,</l>
+<l>Mais, comme les printemps sont toujours bien reçus,</l>
+<l>Vous aurez la bonté de passer là-dessus.</l>
+<l>Tout le reste ira bien. Ma troupe sans rivale</l>
+<l>Saura faire oublier les défauts de la salle :</l>
+<l>La scène est peu profonde et le plancher trop bas,</l>
+<l>Vous verrez de plus près, ne vous en plaignez pas...</l>
+<l>Enfin, si par ce temps d’alarmes et de fièvres,</l>
+<l>Le rire d’autrefois est banni de vos lèvres,</l>
+<l>S’il n’y doit revenir qu’en des jours moins troublés,</l>
+<l>Souriez seulement, nos vœux seront comblés.</l>
+</lg>
+
+</poem>
+
+<date>Avril 1872.</date>
+
+</page-sequence>
+<page-sequence id="p06">
+<pagenum num="196"/>
+
+<h2>LA CHARITÉ</h2>
+
+<h3>Sonnet</h3>
+
+<h3>A PAUL DUBOIS</h3>
+
+<poem m="12">
+<lg>
+<l>Le statuaire a fait d’un sépulcre un autel</l>
+<l>Aux vertus de notre âge ; il a, dans la matière,</l>
+<l>De la race moderne imprimé l’âme entière,</l>
+<l>Afin qu’il en restât un symbole immortel !</l>
+</lg>
+<lg>
+<l>L’antiquaire futur, dont le pieux appel</l>
+<l>Fera de notre cendre émerger cette pierre,</l>
+<l>Dira : « La femme alors avait cette paupière,</l>
+<l>Et telle fut sa grâce, et son rôle fut tel.</l>
+</lg>
+<lg>
+<l>Aux siècles orageux dont ce témoin subsiste,</l>
+<l>Elle eut cette tendresse enveloppante et triste,</l>
+<l>Unique abri du faible et du déshérité.</l>
+</lg>
+<lg>
+<l>Le genre humain n’a dû, pendant sa longue enfance,</l>
+<l>Le lait et le sommeil qu’à l’humble Charité :</l>
+<l>Seule, avant la Justice, elle a pris sa défense. »</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p07">
+<pagenum num="197"/>
+
+<h2>SUR SIX MÉDAILLONS DU STATUAIRE H. CHAPU</h2>
+
+<h3>I</h3>
+
+<poem m="12">
+<lg>
+<l>Levant au ciel ses yeux pleins des divines fièvres,</l>
+<l>Le Poète qui chante est près de fuir le sol,</l>
+<l>Et l’essor entraînant de l’hymne sur ses lèvres</l>
+<l>Imprime à tout son corps la courbure du vol.</l>
+</lg>
+
+<h3>II</h3>
+
+<lg>
+<l>Explorant l’infini sans déserter la terre,</l>
+<l>Le Savant, scrutateur de l’abîme étoilé,</l>
+<l>Élève son flambeau jusqu’au plus haut mystère,</l>
+<l>Et dans son livre ouvert le montre dévoilé.</l>
+</lg>
+
+<pagenum num="198"/>
+
+<h3>III</h3>
+
+<lg>
+<l>L’Architecte, debout, armé de ses équerres,</l>
+<l>Le pied sur une acanthe et les bras étendus,</l>
+<l>Imposant l’ordre aux blocs savamment suspendus,</l>
+<l>Prête un sourire auguste à la froideur des pierres.</l>
+</lg>
+
+<h3>IV</h3>
+
+<lg>
+<l>L’ardent Musicien, rivé d’âme et de corps</l>
+<l>Au violon palpitant que son archet caresse,</l>
+<l>Les doigts crispés, les yeux presque souffrants d’ivresse,</l>
+<l>Semble expirer au charme irritant des accords.</l>
+</lg>
+
+<h3>V</h3>
+
+<lg>
+<l>Le Peintre vers Phœbus où radieuse éclate</l>
+<l>L’ardeur qu’à sa palette il demandait en vain,</l>
+<l>Se tourne, et, ravivant sa brosse au feu divin,</l>
+<l>L’y trempe d’une main hardie et délicate.</l>
+</lg>
+
+<pagenum num="199"/>
+
+<h3>VI</h3>
+
+<lg>
+<l>A la hauteur des dieux soulevé dans l’éther,</l>
+<l>Le Sculpteur, qui médite une immuable forme,</l>
+<l>Pour temple à sa pensée, en un paros énorme</l>
+<l>Cisèle à tour de bras un front de Jupiter.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p08">
+<pagenum num="200"/>
+
+<h2>LA NATURE ET LA TRADITION</h2>
+<h2>CARIATIDES PAR LE MÊME</h2>
+
+<h3>Sonnet</h3>
+
+<poem m="12">
+<lg>
+<l>L’une aux cheveux flottants sous la rose et le lis,</l>
+<l>Laissant rire à ses pieds le faune, aïeul de l’homme,</l>
+<l>De son corps qui respire une verdeur de pomme,</l>
+<l>Déploie ingénument les contours bien remplis.</l>
+</lg>
+<lg>
+<l>L’autre aux cheveux tressés, drapée à larges plis,</l>
+<l>Des chefs-d’œuvre de l’art trésorière économe,</l>
+<l>Composant sa beauté des types qu’on renomme,</l>
+<l>Offre aux yeux plus savants des traits plus accomplis.</l>
+</lg>
+<lg>
+<l>Mais je ne sais des deux laquelle je préfère,</l>
+<l>Laquelle est à mon cœur plus sacrée et plus chère,</l>
+<l>Elles ont toutes deux la grâce et la fierté ;</l>
+</lg>
+<lg>
+<l>Dans mon culte pieux l’une est à l’autre unie ;</l>
+<l>Au front orné de fleurs j’aime la liberté,</l>
+<l>Au front ceint du bandeau j’admire le génie.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p09">
+<pagenum num="201"/>
+
+<h2>LES FUNÉRAILLES DE M. THIERS</h2>
+
+<h3>IMPRESSION</h3>
+
+<poem m="12">
+<lg>
+<l>Si quelque ancien Romain, comme un fantôme austère,</l>
+<l m="8">A Paris fût hier venu,</l>
+<l>Soudain ressuscité dans ce lieu de la terre</l>
+<l m="8">Dont le nom lui fût inconnu,</l>
+<l>Et qu’il eût vu passer ces grandes funérailles,</l>
+<l m="8">La foule accourue au devant</l>
+<l>S’ouvrir sur leur passage en deux longues murailles,</l>
+<l m="8">Qui se mêlaient en les suivant !</l>
+<l>S’il eût vu tous les pleurs de la Liberté veuve,</l>
+<l m="8">Sur nos boulevards trop étroits,</l>
+<l>Par la mort confondus offrir la paix en preuve</l>
+<l m="8">De la solidité des droits !</l>
+<l>Et s’il eût vu fleurir l’hommage des provinces</l>
+<pagenum num="202"/>
+<l m="8">Et des villes sur le cercueil,</l>
+<l>Il eût cru d’un arbitre et d’un dompteur de princes,</l>
+<l m="8">D’un consul, voir mener le deuil.</l>
+<l>Comment, devant la noble et tranquille attitude</l>
+<l m="8">De tant d’hommes unis sans roi,</l>
+<l>Eût-il imaginé que cette multitude</l>
+<l m="8">Eût d’autres souverains que soi !</l>
+<l>Car notre liberté n’est pas une ivrognesse</l>
+<l m="8">Qu’on ramasse au bord du chemin,</l>
+<l>Une femme qu’un cri de mort met en liesse,</l>
+<l m="8">Qui mêle de sang son carmin.</l>
+<l>C’est une auguste mère aux prodigues mamelles,</l>
+<l m="8">A la voix calme, aux purs appas,</l>
+<l>Qui, levant pour drapeau l’azur de ses prunelles,</l>
+<l m="8">Conquiert le monde pas à pas ;</l>
+<l>Enseigne à lire au peuple, innocent des mêlées </l>
+<l m="8">Où l’ont entraîné les tambours !</l>
+<l>A l’horreur de la poudre, exècre les volées</l>
+<l m="8">Des cloches et des canons sourds,</l>
+<l>Qui ne prend ses amours qu’en la plus juste race</l>
+<l m="8">Et n’accorde son chaste flanc</l>
+<l>Qu’aux hommes francs comme elle, et qui veut qu’on l’embrasse</l>
+<l m="8">Avec des bras vierges de sang.</l>
+<l>Il se fût écrié : « Quel est ce deuil sublime ?</l>
+<pagenum num="203"/>
+<l m="8">Quel père illustre honore-t-on ?</l>
+<l>Quelle est cette cité qu’un même culte anime ?</l>
+<l m="8">J’en voudrais connaître le nom.</l>
+<l>Quand un grand citoyen meurt plein d’ans et de gloire</l>
+<l m="8">Chez un peuple uni, sage et fort,</l>
+<l>Tous les cœurs à la fois vénèrent sa mémoire</l>
+<l m="8">Et pleurent à la fois sa mort ;</l>
+<l>Ceux mêmes que naguère, aux rostres, aux comices,</l>
+<l m="8">Il a combattus, non trahis,</l>
+<l>Disent que ses erreurs autant que ses services</l>
+<l m="8">Respiraient l’amour du pays !</l>
+<l>Les seuls qui n’aient pour lui que du respect sans larme</l>
+<l m="8">Et que rassure son sommeil,</l>
+<l>Ce sont les étrangers que, redouté sans armes,</l>
+<l m="8">Il désarmait par le conseil !</l>
+<l>La foule, en l’escortant, l’élève au-dessus même</l>
+<l m="8">Des rois sacrés qu’il a défaits,</l>
+<l>Préférant le génie élu sans diadème</l>
+<l m="8">A la majesté sans bienfaits.</l>
+<l>D’un regret pur de crainte, adieu mélancolique,</l>
+<l m="8">Le peuple entier n’est qu’assombri,</l>
+<l>N’ayant pas à trembler pour la chose publique,</l>
+<l m="8">Car le Sénat en est l’abri.</l>
+<l>La douleur populaire en pleurs sereins déborde :</l>
+<pagenum num="204"/>
+<l m="8">Si l’homme n’est plus aujourd’hui,</l>
+<l>L’œuvre à jamais demeure ; on sait que la concorde</l>
+<l m="8">Ne peut pas périr avec lui. »</l>
+<l>Voilà ce qu’un aïeul des familles latines,</l>
+<l m="8">A son insu fier de ses fils,</l>
+<l>Eût pu dire, ignorant nos fureurs intestines</l>
+<l m="8">Qu’attisent de haineux défis,</l>
+<l>Ignorant qu’à Paris, la veille, à la même heure,</l>
+<l m="8">Sacrilège horrible à penser !</l>
+<l>Des Français avaient pu, devant Belfort qui pleure,</l>
+<l m="8">Autour du cadavre danser<noteref noteid="note.204.1"/></l>
+</lg>
+
+</poem>
+
+<date>9 septembre 1877.</date>
+
+<notes>
+ <note id="note.204.1">
+<p>Allusion à un article outrageux d’un journal hostile à Thiers.</p>
+ </note>
+</notes>
+
+</page-sequence>
+<page-sequence id="p10">
+<pagenum num="205"/>
+
+<h2>LES CAFFIERI</h2>
+
+<h3>Sonnet</h3>
+
+<h3>SUR LE LIVRE DE J. GUIFFREY</h3>
+
+<poem m="12">
+<lg>
+<l>Dans les maîtres anciens, dont les mœurs ont péri,</l>
+<l>L’artiste et l’artisan ne se séparent guère :</l>
+<l>Le sculpteur sait dorer, n’estimant trop vulgaire</l>
+<l>Aucune tâche utile à son œuvre chéri.</l>
+</lg>
+<lg>
+<l>Tels, aux lois d’un goût sûr, les premiers Caffieri</l>
+<l>Domptent le bronze et l’or aussi bien que la terre ;</l>
+<l>Le dernier, consommant la lutte héréditaire,</l>
+<l>Attaque enfin le marbre en athlète aguerri !</l>
+</lg>
+<lg>
+<l>Mais le ciseau légué, dont il grandit l’usage,</l>
+<l>Pour modèle prend moins les dieux au froid visage</l>
+<l>Que les mortels épris du laurier des Neuf Sœurs ;</l>
+</lg>
+<lg>
+<l>A l’oisive beauté, fleur d’une vie heureuse,</l>
+<l>Il ose préférer, sur le front des penseurs,</l>
+<l>Le pli laborieux qu’une âpre veille y creuse.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p11">
+<pagenum num="206"/>
+
+<h2>SONNET</h2>
+
+<poem m="12">
+<lg>
+<l>Du passé des forêts séculaires débris,</l>
+<l>Les feuilles mortes font, par le temps qui les ronge,</l>
+<l>De chaque vieux sentier comme une longue éponge</l>
+<l>Au dehors toute sèche et d’un or froid et gris.</l>
+</lg>
+<lg>
+<l>Mais qu’on fouille au dedans : les feuillages flétris</l>
+<l>Sont humides et chauds à la main qui s’y plonge ;</l>
+<l>L’été des plus anciens fermente et se prolonge</l>
+<l>Sous les derniers tombés qui leur servent d’abris.</l>
+</lg>
+<lg>
+<l>Tel est le sort obscur des jeunesses fanées :</l>
+<l>Le sec et froid linceul des dernières années</l>
+<l>Cache l’amas des jours écoulés sans malheurs ;</l>
+</lg>
+<lg>
+<l>Mais quand on plonge au fond de ce long deuil sans plainte,</l>
+<l>On sent toujours couver des rayons dans des pleurs,</l>
+<l>Invincible ferment de la verdeur éteinte.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p12">
+<pagenum num="207"/>
+
+<h2>LE FLEUVE ET LA RUE</h2>
+
+<poem m="8">
+<lg>
+<l>Le fleuve avec de clairs murmures</l>
+<l>Entre l’herbe et les saules fuit ;</l>
+<l>Chacune de ses ondes pures</l>
+<l>S’appuie à l’onde qu’elle suit ;</l>
+</lg>
+<lg>
+<l>La rue est un fossé de pierre</l>
+<l>Où bruit un ruisseau vivant</l>
+<l>Dont chaque flot dans sa carrière</l>
+<l>Marche isolé du flot suivant.</l>
+</lg>
+<lg>
+<l>Le fleuve unit toutes ses ondes</l>
+<l>Sous une loi qu’il accomplit ;</l>
+<l>L’œil voit sous ses couches profondes</l>
+<l>Luire le sable de son lit ;</l>
+</lg>
+<pagenum num="208"/>
+
+<lg>
+<l>Sous d’acharnés souffles de haine</l>
+<l>S’agitent en sens différents</l>
+<l>Tous les flots de la foule humaine ;</l>
+<l>Il n’en est point de transparents.</l>
+</lg>
+<lg>
+<l>Pour se désaltérer au fleuve,</l>
+<l>Quand descend du ciel un oiseau,</l>
+<l>Sans se mouiller l’aile il s’abreuve</l>
+<l>D’une perle au bout d’un roseau ;</l>
+</lg>
+<lg>
+<l>Quand l’amour a soif et s’élance</l>
+<l>Pour boire aux eaux vives des cœurs,</l>
+<l>Il ne rencontre qu’une lance</l>
+<l>Et le fiel méchant des moqueurs.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p13">
+<pagenum num="209"/>
+
+<h2>L’ATTRAIT DE LA TOMBE</h2>
+
+<poem m="8">
+<lg>
+<l>Celui que n’ont pu soulager</l>
+<l>Les voluptés et leur mensonge,</l>
+<l>Rêve un linceul frais et léger</l>
+<l>Où sa lassitude s’allonge.</l>
+</lg>
+<lg>
+<l>Son âme, que des jours nouveaux</l>
+<l>Ne sauraient plus rendre joyeuse,</l>
+<l>Aspire à la paix des caveaux</l>
+<l>Sous la pâleur de la veilleuse.</l>
+</lg>
+<lg>
+<l>Son âme qu’aimer et penser</l>
+<l>Vainement ici brûle et ronge,</l>
+<l>N’aspire qu’a s’en dispenser</l>
+<l>Par le grand somme exempt de songe.</l>
+</lg>
+<pagenum num="210"/>
+
+<lg>
+<l>Son âme avide de repos</l>
+<l>Et dans tous les lits malheureuse,</l>
+<l>Rêve pour elle et pour les os</l>
+<l>Une alcôve infiniment creuse.</l>
+</lg>
+</poem>
+
+</page-sequence>
+<page-sequence id="p14">
+<pagenum num="211"/>
+
+<h2>MÉTAMORPHOSES</h2>
+
+<poem m="8">
+<lg>
+<l>O Nature, creuset des choses,</l>
+<l>Être homme est un ingrat honneur ;</l>
+<l>Prépare aux morts quelque bonheur</l>
+<l>Dans le flux des métamorphoses :</l>
+</lg>
+<lg>
+<l>Que le pied qui bat les chemins,</l>
+<l>Racine plus tard, se repose,</l>
+<l>Et que, plus tard, se change en rose</l>
+<l>Le creux ensanglanté des mains ;</l>
+</lg>
+<lg>
+<l>Que, dans les fortunes nouvelles</l>
+<l>Des couples trop tôt désunis,</l>
+<l>Les cœurs des femmes soient des nids,</l>
+<l>Les cœurs d’hommes des hirondelles ;</l>
+</lg>
+<pagenum num="212"/>
+
+<lg>
+<l>Que les fronts n’aient plus désormais</l>
+<l>L’ombre et la honte pour compagnes ;</l>
+<l>Qu’ils soient des plus hautes montagnes</l>
+<l>Les radieux et fiers sommets ;</l>
+</lg>
+<lg>
+<l>Et qu’au sortir des justes tombes</l>
+<l>Qui nous font devant toi pareils,</l>
+<l>Les plus pauvres soient des soleils</l>
+<l>Et les plus méchants des colombes !</l>
+</lg>
+</poem>
+
+</page-sequence>
+</page-sequences>
+</bml>
