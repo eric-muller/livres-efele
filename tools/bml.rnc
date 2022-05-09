@@ -323,6 +323,16 @@ pagination = pagenum | colnum
 block  |= pagination
 inline |= pagination | pageref
 
+#-------------------------------------------------------------------------------
+
+# the content of <aside> could be any sequence of blocks.
+aside =
+  element aside {
+    block+ }
+
+block  |= aside
+inline |= aside
+
 #---------------------------------------------------------------- correction ---
 
 # typographic errors, spelling errors, etc.
@@ -383,7 +393,8 @@ toc_list =
       common-attributes,
       element label { inline }?,
       element p { inline* },
-      toc_list ? } | pagenum )+}
+      toc_list ? }
+    | pagination )+}
 
 block |= toc_list
 
@@ -446,9 +457,9 @@ table |=
       attribute align { text }?,
       attribute vertical-align { "top" | "middle" | "bottom" }? }*,
     element thead {
-      (tr | pagenum)+ }?,
+      (tr | pagination)+ }?,
     element tbody {
-      (tr | pagenum)+ }}
+      (tr | pagination)+ }}
 
 tr =
   element tr {

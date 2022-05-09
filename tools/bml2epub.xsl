@@ -561,6 +561,15 @@
 </xsl:template>
 
 
+<xsl:template match='bml:aside' mode='html'>
+  <xsl:element name='{if (ancestor::bml:p) then "span" else "aside"}'>
+    <xsl:call-template name='transfer-common-attributes'>
+        <xsl:with-param name='class'>aside</xsl:with-param>
+    </xsl:call-template>
+    <xsl:apply-templates mode='html'/>
+  </xsl:element>
+</xsl:template>
+
 <xsl:template match='bml:img' mode='html'>
   <img src='{@src}'
        alt='{@alt}'>
