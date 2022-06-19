@@ -31,7 +31,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000288"
         creation="2013-04-20T00:00:00-08:00"
-        modification="2014-12-31T18:13:21-08:00">
+        modification="2022-06-19T08:48:44-07:00">
 
       <titre>Le serviteur</titre>
 
@@ -43,7 +43,7 @@
   </metadata>
 
   <toc>
-    <tocentry idref="p1" label="Première partie">
+    <tocentry idref="p1ch1" label="Première partie">
       <tocentry idref="p1ch1"  label="I"/>
       <tocentry idref="p1ch2"  label="II"/>
       <tocentry idref="p1ch3"  label="III"/>
@@ -58,7 +58,7 @@
       <tocentry idref="p1ch12"  label="XII"/>
     </tocentry>
 
-    <tocentry idref="p2" label="Deuxième partie">
+    <tocentry idref="p2ch1" label="Deuxième partie">
       <tocentry idref="p2ch1"  label="I"/>
       <tocentry idref="p2ch2"  label="II"/>
       <tocentry idref="p2ch3"  label="III"/>
@@ -73,7 +73,7 @@
       <tocentry idref="p2ch12"  label="XII"/>
     </tocentry>
 
-    <tocentry idref="p3" label="Troisième partie">
+    <tocentry idref="p3ch1" label="Troisième partie">
       <tocentry idref="p3ch1"  label="I"/>
       <tocentry idref="p3ch2"  label="II"/>
       <tocentry idref="p3ch3"  label="III"/>
@@ -93,11 +93,8 @@
 
  <page-sequences>
 
- <page-sequence>
-<div id="p1">
-<div id="p1ch1">
+ <page-sequence id="p1ch1">
  <pagenum num="1"/>
-
 
 <h1>PREMIÈRE PARTIE</h1>
 
@@ -131,11 +128,8 @@
 
 <p>Alors je t’ai vraiment retrouvé. Comme les tiens quand tu m’apercevais sur la plate-forme du wagon, mes yeux se sont mis à clignoter.</p>
 
-</div>
-</div>
  </page-sequence>
- <page-sequence>
- <div id="p1ch2">
+ <page-sequence id="p1ch2">
  <pagenum num="6"/>
 
 <h2>II</h2>
@@ -154,10 +148,8 @@
 
 <p>Tu n’aurais pas du tout compris. Tu aurais peut-être cru que l’on se moquait de toi. Pour ne les avoir point fréquentés, tu n’as jamais su qu’il existe des gens pour qui l’on est pauvre quand on n’a pas au moins vingt mille francs de rentes qui, bon an, mal an, vous tombent sans même que vous vous donniez la peine de détacher vos coupons : la banque à laquelle vous avez remis vos titres en dépôt se charge de le faire. Nous appartenions à cette catégorie de la société, nous, où l’on considère comme des riches, non pas même un colonel, mais le <pagenum num="9" b="per-" a="cepteur">percepteur</pagenum> du chef-lieu de canton, mais les receveurs des contributions indirectes aux appointements de cent cinquante francs par mois. On ne saurait trop préciser, pour ceux qui ne savent pas. La vie et la pauvreté dans une petite ville ne leur apparaissent qu’au milieu d’un clair-obscur où ils distinguent mal. Je ne veux pas dire que nous ayons été de ces pauvres qui vont mendier leur pain. Courageux, tu avais l’esprit d’économie. Mais, ce pain que nous n’allions pas mendier, c’était toi qui le gagnais. Que tu fusses tombé malade à quarante ans, et nous étions réduits à la misère. J’ai revu ton livre de comptes. J’ai constaté qu’en l’année 1901, par exemple, vous aviez dépensé pour vous deux neuf cent cinquante francs. Si j’en retranche les six louis du loyer annuel, je trouve que vos frais de nourriture, d’entretien et de chauffage se sont montés, pour vous deux, à deux francs vingt sept par jour, à quelque chose comme vingt-trois sous pour chacun. Il doit exister quelque part des gens qui diront que ce n’est pas beaucoup. Mais vos dépenses étaient proportionnées à vos recettes. Puis, les mêmes, réflexion faite, estimeront qu’avec vingt-trois sous par jour on <pagenum num="10"/>ne meurt pas de faim, que vous n’êtes pas à plaindre, qu’il y en a de plus malheureux. Si tu avais l’esprit de révolte, tu les traiterais de misérables.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1ch3">
+ <page-sequence id="p1ch3">
   <pagenum num="11"/>
 
 <h2>III</h2>
@@ -176,10 +168,8 @@
 
 <p>Tu l’ignores absolument, mais, dans l’esprit de douceur avec lequel tu acceptes ton sort, tu ne serais pas étonné d’apprendre qu’il existe des écrivains pour qui l’on ne commence à être un homme qu’à la condition d’être en perpétuelle révolte. Le « pauvre peuple » ne vaut pour eux que groupé en bandes de forcenés qui pillent, brûlent, tuent. Ils disent que conseiller la résignation c’est vouloir la déchéance et la mort. Pauvres gens, qui ne soupçonnent rien de la solidité de nos existences ! Comme si nous résigner signifiait nécessairement que nous cessions de lutter pour vivre ! Comme si accepter équivalait à s’endormir ! Comme si, au contraire, la forme supérieure de la résignation n’était pas de se fixer le but le plus élevé que chacun de nous peut atteindre en développant toutes ses énergies ! Mais vois-tu Grosjean montant en chaire ou rendant la justice ? Il n’y résistera point et, s’il consent à l’avouer, c’est avec plaisir qu’il reprendra les manchons de sa charrue. Nous n’avons pas, pour les autorités, de respect fétichiste. Nous savons qu’elles se <pagenum num="16"/>trompent, exagèrent, frappent à tort, mais nous n’estimons pas davantage que le « pauvre peuple » soit impeccable. Qu’il fasse son métier, et ses vaches seront bien gardées. Estimons-nous à notre juste valeur. Si nous sommes nés geais, et de toute évidence destinés à le rester, sarclons en nous tout désir de nous parer des plumes du paon.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1ch4">
+ <page-sequence id="p1ch4">
   <pagenum num="17"/>
 
 <h2>IV</h2>
@@ -203,10 +193,8 @@
 
 <p>Si je peux te voir au déclin des temps anciens et à l’aube des temps nouveaux, ce n’est point la figure monstrueuse et terrible de Jacques Bonhomme que j’aperçois. Elle exista, je le sais ; mais, à côté d’elle, la tienne se précise dans une atmosphère d’automne où l’on entend les cloches et non le tocsin, pacifique et résignée. Déjà tu connais les paroles de l’Evangile : « Heureux ceux qui sont dans l’affliction, car ils seront consolés ! » Tu n’es point celui qui réclame ni qui pille. Jamais tu ne prends ta hache pour enfoncer des portes, et tu sais que la faux n’a été créée que pour la moisson.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1ch5">
+ <page-sequence id="p1ch5">
   <pagenum num="27"/>
 
 <h2>V</h2>
@@ -233,10 +221,8 @@
 
 <p>Clos et parqué de père en fils dans ton hameau, sans autre enseignement que le prône du dimanche, l’esprit raccorni par la misère, depuis des siècles tu n’as pas plus changé que ta maison. Tu es né vieux, mais immortel. Tu es né à l’âge où l’on abandonne les vastes espoirs et les vains projets. Tu représentes, de notre peuple, la force résistante dont la pire misère n’aura <pagenum num="34"/>point raison. Plus le sol est aride, et plus tu t’y incrustes. Plus le fardeau est lourd, et plus tu t’arc-boutes, sans songer à le rejeter d’un coup de reins. Tu ne sais pas que l’on s’occupe de t’en débarrasser. S’il faut te le répéter, je crois que tu ne le souhaites pas. Quand ce sera fait, tu t’assoiras au bord de ton champ, gêné d’une liberté dont tu ne sauras que faire, les mains soudain plus lourdes de n’être plus chargées de chaînes, l’âme chavirée d’entendre, dans le lointain, les coups de feu répondre aux coups sourds du tocsin, et la flûte moqueuse du <i>Ça ira</i> se marier aux trompettes ardentes qui sonnent la révolte.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1ch6">
+ <page-sequence id="p1ch6">
   <pagenum num="35"/>
 
 <h2>VI</h2>
@@ -271,10 +257,8 @@
 
 <p>Tu t’étais habitué à regarder la mort en face. Mais peut-être, malgré tout, crierait-on d’épouvante si on la voyait, si on la sentait au moment précis où elle se dresse, où elle vous frappe.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1ch7">
+ <page-sequence id="p1ch7">
   <pagenum num="41"/>
 
 <h2>VII</h2>
@@ -303,10 +287,8 @@
 
 <p>Ces réflexions, je ne prétends pas que tu te les sois toutes formulées de cette manière, mais je sais que tu les portais en toi-même.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1ch8">
+ <page-sequence id="p1ch8">
   <pagenum num="47"/>
 
 <h2>VIII</h2>
@@ -337,10 +319,8 @@
 
 <p>C’est dans une de ces maisons que tu naquis <pagenum num="54"/>et vécus tes premières années. Il me semble qu’il y devait faire chaud, l’hiver, même quand la porte était ouverte à cause de la fumée. Il me semble que le vent devait souffler plus fort qu’aujourd’hui, la neige rester plus longtemps sur les prés et dans les sentiers. Il me semble que les paroles prononcées sous le manteau de la vaste cheminée devaient être chargées de plus de sens et de plus de mystère. Il me semble que les vieilles légendes devaient être alors beaucoup plus vieilles qu’elles ne le sont aujourd’hui.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1ch9">
+ <page-sequence id="p1ch9">
   <pagenum num="55"/>
 
 <h2>IX</h2>
@@ -363,10 +343,8 @@
 
 <p>La vie pour les fermiers avait beau être dure en Morvan sous Louis-Philippe I<sup>er</sup> : à force d’économiser liard par liard, un jour arrivait où écus et pistoles sonnaient clair dans le bas de laine. Et parce qu’on voulait les faire fructifier tel était fermier la veille qui, le lendemain ouvrait auberge sur une route où, dimanches et jours de foire, les paysans allaient et venaient. Ce fut à quoi se résolut ton père. Et l’on vit, au pignon de l’une des dernières maisons de la route de Lormes à Brassy, se balancer au gré du vent cette branche de genévrier qu’on appelle « bouchon ».</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1ch10">
+ <page-sequence id="p1ch10">
   <pagenum num="59"/>
 
 <h2>X</h2>
@@ -385,10 +363,8 @@
 
 <p>J’ai beau chercher à me représenter l’enfant que tu étais alors. Je ne te vois te distinguant de tes frères et de tes camarades ni par des manières différentes, ni par des succès scolaires. Déjà ta destinée était de passer inaperçu de ceux qui ont des yeux pour ne point voir. Tu y aidas plus d’une fois toi-même par ton effacement volontaire, étant un de ces milliards d’épis, anonymes dans l’histoire, qui ne poussent que pour être fauchés un jour par la mort. C’est seulement lorsque la meule écrase leurs grains qu’on se rend compte qu’ils donnent beaucoup plus qu’ils n’avaient reçu.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p1ch11">
+</page-sequence>
+ <page-sequence id="p1ch11">
   <pagenum num="63"/>
 
 <h2>XI</h2>
@@ -404,7 +380,7 @@
 <p>Tu te fis « en 70 ». Je te vois sous les armes, soldat modèle et qui ne discutais point l’idée de patrie, puisque chez toi c’était un sentiment profond. Tu fus à Gravelotte et à toutes les batailles qui se livrèrent sous Metz. Tu me parlas des balles et des obus qui pleuvaient autour de vous et sur vous, des nuits à la belle étoile ou sous la tente, des étapes, de la cuisine vite <pagenum num="67"/>faite et parfois plus vite encore mangée. Tu n’eus même pas une écorchure. Fait prisonnier, tu fus emmené à Magdebourg. Là tu écrivis tes souvenirs de campagne sur un carnet de papier rugueux que j’ai tenu, jadis, plus d’une fois entre mes mains et que d’autres mains ont pour toujours égaré ; je ne me console pas de ne l’avoir point retrouvé. Des Prussiens, tu avais conservé la vision d’hommes à barbe jaune ou rousse, goinfres, et qui criaient à tout propos : Capout ! Tu croyais à l’Alsace-Lorraine comme à la patrie. Ta voix tremblait quand tu parlais des « Adieux de l’Alsace à la France » qu’après la guerre jouaient tous les orphéons, toutes les fanfares, toutes les musiques militaires, tous les orchestres :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l><i>France, à bientôt ! Car la sainte espérance</i></l>
 <l><i>Emplit nos cœurs en te disant adieu.</i></l>
 <l><i>En attendant l’heure de délivrance,</i></l>
@@ -414,10 +390,8 @@
 
 <p>Tu fus « délivré » avant l’Alsace. A Vincennes, tu retrouvas tes occupations. Deux ans après tu te mariais. A vous deux vous possédiez quelques économies. L’instant était venu <pagenum num="68"/>de fonder une maison et une famille. Vous auriez pu rester l’un et l’autre à Vincennes ou chercher une place à Paris. Tu pouvais alors prétendre à devenir sergent de ville. Mais, héritier de toutes ces générations de « pauvres laboureurs », c’était la campagne seule qui te faisait signe. Pourtant tu ne trouvas pas tout de suite ton équilibre.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1ch12">
+ <page-sequence id="p1ch12">
   <pagenum num="69"/>
 
 <h2>XII</h2>
@@ -449,11 +423,8 @@
 <p>Pour te rapprocher de l’église, tu louas, près des Promenades, cette maison où tu restas trente ans. Elle ne t’a jamais appartenu. Mais tu l’as faite tienne et nôtre. Encore aujourd’hui, je ne puis passer devant son seuil sans être tenté de le franchir : nous y avons laissé, moi plus que mon enfance, toi le meilleur de ta vie qui se trouva désormais partagée entre les jardins et l’église, entre le travail et la prière.</p>
  
   <pagenum num="74"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2">
- <div id="p2ch1">
+ <page-sequence id="p2ch1">
  <pagenum num="75"/>
 
 <h1>DEUXIÈME PARTIE</h1>
@@ -472,11 +443,8 @@
 
 <p>Ah ! Ils passeront à côté d’elle, méprisants parce qu’elle n’est pas célèbre. Mais, sa gloire, c’est justement de ne pas l’être, comme pour nous, nos titres de noblesse, c’est de n’en pas avoir. Elle et toi, à la fin des fins, vous vous imposez à l’attention parce que, trop longtemps, ils n’ont même pas soupçonné que vous puissiez mériter un regard distrait. Vous avez été les ouvriers de la première heure : que du moins à la douzième vous puissiez vous asseoir à la table du Père ! Parce que jamais vous n’avez réclamé votre salaire, qu’il vous soit enfin versé intégralement, sinon au centuple !</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch2">
+ <page-sequence id="p2ch2">
   <pagenum num="83"/>
 
 <h2>II</h2>
@@ -507,10 +475,8 @@
 
 <p>Et il n’y a pas que cette pièce. Juste en face de la porte d’entrée et séparant les deux alcôves, voici un corridor étroit et court. Ceux qui entrent <pagenum num="90"/>ici pour la première fois peuvent penser qu’il conduit à la cave. Mais nous savons que la cave est plus loin et qu’on trouve, après avoir suivi le corridor, une deuxième pièce qui est comme une autre maison. Deux vieux l’habitaient, que j’ai vus sans les voir, à l’époque où mes yeux s’ouvraient. On les appelait le père et la mère Louis. Je sais qu’ils étaient l’un et l’autre très vieux. Leur place eût été plutôt dans la chaumière enfumée d’un village ; mais, de cette pièce où ils vivaient, ils n’avaient pas eu de peine à faire comme une chaumière. Avec sa grande cheminée où deux pierres plates remplaçaient les chenets, ses quelques meubles anciens et ses murs non recouverts de papier, elle eût fait bonne figure auprès de la ferme de ton enfance. Les deux vieux s’en sont allés nous savons bien où : ils n’en reviendront pas. On a abattu la mince cloison de briques qui fermait le petit corridor. Nous nous sommes agrandis : nous avons loué la maison où vivaient le père et la mère Louis. Elle a sa porte et sa fenêtre percées dans le mur gouttereau qui regarde le sud-ouest : en été, le soleil ne les visite qu’à partir de dix heures du matin ; l’hiver c’est seulement <pagenum num="91"/>en allant se coucher qu’il leur dit bonsoir. Ainsi nous avons deux demeures bien différentes, quoique abritées sous ce même toit ; celle de la ville, dirais-je, et celle du village à qui le séjour et le souvenir du père et de la mère Louis donnent un cachet d’ancienneté qui me la rend chère. Dirai-je encore que c’est elle que je préfère ? Elle sert de cuisine, de salle à manger, de buanderie les jours de lessive, et de chambre de débarras. Derrière un rideau sont accrochés des vêtements. D’être tout près de la cave ses murs suintent, et par larges plaques le plâtre gonfle et menace de tomber. Il y a au plafond des taches d’humidité et de fumée. En toute saison il y fait froid. L’hiver nous n’y allumons de feu que par les très grandes gelées : nous nous tenons dans la maison de ville.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch3">
+ <page-sequence id="p2ch3">
   <pagenum num="92"/>
 
 <h2>III</h2>
@@ -545,10 +511,8 @@
 
 <p>Mais je n’y songe même pas. Je ne rêve pas d’une vie différente de celle que je découvre à mesure que j’y vois plus clair. Elle m’entoure de tous côtés. Elle épouse exactement tous les retraits de ma pensée, ou plutôt c’est ma pensée qui se moule sur elle. Il n’y a pas une défectuosité, pas un vide. Avec toutes ses dépendances, avec tous ses compléments, la maison fonctionne comme une machine parfaite. C’est toi qui l’as mise au point, qui la surveilles, qui la diriges. Notre vie ne s’en va pas au hasard, le long de routes indéterminées. Sur les deux rails de l’ordre et du travail qui la maintiennent, elle avance avec une force tranquille. Elle n’est point haletante. Lorsqu’elle s’arrête, c’est pour se reposer aux gares des beaux dimanches, par des matinées claires où le soleil est tout neuf <pagenum num="100"/> sur les marronniers reverdissants, par de chaudes après-midi où les cloches des vêpres fatiguent l’air qui tremble autour des ardoises étincelantes du clocher aigu.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch4">
+ <page-sequence id="p2ch4">
   <pagenum num="101"/>
 
 <h2>IV</h2>
@@ -613,10 +577,8 @@
 
 <p>Le crépuscule seul te ramenait à la maison. Nous mangions la soupe tantôt, dans la belle saison, porte et fenêtre ouvertes, tantôt, à partir de l’automne, le volet de la porte assujetti et les volets de la fenêtre fermés, la lampe posée au milieu de la table. Auparavant tu avais verrouillé poules et lapins pour jusqu’à l’aube du lendemain : tu ne redoutais pas qu’ils fussent malades pendant la nuit.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch5">
+ <page-sequence id="p2ch5">
   <pagenum num="110"/>
 
 <h2>V</h2>
@@ -657,10 +619,8 @@
 
 <p>Nos hôtes se retirant, une fois de plus la porte s’ouvrait. Lorsqu’ils partaient les pieds dans la neige et la tête dans les rafales, il me semblait qu’ils s’en allassent très loin, dans des pays inconnus peuplés de chouettes et de loups. J’étais tenté de leur crier, comme je l’avais lu dans mes premiers livres d’histoires : A la grâce de Dieu !</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch6">
+ <page-sequence id="p2ch6">
   <pagenum num="123"/>
 
 <h2>VI</h2>
@@ -777,10 +737,8 @@
 
 <p>Quant à la mère Nadée, triomphante, elle regarda le feu, de son banc, puis, comme cela ne changeait pas, elle alla tranquillement se coucher.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch7">
+ <page-sequence id="p2ch7">
  <pagenum num="134"/>
 
 <h2>VII</h2>
@@ -805,10 +763,8 @@
 
 <p>Sur les chênes, tu verras encore des feuilles, mais si jaunes qu’elles semblent être artificielles, comme si, de zinc, elles s’étaient rouillées sous les pluies du dernier automne. Plus rien de <pagenum num="139"/>vert, que les houx et le buis. Toute la vaste plaine est blanche, d’une blancheur qui fait mal aux yeux, doux à l’âme. Allons ! Nous avons de la neige sur la planche. Rentrons prendre nos quartiers d'hiver éternel.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch8">
+ <page-sequence id="p2ch8">
  <pagenum num="140"/>
 
 <h2>VIII</h2>
@@ -835,10 +791,8 @@
 
 <p>C’est surtout dans les petites villes que chacun devrait savourer son bonheur. On n’y voit guère de ces arrogants ni de ces moqueurs qui <pagenum num="146"/>dans les rues vous bousculent. Il n’y a guère de ces rivalités qui, dans les grandes villes encombrées d’ateliers et de bureaux, vous dressent l’un en face de l’autre, l’injure aux lèvres et la menace aux poings. Notre maison où tu rentrais chaque soir était le lieu de ta distraction et de ton repos. En elle tu trouvais le complément du bonheur qui pour toi consistait à consacrer au travail toutes les minutes de tes journées. Il n’y a rien de plus terrible, disais-tu, que de rester à ne savoir que faire de ses dix doigts.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch9">
+ <page-sequence id="p2ch9">
   <pagenum num="147"/>
 
 <h2>IX</h2>
@@ -941,10 +895,8 @@
 
 <p>Aujourd’hui Mlle Geneviève n’est pas loin de toi.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch10">
+ <page-sequence id="p2ch10">
   <pagenum num="163"/>
 
 <h2>X</h2>
@@ -975,10 +927,8 @@
 
 <p>Mais c’était notre vie. Maman aussi, de laver dans l’eau couverte de glace qu’il fallait casser à coups de pioche, ses mains n’étaient plus, comme tu disais, « qu’une crevasse ». C’était la vie de ceux à chaque jour de qui suffit sa peine, parce que le lendemain vient, lui aussi, avec sa peine. Mais si tu parlais de tes souffrances, ce n’était pas pour t’en plaindre : elles faisaient partie de ton travail.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch11">
+ <page-sequence id="p2ch11">
  <pagenum num="167"/>
 
 <h2>XI</h2>
@@ -1001,10 +951,8 @@
 
 <p>Les soirs d’été tu aurais pu, quittant notre seuil, te mêler au groupe qui, quelques maisons plus loin, en racontait de bien bonnes au clair des étoiles. Il suffisait d’entendre s’épanouir leurs rires pour s’imaginer l’épanouissement de leurs faces. Tu ne bougeais pas, préférant ta solitude, n’étant pas fait pour te mêler à des groupes dont tu aurais été obligé de prendre le ton. Tu ne te hérissais pas de piquants. Tu te dissimulais si bien depuis toujours que <pagenum num="173"/>personne ne songeait à s’apercevoir de ton absence : on eût été beaucoup plus étonné de te voir.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2ch12">
+ <page-sequence id="p2ch12">
   <pagenum num="174"/>
 
 <h2>XII</h2>
@@ -1061,11 +1009,8 @@
 
 <p>Mais je devine que tu me vois et que tu m’écoutes. Quand je fréquentais l’école maternelle que dirigeait sœur Marthe, les jours de grande neige tu m’y portais sur tes épaules. Le reste du temps, tu m’y menais par la main. Tu ne pourrais plus me porter. Mais je peux encore te laisser me conduire à l’école de ta vie.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3">
- <div id="p3ch1">
+ <page-sequence id="p3ch1">
   <pagenum num="185"/>
 
 <h1>TROISIÈME PARTIE</h1>
@@ -1082,11 +1027,8 @@
 
 <p>Par quelque route qu’on arrive, c’est elle que d’abord on aperçoit, bâtie sur un terre-plein qui domine notre petite ville. Sa façade regarde l’ouest, d’où viennent les pluies ; son abside, boursouflée de chapelles rondes que séparent des tertres gazonnés, reçoit les premiers rayons du soleil levant. De quelque côté qu’on la voie, elle s’impose : ramassée sur elle-même, avec son clocher qu’on dirait posé juste au-dessus du chœur quand on la regarde de l’est, harmonieusement allongée pour qui l’examine du sud. Les hirondelles et les nuages connaissent son coq. Elle est trop bien placée pour ne pas souffrir des intempéries des saisons. Le ciment de ses murs s’écaille. Les pierres de ses piliers extérieurs se fendent lorsqu’il gèle fort. Les jours de grand vent des ardoises s’envolent de ses toits. <pagenum num="188"/>Ses nefs, son chœur même sont trop clairs. Il n’y a pas, sur ses vitraux neufs, cette délicate poussière des siècles qui tamise la lumière. On n’y trouve point cette obscure clarté, ce demi-jour mélancolique qui sont l’âme des anciennes églises. On y chercherait vainement des statues de saints en bois à peine dégrossi, des inscriptions taillées à même les dalles, illisibles parce que les pas de vingt générations ont fini par en effacer les lettres. Tout y est d’aujourd’hui, depuis la grande chaire sculptée jusqu’aux petits bénitiers en porcelaine blanche. Il suffit de regarder l’ouverture cintrée de la tribune pour s’étonner de n’y point voir, en une double flûte de Pan, les tuyaux de montre d’un orgue.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3ch2">
+ <page-sequence id="p3ch2">
   <pagenum num="189"/>
 
 <h2>II</h2>
@@ -1101,10 +1043,8 @@
 
 <p>Je n’ai pas besoin, moi, pour voir l’église, de me retourner. C’est de loin que je la vois le <pagenum num="192"/>mieux, par exemple de Paris, ou d’ici, près de toi, les yeux fermés. J’aurais beau vouloir la retrancher de ma pensée : je ne le pourrais pas plus que supprimer mon enfance. Je souffrirais de la comparer aux cathédrales célèbres : sous leurs voûtes circulent des touristes indifférents, guide en mains et l’étui noir de la jumelle battant sur leur cache-poussière beige. A la vérité il en vient quelques-uns ici ; mais ce qu’ils regardent surtout, c’est le panorama que du cimetière on découvre. Parfois, les beaux matins d’été, quand tu as laissé la grand’porte ouverte à deux battants, ils entrent. Ces étrangers sont pour moi des intrus. Que ne puis-je les chasser du Temple ! C est comme s’ils entraient dans notre maison. Mes souvenirs, que presque chaque jour multiplie et qui prospèrent à l’ombre de ce pilier, dans cette chapelle silencieuse, dans les deux sacristies, dans le chœur, à la tribune où pendent les cordes des trois cloches, ces touristes passent devant et marchent dessus sans en soupçonner la présence. Ils ne sentent point qu’ils ne sont pas chez eux. Notre église est le lieu de la solitude, du recueillement et de la prière. Elle est grande. Pourtant il n’y a point <pagenum num="193"/>place en elle pour ceux qui parcourent le monde en quête de sensations toujours nouvelles devant des horizons sans cesse renouvelés. Chez elle, chez nous, ils ont vite fait de s’ennuyer. Elle ne leur offre ni ces vitraux anciens, ni ces sculptures naïves qu’ils prisent si fort. Elle ne propose point à leurs courtes méditations l’actualité, toujours vivante dans les vieux monuments, d’un passé que des pierres travaillées rattachent au présent. Ils s’en vont tout de suite. Bon voyage, touristes ! Nous, nous restons ici, dans cette église que tu connais tout entière, de la charpente du clocher aux larges dalles : et, ces dalles, tu les connais une par une.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3ch3">
+ <page-sequence id="p3ch3">
   <pagenum num="194"/>
 
 <h2>III</h2>
@@ -1123,10 +1063,8 @@
 
 <p>Nous nous rappelons ces belles matinées des samedis d’été quand le soleil pénétrait, du côté de l’Epitre, à travers les vitraux dont certains représentaient des saints. De splendides rayons <pagenum num="198"/>s’allongeaient jusque « du côté de l’Evangile », et il y avait là, comme spiritualisée, toute la lumière du matin. Quand tu arrosais les dalles et qu’un souffle de brise arrivait par la grand’porte ouverte, il y avait là, comme spiritualisée de se mêler au parfum persistant de l’encens, toute la fraîcheur du matin. Aucun bruit ne parvenait des alentours. Le cimetière est un endroit bien silencieux, n’est-ce pas ? Les huit ou dix maisons dont se compose le quartier de la cure ont emprunté, ce semble, à l’église et au cimetière proches, des habitudes de paix qu’on ne rencontre pas ailleurs. Et puis, sur sa plateforme d’où elle domine toute la petite ville, tout entourée de pelouses, la maison de Dieu ne voisine que de loin et de haut avec les maisons des hommes.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3ch4">
+ <page-sequence id="p3ch4">
   <pagenum num="199"/>
 
 <h2>IV</h2>
@@ -1185,10 +1123,8 @@
 
 <p>Tu connaissais aussi l’Apocalypse. Je n’étais guère rassuré lorsqu’à la suite du frère Stanislas tu prédisais l’avènement prochain de l’Antéchrist. Tu répétais que, venu le jour du Jugement dernier, tous les morts, nous tous, nous nous lèverons au son de la grande trompette de l’Ange porté sur les nuées. Nous rejetterons, comme d’inutiles manteaux, les pierres de nos sépulcres pour attendre la sentence du Souverain Juge. Heureux alors ceux qui pourront suivre l’Agneau !</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3ch5">
+ <page-sequence id="p3ch5">
   <pagenum num="209"/>
 
 <h2>V</h2>
@@ -1205,10 +1141,8 @@
 
 <p>Durant les deux semaines d’après Pâques, tu allais dans les villages, marchant à cinq pas en avant du vicaire en surplis qui « portait le Bon Dieu » aux vieux et aux vieilles sans forces pour venir faire leurs Pâques à l’église. De toute l’année, c’étaient tes seules promenades. Encore ne le faisais-tu que pénétré du sentiment de la présence réelle de Dieu que tu précédais. Comme si ç’eût été la nuit, tu portais de la main gauche la lanterne ronde où brûlait une bougie, tandis que ta droite, tout le temps que vous mettiez à traverser la petite ville, agitait la sonnette. Des femmes, sur votre passage, se mettaient à genoux à l’endroit même où elles se trouvaient, avant que vous ne fussiez arrivés à leur hauteur. Après, c’étaient les bois, les champs et les près où, selon les hasards des années, il restait de la neige, bien que les <pagenum num="212"/>cloches de Pâques eussent proclamé le retour du printemps. Parfois sur la route vous rencontriez des paysans ; d’autres, parfois, de leurs champs où ils étaient occupés à « rouler » leurs blés, vous apercevaient. D’ailleurs tu sonnais pour les avertir. Et, se découvrant, ils s’agenouillaient sur la terre molle et noire de leurs sillons. Et le vent du matin gonflait le surplis blanc du vicaire, mais il n’avait pas raison de la flamme de la bougie qui, sur la route des hommes, traçait, comme une étoile, l’autre route de Dieu.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3ch6">
+ <page-sequence id="p3ch6">
  <pagenum num="213"/>
 
 <h2>VI</h2>
@@ -1273,10 +1207,8 @@
 
 <p>Ce n’est pas seulement le jour même de la fête : Noël dure au moins quinze jours, jusqu’au dimanche de l’Epiphanie où tu vois tous les peuples de la terre prendre le chemin de l’étable, chacun portant ses présents. Tu apportais, toi, un cœur pur et une âme pacifiée. Pour ceux qui ne songent qu’aux biens d’ici-bas, ce sont quinze jours de réjouissances, du réveillon au gâteau des Rois. Les enfants soufflent dans des trompettes en fer-blanc et tapent sur des tambours dont la peau ne résiste pas longtemps. Les familles se font des visites. Les hommes boivent la goutte sur des coins de tables. Toi, tu ne sors pas. Plus que jamais ta vie se partage entre la maison et l’église. Tu te hâtes de rentrer. Tu mets tes pantoufles et, près du poêle qui ronfle, plus que jamais tu lis et relis tes vies de saints.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3ch7">
+ <page-sequence id="p3ch7">
   <pagenum num="224"/>
 
 <h2>VII</h2>
@@ -1285,10 +1217,8 @@
 
 <p>Tout est plus clair, tout est plus beau le dimanche de Pâques, même si le ciel est gris, même, comme cela se voit parfois dans nos pays, si la terre est blanche de neige. Tout est éclairé, pour toi, par une lumière dont le foyer est en toi. <pagenum num="228"/>Ce n’est pas seulement sous les espèces de l’hostie que tu communies avec Dieu, mais, dans un sentiment de reconnaissance pour ce qu’après l’hiver et le Carême il ait fait le printemps et Pâques. Tu n’avais pas avant aujourd’hui remarqué vraiment que l’herbe reverdit, ni qu’il y eût des violettes.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3ch8">
+ <page-sequence id="p3ch8">
   <pagenum num="229"/>
 
 <h2>VIII</h2>
@@ -1305,10 +1235,8 @@
 
 <p>Le Saint-Esprit descend le dimanche de la Pentecôte. Ce jour-là tu es encore de cœur avec les douze. Il fait chaud. L’air est calme. Mais tu entends soudain comme un bruit de tempête qui remplit toute l’église. Je ne dirai point que tu reçoives le don des langues parce qu’une langue de feu aurait palpité au-dessus de ta tête. Mais tu sais qu’il en fut ainsi pour les douze, et tu admires l’infinie puissance de Dieu.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3ch9">
+ <page-sequence id="p3ch9">
   <pagenum num="233"/>
 
 <h2>IX</h2>
@@ -1323,10 +1251,8 @@
 
 <p>Et puis les jours s’en vont. Ils passent l’un après l’autre comme des voyageurs qu’on ne reverra jamais. Le 6 Septembre de l’année prochaine n’aura point le même visage que le 6 Septembre de cette année. Tu le regarderas bien en face : il aura les cheveux un peu plus gris ; il traînera un peu plus ses sabots sur la route. Les jours passent. Comme moi qui m’amuse à donner des coups de pied aux poteaux du télégraphe, les jours secouent violemment les arbres. Les poteaux résistent, mais les arbres consentent à se séparer de leurs feuilles. Elles meurent. Et la Toussaint est bien l’achèvement du cycle de l’année religieuse. Après elle, tu recommenceras de vivre dans l’attente. Avec elle tu te remémores une dernière fois, comme on accorde un regard aux compagnons de route que l’on va quitter, les gloires, les luttes et les douleurs de l’Eglise triomphante, militante et souffrante. Les saints sont innombrables. Il n’y a pas que <pagenum num="240"/>les cent quarante-quatre mille « marqués » des douze tribus d’Israël. Il y a encore une grande multitude que personne ne peut dénombrer, de toute nation, de toute tribu, de tout peuple et de toute langue. Ils se tiennent devant le trône et devant l’Agneau, vêtus de robes blanches. Et ils ont des palmes à la main. Tu les vois, jouissant de la béatitude éternelle, et n’aspires qu’à les rejoindre.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3ch10">
+ <page-sequence id="p3ch10">
   <pagenum num="241"/>
 
 <h2>X</h2>
@@ -1363,10 +1289,8 @@
 
 <p>Plus d’une âme incertaine cherche sa raison d’être, qu’elle ne trouve pas toujours, dans un de ces héros glorieux qu’elle voudrait comme modèle, ou comme complément d’elle-même. Toi, tu avais trouvé Dieu. Tu as choisi la meilleure part ; qu’elle ne te soit pas enlevée !</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3ch11">
+ <page-sequence id="p3ch11">
   <pagenum num="251"/>
 
 <h2>XI</h2>
@@ -1389,7 +1313,7 @@
 
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l><i>Judex ergo cum sedebit</i>,</l>
 <l><i>Quidquid latet apparebit :</i></l>
@@ -1418,10 +1342,8 @@
 
 <p>Ils t’ont descendu dans la terre, non loin de notre ancien jardin où j’avais planté un marronnier qui est perdu pour moi, mais qui, dans dix ans, aurait eu des branches assez longues avec assez de feuilles pour que, sur un banc, tu puisses t’asseoir et te reposer à son ombre. Tu en es séparé par toute la largeur de l’étroit sentier qui rampe entre le mur du cimetière et la haie du jardin. Mais non loin de ta tombe se dresse la haute croix à l’ombre de laquelle tu dormiras longtemps.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
-<div id="p3ch12">
+ <page-sequence id="p3ch12">
  <pagenum num="256"/>
 
 <h2>XII</h2>
@@ -1458,7 +1380,6 @@
 
 <h2>F<s>IN</s></h2>
 
-</div>
  </page-sequence>
  </page-sequences>
 </bml>
