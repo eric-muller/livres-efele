@@ -8,14 +8,10 @@
             value='c:/users/emuller/home/eric/epub/kindlegen/2.9/kindlegen.exe'/>
   <property name='rnv'
             value='c:/Program Files (x86)/rnv-1.7.9/rnv.exe'/>
-  <property name='epubcheck11'
-            value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-1.1/epubcheck-1.1.jar'/>
-  <property name='epubcheck30'
-            value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-3.0b1/epubcheck-3.0b1.jar'/>
-  <property name='epubcheck402'
-            value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-4.0.2/epubcheck.jar'/>
-  <property name='epubcheck425'
-            value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-4.2.5/epubcheck.jar'/>
+
+  <property name='epubcheck500'
+            value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-5.0.0-beta-1/epubcheck.jar'/>
+
 
   <property name='exportdir'
             value='c:/users/emuller/home/eric/efele.net/ebooks/livres'/>
@@ -110,19 +106,10 @@
   </macrodef>
 
 
-  <macrodef name='epub2check'>
-    <attribute name='epub'/>
-    <sequential>
-      <java jar='${epubcheck425}' fork='true'>
-        <arg value="@{epub}"/>
-      </java>
-    </sequential>
-  </macrodef>
-
   <macrodef name='epub3check'>
     <attribute name='epub'/>
     <sequential>
-      <java jar='${epubcheck425}' fork='true'>
+      <java jar='${epubcheck500}' fork='true'>
         <arg value="@{epub}"/>
       </java>
     </sequential>
@@ -305,9 +292,9 @@
     <process-collections a='build-collection'/>
   </target>
 
-  <target name='build-book' depends='tirages-book,thumbnail-book,newsfeedentry-book,catalog-book,desc-book,opds-book'/>
+  <target name='build-book' depends='tirages-book,thumbnail-book,newsfeedentry-book,catalog-book,desc-book'/>
 
-  <target name='build-collection' depends='tirages-collection,thumbnail-collection,catalog-collection,desc-collection,opds-collection'/>
+  <target name='build-collection' depends='tirages-collection,thumbnail-collection,catalog-collection,desc-collection'/>
 
 
   <target name='tirages'>
@@ -326,8 +313,6 @@
     <mkdir dir='results/${id}'/>
 
     <zip-tirage tirage='epub'      ext=''/>
-    <zip-tirage tirage='mobi'      ext=''/>
-    <zip-tirage tirage='daisy'     ext='.zip'/>
   </target>
 
   <macrodef name='zip-tirage'>
@@ -343,7 +328,6 @@
 
     </sequential>
   </macrodef>
-
 
 
 
@@ -381,16 +365,8 @@
         <arg line="( +clone -background grey -shadow 80x3+3+3 ) +swap -background none -mosaic"/>
         <arg line="@{dest}/thumbnail.png"/>
       </exec>
-
-      <exec executable='${imagemagick}'>
-        <arg line="@{src}"/>
-        <arg line="-resize 240x> -resize x240>"/>
-        <arg line="-gravity center -extent 240x240"/>
-        <arg line="@{dest}/thumbnail-tw.png"/>
-      </exec>
     </sequential>
   </macrodef>
-
 
   <target name='newsfeedentry'>
     <process-books a='newsfeedentry-book'/>
@@ -424,22 +400,6 @@
       <arg value="-s:${x}.bml"/>
     </java>
   </target>
-
-
-  <target name='foo'>
-    <process-books a='foo-book'/>
-  </target>
-
-  <target name='foo-book'>
-    <echo>----------------------------------- ${id} ${x}</echo>
-      <java classname="net.sf.saxon.Transform" fork="true">
-        <classpath refid="classpath"/>
-        <arg value="-xsl:${tools}/foo.xsl"/>
-        <arg value="-o:foo"/>
-        <arg value="-s:${x}.bml"/>
-      </java>
-  </target>
-
 
   <target name='catalog'>
     <process-books a='catalog-book'/>
@@ -690,10 +650,6 @@
   <target name='tidystrong' depends="tidy">
     <delete>
       <fileset dir="results" includes="**/*.epub"/>
-      <fileset dir="results" includes="**/*.daisy.zip"/>
-      <fileset dir="results" includes="**/*.epub"/>
-      <fileset dir="results" includes="**/*.mobi"/>
-      <fileset dir="results" includes="**/*_sources.zip"/>
     </delete>
   </target>
 
