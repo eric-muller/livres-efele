@@ -31,7 +31,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000159"
         creation="2011-11-20T00:00:00-08:00"
-        modification="2014-12-31T18:13:59-08:00">
+        modification="2022-06-19T10:55:55-07:00">
 
       <titre>Les diaboliques</titre>
 
@@ -59,9 +59,7 @@
 
 
  <page-sequences>
-
- <page-sequence>
-<div id="avertissement">
+ <page-sequence id="avertissement" recto='true'>
 <p>L<s>ES</s> D<s>IABOLIQUES</s> <i>ne pouvant être réimprimées dans une édition isolée et spéciale, nous remercions</i> M. E. D<s>ENTU</s>, <i>leur premier éditeur, de la bonne grâce avec laquelle il nous a autorisé à faire entrer cet ouvrage dans les</i> Œ<s>UVRES COMPLÈTES</s> <i>de</i> M. J. B<s>ARBEY D’</s>A<s>UREVILLY</s>.</p>
 
 <vsep class='emptyline'/>
@@ -69,11 +67,8 @@
 <p class="r3">L’Éditeur,</p>
 <p class="r3">A. L.</p>
 
-</div>
  </page-sequence>
-
- <page-sequence>
- <div id="dedicace">
+ <page-sequence id="dedicace" recto='true'>
 
 <vsep class="fewlines"/>
 
@@ -83,11 +78,9 @@
 
 <p class="r3">J. B. <s>D</s>’A.</p>
 
- </div>
  </page-sequence>
 
- <page-sequence>
- <div id="preface">
+ <page-sequence id="preface" recto='true'>
 <pagenum num="1"/> 
 
 <img class="center" src="images/p1.png" alt="decoration"/>
@@ -142,25 +135,20 @@
 <vsep class="emptyline"/>
 
 <p>Paris, <s>I</s><sup>er</sup> mai 1874.</p>
- </div>
  </page-sequence>
  
-<page-sequence>
- <div>
+<page-sequence id="le_rideau_cramoisi" recto='true'>
  <pagenum num="5"/>
 <h1>LE RIDEAU CRAMOISI</h1>
  <pagenum num="6"/> 
- </div>
 </page-sequence>
 
-<page-sequence>
-<div id="le_rideau_cramoisi">
+<page-sequence recto='true'>
  <pagenum num="7"/> 
 
 <img class="center" src="images/p7.png" alt="decoration"/>
 
 <h1>Les Diaboliques</h1>
-
 
 <vsep class="rule"/>
 
@@ -375,22 +363,15 @@
 <img class="center" src="images/p91.png" alt="decoration"/>
 
  <pagenum num="92"/>
-</div>
 </page-sequence>
- 
-
-<page-sequence>
-<div>
+<page-sequence id="le_plus_bel_amour_de_don_juan" recto='true'>
  <pagenum num="93"/>
 
 <h1>LE PLUS BEL AMOUR DE DON JUAN</h1>
 
  <pagenum num="94"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="le_plus_bel_amour_de_don_juan">
+<page-sequence recto='true'>
  <pagenum num="95"/>
 
 <img class="center" src="images/p95.png" alt="decoration"/>
@@ -453,7 +434,7 @@
 <p>— Don Juan a fort bien pris la chose et très bien soupé,</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>... Lui, tout seul, devant elles !</l>
 </poem>
 </blockquote>
@@ -466,11 +447,8 @@
 
 <vsep class="rule"/>
 
-</div>
 </page-sequence>
-
 <page-sequence>
-<div>
 <pagenum num="99"/>
 
 <h2>II</h2>
@@ -503,11 +481,8 @@
 
 <vsep class="rule"/>
 
-</div>
 </page-sequence>
-
 <page-sequence>
-<div>
 <pagenum num="107"/>
 
 <h2>III</h2>
@@ -548,11 +523,8 @@
 
 <vsep class="rule"/>
 
-</div>
 </page-sequence>
-
 <page-sequence>
-<div>
 <pagenum num="113"/>
 
 <h2>IV</h2>
@@ -601,11 +573,8 @@
 
 <vsep class="rule"/>
 
-</div>
 </page-sequence>
-
 <page-sequence>
-<div>
 <pagenum num="122"/>
 
 <h2>V</h2>
@@ -697,21 +666,15 @@
 <vsep class="rule"/>
 
  <pagenum num="134"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div>
+<page-sequence id="le_bonheur_dans_le_crime" recto='true'>
  <pagenum num="135"/>
 
 <h1>LE BONHEUR DANS LE CRIME</h1>
 
  <pagenum num="136"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="le_bonheur_dans_le_crime">
+<page-sequence recto='true'>
  <pagenum num="137"/>
 
 <img class="center" src="images/p137.png" alt="decoration"/>
@@ -719,7 +682,6 @@
 <h1><i>LE BONHEUR DANS LE CRIME</i></h1>
 
 <vsep class="rule"/>
-
 
 <epigraphe>
 <p>Dans ce temps délicieux, quand on raconte une histoire vraie, c’est à croire que le Diable a dicté...</p>
@@ -991,21 +953,15 @@
 <img class="center" src="images/p221.png" alt="decoration"/>
 
  <pagenum num="222"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div>
+<page-sequence id="le_dessous_de_cartes_d_une_partie_de_whist" recto='true'>
  <pagenum num="223"/>
 
 <h1>LE DESSOUS DE CARTES D’UNE PARTIE DE WHIST</h1>
 
  <pagenum num="224"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="le_dessous_de_cartes_d_une_partie_de_whist">
+<page-sequence recto='true'>
  <pagenum num="225"/>
 
 <img class="center" src="images/p225.png" alt="decoration"/>
@@ -1013,7 +969,6 @@
 <h1>LE DESSOUS DE CARTES D’UNE PARTIE DE WHIST</h1>
 
 <vsep class="rule"/>
-
 
 <epigraphe>
 <p>— Vous moquez-vous de nous, monsieur, avec une pareille histoire ?</p>
@@ -1090,11 +1045,8 @@
 
 <vsep class="rule"/>
 
-</div>
 </page-sequence>
-
 <page-sequence>
-<div>
  <pagenum num="241"/>
 
 <h2>II</h2>
@@ -1170,11 +1122,8 @@
 <p>« — Nous sommes bien bêtes — avait dit un soir, dogmatiquement, la comtesse de Hautcardon, — et cela remontait à plusieurs années — de nous donner un tel <i>tintouin</i> pour savoir ce qu’il y a dans le fond de l’âme de cette femme : probablement il n’y a rien ! »</p>
 
 <vsep class="rule"/>
-</div>
 </page-sequence>
-
 <page-sequence>
-<div>
  <pagenum num="262"/>
 <h2>III</h2>
 
@@ -1326,21 +1275,15 @@
 
 <img class="center" src="images/p300.png" alt="decoration"/>
 
-</div>
 </page-sequence>
-
-<page-sequence>
-<div>
+<page-sequence id="a_un_diner_d_athees" recto='true'>
  <pagenum num="301"/>
 
 <h1>A UN DINER D’ATHÉES</h1>
 
  <pagenum num="302"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="a_un_diner_d_athees">
+<page-sequence recto='true'>
  <pagenum num="303"/>
 
 <img class="center" src="images/p303.png" alt="decoration"/>
@@ -1560,7 +1503,7 @@
 <p>« Parbleu ! — repartit Mesnilgrand, — qu’ai-je à respecter ? Vous savez tous la chanson qu’on chantait au <s>XVIII</s><sup>e</sup> siècle :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Quand Boufflers parut à la cour,</l>
 <l>On crut voir la reine d’amour.</l>
 <l>Chacun s’empressait à lui plaire,</l>
@@ -1693,21 +1636,15 @@
 <img class="center" src="images/p401.png" alt="decoration"/>
 
  <pagenum num="402"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div>
+<page-sequence id="la_vengeance_d_une_femme" recto='true'>
  <pagenum num="403"/>
 
 <h1>LA VENGEANCE D’UNE FEMME</h1>
 
  <pagenum num="404"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="la_vengeance_d_une_femme">
+<page-sequence recto='true'>
  <pagenum num="405"/>
 
 <img class="center" src="images/p405.png" alt="decoration"/>
@@ -1923,17 +1860,13 @@
 
 <img class="center" src="images/p468.png" alt="decoration"/>
 
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="table">
+<page-sequence id="table" recto='true'>
  <pagenum num="469"/>
 
 <img class="center" src="images/table1.png" alt="decoration"/>
 
 <h1>TABLE</h1>
-
 
 <p class="sommaire"><a idref='avertissement'>A<s>VERTISSEMENT</s></a></p>
 <p class="sommaire"><a idref='dedicace'>D<s>ÉDICACE</s></a></p>
@@ -1947,7 +1880,6 @@
 
 <img class="center" src="images/table2.png" alt="decoration"/>
 
-</div>
 </page-sequence>
  </page-sequences>
 </bml>
