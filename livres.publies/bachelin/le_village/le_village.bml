@@ -30,7 +30,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000310"
         creation="2013-07-13T00:00:00-08:00"
-        modification="2014-12-31T18:13:22-08:00">
+        modification="2022-06-19T08:54:53-07:00">
       
       <titre>Le village</titre>
 
@@ -54,6 +54,7 @@
       <tocentry idref="p1.VIII" label="VIII"/>
       <tocentry idref="p1.IX" label="IX"/>
       <tocentry idref="p1.X" label="X"/>
+      <tocentry idref="p1.XI" label="XI"/>
     </tocentry>
     <tocentry idref="p2" label="Deuxième partie">
       <tocentry idref="p2.I" label="I"/>
@@ -87,8 +88,7 @@
 
  <page-sequences>
 
- <page-sequence>
- <div id="preface">
+ <page-sequence id="preface" recto='true'>
 <pagenum num="1"/>
 
 <epigraphe>
@@ -102,7 +102,7 @@
 <p>Il a pris la place qu’occupait, jadis, le « hameau ». C’était si joli, couplé avec sa rime obligée : « ormeau » ! Ce n’étaient que bergers, fillettes et musettes ! Et je m’en voudrais d’oublier le chalumeau. Non pas qu’on n’ait eu recours qu’au hameau. Mais le titre de l’intermède de Jean-Jacques et l’indication du décor sont à cet égard bien caractéristiques. Le titre ? <i>Le Devin de</i> <s>VILLAGE</s>. Le décor ? <i>Le théâtre représente d’un côté la maison du devin ; de l’autre, des arbres et des fontaines et, dans le fond, un</i> <s>hameau</s>. Et encore Colin chante tantôt :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l><i>Je sus lui plaire en habit de</i> <s>VILLAGE</s>.</l>
 </poem>
 </blockquote>
@@ -111,7 +111,7 @@
 <p class="cont">et tantôt :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l><i>Et je vais pour jamais m’éloigner du</i> <s>HAMEAU</s>.</l>
 </poem>
 </blockquote>
@@ -143,11 +143,8 @@
 <p class="r3">Décembre 1912.</p>
 
   <pagenum num="6"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1">
- <div id="p1.I">
+ <page-sequence id="p1.I" recto='true'>
  <pagenum num="7"/>
 
 <h1>LE VILLAGE</h1>
@@ -218,11 +215,8 @@
 
 <p>Le monde est grand ! Et il tenait tout entier dans le cerveau de Vincent. Ce qu’il n’en connaissait pas il se le représentait à sa façon, comme il voyait à sa façon les chaumières, les champs et les bois de son village.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.II">
+ <page-sequence id="p1.II">
   <pagenum num="15"/>
 
 <h2>II</h2>
@@ -245,10 +239,8 @@
 
 <p>A l’entendre on aurait pu croire que la semaine lui avait paru longue dans l’attente de ce jour. Dimanche ou mercredi, qu’y avait-il de changé pour lui ? Il n’allait ni écouter la messe à l’église de la petite ville trop éloignée, ni boire à l’auberge ; le vin coûte cher, et puis pas une auberge au village ! L’été il travaillait aussi bien le dimanche que les jours de semaine ; l’hiver, tant que durait la neige il se reposait. Demain si l’envie l’en prenait il scierait du bois pour se distraire. Aussi la petite Jeannette ne prit-elle même pas la peine de lui répondre. Ils n’en étaient plus à se mettre en frais d’amabilité l’un pour l’autre.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.III">
+ <page-sequence id="p1.III">
   <pagenum num="18"/>
 
 <h2>III</h2>
@@ -301,10 +293,8 @@
 
 <p>Mais Vincent ne pouvait sentir cela que confusément. Ses souvenirs d’histoire sainte étaient vagues et il ne <pagenum num="23"/>pensait pas souvent à Dieu. Mais s’il n’allait à l’église que pour les grandes fêtes il savait que c’est Dieu qui se fâche quand le tonnerre gronde et il n’aurait pas entamé un pain sans le marquer, avec la pointe de son couteau, du signe de la croix.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.IV">
+ <page-sequence id="p1.IV">
   <pagenum num="24"/>
 
 <h2>IV</h2>
@@ -369,10 +359,8 @@
 
 <p>Elle avait deux sœurs, l’une de deux ans, l’autre de cinq ans plus âgées qu’elle. Toutes deux étaient à Paris où Césarine, la plus vieille, tenait une fruiterie ; l’autre, Léonie, d’abord femme de chambre, s’était mariée avec un cocher d’omnibus. Depuis leur départ qui remontait à presque trente ans, on ne les avait jamais revues. Elles écrivaient une fois par an aux environs du 1<sup>er</sup> janvier, époque à laquelle Césarine envoyait à leur mère une livre de café : la vieille n’en profitait guère. Elle s’était mariée tard ; sa fille aînée avait aujourd’hui l’âge de Vincent. Elle-même entrait dans sa quatre-<pagenum num="28"/>vingt-cinquième année. Elle était la plus vieille du village, et, comme le disait Blandin, elle ne se décidait pas vite à mourir. Ses souvenirs étaient trop nombreux pour ne se point confondre.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.V">
+ <page-sequence id="p1.V">
   <pagenum num="29"/>
 
 <h2>V</h2>
@@ -403,10 +391,8 @@
 
 <p>Elle ne se lassait pas de redire que tout cela était bien fini, que chacun ne vivait plus que pour soi. Elle-même vivait chez elle, dans sa chaumière qui faisait corps avec la maison de Blandin. Celui-ci attendait que la vieille fit place nette pour percer dans le mur une porte de communication. Annette grandissant, ils se trouvaient un peu à l’étroit.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.VI">
+ <page-sequence id="p1.VI">
   <pagenum num="33"/>
 
 <h2>VI</h2>
@@ -453,10 +439,8 @@
 
 <p>Tout cela faisait partie des choses que l’on ne comprend pas. Ils n’étaient pas seulement au milieu de l’hiver et de la misère humaine ; ils vivaient entourés de mystères. Le monde était habité par des forces obscures qu’ils divinisaient. Faibles, ils les sentaient liguées contre eux. Ils tâchaient tantôt de se les rendre favorables par des invocations et des signes, tantôt de conjurer leur mauvais vouloir par d’humbles sacrifices, tantôt, enfin, de deviner leurs dispositions au moyen d’indices sûrs qu’ils tenaient de leurs ancêtres.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.VII">
+ <page-sequence id="p1.VII">
   <pagenum num="38"/>
 
 <h2>VII</h2>
@@ -527,10 +511,8 @@
 
 <p>Elle ne dormit pas de la nuit. Elle ne fit que se tourner et se retourner dans le lit. Vincent ne bougeait pas. Mais jusqu’à deux heures du matin, où ses yeux enfin se fermèrent, il se demanda s’il pourrait acheter le pré de Bourgadier.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.VIII">
+ <page-sequence id="p1.VIII">
   <pagenum num="41"/>
 
 <h2>VIII</h2>
@@ -575,10 +557,8 @@
 
 <p>La porte des Vincent se referma sur Pierre qui partait pour assister à la messe. Au mois de juin de l’année prochaine il devait faire sa première communion et, quelque temps qu’il fît, il ne lui était pas permis de manquer la messe le dimanche. Vincent et la petite Jeannette eussent été désolés à l’idée que sa première communion pût être reculée d’un an. Il s’en alla avec les sabots et la casquette qu’il avait hier. Il n’avait <pagenum num="47"/>changé que de pantalon et de blouse. Bien différent de Mary, il aurait mieux aimé passer ses dimanches aux Vernes, comme il faisait de ses jeudis. Lorsqu’il se trouva sur la route, il fut presque dépaysé et se retourna pour regarder le village, comme s’il fût parti pour très longtemps. Il était seul. Annette elle-même, qui aimait beaucoup aller en ville, ne se dérangeait pas : il faisait par trop vilain temps.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.IX">
+ <page-sequence id="p1.IX">
   <pagenum num="48"/>
 
 <h2>IX</h2>
@@ -623,10 +603,8 @@
 
 <p>Au moment de l’élévation, Vincent inclina la tête comme tout le monde. Il se passait quelque chose qui était au-dessus de son entendement. Dieu avait envoyé son Fils sur la terre pour sauver les hommes, lui Vincent aussi bien que les autres, pour leur permettre d’entrer un jour au Paradis. Il ne pensait pas à tout cela lorsqu’il avait trente ans. Maintenant que ses cheveux commençaient à blanchir il lui arrivait d’essayer de regarder par-delà cette vie. comme lorsqu’on monte au faîte de la montagne pour découvrir les pays qu’elle cache. Mais Vincent avait la vue faible. Ses yeux se fatiguaient vite. Et, sauf ce qu’il pouvait toucher du doigt, tout lui semblait enveloppé de brouillard.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.X">
+ <page-sequence id="p1.X">
   <pagenum num="53"/>
 
 <h2>X</h2>
@@ -684,7 +662,7 @@
 <p>Annette, qui était une sentimentale, chanta d’une voix traînante :</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <lg>
 <l><i>En revenant des noces</i></l>
 <l><i>J’étais bien fatiguée.</i></l>
@@ -733,10 +711,8 @@
 
 <p>Le mercredi de la semaine sainte les Vernes eurent la visite des six enfants de chœur. Ils avaient commencé, le lundi, leur tournée dans les villages. Inutile de leur demander ce qu’ils voulaient : on savait qu’ils venaient chercher des œufs. Les habitants des Vernes étaient pauvres, mais il y en eut très peu à ne rien donner : la petite Jeannette et la Blandine y allèrent chacune de leur demi-douzaine. La Ronde avait fermé sa porte : les six enfants de chœur payèrent pour le suisse.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div>
+ <page-sequence id='p1.XI'>
   <pagenum num="69"/>
 
 <h2>XI</h2>
@@ -860,11 +836,8 @@
 <p>Les chevaux prirent tout de suite le galop. Mary regardait onduler leurs croupes. Il les trouvait bien lents. A la place du conducteur comme il eût fait claquer son fouet !</p>
 
   <pagenum num="78"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2">
- <div id="p2.I">
+ <page-sequence id="p2.I" recto='true'>
  <pagenum num="79"/>
 
 <h2>DEUXIÈME PARTIE</h2>
@@ -965,11 +938,8 @@
 
 <p>Elle essaya de protester, mais seulement pour la forme. Car elle savait bien que la Ronde avait raison.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.II">
+ <page-sequence id="p2.II">
   <pagenum num="88"/>
 
 <h2>II</h2>
@@ -987,7 +957,7 @@
 <p>Il n’entendait plus que les battements de son cœur lorsque, sans même prêter l’oreille, il reconnut deux voix : son père et Colinot chantaient sur la route, à cinq cents mètres en avant. Rond répétait, sans se lasser, deux vers de sa chanson favorite :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>En r’venant d’ Suresnes j’avais mon pompon ;</l>
 <l>Tout le long d’la route j’ sentais qu’j’étais rond.</l>
 </poem>
@@ -1173,10 +1143,8 @@
 
 <p>Lucien accepta le verre de rhum de Bourgadier comme il avait accepté la prise de Vincent.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.III">
+ <page-sequence id="p2.III">
  <pagenum num="102"/>
 
 <h2>III</h2>
@@ -1237,10 +1205,8 @@
 
 <p>Le matin où Lucien partit, Rond voulut à toute force le reconduire jusqu’à la diligence. Immobile, il le regarda s’éloigner. Puis il reprit la route des Vernes : décidément il s’était acheté une conduite. Il ferait des économies pour que Lucien revînt à Pâques. Mais, à mesure qu’il marchait, il réfléchit : Pâques, c’était encore bien lointain ! Il avait du temps devant lui. Et puis, s’il ne revenait pas à Pâques, Lucien reviendrait à la Trinité. Il n’était pas à deux kilomètres de la petite ville qu’il se sentit redevenir un homme libre qui ne dépend plus que de lui-même. Alors il fit demi-tour.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.IV">
+ <page-sequence id="p2.IV">
   <pagenum num="110"/>
 
 <h2>IV</h2>
@@ -1359,10 +1325,8 @@
 
 <p>La salle peu à peu s’était vidée, la foire ayant fini avant midi. Mais il restait quelques paysans qui pariaient haut, entourés des nuages de fumée qui sortaient de leurs pipes en terre blanche : eux aussi avaient peut-être fait de bonnes affaires Ils n’étaient pas pressés de regagner leurs villages. Tous les autres étaient sur les routes, arrêtés ou poussés par le vent qui continuait de souffler fort. Le champ de foire, les rues, les chemins étaient constellés de larges bouses qu’avant la nuit le concessionnaire de la ville ramasserait dans son tombereau. Il y avait aussi de ci de là de petits tas de foin et de paille. Plus de meuglements, ni de grognements, <pagenum num="122"/>ni de cris aigus. Les portes des maisons que Vincent avait vues avec leurs rideaux blancs étaient fermées. Le ciel était gris. Il n’y avait plus dehors que cette vague mélancolie qui succède aux heures d’énervement.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.V">
+ <page-sequence id="p2.V">
   <pagenum num="123"/>
 
 <h2>V</h2>
@@ -1405,10 +1369,8 @@
 
 <p>Il cligna de l’œil pour faire comprendre à Rond qu’il avait besoin d’être seul avec lui. Rond se leva de dessus son billot.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.VI">
+ <page-sequence id="p2.VI">
   <pagenum num="129"/>
 
 <h2>VI</h2>
@@ -1439,10 +1401,8 @@
 
 <p>La petite Jeannette ne savait pas davantage pourquoi Vincent causait de moins en moins, lui dont le moindre défaut était d’être bavard, sauf quand il s’attablait à l’auberge. Le jour de la foire il était rentré à la tombée de la nuit, dans un état !... Tout de suite elle avait vu de quoi il retournait. Au lieu de prendre le balai pour cogner, avec le manche, sur son hébété, elle avait couru au plus pressé : où était l’argent ? Ne l’avait-il pas perdu sur la route, jeté dans l’étang ? Elle le fouilla, trouva le sac, fit le compte. Incapable de prononcer une parole, il s’était endormi tout de suite pendant que Colinot, par des chemins de traverse, gagnait le bois pour venir trouver Rond. Le lendemain Vincent avait répondu aux questions que lui posait la petite Jeannette en se gardant de dire qu’il avait mangé un poulet, bu du vin puis de la bière avec Colinot. Il se souvenait confusément de lui avoir indiqué sa cachette, et il n’était pas sans inquiétude. Mais comment avouer à sa femme à quoi il s’était laissé entraîner ? Il avait trop peur d’elle. <pagenum num="134"/>Il lui raconta une histoire invraisemblable : le Réray, de la Tampole, l’avait invité à l’auberge. Il ne lui en avait pas coûté un centime. En réalité Vincent, une fois dans sa vie, avait voulu jouer au grand seigneur, et ses trois pistoles supplémentaires y avaient passé jusqu’au dernier sou. Est-ce qu’il n’était pas allé, au plus fort de son enthousiasme, jusqu’à donner un écu à Cécile pour qu’elle se laissât embrasser ! Qui jamais aurait cru cela de Vincent ? Depuis il ne regrettait pas qu’un peu d’avoir dépensé tant d’argent : il n’en dormait plus. Toute la journée, dans son cerveau de paysan craintif, il tournait et retournait des probabilités, cherchait par quelles allusions il pourrait arriver à convaincre sa femme qu’il vaudrait mieux mettre l’argent ailleurs. Mais c’était elle qui avait trouvé cette cachette sous les carottes, comme étant la plus sûre. Elle n’avait confiance ni dans la maison ni dans le grenier. Mais le feu ne brûlerait point la terre où leurs économies étaient enfouies.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.VII">
+ <page-sequence id="p2.VII">
   <pagenum num="135"/>
 
 <h2>VII</h2>
@@ -1508,11 +1468,8 @@
 <p>Elle alluma la bougie, et Pierre reprit le chemin du Fragne.</p>
 
   <pagenum num="142"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3">
- <div id="p3.I">
+ <page-sequence id="p3.I" recto='true'>
  <pagenum num="143"/>
 
 <h2>TROISIÈME PARTIE</h2>
@@ -1567,11 +1524,8 @@
 
 <p>Vincent n’avait plus sa force de naguère : le cercueil était lourd pour lui. Mais il n’avait jamais reculé devant la fatigue. Il tâchait de se redresser en retenant son souffle, et il s’imaginait confusément que c’était son propre corps qu’il portait lui-même au cimetière.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3.II">
+ <page-sequence id="p3.II">
   <pagenum num="151"/>
 
 <h2>II</h2>
@@ -1672,10 +1626,8 @@
 
 <p>Simon voulut parler, mais il avait la gorge sèche : les <pagenum num="158"/>mots ne passaient pas. Il s’en fut vers la grange et se mit à pleurer. Et, tandis que ses larmes tombaient sur les cendres chaudes, il tira sa pipe, la bourra et, avec un des derniers tisons de l’incendie, l’alluma.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3.III">
+ <page-sequence id="p3.III">
   <pagenum num="159"/>
 
 <h2>III</h2>
@@ -1730,10 +1682,8 @@
 
 <p>On lâcha les poules et elles se dispersèrent dehors, les unes en quête des vers que l’orage avait fait sortir du sol, les autres profitant des dernières gouttes de l’averse pour secouer leurs plumes et se débarrasser de leurs pucerons.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3.IV">
+ <page-sequence id="p3.IV">
   <pagenum num="170"/>
 
 <h2>IV</h2>
@@ -1788,10 +1738,8 @@
 
 <p>Il n’aimait pas rencontrer Vincent. Quelques minutes il parut soucieux Mais, quand il eut posé le pied sur la route qui mène à la petite ville où sont les auberges, il secoua les épaules : la vie était belle. La terre avait cette bonne odeur qui se dégage des herbes et des bois mouillés. Et tout à l’heure monterait du fond des verres la bonne odeur de l’absinthe et du vin.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3.V">
+ <page-sequence id="p3.V">
   <pagenum num="175"/>
 
 <h2>V</h2>
@@ -1946,10 +1894,8 @@
 
 <p>Lucien ne se mettait jamais en colère. Mais Colinot allait un peu trop loin, et Lucien se précipita sur lui, les poings fermés : il aurait voulu le tuer ; ainsi Rond ne serait plus sous l’influence de ce braconnier qui devenu voleur, pourrait demain assassiner.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3.VI">
+ <page-sequence id="p3.VI">
   <pagenum num="183"/>
 
 <h2>VI</h2>
@@ -2066,10 +2012,8 @@
 
 <p>Vincent tourna vers lui son pauvre visage ravagé. Il avait pris l’habitude, hélas ! de pleurer. Pourtant pas une larme cette fois ne tomba de ses yeux. Mais il se leva. Il appuya ses deux mains sur les épaules de Lucien et lui donna l’accolade.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3.VII">
+ <page-sequence id="p3.VII">
   <pagenum num="190"/>
 
 <h2>VII</h2>
@@ -2155,11 +2099,8 @@
 <p>Et le grillon de la cheminée, n’entendant plus de bruit, se remit à chanter.</p>
 
   <pagenum num="196"/>
-</div>
  </page-sequence>
- <page-sequence>
- <div id="p4">
- <div id="p4.I">
+ <page-sequence id="p4.I" recto='true'>
  <pagenum num="197"/> 
 
 <h2>QUATRIÈME PARTIE</h2>
@@ -2236,11 +2177,8 @@
 
 <p>En attendant, elle se précisait de plus en plus. Un jour les ouvriers se mirent à poser les traverses. Après ce fut le tour des rails. Les petites gares aussi sortaient de terre. Il n’y en eut pas pour les Vernes : une halte suffit, représentée par un poteau. Ceux qui voudraient monter ici dans le train feraient signe au mécanicien de s’arrêter. Ceux qui voudraient y descendre préviendraient le chef de train au départ de la station précédente.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p4.II">
+ <page-sequence id="p4.II">
   <pagenum num="207"/>
 
 <h2>II</h2>
@@ -2369,10 +2307,8 @@
 
 <p>Il fut un peu étonné de voir fermée la porte de sa chaumière. Mais la petite Jeannette était sans doute dans le jardin. Il ouvrit et, sans même regarder, il prit sur la pierre de l’évier le pot d’eau et but à même. Après quoi il se tourna vers le lit. Le lit n’était pas fait et la petite Jeannette dormait, puisqu’elle ne l’avait pas entendu rentrer. Pour ne point la réveiller, il enleva ses sabots.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p4.III">
+ <page-sequence id="p4.III">
   <pagenum num="218"/>
 
 <h2>III</h2>
@@ -2477,10 +2413,8 @@
 
 <p>Et il se dirigea vers sa chaumière en s’appuyant sur son bâton.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p4.IV">
+ <page-sequence id="p4.IV">
   <pagenum num="227"/>
 
 <h2>IV</h2>
@@ -2565,10 +2499,8 @@
 
 <p>D’habitude Rond et sa femme arrivaient à la fin du repas. Pendant qu’Annette déshabillait ses deux petits pour les coucher, ils sortaient s’asseoir dans la cour sur un banc que Lucien avait installé : une planche lisse sur trois piquets. Vincent ne distinguait pas les étoiles, mais il les devinait à cette lumière diffuse qu’elles répandaient sur les Vernes. Il se disait que la petite Jeannette devait être là-haut, si loin qu’il avait peur de ne jamais pouvoir la rejoindre.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p4.V">
+ <page-sequence id="p4.V">
   <pagenum num="235"/>
 
 <h2>V</h2>
@@ -2631,10 +2563,8 @@
 
 <p>Et surtout Vincent n’aurait pu se décider à payer quelqu’un pour une besogne qu’il avait faite, lui, durant tant d’années. L’argent économisé est sacré. L’on ne doit s’en servir qu’à la dernière extrémité. Et Vincent estimait qu’il n’en était pas encore là.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p4.VI">
+ <page-sequence id="p4.VI">
   <pagenum num="241"/>
 
 <h2>VI</h2>
@@ -2834,7 +2764,6 @@
 
 <h2><s>FIN</s></h2>
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>
