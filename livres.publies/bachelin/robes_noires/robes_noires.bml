@@ -30,7 +30,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000296"
         creation="2013-05-26T00:00:00-08:00"
-        modification="2014-12-31T18:13:25-08:00">
+        modification="2022-06-19T09:20:48-07:00">
       
       <titre>Robes noires</titre>
 
@@ -53,8 +53,7 @@
 
  <page-sequences>
 
- <page-sequence>
- <div id="dedicace">
+ <page-sequence id="dedicace" recto='true'>
   <pagenum num="N9"/>
 
   <vsep class="fewlines"/>
@@ -62,11 +61,8 @@
 <h1>A LA MÉMOIRE DE JULES RENARD</h1>
 
  <pagenum num="N10"/>
- </div>
  </page-sequence>
-
- <page-sequence>
- <div id="p1">
+ <page-sequence id="p1" recto='true'>
  <pagenum num="1"/>
 
   <vsep class="fewlines"/>
@@ -78,10 +74,8 @@
 <h1>ROBE BLANCHE</h1>
 
  <pagenum num="2"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div>
+ <page-sequence recto='true'>
   <pagenum num="3"/>
 
 <h1>ROBE NOIRE &amp; ROBE BLANCHE</h1>
@@ -388,10 +382,8 @@
 
 <p>L’horizon de montagnes couvertes de bois est caché par de lourds nuages gris. Plus près, il y a les toits de la ville qui fument, <pagenum num="43"/>et des maisons se suivent le long de la route où personne, à cette heure, ne passe, où dans dix minutes la diligence va rouler. Raguel tremble ; il a la fièvre. Il s’agenouille sur une chaise, mais il est là-bas, sur la route. Et, tout à coup, lorsque la messe commence, il tressaille infiniment : l’enfant de chœur agite la sonnette, et Raguel entend les grelots des chevaux qui galopent, sur la route trempée de pluie, emportant, au milieu des rafales, Henriette à la robe blanche !</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="44"/>
 
 <h2>II</h2>
@@ -570,10 +562,8 @@
 
 <p>Et quand, mordu par le froid de décembre, tenaillé par une émotion surhumaine, il se jeta sur les dalles glacées, au geste que fît l’évêque, lui qui n’avait jusques alors porté que le surplis, il était revêtu de l’aube. Il avait, par-dessus sa robe noire, comme une robe blanche.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2">
+ <page-sequence id="p2" recto='true'>
   <pagenum num="101"/>
 
 <vsep class="fewlines"/>
@@ -581,10 +571,8 @@
 <h1>LA VIEILLE AUX BÊTES</h1>
 
   <pagenum num="102"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div>
+ <page-sequence recto='true'>
  <pagenum num="103"/>
 
 <h1>LA VIEILLE AUX BÊTES</h1>
@@ -872,10 +860,8 @@
 <p>Ils s’installèrent à sa place. Et ils attendirent, pour manger les pigeons, que le mois de juin fût venu, à cause des petits pois.</p>
 
   <pagenum num="152"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3">
+ <page-sequence id="p3" recto='true'>
  <pagenum num="153"/>
 
 <vsep class="fewlines"/>
@@ -883,10 +869,8 @@
 <h1>LA VIERGE</h1>
 
  <pagenum num="154"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div>
+ <page-sequence recto='true'>
   <pagenum num="155"/>
 
 <h1>LA VIERGE</h1>
@@ -1127,10 +1111,8 @@
 
 <p>Le lendemain, elle vécut dans une sorte d’extase. Elle ne fit attention ni à sa pauvre robe blanche, ni à l’absence de son père, ni à l’indifférence de sa mère, ni au repas : <pagenum num="190"/>elle avait communié ! Jésus était en elle. Elle aurait voulu avoir en elle la Vierge Marie aussi. Tout, autour d’elle, lui parut, ce jour-là, plus clair que de coutume, resplendissant, car elle était comme un ostensoir vivant au milieu duquel reposait l’hostie et dont la lumière luttait avec l’éclat même du soleil.</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="191"/>
 
 <h2>II</h2>
@@ -1173,10 +1155,8 @@
 
 <p>Il lui fallut quitter M<sup>me</sup> Martin, le beau château, et revenir vivre avec sa mère, dans leur petite maison des Teureaux. Elle avait vingt ans.</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="201"/>
 
 <h2>III</h2>
@@ -1436,12 +1416,9 @@
 <p>Et elle voulut marcher sur les eaux.</p>
 
  <pagenum num="248"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="table">
+ <page-sequence id="table" recto='true'>
   <pagenum num="249"/>
-
 
 <h1>TABLE</h1>
 
@@ -1451,7 +1428,6 @@
 <p><a idref="p2">La Vieille aux Bêtes</a></p>
 <p><a idref="p3">La Vierge</a></p>
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>
