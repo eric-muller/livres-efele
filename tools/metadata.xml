@@ -63,9 +63,13 @@
   </dc:identifier>
 
   <opf:meta property='dcterms:modified'>
+    <!-- epubcheck wants the format "CCYY-MM-DDThh:mm:ssZ" (i.e. UTC time)
+         we actually have offsets in our data (i.e. -08:00 instead of Z)
+         and no good way to convert correctly to UTC here
+         so we just drop our offset and pretend the time is UTC -->
     <xsl:choose>
       <xsl:when test='bml:electronique/@modification'>
-        <xsl:value-of select='concat(substring(bml:electronique/@modification,1.19), "Z")'/>
+        <xsl:value-of select='concat(substring(bml:electronique/@modification,1,19), "Z")'/>
       </xsl:when>
       <xsl:otherwise>
         <xsl:value-of select='concat(substring(bml:electronique/@creation,1,19), "Z")'/>
