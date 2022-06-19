@@ -48,13 +48,13 @@
   
   <toc>
     <tocentry idref="ap" label="Avant-propos"/>
-    <tocentry idref="pp" label="Partie préliminaire">
+    <tocentry idref="ppch1" label="Partie préliminaire">
       <tocentry idref="ppch1" label="I. Considérations générales et lois sociales"/>
       <tocentry idref="ppch2" label="II. La valeur et les sciences sociales"/>
       <tocentry idref="ppch3" label="III. Discussion du plan"/>
       <tocentry idref="ppch4" label="IV. Coup d’œil historique"/>
     </tocentry>
-    <tocentry idref="l1" label="Livre premier — La répétition Économique">
+    <tocentry idref="l1ch1" label="Livre premier — La répétition Économique">
       <tocentry idref="l1ch1" label="I. Division du sujet"/>
       <tocentry idref="l1ch2" label="II. Rôle économique du désir"/>
       <tocentry idref="l1ch3" label="III. Rôle économique de la croyance"/>
@@ -63,14 +63,14 @@
       <tocentry idref="l1ch6" label="VI. La monnaie"/>
       <tocentry idref="l1ch7" label="VII. Le capital"/>
     </tocentry>
-    <tocentry idref="l2" label="Livre II — L’opposition économique">
+    <tocentry idref="l2ch1" label="Livre II — L’opposition économique">
       <tocentry idref="l2ch1" label="I. Division du sujet"/>
       <tocentry idref="l2ch2" label="II. Les prix (théorie de la valuer)"/>
       <tocentry idref="l2ch3" label="III. Les luttes (externes, de personne à personne"/>
       <tocentry idref="l2ch4" label="IV. Les crises (luttes aiguës)"/>
       <tocentry idref="l2ch5" label="V. Les rythmes (opposition de termes successifs)"/>
     </tocentry>
-    <tocentry idref="l3" label="Livre III — L’adaptation économique">
+    <tocentry idref="l3ch1" label="Livre III — L’adaptation économique">
       <tocentry idref="l3ch1" label="I. Division du sujet"/>
       <tocentry idref="l3ch2" label="II. L’imagination économique"/>
       <tocentry idref="l3ch3" label="III. Les développements de l’imagination économique"/>
@@ -86,8 +86,7 @@
 
  <page-sequences>
 
- <page-sequence>
-<div id="ap">
+ <page-sequence id="ap">
 <pagenum v="v1" num="N7"/>
 
 <h2>AVANT-PROPOS</h2>
@@ -100,11 +99,8 @@
 
 <p class="l3">Octobre 1901.</p>
 
-</div>
  </page-sequence>
- <page-sequence>
- <div id="pp">
- <div id="ppch1">
+ <page-sequence id="ppch1">
  <pagenum v="v1" num="1"/>
 
 <h1>PSYCHOLOGIE ÉCONOMIQUE</h1>
@@ -431,11 +427,8 @@
 
 <p>Ce sont là des analogies spécieuses, qui méritent, je crois, d’être discutées. Sans entrer dans cette discussion, pour le moment, je ferai observer que, même dans le monde vivant, la nécessité de la mort, de la mort naturelle et non violente, n’embrasse pas, d’après Weissman, la totalité des individus vivants et qu’elle ne paraît pas s’appliquer du tout aux espèces vivantes. Il est des espèces qui ont traversé, sans périr, plusieurs âges géologiques, et tout semble montrer que, aussi longtemps que persistent les conditions extérieures au milieu desquelles une espèce animale ou <pagenum v="v1" num="62"/>végétale est née, a crû, s’est fortifiée, elle se perpétue indéfiniment sans présenter des traces de dégénérescence spontanée. Rien ne démontre non plus la nécessité d’une dislocation finale du système solaire (je ne dis pas de l’extinction du foyer solaire), et les astronomes d’après Laplace ont longtemps dogmatisé sa stabilité éternelle. On ne voit pas, <i>a priori</i> pourquoi une société civilisée ne jouirait pas du même privilège.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="ppch2">
+ <page-sequence id="ppch2">
   <pagenum v="v1" num="63"/>
 
 <h2>CHAPITRE II</h2>
@@ -625,10 +618,8 @@
 
 <p>Pareillement, où tend, où court inconsciemment la production économique ? A la constitution, à la reconstitution d’une morale, sans qu’il y paraisse : je veux dire à l’établissement d’une hiérarchie des besoins réputée par tous juste et normale. Et tout produit nouveau qui sera de nature à ébranler cette hiérarchie en stimulant avec excès certains besoins au détriment de tels autres, sera éliminé. Et les produits jugés conformes à la <i>téléologie régnante</i> — car la morale n’est que cela — seront seuls achetés. Il ne sera donc plus vrai de dire alors, — comme il ne l’eût pas été non plus au <s>XIII</s><sup>e</sup> siècle — que l’écoulement d’un produit quelconque sera facilité par la présence, sur le marché, de produits plus abondants et plus variés. Quand le produit excommunié s’offrira, il aura beau rencontrer la plus grande abondance et la plus grande variété de produits autorisés par les mœurs, il ne se vendra pas. Au fond, ce n’est pas tant la variété que la solidarité et l’harmonie des produits qui doit importer ici, aux yeux du sociologue. Je ne dis pas peut-être aux yeux de l’artiste, ni même du philosophe, qui voit dans la libre diversité la source et la fin, pour ainsi dire divine, des choses, l’alpha et l’oméga de l’univers.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="ppch3">
+ <page-sequence id="ppch3">
   <pagenum v="v1" num="97"/>
 
 <h2>CHAPITRE III</h2>
@@ -677,10 +668,8 @@
 
 <p>Je me persuade que, refondue dans le cadre qui vient d’être esquissé bien imparfaitement, l’économie politique échapperait au reproche d’étroitesse et de sécheresse, et ferait apparaître son vrai visage, tout psychologique et tout logique, tout vivant et tout rationnel. Il s’agit de bien comprendre l’Évolution économique. Mais <i>évolution</i> est un mot vague ; on le précise, en l’analysant, par ces trois termes, répétition, opposition, adaptation, qui distinguent ce qu’il confond.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="ppch4">
+ <page-sequence id="ppch4">
   <pagenum v="v1" num="107"/>
 
 <h2>CHAPITRE IV</h2>
@@ -873,11 +862,8 @@
   </note>
 </notes>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l1">
- <div id="l1ch1">
+ <page-sequence id="l1ch1">
 <pagenum v="v1" num="143"/>
 
 <h1>LIVRE PREMIER</h1>
@@ -938,11 +924,8 @@
 
 <p>Observation générale et préliminaire. Soit pour les besoins, soit pour les travaux, <i>reproduction</i> signifie deux choses bien distinctes, et qui ne doivent jamais être confondues, malgré la liberté que nous prendrons souvent de les exposer pêle-mêle : d’une part, leur <i>propagation</i> d’individu à individu, d’où résulte l’extension d’une industrie dans l’espace ; d’autre part, leur <i>rotation</i> périodique, par cette imitation de soi-même qu’on nomme habitude chez les individus ou coutume chez les peuples. — En ce qui concerne la monnaie, cette distinction se reflète dans sa <i>diffusion</i>, rayonnante dans un domaine de plus en plus vaste, et sa <i>circulation</i> proprement dite, qui a lieu par sa rentrée aux mains d’où elle est sortie, rotation monétaire dont Karl Marx s’est fort occupé.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l1ch2">
+ <page-sequence id="l1ch2">
   <pagenum v="v1" num="151"/>
 
 <h2>CHAPITRE II</h2>
@@ -1084,10 +1067,8 @@
 
 <p>En voilà assez, certainement, pour démontrer, ce qui est l’objet de ce chapitre, le rôle capital du Désir dans les phénomènes économiques, sa présence souvent cachée, et qui devrait ne jamais l’être, dans les notions économiques fondamentales. Occupons-nous maintenant, plus spécialement, du rôle économique des idées et de la croyance.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l1ch3">
+ <page-sequence id="l1ch3">
   <pagenum v="v1" num="185"/>
 
 <h2>CHAPITRE III</h2>
@@ -1164,10 +1145,8 @@
   </note>
 </notes>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l1ch4">
+ <page-sequence id="l1ch4">
   <pagenum v="v1" num="202"/>
 
 <h2>CHAPITRE IV</h2>
@@ -1256,10 +1235,8 @@
 
 <p>La comparaison des budgets d’ouvriers est très malaisée, car elle donne généralement lieu à peu d’écritures. Ce qu’on peut assurer, c’est que la proportion pour laquelle figurent, dans ces budgets, les dépenses d’alimentation, toujours les plus fortes, va en diminuant : pas aussi rapidement cependant qu’on pourrait le souhaiter. Par exemple, je lis, dans la <i>Théorie du salaire</i> de M. Beauregard, un curieux document, d’où il résulte que, en 1764, à Abbeville, un ouvrier <pagenum v="v1" num="221"/>tisseur dépensait environ 70 p. 100 de ses dépenses totales pour sa nourriture et celle de sa famille ; et je vois que, en 1880, d’après une enquête faite à la Société industrielle de Mulhouse, cette proportion n’est plus que de 61 p. 100, chiffre qui coïncide presque avec un résultat (63 p. 100) déduit d’autres recherches contemporaines relatives à d’autres familles ouvrières. Cette différence de quelques unités n’est pas énorme ; elle montre toutefois que l’ouvrier consacre une partie de moins en moins minime de son gain à s’instruire ou se récréer. Il faut s’en réjouir, car c’est là une des plus sûres conditions de paix sociale. — Plus le travail devient, non pas fatigant, mais fastidieux par sa monotonie — réelle ou jugée telle, à raison de la culture de l’ouvrier, — et plus il importe d’accroître le chapitre des récréations et des plaisirs dans le budget des familles ouvrières. Ce chapitre des récréations nous apparaît singulièrement écourté dans les familles demi-barbares dont Le Play, dans son livre sur les <i>Ouvriers européens</i>, nous vante l’organisation patriarcale ; peut-être en est-il ainsi, parce que le travail de ces artisans est par lui-même assez récréatif, ou semble tel à leur simplicité. Et, si ce chapitre est court, il est drôlement rempli : eau-de-vie, visites au cimetière, etc. Chez les Arabes de Turquie, par exception, je vois figurer, au nombre des récréations, les contes débités par une sorte de trouvère rustique : c’est un des rares côtés où l’art apparaisse dans ces existences primitives. — Le mérite de Le Play a été de voir que la <i>question sociale</i> s’était posée aux peuples les plus barbares comme à nous-mêmes, et qu’elle y avait été résolue depuis longtemps ; mais son erreur a été de penser que ces solutions, appropriées à ces phases inférieures de la vie de société, peuvent suffire aux peuples civilisés de nos jours. Les <i>récréations</i> qu’il indique sont devenues manifestement insuffisantes pour rendre heureux l’ouvrier moderne, et notre paix sociale, à nous, réclame des réponses plus compliquées au problème social.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l1ch5">
+ <page-sequence id="l1ch5">
   <pagenum v="v1" num="222"/>
 
 <h2>CHAPITRE V</h2>
@@ -1524,10 +1501,8 @@
 
 <p>Autre remarque. Jamais on n’a tant chanté que de nos jours les louanges du travail, ni tant exorcisé tous les <i>revenus sans travail.</i> Il ne s’agit de rien moins que de les détruire. Jamais cependant le besoin de s’enrichir sans peine ne s’est autant répandu ni aussi souvent satisfait. La spéculation financière en haut, en bas les valeurs à lots, les jeux, les loteries, les paris aux courses, etc., sont les mille formes sous lesquelles se fait jour cette passion publique pour la bonne chance, pour ce favoritisme du sort que le socialisme maudit et qui se répand avec le socialisme.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l1ch6">
+ <page-sequence id="l1ch6">
   <pagenum v="v1" num="281"/>
   
 <h2>CHAPITRE VI</h2>
@@ -1791,10 +1766,8 @@
 
 <p>Il me resterait, enfin, à parler de la <i>circulation</i> de la monnaie et des rapports entre ce <i>cycle monétaire</i> et le <i>cycle des besoins</i> ou celui <i>des travaux</i>, dont il a été question ci-dessus. Mais cette question sera plus utilement discutée à propos du <i>capital</i>, sujet qui se rattache intimement à celui de la monnaie, et dont nous allons nous occuper.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l1ch7">
+ <page-sequence id="l1ch7">
   <pagenum v="v1" num="330"/>
 
 <h2>CHAPITRE VII</h2>
@@ -2057,11 +2030,8 @@
 
 <p>Tout ce qui vient d’être dit au sujet du prêt concerne, ne l’oublions pas, le <i>capital-cotylédon</i> seulement. Quant au <i>capital-germe</i> qui consiste en connaissances d’inventions et de découvertes, il ne saurait être, en toute rigueur, ni prêté ni échangé, puisque celui qui le possède ne s’en dessaisit pas en le communiquant à autrui. Il y a là <i>émanation</i>, non aliénation. Il ne saurait être donné non plus, ni volé, pour la même raison. Cependant sa possession exclusive est un bien d’une grande importance souvent, et la perte de ce monopole par le partage de cette possession devenue indivise avec autrui, par une communication à titre onéreux ou à titre gratuit, équivaut à un don, à un prêt ou à une vente. En fait, dans les familles primitives, tout ce capital-germe, à savoir les secrets de fabrication, de remèdes, de poisons, etc., est jalousement gardé, héréditairement transmis, ce qui <pagenum v="v1" num="380"/>montre le sentiment profond qu’on a de son importance majeure. Et, tandis qu’on se prête complaisamment le capital-cotylédon, les outils, le mobilier du ménage, on se garde bien, dans chaque famille, de rien laisser percer en dehors d’elle des inventions séculaires qui lui sont propres et qui s’y perpétuent. Quand ils finissent, pourtant, par se répandre dans les maisons voisines, ce n’est point par vente ni échange, c’est par voie de confidence amoureuse, d’indiscrétion échappée à un Samson dompté par quelque Dalila, ou bien c’est par la violence, par la torture qui arrache ces secrets comme ceux de trésors cachés.</p>
 
-</div>
  </page-sequence>
- <page-sequence>
-<div id="l2">
-<div id="l2ch1">
+ <page-sequence id="l2ch1">
 <pagenum v="v2" num="1"/>
 
 <h1>PSYCHOLOGIE ÉCONOMIQUE</h1>
@@ -2120,11 +2090,8 @@
 
 <p>Après ce coup d’œil jeté sur l’ensemble des oppositions économiques, envisageons-les séparément et commençons, conformément à ce qui vient dit d’être plus haut, par la théorie des prix.</p>
 
-</div>
-</div>
  </page-sequence>
- <page-sequence>
- <div id="l2ch2">
+ <page-sequence id="l2ch2">
  <pagenum v="v2" num="10"/>
 
 <h2>CHAPITRE II</h2>
@@ -2391,10 +2358,8 @@
 
 <p>Mais la qualité du travail, à ce point de vue, importe bien plus que sa quantité. Ou plutôt sa quantité n’a de sens que dans les limites d’une qualité déterminée. A propos de chaque espèce de travail considérée à part, on peut dire s’il y a augmentation ou diminution de travail. A cet égard, la notion de quantité de travail est fort nette. Mais elle s’obscurcit étrangement quand, rapprochant deux ou plusieurs travaux d’espèces différentes, on leur cherche une commune mesure. Là est l’écueil de la théorie que je combats. Il y a cependant une commune mesure, mais une seule, et elle est toute psychologique : c’est la quantité du désir satisfait par le produit du travail. Car nous savons que le désir reste essentiellement le même, quelle que soit l’hétérogénéité des objets désirés.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l2ch3">
+ <page-sequence id="l2ch3">
   <pagenum v="v2" num="57"/>
 
 <h2>CHAPITRE III</h2>
@@ -2799,10 +2764,8 @@
 
 <p>Les luttes de la monnaie avec la production et la consommation, c’est-à-dire ses désaccords avec les besoins de l’échange, peuvent être de nature quantitative ou qualitative. Quantitative, par rareté excessive de la monnaie, qui trouble et entrave les affaires, ou, à l’inverse, par surabondance <i>subite</i> de monnaie, qui bouleverse les prix habituels. Qualitative, par suite de la dépréciation des monnaies altérées, ou de leur substance devenue trop lourde et trop peu précieuse, mal adaptée à ses fonctions, comme le fer ou l’airain jadis, comme l’argent bientôt (on voit que le problème du bimétallisme se rattache aussi, par un côté, à ce nouvel aspect de notre sujet), enfin par le mauvais choix de l’unité monétaire (le <i>franc</i>, par exemple, et surtout le <i>centime</i>, qui n’est d’aucun usage par lui-même et complique tous les calculs). Les désaccords quantitatifs nous occuperont plus loin à propos des crises financières. Quant aux désaccords qualitatifs, il suffira d’en dire un mot, pour montrer leur gravité quand ils ont pour cause l’altération des monnaies, dont il a été déjà question plus haut à un autre point de vue. Un des plus grands faux monnayeurs royaux a été Guillaume III d’Angleterre. Pour se tirer d’embarras, après 1688, il imagina de frapper, avec toutes sortes de métaux vils et quelque peu d’argent, une monnaie qui valait à peine le sixième de sa valeur nominale. Il faut lire dans Macaulay les perturbations et les souffrances qui furent la conséquence de cette mesure insensée, accomplie d’ailleurs avec l’approbation du Parlement. Il s’ensuivait, entre acheteurs et vendeurs, des querelles sans nombre. « L’ouvrier et <pagenum v="v2" num="138"/>le patron se prenaient de mots régulièrement tous les samedis, jour de paye. Le jour de foire et le jour de marché, on n’entendait que clameurs, reproches, injures, malédictions, et c’était un bonheur quand il n’y avait ni baraque renversée ni tête cassée... Le prix des denrées, des chaussures, de l’ale, de la farine d’avoine, s’éleva rapidement. Le paysan ignorant et isolé était misérablement écrasé entre deux classes de gens, dont l’une ne lui donnait de l’argent qu’à sa valeur nominale et dont l’autre ne voulait le prendre qu’au poids. » Les mêmes calamités se sont reproduites durant la Révolution française par le cours forcé des assignats.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l2ch4">
+ <page-sequence id="l2ch4">
   <pagenum v="v2" num="139"/>
 
 <h2>CHAPITRE IV</h2>
@@ -3081,10 +3044,8 @@
   </note>
 </notes>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l2ch5">
+ <page-sequence id="l2ch5">
   <pagenum v="v2" num="189"/>
 
 <h2>CHAPITRE V</h2>
@@ -3187,11 +3148,8 @@
   </note>
 </notes>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l3">
- <div id="l3ch1">
+ <page-sequence id="l3ch1">
  <pagenum v="v2" num="209"/>
 
 <h2>LIVRE III</h2>
@@ -3282,11 +3240,8 @@
 
 <p>Un dernier mot. Toute l’économie politique d’Adam Smith et de son école est fondée sur le postulat de l’accord spontané des égoïsmes : de là les <i>harmonies économiques</i> de Bastiat. La question est de savoir si les égoïsmes s’harmonisent d’eux-mêmes ou artificiellement. Cette question est tranchée dans un sens opposé à celui de Smith pour quiconque a embrassé dans son ensemble l’opposition économique, qui nous a montré l’hostilité si fréquente, et si souvent essentielle, radicale, des intérêts. Il s’ensuit que l’harmonisation des intérêts ne peut être obtenue que moyennant des <i>artifices</i>. Ces artifices sont les inventions.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l3ch2">
+ <page-sequence id="l3ch2">
   <pagenum v="v2" num="230"/>
 
 <h2>CHAPITRE II</h2>
@@ -3532,10 +3487,8 @@
   </note>
 </notes>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l3ch3">
+ <page-sequence id="l3ch3">
  <pagenum v="v2" num="278"/>
 
 <h2>CHAPITRE III</h2>
@@ -3659,10 +3612,8 @@
 
 <p>Remarquons que les inventions élémentaires groupées dans une invention complexe, telle que la fabrication du pain ou le tissage de la laine, ont apparu sans lien apparent entre elles : par exemple, pour la panification, l’idée d’ensemencer et de cultiver les céréales, la découverte des effets du levain, la découverte du feu, l’idée de la cuisson des aliments, etc. ; pour le tissage de la laine, l’idée de domestiquer le mouton et de le tondre, l’idée de tresser (d’abord des joncs ou des filaments végétaux), la découverte des colorants, etc. Aussi l’idée de grouper harmonieusement ces inventions élémentaires en une action commune qui les emploie à une même fin par une série logique d’opérations, en dépit de leur ordre chronologique et accidentel d’apparition, mérite-t-elle aussi le nom d’invention. Synthétiser des inventions, c’est une invention encore, au même titre que synthétiser des découvertes de savants en une théorie philosophique est une découverte aussi. Mais, s’il en est <pagenum v="v2" num="297"/>ainsi, si c’est à un inventeur toujours que revient l’honneur de la finalité qui préside à une succession d’opérations accomplies par un même travailleur, à plus forte raison devons-nous assimiler à un inventeur l’homme qui, en organisant un atelier, a le premier fait converger vers un même but des travaux opérés par des travailleurs différents.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l3ch4">
+ <page-sequence id="l3ch4">
   <pagenum v="v2" num="298"/>
 
 <h2>CHAPITRE IV</h2>
@@ -3901,10 +3852,8 @@
   </note>
 </notes>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l3ch5">
+ <page-sequence id="l3ch5">
   <pagenum v="v2" num="346"/>
 
 <h2>CHAPITRE V</h2>
@@ -4151,10 +4100,8 @@
 
 <p>En terminant, n’oublions pas de remarquer que l’Échange est un simple moyen terme, — à la vérité très prolongé — dans l’évolution économique envisagée de ses phases initiales à ses phases finales et conjecturées. Il tend à se rendre inutile et fait chaque jour un pas vers sa propre destruction, vers un état futur où prédominera la donation, d’où il est éclos. Le progrès de l’adaptation économique, en effet, consiste à faire travailler de plus en plus les <i>morts</i> et les <i>forces physiques</i> au profit des vivants, pour dispenser finalement ceux-ci de travailler les uns pour les autre. Si les idées des morts et les forces physiques captées grâce à elles, suffisaient à satisfaire tous les besoins des vivants, devenus les directeurs, à peine occupés, de ces forces, de l’emploi de ces idées, tous les produits seraient gratuits, <pagenum v="v2" num="383"/>et il n’y aurait plus d’échange. La proportion des biens gratuits va donc en grandissant à chaque progrès de la civilisation. Mais si la gratuité universalisée — idéal bien lointain — vient jamais à supprimer l’échange, cela ne veut pas dire qu’elle supprimera l’association — dont nous allons parler maintenant. Loin de là, c’est seulement grâce à l’association universalisée elle-même qu’elle pourrait se réaliser.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l3ch6">
+ <page-sequence id="l3ch6">
   <pagenum v="v2" num="384"/>
 
 <h2>CHAPITRE VI</h2>
@@ -4394,10 +4341,8 @@
 
 <p>Quand le tissu et l’entrelacement des associations multiples et diverses seront terminés, le faisceau national de ces unions individuelles constituera le système social le plus équilibré, le plus ingénieux à la fois et le plus simple dans sa complexité, qui aura paru depuis la dissolution du régime féodal. Celui-ci consistait en un tissu aussi, mais de petites <pagenum v="v2" num="422"/>sociétés à <i>deux</i>, de petites mailles à la fois très solides et très courtes, dont chaque point n’était lié qu’à un autre point, son suzerain, lequel ne l’était lui-même qu’à son propre seigneur, en remontant jusqu’au roi. Dans le <i>régime associationnistes</i> de l’avenir, il n’y aura plus d’hommages, plus de lien perpétuel et exclusif d’homme à homme, lien toujours plus unilatéral que réciproque ; il y aura une solidarité très étendue et toujours mutuelle, embrassant un grand nombre d’individus à la fois. Jamais la glèbe humaine n’aura été embrassée et consolidée par tant de racines à la fois. Et les nations alors seront une réalité plus concrète et plus vivante que jamais. Pendant que les associations privées, en se multipliant et s’enchevêtrant, verront par là s’atténuer l’<i>esprit de corps</i> propre à chacune d’elles, cette grande association majeure, héréditaire et innée, la nation, qui les comprendra toutes toujours, ou presque toutes, verra s’accentuer son esprit de corps à elle, le patriotisme. L’intensité <i>relative</i> de celui-ci s’alimentera de l’affaiblissement des autres, du moins dans les quelques grandes nationalités définitivement survivantes, et destinées à se fédérer.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="l3ch7">
+ <page-sequence id="l3ch7">
   <pagenum v="v2" num="423"/>
 
 <h2>CHAPITRE FINAL</h2>
@@ -4547,11 +4492,9 @@
 
 <p>Alors, quels moyens avisera la société, si elle veut vivre, de remédier à la pénurie des naissances ? Organisera-t-on artificiellement la production des hommes après — ou peut-être même avant — la production des richesses ? La maternité et la paternité, comme tout travail, étant des fonctions publiques dans la cité communiste, il conviendra, sans nul doute, de soumettre l’<i>élevage humain</i>, la <i>viriculture</i>, au point de vue de la quantité et de la qualité, à des règlements rigoureux. Ce sera là une solution du problème. Peut-être s’apercevra-t-on cependant qu’il y en a une autre de possible : ce serait de renforcer le lien familial, qui tend visiblement à se relâcher avec excès.</p>
 
- </div>
  </page-sequence>
  
- <page-sequence>
- <div id="table">
+ <page-sequence id="table">
   <pagenum v="v1" num="381"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -4714,7 +4657,6 @@
 
 <p>Esquisse d’une étude du problème de la population aux trois points de vue de sa propagation, de ses conflits belliqueux ou économiques, et de son adaptation aux circonstances géographiques ou historiques.</p>
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>
