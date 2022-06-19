@@ -32,7 +32,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000285"
         creation="2013-02-02T00:00:00-08:00"
-        modification="2014-12-31T18:13:56-08:00">
+        modification="2022-06-19T09:50:42-07:00">
       
       <titre>Les orages de la vie</titre>
 
@@ -44,7 +44,7 @@
   </metadata>
   
   <toc>
-    <tocentry idref="p01" label="Thérèse Lemajeur">
+    <tocentry idref="p02" label="Thérèse Lemajeur">
       <tocentry idref="p02" label="I. Ouverture"/>
       <tocentry idref="p03" label="II. Deux oncles, l’un d’épée, l’autre de robe"/>
       <tocentry idref="p04" label="III. Un rayon de soleil"/>
@@ -75,7 +75,7 @@
       <tocentry idref="p29" label="XXVIII. Mariage"/>
     </tocentry>
     <tocentry idref="p30" label="Madeleine Lorin">
-      <tocentry idref="p31" label="I. Sur le pont Saint-Michel"/>
+      <tocentry idref="p30" label="I. Sur le pont Saint-Michel"/>
       <tocentry idref="p32" label="II. Une action qui n’est pas cotée à la Bourse"/>
       <tocentry idref="p33" label="III. Complications"/>
       <tocentry idref="p34" label="IV. La tante Euphrasie"/>
@@ -102,16 +102,12 @@
   <cover src="images/couverture.png" alt="Bibliothèque des chemins de fer. Les orages de la vie par Charles Barbara. Première série. Thérèse Lemajeur — Madelein Lorin. Paris. Librairies de L. Hachette et Cie. Rue Pierre-Sarrazin, no 14. 1860. Prix : 2 francs."/>
 
 <page-sequences>
-
- <page-sequence>
-<div id="p01">
-<div id="p02">
+ <page-sequence id="p02">
  <pagenum num="1"/>
 
 <h1>THÉRÈSE LEMAJEUR.</h1>
 
 <vsep class="rule"/>
-
 
 <h2>I</h2>
 
@@ -235,13 +231,9 @@
 
 <p>Et il quitta la salle.</p>
 
-</div>
-</div>
  </page-sequence>
- <page-sequence>
- <div id="p03">
+ <page-sequence id="p03">
  <pagenum num="8"/>
-
 
 <h2>II</h2>
 
@@ -334,10 +326,8 @@
 
 <p>— Vos raisons, mon oncle, font sur mon âme comme feraient des lames ébréchées dans ma chair. Et, avant cette heure, combien de fois déjà n’ai-je pas été supplicié par la rigueur de ces mêmes raisons ? C’est de la folie au plus haut degré de puissance, mais cette folie existe, et je ne sais qu’y faire. Le résultat fatal de ce mariage serait de périr misérablement le lendemain, que je me marierais de même. Qu’on trouve un moyen d’étouffer mon amour, et je m’y accrocherai avec l’énergie d’un homme qui se noie. Ma mère m’aime-t-elle mieux mort que marié ? Qu’elle le dise. Si ce mariage manquait par des raisons ne venant ni de Thérèse ni de moi, il me semble que je mourrais.... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p04">
+ <page-sequence id="p04">
   <pagenum num="19"/>
 
 <h2>III</h2>
@@ -378,10 +368,8 @@
 
 <p>— J’admire votre haute raison, ma Thérèse, repartit Marcille, et vous ne m’en êtes que plus chère. S’il m’arrivait jamais de fléchir, je serais d’autant plus coupable, que j’aurais été vingt fois prévenu. Soyez pleine de confiance. Je sais que j’aurai de bien mauvais jours à passer. Mais j’ai la certitude d’être heureux avec vous et malheureux sans vous. Douleurs pour douleurs, je préfère encore celles que viendra adoucir votre tendresse.... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p05">
+ <page-sequence id="p05">
  <h2>IV</h2>
 
 <h2>Les épreuves.</h2>
@@ -413,13 +401,13 @@
 <p>Marcille, un matin, reçut, sous pli cacheté, d’une écriture contrefaite, ces vers exécrables :</p>
 
 <blockquote>
-<poem>
+<poem m='4'>
 <l>La Lemajeur</l>
 <l>A du bonheur</l>
-<l>D’avoir trouvé Marcille.</l>
+<l m='6'>D’avoir trouvé Marcille.</l>
 <l>Il a du bien,</l>
 <l>Elle n’a rien.</l>
-<l>Hors d’amants un quadrille.</l>
+<l m='6'>Hors d’amants un quadrille.</l>
 </poem>
 </blockquote>
 
@@ -427,11 +415,8 @@
 
 <p>Marcille avait un arrière-cousin, conseiller à la cour, à la vérité moins fier de cette charge que du titre de membre de la <i>Société des belles-lettres</i> de l’endroit et de plusieurs <pagenum num="25"/>autres académies de province. Admirateur passionné de la littérature fleurie et des petits poètes, lui-même, aussi bien le répétait-il volontiers, « gravissait le coteau-sacré » à ses heures de loisir. On lui attribua ces vers. Marcille, qui avait déjà de fortes présomptions pour l’en croire l’auteur, n’en douta plus, quand, quelques jours plus tard, son oncle Narcisse, à l’heure du déjeuner, après lui avoir vanté l’esprit et les <i>moyens poétiques</i> du cousin, le conseiller à la cour, lui récita en ricanant ces mêmes vers. On devine si le jeune homme eut de la peine à contenir son indignation.</p>
 
-
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p06">
+ <page-sequence id="p06">
  <h2>V</h2>
 
 <h2>Poussé à bout.</h2>
@@ -496,10 +481,8 @@
 
 <p>A cet avis, qui trahissait une conspiration dont sa famille faisait partie, Marcille renonça sur-le-champ à ses intentions conciliantes. De sa vie il n’avait éprouvé une indignation si profonde. D’un seul coup, il se sentit débarrassé des scrupules qui l’arrêtaient encore. Bien que, par suite de ses prodigalités antérieures, il fût dans une sorte <pagenum num="31"/>de gêne et prévît de graves embarras d’argent, il se décida à passer par-dessus toute considération, et quitta la maison de sa mère, en faisant mentalement le serment de n’y plus jamais remettre les pieds.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p07">
+ <page-sequence id="p07">
  <h2>VI</h2>
 
 <h2>Un notaire.</h2>
@@ -540,10 +523,8 @@
 
 <p>— Je sais, monsieur, balbutia la mère en donnant des marques d’une douleur croissante, que vous pouviez vous <pagenum num="34"/>dispenser de ces ménagements. Je n’en suis que plus sensible à votre démarche.... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p08">
+ <page-sequence id="p08">
  <h2>VII</h2>
 
 <h2>Les sommations respectueuses.</h2>
@@ -612,10 +593,8 @@
 
 <p>« Et à l’instant les notaires soussignés ont laissé à la dame veuve Marcille copie en bonne forme et signée desdits notaires, tant du procès-verbal que de l’acte respectueux qui précède et qui sera enregistré avec ces présentes. »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p09">
+ <page-sequence id="p09">
  <h2>VIII</h2>
 
 <h2>Éclairs et tonnerre.</h2>
@@ -656,11 +635,8 @@
 
 <p>« Eh bien ! monsieur, dit-il d’une voix étouffée par la rage, vous ne m’êtes plus rien, je vous maudis et vous déshérite !... »</p>
 
-
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p10">
+ <page-sequence id="p10">
  <h2>IX</h2>
 
 <h2>Note diplomatique.</h2>
@@ -691,12 +667,9 @@
 
 <p>« Ce nonobstant, dominé par la colère, au mépris de tous ses intérêts, mon neveu pourra passer outre. Dans cette supposition, qu’il médite sérieusement ces dernières lignes. Je ne commettrai point la sottise de menacer un homme de son caractère. Je suis dans la position d’un bourgeois pacifique qui offre, aux conditions les plus avantageuses et les plus honorables, la paix à un adversaire qui l’attaque injustement. S’il refuse, ce ne sera plus lui qui sera l’opprimé, ce sera bien moi. A la force, j’opposerai la force : ce sera une guerre purement de défensive. J’essayerai de le sauver malgré lui et de lui épargner le tort d’une faute irréparable. Par exemple, au cas où je réussirais, il doit bien penser qu’il ne sera plus au pouvoir de ma générosité de limiter le temps de son épreuve. »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p11">
+ <page-sequence id="p11">
   <pagenum num="44"/>
-
 <h2>X</h2>
 
 <h2>Symptômes de défaillance.</h2>
@@ -715,10 +688,8 @@
 
 <p>Il n’avait plus que trente jours à attendre pour pouvoir se marier librement.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p12">
+ <page-sequence id="p12">
  <h2>XI</h2>
 
 <h2>Mme Ferdinand arrêtée.</h2>
@@ -739,10 +710,8 @@
 
 <p>Il en résulta que Mme Ferdinand, à l’heure même où ses relations avec Mme Marcille lui donnaient la confiance d’avoir une réputation mieux assise et un crédit plus assuré <pagenum num="48"/>que jamais, fut mise, à la stupéfaction de bien des gens, en état d’arrestation.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p13">
+ <page-sequence id="p13">
  <h2>XII</h2>
 
 <h2>Coup de foudre.</h2>
@@ -797,10 +766,8 @@
 
 <p>— Je vous entends, interrompit Marcille, vous n’êtes ici que le prête-nom d’un créancier inflexible qui jouit d’une considération meilleure que la vôtre. J’aviserai.... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p14">
+ <page-sequence id="p14">
  <h2>XIII</h2>
 
 <h2>Procès.</h2>
@@ -827,10 +794,8 @@
 
 <p>L’incertitude de pouvoir suffire à de telles exigences le remplissait déjà de craintes. Quelque peine qu’il se donnât pour affecter l’enjouement, il devenait chaque jour moins malaisé d’apercevoir qu’il vivait au milieu de perplexités croissantes, et que sa pensée suivait des voies qui le rapprochaient toujours plus de son oncle et l’éloignaient d’autant de Thérèse.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p15">
+ <page-sequence id="p15">
  <h2>XIV</h2>
 
 <h2>Préoccupations douloureuses.</h2>
@@ -875,10 +840,8 @@
 
 <p>Elle était bien éloignée de prévoir qu’elle fût à la veille d’un dénoûment où allaient provisoirement s’abîmer toutes ses espérances.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p16">
+ <page-sequence id="p16">
  <h2>XV</h2>
 
 <h2>Ce qui s’ensuit.</h2>
@@ -947,10 +910,8 @@
 
 <p>Dans l’espérance de ne pas perdre le bénéfice des propositions de son oncle, il lui écrivit aussitôt une lettre affectueuse. Mais la seule idée de revoir Thérèse le remplissait maintenant de confusion. Faute d’avoir écouté ses conseils, il s’était mis hors d’état de préciser le délai auquel il se voyait forcé. Chaque regard de la jeune fille ne serait-il pas un reproche ? Aurait-il seulement le courage d’assister à sa douleur et de se séparer d’elle ? D’ailleurs, sincère et inébranlable plus que jamais dans la résolution de l’épouser un jour, irait-il s’exposer à l’entendre exprimer des doutes injustes et blessants ? Il prit donc le parti <pagenum num="63"/>de s’éloigner sans lui dire adieu, et d’aller attendre loin d’elle le moment où il pourrait lui donner des marques éclatantes de sa probité.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p17">
+ <page-sequence id="p17">
  <h2>XVI</h2>
 
 <h2>La lettre.</h2>
@@ -1015,12 +976,9 @@
 
 <p>« Pleure, mon enfant chérie, pleure ! le chagrin s’en va tout doucement de l’âme avec les larmes.... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p18">
+ <page-sequence id="p18">
   <pagenum num="68"/>
-
 <h2>XVII</h2>
 
 <h2>Armistice.</h2>
@@ -1037,12 +995,9 @@
 
 <p>« Sous l’influence de vos conseils et de la raison, lui écrivait-il peu après, j’ai fait litière de toute sensiblerie, de tout souvenir irritant, et j’ai voulu bravement éprouver jusqu’à quel point mon amour était de l’amour. Je me suis fait admettre en des cercles où brillent des femmes jeunes, charmantes et spirituelles, et j’ai tenté de combattre ma passion par une autre passion. Eh bien ? cher oncle, j’y perds mon temps et ma peine. Je vous le déclare, comme cela est, ces femmes, si jolies, si aimables qu’elles soient, ne peuvent pas même soutenir à mes yeux le parallèle avec Thérèse. Dans l’éloignement, je l’entrevois chaque jour plus belle, et l’absence me la rend mille fois plus chère. Je vous jure, qu’il ne fut jamais d’attachement ni plus sérieux, ni plus profondément enraciné dans un cœur d’homme. La crainte de vous fournir le prétexte d’oublier les clauses de notre contrat, en y manquant moi-même, m’empêche seul de rompre mon exil et de venir me jeter aux pieds de Thérèse. »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p19">
+ <page-sequence id="p19">
   <pagenum num="70"/>
-
 <h2>XVIII</h2>
 
 <h2>Grandeurs et misères</h2>
@@ -1119,12 +1074,9 @@
 
 <p>Il a été dit que, dans son veuvage, elle s’était consolée de n’avoir point d’enfants en adoptant une nièce. On ne saurait affirmer qu’elle convoitât l’héritage du commandant pour en doter cette fille adoptive ; toujours est-il qu’elle ne perdait pas une occasion d’envenimer la querelle du neveu avec l’oncle, et qu’elle contribuait plus que personne à entretenir l’animosité entre eux.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p20">
+ <page-sequence id="p20">
   <pagenum num="77"/>
-
 <h2>XIX</h2>
 
 <h2>Réaction.</h2>
@@ -1183,10 +1135,8 @@
 
 <p>D’ailleurs, elle fut bientôt tout entière au bonheur de revoir, d’embrasser son fils. Il y avait près de trente mois <pagenum num="82"/>qu’elle en était séparée. Son impatience ne connaissait plus de bornes. Elle venait de lui écrire qu’il hâtât son retour, qu’elle l’attendait avec l’intention formelle de combler tous ses vœux.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p21">
+ <page-sequence id="p21">
  <h2>XX</h2>
 
 <h2>Problème psychologique.</h2>
@@ -1240,11 +1190,8 @@
 <p>Les visiteurs comprirent. Ils se retirèrent les uns après les autres. Cornélie Granger prétendit emmener Thérèse. Celle-ci prétexta d’un malaise quelconque pour refuser. Le procureur général, tout rêveur, la reconduisit chez elle, où, sans mot dire, il la laissa à ses réflexions.</p>
 
  <pagenum num="86"/>
-
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p22">
+ <page-sequence id="p22">
  <h2>XXI</h2>
 
 <h2>Quatre-vingt-dix-neuf sur cent.</h2>
@@ -1321,11 +1268,8 @@
 
 <p>Celui-ci ne revenait pas de son étonnement, il restait accablé sous la déception. Il ne comprenait plus rien à cette fille toute simple, toute naturelle, essentiellement humaine, adorable, s’il eût su la voir, mais pas du tout sublime. Dans son désenchantement, il s’oubliait jusqu’à être injuste et aveugle, jusqu’à la voir moins belle, moins élégante, moins gracieuse, moins distinguée qu’elle ne l’était véritablement.</p>
 
-
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p23">
+ <page-sequence id="p23">
  <h2>XXII</h2>
 
 <h2>Palinodies.</h2>
@@ -1410,10 +1354,8 @@
 
 <p>Ces petits événements ne laissaient pas que de pénétrer dans le public et d’y faire du bruit. Le commandant, qui était des premiers à les savoir, n’y trouvait, sous l’influence de Mme Henriette, que de nouveaux motifs de colère contre son neveu. La conduite de celui-ci lui paraissait profondément méprisable. Il faisait un scandale énorme, il désolait sa famille, il troublait la vie d’une jeune fille qui valait mieux que lui, et cela sans autre but apparent que celui de satisfaire aux exigences d’une lâche faiblesse. Il y avait dans l’ensemble de ses faits et gestes une immoralité notoire qui achevait d’exaspérer son oncle contre lui. Le commandant se montrait plus que jamais résolu à le déshériter, et parlait chaque jour avec moins de réserve du projet formel de faire, par acte <pagenum num="99"/>authentique, une donation de tous ses biens à la nièce de Mme Desmarres.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p24">
+ <page-sequence id="p24">
  <h2>XXIII</h2>
 
 <h2>Rupture.</h2>
@@ -1532,10 +1474,8 @@
 
 <p>Thérèse ne fut pas plus tôt seule que son impassibilité d’emprunt, dont les apparences lui avaient servi à masquer ses saignantes blessures, s’évanouit. Elle pencha la tête d’un air profondément mélancolique et versa des larmes amères.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p25">
+ <page-sequence id="p25">
  <h2>XXIV</h2>
 
 <h2>Inébranlable.</h2>
@@ -1610,10 +1550,8 @@
 
 <p>C’était quelque chose de réellement curieux que de voir cet homme d’une si belle prestance et d’un caractère en apparence si inflexible, penser et se mouvoir au gré des artifices d’une femme comme les tuyaux d’un orgue immense résonnent sous les mains d’un enfant. Qui songera toutefois à s’en étonner ? Nul n’ignore que c’est la chose du monde la plus vulgaire. Une vérité était peut-être émise le jour où l’on prétendait qu’il n’était pas d’homme qui, de près ou de loin, directement ou indirectement, d’une façon ou d’une autre, ne fût gouverné par une femme.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p26">
+ <page-sequence id="p26">
  <h2>XXV</h2>
 
 <h2>Ce que lui coûte la victoire.</h2>
@@ -1648,10 +1586,8 @@
 
  <pagenum num="117"/>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p27">
+ <page-sequence id="p27">
  <h2>XXVI</h2>
 
 <h2>Maladie.</h2>
@@ -1722,10 +1658,8 @@
 
 <p>Sa taciturnité, au reste, n’intriguait Thérèse que médiocrement. Aussi loin que possible de la vérité, elle s’arrêtait à conjecturer qu’il prétendait lui assurer, par acte authentique, une pension qu’elle n’avait reçue, jusqu’à ce <pagenum num="123"/>jour, qu’à titre provisoire, et qu’il différait de lui en parler par peur d’un refus.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p28">
+ <page-sequence id="p28">
  <h2>XXVII</h2>
 
 <h2>Déclaration.</h2>
@@ -1806,10 +1740,8 @@
 
 <p>« D’accord, mon enfant, dit-il avec empressement ; prenez un mois, deux mois, un an, si vous voulez. Vous avez en moi un véritable esclave. Je souscris d’avance à toutes les conditions qu’il vous plaira m’imposer. »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p29">
+ <page-sequence id="p29">
  <h2>XXVIII</h2>
 
 <h2>Mariage.</h2>
@@ -1820,11 +1752,8 @@
 
 <p>Le procureur général ne s’inquiéta guère de tous ces clabaudages ; il alla droit son chemin, à peu près comme la locomotive file sur les rails sans se soucier des faucheurs et des faneuses qui, à droite et à gauche, crient et gesticulent en la voyant passer. Il n’avait pas eu le temps d’aller de la mairie à l’église, que les bruits avaient cessé. Que pouvait-on contre un fait accompli ? Peu après, jugeant que sa femme méritait qu’il s’occupât exclusivement d’elle, il donnait sa démission. Loin de lui tenir rancune de sa mésalliance, on sollicitait bientôt, à l’égal d’une faveur extrêmement précieuse, l’honneur d’être admis chez lui. Ses dîners étaient délicats, ses soirées étincelaient de lumières et de fleurs, on peut ajouter de jolies femmes et d’hommes d’élite. Bien qu’on n’y jouât point, l’ennui <pagenum num="130"/>y était inconnu. Et ainsi, grâce à Thérèse, au milieu des plaisirs toujours neufs que sait faire éclore la tendresse d’une femme, s’écoulait l’heureuse vie du procureur général.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p30">
-<div id="p31">
+ <page-sequence id="p30" recto='true'>
   <pagenum num="131"/>
 
 <h1>MADELEINE LORIN.</h1>
@@ -1893,11 +1822,8 @@
 
 <p>« Si j’étais sergent de ville, j’aurais bientôt fait de la ramasser et de la conduire au dépôt. »</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p32">
+ <page-sequence id="p32">
  <h2>II</h2>
 
 <h2>Une action qui n’est pas cotée à la Bourse.</h2>
@@ -2022,11 +1948,8 @@
 
 <p>La loquacité, chez Madeleine, croissait avec le contentement. Elle babilla ainsi jusqu’au moment où ils arrivèrent devant la façade de l’église des Dames Saint-Michel. La petite vieille en gravit les marches et s’installa avec son panier le long de la porte. Bénédict n’avait plus rien à lui dire. Après lui avoir de nouveau indiqué son adresse, il prit rendez-vous avec elle pour le lendemain soir, et s’éloigna.</p>
 
-
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p33">
+ <page-sequence id="p33">
  <h2>III</h2>
 
 <h2>Complications.</h2>
@@ -2097,11 +2020,8 @@
 
 <p>— Elle sait déjà ce qui se passe ici ; il paraît que ça l’intrigue. Auparavant, elle ne parlait de moi que pour m’accabler d’épithètes injurieuses ; aujourd’hui elle demande de mes nouvelles et se plaint de ne pas me voir. Vous lui donnez du tintouin ; elle veut absolument vous connaître, et elle vous connaîtra. Attendez-vous à recevoir un de ces jours la visite de son insignifiant mari.... »</p>
 
-
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p34">
+ <page-sequence id="p34">
  <h2>IV</h2>
 
 <h2>La tante Euphrasie.</h2>
@@ -2226,10 +2146,8 @@
 
 <p>Après quoi elle sortit.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p35">
+ <page-sequence id="p35">
  <h2>V</h2>
 
 <h2>M. le docteur.</h2>
@@ -2272,10 +2190,8 @@
 
 <p>Euphrasie avait lassé la patience de vingt médecins consciencieux. La docteur Moneron était le seul qui eût trouvé le secret de lui plaire et de la soigner comme elle voulait l’être. Pendant près d’une demi-heure, tout en lui tâtant le pouls ou en lui offrant une pastille, il la flatta, la dorlota, se lamenta sur la malignité des affections nerveuses, puis, d’un air de courroux, exalta les vertus de l’intéressante malade et lui reprocha d’avoir une sensibilité trop grande.<pagenum num="161"/> Après quoi, il rédigea une longue ordonnance, et s’en alla d’un air qui pouvait vouloir signifier : « En voilà encore une de faite ! »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p36">
+ <page-sequence id="p36">
  <h2>VI</h2>
 
 <h2>Volupté.</h2>
@@ -2319,12 +2235,9 @@
 
 <p>« Peuh ! je m’en doute, ajouta Madeleine : que je n’ai pas de cœur ; que je suis une ingrate ; que j’ai ruiné ma fille ; que je suis une voleuse. Enfin elle vous a conté mon histoire à sa manière. Asseyez-vous. Pendant que vous souperez, je vous la conterai à la mienne... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p37">
+ <page-sequence id="p37">
  <pagenum num="168"/> 
-
 <h2>VII</h2>
 
 <h2>Histoire de tous les jours.</h2>
@@ -2425,10 +2338,8 @@
 
 <p>« Voilà la vérité pure, dit-elle en terminant ; vous savez à cette heure comment, après avoir été dans l’aisance, j’en ai été réduite, pour vivre, à me faire revendeuse ; et vous êtes en mesure d’apprécier jusqu’où ma belle-sœur peut <pagenum num="179"/>pousser le mensonge, l’injustice, l’improbité, la malice et la perfidie. »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p38">
+ <page-sequence id="p38">
  <h2>VIII</h2>
 
 <h2>Où Bénédict commence à se former une opinion.</h2>
@@ -2540,10 +2451,8 @@
 <p>Bénédict sourit à cette banalité impertinente ; quoique dans la désolation, il ne voulut pas désobliger son ami.</p>
 
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p39">
+ <page-sequence id="p39">
  <h2>IX</h2>
 
 <h2>Un secret.</h2>
@@ -2618,10 +2527,8 @@
 
 <p>— Au surplus, dit Madeleine, ça ne me regarde pas ; je m’en lave les mains ; c’est ton affaire. Ma fille est libre : comme il s’agit de son bonheur et non pas du mien, je n’entends pas la contrarier. Si tu échouais auprès d’elle, ce qui est bien possible, il ne faudrait pas t’en prendre à moi.... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p40">
+ <page-sequence id="p40">
  <h2>X</h2>
 
 <h2>Entre la mère et la fille.</h2>
@@ -2766,15 +2673,11 @@
 
 <p>C’est qu’en effet il en est encore des âmes un peu comme des parallèles, des lignes, qui, prolongées à l’infini, ne se rencontrent jamais.</p>
 
-
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p41">
+ <page-sequence id="p41">
  <h2>XI</h2>
 
 <h2>Semer dans l’argile.</h2>
-
 
 <p>Madeleine n’avait pas jugé à propos de taire la conversation qu’elle avait eue avec sa fille. Elle n’avait caché à Bénédict que ce qui pouvait le décourager, notamment les causes réellement redoutables de l’éloignement d’Anaïs pour lui. Là vieille, d’ailleurs, était loin d’avoir perdu tout espoir. Dans sa conviction, Anaïs et Bénédict étaient faits l’un pour l’autre ; c’était son rêve, sa passion, de les voir unis, et, à coup sûr, elle n’était pas femme, surtout quand il s’agissait du bonheur de sa fille, à se laisser rebuter par un échec.</p>
 
@@ -2858,10 +2761,8 @@
 
 <p>Bénédict s’étonna à la fin du peu d’impression qu’il faisait sur elle. Bien d’autres n’en eussent pas été surpris. Mais il n’avait pas sans doute encore assez vécu pour reconnaître, qu’à l’âge de Madeleine, on ne change volontiers ni de caractère, ni d’opinion, ni de règle de conduite.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p42">
+ <page-sequence id="p42">
  <h2>XII</h2>
 
 <h2>Douloureux pronostics.</h2>
@@ -2923,10 +2824,8 @@
 <p>— Certes, répliqua fermement Bénédict ; vous obéirez, ou je vous envoie mourir à l’hôpital.... Je sors avec Anselme pour chercher ce qu’il faut. Qu’en rentrant je vous trouve au lit.... »</p>
 
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p43">
+ <page-sequence id="p43">
  <h2>XIII</h2>
 
 <h2>Les adieux.</h2>
@@ -3041,10 +2940,8 @@
 
 <p>Tandis qu’il jouait cette scène touchante au fond de son cœur, Anaïs gagnait l’escalier et s’éloignait rapidement.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p44">
+ <page-sequence id="p44">
  <h2>XIV</h2>
 
 <h2>La nuit.</h2>
@@ -3137,10 +3034,8 @@
 
  <pagenum num="230"/>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p45">
+ <page-sequence id="p45">
  <h2>XV</h2>
 
 <h2>D’erreur en erreur.</h2>
@@ -3283,10 +3178,8 @@
 
  <pagenum num="242"/>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p46">
+ <page-sequence id="p46">
  <h2>XVI</h2>
 
 <h2>Le trésor.</h2>
@@ -3415,10 +3308,8 @@
 
 <p>— L’impossible avant de me résoudre à me brûler les doigts à cet argent. J’attendrai que Madeleine soit assez forte pour m’entendre, car je me propose de lui dire brutalement son fait. Je la connais enfin, elle ne peut plus m’en imposer. Oh ! tout mon sang bouillonne à l’idée que j’ai été perpétuellement dupe d’une comédie d’affection !... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p47">
+ <page-sequence id="p47">
  <h2>XVII</h2>
 
 <h2>Amour.</h2>
@@ -3543,10 +3434,8 @@
 
 <p>— Après, après, répéta Madeleine pensive, sans doute nous ne nagerons pas dans l’abondance. Il faut s’attendre à de rudes commencements. Mais je travaillerai, je vous aiderai, je ferai des ménages. Anaïs, de son côté, travaillera, tu lui trouveras une bonne place. J’imagine, quant à toi, que tu ne resteras pas non plus les bras croisés. Mon Dieu ! nous verrons, nous verrons. A force de travail, d’économie, de bon accord, nous parviendrons peut-être bien à mettre les deux bouts ensemble.... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p48">
+ <page-sequence id="p48">
   <pagenum num="262"/>
 
 <h2>XVIII.</h2>
@@ -3629,10 +3518,8 @@
 
 <p>Anaïs alla au-devant d’un baiser et se pâma de bonheur dans les bras de son mari....</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p49">
+ <page-sequence id="p49">
  <h2>XIX</h2>
 
 <h2>La clef du labyrinthe.</h2>
@@ -3739,10 +3626,8 @@
 
 <p>La bonne femme ajouta beaucoup d’autres choses que Bénédict promit, en riant, de ne jamais oublier.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p50">
+ <page-sequence id="p50">
  <h2>XX</h2>
 
 <h2>Catastrophe.</h2>
@@ -3853,16 +3738,13 @@
 <h2><s>FIN DE LA PREMIÈRE SÉRIE.</s></h2>
 
  <pagenum num="294"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p51">
+ <page-sequence id="p51" recto='true'>
   <pagenum num="295"/>
 
 <h1>TABLE DES MATIÈRES</h1>
 
-
-<h2><a idref="p01">THÉRÈSE LEMAJEUR</a></h2>
+<h2><a idref="p02">THÉRÈSE LEMAJEUR</a></h2>
 
 <table>
 
@@ -3906,7 +3788,7 @@
 <table>
 <tbody>
 
-<tr><td><a idref="p31">I.</a></td><td>Sur le pont Saint-Michel</td></tr>
+<tr><td><a idref="p30">I.</a></td><td>Sur le pont Saint-Michel</td></tr>
 <tr><td><a idref="p32">II.</a></td><td>Une action qui n’est pas cotée à la Bourse</td></tr>
 <tr><td><a idref="p33">III.</a></td><td>Complications</td></tr>
 <tr><td><a idref="p34">IV.</a></td><td>La tante Euphrasie</td></tr>
@@ -3930,7 +3812,6 @@
 </tbody>
 </table>
 
- </div>
  </page-sequence>
 </page-sequences>
 </bml>
