@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000270"
         creation="2013-01-17T00:00:01-08:00"
-        modification="2014-12-31T18:14:52-08:00">
+        modification="2022-06-20T15:02:18-07:00">
 
       <surtitre>Œuvres posthumes</surtitre>
       <titre>Voyage en France par un français</titre>
@@ -62,8 +62,7 @@
   <cover src="images/couverture2.png" alt="Œuvres posthumes de Paul Verlaine. II. Charles Baudelaire — Voyage en France par un français — Souvenirs et promenades — Quelques vers inédits — Critique et conférences — Dessins de Paul Verlaine. Paris. Albert Messein, éditeur. Successeur de Léon Vanier. 19, quai Saint-Michel, 19. 1913."/>
 
 <page-sequences>
-<page-sequence>
-<div id="ch1">
+<page-sequence id="ch1">
  <pagenum num="33"/>
 
 <h2>VOYAGE EN FRANCE PAR UN FRANÇAIS<noteref noteid="note.33.1"/></h2>
@@ -112,17 +111,14 @@
     <p>J’ai cru devoir ne rien retrancher à ces pages, car elles démontrent d’une façon particulièrement caractéristique que, chez Verlaine, la complexité du sentiment explique parfois jusqu’à l’étrangelé des jugements. Au surplus, il en convient lui-même : j’en veux pour seul témoignage ces quatre vers que je serais tenté de placer en épigraphe au <i>Voyage :</i></p>
 
     <blockquote>
-      <poem>
-
+      <poem m='12'>
         <lg>
         <l>Pourtant, — et c’est ici le cas, — j’ai mes instants</l>
         <l>Pratiques, sérieux si préférez, où l’ire,</l>
         <l>Juste au fond, dans le fond injuste en tel cas pire.</l>
         <l>Sort de moi pour un grand festin à belles dents.</l>
         </lg>
-
       </poem>
-      
       <p class="r3">L<s>OUIS</s> L<s>OVIOT</s>.</p> 
     </blockquote>
 
@@ -164,10 +160,8 @@
 
 <p>Un pieux pèlerinage, loin du « sang impur » contemporain, à cette fontaine sacrée nous rendra l’énergie avec l’espoir, et c’est de toute notre âme Française et chrétienne que nous l’accomplirons. Veuille le lecteur ne se pas rebuter aux affres nombreuses du chemin. Des tableaux navrants, quelquefois écœurants, souvent tristement ridicules, passeront devant ses yeux. Il nous échappera bien des paroles sévères, amères. Mais partout où nous pourrons, au prix des plus minutieux efforts, découvrir le précieux ruisseau primitif, malgré toutes obstructions sous quelqu’affluence fétide ou quelque congélation bourbeuse que ce soit, nous saluerons le flot chéri, retrempant nos lèvres à son eau de gloire et de foi, et d’un pas plus viril reprendrons le pieux voyage, assurés en Dieu qui sauve les nations comme les hommes, Français toujours et quand même Français, dignes du nom ancien et fiers d’espérer dans une si noble cause !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch2">
+<page-sequence id="ch2">
  <pagenum num="46"/>
 
 <h2>CHAPITRE II</h2>
@@ -190,10 +184,8 @@
 
 <p>Mais Satan veillait, et sentant bien que le protestantisme était terrassé en France, reprit son travail en sous main, et pour mieux réussir recourut à la vieille ruse et encore une fois se déguisa en un ange de lumière : d’où le Jansénisme primitif, son austérité, ses protestations, <pagenum num="53"/>hélas ! aussi éloquentes et brillantes qu’hypocrites et perfides, par l’organe d’un écrivain de génie contre l’intelligente indulgence et la mansuétude toute évangélique des casuistes jésuites, et d’où, chez une nation avant tout généreuse et facile à piper avec de beaux mots, la popularité de ces doctrines féroces qui supprimaient toute douceur et toute largeur dans l’examen des cas de conscience, au nom d’une morale impraticable, désolante, mais parlant bien haut d’elle et d’elle seule comme de la seule morale chrétienne et de la perfection vraie. Vingt fois depuis, des réfutations probantes par écrit et surtout en action éclatèrent qui ne laissèrent pas subsister un vestige de la détestable erreur, le Saint-Siège foudroya la tortueuse hérésie dans les termes les plus clairs. Rien n’y fit. Le coup aux Jésuites et au catholicisme orthodoxe était porté et devait retentir jusqu’à nos jours. Désormais, sans guide sûr, la foi des faibles, c’est-à-dire de la multitude, s’effarouchait et tombait du scrupule à l’indifférence et de celle-ci dans tous les torts qui nous affligent.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch3">
+<page-sequence id="ch3">
  <pagenum num="54"/>
 
 <h2>CHAPITRE III</h2>
@@ -240,10 +232,8 @@
 
 <p>D’ailleurs, nos prolégomènes ont pris fin, et nous allons dans le cœur du sujet, désormais ouvert à notre examen libre et en apparence <pagenum num="70"/>capricieux, bien que nous prétendions y apporter une méthode sévère, en raison précisément de laquelle nous avons cru devoir commencer par des observations qui commanderont tout le reste.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch4">
+<page-sequence id="ch4">
  <pagenum num="71"/>
 
 <h2>CHAPITRE IV</h2>
@@ -284,10 +274,8 @@
 
 <p>En attendant, quelle honte française !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch5">
+<page-sequence id="ch5">
  <pagenum num="80"/>
 
 <h2>CHAPITRE V</h2>
@@ -315,13 +303,11 @@
 <p>Te voilà donc soldat pour un an. Un an, qu’est ce que cela auprès de quatre ? — Peu presque rien en vérité, au prix de quatre, — bien que ce soit déjà trop, par le temps qui court, pour un père anxieux de l’âme aussi bien et plus que du bien-être matériel d’un fils unique. Et tu as déjà deviné, ton cœur chrétien a compris que je ne puis te laisser partir</p>
 
 <blockquote>
-<poem>
-
+<poem m='8'>
 <lg>
 <l>« ... O la meilleure part</l>
 <l>De moi-même.., »</l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -363,10 +349,8 @@
 
 <p>En un mot, sois Français quand même, et chrétien par dessus tout.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch6">
+<page-sequence id="ch6">
  <pagenum num="91"/>
 
 <h2>CHAPITRE VI</h2>
@@ -484,10 +468,8 @@
 <p>Je n’ai point parlé de l’horrible luxure dont <pagenum num="125"/>l’œuvre générale de ces messieurs regorge et déborde, non plus que de l’ennui colossal inséparable de ce plus triste des péchés. C’est le châtiment double et d’une pareille littérature et des lecteurs qui l’alimentent. Mais tout de même que de beau et grand talent déshonoré, perdu, — à détester comme la peste et plus qu’elle !</p>
 
  <pagenum num="126"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
  <pagenum num="429"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -506,7 +488,6 @@
 
 <p class="sommaire"><a idref="ch6">Chapitre VI. — Les romanciers actuels et la religion</a></p>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

@@ -32,7 +32,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000257"
         creation="2013-01-07T00:00:01-08:00"
-        modification="2014-12-31T18:14:50-08:00">
+        modification="2022-06-20T15:01:56-07:00">
       
       <surtitre>Œuvres complètes</surtitre>
       <titre>Quinze jours en Hollande</titre>
@@ -61,8 +61,7 @@
   <cover src="images/couverture5.png" alt="Œuvres complètes de Paul Verlaine. Confessions — Quinze jours en Hollande — Les hommes d’auhourd’hui. Tome cinquième. Troisième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1905."/>
 
   <page-sequences>
-<page-sequence>
-<div id="I">
+<page-sequence id="I">
  <pagenum num="199"/>
 
 <h2>I</h2>
@@ -94,7 +93,7 @@
 <p>Et le train se remet en marche lentement, pesamment, enfilant les faubourgs aux masures basses crépies à la chaux, où toute une marmaille accourue sur le seuil pour voir « passer le ch’min d’fer » <pagenum num="203"/>mange « des tarteinnes » de « bûr » et gratte ses cheveux filasses, — ou très noirs, car c’est la terre</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>« Où s’assirent longtemps les ferventes Castilles ».</l>
 </poem>
 </blockquote>
@@ -103,10 +102,8 @@
 
 <p>Rien de remarquable jusqu’à la frontière belge que l’insignifiance de ce détail des poteaux télégraphiques non plus par longues perches, mais dédoublés en cône et inclinés en arrière. On dirait cette fois des jambes de géants ivres très secs qui pirouettent et vont tomber. Ces titubants compagnons doivent m’accompagner jusqu’à La Haye et un peu plus tard à Leyde et à Amsterdam.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="II">
+<page-sequence id="II">
  <pagenum num="204"/>
 
 <h2>II</h2>
@@ -159,10 +156,8 @@
 
 <p>Le train se remet en route et nous entrons pour de bon dans les états de Sa jeune Majesté la reine Wilhelmina, première du nom.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="III">
+<page-sequence id="III">
  <pagenum num="212"/>
 
 <h2>III</h2>
@@ -179,7 +174,7 @@
 
 <h2>ROTTERDAM</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Après qu’il a franchi d’abord les terres vertes</l>
 <l>Pleines d’eau régulière et qu’un moulin à vent</l>
@@ -231,8 +226,8 @@
 <p>Nous croisons un cortège de</p>
 
 <blockquote>
-<poem>
-<l>&#x2001;&#x2001;« <i>Petites filles roses</i></l>
+<poem m='8'>
+<l m='6'>« <i>Petites filles roses</i></l>
 <l><i>Sortant du prêche en sabots.</i> »</l>
 </poem>
 </blockquote>
@@ -244,7 +239,7 @@
 <p>Au centre de cet illustre <i>Passage</i> existe un certain débit de liqueurs, Schiedam, Bitter, très fréquenté, bien qu’ayant peu d’apparence. C’est là notre première station en « ’s Cravenhage » — au diable l’interprétation trente-six fois embobinée de ce mot terrible. Je crois que toute explication qui ne serait pas un cours d’histoire n’aboutirait ici guère qu’au travail des excellentes sorcières dont mention au <i>Cromwell</i> de Victor Hugo et qui</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>« chantent en faisant des noeuds ! »</l>
 </poem>
 </blockquote>
@@ -254,7 +249,7 @@
 <p>Quelques instants après, nous envahissons un somptueux établissement, tout fleurs, tout arbustes, tout glaces, tout électricité, où un littéral festin des Titans nous est servi,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>« Des mets et des boissons de toutes parts venus »</l>
 </poem>
 </blockquote>
@@ -265,7 +260,7 @@
 
 <h2>A M<sup>lle</sup> RENÉE ZILCKEN</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>O Mademoiselle Renée,</l>
 <l>Fillette exquisement mignonne,</l>
@@ -301,10 +296,8 @@
 
 <p>Quel sommeil ! à demain !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="IV">
+<page-sequence id="IV">
  <pagenum num="220"/>
 
 <h2>IV</h2>
@@ -352,7 +345,7 @@
 <p>Après le déjeuner, le café au salon. Une bonne heure de flemme entretenue par de ces cigares bataviens ou javanais dont il ne faudrait pas fumer par trop sous peine de maux de tête — surtout quand joints, comme fréquemment en ce pays de têtes froides, et c’est bien ce qui sauve ces braves Néerlandais, à quelques amers-Schiedam, par exemple. Mais un bon Français de France, allez voir ça... Aussi m’abstiens-je... le plus souvent possible, vraiment, tout le temps de mon séjour. Autrement,</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l><i>Lugete veneres cupidinesque,</i></l>
 </poem>
 </blockquote>
@@ -376,7 +369,7 @@
 <p>— O Calvin, ô Frédéric Passy, ô Jules Simon, ô désormais immortel Monsieur le Sénateur Bérenger.</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>« <i>Que dites-vous de ce bandit</i> »</l>
 </poem>
 </blockquote>
@@ -413,10 +406,8 @@
 
 <p>Mais voici Zilcken et M<sup>me</sup> Zilcken, Toorop, Verwey qui m’enlèvent et nous allons, cette fois-ci pédestrement au Passage qui est tout proche, où nous envahissons un grand café.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="V">
+<page-sequence id="V">
  <pagenum num="232"/>
 
 <h2>V</h2>
@@ -464,7 +455,7 @@
 <p>Ces vers sont beaux, ne trouvez-vous pas ? Verwey me les avait lus en néerlandais et j’y trouvais <pagenum num="237"/>une musique étrange, une harmonie toute neuve. Mais pour qui me connaît physiquement il y a là comme des traits réalistes parfaits ; « les doigts comme de petites lattes » sont un chef-d’œuvre qui caractérise à merveille mes mains sèches aux phalanges de disposition goutteuse.</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>« <i>Ce ne sont pas des mains d’altesse</i></l>
 <l><i>De beau prélat quelque peu saint</i></l>
 <l><i>Pourtant une délicatesse</i></l>
@@ -511,7 +502,7 @@
 <p>Même salle qu’hier. Moins de public, mais des figures connues et sympathiques, et cette fois supprimant le salut à la Hollande et les compliments aux ’s Gravenhageois, j’entre immédiatement dans mon sujet. Je parle, pour changer, du vers libre ou blanc auquel je ne puis, peut-être à tort, m’habituer. A mon sens le vrai vers libre c’est celui de La Fontaine. Quant au vers blanc les essais sont innombrables — et malheureux. Il n’est pas jusqu’à ce Louis Bonaparte qui fut un bon roi autant qu’il le pouvait sous l’incessante surveillance parfois <pagenum num="241" b="tatil-" a="lonne">tatillonne</pagenum> et toujours dure de son terrible frère, qui n’en ait pas fait un livre complet où j’ai cueilli cette fleur... en papier. C’est une Léocadie quelconque qui dit au beau premier Lindor la pressant :</p>
 
 <blockquote>
-<poem>
+<poem m='3'>
 <l>« Votre amour</l>
 <l>Illégal,</l>
 <l>Il me semble</l>
@@ -528,7 +519,7 @@
 <p>Réunion charmante. Un monsieur ouvrit la soirée nous jouant des morceaux de sa composition où il semble lutter inégalement avec les chants liturgiques de l’église catholique pour les services funèbres. Il donnait la note juste. Dans toute assemblée fonctionnant en vue d’un but de plaisir, la gaieté doit aller plutôt <i>crescendo</i> que <i>forte</i> tout de suite, et ce début d’un agréable <i>symposium</i> était dans toutes les règles. Il y a dans Th. Gautier des vers sur ce sujet.</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>« Seulement pour pousser à boire,</l>
 <l>Au banquet de Trimalcion,</l>
 <l>Une larve, joujou d’ivoire,</l>
@@ -553,7 +544,7 @@
 <p>Ma lecture eut quelque succès plutôt de politesse je le crois et je le dis sans mesquin regret, car je le conçois, des vers aussi <i>faits</i> et <i>voulus</i> ne peuvent qu’<i>étonner</i> quiconque n’est pas très initié, à plus forte raison un auditoire étranger quelque versé <pagenum num="244"/>qu’il pût être dans notre langue. On se retira d’assez bonne heure et je n’en fus pas fâché. J’étais rendu de fatigue. Mon sommeil même s’en ressentit. Je rêvai d’un bon gros être hybride, moitié monsieur pianiste, moitié faune, un pied chaussé de vernis, l’autre, celui d’un bouc. Ce monstre qui était d’une bonne humeur tumultueuse se roulait et s’étendait sur l’herbe... d’un tapis, il picorait des raisins en buvant du thé et fumait en même temps un énorme cigare. Pour comble ne voilà-t-il pas qu’il mange une énorme grappe dont il laisse les peaux et tout d’un coup</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>« Gonflant des souvenirs divers »</l>
 </poem>
 </blockquote>
@@ -596,10 +587,8 @@
 
 <p>Et ces illusions (mes deux voisins sont, en hollandais, dans le feu d’une discussion artistique) me mènent jusqu’à Leyde où plusieurs jeunes gens nous attendent, de qui plusieurs entrevus à La Haye, me paraît-il (car mes yeux, déçus par les traits de cette <pagenum num="249"/>Phœbé qui est Séléné, qui est Artemis, sont encore tout au prestige de « <i>notre Dame la lune</i> », comme intitulait un de ses livres le si regretté Jules Laforgue).</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="VI">
+<page-sequence id="VI">
  <pagenum num="250"/>
 
 <h2>VI</h2>
@@ -615,7 +604,7 @@
 <p>Je suis redevable quelques instants après à ce baroque hôtel de ville d’un grand plaisir. Comme je mettais en ordre les notes pour ma conférence, j’entendis pour depuis bien longtemps un <i>vrai</i> carillon flamand. Quelle chose exquise et comme pieuse et gaie et en quelque sorte, vaillante que ces trilles délicieusement changeants ! Je n’ai jamais compris que dans notre Flandre française, en possession pourtant de trois beaux hôtels de ville gothiques, ce que l’on appelle le carillon consiste en l’égouttement agaçant et plat d’un air de foire et d’un vieil air déplorablement épelé ? Tels <i>la ducasse d’Arreau</i>, <i>En voyant Lafayette</i>, <i>Turlututu</i>, <i>Gayant qui...</i>, <i>Batelier dit Lisette...</i> Pour nous dédommager, nous avons à Paris celui de la mairie du I<sup>er</sup> arrondissement qui ne fonctionne pas et celui du <i>Figaro</i> qui n’envoie que quatre ou cinq notes du <i>Barbier.</i> Il y a bien des questions comme cela en France, pays charmant, mon pays, mais hélas ! tout épris de la fausse bâtisse romane, des alignements antihygiéniques où le courant d’air règne et gouverne, où le <pagenum num="252"/>crottin vole et pue ! et des laideurs qui déshonorent Paris et les villes, riches pourtant de monuments si beaux.</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>« Comment en un plomb vil l’or pur s’est-il changé ? »</l>
 </poem>
 </blockquote>
@@ -654,10 +643,8 @@
 
 <p>Mon hôte s’appelle Witsen ou plutôt mes hôtes s’appellent Witsen et Isaac Israëls. Witsen, un peintre, homme sérieux, concentré, est bien souvent sorti pour des soins relatifs aux conférences ; c’est Israëls, locataire dans la même maison, qui fait les honneurs de son logis. Physiquement Israëls est un petit homme d’une extraordinaire vivacité, se multipliant pour faire les honneurs d’un sommaire ménage. Un succulent pâté, de poisson fumé délicieux, jusqu’à un « ragoût bon » comme l’annonce le tout aimable petit homme dans son amusant français toujours clair et coulant d’ailleurs, tout cela largement arrosé de bordeaux, puis digéré à l’aide... nécessaire et efficace d’un café terrible trempé d’un genièvre à se mettre à genoux devant — nous mènent, tout en causeries plaisantes et en cigares, jusqu’à deux heures du matin. On se sépare et mon hôte par procuration regagna son appartement. Ouf ! je me couche et je m’endors pour me réveiller tard et prendre le thé. Sous prétexte de thé on mange comme quatre, viande, poisson, etc. — Mais laissez-moi vous présenter socialement cette fois l’excellent Israëls.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="VII">
+<page-sequence id="VII">
  <pagenum num="259"/>
 
 <h2>VII</h2>
@@ -669,7 +656,7 @@
 <p>Mais je suis prêt, et après avoir pris congé, jusqu’après ma conférence, de mon hôte, et de quelques amis et — je crois bien — confrères d’Israëls et de Witsen, nous partons, Tak et moi. Ma nouvelle résidence est située tout au bout de la ville en face d’un parc en... construction. Nous tournons à droite passons devant une église toute neuve, vaguement gothique en briques roses au</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>« Clocher silencieux montrant du doigt le ciel. »</l>
 </poem>
 </blockquote>
@@ -685,7 +672,7 @@
 <p>Puis ce sont les canaux. Tous ceux que nous traversons dans notre léger véhicule sont encombrés de bateaux de toute sorte, puis c’est l’Amstel et l’Y, majestueux avec jusqu’à des bateaux de guerre dans leurs ondes par moment gonflées par la mer toute proche. Car vous savez que la Hollande est depuis des vingtaines d’années en guerre dans les Indes avec des « indigènes » excellemment armés, — et en observation du côté des Russes et des Anglais, voisins aux coudes pointus. Même nous voyons passer un régiment de vétérans allant s’embarquer, — en tenue sombre de campagne — bonnet de police aussi, plantés droit mais un peu en arrière. Ils n’ont rien de commun, ces chevronnés, avec les jolis godelureaux de La Haye. Leur moustache</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>« pend, comme de vieux drapeaux. »</l>
 </poem>
 </blockquote>
@@ -715,7 +702,7 @@
 <p>Un tramway, des canaux, une grande place, un grand monument polychrome à tourelles, le seul sérieux d’Amsterdam ; ce n’est ni beau ni laid, c’est grand incontestablement. Un escalier monumental conduit à une salle immense, la grande nef d’une cathédrale, avec quelque chose de lumineux discrètement comme un autel allumé dans l’ombre, au fond, tout au fond. De littéraux bas côtés à moitié séparés par de somptueux rideaux de peluche (sur des murs de brique très bien adaptée et formant des figures géométriques... des plus agréables, mais de brique tout de même. Quelque raison nous pressant nous parcourons en jetant à droite et à gauche des regards, pour ma part, charmés autant qu’étonnés, sur, surtout, entre des paysages de Ruysdael, des animaux de Potter, sur, dis-je, des rangées de beaux portraits et de groupes de portraits noirs en fraises et en collerettes éblouissantes. Un temps d’arrêt <pagenum num="269" b="toute-" a="fois">toutefois</pagenum> devant les <i>Syndics</i> de Rembrandt, toile magnifique, magique ! les beaux personnages si bien, si logiquement campés. En face on a eu l’idée, baroque ou logique, de pendre un tableau de Troost, pastelliste de talent du <s>XVIII</s><sup>e</sup> siècle. C’est aussi une série d’hommes (en perruques régence avec un ruban mignard aux retombées de la perruque sur les épaules). Ils sont tout en bleu ciel, rosés, l’air point bon. Ce sont les régents d’un Orphelinat qui représentent admirablement dans leur aspect dur et frivole <i>les classes dirigeantes</i> d’alors enrichies par la compagnie des Indes — à la droite de ce tableau curieux quand même, un malingre orphelin, comme un chien galeux se tient respectueux et blotti. Je m’imagine ce que doivent penser les syndics d’en face de leurs compatriotes de deux générations après, et de</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>« Leurs méfaits plus hideux encor que leur... tenue ! »</l>
 </poem>
 </blockquote>
@@ -735,7 +722,7 @@
 <p>Et nous allons déjeuner sans trop disserter sur la peinture moi, dans l’intervalle des mets, tout à la belle place, à un canal voisin, bondé d’embarcations de tout gréement, au mouvement londonien de passants et de voitures. C’est là que je vois, ou plutôt que je revois, des femmes à casques ; j’en avais déjà croisé, il y a vingt ans, à Bruxelles, d’où ce vers très ancien de moi,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Et des femmes avec du cuivre après leur front.</l>
 </poem>
 </blockquote>
@@ -754,10 +741,8 @@
 
 <p>Et nous finissons par atteindre l’heure. (Pas) « joyeux » voyageur, je gravis les degrés de la gare monumentale flanqué de ma « festivale escouade » et... grâce à Toorop qui va chercher quelque chose en ville nous manquons le train de trois heures. Celui de cinq que nous attendons « patiemment » au buffet nous entraîne, le retardataire et moi, dans la nuit, et la pluie battante, après de cordiaux et inoubliables « au revoir ».</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="VIII">
+<page-sequence id="VIII">
  <pagenum num="274"/>
 
 <h2>VIII</h2>
@@ -801,7 +786,7 @@
 <p>Au bout d’une demi-heure la princière, la royale route fait place à la rue unique du village, un grand village de pêcheurs, dont les habitants ont, paraît-il, gardé des mœurs patriarcales. En tout cas leur <pagenum num="281"/>costume, surtout celui des femmes est bien particulier et doit dater de loin. C’était un dimanche. La cloche de la modeste église au clocher pointu appelait au prêche ces sincères et vraiment protestants de cœur plus que de théologie, si l’on peut parler beaucoup de cœur en parlant du protestantisme, — mais je ne parle ici que de protestants ignorants, humbles, simples, comme les vrais catholiques de nos côtes. Puis on voit la mer. La mer ! il y avait longtemps que je ne l’avais vue, ni respiré son air sauveur. Elle est très belle, d’une mélancolie au soleil presque couchant, très calme et qui lèche la plage où sommeillent, je ne sais comment arrivées là, quelques rares barques de pêche (je ne crois pas qu’il y ait d’autre <i>port</i>). D’autres barques, innombrables, paraît-il, sont « au large » avec leurs petites voiles noires, qui souvent impuissantes, les trahissent quoi qu’elles en aient,</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>« Et ça se dit sombrer ! »</l>
 </poem>
 </blockquote>
@@ -825,7 +810,7 @@
 <p>En route j’avais fait ces vers qui clôront ce récit où je me suis tant plu :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Gens de la paisible Hollande</l>
@@ -879,7 +864,6 @@
 </blockquote>
 
  <pagenum num="286"/>
-</div>
 </page-sequence>
   </page-sequences>
 </bml>

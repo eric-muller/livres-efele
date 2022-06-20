@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000211"
         creation="2012-09-02T00:00:00-08:00"
-        modification="2014-12-31T18:14:49-08:00">
+        modification="2022-06-20T15:01:48-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Les poètes maudits</titre>
@@ -63,8 +63,7 @@
   <cover src="images/couverture4.png" alt="Œuvres complètes de Paul Verlaine. Les poètes maudits - Louise Leclerq - Les mémoires d’un veuf - Mes hôpitaux - Mes prisons. Tome quatrième. Troisième édition. Paris. Librairie Léon Vanier, éditeur. A. Messein, successeur. 19, quai Saint-Michel, 19. 1904."/>
 
  <page-sequences>
-<page-sequence>
-  <div id="I">
+<page-sequence id="I">
 
 <pagenum num="3"/>
 
@@ -87,7 +86,7 @@
 
 <h2>RESCOUSSE</h2>
 
-<poem>
+<poem m='4'>
 <lg>
 <l>Si ma guitare</l>
 <l>Que je répare,</l>
@@ -141,7 +140,7 @@
 <blockquote>
 <h2>ÉPITAPHE</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Il se tue d’ardeur et mourut de paresse.</l>
 <l>S’il vit, c’est par oubli ; voici qu’il se laisse :</l>
@@ -156,12 +155,14 @@
 <l>Et fut un arlequin-ragoût,</l>
 <l>Mélange adultère de tout.</l>
 </lg>
+
 <lg>
 <l>Du <i>je-ne-sais-quoi.</i> — Mais sachant tout</l>
 <l>De l’or, — mais avec pas le sou ;</l>
 <l>Des nerfs, — sans nerf. Vigueur sans force ;</l>
 <l>De l’élan, — avec une entorse ;</l>
 </lg>
+
 <lg>
 <l>De l’âme, — et pas de violon ;</l>
 <l>De l’amour, — mais pire étalon ;</l>
@@ -176,8 +177,7 @@
 
 <blockquote>
 
-
-<poem>
+<poem m='8'>
 <vsep class="dots"/>
 <l>Pas poseur, — posant pour <i>l’unique ;</i></l>
 <l>Trop naïf étant trop cynique ;</l>
@@ -212,7 +212,7 @@
 <p>A propos d’un ami mort « de <i>chic</i>, de boire ou de phthisie » :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Lui qui sifflait si haut son petit air de tête.</l>
 </poem>
 </blockquote>
@@ -220,7 +220,7 @@
 <p>A propos du même, probablement :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Comme il était bien Lui, ce Jeune plein de sève !</l>
 <l>Apre à la vie <i>O gué !...</i> et si doux en son rêve.</l>
 <l>Comme il portait sa tête ou la couchait gaîment !</l>
@@ -233,30 +233,30 @@
 
 <h2>HEURES</h2>
 
-<poem>
+<poem m='10'>
 <lg>
-<l>&#x2001;Aumône au malandrin en chasse !</l>
-<l>&#x2001;Mauvais œil à l’œil assassin !</l>
-<l>&#x2001;Fer contre fer au spadassin !</l>
+<l m='8'>Aumône au malandrin en chasse !</l>
+<l m='8'>Mauvais œil à l’œil assassin !</l>
+<l m='8'>Fer contre fer au spadassin !</l>
 <l>— Mon âme n’est pas en état de grâce ! —</l>
 </lg>
 
  <pagenum num="8"/>
 
 <lg>
-<l>&#x2001;Je suis le fou, de Pampelune,</l>
-<l>&#x2001;J’ai peur du rire de la Lune</l>
-<l>&#x2001;Cafarde avec son crêpe noir...</l>
+<l m='8'>Je suis le fou, de Pampelune,</l>
+<l m='8'>J’ai peur du rire de la Lune</l>
+<l m='8'>Cafarde avec son crêpe noir...</l>
 <l>Horreur ! tout est donc sous un éteignoir.</l>
 </lg>
 <lg>
-<l>&#x2001;J’entends comme un bruit de crécelle...</l>
-<l>&#x2001;C’est la maie heure qui m’appelle.</l>
+<l m='8'>J’entends comme un bruit de crécelle...</l>
+<l m='8'>C’est la maie heure qui m’appelle.</l>
 <l>Dans le creux des nuits tombe un glas... deux glas.</l>
 </lg>
 <lg>
-<l>&#x2001;J’ai compté plus de quatorze heures...</l>
-<l>&#x2001;L’heure est une larme. — Tu pleures,</l>
+<l m='8'>J’ai compté plus de quatorze heures...</l>
+<l m='8'>L’heure est une larme. — Tu pleures,</l>
 <l>Mon cœur !... Chante encor, va ! — Ne compte pas.</l>
 </lg>
 </poem>
@@ -274,7 +274,7 @@
  <pagenum num="9"/>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <vsep class="dots"/>
 <lg>
 <l>Mère taillée à coups de hache,</l>
@@ -318,14 +318,14 @@
 <blockquote>
 
 <epigraphe>
-<poem>
+<poem m='12'>
 <l>O combien de marins, combien de capitaines</l>
 <l>Etc.</l>
 </poem>
 <p>(V. Hugo.)</p>
 </epigraphe>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Eh bien, tous ces marins — matelots, capitaines,</l>
@@ -339,7 +339,7 @@
 <l>— <i>Morts</i>... Merci : la <i>Camarde</i> a pas le pied marin</l>
 <l>Qu’elle couche avec vous : c’est votre bonne-femme...</l>
 <l>— Eux, allons donc : Entiers ! enlevés par la lame</l>
-<l>&#x2001;&#x2001;Ou perdus dans un grain...</l>
+<l m='6'>Ou perdus dans un grain...</l>
 </lg>
 <lg>
 <l>Un grain... est-ce la mort, ça ? la basse voilure</l>
@@ -353,7 +353,7 @@
 <l>Pas grand’chose devant le grand sourire amer</l>
 <l>Du matelot qui lutte. — Allons donc, de la place ! —</l>
 <l>Vieux fantôme éventé, la Mort change de face :</l>
-<l>&#x2001;&#x2001;&#x2001;La Mer !...</l>
+<l m='6'>La Mer !...</l>
 </lg>
 <lg>
 <l>Noyés ? — Eh ! allons donc ! Les <i>noyés</i> sont d’eau douce.</l>
@@ -362,19 +362,19 @@
 <l>Le défi dans les yeux, dans les dents le juron !</l>
 <l>A l’écume crachant une chique râlée,</l>
 <l>Buvant sans hauts-de-cœur <i>la grand’tasse salée</i>...</l>
-<l>&#x2001;— Comme ils ont bu leur boujaron. — </l>
+<l m='10'>— Comme ils ont bu leur boujaron. — </l>
 </lg>
 <lg>
 <l>— Pas de fond de six pieds ni rats de cimetière :</l>
 <l>Eux, ils vont aux requins ! L’âme d’un matelot,</l>
 <l>Au lieu de suinter dans vos pommes de terre,</l>
-<l>&#x2001;&#x2001;Respire à chaque flot.</l>
+<l m='6'>Respire à chaque flot.</l>
 </lg>
 <lg>
 <l>— Voyez à l’horizon se soulever la houle ;</l>
-<l>&#x2001;&#x2001;On dirait le ventre amoureux</l>
+<l m='8'>On dirait le ventre amoureux</l>
 <l>D’une fille de joie en rut, à moitié soûle...</l>
-<l>&#x2001;&#x2001;Ils sont là ! — La houle a du creux. —</l>
+<l m='8'>Ils sont là ! — La houle a du creux. —</l>
 </lg>
 <lg>
 <l>— Écoutez, écoutez la tourmente qui beugle !...</l>
@@ -384,17 +384,15 @@
 </lg>
 <lg>
 <l>...Qu’ils roulent infinis dans les espaces vierges !...</l>
-<l>&#x2001;&#x2001;Qu’ils roulent verts et nus,</l>
+<l m='6'>Qu’ils roulent verts et nus,</l>
 <l>Sans clous et sans sapin, sans couvercle, sans cierge.</l>
 <l>— Laissez-les douc rouler, <i>terriers</i> parvenus !</l>
 </lg>
 </poem>
 </blockquote>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="II">
+<page-sequence id="II">
  <pagenum num="12"/>
 
 <h2>II</h2>
@@ -419,7 +417,7 @@
 <blockquote>
 <h2>VOYELLES</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>A noir, E blanc, I rouge, U vert, O bleu, voyelles,</l>
 <l>Je dirai quelque jour vos naissances latentes.</l>
@@ -455,7 +453,7 @@
 
 <h2>ORAISON DU SOIR</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Je vis assis tel qu’un ange aux mains d’un barbier,</l>
 <l>Empoignant une chope à fortes cannelures,</l>
@@ -490,7 +488,7 @@
 
 <h2>LES ASSIS</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Noirs de loupes, grêlés, les yeux cerclés de bagues</l>
 <l>Vertes, leurs doigts boulus crispés à leurs fémurs,</l>
@@ -576,55 +574,55 @@
 
 <h2>LES EFFARÉS</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Noirs dans la neige et dans la brume,</l>
 <l>Au grand soupirail qui s’allume,</l>
-<l>&#x2001;&#x2001;Leurs culs en rond,</l>
+<l m='4'>Leurs culs en rond,</l>
 <l>A genoux les petits — misère !</l>
 <l>Regardent le boulanger faire</l>
-<l>&#x2001;&#x2001;Le lourd pain blond.</l>
+<l m='4'>Le lourd pain blond.</l>
 </lg>
 <lg>
 <l>Ils voient le fort bras blanc qui tourne </l>
 <l>La pâte grise et qui l’enfourne</l>
-<l>&#x2001;&#x2001;Dans un trou clair.</l>
+<l m='4'>Dans un trou clair.</l>
  <pagenum num="20"/>
-<l>Ils Écoutent le bon pain cuire.</l>
+<l>Ils écoutent le bon pain cuire.</l>
 <l>Le boulanger au gros sourire</l>
-<l>&#x2001;&#x2001;Chante un vieil air.</l>
+<l m='4'>Chante un vieil air.</l>
 </lg>
 <lg>
 <l>Ils sont blottis, pas un ne bouge,</l>
 <l>Au souffle du soupirail rouge</l>
-<l>&#x2001;&#x2001;Chaud comme un sein.</l>
+<l m='4'>Chaud comme un sein.</l>
 <l>Quand pour quelque médianoche,</l>
 <l>Façonné comme une brioche</l>
-<l>&#x2001;&#x2001;On sort le pain,</l>
+<l m='4'>On sort le pain,</l>
 </lg>
 <lg>
 <l>Quand sous les poutres enfumées</l>
 <l>Chantent les croûtes parfumées</l>
-<l>&#x2001;&#x2001;Et les grillons,</l>
+<l m='4'>Et les grillons,</l>
 <l>Que ce trou chaud souffle la vie,</l>
 <l>Ils ont leur âme si ravie</l>
-<l>&#x2001;&#x2001;Sous leurs haillons,</l>
+<l m='4'>Sous leurs haillons,</l>
 </lg>
 <lg>
 <l><correction original="Ile">Ils</correction> se ressentent si bien vivre,</l>
 <l>Les pauvres Jésus pleins de givre,</l>
-<l>&#x2001;&#x2001;Qu’ils sont là tous,</l>
+<l m='4'>Qu’ils sont là tous,</l>
 <l>Collant leurs petits museaux roses</l>
 <l>Au treillage, grognant des choses</l>
-<l>&#x2001;&#x2001;Entre les trous,</l>
+<l m='4'>Entre les trous,</l>
 </lg>
 <lg>
 <l>Tout bêtes, faisant leurs prières</l>
 <l>Et repliés vers ces lumières</l>
-<l>&#x2001;&#x2001;Du ciel rouvert,</l>
+<l m='4'>Du ciel rouvert,</l>
 <l>Si fort qu’ils crèvent leur culotte</l>
 <l>Et que leur chemise tremblotte</l>
-<l>&#x2001;&#x2001;Au vent d’hiver.</l>
+<l m='4'>Au vent d’hiver.</l>
 </lg>
 </poem>
 
@@ -640,7 +638,7 @@
 
 <h2>LES CHERCHEUSES DE POUX</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Quand le front de l’enfant, plein de rouges tourmentes,</l>
 <l>Implore l’essaim blanc des rêves indistincts,</l>
@@ -686,7 +684,7 @@
 
 <h2>BATEAU IVRE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Comme je descendais des Fleuves impassibles</l>
 <l>Je ne me sentis plus guidé par les haleurs ;</l>
@@ -846,7 +844,7 @@
 <p>Maintenant quel avis formuler sur les <i>Premières Communions</i>, poème trop long pour prendre place ici, surtout après nos excès de citations, et dont d’ailleurs nous détestons bien haut l’esprit, qui nous paraît dériver d’une rencontre malheureuse avec le Michelet sénile et impie, le Michelet de dessous les linges sales de femmes et de derrière Parny <pagenum num="27"/>(l’autre Michelet, nul plus que nous ne l’adore), oui, quel avis émettre sur ce morceau colossal, sinon que nous en aimons la profonde ordonnance et tous les vers sans exception ? Il y en a d’ainsi :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Adonaï ! Dans les terminaisons latines</l>
 <l>Des cieux moirés de vert baignent les Fronts vermeils</l>
 <l>Et, tachés du sang pur des célestes poitrines,</l>
@@ -857,7 +855,7 @@
 <p><i>Paris se repeuple</i>, écrit au lendemain de la « Semaine sanglante, » fourmille de beautés.</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <vsep class="dots"/>
 <l>Cachez les palais morts dans des niches de planches ;</l>
@@ -894,7 +892,7 @@
 <p>Après quelque séjour à Paris, puis diverses pérégrinations plus ou moins effrayantes, Rimbaud vira de bord et travailla (lui !) dans le naïf, le très et l’exprès trop simple, n’usant plus que d’assonances, de mots vagues, de phrases enfantines ou populaires. Il accomplit ainsi des prodiges de ténuité, de flou <pagenum num="30"/>vrai, de charmant presque inappréciable à force d’être grêle et fluet.</p>
 
 <blockquote>
-<poem>
+<poem m='5'>
 <l>Elle est retrouvée !</l>
 <l>Quoi ? l’éternité.</l>
 <l>C’est la mer allée</l>
@@ -924,7 +922,7 @@
 <p>Tout cela est très bien et l’homme a tenu parole. L’homme en Rimbaud est libre, cela est trop clair et nous le lui avons concédé en commençant, avec une réserve bien légitime que nous allons accentuer pour conclure. Mais n’avons-nous pas eu raison, nous, fou du poète, de le prendre, cet aigle, et de le tenir dans cette cage-ci, sous cette étiquette-ci, et ne pourrions-nous point par surcroît et surérogation (si la Littérature devait voir se consommer une telle perte) nous écrier avec Corbière, son frère aîné, non pas son grand frère, ironiquement ? Non. Mélancoliquement ? O oui ! Furieusement ? Ah qu’oui !</p>
 
 <blockquote>
-<poem>
+<poem m='4'>
 <l>Elle est éteinte</l>
 <l>Cette huile sainte,</l>
 <l>Il est éteint</l>
@@ -932,10 +930,8 @@
 </poem>
 </blockquote>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="III">
+<page-sequence id="III">
  <pagenum num="32"/>
 
 <h2>III</h2>
@@ -957,7 +953,7 @@
 
 <h2>PLACET</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>J’ai longtemps rêvé d’être, ô Duchesse, l’Hébé</l>
 <l>Qui rit sur votre tasse au baiser de tes lèvres.</l>
@@ -993,7 +989,7 @@
 
 <h2>LE GUIGNON</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Au-dessus du bétail écœurant des humains</l>
 <l>Bondissaient par instants les sauvages crinières</l>
@@ -1114,7 +1110,7 @@
 
 <h2>APPARITION</h2>
 
-<poem>
+<poem m='12'>
 <l>La lune s’attristait. Des séraphins en pleurs,</l>
 <l>Rêvant, l’archet aux doigts, dans le calme des fleurs</l>
 <l>Vaporeuses, tiraient de mourantes violes</l>
@@ -1142,7 +1138,7 @@
 
 <h2>SAINTE</h2>
 
-<poem>
+<poem m='9'>
 <lg>
 <l>A la fenêtre recelant</l>
 <l>Le santal vieux qui se dédore</l>
@@ -1177,7 +1173,7 @@
 
 <h2>DON DU POÈME</h2>
 
-<poem>
+<poem m='12'>
 <l>Je t’apporte l’enfant d’une nuit d’Idumée !</l>
 <l>Noire, à l’aile saignante et pâle, déplumée,</l>
 <l>Par le verre brûlé d’aromates et d’or,</l>
@@ -1205,7 +1201,7 @@
 
 <h2>CETTE NUIT</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Quand l’ombre menaça de la fatale loi</l>
 <l>Tel vieux Rêve, désir et mal de mes vertèbres,</l>
@@ -1238,7 +1234,7 @@
 
 <h2>LE TOMBEAU D’EDGAR POE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Tel qu’en Lui-même enfin l’éternité le change,</l>
 <l>Le Poète suscite avec un glaive nu</l>
@@ -1280,10 +1276,8 @@
 
 <p>Arrêtons-nous : l’éloge, comme les déluges, s’arrête à certains sommets.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="IV">
+<page-sequence id="IV">
  <pagenum num="45"/>
 
 <h2>IV</h2>
@@ -1304,7 +1298,7 @@
 <p>En les attendant ne pouvons-nous pas revenir sur l’absence totale du Midi dans cette œuvre relativement considérable ? et pourtant combien ardemment compris son Nord espagnol (mais l’Espagne n’a-t-elle pas un flegme, une morgue, plus froids que même tout britannisme ?), son Nord</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Où vinrent s’asseoir les ferventes Espagnes.</l>
 </poem>
 </blockquote>
@@ -1322,49 +1316,49 @@
 <blockquote>
 <h2>UNE LETTRE DE FEMME</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Les femmes, je le sais, ne doivent pas écrire ;</l>
-<l>&#x2001;&#x2001;&#x2001;J’écris pourtant</l>
+<l m='4'>J’écris pourtant</l>
 <l>Afin que dans mon cœur au loin tu puisses lire,</l>
-<l>&#x2001;&#x2001;&#x2001;Comme en partant.</l>
+<l m='4'>Comme en partant.</l>
 </lg>
 <lg>
 <l>Je ne tracerai rien qui ne soit dans toi-même</l>
-<l>&#x2001;&#x2001;&#x2001;Beaucoup plus beau,</l>
+<l m='4'>Beaucoup plus beau,</l>
 <l>Mais le mot cent fois dit, venant de ce qu’on aime,</l>
-<l>&#x2001;&#x2001;&#x2001;Semble nouveau.</l>
+<l m='4'>Semble nouveau.</l>
 </lg>
 <lg>
 <l>Qu’il te porte au bonheur ! moi, je reste à l’attendre,</l>
-<l>&#x2001;&#x2001;&#x2001;Bien que, là-bas,</l>
+<l m='4'>Bien que, là-bas,</l>
 <l>Je sens que je m’en vais pour voir et pour entendre</l>
-<l>&#x2001;&#x2001;&#x2001;Errer tes pas.</l>
+<l m='4'>Errer tes pas.</l>
 </lg>
 <lg>
 <l>Ne te détourne pas s’il passe une hirondelle</l>
-<l>&#x2001;&#x2001;&#x2001;Par le chemin,</l>
+<l m='4'>Par le chemin,</l>
 <l>Car je crois que c’est moi qui passerai fidèle</l>
-<l>&#x2001;&#x2001;&#x2001;Toucher ta main.</l>
+<l m='4'>Toucher ta main.</l>
 </lg>
 <lg>
 <l>Tu t’en vas : tout s’en va ! tout se met en voyage,</l>
-<l>&#x2001;&#x2001;&#x2001;Lumière et fleurs ;</l>
+<l m='4'>Lumière et fleurs ;</l>
 <l>Le bel été te suit, me laissant à l’orage,</l>
-<l>&#x2001;&#x2001;&#x2001;Lourde de pleurs.</l>
+<l m='4'>Lourde de pleurs.</l>
 </lg>
 <lg>
 <l>Mais si l’on ne vit plus que d’espoir et d’alarmes</l>
-<l>&#x2001;&#x2001;&#x2001;Cessant de voir,</l>
+<l m='4'>Cessant de voir,</l>
 <l>Partageons pour le mieux : moi je retiens les larmes</l>
-<l>&#x2001;&#x2001;&#x2001;Garde l’espoir.</l>
+<l m='4'>Garde l’espoir.</l>
 </lg>
  <pagenum num="49"/>
 <lg>
 <l>Non, je ne voudrais pas, tant je te suis unie,</l>
-<l>&#x2001;&#x2001;&#x2001;Te voir souffrir :</l>
+<l m='4'>Te voir souffrir :</l>
 <l>Souhaiter la douleur à sa moitié bénie,</l>
-<l>&#x2001;&#x2001;&#x2001;C’est se haïr.</l>
+<l m='4'>C’est se haïr.</l>
 </lg>
 </poem>
 </blockquote>
@@ -1374,7 +1368,7 @@
 <blockquote>
 <h2>JOUR D’ORIENT</h2>
 
-<poem>
+<poem m='12'>
 <l>Ce fut un jour, pareil à ce beau jour,</l>
 <l>Que, pour tout perdre, incendiait l’amour.</l>
 <l>C’était un jour de charité divine</l>
@@ -1400,7 +1394,7 @@
 <blockquote>
 <h2>RENONCEMENT</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Pardonnez-moi, Seigneur, mon visage attristé...</l>
@@ -1437,7 +1431,7 @@
 <p>Comme cette tristesse surpasse celle <i>d’Olympio </i>et d’<i>à Olympio</i>, quelque beaux (le dernier surtout) que soient ces deux poèmes orgueilleux ! Mais, <pagenum num="51"/>rares lecteurs, pardonnez-nous, sur le seuil d’autres sanctuaires de cette église aux cent chapelles, l’œuvre de Marceline Desbordes-Valmore, — de chanter avec vous après nous :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Que mon nom ne soit rien qu’une ombre douce et vaine,</l>
 <l>Qu’il ne cause jamais ni l’effroi ni la peine,</l>
 <l>Qu’un indigent l’emporte après m’avoir parlé</l>
@@ -1461,11 +1455,11 @@
 <blockquote>
 <h2>L’INQUIÉTUDE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Qu’est-ce donc qui me trouble ? Et qu’est-ce qui m’attend ?</l>
 <l>Je suis triste à la ville et m’ennuie au village ;</l>
-<l>&#x2001;&#x2001;Les plaisir de mon âge</l>
+<l m='6'>Les plaisir de mon âge</l>
 <l>Ne peuvent me sauver de la longueur du temps</l>
 <l>Autrefois l’amitié, les charmes de l’étude</l>
 <l>Remplissaient sans effort mes paisibles loisirs.</l>
@@ -1474,7 +1468,7 @@
 <l>Si, pour moi, le bonheur n’était pas la gaîté,</l>
 <l>Je ne le trouve plus dans la mélancolie ;</l>
 <l>Mais si je crains les pleurs autant que la folie,</l>
-<l>&#x2001;&#x2001;Où trouver la félicité ?</l>
+<l m='8'>Où trouver la félicité ?</l>
 <vsep class="dots"/>
 </lg>
 
@@ -1486,7 +1480,7 @@
 <p>Entre mille gentillesses un peu mièvres, jamais fades et toujours étonnantes, nous vous prions d’admettre dans cette rapide promenade quelques vers, isolés exprès pour vous tenter vers l’ensemble :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <vsep class="dots"/>
 <l>Cache-moi ton regard plein d’âme et de tristesse.</l>
 <vsep class="dots"/>
@@ -1519,17 +1513,17 @@
 
 <h2>LES DEUX AMOURS</h2>
 
-<poem>
-<l>&#x2001;C’était l’amour plus folâtre que tendre ;</l>
-<l>&#x2001;D’un trait sans force il effleura mon cœur ;</l>
-<l>&#x2001;Il fut léger comme un riant mensonge.</l>
+<poem m='12'>
+<l m='10'>C’était l’amour plus folâtre que tendre ;</l>
+<l m='10'>D’un trait sans force il effleura mon cœur ;</l>
+<l m='10'>Il fut léger comme un riant mensonge.</l>
 <vsep class="dots"/>
 <l>Il offrit le plaisir sans parler de bonheur.</l>
 <vsep class="dots"/>
-<l>&#x2001;C’est dans tes yeux que je vis l’autre amour.</l>
+<l m='10'>C’est dans tes yeux que je vis l’autre amour.</l>
 <vsep class="dots"/>
-<l>&#x2001;&#x2001;Cet entier oubli de soi-même</l>
-<l>&#x2001;&#x2001;Ce besoin d’aimer pour aimer</l>
+<l m='8'>Cet entier oubli de soi-même</l>
+<l m='8'>Ce besoin d’aimer pour aimer</l>
 <l>Et que le mot aimer semble à peine exprimer</l>
 <l>Ton cœur seul le renferme et le mien le devine.</l>
 <l>Je sens à tes transports, à ma fidélité,</l>
@@ -1542,17 +1536,17 @@
 <blockquote>
 <h2>LES DEUX AMITIÉS</h2>
 
-<poem>
+<poem m='12'>
 <l>Il est deux amitiés comme il est deux amours ;</l>
-<l>&#x2001;&#x2001;L’une ressemble à l’imprudence :</l>
-<l>&#x2001;&#x2001;C’est un enfant qui rit toujours.</l>
+<l m='8'>L’une ressemble à l’imprudence :</l>
+<l m='8'>C’est un enfant qui rit toujours.</l>
 </poem>
 </blockquote>
 
 <p>Et tout le charme décrit divinement d’une amitié de petites filles,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Puis... L’autre amitié plus grave, plus austère,</l>
 <l>Se donne avec lenteur, choisit avec mystère.</l>
  <pagenum num="55"/>
@@ -1560,7 +1554,7 @@
 <l>Elle écarte les fleurs de peur de s’y blesser.</l>
 <vsep class="dots"/>
 <l>Elle voit par ses yeux et marche sur ses pas ;</l>
-<l>&#x2001;&#x2001;Elle attend et ne prévient pas.</l>
+<l m='8'>Elle attend et ne prévient pas.</l>
 </poem>
 </blockquote>
 
@@ -1573,22 +1567,22 @@
 <p>Il nous faut donc restreindre aux justes (ou plutôt injustes) limites que la froide logique impose aux dimensions voulues de notre petit livre, notre pauvre examen d’un vraiment grand poète. Mais — mais ! — quel dommage de ne vouloir que citer des fragments comme ceux-ci, écrits bien avant que Lamartine éclatât et qui sont, nous y insistons, du Parny <pagenum num="56"/>chaste et si paisible ! supérieur en ce genre tendre !</p>
 
 <blockquote>
-<poem>
-<l>&#x2001;&#x2001;Dieu, qu’il est tard ! quelle surprise !</l>
-<l>&#x2001;&#x2001;Le temps a fui comme un éclair.</l>
-<l>&#x2001;&#x2001;Douze fois l’heure a frappé l’air</l>
-<l>&#x2001;Et près de toi je suis encore assise,</l>
+<poem m='12'>
+<l m='8'>Dieu, qu’il est tard ! quelle surprise !</l>
+<l m='8'>Le temps a fui comme un éclair.</l>
+<l m='8'>Douze fois l’heure a frappé l’air</l>
+<l m='10'>Et près de toi je suis encore assise,</l>
 <l>Et loin de pressentir le moment du sommeil,</l>
 <l>Je croyais voir encore un rayon de soleil.</l>
 <l>Se peut-il que déjà l’oiseau dorme au bocage ?</l>
-<l>&#x2001;&#x2001;Ah ! pour dormir il fait si beau !</l>
+<l m='8'>Ah ! pour dormir il fait si beau !</l>
 <vsep class="dots"/>
 <l>Garde-toi d’éveiller notre chien endormi ;</l>
-<l>&#x2001;&#x2001;Il méconnaîtrait son ami</l>
+<l m='8'>Il méconnaîtrait son ami</l>
 <l>Et de mon imprudence il instruirait ma mère.</l>
 <vsep class="dots"/>
 <l>Écoute la raison : va-t-en, laisse ma main ;</l>
-<l>&#x2001;&#x2001;&#x2001;Il est minuit...</l>
+<l m='4'>Il est minuit...</l>
 </poem>
 </blockquote>
 
@@ -1597,7 +1591,7 @@
 <p>Laissons, en soupirant ! la jeune fille. La femme, nous l’avons entrevue plus haut, quelle femme ! L’amie, ô l’amie ! les vers sur la mort de madame de Girardin !</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>La mort vient de fermer les plus beaux yeux du monde.</l>
 </poem>
 </blockquote>
@@ -1605,7 +1599,7 @@
 <p>La mère !</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Quand j’ai grondé mon fils, je me cache et je pleure.</l>
 </poem>
 </blockquote>
@@ -1615,7 +1609,7 @@
 <p>Et quand ce fils va au collège, un cri terrible, n’est-ce pas ?</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Candeur de mon enfant, comme on va vous détruire</l>
 </poem>
 </blockquote>
@@ -1623,7 +1617,7 @@
 <p>Ce qu’on ignore le moins de Marceline Desbordes-Valmore, ce sont d’adorables fables, bien à elle, après cet amer Lafontaine et Florian le joli :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Un tout petit enfant s’en allait à l’école ;</l>
 <l>On avait dit : allez ! il tâchait d’obéir.</l>
 <vsep class="dots"/>
@@ -1633,7 +1627,7 @@
 <p>Et « le Petit Peureux » et « le Petit Menteur ! » Oh ! nous vous en supplions, relevez toutes ces gentillesses point fades, point affectées.</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>Si mon enfant m’aime,</l>
 </poem>
 </blockquote>
@@ -1641,7 +1635,7 @@
 <p class="cont">chante « la Dormeuse », ce qui veut dire ici « la Berceuse » combien mieux !</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Dieu dira lui-même :</l>
 <l>J’aime cet enfant qui dort.</l>
 <l>Qu’on lui porte un rêve d’or.</l>
@@ -1654,7 +1648,7 @@
 
 <h2>LES SANGLOTS</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Ah ! l’enfer est ici ! l’autre me fait moins peur.</l>
 <l>Pourtant le purgatoire inquiète mon cœur.</l>
@@ -1864,10 +1858,8 @@
 
 <p>Et, pédant, puisque c’est notre pitoyable métier, nous proclamons à haute et intelligible voix que Marceline Desbordes-Valmore est tout bonnement, — avec George Sand, si différente, dure, non sans des indulgences charmantes, de haut bon sens, de <pagenum num="63"/>frère et pour ainsi dire de mâle allure — la seule femme de génie et de talent de ce siècle et de tous les siècles en compagnie de Sapho peut-être, et de sainte Thérèse.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="V">
+<page-sequence id="V">
  <pagenum num="64"/>
 
 <h2>V</h2>
@@ -2004,7 +1996,7 @@
 <blockquote>
 <h2>RÉVEIL</h2>
 
-<poem>
+<poem m='8'>
 <l>O toi dont je reste interdit,</l>
 <l>J’ai donc le mot de ton abîme.</l>
 <vsep class="dots"/>
@@ -2015,7 +2007,7 @@
 <blockquote>
 <h2>ADIEU</h2>
 
-<poem>
+<poem m='8'>
 <l>Un vertige épars sous tes voiles</l>
 <l>Tente mon front vers tes bras nus.</l>
 <vsep class="dots"/>
@@ -2027,7 +2019,7 @@
 <blockquote>
 <h2>RENCONTRE</h2>
 
-<poem>
+<poem m='8'>
 <l>Tu secouais ton noir flambeau,</l>
 <l>Tu ne pensais pas être morte :</l>
 <l>J’ai forgé la grille et la porte</l>
@@ -2044,7 +2036,7 @@
 
 <h2>AU BORD DE LA MER</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Au sortir de ce bal nous suivîmes les grèves.</l>
 <l>Vers le toit d’un exil, au hasard du chemin,</l>
@@ -2173,10 +2165,8 @@
 
 <p>Et, sur ces vers qu’il faut qualifier de sublimes, nous prendrons congé définitivement — damné petit espace ! — de l’ami qui les faisait.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="VI">
+<page-sequence id="VI">
  <pagenum num="77"/>
 
 <h2>VI</h2>
@@ -2185,7 +2175,7 @@
 <p>Ce Maudit-ci aura bien eu la destinée la plus mélancolique, car ce mot doux peut, en somme, caractériser les malheurs de son existence, à cause de la candeur de caractère et de la mollesse, irrémédiable ? de cœur qui lui ont fait dire à lui même de lui-même, dans son livre <i>Sapientia,</i></p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Et puis, surtout, ne va pas t’oublier toi-même,</l>
 <l>Traînassant ta faiblesse et ta simplicité</l>
 <l>Partout où l’on bataille et partout où l’on aime,</l>
@@ -2198,7 +2188,7 @@
 <p>Et dans son volume <i>Charité</i>, qui vient de paraître :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>J’ai la fureur d’aimer, mon cœur si faible est fou.</l>
 <vsep class="dots"/>
 <l>Je ne puis plus compter les chutes de mon cœur.</l>
@@ -2242,7 +2232,7 @@
 <blockquote>
 <h2>LE CŒUR VOLÉ</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Mon pauvre cœur bave à la poupe,</l>
 <l>Mon cœur est plein de caporal.</l>
@@ -2270,7 +2260,7 @@
 <blockquote>
 <h2>TÈTE DE FAUNE</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Dans la feuillée, écrin vert taché d’or,</l>
 <l>Dans la feuillée incertaine et fleurie,</l>
@@ -2301,10 +2291,8 @@
 
 <p>— Ah ! depuis, bien remis, il écrit et va ou veut, ce qui est la même chose, vivre <i>Bealtitudo</i>.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
 
 <h1>TABLE</h1>
 
@@ -2321,7 +2309,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

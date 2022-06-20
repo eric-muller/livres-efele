@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000234"
         creation="2012-12-07T00:00:01-08:00"
-        modification="2014-12-31T18:14:46-08:00">
+        modification="2022-06-20T15:01:31-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Amour</titre>
@@ -97,13 +97,12 @@
   <cover src="images/couverture2.png" alt="Œuvres complètes de Paul Verlaine. Amour — Bonheur — Parallèlement — Chansons pour elle — Liturgies intimes — Odes en son honneur. Tome deuxième. Deuxième édition. Paris. Librairie Léon Vanier, éditeur. A. Messein Succr. 19, quai Saint-Michel, 19. 1905."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1" recto="true">
  <pagenum num="3"/>
 
 <h2>PRIÈRE DU MATIN</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>O Seigneur, exaucez et dictez ma prière,</l>
@@ -290,17 +289,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
+<page-sequence id="p2">
  <pagenum num="8"/>
 
 <h2>ÉCRIT EN 1875</h2>
 
 <h2><s>A EDMOND LEPELLETIER</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>J’ai naguère habité le meilleur des châteaux</l>
@@ -390,17 +387,15 @@
 
 <p class="r3">(Stickney, Angleterre.)</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
+<page-sequence id="p3">
  <pagenum num="12"/>
 
 <h2>UN CONTE</h2>
 
 <h2><s>A J.-K. HUŸSMANS</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Simplement, comme on verse un parfum sur une flamme</l>
@@ -564,17 +559,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p4">
+<page-sequence id="p4">
  <pagenum num="16"/>
 
 <h2>BOURNEMOUTH</h2>
 
 <h2><s>A FRANCIS POICTEVIN</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Le long bois de sapins se tord jusqu’au rivage,</l>
@@ -679,17 +672,15 @@
 
 <p class="r3">Janvier 1877.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p5">
+<page-sequence id="p5">
  <pagenum num="19"/>
 
 <h2>THERE</h2>
 
 <h2><s>A ÉMILE LE BRUN</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>« Angels ! » seul coin luisant dans ce Londres du soir,</l>
@@ -743,10 +734,8 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p6">
+<page-sequence id="p6">
  <pagenum num="21"/>
 
 <h2>UN CRUCIFIX</h2>
@@ -755,7 +744,7 @@
 
 <p class="r3">Église Saint-Géry, Arras.</p>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Au bout d’un bas-côté de l’église gothique,</l>
@@ -801,10 +790,8 @@
 
 <p class="r3">Août 1880.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p7">
+<page-sequence id="p7">
  <pagenum num="23"/>
 
 <h2>BALLADE</h2>
@@ -813,7 +800,7 @@
 
 <p class="r3"><i>A Léon Vanier.</i></p>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Mon jardin fut doux et léger.</l>
@@ -861,15 +848,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p8">
+<page-sequence id="p8">
  <pagenum num="25"/>
 
 <h2>SUR UN RELIQUAIRE QU’ON LUI AVAIT DÉROBÉ</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Seul bijou de ma pauvreté.</l>
@@ -989,15 +974,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p9">
+<page-sequence id="p9">
  <pagenum num="28"/>
 
 <h2>A MADAME X... EN LUI ENVOYANT UNE PENSÉE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Au temps où vous m’aimiez (bien sûr ?),</l>
@@ -1061,15 +1044,13 @@
 
 <p class="r3">1873</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence id="p10">
  <pagenum num="30"/>
 
 <h2>UN VEUF PARLE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Je vois un groupe sur la mer.</l>
@@ -1117,15 +1098,13 @@
 
 <p class="r3">1878</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11">
+<page-sequence id="p11">
  <pagenum num="32"/>
 
 <h2>IL PARLE ENCORE</h2>
 
-<poem>
+<poem m='9'>
 
 <lg>
 <l>Ni pardon ni répit, dit le monde,</l>
@@ -1194,10 +1173,8 @@
 
 <p class="r3">1879.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p12">
+<page-sequence id="p12">
  <pagenum num="35"/>
 
 <h2>BALLADE</h2>
@@ -1206,7 +1183,7 @@
 
 <p class="r3"><i>Au D<sup>r</sup> Louis Jullien.</i></p>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>J’ai rêvé d’elle, et nous nous pardonnions</l>
@@ -1260,15 +1237,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p13">
+<page-sequence id="p13">
  <pagenum num="37"/>
 
 <h2>ADIEU</h2>
 
-<poem>
+<poem m='11'>
 
 <lg>
 <l>Hélas ! je n’étais pas fait pour cette haine</l>
@@ -1339,15 +1314,13 @@
 
 <p class="r3">Novembre 1886.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p14">
+<page-sequence id="p14">
  <pagenum num="39"/>
 
 <h2>BALLADE EN L’HONNEUR DE LOUISE MICHEL</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Madame et Pauline Roland,</l>
 <l>Charlotte, Théroigne, Lucile,</l>
@@ -1394,15 +1367,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p15">
+<page-sequence id="p15">
  <pagenum num="41"/>
 
 <h2>A LOUIS II DE BAVIÈRE</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Roi, le seul vrai roi de ce siècle, salut, Sire,</l>
@@ -1432,17 +1403,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p16">
+<page-sequence id="p16">
  <pagenum num="42"/>
 
 <h2>PARSIFAL</h2>
 
 <h2><s>A JULES TELLIER</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Parsifal a vaincu les Filles, leur gentil</l>
@@ -1472,17 +1441,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p17">
+<page-sequence id="p17">
  <pagenum num="43"/>
 
 <h2>SAINT GRAAL</h2>
 
 <h2><s>A LÉON BLOY</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Parfois je sens, mourant des temps où nous vivons,</l>
@@ -1523,17 +1490,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p18">
+<page-sequence id="p18">
  <pagenum num="45"/>
 
 <h2>« GAIS ET CONTENTS »</h2>
 
 <h2><s>A CHARLES VESSERON</s></h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Une chanson folle et légère</l>
@@ -1574,15 +1539,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p19">
+<page-sequence id="p19">
  <pagenum num="47"/>
 
 <h2>A FERNAND LANGLOIS</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Vous vous êtes penché sur ma mélancolie,</l>
@@ -1658,17 +1621,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p20">
+<page-sequence id="p20">
  <pagenum num="49"/>
 
 <h2>DÉLICATESSE</h2>
 
 <h2><s>A MADEMOISELLE RACHILDE</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Tu nous rends l’égal des héros et des dieux,</l>
@@ -1700,15 +1661,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p21">
+<page-sequence id="p21">
  <pagenum num="50"/>
 
 <h2>ANGÉLUS DE MIDI</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Je suis dur comme un juif et têtu comme lui,</l>
@@ -1773,15 +1732,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p22">
+<page-sequence id="p22">
  <pagenum num="53"/>
 
 <h2>A LÉON VALADE</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Douze longs ans ont lui depuis les jours si courts</l>
@@ -1813,15 +1770,13 @@
 
 <p class="r3">1881.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p23">
+<page-sequence id="p23">
  <pagenum num="54"/>
 
 <h2>A ERNEST DELAHAYE</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Dieu, nous voulant amis parfaits, nous fit tous deux</l>
@@ -1851,15 +1806,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p24">
+<page-sequence id="p24">
  <pagenum num="55"/>
 
 <h2>A ÉMILE BLÉMONT</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>La vindicte bourgeoise assassinait mon nom</l>
@@ -1889,15 +1842,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p25">
+<page-sequence id="p25">
  <pagenum num="56"/>
 
 <h2>A CHARLES DE SIVRY</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Mon Charles, autrefois mon frère, et pardieu bien !</l>
@@ -1927,15 +1878,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p26">
+<page-sequence id="p26">
  <pagenum num="57"/>
 
 <h2>A EMMANUEL CHABRIER</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Chabrier, nous faisions, un ami cher et moi.</l>
@@ -1965,15 +1914,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p27">
+<page-sequence id="p27">
  <pagenum num="58"/>
 
 <h2>A EDMOND THOMAS</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Mon ami, vous m’avez, quoiqu’encore si jeune,</l>
@@ -2003,15 +1950,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p28">
+<page-sequence id="p28">
  <pagenum num="59"/>
 
 <h2>A CHARLES MORICE</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Impérial, royal, sacerdotal, comme une</l>
@@ -2041,15 +1986,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p29">
+<page-sequence id="p29">
  <pagenum num="60"/>
 
 <h2>A MAURICE DU <correction original="PLEYSSYS">PLESSYS</correction></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Je vous prends à témoin entre tous mes amis,</l>
@@ -2079,10 +2022,8 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p30">
+<page-sequence id="p30">
  <pagenum num="61"/>
 
 <h2>A PROPOS D’UN « CENTENAIRE » DE CALDERON</h2>
@@ -2091,7 +2032,7 @@
 
 <h2><s>A JOSE MARIA DE HEREDIA</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Ce poète terrible et divinement doux,</l>
@@ -2125,17 +2066,15 @@
 
 <p class="r3">Mai 1881.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p31">
+<page-sequence id="p31">
  <pagenum num="63"/>
  
 <h2>A VICTOR HUGO</h2>
 
 <h2><s>EN LUI ENVOYANT « SAGESSE »</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Nul parmi vos flatteurs d’aujourd’hui n’a connu</l>
@@ -2167,17 +2106,15 @@
 
 <p class="r3">1881.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p32">
+<page-sequence id="p32">
  <pagenum num="64"/>
 
 <h2>SAINT BENOIT-JOSEPH LABRE</h2>
 
 <h2><s>JOUR DE LA CANONISATION</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Comme l’Église est bonne en ce siècle de haine,</l>
@@ -2207,15 +2144,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p33">
+<page-sequence id="p33">
  <pagenum num="65"/>
 
 <h2>PARABOLES</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Soyez béni, Seigneur, qui m’avez fait chrétien</l>
@@ -2245,15 +2180,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p34">
+<page-sequence id="p34">
  <pagenum num="66"/>
 
 <h2>SONNET HEROÏQUE</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>La Gueule parle : « L’or, et puis encore l’or,</l>
@@ -2285,17 +2218,15 @@
 
 <p class="r3">1881.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p35">
+<page-sequence id="p35">
  <pagenum num="67"/>
 
 <h2>DRAPEAU VRAI</h2>
 
 <h2><s>A RAYMOND DE LA TAILHÈDE</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Le soldat qui sait bien et veut bien son métier</l>
@@ -2325,17 +2256,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p36">
+<page-sequence id="p36">
  <pagenum num="68"/>
 
 <h2>PENSÉE DU SOIR</h2>
 
 <h2><s>A ERNEST RAYKAUD</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Couché dans l’herbe pâle et froide de l’exil,</l>
@@ -2371,17 +2300,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p37">
+<page-sequence id="p37">
  <pagenum num="70"/>
 
 <h2>PAYSAGES</h2>
 
 <h2><s>A ANATOLE FRANCE</s></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Au pays de mon père on voit des bois sans nombre,</l>
@@ -2448,17 +2375,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p38">
+<page-sequence id="p38">
  <pagenum num="73"/>
 
 <h2>LUCIEN LÉTINOIS</h2>
 
 <h2>I</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Mon fils est mort. J’adore, ô mon Dieu, votre loi.</l>
@@ -2499,15 +2424,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="75"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Car vraiment j’ai souffert beaucoup !</l>
@@ -2549,15 +2472,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="77"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>O la Femme ! Prudent, sage, calme ennemi,</l>
@@ -2580,15 +2501,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="78"/>
 
 <h2>IV</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Ma cousine Élisa, presque une sœur aînée</l>
@@ -2622,15 +2541,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="80"/>
 
 <h2>V</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>J’ai la fureur d’aimer. Mon cœur si faible est fou.</l>
@@ -2683,15 +2600,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="82"/>
 
 <h2>VI</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>O ses lettres d’alors ! les miennes elles-mêmes !</l>
@@ -2722,15 +2637,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="84"/>
 
 <h2>VII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Mon fils est brave ; il va sur son cheval de guerre,</l>
@@ -2778,15 +2691,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="86"/>
 
 <h2>VIII</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>O l’odieuse obscurité</l>
@@ -2848,15 +2759,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="88"/>
 
 <h2>IX</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Tout en suivant ton blanc convoi, je me disais</l>
@@ -2880,15 +2789,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
 <pagenum num="89"/>
 
 <h2><correction original="">X</correction></h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Il patinait merveilleusement,</l>
@@ -2922,15 +2829,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="90"/>
 
 <h2>XI</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>La Belle au Bois dormait, Cendrillon sommeillait.</l>
@@ -2978,15 +2883,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="92"/>
 
 <h2>XII</h2>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>Je te vois encore à cheval</l>
@@ -3027,68 +2930,64 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="94"/>
 
 <h2>XIII</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Le petit coin, le petit nid</l>
-<l>&#x2001;&#x2001;Que j’ai trouvés,</l>
+<l m='4'>Que j’ai trouvés,</l>
 <l>Les grands espoirs que j’ai couvés,</l>
-<l>&#x2001;&#x2001;Dieu les bénit.</l>
+<l m='4'>Dieu les bénit.</l>
 <l>Les heures des fautes passées</l>
-<l>&#x2001;&#x2001;Sont effacées</l>
+<l m='4'>Sont effacées</l>
 <l>Au pur cadran de mes pensées.</l>
 </lg>
 
 <lg>
 <l>L’innocence m’entoure et toi,</l>
-<l>&#x2001;&#x2001;Simplicité.</l>
+<l m='4'>Simplicité.</l>
 <l>Mon cœur par Jésus visité</l>
-<l>&#x2001;&#x2001;Manque de quoi ?</l>
+<l m='4'>Manque de quoi ?</l>
 <l>Ma pauvreté, ma solitude,</l>
-<l>&#x2001;&#x2001;Pain dur, lit rude,</l>
+<l m='4'>Pain dur, lit rude,</l>
 <l>Quel soin jaloux ! l’exquise étude !</l>
 </lg>
 
 <lg>
 <l>L’âme aimante au cœur fait exprès,</l>
-<l>&#x2001;&#x2001;Ce dévouement,</l>
+<l m='4'>Ce dévouement,</l>
 <l>Viennent donner un dénouement</l>
-<l>&#x2001;&#x2001;Calme et si frais</l>
+<l m='4'>Calme et si frais</l>
  <pagenum num="95"/>
 <l>A la détresse de ma vie</l>
-<l>&#x2001;&#x2001;Inassouvie</l>
+<l m='4'>Inassouvie</l>
 <l>D’avoir satisfait toute envie !</l>
 </lg>
 
 <lg>
 <l>Seigneur, ô merci. N’est-ce pas</l>
-<l>&#x2001;&#x2001;La bonne mort ?</l>
+<l m='4'>La bonne mort ?</l>
 <l>Aimez mon patient effort</l>
-<l>&#x2001;&#x2001;Et nos combats.</l>
+<l m='4'>Et nos combats.</l>
 <l>Les miens et moi, le ciel nous voie</l>
-<l>&#x2001;&#x2001;Par l’humble voie</l>
+<l m='4'>Par l’humble voie</l>
 <l>Entrer, Seigneur, dans Votre joie.</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="96"/>
 
 <h2>XIV</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Notre essai de culture eut une triste fin,</l>
@@ -3136,15 +3035,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="98"/>
 
 <h2>XV</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Puisque encore déjà la sottise tempête,</l>
@@ -3203,15 +3100,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
 <pagenum num="100"/>
 
 <h2>XVI</h2>
 
-<poem>
+<poem m='11'>
 
 <lg>
 <l>Cette adoption de toi pour mon enfant</l>
@@ -3266,15 +3161,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="102"/>
 
 <h2>XVII</h2>
 
-<poem>
+<poem m='9'>
 
 <lg>
 <l>Ce portrait qui n’est pas ressemblant,</l>
@@ -3343,15 +3236,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="104"/>
 
 <h2>XVIII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Ame, te souvient-il, au fond du paradis,</l>
@@ -3386,15 +3277,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="106"/>
 
 <h2>XIX</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Il m’arrivait souvent, seul avec ma pensée,</l>
@@ -3435,15 +3324,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="108"/>
 
 <h2>XX</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Tu mourus dans la salle Serre,</l>
@@ -3491,15 +3378,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="110"/>
 
 <h2>XXI</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>Si tu ne mourus pas entre mes bras,</l>
@@ -3531,15 +3416,14 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
+
  <pagenum num="111"/>
 
 <h2>XXII</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>L’affreux Ivry dévorateur</l>
@@ -3631,15 +3515,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="114"/>
 
 <h2>XXIII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>O Nouvelle-Forêt ! nom de féerie et d’armes !</l>
@@ -3671,15 +3553,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="116"/>
 
 <h2>XXIV</h2>
 
-<poem>
+<poem m='5'>
 
 <lg>
 <l>Ta voix grave et basse</l>
@@ -3730,15 +3610,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="118"/>
 
 <h2>XXV</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>O mes morts tristement nombreux</l>
@@ -3789,15 +3667,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p39">
+<page-sequence id="p39">
  <pagenum num="120"/>
 
 <h2>BATIGNOLLES</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Un grand bloc de grès ; quatre noms : mon père</l>
@@ -3822,39 +3698,33 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p40">
+<page-sequence id="p40">
  <pagenum num="121"/>
 
 <h2>A GEORGES VERLAINE</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Ce livre ira vers toi comme celui d’Ovide</l>
-<l>&#x2001;&#x2001;&#x2001;S’en alla vers la Ville.</l>
+<l m='6'>S’en alla vers la Ville.</l>
 <l>Il fut chassé de Rome ; un coup bien plus perfide</l>
-<l>&#x2001;&#x2001;&#x2001;Loin de mon fils m’exile.</l>
+<l m='6'>Loin de mon fils m’exile.</l>
 </lg>
 
 <lg>
 <l>Te reverrai-je ? Et quel ? Mais quoi ? moi mort ou non</l>
-<l>&#x2001;&#x2001;&#x2001;Voici mon testament :</l>
+<l m='6'>Voici mon testament :</l>
 <l>Crains Dieu, ne hais personne, et porte bien ton nom</l>
-<l>&#x2001;&#x2001;&#x2001;Qui fut porté dûment.</l>
+<l m='6'>Qui fut porté dûment.</l>
 </lg>
 
 </poem>
 
  <pagenum num="122"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="table">
-
+<page-sequence id="table" recto="true">
  <pagenum num="441"/>
 
 <h1>TABLE</h1>
@@ -3906,7 +3776,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
   </page-sequences>
 </bml>

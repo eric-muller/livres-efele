@@ -32,7 +32,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000240"
         creation="2012-12-13T00:00:01-08:00"
-        modification="2015-01-03T14:17:28-08:00">
+        modification="2022-06-20T15:01:41-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Élégies</titre>
@@ -68,13 +68,12 @@
   <cover src="images/couverture3.png" alt="Œuvres complètes de Paul Verlaine. Élégies — Dans les limbes — Dédicaces — Épigrammes — Chair — Invectives. Tome troisième. Deuxième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1901."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1">
  <pagenum num="3"/>
 
 <h2>I</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>A mon âge, je sais, il faut rester tranquille,</l>
@@ -222,15 +221,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
+<page-sequence id="p2">
  <pagenum num="8"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Je me demande encor — cette tête que j’ai !</l>
@@ -307,15 +304,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
+<page-sequence id="p3">
  <pagenum num="11"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>D’après ce que j’ai vu, d’après ce que je sais,</l>
@@ -391,15 +386,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p4">
+<page-sequence id="p4">
  <pagenum num="14"/>
 
 <h2>IV</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Notre union plutôt véhémente et brutale</l>
@@ -437,15 +430,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p5">
+<page-sequence id="p5">
  <pagenum num="16"/>
 
 <h2>V</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Incorrigible, toi. Mais c’est la destinée.</l>
@@ -544,15 +535,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p6">
+<page-sequence id="p6">
  <pagenum num="20"/>
 
 <h2>VI</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>J’ai dit ailleurs l’orgueil de la possession</l>
@@ -642,15 +631,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p7">
+<page-sequence id="p7">
 <pagenum num="23"/>
 
 <h2>VII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Enfin c’est toi ! Laisse-moi rester dans tes bras ;</l>
@@ -745,10 +732,8 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p8">
+<page-sequence id="p8">
 <pagenum num="26"/>
 
 <h2>VIII</h2>
@@ -907,15 +892,13 @@
 <hstage><speaker>TOI</speaker></hstage>
 <l>Et maintenant faisez le beau, baisez mémère.</l>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p9">
+<page-sequence id="p9">
  <pagenum num="31"/>
 
 <h2>IX</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Tu fais tant partie intégrante de moi-même,</l>
@@ -1000,15 +983,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence id="p10">
  <pagenum num="34"/>
 
 <h2>X</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Dans le peu de défauts dont je suis incapable,</l>
@@ -1092,15 +1073,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11">
+<page-sequence id="p11">
  <pagenum num="37"/>
 
 <h2>XI</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Bah ! (Ce n’est pas à vous que l’on parle, madame),</l>
@@ -1133,15 +1112,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p12">
+<page-sequence id="p12">
  <pagenum num="39"/>
 
 <h2>XII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Certes il fut traversé traverseras-tu,</l>
@@ -1262,10 +1239,8 @@
 
  <pagenum num="44"/>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
  
  <pagenum num="443"/>
 
@@ -1290,7 +1265,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
  </page-sequences>
 </bml>

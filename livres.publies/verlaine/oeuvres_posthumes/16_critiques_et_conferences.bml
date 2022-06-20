@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000284"
         creation="2013-01-27T00:00:01-08:00"
-        modification="2014-12-31T18:14:53-08:00">
+        modification="2022-06-20T15:02:24-07:00">
 
       <surtitre>Œuvres posthumes</surtitre>
       <titre>Critiques et conférences</titre>
@@ -78,8 +78,7 @@
   <cover src="images/couverture2.png" alt="Œuvres posthumes de Paul Verlaine. II. Charles Baudelaire — Voyage en France par un français — Souvenirs et promenades — Quelques vers inédits — Critique et conférences — Dessins de Paul Verlaine. Paris. Albert Messein, éditeur. Successeur de Léon Vanier. 19, quai Saint-Michel, 19. 1913."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1">
  <pagenum num="245"/>
 
 <h2>PROJET DE PRÉFACE POUR LA RÉIMPRESSION DES PREMIERS LIVRES DE L’AUTEUR</h2>
@@ -118,10 +117,8 @@
 
 <date>Paris, janvier 1890.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
+<page-sequence id="p2">
  <pagenum num="252"/>
 
 <h2>PRÉFACE DE LA PREMIÈRE ÉDITION DES ILLUMINATIONS</h2>
@@ -158,10 +155,8 @@
 
 <p>« L<s>es</s> I<s>lluminations</s> » sont un peu postérieures à cette époque.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
+<page-sequence id="p3">
  <pagenum num="255"/>
 
 <h2>PRÉFACE AUX POÉSIES COMPLÈTES D’ARTHUR RIMBAUD</h2>
@@ -181,7 +176,7 @@
 <p>Tous trois firent leur devoir en faveur de mes efforts pour Rimbaud, Baju avec le tort, peut-être inconscient, de publier, à l’appui de la bonne thèse, des gloses farceuses de gens de talent et surtout d’esprit qui auraient mieux fait certainement de travailler pour leur compte, qui en valait, je le leur dis en toute sincérité,</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>La peine assurément !</l>
 </poem>
 </blockquote>
@@ -203,7 +198,7 @@
 <p>Et, sur le début suivant, après passablement d’autres choses d’autres gens,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>On dirait des soldats d’Agrippa d’Aubigné</l>
 <l>Alignés au cordeau par Philibert Delorme...</l>
 </poem>
@@ -228,7 +223,7 @@
 <p>On a laissé les pièces objectionables au point <pagenum num="263"/>de vue bourgeois, car le point de vue chrétien et surtout catholique me semble supérieur et doit <i>être</i> écarté, — j’entends, notamment, les <i>Premières Communions</i> et les <i>Pauvres à l’église ;</i> pour mon compte, j’eusse négligé cette pièce brutale ayant pourtant ceci qui est très beau :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>... Les malades du foie...</l>
 <l>Font baiser leurs longs doigts jaunes aux bénitiers.</l>
 </poem>
@@ -241,7 +236,7 @@
 <p>On a cru devoir, évidemment dans un but de <pagenum num="264"/>réhabilitation qui n’a rieri à voir ni avec la vie très honorable ni avec l’œuvre très intéressante, faire s’ouvrir le volume par une pièce intitulée <i>Etrennes des Orphelins</i>, laquelle assez longue pièce, dans le goût un peu Guiraud avec déjà des beautés tout autres. Ceci qui vaut, du Desbordes-Valmore :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Les tout petits enfants ont le cœur si sensible !</l>
 </poem>
 </blockquote>
@@ -249,7 +244,7 @@
 <p>Cela :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>La bise sous le seuil a fini par se taire,</l>
 </poem>
 </blockquote>
@@ -261,7 +256,7 @@
 <p>Cette caricature de Louis XVI, d’abord :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>Et prenant ce gros-là dans son regard farouche.</l>
 </lg>
@@ -271,7 +266,7 @@
 <p>Cette autre encore :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>Or le bon roi, debout sur son ventre, était pâle.</l>
 </lg>
@@ -281,7 +276,7 @@
 <p>Ce cri dans le ton juste, trop rare ici :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>On ne veut pas de nous dans les boulangeries.</l>
 </lg>
@@ -293,18 +288,18 @@
 <p>Il y a, dans ce ton, <i>Ce qui retient Nina</i>, vingt-neuf strophes, plus de cent vers sur un rhythme sautilleur avec des gentillesses à tout bout de champ :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>Dix-sept ans ! tu seras heureuse !</l>
-<l indent="3">O les grands prés,</l>
+<l m="4">O les grands prés,</l>
 <l>La grande campagne amoureuse !</l>
-<l indent="3">— Dis, viens plus près !...</l>
+<l m="4">— Dis, viens plus près !...</l>
 <vsep class="dots"/>
  <pagenum num="266"/>
 <l>Puis, comme une petite mortes</l>
-<l indent="3">Le cœur pâmé,</l>
+<l m="4">Le cœur pâmé,</l>
 <l>Tu me dirais que je te porte</l>
-<l indent="3">L’œil mi-fermé...</l>
+<l m="4">L’œil mi-fermé...</l>
 </lg>
 </poem>
 </blockquote>
@@ -312,10 +307,10 @@
 <p>Et, après la promenade au bois... et la résurrection de la <i>petite morte</i>, l’entrée dans le village où <i>çà sentirait le laitage</i>, une étable pleine d’un <i>rhythme lent d’haleines et de grands dos ;</i> un intérieur à la Téniers :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>Les lunettes de la grand’mère</l>
-<l indent="3">Et son nez long</l>
+<l m="4">Et son nez long</l>
 <l>Dans son missel...</l>
 </lg>
 </poem>
@@ -326,7 +321,7 @@
 <p>Aussi la <i>Comédie en trois baisers :</i></p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <vsep class="dots"/>
 <l>Elle était fort déshabillée,</l>
@@ -340,7 +335,7 @@
 <p><i>Sensation</i> où le poète adolescent va « loin, bien loin, comme un bohémien ».</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>Par la nature heureux comme avec une femme...</l>
 <l><i>Roman</i>.</l>
@@ -357,7 +352,7 @@
 <p><i>Ma Bohême</i>, la plus gentille sans doute de ces gentilles choses :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>Comme des lyres je tirais les élastiques</l>
 <l>De mes souliers blessés, un pied près de mon cœur...</l>
@@ -368,7 +363,7 @@
 <p><i>Mes Petites amoureuses</i>, <i>Les Poètes de sept ans</i>, frères franchement douloureux des <i>Chercheuses de poux :</i></p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>Et la mère fermant le livre du devoir</l>
 <l>S’en allait satisfaite et très fière sans voir,</l>
@@ -386,10 +381,8 @@
 
 <p>Mon dernier mot ne doit être, ici, que ceci : Rimbaud fut un poète mort jeune (à dix-huit ans, puisque, né à Charleville le 20 octobre 1854, nous n’avons pas de vers de lui postérieurs à 1872), mais vierge de toute platitude ou décadence — comme il fut un homme mort jeune aussi (à trente-sept ans, le 10 novembre 1891, à l’hôpital de la Conception, de Marseille), mais dans son vœu bien formulé d’indépendance et de haut dédain de n’importe quelle adhésion à ce qu’il ne lui plaisait pas de faire ni d’être.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p4">
+<page-sequence id="p4">
  <pagenum num="269"/>
 
 <h2>ARTHUR RIMBAUD</h2>
@@ -409,7 +402,7 @@
 <p>Ce fut un poète très jeune et très ardent, qui commença</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>A peine au sortir de l’enfance</l>
 </lg>
@@ -433,18 +426,18 @@
 <blockquote>
 <h2>LES EFFARÉS</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Noirs dans la neige et dans la brume,</l>
 <l>Au grand soupirail qui s’allume,</l>
-<l indent="3">Leurs culs en rond,</l>
+<l m="4">Leurs culs en rond,</l>
 </lg>
 
 <lg>
 <l>A genoux, cinq petits — misère ! —</l>
 <l>Regardent le boulanger faire</l>
-<l indent="3">Le lourd pain blond.</l>
+<l m="4">Le lourd pain blond.</l>
 </lg>
 
  <pagenum num="273"/>
@@ -452,49 +445,49 @@
 <lg>
 <l>Ils voient le fort bras blanc qui tourne</l>
 <l>La pâte grise et qui l’enfourne</l>
-<l indent="3">Dans un trou clair ;</l>
+<l m="4">Dans un trou clair ;</l>
 </lg>
 
 <lg>
 <l>Ils écoutent le bon pain cuire.</l>
 <l>Le boulanger au gras sourire</l>
-<l indent="3">Chante un vieil air.</l>
+<l m="4">Chante un vieil air.</l>
 </lg>
 
 <lg>
 <l>Ils sont blottis, pas un ne bouge,</l>
 <l>Au souffle du soupirail rouge</l>
-<l indent="3">Chaud comme un sein.</l>
+<l m="4">Chaud comme un sein.</l>
 </lg>
 
 <lg>
 <l>Quand, pour quelque médianoche,</l>
 <l>Façonné comme une brioche,</l>
-<l indent="3">On sort le pain,</l>
+<l m="4">On sort le pain,</l>
 </lg>
 
 <lg>
 <l>Quand, sur les poutres enfumées,</l>
 <l>Chantent les croûtes parfumées</l>
-<l indent="3">Et les grillons,</l>
+<l m="4">Et les grillons,</l>
 </lg>
 
 <lg>
 <l>Que ce trou chaud souffle la vie,</l>
 <l>Ils ont leur âme si ravie</l>
-<l indent="3">Sous leurs haillons,</l>
+<l m="4">Sous leurs haillons,</l>
 </lg>
 
 <lg>
 <l>Ils se ressentent si bien vivre,</l>
 <l>Les pauvres Jésus pleins de givre,</l>
-<l indent="3">Qu’ils sont là, tous,</l>
+<l m="4">Qu’ils sont là, tous,</l>
 </lg>
 
 <lg>
 <l>Collant leurs petits museaux roses</l>
 <l>Aux grillages, grognant des choses</l>
-<l indent="3">Entre les trous,</l>
+<l m="4">Entre les trous,</l>
 </lg>
 
  <pagenum num="274"/>
@@ -502,13 +495,13 @@
 <lg>
 <l>Tout bêtes, faisant leurs prières,</l>
 <l>Et repliés vers ces lumières</l>
-<l indent="3">Du ciel rouvert,</l>
+<l m="4">Du ciel rouvert,</l>
 </lg>
 
 <lg>
 <l>Si fort qu’ils crèvent leur culotte</l>
 <l>Et que leur chemise tremblote</l>
-<l indent="3">Au vent d’hiver.</l>
+<l m="4">Au vent d’hiver.</l>
 </lg>
 
 </poem>
@@ -522,10 +515,8 @@
 
 <date class="l1"><i>Les Beaux-Arts,</i> 1<sup>er</sup> décembre 1895.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p5">
+<page-sequence id="p5">
  <pagenum num="275"/>
 
 <h2>NOUVELLES NOTES SUR RIMBAUD</h2>
@@ -566,10 +557,8 @@
 
 <date class="l3">Octobre 1895.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p6">
+<page-sequence id="p6">
  <pagenum num="281"/>
 
 <h2>UN MOT SUR LA RIME</h2>
@@ -593,7 +582,7 @@
 <p>Mais non, ces rimes-là ne sont pas défectueuses, croyons-le bien, surtout dans l’alexandrin plat. L’adorable Chénier, notre Lamartine, ce Barbier infiniment trop oublié, le grand Vigny et jusqu’à un certain point Baudelaire, ont rimé faiblement. Pierre Dupont, qu’il est temps de revendiquer, tant même l’élite est ingrate ! dans ses chansons si <i>musicales</i>, en dehors, bien entendu, des airs charmants qu’il y adaptait, rime faiblement :</p>
 
 <blockquote>
-<poem>
+<poem m='4'>
 <lg>
 <l>O ma charmante,</l>
 <l>O mon désir,</l>
@@ -606,7 +595,7 @@
 <p>Combien d’entre nous n’eussent pas mis <i>choisir</i> pour la rime, c’est le cas de le dire ! Et alors, n’est-ce pas que j’ai eu quelque lieu de m’écrier, en considérant de tels lamentables abus encore possibles :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>O qui dira les torts de la Rime ?</l>
 </lg>
@@ -616,7 +605,7 @@
 <p>Ce que, par exemple, je proscris de tous mes vœux, c’est la rime <i>mauvaise.</i> Par rime mauvaise je veux dire, pour illustrer immédiatement mes raisons, des horreurs comme celles-ci qui ne sont pas plus « pour » l’oreille (malgré le <pagenum num="284" b="Vol-" a="taire">Voltaire</pagenum> déjà qualifié) que « pour » l’œil : <i>falot</i> et <i>tableau</i>, <i>vert</i> et <i>pivert</i>, tant d’autres dont la seule pensée me fait rougir, et que pourtant vous retrouverez dans maints des plus estimables modernes. Les grands Parnassiens, Coppée, Dierx, Hérédia, Mallarmé, Mendès, n’ont garde d’offrir de pareils scandales. Ce leur est déjà un mérite que les imprécations de M. Raynaud ne leur ôteront point à mes yeux. Vous ne trouverez pas non plus chez eux ces rimes en <i>ang</i> et en <i>ant</i>, en <i>anc</i> et en <i>and</i>, que ne sauve pas la consonne d’appui, même dans ces magnifiques vers de Victor Hugo :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>Un flot rouge, un sanglot de pourpre, éclaboussant</l>
 <l>Les convives, le trône et la table, de sang,</l>
@@ -627,7 +616,7 @@
 <p class="cont">ni la rime artésienne ou picarde, <i>pomme</i> et <i>Bapaume</i>, ni la méridionale <i>Grasse</i> (la ville) et <i>grâce</i>, ni même la normande <i>aimer</i> et <i>mer</i>, bien que consacrée par Corneille et aussi par Racine, et il n’y a plus guère que M. Vacquerie, disciple en ceci de ce dernier, et d’ailleurs normand comme Corneille, qui ait osé de nos jours un provincialisme comme :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>J’aurais fini par supporter</l>
 <l>Un chœur d’Esther.</l>
@@ -646,7 +635,7 @@
 <p>De curieux essais du dernier modèle furent naguère tentés par des artistes que j’aime, comme Gustave Kahn et Jean Moréas qui ont fait des livres presque en entier selon ces données. J’avoue, en dehors du très réel et très grand mérite de ces œuvres, y préférer les passages que j’appellerai <i>réguliers</i> aux autres. Tels vers de Kahn, conçus dans les formes jusqu’ici reconnues (il remarquera que je dis : <i>Jusqu’ici reconnues</i>, ne voulant rien préjuger, me <pagenum num="287" b="ran-" a="geant">rangeant</pagenum> au nombre des purs spectateurs bien plutôt sympathiques) me plaisent et plairont à d’aucuns davantage par ce fait même ; et je me vois, et vous vous voyez peut-être tentés de regretter que toute la pièce intitulée <i>Eventails</i>, qui est sa dernière production lyrique, ne soit pas écrite comme ceci :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l><i>La nuit a des douceurs de brise dans les voiles</i></l>
 <l><i>Et sur les rois perdus de douceurs inconnues</i></l>
@@ -664,7 +653,7 @@
 <blockquote>
 <vsep class="dots"/>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Elle aime le Pauvre âpre et franc</l>
 <l>Ou timide. Elle est la faucille</l>
@@ -683,10 +672,8 @@
 
 <p>Mais que ceci ne serve pas d’exemple.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p7">
+<page-sequence id="p7">
  <pagenum num="289"/>
 
 <h2>LETTRE AU « DÉCADENT »</h2>
@@ -709,10 +696,8 @@
 
 <p>A vous et à vos collaborateurs.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p8">
+<page-sequence id="p8">
  <pagenum num="292"/>
 
 <h2>NOS POÈTES PAR JULES TELLIER</h2>
@@ -731,10 +716,8 @@
 
 <p>Bouchor et son puissant effort incontestable vers les sommets symboliques de l’esprit humain, la jeune pléiade belge (si consolante dans notre décadence française pourtant encore fière) dont Rodenbach, Giraud, Sévérin, seraient les chefs acclamés si le choix n’était défié par tout ce talent collectif, enfin Moréas, subtil et brutal si bien, Kahn, Vignier, qu’il nous serait utile de défendre contre des scrupules peut-être un peu bien sévères, Guigou, « étrange et sincère », Raymond de la Tailhède, prédit grand poète et déclaré bon poète, Tailhade, somptueux et pervers — « j’en passe et des meilleurs », <pagenum num="294"/>comme dit Hugo, d’ailleurs <i>excessivement</i> admiré dans le livre de <i>Nos Poètes</i> — apparaissent ou plutôt paraissent « pleins de grâce et de vérité » dans ce livre substantiel auquel il faut acquiescer, en dépit des justes réserves que lui doit le Décadisme (ou ce qu’on nomme ainsi) en raison de quelques injustices.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p9">
+<page-sequence id="p9">
  <pagenum num="295"/>
 
 <h2>AU BOIS JOLI PAR GABRIEL VICAIRE</h2>
@@ -752,7 +735,7 @@
 <p>Ces études, chez Vicaire, infinies lectures à droite et à gauche, une érudition curieuse de tout et renseignée immensément, fréquents séjours à la campagne et au village sans cesse occupés à l’observation amoureuse de la nature surprise chez elle, une recherche fervente des traditions, des légendes, jusqu’à l’étude par le menu des chansons populaires de son pays, la Bresse, ont formé un poète bien à part, entre <pagenum num="297"/>tous ceux d’à peu près ma génération. Il se distingue du groupe parnassien par l’aise et la liberté de son allure, tout en s’y rattachant par la forme absolue et la pureté. Quant aux « écoles » un peu contestées qui furent actuelles il y a cinq ou six ans, Décadents et Symbolistes, elles ne le comptèrent jamais dans leurs rangs. Même il fit dans ces temps-là, avec Beauclair, un petit volume qui obtint un succès retentissant. Ce livre, intitulé <i>Les Déliquescences</i>, <i>par Adoré Floupette</i>, <i>chez Léon Vanné</i>, <i>éditeur à Bysance</i>, raille avec une grâce et une malice parfaites les prétentions quelque peu formidables des « réformateurs », leurs rhythmes abracadabrants et leurs rimes... ou leur manque prémédité de rimes allant sous le nom de « Vers Libre », le choix excessif de leurs vocables et le lâché ou le guindé de leurs tournures... <i>Les Déliquescences </i>firent fureur à leur époque : les poètes visés prirent en général bien la chose. Pour mon compte, comme à tort ou à raison, à tort plutôt, je passais pour l’un des « gros bonnets » du groupe, on m’y prêtait ces vers bouffons et ce vœu, j’espère, point trop encore réalisé :</p>
 
 <blockquote>
-<poem>
+<poem m='7'>
 <lg>
 <l>« Je voudrais être un gaga</l>
 <l>Et que mon cœur naviguât</l>
@@ -770,8 +753,7 @@
 <blockquote>
 <h2><s>A</s> P<s>AUL</s> V<s>ERLAINE</s></h2>
 
-<poem>
-
+<poem m='12'>
 <lg>
 <l>Depuis l’heure divine où j’adorai les roses,</l>
 <l>Le sommeil de mon cœur s’est à peine éveillé,</l>
@@ -799,10 +781,8 @@
 
 </blockquote>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence id="p10">
  <pagenum num="300"/>
 
 <h2>LE LIVRE DE JADE PAR JUDITH WALTER</h2>
@@ -819,10 +799,8 @@
 
 <date class="r3"><i>L’Etendard</i>, mai 1867.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11">
+<page-sequence id="p11">
  <pagenum num="303"/>
 
 <h2>HERNANI</h2>
@@ -840,7 +818,7 @@
 <p>Guidés par les excellents conseils de M. Auguste Vacquerie, les acteurs ont été vaillants. Bressant a beaucoup d’insolence, de morgue et <pagenum num="305"/>parfois de majesté dans le rôle si bien tracé et si historique de Charles-Quint. Maubant, au troisième acte, a soulevé la salle entière avec cet hémistiche :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <lg>
 <l>Et vendit la tête de son hôte</l>
 </lg>
@@ -855,12 +833,9 @@
 
 <date class="r3">L’<i>International</i>, 23 et 24 juin 1867.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p12">
+<page-sequence id="p12">
  <pagenum num="306"/>
-
 
 <h2>LES ŒUVRES ET LES HOMMES PAR J. BARBEY D’AUREVILLY. —</h2>
 
@@ -883,7 +858,7 @@
 </notes>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>Souvent un beau désordre est un effet de l’art,</l>
 </lg>
@@ -893,7 +868,7 @@
 <p class="cont">a dit Boileau, que vous citez à ce sujet, et par hasard <correction original="Bolieau">Boileau</correction> a dit une vérité. Abordant ensuite la <i>Légende des siècles</i>, M. Barbey d’Aurevilly rend, avouons-le, un franc et loyal hommage à cette superbe épopée où Victor Hugo a mis toutes <pagenum num="309"/>ses qualités, et aussi tous ses défauts. De ces défauts, il en est un que M. Barbey d’Aurevilly n’a pas signalé, et pour cause. J’entends ces déplorables passages <i>attendrissants</i> qui ont la prétention d’être réalistes, et ne constituent rien moins qu’une grotesque parodie. (Voir, comme pièces justificatives, le discours du vieux Fabrice, devant le cadavre de la petite Isora. — <i>Ratbert</i> :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>« M’avoir assassiné ce petit être-là !</l>
 <l>Mais c’est affreux d’avoir à se mettre cela</l>
@@ -917,7 +892,7 @@
 
 <blockquote>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Ce sont les fleurs les plus étranges</l>
@@ -947,7 +922,7 @@
 <p>De qui sont ces vers, demandez-vous, lecteur ? D’un Pradon en délire ou d’un Berquin de la décadence ? Non pas. Ils sont de M. Siméon Pécontal, lauréat de l’Académie française, bien méritant, quoi qu’en dise M. Barbey d’Aurevilly, dans une note substantielle où il trouve le moyen d’appeler M. Siméon Pécontal un camélia odeur de rose, et d’ajouter cette réflexion amère que ne soufflètent pas du tout, — n’est-ce pas ? — les douze vers rapportés plus haut : « Chose étonnante, et bien honorable, du reste, pour le talent, qu’il ait eu cette fois le sort heureux de l’insignifiance, si chère aux quarante immortels ? » — Vous riez ? M. Barbey <pagenum num="313" b="d’Aure-" a="villy">d’Aurevilly</pagenum> vous prépare bien d’autres gaietés, toujours à propos de M. Siméon Pécontal :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>Il naîtra sur un lit de chaume,</l>
 <l>Et celle qui l’aura porté,</l>
@@ -1025,10 +1000,8 @@
   </note>
 </notes>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="319"/>
 
 <h2>II</h2>
@@ -1038,7 +1011,7 @@
 <p>Le <i>tic</i> littéraire a du bon, nul n’en disconviendra, mais en tant qu’il ne mérite pas ce nom de <i>tic</i>, qui veut dire, si j’en crois mon dictionnaire « affection nerveuse, » et qu’il ne va que jusqu’à l’affectation, dont il se faut pourtant encore bien méfier, car facilement l’habitude <pagenum num="320" b="de-" a="vient">devient</pagenum> une seconde nature, et facilement les mines calculées tournent en grimaces involontaires, comme nous l’enseigne l’exemple de quelques comédiens. Or, n’est-ce pas un tic, une grimace de style et d’idée que de répéter jusqu’à trois fois, en moyenne, — j’ai fait le calcul — dans un chapitre de dix pages, en un volume de 400 pages, ces mots que M. Barbey d’Aurevilly, assez riche pourtant de son propre fonds, doit considérer comme une trouvaille inappréciable, puisqu’il les exhibe « <i>cailloux qu’il tient !</i> » à tout venant et à tout bout de champ : — « un livre de <i>nature humaine</i>, — une étude de <i>nature humaine</i>, — un trait de <i>nature humaine.</i> »</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Mais, morbleu, comme vous j’ai « ma nature humaine ! »</l>
 </poem>
 </blockquote>
@@ -1063,10 +1036,8 @@
 
 <date class="r3">L’<i>Art</i>, 30 décembre 1865.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p13">
+<page-sequence id="p13">
  <pagenum num="324"/>
 
 <h2>AUGUSTE VACQUERIE</h2>
@@ -1082,7 +1053,7 @@
 <p>Victor Hugo, on le sait, était fortement déiste et Vacquerie se piquait d’un scepticisme qui eût très facilement glissé à l’athéisme. Un jour, à Guernesey, après déjeuner, les deux hommes se prirent de discussion sur des matières philosophiques et religieuses, et comme Vacquerie poussait très avant sa pointe et rétorquait sans ménagement, à mesure qu’ils se produisaient, tous les arguments d’Hugo, celui-ci, tout rouge presque de colère, de se voir acculé de si près, s’écria : « Eh bien, je vous répondrai dans huit jours, » et il monta s’enfermer dans le belvédère qui dominait sa maison et qui lui servait de cabinet de travail, y resta huit jours sans en descendre, y couchant, y mangeant. Dès qu’il eut rencontré Vacquerie, qui se promenait au jardin sur la mer, il courut à lui, lui mit la main sur l’épaule et, d’un ton tragi-comique, commença la lecture d’un gros manuscrit dont il fit retentir, comme en triomphe et en ironie, le titre étonnant, l’<i>Ane</i> ! et lut tout d’une <pagenum num="328"/>traite les quelque chose comme deux mille vers de ce poème si verveux :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>« <i>Un âne descendait au grand trot la Science :</i></l>
 <l><i>Kant dit : Quel est ton nom — Mon nom est patience</i> ».</l>
@@ -1105,7 +1076,7 @@
  <pagenum num="331"/>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l><i>Les petits tambours de l’an deux,</i></l>
 <l><i>Joyeux galopins hasardeux,</i></l>
@@ -1121,10 +1092,8 @@
 
 <p>Après un très long temps, j’ai eu dernièrement l’occasion de le revoir lors de quelques banquets mensuels et le grand plaisir, le jour où il présidait une de ces agapes, de lui envoyer d’Amsterdam où j’étais en tournée de conférences, un télégramme d’affectueux respect. Il m’avait toujours, en dépit de miennes idées, presque toutes opposées aux siennes, continué sa bienveillance, et c’est avec un véritable chagrin que j’appris, couché moi-même sur un lit, qu’il fût mort.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p14">
+<page-sequence id="p14">
  <pagenum num="332"/>
 
 <h2>MARCELINE DESBORDES-VALMORE</h2>
@@ -1134,7 +1103,7 @@
 <p>Marceline Desbordes Valmore naquit à Douai, ville triste, que pour ma part j’aime, parce que c’est presque le pays de ma mère, Arras, et qu’elle est baignée par la même Scarpe si bien célébrée par notre héroïne. Douai n’a pas d’ailleurs besoin d’apologie, avec ses rues si calmes et vertes d’herbe entre les pavés, son magnifique hôtel-de-ville et ses églises vraiment religieuses. Notre-Dame fut la paroisse de notre Muse, j’allais dire de notre Sainte ; — et par le fait, il y a,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>... <i>Si parva licet componere magnis</i>,</l>
 </lg>
@@ -1149,10 +1118,8 @@
 
 <p>Le public et la critique lui furent indulgents, en somme. Tous ses contemporains illustres, Victor Hugo, Lamartine, Sainte-Beuve, l’honorèrent de nombreuses marques de sympathique admiration. De nos jours, Charles Baudelaire, Barbey d’Aurevilly ne lui marchandèrent pas un enthousiasme qu’ils n’avaient guère l’habitude <pagenum num="334"/>de prodiguer, et, tout récemment, M. le comte Robert de Montesquiou Fezenzac, poète lui-même glorieux déjà, et à qui je suis heureux de rendre hommage publiquement, attirait au Théâtre d’Application une foule de gens du monde et de lettrés, qu’il captivait par l’éloquent éloge et de judicieuses citations de ce poète délicieux et puissant.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p15">
+<page-sequence id="p15">
  <pagenum num="335"/>
 
 <h2>A PROPOS DU DERNIER LIVRE POSTHUME DE VICTOR HUGO</h2>
@@ -1209,7 +1176,7 @@
  <pagenum num="342"/>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>« M’avoir assassiné ce petit être là !</l>
 <l>« C’est horrible d’avoir à se mettre cela</l>
@@ -1227,7 +1194,7 @@
 <p>Talent énorme (c’est le mot) manifesté dès l’aurore, persistant jusque dans les suprêmes efforts contre la sénilité. Génie incontestable, éclatant fréquemment surtout vers le milieu de l’œuvre, des pages comme Gastibelza, superbe cri de jalousie quasi bastiale dans quel sinistrement voluptueux paysage ! comme <i>Olympio</i>, <pagenum num="343" b="pro-" a="digieux,">prodigieux,</pagenum> prestigieux d’orgueil, comme l’<i>Expiation</i> (bien qu’inférieure <i>écriturement parlant</i> au <i>Feu du Ciel</i> (<i>Orientales</i>), prototype), comme l’incomparable <i>Tempête sous un Crâne</i>, honneur de toute une littérature, a dit Baudelaire, mieux. Esprit d’homme de lettres, idées moyennes, sensations cordiales bourgeoises — nul plus mauvais « chantre » de l’amour. Médiocre pamphlétaire en prose, fort-en-gueule seulement satirique politique et littéraire, une érudition de livres dépareillés (suivant son aveu à votre serviteur). Extraordinaire deux fois décadence, assimilable à aucune comme chute terrible et magnifique, au point qu’on est tenté de lui appliquer le premier vers de la <i>Fin de Satan :</i></p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>« Depuis quatre mille ans il tombait, »</l>
 </lg>
@@ -1238,10 +1205,8 @@
 
 <p>Mais, en somme, quelle grande figure et qu’avec tous ses défauts, c’est encore, avec Lamartine incomparablement plus poète, certes, mais infiniment moins artiste, le Maître !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p16">
+<page-sequence id="p16">
  <pagenum num="344"/>
 
 <h2>PARIS PAR VICTOR HUGO</h2>
@@ -1260,10 +1225,8 @@
 
 <date class="l3"><i>Revue des Lettres et des Arts</i>, 24 novembre 1867</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p17">
+<page-sequence id="p17">
  <pagenum num="349"/>
 
 <h2>« HISTOIRES INSOLITES »</h2>
@@ -1276,10 +1239,8 @@
 
 <p>Que d’ironie cruelle, jamais féroce ! dans les récits de seul bon sens, de <i>seul</i> Bon Sens, dans les sortes d’apologues lumineux s’adressant à nos meilleurs sentiments de haine parfaite, <i>perfecti odii</i>, pour la soi-disant Bourgeoisie (je dis soi-disant Bourgeoisie, car au fond il y a de réelles bonnes et braves gens partout et les castes ont raison d’être) ; je veux parler des <i>Phantasmes de M</i>. <i>Redoux</i>, du <i>Jeu des Grâces</i>, de ces admirables abominables <i>Délices d’une bonne œuvre</i>, de cet admirable affreux <i>Mahoin</i>, toutes choses infiniment supérieures à du Pétrus Borelavec, très supérieures, l’âme par instant du Lycanthrope qui fut, n’est-ce pas ? en son temps, une manière rudimentaire de Poète Maudit. Et, à mon sens, simple et de quelle allure ! cordiale et — c’est le cas de le dire après qu’on a lu, relu et relu ces quelques pages — combien <i>rafraîchissant</i> et joli, mais joli comme ça, bon et encourageant, l’<i>Agrément Inattendu</i>, écrit en ce beau style d’une surnaturelle clarté, entraînant, <i>sweeping</i>, car ce diable, ce bon diable de Villiers (puisque l’ange, l’ange non déchu, prend parfois aussi toutes les formes) me force à parler anglais faute de mieux parler. Et tout le reste, sans plus de choix ! décidément.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p18">
+<page-sequence id="p18">
  <pagenum num="351"/>
 
 <h2>LA DÉCORATION ET L’ART INDUSTRIEL</h2>
@@ -1301,7 +1262,7 @@
 <p>Et tout d’abord, en des pages éloquentes, d’une élégante et captivante précision, il rend hommage à la <i>forme</i>, pour ainsi parler, donnée <pagenum num="354"/>par les architectes aux diverses parties de l’immense construction, véritable ville, brillante comme de féerie et presque comme d’histoire, destinée à contenir ces trésors d’art, d’invention, d’ingénieux et infatigable travail en tout genre, qui sont, plus encore et plus généralement que la <i>seule</i> peinture visée par le poète :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>... le meilleur témoignage</l>
 <l>Que nous puissions donner de notre dignité.</l>
@@ -1327,10 +1288,8 @@
 
 <p>Mais quelque nerveusement gracieux, puissamment gentils, philosophiques aussi dans leur si poétique envol que soient ces affiches, ces en-tête de partition, ces couvertures de livres, <pagenum num="359"/>la louange comme lyrique et toute vibrante, toute pénétrée également de belle, bonne, profonde esthétique qu’en fait le délicieux écrivain, d’ailleurs jamais dupe d’aucun emballement à côté, place Roger Marx, et ce sera le dernier mot de notre trop rapide travail, au nombre des rares juges dont la critique pénétrante, intuitive et sûre s’enveloppe d’un style approprié, poétique et artiste au suprême — et ceci tenez-vous le dit et bien dit.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p19">
+<page-sequence id="p19">
 
  <pagenum num="360"/>
 
@@ -1339,7 +1298,7 @@
 <p>Je crois être un esprit très suffisamment libéral. Depuis quelques années que mon nom a quelque notoriété, j’ai, parbleu ! été en butte à bien des critiques, justes ou non, ou les deux à la fois. Mais l’écrivain seul était en jeu. Je riais ou je souriais de ces « leçons » ; quand ça en valait la peine, j’en profitais. Malheureusement l’idée vint à Huysmans, dans son si curieux livre <i>A rebours</i>, de me comparer, ceci encore <i>littérairement</i>, à Villon. Dès ce moment, d’aucuns ont brodé sur ce thème et, sous prétexte que je suis pauvre et que, dans ce temps-là particulièrement, j’ai vu plusieurs fois la misère en face, mais <i>bien</i> en face, ont osé parlé de l’homme que les fatalités de son temps, les circonstances de sa prime vie, enfin son tempérament, peut-être, avaient fait de notre vieux grand poète, et m’y comparer. Tout y était : des geôles, de vagues assassinats, rien, jusqu’aux « bouges sans nom », jusqu’à la grosse Margot, n’y <pagenum num="361" b="man-" a="quait.">manquait.</pagenum> Mais ceci se passait à une époque où mon nom émergeait à peine de l’obscurité. Depuis, et tout récemment encore, en partie pour dissiper la « légende » qui se formait, je publiais des livres : <i>Mes hôpitaux</i>, <i>Mes prisons</i>, où je mettais à nu la partie de ma vie qui importait. C’est vrai que, dans l’intervalle, je publiais trois livres d’amour réel, ressenti jusqu’aux moelles, parfois voluptueux, le plus souvent affectueux, et pas l’ombre de « vice », et nul retentissement ni odeur de crime, nul</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>« Je te frapperai sans colère</l>
 <l>Et sans haine comme un boucher,</l>
@@ -1353,7 +1312,7 @@
 <p>Nul, non plus, par conséquent :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>A travers ces lèvres nouvelles</l>
 <l>Plus éclatantes et plus belles</l>
@@ -1375,7 +1334,7 @@
 <p>Eh bien ! ce que des malheureux m’ont reproché ces toutes naturelles fleurettes ! Je trahissais l’Eglise, disaient les rares, très rares, extraordinairement rares catholiques ( ?) daignant s’occuper de moi ; je marquais un point dans la décadence, chantonnait un normalien ; les vulgaires Montorgueil et les banals Caribert trouvaient tout doucement que c’était insignifiant et que mes amis avaient bien tort d’« applaudir à cela ». Aujourd’hui, l’affreux Caribert, à qui j’ai été, par suite d’une insinuation aussi odieuse que gratuite, forcé d’apprendre jadis que telle aventure judiciaire m’était arrivée par suite uniquement de violences, ce même monsieur, dis-<pagenum num="363"/>je, me blâme — c’est son droit — de me présenter à l’Académie, mais il affirme que ce sont mes amis qui m’y poussent (il m’avait toujours semblé que c’était moi qui exerçais une influence sur eux). Non, monsieur, cette idée est bien de moi, je l’assume à votre barbe. Mes raisons sont bonnes, toutes, mais la meilleure est que c’est ainsi. Qu’elle vous suffise<noteref noteid="note.363.1"/> ! Quant à ma pauvreté qui n’est pas sordide, quant à mon domicile qui n’est pas l’hôpital, mais bien une modeste chambre que je paye encore assez cher, et exactement ; quant aux « bouges », où l’on avale vite et où l’on couche à la nuit (ceci est presque de mon vieux camarade Lepelletier), et qui se réduisent à de très convenables hôtels garnis où il est peut-être permis de boire un verre en croquant un croissant, le matin, rien n’y concerne ces messieurs de la chronique et du reportage. Mais Villon et son cortège ne tardent pas à reparaître en vue de copie plus dense et plus « coulante » à la fois. Que ne <i>restai-je</i> Villon comme devant ! J’avais même commencé, à ce sujet, <pagenum num="364"/>des triolets assez médiocres, je le confesse (cette littérature funambulesque que je pratiquai naguère encore assez bien m’abandonne, n’est plus dans ma plume, est-ce un mal ?) et dont voici quelques fragments :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>J’idolâtre François Villon,</l>
 <l>Mais être lui, comment donc faire ?</l>
@@ -1398,7 +1357,7 @@
 <p>Excusez la faiblesse de l’exécution, mais le fond de bon sens y est. Oui, comment incarner de nouveau quiconque, surtout un ancien, et cet ancien-là ! Mes versiculets, particularisant, allusionnaient aussi quelque peu à cette grosse Margot qui aura fait faire des lignes et des lignes au digne Caribert et à ce cher Montorgueil.</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>Je m’assimile volontiers</l>
 <l>Les deux Testaments, moi pas bête,</l>
@@ -1417,7 +1376,7 @@
 <p>Et je finissais par plaindre celui qui, prenant à la lettre les conseils des sieurs ci-dessus, aurait toujours</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>Pour imiter François Villon</l>
 <l>Un « lingue » dans son pantalon...</l>
@@ -1436,10 +1395,8 @@
 
 <p>J’ai, il y a une quinzaine, adressé à M. le Secrétaire perpétuel de l’Académie la déclaration de ma candidature, et pousserai celle-ci du mieux possible.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p20">
+<page-sequence id="p20">
  <pagenum num="367"/>
  
 <h2>NOTES SUR LA POÉSIE CONTEMPORAINE</h2>
@@ -1515,10 +1472,8 @@
 
 <p>Ont-ils raison ou tort ? Ils ont tort, ou ils l’auraient, dans tous les cas. C’est ce que j’espère démontrer avec un peu de patience de la part de mes lecteurs et beaucoup de conscience de la mienne...</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p21">
+<page-sequence id="p21">
  <pagenum num="381"/>
 
 <h2>CONFÉRENCE SUR LES POÈTES CONTEMPORAINS</h2>
@@ -1558,7 +1513,7 @@
 <p>J’ai débuté en 1867 par les <i>Poèmes saturniens</i>, chose jeune et forcément empreinte d’imitations à droite et à gauche. En outre, j’y étais « impassible », mot à la mode en ces temps-là :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>Est-elle en marbre ou non la Vénus de Milo ?</l>
 </lg>
@@ -1575,10 +1530,8 @@
 
 <p>— Une catastrophe sérieuse interrompit ces peines et ces plaisirs, factices. Même il se l’exagéra au point d’écrire — <i>un grand sommeil noir.</i> Puis aux résignations comme divines et qu’il voit encore telle l’investit et lui dicta de nombreux poèmes mystiques, du plus pur catholicisme, comme ceci qui data toute une ère nouvelle, dans sa poésie et peut passer pour divin de sa vie pendant d’assez longues années ensuite desquelles, comme cela devait arriver, l’humanité trop tendue reprit ou crut reprendre quelque peu ses droits ou ses prétendus droits, d’où une série des volumes : <i>Chansons pour <pagenum num="390"/>Elle, Odes en son honneur</i>, etc., où étaient célébrées des affections nouvelles sur des rhythmes appropriés. Le malheur revint ensuite, sous d’autres formes, il les a toutes ! La plus aiguë fut la maladie. Des accidents rhumatismaux accompagnés de toutes sortes de complications qui n’en ont pas encore fini avec ce pauvre convalescent que le voici encore, comme en témoigne son aspect pourtant déjà bien amélioré, l’induisirent, au courant d’une crise récente aggravée d’opérations désagréables, à ce retour aux tristesses et aux sérénités de sagesse.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p22">
+<page-sequence id="p22">
  <pagenum num="391"/>
 
 <h2>NOTES RESPECTING ALEXANDRE DUMAS THE YOUNGER</h2>
@@ -1630,7 +1583,6 @@
 <date class="r3"><i>The Senate Review, décembre 1895</i>.</date>
 
  <pagenum num="400"/>
-</div>
 </page-sequence>
 <page-sequence>
 <div id="table">

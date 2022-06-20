@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000283"
         creation="2013-01-27T00:00:01-08:00"
-        modification="2015-01-03T17:09:18-08:00">
+        modification="2022-06-20T15:02:23-07:00">
 
       <surtitre>Œuvres posthumes</surtitre>
       <titre>Quelques vers inédits</titre>
@@ -65,8 +65,7 @@
   <cover src="images/couverture2.png" alt="Œuvres posthumes de Paul Verlaine. II. Charles Baudelaire — Voyage en France par un français — Souvenirs et promenades — Quelques vers inédits — Critique et conférences — Dessins de Paul Verlaine. Paris. Albert Messein, éditeur. Successeur de Léon Vanier. 19, quai Saint-Michel, 19. 1913."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1">
  <pagenum num="229"/>
 
 <h2>QUELQUES VERS INÉDITS</h2>
@@ -88,23 +87,23 @@
 <l>« Amené sur le haut de la colline Sainte</l>
 <l>« Où le juste s’assure et vous aime sans crainte.</l>
 <l>« A vous gloire ! Et pitié pour mes frères encor</l>
-<l indent="3">« Au pied noir du Thabor !</l>
+<l>&#x2001;&#x2001;&#x2001;« Au pied noir du Thabor !</l>
 <pstage>« (Il se relève et se souvient présomptueusement)</pstage>
  
  <pagenum num="230"/>
 
-<l indent="3">« Naguère, que c’était atroce !</l>
-<l indent="3">« L’enfer avait pouvoir sur moi :</l>
-<l indent="3">« Belzébuth nain, Satan colosse,</l>
-<l indent="3">« Le Bélial, serpent et roi,</l>
-<l indent="3">« La petite Vénus féroce,</l>
-<l indent="3">« Chémos-Péor, tigre et lion,</l>
-<l indent="3">« Et ce lion, Apollyon,</l>
-<l indent="3">« Tous les sons et toutes les formes,</l>
-<l indent="3">« Toutes les bêtes des limons</l>
-<l indent="3">« Et toutes les ombres des monts,</l>
-<l indent="3">« Toute l’eau morte aux froids énormes,</l>
-<l indent="3">« Le tournoi de tout le torrent</l>
+<l>&#x2001;&#x2001;&#x2001;« Naguère, que c’était atroce !</l>
+<l>&#x2001;&#x2001;&#x2001;« L’enfer avait pouvoir sur moi :</l>
+<l>&#x2001;&#x2001;&#x2001;« Belzébuth nain, Satan colosse,</l>
+<l>&#x2001;&#x2001;&#x2001;« Le Bélial, serpent et roi,</l>
+<l>&#x2001;&#x2001;&#x2001;« La petite Vénus féroce,</l>
+<l>&#x2001;&#x2001;&#x2001;« Chémos-Péor, tigre et lion,</l>
+<l>&#x2001;&#x2001;&#x2001;« Et ce lion, Apollyon,</l>
+<l>&#x2001;&#x2001;&#x2001;« Tous les sons et toutes les formes,</l>
+<l>&#x2001;&#x2001;&#x2001;« Toutes les bêtes des limons</l>
+<l>&#x2001;&#x2001;&#x2001;« Et toutes les ombres des monts,</l>
+<l>&#x2001;&#x2001;&#x2001;« Toute l’eau morte aux froids énormes,</l>
+<l>&#x2001;&#x2001;&#x2001;« Le tournoi de tout le torrent</l>
 <l>« Et tout le feu des cieux, des soufres et des pierres,</l>
 <l>« Tout me tombait dessus, de partout, déchirant,</l>
 <l>« Lacérant, torturant, perforant, écœurant</l>
@@ -119,27 +118,24 @@
 <l>« Comme un autre serpent d’airain contre la peste</l>
 <l>« De l’hérésie affreuse et de la chair funeste !</l>
 <l>« Mais, encore un coup, Dieu bon, illuminez-les,</l>
-<l indent="4">« Mes frères aveuglés !</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;« Mes frères aveuglés !</l>
 
 <pstage>(Antoine se redresse et assiste au défilé du fantôme de l’armée les anti-hérésiarques qui va chantant) :</pstage>
 
-<l indent="3">« Christ est notre polémarque,</l>
-<l indent="3">« Vive, vive l’empereur ! »</l>
+<l>&#x2001;&#x2001;&#x2001;« Christ est notre polémarque,</l>
+<l>&#x2001;&#x2001;&#x2001;« Vive, vive l’empereur ! »</l>
 
 <vsep class="dots"/>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
+<page-sequence id="p2">
  <pagenum num="231"/>
 
 <h2>DÉDICACE MANUSCRITE DE LA BONNE CHANSON</h2>
 
 <p class="r3">à M<sup>me</sup> M. M. de F.</p>
 
-<poem>
-
+<poem m='8'>
 <lg>
 <l>Faut-il donc que ce petit livre</l>
 <l>Où plein d’espoir chante l’Amour,</l>
@@ -172,15 +168,13 @@
 
 <p>5 juillet 1870.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
+<page-sequence id="p3">
  <pagenum num="232"/>
 
 <h2>A EUGÈNE CARRIÈRE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>A travers ma blague voyoute,</l>
@@ -210,15 +204,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p4">
+<page-sequence id="p4">
  <pagenum num="233"/>
 
 <h2>A AMAN JEAN</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Vous m’ayez pris dans un moment de calme familier</l>
@@ -236,15 +228,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p5">
+<page-sequence id="p5">
  <pagenum num="234"/>
 
 <h2>PARIS</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>Paris n’a de beauté qu’en son histoire,</l>
@@ -299,15 +289,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p6">
+<page-sequence id="p6">
  <pagenum num="236"/>
 
 <h2>A CERTAINS</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Et pourquoi mon amour, dont plus d’un fol s’étonne</l>
@@ -332,15 +320,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p7">
+<page-sequence id="p7">
  <pagenum num="237"/>
 
 <h2>TRISTIA</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Je n’avais pas connu l’Ennui,</l>
@@ -422,15 +408,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p8">
+<page-sequence id="p8">
  <pagenum num="239"/>
 
 <h2>MÉLIORA</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>O calme retrouvé dans la foi d’un enfant,</l>
@@ -516,15 +500,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p9">
+<page-sequence id="p9">
  <pagenum num="241"/>
 
 <h2>ÉCRIT SUR UN LIVRE DE NOTES INTIMES</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Ma vie en ce gros livre obscène tient à peine :</l>
@@ -566,15 +548,13 @@
 
 <p>Hôpital Bichat, 7 décembre 94.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence id="p10">
  <pagenum num="242"/>
 
 <h2>OPTIMA</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Oui, la calme répudiation</l>
@@ -602,10 +582,8 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="429"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -623,7 +601,6 @@
 <p><a idref="p9">É<s>CRIT SUR UNE LIVRE DE NOTES INTIMES</s></a></p>
 <p><a idref="p10">O<s>PTIMA</s></a></p>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000255"
         creation="2012-12-28T00:00:01-08:00"
-        modification="2014-12-31T18:14:52-08:00">
+        modification="2022-06-20T15:02:14-07:00">
 
       <surtitre>Œuvres posthumes</surtitre>
       <titre>Le livre posthume</titre>
@@ -51,7 +51,7 @@
 
   <toc>
     <tocentry idref="p10" label="LE LIVRE POSTHUME"/>
-    <tocentry idref="p11" label="FRAGMENTS">
+    <tocentry idref="p11.1" label="FRAGMENTS">
       <tocentry idref="p11.1" label="I. Dis, sérieusement, lorsque je serai mort"/>
       <tocentry idref="p11.2" label="II. J’ai magnifié de vertus"/>
       <tocentry idref="p11.3" label="III. Lorsque je t’écrivais des vers"/>
@@ -64,13 +64,12 @@
   <cover src="images/couverture1.png" alt="Œuvres posthumes de Paul Verlaine. I. Vers de jeunesse — Varia — Parallèlement (additions) — Dédicaces (additions) — Souvenirs — Histoires comme ça. Texte définitif collationné sur les originaux. Paris. Albert Messein, éditeur. Successeur de Léon Vanier. 19, quai Saint-Michel, 19. 1920."/>
 
 <page-sequences>
-<page-sequence>
-<div id='p10'>
+<page-sequence id='p10'>
  <pagenum num="145"/>
 
 <h2>LE LIVRE POSTHUME</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Le poète a fini sa tâche,</l>
@@ -139,18 +138,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p11'>
-<div id='p11.1'>
+<page-sequence id='p11.1'>
  <pagenum num="148"/>
 
 <h2>FRAGMENTS</h2>
 
 <h2>I</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Dis, sérieusement, lorsque je serai mort,</l>
@@ -186,16 +182,13 @@
 
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11.2">
+<page-sequence id="p11.2">
  <pagenum num="149"/>
 
  <h2>II</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>J’ai magnifié de vertus,</l>
@@ -250,16 +243,14 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11.3">
+<page-sequence id="p11.3">
  <pagenum num="151"/>
 
 <h2>III</h2>
 
 <epigraphe>
-<poem>
+<poem m='8'>
 
 <lg>
 <l>. . . . . . . . . .</l>
@@ -272,7 +263,7 @@
 </poem>
 </epigraphe>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>Lorsque je t’écrivais des vers</l>
@@ -320,15 +311,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11.4">
+<page-sequence id="p11.4">
  <pagenum num="153"/>
 
 <h2>IV</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Te rappelleras-tu mes colères injustes ?</l>
@@ -360,72 +349,67 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11.5">
+<page-sequence id="p11.5">
  <pagenum num="155"/>
 
 <h2>V</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
-<l>&#x2001;&#x2001;Et voici l’instant où tu meurs.</l>
-<l>&#x2001;&#x2001;Nuit suprême en ma nuit extrême,</l>
-<l>&#x2001;&#x2001;Deuil de deuils, malheur de malheurs !</l>
+<l m='8'>Et voici l’instant où tu meurs.</l>
+<l m='8'>Nuit suprême en ma nuit extrême,</l>
+<l m='8'>Deuil de deuils, malheur de malheurs !</l>
 <l>Il me semble mourir encor moi-même.</l>
 </lg>
 
-
 <lg>
-<l>&#x2001;&#x2001;Eh quoi ! l’expansion immense</l>
-<l>&#x2001;&#x2001;De cette immense intensité,</l>
-<l>&#x2001;&#x2001;Cette santé, cette gaîté,</l>
-<l>Tout ce triomphe enseveli, démence !</l>
+<l m='8'>Eh quoi ! l’expansion immense</l>
+<l m='8'>De cette immense intensité,</l>
+<l m='8'>Cette santé, cette gaîté,</l>
+<l m='8'> enseveli, démence !</l>
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Mais ! le néant c’est bon pour moi,</l>
-<l>&#x2001;&#x2001;Pour cet être absurde et fragile</l>
-<l>&#x2001;&#x2001;C’est ce qu’il faut, mais quant à toi...</l>
+<l m='8'>Mais ! le néant c’est bon pour moi,</l>
+<l m='8'>Pour cet être absurde et fragile</l>
+<l m='8'>C’est ce qu’il faut, mais quant à toi...</l>
 <l>Nous ne sommes pas de la même argile.</l>
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Moi je suis la destruction</l>
-<l>&#x2001;&#x2001;Dans le silence et les ténèbres.</l>
-<l>&#x2001;&#x2001;Toi, monte avec l’assomption</l>
+<l m='8'>Moi je suis la destruction</l>
+<l m='8'>Dans le silence et les ténèbres.</l>
+<l m='8'>Toi, monte avec l’assomption</l>
 <l>Des femmes que l’amour rendit célèbres.</l>
 </lg>
 
  <pagenum num="156"/>
 
 <lg>
-<l>&#x2001;&#x2001;Car, dans l’ombre où l’on s’en ira,</l>
-<l>&#x2001;&#x2001;Ta figure entre toutes celles</l>
-<l>&#x2001;&#x2001;Des belles que l’on adora</l>
+<l m='8'>Car, dans l’ombre où l’on s’en ira,</l>
+<l m='8'>Ta figure entre toutes celles</l>
+<l m='8'>Des belles que l’on adora</l>
 <l>Passe les amantes et les pucelles.</l>
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Et, dernier don à ton féal,</l>
-<l>&#x2001;&#x2001;Ma tombe sera renommée</l>
-<l>&#x2001;&#x2001;De ce chef divin et royal.</l>
+<l m='8'>Et, dernier don à ton féal,</l>
+<l m='8'>Ma tombe sera renommée</l>
+<l m='8'>De ce chef divin et royal.</l>
 <l>La gloire de t’avoir surtout aimée.</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p12'>
+<page-sequence id='p12'>
  <pagenum num="157"/>
 
 <h2>DERNIER ESPOIR</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Il est un arbre au cimetière</l>
@@ -456,10 +440,8 @@
  <pagenum num="158"/>
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="403"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -469,7 +451,7 @@
  <pagenum num="406"/>
 
 <p><a idref="p10">LE LIVRE POSTHUME</a></p>
-<p><a idref="p11">FRAGMENTS</a></p>
+<p><a idref="p11.1">FRAGMENTS</a></p>
 <p>&#x2001;&#x2001;<a idref="p11.1">I. Dis, sérieusement, lorsque je serai mort</a></p>
 <p>&#x2001;&#x2001;<a idref="p11.2">II. J’ai magnifié de vertus</a></p>
 <p>&#x2001;&#x2001;<a idref="p11.3">III. Lorsque je t’écrivais des vers</a></p>
@@ -477,7 +459,6 @@
 <p>&#x2001;&#x2001;<a idref="p11.5">V. Et voici l’instant où tu meurs</a></p>
 <p><a idref="p12">DERNIER ESPOIR</a></p>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

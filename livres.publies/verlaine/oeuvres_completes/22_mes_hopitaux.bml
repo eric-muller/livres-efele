@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000202"
         creation="2012-07-03T00:00:00-08:00"
-        modification="2014-12-31T18:14:50-08:00">
+        modification="2022-06-20T15:01:53-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Mes hôpitaux</titre>
@@ -57,8 +57,7 @@
   <cover src="images/couverture4.png" alt="Œuvres complètes de Paul Verlaine. Les poètes maudits - Louise Leclerq - Les mémoires d’un veuf - Mes hôpitaux - Mes prisons. Tome quatrième. Troisième édition. Paris. Librairie Léon Vanier, éditeur. A. Messein, successeur. 19, quai Saint-Michel, 19. 1904."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1">
  <pagenum num="323"/>
  
 <h2>MES HOPITAUX</h2>
@@ -98,7 +97,7 @@
 <p>On a prononcé le mot de convalescence, et c’est maintenant un pavillon central, diminutif et simplificatif du pavillon central des Tuileries, mais napoléonisé par un vaste écusson impérial de front : l’aigle au repos sur des foudres et, derrière, en draperie, le manteau semé d’abeilles, fourré d’hermine, que borde le collier d’aigles minuscules où pend une grosse croix d’honneur, le tout en pierre, bien entendu ; Assez lourd et banal et laid, par <pagenum num="329"/>parenthèse, soit dit sans manquer de respect à</p>
 
 <blockquote>
-<poem>
+<poem m='5'>
 <l>« César décédé ».</l>
 </poem>
 </blockquote>
@@ -188,7 +187,7 @@
 <p>Et allons-y pour la troisième et quatrième et quantes fois de l’immeuble sur pilotis, abattoir extérieur, intime chapelle méthodiste. Changement de service. Des vieux, cette fois des <i>chroniques</i> comme on parle ici. (Chroniques, c’est presque <i>saturniens</i>, ça.) Eh bien ! vive les vieux ! Ils ont leurs inconvénients surtout physiques, mais on les leur passe, en vertu de leur moral qui, au fond, étant, ici, peuple et simple, se trouvant peu chargé d’instruction et de lecture, ravit par son initiale et presque intacte sagesse et son expérience des <i>faits</i>, de faits attestés par leurs maux mêmes, tant tristement ridicules soient ces maux, parfois, et par</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>« La grande misère</l>
 <l>Du pauvre juif errant »</l>
 </poem>
@@ -232,11 +231,8 @@
 
 <p>Et sans plus que cela d’assurance, de ne pas <pagenum num="348" b="repren-" a="dre">reprendre</pagenum> un jour ce travail quasiment silviopelliqueste, c’est en toute mélancolie du passé et sur l’avenir qu’il prend congé du trop bénévole lecteur que ces pages ont pu « distraire » et de vous, chère madame, qu’elles ont dû, à défaut de mieux, amuser.</p>
 
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="p2">
+<page-sequence id="p2">
  <pagenum num="349"/>
 
 <h2>CHRONIQUES DE L’HOPITAL</h2>
@@ -256,11 +252,11 @@
 <p>Sainte-Beuve l’aima et l’apprécia, Félix Pyat sut trouver pour sa louange des accents éloquents qui feront pardonner au farouche révolutionnaire, — un grand écrivain déclamatoire, mais combien intuitivement artiste ! — trop d’hérésies, et que de torts esthétiques ! Beaudelaire fit bien quelques objections beaucoup trop sévères, selon mon humble avis, aux hommages dont son nom était déjà l’objet de son temps. Il lui reproche, entre autres griefs, de tomber dans la « démoc-rocratie » et va jusqu’à le traiter gravement de « mauvais garçon », oubliant que Villon, pour avoir été le pire des voyous, n’en demeure pas moins notre Père et notre Maître à tous ; oubliant aussi que la vie ne fut pas tout rose pour cette nature ardente et délicate, dès lors aisément irritable. Quant à sa mort à l’hôpital, permettez-moi de ne pas la déplorer plus que de droit. <i>Experto crede Boberto :</i> la société, sous quelque régime politique que ce soit, — lisez <i>Stello !</i> — n’est pas pour glorifier les poètes, qui, souvent, vont à l’encontre, sinon toujours, de ses lois positives, du moins très fréquemment de ses usages les plus <pagenum num="352" b="imp-" a="érieux,">impérieux,</pagenum> bons ou mauvais, plutôt mauvais, je raccorde. Alors,</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>« Et pourquoi, si j’ai contristé</l>
-<l>&#x2001;&#x2001;Ton vœu têtu,</l>
-<l>&#x2001;&#x2001;&#x2001;Société,</l>
-<l>&#x2001;&#x2001;Me choîrais-tu ? »</l>
+<l m='4'>Ton vœu têtu,</l>
+<l m='3'>Société,</l>
+<l m='4'>Me choîrais-tu ? »</l>
 </poem>
 </blockquote>
 
@@ -279,7 +275,7 @@
 <p>Décidément, tout de même, il noircit, l’hôpital, en dépit du beau mois de juin dont nous jouissons, <pagenum num="354"/>toute verdure humide de pluie sentant bon et luisant de clarté vive. Oui, l’hôpital se fait noir, malgré philosophie, insouciance et fierté !</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>« Nous nous plairions au grand soleil</l>
 <l>Et sous les rameaux verts des chênes, »</l>
 </poem>
@@ -314,7 +310,7 @@
 <p>Au lieu de cela, depuis (je compte bien) quatre énormes années presque révolues, c’est l’inquiétude, que dis-je ? le halètement, c’est :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>...La mort et l’envie et l’argent,</l>
 <l>Bons coursiers au pied diligent,</l>
 </poem>
@@ -324,7 +320,7 @@
 <p class="cont">acharnés après ce pauvre moi</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>...toujours en quête</l>
 <l>Du bon repos, du sûr abri,</l>
 <l>Et qui fait des bons de cabri</l>
@@ -378,7 +374,7 @@
 <p>Et à Mâcon il y a deux heures d’arrêt après je ne sais combien de siècles en wagon, coupés à peine par des évasions comportant tout juste :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l>Le temps moral d’un verre ou de deux verres</l>
 </poem>
 </blockquote>
@@ -567,7 +563,6 @@
 <p>Or çà, mes hôpitaux de ces dernières années, adieu ! sinon au revoir ; alors, salut ! en tous cas ; j’ai vécu calme et laborieux chez vous. Je ne vous ai quittés l’un après l’autre que pour, en quelque-sorte, vous regretter, et si ma dignité d’homme relativement moins, pas beaucoup moins misérable que les plus tristement dénués de vos habitués, et mon juste instinct de bon citoyen ne voulant pas usurper des lits, hélas ! tant enviés par tant de pauvres gens, me précipitèrent souventes, et souvent prématurées fois, hors de vos portes si bénies à l’arrivée, mais pas plus qu’à la sortie, soyez assurés, bons hôpitaux, qu’en dépit de toute monotonie nécessaire, de tout régime forcément sévère et de tous inconvénients inhérents, en définitive, à toute situation humaine, je vous garde un souvenir unique parmi tant d’autres remembrances, infiniment plus maussades, que la vie extérieure m’a fait, me fait encore et me fera subir, sans nul doute, encore et toujours.</p>
 
  <pagenum num="384"/>
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

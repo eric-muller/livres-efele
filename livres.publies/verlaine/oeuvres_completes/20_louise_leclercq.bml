@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000206"
         creation="2012-07-15T00:00:00-08:00"
-        modification="2015-01-03T14:25:49-08:00">
+        modification="2022-06-20T15:01:49-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Louise Leclercq</titre>
@@ -60,8 +60,7 @@
   <cover src="images/couverture4.png" alt="Œuvres complètes de Paul Verlaine. Les poètes maudits - Louise Leclerq - Les mémoires d’un veuf - Mes hôpitaux - Mes prisons. Tome quatrième. Troisième édition. Paris. Librairie Léon Vanier, éditeur. A. Messein, successeur. 19, quai Saint-Michel, 19. 1904."/>
 
 <page-sequences>
-<page-sequence>
-<div id="ll">
+<page-sequence id="ll">
  <pagenum num="87"/>
 
 <h2>I</h2>
@@ -224,20 +223,16 @@
 <p>Le ménage est heureux. Léon est devenu un homme intelligent. Il reste enjoué, de bonne composition et pour toujours reconnaissant à sa femme. Elle, c’est la bonne chrétienne, la mère par excellence, l’épouse aimante et la femme forte, en un mot l’unième sur mille.</p>
 
  <pagenum num="122"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="pd">
+<page-sequence id="pd">
  <pagenum num="123"/>
 
 <vsep class="fewlines"/>
 
 <h1>PIERRE DUCHATELET</h1>
  <pagenum num="124"/>
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="125"/>
 
 <h2>PIERRE DUCHATELET</h2>
@@ -429,7 +424,7 @@
 <p>Et le bataillon de marche, crâne, chic avec ses couvertes en bandoulière et ses guêtres de toutes fantaisies, arrive, chantant, les mains bleues sur le bois des fusils à l’épaule gauche :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Laïtou, c’te chaleur me lasse,</l>
 <l>Laïtou, je r’tir’mon tricot,</l>
 <l>Laïtou, j’voudrais bien qu’il passe</l>
@@ -464,7 +459,7 @@
 <p>Pierre passait par des sensations qu’il est inutile de décrire, étant donné les deux amours qui le poignaient maintenant, sa femme et la Patrie. Cette dernière, toutefois, maintenant qu’il se battait pour elle, l’emportait de tout le poids d’une chose générale, traditionnelle, cordiale aussi, parbleu ! dans la balance, oscillante un instant, de ses tendresses. Et ce fut, de toute sa vie, la plus grande émotion, la meilleure joie, que ce danger réel, cruel, que ce courage froid de la guerre moderne, toute topographique et panoramique, pour la « pauvre Patrie ! » comme il avait dit en s’enrôlant ! Maintenant, qu’il mourût, que lui faisait ! puisque c’eût été le sacrifice par excellence, — et puis, des <pagenum num="143"/>réminiscences classiques, ces bons, ces forts conseils du Collège à l’Adolescence,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l><i>Dulce et decorum pro patria mori !</i></l>
 </poem>
 </blockquote>
@@ -496,7 +491,7 @@
 <p>On se replia en bon ordre. Par file à ci, par file à là, en avant ! marche !</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Ra ta plan, taratata, le jour de gloire est arrivé ! — </l>
 </poem>
 </blockquote>
@@ -619,10 +614,8 @@
 
 <p>— Pauvre Patrie tout de même !... Je m’engage !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="lp">
+<page-sequence id="lp">
  <pagenum num="153"/>
 
 <vsep class="fewlines"/>
@@ -630,10 +623,8 @@
 <h1>LE POTEAU</h1>
 
  <pagenum num="154"/>
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="155"/>
 
 <h2>LE POTEAU</h2>
@@ -659,10 +650,8 @@
 <p>Mais entre toutes ces choses terribles, il n’en est aucune, alors que la mémoire ou le sommeil me sont incléments, aucune qui me pénètre d’une terreur aussi intense, qui fige autant la moelle de mes os et le sang de mes veines que ce poteau peint en blanc, vu jadis près d’un bois, au rayonnement d’une lanterne sourde, une nuit que je gagnais le chemin <correction original="de de">de</correction> fer en compagnie d’une enfant aimable.</p>
 
  <pagenum num="162"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ma">
+<page-sequence id="ma">
  <pagenum num="163"/>
 
 <vsep class="fewlines"/>
@@ -672,11 +661,9 @@
 <h2>(<s>UN ACTE</s>)</h2>
 
  <pagenum num="164"/>
-</div>
 </page-sequence>
 
 <page-sequence>
-<div>
  <pagenum num="165"/>
 
 <h2>MADAME AUBIN</h2>
@@ -1037,10 +1024,8 @@
 
 <p>Et la main !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
 
 <h1>TABLE</h1>
 
@@ -1055,7 +1040,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

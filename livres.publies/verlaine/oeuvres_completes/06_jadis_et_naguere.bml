@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000233"
         creation="2012-12-06T00:00:01-08:00"
-        modification="2015-01-03T17:01:30-08:00">
+        modification="2022-06-20T15:01:30-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Jadis et naguère</titre>
@@ -56,7 +56,7 @@
 
   <toc>
       <tocentry idref="jadis" label="Jadis">
-        <tocentry idref="prologue" label="Prologue"/>
+        <tocentry idref="jadis" label="Prologue"/>
         <tocentry idref="p3" label="Sonnets et autres">
           <tocentry idref="p4" label="Pierrot"/>
           <tocentry idref="p5" label="Kaléidoscope"/>
@@ -82,7 +82,7 @@
         <tocentry idref="p23" label="Les uns et les autres"/>
 
         <tocentry idref="p24" label="Vers jeunes">
-          <tocentry idref="p25" label="Le soldat laboureur"/>
+          <tocentry idref="p24" label="Le soldat laboureur"/>
           <tocentry idref="p26" label="Les loups"/>
           <tocentry idref="p27" label="La pucelle"/>
           <tocentry idref="p28" label="L’angélus du matin"/>
@@ -91,7 +91,7 @@
         </tocentry>
 
         <tocentry idref="p31" label="A la manière de plusieurs">
-          <tocentry idref="p32" label="La princesse bérénice"/>
+          <tocentry idref="p31" label="La princesse bérénice"/>
           <tocentry idref="p33" label="Langueur"/>
           <tocentry idref="p35" label="Pantoum négligé"/>
           <tocentry idref="p36" label="Paysage"/>
@@ -104,7 +104,7 @@
       </tocentry>
 
       <tocentry idref="p42" label="Naguère">
-        <tocentry idref="p43" label="Prologue"/>
+        <tocentry idref="p42" label="Prologue"/>
         <tocentry idref="p44" label="Crimen amoris"/>
         <tocentry idref="p45" label="La grâce"/>
         <tocentry idref="p46" label="L’impénitence finale"/>
@@ -118,16 +118,14 @@
   <cover src="images/couverture1.png" alt="Œuvres complètes de Paul Verlaine. Poèmes saturniens — Fêtes galantes — Bonne chanson — Romances sans paroles — Sagesse — Jadis et naguère. Tome premier. Troisième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1902."/>
 
 <page-sequences>
-<page-sequence>
-<div id="jadis">
-<div id="prologue">
+<page-sequence id="jadis">
  <pagenum num="297"/>
 
 <h1>JADIS</h1>
 
 <h2>PROLOGUE</h2>
 
-<poem>
+<poem m='7'>
 <lg>
 <l><i>En route, mauvaise troupe !</i></l>
 <l><i>Partez, mes enfants perdus !</i></l>
@@ -166,18 +164,15 @@
 </lg>
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
+<page-sequence id="p3">
  <pagenum num="299"/>
 
 <h1>SONNETS ET AUTRES VERS</h1>
 
 <p class="r3"><i>A la louange de Laure et de Pétrarque.</i></p>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Chose italienne où Shakspeare a passé</l>
 <l>Mais que Ronsard fit superbement française,</l>
@@ -205,17 +200,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p4">
+<page-sequence id="p4">
  <pagenum num="300"/>
 
 <h2>PIERROT</h2>
 
 <p class="r3"><i>A Léon Valade.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Ce n’est plus le rêveur lunaire du vieil air</l>
 <l>Qui riait aux aïeux dans les dessus de portes ;</l>
@@ -243,17 +236,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p5">
+<page-sequence id="p5">
  <pagenum num="301"/>
 
 <h2>KALÉIDOSCOPE</h2>
 
 <p class="r3"><i>A Germain Nouveau.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Dans une rue, au cœur d’une ville de rêve,</l>
 <l>Ce sera comme quand on a déjà vécu :</l>
@@ -306,15 +297,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p6">
+<page-sequence id="p6">
  <pagenum num="303"/>
 
 <h2>INTÉRIEUR</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>A grands plis sombres une ample tapisserie</l>
 <l>De haute lice, avec emphase descendrait</l>
@@ -342,15 +331,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p7">
+<page-sequence id="p7">
  <pagenum num="304"/>
 
 <h2>DIZAIN MIL HUIT CENT TRENTE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Je suis né romantique et j’eusse été fatal</l>
 <l>En un frac très étroit aux boutons de métal,</l>
@@ -365,15 +352,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p8">
+<page-sequence id="p8">
  <pagenum num="305"/>
 
 <h2>A HORATIO</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Ami, le temps n’est plus des guitares, des plumes,</l>
 <l>Des créanciers, des duels hilares à propos</l>
@@ -401,17 +386,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p9">
+<page-sequence id="p9">
  <pagenum num="306"/>
 
 <h2>SONNET BOITEUX</h2>
 
 <p class="r3"><i>A Ernest Delahaye.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Ah ! vraiment c’est triste, ah ! vraiment ça finit trop mal.</l>
 <l>Il n’est point permis d’être à ce point infortuné.</l>
@@ -439,17 +422,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence id="p10">
  <pagenum num="307"/>
 
 <h2>LE CLOWN</h2>
 
 <p class="r3"><i>A Laurent Tailhade.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Bobèche, adieu ! bonsoir, Paillasse ! arrière, Gille !</l>
 <l>Place, bouffons vieillis, au parfait plaisantin,</l>
@@ -477,15 +458,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11">
+<page-sequence id="p11">
  <pagenum num="308"/>
 
 <h2><i>Écrit sur l’Album de M<sup>me</sup> N. de V.</i></h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Des yeux tout autour de la tête</l>
 <l>Ainsi qu’il est dit dans Murger.</l>
@@ -513,17 +492,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p12">
+<page-sequence id="p12">
  <pagenum num="309"/>
 
 <h2>LE SQUELETTE</h2>
 
 <p class="r3"><i>A Albert Mérat.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Deux reîtres saouls, courant les champs, virent parmi</l>
 <l>La fange d’un fossé profond une carcasse</l>
@@ -551,15 +528,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p13">
+<page-sequence id="p13">
 <pagenum num="310"/>
 
 <p class="r3"><i>A Albert Mérat.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Et nous voilà très doux à la bêtise humaine,</l>
 <l>Lui pardonnant vraiment et même un peu touchés</l>
@@ -587,17 +562,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p14">
+<page-sequence id="p14">
  <pagenum num="311"/>
 
 <h2>ART POÉTIQUE</h2>
 
 <p class="r3"><i>A Charles Morice.</i></p>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>De la musique avant toute chose,</l>
 <l>Et pour cela préfère l’Impair</l>
@@ -664,15 +637,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p15">
+<page-sequence id="p15">
  <pagenum num="313"/>
 
 <h2>LE PITRE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le tréteau qu’un orchestre emphatique secoue</l>
 <l>Grince sous les grands pieds du maigre baladin</l>
@@ -700,17 +671,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p16">
+<page-sequence id="p16">
  <pagenum num="314"/>
 
 <h2>ALLÉGORIE</h2>
 
 <p class="r3"><i>A Jules Valadon.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Despotique, pesant, incolore, l’Été,</l>
 <l>Comme un roi fainéant présidant un supplice,</l>
@@ -738,17 +707,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p17">
+<page-sequence id="p17">
  <pagenum num="315"/>
 
 <h2>L’AUBERGE</h2>
 
 <p class="r3"><i>A Jean Moréas</i>.</p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Murs blancs, toit rouge, c’est l’Auberge fraîche au bord</l>
 <l>Du grand chemin poudreux où le pied brûle et saigne,</l>
@@ -776,17 +743,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p18">
+<page-sequence id="p18">
  <pagenum num="316"/>
 
 <h2>CIRCONSPECTION</h2>
 
 <p class="r3"><i>A Gaston Sénéchal.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Donne ta main, retiens ton souffle, asseyons-nous</l>
 <l>Sous cet arbre géant où vient mourir la brise</l>
@@ -814,17 +779,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p19">
+<page-sequence id="p19">
  <pagenum num="317"/>
 
 <h2>VERS POUR ÊTRE CALOMNIÉ</h2>
 
 <p class="r3"><i>A Charles Vignier.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Ce jour je m’étais penché sur ton sommeil.</l>
 <l>Tout ton corps dormait chaste sur l’humble lit,</l>
@@ -852,17 +815,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p20">
+<page-sequence id="p20">
  <pagenum num="318"/>
 
 <h2>LUXURES</h2>
 
 <p class="r3">A <i>Léor Trézenik.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Chair ! ô seul fruit mordu des vergers d’ici-bas,</l>
 <l>Fruit amer et sucré qui jutes aux dents seules</l>
@@ -890,17 +851,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p21">
+<page-sequence id="p21">
  <pagenum num="319"/>
 
 <h2>VENDANGES</h2>
 
 <p class="r3"><i>A Gorges Hall.</i></p>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Les choses qui chantent dans la tête</l>
 <l>Alors que la mémoire est absente,</l>
@@ -928,17 +887,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p22">
+<page-sequence id="p22">
  <pagenum num="320"/>
 
 <h2>IMAGES D’UN SOU</h2>
 
 <p class="r3"><i>A Léon Dierx.</i></p>
 
-<poem>
+<poem m='7'>
 <lg>
 <l>De toutes les douleurs douces</l>
 <l>Je compose mes magies !</l>
@@ -1011,10 +968,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p23">
+<page-sequence id="p23">
  <pagenum num="323"/>
 
 <h1>LES UNS ET LES AUTRES</h1>
@@ -1069,7 +1024,6 @@
 <l cont='true'>Nous vous suivons !</l>
 <pstage>(Ils sortent à l’exception des mêmes.)</pstage>
 
-
 <h1>SCÈNE II</h1>
 <cast>MYRTYL, ROSALINDE, SYLVANDRE, CHLORIS</cast>
 
@@ -1087,10 +1041,7 @@
 <l cont='true'>Paix là ! Que vous êtes fougueux !</l>
 <pstage>(Sortent Sylvandre et Chloris.)</pstage>
 
-
-
 <h1>SCÈNE III</h1>
-
 <cast>MYRTIL, ROSALINDE</cast>
 
 <hstage><speaker>R<s>OSALINDE</s></speaker></hstage>
@@ -1201,7 +1152,6 @@
 <hstage><speaker>M<s>YRTIL</s></speaker></hstage>
 <l>Ah ! toujours tu m’auras mené, magicienne !</l>
 <pstage>(Ils sortent. Rentrent Sylvandre et Chloris.)</pstage>
-
 
 <h1>SCÈNE IV</h1>
 <cast>SYLVANDRE, CHLORIS</cast>
@@ -1935,11 +1885,8 @@
 
 <pstage>(La toile tombe.)</pstage>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p24">
-<div id="p25">
+<page-sequence id="p24">
  <pagenum num="357"/>
 
 <h1>VERS JEUNES</h1>
@@ -1948,7 +1895,7 @@
 
 <p class="r3"><i>A Edmond Lepelletier.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Or ce vieillard était horrible : un de ses yeux,</l>
 <l>Crevé, saignait, tandis que l’autre, chassieux,</l>
@@ -2094,16 +2041,13 @@
 </lg>
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p26">
+<page-sequence id="p26">
  <pagenum num="362"/>
 
 <h2>LES LOUPS</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Parmi l’obscur champ de bataille</l>
 <l>Rôdant sans bruit sous le ciel noir,</l>
@@ -2332,17 +2276,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p27">
+<page-sequence id="p27">
  <pagenum num="368"/>
 
 <h2>LA PUCELLE</h2>
 
 <p class="r3"><i>A Robert Caze.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Quand déjà pétillait et flambait le bûcher,</l>
 <l>Jeanne qu’assourdissait le chant brutal des prêtres,</l>
@@ -2370,17 +2312,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p28">
+<page-sequence id="p28">
  <pagenum num="369"/>
 
 <h2>L’ANGÉLUS DU MATIN</h2>
 
 <p class="r3"><i>A Léon Vanier</i>.</p>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Fauve avec des tons d’écarlate,</l>
 <l>Une aurore de fin d’été</l>
@@ -2454,17 +2394,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p29">
+<page-sequence id="p29">
  <pagenum num="371"/>
 
 <h2>LA SOUPE DU SOIR</h2>
 
 <p class="r3"><i>A J.-K. Huysmans.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Il fait nuit dans la chambre étroite et froide où l’homme</l>
 <l>Vient de rentrer, couvert de neige, en blouse, et comme</l>
@@ -2539,10 +2477,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p30">
+<page-sequence id="p30">
  <pagenum num="374"/>
 
 <h2>LES VAINCUS</h2>
@@ -2551,7 +2487,7 @@
 
 <h2>I</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>La Vie est triomphante et l’Idéal est mort,</l>
 <l>Et voilà que, criant sa joie au vent qui passe,</l>
@@ -2592,7 +2528,7 @@
 
 <h2>II</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Une faible lueur palpite à l’horizon</l>
 <l>Et le vent glacial qui s’élève redresse</l>
@@ -2633,7 +2569,7 @@
 
 <h2>III</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Les vaincus se sont dit dans la nuit de leurs geôles :</l>
 <l>Ils nous ont enchaînés, mais nous vivons encor.</l>
@@ -2674,7 +2610,7 @@
 
 <h2>IV</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Car les morts, en dépit des vieux rêves mystiques,</l>
 <l>Sont bien morts, quand le fer a bien fait son devoir,</l>
@@ -2713,11 +2649,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p31">
-<div id="p32">
+<page-sequence id="p31">
  <pagenum num="379"/>
 
 <h1>A LA MANIÈRE DE PLUSIEURS</h1>
@@ -2726,7 +2659,7 @@
 
 <p class="r3"><i>A Jacques Madeleine</i>.</p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Sa tête fine dans sa main toute petite,</l>
 <l>Elle écoute le chant des cascades lointaines,</l>
@@ -2756,11 +2689,8 @@
 </lg>
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p33">
+<page-sequence id="p33">
  <pagenum num="381"/>
 
 <h2>II</h2>
@@ -2769,7 +2699,7 @@
 
 <p class="r3"><i>A Georges Courteline.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Je suis l’Empire à la fin de la décadence,</l>
 <l>Qui regarde passer les grands Barbares blancs</l>
@@ -2797,17 +2727,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p35">
+<page-sequence id="p35">
  <pagenum num="382"/>
 
 <h2>III</h2>
 
 <h2>PANTOUM NÉGLIGÉ</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Trois petits pâtés, ma chemise brûle.</l>
 <l>Monsieur le curé n’aime pas les os.</l>
@@ -2837,17 +2765,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p36">
+<page-sequence id="p36">
  <pagenum num="383"/>
 
 <h2>IV</h2>
 
 <h2>PAYSAGE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Vers Saint-Denis c’est bête et sale la campagne.</l>
 <l>C’est pourtant là qu’un jour j’emmenai ma compagne.</l>
@@ -2862,10 +2788,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p37">
+<page-sequence id="p37">
  <pagenum num="384"/>
 
 <h2>V</h2>
@@ -2874,7 +2798,7 @@
 
 <p class="r3"><i>A Raoul Ponchon.</i></p>
 
-<poem>
+<poem m='5'>
 <lg>
 <l>Brûle aux yeux des femmes</l>
 <l>Et garde ton cœur,</l>
@@ -2978,17 +2902,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p38">
+<page-sequence id="p38">
  <pagenum num="387"/>
 
 <h2>VI</h2>
 
 <h2>LE POÈTE ET LA MUSE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>La chambre, as-tu gardé leurs spectres ridicules,</l>
 <l>O pleine de jour sale et de bruits d’araignées ?</l>
@@ -3016,10 +2938,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p39">
+<page-sequence id="p39">
  <pagenum num="388"/>
 
 <h2>VII</h2>
@@ -3028,7 +2948,7 @@
 
 <p class="r3"><i>A Louis Dumoulin</i>.</p>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Le Point-du-Jour avec Paris au large,</l>
 <l>Des chants, des tirs, les femmes qu’on « rêvait »,</l>
@@ -3056,10 +2976,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p40">
+<page-sequence id="p40">
  <pagenum num="389"/>
 
 <h2>VIII</h2>
@@ -3068,55 +2986,53 @@
 
 <p class="r3"><i>A Jean Moréas</i>.</p>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Avec les yeux d’une tête de mort</l>
-<l>&#x2001;&#x2001;Que la lune encore décharne,</l>
+<l m='8'>Que la lune encore décharne,</l>
 <l>Tout mon passé, disons tout mon remord</l>
-<l>&#x2001;&#x2001;Ricane à travers ma lucarne.</l>
+<l m='8'>Ricane à travers ma lucarne.</l>
 </lg>
 
 <lg>
 <l>Avec la voix d’un vieillard très cassé,</l>
-<l>&#x2001;&#x2001;Comme l’on n’en voit qu’au théâtre,</l>
+<l m='8'>Comme l’on n’en voit qu’au théâtre,</l>
 <l>Tout mon remords, disons tout mon passé</l>
-<l>&#x2001;&#x2001;Fredonne un tralala folâtre.</l>
+<l m='8'>Fredonne un tralala folâtre.</l>
 </lg>
 
 <lg>
 <l>Avec les doigts d’un pendu déjà vert</l>
-<l>&#x2001;&#x2001;Le drôle agace une guitare</l>
+<l m='8'>Le drôle agace une guitare</l>
 <l>Et danse sur l’avenir grand ouvert,</l>
-<l>&#x2001;&#x2001;D’un air d’élasticité rare.</l>
+<l m='8'>D’un air d’élasticité rare.</l>
 </lg>
 
  <pagenum num="390"/>
 
 <lg>
 <l>« Vieux turlupin, je n’aime pas cela.</l>
-<l>&#x2001;&#x2001;Tais ces chants et cesse ces danses. »</l>
+<l m='8'>Tais ces chants et cesse ces danses. »</l>
 <l>Il me répond avec la voix qu’il a :</l>
-<l>&#x2001;&#x2001;« C’est moins farce que tu ne penses. »</l>
+<l m='8'>« C’est moins farce que tu ne penses. »</l>
 </lg>
 
 <lg>
 <l>« Et quant au soin frivole, ô doux morveux,</l>
-<l>&#x2001;&#x2001;De te plaire ou de te déplaire,</l>
+<l m='8'>De te plaire ou de te déplaire,</l>
 <l>Je m’en soucie au point que, si tu veux,</l>
-<l>&#x2001;&#x2001;Tu peux t’aller faire lanlaire. »</l>
+<l m='8'>Tu peux t’aller faire lanlaire. »</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p41">
+<page-sequence id="p41">
  <pagenum num="391"/>
 
 <h2>IX</h2>
 <h2>MADRIGAL</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Tu m’as, ces pâles jours d’automne blanc, fait mal</l>
 <l>A cause de tes yeux où fleurit l’animal,</l>
@@ -3133,18 +3049,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p42">
-<div id="p43">
-  <pagenum num="392"/>
+<page-sequence id="p42">
+ <pagenum num="392"/>
 
 <h1>NAGUÈRE</h1>
 
 <h2>PROLOGUE</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l><i>Ce sont choses crépusculaires.</i></l>
 <l><i>Des visions de fin de nuit.</i></l>
@@ -3174,18 +3087,15 @@
 </lg>
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p44">
+<page-sequence id="p44">
  <pagenum num="393"/>
 
 <h2>CRIMEN AMORIS</h2>
 
 <p class="r3"><i>A Villiers de l’Isle-Adam.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Dans un palais, soie et or, dans Ecbatane,</l>
 <l>De beaux démons, des satans adolescents,</l>
@@ -3370,17 +3280,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p45">
+<page-sequence id="p45">
  <pagenum num="398"/>
 
 <h2>LA GRACE</h2>
 
 <p class="r3"><i>A Armand Silvestre.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Un cachot. Une femme à genoux, en prière.</l>
 <l>Une tête de mort est gisante par terre,</l>
@@ -3550,17 +3458,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p46">
+<page-sequence id="p46">
  <pagenum num="404"/>
 
 <h2>L’IMPÉNITENCE FINALE</h2>
 
 <p class="r3"><i>A Catulle Mendès.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>La petite marquise Osine est toute belle,</l>
 <l>Elle pourrait aller grossir la ribambelle</l>
@@ -3782,17 +3688,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p47">
+<page-sequence id="p47">
  <pagenum num="411"/>
 
 <h2>DON JUAN PIPÉ</h2>
 
 <p class="r3"><i>A François Coppée.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Don Juan qui fut grand Seigneur en ce monde</l>
 <l>Est aux enfers ainsi qu’un pauvre immonde</l>
@@ -3966,17 +3870,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p48">
+<page-sequence id="p48">
  <pagenum num="417"/>
 
 <h2>AMOUREUSE DU DIABLE</h2>
 
 <p class="r3"><i>A Stéphane Mallarmé.</i></p>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Il parle italien avec un accent russe.</l>
 <l>Il dit : « Chère, il serait précieux que je fusse</l>
@@ -4175,11 +4077,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
 
 <h1>TABLE</h1>
 
@@ -4188,7 +4087,7 @@
 <table>
 <tbody>
 <tr><td colspan='3'><a idref="jadis">JADIS</a></td></tr>
-<tr><td style='width:1em;'/><td colspan='2'><a idref="prologue">Prologue</a></td></tr>
+<tr><td style='width:1em;'/><td colspan='2'><a idref="jadis">Prologue</a></td></tr>
 
 <tr><td>&#xa0;</td><td/><td/></tr>
 
@@ -4220,7 +4119,7 @@
 <tr><td>&#xa0;</td><td/><td/></tr>
 
 <tr><td colspan='3'><a idref="p24">V<s>ERS JEUNES</s></a></td></tr>
-<tr><td/><td colspan='2'><a idref="p25">Le soldat laboureur</a></td></tr>
+<tr><td/><td colspan='2'><a idref="p24">Le soldat laboureur</a></td></tr>
 <tr><td/><td colspan='2'><a idref="p26">Les loups</a></td></tr>
 <tr><td/><td colspan='2'><a idref="p27">La pucelle</a></td></tr>
 <tr><td/><td colspan='2'><a idref="p28">L’angélus du matin</a></td></tr>
@@ -4230,7 +4129,7 @@
 <tr><td>&#xa0;</td><td/><td/></tr>
 
 <tr><td colspan='3'><a idref="p31">A <s>LA MANIÈRE DE PLUSIEURS</s></a></td></tr>
-<tr><td/><td>I.</td><td><a idref="p32">La princesse bérénice</a></td></tr>
+<tr><td/><td>I.</td><td><a idref="p31">La princesse bérénice</a></td></tr>
 <tr><td/><td>II.</td><td><a idref="p33">Langueur</a></td></tr>
 <tr><td/><td>III.</td><td><a idref="p35">Pantoum négligé</a></td></tr>
 <tr><td/><td>IV.</td><td><a idref="p36">Paysage</a></td></tr>
@@ -4243,7 +4142,7 @@
 <tr><td>&#xa0;</td><td/><td/></tr>
 
 <tr><td colspan='3'><a idref="p42">NAGUÈRE</a></td></tr>
-<tr><td/><td colspan='2'><a idref="p43">Prologue</a></td></tr>
+<tr><td/><td colspan='2'><a idref="p42">Prologue</a></td></tr>
 <tr><td/><td colspan='2'><a idref="p44">Crimen amoris</a></td></tr>
 <tr><td/><td colspan='2'><a idref="p45">La grâce</a></td></tr>
 <tr><td/><td colspan='2'><a idref="p46">L’impénitence finale</a></td></tr>
@@ -4253,7 +4152,6 @@
 </tbody>
 </table>
 
-</div>
  </page-sequence>
  </page-sequences>
 </bml>

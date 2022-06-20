@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000271"
         creation="2013-01-17T00:00:01-08:00"
-        modification="2014-12-31T18:14:53-08:00">
+        modification="2022-06-20T15:02:19-07:00">
 
       <surtitre>Œuvres posthumes</surtitre>
       <titre>Souvenirs et promenades</titre>
@@ -68,8 +68,7 @@
   <cover src="images/couverture2.png" alt="Œuvres posthumes de Paul Verlaine. II. Charles Baudelaire — Voyage en France par un français — Souvenirs et promenades — Quelques vers inédits — Critique et conférences — Dessins de Paul Verlaine. Paris. Albert Messein, éditeur. Successeur de Léon Vanier. 19, quai Saint-Michel, 19. 1913."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1">
  <pagenum num="129"/>
 
 <h2>METZ</h2>
@@ -80,10 +79,8 @@
 
 <p>L’Esplanade, « les fois » de musique ! Bon Dieu, que j’y aspirais ! Et comme je hâtais le pas, aux jours tant souhaités, tirant ma mère par la manche !...</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
+<page-sequence id="p2">
  <pagenum num="131"/>
 
 <h2>UN TOUR A LONDRES</h2>
@@ -106,10 +103,8 @@
 
 <p>Je ne raffole plus du théâtre, mais si je n’étais devenu un peu forcément — maladie, etc. — ce solitaire et ce sauvage, je continuerais d’idolâtrer les cafés concerts, anglià : Music-Halls. Or, j’eusse pu, j’eusse même dû aller m’...amuser aux grands spectacles à grands orchestres wagnériens et autres, aux psychologies intenses des meilleures scènes, etc,. Eh bien non, j’ai là-bas cédé à ma vieille passion pour la chanson comique, pour les tours de force et oh, pour les ballets nombreux et malicieux et, d’un goût, d’une variété, sans doute indignes des planches classiques, mais si gentils, si amusants en vérité que je ne sais guère si Paris en fournirait de meilleurs. Et Dieu sait si ces lieux de véritables délices foisonnent aujourd’hui dans le sombre London d’il y a vingt et même dix ans, aujourd’hui un Londres international et surtout français, dans son développement néanmoins anglais et traditionnel entre tous autres phénomènes sociaux de notre temps bon et mauvais, mauvais surtout, bon plutôt !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
+<page-sequence id="p3">
  <pagenum num="135"/>
 
 <h2>CROQUIS DE BELGIQUE</h2>
@@ -119,13 +114,11 @@
 <p>« Bouillon en entonnoir ; » la Semoy, noire sur son lit de cailloux bavards, ses truites qualifiables vraiment de surnaturelles et son « château », son <i>burg</i> plutôt, taillé en plein granit parmi des bois sans fin, croirait-on ; ses rampes rapides où dégringolaient, versant parfois, les malles-poste venant de Sedan, prises chez Op-sore sur la place Turenne où il y avait un marchand de tabac ayant, pour enseigne, un tableau, représentant un priseur, Louis XV, avec ces vers du <i>Festin de pierre</i> de Thomas Corneille :</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l>Quoiqu’en dise Aristote et sa docte cabale,</l>
 <l>Le tabac est divin, il n’est rien qui l’égale ;</l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -140,13 +133,11 @@
 <p>Je me rappelle, comme si j’y étais, sous le château féodal ou plutôt barbare, — tout poternes, murs de trois mètres d’épaisseur, oubliettes redevenues des gouffres sans but, et les ruines de l’espèce de prison pour dettes où se rhumatisaient les officiers frappés d’opposition de Sa Majesté le roi des Pays-Bas, avant la révolution belge de 1830, — la jolie église neuve et son fin clocher d’ardoises où j’entendis une fois un si divin mois de Marie...</p>
 
 <blockquote>
-<poem>
-
+<poem m='i'>
 <lg>
 <l>« Reine des Cieux,</l>
 <l>Vous nous rendez tous heureux ».</l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -187,12 +178,10 @@
 <p>Sedan, Bouillon, Paliseul, lieux d’enfance ! Que changés ! Dans le bois à droite en venant (de Bouillon), le grand bois murmurant jadis dans des ombres parfumées de bruyère et de genêt,</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l>« Où la myrtille est noire au pied du chêne vert »,</l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -213,27 +202,23 @@
 <p>Cette place n’est pas une merveille. Elle témoigne de la province la moins pittoresque qui se puisse imaginer et de l’abominable époque de la fin du dernier Empire. Elle doit certainement son nom révolutionnaire à quelque épisode de la guerre de l’indépendance belge (pardon ! rien du journal, mais l’habitude, la sotte <pagenum num="147" b="habi-" a="tude...).">habitude...).</pagenum> Quartier, d’ailleurs, paisible s’il en fut, stucqué, assez agréablement orné de passablement d’arbres de promenades, sans commerce et toute bourgeoisie aisée. Je sonnai à la ports d’une maison en tout pareille aux autres de la place : une place Vintimille plus petite, aux habitations plus basses, blanches avec des volets blancs. Une bonne m’ouvrit, qui m’apprit que M. Victor Hugo n’était pas « encore rentré », mais qu’il ne tarderait pas, qu’en attendant Madame était là... Je demandai la faveur d’être introduit, faveur que j’obtins, et mille vers de Sainte-Beuve, de Victor Hugo lui-même, me bourdonnèrent dans la tête au moment de voir la fidèle compagne dont le poète disait en 1835 :</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l>« C’est elle ! La vertu sur ma tête penchée,</l>
 <l>La figure d’albâtre en ma maison cachée,</l>
 <l>L’arbre qui, sur la route où je marche à pas lourds,</l>
 <l>Verse des fruits souvent et de l’ombre toujours...</l>
 </lg>
-
 </poem>
 </blockquote>
 
 <p class="cont">et je me surpris, en pénétrant bien timidement dans le petit salon où me conduisit la servante, à murmurer en moi-même cette phrase des <i>Consolations</i>, ce livre d’il y avait des années et des années, ce livre intime, discret, historique comme des mémoires inédits tout à elle :</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l>« Vers trois heures souvent j’aime à vous aller voir ».</l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -283,10 +268,8 @@
 
 <p>J’ajouterai, pour mémoire et sous forme de compensation, qu’en février de l’année dernière, invité par la Conférence du Jeune Barreau de Bruxelles, je faisais, sous la coupole d’or du formidable monument, dans une chambre, ô que sombre ! de Correctionnelle, assis à la table du Greffier, immédiatement au-dessous du bureau affecté au Tribunal... répandu dans la salle parmi une centaine d’avocats, ayant à ma gauche le haut pupitre du Ministère public, perdu aussi dans l’auditoire, — une conférence sur... ou plutôt la lecture des épreuves d’un livre qui a paru depuis, biographique et... fantaisiste, si vous voulez, sous le titre de <i>Mes Prisons</i>.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p4">
+<page-sequence id="p4">
  <pagenum num="157"/>
 
 <h2>AU QUARTIER</h2>
@@ -319,10 +302,8 @@
 
 <p>On se réunissait presque toujours dans un petit café de la rue de Fleurus, proche le théâtre « Bobino », et ce qu’on y causait art et littérature, ce n’est rien que de le dire ! <pagenum num="160" b="Quel-" a="quefois">Quelquefois</pagenum> un grand et gros garçon à peine sorti de la prime adolescence, tumultueux et souvent présomptueux, participait à nos agapes de bière et de rhum-à-l’eau : j’ai désigné Victor Noir.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p5">
+<page-sequence id="p5">
  <pagenum num="161"/>
 
 <h2>LA MÈRE SOURIS</h2>
@@ -369,10 +350,8 @@
 
 <p>— Merci, j’y monte. Et mille pardons, <s>CHER</s> M<s>AITRE</s> !...</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p6">
+<page-sequence id="p6">
  <pagenum num="165"/>
 
 <h2>MON 18 MARS 1871</h2>
@@ -405,10 +384,8 @@
 
 <p>La nuit tombe sur la ville haletante. On entend des crosses de fusil tombant sur le pavé... Parisiens, dormez !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p7">
+<page-sequence id="p7">
  <pagenum num="170"/>
 
 <h2>CHEZ SOI A L’HOPITAL</h2>
@@ -446,12 +423,10 @@
 <p>J’y relis en 1866, nos débuts, à Coppée et à moi (je les croyais de 1867), constatés par Charles Yriarte qui m’y taquine un peu sur certains</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l>... bouts de fumée en forme de cinq,</l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -463,10 +438,8 @@
 
 <p>— La bonne, mon ami, accompagnée de beaucoup d’autres.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p8">
+<page-sequence id="p8">
 <pagenum num="177"/>
 
 <h2>OBSÈQUES DE CH. BAUDELAIRE</h2>
@@ -479,10 +452,8 @@
 
 <p>Il est regrettable que l’absence d’un personnage célèbre ait été remarquée et qualifiée d’inconvenante. Il est plus regrettable encore que cette appréciation soit juste.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p9">
+<page-sequence id="p9">
  <pagenum num="180"/>
 
 <vsep class="emptyline"/>
@@ -501,10 +472,8 @@
 
 <p class="r3">Pans, 19 octobre 1890.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence id="p10">
  <pagenum num="182"/>
 
 <h2><s>FRAGMENT, DONT ON N’A PU RETROUVER LA DATE, OU VERLAINE PARLE DE SA MORT A 52 ANS</s></h2>
@@ -515,10 +484,8 @@
 
 <p>Et puis ce fut un excessif ! sa faculté attentive en fait la preuve à la rigueur.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11">
+<page-sequence id="p11">
  <pagenum num="183"/>
 
 <h2>MÉMOIRES D’UN VEUF</h2>
@@ -556,10 +523,8 @@
 
 <p>Décembre 1885.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p12">
+<page-sequence id="p12">
  <pagenum num="185"/>
  
 <h2>LES SOTS</h2>
@@ -580,10 +545,8 @@
 
 <p>Je rentrai chez moi vers minuit, las, mais non rassasié de bêtise et, pour couronner une journée si bien remplie, n’allai-je pas rêver que toutes les héroïnes d’un théâtre célèbre par ses colonels m’épousaient à tour de rôle ?...</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
  <pagenum num="429"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -612,7 +575,6 @@
 
 <p class="sommaire"><a idref="p12">L<s>ES SOTS</s></a></p>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

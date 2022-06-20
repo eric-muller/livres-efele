@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000249"
         creation="2012-12-28T00:00:01-08:00"
-        modification="2014-12-31T18:14:52-08:00">
+        modification="2022-06-20T15:02:15-07:00">
 
       <surtitre>Œuvres posthumes</surtitre>
       <titre>Souvenirs</titre>
@@ -79,8 +79,7 @@
   <cover src="images/couverture1.png" alt="Œuvres posthumes de Paul Verlaine. I. Vers de jeunesse — Varia — Parallèlement (additions) — Dédicaces (additions) — Souvenirs — Histoires comme ça. Texte définitif collationné sur les originaux. Paris. Albert Messein, éditeur. Successeur de Léon Vanier. 19, quai Saint-Michel, 19. 1920."/>
 
 <page-sequences>
-<page-sequence>
-<div id='p1'>
+<page-sequence id='p1'>
  <pagenum num="163"/>
 
 <h2>AU QUARTIER</h2>
@@ -92,11 +91,11 @@
 <p>Quelle différence entre cette conduite certainement superbe et la peut-être raisonnable chanson des anarchistes d’aujourd’hui :</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 
 <lg>
 <l><i>Si ta veux être heureux.</i></l>
-<l><i>&#x2001;Nom de Dieu !</i></l>
+<l m='3'><i>Nom de Dieu !</i></l>
 <l><i>Prends ton propriétaire...</i></l>
 </lg>
 
@@ -125,11 +124,8 @@
 
 <p>Et voilà pour mon stage relativement court en cet hôtel un peu bien sérieux, mais dont, en somme, je n’ai guère à me plaindre — en dépit de la sévérité même, légèrement prud’hommesque, du patron de la rue et, par conséquent, de la maison.</p>
 
-
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p2'>
+<page-sequence id='p2'>
  <pagenum num="167"/>
 
 <h2>VARIÉTÉS</h2>
@@ -156,10 +152,8 @@
 
 <p>Telles mes « aventures », accompagnées de beaucoup d’autres, en l’aménissime mais combien, bon Dieu ! réfractaire à d’aucunes complaisances pourtant si simples, hôtel de la rue de Vaugirard, tout proche de l’Odéon !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p3'>
+<page-sequence id='p3'>
  <pagenum num="171"/>
 
 <h2>ONZE JOURS EN BELGIQUE</h2>
@@ -173,7 +167,7 @@
 <p>Mon arrivée à Charleroi dans une famille exquise ne m’en a pas moins fait ramentevoir de quelques vers écrits par moi... en 1872.</p>
 
 <blockquote>
-<poem>
+<poem m='4'>
 
 <lg>
 <l>Dans l’herbe noire</l>
@@ -232,13 +226,11 @@
 <p>O la plaisante ville aux carillons si doux, si berceurs, pour qui sans nul doute furent faits ces vers, dès lors ressuscités pour moi, de Victor Hugo :</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l>J’aime le carillon dans tes cités antiques.</l>
 <l>O vieux pays gardien de tes mœurs domestiques.</l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -249,20 +241,16 @@
 <p>Aussi, à une dame d’ici qui me boudait un peu depuis mon retour, — pourquoi, mon Dieu ? — ne pus-je m’empêcher, vieux fou que je suis encore et déjà, de dire... sur son album :</p>
 
 <blockquote>
-<poem>
-
+<poem m='8'>
 <lg>
 <l>On fait de la dentelle à Bruges,</l>
 <l>Mais on fait risette à Paris.</l>
 </lg>
-
 </poem>
 </blockquote>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p4'>
+<page-sequence id='p4'>
  <pagenum num="177"/>
 
 <h2>JEANNE TRESPORTZ</h2>
@@ -277,10 +265,8 @@
 
 <p>Quant à ce qui est de faire un portrait tout du long, cela demanderait du temps et le vôtre est si précieux qu’il me faudrait assumer de tels motifs, en vérité, que j’y vais réfléchir considéralement.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p5'>
+<page-sequence id='p5'>
  <pagenum num="180"/>
 
 <h2>NEVERMORE</h2>
@@ -299,10 +285,8 @@
 
 <p>Et l’horrible abattement des malheurs sans oubli pénètre en moi, silencieux, tandis que la nuit, envahissant le cabaret où je rêve, me <pagenum num="182"/>chasse vers la maison du bord de la route qui est un peu plus haute que les autres habitations, la joyeuse et douce maison d’autrefois où vont m’accueillir, rieuses et bruyantes, deux petites filles en robes sombres, qui ne se souviennent pas, elles, et qui joueront à <i>la maman</i>, — leur récréation favorite, — jusqu’à l’heure du sommeil.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p6'>
+<page-sequence id='p6'>
  <pagenum num="183"/>
 
 <h2>SOUVENIRS SUR THÉODORE DE BANVILLE</h2>
@@ -312,13 +296,12 @@
 <p>— Et maintenant, Messieurs, nous allons fumer des cigarettes comme un tigre ! Ceci ponctué d’un index en l’air, geste si gentil, mais combien contagieux ! Car tous, du <i>Parnasse contemporain</i>, plus ou moins gosses que nous sommes au fond, avons conservé cette manière d’accentuer nos phrases, Mendès, Coppée, votre serviteur et tant d’autres ! C’est vers ces heures que l’on voyait Banville tirer de la poche de son veston de velours une simple casquette de soie qu’il campait gaminement sur une tête peu chevelue déjà, comme l’expriment d’ailleurs ces vers exquis :</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l>Banville porte un front qui n’a rien de commun :</l>
-<l>&#x2001;&#x2001;A tort il l’accompagne</l>
+<l m='6'>A tort il l’accompagne</l>
 <l>De trois crins hérissés avec fureur, comme un</l>
-<l>&#x2001;&#x2001;Savetier de campagne.</l>
+<l m='6'>Savetier de campagne.</l>
 </lg>
 
 </poem>
@@ -328,10 +311,8 @@
 
 <p>Survint la guerre, qui trouva Banville fièrement patriote et lui inspira les <i>Idylles prussiennes</i>, une œuvre vengeresse, la seule peut-être qui restera de cette période, avec de fort beaux vers de Mendès et de Coppée. Des événements qu’il ne convient pas de raconter ici m’éloignèrent de France et de Paris pendant de longues années, ce qui n’empêcha point le poète de s’intéresser à mes humbles travaux en de précieuses lettres précieusement gardées qui font partie de mes plus chers trésors. La vie, depuis si sévère et parfois si injuste pour moi, m’a, dans ces derniers temps, tenu éloigné de son salon de la rue de l’Éperon ; mais, et c’est là le cas de le dire, le cœur y était. Et ce me fut comme un grand coup au cœur quand, ouvrant l’<i>Écho de Paris</i>, certain matin, j’appris sa mort soudaine. Et moi qui ne sors jamais, infirme et sauvage que je suis, je me départis de ma discrétion habituelle et assistai à ces belles et touchantes funérailles, où, malgré la pluie, l’intelligence de Paris se pressait. J’ai ressenti rarement une émotion pareille, encore <pagenum num="188"/>que la Destinée m’ait gâté et me gâte encore sous ce rapport-là. Il me semblait que c’était un reste de ma jeunesse qui s’envolait. Il me souvenait d’avoir, vingt-deux ans auparavant, accompagné un autre cercueil, aussi illustre, mais combien triste ! avec sa trentaine de suivants, dont précisément Banville, resté fidèle à son ami Baudelaire. <i>Je menais en quelque sorte le deuil avec l’éditeur Lemerre ; hier, n’était-ce pas l’éditeur Vanier sur le bras duquel je m’appuyais !</i> Simple coïncidence, mais fatalité tout de même, preuve et « sigille » (dirait l’ami Moréas) de ma fatale inféodation à cette tant aimée coquine de littérature pour laquelle avait tant et si victorieusement fait l’à jamais disparu bon Poète !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p7'>
+<page-sequence id='p7'>
  <pagenum num="189"/>
 
 <h2>MES HOPITAUX (<i>Notes nouvelles</i>).</h2>
@@ -352,10 +333,8 @@
 
 <p>Car on se lasse des meilleures choses, fût-ce de la vie en ces conditions si charmantes que je crois bien que c’est moi qui me les suis faites, au fond.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p8'>
+<page-sequence id='p8'>
  <pagenum num="194"/>
 
 <h2>LE DIABLE</h2>
@@ -365,8 +344,7 @@
  <pagenum num="195"/>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l><i>Voletant</i>, <i>se culebutant</i></l>
 </lg>
@@ -379,12 +357,10 @@
 <p>Oui, le Diable, das Teufel, the Devil, il Diavolo, el Diablo, comme vous voudrez et dans toutes les langues que vous voudrez avec ou sans ses cornes, avec ou sans cette <i>queue</i> dont je viens de parler, oui, le Diable est de mise, suivant le terme des joueurs, et, pour m’exprimer commercialement, « de défaite » en ces jours, pourtant, de scepticisme un peu bien poussé trop loin, entre nous, qui, en fait,</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l><i>Clignons l’œil du côté du « Malin ».</i></l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -403,8 +379,7 @@
 <p>C’est elle qui détruit l’enfant la nuit et parfois le jour, elle qui :</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l><i>Tord sur leurs oreillers les bruns adolescents</i>,</l>
 </lg>
@@ -417,8 +392,7 @@
 <p>Et puis, — il y a un « et puis » — le Mensonge ne marque-t-il pas foncièrement le Maudit et les suppôts dudit ? Et qu’est-ce que je viens de vous envoyer là, sinon la plus effrénée, la plus effrontée, la plus fallacieuse et pernicieuse et fellatrice et délétrice contre-vérité ? Car j’aime férocement, sachez-le, peuples des continents et des îles, j’aime, en vieux Parnassien, en, paraît-il (tant que ça ?), symboliste inexpecté, cette gueuse entre les gueuses, cet ange par-dessus les Archanges, la nommée Littérature, c’est-à-dire les Lettres. Or, les primes Lettres proférées dès l’aurore de ce monde, après tout bon, furent, souvenez-vous :</p>
 
 <blockquote>
-<poem>
-
+<poem m='4'>
 <lg>
 <l><i>Fiat lux !</i></l>
 </lg>
@@ -432,10 +406,8 @@
 
 <p class="r3">Août 91.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p9'>
+<page-sequence id='p9'>
  <pagenum num="200"/>
 
 <h2>MOMES-MONOCLES</h2>
@@ -526,10 +498,8 @@
 
 <p>Demandez plutôt à ces dames.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p10'>
+<page-sequence id='p10'>
  <pagenum num="209"/>
 
 <h2>ENFANCE CHRÉTIENNE</h2>
@@ -548,10 +518,8 @@
 
 <p>Mon tout premier souvenir parisien, sous le rapport des fréquentations d’églises, est pour l’épouvantable Sainte-Marie des Batignolles et pour la Trinité en bois de la rue de Clichy où j’assiste à des froides ou moites messes basses, concurremment avec la chappelle des catéchismes de la rue de Douai, qui est donc quoi devenue, depuis le temps ? Ma famille me conduit à la première et ma pension un peu plus tard aux deux autres. Guère de dévotion, moi. Je m’ennuie simplement, sans plus rien comprendre à ce qui se passe que la majorité <pagenum num="212"/>d’ailleurs des assistants, j’ai tout lieu de le craindre. Ah ! des <i>Te Deum</i> pour la fête de l’Empereur dans le chœur de Sainte-Marie, à côté de mon père, capitaine du génie en retraite, convoqué. Des services funèbres de connaissances. Le rite gallican, chantres en chapes, arpentant le chœur de haut en bas, un serpent. Les barrettes n’allaient-elles pas encore en cône ? Des surplis sans manches, avec des bandes plissées au petit fer voletant derrière. Je remarque que les prêtres portent leurs cheveux longs et très pommadés ou bien alors assez en désordre. Ma première communion faite avec d’affreux gamins, pourtant moins pires que ceux da présent que je connais bien aussi, pour des raisons. Menteurs, gourmands, méchants et sensuellement vicieux autant que cet âge poussé au pire, dans son impuissance d’autant plus excitée par la corruption, est susceptible de l’être, mes compagnons à la sainte Table ! Je fus, j’ose le croire, l’un des meilleurs communiants de cette malédifiante fournée de polissons. J’espère, toutefois, que quelques autres ne commirent pas non plus un sacrilège, en ce plus beau jour de notre vie ; le pénitent de Sainte-Hélène n’a jamais dit plus juste. Et je m’accuse, s’il le faut, de venir là de jouer le mauvais rôle dans la parabole, s’évoquant, du Pharisien <pagenum num="213"/>et du Publicain, Pharisien lilliputien de publicains-mouches. C’est vrai, pour expliquer mes avantages moraux et spirituels de ce moment reculé, que j’étais un enfant aimant et doux, aimant ma mère si merveilleusement vertueuse et bonne, l’aimant à l’adoration, aimant aussi mon père, un homme parfait qui m’aima tant. Peu après, quel mauvais sujet je fis, incroyant et tout pour pendant si longtemps, ô Miséricorde divine qui m’avez enfin puni !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p11'>
+<page-sequence id='p11'>
  <pagenum num="214"/>
 
 <h2>VIEILLE VILLE</h2>
@@ -597,8 +565,7 @@
 <p>« Après tous ces devoirs, la saincte Chandelle fut baillée en garde à ces deux joueurs d’instruments musicaux, qui l’avoyent reçu de la Vierge avec l’evesque, par l’advis duquel ils instituèrent Une vénérable Société de gens pieux et dévots qu’ils appelèrent la <i>Confrairie des Ardants</i> en la mémoire de ce tant signalé miracle, et en peu de temps grand nombre de gens, voire des principaux et plus honorables Seigneurs et Bourgeois de la ville d’Arras, se feirent enrôler dans cette Confrairie.</p>
 
 <blockquote>
-<poem>
-
+<poem m='8'>
 <lg>
 <l><i>Deo Patri sit glorîa</i></l>
 <l><i>Et Filio qui a mortuis</i></l>
@@ -671,10 +638,8 @@
 
 <p>Et tout cela, ô la profondeur de vos desseins, Dieu vivant ! — à cause d’une humble femme qui passait, après avoir prié peut-être pour cet imbécile qui flânait dans votre temple comme dans un musée, peut-être encore pour le chrétien, distrait en présence de vos redoutables mystères, qui écrit ces lignes vaines !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p12'>
+<page-sequence id='p12'>
  <pagenum num="246"/>
 
 <h2>TRADUIT DE BYRON</h2>
@@ -719,10 +684,8 @@
 
 <p>Mais je ne voudrais pas faire comme tu as fait.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p13'>
+<page-sequence id='p13'>
 <pagenum num="249"/>
 
 <h2>LA GOUTTE</h2>
@@ -737,10 +700,8 @@
 
 <p>Et je, puisque je il y a, partis plus allègre pour chez mon notaire, qui devait être absent d’ailleurs, qu’Olympio pour son Panthéon pendant ce temps-là.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p14'>
+<page-sequence id='p14'>
  <pagenum num="252"/>
 
 <h2>L’OBSESSEUR</h2>
@@ -779,10 +740,8 @@
 
 <p>Puisse au moins son ombre obséder à son tour l’artilleur au casque à boule qui lui a valu ces loisirs !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p15'>
+<page-sequence id='p15'>
  <pagenum num="258"/>
 
 <h2>CONTE PÉDAGOGIQUE</h2>
@@ -805,10 +764,8 @@
 
 <p>L’État alors déclara ne plus vouloir s’occuper de rien, — et tout alla de nouveau comme sur des roulettes.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p16'>
+<page-sequence id='p16'>
  <pagenum num="262"/>
 
 <h2>GOSSES</h2>
@@ -922,16 +879,13 @@
 <p>Grand d’ailleurs et, au demeurant, ainsi <pagenum num="276"/>qu’il a été indiqué plus haut, un cœur d’or. Et c’est pourquoi je termine, en les modifiant pour la circonstance :</p>
 
 <blockquote>
-<poem>
-
+<poem m='8'>
 <lg>
 <l><i>C’est sur toi que je me repose</i></l>
 <l><i>Mon cher Anatol’... George Hugon.</i></l>
 </lg>
-
 </poem>
 </blockquote>
-
 
 <h2>X</h2>
 
@@ -977,10 +931,8 @@
 
 <p>Enfant, oui, va prier pour nous deux ! et pour nous tous !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p17'>
+<page-sequence id='p17'>
 <pagenum num="283"/>
 
 <h2>MI-A-OU</h2>
@@ -1011,10 +963,8 @@
 
 <p>Ce ne fut pas sans une certaine et vague confusion qu’il s’aperçut que c’était bien le chat, et non le fils, de la maison, perché sur la cheminée, et qui le regardait de ses yeux verts, impassible et l’on eût dit presque ironique témoin de ses bonnes résolutions.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p18'>
+<page-sequence id='p18'>
  <pagenum num="287"/>
 
 <h2>PROJETS ET PLANS SUR LA COMÈTE</h2>
@@ -1044,10 +994,9 @@
 <p>— Quand je pourrai vivre.</p>
 
 <p>Les projets, qui tiennent toujours, courent encore !</p>
-</div>
+
 </page-sequence>
-<page-sequence>
-<div id='p19'>
+<page-sequence id='p19'>
  <pagenum num="294"/>
 
 <h2>A PROPOS DU DERNIER LIVRE POSTHUME DE VICTOR HUGO</h2>
@@ -1059,8 +1008,7 @@
 <p><i>Les Jumeaux</i>, leur plan qui n’est qu’un projet en l’air, d’ailleurs assez amusamment jeté sur une feuille volante, et leur millier de vers écrits de ci, de là sans second travail apparent, sans <pagenum num="295"/>nulle de ces variantes, de ces leçons, immanquables témoins d’une œuvre tenue par son auteur pour viable, <i>Les Jumeaux</i> sont loin, je l’avoue, d’avoir fait sur moi l’impression grande, même émouvante et parfois haletante d’admiration que m’a donnée la lecture de la colossale épopée, par malheur presque inachevée : <i>La fin de Satan</i>, pourtant bien lâchée, bien faiblement esquissée par endroits. J’y relève, dans cet embryon de drame, des tirades d’un romantisme un peu connu, banal, bien que sorti, c’est le cas de le dire, de source, en tous cas ennuyeux au possible, surtout pour les occurrences mélancoliques qui ne manquent pas assez dans cette histoire à dormir debout d’un Masque-de-fer (encore !) capable de geintes du goût de ceci :</p>
 
 <blockquote>
-<poem>
-
+<poem m='i'>
 <lg>
 <l>........ <i>Je ne suis pas un homme</i></l>
 <l><i>Allant, venant, parlant, plein de joie et d’orgueil,</i></l>
@@ -1074,15 +1022,13 @@
 <l><i>«  Pâle il regardera de sa prison lointaine</i></l>
 <l><i>Les femmes aux pieds sûrs qui passent dans la plaine. »</i></l>
 </lg>
-
 </poem>
 </blockquote>
 
 <p>Il n’y manque plus, n’est-ce pas, que le refrain <pagenum num="296"/>d’une « romance » intitulée : <i>Le masque de fer </i>(toujours !) que ma petite enfance subit combien de fois ! pour mes péchés à venir :</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l><i>« Moi, je n’ai pas connu les baisers d’une mère. »</i></l>
 </lg>
@@ -1093,8 +1039,7 @@
 <p>Il est vrai que j’y trouve également quelques couplets du bon faiseur, et même du grand faiseur mais passablement connus aussi. Quant à la facture, à la tournure et presque à la matière, comme ce débris de boniment placé dans la bouche d’un grand seigneur <i>cru</i>, bien entendu le saltimbanque Guillot-Gorju :</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <vsep class="dots"/>
 <l><i>Je viens de Portugal encore ! Ils ont un roi</i></l>
@@ -1104,7 +1049,6 @@
 <l><i>Du comte de Valverde ? il dit : « En l’assommant ! »</i></l>
 <l><i>Avec la gaîté propre à cet âge charmant.</i></l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -1117,12 +1061,11 @@
 <p>La première fois que ce nom si longtemps prestigieux, Hugo ! retentit à mes oreilles, elles étaient tendres et petites, mes oreilles, des oreilles comme de souris, dressées naïves aux côtés de mon innocente tête, presque toute instinct candide et volonté dans les limbes. Savais-je même lire ? Avais-je sept ans ? lors de mes premières <pagenum num="298"/>armes scolaires en cette rue reculée des Batignolles, où tant déjà d’années n’ont rien changé de la cour grandelette plantée de quelques acacias — mes petits camarades parisiens prononçaient agacias, et moi venu, ô par le hasard des garnisons paternelles, d’un midi dont je n’étais « bouffre » pas ! je prononçais acacïa, — ni de l’humble maison d’école aux volets verts, au perron qui, les jours de distributions de prix, servit d’estrade à mes jeunes essais de déclamations dans les fables de La Fontaine ou les élégies si joliment puériles du bon Giraud... C’était à l’époque du Coup d’État ou peu après. Si bien que tant chez moi qu’à l’école, par la bouche du patron ou du sous-maître, ce vocable Victor Hugo sonnait mal, signifiait rouge, fou aussi et, mon Dieu, parfois saltimbanque. Plus tard, quand je fus en pension, j’écoutais les <i>grands</i>, les rhétoriciens, déjà libérés de la tunique et faisant faux-col, le faux-col en triangle de guillotine de cette époque, qu’affirmaient, d’autre part, de hardis essais de sous-pieds, déclamer des vers du grand homme :</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l><i>. . . . . . Une surtout, une jeune Espagnole...</i></l>
 <l><i>...Envolez-vous de ce manteau</i></l>
-<l><i>... Et s’ il n’en reste qu’un . . . . .</i></l>
+<l><i>... Et s’il n’en reste qu’un . . . . .</i></l>
 </lg>
 
 </poem>
@@ -1131,8 +1074,7 @@
 <p>Mais ce ne fut que bien après, j’avais au moins <pagenum num="299"/>treize ans, que la révélation par la lecture eut lieu pour ce faible moi et je tombai sur le second tome des <i>Contemplations ;</i> les Mages et la Bouche d’Ombre eurent, je le crains, presque aussi peu de clarté pour mon esprit en miniature d’alors qu’ils en ont trop pour le « décadent » que me voici, suivant des gens. Par contre, les vers sur la mort de Léopoldine me choquèrent et je trouvai moi, frais émoulu de mon catéchisme, absolument comme je le trouve aujourd’hui, ce père désolé, ce chrétien qui se dit si soumis, bien téméraire de dire au Dieu qu’il fait profession d’adorer dans <i>toutes</i> ses manifestations</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l><i>Considerez que c’est une chose bien triste...</i></l>
 </lg>
@@ -1152,10 +1094,8 @@
 
 <vsep class="dots"/>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p20'>
+<page-sequence id='p20'>
  <pagenum num="302"/>
 
 <h2>AU PAYS DU MUFFLE</h2>
@@ -1177,8 +1117,7 @@
 <blockquote>
 <h2>QUARTIER LATIN</h2>
 
-<poem>
-
+<poem m='12'>
 <lg>
 <l><i>« Dans le bar où jamais le parfum des brevas</i></l>
 <l><i>Ne dissipa l’odeur de vomi qui la nâvre,</i></l>
@@ -1189,7 +1128,6 @@
 <l><i>S’acoquinent avec des potards indigestes</i></l>
 <l><i>Qui s’y viennent former aux choses de l’amour.</i></l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -1198,8 +1136,7 @@
  <pagenum num="304"/>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <vsep class="dots"/>
 <l><i>Prince d’amour que fêtent les buccins,</i></l>
@@ -1215,8 +1152,7 @@
 <p>Et si douces, trop douces au sujet de nos chers contemporains :</p>
 
 <blockquote>
-<poem>
-
+<poem m='8'>
 <lg>
 <l><i>« Fleur de gitons, Prince Charmant,</i></l>
 <l><i>Non pareille est cette merveille</i></l>
@@ -1232,8 +1168,7 @@
 <p>Exemple :</p>
 
 <blockquote>
-<poem>
-
+<poem m='8'>
 <lg>
 <l><i>« Le savez-vous, Ohnet, Lemaître,</i></l>
 <l><i>Toi, Jean Rameau qui fais des vers</i></l>
@@ -1249,7 +1184,6 @@
 <l><i>Aux réclamations peu gaies</i></l>
 <l><i>Des mastroquets et des tailleurs.</i></l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -1259,10 +1193,8 @@
 
 <p class="c"><i>Paul Verlaine.</i></p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p21'>
+<page-sequence id='p21'>
  <pagenum num="306"/>
 
 <h2>ÆGRI SOMNIA</h2>
@@ -1281,10 +1213,8 @@
 
 <p>Sedan (prononcez S’dang), Bouillon, Paliseul (prononcez Palizeû), Jéhonville (prononcez Djonvî), lieux d’enfance. Que changés ! Dans le bois, à droite, en venant, le grand bois murmurant jadis sous des vents parfumés de bruyère, de myrtilliers et de genêts, et pleins du cri lointain des loups et de leurs yeux comme tout proches, il y a des becs de gaz, et dans les clairières, très nombreuses aujourd’hui, des industries mal odorantes. O les vilains ouvriers flamands et italiens ! Je reconnais le chêne, le Père qui s’élève à l’entrée du bois ?... du bois... Salmon (c’est bien ça), de quelques mètres éloigné des premières futaies. Horreur ! un Robinson s’y est installé, à l’usage de couples à demi-paysans : bières et sirops, macarons et veau froid, chef crasseux et bonnes sales. Du trottoir et du bitume et du béton. La campagne autour, quelquefois sauvage, s’est faite plate à force de jardins potagers. Les beaux étangs noirs qui clapotaient gais et sinistres en plein vent dans l’âpre prairie, il y a des cygnes et des bêtes cyprins <pagenum num="310"/>dedans et une bordure de granit rose autour... Je m’y mire et j’y vois une face grassouillette dont je reste tout confus en présence de mon innocence, là vivante jadis et de tout ce qui s’est passé entre ma maigreur d’alors et ce ridicule, cet odieux embonpoint qui dit tant de choses digérées, de choses plates, laides, médiocres et lâches. — Et que béni soit le sursaut vengeur me rendant tout à mon réel malheur, fier alors !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p22'>
+<page-sequence id='p22'>
  <pagenum num="311"/>
 
 <h2>MES SOUVENIRS DE LA COMMUNE</h2>
@@ -1295,10 +1225,8 @@
 
 <p>La nuit tombe sur la ville haletante. On entend des crosses de fusil tombant sur le pavé... Parisiens, dormez !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p23'>
+<page-sequence id='p23'>
  <pagenum num="314"/>
 
 <h2>LE BON LARRON</h2>
@@ -1316,8 +1244,7 @@
 <p>Un abandonné probablement de sa femme, <pagenum num="315"/>d’une veuve trop fière, peut-être offensée, en tous cas compromise et se dérobant. Et comme la miséricorde de Jésus est infinie, la grâce n’aura pu descendre que sur un scélérat sans excuse. Mauvais mari, fils ingrat, père affreux, voleur sans pitié, certainement lâche, tel à mes yeux ce grand saint qu’un sonnet jeune de moi,</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l>Lorsque Jésus fut mort et comme une auréole</l>
 <l>S’allumait bleue au front blanc du Nazaréen,</l>
@@ -1326,7 +1253,6 @@
 <vsep class="dots"/>
 <l>Sinon qu’en pendant là cet homme l’on fit bien...</l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -1343,10 +1269,8 @@
 <p>Saint Cléophas, priez pour nous.</p>
 
  <pagenum num="316"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id='table'>
+<page-sequence id='table'>
  <pagenum num="403"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -1379,7 +1303,6 @@
 <p><a idref='p22'>M<s>ES SOUVENIRS DE LA COMMUNE</s></a></p>
 <p><a idref='p23'>L<s>E BON LARRON</s></a></p>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

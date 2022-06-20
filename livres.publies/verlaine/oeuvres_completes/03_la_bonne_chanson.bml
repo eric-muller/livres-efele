@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000216"
         creation="2012-09-21T00:00:01-08:00"
-        modification="2014-12-31T18:14:46-08:00">
+        modification="2022-06-20T15:01:23-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>La bonne chanson</titre>
@@ -78,13 +78,12 @@
   <cover src="images/couverture1.png" alt="Œuvres complètes de Paul Verlaine. Poèmes saturniens — Fêtes galantes — Bonne chanson — Romances sans paroles — Sagesse — Jadis et naguère. Tome premier. Troisième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1902."/>
 
   <page-sequences>
-<page-sequence>
-<div id="I">
+<page-sequence id="I">
  <pagenum num="119"/>
 
 <h2>I</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le soleil du matin doucement chauffe et dore.</l>
 <l>Les seigles et les blés tout humides encore,</l>
@@ -108,15 +107,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="II">
+<page-sequence id="II">
 <pagenum num="120"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Toute grâce et toutes nuances</l>
 <l>Dans l’éclat doux de ses seize ans,</l>
@@ -169,15 +166,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="III">
+<page-sequence id="III">
 <pagenum num="122"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>En robe grise et verte avec des ruches,</l>
 <l>Un jour de juin que j’étais soucieux,</l>
@@ -207,15 +202,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="IV">
+<page-sequence id="IV">
 <pagenum num="123"/>
 
 <h2>IV</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Puisque l’aube grandit, puisque voici l’aurore,</l>
 <l>Puisque, après m’avoir fui longtemps, l’espoir veut bien</l>
@@ -268,40 +261,38 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="V">
+<page-sequence id="V">
  <pagenum num="125"/>
 
 <h2>V</h2>
 
-<poem>
+<poem m='7'>
 <lg>
 <l>Avant que tu ne t’en ailles,</l>
 <l>Pâle étoile du matin,</l>
-<l>&#x2001;&#x2001;&#x2001;— Mille cailles</l>
+<l m='3'>— Mille cailles</l>
 <l>Chantent, chantent dans le thym. —</l>
 </lg>
 
 <lg>
 <l>Tourne devers le poète,</l>
 <l>Dont les yeux sont pleins d’amour,</l>
-<l>&#x2001;&#x2001;&#x2001;— L’alouette</l>
+<l m='3'>— L’alouette</l>
 <l>Monte au ciel avec le jour. —</l>
 </lg>
 
 <lg>
 <l>Tourne ton regard que noie</l>
 <l>L’aurore dans son azur ;</l>
-<l>&#x2001;&#x2001;&#x2001;— Quelle joie</l>
+<l m='3'>— Quelle joie</l>
 <l>Parmi les champs de blé mûr ! —</l>
 </lg>
 
 <lg>
 <l>Puis fais luire ma pensée</l>
 <l>Là-bas, — bien loin, oh ! bien loin !</l>
-<l>&#x2001;&#x2001;&#x2001;— La rosée</l>
+<l m='3'>— La rosée</l>
 <l>Gaîment brille sur le foin. —</l>
 </lg>
 
@@ -310,20 +301,18 @@
 <lg>
 <l>Dans le doux rêve où s’agite</l>
 <l>Ma vie endormie encor...</l>
-<l>&#x2001;&#x2001;&#x2001;— Vite, vite,</l>
+<l m='3'>— Vite, vite,</l>
 <l>Car voici le soleil d’or. —</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="VI">
+<page-sequence id="VI">
  <pagenum num="127"/>
 
 <h2>VI</h2>
 
-<poem>
+<poem m='4'>
 <lg>
 <l>La lune blanche</l>
 <l>Luit dans les bois ;</l>
@@ -363,15 +352,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="VII">
+<page-sequence id="VII">
  <pagenum num="129"/>
 
 <h2>VII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le paysage dans le cadre des portières</l>
 <l>Court furieusement, et des plaines entières</l>
@@ -398,15 +385,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="VIII">
+<page-sequence id="VIII">
 <pagenum num="130"/>
 
 <h2>VIII</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Une Sainte en son auréole,</l>
 <l>Une Châtelaine en sa tour,</l>
@@ -436,15 +421,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="IX">
+<page-sequence id="IX">
  <pagenum num="131"/>
 
 <h2>IX</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Son bras droit, dans un geste aimable de douceur,</l>
 <l>Repose autour du cou de la petite sœur,</l>
@@ -463,15 +446,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="X">
+<page-sequence id="X">
 <pagenum num="132"/>
 
 <h2>X</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Quinze longs jours encore et plus de six semaines</l>
 <l>Déjà ! Certes, parmi les angoisses humaines</l>
@@ -519,15 +500,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XI">
+<page-sequence id="XI">
  <pagenum num="134"/>
 
 <h2>XI</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>La dure épreuve va finir :</l>
 <l>Mon cœur, souris à l’avenir.</l>
@@ -571,15 +550,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XII">
+<page-sequence id="XII">
  <pagenum num="136"/>
 
 <h2>XII</h2>
 
-<poem>
+<poem m='7'>
 <lg>
 <l>Va, chanson, à tire-d’aile</l>
 <l>Au-devant d’elle, et dis-lui</l>
@@ -609,15 +586,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XIII">
+<page-sequence id="XIII">
  <pagenum num="137"/>
 
 <h2>XIII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Hier, on parlait de choses et d’autres,</l>
 <l>Et mes yeux allaient recherchant les vôtres,</l>
@@ -661,16 +636,13 @@
 </lg>
 </poem>
 
-
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XIV">
+<page-sequence id="XIV">
  <pagenum num="139"/>
 
 <h2>XIV</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le foyer, la lueur étroite de la lampe ;</l>
 <l>La rêverie avec le doigt contre la tempe</l>
@@ -685,15 +657,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XV">
+<page-sequence id="XV">
 <pagenum num="140"/>
 
 <h2>XV</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>J’ai presque peur, en vérité,</l>
 <l>Tant je sens ma vie enlacée</l>
@@ -739,15 +709,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XVI">
+<page-sequence id="XVI">
  <pagenum num="142"/>
 
 <h2>XVI</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le bruit des cabarets, la fange des trottoirs,</l>
 <l>Les platanes déchus s’effeuillant dans l’air noir,</l>
@@ -762,15 +730,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XVII">
+<page-sequence id="XVII">
  <pagenum num="143"/>
 
 <h2>XVII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>N’est-ce pas ? en dépit des sots et des méchants</l>
 <l>Qui ne manqueront pas d’envier notre joie,</l>
@@ -814,15 +780,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XVIII">
+<page-sequence id="XVIII">
  <pagenum num="145"/>
 
 <h2>XVIII</h2>
 
-<poem>
+<poem m='7'>
 <lg>
 <l>Nous sommes en des temps infâmes</l>
 <l>Où le mariage des âmes</l>
@@ -851,15 +815,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XIX">
+<page-sequence id="XIX">
  <pagenum num="146"/>
 
 <h2>XIX</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Donc, ce sera par un clair jour d’été :</l>
 <l>Le grand soleil, complice de ma joie,</l>
@@ -882,15 +844,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XX">
+<page-sequence id="XX">
  <pagenum num="147"/>
 
 <h2>XX</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>J’allais par des chemins perfides,</l>
 <l>Douloureusement incertain.</l>
@@ -920,15 +880,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="XXI">
+<page-sequence id="XXI">
  <pagenum num="148"/>
 
 <h2>XXI</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>L’hiver a cessé : la lumière est tiède</l>
 <l>Et danse, du sol au firmament clair.</l>
@@ -967,11 +925,8 @@
 </poem>
 
  <pagenum num="150"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
 
 <h1>TABLE</h1>
 
@@ -1003,7 +958,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
  </page-sequences>
 

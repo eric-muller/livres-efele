@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000269"
         creation="2013-01-14T00:00:01-08:00"
-        modification="2014-12-31T18:14:52-08:00">
+        modification="2022-06-20T15:02:15-07:00">
 
       <surtitre>Œuvres posthumes</surtitre>
       <titre>Histoires comme ça</titre>
@@ -63,8 +63,7 @@
   <cover src="images/couverture1.png" alt="Œuvres posthumes de Paul Verlaine. I. Vers de jeunesse — Varia — Parallèlement (additions) — Dédicaces (additions) — Souvenirs — Histoires comme ça. Texte définitif collationné sur les originaux. Paris. Albert Messein, éditeur. Successeur de Léon Vanier. 19, quai Saint-Michel, 19. 1920."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1">
  <pagenum num="319"/>
 
 <h2>DEUX MOTS D’UNE FILLE</h2>
@@ -349,10 +348,8 @@
 
 <p>Il faut croire qu’il le savait. Car il la voit toujours. Du moins, j’en suis sûr, puisque il ne me l’a pas dit, et là pour moi finit son récit.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
+<page-sequence id="p2">
  <pagenum num="345"/>
 
 <h2>LA MAIN DU MAJOR MULLER</h2>
@@ -484,10 +481,8 @@
 
 <p>Ainsi finit l’histoire de la main du major Müller.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
+<page-sequence id="p3">
  <pagenum num="359"/>
 
 <h2>CONTE DE FÉES</h2>
@@ -536,10 +531,8 @@
 
 <p>Et il mourut, comme son ami le docteur l’avait prévu, cinq mois et demi après la conversation qui a été rapportée, subitement, regretté de tout le monde.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p4">
+<page-sequence id="p4">
  <pagenum num="369"/>
 
 <h2>L’ABBÉ ANNE</h2>
@@ -628,10 +621,8 @@
 
 <p>— Pauvre monsieur le Curé !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p5">
+<page-sequence id="p5">
  <pagenum num="377"/>
 
 <h2>EXTRÊMES-ONCTIONS</h2>
@@ -670,10 +661,8 @@
 
 <p>Alors, elle, tel le prêtre catholique, dans le sacrement de l’extrême-onction, console tous les sens, rassure l’âme, asséna son frêle poing naguère armé d’une arme immonde contre un simple visage séducteur qu’elle avait déformé et qui l’avait éblouie, tua, dans cette génuflexion de lui, la tête qui avait conçu ce déshonneur là.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p6">
+<page-sequence id="p6">
  <pagenum num="382"/>
 
 <h2>L’HISTOIRE D’UN REGARD</h2>
@@ -746,10 +735,8 @@
 
 <p>En sorte qu’on peut dire qu’un échange de vie avait eu lieu par le simple échange d’un regard entre la mignonne et l’aïeule.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p7">
+<page-sequence id="p7">
  <pagenum num="392"/>
 
 <h2>RAMPO</h2>
@@ -757,12 +744,10 @@
 <p>Charles Husson était vraiment un garçon fait et bâti pour l’amour : force, face virile et enfantine, rose et grasse, sans un soupçon de bouffissure ; nulle trace de barbe qu’un duvet très léger, d’or blond clair s’accentuant en très petits favoris, presque des frisons comme en ont les Ascagne et les Endymion des peintres français de l’époque impériale ; cheveux plus foncés dans l’ardeur, bouclés ou posés plutôt courts ; de grands yeux bleus verdâtres, très doux, on eût dit humides comme la bouche adorablement petite, un peu pouponne et d’un rouge tendre ; et quant au nez, peu défini, un peu rond, aux narines ardentes, il disait — le menton large et long en proportion avec le reste, comme tout d’ailleurs dans cette figure et cette statue harmonieuses, mais d’arêtes molles et d’une courbe <pagenum num="393"/>comme alanguie vers le cou, disait aussi l’absence de volonté, de contrainte et de contrôle dans les choses de la sensualité la plus brûlante. Le corps, — souple mais carré, épaules et cou amples, buste un peu ramassé, mais hanches fortes qui compensaient, jambes bien en chair et bien en muscles, pieds élégants et d’aplomb — était superbe.</p>
 
 <blockquote>
-<poem>
-
+<poem m='12'>
 <lg>
 <l>Ce port majestueux, cette douce présence</l>
 </lg>
-
 </poem>
 </blockquote>
 
@@ -867,10 +852,8 @@
 <p>Et c’est ainsi qu’encore une fois la morale fut sauve, que force restait à la Loi, que...</p>
 
  <pagenum num="402"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
  <pagenum num="408"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -885,7 +868,6 @@
 <p><a idref="p6">L’<s>HISTOIRE D’UN REGARD</s></a></p>
 <p><a idref="p7">R<s>AMPO</s></a></p>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

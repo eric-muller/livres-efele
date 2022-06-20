@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000218"
         creation="2012-09-30T00:00:01-08:00"
-        modification="2014-12-31T18:14:46-08:00">
+        modification="2022-06-20T15:01:28-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Romances sans paroles</titre>
@@ -85,22 +85,20 @@
   <cover  src="images/couverture1.png" alt="Œuvres complètes de Paul Verlaine. Poèmes saturniens — Fêtes galantes — Bonne chanson — Romances sans paroles — Sagesse — Jadis et naguère. Tome premier. Troisième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1902."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1">
  <pagenum num="153"/>
 
 <h2>I</h2>
 
 <epigraphe>
-<poem>
+<poem m='5'>
 <l>Le vent dans la plaine</l>
 <l>Suspend son haleine.</l>
 </poem>
 <p class="r3">(F<s>AVART</s>.)</p>
 </epigraphe>
 
-
-<poem>
+<poem m='7'>
 <lg>
 <l>C’est l’extase langoureuse,</l>
 <l>C’est la fatigue amoureuse,</l>
@@ -129,15 +127,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
+<page-sequence id="p2">
 <pagenum num="154"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Je devine, à travers un murmure,</l>
 <l>Le contour subtil des voix anciennes</l>
@@ -160,10 +156,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
+<page-sequence id="p3">
  <pagenum num="155"/>
 
 <h2>III</h2>
@@ -174,7 +168,7 @@
 <p class="r3">(A<s>RTHUR</s> R<s>AIMBAUD</s>.)</p>
 </epigraphe>
 
-<poem>
+<poem m='6'>
 <lg>
 <l>Il pleure dans mon cœur</l>
 <l>Comme il pleut sur la ville,</l>
@@ -206,15 +200,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p4">
+<page-sequence id="p4">
  <pagenum num="157"/>
 
 <h2>IV</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Il faut, voyez-vous, nous pardonner les choses.</l>
 <l>De cette façon nous serons bien heureuses,</l>
@@ -237,10 +229,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p5">
+<page-sequence id="p5">
  <pagenum num="158"/>
 
 <h2>V</h2>
@@ -251,7 +241,7 @@
 <p>(P<s>ÉTRUS</s> B<s>OREL</s>.)</p>
 </epigraphe>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Le piano que baise une main frêle</l>
 <l>Luit dans le soir rose et gris vaguement,</l>
@@ -271,15 +261,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p6">
+<page-sequence id="p6">
  <pagenum num="159"/>
 
 <h2>VI</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>C’est le chien de Jean de Nivelle</l>
 <l>Qui mord sous l’œil même du guet</l>
@@ -339,15 +327,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p7">
+<page-sequence id="p7">
  <pagenum num="161"/>
 
 <h2>VII</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>O triste, triste était mon âme</l>
 <l>A cause, à cause d’une femme.</l>
@@ -391,15 +377,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p8">
+<page-sequence id="p8">
  <pagenum num="163"/>
 
 <h2>VIII</h2>
 
-<poem>
+<poem m='5'>
 <lg>
 <l>Dans l’interminable</l>
 <l>Ennui de la plaine,</l>
@@ -445,10 +429,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p9">
+<page-sequence id="p9">
  <pagenum num="165"/>
 
 <h2>IX</h2>
@@ -460,28 +442,26 @@
 </epigraphe>
 
 
-<poem>
+<poem m='12'>
 <lg>
 <l>L’ombre des arbres dans la rivière embrumée</l>
-<l>&#x2001;&#x2001;&#x2001;Meurt comme de la fumée,</l>
+<l m='6'>Meurt comme de la fumée,</l>
 <l>Tandis qu’en l’air, parmi les ramures réelles,</l>
-<l>&#x2001;&#x2001;&#x2001;Se plaignent les tourterelles.</l>
+<l m='6'>Se plaignent les tourterelles.</l>
 </lg>
 
 <lg>
 <l>Combien, ô voyageur, ce paysage blême</l>
-<l>&#x2001;&#x2001;&#x2001;Te mira blême toi-même,</l>
+<l m='6'>Te mira blême toi-même,</l>
 <l>Et que tristes pleuraient dans les hautes feuillées</l>
-<l>&#x2001;&#x2001;&#x2001;Tes espérances noyées ?</l>
+<l m='6'>Tes espérances noyées ?</l>
 </lg>
 </poem>
 
 <date class="l0">Mai, juin 1872.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence id="p10">
  <pagenum num="166"/>
 
 <h1>PAYSAGES BELGES</h1>
@@ -494,7 +474,7 @@
 
 <h2 id="p11">WALCOURT</h2>
 
-<poem>
+<poem m='4'>
 <lg>
 <l>Briques et tuiles,</l>
 <l>O les charmants</l>
@@ -528,15 +508,13 @@
 
 <date class="l0">Juillet 1873</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p12">
+<page-sequence id="p12">
  <pagenum num="168"/>
 
 <h2>CHARLEROI</h2>
 
-<poem>
+<poem m='4'>
 <lg>
 <l>Dans l’herbe noire</l>
 <l>Les Kobolds vont.</l>
@@ -589,10 +567,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p13">
+<page-sequence id="p13">
  <pagenum num="170"/>
 
 <h2>BRUXELLES</h2>
@@ -601,7 +577,7 @@
 
 <h2>I</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>La fuite est verdâtre et rose</l>
 <l>Des collines et des rampes,</l>
@@ -624,15 +600,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
 <pagenum num="171"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='5'>
 <lg>
 <l>L’allée est sans fin</l>
 <l>Sous le ciel, divin</l>
@@ -665,10 +639,8 @@
 
 <date class="l0">Estaminet du Jeune Renard, août 1872.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p14">
+<page-sequence id="p14">
  <pagenum num="173"/>
 
 <h2>BRUXELLES</h2>
@@ -676,14 +648,18 @@
 <h2><s>CHEVAUX DE BOIS</s></h2>
 
 <epigraphe>
-<p>Par Saint-Gille,</p>
-<p>Viens-nous-en,</p>
-<p>Mon agile Alezan.</p>
+<blockquote>
+<poem m='4'>
+<l>Par Saint-Gille,</l>
+<l>Viens-nous-en,</l>
+<l>Mon agile Alezan.</l>
+</poem>
+</blockquote>
 
 <p>(V. H<s>UGO</s>.)</p>
 </epigraphe>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Tournez, tournez, bons chevaux de bois,</l>
 <l>Tournez cent tours, tournez mille tours,</l>
@@ -738,15 +714,13 @@
 
 <date class="l0">Champ de foire de Saint-Gilles, août 1872.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p15">
+<page-sequence id="p15">
  <pagenum num="175"/>
 
 <h2>MALINES</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Vers les prés le vent cherche noise</l>
 <l>Aux girouettes, détail fin</l>
@@ -784,15 +758,13 @@
 
 <date class="l0">Août, 1872.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p16">
+<page-sequence id="p16">
  <pagenum num="177"/>
 
 <h1>BIRDS IN THE NIGHT</h1>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Vous n’avez pas eu toute patience,</l>
 <l>Cela se comprend par malheur, de reste.</l>
@@ -963,17 +935,15 @@
 
 <date class="l0">Bruxelles-Londres. — Septembre-octobre 1872.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p17">
+<page-sequence id="p17">
  <pagenum num="182"/>
 
 <h1>AQUARELLES</h1>
 
 <h2 id="p18">GREEN</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Voici des fruits, des fleurs, des feuilles et des branches,</l>
 <l>Et puis voici mon cœur, qui ne bat que pour vous.</l>
@@ -996,15 +966,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p19">
+<page-sequence id="p19">
  <pagenum num="183"/>
 
 <h2>SPLEEN</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Les roses étaient toutes rouges,</l>
 <l>Et les lierres étaient tout noirs.</l>
@@ -1036,19 +1004,17 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p20">
+<page-sequence id="p20">
  <pagenum num="184"/>
 
 <h2>STREETS</h2>
 
 <h2>I</h2>
 
-<poem>
+<poem m='8'>
 <lg>
-<l>&#x2001;&#x2001;Dansons la gigue !</l>
+<l m='4'>Dansons la gigue !</l>
 </lg>
 
 <lg>
@@ -1058,7 +1024,7 @@
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Dansons la gigue !</l>
+<l m='4'>Dansons la gigue !</l>
 </lg>
 
 <lg>
@@ -1068,7 +1034,7 @@
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Dansons la gigue !</l>
+<l m='4'>Dansons la gigue !</l>
 </lg>
 
 <lg>
@@ -1080,7 +1046,7 @@
  <pagenum num="185"/>
 
 <lg>
-<l>&#x2001;&#x2001;Dansons la gigue !</l>
+<l m='4'>Dansons la gigue !</l>
 </lg>
 
 <lg>
@@ -1090,21 +1056,19 @@
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Dansons la gigue !</l>
+<l m='4'>Dansons la gigue !</l>
 </lg>
 </poem>
 
 <p class="r3">S<s>OHO</s>.</p>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="186"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>O la rivière dans la rue !</l>
 <l>Fantastiquement apparue</l>
@@ -1126,62 +1090,58 @@
 
 <p class="r3">P<s>ADDINGTON</s>.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p21">
+<page-sequence id="p21">
  <pagenum num="187"/>
 
 <h2>CHILD WIFE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Vous n’avez rien compris à ma simplicité,</l>
-<l>&#x2001;&#x2001;&#x2001;Rien, ô ma pauvre enfant !</l>
+<l m='6'>Rien, ô ma pauvre enfant !</l>
 <l>Et c’est avec un front éventé, dépité,</l>
-<l>&#x2001;&#x2001;&#x2001;Que vous fuyez devant.</l>
+<l m='6'>Que vous fuyez devant.</l>
 </lg>
 
 <lg>
 <l>Vos yeux qui ne devaient refléter que douceur,</l>
-<l>&#x2001;&#x2001;&#x2001;Pauvre cher bleu miroir,</l>
+<l m='6'>Pauvre cher bleu miroir,</l>
 <l>Ont pris un ton de fiel, ô lamentable sœur,</l>
-<l>&#x2001;&#x2001;&#x2001;Qui nous fait mal à voir.</l>
+<l m='6'>Qui nous fait mal à voir.</l>
 </lg>
 
 <lg>
 <l>Et vous gesticulez avec vos petit-bras</l>
-<l>&#x2001;&#x2001;&#x2001;Comme un héros méchant,</l>
+<l m='6'>Comme un héros méchant,</l>
 <l>En poussant d’aigres cris poitrinaires, hélas !</l>
-<l>&#x2001;&#x2001;&#x2001;Vous qui n’étiez que chant !</l>
+<l m='6'>Vous qui n’étiez que chant !</l>
 </lg>
 
 <lg>
 <l>Car vous avez eu peur de l’orage et du cœur</l>
-<l>&#x2001;&#x2001;&#x2001;Qui grondait et sifflait,</l>
+<l m='6'>Qui grondait et sifflait,</l>
 <l>Et vous bêlâtes avec votre mère — ô douleur ! —</l>
-<l>&#x2001;&#x2001;&#x2001;Comme un triste agnelet.</l>
+<l m='6'>Comme un triste agnelet.</l>
 </lg>
 
  <pagenum num="188"/>
 
 <lg>
 <l>Et vous n’avez pas su la lumière et l’honneur</l>
-<l>&#x2001;&#x2001;&#x2001;D’un amour brave et fort,</l>
+<l m='6'>D’un amour brave et fort,</l>
 <l>Joyeux dans le malheur, grave dans le bonheur,</l>
-<l>&#x2001;&#x2001;&#x2001;Jeune jusqu’à la mort !</l>
+<l m='6'>Jeune jusqu’à la mort !</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p22">
+<page-sequence id="p22">
  <pagenum num="189"/>
 
 <h2>A POOR YOUNG SHEPHERD</h2>
 
-<poem>
+<poem m='5'>
 <lg>
 <l>J’ai peur d’un baiser</l>
 <l>Comme d’une abeille.</l>
@@ -1225,15 +1185,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p23">
+<page-sequence id="p23">
  <pagenum num="191"/>
 
 <h2>BEAMS</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Elle voulut aller sur les flots de la mer,</l>
 <l>Et comme un vent bénin soufflait une embellie,</l>
@@ -1267,11 +1225,8 @@
 
 <date class="l0">Douvres-Ostende, à bord de la « Comtesse-de-Flandre ». 4 Avril 1873.</date>
 
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
 <pagenum num="428"/>
 
 
@@ -1311,7 +1266,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
  </page-sequences>
 </bml>

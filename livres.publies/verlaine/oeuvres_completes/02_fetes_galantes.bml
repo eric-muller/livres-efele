@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000215"
         creation="2012-09-16T00:00:01-08:00"
-        modification="2014-12-31T18:14:46-08:00">
+        modification="2022-06-20T15:00:57-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Fêtes galantes</titre>
@@ -79,13 +79,12 @@
   <cover src="images/couverture1.png" alt="Œuvres complètes de Paul Verlaine. Poèmes saturniens — Fêtes galantes — Bonne chanson — Romances sans paroles — Sagesse — Jadis et naguère. Tome premier. Troisième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1902."/>
 
   <page-sequences>
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1">
  <pagenum num="83"/>
 
 <h1>CLAIR DE LUNE</h1>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Votre âme est un paysage choisi</l>
 <l>Que vont charmants masques et bergamasques,</l>
@@ -108,15 +107,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
+<page-sequence id="p2">
  <pagenum num="84"/>
 
 <h1>PANTOMIME</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Pierrot, qui n’a rien d’un Clitandre,</l>
 <l>Vide un flacon sans plus attendre,</l>
@@ -142,15 +139,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
+<page-sequence id="p3">
  <pagenum num="85"/>
 
 <h1>SUR L’HERBE</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>L’abbé divague. — Et toi, marquis,</l>
 <l>Tu mets de travers ta perruque.</l>
@@ -173,15 +168,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p4">
+<page-sequence id="p4">
  <pagenum num="86"/>
 
 <h1>L’ALLÉE</h1>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Fardée et peinte comme au temps des bergeries,</l>
 <l>Frêle parmi les nœuds énormes de rubans,</l>
@@ -200,15 +193,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p5">
+<page-sequence id="p5">
  <pagenum num="87"/>
 
 <h1>A LA PROMENADE</h1>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Le ciel si pâle et les arbres si grêles</l>
 <l>Semblent sourire à nos costumes clairs</l>
@@ -247,46 +238,42 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p6">
+<page-sequence id="p6">
  <pagenum num="89"/>
 
 <h1>DANS LA GROTTE</h1>
 
-<poem>
+<poem m='12'>
 <lg>
-<l>&#x2001;&#x2001;Là, je me tue à vos genoux !</l>
-<l>&#x2001;&#x2001;Car ma détresse est infinie,</l>
+<l m='8'>Là, je me tue à vos genoux !</l>
+<l m='8'>Car ma détresse est infinie,</l>
 <l>Et la tigresse épouvantable d’Hyrcanie</l>
-<l>&#x2001;&#x2001;Est une agnelle au prix de vous.</l>
+<l m='8'>Est une agnelle au prix de vous.</l>
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Oui, céans, cruelle Clymène,</l>
-<l>&#x2001;&#x2001;Ce glaive qui, dans maints combats,</l>
+<l m='8'>Oui, céans, cruelle Clymène,</l>
+<l m='8'>Ce glaive qui, dans maints combats,</l>
 <l>Mit tant de Scipions et de Cyrus à bas,</l>
-<l>&#x2001;&#x2001;Va finir ma vie et ma peine !</l>
+<l m='8'>Va finir ma vie et ma peine !</l>
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Ai-je même besoin de lui</l>
-<l>&#x2001;&#x2001;Pour descendre aux Champs-Élysées ?</l>
+<l m='8'>Ai-je même besoin de lui</l>
+<l m='8'>Pour descendre aux Champs-Élysées ?</l>
 <l>Amour perça-t-il pas de flèches aiguisées</l>
-<l>&#x2001;&#x2001;Mon cœur, dès que votre œil m’eût lui ?</l>
+<l m='8'>Mon cœur, dès que votre œil m’eût lui ?</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p7">
+<page-sequence id="p7">
  <pagenum num="90"/>
 
 <h1>LES INGÉNUS</h1>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Les hauts talons luttaient avec les longues jupes,</l>
 <l>En sorte que, selon le terrain et le vent,</l>
@@ -309,15 +296,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p8">
+<page-sequence id="p8">
  <pagenum num="91"/>
 
 <h1>CORTÈGE</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Un singe en veste de brocart</l>
 <l>Trotte et gambade devant elle</l>
@@ -356,15 +341,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p9">
+<page-sequence id="p9">
  <pagenum num="93"/>
 
 <h1>LES COQUILLAGES</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Chaque coquillage incrusté</l>
 <l>Dans la grotte où nous nous aimâmes</l>
@@ -394,15 +377,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence id="p10">
  <pagenum num="94"/>
 
 <h1>EN PATINANT</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Nous fûmes dupes, vous et moi,</l>
 <l>De manigances mutuelles,</l>
@@ -521,15 +502,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11">
+<page-sequence id="p11">
  <pagenum num="98"/>
 
 <h1>FANTOCHES</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Scaramouche et Pulcinella,</l>
 <l>Qu’un mauvais dessein rassembla,</l>
@@ -555,15 +534,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p12">
+<page-sequence id="p12">
  <pagenum num="99"/>
 
 <h1>CYTHÈRE</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Un pavillon à claires-voies</l>
 <l>Abrite doucement nos joies</l>
@@ -589,15 +566,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p13">
+<page-sequence id="p13">
  <pagenum num="100"/>
 
 <h1>EN BATEAU</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>L’étoile du berger tremblote</l>
 <l>Dans l’eau plus noire et le pilote</l>
@@ -629,15 +604,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p14">
+<page-sequence id="p14">
  <pagenum num="101"/>
 
 <h1>LE FAUNE</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Un vieux faune de terre cuite</l>
 <l>Rit au centre des boulingrins,</l>
@@ -653,15 +626,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p15">
+<page-sequence id="p15">
  <pagenum num="102"/>
 
 <h1>MANDOLINE</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Les donneurs de sérénades</l>
 <l>Et les belles écouteuses</l>
@@ -691,41 +662,39 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p16">
+<page-sequence id="p16">
  <pagenum num="103"/>
 
 <h1>A CLYMÈNE</h1>
 
-<poem>
+<poem m='6'>
 <lg>
 <l>Mystiques barcarolles,</l>
 <l>Romances sans paroles,</l>
 <l>Chère, puisque tes yeux,</l>
-<l>&#x2001;Couleur des cieux,</l>
+<l m='4'>Couleur des cieux,</l>
 </lg>
 
 <lg>
 <l>Puisque ta voix, étrange</l>
 <l>Vision qui dérange</l>
 <l>Et trouble l’horizon</l>
-<l>&#x2001;De ma raison,</l>
+<l m='4'>De ma raison,</l>
 </lg>
 
 <lg>
 <l>Puisque l’arome insigne</l>
 <l>De ta pâleur de cygne</l>
 <l>Et puisque la candeur</l>
-<l>&#x2001;De ton odeur,</l>
+<l m='4'>De ton odeur,</l>
 </lg>
 
 <lg>
 <l>Ah ! puisque tout ton être,</l>
 <l>Musique qui pénètre,</l>
 <l>Nimbes d’anges défunts,</l>
-<l>&#x2001;Tons et parfums.</l>
+<l m='4'>Tons et parfums.</l>
 </lg>
 
  <pagenum num="104"/>
@@ -734,19 +703,17 @@
 <l>A sur d’almes cadences</l>
 <l>En ses correspondances,</l>
 <l>Induit mon cœur subtil,</l>
-<l>&#x2001;Ainsi soit-il !</l>
+<l m='4'>Ainsi soit-il !</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p17">
+<page-sequence id="p17">
  <pagenum num="105"/>
 
 <h1>LETTRE</h1>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Éloigné de vos yeux, Madame, par des soins</l>
 <l>Impérieux (j’en prends tous les dieux à témoins),</l>
@@ -799,15 +766,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p18">
+<page-sequence id="p18">
  <pagenum num="107"/>
 
 <h1>LES INDOLENTS</h1>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Bah ! malgré les destins jaloux,</l>
 <l>Mourons ensemble, voulez-vous ?</l>
@@ -847,40 +812,38 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p19">
+<page-sequence id="p19">
  <pagenum num="109"/>
 
 <h1>COLOMBINE</h1>
 
-<poem>
+<poem m='5'>
 <lg>
 <l>Léandre le sot,</l>
 <l>Pierrot qui d’un saut</l>
-<l>&#x2001;&#x2001;De puce</l>
+<l m='2'>De puce</l>
 <l>Franchit le buisson,</l>
 <l>Cassandre sous son</l>
-<l>&#x2001;&#x2001;Capuce,</l>
+<l m='2'>Capuce,</l>
 </lg>
 
 <lg>
 <l>Arlequin aussi,</l>
 <l>Cet aigrefin si</l>
-<l>&#x2001;&#x2001;Fantasque</l>
+<l m='2'>Fantasque</l>
 <l>Aux costumes fous,</l>
 <l>Ses yeux luisants sous</l>
-<l>&#x2001;&#x2001;Son masque,</l>
+<l m='2'>Son masque,</l>
 </lg>
 
 <lg>
 <l>— Do, mi, sol, mi, fa, —</l>
 <l>Tout ce monde va,</l>
-<l>&#x2001;&#x2001;Rit, chante</l>
+<l m='2'>Rit, chante</l>
 <l>Et danse devant</l>
 <l>Une belle enfant</l>
-<l>&#x2001;&#x2001;Méchante</l>
+<l m='2'>Méchante</l>
 </lg>
 
  <pagenum num="110"/>
@@ -888,40 +851,38 @@
 <lg>
 <l>Dont les yeux pervers</l>
 <l>Comme les yeux verts</l>
-<l>&#x2001;&#x2001;Des chattes</l>
+<l m='2'>Des chattes</l>
 <l>Gardent ses appas</l>
 <l>Et disent : « A bas</l>
-<l>&#x2001;&#x2001;Les pattes ! »</l>
+<l m='2'>Les pattes ! »</l>
 </lg>
 
 <lg>
 <l>— Eux ils vont toujours !</l>
 <l>Fatidique cours</l>
-<l>&#x2001;&#x2001;Des astres,</l>
+<l m='2'>Des astres,</l>
 <l>Oh ! dis-moi vers quels</l>
 <l>Mornes ou cruels</l>
-<l>&#x2001;&#x2001;Désastres</l>
+<l m='2'>Désastres</l>
 </lg>
 
 <lg>
 <l>L’implacable enfant,</l>
 <l>Preste et relevant</l>
-<l>&#x2001;&#x2001;Ses jupes,</l>
+<l m='2'>Ses jupes,</l>
 <l>La rose au chapeau,</l>
 <l>Conduit son troupeau</l>
-<l>&#x2001;&#x2001;De dupes ?</l>
+<l m='2'>De dupes ?</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p20">
+<page-sequence id="p20">
  <pagenum num="111"/>
 
 <h1>L’AMOUR PAR TERRE</h1>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le vent de l’autre nuit a jeté bas l’Amour</l>
 <l>Qui, dans le coin le plus mystérieux du parc,</l>
@@ -951,15 +912,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p21">
+<page-sequence id="p21">
  <pagenum num="112"/>
 
 <h1>EN SOURDINE</h1>
 
-<poem>
+<poem m='7'>
 <lg>
 <l>Calmes dans le demi-jour</l>
 <l>Que les branches hautes font,</l>
@@ -998,15 +957,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p22">
+<page-sequence id="p22">
  <pagenum num="114"/>
 
 <h1>COLLOQUE SENTIMENTAL</h1>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Dans le vieux parc solitaire et glacé</l>
 <l>Deux formes ont tout à l’heure passé.</l>
@@ -1050,10 +1007,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
 
 <h1>TABLE</h1>
 
@@ -1086,7 +1041,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
  </page-sequences>
 </bml>

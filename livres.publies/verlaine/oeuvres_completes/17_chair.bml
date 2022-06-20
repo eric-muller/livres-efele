@@ -32,7 +32,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000245"
         creation="2012-12-19T00:00:01-08:00"
-        modification="2014-12-31T18:14:49-08:00">
+        modification="2022-06-20T15:01:46-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Chair</titre>
@@ -72,13 +72,12 @@
   <cover src="images/couverture3.png" alt="Œuvres complètes de Paul Verlaine. Élégies — Dans les limbes — Dédicaces — Épigrammes — Chair — Invectives. Tome troisième. Deuxième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1901."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p172">
+<page-sequence id="p172">
  <pagenum num="283"/>
 
 <h2>PROLOGUE</h2>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>L’amour est infatigable !</l>
@@ -120,15 +119,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p173">
+<page-sequence id="p173">
  <pagenum num="285"/>
 
 <h2>CHANSON POUR ELLES</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Ils me disent que tu es blonde</l>
@@ -161,15 +158,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p174">
+<page-sequence id="p174">
  <pagenum num="287"/>
 
 <h2>AUTRE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Car tu vis en toutes les femmes</l>
@@ -210,15 +205,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p175">
+<page-sequence id="p175">
  <pagenum num="289"/>
 
 <h2>ET DERNIÈRE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Car mon cœur, jamais fatigué</l>
@@ -243,15 +236,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p176">
+<page-sequence id="p176">
  <pagenum num="290"/>
 
 <h2>LOGIQUE</h2>
 
-<poem>
+<poem m='6'>
 
 <lg>
 <l>Quand même tu dirais</l>
@@ -282,17 +273,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p177">
+<page-sequence id="p177">
  <pagenum num="291"/>
 
 <h2>ASSONANCES GALANTES</h2>
 
 <h2>I</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Tu me dois ta photographie</l>
@@ -326,15 +315,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="292"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Là ! je l’ai, ta photographie</l>
@@ -376,15 +363,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="294"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Et puisque ta photographie</l>
@@ -430,15 +415,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p178">
+<page-sequence id="p178">
  <pagenum num="296"/>
 
 <h2>LES MÉFAITS DE LA LUNE</h2>
 
-<poem>
+<poem m='9'>
 
 <lg>
 <l>Sur mon front, mille fois solitaire,</l>
@@ -463,15 +446,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p179">
+<page-sequence id="p179">
  <pagenum num="297"/>
 
 <h2>MONEY !</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Ah oui, la question d’argent !</l>
@@ -526,44 +507,42 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p180">
+<page-sequence id="p180">
  <pagenum num="299"/>
 
 <h2>LA BONNE CRAINTE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Le diable de Papefiguière</l>
 <l>Eut tort, d’accord, d’être effrayé</l>
-<l>&#x2001;&#x2001;De quoi, bons Dieu !</l>
+<l m='4'>De quoi, bons Dieu !</l>
 </lg>
 
 <lg>
 <l>Mais que veut-on que je requière</l>
 <l>A son encontre, moi qui ai</l>
-<l>&#x2001;&#x2001;Peur encore mieux ?</l>
+<l m='4'>Peur encore mieux ?</l>
 </lg>
 
 <lg>
 <l>Eh quoi, cette grâce infinie</l>
 <l>Délice, délire, harmonie</l>
-<l>&#x2001;&#x2001;De cette chair,</l>
+<l m='4'>De cette chair,</l>
 </lg>
 
 <lg>
 <l>O femme, ô femmes, qu’est la vôtre</l>
 <l>Dont le mol péché qui s’y vautre</l>
-<l>&#x2001;&#x2001;M’est si cher</l>
+<l m='4'>M’est si cher</l>
 </lg>
 
 <lg>
 <l>Aboutissant, c’est vrai, par quelles</l>
 <l>Ombreuses gentiment venelles</l>
-<l>&#x2001;&#x2001;Ou richement,</l>
+<l m='4'>Ou richement,</l>
 </lg>
 
  <pagenum num="300"/>
@@ -571,43 +550,43 @@
 <lg>
 <l>Légère toison qui ondoie,</l>
 <l>Toute de jour, toute de joie</l>
-<l>&#x2001;&#x2001;Innocemment,</l>
+<l m='4'>Innocemment,</l>
 </lg>
 
 <lg>
 <l>Or frisotté comme eau qui vire</l>
 <l>Où du soleil tiède qui se mire</l>
-<l>&#x2001;&#x2001;Et qui sent fin,</l>
+<l m='4'>Et qui sent fin,</l>
 </lg>
 
 <lg>
 <l>Lourds copeaux si minces ! d’ébène</l>
 <l>Tordus, sans nombre, sous l’haleine</l>
-<l>&#x2001;&#x2001;D’étés sans fin</l>
+<l m='4'>D’étés sans fin</l>
 </lg>
 
 <lg>
 <l>Aboutissant à cet abîme</l>
 <l>Douloureux et gai, vil, sublime,</l>
-<l>&#x2001;&#x2001;Mais effrayant</l>
+<l m='4'>Mais effrayant</l>
 </lg>
 
 <lg>
 <l>On dirait de sauvagerie,</l>
 <l>De structure mal équarrie,</l>
-<l>&#x2001;&#x2001;Clos et béants.</l>
+<l m='4'>Clos et béants.</l>
 </lg>
 
 <lg>
 <l>Oh ! oui, j’ai peur, non pas de l’antre</l>
 <l>Ni de la façon qu’on y entre</l>
-<l>&#x2001;&#x2001;Ni de l’entour,</l>
+<l m='4'>Ni de l’entour,</l>
 </lg>
 
 <lg>
 <l>Mais, dès l’entrée effectuée</l>
 <l>Dans l’âpre caverne d’amour,</l>
-<l>&#x2001;&#x2001;Qu’habituée</l>
+<l m='4'>Qu’habituée</l>
 </lg>
 
  <pagenum num="301"/>
@@ -615,7 +594,7 @@
 <lg>
 <l>Pourtant à l’horreur fraîche et chaude,</l>
 <l>Ma tête en larmes et en feu,</l>
-<l>Jamais en fraude,</l>
+<l m='4'>Jamais en fraude,</l>
 </lg>
 
 <lg>
@@ -624,15 +603,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p181">
+<page-sequence id="p181">
  <pagenum num="302"/>
 
 <h2>MINUIT</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Et je t’attends en ce café,</l>
@@ -659,15 +636,13 @@
 
 <p>Janvier 1895.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p182">
+<page-sequence id="p182">
  <pagenum num="303"/>
 
 <h2>VERS EN ASSONANCES</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Les variations normales</l>
@@ -708,15 +683,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p183">
+<page-sequence id="p183">
  <pagenum num="305"/>
 
 <h2>VERS SANS RIMES</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Le bruit de ton aiguille et celui de ma plume</l>
@@ -741,15 +714,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p184">
+<page-sequence id="p184">
  <pagenum num="306"/>
 
 <h2>« LA CLASSE »</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Allez, enfants de nos entrailles, nos enfants</l>
@@ -796,10 +767,8 @@
 
 <p>Paris, 17 novembre 1894.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p185">
+<page-sequence id="p185">
  <pagenum num="308"/>
 
 <h2>FOG !</h2>
@@ -808,7 +777,7 @@
 <p><i>Pour M<sup>me</sup>***</i></p>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Ce brouillard de Paris est fade,</l>
@@ -839,15 +808,13 @@
   </note>
 </notes>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p186">
+<page-sequence id="p186">
  <pagenum num="309"/>
 
 <h2>A MADAME***</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Notre-Dame de Santa Fé de Bogota,</l>
@@ -877,15 +844,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p187">
+<page-sequence id="p187">
  <pagenum num="310"/>
 
 <h2>A M<sup>me</sup> JEANNE</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Je vous ai promis mon baiser pour ce soir,</l>
@@ -915,10 +880,8 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
  
  <pagenum num="443"/>
 
@@ -947,7 +910,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
  </page-sequences>
 </bml>

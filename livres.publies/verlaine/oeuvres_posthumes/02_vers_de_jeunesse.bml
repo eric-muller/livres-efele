@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000248"
         creation="2012-12-28T00:00:01-08:00"
-        modification="2014-12-31T18:14:51-08:00">
+        modification="2022-06-20T15:02:11-07:00">
 
       <surtitre>Œuvres posthumes</surtitre>
       <titre>Vers de jeunesse</titre>
@@ -62,13 +62,12 @@
   <cover src="images/couverture1.png" alt="Œuvres posthumes de Paul Verlaine. I. Vers de jeunesse — Varia — Parallèlement (additions) — Dédicaces (additions) — Souvenirs — Histoires comme ça. Texte définitif collationné sur les originaux. Paris. Albert Messein, éditeur. Successeur de Léon Vanier. 19, quai Saint-Michel, 19. 1920."/>
 
 <page-sequences>
-<page-sequence>
-<div id='p1'>
+<page-sequence id='p1' recto='true'>
  <pagenum num="7"/>
 
  <h2>LES DIEUX<noteref noteid="note.7.1"/></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Vaincus, mais non domptés, exilés, mais vivants,</l>
@@ -104,15 +103,13 @@
   </note>
 </notes>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p2'>
+<page-sequence id='p2'>
  <pagenum num="8"/>
 
 <h2>TORQUATO TASSO</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Le poète est un fou perdu dans l’aventure,</l>
@@ -142,15 +139,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p3'>
+<page-sequence id='p3'>
  <pagenum num="9"/>
 
 <h2>SUR LE CALVAIRE<noteref noteid="note.9.1"/></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Lorsque Jésus fut mort, et comme une auréole</l>
@@ -186,15 +181,13 @@
   </note>
 </notes>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p4'>
+<page-sequence id='p4'>
  <pagenum num="10"/>
 
 <h2>L’ENTERREMENT</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Je ne sais rien de gai comme un enterrement !</l>
 <l>Le fossoyeur qui chante et sa pioche qui brille,</l>
@@ -223,56 +216,52 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p5'>
+<page-sequence id='p5'>
  <pagenum num="11"/>
 
 <h2>L’AMI DE LA NATURE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>J’crach’ pas sur Paris, c’est rien chouett’ !</l>
 <l>Mais comm’ j’ai une âm’ de poèt’,</l>
 <l>Tous les dimanch’s j’sors de ma boit’</l>
 <l>Et j’m’en vais avec ma compagne</l>
-<l>&#x2001;&#x2001;&#x2001;A la campagne.</l>
+<l m='4'>A la campagne.</l>
 <l>Nous prenons un train de banlieu’</l>
 <l>Qui nous brouette à quèque lieu’</l>
 <l>Dans le vrai pays du p’tit bleu,</l>
 <l>Car on n’boit pas toujours d’champagne</l>
-<l>&#x2001;&#x2001;&#x2001;A la campagne.</l>
+<l m='4'>A la campagne.</l>
 <l>Ell’ met sa rob’ de la Rein’ Blanch’,</l>
 <l>Moi, j’emport’ ma pip’ la plus blanch’ ;</l>
 <l>J’ai pas d’chemis’, mais j’mets des manch’,</l>
 <l>Car il faut bien qu’l’éléganc’ règne</l>
-<l>&#x2001;&#x2001;&#x2001;A la campègne.</l>
+<l m='4'>A la campègne.</l>
 <l>Nous arrivons, vrai, c’est très batt’ !</l>
 <l>Des écaill’s d’huîtr’s comm’ chez Baratt’</l>
 <l>Et des cocott’s qui vont à patt’,</l>
 <l>Car on est tout comme chez soi</l>
-<l>&#x2001;&#x2001;&#x2001;A la camp — quoi !</l>
+<l m='4'>A la camp — quoi !</l>
  <pagenum num="12"/>
 <l>Mais j’vois qu’ma machin’ vous em...terre,</l>
 <l>Fait’s-moi signe et j’vous obtempère,</l>
 <l>D’autant qu’j’demand’ pas mieux qu’de m’taire...</l>
 <l>Faut pas se gêner plus qu’au bagne,</l>
-<l>&#x2001;&#x2001;&#x2001;A la campagne.</l>
+<l m='4'>A la campagne.</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='p6'>
+<page-sequence id='p6'>
  <pagenum num="13"/>
 
 <h2>QUATRAIN<noteref noteid="note.13.1"/></h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>D’ailleurs en ce temps léthargique,</l>
@@ -290,10 +279,8 @@
 </notes>
 
  <pagenum num="14"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
  <pagenum num="403"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -307,7 +294,6 @@
 <p><a idref="p5">L’<s>AMI DE LA NATURE</s></a></p>
 <p><a idref="p6">Q<s>UATRAIN</s></a></p>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

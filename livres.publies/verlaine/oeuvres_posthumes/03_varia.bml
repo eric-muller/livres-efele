@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000268"
         creation="2013-01-13T00:00:01-08:00"
-        modification="2014-12-31T18:14:51-08:00">
+        modification="2022-06-20T15:02:12-07:00">
 
       <surtitre>Œuvres posthumes</surtitre>
       <titre>Varia</titre>
@@ -53,7 +53,7 @@
     <tocentry idref='p01' label='En 17...'/>
     <tocentry idref='p02' label='Éventail directoire'/>
     <tocentry idref='p03' label='Rotterdam'/>
-    <tocentry idref='p04' label='Le charme du Vendredi Saint'>
+    <tocentry idref='p05' label='Le charme du Vendredi Saint'>
       <tocentry idref='p05' label='I. La cathédrale est grise admirablement'/>
       <tocentry idref='p06' label='II. Le soleil fou de mars'/>
     </tocentry>
@@ -64,7 +64,7 @@
     <tocentry idref='p11' label='Retour'/>
     <tocentry idref='p12' label='Depuis ces deux semaines'/>
     <tocentry idref='p13' label='J’ai revu, quasiment triomphal'/>
-    <tocentry idref='p14' label='Cordialités'>
+    <tocentry idref='p15' label='Cordialités'>
       <tocentry idref='p15' label='I. Dans ce Paris où l’on est voisin et si loin'/>
       <tocentry idref='p16' label='II. Deux colibris parisiens, deux cancaniers'/>
       <tocentry idref='p17' label='III. Impériale, puisque Eugénie ! et très douce'/>
@@ -88,7 +88,7 @@
     <tocentry idref='p33' label='Oxford'/>
     <tocentry idref='p34' label='Paul Verlaine’s'/>
     <tocentry idref='p35' label='Frontispice'/>
-    <tocentry idref='p36' label='Vieilles bonnes chansons'>
+    <tocentry idref='p37' label='Vieilles bonnes chansons'>
       <tocentry idref='p37' label='I. Vœu final'/>
       <tocentry idref='p38' label='II. L’écolière'/>
       <tocentry idref='p39' label='III. A propos d’un mot naïf d’elle'/>
@@ -113,7 +113,7 @@
     <tocentry idref='p58' label='Clochi-clocha'/>
     <tocentry idref='p59' label='Anniversaire'/>
     <tocentry idref='p60' label='Conseil'/>
-    <tocentry idref='p61' label='Souvenirs d’hôpital'>
+    <tocentry idref='p62' label='Souvenirs d’hôpital'>
       <tocentry idref='p62' label='I. La vie est si sotte vraiment'/>
       <tocentry idref='p63' label='II. D’ailleurs, l’hôpital est sain'/>
     </tocentry>
@@ -128,13 +128,12 @@
   <cover src="images/couverture1.png" alt="Œuvres posthumes de Paul Verlaine. I. Vers de jeunesse — Varia — Parallèlement (additions) — Dédicaces (additions) — Souvenirs — Histoires comme ça. Texte définitif collationné sur les originaux. Paris. Albert Messein, éditeur. Successeur de Léon Vanier. 19, quai Saint-Michel, 19. 1920."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p01">
+<page-sequence id="p01">
  <pagenum num="17"/>
 
 <h2>EN 17...</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>Le parc rit de rayons tamisés,</l>
@@ -187,15 +186,13 @@
 
 <p>15 janvier 1889.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p02">
+<page-sequence id="p02">
  <pagenum num="19"/>
 
 <h2>ÉVENTAIL DIRECTOIRE</h2>
 
-<poem>
+<poem m='8'>
 
 <h2><i>1<sup>er</sup> groupe de branches.</i></h2>
 
@@ -203,7 +200,7 @@
 <l>Madame, pa’mi tant d’amants</l>
 <l>Qui vous tou’nent des compliments</l>
 <l>Daignez ac’éter les sé’ments</l>
-<l>&#x2001;D’un inc’oyable.</l>
+<l m='4'>D’un inc’oyable.</l>
 </lg>
 
 <h2><i>2<sup>e</sup> groupe</i>.</h2>
@@ -212,7 +209,7 @@
 <l>De tous les feux, en vé’ité,</l>
 <l>Dont nous g’atifia l’été,</l>
 <l>Ze b’ûle pou’ vot’e beauté.</l>
-<l>&#x2001;C’est eff’oyable.</l>
+<l m='4'>C’est eff’oyable.</l>
 </lg>
 
 <h2><i>Groupe du milieu.</i></h2>
@@ -221,7 +218,7 @@
 <l>Fi du fa’ouce Messido’</l>
 <l>Et de ce tiède The’mido’ ;</l>
 <l>C’est bien le tou’ de F’utido’,</l>
-<l>&#x2001;Mon petit anze.</l>
+<l m='4'>Mon petit anze.</l>
 </lg>
 
  <pagenum num="20"/>
@@ -230,7 +227,7 @@
 <l>Aimez-moi ! Z’ai tant soupi’é,</l>
 <l>Tant expi’é, tant conspi’é</l>
 <l>Aux fins de me voi’ ado’é,</l>
-<l>&#x2001;— Foi de Do’lanze ! —</l>
+<l m='4'>— Foi de Do’lanze ! —</l>
 </lg>
 
 <h2><i>4<sup>e</sup> groupe.</i></h2>
@@ -239,7 +236,7 @@
 <l>Qu’il se’ait bien c’uel à vous</l>
 <l>De ne pas p’end’e pou’ époux</l>
 <l>Fût-ce une heu’e ce moi jaloux,</l>
-<l>&#x2001;Disez, ’ieuse ?</l>
+<l m='4'>Disez, ’ieuse ?</l>
 </lg>
 
 <h2><i>5<sup>e</sup> groupe.</i></h2>
@@ -248,20 +245,18 @@
 <l>N’est-ce pas, cou’onnez mes feux,</l>
 <l>Faisez g’âce à mes meilleu’s vœux,</l>
 <l>O vous, zà mon cœu’, à mes zyeux</l>
-<l>&#x2001;T’op mé’veilleuse !</l>
+<l m='4'>T’op mé’veilleuse !</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p03">
+<page-sequence id="p03">
  <pagenum num="21"/>
 
 <h2>ROTTERDAM<noteref noteid="note.21.1"/></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Après qu’il a franchi d’abord les terres vertes,</l>
@@ -310,18 +305,15 @@
   </note>
 </notes>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p04">
-<div id="p05">
+<page-sequence id="p05">
  <pagenum num="23"/>
 
 <h2>LE CHARME DU VENDREDI SAINT</h2>
 
 <h2>I</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>La cathédrale est grise admirablement,</l>
@@ -353,17 +345,13 @@
 
 <p>Paris, jeudi 30 mars 1893.</p>
 
-
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p06">
+<page-sequence id="p06">
  <pagenum num="24"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Le soleil fou de mars éveille encore un peu plus la verdure</l>
@@ -396,15 +384,13 @@
 
 <p>Vendredi, 31 mars 1893.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p07">
+<page-sequence id="p07">
  <pagenum num="25"/>
 
 <h2>VOYAGES</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Je voyageai dernièrement hors de Paris.</l>
@@ -440,15 +426,13 @@
 
 <p>1<sup>er</sup> mai 1893.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p08">
+<page-sequence id="p08">
  <pagenum num="27"/>
 
 <h2>IMPRESSIONS DE PRINTEMPS</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>Il est des jours — avez-vous remarqué ?</l>
@@ -491,15 +475,13 @@
 
 <p>1<sup>er</sup> mai 1893.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p09">
+<page-sequence id="p09">
  <pagenum num="29"/>
 
 <h2>EX IMO</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>O Jésus, vous m’avez puni moralement</l>
@@ -610,7 +592,7 @@
 
 <p>3<sup>e</sup> vers de la cinquième strophe :</p>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Croirais-tu pour un bien pourtant...</l>
@@ -620,7 +602,7 @@
 
 <p>Aux deux dernières strophes, quelques différences :</p>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Sois humble et souffre en paix. Un répit ? prie après.</l>
@@ -640,17 +622,15 @@
 
 <p>La <i>Lorraine Artiste</i> donne comme date du poème le 5 août 93 et le manuscrit indique le 8.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence id="p10">
  <pagenum num="33"/>
 
 <h2>SOUVENIR DU 19 NOVEMBRE 1893</h2>
 
 <p class="r3"><i>Dieppe-Newhaven.</i></p>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Mon cœur est gros comme la mer,</l>
@@ -710,15 +690,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11">
+<page-sequence id="p11">
  <pagenum num="35"/>
 
 <h2>RETOUR</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>La mer est douce comme un cœur</l>
@@ -826,15 +804,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p12">
+<page-sequence id="p12">
  <pagenum num="38"/>
 
 <p class="r3">A Ph...</p>
 
-<poem>
+<poem m='6'>
 
 <lg>
 <l>Depuis ces deux semaines</l>
@@ -884,15 +860,13 @@
 
 <p>Fin août 1893, hôpital Broussais.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p13">
+<page-sequence id="p13">
  <pagenum num="40"/>
 
 <vsep class="threestars"/>
 
-<poem>
+<poem m='9'>
 
 <lg>
 <l>J’ai revu, quasiment triomphal,</l>
@@ -943,11 +917,8 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p14">
-<div id="p15">
+<page-sequence id="p15">
  <pagenum num="42"/>
 
 <h2>CORDIALITÉS</h2>
@@ -956,7 +927,7 @@
 
 <p class="r3"><i>A Ernest Delahaye</i>.</p>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Dans ce Paris où l’on est voisin et si loin</l>
@@ -986,16 +957,13 @@
 
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p16">
+<page-sequence id="p16">
  <pagenum num="43"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Deux colibris parisiens, deux cancaniers,</l>
@@ -1025,17 +993,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p17">
+<page-sequence id="p17">
  <pagenum num="44"/>
 
 <h2>III</h2>
 
 <p class="r3"><i>Pour une fête</i>.</p>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Impériale, puisque Eugénie ! et très douce</l>
@@ -1065,15 +1031,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p18">
+<page-sequence id="p18">
  <pagenum num="45"/>
 
  <h2>POUR LES GENS ENTERRÉS AU PANTHÉON</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Morts d’à-côté, beaucoup de cendre, quelques os.</l>
@@ -1103,15 +1067,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p19">
+<page-sequence id="p19">
  <pagenum num="46"/>
 
 <h2>RENDEZ-VOUS</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Dans la chambre encor sépulcrale</l>
@@ -1152,15 +1114,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p20">
+<page-sequence id="p20">
  <pagenum num="48"/>
 
 <h2>FÉROCE</h2>
 
-<poem>
+<poem m='6'>
 
 <lg>
 <l>Tu m’as vu mourant presque,</l>
@@ -1193,17 +1153,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p21">
+<page-sequence id="p21">
  <pagenum num="49"/>
 
 <h2>L’AIMÊE</h2>
 
 <h2 id="p22">I</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Voici des cheveux gris et de la barbe grise.</l>
@@ -1369,15 +1327,13 @@
 
 <p>Hôpital Broussais, 7 septembre 1893.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p27">
+<page-sequence id="p27">
  <pagenum num="54"/>
 
 <h2>RETRAITE</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>On s’isole à Paris, quelle que soit l’horreur</l>
@@ -1402,15 +1358,13 @@
 
 <p>Octobre 1893.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p28">
+<page-sequence id="p28">
  <pagenum num="55"/>
 
 <vsep class="threestars"/>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>L’enfant avait reçu deux bons yeux dans la tête,</l>
@@ -1440,15 +1394,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p29">
+<page-sequence id="p29">
  <pagenum num="56"/>
 
 <h2>VISITES</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Je n’ai pas vu d’arbres ni d’herbe</l>
@@ -1501,17 +1453,15 @@
 
 <p>Octobre 1893.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p30">
+<page-sequence id="p30">
  <pagenum num="58"/>
 
 <vsep class="threestars"/>
 
 <p class="r3"><i>A Mademoiselle Marthe.</i></p>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Mignonne que je ne connais</l>
@@ -1546,15 +1496,13 @@
 <p>3 novembre 1893.</p>
 
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p31">
+<page-sequence id="p31">
  <pagenum num="59"/>
 
 <h2>HOPITAL</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>De cet endroit neutre il s’exhale</l>
@@ -1584,16 +1532,14 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p32">
+<page-sequence id="p32">
  <pagenum num="60"/>
 
 <h2>LAMENTO</h2>
 
 <epigraphe>
-<poem>
+<poem m='4'>
 <l><i>Ma mie est morte.</i></l>
 <l><i>Plourez, mes yeux.</i></l>
 </poem>
@@ -1602,7 +1548,7 @@
 
 </epigraphe>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>La ville dresse ses hauts toits</l>
@@ -1644,15 +1590,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p33">
+<page-sequence id="p33">
  <pagenum num="62"/>
 
 <h2>OXFORD</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Oxford est une ville qui me consola,</l>
@@ -1725,17 +1669,15 @@
 
 <p>Novembre 1893.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p34">
+<page-sequence id="p34">
  <pagenum num="64"/>
 
 <h2>PAUL VERLAINE’S</h2>
 
 <p class="r3"><i>Lecture at Barnard’s Jun Hall.</i></p>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Dans ce hall trois fois séculaire,</l>
@@ -1792,17 +1734,15 @@
 
 <p>London, novembre 1893, on the 21 th.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p35">
+<page-sequence id="p35">
  <pagenum num="66"/>
 
 <h2>FRONTISPICE</h2>
 
 <p class="r3"><i>Pour un livre nouveau.</i></p>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>L’amour est infatigable,</l>
@@ -1846,11 +1786,8 @@
 
 <p>Hôpital Bichat, 7 septembre 1894.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p36">
-<div id="p37">
+<page-sequence id="p37">
  <pagenum num="68"/>
 
 <h2>VIEILLES « BONNES CHANSONS »<noteref noteid="note.68.1"/></h2>
@@ -1868,7 +1805,7 @@
 
 <h2>VŒU FINAL</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>O l’innocente que j’adore</l>
@@ -1902,18 +1839,15 @@
 
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p38">
+<page-sequence id="p38">
  <pagenum num="70"/>
 
 <h2>II</h2>
 
 <h2>L’ÉCOLIÈRE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Je t’apprendrai, chère petite,</l>
@@ -1947,17 +1881,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p39">
+<page-sequence id="p39">
  <pagenum num="72"/>
 
 <h2>III</h2>
  
 <h2>A PROPOS D’UN MOT NAIF D’ELLE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Tu parles d’avoir un enfant</l>
@@ -1977,15 +1909,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p40">
+<page-sequence id="p40">
  <pagenum num="73"/>
 
 <h2>BERGERADES</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>A l’instar des bergers de Virgile</l>
@@ -2054,17 +1984,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p41">
+<page-sequence id="p41">
  <pagenum num="75"/>
 
 <h2>MONNA ROSA</h2>
 
 <p class="r3"><i>D’après un tableau de Rossetti.</i></p>
 
-<poem>
+<poem m='6'>
 
 <lg>
 <l>Elle est seule au boudoir,</l>
@@ -2121,15 +2049,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p42">
+<page-sequence id="p42">
  <pagenum num="77"/>
 
 <h2>DEMI-TEINTES</h2>
 
-<poem>
+<poem m='5'>
 
 <lg>
 <l>O la Dulcinée</l>
@@ -2168,15 +2094,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p43">
+<page-sequence id="p43">
  <pagenum num="79"/>
 
 <p class="r3"><i>A M<sup>me</sup> Marie M***<noteref noteid="note.79.1"/></i></p>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Vous fûtes bonne et douce en nos tristes tempêtes.</l>
@@ -2217,10 +2141,8 @@
   </note>
 </notes>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p44">
+<page-sequence id="p44">
  <pagenum num="81"/>
 
 <h2>PAQUES</h2>
@@ -2229,7 +2151,7 @@
 <p><i>Die nobis, Maria quem vidisti in via ?</i></p>
 </epigraphe>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>De Rome, hier matin, les cloches revenues</l>
@@ -2310,15 +2232,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p45">
+<page-sequence id="p45">
  <pagenum num="83"/>
 
 <h2>ASSOMPTION</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Aujourd’hui c’est ma fête et j’ai droit à des fleurs</l>
@@ -2339,15 +2259,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p46">
+<page-sequence id="p46">
  <pagenum num="84"/>
 
 <h2>PRIÈRE</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Me voici devant Vous, contrit comme il le faut.</l>
@@ -2375,15 +2293,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p47">
+<page-sequence id="p47">
  <pagenum num="85"/>
 
 <h2>QUAND MÊME</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>Ah, dis, mon cœur, plutôt que cette vie</l>
@@ -2415,15 +2331,13 @@
 
 <p>27 décembre 1894, hôpital Bichat.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p48">
+<page-sequence id="p48">
  <pagenum num="86"/>
 
 <h2>ACTE DE FOI</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>« Le seul savant c’est encore Moïse » !</l>
@@ -2453,15 +2367,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p49">
+<page-sequence id="p49">
  <pagenum num="87"/>
 
 <h2>A CÉLIMÈNE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Bon, encore une trahison !</l>
@@ -2509,78 +2421,74 @@
 
 <p>11 février 1895.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p50">
+<page-sequence id="p50">
  <pagenum num="89"/>
 
 <h2>POUR E...</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>O la femme éternellement</l>
-<l>&#x2001;&#x2001;&#x2001;Bien-aimée !</l>
+<l m='3'>Bien-aimée !</l>
 <l>O ma femme, ô sincèrement</l>
-<l>&#x2001;&#x2001;&#x2001;Estimée !</l>
+<l m='3'>Estimée !</l>
 </lg>
 
 <lg>
 <l>O ma femme, si gentiment</l>
-<l>&#x2001;&#x2001;&#x2001;Mieux famée</l>
+<l m='3'>Mieux famée</l>
 <l>Que ce vieux moi si méchamment,</l>
-<l>&#x2001;&#x2001;&#x2001;Bien-aimée,</l>
+<l m='3'>Bien-aimée,</l>
 </lg>
 
 <lg>
 <l>Calomnié comme il le faut</l>
-<l>&#x2001;&#x2001;&#x2001;Par l’envie,</l>
+<l m='3'>Par l’envie,</l>
 <l>O ma femme, dont le cœur vaut</l>
-<l>&#x2001;&#x2001;&#x2001;Trop ma vie,</l>
+<l m='3'>Trop ma vie,</l>
 </lg>
 
 <lg>
 <l>Je me repens, tu le sais bien,</l>
-<l>&#x2001;&#x2001;&#x2001;A toute heure,</l>
+<l m='3'>A toute heure,</l>
 <l>A tout moment, de tout, de rien,</l>
-<l>&#x2001;&#x2001;&#x2001;Et me leurre</l>
+<l m='3'>Et me leurre</l>
 </lg>
 
  <pagenum num="90"/>
 
 <lg>
 <l>De l’espoir de voir pardonnés</l>
-<l>&#x2001;&#x2001;&#x2001;Les torts bêtes</l>
+<l m='3'>Les torts bêtes</l>
 <l>De mon cœur, noirs lacs sillonnés</l>
-<l>&#x2001;&#x2001;&#x2001;De tempêtes...</l>
+<l m='3'>De tempêtes...</l>
 </lg>
 
 <lg>
 <l>Mon cœur est tien, fichu cadeau,</l>
-<l>&#x2001;&#x2001;&#x2001;Seule amie,</l>
+<l m='3'>Seule amie,</l>
 <l>Mais ton cœur si bon et si beau</l>
-<l>&#x2001;&#x2001;&#x2001;Ne veut mie</l>
+<l m='3'>Ne veut mie</l>
 </lg>
 
 <lg>
 <l>Du mien. O si sincèrement</l>
-<l>&#x2001;&#x2001;&#x2001;Estimée...</l>
+<l m='3'>Estimée...</l>
 <l>O la femme éternellement</l>
-<l>&#x2001;&#x2001;&#x2001;Bien-aimée !...</l>
+<l m='3'>Bien-aimée !...</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p51">
+<page-sequence id="p51">
  <pagenum num="91"/>
 
 <h2>POUR E...</h2>
 
-<poem>
+<poem m='5'>
 
 <lg>
 <l>J’aime ton sourire</l>
@@ -2634,15 +2542,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p52">
+<page-sequence id="p52">
  <pagenum num="93"/>
 
 <h2>POUR E...</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Quelle colère injuste et folle !</l>
@@ -2674,15 +2580,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p53">
+<page-sequence id="p53">
 <pagenum num="94"/>
 
 <p class="r3"><i>A Eugénie.</i></p>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>O toi, toi, seule bonne entre toutes ces femmes</l>
@@ -2748,15 +2652,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p54">
+<page-sequence id="p54">
  <pagenum num="96"/>
 
 <p class="r3"><i>A Eugénie.</i></p>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Mais il te faut m’être si douce !</l>
@@ -2797,15 +2699,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p55">
+<page-sequence id="p55">
  <pagenum num="98"/>
 
 <h2>ÆGRI SOMNIA</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Depuis dix ans, ma jambe gauche,</l>
@@ -2848,15 +2748,13 @@
 
 <p>16 mars 1895.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p56">
+<page-sequence id="p56">
  <pagenum num="100"/>
 
 <h2>INTERMITTENCES</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Il est des jours, il est des mois</l>
@@ -2918,15 +2816,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p57">
+<page-sequence id="p57">
  <pagenum num="102"/>
 
 <h2>SITES URBAINS</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Prisonnier dans Paris pour beaucoup trop de causes,</l>
@@ -2964,15 +2860,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p58">
+<page-sequence id="p58">
  <pagenum num="104"/>
 
 <h2>CLOCHI-CLOCHA</h2>
 
-<poem>
+<poem m='6'>
 
 <lg>
 <l>L’église Saint-Nicolas</l>
@@ -3017,15 +2911,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p59">
+<page-sequence id="p59">
  <pagenum num="106"/>
 
 <h2>ANNIVERSAIRE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>L’an dernier, des amis restés</l>
@@ -3075,17 +2967,15 @@
 
 <p>30 mars 1895.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p60">
+<page-sequence id="p60">
  <pagenum num="108"/>
 
 <h2>CONSEIL</h2>
 
 <p class="r3"><i>Pour Louis Dorbon</i>.</p>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>Je devrais me borner à vous dire :</l>
@@ -3117,18 +3007,15 @@
 
 <p>4 mai 1895.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p61">
-<div id="p62">
+<page-sequence id="p62">
  <pagenum num="109"/>
 
 <h2>SOUVENIRS D’HOPITAL</h2>
 
 <h2>I</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>La vie est si sotte vraiment</l>
@@ -3158,16 +3045,13 @@
 
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p63">
+<page-sequence id="p63">
  <pagenum num="110"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>D’ailleurs, l’hôpital est sain,</l>
@@ -3195,15 +3079,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p64">
+<page-sequence id="p64">
  <pagenum num="111"/>
 
 <h2>EN SEPTEMBRE</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Parmi la chaleur accablante</l>
@@ -3253,17 +3135,15 @@
 
 <p>Septembre 1895.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p65">
+<page-sequence id="p65">
  <pagenum num="113"/>
 
 <h2>POUR LE NOUVEL AN</h2>
 
 <p class="r3"><i>A Saint-Georges de Bouhélier.</i></p>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>La vie est de mourir et mourir c’est naître</l>
@@ -3293,15 +3173,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p66">
+<page-sequence id="p66">
  <pagenum num="114"/>
 
 <p class="r3"><i>A Mademoiselle Sarah.</i></p>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>O Mademoiselle Sarah,</l>
@@ -3329,15 +3207,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p67">
+<page-sequence id="p67">
  <pagenum num="115"/>
 
 <h2>MORT !<noteref noteid="note.115.1"/></h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Les Armes ont tu leurs ordres en attendant</l>
@@ -3386,10 +3262,8 @@
   </note>
 </notes>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p68">
+<page-sequence id="p68">
  <pagenum num="117"/>
 
 <h2>ÉPILOGUE</h2>
@@ -3398,7 +3272,7 @@
 <p><i>En manière d’adieux à la poésie « personnelle ».</i></p>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Ainsi donc, adieu, cher moi-même,</l>
@@ -3455,10 +3329,8 @@
 
 <p>Mars 1895.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
  <pagenum num="403"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -3470,7 +3342,7 @@
 <tr><td colspan='4'><a idref="p01">E<s>N 17</s>...</a></td></tr>
 <tr><td colspan='4'><a idref="p02">É<s>VENTAIL DIRECTOIRE</s></a></td></tr>
 <tr><td colspan='4'><a idref="p03">R<s>OTTERDAM</s></a></td></tr>
-<tr><td colspan='4'><a idref="p04"><s>LE CHARME DU VENDREDI SAINT</s></a></td></tr>
+<tr><td colspan='4'><a idref="p05"><s>LE CHARME DU VENDREDI SAINT</s></a></td></tr>
 <tr><td>&#x2001;</td><td>I.</td><td>&#x2001;</td><td><a idref="p05">La cathédrale est grise admirablement</a></td></tr>
 <tr><td>&#x2001;</td><td>II.</td><td>&#x2001;</td><td><a idref="p06">Le soleil fou de mars</a></td></tr>
 <tr><td colspan='4'><a idref="p07">V<s>OYAGES</s></a></td></tr>
@@ -3480,7 +3352,7 @@
 <tr><td colspan='4'><a idref="p11">R<s>ETOUR</s></a></td></tr>
 <tr><td colspan='4'><a idref="p12">Depuis ces deux semaines</a></td></tr>
 <tr><td colspan='4'><a idref="p13">J’ai revu, quasiment triomphal</a></td></tr>
-<tr><td colspan='4'><a idref="p14">C<s>ORDIALITÉS</s></a></td></tr>
+<tr><td colspan='4'><a idref="p15">C<s>ORDIALITÉS</s></a></td></tr>
 <tr><td>&#x2001;</td><td>I.</td><td>&#x2001;</td><td><a idref="p15">Dans ce Paris où l’on est voisin et si loin</a></td></tr>
 <tr><td>&#x2001;</td><td>II.</td><td>&#x2001;</td><td><a idref="p16">Deux colibris parisiens, deux cancaniers</a></td></tr>
 <tr><td>&#x2001;</td><td>III.</td><td>&#x2001;</td><td><a idref="p17">Impériale, puisque Eugénie ! et très douce</a></td></tr>
@@ -3502,7 +3374,7 @@
 <tr><td colspan='4'><a idref="p33">O<s>XFORD</s></a></td></tr>
 <tr><td colspan='4'><a idref="p34">P<s>AUL</s> V<s>ERLAINE’S</s></a></td></tr>
 <tr><td colspan='4'><a idref="p35">F<s>RONTISPICE</s></a></td></tr>
-<tr><td colspan='4'><a idref="p36">V<s>IEILLES BONNES CHANSONS</s></a></td></tr>
+<tr><td colspan='4'><a idref="p37">V<s>IEILLES BONNES CHANSONS</s></a></td></tr>
 <tr><td>&#x2001;</td><td>I.</td><td>&#x2001;</td><td><a idref="p37">Vœu final</a></td></tr>
 <tr><td>&#x2001;</td><td>II.</td><td>&#x2001;</td><td><a idref="p38">L’écolière</a></td></tr>
 <tr><td>&#x2001;</td><td>III.</td><td>&#x2001;</td><td><a idref="p39">A propos d’un mot naïf d’elle</a></td></tr>
@@ -3527,7 +3399,7 @@
 <tr><td colspan='4'><a idref="p58">C<s>LOCHI-CLOCHA</s></a></td></tr>
 <tr><td colspan='4'><a idref="p59">A<s>NNIVERSAIRE</s></a></td></tr>
 <tr><td colspan='4'><a idref="p60">C<s>ONSEIL</s></a></td></tr>
-<tr><td colspan='4'><a idref="p61"><s>SOUVENIRS D’HÔPITAL</s></a></td></tr>
+<tr><td colspan='4'><a idref="p62"><s>SOUVENIRS D’HÔPITAL</s></a></td></tr>
 <tr><td>&#x2001;</td><td>I.</td><td>&#x2001;</td><td><a idref="p62">La vie est si sotte vraiment</a></td></tr>
 <tr><td>&#x2001;</td><td>II.</td><td>&#x2001;</td><td><a idref="p63">D’ailleurs, l’hôpital est sain</a></td></tr>
 <tr><td colspan='4'><a idref="p64">E<s>N SEPTEMBRE</s></a></td></tr>
@@ -3538,9 +3410,6 @@
 </tbody>
 </table>
 
-
-
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000237"
         creation="2012-12-10T00:00:01-08:00"
-        modification="2014-12-31T18:14:47-08:00">
+        modification="2022-06-20T15:01:36-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Chansons pour elle</titre>
@@ -81,13 +81,12 @@
   <cover src="images/couverture2.png" alt="Œuvres complètes de Paul Verlaine. Amour — Bonheur — Parallèlement — Chansons pour elle — Liturgies intimes — Odes en son honneur. Tome deuxième. Deuxième édition. Paris. Librairie Léon Vanier, éditeur. A. Messein Succr. 19, quai Saint-Michel, 19. 1905."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p123">
+<page-sequence id="p123">
  <pagenum num="303"/>
 
 <h2>I</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Tu n’es pas du tout vertueuse,</l>
@@ -148,15 +147,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p124">
+<page-sequence id="p124">
  <pagenum num="305"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Compagne savoureuse et bonne</l>
@@ -167,10 +164,10 @@
 <l>Que je t’embrasse long et fort,</l>
 <l>Mon cœur près de ton cœur bat d’aise</l>
 <l>Et d’amour pour jusqu’à la mort :</l>
-<l>&#x2001;&#x2001;&#x2001;Aime-moi,</l>
-<l>&#x2001;&#x2001;&#x2001;Car, sans toi,</l>
-<l>&#x2001;&#x2001;&#x2001;Rien ne puis,</l>
-<l>&#x2001;&#x2001;&#x2001;Rien ne suis.</l>
+<l m='3'>Aime-moi,</l>
+<l m='3'>Car, sans toi,</l>
+<l m='3'>Rien ne puis,</l>
+<l m='3'>Rien ne suis.</l>
 </lg>
 
 <lg>
@@ -183,10 +180,10 @@
 <l>Toujours joyeux, toujours fêté,</l>
 <l>Et j’y suis le roi du royaume</l>
 <l>De ta gaîté, de ta santé !</l>
-<l>&#x2001;&#x2001;&#x2001;Aime-moi,</l>
-<l>&#x2001;&#x2001;&#x2001;Car, sans toi,</l>
-<l>&#x2001;&#x2001;&#x2001;Rien ne puis,</l>
-<l>&#x2001;&#x2001;&#x2001;Rien ne suis.</l>
+<l m='3'>Aime-moi,</l>
+<l m='3'>Car, sans toi,</l>
+<l m='3'>Rien ne puis,</l>
+<l m='3'>Rien ne suis.</l>
 </lg>
 
 <lg>
@@ -198,10 +195,10 @@
 <l>Dans tout mon être, comme un vin,</l>
 <l>Et, seule, tu sais la science</l>
 <l>De me gonfler un cœur divin.</l>
-<l>&#x2001;&#x2001;&#x2001;Aime-moi,</l>
-<l>&#x2001;&#x2001;&#x2001;Car, sans toi,</l>
-<l>&#x2001;&#x2001;&#x2001;Rien ne puis,</l>
-<l>&#x2001;&#x2001;&#x2001;Rien ne suis.</l>
+<l m='3'>Aime-moi,</l>
+<l m='3'>Car, sans toi,</l>
+<l m='3'>Rien ne puis,</l>
+<l m='3'>Rien ne suis.</l>
 </lg>
 
 <lg>
@@ -214,70 +211,66 @@
 <l>Le pardon qu’on nous refusait,</l>
 <l>Et je t’étreins et tu me serres</l>
 <l>Et zut au monde qui jasait !</l>
-<l>&#x2001;&#x2001;&#x2001;Aime-moi</l>
-<l>&#x2001;&#x2001;&#x2001;Car, sans toi,</l>
-<l>&#x2001;&#x2001;&#x2001;Rien ne puis,</l>
-<l>&#x2001;&#x2001;&#x2001;Rien ne suis.</l>
+<l m='3'>Aime-moi</l>
+<l m='3'>Car, sans toi,</l>
+<l m='3'>Rien ne puis,</l>
+<l m='3'>Rien ne suis.</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p125">
+<page-sequence id="p125">
  <pagenum num="308"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Voulant te fuir (fuir ses amours !</l>
-<l>&#x2001;&#x2001;Mais un poète est bête),</l>
+<l m='6'>Mais un poète est bête),</l>
 <l>J’ai pris, l’un de ces derniers jours,</l>
-<l>&#x2001;&#x2001;La poudre d’escampette.</l>
+<l m='6'>La poudre d’escampette.</l>
 <l>Qui fut penaud, qui fut nigaud</l>
-<l>&#x2001;&#x2001;Dès après un quart d’heure ?</l>
+<l m='6'>Dès après un quart d’heure ?</l>
 <l>Et je revins en mendigot</l>
-<l>&#x2001;&#x2001;Qui supplie et qui pleure.</l>
+<l m='6'>Qui supplie et qui pleure.</l>
 </lg>
 
 <lg>
 <l>Tu pardonnas : mais pas longtemps</l>
-<l>&#x2001;&#x2001;Depuis la fois première</l>
+<l m='6'>Depuis la fois première</l>
 <l>Je filais, pareil aux autans,</l>
-<l>&#x2001;&#x2001;Comme la fois dernière.</l>
+<l m='6'>Comme la fois dernière.</l>
 <l>Tu me cherchas, me dénichas ;</l>
-<l>&#x2001;&#x2001;Courte et bonne, l’enquête !</l>
+<l m='6'>Courte et bonne, l’enquête !</l>
 <l>Qui fut content du doux pourchas ?</l>
-<l>&#x2001;&#x2001;Moi donc, ta grosse bête !</l>
+<l m='6'>Moi donc, ta grosse bête !</l>
 </lg>
 
  <pagenum num="309"/>
 
 <lg>
 <l>Puisque nous voici réunis,</l>
-<l>&#x2001;&#x2001;Dis, sans ruse et sans feinte,</l>
+<l m='6'>Dis, sans ruse et sans feinte,</l>
 <l>Ne nous cherchons plus d’autres nids</l>
-<l>&#x2001;&#x2001;Que ma, que ton étreinte.</l>
+<l m='6'>Que ma, que ton étreinte.</l>
 <l>Malgré mon caractère affreux,</l>
-<l>&#x2001;&#x2001;Malgré ton caractère</l>
+<l m='6'>Malgré ton caractère</l>
 <l>Affreux, restons toujours heureux :</l>
-<l>&#x2001;&#x2001;Fois première et dernière.</l>
+<l m='6'>Fois première et dernière.</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p126">
+<page-sequence id="p126">
  <pagenum num="310"/>
 
 <h2>IV</h2>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>Or, malgré ta cruauté</l>
@@ -327,16 +320,14 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p127">
+<page-sequence id="p127">
  <pagenum num="312"/>
 
 <h2>V</h2>
 
 <epigraphe>
-<poem>
+<poem m='4'>
 <l><i>Zon, flûte et basse</i></l>
 <l><i>Zon, violon.</i></l>
 </poem>
@@ -344,31 +335,31 @@
 <p class="r3">(B<s>ÉRANGER</s>.)</p>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Jusques aux pervers nonchaloirs</l>
-<l>&#x2001;&#x2001;&#x2001;De ces yeux noirs,</l>
+<l m='4'>De ces yeux noirs,</l>
 <l>Jusques, depuis ces flemmes blanches</l>
-<l>&#x2001;&#x2001;&#x2001;De larges hanches</l>
+<l m='4'>De larges hanches</l>
 <l>Et d’un ventre et de beaux seins</l>
-<l>&#x2001;&#x2001;&#x2001;Aux fiers dessins,</l>
+<l m='4'>Aux fiers dessins,</l>
 </lg>
 
-<lg>
+<lg m='12'>
 <l>Tout pervertit, tout convertit tous mes desseins</l>
 </lg>
 
 <lg>
 <l>Jusques à votre menterie,</l>
-<l>&#x2001;&#x2001;&#x2001;Bouche fleurie,</l>
+<l m='4'>Bouche fleurie,</l>
 <l>Jusques aux pièges mal tendus</l>
-<l>&#x2001;&#x2001;&#x2001;Tant attendus,</l>
+<l m='4'>Tant attendus,</l>
 <l>De tant d’appas, de tant de charmes.</l>
-<l>&#x2001;&#x2001;&#x2001;De tant d’alarmes,</l>
+<l m='4'>De tant d’alarmes,</l>
 </lg>
 
-<lg>
+<lg m='12'>
 <l>Tout pervertit, tout avertit mes tristes larmes,</l>
 </lg>
 
@@ -376,28 +367,26 @@
 
 <lg>
 <l>Et, chère, ah ! dis : Flûtes et zons</l>
-<l>&#x2001;&#x2001;&#x2001;A mes chansons</l>
+<l m='4'>A mes chansons</l>
 <l>Qui vont brâmant, tels des cerfs prestes</l>
-<l>&#x2001;&#x2001;&#x2001;Aux gestes lestes,</l>
+<l m='4'>Aux gestes lestes,</l>
 <l>Ah ! dis donc, Chère : Flûte et zon !</l>
-<l>&#x2001;&#x2001;&#x2001;A ma chanson,</l>
+<l m='4'>A ma chanson,</l>
 </lg>
 
-<lg>
+<lg m='12'>
 <l>Et si je fais l’âne, eh bien, donne-moi du son !</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p128">
+<page-sequence id="p128">
  <pagenum num="314"/>
 
 <h2>VI</h2>
 
-<poem>
+<poem m='6'>
 
 <lg>
 <l>La saison qui s’avance</l>
@@ -428,62 +417,58 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p129">
+<page-sequence id="p129">
 <pagenum num="315"/>
 
 <h2>VII</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Je suis plus pauvre que jamais</l>
-<l>&#x2001;&#x2001;&#x2001;Et que personne ;</l>
+<l m='4'>Et que personne ;</l>
 <l>Mais j’ai ton cou gras, tes bras frais,</l>
-<l>&#x2001;&#x2001;&#x2001;Ta façon bonne</l>
+<l m='4'>Ta façon bonne</l>
 <l>De faire l’amour, et le tour</l>
-<l>&#x2001;&#x2001;&#x2001;Leste et frivole,</l>
+<l m='4'>Leste et frivole,</l>
 <l>Et la caresse, nuit et jour,</l>
-<l>&#x2001;&#x2001;&#x2001;De ta parole.</l>
+<l m='4'>De ta parole.</l>
 </lg>
 
 <lg>
 <l>Je suis riche de tes beaux yeux,</l>
-<l>&#x2001;&#x2001;&#x2001;De ta poitrine,</l>
+<l m='4'>De ta poitrine,</l>
 <l>Nid follement voluptueux,</l>
-<l>&#x2001;&#x2001;&#x2001;Couche ivoirine</l>
+<l m='4'>Couche ivoirine</l>
 <l>Où mon désir, las d’autre part,</l>
-<l>&#x2001;&#x2001;&#x2001;Se ravigore</l>
+<l m='4'>Se ravigore</l>
 <l>Et pour d’autres ébats repart</l>
-<l>&#x2001;&#x2001;&#x2001;Plus brave encore...</l>
+<l m='4'>Plus brave encore...</l>
 </lg>
 
  <pagenum num="316"/>
 
 <lg>
 <l>Sans doute tu ne m’aimes pas</l>
-<l>&#x2001;&#x2001;&#x2001;Comme je t’aime,</l>
+<l m='4'>Comme je t’aime,</l>
 <l>Je sais combien tu me trompes</l>
-<l>&#x2001;&#x2001;&#x2001;Jusqu’à l’extrême.</l>
+<l m='4'>Jusqu’à l’extrême.</l>
 <l>Que me fait, puisque je ne vis</l>
-<l>&#x2001;&#x2001;&#x2001;Qu’en ton essence,</l>
+<l m='4'>Qu’en ton essence,</l>
 <l>Et que tu tiens mes sens ravis</l>
-<l>&#x2001;&#x2001;&#x2001;Sous ta puissance ?</l>
+<l m='4'>Sous ta puissance ?</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p130">
+<page-sequence id="p130">
  <pagenum num="317"/>
 
 <h2>VIII</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Que ton âme soit blanche ou noire,</l>
@@ -525,15 +510,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p131">
+<page-sequence id="p131">
  <pagenum num="319"/>
 
 <h2>IX</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Tu m’as frappé, c’est ridicule,</l>
@@ -588,15 +571,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p132">
+<page-sequence id="p132">
  <pagenum num="321"/>
 
 <h2>X</h2>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>L’horrible nuit d’insomnie !</l>
@@ -627,62 +608,58 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p133">
+<page-sequence id="p133">
  <pagenum num="322"/>
 
 <h2>XI</h2>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>Vrai, nous avons trop d’esprit,</l>
-<l>&#x2001;&#x2001;&#x2001;Chérie !</l>
+<l m='2'>Chérie !</l>
 <l>Je crois que mal nous en prit,</l>
-<l>&#x2001;&#x2001;&#x2001;Chérie !</l>
+<l m='2'>Chérie !</l>
 <l>D’ainsi lutter corps à corps</l>
-<l>&#x2001;&#x2001;&#x2001;Encore !</l>
+<l m='2'>Encore !</l>
 <l>Sans repos et sans remords</l>
-<l>&#x2001;&#x2001;&#x2001;Encore !</l>
+<l m='2'>Encore !</l>
 </lg>
 
 <lg>
 <l>Plus, n’est-ce pas ? de ces luttes</l>
-<l>&#x2001;&#x2001;&#x2001;Sans but,</l>
+<l m='2'>Sans but,</l>
 <l>Plus de ces mauvaises flûtes.</l>
-<l>&#x2001;&#x2001;&#x2001;Ce luth,</l>
+<l m='2'>Ce luth,</l>
 <l>O ce luth de bien se faire</l>
-<l>&#x2001;&#x2001;&#x2001;Tel air,</l>
+<l m='2'>Tel air,</l>
 <l>Toujours vibrant, chanson hère</l>
-<l>&#x2001;&#x2001;&#x2001;Dans l’air !</l>
+<l m='2'>Dans l’air !</l>
 </lg>
 
  <pagenum num="323"/>
 
 <lg>
 <l>Et n’ayons plus d’esprit,</l>
-<l>&#x2001;&#x2001;&#x2001;T’en prie !</l>
+<l m='2'>T’en prie !</l>
 <l>Tu vois que mal nous en prit...</l>
-<l>&#x2001;&#x2001;&#x2001;T’en prie.</l>
+<l m='2'>T’en prie.</l>
 <l>Soyons bons tout bêtement,</l>
-<l>&#x2001;&#x2001;&#x2001;Charmante,</l>
+<l m='2'>Charmante,</l>
 <l>Aimons-nous aimablement</l>
-<l>&#x2001;&#x2001;&#x2001;M’amante !</l>
+<l m='2'>M’amante !</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p134">
+<page-sequence id="p134">
  <pagenum num="324"/>
 
 <h2>XII</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>Tu bois, c’est hideux ! presque autant que moi.</l>
@@ -732,51 +709,47 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p135">
+<page-sequence id="p135">
  <pagenum num="326"/>
 
 <h2>XIII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
-<l>&#x2001;&#x2001;Es-tu brune ou blonde ?</l>
-<l>&#x2001;&#x2001;Sont-ils noirs ou bleus,</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Tes yeux ?</l>
+<l m='5'>Es-tu brune ou blonde ?</l>
+<l m='5'>Sont-ils noirs ou bleus,</l>
+<l m='2'>Tes yeux ?</l>
 <l>Je n’en sais rien, mais j’aime leur clarté profonde,</l>
 <l>Mais j’adore le désordre de tes cheveux.</l>
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Es-tu douce ou dure ?</l>
-<l>&#x2001;&#x2001;Est-il sensible ou moqueur,</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Ton cœur ?</l>
+<l m='5'>Es-tu douce ou dure ?</l>
+<l m='5'>Est-il sensible ou moqueur,</l>
+<l m='2'>Ton cœur ?</l>
 <l>Je n’en sais rien, mais je rends grâce à la nature</l>
 <l>D’avoir fait de ton cœur mon maître et mon vainqueur.</l>
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Fidèle, infidèle ?</l>
-<l>&#x2001;&#x2001;Qu’est-ce que ça fait,</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Au fait ?</l>
+<l m='5'>Fidèle, infidèle ?</l>
+<l m='5'>Qu’est-ce que ça fait,</l>
+<l m='2'>Au fait ?</l>
 <l>Puisque, toujours disposé à couronner mon zèle</l>
 <l>Ta beauté sert de gage à mon plus cher souhait.</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p136">
+<page-sequence id="p136">
  <pagenum num="327"/>
 
  <h2>XIV</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Je ne t’aime pas en toilette</l>
@@ -807,15 +780,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p137">
+<page-sequence id="p137">
  <pagenum num="328"/>
 
 <h2>XV</h2>
 
-<poem>
+<poem m='9'>
 
 <lg>
 <l>Chemise de femme, armure <i>ad hoc </i></l>
@@ -825,10 +796,10 @@
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Vêtement suprême,</l>
-<l>&#x2001;&#x2001;De mode toujours,</l>
-<l>&#x2001;&#x2001;C’est toi seul que j’aime</l>
-<l>&#x2001;&#x2001;De tous ses atours.</l>
+<l m='5'>Vêtement suprême,</l>
+<l m='5'>De mode toujours,</l>
+<l m='5'>C’est toi seul que j’aime</l>
+<l m='5'>De tous ses atours.</l>
 </lg>
 
 <lg>
@@ -839,10 +810,10 @@
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Vêtement suprême,</l>
-<l>&#x2001;&#x2001;De mode toujours,</l>
-<l>&#x2001;&#x2001;C’est toi seul que j’aime</l>
-<l>&#x2001;&#x2001;De tous ses atours.</l>
+<l m='5'>Vêtement suprême,</l>
+<l m='5'>De mode toujours,</l>
+<l m='5'>C’est toi seul que j’aime</l>
+<l m='5'>De tous ses atours.</l>
 </lg>
 
  <pagenum num="329"/>
@@ -855,10 +826,10 @@
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Vêtement suprême,</l>
-<l>&#x2001;&#x2001;De mode toujours,</l>
-<l>&#x2001;&#x2001;C’est toi seul que j’aime</l>
-<l>&#x2001;&#x2001;De tous ses atours.</l>
+<l m='5'>Vêtement suprême,</l>
+<l m='5'>De mode toujours,</l>
+<l m='5'>C’est toi seul que j’aime</l>
+<l m='5'>De tous ses atours.</l>
 </lg>
 
 <lg>
@@ -869,31 +840,29 @@
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Vêtement suprême,</l>
-<l>&#x2001;&#x2001;De mode toujours,</l>
-<l>&#x2001;&#x2001;C’est toi seul que j’aime</l>
-<l>&#x2001;&#x2001;De tous ses atours.</l>
+<l m='5'>Vêtement suprême,</l>
+<l m='5'>De mode toujours,</l>
+<l m='5'>C’est toi seul que j’aime</l>
+<l m='5'>De tous ses atours.</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p138">
+<page-sequence id="p138">
  <pagenum num="330"/>
 
 <h2>XVI</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>L’été ne fut pas adorable</l>
 <l>Après cet hiver infernal,</l>
 <l>Et quel printemps défavorable !</l>
 <l>Et l’automne commence mal,</l>
-<l>&#x2001;&#x2001;Bah ! nous nous réchauffâmes</l>
-<l>&#x2001;&#x2001;En mêlant nos deux âmes.</l>
+<l m='6'>Bah ! nous nous réchauffâmes</l>
+<l m='6'>En mêlant nos deux âmes.</l>
 </lg>
 
 <lg>
@@ -901,8 +870,8 @@
 <l>Dont nous nous serions bien passés,</l>
 <l>Vainement menait la campagne</l>
 <l>Durant tous ces longs mois glacés...</l>
-<l>&#x2001;&#x2001;Nous incaguions l’intruse,</l>
-<l>&#x2001;&#x2001;Son astuce et sa ruse.</l>
+<l m='6'>Nous incaguions l’intruse,</l>
+<l m='6'>Son astuce et sa ruse.</l>
 </lg>
 
 <lg>
@@ -910,21 +879,19 @@
 <l>— La seule opulence, crois-moi, —</l>
 <l>Que nous fait que le temps soit sombre</l>
 <l>S’il fait soleil en moi, chez toi,</l>
-<l>&#x2001;&#x2001;Et que le plaisir rie</l>
-<l>&#x2001;&#x2001;A notre gueuserie ?</l>
+<l m='6'>Et que le plaisir rie</l>
+<l m='6'>A notre gueuserie ?</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p139">
+<page-sequence id="p139">
  <pagenum num="331"/>
 
 <h2>XVII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Je ne suis plus de ces esprits philosophiques,</l>
@@ -936,8 +903,8 @@
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Aimons gaîment</l>
-<l>&#x2001;&#x2001;Et franchement.</l>
+<l m='4'>Aimons gaîment</l>
+<l m='4'>Et franchement.</l>
 </lg>
 
 <lg>
@@ -950,8 +917,8 @@
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Aimons bien fort</l>
-<l>&#x2001;&#x2001;Jusqu’à la mort.</l>
+<l m='4'>Aimons bien fort</l>
+<l m='4'>Jusqu’à la mort.</l>
 </lg>
 
  <pagenum num="332"/>
@@ -966,21 +933,19 @@
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Aimons dûment</l>
-<l>&#x2001;&#x2001;Et verdement</l>
+<l m='4'>Aimons dûment</l>
+<l m='4'>Et verdement</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p140">
+<page-sequence id="p140">
  <pagenum num="333"/>
 
 <h2>XVIII</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>Si tu le veux bien, divine Ignorante,</l>
@@ -1030,15 +995,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p141">
+<page-sequence id="p141">
  <pagenum num="335"/>
 
 <h2>XIX</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Ton rire éclaire mon vieux cœur</l>
@@ -1088,15 +1051,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p142">
+<page-sequence id="p142">
  <pagenum num="337"/>
 
 <h2>XX</h2>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>Tu crois au marc de café,</l>
@@ -1130,62 +1091,58 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p143">
+<page-sequence id="p143">
 <pagenum num="338"/>
 
 <h2>XXI</h2>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>Lorsque tu cherches tes puces,</l>
-<l>&#x2001;&#x2001;C’est très rigolo.</l>
+<l m='5'>C’est très rigolo.</l>
 <l>Que de ruses, que d’astuces !</l>
-<l>&#x2001;&#x2001;J’aime ce tableau.</l>
+<l m='5'>J’aime ce tableau.</l>
 <l>C’est, alliciant en diable</l>
-<l>&#x2001;&#x2001;Et mon cœur en bat</l>
+<l m='5'>Et mon cœur en bat</l>
 <l>D’un battement préalable</l>
-<l>&#x2001;&#x2001;A quelque autre ébat</l>
+<l m='5'>A quelque autre ébat</l>
 </lg>
 
 <lg>
 <l>Sous la chemise tendue</l>
-<l>&#x2001;&#x2001;Au large, à deux mains</l>
+<l m='5'>Au large, à deux mains</l>
 <l>Tes yeux scrutent l’étendue</l>
-<l>&#x2001;&#x2001;Entre tes durs seins.</l>
+<l m='5'>Entre tes durs seins.</l>
 <l>Toujours tu reviens bredouille,</l>
-<l>&#x2001;&#x2001;D’ailleurs, de ce jeu.</l>
+<l m='5'>D’ailleurs, de ce jeu.</l>
 <l>N’importe, il me trouble et brouille,</l>
-<l>&#x2001;&#x2001;Ton sport, et pas peu !</l>
+<l m='5'>Ton sport, et pas peu !</l>
 </lg>
 
  <pagenum num="339"/>
 
 <lg>
 <l>Lasse-toi d’être défaite</l>
-<l>&#x2001;&#x2001;Aussi sottement.</l>
+<l m='5'>Aussi sottement.</l>
 <l>Viens payer une autre fête</l>
-<l>&#x2001;&#x2001;A ton corps charmant</l>
+<l m='5'>A ton corps charmant</l>
 <l>Qu’une chasse infructueuse</l>
-<l>&#x2001;&#x2001;Par monts et par vaux.</l>
+<l m='5'>Par monts et par vaux.</l>
 <l>Tu seras victorieuse...</l>
-<l>&#x2001;&#x2001;Si je ne prévaux !</l>
+<l m='5'>Si je ne prévaux !</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p144">
+<page-sequence id="p144">
  <pagenum num="340"/>
 
 <h2>XXII</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>J’ai rêvé de toi cette nuit :</l>
@@ -1219,19 +1176,17 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p145">
+<page-sequence id="p145">
 <pagenum num="341"/>
 
 
 <h2>XXIII</h2>
 
-<poem>
+<poem m='7'>
 
 <lg>
-<l>Je n ai pas de chance en femme,</l>
+<l>Je n’ai pas de chance en femme,</l>
 <l>Et, depuis mon âge d’homme,</l>
 </lg>
 
@@ -1275,15 +1230,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p146">
+<page-sequence id="p146">
  <pagenum num="343"/>
 
 <h2>XXIV</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Bien qu’elle soit ta meilleure amie,</l>
@@ -1293,7 +1246,7 @@
 </lg>
 
 <lg>
-<l>&#x2001;Nos instants sont bons !</l>
+<l m='5'>Nos instants sont bons !</l>
 </lg>
 
 <lg>
@@ -1304,7 +1257,7 @@
 </lg>
 
 <lg>
-<l>&#x2001;Ton us est charmant !</l>
+<l m='5'>Ton us est charmant !</l>
 </lg>
 
 <lg>
@@ -1315,7 +1268,7 @@
 </lg>
 
 <lg>
-<l>&#x2001;Mais sans ton concours ?</l>
+<l m='5'>Mais sans ton concours ?</l>
 </lg>
 
  <pagenum num="344"/>
@@ -1328,20 +1281,18 @@
 </lg>
 
 <lg>
-<l>&#x2001;Soyons bien coquins !</l>
+<l m='5'>Soyons bien coquins !</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p147">
+<page-sequence id="p147">
  <pagenum num="345"/>
 
 <h2>XXV</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>Je fus mystique et je ne le suis plus</l>
@@ -1379,12 +1330,9 @@
 </poem>
 
  <pagenum num="346"/>
-</div>
 </page-sequence>
 
-<page-sequence>
-<div id="table">
-
+<page-sequence id="table">
  <pagenum num="441"/>
 
 <h1>TABLE</h1>
@@ -1421,7 +1369,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
   </page-sequences>
 </bml>

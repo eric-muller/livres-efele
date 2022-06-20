@@ -32,7 +32,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000256"
         creation="2013-01-05T00:00:01-08:00"
-        modification="2014-12-31T18:14:50-08:00">
+        modification="2022-06-20T15:01:55-07:00">
       
       <surtitre>Œuvres complètes</surtitre>
       <titre>Confessions</titre>
@@ -49,7 +49,7 @@
   </metadata>
   
   <toc>
-      <tocentry label="Première partie" idref="p1">
+      <tocentry label="Première partie" idref="p1chI">
         <tocentry label="I" idref="p1chI"/>
         <tocentry label="II" idref="p1chII"/>
         <tocentry label="III" idref="p1chIII"/>
@@ -65,7 +65,7 @@
         <tocentry label="XIV" idref="p1chXIV"/>
         <tocentry label="XV" idref="p1chXV"/>
       </tocentry>
-      <tocentry label="Deuxième partie" idref="p2">
+      <tocentry label="Deuxième partie" idref="p2chI">
         <tocentry label="I" idref="p2chI"/>
         <tocentry label="II" idref="p2chII"/>
         <tocentry label="III" idref="p2chIII"/>
@@ -89,9 +89,7 @@
   <cover src="images/couverture5.png" alt="Œuvres complètes de Paul Verlaine. Confessions — Quinze jours en Hollande — Les hommes d’auhourd’hui. Tome cinquième. Troisième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1905."/>
 
   <page-sequences>
-<page-sequence>
-<div id="p1">
-<div id="p1chI">
+<page-sequence id="p1chI">
  <pagenum num="3"/> 
 
 <h1>PREMIÈRE PARTIE</h1>
@@ -120,11 +118,8 @@
 
 <p>Ma grande aventure à Montpellier fut celle du scorpion. Pierre-et-Paul, l’un des biographes qui exercent sous le Vanier des <i>Hommes d’Aujourd’hui</i>, l’a racontée en l’héroïsant quelque peu. Voici la vérité stricte : on m’avait fait un verre d’eau sucrée <pagenum num="9"/>que j’allais boire, quand, en agitant la petite cuiller pour que le sucre fondît, j’aperçus quelque chose d’anormal parmi l’effervescence des bulles d’air montant et descendant en tournoyant. Ce quelque chose était un scorpion de la plus ténue espèce, transparent et presque invisible, telle une crevette en miniature, dans son tortillement comme fondu dans l’agitation de l’eau. Plagiaire inconscient de Victor Hugo en lisières s’exclamant devant son frère nouveau-né, je m’écriai « bébète ! » — et le malencontreux petit monstre mourut, non pas avalé, ainsi que l’affirme l’inexact anecdotier du Quai Saint-Michel, mais des suites d’avoir été jeté au feu séance tenante.</p>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chII">
+<page-sequence id="p1chII">
  <pagenum num="10"/>
 
 <h2>II</h2>
@@ -134,7 +129,7 @@
 <p>Là se bornent, autant que ma mémoire me sert, mes malheurs vis-à-vis des animaux de là-bas, à <pagenum num="11"/>moins que je n’admette dans cette hostile ménagerie l’insecte célébré par Boileau, je pense,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>J’ai rendu mille amants envieux de mon sort</l>
 </poem>
 </blockquote>
@@ -142,11 +137,11 @@
 <p class="cont">(est-ce bien cela au moins ? la citation est-elle juste ?) et qui pullule, ou du moins pullulait, de mon temps, dans la bonne ville, au point que les habitants y étaient faits et avaient même des caresses de langage à son endroit. Que de fois ai-je et n’ai-je pas entendu de bonnes gens du cru appeler ces lestes et trop lestes, animalcules, des « mimis » ! Du reste il était — cette coutume existe-t-elle toujours ? — une façon pour, par exemple, les revendeuses du marché, de s’en débarrasser, bien typique. Toutes avaient en réserve une pièce de flanelle qu’elles dénommaient <i>pistolet</i> et dès qu’elles se trouvaient plus agacées que de coutume par l’indiscrète bestiole, elles saisissaient vite leur arme et pan ! sur le bras, pan ! dans le cou, pan ! sous la jupe, elles frappaient l’ennemi, le tenaient prisonnier dans les poils de l’étoffe, et clic et clac ! d’un revers d’ongle, c’en était fait de ce pauvre « mimi »... en attendant les autres.</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Lorsque tu cherches tes puces</l>
-<l>&#x2001;&#x2001;C’est très rigolo.</l>
+<l m='5'>C’est très rigolo.</l>
 <l>Quelles ruses, que d’astuces !</l>
-<l>&#x2001;&#x2001;J’aime ce tableau.</l>
+<l m='5'>J’aime ce tableau.</l>
 </poem>
 </blockquote>
 
@@ -168,10 +163,8 @@
 
 <p>Ce fut par Lyon et Châlons que nous revînmes à Metz, c’est-à-dire par le Rhône et la Saône. De ces deux fleuves, pas de nouvelles en ma mémoire quant à ces temps-là (j’ai revu récemment la Saône qui m’a fort impressionné avec son Lamartine en coup de vent) sinon que l’eau était grosse autour des roues du vapeur et que j’en fus souvent arrosé, à mon grand amusement assaisonné d’une pointe de peur. On coucha à Lyon dans un hôtel sur un quai, et je voyais de mon lit, à mon réveil, se balancer une longue voile noire à travers les fins rideaux ramagés de la fenêtre...</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chIII">
+<page-sequence id="p1chIII">
  <pagenum num="17"/>
 
 <h2>III</h2>
@@ -194,10 +187,8 @@
 
 <p>... Madame, de qui, depuis si longtemps, j’ignore tout, jusqu’à votre nom actuel, si jamais ces lignes vous tombent sous les yeux, et, attendu que je suis <pagenum num="23"/>sûr que mon nom à moi ne vous est pas plus étranger que ne me l’est celui de votre père le magistrat, vous sourirez complaisamment, n’est-ce pas ? comme faisaient les témoins de nos pures amours d’enfance et comme il m’arrive de le faire moi-même, à ces souvenirs tout frais, tout parfumés encore d’innocence et de primesaut soudain éclos dans la mémoire, tout étonnée d’un charme exquis, du poète qui voudrait, hélas ! n’avoir que de pareilles choses douces et sincères à raconter.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chIV">
+<page-sequence id="p1chIV">
  <pagenum num="24"/>
 
 <h2>IV</h2>
@@ -207,11 +198,11 @@
 <p>Le lendemain, je dois l’avouer, me récompensa du mécompte si véhémentement subi dès en <pagenum num="26" b="arri-" a="vant.">arrivant.</pagenum> L’impressionnante promenade, en vérité, sur les Boulevards, de la porte Saint-Denis ou Saint-Martin (excusez, il y a quarante-trois ans de ça) jusqu’à la Madeleine ! Peu d’embellissements ont altéré la physionomie du si absolument varié, amusant encore plus que grandiose — de clair fourmillement humain et de richesse et de luxe, et de philosophie et de gaîté, faux ou vrais, vrais et faux, mains intenses et légers ensemble et libres, — Boulevard de Paris. En 1851, je n’y vis, si je n’en perçus pas, intuitivement, davantage que l’amusement, vraiment grisant pour un gamin. Les voitures, si nombreuses, sans grand bruit là, les passants, les trois quarts du temps bien mis et volontiers de bonne humeur, flânant, fumant, causant tout haut — la plupart des gens en province, se parlent comme à l’oreille, — les boutiques : ô ce duel de grenouilles empaillées chez un « naturaliste » de Bonne-Nouvelle ! les enseignes : ô ce quatrain d’un perruquier de la porte Saint-Martin, en face de l’emplacement où quarante ans après devait s’élever le théâtre de la Renaissance :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Passants, contemplez la douleur</l>
 <l>D’Absalon pendu par la nuque :</l>
 <l>Il eût évité ce malheur</l>
-<l>&#x2001;S’il eût porté perruque !</l>
+<l m='6'>S’il eût porté perruque !</l>
 </poem>
 </blockquote>
 
@@ -226,7 +217,7 @@
 <p>J’ai dit que mon instruction en province n’avait pas été des plus rapides. Il n’est que ce Paris pour les progrès sérieux, mossieu ! Et je fus mis, comme externe à l’institution W... dans la rue Hélène, une toute petite voie qui conduit de la rue Lemercier à l’avenue de Clichy, <i>olim</i>, ce qui veut dire, hélas ! « de mon temps, » Grande-Rue des Batignolles. Le modeste pensionnat existe toujours, et dernièrement, en allant visiter le maître Eugène Carrière dans son atelier de la rue — pas dommage ! — Hégésippe Moreau, j’ai revu, à travers les barreaux verts de la porte à claires voies, la cour aux quelques rangées d’arbres espacés suffisamment pour qu’on y pût jouer de-ci de-là aux quatre coins et au fond le perron aux deux rampes de fer d’où, à une distribution des prix, je récitai la fable du <i>Chêne et du Roseau</i>, dont je me tirai avec une aisance relative, grâce à une rapidité peut-être un peu bredouillante d’élocution qui ne me trahit qu’aux tous derniers <pagenum num="29"/>vers, durs à dire vite : essayez donc un peu, vous qui avez l’air de sourire :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Celui de qui la tête au ciel était voisine</l>
 <l>Et dont les pieds touchaient à l’empire des morts.</l>
 </poem>
@@ -236,10 +227,8 @@
 
 <p>J’avais grandi. Je savais maintenant lire et écrire. Les quatre règles m’entraient à peu près dans la tête et j’avais des notions d’histoire et de géographie. <pagenum num="30"/>On commença de penser à me mettre au lycée. Deux circonstances retardèrent quelque peu mes débuts universitaires : une maladie assez grave que je fis... et le Deux Décembre !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chV">
+<page-sequence id="p1chV">
  <pagenum num="31"/>
 
 <h2>V</h2>
@@ -256,10 +245,8 @@
 
 <p>Comme précédemment, l’attitude de la foule n’a rien de foncièrement hostile et même les gouailleries ayant quelque signification nettement anti-Louis-Napoléonienne sont rares. Plus loin, à l’entrée du boulevard Poissonnière, le tumulte se hausse de plusieurs tons, on chante la <i>Marseillaise</i>, les <i>Girondins,</i> on siffle, des blouses clairsemées se mêlent aux « talmas » et des casquettes aux hauts-de-forme. Peu de femmes, mais celles qui se trouvaient là s’exaltaient plus que les hommes dans les chants et dans des gestes qui m’effrayaient, presque toutes des femmes de modeste condition et d’un certain âge. Pas de <i>grisettes</i>, pas de rubans au bonnet, ni de volants à la jupe ni d’escarpins de prunelles. Celle <pagenum num="36"/>en chapeau et en bottines d’étoffe plus fine étaient plus échauffées. Ces spectacles m’inquiétaient, et je me serrai contre ma mère qui, jugeant la position imprudente, me prit fortement par la main et rétrograda sur le boulevard des Italiens, où nous retrouvâmes les bandes goguenardes et rigoleuses. Tout à coup, il y eut un grand cri de « Sauve qui peut ! » et un reflux de foule se sauvant vers la Madeleine. Nous faillîmes être emportés, puis renversés dans cette panique sans motif visible. Une boutique grande ouverte, tout à côté de chez Robert Houdin, fut envahie en une seconde par un flot de gens, dont nous nous trouvâmes, et la devanture aussitôt sous volets. Dans la demi-obscurité où nous étions, nous pûmes percevoir pendant quelques minutes qui nous semblèrent des heures, de grandes clameurs indistinctes, des galopades de pas sans nombre, puis le silence se fit, un silence absolu au bout d’une dizaine de minutes duquel quelqu’un se risqua à ouvrir la porte. Seuls quelques agents de ville se promenaient de long en large sur le trottoir désert, puis quelques passants s’étant montrés, nous crûmes pouvoir en faire autant. Maman et moi enfilâmes bien vite la rue Drouot et la rue du Faubourg-Montmartre, où les gens remontaient en une hâte néanmoins sans désordre du côté des rues Notre-Dame-de-Lorette et Fontaine-Saint-Georges, puis nous obliquâmes par la rue Saint-Lazare, et, arrivés à la rue Blanche, <pagenum num="37"/>fûmes témoins de l’arrestation par quelques hommes en blouse sortis de chez un marchand de vins, d’une voiture du train conduite par deux cavaliers qui, vu la résistance impossible et inutile, mirent pied à terre aussitôt. N’en voulant pas connaître davantage, nous fûmes bientôt de retour rue Saint-Louis, sans avoir rencontré rien d’anormal. Les deux tringlots dont il vient d’être question furent les <i>seuls</i> soldats que j’aie vus à cette date trop militaire, d’après plusieurs témoins, du Quatre Décembre mil huit cent cinquante et un.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chVI">
+<page-sequence id="p1chVI">
  <pagenum num="38"/>
 
 <h2>VI</h2>
@@ -286,10 +273,8 @@
 
 <p>Hélas ! sa prophétie ne devait pas se réaliser.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chVII">
+<page-sequence id="p1chVII">
  <pagenum num="44"/>
 
 <h2>VII</h2>
@@ -314,10 +299,8 @@
 
 <p>Et profitant, au retour du réfectoire, de la porte ouverte pour le départ des externes et de la confusion produite par ce départ croisant la théorie des pensionnaires revenant du réfectoire, — je m’enfuis.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chVIII">
+<page-sequence id="p1chVIII">
  <pagenum num="50"/>
 
 <h2>VIII</h2>
@@ -346,10 +329,8 @@
 
 <p>On nous conduisait à la messe dans une église en bois sise dans le milieu de la rue de Clichy, et qui était provisoire en attendant l’érection, en face de la Chaussée d’Antin, de « l’élégante » Trinité qu’on sait. Quant au catéchisme, c’était rue de Douai, — près du square Vintimille alors fermé au public et orné d’une statue en marbre blanc de Napoléon I<sup>er</sup> à laquelle il arriva une nuit une malodorante aventure. — qu’on nous menait l’entendre dans une chapelle disparue depuis, ou, du moins, je le crois.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chIX">
+<page-sequence id="p1chIX">
  <pagenum num="56"/>
 
 <h2>IX</h2>
@@ -384,10 +365,8 @@
 
 <p>Le premier de la classe, grosse tête ébouriffée et maligne, était toujours M. Marius Sépet. Moi je flottais entre vingt-cinq et trente sur trente-cinq.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chX">
+<page-sequence id="p1chX">
  <pagenum num="62"/>
 
 <h2>X</h2>
@@ -401,7 +380,7 @@
 <p>En sixième, M. M..., où j’étais (je dis où, comme d’un lieu !) camarade de banc avec un Hayem, ce brave M. M... qui passait, entre deux dictées et quatre ou huit ou dix corrections de copies, sa langue sur de la colle à bouche en vue de futurs <i>devoirs</i> à « donner » ; en cinquième, M. P..., fortes <pagenum num="64"/>galoches, vaguement découragé (n’était-il pas un peu « républicain » en ces temps d’empire... impérial ?), fortes, dis-je, galoches, le collier de barbe à la Jules Favre et tout indifférence à sa classe ; en quatrième, M. V..., qui avait le tic de se passer un doigt sous le nez à chaque pensum qu’il infligeait ; en troisième, un M. Réaume qui a, je crois, écrit quelque chose chez Lemerre, qui ne m’aimait guère et avait probablement raison, et qui, un jour que, du fond de la salle de classe qui sentait abominablement la peinture, nous observions — on était en juillet, toutes portes et fenêtres ouvertes — les efforts d’une hirondelle, chue à terre, pour s’envoler, nous dit, spontanément, sans le vouloir ou non :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>L’ennui naquit un jour de l’uni...versité.</l>
 </poem>
 </blockquote>
@@ -409,7 +388,7 @@
 <p class="cont">En seconde, M. Perrens, historien de Hiéronimo Savonarola et autres pères Hyacinthe, qui me détesta, m’a-t-on dit, et me déteste encore, m’a-t-on dit récemment (pourquoi, mon Dieu ?). En rhétorique, M. Durand, son râtelier et sa perruque, et fier de ces parures,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>... Empto dente ferox et crine venali.</l>
 </poem>
 </blockquote>
@@ -417,7 +396,7 @@
 <p class="cont">M. Deltour, aujourd’hui, je crois, inspecteur d’Académie, auteur des <i>Ennemis de Racine</i>, un esprit exquis, qui fut indulgent à ma paresse, mais sévère <pagenum num="65"/>à mes traductions en vers de Properce, entre autres un... sonnet ! où la fin — <i>in caudâ</i>... — fin que voici :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>L’humble table de chêne et le lit en noyer.</l>
 </poem>
 </blockquote>
@@ -435,7 +414,7 @@
 <blockquote>
 <h2>OXFORD</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Oxford est une ville qui me consola.</l>
 <l>Moi, toujours rêvant de ce Moyen Age-là.</l>
@@ -514,10 +493,8 @@
 
 <p>J’étais reçu !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chXI">
+<page-sequence id="p1chXI">
  <pagenum num="68"/>
 
 <h2>XI</h2>
@@ -556,10 +533,8 @@
 
 <p>Ceci dura dans les huit ans. Pitié, Messieurs, et certes, Mesdames, de qui la revanche sur ces en quelque sorte prématurées ambitions, fut telle !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chXII">
+<page-sequence id="p1chXII">
  <pagenum num="72"/>
 
 <h2>XII</h2>
@@ -583,7 +558,7 @@
  <pagenum num="75"/>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>.....A ce festin, de toutes parts venus.</l>
 <l>Soupaient tous les don Juan et toutes les Vénus.</l>
 </poem>
@@ -592,7 +567,7 @@
 <p>... Il n’y eut pas jusqu’aux un brin extravagantes et peut-être un tantinet fumistes strophes <i>quarante-huit</i> et phalanstériennes qui commencent par</p>
 
 <blockquote>
-<poem>
+<poem m='4'>
 <l>Coupe, sein, lyre,</l>
 <l>Triple délire</l>
 <l>Où ne peut lire</l>
@@ -609,7 +584,7 @@
 <p>Banville, d’ailleurs, dans les éditions subséquentes, supprima ce poème que mit en musique... sacrée, le si intéressant Cabaner, l’auteur du <i>Pâté, </i>dont voici les vers faits par lui-même, que je vous donne comme inédits :</p>
 
 <blockquote>
-<poem>
+<poem m='7'>
 <l>Décidément ce pâté</l>
 <l>Est délicieux ; de ma vie</l>
 <l>Je n’en ai, je le certifie,</l>
@@ -617,10 +592,10 @@
 <l>Ami Jean, retournes-y !</l>
 <l>Va-t’en-faire à la pâtissière</l>
  <pagenum num="76"/>
-<l>Mon sincère</l>
-<l>Compliment...</l>
-<l>Excellent,</l>
-<l>Excellent !</l>
+<l m='3'>Mon sincère</l>
+<l m='3'>Compliment...</l>
+<l m='3'>Excellent,</l>
+<l m='3'>Excellent !</l>
 </poem>
 </blockquote>
 
@@ -631,7 +606,7 @@
  <pagenum num="77"/>
 
 <blockquote>
-<poem>
+<poem m='7'>
 <l>Que l’on boive et que l’on danse</l>
 <l>Et que monseigneur Jésus</l>
 <l>Avecque les saints balance</l>
@@ -646,17 +621,15 @@
 <p>Enfin un <i>Louis XV</i> en six actes où un Damiens avec une sœur au Parc-aux-Cerfs.</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Le sang du peuple il cri’ vingince !</l>
 </poem>
 </blockquote>
 
 <p class="cont">déjà...</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chXIII">
+<page-sequence id="p1chXIII">
  <pagenum num="78"/>
 
 <h2>XIII</h2>
@@ -666,7 +639,7 @@
 <p>Ce fut aux environs de l’époque où se remuait en moi la manie des vers et de la prose (car je faisais aussi d’étranges nouvelles sous-marines à la façon, plutôt, d’Edgar Poe — car Jules Verne, d’ailleurs jamais très haut coté dans ma curiosité, n’était pas encore inventé, que je sache, — et de quelle façon, justes dieux ! — et des contes dont l’Hoffmann des Frères Sérapion se fût réjoui passablement, tant il y était naïvement plagié) que commença de grouiller dans mon... cœur l’amativité dont j’ai parlé plus haut et, pour brusquer l’aveu ridicule, il m’arriva dès lors d’éprouver à l’endroit de plusieurs camarades plus jeunes que moi et successifs ou collectifs, je ne me souviens plus très bien, la jolie passionnette de l’Esplanade à Metz. Seulement, au cas présent, la puberté venant, ce fut moins pur...</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Le voilà dévoilé ce secret plein d’horreur !</l>
 </poem>
 </blockquote>
@@ -682,7 +655,7 @@
 <p>Seuls ont surnagé de ce d’ailleurs peu regrettable naufrage deux sonnets, l’un publié il y a quelque deux ans, lors d’une tournée de conférences, dans un journal de Liège, si je ne me trompe. Qui diable avait déniché ce corbeau d’antan ? Ça s’intitulait l’<i>Enterrement</i> et le premier vers allait ainsi :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Je ne sais rien de gai comme un enterrement...</l>
 </poem>
 </blockquote>
@@ -696,7 +669,7 @@
 <p>(Je crois même que dans le manuscrit il y avait <i>Don Quijote</i> pour plus de couleur locale.)</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>O don Quichotte, vieux paladin, grand bohème,</l>
 <l>En vain la foule absurde et vile rit de toi :</l>
 <l>Ta mort fut un martyre et ta vie un poème</l>
@@ -712,7 +685,7 @@
 <p>(Aujourd’hui, mieux avisé, et étant donné que la couleur locale me turlupinât autant qu’en cette période de mes débuts, je remplacerais cette exclamation par trop britannique par le « Olle » séant)</p>
 
 <blockquote>
-<poem>
+<poem m='2'>
 <l>Hurrah !</l>
 </poem>
 </blockquote>
@@ -720,9 +693,9 @@
 <p class="cont">donc, puisque <i>Hurrah</i> il y a,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
-<l>&#x2001;Nous te suivons, nous, les poètes saints,</l>
+<l m='10'>Nous te suivons, nous, les poètes saints,</l>
 <l>Aux cheveux de folie et de verveine ceints.</l>
 <l>Conduis-nous à l’assaut des hautes fantaisies,</l>
 </lg>
@@ -740,7 +713,7 @@
 <p>Il y avait aussi une imitation, ô si inconsciemment impudente, et ô si mauvaise ! des <i>Petites Vieilles</i> de Baudelaire, laquelle, il est à craindre, doit avoir à jamais disparu d’entre les choses comme elle a tout à fait décampé de ma mémoire et qui débutait par ce vers et ces deux hémistiches distants l’un de l’autre d’un quart et d’une moitié d’hexamètre :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Il m’arriva souvent, tous les jours, dans les rues,</l>
 <l>De croiser des vieillards et des vieilles.....</l>
 <l>................torticolis en grues.</l>
@@ -750,9 +723,9 @@
 <p>Et enfin un <i>Crépitus</i> (bien avant celui, si drôle, de Flaubert), manière de manifestation pessimiste où, après une description d’intérieur de fosse, dans une buée mal odorante, — naturellement, — surnaturellement apparaissait le « dieu » qui débitait un discours très amer, direct et méprisant au possible pour l’humanité, sa mère pourtant ! Ici encore, je ne me rappelle que les deux premiers vers de la longue, peut-être trop longue, harangue de l’étrange divinité ; mais, ces vers, ils sont bien, n’est-ce pas ?</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Je suis l’Adamastor des cabinets d’aisance,</l>
-<l>&#x2001;&#x2001;Le Jupiter des lieux bas...</l>
+<l m='6'>Le Jupiter des lieux bas...</l>
 </poem>
 </blockquote>
 
@@ -762,10 +735,8 @@
 
 <p>Vous vous souvenez de ce libraire du quai Voltaire dont je parlais précédemment et chez qui j’avais eu la première connaissance des <i>Stalactites </i>de ce magicien de Banville... Eh bien, c’est encore là que me fut révélé ce merveilleux livre de début, les <i>Flèches d’Or,</i> d’Albert Glatigny, un tout petit peu avant que je ne lusse <i>Philoméla</i>, qui marqua si joliment et comme si génialement les débuts de Catulle Mendès.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chXIV">
+<page-sequence id="p1chXIV">
  <pagenum num="84"/>
 
 <h2>XIV</h2>
@@ -781,7 +752,7 @@
 <p>Ceci et cela sans connaître en personne ni l’un ni l’autre de ces frères, mais en me récitant, quasiment comme mes prières du soir et du matin, las ! oubliées lors, des bouts de vers dans ce genre-ci :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Ce jour, ma mie Aline avait un chapeau vert,</l>
 <l>Là-bas des cuirassiers retentissants de cuivre...</l>
 <vsep class="dots"/>
@@ -805,7 +776,7 @@
 <p>Ce Glatigny ! Son livre, <i>les Vignes folles</i>, où toute l’audace, toute la grande belle verve française furent retrouvées pour, Ponchon, que vous les retrouvassiez sous une tout autre forme non moins puissante. Sa comédie : <i>Vers les Saules :</i></p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Je jette à qui le veut mon cœur : je n’en veux plus !</l>
 </poem>
 </blockquote>
@@ -815,7 +786,7 @@
 <p>Son volume de dessous le manteau et de derrière les fagots : <i>Joyeusetés galantes :</i></p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Le poète excellent dont nous t’offrons les carmes,</l>
 <l>De son temps, bon lecteur, fut un des bons raillards</l>
 <l>Que l’on vit..........sous les armes !</l>
@@ -825,7 +796,7 @@
 <p>D’ailleurs, acceptant avec orgueil la dureté de sa vie, ayant souffert tout au monde, même d’être arrêté par la « maréchaussée » de Corse comme étant l’assassin du président Poinsot, lui qui répondit au procureur impérial :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Or, moi je ne suis rien que le fils d’un gendarme.</l>
 </poem>
 </blockquote>
@@ -843,9 +814,9 @@
  <pagenum num="87"/>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Ah ! que Rothschild est pauvre ! Il n’a pas vu Lagny,</l>
-<l>&#x2001;&#x2001;Sans bonheur et sans joie</l>
+<l m='6'>Sans bonheur et sans joie</l>
 <l>Le riche est ce poète appelé Glatigny...</l>
 <vsep class="dots"/>
 </poem>
@@ -856,10 +827,8 @@
 
 <p>Il est vrai qu’il y a Homère, Chatterton et, en attendant mieux, presque nous tous, les modernes, jeunes et vieux.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1chXV">
+<page-sequence id="p1chXV">
  <pagenum num="88"/>
 
 <h2>XV</h2>
@@ -881,11 +850,8 @@
 <p>Il ne me reste plus qu’à remercier le lecteur de sa patience à m’avoir prêté jusqu’ici (du moins je le présume) une attention que je le prie de me conserver pour lors de la reprise de ces <i>confessions</i>. Ces nouvelles <i>notes sur ma vie</i> seront d’un caractère à la fois littéraire et... social, de plus en plus foncé, comme concernant une existence de moins en moins lumineuse encore que plus éclairée, hélas ! de ce moi compliqué, bien contre mon gré d’homme tout simple et peut-être naïf...</p>
 
  <pagenum num="92"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
-<div id="p2chI">
+<page-sequence id="p2chI">
  <pagenum num="93"/>
 
 <h1>DEUXIÈME PARTIE</h1>
@@ -901,8 +867,7 @@
 <p>En attendant de parler d’autre chose, et de tant d’autres choses aussi, je dois et je veux — ce m’est de toute importance au point de vue littéraire d’y insister — dire combien je fus véritablement remué jusqu’aux entrailles par ces deux poèmes, les <i>Vignes folles</i> et <i>Philomela.</i> Dans le premier de ces chefs-d’œuvre — je maintiens le mot que je me fais fort de prouver — je retrouvai mon cœur naïf, mon esprit à la vent-voie, en outre de l’art de « tourner le vers », comme on dit vulgairement et bien, après tout ! tandis que <i>Philomela</i> me transportait par sa <pagenum num="94"/>malice initiale et sa miraculeuse outrance dans l’ordonnance magistrale du rhythme dur et sûr et de la rime toujours correcte sans grimace inutile vers une richesse bête. Ce prologue !</p>
 
 <blockquote>
-<poem>
-
+<poem m='8'>
 <l>Deux monts plus blancs que l’Hékla</l>
 <l>Surplombent la pâle contrée</l>
 <l>Où mon désespoir s’exila !</l>
@@ -918,7 +883,7 @@
 <p>Les <i>Vignes folles</i>, qui sont à mes yeux le meilleur gage qu’ait donné, parmi trop peu d’autres, puisque la mort nous l’a ravi si tôt, Glatigny, j’en raffolais aussi et je m’en redis parfois, malgré ma mémoire oblitérée, les strophes envolées toutes de verve et d’une si jolie et forte et saine, en dépit des « sujets », naïveté. Comme il flétrit, en sortant, sans nul doute, de tel endroit qui me rappelait tant la maison, démolie, de la rue d’Orléans-Saint-Honoré :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Le stupide garçon qui sert en ce logis !</l>
 </poem>
 </blockquote>
@@ -928,7 +893,7 @@
  <pagenum num="95"/>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Sur ton ventre dur qui brille</l>
 <l>L’ombre noire s’éparpille !</l>
 </poem>
@@ -939,7 +904,7 @@
 <p>Comment fis-je la connaissance de Glatigny ? Ici « l’auteur », à l’encontre de l’adage,</p>
 
 <blockquote>
-<poem>
+<poem m='4'>
 <l>S’embarrasse</l>
 </poem>
 </blockquote>
@@ -949,7 +914,7 @@
 <p>Le pauvre ami ! Quelle verve drôle et quel drôle de corps : long comme une anguille, souple comme elle ; pour ce qui concerne la verve, quelle donc grand’verve il</p>
 
 <blockquote>
-<poem>
+<poem m='4'>
 <l>Vous avait...</l>
 </poem>
 </blockquote>
@@ -965,7 +930,7 @@
 <p>Non pas le</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Vieux faune de terre cuite</l>
 </poem>
 </blockquote>
@@ -978,11 +943,8 @@
 
 <p>J’ai parlé longuement de ces deux poètes, trop longuement peut-être, et à deux places. Mais ce m’était un double devoir de reconnaissance et un infini plaisir. Excusez-moi donc. J’en ai fini, trop tôt à mon gré, avec eux.</p>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chII">
+<page-sequence id="p2chII">
  <pagenum num="98"/>
 
 <h2>II</h2>
@@ -1016,7 +978,7 @@
 <p>O, comme dit Victor Hugo dans un vers dont il a rarement retrouvé l’analogue vibrant et vivant.</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>O mes lettres d’amour, de vertu, de jeunesse !</l>
 </poem>
 </blockquote>
@@ -1059,10 +1021,8 @@
 
 <p>Les deux jours qui suivirent, je ne mangeai pas, je bus.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chIII">
+<page-sequence id="p2chIII">
  <pagenum num="107"/>
 
 <h2>III</h2>
@@ -1095,10 +1055,8 @@
 
 <p>L’absinthe !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chIV">
+<page-sequence id="p2chIV">
  <pagenum num="111"/>
 
 <h2>IV</h2>
@@ -1116,7 +1074,7 @@
 <p>» Elle parlerait tantôt peu et qu’adorable alors son quasi-silence qui permet de sympathiser avec sa respiration hâtive sans plus qui témoigne <pagenum num="113" b="néan-" a="moins">néanmoins</pagenum> d’une chère santé frêle, mais que le bonheur amplifiera, avec la palpitation presque imperceptible des veines bleuâtres de dessous les yeux et violâtres de devers les tempes, avec le bout chaste et si vite apparu puis disparu d’une langue de temps en temps et rarement passé sur les lèvres, avec les dents que découvre un sourire innocent à tel ou tel madrigal à la portée, les dents d’albâtre ou plutôt d’opale qu’azurerait leur transparence comme étrange dans son exquisité, — tantôt elle parlerait et d’une volubilité</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Quasi zézayante un peu</l>
 </poem>
 </blockquote>
@@ -1130,7 +1088,7 @@
 <p>» Et ses mains, que j’allais omettre. Ces mains <pagenum num="114"/>que je rêve de baiser, des mille et des centaines de mille fois, ces mains aux veines palpitantes aussi dans l’émotion de la conversation, ces mains</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Toutes petites, toutes belles !</l>
 <l>O ses mains, ses mains vénérées !</l>
 </poem>
@@ -1142,10 +1100,8 @@
 
 <p>Ainsi allait mon imagination, au lendemain de ma première entrevue que d’ailleurs voici, très en abrégé, — elle et ses conséquences immédiates..., et les autres.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chV">
+<page-sequence id="p2chV">
  <pagenum num="115"/>
 
 <h2>V</h2>
@@ -1178,10 +1134,8 @@
 
 <p>L’absinthe devait, comme la « vertu qu’on quitte », prendre de dures revanches.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chVI">
+<page-sequence id="p2chVI">
  <pagenum num="119"/>
 
 <h2>VI</h2>
@@ -1195,8 +1149,8 @@
 <p>J’en étais là psychologiquement, lorsqu’un beau matin la fantaisie me prit d’aller en ville. Il y avait le chemin de fer, mais je préférai prendre par la rivière canalisée de Scarpe, célébrée dans les vers du grand poète Desbordes-Valmore ; c’est, sur des bords diversifiés, tantôt céréales, avoines, blés, seigle, hivernages, tantôt marais sans fin, quasiment sans fond, où dort le brochet, où court l’anguille parmi les tiges de nénuphars et les lances du glaïeul d’eau, à l’ombre généralement « des noirs peupliers », des saules blancs et des grises hautes herbes, un chemin véritablement charmant en ce pays plutôt plat d’aspect aussi bien que de terrain. D’assez, point trop nombreux villages aux bonnes auberges crépies à la chaux, fenêtres aux rideaux</p>
 
 <blockquote>
-<poem>
-<l>&#x2001;&#x2001;&#x2001;d’cotonnette</l>
+<poem m='12'>
+<l m='4'>d’cotonnette</l>
 <l>A grands carreaux roug’ brique et blancs...</l>
 </poem>
 </blockquote>
@@ -1209,10 +1163,8 @@
 
 <p>Je pris le train de minuit pour mon village et le lendemain je me réveillai avec un mal de tête et des nausées morales et autres qui me parurent un châtiment, mais un châtiment de quoi ?</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chVII">
+<page-sequence id="p2chVII">
  <pagenum num="124"/>
 
 <h2>VII</h2>
@@ -1228,7 +1180,7 @@
 <p>C’était divin et ça commençait à ravir, mon idylle. Et c’est de ce moment que je conçus le plan, si le mot ne vous semble pas trop ambitieux pour un si mince ouvrage, de cette <i>Bonne chanson</i> qui <pagenum num="126"/>se trouve, dans le bagage assez volumineux de mes vers, ce que je préférerais comme sincère par excellence et si aimablement, si doucement, si purement pensé, si simplement écrit :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Le soleil du matin doucement chauffe et dore</l>
 <l>Les seigles et les blés tout humides encore</l>
 <l>Et l’azur a gardé sa fraîcheur de la nuit...</l>
@@ -1245,16 +1197,14 @@
 
 <p>C’était charmant et le temps s’écoulait, bien lent encore toutefois. Il est vrai que je composais chaque jour mon volume en petites pièces que Sivry faisait parvenir à sa sœur... Mais n’importe, c’était l’absence !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chVIII">
+<page-sequence id="p2chVIII">
  <pagenum num="129"/>
 
 <h2>VIII</h2>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>O l’absence, le moins clément de tous les maux !</l>
 <l>Se consoler avec des phrases et des mots,</l>
 <l>Puiser dans l’infini morose des pensées</l>
@@ -1266,7 +1216,7 @@
 <p>Ainsi ratiocinait ma mélancolie naissante d’être loin de « Celle que j’aimais », car décidément je l’aimais, surtout depuis qu’elle m’avait en quelque sorte agréé par écrit, en cachette... de son père <i>seul</i>, — mélancolie qui finit plus tard par tourner, pour mon propre dam et ce qu’il fallait qu’elle ignorât et qu’elle ignora jusqu’à la fin d’une interminable « cour » de tout près d’un an, en une pénible, agaçante attente que tout allait aggraver, on le verra plus loin, jusqu’à ce que je devinsse, littéralement,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Impatient des mois, furieux des semaines</l>
 </poem>
 </blockquote>
@@ -1274,7 +1224,7 @@
 <p>Mais, pour l’instant, je n’avais guère à ne me plaindre que</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Du doux mal qu’on souffre en aimant.</l>
 </poem>
 </blockquote>
@@ -1288,7 +1238,7 @@
 <p>D’ailleurs une dernière lettre de</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>... La main à ce point petite</l>
 <l>Qu’un oiseau-mouche n’y tiendrait...</l>
 </poem>
@@ -1299,7 +1249,7 @@
 <p>Le bienheureux jour tant attendu en attendant (combien donc plus) ! l’autre encore dans un avenir désespérément indéterminé, et Dieu sait s’il était destiné à en subir de ces atermoiements, et quels ! ce jour-là, ce dernier jour-là ! le jour, disais-je, du retour, du revoir, le jour dont j’avais écrit ces deux vers que j’avais envoyés, entre quelques autres, à qui de droit, la veille ou la surveille,</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Où, seul rêve et seule pensée,</l>
 <l>Me reviendra la fiancée...</l>
 </poem>
@@ -1314,7 +1264,7 @@
 <p>On m’introduisit au salon où M<sup>me</sup> M... descendit bientôt, m’encourageant d’une poignée de main vraiment cordiale, et bientôt suivie de son mari avec qui un salut quasiment cérémonieux fut échangé. De vagues propos s’engagèrent... avait-on fait un <pagenum num="133"/>bon voyage ? où en étaient les céréales là-bas ? et ainsi de suite, — quand entra la demoiselle vue la première fois</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>En robe grise et verte avec des ruches.</l>
 </poem>
 </blockquote>
@@ -1325,10 +1275,8 @@
 
 <p>Je me retirai au bout d’une petite heure, après permission demandée et obtenue d’une visite pour le lendemain, — absolument conquis cette fois.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chIX">
+<page-sequence id="p2chIX">
  <pagenum num="134"/>
 
 <h2>IX</h2>
@@ -1342,7 +1290,7 @@
 <p>Lorsque arriva l’été, le lourd été de 1870 — là en est parvenu mon récit — avec ses soirées interminables et la fréquence de ces orages, il commença, lors de mes visites d’après-dîner, à être enfin question de dates et le milieu de juin fut dès son tout commencement fixé pour l’heureuse cérémonie.</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l>Donc ce sera par un clair jour d’été.</l>
 <l>Le grand soleil, complice de ma joie,</l>
 <l>Fera parmi le satin et la soie</l>
@@ -1362,7 +1310,7 @@
 <p>Mais il me semble de mise puisque précisément me voici en train de citations miennes, de bien, avant de me plonger dans toutes les profondeurs de mon étrange vie privée, préciser ma situation littéraire à ce juste moment. Les <i>Poèmes Saturniens,</i> contemporains du <i>Reliquaire</i> (les deux recueils parurent le même jour de 1866), avaient eu, comme d’ailleurs, le livre de mon cher ami François Coppée, une fortune diverse : pas mal de revues et de journaux, mortes et morts depuis, leur distribuèrent, quelques-uns à profusion, l’éloge incompétent (me semblait-il alors et me paraît-il encore) ou le blâme sans discernement ni grande bonne foi plutôt. D’autres, par l’organe de gens sérieux, Roqueplan, Yriarte et <i>tutti quanti</i> nous encouragèrent vraiment. Sainte-Beuve, par exemple, prit la peine de m’écrire à plusieurs reprises minutieusement, preuve qu’il s’intéressait, et dans une visite que je lui rendis en compagnie de Coppée, fut bien intéressant. Je le vois encore, avec sa tête d’où l’embonpoint de l’âge avait chassé la laideur initiale ; chauve, rasé, aux petits yeux un peu à la chinoise, au rictus fin encore plus que malin, quoique bien malin déjà. Calotté de noir velours, tout de <pagenum num="138"/>flanelle blanche habillé, en raison de rhumatismes (hélas ! je devais connaître cela par la suite), il avait l’air d’un pape hétéroclite dans son immense fauteuil. Avec cela une réelle très latente mélancolie de séminariste plutôt janséniste et d’un amoureux rétrospectif et plein de souvenirs soigneusement cachés... C’était à mes yeux, plutôt encore l’homme de <i>Volupté</i> que l’écrivain, si savoureux encore, mais non sans des dessous bien étranges, des derniers <i>Lundis</i>, et je me prenais, en contemplant cette figure mi-voltairienne, mi-cléricale et par-dessus tout, et en dépit de tout, poétique à sa manière bien sienne, intime et pénétrante entre toutes, à me redire mentalement, à la face de celui qui les avait faits, ces vers « libres » attribués à un petit garçon dans l’extase d’un prompt destin d’exilé deux fois et par la politique d’un père et par sa propre chancelante pauvre santé.</p>
 
 <blockquote>
-<poem>
+<poem m='7'>
 <l>Mon Dieu, rendez-nous la mer</l>
 <l>Et la montagne Saint-Pierre</l>
 <l>Et notre petit jardin</l>
@@ -1375,7 +1323,7 @@
 <p>Quant à nous et à nos débuts, il nous félicita gentiment, point trop paternellement, plutôt avunculairement (le mot n’est pas de moi). Ses critiques bienveillantes s’exerçaient de préférence sur mon abus des grands mots en K et en Y et en Ç, vestige de lectures trop juvénilement convaincues de Leconte de Lisle. Pourtant, en dépit des Tchandra et des Çurya qui s’y trouvaient de trop à son avis, et au mien... d’aujourd’hui, il aimait la pièce Çavitry :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Ainsi que Çavitry faisons-nous impassibles,</l>
 <l>Mais, comme elle, dans l’âme ayons un haut dessein !</l>
 </poem>
@@ -1385,10 +1333,8 @@
 
 <p>— C’est à voir, c’est à voir.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chX">
+<page-sequence id="p2chX">
 <pagenum num="140"/>
 
 <h2>X</h2>
@@ -1408,7 +1354,7 @@
 <p>Un soir que j’arrivai, comme toujours joyeux et, dans la poche, pour la glisser comme en catimini ès-mains de qui de droit, quelque piécette de vers faite au bureau, entre deux classements de documents administratifs auxquels je m’intéressais moins qu’aux mouches qui volaient, symboles fugitifs</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>De la rime non attrapée</l>
 </poem>
 </blockquote>
@@ -1440,7 +1386,7 @@
 <p>Mais ce grossier chagrin, plutôt animal, pour tout dire, passa vite et ne tarda pas à faire place à la <pagenum num="147"/>trop légitime inquiétude sur l’issue de la maladie et à la</p>
 
 <blockquote>
-<poem>
+<poem m='4'>
 <l>Fade et amère</l>
 </poem>
 </blockquote>
@@ -1456,7 +1402,7 @@
 <p><i>A Madame Marie M...</i></p>
 </epigraphe>
 
-<poem>
+<poem m='12'>
 <l>Vous fûtes douce et bonne en nos tristes tempêtes,</l>
 <l>L’esprit et la raison parmi nos fureurs bêtes,</l>
 <l>Et si l’on vous eût crue au temps qu’il le fallait</l>
@@ -1493,10 +1439,8 @@
 
 <p>Mais mon mariage se trouvait à nouveau retardé.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chXI">
+<page-sequence id="p2chXI">
  <pagenum num="151"/>
 
 <h2>XI</h2>
@@ -1506,7 +1450,7 @@
 <p>De sorte que mes entrevues avec Mathilde, je lui donnai déjà ce non « carlovingien », et, depuis que <pagenum num="152"/>je lui avais, en hésitant un peu, en tremblant presque, fait lire en le lui déposant entre les mains et en me retirant bien vite, bien vite, un madrigal dont l’<i>in cauda venenum</i> était</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Que je vous aime ! que je t’aime !</l>
 </poem>
 </blockquote>
@@ -1531,10 +1475,8 @@
 
 <p>Heureusement une diversion survint sous la forme d’un petit voyage de pur agrément.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chXII">
+<page-sequence id="p2chXII">
  <pagenum num="157"/>
 
 <h2>XII</h2>
@@ -1548,7 +1490,7 @@
 <p>Voici d’ailleurs, tout à fait inédits, quelques-uns de ces minimes poèmes, un peu vifs, n’est-ce pas, pour faire positivement partie d’un cadeau de fiançailles, mais au point, je crois, et bien dans la note congruente à de si proches justes noces. J’ai bien changé ma « manière » et de « manières » depuis. N’importe, j’éprouve un plaisir que je ne saurais dire en retrouvant après tant d’années, dans la poussière, tout à l’heure encore désespéremment secouée de « mes » tiroirs jamais longtemps les <pagenum num="159"/>mêmes et parmi les ruines de ma mémoire, ces quelques épaves d’un vaste naufrage de paperasses et de souvenirs :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 
 <lg>
 <l>O l’Innocente que j’adore</l>
@@ -1633,10 +1575,8 @@
 
 <p>Car c’était la semaine du grand moment ! Les événements avaient marché et marchaient à pas d’ogres. Nous ne vîmes, tout le long du train omnibus qui nous ramenait ; et à toutes les moindres stations, que réservistes rejoignant. On ne parlait que de la guerre qui débutait si mal, de trahison (déjà !), etc. Avec ce que j’ai dit précédemment on peut se rendre compte de ce que je ressentais et comme amoureux et comme... garde mobile éventuel quand nous descendîmes par cette triste « arrivée » de la gare Montparnasse. (Avez-vous remarqué que toutes les « arrivées » des gares de Paris sont tristes, même quand, ce qui était notre cas, on n’a pas à subir les affres de l’octroi.) Un air de tristesse <pagenum num="162"/>indéfinie planait comme un crêpe dans le crépuscule rouge et noir d’une étouffante et menaçante soirée d’août chargée d’odeurs moites et d’électricité. La foule, d’ordinaire circulant insoucieuse et plutôt gaie à ces heures dans ces parages, stationnait auprès des kiosques à journaux, et c’était, du fiacre qui nous emportait aux confins de la Rive droite, des gesticulations fiévreuses, doigts en l’air et têtes branlantes... La Renommée aux cent bouches assombrissait ses mille voix vocératrices plus ou moins sincères de bonnes et mauvaises nouvelles, toutes alarmantes d’ailleurs... pour moi surtout. Ah ! il ne manquerait plus que <i>ça !</i></p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chXIII">
+<page-sequence id="p2chXIII">
  <pagenum num="163"/>
 
 <h2>XIII</h2>
@@ -1665,10 +1605,8 @@
 
 <p>Ça y était ! Mon mariage n’aurait pas lieu !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chXIV">
+<page-sequence id="p2chXIV">
  <pagenum num="171"/>
 
 <h2>XIV</h2>
@@ -1686,7 +1624,7 @@
 <p>Nuit très calme, sans rêve. Réveil de bonne heure, plutôt joyeux ! Au fond j’avais un bel espoir, une certitude, quelle certitude au cœur et aux sens ! <i>En tout cas</i>, ça irait bien. Car si j’étais amoureux, maintenant que l’amoureux pouvait compter sur l’accomplissement de son désir le plus direct, j’étais patriote aussi, et... oui, même</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>Mourir pour la patrie</l>
 </poem>
 </blockquote>
@@ -1706,7 +1644,7 @@
 <p>Le mariage religieux qui prit place un quart d’heure après en l’église Notre-Dame de Clignancourt, m’importait peu — et dirai-je qu’il importait peu à ma « femme » ? laquelle, en dépit du vernis que les bienséances sociales exigeaient encore en ces ères reculées, n’était guère plus croyante que moi ni que ses parents...</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Et Dieu ? Tel est le siècle, ils n’y pensèrent pas.</l>
 </poem>
 </blockquote>
@@ -1715,10 +1653,8 @@
 
 <p>Et fouette, cocher, pour le déjeuner dînatoire rue Nicolet, le thé et le piano jusqu’à dix heures... et la nuit nuptiale !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chXV">
+<page-sequence id="p2chXV">
  <pagenum num="178"/>
 
 <h2>XV</h2>
@@ -1732,7 +1668,7 @@
 <p>Ma femme, <i>risum teneatis,</i> seize ans, toute à moi désormais et à son petit plutôt encore qu’à son jeune ménage, partageait, dirais-je ma joie quasiment impie, et c’était à la fois plaisir et pitié, à cause de sa gentillesse, précisément, à la fois, de l’entendre dire de sa voix de caresse puéril : « Maintenant que nous l’avons, tout est sauvé, <pagenum num="180"/>n’est-ce pas, dis ? Ce sera comme en... comment donc ? » Elle voulait dire Quatre-Vingt-Douze. Je lui soufflais la date de cet « épisode qui ne se renouvellerait pas », selon la prophétie de M. de Bismarck... Enfin c’était un assez, tout ça, ridicule et, au fond, triste commencement patrouillotte de ce qu’on devait dénommer deux ou trois mois plus tard, « la fièvre obsidionale ». Mais aussi c’était de ma faute et je n’avais qu’à ne pas lui avoir adressé dans la <i>Bonne Chanson</i>, qui venait de paraître sans trop de vente, naturellement en des circonstances pareilles, des vers un peu « pompiers », Quarante-Huit au possible et que j’admirais beaucoup alors.</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Nous vivons en des temps infâmes</l>
 <l>Où le mariage des âmes</l>
 <l>Doit sceller l’union des cœurs.</l>
@@ -1752,10 +1688,8 @@
 
 <p>Je devais, de par la logique même et la loi morale aussi bien que physique de la <i>vitesse acquise</i>, amèrement regretter ma double initiative dans ce cas... de conscience.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chXVI">
+<page-sequence id="p2chXVI">
  <pagenum num="184"/>
 
 <h2>XVI</h2>
@@ -1765,7 +1699,7 @@
 <p>J’étais resté à Paris après le 18 mars. D’abord, j’y avais mon travail, précisément dans le local, siège de l’insurrection triomphante ; ensuite ma <pagenum num="185"/>mère, souffrante en ce moment, y habitait toujours la rue Lécluse, puis nous y possédions, ma femme et moi, notre joli appartement sur le quai, avec un balcon qui nous était mitoyen avec celui de M<sup>me</sup> Clément, femme du déjà célèbre alors ex-commissaire (impérial) aux délégations judiciaires, pour le moment à l’étranger, enfin et plutôt surtout parce que le mouvement me plaisait, qu’il me semblait une revanche sur la veulerie des gens du Quatre-Septembre, que je comptais des amis parmi les nouveaux venus, Raoul Rigault, par exemple, mon camarade d’étude, pendant des années, à la pension L..., Jules Andrieu, mon collègue de tout naguère, à l’Hôtel de Ville, et d’autres en sous-ordre ; et encore cette dernière considération ne primait pas dans mes motifs politiques : non, j’avais, dès l’abord, aimé, compris, croyais-je, en tout cas bien sympathisé avec cette révolution à la fois pacifique et redoutablement conforme au si vrai, <i>Si vis pacem para bellum ;</i> avec ce manifeste anonyme, à force de noms obscurs et volontairement modestes sous la simple rubrique de <i>Comité central</i>, qui, ainsi que caractérisaient son allure du début des vers de moi, dont le premier seul m’est resté en tête,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Sans déclamation et sans logomachie </l>
 </poem>
 </blockquote>
@@ -1788,10 +1722,8 @@
 
 <p>Je restai à la maison, ayant, peut-être des intentions sur la bonne qui était mignonne et qui commençait à avoir si peur, qu’elle semblait ne demander, dès qu’elle se vit seule avec moi, pas mieux que d’être rassurée...</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2chXVII">
+<page-sequence id="p2chXVII">
  <pagenum num="190"/>
 
 <h2>XVII</h2>
@@ -1801,10 +1733,10 @@
  <pagenum num="191"/>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Entendez-vous, c’est le tambour</l>
-<l>&#x2001;De la gard’ nationale,</l>
-<l>&#x2001;De la gard’ nationale.</l>
+<l m='6'>De la gard’ nationale,</l>
+<l m='6'>De la gard’ nationale.</l>
 </poem>
 </blockquote>
 
@@ -1850,7 +1782,6 @@
 
 <p>« <i>Domine, noverim te !</i> »</p>
 
-</div>
 </page-sequence>
   </page-sequences>
 </bml>

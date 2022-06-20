@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000232"
         creation="2012-12-05T00:00:01-08:00"
-        modification="2014-12-31T18:14:46-08:00">
+        modification="2022-06-20T15:01:29-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Sagesse</titre>
@@ -50,7 +50,7 @@
   </metadata>
 
   <toc>
-      <tocentry label="I" idref="p1">
+      <tocentry label="I" idref="p1.I">
         <tocentry idref="p1.I" label="I. Bon chevalier masqué qui chevauche en silence"/>
         <tocentry idref="p1.II" label="II. J’avais peiné comme Sisyphe"/>
         <tocentry idref="p1.III" label="III. Qu’en dis-tu, voyageur, des pays et des gares ?"/>
@@ -76,13 +76,13 @@
         <tocentry idref="p1.XXIII" label="XXIII. Né l’enfant des grandes villes"/>
         <tocentry idref="p1.XXIV" label="XXIV. L’âme antique était rude et vaine"/>
       </tocentry>
-      <tocentry label="II" idref="p2">
+      <tocentry label="II" idref="p2.I">
         <tocentry idref="p2.I" label="I. O mon Dieu, vous m’avez blessé d’amour"/>
         <tocentry idref="p2.II" label="II. Je ne veux plus aimer que ma mère Marie"/>
         <tocentry idref="p2.III" label="III. Vous êtes calme, vous voulez un vœu discret"/>
         <tocentry idref="p2.IV" label="IV. Mon Dieu m’a dit : Mon fils, il faut m’aimer"/>
       </tocentry>
-      <tocentry label="III" idref="p3">
+      <tocentry label="III" idref="p3.I">
         <tocentry idref="p3.I" label="I. Désormais le Sage, puni"/>
         <tocentry idref="p3.II" label="II. Du fond du grabat"/>
         <tocentry idref="p3.III" label="III. L’espoir luit comme un brin de paille dans l’étable"/>
@@ -111,16 +111,14 @@
   <cover src="images/couverture1.png" alt="Œuvres complètes de Paul Verlaine. Poèmes saturniens — Fêtes galantes — Bonne chanson — Romances sans paroles — Sagesse — Jadis et naguère. Tome premier. Troisième édition. Paris. Librairie Léon Vanier, éditeur. 19, quai Saint-Michel, 19. 1902."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p1">
-<div id="p1.I">
+<page-sequence id="p1.I">
  <pagenum num="195"/>
 
 <h1>I</h1>
 
 <h2>I</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Bon chevalier masqué qui chevauche en silence,</l>
 <l>Le malheur a percé mon vieux cœur de sa lance.</l>
@@ -174,16 +172,13 @@
 </lg>
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.II">
+<page-sequence id="p1.II">
  <pagenum num="197"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>J’avais peiné comme Sisyphe</l>
 <l>Et comme Hercule travaillé</l>
@@ -345,15 +340,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.III">
+<page-sequence id="p1.III">
 <pagenum num="201"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Qu’en dis-tu, voyageur, des pays et des gares ?</l>
 <l>Du moins as-tu cueilli l’ennui, puisqu’il est mûr,</l>
@@ -479,15 +472,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.IV">
+<page-sequence id="p1.IV">
  <pagenum num="205"/>
 
 <h2>IV</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Malheureux ! Tous les dons, la gloire du baptême,</l>
 <l>Ton enfance chrétienne, une mère qui t’aime,</l>
@@ -547,15 +538,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.V">
+<page-sequence id="p1.V">
  <pagenum num="208"/>
 
 <h2>V</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Beauté des femmes, leur faiblesse, et ces mains pâles</l>
 <l>Qui font souvent le bien et peuvent tout le mal.</l>
@@ -583,15 +572,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.VI">
+<page-sequence id="p1.VI">
  <pagenum num="209"/>
 
 <h2>VI</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>O vous, comme un qui boite au loin, Chagrins et Joies,</l>
 <l>Toi, cœur saignant d’hier qui flambes aujourd’hui,</l>
@@ -619,15 +606,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.VII">
+<page-sequence id="p1.VII">
  <pagenum num="210"/>
 
 <h2>VII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Les faux beaux jours ont lui tout le jour, ma pauvre âme,</l>
 <l>Et les voici vibrer aux cuivres du couchant.</l>
@@ -655,15 +640,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.VIII">
+<page-sequence id="p1.VIII">
 <pagenum num="211"/>
 
 <h2>VIII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>La vie humble aux travaux ennuyeux et faciles</l>
 <l>Est une œuvre de choix qui veut beaucoup d’amour :</l>
@@ -691,15 +674,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.IX">
+<page-sequence id="p1.IX">
 <pagenum num="212"/>
  
 <h2>IV</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Sagesse d’un Louis Racine, je t’envie !</l>
 <l>O n’avoir pas suivi les leçons de Rollin,</l>
@@ -727,15 +708,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.X">
+<page-sequence id="p1.X">
  <pagenum num="213"/>
 
 <h2>X</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Non. Il fut gallican, ce siècle, et janséniste !</l>
 <l>C’est vers le Moyen Age énorme et délicat</l>
@@ -763,15 +742,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XI">
+<page-sequence id="p1.XI">
  <pagenum num="214"/>
 
 <h2>XI</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Petits amis qui sûtes nous prouver</l>
 <l>Par A plus B que deux et deux font quatre,</l>
@@ -867,15 +844,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XII">
+<page-sequence id="p1.XII">
  <pagenum num="217"/>
 
 <h2>XII</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Or, vous voici promus, petits amis,</l>
 <l>Depuis les temps de ma lettre première,</l>
@@ -985,137 +960,131 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XIII">
+<page-sequence id="p1.XIII">
  <pagenum num="220"/>
 
 <h2>XIII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Prince mort en soldat à cause de la France,</l>
-<l>&#x2001;&#x2001;&#x2001;Ame certes élue,</l>
+<l m='6'>Ame certes élue,</l>
 <l>Fier jeune homme si pur tombé plein d’espérance,</l>
-<l>&#x2001;&#x2001;&#x2001;Je t’aime et te salue !</l>
+<l m='6'>Je t’aime et te salue !</l>
 </lg>
 
 <lg>
 <l>Ce monde est si mauvais, notre pauvre patrie</l>
-<l>&#x2001;&#x2001;&#x2001;Va sous tant de ténèbres,</l>
+<l m='6'>Va sous tant de ténèbres,</l>
 <l>Vaisseau désemparé dont l’équipage crie</l>
-<l>&#x2001;&#x2001;&#x2001;Avec des voix funèbres,</l>
+<l m='6'>Avec des voix funèbres,</l>
 </lg>
 
 <lg>
 <l>Ce siècle est un tel ciel tragique où les naufrages</l>
-<l>&#x2001;&#x2001;&#x2001;Semblent écrits d’avance...</l>
+<l m='6'>Semblent écrits d’avance...</l>
 <l>Ma jeunesse, élevée aux doctrines sauvages,</l>
-<l>&#x2001;&#x2001;&#x2001;Détesta ton enfance,</l>
+<l m='6'>Détesta ton enfance,</l>
 </lg>
 
 <lg>
 <l>Et plus tard, cœur pirate épris des seules côtes</l>
-<l>&#x2001;&#x2001;&#x2001;Où la révolte naisse,</l>
+<l m='6'>Où la révolte naisse,</l>
 <l>Mon âge d’homme, noir d’orages et de fautes,</l>
-<l>&#x2001;&#x2001;&#x2001;Abhorrait ta jeunesse.</l>
+<l m='6'>Abhorrait ta jeunesse.</l>
 </lg>
 
  <pagenum num="221"/>
 
 <lg>
 <l>Maintenant j’aime Dieu, dont l’amour et la foudre</l>
-<l>&#x2001;&#x2001;M’ont fait une âme neuve,</l>
+<l m='6'>it une âme neuve,</l>
 <l>Et maintenant que mon orgueil réduit en poudre,</l>
-<l>&#x2001;&#x2001;&#x2001;Humble, accepte l’épreuve.</l>
+<l m='6'>Humble, accepte l’épreuve.</l>
 </lg>
 
 <lg>
 <l>J’admire ton destin, j’adore, tout en larmes</l>
-<l>&#x2001;&#x2001;&#x2001;Pour les pleurs de ta mère,</l>
+<l m='6'>Pour les pleurs de ta mère,</l>
 <l>Dieu qui te fit mourir, beau prince, sous les armes,</l>
-<l>&#x2001;&#x2001;&#x2001;Comme un héros d’Homère.</l>
+<l m='6'>Comme un héros d’Homère.</l>
 </lg>
 
 <lg>
 <l>Et je dis, réservant d’ailleurs mon vœu suprême</l>
-<l>&#x2001;&#x2001;&#x2001;Au lis de Louis Seize :</l>
+<l m='6'>Au lis de Louis Seize :</l>
 <l>Napoléon qui fus digne du diadème,</l>
-<l>&#x2001;&#x2001;&#x2001;Gloire à ta mort française !</l>
+<l m='6'>Gloire à ta mort française !</l>
 </lg>
 
 <lg>
 <l>Et priez bien pour nous, pour cette France ancienne,</l>
-<l>&#x2001;&#x2001;&#x2001;Aujourd’hui vraiment « Sire »,</l>
+<l m='6'>Aujourd’hui vraiment « Sire »,</l>
 <l>Dieu qui vous couronna, sur la terre païenne,</l>
-<l>&#x2001;&#x2001;&#x2001;Bon chrétien, du martyre !</l>
+<l m='6'>Bon chrétien, du martyre !</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XIV">
+<page-sequence id="p1.XIV">
  <pagenum num="222"/>
 
 <h2>XIV</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Vous reviendrez bientôt les bras pleins de pardons</l>
-<l>&#x2001;&#x2001;&#x2001;Selon votre coutume,</l>
+<l m='6'>Selon votre coutume,</l>
 <l>O Pères excellents qu’aujourd’hui nous perdons</l>
-<l>&#x2001;&#x2001;&#x2001;Pour comble d’amertume.</l>
+<l m='6'>Pour comble d’amertume.</l>
 </lg>
 
 <lg>
 <l>Vous reviendrez, vieillards exquis, avec l’honneur</l>
-<l>&#x2001;&#x2001;&#x2001;Avec sa Fleur chérie,</l>
+<l m='6'>Avec sa Fleur chérie,</l>
 <l>Et que de pleurs Joyeux, et quels cris de bonheur</l>
-<l>&#x2001;&#x2001;&#x2001;Dans toute la patrie !</l>
+<l m='6'>Dans toute la patrie !</l>
 </lg>
 
 <lg>
 <l>Vous reviendrez, après ces glorieux exils,</l>
-<l>&#x2001;&#x2001;&#x2001;Après des moissons d’âmes,</l>
+<l m='6'>Après des moissons d’âmes,</l>
 <l>Après avoir prié pour ceux-ci, fussent-ils</l>
-<l>&#x2001;&#x2001;&#x2001;Encore plus infâmes,</l>
+<l m='6'>Encore plus infâmes,</l>
 </lg>
 
 <lg>
 <l>Après avoir couvert les îles et la mer</l>
-<l>&#x2001;&#x2001;&#x2001;De votre ombre si douce</l>
+<l m='6'>De votre ombre si douce</l>
 <l>Et réjoui le ciel et consterné l’enfer,</l>
-<l>&#x2001;&#x2001;&#x2001;Béni qui vous repousse,</l>
+<l m='6'>Béni qui vous repousse,</l>
 </lg>
 
  <pagenum num="223"/>
 
 <lg>
 <l>Béni qui vous dépouille au cri de liberté,</l>
-<l>&#x2001;&#x2001;&#x2001;Béni l’impie en armes,</l>
+<l m='6'>Béni l’impie en armes,</l>
 <l>Et l’enfant qu’il vous prend des bras, — et racheté</l>
-<l>&#x2001;&#x2001;&#x2001;Nos crimes par vos larmes !</l>
+<l m='6'>Nos crimes par vos larmes !</l>
 </lg>
 
 <lg>
 <l>Proscrits des jours, vainqueurs des temps non point adieu</l>
-<l>&#x2001;&#x2001;&#x2001;Vous êtes l’espérance.</l>
+<l m='6'>Vous êtes l’espérance.</l>
 <l>A tantôt, Pères saints, qui nous vaudrez de Dieu</l>
-<l>&#x2001;&#x2001;&#x2001;Le salut pour la France !</l>
+<l m='6'>Le salut pour la France !</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XV">
+<page-sequence id="p1.XV">
  <pagenum num="224"/>
 
 <h2>XV</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>On n’offense que Dieu qui seul pardonne.</l>
 </lg>
@@ -1153,15 +1122,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XVI">
+<page-sequence id="p1.XVI">
  <pagenum num="226"/>
 
 <h2>XVI</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Écoutez la chanson bien douce</l>
 <l>Qui ne pleure que pour vous plaire,</l>
@@ -1214,15 +1181,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XVII">
+<page-sequence id="p1.XVII">
  <pagenum num="228"/>
 
 <h2>XVII</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Les chères mains qui furent miennes,</l>
 <l>Toutes petites, toutes belles,</l>
@@ -1261,15 +1226,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XVIII">
+<page-sequence id="p1.XVIII">
  <pagenum num="230"/>
 
 <h2>XVIII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Et j’ai revu l’enfant unique : il m’a semblé</l>
 <l>Que s’ouvrait dans mon cœur la dernière blessure,</l>
@@ -1297,15 +1260,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XIX">
+<page-sequence id="p1.XIX">
 <pagenum num="231"/>
 
 <h2>XIX</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Voix de l’Orgueil ; un cri puissant, comme d’un cor.</l>
 <l>Des étoiles de sang sur des cuirasses d’or,</l>
@@ -1369,15 +1330,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XX">
+<page-sequence id="p1.XX">
  <pagenum num="233"/>
 
 <h2>XX</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>L’ennemi se déguise en L’Ennui</l>
 <l>Et me dit : « A quoi bon, pauve dupe ? »</l>
@@ -1406,15 +1365,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XXI">
+<page-sequence id="p1.XXI">
 <pagenum num="234"/>
 
 <h2>XXI</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Va ton chemin sans plus t’inquiéter !</l>
 <l>La route est droite et tu n’as qu’à monter,</l>
@@ -1462,15 +1419,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XXII">
+<page-sequence id="p1.XXII">
  <pagenum num="236"/>
 
 <h2>XXII</h2>
 
-<poem>
+<poem m='6'>
 <lg>
 <l>Pourquoi triste, ô mon âme,</l>
 <l>Triste jusqu’à la mort,</l>
@@ -1543,15 +1498,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XXIII">
+<page-sequence id="p1.XXIII">
  <pagenum num="239"/>
 
 <h2>XXIII</h2>
 
-<poem>
+<poem m='7'>
 <lg>
 <l>Né l’enfant des grandes villes</l>
 <l>Et des révoltes serviles,</l>
@@ -1587,15 +1540,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1.XXIV">
+<page-sequence id="p1.XXIV">
  <pagenum num="241"/>
 
 <h2>XXIV</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>L’âme antique était rude et vaine</l>
 <l>Et ne voyait dans la douleur</l>
@@ -1684,18 +1635,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
-<div id="p2.I">
+<page-sequence id="p2.I">
  <pagenum num="244"/>
 
 <h1>II</h1>
 
 <h2>I</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>O mon Dieu, vous m’avez blessé d’amour</l>
 <l>Et la blessure est encore vibrante,</l>
@@ -1795,16 +1743,13 @@
 </lg>
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2.II">
+<page-sequence id="p2.II">
  <pagenum num="247"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Je ne veux plus aimer que ma mère Marie.</l>
 <l>Tous les autres amours sont de commandement.</l>
@@ -1850,15 +1795,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2.III">
+<page-sequence id="p2.III">
  <pagenum num="249"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Vous êtes calme, vous voulez un vœu discret,</l>
 <l>Des secrets à mi-voix dans l’ombre et le silence,</l>
@@ -1918,17 +1861,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2.IV">
+<page-sequence id="p2.IV">
  <pagenum num="251"/>
 
 <h2>IV</h2>
 
 <h2>I</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Mon Dieu m’a dit : Mon fils, il faut m’aimer. Tu vois</l>
 <l>Mon flanc percé, mon cœur qui rayonne et qui saigne,</l>
@@ -1959,7 +1900,7 @@
 
 <h2>II</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>J’ai répondu : Seigneur, vous avez dit mon âme.</l>
 <l>C’est vrai que je vous cherche et ne vous trouve pas.</l>
@@ -1989,7 +1930,7 @@
 
 <h2>III</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>— Il faut m’aimer ! Je suis l’universel Baiser,</l>
 <l>Je suis cette paupière et je suis cette lèvre</l>
@@ -2020,7 +1961,7 @@
 
 <h2>IV</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>— Seigneur, c’est trop ? Vraiment je n’ose. Aimer qui ? Vous ?</l>
 <l>Oh ! non ! Je tremble et n’ose. Oh ! vous aimer je n’ose,</l>
@@ -2058,7 +1999,7 @@
 
 <h2>V</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>— Il faut m’aimer. Je suis ces Fous que tu nommais,</l>
 <l>Je suis l’Adam nouveau qui mange le vieil homme,</l>
@@ -2090,7 +2031,7 @@
 
 <h2>VI</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>— Seigneur, j’ai peur. Mon âme en moi tressaille toute.</l>
 <l>Je vois, je sens qu’il faut vous aimer. Mais comment</l>
@@ -2120,7 +2061,7 @@
 
 <h2>VII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>— Certes, si tu le veux mériter, mon fils, oui,</l>
 <l>Et voici. Laisse aller l’ignorance indécise</l>
@@ -2206,7 +2147,7 @@
 
 <h2>VIII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>— Ah ! Seigneur, qu’ai-je ? Hélas ! me voici tout en larmes</l>
 <l>D’une joie extraordinaire : votre voix</l>
@@ -2237,25 +2178,21 @@
 
 <h2>IX</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l cont="true"> — Pauvre âme, c’est cela !</l>
 </lg>
 </poem>
 
-
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
-<div id="p3.I">
+<page-sequence id="p3.I">
  <pagenum num="259"/>
 
 <h1>III</h1>
 
 <h2>I</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Désormais le Sage, puni</l>
 <l>Pour avoir trop aimé les choses,</l>
@@ -2322,16 +2259,13 @@
 </lg>
 </poem>
 
-</div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.II">
+<page-sequence id="p3.II">
  <pagenum num="261"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='5'>
 <lg>
 <l>Du fond du grabat</l>
 <l>As-tu vu l’étoile</l>
@@ -2550,15 +2484,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.III">
+<page-sequence id="p3.III">
  <pagenum num="268"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>L’espoir luit comme un brin de paille dans l’étable.</l>
 <l>Que crains-tu de la guêpe ivre de son vol fou ?</l>
@@ -2586,10 +2518,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.IV">
+<page-sequence id="p3.IV">
  <pagenum num="269"/>
 
 <h2>IV</h2>
@@ -2598,7 +2528,7 @@
 <p><i>Gaspard Hauser chante :</i></p>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Je suis venu, calme orphelin,</l>
 <l>Riche de mes seuls yeux tranquilles,</l>
@@ -2630,15 +2560,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.V">
+<page-sequence id="p3.V">
  <pagenum num="271"/>
 
 <h2>V</h2> 
 
-<poem>
+<poem m='5'>
 <lg>
 <l>Un grand sommeil noir</l>
 <l>Tombe sur ma vie :</l>
@@ -2661,108 +2589,102 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.VI">
+<page-sequence id="p3.VI">
  <pagenum num="272"/>
 
 <h2>VI</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Le ciel est, par-dessus le toit,</l>
-<l>&#x2001;&#x2001;Si bleu, si calme !</l>
+<l m='4'>Si bleu, si calme !</l>
 <l>Un arbre, par-dessus le toit</l>
-<l>&#x2001;&#x2001;Berce sa palme.</l>
+<l m='4'>Berce sa palme.</l>
 </lg>
 
 <lg>
 <l>La cloche dans le ciel qu’on voit</l>
-<l>&#x2001;&#x2001;Doucement tinte.</l>
+<l m='4'>Doucement tinte.</l>
 <l>Un oiseau sur l’arbre qu’on voit</l>
-<l>&#x2001;&#x2001;Chante sa plainte.</l>
+<l m='4'>Chante sa plainte.</l>
 </lg>
 
 <lg>
 <l>Mon Dieu, mon Dieu, la vie est là,</l>
-<l>&#x2001;&#x2001;Simple et tranquille.</l>
+<l m='4'>Simple et tranquille.</l>
 <l>Cette paisible rumeur-là</l>
-<l>&#x2001;&#x2001;Vient de la ville.</l>
+<l m='4'>Vient de la ville.</l>
 </lg>
 
 <lg>
 <l>— Qu’as-tu fait, ô toi que voilà</l>
-<l>&#x2001;&#x2001;Pleurant sans cesse,</l>
+<l m='4'>Pleurant sans cesse,</l>
 <l>Dis, qu’as-tu fait, toi que voilà,</l>
-<l>&#x2001;&#x2001;De ta jeunesse ?</l>
+<l m='4'>De ta jeunesse ?</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.VII">
+<page-sequence id="p3.VII">
 <pagenum num="273"/>
 
 <h2>VII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Je ne sais pourquoi</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Mon esprit amer</l>
+<l m='5'>Je ne sais pourquoi</l>
+<l m='5'>Mon esprit amer</l>
 <l>D’une aile inquiète et folle vole sur la mer,</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Tout ce qui m’est cher,</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;D’une aile d’effroi</l>
+<l m='5'>Tout ce qui m’est cher,</l>
+<l m='5'>D’une aile d’effroi</l>
 <l>Mon amour le couve au ras des flots. Pourquoi, pourquoi ?</l>
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;Mouette à l’essor mélancolique.</l>
-<l>&#x2001;&#x2001;Elle suit la vague, ma pensée,</l>
-<l>&#x2001;&#x2001;A tous les vents du ciel balancée</l>
-<l>&#x2001;&#x2001;Et biaisant quand la marée oblique,</l>
-<l>&#x2001;&#x2001;Mouette à l’essor mélancolique.</l>
+<l m='5'>r mélancolique.</l>
+<l m='5'>ue, ma pensée,</l>
+<l m='5'> du ciel balancée</l>
+<l m='5'>d la marée oblique,</l>
+<l m='5'>r mélancolique.</l>
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Ivre de soleil</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Et de liberté,</l>
+<l m='5'>Ivre de soleil</l>
+<l m='5'>Et de liberté,</l>
 <l>Un instinct la guide à travers cette immensité.</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;La brise d’été</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Sur le flot vermeil</l>
+<l m='5'>La brise d’été</l>
+<l m='5'>Sur le flot vermeil</l>
 <l>Doucement la porte en un tiède demi-sommeil.</l>
 </lg>
 
  <pagenum num="274"/>
 
-<lg>
-<l>&#x2001;&#x2001;Parfois si tristement elle crie</l>
-<l>&#x2001;&#x2001;Qu’elle alarme au lointain le pilote,</l>
-<l>&#x2001;&#x2001;Puis au gré du vent se livre et flotte</l>
-<l>&#x2001;&#x2001;Et plonge, et l’aile toute meurtrie</l>
-<l>&#x2001;&#x2001;Revole, et puis si tristement crie !</l>
+<lg m='8'>
+<l>Parfois si tristement elle crie</l>
+<l>Qu’elle alarme au lointain le pilote,</l>
+<l>Puis au gré du vent se livre et flotte</l>
+<l>Et plonge, et l’aile toute meurtrie</l>
+<l>Revole, et puis si tristement crie !</l>
 </lg>
 
 <lg>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Je ne sais pourquoi</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Mon esprit amer</l>
+<l m='5'>Je ne sais pourquoi</l>
+<l m='5'>Mon esprit amer</l>
 <l>D’une aile inquiète et folle vole sur la mer.</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;Tout ce qui m’est cher,</l>
-<l>&#x2001;&#x2001;&#x2001;&#x2001;D’une aile d’effroi,</l>
+<l m='5'>Tout ce qui m’est cher,</l>
+<l m='5'>D’une aile d’effroi,</l>
 <l>Mon amour le couve au ras des flots. Pourquoi, pourquoi ?</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.VIII">
+<page-sequence id="p3.VIII">
  <pagenum num="275"/>
 
 <h2>VIII</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Parfums, couleurs, systèmes, lois !</l>
 <l>Les mots ont peur comme des poules.</l>
@@ -2790,15 +2712,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.IX">
+<page-sequence id="p3.IX">
  <pagenum num="276"/>
 
 <h2>IX</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Le son du cor s’afflige vers les bois</l>
 <l>D’une douleur on veut croire orpheline</l>
@@ -2826,15 +2746,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.X">
+<page-sequence id="p3.X">
 <pagenum num="277"/>
 
 <h2>X</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>La tristesse, langueur du corps humain</l>
 <l>M’attendrissent, me fléchissent, m’apitoient,</l>
@@ -2862,15 +2780,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.XI">
+<page-sequence id="p3.XI">
  <pagenum num="278"/>
 
 <h2>XI</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>La bise se rue à travers</l>
 <l>Les buissons tout noirs et tout verts,</l>
@@ -2895,15 +2811,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.XII">
+<page-sequence id="p3.XII">
 <pagenum num="279"/>
 
 <h2>XII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Vous voilà, vous voilà, pauvres bonnes pensées !</l>
 <l>L’espoir qu’il faut, regret des grâces dépensées,</l>
@@ -2938,15 +2852,13 @@
   </note>
 </notes>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.XIII">
+<page-sequence id="p3.XIII">
  <pagenum num="281"/>
 
 <h2>XIII</h2>
 
-<poem>
+<poem m='7'>
 <lg>
 <l>L’échelonnement des haies</l>
 <l>Moutonne à l’infini, mer</l>
@@ -2976,15 +2888,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.XIV">
+<page-sequence id="p3.XIV">
 <pagenum num="282"/>
 
  <h2>XIV</h2>
 
-<poem>
+<poem m='9'>
 <lg>
 <l>L’immensité de l’humanité,</l>
 <l>Le temps passé vivace et bon père,</l>
@@ -3007,15 +2917,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.XV">
+<page-sequence id="p3.XV">
 <pagenum num="283"/>
 
 <h2>XV</h2>
 
-<poem>
+<poem m='5'>
 <lg>
 <l>La mer est plus belle</l>
 <l>Que les cathédrales,</l>
@@ -3054,15 +2962,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.XVI">
+<page-sequence id="p3.XVI">
  <pagenum num="285"/>
 
 <h2>XVI</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>La « grande ville ». Un tas criard de pierres blanches</l>
 <l>Où rage le soleil comme en pays conquis.</l>
@@ -3085,15 +2991,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.XVII">
+<page-sequence id="p3.XVII">
  <pagenum num="286"/>
 
 <h2>XVII</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Toutes les amours de la terre</l>
 <l>Laissant au cœur du délétère</l>
@@ -3141,15 +3045,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.XVIII">
+<page-sequence id="p3.XVIII">
  <pagenum num="288"/>
 
 <h2>XVIII</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Sainte Thérèse veut que la Pauvreté soit</l>
 <l>La reine d’ici-bas, et littéralement !</l>
@@ -3177,15 +3079,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.XIX">
+<page-sequence id="p3.XIX">
  <pagenum num="289"/>
 
 <h2>XIX</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Parisien, mon frère à jamais étonné,</l>
 <l>Montons sur la colline où le soleil est né</l>
@@ -3246,15 +3146,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3.XX">
+<page-sequence id="p3.XX">
  <pagenum num="292"/>
 
 <h2>XX</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>C’est la fête du blé, c’est la fête du pain</l>
 <l>Aux chers lieux d’autrefois revus après ces choses !</l>
@@ -3294,11 +3192,8 @@
 </poem>
 
  <pagenum num="294"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
 <h1>TABLE</h1>
 
 <vsep class="rule"/>
@@ -3362,7 +3257,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
  </page-sequences>
 </bml>

@@ -33,7 +33,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000235"
         creation="2012-12-08T00:00:01-08:00"
-        modification="2014-12-31T18:14:47-08:00">
+        modification="2022-06-20T15:01:34-07:00">
 
       <surtitre>Œuvres complètes</surtitre>
       <titre>Bonheur</titre>
@@ -90,13 +90,12 @@
   <cover src="images/couverture2.png" alt="Œuvres complètes de Paul Verlaine. Amour — Bonheur — Parallèlement — Chansons pour elle — Liturgies intimes — Odes en son honneur. Tome deuxième. Deuxième édition. Paris. Librairie Léon Vanier, éditeur. A. Messein Succr. 19, quai Saint-Michel, 19. 1905."/>
 
 <page-sequences>
-<page-sequence>
-<div id="p41">
+<page-sequence id="p41">
  <pagenum num="125"/>
 
 <h2>I</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>L’incroyable, l’unique horreur de pardonner,</l>
@@ -126,15 +125,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p42">
+<page-sequence id="p42">
  <pagenum num="126"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='6'>
 
 <lg>
 <l>La vie est bien sévère</l>
@@ -210,15 +207,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p43">
+<page-sequence id="p43">
  <pagenum num="128"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Après la chose faite, après le coup porté</l>
@@ -274,15 +269,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p44">
+<page-sequence id="p44">
  <pagenum num="130"/>
 
 <h2>IV</h2>
 
-<poem>
+<poem m='9'>
 
 <lg>
 <l>De plus, cette ignorance de Vous !</l>
@@ -337,15 +330,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p45">
+<page-sequence id="p45">
  <pagenum num="132"/>
 
 <h2>V</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>L’adultère, celui du moins codifié</l>
@@ -394,15 +385,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p46">
+<page-sequence id="p46">
  <pagenum num="134"/>
 
 <h2>VI</h2>
 
-<poem>
+<poem m='6'>
 
 <lg>
 <l>Puis, déjà très anciens,</l>
@@ -443,15 +432,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p47">
+<page-sequence id="p47">
  <pagenum num="136"/>
 
 <h2>VII</h2>
 
-<poem>
+<poem m='9'>
 
 <lg>
 <l>Maintenant, au gouffre du Bonheur !</l>
@@ -506,15 +493,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p48">
+<page-sequence id="p48">
  <pagenum num="138"/>
 
 <h2>VIII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>L’homme pauvre du cœur est-il si rare, en somme ?</l>
@@ -581,135 +566,131 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p49">
+<page-sequence id="p49">
  <pagenum num="141"/>
 
 <h2>IX</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>Bon pauvre, ton vêtement est léger</l>
-<l>&#x2001;&#x2001;&#x2001;Comme une brume,</l>
+<l m='4'>Comme une brume,</l>
 <l>Oui, mais aussi ton cœur, il est léger</l>
-<l>&#x2001;&#x2001;&#x2001;Comme une plume,</l>
+<l m='4'>Comme une plume,</l>
 <l>Ton libre cœur qui n’a qu’à plaire à Dieu,</l>
-<l>&#x2001;&#x2001;&#x2001;Ton cœur bien quitte</l>
+<l m='4'>Ton cœur bien quitte</l>
 <l>De toute dette humaine, en quelque lieu</l>
-<l>&#x2001;&#x2001;&#x2001;Que l’homme habite,</l>
+<l m='4'>Que l’homme habite,</l>
 <l>Ta part de plaisir et d’aise paraît</l>
-<l>&#x2001;&#x2001;&#x2001;Peu suffisante.</l>
+<l m='4'>Peu suffisante.</l>
 <l>Ta conscience, en revanche, apparaît</l>
-<l>&#x2001;&#x2001;&#x2001;Satisfaisante.</l>
+<l m='4'>Satisfaisante.</l>
 <l>Ta conscience que, précisément,</l>
-<l>&#x2001;&#x2001;&#x2001;Tes malheurs mêmes</l>
+<l m='4'>Tes malheurs mêmes</l>
 <l>Ont dégagée, en ce juste moment,</l>
-<l>&#x2001;&#x2001;&#x2001;Des soins suprêmes.</l>
+<l m='4'>Des soins suprêmes.</l>
 <l>Ton boire et ton manger sont, je le crains,</l>
-<l>&#x2001;&#x2001;&#x2001;Tristes et mornes ;</l>
+<l m='4'>Tristes et mornes ;</l>
 <l>Seulement ton corps faible a, dans ses reins,</l>
-<l>&#x2001;&#x2001;&#x2001;Sans fin ni bornes,</l>
+<l m='4'>Sans fin ni bornes,</l>
  <pagenum num="142"/>
 <l>Des forces d’abstinence et de refus</l>
-<l>&#x2001;&#x2001;&#x2001;Très glorieuses,</l>
+<l m='4'>Très glorieuses,</l>
 <l>El des ailes vers des cieux entrevus</l>
-<l>&#x2001;&#x2001;&#x2001;Impérieuses.</l>
+<l m='4'>Impérieuses.</l>
 <l>Ta tête, franche de mets et de vin,</l>
-<l>&#x2001;&#x2001;&#x2001;Toute pensée,</l>
+<l m='4'>Toute pensée,</l>
 <l>Tout intellect, conforme au plan divin,</l>
-<l>&#x2001;&#x2001;&#x2001;Haut redressée,</l>
+<l m='4'>Haut redressée,</l>
 <l>Ta tête est prête à tout enseignement</l>
-<l>&#x2001;&#x2001;&#x2001;De la parole</l>
+<l m='4'>De la parole</l>
 <l>Et, de l’exemple de Jésus clément</l>
-<l>&#x2001;&#x2001;&#x2001;Et bénévole,</l>
+<l m='4'>Et bénévole,</l>
 <l>Et de Jésus terrible, prêt au pleur</l>
-<l>&#x2001;&#x2001;&#x2001;Qu’il faut qu’on verse,</l>
+<l m='4'>Qu’il faut qu’on verse,</l>
 <l>A l’affront vil qui poigne, à la douleur</l>
-<l>&#x2001;&#x2001;&#x2001;Lente qui perce,</l>
+<l m='4'>Lente qui perce,</l>
 <l>Le monde pour toi seul, le monde affreux</l>
-<l>&#x2001;&#x2001;&#x2001;Devient possible,</l>
+<l m='4'>Devient possible,</l>
 <l>T’environnant, toi qu’il croit malheureux,</l>
-<l>&#x2001;&#x2001;&#x2001;D’oubli paisible,</l>
+<l m='4'>D’oubli paisible,</l>
 <l>Même t’ayant d’étonnantes douceurs</l>
-<l>&#x2001;&#x2001;&#x2001;Et ces caresses !</l>
+<l m='4'>Et ces caresses !</l>
 <l>Les femmes qui sont parfois d’âpres sœurs,</l>
-<l>&#x2001;&#x2001;&#x2001;D’aigres maîtresses,</l>
+<l m='4'>D’aigres maîtresses,</l>
 <l>Et de douloureux compagnons toujours</l>
-<l>&#x2001;&#x2001;&#x2001;Ou toujours presque,</l>
+<l m='4'>Ou toujours presque,</l>
 <l>Te jaugeant malfringant, aux gestes lourds,</l>
-<l>&#x2001;&#x2001;&#x2001;Un peu grotesque,</l>
+<l m='4'>Un peu grotesque,</l>
  <pagenum num="143"/>
 <l>Tout à fait incapable de n’aimer</l>
-<l>&#x2001;&#x2001;&#x2001;Qu’à les voir belles,</l>
+<l m='4'>Qu’à les voir belles,</l>
 <l>Qu’à les trouver bonnes et de n’aimer</l>
-<l>&#x2001;&#x2001;&#x2001;Qu’elles en elles,</l>
+<l m='4'>Qu’elles en elles,</l>
 <l>Et le pesant si léger que ce n’est</l>
-<l>&#x2001;&#x2001;&#x2001;Rien de le dire,</l>
+<l m='4'>Rien de le dire,</l>
 <l>Te dispenseront, tous comptes au net,</l>
-<l>&#x2001;&#x2001;&#x2001;De leur sourire.</l>
+<l m='4'>De leur sourire.</l>
 <l>Et te voilà libre, à dîner, en roi,</l>
-<l>&#x2001;&#x2001;&#x2001;Seul à ta table,</l>
+<l m='4'>Seul à ta table,</l>
 <l>Sans nul flatteur, quel fléau pour un roi,</l>
-<l>&#x2001;&#x2001;&#x2001;Plus détestable ?</l>
+<l m='4'>Plus détestable ?</l>
 <l>L’assassin, l’escroc et l’humble voleur</l>
-<l>&#x2001;&#x2001;&#x2001;Qui n’y voient guère</l>
+<l m='4'>Qui n’y voient guère</l>
 <l>De nuance, t’épargnent comme leur</l>
-<l>&#x2001;&#x2001;&#x2001;Plus jeune frère,</l>
+<l m='4'>Plus jeune frère,</l>
 <l>Des vertus surérogatoires, la</l>
-<l>&#x2001;&#x2001;&#x2001;Prudence humaine,</l>
+<l m='4'>Prudence humaine,</l>
 <l>(L’autre, la cardinale, ah ! celle-là</l>
-<l>&#x2001;&#x2001;&#x2001;Que Dieu t’y mène !)</l>
+<l m='4'>Que Dieu t’y mène !)</l>
 <l>L’amabilité, l’affabilité</l>
-<l>&#x2001;&#x2001;&#x2001;Quasi célestes,</l>
+<l m='4'>Quasi célestes,</l>
 <l>Sans rien d’affecté, sans rien d’apprêté,</l>
-<l>&#x2001;&#x2001;&#x2001;Franches modestes,</l>
+<l m='4'>Franches modestes,</l>
 <l>Nimbent le destin, que Dieu te voulut</l>
-<l>&#x2001;&#x2001;&#x2001;Tendre et sévère.</l>
+<l m='4'>Tendre et sévère.</l>
 <l>Dans l’intérêt surtout de ton salut,</l>
-<l>&#x2001;&#x2001;&#x2001;A bien parfaire</l>
+<l m='4'>A bien parfaire</l>
  <pagenum num="144"/>
 <l>Et pour ange contre le lourd méchant</l>
-<l>&#x2001;&#x2001;&#x2001;Toujours stupide</l>
+<l m='4'>Toujours stupide</l>
 <l>La clairvoyance te guide en marchant,</l>
-<l>&#x2001;&#x2001;&#x2001;Fine et rapide,</l>
+<l m='4'>Fine et rapide,</l>
 <l>La clairvoyance, qui n’est pas du tout,</l>
-<l>&#x2001;&#x2001;&#x2001;La Méfiance</l>
+<l m='4'>La Méfiance</l>
 <l>Et qui plutôt serait pour sommer tout,</l>
-<l>&#x2001;&#x2001;&#x2001;La Prévoyance,</l>
+<l m='4'>La Prévoyance,</l>
 <l>Élicitant les gens de prime-saut</l>
-<l>&#x2001;&#x2001;&#x2001;Sous les grimaces</l>
+<l m='4'>Sous les grimaces</l>
 <l>Faisant sortir la sottise du sot.</l>
-<l>&#x2001;&#x2001;&#x2001;Trouvant des traces,</l>
+<l m='4'>Trouvant des traces,</l>
 <l>Et médusant la curiosité</l>
-<l>&#x2001;&#x2001;&#x2001;De l’hypocrite</l>
+<l m='4'>De l’hypocrite</l>
 <l>Par un regard entre les yeux planté</l>
-<l>&#x2001;&#x2001;&#x2001;Qui brûle vite...</l>
+<l m='4'>Qui brûle vite...</l>
 <l>Et s’il ose rester des ennemis</l>
-<l>&#x2001;&#x2001;&#x2001;A ta misère,</l>
+<l m='4'>A ta misère,</l>
 <l>Pardonne-leur, ainsi que l’a promis</l>
-<l>&#x2001;&#x2001;&#x2001;Ton Notre-Père...</l>
+<l m='4'>Ton Notre-Père...</l>
 <l>Afin que Dieu te pardonne aussi, Lui,</l>
-<l>&#x2001;&#x2001;&#x2001;Prends cette avance.</l>
+<l m='4'>Prends cette avance.</l>
 <l>Car, dans le mal fait au prochain, c’est Lui</l>
-<l>&#x2001;&#x2001;&#x2001;Seul qu’on offense.</l>
+<l m='4'>Seul qu’on offense.</l>
 </lg>
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p50">
+<page-sequence id="p50">
  <pagenum num="145"/>
 
 <h2>X</h2>
 
 <p class="r3"><i>Écrit en 1888.</i></p>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Le « sort » fantasque qui me gâte à sa manière</l>
@@ -770,15 +751,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p51">
+<page-sequence id="p51">
  <pagenum num="148"/>
 
 <h2>XI</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Prêtres de Jésus-Christ, la vérité vous garde.</l>
@@ -873,15 +852,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p52">
+<page-sequence id="p52">
  <pagenum num="152"/>
 
 <h2>XII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Guerrière, militaire et virile en tout point,</l>
@@ -980,15 +957,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p53">
+<page-sequence id="p53">
  <pagenum num="155"/>
 
 <h2>XIII</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Un projet de mon âge mûr</l>
@@ -1138,15 +1113,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p54">
+<page-sequence id="p54">
  <pagenum num="159"/>
 
 <h2>XIV</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Sois de bronze et de marbre et surtout sois de chair :</l>
@@ -1188,15 +1161,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p55">
+<page-sequence id="p55">
  <pagenum num="161"/>
 
 <h2>XV</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Mon ami, ma plus belle amitié, ma meilleure,</l>
@@ -1383,15 +1354,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p56">
+<page-sequence id="p56">
  <pagenum num="166"/>
 
 <h2>XVI</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Seigneur, vous m’avez laissé vivre</l>
@@ -1544,15 +1513,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p57">
+<page-sequence id="p57">
  <pagenum num="171"/>
 
 <h2>XVII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Rompons ! Ce que j’ai dit, je ne le reprends pas.</l>
@@ -1582,15 +1549,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p58">
+<page-sequence id="p58">
   <pagenum num="172"/>
 
 <h2>XVIII</h2>
  
-<poem>
+<poem m='12'>
 
 <lg>
 <l>J’ai dit à l’esprit vain, à l’ostentation,</l>
@@ -1721,15 +1686,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p59">
+<page-sequence id="p59">
    <pagenum num="177"/>
 
 <h2>XIX</h2>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>La neige à travers la brume</l>
@@ -1775,17 +1738,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p60">
+<page-sequence id="p60">
  <pagenum num="179"/>
 
 <h2>XX</h2>
 
 <h2>I</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Je voudrais, si ma vie était encore à faire,</l>
@@ -1815,15 +1776,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="180"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>L’indulgence qui n’est pas de l’indifférence</l>
@@ -1853,15 +1812,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="181"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>L’amitié, mais entre homme et femme elle est divine !</l>
@@ -1891,15 +1848,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p61">
+<page-sequence id="p61">
  <pagenum num="182"/>
 
 <h2>XXI</h2>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>O ! j’ai froid d’un froid de glace</l>
@@ -2002,15 +1957,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p62">
+<page-sequence id="p62">
  <pagenum num="185"/>
 
 <h2>XXII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Un scrupule qui ma l’air sot comme un péché</l>
@@ -2095,15 +2048,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p63">
+<page-sequence id="p63">
  <pagenum num="188"/>
 
 <h2>XXIII</h2>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Après le départ des cloches</l>
@@ -2115,8 +2066,8 @@
 <l>On consacre les Saintes Huiles</l>
 <l>Qu’escorte ensuite un long cortège</l>
 <l>De pontifes et de lévites.</l>
-<l>&#x2001;Il pluvine, il neigeotte,</l>
-<l>&#x2001;L’hiver vide sa hotte.</l>
+<l m='6'>Il pluvine, il neigeotte,</l>
+<l m='6'>L’hiver vide sa hotte.</l>
 </lg>
 
 <lg>
@@ -2124,8 +2075,8 @@
 <l>L’autel, tout nu, n’a plus de cierges,</l>
 <l>De grands draps noirs pendent aux grilles,</l>
 <l>Les orgues saintes sont muettes.</l>
-<l>&#x2001;Du brouillard danse à même</l>
-<l>&#x2001;Le ciel encore blême.</l>
+<l m='6'>Du brouillard danse à même</l>
+<l m='6'>Le ciel encore blême.</l>
 </lg>
 
  <pagenum num="189"/>
@@ -2135,8 +2086,8 @@
 <l>Toutes cires sont allumées,</l>
 <l>Et de solennelle musique</l>
 <l>S’enfle au chœur et monte au jubé,</l>
-<l>&#x2001;Un clair soleil qui grise</l>
-<l>&#x2001;Réchauffe l’âpre bise.</l>
+<l m='6'>Un clair soleil qui grise</l>
+<l m='6'>Réchauffe l’âpre bise.</l>
 </lg>
 
 <lg>
@@ -2146,15 +2097,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p64">
+<page-sequence id="p64">
  <pagenum num="190"/>
 
 <h2>XXIV</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>L’ennui de vivre avec les gens et dans les choses</l>
@@ -2319,17 +2268,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p65">
+<page-sequence id="p65">
  <pagenum num="194"/>
 
 <h2>XXV</h2>
 
 <p class="r3"><i>A Monsieur Borély.</i></p>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Vous m’avez demandé quelques vers sur « Amour ».</l>
@@ -2359,17 +2306,15 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p66">
+<page-sequence id="p66">
  <pagenum num="195"/>
 
 <h2>XXVI</h2>
 
 <p class="r3"><i>A propos de « Parallèlement ».</i></p>
 
-<poem>
+<poem m='7'>
 
 <lg>
 <l>Ces vers durent être faits,</l>
@@ -2424,15 +2369,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p67">
+<page-sequence id="p67">
  <pagenum num="197"/>
 
 <h2>XXVII</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Or tu n’es pas vaincu, sinon par le Seigneur,</l>
@@ -2461,15 +2404,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p68">
+<page-sequence id="p68">
  <pagenum num="198"/>
 
 <h2>XXVIII</h2>
 
-<poem>
+<poem m='5'>
 
 <lg>
 <l>Les plus belles voix</l>
@@ -2545,15 +2486,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p69">
+<page-sequence id="p69">
  <pagenum num="201"/>
 
 <h2>XXIX</h2>
 
-<poem>
+<poem m='9'>
 
 <lg>
 <l>L’autel bas s’orne de hautes mauves,</l>
@@ -2594,15 +2533,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p70">
+<page-sequence id="p70">
  <pagenum num="203"/>
 
 <h2>XXX</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>L’amour de la Patrie est le premier amour</l>
@@ -2833,15 +2770,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p71">
+<page-sequence id="p71">
  <pagenum num="209"/>
 
 <h2>XXXI</h2>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Immédiatement après le salut somptueux,</l>
@@ -2866,15 +2801,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p72">
+<page-sequence id="p72">
 <pagenum num="210"/>
 
 <h2>XXXII</h2>
 
-<poem>
+<poem m='10'>
 
 <lg>
 <l>La cathédrale est majestueuse</l>
@@ -2915,15 +2848,13 @@
 
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p73">
+<page-sequence id="p73">
  <pagenum num="212"/>
 
 <h2>XXXIII</h2>
 
-<poem>
+<poem m='5'>
 
 <lg>
 <l>Voix de Gabriel</l>
@@ -2978,11 +2909,8 @@
 
 </poem>
 
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
 
  <pagenum num="441"/>
 
@@ -3028,7 +2956,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
   </page-sequences>
 </bml>
