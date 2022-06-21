@@ -37,7 +37,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000219"
         creation="2012-09-30T00:00:00-08:00"
-        modification="2014-12-31T18:14:12-08:00">
+        modification="2022-06-21T14:58:45-07:00">
       
       <titre>L’archipel de la Manche</titre>
       
@@ -81,9 +81,7 @@
   <cover src="images/couverture_roman10.png" alt="Édition définitive d’après les manuscrits originaux. Œuvres complètes de Victor Hugo. Roman. X. Les travailleurs de la mer. Édition ne varietur. Paris. J. Hetzel &amp; Cie. 18, rue Jacob. A. Qantin &amp; Cie. rue Saint-Benoît, 7. 1883"/>
 
 <page-sequences>
-
- <page-sequence>
- <div id="I">
+ <page-sequence id="I">
   <pagenum v="v1" num="7"/>
 
 <h2>I</h2>
@@ -97,10 +95,8 @@
 
 <p>A l’industrie de la mer qui avait fait une ruine, a succédé l’industrie de l’homme qui a fait un peuple.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="II">
+  </page-sequence>
+ <page-sequence id="II">
   <pagenum v="v1" num="9"/>
 
 <h2>II</h2>
@@ -108,10 +104,8 @@
 
 <p>Granit au sud, sable au nord ; ici des escarpements, là des dunes ; un plan incliné de prairies avec des ondulations de collines et des reliefs de roches ; pour frange à ce tapis vert froncé de plis, l’écume de l’océan ; le long de la côte, des batteries rasantes, des tours à meurtrières, de distance en distance ; sur toute la plage basse, un parapet massif, coupé de créneaux et d’escaliers, que le sable envahit, et qu’attaque le flot, unique assiégeant à craindre ; des moulins démâtés par les tempêtes ; quelques-uns, au Valle, à la Ville-au-Roi, à Saint-Pierre-Port, à Torteval, tournant encore ; dans la falaise, des ancrages ; dans les dunes, des troupeaux ; le chien du berger et le chien du toucheur de bœufs en quête et en travail ; les petites charrettes des marchands de la ville galopant dans les chemins creux ; souvent des maisons noires, goudronnées à l’ouest à cause des pluies ; coqs, poules, fumiers ; partout des murs cyclopéens ; ceux de l’ancien <pagenum v="v1" num="10"/>havre, malheureusement détruits, étaient admirables avec leurs blocs informes, leurs poteaux puissants et leurs lourdes chaînes ; des fermes à encadrements de futaies ; les champs murés à hauteur d’appui avec des cordons de pierre sèche dessinant sur les plaines un bizarre échiquier ; çà et là, un rempart autour d’un chardon, des chaumières en granit, des huttes casemates, des cabanes à défier le boulet ; parfois, dans le lieu le plus sauvage, un petit bâtiment neuf, surmonté d’une cloche, qui est une école ; deux ou trois ruisseaux dans des fonds de prés ; ormes et chênes ; un lys fait exprès, qui n’est que là, <i>Guernsey lily ;</i> dans la saison des « grands labours », des charrues à huit chevaux ; devant les maisons, de larges meules de foin portées sur un cercle de bornes de pierre ; des tas d’ajoncs épineux ; parfois des jardins de l’ancien style français, à ifs taillés, à buis façonnés, à vases rocailles, mêlés aux vergers et aux potagers ; des fleurs d’amateurs dans des enclos de paysans ; des rhododendrons parmi les pommes de terre ; partout sur l’herbe des étalages de varech, couleur oreille-d’ours ; dans les cimetières, pas de croix, des larmes de pierre imitant au clair de lune des Dames blanches debout ; dix clochers gothiques sur l’horizon ; vieilles églises, dogmes neufs ; le rite protestant logé dans l’architecture catholique ; dans les sables et sur les caps, la sombre énigme celtique éparse sous ses formes diverses, menhirs, peulvens, longues pierres, pierres des fées, pierres branlantes, pierres sonnantes, galeries, cromlechs, dolmens, pouquelaies ; toutes sortes de traces ; <pagenum v="v1" num="11"/>après les druides, les abbés ; après les abbés, les recteurs ; des souvenirs de chutes du ciel ; à une pointe Lucifer, au château de Michel-Archange ; à l’autre pointe Icare, au cap Dicart ; presque autant de fleurs l’hiver que l’été ; — voilà Guernesey.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="III">
+  </page-sequence>
+ <page-sequence id="III">
   <pagenum v="v1" num="12"/>
 
 <h2>III</h2>
@@ -131,10 +125,8 @@
 
 <p>Les pêcheurs rudoyés de cet ouest battu des vents font des pilotes habiles. La mer est particulière dans les îles de la Manche. La baie de Cancale, tout proche, est le point du monde où les marées marnent le plus.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="IV">
+  </page-sequence>
+ <page-sequence id="IV">
   <pagenum v="v1" num="15"/>
 
 <h2>IV</h2>
@@ -148,10 +140,8 @@
 
 <p>Vous vous croyiez dans un village, vous êtes dans un régiment. Tel est l’homme.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="V">
+  </page-sequence>
+ <page-sequence id="V">
   <pagenum v="v1" num="18"/>
 
 <h2>V</h2>
@@ -160,7 +150,7 @@
 <p>L’overfall, lisez : <i>casse-cou,</i> est partout sur la côte ouest de Guernesey. Les vagues l’ont savamment déchiquetée. La nuit, sur la pointe des rochers suspects, des clartés invraisemblables, aperçues, dit-on, et affirmées par des rôdeurs de mer, avertissent ou trompent. Ces mêmes rôdeurs, hardis et crédules, distinguent sous l’eau l’holothurion des légendes, cette ortie marine et infernale qu’on ne peut toucher sans que la main prenne feu. Telle dénomination locale, Tinttajeu, par exemple (du gallois, Tin-Tagel), indique la présence du diable. Eustache, qui est Wace, le dit dans ses vieux vers :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Dont commença mer à meller,</l>
 <l>Undes à croistre et à troubler,</l>
 <l>Noircir il cieux, noircir la nue ;</l>
@@ -178,10 +168,8 @@
 
 <p>Dans ces rencontres-là, une manœuvre spéciale est nécessaire. Les marins de l’ouest de Guernesey excellent dans cette sorte de manœuvre qu’on pourrait nommer préventive. Personne n’a étudié comme eux les trois dangers de la mer tranquille, le singe, l’anuble, et le derruble. Le singe (swinge), c’est le courant ; l’anuble (lieu obscur), c’est le bas-fond ; le derruble (qu’on prononce le <i>terrible</i>), c’est le tourbillon, le nombril, l’entonnoir de roches sous-jacentes, le puits sous la mer.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="VI">
+  </page-sequence>
+ <page-sequence id="VI">
   <pagenum v="v1" num="21"/>
 
 <h2>VI</h2>
@@ -193,10 +181,8 @@
 
 <p>Ces formes éveillent l’idée de grandeur, non de beauté. Loin de là. Elles sont parfois maladives et hideuses. La roche a des nodosités, des tumeurs, des kystes, des ecchymoses, des loupes, des verrues. Les monts sont les gibbosités de la terre. Madame de Staël entendant M. de Chateaubriand, qui avait les épaules un peu hautes, mal parler des Alpes, disait : <i>jalousie de bossu</i>. Les grandes lignes et les grandes majestés de la nature, le niveau des mers, la silhouette des montagnes, le sombre des forêts, le bleu du ciel, se compliquent d’on ne sait quelle dislocation énorme mêlée à l’harmonie. La beauté a ses lignes, la difformité a les siennes. Il y a le sourire et il y a le rictus. La désagrégation fait sur la roche les mêmes effets que sur la nuée. Ceci flotte et se décompose, ceci est stable et incohérent. Un reste d’angoisse du chaos est dans la création. Les splendeurs ont des balafres. Une <pagenum v="v1" num="23"/>laideur, éblouissante parfois, se mêle aux choses les plus magnifiques et semble protester contre l’ordre. Il y a de la grimace dans le nuage. Il y a un grotesque céleste. Toutes les lignes sont brisées dans le flot, dans le feuillage, dans le rocher, et on ne sait quelles parodies s’y laissent entrevoir. L’informe y domine. Jamais un contour n’y est correct. Grand, oui ; pur, non. Examinez les nuages ; toutes sortes de visages s’y dessinent, toutes sortes de ressemblances s’y montrent, toutes sortes de figures s’y esquissent ; cherchez-y un profil grec ! Vous y trouverez Caliban, non Vénus ; jamais vous n’y verrez le Parthénon. Mais parfois, à la nuit tombante, quelque grande table d’ombre posée sur des jambages de nuée et entourée de blocs de brume ébauchera dans le livide ciel crépusculaire un cromlech immense et monstrueux.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="VII">
+  </page-sequence>
+ <page-sequence id="VII">
   <pagenum v="v1" num="24"/>
 
 <h2>VII</h2>
@@ -220,10 +206,8 @@
 
 <p>Le soir, le soleil couchant, radieusement horizontal, éclaire dans les chemins creux le lent retour des génisses s’attardant à mordre les haies à droite et à gauche, ce qui fait aboyer le chien. Les sauvages caps de l’ouest s’enfoncent en ondulant sous la mer ; quelques rares tamarins y frémissent. Au crépuscule, les murs cyclopéens, laissant passer le jour à travers leurs pierres, font au haut des collines de longues crêtes de guipure noire. Le bruit du vent écouté dans ces solitudes donne une sensation de lointain extraordinaire.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="VIII">
+  </page-sequence>
+ <page-sequence id="VIII">
   <pagenum v="v1" num="28"/>
 
 <h2>VIII</h2>
@@ -277,10 +261,8 @@
 
 <p>La ville est traversée en tous sens par des haquets chargés de barils de bière ou de sacs de charbon de <pagenum v="v1" num="34"/>terre. Le promeneur peut lire encore çà et là d’autres annonces : — <i>Ici, on continue à prêter un joli taureau comme par le passé. — Ici, on donne le plus haut prix pour chiques, plomb, verre, os. — A vendre, de nouvelles pommes de terre rognonnes, au choix. — A vendre, rames à pois, quelques tonnes d’avoine pour chaff, un service complet de portes anglicées pour un salon, comme aussi un cochon gras. Ferme de Mon-Plaisir, Saint-Jacques. — A vendre, de bons soubats dernièrement battus, des carottes jaunes par le cent, et une bonne seringue française. S’adresser au moulin de l’échelle Saint-André.  — Défense d’habiller du poisson et de déposer des encombriers. — A vendre un âne donnant lait. Etc., etc</i>.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="IX">
+  </page-sequence>
+ <page-sequence id="IX">
   <pagenum v="v1" num="35"/>
 
 <h2>IX</h2>
@@ -298,10 +280,8 @@
 
 <p>C’est en 709, nous l’avons dit, que l’océan a arraché Jersey à la France. Douze paroisses furent englouties. Des familles actuellement vivantes en Normandie ont encore la seigneurie de ces paroisses ; leur droit divin est sous l’eau ; cela arrive aux droits divins.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="X">
+  </page-sequence>
+ <page-sequence id="X">
   <pagenum v="v1" num="38"/>
 
 <h2>X</h2>
@@ -321,10 +301,8 @@
 
 <p>A propos de Satan, on hait Voltaire. Le mot <i>Voltaire</i> est, à ce qu’il paraît, une des prononciations du nom de Satan. Quand il s’agit de Voltaire, toutes les dissidences se rallient, le mormon coïncide avec l’anglican, l’accord se fait dans la colère, et toutes les sectes ne sont plus qu’une haine. L’anathème à Voltaire est le point d’intersection de toutes les variétés du protestantisme. Un fait remarquable, c’est que le catholicisme déteste Voltaire, et que le protestantisme l’exècre. Genève enchérit sur Rome. Il y a crescendo dans la malédiction. Calas, Sirven, tant de pages éloquentes contre les dragonnades n’y font rien. Voltaire a nié le dogme, cela suffit. Il a défendu les protestants, mais il a blessé le protestantisme. Les protestants le poursuivent d’une ingratitude orthodoxe. Quelqu’un qui avait à parler en public à Saint-Hélier pour une quête, fut prévenu que, s’il nommait Voltaire dans son speech, la quête avorterait. Tant que le passé aura assez de souffle pour avoir la parole, Voltaire sera rejeté. Écoutez toutes ces voix : il n’a ni génie, ni talent, ni esprit. On l’a insulté vieux, on le proscrit mort. Il est éternellement « discuté ». C’est là sa gloire. Parler de Voltaire avec calme et justice, est-ce que c’est possible ? Quand un homme domine un siècle et incarne le progrès, il n’a plus affaire à la critique, mais à la haine.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XI">
+  </page-sequence>
+ <page-sequence id="XI">
   <pagenum v="v1" num="41"/>
 
 <h2>XI</h2>
@@ -340,10 +318,8 @@
 
 <p>Herm est un eremos, saint Tugdual, ami de saint Sampson, a été en prière à Herm, de même que saint Magloire à Serk. Il y a eu des auréoles d’ermites sur toutes ces pointes d’écueils. Hélier priait à Jersey, et Marcouf dans les rochers du Calvados. C’était le temps où l’ermite Eparchias devenait saint Cybard dans les cavernes d’Angoulême et où l’anachorète Crescentius, au fond des forêts de Trêves, faisait crouler un temple de Diane, en le regardant fixement pendant cinq ans. C’est à Serk, qui était son sanctuaire, son « jonad naomk » que Magloire composa l’hymne de la <pagenum v="v1" num="44"/>Toussaint, refaite par Santeuil, <i>Cœlo quos eadem gloria consecrat.</i> C’est de là encore qu’il jetait des pierres aux saxons dont les flottes pillardes vinrent à deux reprises le déranger dans son oraison. L’archipel était aussi quelque peu incommodé à cette époque par l’amwarydour, cacique de la colonie celte. De temps en temps Magloire passait l’eau, et allait se concerter avec le Mactierne de Guernesey, Nivou, lequel était un prophète. Magloire un jour, ayant fait un miracle, fit vœu de ne plus manger de poisson. En outre, pour conserver les mœurs des chiens et ne point donner de coupables pensées à ses moines, il bannit de l’île de Serk les chiennes, loi qui subsiste encore. Saint Magloire rendit à l’archipel plusieurs autres services. Il alla à Jersey mettre à la raison la populace qui avait, le jour de Noël, la mauvaise habitude de se changer en toutes sortes de bêtes, en l’honneur de Mithras. Saint Magloire fit cesser cet abus. Ses reliques furent volées, sous le règne de Nominoë, feudataire de Charles le Chauve, par les moines de Lehon-les-Dinan. Tous ces faits sont prouvés par les bollandistes, <i>Acta Sancti Marculphi,</i> etc., et par l’histoire ecclésiastique de l’abbé Trigan. Victrice de Rouen, ami de Martin de Tours, avait sa grotte à Serk, qui, au onzième siècle, relevait de l’abbaye de Montebourg. A l’heure où nous parlons, Serk est un fief immobilisé entre quarante tenanciers.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XII">
+  </page-sequence>
+ <page-sequence id="XII">
   <pagenum v="v1" num="45"/>
 
 <h2>XII</h2>
@@ -357,10 +333,8 @@
 
 <p>Au dix-septième siècle, il y a eu guerre civile entre Guernesey et le château Cornet, le château Cornet étant pour Stuart et Guernesey pour Cromwell. C’est à peu près comme si l’île Saint-Louis déclarait la guerre au quai des Ormes. A Jersey il existe deux factions, la Rose et le Laurier ; diminutifs des whigs et des tories. La division, la hiérarchie, la caste, le compartiment, plaisent aux insulaires de cet archipel, si bien qualifié <i>la Normandie inconnue</i>. Les guernesiais en particulier ont tellement le goût des îles qu’ils font des îles dans la population ; en haut de ce petit ordre social, soixante familles, les <i>sixty,</i> vivent à part ; à mi-côte, quarante familles, les <i>forty</i>, font un autre groupe, également isolé ; autour est le peuple. Quant à l’autorité, tout à la fois locale et anglaise, elle se décompose ainsi : dix paroisses, dix recteurs, vingt connétables, cent soixante douzeniers, une cour royale avec procureur et un contrôle, un parlement dit les états, douze juges appelés juvats, un bailli qualifié <pagenum v="v1" num="48"/>baillif, <i>balnivus et coronalor,</i> disent les vieilles chartes. Pour loi la coutume de Normandie. Le procureur est nommé par commission, et le baillif par patente, nuance anglaise fort sérieuse. Outre le baillif qui gouverne le civil, il y a le doyen qui règle le spirituel, et le gouverneur qui régit le militaire. Le détail des autres offices est indiqué dans le « tableau des Messieurs qui ont les premiers postes dans l’île ».</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XIII">
+  </page-sequence>
+ <page-sequence id="XIII">
   <pagenum v="v1" num="49"/>
 
 <h2>XIII</h2>
@@ -384,10 +358,8 @@
   </note>
 </notes>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XIV">
+  </page-sequence>
+ <page-sequence id="XIV">
   <pagenum v="v1" num="52"/>
 
 <h2>XIV</h2>
@@ -396,7 +368,7 @@
 <p>D’une île à l’autre, on fraternise ; on se raille aussi, doucement. Aurigny, subordonnée à Guernesey, s’en fâche parfois, et voudrait tirer à elle le bailliage et faire de Guernesey son satellite. Guernesey riposte, sans colère, par cette « riselée » populaire :</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>Hale, Pier’, hale, Jean,</l>
 <l>L’Guernesey vian.</l>
 </poem>
@@ -436,10 +408,8 @@
 
 <p>Le professeur continua ses plaintes sur le « badois » normand. Sa femme lui ayant adressé la parole, il se tourna vers elle et lui dit : — Ne me vaites bas ici de zènes gonchicales.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XV">
+  </page-sequence>
+ <page-sequence id="XV">
   <pagenum v="v1" num="58"/>
 
 <h2>XV</h2>
@@ -464,10 +434,8 @@
 <p>A Guernesey donner le bras à une femme signifie fiançailles. Une nouvelle mariée, les huit jours qui suivent sa noce, ne sort que pour aller aux offices. Un peu de prison assaisonne la lune de miel. Une certaine honte est d’ailleurs convenable. Le mariage exige si peu de formalités qu’il peut être latent. Cahaigne, à Jersey, a entendu cet échange de questions et de <pagenum v="v1" num="60"/>réponses entre une mère, vieille femme, et sa fille, âgée de quarante ans : — Pourquoi n’épousez-vous pas ce Stevens ? — Vous voulez donc, ma mère, que je l’épouse deux fois ? — Comment cela ? — Voilà quatre mois que nous sommes mariés.</p>
 
 <p>A Guernesey, en octobre 1863, une fille a été condamnée à six semaines de prison « pour avoir ennuyé son père ».</p>
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XVI">
+  </page-sequence>
+ <page-sequence id="XVI">
   <pagenum v="v1" num="61"/>
 
 <h2>XVI</h2>
@@ -489,10 +457,8 @@
 
 <p>Jersey admire le général Don ; Guernesey admire le général Doyle. Ce sont deux anciens gouverneurs du commencement de ce siècle. On trouve à Jersey <pagenum v="v1" num="64" b="Don-" a="street">Donstreet</pagenum> et à Guernesey Doyle-road. En outre, Guernesey a bâti et dédié à son général une grande colonne qui domine la mer et qu’on voit des Casquets, et Jersey a fait cadeau au sien d’un cromlech. Ce cromlech avoisinait Saint-Hélier ; il était sur la colline où est aujourd’hui le fort Régent. Le général Don a accepté le cromlech, l’a fait charrier bloc à bloc sur le rivage, l’a embarqué sur une frégate, et l’a emporté. Ce monument était la merveille des îles de la Manche ; il était le seul cromlech circulaire de l’archipel ; il avait vu les cimmériens qui se souvenaient de Tubal-Caïn, de même que les esquimaux se souviennent de Probisher ; il avait vu les celtes dont le cerveau est au cerveau actuel comme treize est à dix-huit ; il avait vu ces étranges donjons de bois dont on retrouve les carcasses dans les tumulus et qui font hésiter l’esprit entre l’étymologie <i>domgio</i> de Du Cange et l’étymologie <i>domi-junctœ</i> de Barleycourt ; il avait vu les casse-tête de silex, et les haches druidiques ; il avait vu le grand Teutatès d’osier ; il existait avant la muraille romaine, il contenait quatre mille ans d’histoire ; la nuit les matelots apercevaient de loin dans les clairs de lune cette énorme couronne de roches droites sur la haute falaise de Jersey. Aujourd’hui c’est un tas de pierres dans un coin d’un Yorkshire quelconque.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XVII">
+  </page-sequence>
+ <page-sequence id="XVII">
   <pagenum v="v1" num="65"/>
 
 <h2>XVII</h2>
@@ -519,10 +485,8 @@
 <p>Au surplus, tous les archipels sont des pays libres. Mystérieux travail de la mer et du vent.</p>
 
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XVIII">
+  </page-sequence>
+ <page-sequence id="XVIII">
   <pagenum v="v1" num="70"/>
 
 <h2>XVIII</h2>
@@ -543,16 +507,14 @@
 <p>Il y a dix ou douze ans, un français, débarqué depuis peu à Guernesey, rôdait sur une des grèves de l’ouest, seul, triste, amer, songeant à la patrie perdue. A Paris, on flâne ; à Guernesey, on rôde. Cette île lui apparaissait lugubre. La brume couvrait tout, la côte sonnait sous la vague, la mer faisait sur les rochers d’immenses décharges d’écume, le ciel était hostile et noir. On était pourtant au printemps ; mais le printemps de la mer a un nom farouche, il s’appelle équinoxe. Il est plus volontiers ouragan que zéphyr, et l’on pourrait citer un jour de mai où l’écume, sous ce souffle, a sauté vingt pieds au-dessus de la pointe du mât de signal qui est sur la plus haute plate-forme du château Cornet. Ce français avait le sentiment qu’il <pagenum v="v1" num="73"/>était en Angleterre ; il ne savait pas un mot d’anglais ; il voyait un vieil Union-jack, déchiré par le vent, flotter sur une tour ruinée au bout d’un cap désert ; deux ou trois chaumières étaient là ; au loin tout était sable, bruyère, lande, ajoncs épineux ; quelques batteries rasantes, à larges embrasures, montraient leurs angles ; les pierres taillées par l’homme avaient la même tristesse que les rochers maniés par la mer ; le français sentait poindre en lui cet épaississement du deuil intérieur qui commence la nostalgie ; il regardait, il écoutait ; pas un rayon ; des cormorans en chasse, des nuages en fuite ; partout sur l’horizon une pesanteur de plomb ; un vaste rideau livide tombant du zénith ; le spectre du spleen dans le linceul des tempêtes ; rien nulle part qui ressemblât à l’espérance, et rien qui ressemblât à la patrie ; le français songeait, de plus en plus assombri ; tout à coup il releva la tête ; une voix sortait d’une des chaumières entr’ouvertes, une voix claire, fraîche, délicate, une voix d’enfant, et cette voix chantait :</p>
 
 <blockquote>
-<poem>
+<poem m='c'>
 <l>La clef des champs, la clef des bois,</l>
 <l>La clef des amourettes !</l>
 </poem>
 </blockquote>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XIX">
+  </page-sequence>
+ <page-sequence id="XIX">
   <pagenum v="v1" num="74"/>
 
 <h2>XIX</h2>
@@ -560,11 +522,11 @@
 <p>Toutes les réminiscences de la France dans l’archipel ne sont pas également gracieuses. Nous connaissons un passant qui, dans l’admirable île de Serk, un dimanche, a entendu dans la cour d’une ferme ce couplet d’un ancien cantique huguenot français, très solennellement chanté en chœur par des voix religieuses ayant le grave accent calviniste :</p>
 
 <blockquote>
-<poem>
+<poem m='7'>
 <l>Tout le monde pue, pue, pue,</l>
-<l indent="2">Comme une charogne.</l>
+<l m="5">Comme une charogne.</l>
 <l>Gniaq’ gniaq’ gniaq’ mon doux Jésus</l>
-<l indent="2">Qui ait l’odeur bonne.</l>
+<l m="5">Qui ait l’odeur bonne.</l>
 </poem>
 </blockquote>
 
@@ -574,10 +536,8 @@
 
 <p>Du reste, pour le fanatisme, hideux quand il persécute, auguste et touchant quand il est persécuté, l’hymne extérieur n’est rien. Il a son grand et sombre hymne intérieur qu’il chante mystérieusement en son âme à travers toutes les paroles. Il pénètre de sublime même le grotesque, et, quelles que soient la poésie et la prose de ses prêtres, il transfigure cette prose et cette poésie par l’immense harmonie latente de sa foi. Il corrige la difformité des formules par la grandeur des épreuves acceptées et des supplices subis. Où la poésie manque, il met la conscience. Le libretto du martyre peut être plat, qu’importe si le martyre est magnanime.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XX">
+  </page-sequence>
+ <page-sequence id="XX">
   <pagenum v="v1" num="76"/>
 
 <h2>XX</h2>
@@ -609,10 +569,8 @@
 
 <p>La sérénité est intérieure. C’est au dedans de nous qu’est notre printemps perpétuel.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XXI">
+  </page-sequence>
+ <page-sequence id="XXI">
   <pagenum v="v1" num="81"/>
 
 <h2>XXI</h2>
@@ -632,10 +590,8 @@
 
 <p>Jusque vers 1805, Guernesey a été coupée en deux îles. Un fleuve de mer la traversait de part en part, du <pagenum v="v1" num="83"/>mont Crevel de l’est au mont Crevel de l’ouest. Ce bras de mer débouchait à l’occident vis-à-vis les Fresquiers et les deux Sauts-Roquiers ; il avait des baies entrant assez avant dans les terres, une allait jusqu’à Salterns ; on nommait ce bras de mer la Braye du Valle. Saint-Sampson, au siècle dernier, était un amarrage de barques des deux côtés d’une rue de l’océan. Rue étroite et sinueuse. De même que les hollandais ont desséché le lac de Harlem dont ils ont fait une plaine assez laide, les guernesiais ont comblé la Braye du Valle, à cette heure prairie. De la rue ils ont fait un cul-de-sac ; ce cul-de-sac est le port de Saint-Sampson.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="XXII">
+  </page-sequence>
+ <page-sequence id="XXII">
   <pagenum v="v1" num="84"/>
 
 <h2>XXII</h2>
@@ -661,42 +617,39 @@
 
 <p>Pour l’observateur de cette série d’avatars qu’on appelle l’histoire, pas de spectacle plus émouvant que de voir lentement et par degrés monter et surgir au soleil de la civilisation ce peuple nocturne de la mer. L’homme des ténèbres se retourne et fait face à l’aurore. Rien n’est plus grand, rien n’est plus pathétique. Jadis forban, aujourd’hui ouvrier ; jadis sauvage, aujourd’hui citoyen ; jadis loup, aujourd’hui homme. A-t-il moins d’audace qu’autrefois ? Non. Seulement cette audace va à la lumière. Quelle splendide différence entre la navigation actuelle, côtière, riveraine, marchande, honnête, fraternelle, et le vieux dromon informe ayant pour devise : <i>Homo homini morutrum ! </i>Le barrage s’est fait pont. L’obstacle est devenu l’aide. Là où ce peuple a été pirate, il est pilote. Et il est plus entreprenant et plus hardi que jamais. Ce pays est resté le pays de l’aventure en devenant le pays de la probité. Plus le point de départ a été infime, plus on est attendri de l’ascension. La fiente du nid sur la coquille de l’œuf fait admirer l’envergure de l’oiseau. <pagenum v="v1" num="87"/>C’est en bonne part qu’on pense aujourd’hui à l’ancienne piraterie de l’archipel normand. En présence de toutes ces voiles charmantes et sereines triomphalement guidées à travers ces dédales de flots et d’écueils par le phare lenticulaire et la light-house électrique, on songe, avec le bien-être de conscience inhérent au progrès constaté, à ces vieux marins furtifs et farouches, naviguant jadis, en des chaloupes sans boussole, sur les vagues noires lividement éclairées de loin en loin, de promontoire en promontoire, par ces antiques brasiers à frissons de flammes, que tourmentaient dans des cages de fer les immenses vents des profondeurs.</p>
 
- </div>
- </page-sequence>
+  </page-sequence>
  <page-sequence>
- <div>
   <pagenum v="v1" num="405"/>
  
 <h1>TABLE</h1>
 
 <table>
   <tbody>
-    <tr><td>I.</td><td>Les anciens cataclysmes</td></tr>
-    <tr><td>II.</td><td>Guernesey</td></tr>
-    <tr><td>III.</td><td>Guernesey. Suite</td></tr>
-    <tr><td>IV.</td><td>L’herbe</td></tr>
-    <tr><td>V.</td><td>Les risques de mer</td></tr>
-    <tr><td>VI.</td><td>Les rochers</td></tr>
-    <tr><td>VII.</td><td>Paysage et océan mêlés</td></tr>
-    <tr><td>VIII.</td><td>Saint-Pierre-Port</td></tr>
-    <tr><td>IX.</td><td>Jersey. Aurigny. Serk</td></tr>
-    <tr><td>X.</td><td>Histoire. Légende. Religion</td></tr>
-    <tr><td>XI.</td><td>Les vieux repaires et les vieux saints</td></tr>
-    <tr><td>XII.</td><td>Particularités locales</td></tr>
-    <tr><td>XIII.</td><td>Travail de la civilisation dans l’archipel</td></tr>
-    <tr><td>XIV.</td><td>Autres particularités</td></tr>
-    <tr><td>XV.</td><td>Antiquités et antiquailles. Coutumes, lois et mœurs</td></tr>
-    <tr><td>XVI.</td><td>Suite des particularités</td></tr>
-    <tr><td>XVII.</td><td>Compatibilité des extrêmes</td></tr>
-    <tr><td>XVIII.</td><td>Asile</td></tr>
+    <tr><td>I.</td><td><a idref="I">Les anciens cataclysmes</a></td></tr>
+    <tr><td>II.</td><td><a idref="II">Guernesey</a></td></tr>
+    <tr><td>III.</td><td><a idref="III">Guernesey. Suite</a></td></tr>
+    <tr><td>IV.</td><td><a idref="IV">L’herbe</a></td></tr>
+    <tr><td>V.</td><td><a idref="V">Les risques de mer</a></td></tr>
+    <tr><td>VI.</td><td><a idref="VI">Les rochers</a></td></tr>
+    <tr><td>VII.</td><td><a idref="VII">Paysage et océan mêlés</a></td></tr>
+    <tr><td>VIII.</td><td><a idref="VIII">Saint-Pierre-Port</a></td></tr>
+    <tr><td>IX.</td><td><a idref="IX">Jersey. Aurigny. Serk</a></td></tr>
+    <tr><td>X.</td><td><a idref="X">Histoire. Légende. Religion</a></td></tr>
+    <tr><td>XI.</td><td><a idref="XI">Les vieux repaires et les vieux saints</a></td></tr>
+    <tr><td>XII.</td><td><a idref="XII">Particularités locales</a></td></tr>
+    <tr><td>XIII.</td><td><a idref="XIII">Travail de la civilisation dans l’archipel</a></td></tr>
+    <tr><td>XIV.</td><td><a idref="XIV">Autres particularités</a></td></tr>
+    <tr><td>XV.</td><td><a idref="XV">Antiquités et antiquailles. Coutumes, lois et mœurs</a></td></tr>
+    <tr><td>XVI.</td><td><a idref="XVI">Suite des particularités</a></td></tr>
+    <tr><td>XVII.</td><td><a idref="XVII">Compatibilité des extrêmes</a></td></tr>
+    <tr><td>XVIII.</td><td><a idref="XVIII">Asile</a></td></tr>
     <tr><td>XIX.</td></tr>
-    <tr><td>XX.</td><td>Homo edax</td></tr>
-    <tr><td>XXI.</td><td>Puissance des casseurs de pierres</td></tr>
-    <tr><td>XXII.</td><td>Bonté du peuple de l’archipel</td></tr>
+    <tr><td><a idref="XIX">XX.</a></td><td>Homo edax</td></tr>
+    <tr><td>XXI.</td><td><a idref="XXI">Puissance des casseurs de pierres</a></td></tr>
+    <tr><td>XXII.</td><td><a idref="XXII">Bonté du peuple de l’archipel</a></td></tr>
   </tbody>
 </table>
 
-</div>
  </page-sequence>
 </page-sequences>
 </bml>

@@ -38,7 +38,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000205"
         creation="2012-07-08T00:00:00-08:00"
-        modification="2015-01-03T12:45:34-08:00">
+        modification="2022-06-21T14:58:52-07:00">
       
       <titre>Le dernier jour d’un condamné</titre>
       
@@ -113,8 +113,7 @@
 
 <page-sequences>
     
-<page-sequence>
-<div id="preface">
+<page-sequence id="preface">
  <pagenum num="275"/>
 
 
@@ -346,10 +345,8 @@
 
 <p class="l3">15 mars 1832.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="comedie">
+<page-sequence id="comedie">
  <pagenum num="305"/>
 
 <h1>UNE COMÉDIE A PROPOS D’UNE TRAGÉDIE<noteref noteid="note.305.1"/></h1>
@@ -360,12 +357,9 @@
   </note>
 </notes>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="306"/>
-
 
 <p class="c"><i>PERSONNAGES.</i></p>
 
@@ -381,29 +375,25 @@
 <p>UN LAQUAIS.</p>
 </blockquote>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="307"/>
 
 <h2>— Un salon —</h2>
 
-<pagenum num="308"/>
-
 <hstage><speaker>UN POËTE ÉLÉGIAQUE</speaker>, lisant.</hstage>
 
-<poem>
+<poem m='c'>
 <vsep class="dots"/>
 <vsep class="dots"/>
 <l>Le lendemain, des pas traversaient la forêt,</l>
 <l>Un chien le long du fleuve en aboyant errait ;</l>
-<l indent="2">Et quand la bachelette en larmes</l>
-<l indent="1">Revint s’asseoir, le cœur rempli d’alarmes,</l>
+<l>Et quand la bachelette en larmes</l>
+<l >Revint s’asseoir, le cœur rempli d’alarmes,</l>
 <l>Sur la tant vieille tour de l’antique châtel,</l>
 <l>Elle entendit les flots gémir, la triste Isaure,</l>
-<l indent="2">Mais plus n’entendit la mandore</l>
-<l indent="3">Du gentil ménestrel !</l>
+<l>Mais plus n’entendit la mandore</l>
+<l>Du gentil ménestrel !</l>
 </poem>
 
 <hstage><speaker>TOUT L’AUDITOIRE</speaker>.</hstage>
@@ -429,7 +419,7 @@
 <p>Des concessions ! des concessions ! c’est comme cela qu’on perd le goût. Je donnerais tous les vers romantiques seulement pour ce quatrain :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>De par le Pinde et par Cythère,</l>
 <l>Gentil-Bernard est averti</l>
 <l>Que l’Art d’Aimer doit samedi</l>
@@ -524,7 +514,7 @@
 <p>Il a publié aussi un drame, — on appelle cela un drame, — où l’on trouve ce beau vers :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Demain vingt-cinq juin mil six cent cinquante-sept.</l>
 </poem>
 </blockquote>
@@ -537,7 +527,7 @@
 <p>Cela peut s’écrire en chiffres, voyez-vous, mesdames :</p>
 
 <blockquote>
-<poem>
+<poem m='c'>
 <l>Demain, 25 juin 1657.</l>
 </poem>
 </blockquote>
@@ -576,7 +566,7 @@
 <p>Et ses nuits à rêver des œuvres de ténèbres. — C’est singulier ; voilà un vers que j’ai fait tout naturellement. Mais c’est qu’il y est, le vers :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Et ses nuits à rêver des œuvres de ténèbres.</l>
 </poem>
 </blockquote>
@@ -586,7 +576,7 @@
 <hstage><speaker>MADAME DE BLINVAL</speaker>.</hstage>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l><i>Quidquid tentabat dicere, versus erat.</i></l>
 </poem>
 </blockquote>
@@ -759,7 +749,7 @@
 <p>Heureux temps ! Maintenant les mœurs sont horribles, et les livres aussi. C’est le beau vers de Boileau :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Et la chute des arts suit la décadence des mœurs.</l>
 </poem>
 </blockquote>
@@ -785,10 +775,8 @@
 <p>Madame est servie.</p>
 
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch1">
+<page-sequence id="ch1">
  <pagenum num="321"/>
 
 
@@ -813,10 +801,8 @@
 
 <p>Je viens de m’éveiller en sursaut, poursuivi par elle et me disant : — Ah ! ce n’est qu’un rêve ! — Eh bien ! avant même que mes yeux lourds aient eu le temps de <pagenum num="323"/>s’entr’ouvrir assez pour voir cette fatale pensée écrite dans l’horrible réalité qui m’entoure, sur la dalle mouillée et suante de ma cellule, dans les rayons pâles de ma lampe de nuit, dans la trame grossière de la toile de mes vêtements, sur la sombre figure du soldat de garde dont la giberne reluit à travers la grille du cachot, il me semble que déjà une voix a murmuré à mon oreille : — Condamné à mort !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch2">
+<page-sequence id="ch2">
  <pagenum num="324"/>
 
 <h2>II</h2>
@@ -897,10 +883,8 @@
 
 <p>Au bas de l’escalier, une noire et sale voiture grillée m’attendait. Au moment d’y monter, je regardai au hasard dans la place. — Un condamné à mort ! criaient les passants en courant vers la voiture. A travers le nuage qui me semblait s’être interposé entre les choses et moi, je distinguai deux jeunes filles qui me suivaient avec des yeux avides. — Bon, dit la plus jeune en battant des mains, ce sera dans six semaines !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch3">
+<page-sequence id="ch3">
 <pagenum num="331"/>
 
 <h2>III</h2>
@@ -915,10 +899,8 @@
 
 <p>Ah ! n’importe, c’est horrible !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch4">
+<page-sequence id="ch4">
  <pagenum num="333"/>
 
 <h2>IV</h2>
@@ -929,10 +911,8 @@
 
 <p>C’est la vie vue de près.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch5">
+<page-sequence id="ch5">
 <pagenum num="334"/>
 
  <h2>V</h2>
@@ -947,10 +927,8 @@
 
 <p>Du moins ces hommes-là me plaignent, ils sont les seuls. Les geôliers, les guichetiers, les porte-clefs, — je ne leur en veux pas, — causent et rient, et parlent de moi, devant moi, comme d’une chose.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch6">
+<page-sequence id="ch6">
 <pagenum num="336"/>
 
 <h2>VI</h2>
@@ -967,10 +945,8 @@
 
 <p>A moins qu’après ma mort le vent ne joue dans le préau avec ces morceaux de papier souillés de boue, ou qu’ils n’aillent pourrir à la pluie, collés en étoiles à la vitre cassée d’un guichetier.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch7">
+<page-sequence id="ch7">
  <pagenum num="339"/>
 
 <h2>VII</h2>
@@ -981,10 +957,8 @@
 
 <p>Ah ! c’est moi qu’il faudrait sauver ! — Est-il bien vrai que cela ne se peut, qu’il faudra mourir demain, aujourd’hui peut-être, que cela est ainsi ? O Dieu ! l’horrible idée à se briser la tête au mur de son cachot !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch8">
+<page-sequence id="ch8">
 <pagenum num="340"/>
 
 <h2>VIII</h2>
@@ -1011,10 +985,8 @@
 
 <p>Or, voilà cinq semaines au moins, six peut-être, je n’ose compter, que je suis dans ce cabanon de Bicêtre, et il me semble qu’il y a trois jours, c’était jeudi.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch9">
+<page-sequence id="ch9">
  <pagenum num="342"/>
 
 <h2>IX</h2>
@@ -1041,10 +1013,8 @@
 
 <p>Mais ma fille, mon enfant, ma pauvre petite Marie, qui rit, qui joue, qui chante à cette heure, et ne pense à rien, c’est celle-là qui me fait mal !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch10">
+<page-sequence id="ch10">
  <pagenum num="344"/>
 
 <h2>X</h2>
@@ -1069,10 +1039,8 @@
 
 <p>Du reste, on suppose qu’il y a de l’air et du jour dans cette boîte de pierre.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch11">
+<page-sequence id="ch11">
 <pagenum num="346"/>
 
 <h2>XI</h2>
@@ -1095,10 +1063,8 @@
 
 <p>Je n’irai pas plus loin dans ma recherche. — Je viens de voir, crayonnée en blanc au coin du mur, une image épouvantable, la figure de cet échafaud qui, à l’heure qu’il est, se dresse peut-être pour moi. — La lampe a failli me tomber des mains.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch12">
+<page-sequence id="ch12">
 <pagenum num="348"/>
 
 <h2>XII</h2>
@@ -1119,10 +1085,8 @@
 
 <p>La porte du tombeau ne s’ouvre pas en dedans.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch13">
+<page-sequence id="ch13">
  <pagenum num="351"/>
 
 <h2>XIII</h2>
@@ -1215,10 +1179,8 @@
 
 <p>J’étais demeuré à la fenêtre, immobile, perclus, paralysé. Mais quand je vis les cinq cordons s’avancer, se ruer vers moi avec des paroles d’une infernale cordialité ; quand j’entendis le tumultueux fracas de leurs chaînes, de leurs clameurs, de leurs pas, au pied du mur, il me sembla que cette nuée de démons escaladait ma misérable cellule ; je poussai un cri, je me jetai sur la porte d’une violence à la briser ; mais pas moyen de fuir ; les verrous étaient tirés en dehors. Je heurtai, j’appelai avec rage. Puis il me sembla entendre de plus près encore les effrayantes voix des forçats. Je crus voir leurs têtes hideuses paraître déjà au bord de ma fenêtre, je poussai un second cri d’angoisse, et je tombai évanoui.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch14">
+<page-sequence id="ch14">
  <pagenum num="361"/>
 
 <h2>XIV</h2>
@@ -1245,10 +1207,8 @@
 
 <p>Que me disait-il donc, l’avocat ? Les galères ! Ah ! oui, plutôt mille fois la mort, plutôt l’échafaud que le bagne, plutôt le néant que l’enfer ; plutôt livrer mon cou au couteau de Guillotin qu’au carcan de la chiourme ! Les galères, juste ciel !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch15">
+<page-sequence id="ch15">
  <pagenum num="365"/>
 
 <h2>XV</h2>
@@ -1267,10 +1227,8 @@
 
 <p>Je n’ai plus que trois pas à faire : Bicêtre, la Conciergerie, la Grève.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch16">
+<page-sequence id="ch16">
  <pagenum num="367"/>
 
 <h2>XVI</h2>
@@ -1284,14 +1242,14 @@
 <p>Je ne sais si ce fut le bon Dieu ou le démon qui <pagenum num="368"/>m’exauça ; mais presque au même moment j’entendis s’élever sous ma fenêtre une voix, non celle d’un oiseau, mais bien mieux, la voix pure, fraîche, veloutée d’une jeune fille de quinze ans. Je levai la tête comme en sursaut, j’écoutai avidement la chanson qu’elle chantait. C’était un air lent et langoureux, une espèce de roucoulement triste et lamentable ; voici les paroles :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>C’est dans la rue du Mail</l>
 <l>Où j’ai été coltigé,</l>
-<l indent="2">Maluré,</l>
+<l m='3'>Maluré,</l>
 <l>Par trois coquins de railles,</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m='6'>Lirlonfa malurette,</l>
 <l>Sur mes sique’ ont foncé,</l>
-<l indent="1">Lirlonfa maluré.</l>
+<l m='6'>Lirlonfa maluré.</l>
 </poem>
 </blockquote>
 
@@ -1299,80 +1257,80 @@
 <p>Je ne saurais dire combien fut amer mon désappointement. La voix continua :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>Sur mes sique’ ont foncé,</l>
-<l indent="2">Maluré.</l>
+<l m="3">Maluré.</l>
 <l>Ils m’ont mis la tartouve,</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m="6">Lirlonfa malurette,</l>
 <l>Grand Meudon est aboulé,</l>
-<l indent="1">Lirlonfa maluré.</l>
+<l m="6">Lirlonfa maluré.</l>
 <l>Dans mon trimin rencontre</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m="6">Lirlonfa malurette,</l>
 <l>Un peigre du quartier,</l>
-<l indent="1">Lirlonfa maluré.</l>
+<l m="6">Lirlonfa maluré.</l>
 </lg>
 <lg>
 <l>Un peigre du quartier,</l>
-<l indent="2">Maluré.</l>
+<l m="3">Maluré.</l>
 <l>— Va-t’en dire à ma largue,</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m="6">Lirlonfa malurette,</l>
  <pagenum num="369"/>
 <l>Que je suis enfourraillé,</l>
-<l indent="1">Lirlonfa maluré.</l>
+<l m="6">Lirlonfa maluré.</l>
 <l>Ma largue tout en colère,</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m="6">Lirlonfa malurette,</l>
 <l>M’dit : Qu’as-tu donc morfillé ?</l>
-<l indent="1">Lirlonfa maluré.</l>
+<l m="6">Lirlonfa maluré.</l>
 </lg>
 <lg>
 <l>M’dit : Qu’as-tu donc morfillé ?</l>
-<l indent="2">Maluré.</l>
+<l m="3">Maluré.</l>
 <l> — J’ai fait suer un chêne,</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m="6">Lirlonfa malurette,</l>
 <l>Son auberg j’ai enganté,</l>
-<l indent="1">Lirlonfa maluré,</l>
+<l m="6">Lirlonfa maluré,</l>
 <l>Son auberg et sa toquante,</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m="6">Lirlonfa malurette,</l>
 <l>Et ses attachas de cés,</l>
-<l indent="1">Lirlonfa maluré.</l>
+<l m="6">Lirlonfa maluré.</l>
 </lg>
 <lg>
 <l>Et ses attachas de cés,</l>
-<l indent="2">Maluré. — </l>
+<l m="3">Maluré. — </l>
 <l>Ma largu’ part pour Versailles,</l>
-<l indent="1">Lirlonfa malurette.</l>
+<l m="6">Lirlonfa malurette.</l>
 <l>Aux pieds d’sa majesté,</l>
-<l indent="1">Lirlonfa maluré.</l>
+<l m="6">Lirlonfa maluré.</l>
 <l>Elle lui fonce un babillard,</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m="6">Lirlonfa malurette,</l>
 <l>Pour m’faire défourrailler,</l>
-<l indent="1">Lirlonfa maluré,</l>
+<l m="6">Lirlonfa maluré,</l>
 </lg>
 <lg>
 <l>Pour m’faire défourrailler,</l>
-<l indent="2">Maluré.</l>
+<l m="3">Maluré.</l>
 <l> — Ah l si j’en défourraille,</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m="6">Lirlonfa malurette,</l>
 <l>Ma largue j’enti ferai,</l>
-<l indent="1">Lirlonfa maluré.</l>
+<l m="6">Lirlonfa maluré.</l>
 <l>J’ii ferai porter fontange,</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m="6">Lirlonfa malurette,</l>
  <pagenum num="370"/>
 <l>Et souliers galuchés,</l>
-<l indent="1">Lirlonfa maluré.</l>
+<l m="6">Lirlonfa maluré.</l>
 </lg>
 <lg>
 <l>Et souliers galuchés,</l>
-<l indent="2">Maluré.</l>
+<l m="3">Maluré.</l>
 <l>Mais grand dabe qui s’fâche,</l>
-<l indent="1">Lirlonfla malurette,</l>
+<l m="6">Lirlonfla malurette,</l>
 <l>Dit : — Par mon caloquet,</l>
-<l indent="1">Lirlonfa maluré,</l>
+<l m="6">Lirlonfa maluré,</l>
 <l>J’ii ferai danser une danse,</l>
-<l indent="1">Lirlonfa malurette,</l>
+<l m="6">Lirlonfa malurette,</l>
 <l>Où il n’y a pas de plancher,</l>
-<l indent="1">Lirlonfa maluré. — </l>
+<l m="6">Lirlonfa maluré. — </l>
 </lg>
 </poem>
 </blockquote>
@@ -1383,10 +1341,8 @@
 
 <p>Ah ! qu’une prison est quelque chose d’infâme ! il y a un venin qui y salit tout. Tout s’y flétrit, même la chanson d’une fille de quinze ans ! Vous y trouvez un oiseau, il a de la boue sur son aile ; vous y cueillez une jolie fleur, vous la respirez ; elle pue.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch17">
+<page-sequence id="ch17">
  <pagenum num="372"/>
 
 <h2>XVII</h2>
@@ -1405,10 +1361,8 @@
 
 <p>Quand je pense que je suis venu tout enfant, ici, à Bicêtre, voir le grand puits et les fous !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch18">
+<page-sequence id="ch18">
  <pagenum num="374"/>
 
 <h2>XVIII</h2>
@@ -1419,10 +1373,8 @@
 
 <p>Il m’a pris un frisson. — Est-ce que ce serait pour aujourd’hui ?</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch19">
+<page-sequence id="ch19">
  <pagenum num="375"/>
 
 <h2>XIX</h2>
@@ -1433,10 +1385,8 @@
 
 <p>C’est pour aujourd’hui !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch20">
+<page-sequence id="ch20">
  <pagenum num="376"/>
 
 <h2>XX</h2>
@@ -1447,10 +1397,8 @@
 
 <p>Ah ! misérable ! que vais-je devenir ? qu’est-ce qu’ils vont faire de moi ?</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch21">
+<page-sequence id="ch21">
 <pagenum num="377"/>
 
 <h2>XXI</h2>
@@ -1509,10 +1457,8 @@
 
 <p>O rage ! démons ! malédiction ! Il faudrait des mois pour percer ce mur avec de bons outils, et je n’ai ni un clou, ni une heure !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch22">
+<page-sequence id="ch22">
 <pagenum num="380"/>
 
 <h2>XXII</h2>
@@ -1675,10 +1621,8 @@
 
 <p>J’ai recueilli mes forces ; la porte s’est ouverte avec la rapidité de l’éclair ; j’ai sauté à bas du cachot roulant, et je me suis enfoncé à grands pas sous la voûte entre deux haies de soldats. Il s’était déjà formé une foule sur mon passage.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch23">
+<page-sequence id="ch23">
 <pagenum num="389"/>
 
 <h2>XXIII</h2>
@@ -1841,10 +1785,8 @@
 
 <p>— Ah çà ! ne vous trompez pas ; nous avons changé de pelure, monsieur et moi ; mais ne me prenez pas à sa place. Diable ! cela ne m’arrangerait pas, maintenant que j’ai de quoi avoir du tabac !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch24">
+<page-sequence id="ch24">
  <pagenum num="397"/>
 
 <h2>XXIV</h2>
@@ -1857,10 +1799,8 @@
 
 <p>Je me sens le cœur plein de rage et d’amertume. Je crois que la poche au fiel a crevé. La mort rend méchant.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch25">
+<page-sequence id="ch25">
  <pagenum num="398"/>
 
 <h2>XXV</h2>
@@ -1873,10 +1813,8 @@
 
 <p>Cependant ils ont dressé un lit de sangle dans le coin. Mais en même temps un gendarme est venu s’installer dans ce qu’ils appellent <i>ma chambre.</i> Est-ce qu’ils ont peur que je ne m’étrangle avec le matelas ?</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch26">
+<page-sequence id="ch26">
  <pagenum num="399"/>
 
 <h2>XXVI</h2>
@@ -1899,10 +1837,8 @@
 
 <p>Oh ! est-il bien vrai que je vais mourir avant la fin du jour ? Est-il bien vrai que c’est moi ? Ce bruit sourd de cris que j’entends au dehors, ce flot de peuple joyeux qui déjà se hâte sur les quais, ces gendarmes qui s’apprêtent dans leurs casernes, ce prêtre en robe noire, cet autre homme aux mains rouges, c’est pour moi ! c’est moi qui vais mourir ! moi, le même qui est ici, qui vit, qui se meut, qui respire, qui est assis à cette table, laquelle ressemble à une autre table, et pourrait bien être ailleurs ; moi, enfin, ce moi que je touche et que je sens, et dont le vêtement fait les plis que voilà !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch27">
+<page-sequence id="ch27">
 <pagenum num="401"/>
 
 <h2>XXVIII</h2>
@@ -1917,10 +1853,8 @@
 
 <p>Je n’ose faire une question là-dessus, mais il est affreux de ne savoir ce que c’est, ni comment s’y prendre. Il paraît qu’il y a une bascule et qu’on vous couche sur le ventre... — Ah ! mes cheveux blanchiront avant que ma tête ne tombe !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch28">
+<page-sequence id="ch28">
 <pagenum num="402"/>
 
 <h2>XXVIII</h2>
@@ -1941,10 +1875,8 @@
 
 <p>Ah ! cette fois, malheureux, je ne détournerai pas la tête.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch29">
+<page-sequence id="ch29">
 <pagenum num="403"/>
 
 <h2>XXIX</h2>
@@ -1953,10 +1885,8 @@
 
 <p>Un forçat, cela marche encore, cela va et vient, cela voit le soleil.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch30">
+<page-sequence id="ch30">
  <pagenum num="404"/>
 
 <h2>XXX</h2>
@@ -2019,10 +1949,8 @@
 
 <p>On vient de m’apporter de la nourriture ; ils ont cru que je devais avoir besoin. Une table délicate et recherchée, un poulet, il me semble, et autre chose encore. Eh bien ! j’ai essayé de manger ; mais, à la première bouchée, tout est tombé de ma bouche, tant cela m’a paru amer et fétide !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch31">
+<page-sequence id="ch31">
 <pagenum num="408"/>
 
 <h2>XXXI</h2>
@@ -2053,10 +1981,8 @@
 
 <p>Moi, j’étais là, comme une des pierres qu’il mesurait.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch32">
+<page-sequence id="ch32">
  <pagenum num="410"/>
 
 <h2>XXXII</h2>
@@ -2123,10 +2049,8 @@
 
 <p>Je me suis rassis, muet et plus désespéré de toute l’espérance que j’avais eue.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch33">
+<page-sequence id="ch33">
 <pagenum num="413"/>
 
 <h2>XXXIII</h2>
@@ -2181,10 +2105,8 @@
 
 <p>Toute ma vie !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch34">
+<page-sequence id="ch34">
  <pagenum num="417"/>
 
 <h2>XXXIV</h2>
@@ -2201,20 +2123,16 @@
 
 <p>Oh ! mourir dans quelques heures, et penser qu’il y a un an, à pareil jour, j’étais libre et pur, que je faisais mes promenades d’automne, que j’errais sous les arbres, et que je marchais dans les feuilles !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch35">
+<page-sequence id="ch35">
 <pagenum num="419"/>
 
 <h2>XXXV</h2>
 
 <p>En ce moment même, il y a tout auprès de moi, dans ces maisons qui font cercle autour du Palais et de la Grève, et partout dans Paris, des hommes qui vont et viennent, causent et rient, lisent le journal, pensent à leurs affaires ; des marchands qui vendent ; des jeunes filles qui préparent leurs robes de bal pour ce soir ; des mères qui jouent avec leurs enfants !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch36">
+<page-sequence id="ch36">
  <pagenum num="420"/>
 
 <h2>XXXVI</h2>
@@ -2229,10 +2147,8 @@
 
 <p>Eh bien ! il me semble que je suis encore dans la tour du bourdon. C’est tout ensemble un étourdissement et un éblouissement. Il y a comme un bruit de cloche qui ébranle les cavités de mon cerveau, et autour de moi je n’aperçois plus cette vie plane et tranquille que j’ai quittée, et où les autres hommes cheminent encore, que de loin et à travers les crevasses d’un abîme.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch37">
+<page-sequence id="ch37">
  <pagenum num="422"/>
 
 <h2>XXXVII</h2>
@@ -2245,10 +2161,8 @@
 
 <p>Et le soir, son cadran, qui a marqué l’heure, reste lumineux sur sa façade ténébreuse.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch38">
+<page-sequence id="ch38">
  <pagenum num="423"/>
 
 <h2>XXXVIII</h2>
@@ -2267,10 +2181,8 @@
 
 <p>Encore deux heures et quarante-cinq minutes, et je serai guéri.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch39">
+<page-sequence id="ch39">
  <pagenum num="424"/>
 
 <h2>XXXIX</h2>
@@ -2291,10 +2203,8 @@
 
 <p>Non, rien ! moins qu’une minute, moins qu’une seconde, et la chose est faite. — Se sont-ils jamais mis, seulement en pensée, à la place de celui qui est là, au moment où le lourd tranchant qui tombe mord la chair, rompt les nerfs, brise les vertèbres... Mais quoi ! une demi-seconde ! la douleur est escamotée... Horreur !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch40">
+<page-sequence id="ch40">
  <pagenum num="426"/>
 
 <h2>XL</h2>
@@ -2303,10 +2213,8 @@
 
 <p>— Il y a dans cette même ville, à cette même heure, et pas bien loin d’ici, dans un autre palais, un homme qui a aussi des gardes à toutes ses portes, un homme unique comme toi dans le peuple, avec cette différence qu’il est aussi haut que tu es bas. Sa vie entière, minute par minute, n’est que gloire, grandeur, délices, enivrement. Tout est autour de lui amour, respect, vénération. Les voix les plus hautes deviennent basses en lui parlant et les fronts les plus fiers ploient. Il n’a que de la soie et de l’or sous les yeux. A cette heure, il tient quelque conseil de ministres où tous sont de son avis ; ou bien songe à la chasse de demain, au bal de ce soir, sûr que la fête viendra à l’heure, et laissant à d’autres le travail de ses plaisirs. Eh bien ! cet homme est de chair et d’os comme toi ! <pagenum num="427"/>— Et pour qu’à l’instant même l’horrible échafaud s’écroulât, pour que tout te fût rendu, vie, liberté, fortune, famille, il suffirait qu’il écrivît avec cette plume les sept lettres de son nom au bas d’un morceau de papier, ou même que son carrosse rencontrât ta charrette ! — Et il est bon, et il ne demanderait pas mieux peut-être, et il n’en sera rien !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch41">
+<page-sequence id="ch41">
  <pagenum num="428"/>
 
 <h2>XLI</h2>
@@ -2329,10 +2237,8 @@
 
 <p>Mon Dieu, toujours le même !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch42">
+<page-sequence id="ch42">
  <pagenum num="431"/>
 
 <h2>XLII</h2>
@@ -2427,10 +2333,8 @@
 
 <p>— Oh ! ai-je crié. Ma fille ! qu’on m’amène ma fille !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch43">
+<page-sequence id="ch43">
  <pagenum num="435"/>
 
 <h2>XLIII</h2>
@@ -2545,10 +2449,8 @@
 
 <p>Et je suis retombé sur ma chaise, sombre, désert, désespéré. A présent ils devraient venir ; je ne tiens plus à rien ; la dernière fibre de mon cœur est brisée. Je suis bon pour ce qu’ils vont faire.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch44">
+<page-sequence id="ch44">
  <pagenum num="439"/>
 
 <h2>XLIV</h2>
@@ -2559,10 +2461,8 @@
 
 <p>Je crois que j’ai encore une heure pour m’habituer à tout cela.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch45">
+<page-sequence id="ch45">
  <pagenum num="440"/>
 
 <h2>XLV</h2>
@@ -2571,10 +2471,8 @@
 
 <p>Pour ces êtres fatals il y a sur un certain point de la place de Grève un lieu fatal, un centre d’attraction, un piège. Ils tournent autour jusqu’à ce qu’ils y soient.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch46">
+<page-sequence id="ch46">
  <pagenum num="441"/>
 
 <h2>LXVI</h2>
@@ -2585,10 +2483,8 @@
 
 <p>Oui, il faut qu’elle sache par moi mon histoire, et pourquoi le nom que je lui laisse est sanglant.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch47">
+<page-sequence id="ch47">
  <pagenum num="442"/>
 
 <h2>XLVII</h2>
@@ -2597,10 +2493,8 @@
 
 <p><i>Note de l’éditeur.</i> — On n’a pu encore retrouver les feuillets qui se rattachaient à celui-ci. Peut-être, comme ceux qui suivent semblent l’indiquer, le condamné n’a-t-il pas eu le temps de les écrire. Il était tard quand cette pensée lui est venue.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch48">
+<page-sequence id="ch48">
  <pagenum num="443"/>
 
 <h2>XLVIII</h2>
@@ -2779,10 +2673,8 @@
 
 <p>J’ai demandé qu’on me laissât écrire mes dernières volontés. Ils m’ont délié les mains, mais la corde est ici, toute prête, et le reste est en bas.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch49">
+<page-sequence id="ch49">
  <pagenum num="452"/>
 
 <h2>XLIX</h2>
@@ -2810,18 +2702,14 @@
 <p class="c"><s>QUATRE HEURES</s></p>
 
  <pagenum num="454"/>
-</div>
 </page-sequence>
 
 <page-sequence>
-<div>
  <pagenum num="A1"/>
 <img src="images/pA1.png" class="fullpageimage" alt="?"/>
-</div>
 </page-sequence>
 
-<page-sequence>
-<div id="notes">
+<page-sequence id="notes">
 <pagenum num="455"/>
 
 <h2>NOTES DU DERNIER JOUR D’UN CONDAMNÉ</h2>
@@ -2852,7 +2740,6 @@
 
 <p>Nuit du 25 décembre 1828 au 26. — 3 heures du matin.</p>
 
-</div>
 </page-sequence>
 </page-sequences>
 

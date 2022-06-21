@@ -43,7 +43,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000217"
         creation="2012-09-28T00:00:00-08:00"
-        modification="2014-12-31T18:14:12-08:00">
+        modification="2022-06-21T14:58:58-07:00">
       
       <titre>Notre-Dame de Paris</titre>
       
@@ -166,8 +166,7 @@
 
 <page-sequences>
  
-<page-sequence>
-<div id="preface">
+<page-sequence id="preface">
  <pagenum v="v1" num="1"/>
 
 <p>Il y a quelques années qu’en visitant, ou, pour mieux dire, en furetant Notre-Dame, l’auteur de ce livre trouva, dans un recoin obscur de l’une des tours, ce mot gravé à la main sur le mur :</p>
@@ -190,10 +189,8 @@
 
 <p class="l3">Février 1831.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="note1832">
+<page-sequence id="note1832">
  <pagenum v="v1" num="3"/>
 
 <h2>NOTE AJOUTÉE A L’ÉDITION DÉFINITIVE (1832)</h2>
@@ -222,19 +219,15 @@
 
 <p class="l3">Paris, 20 octobre 1832.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l1">
+<page-sequence id="l1">
  <pagenum v="v1" num="9"/>
 
 <h1>LIVRE PREMIER</h1>
 
  <pagenum v="v1" num="10"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l1ch1">
+<page-sequence id="l1ch1">
  <pagenum v="v1" num="11"/>
 
 <h1>LIVRE PREMIER</h1>
@@ -281,7 +274,7 @@
 <p>Il est vrai qu’il serait fort possible d’abord que Ravaillac n’eût pas de complices, ensuite que ses complices, si par hasard il en avait, ne fussent pour rien dans l’incendie de 1618. Il en existe deux autres explications très plausibles. Premièrement, la grande étoile enflammée, large d’un pied, haute d’une coudée, qui <pagenum v="v1" num="17"/>tomba, comme chacun sait, du ciel sur le Palais, le 7 mars après minuit. Deuxièmement, le quatrain de Théophile :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Certes, ce fut un triste jeu</l>
 <l>Quand à Paris dame Justice,</l>
 <l>Pour avoir mangé trop d’épice,</l>
@@ -543,10 +536,8 @@
 
 <p>Il est certain qu’il ne fallait rien moins que l’intervention de Jupiter pour sauver les quatre malheureux sergents du bailli du Palais. Si nous avions le bonheur d’avoir inventé cette très véridique histoire, et par conséquent d’en être responsable par-devant Notre Dame la critique, ce n’est pas contre nous qu’on pourrait invoquer en ce moment le précepte classique : <i>Nec deus intersit.</i> Du reste, le costume du seigneur Jupiter était fort beau, et n’avait pas peu contribué à calmer la foule, en attirant toute son attention. Jupiter était vêtu d’une brigandine couverte de velours noir, à clous dorés ; il était coiffé d’un bicoquet garni de boutons d’argent doré ; et, n’était le rouge et la grosse barbe qui couvraient chacun une moitié de son visage, n’était le rouleau de carton doré, semé de passequilles et tout hérissé de lanières de clinquant, qu’il portait à la main et dans lequel des yeux exercés reconnaissaient aisément la foudre, n’était ses pieds couleur de chair et enrubannés à la grecque, il eût pu supporter la comparaison, pour la sévérité de sa tenue, avec un archer breton du corps de monsieur de Berry.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l1ch2">
+<page-sequence id="l1ch2">
  <pagenum v="v1" num="32"/>
 
 <h2>II</h2>
@@ -763,17 +754,15 @@
 <p>Tout à coup au beau milieu d’une querelle entre mademoiselle Marchandise et madame Noblesse, au moment où maître Labour prononçait ce vers mirifique :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Onc ne vis dans les bois bête plus triomphante !</l>
 </poem>
 </blockquote>
 
 <p class="cont">la porte de l’estrade réservée, qui était jusque-là restée si mal à propos fermée, s’ouvrit plus mal à propos encore ; et la voix retentissante de l’huissier annonça brusquement : <i>Son éminence monseigneur le cardinal de Bourbon.</i></p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l1ch3">
+<page-sequence id="l1ch3">
  <pagenum v="v1" num="46"/>
 
 <h2>III</h2>
@@ -811,10 +800,8 @@
 
 <p>Peu de personnes savaient alors ce que c’était que Guillaume Rym. Rare génie qui, dans un temps de révolution, eût paru avec éclat à la surface des événements, mais qui, au quinzième siècle, était réduit aux caverneuses intrigues et à <i>vivre dans les sapes,</i> comme dit le duc de Saint-Simon. Du reste, il était apprécié du premier <i>sapeur</i> de l’Europe ; il machinait familièrement avec Louis XI, et mettait souvent la main aux secrètes besognes du roi. Toutes choses fort ignorées de cette foule qu’émerveillaient les politesses du cardinal à cette chétive figure de bailli flamand.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l1ch4">
+<page-sequence id="l1ch4">
  <pagenum v="v1" num="55"/>
 
 <h2>IV</h2>
@@ -954,10 +941,8 @@
 
 <p>Gringoire eût voulu répondre. La stupéfaction, la colère, l’indignation lui ôtèrent la parole. D’ailleurs la motion du chaussetier populaire fut accueillie avec un tel enthousiasme par ces bourgeois flattés d’être appelés <i>hobereaux</i>, que toute résistance était inutile. Il n’y avait plus qu’à se laisser aller au torrent. Gringoire cacha son visage de ses deux mains, n’ayant pas le bonheur d’avoir un manteau pour se voiler la tête, comme l’Agamemnon de Timante.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l1ch5">
+<page-sequence id="l1ch5">
  <pagenum v="v1" num="68"/>
 
 <h2>V</h2>
@@ -1119,10 +1104,8 @@
 
 <p>Cependant tous les mendiants, tous les laquais, tous les coupe-bourses, réunis aux écoliers, avaient été chercher processionnellement, dans l’armoire de la basoche, la tiare de carton et la simarre dérisoire du pape des fous. Quasimodo s’en laissa revêtir sans sourciller et avec une sorte de docilité orgueilleuse. Puis on le fit asseoir sur un brancard bariolé. Douze officiers de la confrérie des fous l’enlevèrent sur leurs épaules ; et une espèce de joie amère et dédaigneuse vint s’épanouir sur la face morose du cyclope, quand il vit sous ses pieds difformes toutes ces têtes d’hommes beaux, droits et bien faits. Puis la procession hurlante et déguenillée se mit en marche pour faire, selon l’usage, la tournée intérieure des galeries du Palais, avant la promenade des rues et des carrefours.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l1ch6">
+<page-sequence id="l1ch6">
  <pagenum v="v1" num="78"/>
 
 <h2>VI</h2>
@@ -1181,20 +1164,16 @@
 <p>Et tout en descendant les tortueux escaliers du Palais : — Belle cohue d’ânes et de butors que ces Parisiens ! grommelait-il entre ses dents. Ils viennent pour entendre un mystère, et n’en écoutent rien ! Ils se sont occupés de tout le monde, de Clopin <pagenum v="v1" num="81" b="Trouille-" a="fou,">Trouillefou,</pagenum> du cardinal, de Coppenole, de Quasimodo, du diable ! mais de madame la Vierge Marie, point. Si j’avais su, je vous en aurais donné, des Vierges Marie, badauds ! Et moi ! venir pour voir des visages, et ne voir que des dos ! être poëte, et avoir le succès d’un apothicaire ! Il est vrai qu’Homerus a mendié par les bourgades grecques, et que Nason mourut en exil chez les Moscovites. Mais je veux que le diable m’écorche si je comprends ce qu’ils veulent dire avec leur Esmeralda ! Qu’est-ce que ce mot-là d’abord ? c’est de l’égyptiaque !</p>
 
  <pagenum v="v1" num="82"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l2">
+<page-sequence id="l2">
  <pagenum v="v1" num="83"/>
 
 <h1>LIVRE DEUXIÈME</h1>
 
  <pagenum v="v1" num="84"/>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l2ch1">
+<page-sequence id="l2ch1">
  <pagenum v="v1" num="85"/>
 
 <h1>LIVRE DEUXIÈME</h1>
@@ -1230,10 +1209,8 @@
 
 <p>— Au moins, pensa-t-il, j’y aurai peut-être un tison du feu de joie pour me réchauffer, et j’y pourrai souper avec quelque miette des trois grandes armoiries de sucre royal qu’on a dû dresser sur le buffet public de la ville.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l2ch2">
+<page-sequence id="l2ch2">
  <pagenum v="v1" num="90"/>
 
 <h2>II</h2>
@@ -1251,10 +1228,8 @@
 
 <p>C’est une idée consolante, disons-le en passant, de songer que la peine de mort qui, il y a trois cents ans, encombrait encore de ses roues de fer, de ses gibets de pierre, de tout son attirail de supplices, permanent et scellé dans le pavé, la Grève, les Halles, la place Dauphine, la croix du Trahoir, le marché aux pourceaux, ce hideux Montfaucon, la barrière des Sergents, la place aux chats, la porte Saint-Denis, Champeaux, la porte Baudets, la porte Saint-Jacques, sans compter les innombrables échelles des prévôts, de l’évêque, des chapitres, des abbés, des prieurs ayant justice ; sans compter les noyades juridiques en rivière de Seine ; il est consolant qu’aujourd’hui, après avoir perdu successivement toutes les pièces de son armure, son luxe de supplices, sa pénalité d’imagination et de <pagenum v="v1" num="93" b="fan-" a="taisie,">fantaisie,</pagenum> sa torture à laquelle elle refaisait tous les cinq ans un lit de cuir au Grand-Châtelet, cette vieille suzeraine de la société féodale, presque mise hors de nos lois et de nos villes, traquée de code en code, chassée de place en place, n’ait plus dans notre immense Paris qu’un coin déshonoré de la Grève, qu’une misérable guillotine, furtive, inquiète, honteuse, qui semble toujours craindre d’être prise en flagrant délit, tant elle disparaît vite après avoir fait son coup !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l2ch3">
+<page-sequence id="l2ch3">
  <pagenum v="v1" num="94"/>
 
 <h2>III</h2>
@@ -1363,7 +1338,7 @@
 <p>Les paroles qu’elle chantait étaient d’une langue inconnue à Gringoire, et qui paraissait lui être inconnue à elle-même, tant l’expression qu’elle donnait au chant se rapportait peu au sens des paroles. Ainsi ces quatre vers dans sa bouche étaient d’une gaieté folle :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Un cofre de gran riqueza</l>
 <l>Hallaron dentro un pilar,</l>
  <pagenum v="v1" num="102"/>
@@ -1375,7 +1350,7 @@
 <p>Et un instant après, à l’accent qu’elle donnait à cette stance :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Alarabes de cavallo</l>
 <l>Sin poderse menear,</l>
 <l>Con espadas, y los cuellos,</l>
@@ -1445,10 +1420,8 @@
 
 <p>— Voilà qui est merveilleux, dit Gringoire ; mais où diable trouverai-je à souper ?</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l2ch4">
+<page-sequence id="l2ch4">
  <pagenum v="v1" num="108"/>
 
 <h2>IV</h2>
@@ -1552,10 +1525,8 @@
 
 <p>— Que voulez-vous, capitaine ? dit un gendarme, la fauvette s’est envolée, la chauve-souris est restée.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l2ch5">
+<page-sequence id="l2ch5">
  <pagenum v="v1" num="115"/>
 
 <h2>V</h2>
@@ -1570,7 +1541,7 @@
 <p>— La boue de Paris, pensa-t-il (car il croyait bien être sûr que décidément le ruisseau serait son gîte,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Et que faire en un gîte, à moins que l’on ne songe ?)</l>
 </poem>
 </blockquote>
@@ -1599,10 +1570,8 @@
 
 <p>La paillasse resta maîtresse du champ de bataille. <pagenum v="v1" num="118"/>Belleforêt, le P. Le Juge et Corrozet assurent que le lendemain elle fut ramassée avec grande pompe par le clergé du quartier et portée au trésor de l’église Sainte-Opportune, où le sacristain se fit jusqu’en 1789 un assez beau revenu avec le grand miracle de la statue de la Vierge du coin de la rue Mauconseil, qui avait, par sa seule présence, dans la mémorable nuit du 6 au 7 janvier 1482, exorcisé défunt Eustache Moubon, lequel, pour faire niche au diable, avait, en mourant, malicieusement caché son âme dans sa paillasse.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l2ch6">
+<page-sequence id="l2ch6">
  <pagenum v="v1" num="119"/>
 
 <h2>VI</h2>
@@ -1942,10 +1911,8 @@
 
 <p>— Frère, dit alors le duc d’Égypte en leur imposant les mains sur le front, elle est ta femme ; sœur, il est ton mari. Pour quatre ans. Allez.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l2ch7">
+<page-sequence id="l2ch7">
  <pagenum v="v1" num="146"/>
 
 <h2>VII</h2>
@@ -2104,7 +2071,7 @@
 <p>Il y eut un silence. Gringoire tailladait la table avec son couteau. La jeune fille souriait et semblait regarder quelque chose à travers le mur. Tout à coup elle se prit à chanter d’une voix à peine articulée :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Quando las pintadas aves</l>
 <l>Mudas están, y la tierra...</l>
 </poem>
@@ -2155,13 +2122,13 @@
 <p>Elle se mit à chanter sur un vieil air :</p>
 
 <blockquote>
-<poem>
-<l>&#x2001;Mon père est oiseau,</l>
-<l>&#x2001;Ma mère est oiselle,</l>
+<poem m='8'>
+<l m='5'>Mon père est oiseau,</l>
+<l m='5'>Ma mère est oiselle,</l>
 <l>Je passe l’eau sans nacelle,</l>
 <l>Je passe l’eau sans bateau,</l>
-<l>&#x2001;Ma mère est oiselle.</l>
-<l>&#x2001;Mon père est oiseau.</l>
+<l m='5'>Ma mère est oiselle.</l>
+<l m='5'>Mon père est oiseau.</l>
 </poem>
 </blockquote>
 
@@ -2217,19 +2184,15 @@
 
 <p>— Allons ! dit-il en s’y accommodant de son mieux, il faut se résigner. Mais voilà une étrange nuit de noces. C’est dommage. Il y avait dans ce mariage à la cruche cassée quelque chose de naïf et d’antédiluvien qui me plaisait.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l3">
+<page-sequence id="l3">
  <pagenum v="v1" num="161"/>
  
 <h1>LIVRE TROISIÈME</h1>
 
  <pagenum v="v1" num="162"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l3ch1">
+<page-sequence id="l3ch1">
  <pagenum v="v1" num="163"/>
 
 <h1>LIVRE TROISIÈME</h1>
@@ -2296,7 +2259,7 @@
     <p>C’est la même qui s’appelle aussi, selon les lieux, les climats et les espèces, lombarde, saxonne et byzantine. Ce sont quatre architectures sœurs et parallèles, ayant chacune leur caractère particulier, mais dérivant du même principe, le plein cintre.</p>
 
     <blockquote>
-      <poem>
+      <poem m='8'>
         <l><i>Facies non omnibus una,</i></l>
         <l><i>Non diversa tamen, qualem,</i> etc.</l>
       </poem>
@@ -2310,10 +2273,8 @@
 
 <p>Du reste, toutes ces nuances, toutes ces différences n’affectent que la surface des édifices. C’est l’art qui a changé de peau. La constitution même de l’église chrétienne n’en est pas attaquée. C’est toujours la même charpente intérieure, la même disposition logique des parties. Quelle que soit l’enveloppe sculptée et brodée d’une cathédrale, on retrouve toujours dessous, au moins à l’état de germe et de rudiment, la basilique romaine. Elle se développe éternellement sur le sol selon la même loi. Ce sont imperturbablement deux nefs qui s’entre-coupent en croix, et dont l’extrémité supérieure, arrondie en abside, forme le chœur ; ce sont toujours des bas côtés, pour les <pagenum v="v1" num="175" b="pro-" a="cessions">processions</pagenum> intérieures, pour les chapelles, sortes de promenoirs latéraux où la nef principale se dégorge par les entre-colonnements. Cela posé, le nombre des chapelles, des portails, des clochers, des aiguilles, se modifie à l’infini, suivant la fantaisie du siècle, du peuple, de l’art. Le service du culte une fois pourvu et assuré, l’architecture fait ce que bon lui semble. Statues, vitraux, rosaces, arabesques, dentelures, chapiteaux, bas-reliefs, elle combine toutes ces imaginations selon le logarithme qui lui convient. De là la prodigieuse variété extérieure de ces édifices au fond desquels réside tant d’ordre et d’unité. Le tronc de l’arbre est immuable, la végétation est capricieuse.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l3ch2">
+<page-sequence id="l3ch2">
  <pagenum v="v1" num="176"/>
 
 <h2>II</h2>
@@ -2332,7 +2293,7 @@
 <p>Depuis lors, Paris s’est encore transformé, malheureusement pour nos yeux ; mais il n’a franchi qu’une enceinte de plus, celle de Louis XV, ce misérable mur de boue et de crachat, digne du roi qui l’a bâti, digne du poëte qui l’a chanté.</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Le mur murant Paris rend Paris murmurant.</l>
 </poem>
 </blockquote>
@@ -2433,20 +2394,16 @@
 
 <p>Et si vous voulez recevoir de la vieille ville une impression que la moderne ne saurait plus vous donner, montez, un matin de grande fête, au soleil levant de Pâques ou de la Pentecôte, montez sur quelque point élevé d’où vous dominiez la capitale entière, et assistez à l’éveil des carillons. Voyez, à un signal parti du ciel, car c’est le soleil qui le donne, ces mille églises tressaillir à la fois. Ce sont d’abord des tintements épars, allant d’une église à l’autre, comme lorsque des musiciens s’avertissent qu’on va commencer. Puis, tout à coup, voyez, car il semble qu’en certains instants l’oreille aussi a sa vue, voyez s’élever au même moment de chaque clocher comme une colonne de bruit, comme une fumée d’harmonie. D’abord la vibration de chaque cloche monte droite, pure, et pour ainsi dire isolée des autres, dans le ciel splendide du matin. Puis, peu à peu, en grossissant, elles se fondent, elles se mêlent, elles s’effacent l’une dans l’autre, elles s’amalgament dans un magnifique concert. Ce n’est plus qu’une masse de vibrations sonores qui se dégage sans cesse des innombrables clochers, qui flotte, ondule, bondit, tourbillonne sur la ville, et prolonge bien au delà de <pagenum v="v1" num="209"/>l’horizon le cercle assourdissant de ses oscillations. Cependant cette mer d’harmonie n’est point un chaos. Si grosse et si profonde qu’elle soit, elle n’a point perdu sa transparence ; vous y voyez serpenter à part chaque groupe de notes qui s’échappe des sonneries ; vous y pouvez suivre le dialogue, tour à tour grave et criard, de la crécelle et du bourdon ; vous y voyez sauter les octaves d’un clocher à l’autre ; vous les regardez s’élancer ailées, légères et sifflantes de la cloche d’argent, tomber cassées et boiteuses de la cloche de bois ; vous admirez au milieu d’elles la riche gamme qui descend et remonte sans cesse les sept cloches de Saint-Eustache ; vous voyez courir, tout au travers, des notes claires et rapides qui font trois ou quatre zigzags lumineux et s’évanouissent comme des éclairs. Là-bas, c’est l’abbaye Saint-Martin, chanteuse aigre et fêlée ; ici, la voix sinistre et bourrue de la Bastille ; à l’autre bout, la grosse tour du Louvre, avec sa basse-taille. Le royal carillon du Palais jette sans relâche de tous côtés des trilles resplendissants, sur lesquels tombent à temps égaux les lourdes couppetées du beffroi de Notre-Dame, qui les font étinceler comme l’enclume sous le marteau. Par intervalles vous voyez passer des sons de toute forme qui viennent de la triple volée de Saint-Germain-des-Prés. Puis encore, de temps en temps cette masse de bruits sublimes s’entr’ouvre et donne passage à la strette de l’Ave-Maria qui éclate et pétille comme une aigrette d’étoiles. Au-dessous, au plus profond du concert, vous distinguez confusément le chant <pagenum v="v1" num="210"/>intérieur des églises qui transpire à travers les pores vibrants de leurs voûtes. — Certes, c’est là un opéra qui vaut la peine d’être écouté. D’ordinaire, la rumeur qui s’échappe de Paris le jour, c’est la ville qui parle ; la nuit, c’est la ville qui respire ; ici, c’est la ville qui chante. Prêtez donc l’oreille à ce tutti des clochers ; répandez sur l’ensemble le murmure d’un demi-million d’hommes, la plainte éternelle du fleuve, les souffles infinis du vent, le quatuor grave et lointain des quatre forêts disposées sur les collines de l’horizon comme d’immenses buffets d’orgue ; éteignez-y, ainsi que dans une demi-teinte, tout ce que le carillon central aurait de trop rauque et de trop aigu, et dites si vous connaissez au monde quelque chose de plus riche, de plus joyeux, de plus doré, de plus éblouissant que ce tumulte de cloches et de sonneries ; que cette fournaise de musique ; que ces dix mille voix d’airain chantant à la fois dans des flûtes de pierre hautes de trois cents pieds ; que cette cité qui n’est plus qu’un orchestre ; que cette symphonie qui fait le bruit d’une tempête.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l4">
+<page-sequence id="l4">
  <pagenum v="v1" num="211"/>
 
 <h1>LIVRE QUATRIÈME</h1>
 
  <pagenum v="v1" num="212"/>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l4ch1">
+<page-sequence id="l4ch1">
  <pagenum v="v1" num="213"/>
 
  <h1>LIVRE QUATRIÈME</h1>
@@ -2543,10 +2500,8 @@
 
 <p>— Je vous avais bien dit, ma sœur, que ce jeune clerc monsieur Claude Frollo est un sorcier.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l4ch2">
+<page-sequence id="l4ch2">
  <pagenum v="v1" num="219"/>
 
 <h2>II</h2>
@@ -2590,10 +2545,8 @@
 
 <p>Il baptisa son enfant adoptif, et le nomma <i><pagenum v="v1" num="226" b="Quasi-" a="modo">Quasimodo</pagenum></i>, soit qu’il voulût marquer par là le jour où il l’avait trouvé, soit qu’il voulût caractériser par ce nom à quel point la pauvre petite créature était incomplète et à peine ébauchée. En effet, Quasimodo, borgne, bossu, cagneux, n’était guère qu’un <i>à peu près.</i></p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l4ch3">
+<page-sequence id="l4ch3">
  <pagenum v="v1" num="227"/>
 
 <h2>III</h2>
@@ -2651,10 +2604,8 @@
 
 <p>A tel point que, pour ceux qui savent que Quasimodo a existé, Notre-Dame est aujourd’hui déserte, inanimée, morte. On sent qu’il y a quelque chose de disparu. Ce corps immense est vide ; c’est un squelette ; l’esprit l’a quitté, on en voit la place, et voilà tout. C’est comme un crâne où il y a encore des trous pour les yeux, mais plus de regard.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l4ch4">
+<page-sequence id="l4ch4">
  <pagenum v="v1" num="238"/>
 
 <h2>IV</h2>
@@ -2668,10 +2619,8 @@
 
 <p>Rien de comparable à l’empire de l’archidiacre sur le sonneur, à l’attachement du sonneur pour l’archidiacre. Il eût suffi d’un signe de Claude et de l’idée de lui faire plaisir, pour que Quasimodo se précipitât du haut des tours de Notre-Dame. C’était une chose remarquable que toute cette force physique arrivée chez Quasimodo à un développement si extraordinaire, et mise aveuglément par lui à la disposition d’un autre. Il y avait là sans doute dévouement filial, attachement domestique ; il y avait aussi fascination d’un esprit par un autre esprit. C’était une pauvre, gauche et maladroite organisation qui se tenait la tête basse et les yeux suppliants devant une intelligence haute et profonde, puissante et supérieure. Enfin, et par-dessus tout, c’était reconnaissance. Reconnaissance tellement poussée à sa limite extrême que nous ne saurions à quoi la comparer. Cette vertu n’est pas de celles dont les plus beaux exemples sont parmi les hommes. Nous dirons donc que Quasimodo aimait l’archidiacre comme jamais chien, jamais cheval, jamais éléphant n’a aimé son maître.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l4ch5">
+<page-sequence id="l4ch5">
  <pagenum v="v1" num="240"/>
 
 <h2>V</h2>
@@ -2717,10 +2666,8 @@
 
 <p>On remarquait en outre que son horreur pour les égyptiennes et les zingari semblait redoubler depuis quelque temps. Il avait sollicité de l’évêque un édit qui fît expresse défense aux bohémiennes de venir danser et tambouriner sur la place du parvis, et il compulsait depuis le même temps les affiches moisies de l’official, afin de réunir les cas de sorciers et de sorcières condamnés au feu ou à la corde pour complicité de maléfices avec des boucs, des truies ou des chèvres.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l4ch6">
+<page-sequence id="l4ch6">
  <pagenum v="v1" num="250"/>
 
 <h2>VI</h2>
@@ -2731,7 +2678,7 @@
 <p>Tous deux étaient dans leur quartier comme « les poètes » dont parle Régnier.</p>
 
 <blockquote>
-  <poem>
+  <poem m='12'>
     <l>Toutes sortes de gens vont après les poëtes,</l>
     <l>Comme après les hiboux vont criant les fauvettes.</l>
   </poem>
@@ -2742,10 +2689,8 @@
 <p>Mais le plus souvent l’injure passait inaperçue du prêtre et du sonneur. Pour entendre toutes ces gracieuses choses, Quasimodo était trop sourd et Claude trop rêveur.</p>
 
  <pagenum v="v1" num="252"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l5">
+<page-sequence id="l5">
  <pagenum v="v1" num="253"/>
 
 <h1>LIVRE CINQUIÈME</h1>
@@ -2753,10 +2698,8 @@
  <pagenum v="v1" num="254"/>
 
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l5ch1">
+<page-sequence id="l5ch1">
  <pagenum v="v1" num="255"/>
 
 <h1>LIVRE CINQUIÈME</h1>
@@ -2972,10 +2915,8 @@
 
 <p>On affirmait que depuis cette époque l’archidiacre avait de fréquentes conférences avec Louis XI, quand <pagenum v="v1" num="270"/>sa majesté venait à Paris, et que le crédit de dom Claude faisait ombre à Olivier le Daim et à Jacques Coictier, lequel, selon sa manière, en rudoyait fort le roi.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l5ch2">
+<page-sequence id="l5ch2">
  <pagenum v="v1" num="271"/>
 
 <h2>II</h2>
@@ -3069,19 +3010,15 @@
 
 <p>Cet édifice est colossal. Je ne sais quel faiseur de statistique a calculé qu’en superposant l’un à l’autre <pagenum v="v1" num="291"/>tous les volumes sortis de la presse depuis Gutenberg on comblerait l’intervalle de la terre à la lune ; mais ce n’est pas de cette sorte de grandeur que nous voulons parler. Cependant, quand on cherche à recueillir dans sa pensée une image totale de l’ensemble des produits de l’imprimerie jusqu’à nos jours, cet ensemble ne nous apparaît-il pas comme une immense construction, appuyée sur le monde entier, à laquelle l’humanité travaille sans relâche, et dont la tête monstrueuse se perd dans les brumes profondes de l’avenir ? C’est la fourmilière des intelligences. C’est la ruche où toutes les imaginations, ces abeilles dorées, arrivent avec leur miel. L’édifice a mille étages. Çà et là, on voit déboucher sur ses rampes les cavernes ténébreuses de la science qui s’entrecoupent dans ses entrailles. Partout sur sa surface l’art fait luxurier à l’œil ses arabesques, ses rosaces et ses dentelles. Là chaque œuvre individuelle, si capricieuse et si isolée qu’elle semble, a sa place et sa saillie. L’harmonie résulte du tout. Depuis la cathédrale de Shakespeare jusqu’à la mosquée de Byron, mille clochetons s’encombrent pêle-mêle sur cette métropole de la pensée universelle. A sa base, on a récrit quelques anciens titres de l’humanité que l’architecture n’avait pas enregistrés. A gauche de l’entrée, on a scellé le vieux bas-relief en marbre blanc d’Homère, à droite la Bible polyglotte dresse ses sept têtes. L’hydre du Romancero se hérisse plus loin, et quelques autres formes hybrides, les Védas et les Niebelungen. Du reste, le prodigieux édifice demeure toujours inachevé. La <pagenum v="v1" num="292"/>presse, cette machine géante, qui pompe sans relâche toute la séve intellectuelle de la société, vomit incessamment de nouveaux matériaux pour son œuvre. Le genre humain tout entier est sur l’échafaudage. Chaque esprit est maçon. Le plus humble bouche son trou ou met sa pierre. Rétif de la Bretonne apporte sa hottée de plâtras. Tous les jours une nouvelle assise s’élève. Indépendamment du versement original et individuel de chaque écrivain, il y a des contingents collectifs. Le dix-huitième siècle donne l’<i>Encyclopédie</i>, la révolution donne le <i>Moniteur</i>. Certes, c’est là aussi une construction qui grandit et s’amoncelle en spirales sans fin ; là aussi il y a confusion des langues, activité incessante, labeur infatigable, concours acharné de l’humanité tout entière, refuge promis à l’intelligence contre un nouveau déluge, contre une submersion de barbares. C’est la seconde tour de Babel du genre humain.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l6">
+<page-sequence id="l6">
  <pagenum v="v1" num="293"/>
 
 <h1>LIVRE SIXIÈME</h1>
 
  <pagenum v="v1" num="294"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l6ch1">
+<page-sequence id="l6ch1">
  <pagenum v="v1" num="295"/>
 
 <h1>LIVRE SIXIÈME</h1>
@@ -3204,10 +3141,8 @@
 
 <p>— C’est bien fait, dit Robin Poussepain qui gardait une dent à Quasimodo, cela lui apprendra à rudoyer les gens.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l6ch2">
+<page-sequence id="l6ch2">
  <pagenum v="v1" num="311"/>
 
 <h2>II</h2>
@@ -3239,10 +3174,8 @@
 
 <p>Ce qui fait que le peuple, dont le bon sens ne voit pas tant de finesse dans les choses, et traduit <pagenum v="v1" num="317" b="volon-" a="tiers">volontiers</pagenum> <i>Ludovico Magno</i> par <i>Porte Saint-Denis</i>, avait donné à cette cavité noire, sombre et humide, le nom de <i>Trou aux Rats.</i> Explication moins sublime peut-être que l’autre, mais en revanche plus pittoresque.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l6ch3">
+<page-sequence id="l6ch3">
  <pagenum v="v1" num="318"/>
 
 <h2>III</h2>
@@ -3582,10 +3515,8 @@
 
 <p>En ce moment, une scène qui se passait au pilori arrêta son œil hagard. Son front se plissa d’horreur, elle étendit hors de sa loge ses deux bras de squelette, et s’écria avec une voix qui ressemblait à un râle : — C’est donc encore toi, fille d’Égypte ! c’est toi qui m’appelles, voleuse d’enfants ! Eh bien ! maudite sois-tu ! maudite ! maudite ! maudite !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l6ch4">
+<page-sequence id="l6ch4">
  <pagenum v="v1" num="348"/>
 
 <h2>IV</h2>
@@ -3678,10 +3609,10 @@
 <p>Et les deux écoliers, Jehan du Moulin, Robin <pagenum v="v1" num="356"/>Poussepain, chantaient à tue-tête le vieux refrain populaire :</p>
 
 <blockquote>
-<poem>
-<l>&#x2001;Une hart</l>
+<poem m='4'>
+<l m='3'>Une hart</l>
 <l>Pour le pendard !</l>
-<l>&#x2001;Un fagot</l>
+<l m='3'>Un fagot</l>
 <l>Pour le magot !</l>
 </poem>
 </blockquote>
@@ -3752,10 +3683,8 @@
 
 <p>C’est dans ce moment que la recluse aperçut, de la lucarne de son trou, l’égyptienne sur le pilori, et lui jeta son imprécation sinistre : — Maudite sois-tu, fille d’Égypte ! maudite ! maudite !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l6ch5">
+<page-sequence id="l6ch5">
  <pagenum v="v1" num="362"/>
 
 <h2>V</h2>
@@ -3781,20 +3710,16 @@
 
 <p>— C’est un enfant terrible, dit la mère souriant et grondant à la fois. Voyez-vous, Oudarde, il mange déjà à lui seul tout le cerisier de notre clos de Charlerange. Aussi son grand-père dit que ce sera un capitaine. — Que je vous y reprenne, monsieur Eustache. — Va, gros lion !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l7">
+<page-sequence id="l7">
   <pagenum v="v2" num="1"/>
 
 <h1>LIVRE SEPTIÈME</h1>
 
   <pagenum v="v2" num="2"/>
  
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l7ch1">
+<page-sequence id="l7ch1">
     <pagenum v="v2" num="3"/>
 
 <h1>LIVRE SEPTIÈME</h1>
@@ -4116,10 +4041,8 @@
 
 <p>Le capitaine Phœbus, resté seul, hésita un moment entre les deux portes ; puis il suivit la bohémienne.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l7ch2">
+<page-sequence id="l7ch2">
  <pagenum v="v2" num="25"/>
 
 <h2>II</h2>
@@ -4265,10 +4188,8 @@
 
 <p>— Va-t’en au diable ! cria le prêtre avec un regard terrible ; et, poussant par les épaules Gringoire émerveillé, il s’enfonça à grands pas sous les plus sombres arcades de la cathédrale.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l7ch3">
+<page-sequence id="l7ch3">
  <pagenum v="v2" num="39"/>
 
 <h2>III</h2>
@@ -4288,10 +4209,8 @@
 
 <p>Tout à coup, en laissant tomber son regard entre <pagenum v="v2" num="42"/>les larges écailles ardoisées qui recouvrent à une certaine hauteur le mur à pic du clocher, il vit dans la place une jeune fille bizarrement accoutrée, qui s’arrêtait, qui développait à terre un tapis où une petite chèvre venait se poser, et un groupe de spectateurs qui s’arrondissait à l’entour. Cette vue changea subitement le cours de ses idées, et figea son enthousiasme musical comme un souffle d’air fige une résine en fusion. Il s’arrêta, tourna le dos au carillon, et s’accroupit derrière l’auvent d’ardoise, en fixant sur la danseuse ce regard rêveur, tendre et doux, qui avait déjà une fois étonné l’archidiacre. Cependant les cloches oubliées s’éteignirent brusquement toutes à la fois, au grand désappointement des amateurs de sonnerie lesquels écoutaient de bonne foi le carillon de dessus le pont au Change, et s’en allèrent stupéfaits comme un chien à qui l’on a montré un os et à qui l’on donne une pierre.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l7ch4">
+<page-sequence id="l7ch4">
  <pagenum v="v2" num="43"/>
 
 <h2>IV</h2>
@@ -4590,10 +4509,8 @@
 
 <p>Jehan se renfonça sous le fourneau, et la porte s’ouvrit.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l7ch5">
+<page-sequence id="l7ch5">
  <pagenum v="v2" num="63"/>
 
 <h2>V</h2>
@@ -4616,7 +4533,7 @@
 <p>— Hélas non, répondit maître Jacques, toujours avec son sourire triste. Nous n’avons pas cette consolation. Cet homme est un caillou. Nous le ferons bouillir au Marché aux Pourceaux, avant qu’il ait rien dit. Cependant nous n’épargnons rien pour arriver à la vérité. Il est déjà tout disloqué. Nous y mettons toutes les herbes de la Saint-Jean, comme dit le vieux comique Plautus,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l><i>Advorsum stimulos, laminas, crucesque, compedesque,</i></l>
 <l><i>Nervos, catenas, carceres, numellas, pedicas, boias.</i></l>
 </poem>
@@ -4659,7 +4576,7 @@
 <p>— Soyez tranquille, dit en souriant Charmolue. Je vais le faire reboucler sur le lit de cuir en rentrant. Mais c’est un diable d’homme. Il fatigue Pierrat Torterue lui-même, qui a les mains plus grosses que moi. Comme dit ce bon Plautus,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l><i>Nudus vinctus, centum pondo, es quando pendes per pedes.</i></l>
 </poem>
 </blockquote>
@@ -4706,10 +4623,8 @@
 
 <p>Cependant dom Claude, qui craignait quelque nouvelle algarade de Jehan, rappela à son digne disciple qu’ils avaient quelques figures du portail à étudier ensemble, et tous deux sortirent de la cellule, au grand <i>ouf !</i> de l’écolier, qui commençait à craindre sérieusement que son genou ne prît l’empreinte de son menton.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l7ch6">
+<page-sequence id="l7ch6">
  <pagenum v="v2" num="72"/>
 
 <h2>VI</h2>
@@ -4830,16 +4745,14 @@
 <p>Au moment où il les rejoignit, ils avaient changé de conversation. Il les entendit chanter à tue-tête le vieux refrain :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Les enfants des Petits-Carreaux</l>
 <l>Se font pendre comme des veaux.</l>
 </poem>
 </blockquote>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l7ch7">
+<page-sequence id="l7ch7">
  <pagenum v="v2" num="79"/>
 
 <h2>VII</h2>
@@ -4888,7 +4801,7 @@
 <p>— Silence à la ronde et attention au refrain :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Quand les rats mangeront les cas,</l>
 <l>Le roi sera seigneur d’Arras ;</l>
 <l>Quand la mer, qui est grande et lée,</l>
@@ -5006,10 +4919,8 @@
 
 <p>La vieille fit signe aux deux gentilshommes, comme elle les nommait, de la suivre, et monta l’échelle devant eux. Parvenue à l’étage supérieur, elle posa sa lampe sur un coffre, et Phœbus, en habitué de la maison, ouvrit une porte qui donnait sur un bouge obscur. — Entrez là, mon cher, dit-il à son compagnon. <pagenum v="v2" num="90"/>L’homme au manteau obéit sans répondre une parole. La porte retomba sur lui. Il entendit Phœbus la refermer au verrou, et un moment après redescendre l’escalier avec la vieille. La lumière avait disparu.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="l7ch8">
+<page-sequence id="l7ch8">
  <pagenum v="v2" num="91"/>
 
 <h2>VIII</h2>
@@ -5172,19 +5083,15 @@
 <p>Quand elle reprit ses sens, elle était entourée de soldats du guet, on emportait le capitaine baigné dans son sang, le prêtre avait disparu, la fenêtre du fond de la chambre, qui donnait sur la rivière, était toute <pagenum v="v2" num="103"/>grande ouverte, on ramassait un manteau qu’on supposait appartenir à l’officier, et elle entendait dire autour d’elle : — C’est une sorcière qui a poignardé un capitaine.</p>
 
  <pagenum v="v2" num="104"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l8'>
+<page-sequence id='l8'>
  <pagenum v="v2" num="105"/>
 
 <h1>LIVRE HUITIÈME</h1>
 
  <pagenum v="v2" num="106"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l8ch1'>
+<page-sequence id='l8ch1'>
  <pagenum v="v2" num="107"/>
 
 <h1>LIVRE HUITIÈME</h1>
@@ -5380,10 +5287,8 @@
 
 <p>— La fâcheuse et déplaisante drôlesse, dit un vieux juge, qui se fait donner la question quand on n’a pas soupé !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l8ch2'>
+<page-sequence id='l8ch2'>
  <pagenum v="v2" num="121"/>
 
 <h2>II</h2>
@@ -5515,10 +5420,8 @@
 
 <p>— Voilà enfin la justice éclairée ! Cela soulage, messieurs ! Mademoiselle nous rendra ce témoignage, que nous avons agi avec toute la douceur possible.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l8ch3'>
+<page-sequence id='l8ch3'>
  <pagenum v="v2" num="129"/>
 
 <h2>III</h2>
@@ -5578,10 +5481,8 @@
 
 <p>— Oh ! c’est un rêve ! murmura-t-elle ; et elle sentit de rudes mains qui l’emportaient.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l8ch4'>
+<page-sequence id='l8ch4'>
  <pagenum v="v2" num="134"/>
 
 <h2>IV</h2>
@@ -5817,10 +5718,8 @@
 
 <p>Elle tomba la face contre terre ; et l’on n’entendit plus dans le cachot d’autre bruit que le soupir de la goutte d’eau qui faisait palpiter la mare dans les ténèbres.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l8ch5'>
+<page-sequence id='l8ch5'>
  <pagenum v="v2" num="155"/>
 
 <h2>V</h2>
@@ -5876,10 +5775,8 @@
 
 <p>Et elle se mit à se promener à grands pas devant les barreaux de sa lucarne, échevelée, l’œil flamboyant, heurtant le mur de son épaule, avec l’air fauve d’une louve en cage qui a faim depuis longtemps et qui sent approcher l’heure du repas.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l8ch6'>
+<page-sequence id='l8ch6'>
  <pagenum v="v2" num="162"/>
 
 <h2>VI</h2>
@@ -5894,7 +5791,7 @@
 <p>Après tout, il ne lui agréait nullement de comparaître en personne dans ce procès. Il sentait vaguement qu’il y ferait une mine ridicule. Au fond, il ne savait trop que penser de toute l’affaire. Indévot et superstitieux comme tout soldat qui n’est que soldat, quand il se questionnait sur cette aventure, il n’était pas rassuré sur la chèvre, sur la façon bizarre dont il avait fait rencontre de la Esmeralda, sur la manière non moins étrange dont elle lui avait laissé deviner son amour, sur sa qualité d’égyptienne, enfin sur le moine bourru. Il entrevoyait dans cette histoire beaucoup plus de magie que d’amour, probablement une sorcière, peut-être le diable ; une comédie enfin, ou, <pagenum v="v2" num="164"/>pour parler le langage d’alors, un mystère très désagréable où il jouait un rôle fort gauche, le rôle des coups et des risées. Le capitaine en était tout penaud. Il éprouvait cette espèce de honte que notre La Fontaine a définie si admirablement :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Honteux comme un renard qu’une poule aurait pris.</l>
 </poem>
 </blockquote>
@@ -6205,19 +6102,15 @@
 
 <p>— Noël ! Noël ! criait le peuple de son côté ; et cette immense acclamation allait étonner sur l’autre rive la foule de la Grève et la recluse qui attendait toujours, l’œil fixé sur le gibet.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l9'>
+<page-sequence id='l9'>
  <pagenum v="v2" num="187"/>
 
 <h1>LIVRE NEUVIÈME</h1>
 
  <pagenum v="v2" num="188"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l9ch1'>
+<page-sequence id='l9ch1'>
  <pagenum v="v2" num="189"/>
 
 <h1>LIVRE NEUVIÈME</h1>
@@ -6277,7 +6170,7 @@
 
 
 <blockquote>
-<poem>
+<poem m='7'>
 <lg>
 <l>Grève, aboie, Grève, grouille !</l>
 <l>File, file ma quenouille.</l>
@@ -6383,10 +6276,8 @@
 
 <p>« ...Un esprit passa devant ma face, et j’entendis un petit souffle, et le poil de ma chair se hérissa. »</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l9ch2'>
+<page-sequence id='l9ch2'>
  <pagenum v="v2" num="206"/>
 
 <h2>II</h2>
@@ -6440,10 +6331,8 @@
 
 <p>Le soir venu, elle trouva la nuit si belle, la lune si douce, qu’elle fit le tour de la galerie élevée qui enveloppe l’église. Elle en éprouva quelque soulagement, tant la terre lui parut calme, vue de cette hauteur.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l9ch3'>
+<page-sequence id='l9ch3'>
  <pagenum v="v2" num="212"/>
 
 <h2>III</h2>
@@ -6501,10 +6390,8 @@
 
 <p>Il déposa le sifflet à terre et s’enfuit.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l9ch4'>
+<page-sequence id='l9ch4'>
  <pagenum v="v2" num="217"/>
 
 <h2>IV</h2>
@@ -6682,33 +6569,33 @@
 
 
 <blockquote>
-<poem>
+<poem m='12 '>
 <lg>
-<l>&#x2001;&#x2001;Ne regarde pas la figure,</l>
-<l>&#x2001;&#x2001;Jeune fille, regarde le cœur.</l>
+<l m='8'>Ne regarde pas la figure,</l>
+<l m='8'>Jeune fille, regarde le cœur.</l>
 <l>Le cœur d’un beau jeune homme est souvent difforme.</l>
 <l>Il y a des cœurs où l’amour ne se conserve pas.</l>
 </lg>
 <lg>
-<l>&#x2001;&#x2001;Jeune fille, le sapin n’est pas beau,</l>
-<l>&#x2001;&#x2001;N’est pas beau comme le peuplier,</l>
-<l>&#x2001;&#x2001;Mais il garde son feuillage l’hiver.</l>
+<l m='8'>Jeune fille, le sapin n’est pas beau,</l>
+<l m='8'>N’est pas beau comme le peuplier,</l>
+<l m='8'>Mais il garde son feuillage l’hiver.</l>
 </lg>
 <lg>
-<l>&#x2001;&#x2001;Hélas ! à quoi bon dire cela ?</l>
-<l>&#x2001;&#x2001;Ce qui n’est pas beau a tort d’être ;</l>
-<l>&#x2001;&#x2001;La beauté n’aime que la beauté,</l>
-<l>&#x2001;&#x2001;Avril tourne le dos à janvier.</l>
+<l m='8'>Hélas ! à quoi bon dire cela ?</l>
+<l m='8'>Ce qui n’est pas beau a tort d’être ;</l>
+<l m='8'>La beauté n’aime que la beauté,</l>
+<l m='8'>Avril tourne le dos à janvier.</l>
 </lg>
 <lg>
-<l>&#x2001;&#x2001;&#x2001;La beauté est parfaite,</l>
-<l>&#x2001;&#x2001;&#x2001;La beauté peut tout,</l>
+<l m='5'>La beauté est parfaite,</l>
+<l m='5'>La beauté peut tout,</l>
 <l>La beauté est la seule chose qui n’existe pas à demi.</l>
 </lg>
 <lg>
-<l>&#x2001;&#x2001;Le corbeau ne vole que le jour,</l>
-<l>&#x2001;&#x2001;Le hibou ne vole que la nuit,</l>
-<l>&#x2001;&#x2001;Le cygne vole la nuit et le jour.</l>
+<l m='8'>Le corbeau ne vole que le jour,</l>
+<l m='8'>Le hibou ne vole que la nuit,</l>
+<l m='8'>Le cygne vole la nuit et le jour.</l>
 </lg>
 </poem>
 </blockquote>
@@ -6721,10 +6608,8 @@
 
 <p>Elle avait du reste tout à fait cessé de voir, cessé d’entendre Quasimodo. Le pauvre sonneur semblait avoir disparu de l’église. Une nuit pourtant, comme elle ne dormait pas et songeait à son beau capitaine, elle entendit soupirer près de sa cellule. Effrayée, elle se leva, et vit à la lumière de la lune une masse informe couchée en travers devant sa porte. C’était Quasimodo qui dormait là sur la pierre.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l9ch5'>
+<page-sequence id='l9ch5'>
  <pagenum v="v2" num="233"/>
 
 <h2>V</h2>
@@ -6750,10 +6635,8 @@
 
 <p>Il savait où trouver la clef de la Porte-Rouge qui communiquait du cloître à l’église, et il avait toujours sur lui, comme on sait, une clef de l’escalier des tours.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l9ch6'>
+<page-sequence id='l9ch6'>
  <pagenum v="v2" num="236"/>
 
 <h2>VI</h2>
@@ -6839,19 +6722,15 @@
 
 <p>Il répéta d’un air pensif sa fatale parole : Personne ne l’aura !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l10'>
+<page-sequence id='l10'>
  <pagenum v="v2" num="241"/>
 
  <h1>LIVRE DIXIÈME</h1>
 
  <pagenum v="v2" num="242"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l10ch1'>
+<page-sequence id='l10ch1'>
  <pagenum v="v2" num="243"/>
 
 <h1>LIVRE DIXIÈME</h1>
@@ -7159,10 +7038,8 @@
 
 <p>— A demain, répéta Gringoire. Et tandis que l’archidiacre s’éloignait d’un côté, il s’en alla de l’autre en se disant à demi-voix : — Voilà une fière affaire, monsieur Pierre Gringoire. N’importe ! Il n’est pas dit, parce qu’on est petit, qu’on s’effrayera d’une grande entreprise. Biton porta un grand taureau sur ses épaules ; les hochequeues, les fauvettes et les traquets traversent l’océan.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l10ch2'>
+<page-sequence id='l10ch2'>
  <pagenum v="v2" num="259"/>
 
 <h2>II</h2>
@@ -7214,10 +7091,8 @@
 
 <p>En même temps, le prêtre jeta à Jehan une bourse qui fit à l’écolier une grosse bosse au front, et dont Jehan s’en alla à la fois fâché et content, comme un chien qu’on lapiderait avec des os à moelle.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l10ch3'>
+<page-sequence id='l10ch3'>
  <pagenum v="v2" num="263"/>
 
 <h2>III</h2>
@@ -7254,7 +7129,7 @@
 <p>Une fille fredonnait :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Bonsoir, mon père et ma mère !</l>
 <l>Les derniers couvrent le feu.</l>
 </poem>
@@ -7299,7 +7174,7 @@
 <p>— Par saint Voult-de-Lucques, que le peuple appelle saint Goguelu, je suis parfaitement heureux. J’ai là devant moi un imbécile qui me regarde avec la mine glabre d’un archiduc. En voici un à ma gauche qui a les dents si longues qu’elles lui cachent le menton. Et puis je suis comme le maréchal de Gié au siège de Pontoise, j’ai ma droite appuyée à un mamelon. — Ventre-Mahom ! camarade ! tu as l’air d’un marchand d’esteufs, et tu viens t’asseoir auprès de moi ! Je suis noble, l’ami. La marchandise est incompatible avec la noblesse. Va-t’en de là. — Holahée ! vous autres ! ne vous battez pas ! Comment, Baptiste Croque-Oison, toi qui as un si beau nez, tu vas le risquer contre les gros poings de ce butor ! Imbécile ! <i>Non cuiquam datum <pagenum v="v2" num="271"/>est habere nasum.</i> — Tu es vraiment divine, Jacqueline Ronge-Oreille ! c’est dommage que tu n’aies pas de cheveux. — Holà ! je m’appelle Jehan Frollo, et mon frère est archidiacre. Que le diable l’emporte ! Tout ce que je vous dis est la vérité. En me faisant truand, j’ai renoncé de gaieté de cœur à la moitié d’une maison située dans le paradis que mon frère m’avait promise. <i>Dimidiam domum in paradiso.</i> Je cite le texte. J’ai un fief rue Tirechappe, et toutes les femmes sont amoureuses de moi, aussi vrai qu’il est vrai que saint Éloi était un excellent orfèvre, et que les cinq métiers de la bonne ville de Paris sont les tanneurs, les mégissiers, les baudroyeurs, les boursiers et les sueurs, et que saint Laurent a été brûlé avec des coquilles d’œufs. Je vous jure, camarades,</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Que je ne beuvrai de piment</l>
 <l>Devant un an, si je cy ment !</l>
 </poem>
@@ -7311,13 +7186,13 @@
  <pagenum v="v2" num="272"/>
 
 <blockquote>
-<poem>
+<poem m='4'>
 <l>Et je n’ai moi,</l>
 <l>Par la sang-Dieu ! </l>
 <l>Ni foi, ni loi,</l>
 <l>Ni feu, ni lieu,</l>
-<l>&#x2001;Ni roi,</l>
-<l>&#x2001;Ni Dieu !</l>
+<l m='2'>Ni roi,</l>
+<l>m='2'>Ni Dieu !</l>
 </poem>
 </blockquote>
 
@@ -7363,10 +7238,8 @@
 
 <p>Dix minutes après, les cavaliers du guet s’enfuyaient épouvantés devant une longue procession d’hommes noirs et silencieux qui descendait vers le pont au Change, à travers les rues tortueuses qui percent en tous sens le massif quartier des Halles.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l10ch4'>
+<page-sequence id='l10ch4'>
  <pagenum v="v2" num="275"/>
 
 <h2>IV</h2>
@@ -7631,7 +7504,7 @@
 <p>Quand l’écolier se vit désarmé, déshabillé, faible et nu dans ces redoutables mains, il n’essaya pas de parler à ce sourd, mais il se mit à lui rire effrontément au visage, et à chanter, avec son intrépide insouciance d’enfant de seize ans, la chanson alors populaire :</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>Elle est bien habillée,</l>
 <l>La ville de Cambrai.</l>
 <l>Marafin l’a pillée....</l>
@@ -7648,10 +7521,8 @@
 
 <p>Cependant, la place s’était étoilée de mille torches. Cette scène désordonnée, jusqu’alors enfouie dans l’obscurité, s’était subitement embrasée de lumière. <pagenum v="v2" num="303"/>Le Parvis resplendissait et jetait un rayonnement dans le ciel. Le bûcher allumé sur la haute plate-forme brûlait toujours, et illuminait au loin la ville. L’énorme silhouette des deux tours, développée au loin sur les toits de Paris, faisait dans cette clarté une large échancrure d’ombre. La ville semblait s’être émue. Des tocsins éloignés se plaignaient. Les truands hurlaient, haletaient, juraient, montaient, et Quasimodo, impuissant contre tant d’ennemis, frissonnant pour l’égyptienne, voyant les faces furieuses se rapprocher de plus en plus de sa galerie, demandait un miracle au ciel, et se tordait les bras de désespoir.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l10ch5'>
+<page-sequence id='l10ch5'>
  <pagenum v="v2" num="304"/>
 
 <h2>V</h2>
@@ -7842,7 +7713,7 @@
 <p>La porte se referma. Il ne vit plus rien, et n’entendit plus que la voix rauque du guichetier, qui lui chantait aux oreilles la chanson :</p>
 
 <blockquote>
-<poem>
+<poem m='5'>
 <l>Maître Jean Balue</l>
 <l>A perdu la vue</l>
 <l>De ses évêchés,</l>
@@ -8338,10 +8209,8 @@
 
 <p>— Maître Jacques, répondit Rym, c’est que les rois ont le vin moins cruel que la tisane.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l10ch6'>
+<page-sequence id='l10ch6'>
  <pagenum v="v2" num="349"/>
 
 <h2>VI</h2>
@@ -8383,10 +8252,8 @@
 
 <p>Tous deux descendirent à grands pas vers la Cité.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l10ch7'>
+<page-sequence id='l10ch7'>
  <pagenum v="v2" num="351"/>
 
 <h2>VII</h2>
@@ -8415,19 +8282,15 @@
 <p>Lorsqu’il entra dans la cellule, il la trouva vide.</p>
 
  <pagenum v="v2" num="354"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l11'>
+<page-sequence id='l11'>
  <pagenum v="v2" num="355"/>
 
 <h1>LIVRE ONZIÈME</h1>
 
  <pagenum v="v2" num="356"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l11ch1'>
+<page-sequence id='l11ch1'>
  <pagenum v="v2" num="357"/>
 
 <h1>LIVRE ONZIÈME</h1>
@@ -8680,7 +8543,7 @@
 <p>L’égyptienne venait de tirer du sachet un petit soulier absolument pareil à l’autre. A ce petit soulier était attaché un parchemin sur lequel ce <i>carme</i> était écrit :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Quand le pareil retrouveras,</l>
 <l>Ta mère te tendra les bras.</l>
 </poem>
@@ -9060,10 +8923,8 @@
 
 <p>Le bourreau, qui n’avait pas lâché la jeune fille, se remit à monter l’échelle.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l11ch2'>
+<page-sequence id='l11ch2'>
  <pagenum v="v2" num="406"/>
 
 <h2>II</h2>
@@ -9165,10 +9026,8 @@
 
 <p>Quasimodo alors releva son œil sur l’égyptienne dont il voyait le corps, suspendu au gibet, frémir au loin sous sa robe blanche des derniers tressaillements de l’agonie, puis il le rabaissa sur l’archidiacre étendu au bas de la tour et n’ayant plus forme humaine, et il dit avec un sanglot qui souleva sa profonde poitrine : — Oh ! tout ce que j’ai aimé !</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l11ch3'>
+<page-sequence id='l11ch3'>
  <pagenum v="v2" num="419"/>
 
 <h2>III</h2>
@@ -9186,10 +9045,8 @@
 
 <p>Phœbus de Châteaupers aussi fit une fin tragique, il se maria.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='l11ch4'>
+<page-sequence id='l11ch4'>
  <pagenum v="v2" num="421"/>
 
 <h2>IV</h2>
@@ -9211,19 +9068,15 @@
 
 <p>Deux ans environ ou dix-huit mois après les événements qui terminent cette histoire, quand on vint rechercher dans la cave de Montfaucon le cadavre d’Olivier Le Daim, qui avait été pendu deux jours auparavant, et à qui Charles VIII accordait la grâce d’être enterré à Saint-Laurent en meilleure compagnie, on trouva parmi toutes ces carcasses hideuses deux squelettes dont l’un tenait l’autre singulièrement embrassé. L’un de ces deux squelettes, qui était celui d’une femme, avait encore quelques lambeaux de robe d’une étoffe qui avait été blanche, et on voyait autour de son cou un collier de grains d’adrézarach avec un petit sachet de soie, orné de verroterie verte, qui était ouvert et vide. Ces objets avaient si peu de valeur que le bourreau sans doute n’en avait pas voulu. L’autre, qui tenait celui-ci étroitement embrassé, était un squelette d’homme. On remarqua qu’il avait la colonne vertébrale déviée, la tête dans les omoplates, et une jambe plus courte que l’autre. Il n’avait <pagenum v="v2" num="424"/>d’ailleurs aucune rupture de vertèbre à la nuque, et il était évident qu’il n’avait pas été pendu. L’homme auquel il avait appartenu était donc venu là, et il y était mort. Quand on voulut le détacher du squelette qu’il embrassait, il tomba en poussière.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id='notes'>
+<page-sequence id='notes'>
  <pagenum v="v2" num="425"/>
 
 <h1>NOTES</h1>
 
  <pagenum v="v2" num="426"/>
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum v="v2" num="427"/>
 
 <h1>NOTES</h1>
@@ -9258,11 +9111,9 @@
 
 <p>Le chapitre <i>Le petit soulier</i>, — L<s>A CHÈVRE EST SAUVÉE</s>.</p>
 
-</div>
 </page-sequence>
 
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
  <pagenum num="575"/>
 
 <h1>TABLE</h1>
@@ -9420,7 +9271,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>
