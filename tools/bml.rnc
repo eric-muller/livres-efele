@@ -167,10 +167,15 @@ block |= division
 
 #------------------------------------------------------------ poetry & plays ---
 
+meter = 
+  attribute m { "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" | "12" 
+              | "c"     # centered
+              | "i"}    # irregular
+
 poem = 
   element poem {
     common-attributes,
-    attribute m { "2" | "3" | "4" | "5" | "6" | "7" | "8" | "10" | "12" },
+    meter,
     ( linegroup
     | line
     | vsep
@@ -185,7 +190,7 @@ poem =
 linegroup =
   element lg {
     common-attributes,
-    attribute m { "2" | "3" | "4" | "5" | "6" | "8" | "10" | "12" }?,
+    meter?,
     ( line
     | vsep
     | pagination )+ }
@@ -193,7 +198,7 @@ linegroup =
 line =
   element l {
      common-attributes,
-     attribute m { "2" | "3" | "4" | "5" | "6" | "8" | "10" | "12" }?,
+     meter?,
      attribute class {
        list { ("smaller")?,
               ( "c" | "r3")? }}?,

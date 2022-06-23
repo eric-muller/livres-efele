@@ -26,7 +26,7 @@
 
   <!-- date the xslt or css has been modified -->
   <xsl:variable name='formatdate' as='xs:dateTime'
-                select='xs:dateTime("2014-07-06T14:35:30-07:00")'/>
+                select='xs:dateTime("2022-06-18T18:06:19-07:00")'/>
 
   <xsl:variable name='date' as='xs:dateTime'>
     <xsl:choose>

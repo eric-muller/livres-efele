@@ -404,7 +404,9 @@ h2 + .notes {
   text-align: right; }
 
 .texte-de-note {
-  padding: 0 0 0 0.5em;
+  /* small padding at top and bottom: so that our border encompasses 
+     any margin in our children. */
+  padding: 0.05px 0 0.05px 0.5em;
   margin: 0 0 0 1.3em;
   border-left:1px black solid; }
 

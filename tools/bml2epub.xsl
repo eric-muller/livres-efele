@@ -319,11 +319,23 @@
   <xsl:variable name='m'
                 select='(if (@m) then @m else if (../@m) then ../@m  else ../../@m)'/>
 
-  <p style="text-indent: -{$m}em">
+  <p>
+    <xsl:choose>
+      <xsl:when test='$m = "c"'>
+        <xsl:attribute name='style'>margin-left: -100%; text-align: center;</xsl:attribute>
+      </xsl:when>
+      <xsl:when test='$m = "i"'>
+        <xsl:attribute name='style'>text-indent: -12em;</xsl:attribute>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:attribute name='style'>text-indent: -<xsl:value-of select='$m'/>em;</xsl:attribute>
+      </xsl:otherwise>
+    </xsl:choose>
 
     <xsl:call-template name='transfer-common-attributes'>
       <xsl:with-param name='class'>l</xsl:with-param>
     </xsl:call-template>
+
 
     <xsl:if test="@cont">
       <span style="visibility:hidden;">
@@ -508,6 +520,31 @@
   <p class="onestar"
      style='margin: 0.5em 0 0.5em 0; text-indent:0; text-align:center;'>
     <xsl:text>*</xsl:text>
+  </p>
+</xsl:template>
+
+<xsl:template match='bml:poem//bml:vsep[@class="dots"]' mode="html" priority='10'>
+  <xsl:variable name='m'
+                select='(if (@m) then @m else if (../@m) then ../@m  else ../../@m)'/>
+
+  <p>
+    <xsl:choose>
+      <xsl:when test='$m = "c"'>
+        <xsl:attribute name='style'>margin-left: -100%; text-align: center;</xsl:attribute>
+      </xsl:when>
+      <xsl:when test='$m = "i"'>
+        <xsl:attribute name='style'>text-indent: -12em;</xsl:attribute>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:attribute name='style'>text-indent: -<xsl:value-of select='$m'/>em;</xsl:attribute>
+      </xsl:otherwise>
+    </xsl:choose>
+
+    <xsl:call-template name='transfer-common-attributes'>
+      <xsl:with-param name='class'>l</xsl:with-param>
+    </xsl:call-template>
+
+    <xsl:text>. . . . . . . . . . . . . . . . . . .</xsl:text>
   </p>
 </xsl:template>
 
