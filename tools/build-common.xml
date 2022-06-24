@@ -330,8 +330,6 @@
   </macrodef>
 
 
-
-
   <target name='thumbnail'>
     <process-books a='thumbnail-book'/>
     <process-collections a='thumbnail-collection'/>
@@ -419,6 +417,11 @@
       <arg value="-xsl:${tools}/bml2catalog.xsl"/>
       <arg value="-s:${x}.bml"/>
     </java>
+
+    <delete file='results/${id}/liste.html'/>
+    <echo file='results/${id}/liste.html'>
+      &lt;p>&lt;a href='livres/${id}/${x}.epub'>${id} ${x}&lt;/a>&lt;/p>
+    </echo>
   </target>
 
   <target name='catalog-collection'>

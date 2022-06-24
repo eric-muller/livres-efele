@@ -257,6 +257,7 @@
     <iterate target='clean'/>
     <delete file='feed.xml'/>
     <delete file='efele_catalogue_commun.txt'/>
+    <delete file='liste.epub.html'/>
     <delete file='sources.zip'/>
   </target>
 
@@ -319,33 +320,14 @@
       <fileset dir='../tools' includes='catalog_head.txt'/>
       <fileset dir='.' includes='*/*/results/*/catalog.txt'/>
     </concat>
-  </target>
 
-  <target name='listes'>
-    <exec executable="sh">
-      <arg value='../tools/listes.sh'/>
-      <arg value='sources'/>
-      <arg value='sources.zip'/>
-    </exec>
-
-    <exec executable="sh">
-      <arg value='../tools/listes.sh'/>
-      <arg value='epub'/>
-      <arg value='epub'/>
-    </exec>
-
-    <exec executable="sh">
-      <arg value='../tools/listes.sh'/>
-      <arg value='mobipocket'/>
-      <arg value='mobi'/>
-    </exec>
-
-    <exec executable="sh">
-      <arg value='../tools/listes.sh'/>
-      <arg value='daisy'/>
-      <arg value='daisy.zip'/>
-    </exec>
-
+    <concat destfile='liste.epub.html'
+            binary='true'
+            overwrite='yes'>
+      <fileset dir='../tools' includes='liste_head.html'/>
+      <fileset dir='.' includes='*/*/results/*/liste.html'/>
+      <fileset dir='../tools' includes='liste_tail.html'/>
+    </concat>
   </target>
 
   <target name='export-me' depends='feed.xml,efele_catalogue_commun.txt, listes'>
