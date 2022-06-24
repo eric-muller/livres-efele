@@ -650,9 +650,11 @@
     <delete dir='build'/>
   </target>
 
-  <target name='tidystrong' depends="tidy">
+  <target name='supertidy' depends="tidy">
     <delete>
       <fileset dir="results" includes="**/*.epub"/>
+      <fileset dir="results" includes="**/index.html"/>
+      <fileset dir="results" includes="**/thumbnail.png"/>
     </delete>
   </target>
 

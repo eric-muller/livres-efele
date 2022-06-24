@@ -249,7 +249,7 @@
   <target name='zipsources'>      <iterate target="zipsources"/>    </target>
   <target name='validate'>        <iterate target='validate'/>      </target>
   <target name='tidy'>            <iterate target='tidy'/>          </target>
-  <target name='tidystrong'>      <iterate target='tidystrong'/>    </target>
+  <target name='supertidy'>       <iterate target='supertidy'/>     </target>
   <target name='export-books'>    <iterate target='export'/>        </target>
 
 
