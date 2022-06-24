@@ -62,19 +62,16 @@
 <page-sequences>
 
 
-<page-sequence>
-<div id="note">
+<page-sequence id="note">
  <pagenum num="225"/>
 
 <h1>NOTE DE L’ÉDITEUR</h1>
 
 <p>Ceux de nos lecteurs qui ont lu le <i>Mariage de Loti</i> se rappelleront peut-être le nom de <i>Plumkett,</i> l’ami et le confident de Loti, le compagnon de ses voyages. Plumkett, pas plus que Loti, n’est une fiction. C’est à Plumkett que Loti, soucieux de la valeur de ses œuvres, soumet en premier lieu le travail qu’il vient d’achever. Loti a foi dans le jugement de Plumkett ; mais s’il accepte les critiques de son ami, et s’y conforme souvent, ce n’est pas toujours sans résister, sans défendre pied à pied le passage incriminé. C’est chose curieuse qu’un manuscrit de Loti révisé par Plumkett ; les observations, les réflexions, les réponses s’enchevêtrent au hasard de la dispute littéraire des deux amis, criblant le texte de notes, le zébrant de lignes noires, rouges ou bleues, en une saveur d’esprit aussi originale d’un côté que de l’autre. De cet échange de <pagenum num="226"/>pensées, perdues avec les feuillets de la copie, est venue l’idée d’une collaboration à une œuvre commune ; non une de ces collaborations où le tempérament de chacun disparaît dans l’unité de l’ensemble ; Loti et Plumkett ont voulu conserver leur personnalité, laisser dans leur ouvrage la marque distinctive de leur nature. <i>Fleurs d’ennui</i> est donc un livre double, dans lequel chaque auteur apporte à l’action son faire particulier, ses idées personnelles et les tendances instinctives de son individualité.</p>
 
-</div>
 </page-sequence>
 
-<page-sequence>
-<div id="fleurs_d_ennui">
+<page-sequence id="fleurs_d_ennui">
  <pagenum num="227"/>
 
 <h2>I</h2>
@@ -837,11 +834,11 @@
 <p>Ils étaient tellement gris, que la rue Bâb-Azoun ne semblait plus assez large pour leur donner passage, et, en marchant de travers, ils chantaient une monotone chanson de bord qui n’avait ni rime ni raison :</p>
 
 
-<blockquote class="c">
-<poem>
+<blockquote>
+<poem m='10'>
 <l>Joli baleinier, veux-tu naviguer ?</l>
-<l>Joli baleinier,</l>
-<l>Joli baleinier.</l>
+<l m='5'>Joli baleinier,</l>
+<l m='5'>Joli baleinier.</l>
 </poem>
 </blockquote>
 
@@ -879,11 +876,11 @@
 
 <p>Les six matelots marchaient toujours, bousculant la foule ; ils allaient devant eux, chantant les mille couplets de leur chanson</p>
 
-<blockquote class="c">
-<poem>
+<blockquote>
+<poem m='10'>
 <l>Joli baleinier, veux-tu naviguer ?</l>
-<l>Joli baleinier,</l>
-<l>Joli baleinier.</l>
+<l m='5'>Joli baleinier,</l>
+<l m='5'>Joli baleinier.</l>
 </poem>
 </blockquote>
 
@@ -921,11 +918,11 @@
 
 <h2>XVII</h2>
 
-<blockquote class="c">
-<poem>
+<blockquote>
+<poem m='10'>
 <l>Joli baleinier, veux-tu naviguer ?</l>
-<l>Joli baleinier,</l>
-<l>Joli baleinier.</l>
+<l m='5'>Joli baleinier,</l>
+<l m='5'>Joli baleinier.</l>
 </poem>
 </blockquote>
 
@@ -985,11 +982,11 @@
 
 <h2>XXII</h2>
 
-<blockquote class="c">
-<poem>
+<blockquote>
+<poem m='10'>
 <l>Joli baleinier, veux-tu naviguer ?</l>
-<l>Joli baleinier,</l>
-<l>Joli baleinier.</l>
+<l m='5'>Joli baleinier,</l>
+<l m='5'>Joli baleinier.</l>
 </poem>
 </blockquote>
 
@@ -1229,18 +1226,18 @@
 
 <h2>XXXIX</h2>
 
-<blockquote class="c">
-<poem>
+<blockquote>
+<poem m='10'>
 <l>Joli baleinier, veux-tu naviguer ?</l>
-<l>Joli baleinier,</l>
-<l>Joli baleinier.</l>
+<l m='5'>Joli baleinier,</l>
+<l m='5'>Joli baleinier.</l>
 </poem>
 </blockquote>
 
 <p>Ils les voiturèrent jusqu’au matin en chantant d’abord le <i>Joli baleinier,</i> et ensuite pour changer :</p>
 
-<blockquote class="c">
-<poem>
+<blockquote>
+<poem m='7'>
 <l>Tiens bon, Marie Madeleine,</l>
 <l>Tiens bon, Marie Madelon !</l>
 </poem>
@@ -2288,11 +2285,9 @@
 <p>Vrai, vous me manquerez beaucoup...</p>
 
 
-</div>
 </page-sequence>
 
-<page-sequence>
-<div id="pasquala_ivanovitch">
+<page-sequence id="pasquala_ivanovitch">
 <pagenum num="393"/>
 
 <h1>PASQUALA IVANOVITCH</h1>
@@ -2995,10 +2990,8 @@
 <p>Et maintenant c’est le soir, et nous sommes au large.</p>
 
  <pagenum num="444"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="voyage_au_montenegro">
+<page-sequence id="voyage_au_montenegro">
  <pagenum num="445"/>
 
 
@@ -3559,10 +3552,8 @@
 <p>Hélas ! elle dure encore une heure et demie. — Environ quatre-vingts tours de lacet. Cette musique, ces bruits distincts nous avaient trompés, et nous étions très haut. Dans la nuit noire, nous marchons sur des pierres pointues qui nous font mal, ou sur des pierres rondes qui roulent sous nos pas. — Et il est fort tard quand nous arrivons en bas, à Cattaro.</p>
 
  <pagenum num="490"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="suleima">
+<page-sequence id="suleima">
  <pagenum num="491"/>
 
 <h1>SULEIMA</h1>
@@ -3575,10 +3566,8 @@
 
 <p>Il y aura deux personnages portant le même nom, une femme et une bête ; et leurs affaires seront tellement <pagenum num="492" b="amal-" a="gamées,">amalgamées,</pagenum> qu’on ne saura plus trop, à certains moments, s’il s’agit de l’une ou s’il s’agit de l’autre. Mes aventures personnelles viendront s’y mêler aussi, — et, pour comble de gâchis, les réflexions de Plumkett.</p>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
  <pagenum num="493"/>
 
 <h2>PROLOGUE</h2>
@@ -4429,7 +4418,6 @@
 <h2>XXI</h2>
 
 <p>Ils la trouveront à peu près écrite ici, ces enfants à venir, l’histoire très simple de ce grand-oncle et de cette tortue...</p>
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

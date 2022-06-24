@@ -66,7 +66,6 @@
  <page-sequences>
 
 <page-sequence>
-<div>
  <pagenum num="311"/>
 
 <h1>A MADAME ADAM</h1>
@@ -79,11 +78,9 @@
 
  <pagenum num="312"/>
 
-</div>
 </page-sequence>
 
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1">
  <pagenum num="313"/>
 
 <h1>PREMIÈRE PARTIE</h1>
@@ -583,10 +580,10 @@
 <vsep class="dots"/>
 
 <blockquote>
-<poem>
+<poem m='5'>
 <l>Jean-François de Nantes ;</l>
-<l>Jean-François.</l>
-<l>Jean-François !</l>
+<l m='3'>Jean-François.</l>
+<l m='3'>Jean-François !</l>
 </poem>
 </blockquote>
 
@@ -608,10 +605,10 @@
 <vsep class="dots"/>
 
 <blockquote>
-<poem>
+<poem m='5'>
 <l>Jean-François de Nantes ;</l>
-<l>Jean-François,</l>
-<l>Jean-François !</l>
+<l m='3'>Jean-François,</l>
+<l m='3'>Jean-François !</l>
 </poem>
 </blockquote>
 
@@ -680,11 +677,9 @@
 <p>A ce moment, l’éternel soleil, qui avait un peu trempé son bord dans les eaux, recommença à monter lentement.</p>
 
 <p>Et ce fut le matin...</p>
-</div>
 </page-sequence>
 
-<page-sequence>
-<div id="p2">
+<page-sequence id="p2">
  <pagenum num="369"/>
 
 <h1>DEUXIÈME PARTIE</h1>
@@ -740,10 +735,10 @@
 <p>Ils n’avaient pas peur, ayant la notion exacte de ce qui est <i>maniable</i>, ayant confiance dans la solidité de leur bateau, dans la force de leurs bras. Et aussi dans la protection de cette Vierge de faïence qui, depuis quarante années de voyages en Islande, avait dansé tant de fois cette mauvaise danse-là, toujours souriante entre ses bouquets de fausses fleurs...</p>
 
 <blockquote>
-<poem>
+<poem m='5'>
 <l>Jean-François de Nantes ;</l>
-<l>Jean-François,</l>
-<l>Jean-François !</l>
+<l m='3'>Jean-François,</l>
+<l m='3'>Jean-François !</l>
 </poem>
 </blockquote>
 
@@ -762,10 +757,10 @@
 <p>A la longue pourtant, cela devenait une extrême fatigue, cette fureur qui ne s’apaisait pas, qui restait toujours à son même paroxysme exaspéré. Les rages des hommes, celles des bêtes, s’épuisent et tombent vite ; — il faut subir longtemps, longtemps celles des choses inertes qui sont <pagenum num="377"/>sans cause et sans but, mystérieuses comme la vie et comme la mort.</p>
 
 <blockquote>
-<poem>
+<poem m='5'>
 <l>Jean-François de Nantes ;</l>
-<l>Jean-François,</l>
-<l>Jean-François !</l>
+<l m='3'>Jean-François,</l>
+<l m='3'>Jean-François !</l>
 </poem>
 </blockquote>
 
@@ -1348,11 +1343,9 @@
 
 <p>... Il resta atterré ; ces mauvaises nouvelles lui avaient gâté toute sa joie d’aller se battre...</p>
 
-</div>
 </page-sequence>
 
-<page-sequence>
-<div id="p3">
+<page-sequence id="p3">
  <pagenum num="421"/>
 
 <h1>TROISIÈME PARTIE</h1>
@@ -1892,13 +1885,13 @@
 <p>Elle commençait à chanter aussi, et cela faisait encore plus de mal à entendre que ses colères ; c’était, au hasard des choses qui lui revenaient en tête, des <i>oremus</i> de messe, ou bien des couplets très vilains qu’elle avait entendus jadis sur le port, répétés par des matelots. Il lui arrivait d’entonner les <i>Fillettes de Paimpol ;</i> ou bien, en balançant la tête et battant la mesure avec son pied, elle prenait :</p>
 
 <blockquote>
-<poem>
-<l>Mon mari vient de partir ;</l>
+<poem m='12'>
+<l m='7'>Mon mari vient de partir ;</l>
 <l>Pour la pêche d’Islande, mon mari vient de partir,</l>
-<l>Il m’a laissé sans le sou,</l>
-<l>Mais... trala, trala la lou...</l>
-<l>J’en gagne !</l>
-<l>J’en gagne !...</l>
+<l m='7'>Il m’a laissé sans le sou,</l>
+<l m='7'>Mais... trala, trala la lou...</l>
+<l m='2'>J’en gagne !</l>
+<l m='2'>J’en gagne !...</l>
 </poem>
 </blockquote>
 
@@ -1941,10 +1934,10 @@
 <p>D’un ton guilleret qui donnait froid à l’âme, la voix chantait :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Pour la pêche d’Islande, mon mari vient de partir ;</l>
-<l>Il m’a laissée sans le sou,</l>
-<l>Mais... trala, trala, la lou...</l>
+<l m='7'>Il m’a laissée sans le sou,</l>
+<l m='7'>Mais... trala, trala, la lou...</l>
 </poem>
 </blockquote>
 
@@ -2110,11 +2103,9 @@
 
 <p>— Je m’en vais toujours commencer par prévenir notre père, dit-il, avec autant de hâte que si les minutes mêmes de leur vie étaient maintenant mesurées et précieuses...</p>
 
-</div>
 </page-sequence>
 
-<page-sequence>
-<div id="p4">
+<page-sequence id="p4">
  <pagenum num="489"/>
 
 <h1>QUATRIÈME PARTIE</h1>
@@ -2392,11 +2383,11 @@
 <p>Les chansons commencèrent après. Des chansons apprises <i>au service</i>, sur le gaillard d’avant, où il y a, comme on sait, beaucoup de beaux chanteurs :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Un noble corps, pas moins, que celui des zouaves,</l>
-<l>Mais chez nous les braves</l>
-<l>Narguent le destin,</l>
-<l>Hurrah ! hurrah ! vive le vrai marin !</l>
+<l m='6'>Mais chez nous les braves</l>
+<l m='6'>Narguent le destin,</l>
+<l m='10'>Hurrah ! hurrah ! vive le vrai marin !</l>
 </poem>
 </blockquote>
 
@@ -2561,11 +2552,9 @@
 
 <p>Elle baissa la tête, se sentant plus triste, plus vaincue par la mer.</p>
 
-</div>
 </page-sequence>
 
-<page-sequence>
-<div id="p5">
+<page-sequence id="p5">
  <pagenum num="523"/>
 
 <h1>CINQUIÈME PARTIE</h1>
@@ -2907,7 +2896,6 @@
 
 <p>Et à ses noces, ils y étaient tous, ceux qu’il avait conviés jadis. Tout, excepté Sylvestre, qui, lui, s’en était allé dormir dans des jardins enchantés, — très loin, de l’autre côté de la Terre...</p>
 
-</div>
 </page-sequence>
  </page-sequences>
 </bml>

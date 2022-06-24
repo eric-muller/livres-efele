@@ -60,8 +60,7 @@
 
 <page-sequences>
 
-<page-sequence>
-<div id="introduction">
+<page-sequence id="introduction">
 <pagenum num="3"/>
 
 <h2>INTRODUCTION</h2>
@@ -212,11 +211,9 @@
 
 <vsep class="dots"/>
 
-</div>
  </page-sequence>
 
- <page-sequence>
-<div id="p1">
+ <page-sequence id="p1">
  <pagenum num="15"/>
 
 <h1>PREMIÈRE PARTIE</h1>
@@ -1011,10 +1008,8 @@
 
 <vsep class="dots"/>
 
-</div>
  </page-sequence>
- <page-sequence>
-<div id="p2"> 
+ <page-sequence id="p2"> 
  <pagenum num="73"/>
 
 <h1>DEUXIÈME PARTIE</h1>
@@ -2195,10 +2190,8 @@
 
 <vsep class="dots"/>
 
-</div>
  </page-sequence>
- <page-sequence>
-<div id="p3">
+ <page-sequence id="p3">
  <pagenum num="163"/> 
 
 <h1>TROISIÈME PARTIE</h1>
@@ -3134,7 +3127,6 @@
 
 <vsep class="dots"/>
 
-</div>
  </page-sequence>
  </page-sequences>
 </bml>
