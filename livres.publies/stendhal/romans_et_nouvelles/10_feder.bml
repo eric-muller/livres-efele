@@ -68,8 +68,7 @@
   <cover src="images/couverture2.png" alt="Stendhal. Romans et nouvelles. II. Le coffre et le revenant — Le philtre — Le chevalier de Saint-Ismier — Philibert Lescale — Feder. Paris. Le Divan. 37, Rue Bonaparte, 37. MCMXXVIII."/>
 
   <page-sequences>
-<page-sequence>
-<div id="ch1">
+<page-sequence id="ch1">
  <pagenum num="125"/>
 
 <h1>FÉDER</h1>
@@ -95,7 +94,7 @@
 <p>Michel Féder, chef si connu de la <correction original="raison">maison</correction> Michel Féder et compagnie, déclamait toute la journée en faveur de l’égalité naturelle, mais jamais ne put pardonner à son fils unique d’avoir épousé une petite actrice. En vain l’avoué chargé de faire protester les mauvaises lettres de change adressées à sa maison lui fit observer que le mariage de son fils n’avait été célébré que par un capucin espagnol (dans le Midi, on ne s’est point encore donné la peine de comprendre le mariage à la municipalité) ; Michel Féder, né à Nuremberg et catholique outré, comme on l’est en Bavière, tenait pour indissoluble tout mariage où était intervenue la dignité du sacrement. L’extrême vanité du philosophe allemand fut surtout choquée d’une sorte de dicton provençal qui fut bientôt populaire dans Marseille :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Monsieur Féder, le riche Baviérot,</l>
 <l>Se trouve le beau-père au  <i>petit matelot.</i></l>
 </poem>
@@ -203,10 +202,8 @@
 
 <p>— En vérité, disait-elle les larmes aux yeux, vous tenez à jour vos petits comptes avec moi, comme si vous étiez à la veille de me quitter. Je comprends que vous voulez pouvoir dire à vos amis : « J’ai aimé Rosalinde, » peut-être même : « J’ai vécu avec elle pendant trois ans ; je lui ai toutes les obligations possibles ; elle a fait avoir à mes cadres de miniatures les meilleures places à l’exposition ; mais enfin, du côté de l’argent proprement dit, nous avons toujours été comme frère et sœur. »</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch2">
+<page-sequence id="ch2">
  <pagenum num="150"/>
 
 <h2>CHAPITRE II</h2>
@@ -323,10 +320,8 @@
 
 <p>— Allez, poussez, dites-moi des choses <pagenum num="172"/>désagréables, cher beau-frère ! Pour moi, je ne conçois pas que l’on donne la croix à des va-nu-pieds. Si c’est ainsi que le gouvernement veut fonder une aristocratie, l’on se trompe du tout au tout ; il faut d’abord inspirer au peuple un respect inné pour les possesseurs du sol... Et, d’ailleurs, vous êtes une girouette ; hier, pas plus anciennement que ça, hier vous étiez choqué comme moi de l’insolence des ouvriers de Paris.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch3">
+<page-sequence id="ch3">
  <pagenum num="173"/>
 
 <h2>CHAPITRE III</h2>
@@ -402,10 +397,8 @@
 
 <p>— Brisons-là, je vous prie, monsieur.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch4">
+<page-sequence id="ch4">
 <pagenum num="189"/>
 
 <h2>CHAPITRE IV</h2>
@@ -508,10 +501,8 @@
 
 <p>— Moi aussi je veux m’embarquer.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch5">
+<page-sequence id="ch5">
  <pagenum num="210"/>
 
 <h2>CHAPITRE V</h2>
@@ -602,10 +593,8 @@
 
 <p>En étudiant profondément Boissaux, Féder crut voir que la nomination à la Chambre des pairs, plus ou moins récente, de cinq ou six négociants, troublait son sommeil depuis quelque temps, et avait fait succéder l’ambition à l’avidité vorace <pagenum num="229"/>pour l’argent monnayé. Au retour de chez le nouveau pair chapelier, Boissaux ne dit mot de toute la soirée ; le lendemain il ordonna que tous les jours ses gens seraient en bas de soie à compter de quatre heures après midi, et il demanda à Féder de lui procurer trois nouveaux domestiques.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch6">
+<page-sequence id="ch6">
  <pagenum num="230"/>
 
 <h2>CHAPITRE VI</h2>
@@ -708,10 +697,8 @@
 
 <p>Ce mot fut un coup de poignard pour Delangle, et la construction de cette salle mit un tel fond d’aigreur entre les deux beaux-frères, que Féder en vint à penser que si Delangle disait à Boissaux : « Sais-tu à quoi tu dois attribuer toutes les attentions de Féder ? Il fait la cour à ta femme, » celui-ci n’ajouterait pas foi à ce propos, qu’il regarderait comme ayant pour but de le brouiller avec l’homme auquel il devait ses succès à Paris.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch7">
+<page-sequence id="ch7">
   <pagenum num="251"/>
 
 <h2>CHAPITRE VII</h2>
@@ -828,10 +815,8 @@
 
 <p>« Je suis trop distrait pour monter à cheval, » se dit Féder en revenant au petit trot et s’obligeant à avoir les yeux constamment fixés devant lui.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="ch8">
+<page-sequence id="ch8">
    <pagenum num="271"/>
 
 <h2>CHAPITRE VIII</h2>
@@ -885,7 +870,6 @@
 <vsep class="dots"/>
 <vsep class="dots"/>
 
-</div>
 </page-sequence>
   </page-sequences>
 </bml>
