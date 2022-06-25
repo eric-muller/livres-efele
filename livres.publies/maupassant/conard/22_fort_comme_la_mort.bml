@@ -49,13 +49,13 @@
   </metadata>
   
   <toc>
-    <tocentry idref="p1" label="Première partie">
+    <tocentry idref="p1.1" label="Première partie">
       <tocentry idref="p1.1" label="I"/>
       <tocentry idref="p1.2" label="II"/>
       <tocentry idref="p1.3" label="III"/>
       <tocentry idref="p1.4" label="IV"/>
     </tocentry>
-    <tocentry idref="p2" label="Deuxième partie">
+    <tocentry idref="p2.1" label="Deuxième partie">
       <tocentry idref="p2.1" label="I"/>
       <tocentry idref="p2.2" label="II"/>
       <tocentry idref="p2.3" label="III"/>
@@ -74,7 +74,6 @@
  <page-sequences>
 
  <page-sequence>
- <div>
  <pagenum num="N7"/>
 
 <vsep class="fewlines"/>
@@ -83,12 +82,9 @@
 
 <p class="c"><i> Paris, librairie Paul Ollendorf, 1889</i></p>
 
- </div>
  </page-sequence>
 
- <page-sequence>
- <div id="p1">
- <div id="p1.1">
+ <page-sequence id="p1.1">
  <pagenum num="1"/>
 
 <h1>FORT COMME LA MORT.</h1>
@@ -797,11 +793,8 @@
 
 <p>Le comte, sans soupçon et sans jalousie, trouvait naturelle cette intimité de sa femme et d’un artiste fameux qui était reçu partout avec de grands égards. A force de se voir, les deux hommes, habitués l’un à l’autre, avaient fini par s’aimer.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.2">
+ <page-sequence id="p1.2">
  <pagenum num="62"/>
 
 <h2>II</h2>
@@ -1102,10 +1095,8 @@
 
 <p>— Je crois bien que c’est une affaire faite.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.3">
+ <page-sequence id="p1.3">
  <pagenum num="89"/>
 
 <h2>III</h2>
@@ -1926,10 +1917,8 @@
 
 <p>Et il partit.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.4">
+ <page-sequence id="p1.4">
  <pagenum num="143"/>
 
 <h2>IV</h2>
@@ -2157,11 +2146,8 @@
 <p>De cette ressemblance naturelle et voulue, réelle et travaillée, était née dans l’esprit et dans le cœur du peintre l’impression bizarre d’un être double, ancien et nouveau, très connu et presque ignoré, de deux corps faits l’un après l’autre avec la même chair, de la même femme continuée, rajeunie, redevenue ce qu’elle avait été. Et il vivait près d’elles, partagé entre les deux, inquiet, troublé, sentant pour la mère ses ardeurs réveillées et couvrant la fille d’une obscure tendresse.</p>
 
  <pagenum num="162"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2">
- <div id="p2.1">
+ <page-sequence id="p2.1">
  <pagenum num="163"/>
 
 <h2>DEUXIÈME PARTIE.</h2>
@@ -2352,11 +2338,8 @@
 
 <p>Comme ils avaient fini de dîner<noteref noteid="note.181.1"/>, ils remontèrent aux boulevards ; mais au bout d’une demi-heure à peine, le comte soudain quitta le peintre, sous le prétexte d’une affaire urgente qu’il avait tout à fait oubliée.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.2">
+ <page-sequence id="p2.2">
  <pagenum num="182"/>
 
  <h2>II</h2>
@@ -2903,10 +2886,8 @@
 
 <p>— Certainement, je viendrai. C’est égal, ce n’est pas gentil, ce que vous avez fait. Nous étions si bien, là-bas, tous les trois !</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.3">
+ <page-sequence id="p2.3">
  <pagenum num="227"/>
  
 <h2>III</h2>
@@ -3239,10 +3220,8 @@
 
 <p>Il n’insista pas, mal à l’aise maintenant, ne sachant plus trop ce qu’il devait penser, ayant, en effet, besoin de réfléchir. Et il s’en alla, après un quart d’heure d’une conversation quelconque.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.4">
+ <page-sequence id="p2.4">
  <pagenum num="251"/>
 
 <h2>IV</h2>
@@ -3501,10 +3480,8 @@
 
 <p>— Ce n’est rien, tu sais que, depuis la mort de ta grand’mère, j’ai souvent de ces faiblesses-là !</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.5">
+ <page-sequence id="p2.5">
  <pagenum num="277"/>
 
 <h2>V</h2>
@@ -4023,10 +4000,8 @@
 
 <p>Puis, s’étant relevée, elle s’asseyait devant sa toilette, et, avec une tension de pensée aussi ardente que pour la prière, elle maniait les poudres, les pâtes, les crayons, les houppes et les brosses qui lui refaisaient une beauté de plâtre, quotidienne et fragile.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.6">
+ <page-sequence id="p2.6">
  <pagenum num="317"/>
 
 <h2>VI</h2>
@@ -4082,9 +4057,9 @@
 <p>Mais soudain, une phrase chantée par Montrosé, avec une irrésistible puissance, l’émut jusqu’au cœur. Faust disait à Satan :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l>Je veux un trésor qui les contient tous,</l>
-<l indent="3">Je veux la jeunesse.</l>
+<l m='5'>Je veux la jeunesse.</l>
 </poem>
 </blockquote>
 
@@ -4095,9 +4070,9 @@
 <p>Il se rassit, et la phrase qu’il venait d’entendre lui revint à la mémoire :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l>Je veux un trésor qui les contient tous,</l>
-<l indent="3">Je veux la jeunesse.</l>
+<l m='5'>Je veux la jeunesse.</l>
 </poem>
 </blockquote>
 
@@ -4136,7 +4111,7 @@
 <p>Quand Faust s’élança vers elle, quand il lui dit de sa voix ensorcelante la phrase si pleine de charme :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Ne permettrez-vous pas, ma belle demoiselle,</l>
 <l>Qu’on vous offre le bras, pour faire le chemin.</l>
 </poem>
@@ -4147,7 +4122,7 @@
 <p>Et lorsque la blonde et si jolie et si émouvante Marguerite lui répondit :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Non, monsieur, je ne suis demoiselle ni belle,</l>
 <l>Et je n’ai pas besoin qu’on me donne la main,</l>
 </poem>
@@ -4164,7 +4139,7 @@
 <p>Quand Faust chanta :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Laisse-moi, laisse-moi contempler ton visage,</l>
 </poem>
 </blockquote>
@@ -5039,10 +5014,8 @@
 
 <h2>FIN.</h2>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="note">
+ <page-sequence id="note">
  <pagenum num="373"/>
 
 <h2>NOTE</h2>
@@ -5071,10 +5044,8 @@
 
 </smaller>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3">
+ <page-sequence id="p3">
  <pagenum num="375"/>
 
 <h2>PREMIÈRE VERSION INÉDITE</h2>
@@ -5349,10 +5320,8 @@
 
 </smaller>
  <pagenum num="384"/> 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="variantes">
+ <page-sequence id="variantes">
  <pagenum num="385"/>
 
 <h2>VARIANTES D’APRÈS LE TEXTE DU MANUSCRIT DE <i>FORT COMME LA MORT.</i></h2>
@@ -6235,10 +6204,8 @@
 </notes>
 
  <!--pagenum num="402"/-->
- </div>
  </page-sequence>
- <page-sequence>
- <div id="opinion">
+ <page-sequence id="opinion">
  <pagenum num="403"/>
 
 <h2>OPINION DE LA PRESSE SUR <i>FORT COMME LA MORT</i></h2>
@@ -6260,7 +6227,6 @@
 
 <p>« C’est un thème mélancolique que celui du roman de M. Guy de Maupassant, qui est tout à fait beau, du moins dans les parties où se poursuit cette analyse douloureuse, tout enveloppée de pitié, d’une chute irrémédiable... C’est l’étude merveilleusement conduite, avec la plus cruelle sûreté, des stériles et torturants élans d’une sorte de seconde jeunesse subite, chez un homme assoupi dans une trompeuse tranquillité. Quand le cœur se réveille, après longtemps, il n’a plus la force que pour souffrir.</p>
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>

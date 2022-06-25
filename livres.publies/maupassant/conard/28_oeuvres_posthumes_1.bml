@@ -53,7 +53,7 @@
   
   <toc>
     <tocentry idref="p01" label="Avertissement"/>
-    <tocentry idref="pa" label="Le Père Milon">
+    <tocentry idref="p02" label="Le Père Milon">
       <tocentry idref="p02" label="Le Père Milon"/>
       <tocentry idref="p03" label="Par un Soir de Printemps"/>
       <tocentry idref="p04" label="L’Aveugle"/>
@@ -73,7 +73,7 @@
       <tocentry idref="p18" label="L’Ami Joseph"/>
       <tocentry idref="p19" label="L’Orphelin"/>
     </tocentry>
-    <tocentry idref="pb" label="Le Colporteur">
+    <tocentry idref="p20" label="Le Colporteur">
       <tocentry idref="p20" label="Le Colporteur"/>
       <tocentry idref="p21" label="Auprès d’un Mort"/>
       <tocentry idref="p22" label="La Serre"/>
@@ -102,7 +102,6 @@
  <page-sequences>
 
  <page-sequence>
- <div>
  <pagenum num="N13"/>
 
 <vsep class="fewlines"/>
@@ -117,11 +116,9 @@
 
 <p class="c"><i>Paris, Paul Ollendroff, éditeur, 1900.</i></p>
  
- </div>
  </page-sequence>
 
-  <page-sequence>
-<div id="p01">
+  <page-sequence id="p01">
 <pagenum num="N16"/>
 
 <h2>AVERTISSEMENT DES ÉDITEURS DE L’ÉDITION ORIGINALE.</h2>
@@ -134,11 +131,8 @@
 
 <pagenum num="N15"/>
 
-</div>
   </page-sequence>
-  <page-sequence>
-  <div id="pa">
-  <div id="p02">
+  <page-sequence id="p02">
 <pagenum num="1"/>
 
 <h2>LE PÈRE MILON.</h2>
@@ -326,11 +320,8 @@
 </smaller>
 
  <pagenum num="10"/>  
-  </div>
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p03">
+    </page-sequence>
+  <page-sequence id="p03">
 <pagenum num="11"/>
 
 <h2>PAR UN SOIR DE PRINTEMPS.</h2>
@@ -448,10 +439,8 @@
 </smaller>
 
 <pagenum num="18"/>
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p04">
+   </page-sequence>
+  <page-sequence id="p04">
 <pagenum num="19"/>
 
 <h2>L’AVEUGLE.</h2>
@@ -520,10 +509,8 @@
 
 <pagenum num="24"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p05">
+   </page-sequence>
+  <page-sequence id="p05">
   <pagenum num="25"/>
 
 <h2>LE GÂTEAU.</h2>
@@ -592,10 +579,8 @@
 
 <p>Et personne depuis ce jour ne coupa plus jamais la brioche de M<sup>me</sup> Anserre.</p>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p06">
+   </page-sequence>
+  <page-sequence id="p06">
   <pagenum num="31"/>
 
 <h2>LE SAUT DU BERGER.</h2>
@@ -682,10 +667,8 @@
 
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p07">
+   </page-sequence>
+  <page-sequence id="p07">
 <pagenum num="37"/>
 
 <h2>VIEUX OBJETS.</h2>
@@ -698,7 +681,7 @@
 <p>Je ne sais si tu te rappelles un vers de M. Sainte-Beuve que nous avons lu ensemble et qui est resté enfoncé dans ma tête ; car il me dit bien des choses, à moi, ce vers ; et il a bien souvent rassuré mon pauvre cœur, depuis quelque temps surtout. Le voici :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Naître, vivre et mourir dans la même maison !</l>
 </poem>
 </blockquote>
@@ -722,7 +705,7 @@
 <p>Comme c’est court, une vie ! surtout celles qui se passent tout entières au même endroit :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Naître, vivre et mourir dans la même maison !</l>
 </poem>
 </blockquote>
@@ -746,7 +729,7 @@
 <p>Mais tu ne comprendras jamais complètement le vers de M. Sainte-Beuve :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Naître, vivre et mourir dans la même maison !</l>
 </poem>
 </blockquote>
@@ -764,10 +747,8 @@
 </notes>
 
   <pagenum num="42"/>
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p08">
+   </page-sequence>
+  <page-sequence id="p08">
 <pagenum num="43"/>
 
 <h2>MAGNÉTISME.</h2>
@@ -854,10 +835,8 @@
 
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p09">
+   </page-sequence>
+  <page-sequence id="p09">
   <pagenum num="49"/>
 
 <h2>UN BANDIT CORSE.</h2>
@@ -958,10 +937,8 @@
 
 <pagenum num="54"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p10">
+   </page-sequence>
+  <page-sequence id="p10">
 <pagenum num="55"/>
 
 <h2>LA VEILLÉE.</h2>
@@ -1054,10 +1031,8 @@
 
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p11">
+   </page-sequence>
+  <page-sequence id="p11">
   <pagenum num="61"/>
 
 <h2>RÊVES.</h2>
@@ -1158,10 +1133,8 @@
 
 <pagenum num="66"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p12">
+   </page-sequence>
+  <page-sequence id="p12">
   <pagenum num="67"/>
 
 <h2>CONFESSIONS D’UNE FEMME.</h2>
@@ -1292,10 +1265,8 @@
 
 <pagenum num="74"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p13">
+   </page-sequence>
+  <page-sequence id="p13">
 
 <pagenum num="75"/>
 
@@ -1391,10 +1362,8 @@
 
 <p>— Vois-tu, grande sœur, bien souvent ce n’est pas un homme que nous aimons, mais l’amour. Et ce soir-là, c’est le clair de lune qui fut ton amant vrai.</p>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p14">
+   </page-sequence>
+  <page-sequence id="p14">
   <pagenum num="81"/>
 
 <h2>UNE PASSION.</h2>
@@ -1627,10 +1596,8 @@
 
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p15">
+   </page-sequence>
+  <page-sequence id="p15">
   <pagenum num="91"/>
 
 <h2>CORRESPONDANCE.</h2>
@@ -1727,10 +1694,8 @@
 
 <pagenum num="98"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p16">
+   </page-sequence>
+  <page-sequence id="p16">
   <pagenum num="99"/>
 
 <h2>ROUERIE.</h2>
@@ -1937,10 +1902,8 @@
 
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p17">
+   </page-sequence>
+  <page-sequence id="p17">
   <pagenum num="107"/>
 
 <h2>YVELINE SAMORIS<noteref noteid="note.107.1"/>.</h2>
@@ -2074,10 +2037,8 @@
 <p><i>Yveline Samoris</i> a paru dans <i>le Gaulois</i> du mercredi 20 décembre 1882.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p18">
+   </page-sequence>
+  <page-sequence id="p18">
   <pagenum num="113"/>
 
 <h2>L’AMI JOSEPH.</h2>
@@ -2204,10 +2165,8 @@
 
 <pagenum num="120"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p19">
+   </page-sequence>
+  <page-sequence id="p19">
   <pagenum num="121"/>
 
 <h2>L’ORPHELIN.</h2>
@@ -2380,11 +2339,8 @@
 
 <pagenum num="130"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="pb">
-  <div id="p20">
+   </page-sequence>
+  <page-sequence id="p20">
   <pagenum num="131"/>
 
 <h2>LE COLPORTEUR.</h2>
@@ -2591,11 +2547,8 @@
 
 <p>Alors je m’en allai, trébuchant dans l’escalier, comme l’autre était parti, dont je fus le complice. Et en me remettant en route vers Paris, je songeai que je venais de voir dans ce taudis une scène de l’éternel drame qui se joue tous les jours, sous toutes les formes, dans tous les mondes.</p>
 
-  </div>
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p21">
+    </page-sequence>
+  <page-sequence id="p21">
   <pagenum num="141"/>
 
 <h2>AUPRÈS D’UN MORT.</h2>
@@ -2629,7 +2582,7 @@
 <p>Et les vers de Musset éclatèrent dans ma mémoire :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Dors-tu content, Voltaire, et ton hideux sourire</l>
 <l>Voltige-t-il encor sur tes os décharnés ?</l>
 </poem>
@@ -2733,10 +2686,8 @@
 <p><i>Auprès d’un Mort</i> a paru dans <i>le Gil-Blas</i> du mardi 30 janvier 1883, sous la signature : M<s>AUFRIGNEUSE</s>.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p22">
+   </page-sequence>
+  <page-sequence id="p22">
   <pagenum num="147"/>
 
 <h2>LA SERRE.</h2>
@@ -2955,10 +2906,8 @@
 <p><i>La Serre</i> a paru dans <i>le Gil-Blas</i> du mardi 26 juin 1883, sous la signature : M<s>AUFRIGNEUSE</s>.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p23">
+   </page-sequence>
+  <page-sequence id="p23">
 <pagenum num="155"/>
 
 <h2>UN DUEL.</h2>
@@ -3127,10 +3076,8 @@
 
 <pagenum num="162"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p24">
+   </page-sequence>
+  <page-sequence id="p24">
   <pagenum num="163"/>
 
 <h2>UNE SOIRÉE.</h2>
@@ -3386,7 +3333,7 @@
 <p>Il attendit un quart d’heure, une demi-heure, une heure. Romantin ne revenait pas. Puis, tout à coup, ce fut dans l’escalier un bruit effroyable, une chanson hurlée en chœur par vingt bouches, et un pas rythmé comme celui d’un régiment prussien. Les secousses régulières des pieds ébranlaient la maison tout entière. La porte s’ouvrit, une foule parut. Hommes et femmes à la file, se tenant par les bras, deux par deux, et tapant du talon en cadence, s’avancèrent dans l’atelier comme un serpent qui se déroule. Ils hurlaient :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Entrez dans mon établissement,</l>
 <l>Bonnes d’enfants et soldats !...</l>
 </poem>
@@ -3486,10 +3433,8 @@
 <p><i>Une Soirée</i> a paru dans <i>le Gaulois</i> du vendredi 21 septembre 1883.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p25">
+   </page-sequence>
+  <page-sequence id="p25">
   <pagenum num="175"/>
 
 <h2>LE VENGEUR<noteref noteid="note.175.1"/>.</h2>
@@ -3732,10 +3677,8 @@
 
 <pagenum num="182"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p26">
+   </page-sequence>
+  <page-sequence id="p26">
   <pagenum num="183"/>
 
 <h2>L’ATTENTE.</h2>
@@ -3874,10 +3817,8 @@
 
 <pagenum num="190"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p27">
+   </page-sequence>
+  <page-sequence id="p27">
 <pagenum num="191"/>
 
 <h2>PREMIÈRE NEIGE.</h2>
@@ -4128,10 +4069,8 @@
 
 <pagenum num="202"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p28">
+   </page-sequence>
+  <page-sequence id="p28">
   <pagenum num="203"/>
 
 <h2>LA FARCE.</h2>
@@ -4238,10 +4177,8 @@
 
 <pagenum num="210"/>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p29">
+   </page-sequence>
+  <page-sequence id="p29">
   <pagenum num="211"/>
 
 <h2>LETTRE TROUVÉE SUR UN NOYÉ.</h2>
@@ -4295,7 +4232,7 @@
 <p>Je trouvai que c’était trop ; je refusai ; elle insista. Elle voulait décidément le grand jeu, tout l’orchestre du sentiment, depuis la Lune jusqu’à la Rime. Je finis par céder, et je lui récitai, par moquerie, une délicieuse pièce de Louis Bouilhet, dont voici les dernières strophes :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>Je déteste surtout ce barde à l’œil humide</l>
 <l>Qui regarde une étoile en murmurant un nom</l>
@@ -4410,10 +4347,8 @@
 <p><i>Lettre trouvée sur un Noyé</i> a paru dans <i>le Gil-Blas</i> du mardi 8 janvier 1884, sous la signature : M<s>AUFRIGNEUSE</s>.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p30">
+   </page-sequence>
+  <page-sequence id="p30">
   <pagenum num="219"/>
 
 <h2>L’HORRIBLE.</h2>
@@ -4588,10 +4523,8 @@
 <p><i>L’Horrible</i> a paru dans <i>le Gaulois</i> du dimanche 18 mai 1884.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p31">
+   </page-sequence>
+  <page-sequence id="p31">
   <pagenum num="227"/>
 
 <h2>LE TIC.</h2>
@@ -4752,10 +4685,8 @@
 <p><i>Le Tic</i> a paru dans <i>le Gaulois</i> du lundi 14 juillet 1884.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p32">
+   </page-sequence>
+  <page-sequence id="p32">
   <pagenum num="235"/>
 
 <h2>FINI.</h2>
@@ -4912,10 +4843,8 @@
 <p><i>Fini</i> a paru dans <i>le Gaulois</i> du lundi 25 juillet 1885.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p33">
+   </page-sequence>
+  <page-sequence id="p33">
   <pagenum num="243"/>
 
 <h2>MES VINGT-CINQ JOURS.</h2>
@@ -5074,10 +5003,8 @@
 <p><i>Mes Vingt-cinq jours</i> ont paru dans <i>le Gil-Blas</i> du mardi 25 août 1885.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p34">
+   </page-sequence>
+  <page-sequence id="p34">
   <pagenum num="253"/>
 
 <h2>LA QUESTION DU LATIN.</h2>
@@ -5408,10 +5335,8 @@
 <p><i>La Question du latin</i> a paru dans <i>le Gaulois</i> du jeudi 2 septembre 1886.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p35">
+   </page-sequence>
+  <page-sequence id="p35">
   <pagenum num="265"/>
 
 <h2>LE FERMIER.</h2>
@@ -5642,10 +5567,8 @@
 <p><i>Le Fermier</i> a paru dans <i>le Gaulois</i> du lundi 11 octobre 1886.</p>
 </smaller>
 
-  </div>
-  </page-sequence>
-  <page-sequence>
-  <div id="p36">
+   </page-sequence>
+  <page-sequence id="p36">
   <pagenum num="275"/>
 
 <h2>CRI D’ALARME.</h2>
@@ -5820,10 +5743,8 @@
 
 <pagenum num="284"/>
 
-  </div>
-  </page-sequence>
- <page-sequence>
-  <div id="p37">
+   </page-sequence>
+ <page-sequence id="p37">
   <pagenum num="285"/>
 
 <h2>ÉTRENNES.</h2>
@@ -6034,10 +5955,8 @@
 <p><i>Étrennes</i> a paru clans <i>le Gil-Blas</i> du vendredi 7 janvier 1887.</p>
 </smaller>
 
-  </div>
- </page-sequence>
- <page-sequence>
- <div id="p38">
+  </page-sequence>
+ <page-sequence id="p38">
   <pagenum num="293"/>
 
 <h2>APRÈS.</h2>
@@ -6160,10 +6079,8 @@
 
 <h2>FIN</h2>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="table">
+ <page-sequence id="table">
  <pagenum num="301"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -6210,7 +6127,6 @@
 <p><a idref="p38">Après</a></p>
 
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>

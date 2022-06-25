@@ -49,12 +49,12 @@
   </metadata>
   
   <toc>
-    <tocentry idref="p1" label="Première partie">
+    <tocentry idref="p1.1" label="Première partie">
       <tocentry idref="p1.1" label="I"/>
       <tocentry idref="p1.2" label="II"/>
       <tocentry idref="p1.3" label="III"/>
     </tocentry>
-    <tocentry idref="p2" label="Deuxième partie">
+    <tocentry idref="p2.1" label="Deuxième partie">
       <tocentry idref="p2.1" label="I"/>
       <tocentry idref="p2.2" label="II"/>
       <tocentry idref="p2.3" label="III"/>
@@ -63,7 +63,7 @@
       <tocentry idref="p2.6" label="VI"/>
       <tocentry idref="p2.7" label="VII"/>
     </tocentry>
-    <tocentry idref="p3" label="Troisième partie">
+    <tocentry idref="p3.1" label="Troisième partie">
       <tocentry idref="p3.1" label="I"/>
       <tocentry idref="p3.2" label="II"/>
       <tocentry idref="p3.3" label="III"/>
@@ -78,7 +78,6 @@
  <page-sequences>
 
  <page-sequence>
- <div>
  <pagenum num="N11"/>
 
 <vsep class="fewlines"/>
@@ -87,12 +86,9 @@
 
 <p class="c"><i>Paris, Paul Ollendorff, 1890.</i></p>
  
- </div>
  </page-sequence>
 
- <page-sequence>
- <div id="p1">
- <div id="p1.1">
+ <page-sequence id="p1.1">
 <pagenum num="1"/>
 
 <h1>NOTRE CŒUR</h1>
@@ -461,11 +457,8 @@
 
 <p>— Mon cher, dit-il, voilà une heure dix minutes que nous parlons d’elle ; ça suffit pour aujourd’hui. Je vous conduirai<noteref noteid="note.35.1"/> une autre fois à votre cercle. Allez vous coucher, et j’en fais autant.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.2">
+ <page-sequence id="p1.2">
  <pagenum num="36"/> 
  
 <h2>II</h2>
@@ -612,10 +605,8 @@
 
 <p>Il sortit au bout d’une heure, torturé, car il l’aimait, et joyeux, car elle lui avait demandé et il lui avait promis de ne point s’en aller<noteref noteid="note.52.1"/>.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p1.3">
+ <page-sequence id="p1.3">
   <pagenum num="53"/>
 
 <h2>III</h2>
@@ -696,11 +687,8 @@
 
 <p>Il la suivait, heureux de se sentir ainsi choyé, caressé par ses yeux, par sa voix, par tous ses caprices ; et il ne vivait plus que dans un transport de désir et d’amour, affolant et brûlant comme une fièvre chaude.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2">
- <div id="p2.1">
+ <page-sequence id="p2.1">
   <pagenum num="67"/>
 
 <h2>DEUXIÈME PARTIE.</h2>
@@ -1169,11 +1157,8 @@
 
 <p>Il lui sembla tout à coup qu’une main touchait sa serrure. Il se retourna d’une secousse. Sa porte lentement s’ouvrait. Une femme entra, la tête voilée d’une dentelle blanche et tout le corps enveloppé d’un de ces grands manteaux de chambre qui semblent faits de soie, de duvet et de neige. Elle referma avec soin la porte derrière elle ; puis, comme si elle ne l’eût pas vu, debout et foudroyé de joie dans le cadre clair de sa fenêtre, elle marcha droit à la cheminée et souffla les deux bougies.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.2">
+ <page-sequence id="p2.2">
  <pagenum num="108"/>
 
 <h2>II</h2>
@@ -1490,10 +1475,8 @@
 
 <p>— Merci, dit-il, je viendrai.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.3">
+ <page-sequence id="p2.3">
   <pagenum num="131"/>
 
 <h2>III</h2>
@@ -1662,10 +1645,8 @@
 
 <p>Une discussion générale suivit, gaie et passionnée, où chacun dit son mot, et où M<sup>me</sup> de Burne trouva le moyen d’être la plus fine et la plus amusante, en laissant traîner du sentiment, peut-être factice, en de drolatiques opinions, car elle était vraiment dans un jour de succès, plus animée, intelligente et jolie qu’elle n’avait jamais été.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.4">
+ <page-sequence id="p2.4">
   <pagenum num="149"/>
 
 <h2>IV</h2>
@@ -1788,10 +1769,8 @@
 
 <p>Il rentra chez lui lentement, très las, à pas pesants, les yeux sur le trottoir, fatigué de vivre. Et il songea qu’ils n’avaient pris aucun rendez-vous prochain, ni chez elle, ni ailleurs.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.5">
+ <page-sequence id="p2.5">
   <pagenum num="163"/>
 
 <h2>V</h2>
@@ -2008,10 +1987,8 @@
 
 <p>Et il s’en alla étourdi de joie, enivré de ce — « peut-être » — qui ne meurt jamais dans les cœurs épris.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.6">
+ <page-sequence id="p2.6">
   <pagenum num="185"/>
 
 <h2>VI</h2>
@@ -2248,10 +2225,8 @@
 
 <p>Quand il releva la tête, il s’aperçut qu’il faisait nuit. Il n’avait que le temps de rentrer chez lui et de s’habiller pour dîner chez elle.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p2.7">
+ <page-sequence id="p2.7">
   <pagenum num="206"/>
 
 <h2>VII</h2>
@@ -2461,11 +2436,8 @@
 <p class="r3">« A<s>NDRÉ</s> M<s>ARIOLLE</s>. »</p>
 
   <pagenum num="226"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3">
- <div id="p3.1">
+ <page-sequence id="p3.1">
  <pagenum num="227"/>
 
 <h2>TROISIÈME PARTIE.</h2>
@@ -2842,11 +2814,8 @@
 
 <p>— Je serai chez vous demain, avant midi, monsieur.</p>
 
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3.2">
+ <page-sequence id="p3.2">
   <pagenum num="258"/>
 
 <h2>II</h2>
@@ -2987,10 +2956,8 @@
 
 <p>Elle comprit, et, levant soudain ses deux bras ruisselants, Élisabeth les referma derrière la tête de son maître.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p3.3">
+ <page-sequence id="p3.3">
   <pagenum num="272"/>
 
 <h2>III</h2>
@@ -3408,10 +3375,8 @@
 <h2>FIN.</h2>
 
   <pagenum num="298"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="note">
+ <page-sequence id="note">
  <pagenum num="299"/>
 
 <h2>NOTE.</h2>
@@ -3435,10 +3400,8 @@
 <p>Enfin, dans une lettre sans date, mais de peu postérieure à la précédente, il écrivait : « La vente ne marche presque pas, malgré le gros succès de ce livre. Cela tient à ce que la <i>Revue des Deux-Mondes</i> m’a enlevé comme acheteurs tous les gens du monde à Paris, et en province, dans toutes les villes, le monde officiel, le monde des professeurs et des magistrats. »</p>
 
 </smaller>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="variantes">
+ <page-sequence id="variantes">
  <pagenum num="301"/>
 
 
@@ -3803,10 +3766,8 @@
 </notes>
 
   <pagenum num="312"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="opinion">
+ <page-sequence id="opinion">
  <pagenum num="313"/>
 
 <h2>OPINION DE LA PRESSE SUR <i>NOTRE CŒUR</i>.</h2>
@@ -3833,7 +3794,6 @@
 
 <p>« M. de Maupassant ne s’est jamais montré plus grand écrivain que dans <i>Notre Cœur...</i> Le talent ne peut pas aller plus loin, la parole écrite ne peut pas fouiller plus subtilement les plus fines nervures de la pensée, les mots ne peuvent faire plus pour le délice des intelligences.</p>
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>

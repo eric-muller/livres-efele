@@ -52,7 +52,7 @@
   </metadata>
   
   <toc>
-    <tocentry idref="p00" label="La Vie Errante">
+    <tocentry idref="p01" label="La Vie Errante">
       <tocentry idref="p01" label="Lassitude"/>
       <tocentry idref="p02" label="La Nuit"/>
       <tocentry idref="p03" label="La Côte italienne"/>
@@ -72,7 +72,6 @@
  <page-sequences>
 
  <page-sequence>
- <div>
  <pagenum num="N13"/>
 
 
@@ -85,12 +84,9 @@
 <p class="c"><i> avec addition de : <r>Venise — Ischia</r> (inédits).</i></p>
 <p class="c"><i> <r>Pêcheuses et Guerrières</r> (inédit).</i></p>
 
- </div>
  </page-sequence>
 
- <page-sequence>
- <div id="p00">
- <div id="p01">
+ <page-sequence id="p01">
  <pagenum num="1"/>
 
 <h1>LA VIE ERRANTE</h1>
@@ -168,11 +164,8 @@
 <p>J’ai senti qu’il me serait agréable de revoir Florence, et je suis parti.</p>
 
   <pagenum num="10"/>
- </div>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p02">
+ <page-sequence id="p02">
  <pagenum num="11"/>
 
 <h2>LA NUIT.</h2>
@@ -246,7 +239,7 @@
 <p>Un sonnet de leur grand patron Baudelaire me revint à la mémoire :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>La nature est un temple où de vivants piliers</l>
 <l>Laissent parfois sortir de confuses paroles.</l>
@@ -276,7 +269,7 @@
 <p>Est-ce que je ne venais pas de sentir jusqu’aux moelles ce vers mystérieux :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Les parfums, les couleurs et les sons se répondent.</l>
 </poem>
 </blockquote>
@@ -290,7 +283,7 @@
 <p>Par là, on peut expliquer le célèbre sonnet d’Arthur <correction original="Raimbaud">Rimbaud</correction>, qui raconte les nuances des voyelles, vraie déclaration de foi, adoptée par l’école symboliste.</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>A noir, E blanc, I rouge, U vert, O bleu, voyelles,</l>
 <l>Je dirai quelque jour vos naissances latentes,</l>
@@ -344,10 +337,8 @@
 <p>Oui, nos organes sont les nourriciers et les <pagenum num="25"/>maîtres du génie artiste. C’est l’oreille qui engendre le musicien, l’œil qui fait naître le peintre. Tous concourent aux sensations du poète. Chez le romancier la vision, en général, domine. Elle domine tellement qu’il devient facile de reconnaître, à la lecture de toute œuvre travaillée et sincère, les qualités et les propriétés physiques du regard de l’auteur. Le grossissement du détail, son importance ou sa minutie, son empiétement sur le plan et sa nature spéciale indiquent d’une façon certaine tous les degrés et les différences des myopies. La coordination de l’ensemble, la proportion des lignes et des perspectives préférées à l’observation menue, l’oubli même des petits renseignements qui sont souvent les caractéristiques d’une personne ou d’un milieu, ne dénoncent-ils pas aussitôt le regard étendu, mais lâche, d’un presbyte ?</p>
 
   <pagenum num="26"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p03">
+ <page-sequence id="p03">
  <pagenum num="27"/>
 
 <h2>LA CÔTE ITALIENNE.</h2>
@@ -552,10 +543,8 @@
 
 <p>Les jours passent. L’été touche à sa fin. Je veux visiter encore un pays éloigné, où d’autres hommes ont laissé des souvenirs plus effacés, mais éternels aussi. Ceux-là vraiment sont les seuls qui ont su doter leur patrie d’une Exposition universelle qu’on reviendra voir dans toute la suite des siècles.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p04">
+ <page-sequence id="p04">
   <pagenum num="55"/>
 
 <h2>LA SICILE.</h2>
@@ -757,9 +746,9 @@
 <p>On ne peut regarder ce vrai chef-d’œuvre de beauté gracieuse sans songer aux vers de Victor Hugo sur l’artiste grec qui sut mettre</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Quelque chose de beau comme un sourire humain</l>
-<l indent="2">Sur le profil des Propylées.</l>
+<l m='8'>Sur le profil des Propylées.</l>
 </poem>
 </blockquote>
 
@@ -1156,10 +1145,8 @@
 <p>Nous revenons à Syracuse alors que le soleil se couche ; et nous regardons, dans la rade, un paquebot qui vient d’arriver et qui, ce soir même, nous emportera vers l’Afrique.</p>
 
  <pagenum num="130"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p05">
+ <page-sequence id="p05">
  <pagenum num="131"/>
 
 <h2>D’ALGER À TUNIS.</h2>
@@ -1244,10 +1231,8 @@
 
 <p>Lorsque la confrérie masculine du marabout vient à son tour faire ses dévotions, elle n’a point pour le saint habitant du lieu les mêmes attentions exclusives. Après avoir témoigné leur respect au sépulcre, les hommes se tournent vers la Mecque et adorent Dieu, — car il n’y a de divinité que Dieu, — comme ils répètent en toutes leurs prières.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p06">
+ <page-sequence id="p06">
   <pagenum num="145"/>
 
 <h2>TUNIS.</h2>
@@ -1461,10 +1446,8 @@
 <p>Ah ! la surprenante et délicieuse sensation qui se glissa dans mon cœur avec les premières notes si légères, si bizarres, si inconnues, si imprévues, des deux petites voix de ces deux petits tubes poussés dans l’eau. C’était fin, doux, haché, sautillant : des sons qui volaient, qui voletaient l’un après l’autre sans se rejoindre, sans se trouver, sans s’unir jamais ; un chant qui s’évanouissait toujours, qui recommençait toujours, qui passait, qui flottait autour de nous, comme un souffle de l’âme des feuilles, de l’âme des bois, de l’âme des ruisseaux, de l’âme du vent, entré avec ces deux grands bergers des montagnes kabyles dans cette maison publique d’un faubourg de Tunis.</p>
 
   <pagenum num="174"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p07">
+ <page-sequence id="p07">
  <pagenum num="175"/>
 
 <h2>VERS KAIROUAN.</h2>
@@ -1870,10 +1853,8 @@
 <p>Et voilà qu’en une rue étroite je m’arrête devant une belle maison orientale dont la porte ouverte montre un grand escalier droit, tout décoré de faïences et éclairé, du haut en bas, par une lumière invisible, une cendre, une poussière de clarté tombée on ne sait d’où. Sous cette lueur inexprimable, chaque marche émaillée attend quelqu’un, peut-être un vieux musulman ventru, mais je crois qu’elle appelle un pied d’amoureux. Jamais je n’ai mieux deviné, vu, compris, senti l’attente que devant cette porte ouverte et cet escalier vide où veille une lampe inaperçue. Au dehors, sur le mur éclairé par la lune, est suspendu un de ces grands balcons fermés qu’ils appellent une <i>barmakli.</i> Deux ouvertures sombres au milieu, derrière les riches ferrures contournées des moucharabis. Est-elle là dedans qui veille, qui écoute et nous déteste, la Juliette arabe dont le cœur frémit ? Oui, peut-être. Mais son désir tout sensuel <pagenum num="241"/>n’est point de ceux qui, dans nos pays à nous, monteraient aux étoiles par des nuits pareilles. Sur cette terre amollissante et tiède, si captivante que la légende des Lotophages y est née dans l’île de Djerba, l’air est plus savoureux que partout, le soleil plus chaud, le jour plus clair, mais le cœur ne sait pas aimer. Les femmes, belles et ardentes, sont ignorantes de nos tendresses. Leur âme simple reste étrangère aux émotions sentimentales et leurs baisers, dit-on, n’enfantent point le rêve.</p>
 
   <pagenum num="242"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
  <pagenum num="243"/>
 
 <h2>NOTE</h2>
@@ -1887,10 +1868,8 @@
 </smaller>
 
   <pagenum num="244"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p08">
+ <page-sequence id="p08">
  <pagenum num="245"/>
 
 <h2>VENISE.</h2>
@@ -1935,10 +1914,8 @@
 
 <p>Le palais qui contient ce chef-d’œuvre est à vendre, dit-on ! Comme on vivrait là dedans !</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p09">
+ <page-sequence id="p09">
   <pagenum num="253"/>
 
 <h2>ISCHIA.</h2>
@@ -1994,7 +1971,7 @@
 <p>C’est fini, la promenade est vide. Les étoiles paraissent peu à peu dans l’espace obscurci. Virgile a dit :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Majoresque cadunt altis de montibus umbrae.</l>
 </poem>
 </blockquote>
@@ -2004,10 +1981,8 @@
 <p>Les orchestres ambulants commencent à jouer sous les fenêtres des hôtels. La ville s’emplit de musique. Et des hommes, qu’on prendrait ailleurs pour d’honnêtes bourgeois, tant leur tenue est correcte, vous poursuivent en vous proposant les plus bizarres divertissements. Et si vous passez avec indifférence, <pagenum num="263"/>ils multiplient à l’infini leurs offres aussi singulières que répugnantes. Vous vous efforcez de les fuir ; alors ils cherchent par quels appas invraisemblables ils éveilleront votre désir. L’arche de Noé contenait moins d’animaux qu’ils n’ont de propositions. Leur imagination s’enflamme par la difficulté de la victoire ; et ces Tartarins du vice, ne connaissant plus d’obstacles, vous offriraient le volcan lui-même, pour peu qu’on parût le désirer.</p>
 
  <pagenum num="264"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p10">
+ <page-sequence id="p10">
  <pagenum num="265"/> 
 
 <vsep class="fewlines"/>
@@ -2015,10 +1990,8 @@
 <h1>PÊCHEUSES ET GUERRIÈRES</h1>
 
  <pagenum num="266"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="267"/>
 
 <h2>PÊCHEUSES ET GUERRIÈRES.</h2>
@@ -2112,10 +2085,8 @@
 </smaller>
 
  <pagenum num="278"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="table">
+ <page-sequence id="table">
   <pagenum num="279"/>
 
 <h1>TABLE DES MATIÈRES.</h1>
@@ -2131,7 +2102,6 @@
 <p><a idref="p09">Ischia (<i>inédit</i>)</a></p>
 <p><a idref="p10">Pêcheuses et Guerrières (<i>inédit</i>)</a></p>
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>

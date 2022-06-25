@@ -83,7 +83,6 @@
  <page-sequences>
 
  <page-sequence>
- <div>
  <pagenum num="N15"/>
 
 <vsep class="fewlines"/>
@@ -99,11 +98,9 @@
 <p class="c">L’Homme-Fille — La Moustache (<i>Ollendorf, 1902</i>)</p>
 <p class="c">Le Père Judas (<i>inédit</i>).</p>
  
- </div>
  </page-sequence>
 
- <page-sequence>
- <div id="p01">
+ <page-sequence id="p01">
 <pagenum num="1"/>
 
 <h1>TOINE.</h1>
@@ -178,10 +175,8 @@
 
 <p>— Espère un brin, espère un brin, répétait la mère Toine, j’verrons ce qu’arrivera.</p>
 
- </div>
 </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="7"/>
 
 <h2>II</h2>
@@ -300,10 +295,8 @@
 
 <p>Les trois amis de Toine riaient à suffoquer, toussant, éternuant, poussant des cris, et le gros homme effaré parait les attaques de sa femme avec prudence, pour ne point casser encore les cinq œufs qu’il avait de l’autre côté.</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
  <pagenum num="14"/>
 
 <h2>III</h2>
@@ -402,10 +395,8 @@
 
 </smaller>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p02">
+ <page-sequence id="p02">
   <pagenum num="19"/>
 
 <vsep class="fewlines"/>
@@ -413,10 +404,8 @@
 <h1>L’AMI PATIENCE</h1>
 
  <pagenum num="20"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="21"/>
 
 <h2>L’AMI PATIENCE.</h2>
@@ -634,10 +623,8 @@
 </smaller>
 
  <pagenum num="32"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p03">
+ <page-sequence id="p03">
   <pagenum num="33"/>
 
 <vsep class="fewlines"/>
@@ -645,10 +632,8 @@
 <h1>LA DOT</h1>
 
  <pagenum num="34"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="35"/>
 
 <h2>LA DOT.</h2>
@@ -919,10 +904,8 @@
 </smaller>
 
  <pagenum num="46"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p04">
+ <page-sequence id="p04">
   <pagenum num="47"/>
 
 <vsep class="fewlines"/>
@@ -930,10 +913,8 @@
 <h1>L’HOMME-FILLE</h1>
 
  <pagenum num="48"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="49"/>
 
 <h2>L’HOMME-FILLE.</h2>
@@ -1004,10 +985,8 @@
 
 </smaller>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p05">
+ <page-sequence id="p05">
   <pagenum num="57"/>
 
 <vsep class="fewlines"/>
@@ -1015,10 +994,8 @@
 <h1>LA MOUSTACHE</h1>
 
  <pagenum num="58"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="59"/>
 
 <h2>LA MOUSTACHE</h2>
@@ -1099,10 +1076,8 @@
 
 </smaller>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p06">
+ <page-sequence id="p06">
   <pagenum num="67"/>
 
 <vsep class="fewlines"/>
@@ -1110,10 +1085,8 @@
 <h1>LE LIT 29</h1>
 
  <pagenum num="68"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="69"/>
 
 <h2>LE LIT 29.</h2>
@@ -1505,10 +1478,8 @@
 </smaller>
 
  <pagenum num="90"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p07">
+ <page-sequence id="p07">
   <pagenum num="91"/>
 
 <vsep class="fewlines"/>
@@ -1516,10 +1487,8 @@
 <h1>LE PROTECTEUR</h1>
 
  <pagenum num="92"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="93"/>
 
 <h2>LE PROTECTEUR.</h2>
@@ -1689,10 +1658,8 @@
 
 </smaller>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p08">
+ <page-sequence id="p08">
   <pagenum num="103"/>
 
 <vsep class="fewlines"/>
@@ -1700,10 +1667,8 @@
 <h1>BOMBARD</h1>
 
  <pagenum num="104"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="105"/>
 
 <h2>BOMBARD.</h2>
@@ -1895,10 +1860,8 @@
 </smaller>
 
  <pagenum num="116"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p09">
+ <page-sequence id="p09">
   <pagenum num="117"/>
 
 <vsep class="fewlines"/>
@@ -1906,10 +1869,8 @@
 <h1>LA CHEVELURE</h1>
 
  <pagenum num="118"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
  <pagenum num="119"/>
  
 <h2>LA CHEVELURE.</h2>
@@ -1989,7 +1950,7 @@
 <p>Et les vers de Villon me montèrent aux lèvres, ainsi qu’y monte un sanglot :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Dictes-moy où, ne en quel pays</l>
 <l>Est Flora, la belle Romaine,</l>
 <l>Archipiada, ne Thaïs,</l>
@@ -2009,6 +1970,7 @@
 <l>Mais où sont les neiges d’antan ?</l>
 </poem>
 </blockquote>
+
 <p>Quand je rentrai chez moi, j’éprouvai un irrésistible désir de revoir mon étrange trouvaille ; et je la repris, et je sentis, en la touchant, un long frisson qui me courut dans les membres.</p>
 
 <p>Durant quelques jours cependant, je demeurai dans mon état ordinaire, bien que la pensée vive de cette chevelure ne me quittât plus.</p>
@@ -2068,10 +2030,8 @@
 </smaller>
 
  <pagenum num="132"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p10">
+ <page-sequence id="p10">
   <pagenum num="133"/>
 
 <vsep class="fewlines"/>
@@ -2079,10 +2039,8 @@
 <h1>LE PÈRE MONGILET</h1>
 
  <pagenum num="134"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="135"/>
 
 <h2>LE PÈRE MONGILET.</h2>
@@ -2276,10 +2234,8 @@
 </smaller>
 
  <pagenum num="146"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p11">
+ <page-sequence id="p11">
   <pagenum num="147"/>
 
 <vsep class="fewlines"/>
@@ -2287,10 +2243,8 @@
 <h1>L’ARMOIRE</h1>
 
  <pagenum num="148"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="149"/>
 
 <h2>L’ARMOIRE.</h2>
@@ -2515,10 +2469,8 @@
 
 </smaller>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p12">
+ <page-sequence id="p12">
   <pagenum num="161"/>
 
 <vsep class="fewlines"/>
@@ -2526,10 +2478,8 @@
 <h1>LA CHAMBRE 11</h1>
 
  <pagenum num="162"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="163"/>
 
 <h2>LA CHAMBRE 11.</h2>
@@ -2737,10 +2687,8 @@
 </smaller>
 
  <pagenum num="176"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p13">
+ <page-sequence id="p13">
   <pagenum num="177"/>
 
 <vsep class="fewlines"/>
@@ -2749,10 +2697,8 @@
 
  <pagenum num="178"/>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="179"/>
 
 <h2>LES PRISONNIERS.</h2>
@@ -3200,10 +3146,8 @@
 </smaller>
 
  <pagenum num="200"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p14">
+ <page-sequence id="p14">
   <pagenum num="201"/>
 
 <vsep class="fewlines"/>
@@ -3211,10 +3155,8 @@
 <h1>NOS ANGLAIS</h1>
 
  <pagenum num="202"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="203"/>
 
 <h2>NOS ANGLAIS.</h2>
@@ -3248,7 +3190,7 @@
 <p>Je songe aux vers de Bouilhet :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Qu’importe ton sein maigre, ô mon objet aimé.</l>
 <l>On est plus près du cœur quand la poitrine est plate ;</l>
 <l>Et je vois comme un merle en sa cage enfermé,</l>
@@ -3323,17 +3265,17 @@
 <p>Je me couchai. Ils chantaient toujours. Ils chantèrent jusqu’à minuit les louanges du Seigneur avec les voix les plus fausses, les plus criardes, les plus odieuses que j’aie jamais entendues, et moi, affolé par cet horrible esprit d’imitation qui emportait un peuple entier dans une danse macabre, je fredonnais sous mes draps :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Je plains le seigneur, le seigneur dieu d’Albion</l>
-<l indent="1">Dont on chante la gloire au salon.</l>
-<l indent="1">Si le seigneur a plus d’oreille</l>
-<l indent="2">Que son peuple fidèle,</l>
-<l indent="1">S’il aime le talent, la beauté,</l>
-<l indent="1">La grâce, l’esprit, la gaieté,</l>
-<l indent="2">L’excellente mimique</l>
-<l indent="2">Et la bonne musique,</l>
-<l indent="2">Je plains le seigneur</l>
-<l indent="2">De tout mon cœur.</l>
+<l m='8'>Dont on chante la gloire au salon.</l>
+<l m='8'>Si le seigneur a plus d’oreille</l>
+<l m='6'>Que son peuple fidèle,</l>
+<l m='8'>S’il aime le talent, la beauté,</l>
+<l m='8'>La grâce, l’esprit, la gaieté,</l>
+<l m='6'>L’excellente mimique</l>
+<l m='6'>Et la bonne musique,</l>
+<l m='6'>Je plains le seigneur</l>
+<l m='6'>De tout mon cœur.</l>
 </poem>
 </blockquote>
 
@@ -3350,7 +3292,7 @@
 <p>Je réponds :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Rien n’est sacré pour un pasteur,</l>
 <l>Ni le sommeil du voyageur,</l>
 <l>Ni son dîner, ni son oreille ;</l>
@@ -3441,8 +3383,8 @@
 <p>Victor Hugo n’a-t-il pas dit :</p>
 
 <blockquote>
-<poem>
-<l indent="4">...Ruth, une Moabite,</l>
+<poem m='12'>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;...Ruth, une Moabite,</l>
 <l>Vint se coucher aux pieds de Booz, le sein nu,</l>
 <l>Espérant on ne sait quel rayon inconnu</l>
 <l>Quand viendrait du réveil la lumière subite.</l>
@@ -3485,10 +3427,8 @@
 
 </smaller>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p15">
+ <page-sequence id="p15">
   <pagenum num="217"/>
 
 <vsep class="fewlines"/>
@@ -3497,10 +3437,8 @@
 
  <pagenum num="218"/>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="219"/>
 
 <h2>LE MOYEN DE ROGER.</h2>
@@ -3627,10 +3565,8 @@
 
 </smaller>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p16">
+ <page-sequence id="p16">
   <pagenum num="227"/>
 
 <vsep class="fewlines"/>
@@ -3638,10 +3574,8 @@
 <h1>LA CONFESSION</h1>
 
  <pagenum num="228"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="229"/>
 
 <h2>LA CONFESSION.</h2>
@@ -3781,10 +3715,8 @@
 </smaller>
 
  <pagenum num="242"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p17">
+ <page-sequence id="p17">
   <pagenum num="243"/>
 
 <vsep class="fewlines"/>
@@ -3792,10 +3724,8 @@
 <h1>LA MÈRE AUX MONSTRES</h1>
 
  <pagenum num="244"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="245"/>
 
 <h2>LA MÈRE AUX MONSTRES.</h2>
@@ -3976,10 +3906,8 @@
 
 </smaller>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p18">
+ <page-sequence id="p18">
   <pagenum num="255"/>
 
 <vsep class="fewlines"/>
@@ -3988,10 +3916,8 @@
 
  <pagenum num="256"/>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="257"/>
 
 <h2>LA CONFESSION DE THÉODULE SABOT.</h2>
@@ -4221,7 +4147,7 @@
 <p>— Mon enfant, je vais vous interroger puisque vous paraissez peu au courant. Nous allons prendre, un à un, les commandements de Dieu. Écoutez-moi et ne vous troublez pas. Parlez bien franchement et ne craignez jamais d’en dire trop.</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Un seul Dieu tu adoreras</l>
 <l>Et aimeras parfaitement.</l>
 </poem>
@@ -4244,7 +4170,7 @@
 <p>L’abbé Maritime reprit :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Dieu en vain ne jureras</l>
 <l>Ni autre chose pareillement.</l>
 </poem>
@@ -4265,7 +4191,7 @@
 <p>— Ne le faites plus. Je continue :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Les dimanches tu garderas</l>
 <l>En servant Dieu dévotement.</l>
 </poem>
@@ -4282,7 +4208,7 @@
 <p>— Je sais, vous serez plus convenable à l’avenir. Je passe les trois commandements suivants, sûr que vous n’avez point failli contre les deux premiers. Nous verrons le sixième avec le neuvième. Je reprends :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Le bien d’autrui tu ne prendras</l>
 <l>Ni retiendras à ton escient.</l>
 </poem>
@@ -4299,7 +4225,7 @@
 <p>— Détourner un seul centime constitue un vol. Ne le faites plus.</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Faux témoignage ne diras</l>
 <l>Ni mentiras aucunement.</l>
 </poem>
@@ -4316,7 +4242,7 @@
 <p>Puis il prononça :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>L’œuvre de chair ne désireras</l>
 <l>Qu’en mariage seulement.</l>
 </poem>
@@ -4344,19 +4270,15 @@
 
 </smaller>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p19">
+ <page-sequence id="p19">
   <pagenum num="271"/>
 
 <h1>LE PÈRE JUDAS</h1>
 
  <pagenum num="272"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="273"/>
 
 <h2>LE PÈRE JUDAS.</h2>
@@ -4498,10 +4420,8 @@
 </smaller>
 
   <pagenum num="280"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="table">
+ <page-sequence id="table">
  <pagenum num="281"/>
 
 <h1>TABLE DES MATIÈRES</h1>
@@ -4526,7 +4446,6 @@
 <p><a idref="p18">La Confession de Théodule Sabot</a></p>
 <p><a idref="p19">Le Père Judas (<i>inédit</i>)</a></p>
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>

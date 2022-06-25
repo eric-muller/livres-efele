@@ -61,7 +61,6 @@
  <page-sequences>
 
  <page-sequence>
- <div>
  <pagenum num="N7"/>
 
 <vsep class="fewlines"/>
@@ -72,11 +71,9 @@
 
 <p class="c"><i> avec addition de : <r>Blanc et Bleu. — Livre de bord</r> (inédits).</i></p>
 
- </div>
  </page-sequence>
 
- <page-sequence>
- <div id="p01">
+ <page-sequence id="p01">
  <pagenum num="1"/>
 
 <vsep class="fewlines"/>
@@ -84,10 +81,8 @@
 <h1>SUR L’EAU</h1>
 
  <pagenum num="2"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="3"/>
 
 <vsep class="fewlines"/>
@@ -97,10 +92,8 @@
 <p><i>En somme, j’ai vu de l’eau, du soleil, des nuages et des roches — je ne puis raconter autre chose — et j’ai pensé simplement, comme on pense quand le flot vous berce, vous engourdit et vous promène.</i></p>
 
  <pagenum num="4"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="5"/>
 
 <h2>SUR L’EAU.</h2>
@@ -267,10 +260,8 @@
 
 <p>A dix heures, nous jetons l’ancre en face du vapeur le <i>Cannois,</i> et je descends à terre, désolé de ce voyage interrompu. Toute la rade est blanche d’écume.</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="24"/>
 
 <date>Cannes, 7 avril, 9 heures du soir.</date>
@@ -577,10 +568,8 @@
 
 <p>Pourquoi ne jugerait-on pas les gouvernements après chaque guerre déclarée ? Si les peuples comprenaient cela, s’ils faisaient justice eux-mêmes des pouvoirs meurtriers, s’ils <pagenum num="59"/>refusaient de se laisser tuer sans raison, s’ils se servaient de leurs armes contre ceux qui les leur ont données pour massacrer, ce jour-là la guerre serait morte... Mais ce jour ne viendra pas !</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="60"/>
 
 <date>Agay, 8 avril.</date>
@@ -680,13 +669,13 @@
 <p>L’aimons-nous parce qu’elle est morte ? comme dit le poète Haraucourt.</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Puis ce fut l’âge blond des tiédeurs et des vents.</l>
 <l>La lune se peupla de murmures vivants.</l>
 <l>Elle eut des mers sans fond et des fleuves sans nombre,</l>
 <l>Des troupeaux, des cités, des pleurs, des cris joyeux,</l>
 <l>Elle eut l’amour ; elle eut ses arts, ses lois, ses dieux,</l>
-<l indent="2">Et lentement rentra dans l’ombre.</l>
+<l m='8'>Et lentement rentra dans l’ombre.</l>
 </poem>
 </blockquote>
 
@@ -701,14 +690,14 @@
 <p>Et n’est-ce pas lui, le poète railleur, qui nous la montre aussitôt avec ses yeux ?</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>C’était dans la nuit brune,</l>
 <l>Sur le clocher jauni</l>
-<l indent="2">La lune</l>
+<l m='3'>La lune</l>
 <l>Comme un point sur un i.</l>
 <l>Lune, quel esprit sombre</l>
 <l>Promène au bout d’un fil,</l>
-<l indent="2">Dans l’ombre,</l>
+<l m='3'>Dans l’ombre,</l>
 <l>Ta face ou ton profil ?</l>
 </poem>
 </blockquote>
@@ -716,7 +705,7 @@
 <p>Si nous nous promenons, un soir de tristesse, sur une plage, au bord de l’Océan, qu’elle illumine, ne nous mettons-nous pas, presque malgré nous, à réciter ces deux vers si grands et si mélancoliques :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Seule au-dessus des mers, la lune, voyageant,</l>
 <l>Laisse dans les flots noirs tomber ses pleurs d’argent.</l>
 </poem>
@@ -725,7 +714,7 @@
 <p>Si nous nous réveillons, dans notre lit, qu’éclaire un long rayon entrant par la fenêtre, <pagenum num="73"/>ne nous semble-t-il pas aussitôt voir descendre vers nous la figure blanche qu’évoque Catulle Mendès :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Elle venait, avec un lis dans chaque main,</l>
 <l>La pente d’un rayon lui servant de chemin.</l>
 </poem>
@@ -734,7 +723,7 @@
 <p>Si, marchant le soir, par la campagne, nous entendons tout à coup quelque chien de ferme pousser sa plainte longue et sinistre, ne sommes-nous pas frappés brusquement par le souvenir de l’admirable pièce de Leconte de Lisle, les <i>Hurleurs ?</i></p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Seule, la lune pâle, en écartant la nue,</l>
 <l>Comme une morne lampe, oscillait tristement.</l>
 <l>Monde muet, marqué d’un signe de colère,</l>
@@ -753,7 +742,7 @@
 <p>Est-ce qu’ils n’éclatent pas dans notre esprit, dans notre cœur, ainsi qu’une chanson d’amour exquise, les deux vers charmants :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l>Et réveiller, pour s’asseoir à sa place,</l>
 <l>Le clair de lune endormi sur le banc !</l>
 </poem>
@@ -762,7 +751,7 @@
 <p>Peut-on voir le croissant dessiner, comme ce soir, dans un grand ciel ensemencé d’astres, son fin profil, sans songer à la fin de ce chef-d’œuvre de Victor Hugo qui s’appelle : <i>Booz endormi :</i></p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>..............Et Ruth se demandait,</l>
 <l>Immobile, ouvrant l’œil à demi sous ses voiles,</l>
 <l>Quel Dieu, quel moissonneur de l’éternel été</l>
@@ -774,7 +763,7 @@
 <p>Et qui donc a jamais mieux dit que Hugo, la lune galante et tendre aux amoureux ?</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>La nuit vint, tout se tut ; les flambeaux s’éteignirent ;</l>
 <l>Dans les bois assombris, les sources se plaignirent.</l>
 <l>Le rossignol, caché dans son nid ténébreux,</l>
@@ -807,10 +796,8 @@
 
 <p>Alors je levai mon regard vers l’auberge. La fenêtre éclairée venait de se fermer. Une lourde détresse m’écrasa, et je descendis dans ma chambre.</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="77"/>
 
 <date>10 avril.</date>
@@ -1059,10 +1046,8 @@
 
 <p>Pendant dix heures, je dus endurer ce supplice contre lequel il n’est point de remèdes, puis je dormis, et le lendemain, alerte comme après une convalescence, ayant écrit ces quelques pages, je partis pour Saint-Raphaël.</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="102"/>
 
 <date>Saint-Raphaël, 11 avril</date>
@@ -1151,10 +1136,8 @@
 
 <p>Toute la couleur donnée au monde, charmante, diverse et grisante, nous apparaît délicieusement finie, admirablement éclatante, infiniment nuancée, autour d’une feuille de nénuphar. Tous les rouges, tous les roses, tous les jaunes, tous les bleus, tous les verts, tous les violets, sont là, dans un peu d’eau, qui nous montre tout le ciel, tout l’espace, tout le rêve, et où passent des vols d’oiseaux. Et puis il y a autre chose encore, je ne sais quoi, dans les marais, au soleil couchant. J’y <pagenum num="115"/>sens comme la révélation confuse d’un mystère inconnaissable, le souffle originel de la vie primitive qui était peut-être une bulle de gaz sortie d’un marécage à la tombée du jour.</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="116"/>
 
 <date>Saint-Tropez, 12 avril.</date>
@@ -1422,10 +1405,10 @@
 <p>De toutes ces paroles historiques il n’en est pas dix qui soient authentiques. Qu’importe, pourvu qu’on les croie prononcées par ceux à qui on les prête :</p>
 
 <blockquote>
-<poem>
+<poem m='7'>
 <l>Dans le pays des bossus,</l>
-<l indent="2">Il faut l’être</l>
-<l indent="1">Ou le paraître,</l>
+<l m='3'>Il faut l’être</l>
+<l m='3'>Ou le paraître,</l>
 </poem>
 </blockquote>
 
@@ -1443,10 +1426,8 @@
 
 <p>« Hurrah pour la petite différence ! »</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="147"/>
 
 <date>Saint-Tropez, 13 avril</date>
@@ -1607,10 +1588,8 @@
 
 <p>Mais j’aperçus la voiture qui m’attendait à l’ombre d’un arbre, et je revins à Saint-Tropez.</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="161"/>
 
 <date>14 avril.</date>
@@ -1878,10 +1857,8 @@
 <p>Je cède à ce désir. J’ai peut-être tort.</p>
 
   <pagenum num="178"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
  <pagenum num="179"/>
 
 <h2>NOTE.</h2>
@@ -1897,10 +1874,8 @@
 </smaller>
 
  <pagenum num="180"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p02">
+ <page-sequence id="p02">
   <pagenum num="181"/>
 
 <vsep class="fewlines"/>
@@ -1908,10 +1883,8 @@
 <h1>BLANC ET BLEU</h1>
 
  <pagenum num="182"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
  <pagenum num="183"/>
  
 <h2>BLANC ET BLEU.</h2>
@@ -2053,10 +2026,8 @@
 <p><i>Blanc et Bleu</i> a paru dans <i>le Gil-Blas</i> du 3 février 1885, sous la signature : M<s>AUFRIGNEUSE</s>.</p>
 
 </smaller>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p03">
+ <page-sequence id="p03">
  <pagenum num="193"/>
  
 <vsep class="fewlines"/>
@@ -2064,10 +2035,8 @@
 <h1>LIVRE DE BORD</h1>
 
  <pagenum num="194"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="195"/>
 
 <h2>LIVRE DE BORD.</h2>
@@ -2167,10 +2136,8 @@
 <vsep class="dots"/>
 
  <pagenum num="202"/>
- </div>
  </page-sequence>
- <page-sequence>
- <div id="table">
+ <page-sequence id="table">
   <pagenum num="203"/>
 
 <h1>TABLE DES MATIÈRES.</h1>
@@ -2179,7 +2146,6 @@
 <p><a idref="p02">Blanc et Bleu</a> (<i>inédit</i>)</p>
 <p><a idref="p03">Livre de bord</a> (<i>inédit</i>)</p>
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>
