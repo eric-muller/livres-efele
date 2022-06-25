@@ -177,7 +177,7 @@ poem =
     common-attributes,
     meter,
     ( linegroup
-    | line
+    | line_inside_poem
     | vsep
     | notes
     | blockimage
@@ -191,14 +191,24 @@ linegroup =
   element lg {
     common-attributes,
     meter?,
-    ( line
+    ( line_inside_poem
     | vsep
     | pagination )+ }
 
-line =
+line_inside_poem =
   element l {
      common-attributes,
      meter?,
+     attribute class {
+       list { ("smaller")?,
+              ( "c" | "r3")? }}?,
+     attribute cont { "true" }?,
+     inline+ }
+
+line_outside_poem =
+  element l {
+     common-attributes,
+     attribute indent { "0" | "1" | "2" | "3" | "4" | "5" | "c" }?,
      attribute class {
        list { ("smaller")?,
               ( "c" | "r3")? }}?,
@@ -236,7 +246,7 @@ stage =
     inline* }
 
 
-block  |= poem | hstage | pstage | line | cast
+block  |= poem | hstage | pstage | line_outside_poem | cast
 inline |= speaker | stage
 
 #--------------------------------------------------------------------- notes ---

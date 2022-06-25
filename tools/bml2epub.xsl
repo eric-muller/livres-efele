@@ -315,7 +315,7 @@
  </xsl:for-each>
 </xsl:template>
 
-<xsl:template match='bml:l' mode='html'>
+<xsl:template match='bml:poem//bml:l' mode='html' priority='10'>
   <xsl:variable name='m'
                 select='(if (@m) then @m else if (../@m) then ../@m  else ../../@m)'/>
 
@@ -348,6 +348,24 @@
     <xsl:apply-templates mode='html'/>
   </p>
 </xsl:template>
+
+<xsl:template match='bml:l' mode='html'>
+  <p>
+    <xsl:call-template name='transfer-common-attributes'>
+      <xsl:with-param name='class'>l_<xsl:value-of select='@indent'/></xsl:with-param>
+    </xsl:call-template>
+    <xsl:if test="@cont">
+      <span style="visibility:hidden;">
+        <xsl:call-template name='collectpreviouslines'>
+          <xsl:with-param name='hidden' tunnel='yes'>true</xsl:with-param>
+        </xsl:call-template>
+      </span>
+    </xsl:if>
+    <xsl:text> </xsl:text>
+    <xsl:apply-templates mode='html'/>
+  </p>
+</xsl:template>
+
 
 <xsl:template match='bml:poem/bml:date' mode='html'>
   <!-- div: so that the text-indent is the text em, not the
