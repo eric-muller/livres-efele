@@ -31,7 +31,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000290"
         creation="2013-05-02T00:00:00-08:00"
-        modification="2014-12-31T18:14:03-08:00">
+        modification="2022-06-22T11:32:09-07:00">
 
       <titre>Dinah Samuel</titre>
 
@@ -61,13 +61,10 @@
  <page-sequences>
 
  <page-sequence>
-   <div>
      <img class="fullpageimage" src="images/frontispice.png" alt="Frontispice de la 1re édition"/>
-   </div>
  </page-sequence>
 
- <page-sequence>
- <div id="p0">
+<page-sequence id="p0">
 <pagenum num="i"/>
 
 <h2>PRÉFACE</h2>
@@ -328,10 +325,8 @@
 
 <p>Honfleur, 1889.</p>
 
-</div>
 </page-sequence>
- <page-sequence>
-<div id="p1">
+ <page-sequence id="p1">
  <pagenum num="1"/>
 
 <h2>I</h2>
@@ -361,7 +356,7 @@
 <p>Un dimanche il avait assisté à une représentation, en matinée, à la Comédie-Française. On jouait, avant une comédie de Molière, une tragédie de Racine : <i>Phèdre.</i> Patrice Montclar fut ravi. Il songea que ce serait beau d’avoir cinq actes, écrits par lui, représentés sur cette scène par de tels acteurs. La femme qui tenait le rôle de l’épouse adultère brûlée par les amours était une actrice très célèbre, Dinah Samuel. Alors, elle occupait la chronique par ses excentricités voulues et le prestige de son génie. C’était une juive, grande et maigre, avec des cheveux fauves et des sourcils châtains. Patrice Montclar l’admira et garda, dans son souvenir, l’impression harmonieuse de sa voix et de son geste. Dinah Samuel exhalait la plainte de Phèdre torturée par sa passion et jetait à l’espace son élégie frissonnante des âcres douleurs charnelles :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>... C’est Vénus tout entière à sa proie attachée !...</l>
 </poem>
 </blockquote>
@@ -429,7 +424,7 @@
   <p><i>A Dinah Samuel</i>.</p>
 </epigraphe>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Une blonde, au front pur, dans la svelte chapelle</l>
 <l>dominant le château, depuis bientôt mille ans,</l>
@@ -547,10 +542,8 @@
 
 <p>— Je vous recommande Liladois. C’est un paresseux. Vous m’entendez, monsieur Liladois ?... Votre thème était on ne peut plus mauvais. Sept barbarismes !</p>
 
-</div>
  </page-sequence>
- <page-sequence>
-<div id="p2"> 
+ <page-sequence id="p2"> 
  <pagenum num="32"/>
 
 <h2>II</h2>
@@ -590,7 +583,7 @@
 <p>C’est à une fête de saint Pancrace que Patrice s’énamoura d’Eulalie Gontard, une petite ouvrière, la nièce de Galissian, et qu’ils s’embrassèrent sur les joues. Lui, reçut aux lèvres une impression fraîche de chair et de sang, et, comme il entourait de son bras la taille de la belle, il sentit un sein jeune, pas encore tout à fait mûr, se gonfler sous la robe <pagenum num="40"/>d’alpaga, dans la paume de sa main. En cet instant, où les deux amoureux n’entendaient rien, les danseurs, parmi lesquels Pépin des Grillons, chantaient ces vers d’une ronde :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l>— Ah ! quelle route mon amoureux a pris ?</l>
 <l>— Il a pris la route d’ici à Paris.</l>
 </poem>
@@ -743,7 +736,7 @@
 <p>Malgré le laisser-aller buissonnier de ses études, pas plus que l’année précédente, Montclar ne fut blacboulé à son examen. Il dut se décider à choisir une profession. Le principal à cause de la note « bien » que Patrice avait eue à ses deux examens, lui parla d’une place de maître répétiteur dans un lycée de Paris, pour s y préparer en quelques mois à l’Ecole Normale. Patrice fit sa demande qui fut acceptée. Ses parents et ses amis, Gassend, Pépin des Grillons, Autric l’accompagnèrent à la gare, un matin de janvier que l’hiver piquait. Au bas du Cours, avant de passer le Grand-Pont, ils distinguèrent assez bien Lalie, la nièce de Galissian, qui allait à l’atelier de Paticlet. Elle marchait, alerte. Pépin des Grillons, s’approchant de Patrice, envoya vers Lalie un baiser et chanta doucement à son ami les deux vers de la ronde :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l>— Ah ! quelle route mon amoureux a pris ?</l>
 <l>— Il a pris la route d’ici à Paris.</l>
 </poem>
@@ -757,10 +750,8 @@
 
 <p>Il ferma la vitre, et, s’accotant dans un coin, il songea. Son cœur se brisait en lui. La vie commençait vraiment, et il allait manger du pain pour lequel il aurait peiné. Que lui réservait l’inconnu, le lendemain ? — Patrice Montclar jeta les yeux autour de lui. Il n’y avait dans le compartiment, sur la banquette opposée, près de l’autre portière, qu’un paysan âgé, vêtu de bure grise, qui, après s’être mouché, prisa, et dont le nez bientôt se mit à couler, à cause du froid.</p>
 
-</div>
  </page-sequence>
- <page-sequence>
- <div id="p3">
+ <page-sequence id="p3">
  <pagenum num="59"/>
 
 <h2>III</h2>
@@ -784,9 +775,9 @@
 <p>Montclar flânait. Déjà il ne songeait plus au félibre, et, n’ayant rien à faire, il observait cette vie qui bruyait, braillait autour de lui. Derrière les vitres des cafés et des brasseries retentissaient les exclamations de joie et de jeunesse. Les étudiants, à l’occasion du premier de l’an, avaient reçu, pour la plupart, une pension un peu plus forte. On s’en apercevait. Patrice croisa une file <pagenum num="62"/>d’étudiants en vadrouille qui, l’un derrière l’autre, les mains sur les épaules de celui qui était devant, couraient au pas gymnastique, en emboîtant le pas. Ils exécutaient le monome cher aux polytechniciens, — « les x, » — en chantant une scie :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Je n’ai jamais vu de ma vi-c’tor Hugo.</l>
-<l>Et pourtant j’eu ai bien envi-c’tor Hugo.</l>
+<l>Et pourtant j’en ai bien envi-c’tor Hugo.</l>
 </poem>
 </blockquote>
 
@@ -1032,10 +1023,8 @@
 
 <p>— Tant mieux pour toi, puisque je te pardonne... Alors, cela t’apprendra comment il faut recevoir les hommes !</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p4">
+ <page-sequence id="p4">
  <pagenum num="101"/>
 
 <h2>IV</h2>
@@ -1091,7 +1080,7 @@
 <p>Alors, Zeph déplora qu’il fallût avoir affaire aux juifs et aux intermédiaires. Un poète invente une fantaisie, et un savant fait une découverte. Aussitôt la fantaisie est livrée aux journaux et la découverte aux financiers. Toujours l’idée est semblable à une vierge capturée par les pirates et emmenée dans les lupanars. <i>Sic vos non vobis</i>. Leur idée est vendue à tout le monde. Mais le poète ou le savant font rarement fortune. Zeph a presque conquis de la gloire en composant, outre ses monologues insensés, un livre, étrangement beau, de poèmes où il a enfermé les couleurs et les atmosphères visités par les papillons de son imagination, et en inventant le phonographe, huit jours avant Edison. Caricaturé, spirituellement, — à cheval sur un hareng saur et attrapant à travers les cieux des points d’interrogation pour les mettre dans le sac aux découvertes qu’il porte en bandoulière, — Zeph, bien qu’il soit un savant, n’est pas un de ces gens graves qui ne sourient jamais parce qu’ils ont composé une brochure traitant « de l’or au douzième siècle, » ou « de la brique au temps de Ninive, » et sont toujours en train d’achever un mémoire de « recherches sur les conditions organiques et dynamiques de la pensée. » Zeph se laissait railler par Montclar qui improvisait un poème sans rimes, mais en revanche avec des hiatus, pour <correction original="parioder">parodier</correction> un des monologues de son camarade : <i>Mon ami Loz.</i></p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <lg>
 <l>Un jour, mon ami Loz,</l>
 <l>se promenant, trouva</l>
@@ -1135,7 +1124,7 @@
 <p>Mais c’était bon pour le grand siècle :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>— Rodrigue, qui l’eût cru ?...</l>
 <l cont='true'>— Chimène, qui l’eût dit ?...</l>
 <l>— Que notre heur fût si proche, et sitôt se perdît ?</l>
@@ -1145,7 +1134,7 @@
 <p>Il faut du moderne !... Hier, dimanche, deux amoureux déjeunaient à côté de moi. Ils venaient de se lever, sans doute, et paraissaient, encore, exquisement épris l’un de l’autre. Dans leurs yeux je voyais passer tour à tour le souvenir et le désir du baiser. Et il disait à sa gentille amie :</p>
 
 <blockquote>
-<poem>
+<poem m='i'>
 <l>— Veux-tu des fruits, Titi, du fromage ? — Merci !</l>
 <l>Je voudrais des madeleines de Commercy.</l>
 </poem>
@@ -1267,10 +1256,8 @@
 
 <p>Mais les yeux fixés, en face de lui — sur un panneau de glace du café — il aperçut vaguement, en lignes indécises, en couleurs tendres, un château dont toutes les fenêtres étaient éclairées et qui paraissait habité par des jeunes gens et par des fées, car leurs couples amoureux se promenaient à travers les allées du jardin illuminé par de mystérieux rayons de lune. — Pourquoi donc, à mesure qu’il regardait, les jeunes gens vieillissaient, les fées s’en allaient, et lentement, une à une, les lumières s’éteignaient ?</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p5">
+ <page-sequence id="p5">
   <pagenum num="128"/>
 
 <h2>V</h2>
@@ -1324,7 +1311,7 @@
 <p>Pendant ce temps, Berthe Paradis, toujours accroupie dans sa robe improvisée, tisonnait et chantonnait :</p>
 
 <blockquote>
-<poem>
+<poem m='7'>
 <l>Si tu n’as pas de galette,</l>
 <l>ton affaire n’est pas nette.</l>
 <l>Car je voudrais faire emplette</l>
@@ -1382,7 +1369,7 @@
 <p>Et, maintenant qu’elle avait agi avec prudence, car il était urgent d’aviser à sa situation gênée, si elle s’occupait un peu de Berthe Paradis qui était de nouveau toute nue ? Pendant que Dinah Samuel griffonnait le dernier billet, elle avait laissé, sur le dossier d’un fauteuil, l’étoffe chinoise, dont elle s’était enveloppée, et remis à la tenture de la porte de l’atelier, aux ferronneries précieuses, sa riche cordelière. N’ayant gardé que les babouches <pagenum num="141"/>turques, debout et nue devant le piano, elle chantait :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l>Viens avec moi pour fêter le printemps,</l>
 <l>Nous cueillerons les lilas et les roses.</l>
 <l>Ne vois-tu pas que ces fleurs demi-closes</l>
@@ -1427,7 +1414,7 @@
 <p>Coralli disait toujours des anecdotes sur l’artiste universelle. Deux jours auparavant, il l’avait photographiée couchée dans son cercueil, comme une morte, avec ses amis autour d’elle, dans les attitudes des plus profondes douleurs, M. Guizot, l’éminent maître de littérature anglaise au Collège <pagenum num="147"/>de France, un jeune peintre parisianiste, Georges Decroix, un capitaine de frégate, et le vaudevilliste juif, Lucien Danel. Pendant que lui, Coralli, tenait découvert l’objectif, — après avoir recommandé de ne plus bouger, — Corvanella, un petit prince italien, de pacotille, un gommeux d’un million à peine, sans importance, et qui n’avait pas voulu figurer dans le groupe, tapotait au piano, sous la baie vitrée de l’atelier, en chantonnant.</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>.. Je regardais en l’air,</l>
 <l>Un’ jeuness’ dégringole, ...</l>
 </poem>
@@ -1476,13 +1463,13 @@
 <p>Elise avait entendu le mot, « mouche, » et, tout en se divertissant à l’écarté avec Josèphe, sa maman, elle fredonnait :</p>
 
 <blockquote>
-<poem>
-<l class="c">Vole, vole, petite mouche !</l>
-<l class="c">sur mon doigt ne te repose pas.</l>
-<l class="c">Je t’assure que tu périras,</l>
-<l class="c">si je te touche...</l>
-<l class="c">Pourquoi</l>
-<l class="c">le bon Dieu créa-t-il la mouche, ainsi que moi ?</l>
+<poem m='c'>
+<l>Vole, vole, petite mouche !</l>
+<l>sur mon doigt ne te repose pas.</l>
+<l>Je t’assure que tu périras,</l>
+<l>si je te touche...</l>
+<l>Pourquoi</l>
+<l>le bon Dieu créa-t-il la mouche, ainsi que moi ?</l>
 </poem>
 </blockquote>
 
@@ -1580,7 +1567,7 @@
 <p>Et Montclar eut le souvenir de ces quelques vers émus. Puis, tandis que la musique énivrante et caressante le baignait dans les vagues de sa berceuse mélodie, sa pensée, — d’abord, sans que la volonté fût complice, — agita des rimes, comme des clochettes, et, bientôt, sur cette invite, il précisa, dans la mémoire, en triolets, sa distraction :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>Prends ces papillons bleus, Sarah,</l>
 <l>trotte dans l’art en fantaisiste !</l>
@@ -1636,7 +1623,7 @@
 <p>Voreux et Kardac, dans la nuit et la neige, hurlaient :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>Jésus-Christ s’habille en pauvre :</l>
 <l>— Faites-moi la charité !</l>
@@ -1759,10 +1746,8 @@
 
 <p>— Puisque vous aimez Adèle, il faut le lui dire... Voulez-vous que je vous donne un bon conseil, étant plus âgé que vous et près d’avoir ma retraite ?.... Amusez-vous, allez.... La <correction original="jeunessse">jeunesse</correction> n’a qu’un temps.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p6">
+ <page-sequence id="p6">
   <pagenum num="185"/>
 
 <h2>VI</h2>
@@ -2027,10 +2012,8 @@
 
 <p>« — Va ! Tu n’es qu’un poète... et qu’un enfant... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p7">
+ <page-sequence id="p7">
   <pagenum num="213"/>
 
 <h2>VII</h2>
@@ -2066,7 +2049,7 @@
 <p>Montclar songeait ainsi quand miss Io, rappelée par les applaudissements du public, revint sans son cheval. Elle fit, plusieurs fois, le saut périlleux, et, dans les instants rapides, où, — les pieds en l’air, — ses jupes flottaient, évasées autour de sa ceinture, au bas du maillot couleur chair, elle <pagenum num="219"/>montra son tutu de mousseline, aussi couleur rose, comme de la peau, qui épousait des hanches potelées et qui avait des ombres troublantes. Le directeur, l’habit noir boutonné sur un gilet blanc qui dépasse, s’approchait pour reconduire l’écuyère. Azed, plus leste, offrit son bras et s’en alla, dodelinant de la tignasse, chantant un refrain ironique et guignant si le patron ne levait pas sa chambrière :</p>
 
 <blockquote>
-<poem>
+<poem m='c'>
 <l>... Tu n’es pas maître en ta maison,</l>
 <l>Quand nous y sommes !...</l>
 </poem>
@@ -2186,13 +2169,13 @@
 <p>Tiéchard fredonnait un chant vendéen :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Monsieur de Charette a dit à ceux de chez nous :</l>
-<l indent="4">— Garde à vous !...</l>
-<l indent="1">Pour mieux tirer, mettez-vous à genoux !</l>
-<l indent="2">Prends ton fusil, Grégoire,</l>
-<l indent="2">Prends ta gourde pour boire,</l>
-<l indent="2">Prends ta...</l>
+<l m='3'>— Garde à vous !...</l>
+<l m='10'>Pour mieux tirer, mettez-vous à genoux !</l>
+<l m='6'>Prends ton fusil, Grégoire,</l>
+<l m='6'>Prends ta gourde pour boire,</l>
+<l m='6'>Prends ta...</l>
 </poem>
 </blockquote>
 
@@ -2277,7 +2260,7 @@
 <p>Tavanal cita parmi les génies qui ont été tués dans la lutte et qui, par conséquent, ajouta Montclar, ne sont pas des génies, le poète Arthur Rimbaud. Avec ses larges omoplates et sa tête ronde, à l’épaisse chevelure crépue, d’un beau noir, avec ses yeux doux un peu couverts, et son corps haut de deux mètres, Tavanal a l’air d’un gros, d’un énorme chien de Terre-Neuve. Il erre dans Montmartre et — trouve sa nourriture. Un été, à <pagenum num="250"/>Barbizon, il arrêta un cheval échappé, simplement en le prenant, sous le bras, par l’encolure. Le cheval ruait sur place, en arrière, ne pouvant ni avancer ni reculer. Au nom d’Arthur Rimbaud, Galtoine, — le peintre impressionniste, spirituel artiste, fanatique des parisiennes et ne faisant d’infidélité aux becs de gaz que pour la lumière électrique, — le déclara le plus grand poète du monde. Schavyl riait. Alors Galtoine pour le faire juge, lui débita une pièce où Rimbaud montre des chercheuses de poux, deux sœurs nubiles, et nuance les langueurs du bébé :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
 <l>Il écoute chanter leurs haleines plaintives</l>
 <l>Qui pleurent de longs miels végétaux et rosés</l>
@@ -2328,7 +2311,7 @@
 <p>Manet, très gentleman, correct à la brasserie comme dans un salon, énonce son opinion avec une indifférence narquoise, et n’attaque pas la peinture, en général, mais seulement la peinture historique. Pour lui, faire un tableau, d’après les annales de Tacite, les chroniques de Froissart ou du sire de Joinville, équivaut à faire le portrait de gens sur le signalement de leur passeport. A côté, des ménages d’horizontales boivent, par erreur volontaire, dans les verres les unes des autres.</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>Les femmes vont au « Rat mort »</l>
 <l>s’éveiller le chat qui dort...</l>
 </poem>
@@ -2395,7 +2378,7 @@
 <p>Ils causent de la sorte, au milieu de la chaleur et de la fumée qui se dispersent sur la place Pigalle, par les portes large ouvertes, dans le frais de la nuit. Demain, ils doivent recommencer à pérorer, sans presque jamais travailler. Ce sont les « crotte-menu » qui respirent, sans doute, plus d’oxygène et ne s’en servent pas pour une production d’œuvre. Schavyl fredonnait :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Degas peint toujours des danseus’ pas finies,</l>
 <l>Et qu’on a pour trois francs, au « Perroquet gris. »</l>
 </poem>
@@ -2488,7 +2471,7 @@
 <p>Lorsque à la fête de saint Pancrace, dans le pré de M. Magloire, à Grivedesvignes, Montclar embrassa Lalie, la nièce de Galissian, au milieu du cercle formé par les gens de la ronde qui chantaient un refrain populaire, ce fut un baiser franc, naturel, simple, loyal, le premier d’homme à femme, baiser de deux jeunesses, qui, dans la même seconde, éprouvèrent l’amour éternel, pour eux encore nouveau. Mais le baiser de Patrice Montclar et de mademoiselle Sosie était frelaté, mêlé de divers sentiments, corrompu, sali, gâté, vicié. Qui embrassait-il ? Qui embrassait-elle ? Tous deux — elle, comme tribade, et lui comme amant — un peu Dinah Samuel avec laquelle ils étaient en fâcherie. Difficile à analyser, ce baiser âcre et parisien. Dans la grande salle, à vaste devanture sur la rue Fontaine, étaient assis, autour de tables de marbre, des mâles et des filles dans les boxes qui en font le tour. Au milieu, sous un immense lustre en fer forgé suspendu comme une noire et fantastique araignée, trois billards, mais inoccupés, sauf un, où Liline, — un modèle, qui pose les nymphes s’estompant dans le crépuscule, — jouait toute seule, poussant les billes avec sa main. La chevelure, d’un blond pâle, frisottante sur les yeux, semblables à deux saphirs humides, Liline, mièvre et douce, comme vaporeuse, la peau blanche et mate, où sous l’épiderme, on voyait les veinules, Liline, en robe bleu marin, avait l’air d’une Ophélie, mais au lieu d’éparpiller des fleurs effeuillées sur la rivière, elle faisait, par divertissement, caramboler les billes d’ivoire ; elle fredonnait un refrain, et, ne <pagenum num="272"/>sachant que ça, le recommençait lorsqu’elle était au bout :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>... Des lutins malins et cruels</l>
 <l>Ne craignez-vous pas les surprises,</l>
 <l>Ni la rosée aux pleurs mortels,</l>
@@ -2576,10 +2559,8 @@
 
 <p>— La nuit du soir où tu déclaras ton amour à Dinah Samuel, sais-tu qui a reposé près de ta bien aimée et de ta bien admirée d’alors ?... T’en doutes-tu un peu ?... C’est moi qui ai dormi près d’elle.</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p8">
+ <page-sequence id="p8">
   <pagenum num="286"/>
 
 <h2>VIII</h2>
@@ -2917,10 +2898,8 @@
 
 <p>« Notre Père, qui êtes aux cieux... »</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p9">
+ <page-sequence id="p9">
   <pagenum num="339"/>
 
 <h2>IX</h2>
@@ -3015,10 +2994,8 @@
 
 <p>Patrice Montclar et Voreux noctambulaient sur le boulevard de Grivedesvignes, comme des bohèmes montmartrois, à deux heures du matin, quand tout dort dans Paris, ce grand village. — Le professeur de philosophie racontait son odyssée provinciale, malchanceuse et idiote ; il réclamait, avec des mots qui dépeignaient l’état de son âme blessée, un agrandissement d’horizon : il pleurait sa vie banale : « Oui, je meurs, en province, de tristesse ennuyée ; tu passes, je me raccroche à toi... » En écoutant la lamentation de ce génie éclopé dans la bataille, <pagenum num="350"/>de cet homme déjà par la province assagi et ratatiné un peu, Montclar réfléchissait. — Fallait-il finir comme Pépin des Grillons, dans l’abêtissement, car le cerveau s’atrophie quand on ne s’en sert pas ? Est-ce encore qu’il consentirait à passer, comme Voreux, aux yeux des provinciaux méchants, pour n’avoir pas réussi là-bas ? Est-ce que sous prétexte d’un écœurement, il renoncerait à lutter ? On retrouve en province, l’intérêt, amour de l’argent, amour de la terre, soulevant chez les paysans, les passions les plus violentes, faisant commettre des crimes épouvantables. L’égoïsme règne dans les petites villes comme dans les grandes cités, mais chez les menus bourgeois de Grivedesvignes et d’ailleurs, plus vil, plus étroit, plus mesquin. — La philosophie moderne serait-elle qu’on doit s’enrichir par tous les moyens intelligents ?</p>
 
- </div>
  </page-sequence>
- <page-sequence>
- <div id="p10">
+ <page-sequence id="p10">
   <pagenum num="351"/>
 
 <h2>X</h2>
@@ -3173,10 +3150,8 @@
 
 <p>Le caricaturiste lisait :</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
  <pagenum num="369"/>
 
 
@@ -3261,10 +3236,8 @@
 
 <p class="c"><i>L’admission à la cote officielle sera demandée</i></p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
  <pagenum num="370"/>
  
 <h1>NOTICE</h1>
@@ -3289,19 +3262,15 @@
 
 <p><i>N. B. — M. Stephenson est visible, pour détails plus complets le mardi et le jeudi, de 10 heures à midi, rue de Londres.</i></p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
  <pagenum num="371"/>
 
 <img class="fullpageimage" src="images/aspect.png" alt="Aspect d’affichage stellaire"/>
 
  <pagenum num="372"/>
- </div>
  </page-sequence>
  <page-sequence>
- <div>
  <pagenum num="373"/>
 
 <h1>L’AFFICHAGE STELLAIRE</h1>
@@ -3334,10 +3303,8 @@
 
 <p>Adresse</p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="374"/>
 
 <p class="r3"><i>Monsieur</i></p>
@@ -3350,10 +3317,8 @@
 
 <p class="r3"><s>PARIS</s></p>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
  <pagenum num="375"/>
 
 <p>« — Votre idée n’est pas mauvaise ; je souscris mille actions... Car je suis riche aussi ! Croyez-vous que les tintements des louis et le froufrou des billets de banque ne grisent pas les artistes ? Un tel n’avait pas le sou, il y a dix ans. Saluons, depuis qu’il est millionnaire... Oui, je respecte l’argent, aujourd’hui ; c’était bon de le traîner dans la fange quand il ne traînait pas dans ma poche. Tous ceux que j’ai connus autrefois, en compagnie desquels j’ai couché avec la misère, comme avec une maîtresse, sont puissants à présent... Ils habitent les palais nationaux. Ayant contribué au triomphe, j’ai reçu, enfin, ma part de butin. Il était temps que, dans cette république de parvenus, je fusse, comme les autres, au sac, après la bataille et la victoire... Je suis de votre avis, Montclar, je renonce à la pauvreté, à l’hôpital, à la gloire, au talent, au génie, à la vertu... »</p>
@@ -3385,7 +3350,7 @@
 <p>Les coups de poings herculéens tournaient autour de la tête du pauvre caricaturiste. Un merlin à bout de bras, Albert Max, le poète fantaisiste et attendri, l’amoureux sentimental et ingénu, lui, si grand et si bon, à la fois héroïque et doux, sceptique d’esprit et croyant de cœur, était terrible et hideux. Enfin les hommes le terassèrent, et tout s’était passé si vite que le <pagenum num="378"/>banquier n’avait pu intervenir. A quoi sert d’avoir jusqu’à cinquante ans, fait honorablement son métier d’artiste, d’avoir été le chevalier des chimères, le serviteur des fantaisies, l’apôtre du dévouement, de la justice, de l’amour, du devoir, et de l’idéal inéluctable ? Encore un que Paris a tué ! Max, allongé sur le sol, tenu par un genou de peuple qui s’enfoncait dans sa poitrine, les yeux hagards, les traits altérés, s’épuisant dans un dernier effort, un peu d’écume au coin des lèvres, était fini. Le banquier, le cœur serré, était sorti, pour chercher une voiture et emmener son ami. A ce moment, Galtoine, le peintre moderniste, et Schavyl, le chroniqueur toujours en fête, sortant des cabarets restés ouverts pour la nuit du mardi gras, traversaient, bras dessus, bras dessous, la place Pigalle. Ils chantaient, un peu gris :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Le Veau d’or est toujours debout !</l>
 </poem>
 </blockquote>
@@ -3397,10 +3362,8 @@
 
  <pagenum num="380"/>
 
- </div>
  </page-sequence>
  <page-sequence>
- <div>
   <pagenum num="381"/>
 
  <h1>TABLE DES MATIÈRES</h1>
@@ -3429,7 +3392,6 @@
 
 <p><a idref="p10">X. S<s>A</s> D<s>IVINITÉ L</s>’O<s>R</s></a></p>
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>
