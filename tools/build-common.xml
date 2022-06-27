@@ -292,7 +292,7 @@
     <process-collections a='build-collection'/>
   </target>
 
-  <target name='build-book' depends='tirages-book,thumbnail-book,newsfeedentry-book,catalog-book,desc-book'/>
+  <target name='build-book' depends='tirages-book,thumbnail-book,catalog-book,desc-book'/>
 
   <target name='build-collection' depends='tirages-collection,thumbnail-collection,catalog-collection,desc-collection'/>
 
@@ -366,23 +366,6 @@
     </sequential>
   </macrodef>
 
-  <target name='newsfeedentry'>
-    <process-books a='newsfeedentry-book'/>
-  </target>
-
-  <target name='newsfeedentry-book'>
-    <echo>----------------------------------- ${id} ${x}</echo>
-
-    <mkdir dir='results'/>
-    <mkdir dir='results/${id}'/>
-
-    <java classname="net.sf.saxon.Transform" fork="true">
-      <classpath refid="classpath"/>
-      <arg value="-o:results/${id}/newsfeedentry.xml"/>
-      <arg value="-xsl:${tools}/bml2newsfeedentry.xsl"/>
-      <arg value="-s:${x}.bml"/>
-    </java>
-  </target>
 
 
   <target name='validate'>
@@ -409,8 +392,8 @@
 
     <mkdir dir='results'/>
     <mkdir dir='results/${id}'/>
-    <delete file='results/${id}/catalog.txt'/>
 
+    <delete file='results/${id}/catalog.txt'/>
     <java classname="net.sf.saxon.Transform" fork="true">
       <classpath refid="classpath"/>
       <arg value="-o:results/${id}/catalog.txt"/>
@@ -422,6 +405,14 @@
     <echo file='results/${id}/liste.html'>
       &lt;p>&lt;a href='livres/${id}/${x}.epub'>${id} ${x}&lt;/a>&lt;/p>
     </echo>
+
+    <delete file='results/${id}/newsfeedentry.xml'/>
+    <java classname="net.sf.saxon.Transform" fork="true">
+      <classpath refid="classpath"/>
+      <arg value="-o:results/${id}/newsfeedentry.xml"/>
+      <arg value="-xsl:${tools}/bml2newsfeedentry.xsl"/>
+      <arg value="-s:${x}.bml"/>
+    </java>
   </target>
 
   <target name='catalog-collection'>
