@@ -32,7 +32,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000364"
         creation="2014-04-08T10:45:06+02:00"
-        modification="2014-12-31T18:13:10-08:00">
+        modification="2022-05-12T19:12:47-07:00">
       
       <titre>Alcools</titre>
 
@@ -101,13 +101,12 @@
   <cover src="images/couverture.png" alt="Guillaume Apollinaire. Alcools. 1898 Poèmes 1913. Troisième édition. nrf. Paris. Éditions de la Nouvelle revue française. 35 et 37, rue Madame, 1920"/>
 
 <page-sequences>
-<page-sequence>
-<div id="p01">
+<page-sequence id="p01">
  <pagenum num="7"/>
 
 <h2>ZONE</h2>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>A la fin tu es las de ce monde ancien</l>
 </lg>
@@ -336,62 +335,58 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p02">
+<page-sequence id="p02">
 <pagenum num="16"/>
 
 <h2>LE PONT MIRABEAU</h2>
 
-<poem>
+<poem m='10'>
 <lg>
 <l>Sous le pont Mirabeau coule la Seine</l>
-<l indent="3">Et nos amours</l>
-<l indent="1">Faut-il qu’il m’en souvienne</l>
+<l m='4'>Et nos amours</l>
+<l m='6'>Faut-il qu’il m’en souvienne</l>
 <l>La joie venait toujours après la peine</l>
 </lg>
 <lg>
-<l indent="3">Vienne la nuit sonne l’heure</l>
-<l indent="3">Les jours s’en vont je demeure</l>
+<l m='7'>Vienne la nuit sonne l’heure</l>
+<l m='7'>Les jours s’en vont je demeure</l>
 </lg>
 <lg>
 <l>Les mains dans les mains restons face à face</l>
-<l indent="3">Tandis que sous</l>
-<l indent="1">Le pont de nos bras passe</l>
+<l m='4'>Tandis que sous</l>
+<l m='6'>Le pont de nos bras passe</l>
 <l>Des éternels regards l’onde si lasse</l>
 </lg>
 <lg>
-<l indent="3">Vienne la nuit sonne l’heure</l>
-<l indent="3">Les jours s’en vont je demeure</l>
+<l m='7'>Vienne la nuit sonne l’heure</l>
+<l m='7'>Les jours s’en vont je demeure</l>
 </lg>
 <pagenum num="17"/>
 <lg>
 <l>L’amour s’en va comme cette eau courante</l>
-<l indent="3">L’amour s’en va</l>
-<l indent="1">Comme la vie est lente</l>
+<l m='4'>L’amour s’en va</l>
+<l m='6'>Comme la vie est lente</l>
 <l>Et comme l’Espérance est violente</l>
 </lg>
 <lg>
-<l indent="3">Vienne la nuit sonne l’heure</l>
-<l indent="3">Les jours s’en vont je demeure</l>
+<l m='7'>Vienne la nuit sonne l’heure</l>
+<l m='7'>Les jours s’en vont je demeure</l>
 </lg>
 <lg>
 <l>Passent les jours et passent les semaines</l>
-<l indent="3">Ni temps passé</l>
-<l indent="1">Ni les amours reviennent</l>
+<l m='4'>Ni temps passé</l>
+<l m='6'>Ni les amours reviennent</l>
 <l>Sous le pont Mirabeau coule la Seine</l>
 </lg>
 <lg>
-<l indent="3">Vienne la nuit sonne l’heure</l>
-<l indent="3">Les jours s’en vont je demeure</l>
+<l m='7'>Vienne la nuit sonne l’heure</l>
+<l m='7'>Les jours s’en vont je demeure</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p03">
+<page-sequence id="p03">
 <pagenum num="18"/>
 
 <h2>LA CHANSON DU MAL-AIMÉ</h2>
@@ -400,7 +395,7 @@
 <p class="r3"><i>A Paul Léautaud.</i></p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Et je chantais cette romance</l>
 <l>En 1903 sans savoir</l>
 <l>Que mon amour à la semblance</l>
@@ -410,7 +405,7 @@
 </blockquote>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 <lg>
 <l><i>Un soir de demi-brume à Londres</i></l>
 <l><i>Un voyou qui ressemblait à</i></l>
@@ -514,15 +509,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p04">
+<page-sequence id="p04">
 <pagenum num="22"/>
 
 <h2>AUBADE CHANTÉE A LÆTARE UN AN PASSÉ</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>C’est le printemps viens-t’en Pâquette</l>
 <l>Te promener au bois joli</l>
@@ -546,13 +539,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p05">
+<page-sequence id="p05">
 <pagenum num="23"/>
 
-<poem>
+<poem m='8'>
 <lg>
 <l><i>Beaucoup de ces dieux ont péri</i></l>
 <l><i>C’est sur eux que pleurent les saules</i></l>
@@ -598,15 +589,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p06">
+<page-sequence id="p06">
 <pagenum num="25"/>
 
 <h2>RÉPONSE DES COSAQUES ZAPOROGUES AU SULTAN DE CONSTANTINOPLE</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Plus criminel que Barrabas</l>
 <l>Cornu comme les mauvais anges</l>
@@ -630,13 +619,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p07">
+<page-sequence id="p07">
 <pagenum num="26"/>
 
-<poem>
+<poem m='8'>
 <lg>
 <l><i>Voie lactée ô sœur lumineuse</i></l>
 <l><i>Des blancs ruisseaux de Chanaan</i></l>
@@ -747,15 +734,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p08">
+<page-sequence id="p08">
 <pagenum num="30"/>
 
 <h2>LES SEPT ÉPÉES</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>La première est toute d’argent</l>
 <l>Et son nom tremblant c’est Pâline</l>
@@ -808,13 +793,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p09">
+<page-sequence id="p09">
 <pagenum num="32"/>
 
-<poem>
+<poem m='8'>
 <lg>
 <l><i>Voie lactée ô sœur lumineuse</i></l>
 <l><i>Des blancs ruisseaux de Chanaan</i></l>
@@ -896,15 +879,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence id="p10">
 <pagenum num="35"/>
 
 <h2>LES COLCHIQUES</h2>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Le pré est vénéneux mais joli en automne</l>
 <l>Les vaches y paissant</l>
@@ -930,10 +911,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11">
+<page-sequence id="p11">
 <pagenum num="36"/>
 
 <h2>PALAIS</h2>
@@ -942,7 +921,7 @@
 <p><i>A Max Jacob</i></p>
 </epigraphe>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Vers le palais de Rosemonde au fond du Rêve</l>
 <l>Mes rêveuses pensées pieds nus vont en soirée</l>
@@ -1002,8 +981,8 @@
 </lg>
 <lg>
 <l>Et tous ces mets criaient des choses nonpareilles</l>
-<l indent="3">Mais nom de Dieu !</l>
-<l indent="3">Ventre affamé n’a pas d’oreilles</l>
+<l m='8'>Mais nom de Dieu !</l>
+<l m='8'>Ventre affamé n’a pas d’oreilles</l>
 <l>Et les convives mastiquaient à qui mieux mieux</l>
 </lg>
 <lg>
@@ -1014,24 +993,20 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p12">
+<page-sequence id="p12">
 <pagenum num="39"/>
 
 <h2>CHANTRE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Et l’unique cordeau des trompettes marines</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p13">
+<page-sequence id="p13">
 <pagenum num="40"/>
 
 <h2>CRÉPUSCULE</h2>
@@ -1040,7 +1015,7 @@
 <p><i>A Mademoiselle Marie Laurencin</i></p>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Frôlée par les ombres des morts</l>
 <l>Sur l’herbe où le jour s’exténue</l>
@@ -1074,15 +1049,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p14">
+<page-sequence id="p14">
 <pagenum num="42"/>
 
 <h2>ANNIE</h2>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Sur la côte du Texas</l>
 <l>Entre Mobile et Galveston il y a</l>
@@ -1104,10 +1077,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p15">
+<page-sequence id="p15">
 <pagenum num="43"/>
 
 <h2>LA MAISON DES MORTS</h2>
@@ -1116,7 +1087,7 @@
 <p><i>A Maurice Raynal</i></p>
 </epigraphe>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>S’étendant sur les côtés du cimetière</l>
 <l>La maison des morts l’encadrait comme un cloître</l>
@@ -1410,15 +1381,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p16">
+<page-sequence id="p16">
 <pagenum num="53"/>
 
 <h2>CLOTILDE</h2>
 
-<poem>
+<poem m='7'>
 <lg>
 <l>L’anémone et l’ancolie</l>
 <l>Ont poussé dans le jardin</l>
@@ -1439,10 +1408,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p17">
+<page-sequence id="p17">
 <pagenum num="54"/>
 
 <h2>CORTÈGE</h2>
@@ -1451,7 +1418,7 @@
 <p><i>A M. Léon Bailby</i></p>
 </epigraphe>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Oiseau tranquille au vol inverse oiseau</l>
 <l>Qui nidifie en l’air</l>
@@ -1544,15 +1511,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p18">
+<page-sequence id="p18">
 <pagenum num="58"/>
 
 <h2>MARIZIBILL</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Dans la Haute-Rue à Cologne</l>
 <l>Elle allait et venait le soir</l>
@@ -1576,10 +1541,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p19">
+<page-sequence id="p19">
 <pagenum num="59"/>
 
 <h2>LE VOYAGEUR</h2>
@@ -1588,7 +1551,7 @@
 <p><i>A Fernand Fleuret</i></p>
 </epigraphe>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Ouvrez-moi cette porte où je frappe en pleurant</l>
 </lg>
@@ -1599,7 +1562,7 @@
 <l>Tu regardais un banc de nuages descendre</l>
 <l>Avec le paquebot orphelin vers les fièvres futures</l>
 <l>Et de tous ces regrets de tous ces repentirs</l>
-<l indent="3">Te souviens-tu</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;Te souviens-tu</l>
 <l>Vagues poissons arques fleurs surmarines</l>
 <l>Une nuit c’était la mer</l>
 <l>Et les fleuves s’y répandaient</l>
@@ -1622,7 +1585,7 @@
 <l>Nous traversâmes des villes qui tout le jour tournaient</l>
 <l>Et vomissaient la nuit le soleil des journées</l>
 <l>O matelots ô femmes sombres et vous mes compagnons</l>
-<l indent="3">Souvenez-vous-en</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;Souvenez-vous-en</l>
 </lg>
 <lg>
 <l>Deux matelots qui ne s’étaient jamais quittés</l>
@@ -1630,7 +1593,7 @@
 <l>Le plus jeune en mourant tomba sur le côté</l>
 </lg>
 <lg>
-<l indent="3">O vous chers compagnons</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;O vous chers compagnons</l>
 <l>Sonneries électriques des gares chant des moissonneuses</l>
 <l>Traîneau d’un boucher régiment des rues sans nombre</l>
 <pagenum num="61"/>
@@ -1681,15 +1644,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p20">
+<page-sequence id="p20">
 <pagenum num="63"/>
 
 <h2>MARIE</h2>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Vous y dansiez petite fille</l>
 <l>Y danserez-vous mère-grand</l>
@@ -1728,15 +1689,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p21">
+<page-sequence id="p21">
 <pagenum num="65"/>
 
 <h2>LA BLANCHE NEIGE</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Les anges les anges dans le ciel</l>
 <l>L’un est vêtu en officier</l>
@@ -1747,27 +1706,25 @@
 <l>Bel officier couleur du ciel</l>
 <l>Le doux printemps longtemps après Noël</l>
 <l>Te médaillera d’un beau soleil</l>
-<l indent="2">D’un beau soleil</l>
+<l m='4'>D’un beau soleil</l>
 </lg>
 <lg>
 <l>Le cuisinier plume les oies</l>
-<l indent="2">Ah ! tombe neige</l>
-<l indent="2">Tombe et que n’ai-je</l>
+<l m='4'>Ah ! tombe neige</l>
+<l m='4'>Tombe et que n’ai-je</l>
 <l>Ma bien-aimée entre mes bras</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p22">
+<page-sequence id="p22">
 <pagenum num="66"/>
 
 <h2>POÈME LU AU MARIAGE D’ANDRÉ SALMON</h2>
 
 <h2><i>Le 13 juillet 1909</i></h2>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>En voyant des drapeaux ce matin je ne me suis pas dit</l>
 <l>Voilà les riches vêtements des pauvres</l>
@@ -1821,15 +1778,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p23">
+<page-sequence id="p23">
 <pagenum num="70"/>
 
 <h2>L’ADIEU</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>J’ai cueilli ce brin de bruyère</l>
 <l>L’automne est morte souviens-t’en</l>
@@ -1839,15 +1794,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p24">
+<page-sequence id="p24">
 <pagenum num="71"/>
 
 <h2>SALOMÉ</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Pour que sourie encore une fois Jean-Baptiste</l>
 <l>Sire je danserais mieux que les séraphins</l>
@@ -1878,21 +1831,19 @@
 <l>Nous creuserons un trou et l’y enterrerons</l>
 <l>Nous planterons des fleurs et danserons en rond</l>
 <l>Jusqu’à l’heure où j’aurai perdu ma jarretière</l>
-<l indent="3">Le roi sa tabatière</l>
-<l indent="3">L’infante son rosaire</l>
-<l indent="3">Le curé son bréviaire</l>
+<l m='6'>Le roi sa tabatière</l>
+<l m='6'>L’infante son rosaire</l>
+<l m='6'>Le curé son bréviaire</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p25">
+<page-sequence id="p25">
 <pagenum num="73"/>
 
 <h2>LA PORTE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>La porte de l’hôtel sourit terriblement</l>
 <l>Qu’est-ce que cela peut me faire ô ma maman</l>
@@ -1907,15 +1858,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p26">
+<page-sequence id="p26">
 <pagenum num="74"/>
 
 <h2>MERLIN ET LA VIEILLE FEMME</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le soleil ce jour-là s’étalait comme un ventre</l>
 <l>Maternel qui saignait lentement sur le ciel</l>
@@ -2011,10 +1960,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p27">
+<page-sequence id="p27">
 <pagenum num="78"/>
 
 <h2>SALTIMBANQUES</h2>
@@ -2023,7 +1970,7 @@
 <p><i>A Louis Dumur</i></p>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Dans la plaine les baladins</l>
 <l>S’éloignent au long des jardins</l>
@@ -2044,15 +1991,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p28">
+<page-sequence id="p28">
 <pagenum num="79"/>
 
 <h2>LE LARRON</h2>
 
-<poem>
+<poem m='12'>
 
 <h2><s>CHŒUR</s></h2>
 <lg>
@@ -2272,16 +2217,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p29">
+<page-sequence id="p29">
 <pagenum num="87"/>
 
 <h2>LE VENT NOCTURNE</h2>
 
-<poem>
-<lg>
+<poem m='12'>
 <l>Oh ! les cimes des pins grincent en se heurtant</l>
 <l>Et l’on entend aussi se lamenter l’autan</l>
 <l>Et du fleuve prochain à grand’voix triomphales</l>
@@ -2295,13 +2237,10 @@
 <l>Comme les vierges les vieillards et les poètes</l>
 <l>Et ne s’éveilleront au pas de nul venant</l>
 <l>Ni quand sur leurs pigeons fondront les gypaètes</l>
-</lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p30">
+<page-sequence id="p30">
 <pagenum num="88"/>
 
 <h2>LUL DE FALTENIN</h2>
@@ -2310,7 +2249,7 @@
 <p><i>A Louis de Gonzague Frick</i></p>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Sirènes j’ai rampé vers vos</l>
 <l>Grottes tiriez aux mers la langue</l>
@@ -2378,15 +2317,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p31">
+<page-sequence id="p31">
 <pagenum num="91"/>
 
 <h2>LA TZIGANE</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>La tzigane savait d’avance</l>
 <l>Nos deux vies barrées par les nuits</l>
@@ -2407,10 +2344,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p32">
+<page-sequence id="p32">
 <pagenum num="92"/>
 
 <h2>L’ERMITE</h2>
@@ -2419,7 +2354,7 @@
 <p><i>A Felix <correction original="Féneon" silent="yes">Fénéon</correction></i></p>
 </epigraphe>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Un ermite déchaux près d’un crâne blanchi</l>
 <l>Cria Je vous maudis martyres et détresses</l>
@@ -2572,15 +2507,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p33">
+<page-sequence id="p33">
 <pagenum num="99"/>
 
 <h2>AUTOMNE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Dans le brouillard s’en vont un paysan cagneux</l>
 <l>Et son bœuf lentement dans le brouillard d’automne</l>
@@ -2597,10 +2530,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p34">
+<page-sequence id="p34">
 <pagenum num="100"/>
 
 <h2>L’ÉMIGRANT DE LANDOR ROAD</h2>
@@ -2609,7 +2540,7 @@
 <p><i>A André Billy</i></p>
 </epigraphe>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le chapeau à la main il entra du pied droit</l>
 <l>Chez un tailleur très chic et fournisseur du roi</l>
@@ -2623,8 +2554,8 @@
 <l>S’envolaient quelquefois comme des oiseaux blancs</l>
 </lg>
 <lg>
-<l indent="1">Mon bateau partira demain pour l’Amérique</l>
-<l indent="3">Et je ne reviendrai jamais</l>
+<l m='10'>Mon bateau partira demain pour l’Amérique</l>
+<l m='8'>Et je ne reviendrai jamais</l>
 <l>Avec l’argent gagné dans les prairies lyriques</l>
 <l>Guider mon ombre aveugle en ces rues que j’aimais</l>
 </lg>
@@ -2641,11 +2572,11 @@
 <l>Le vêtement d’un lord mort sans avoir payé</l>
 <l>Au rabais l’habilla comme un millionnaire</l>
 </lg>
-<lg>
-<l indent="4">Au dehors les années</l>
-<l indent="4">Regardaient la vitrine</l>
-<l indent="4">Les mannequins victimes</l>
-<l indent="4">Et passaient enchaînées</l>
+<lg m='6'>
+<l>Au dehors les années</l>
+<l>Regardaient la vitrine</l>
+<l>Les mannequins victimes</l>
+<l>Et passaient enchaînées</l>
 </lg>
 <lg>
 <l>Intercalées dans l’an c’étaient les journées veuves</l>
@@ -2658,7 +2589,7 @@
 <l>Puis dans un port d’automne aux feuilles indécises</l>
 <l>Quand les mains de la foule y feuillolaient aussi</l>
 <l>Sur le pont du vaisseau il posa sa valise</l>
-<l indent="4">Et s’assit</l>
+<l m='3'>Et s’assit</l>
 </lg>
 <lg>
 <l>Les vents de l’Océan en soufflant leurs menaces</l>
@@ -2675,15 +2606,15 @@
 <lg>
 <l>Il aurait voulu ce bouquet comme la gloire</l>
 <l>Jouer dans d’autres mers parmi tous les dauphins</l>
-<l indent="3">Et l’on tissait dans sa mémoire</l>
-<l indent="3">Une tapisserie sans fin</l>
-<l indent="3">Qui figurait son histoire</l>
+<l m='8'>Et l’on tissait dans sa mémoire</l>
+<l m='8'>Une tapisserie sans fin</l>
+<l m='8'>Qui figurait son histoire</l>
 </lg>
 <pagenum num="103"/>
 <lg>
-<l indent="3">Mais pour noyer changées en poux</l>
+<l m='8'>Mais pour noyer changées en poux</l>
 <l>Ces tisseuses têtues qui sans cesse interrogent</l>
-<l indent="3">Il se maria comme un doge</l>
+<l m='8'>Il se maria comme un doge</l>
 <l>Aux cris d’une sirène moderne sans époux</l>
 </lg>
 <lg>
@@ -2694,10 +2625,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p35">
+<page-sequence id="p35">
 <pagenum num="104"/>
 
 <h2>ROSEMONDE</h2>
@@ -2706,7 +2635,7 @@
 <p><i>A André Derain</i></p>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Longtemps au pied du perron de</l>
 <l>La maison où entra la dame</l>
@@ -2730,10 +2659,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p36">
+<page-sequence id="p36">
 <pagenum num="105"/>
 
 <h2>LE BRASIER</h2>
@@ -2742,7 +2669,7 @@
 <p><i>A Paul-Napoléon Roinard</i></p>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>J’ai jeté dans le noble feu</l>
 <l>Que je transporte et que j’adore</l>
@@ -2781,13 +2708,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p37">
+<page-sequence id="p37">
 <pagenum num="107"/>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Je flambe dans le brasier à l’ardeur adorable</l>
 <l>Et les mains des croyants m’y rejettent multiple innombrablement</l>
@@ -2814,13 +2739,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p38">
+<page-sequence id="p38">
 <pagenum num="109"/>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Descendant des hauteurs où pense la lumière</l>
 <l>Jardins rouant plus haut que tous les ciels mobiles</l>
@@ -2850,7 +2773,7 @@
 <l>Comme les astres dont se nourrit le vide</l>
 </lg>
 <lg>
-<l indent="2">Et voici le spectacle</l>
+<l>&#x2001;&#x2001;&#x2001;Et voici le spectacle</l>
 <l>Et pour toujours je suis assis dans un fauteuil</l>
 <l>Ma tête mes genoux mes coudes vain pentacle</l>
 <l>Les flammes ont poussé sur moi comme des feuilles</l>
@@ -2858,7 +2781,7 @@
 <lg>
 <l>Des acteurs inhumains claires bêtes nouvelles</l>
 <l>Donnent des ordres aux hommes apprivoisés</l>
-<l indent="4">Terre</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;Terre</l>
 <l>O Déchirée que les fleuves ont reprisée</l>
 </lg>
 <lg>
@@ -2867,10 +2790,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p39">
+<page-sequence id="p39">
 <div id="p40">
 <pagenum num="111"/>
 
@@ -2878,7 +2799,7 @@
 
 <h2><s>NUIT RHÉNANE</s></h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Mon verre est plein d’un vin trembleur comme une flamme</l>
 <l>Écoutez la chanson lente d’un batelier</l>
@@ -2904,15 +2825,13 @@
 </poem>
 
 </div>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p41">
+<page-sequence id="p41">
 <pagenum num="113"/>
 
 <h2><s>MAI</s></h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le mai le joli mai en barque sur le Rhin</l>
 <l>Des dames regardaient du haut de la montagne</l>
@@ -2941,15 +2860,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p42">
+<page-sequence id="p42">
 <pagenum num="115"/>
 
 <h2><s>LA SYNAGOGUE</s></h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Ottomar Scholem et Abraham Loeweren</l>
 <l>Coiffés de feutres verts le matin du sabbat</l>
@@ -2983,15 +2900,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p43">
+<page-sequence id="p43">
 <pagenum num="117"/>
 
 <h2><s>LES CLOCHES</s></h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Mon beau tzigane mon amant</l>
 <l>Écoute les cloches qui sonnent</l>
@@ -3019,10 +2934,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p44">
+<page-sequence id="p44">
 <pagenum num="119"/>
 
 <h2><s>LA LORELEY</s></h2>
@@ -3031,7 +2944,7 @@
 <p><i>A Jean Sève</i></p>
 </epigraphe>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>A Bacharach il y avait une sorcière blonde</l>
 <l>Qui laissait mourir d’amour tous les hommes à la ronde</l>
@@ -3112,10 +3025,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p45">
+<page-sequence id="p45">
 <pagenum num="122"/>
 
 <h2><s>SCHINDERNANNES</s></h2>
@@ -3124,7 +3035,7 @@
 <p><i>A Marius-Ary Leblond</i></p>
 </epigraphe>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Dans la forêt avec sa bande</l>
 <l>Schinderhannes s’est désarmé</l>
@@ -3177,10 +3088,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p46">
+<page-sequence id="p46">
 <pagenum num="125"/>
 
 <h2><s>RHÉNANE D’AUTOMNE</s></h2>
@@ -3189,7 +3098,7 @@
 <p><i>A Toussaint Luca</i></p>
 </epigraphe>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Les enfants des morts vont jouer</l>
 <l>Dans le cimetière</l>
@@ -3273,26 +3182,24 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p47">
+<page-sequence id="p47">
 <pagenum num="129"/>
 
 <h2><s>LES SAPINS</s></h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Les sapins en bonnets pointus</l>
 <l>De longues robes revêtus</l>
-<l indent="1">Comme des astrologues</l>
+<l m='6'>Comme des astrologues</l>
 <l>Saluent leurs frères abattus</l>
 <l>Les bateaux qui sur le Rhin voguent</l>
 </lg>
 <lg>
 <l>Dans les sept arts endoctrinés</l>
 <l>Par les vieux sapins leurs aînés</l>
-<l indent="1">Qui sont de grands poètes</l>
+<l m='6'>Qui sont de grands poètes</l>
 <l>Ils se savent prédestinés</l>
 <l>A briller plus que des planètes</l>
 </lg>
@@ -3300,42 +3207,40 @@
 <lg>
 <l>A briller doucement changés</l>
 <l>En étoiles et enneigés</l>
-<l indent="1">Aux Noëls bienheureuses</l>
+<l m='6'>Aux Noëls bienheureuses</l>
 <l>Fêtes des sapins ensongés</l>
 <l>Aux longues branches langoureuses</l>
 </lg>
 <lg>
 <l>Les sapins beaux musiciens</l>
 <l>Chantent des noëls anciens</l>
-<l indent="1">Au vent des soirs d’automne</l>
+<l m='6'>Au vent des soirs d’automne</l>
 <l>Ou bien graves magiciens</l>
 <l>Incantent le ciel quand il tonne</l>
 </lg>
 <lg>
 <l>Des rangées de blancs chérubins</l>
 <l>Remplacent l’hiver les sapins</l>
-<l indent="1">Et balancent leurs ailes</l>
+<l m='6'>Et balancent leurs ailes</l>
 <l>L’été ce sont de grands rabbins</l>
 <l>Ou bien de vieilles demoiselles</l>
 </lg>
 <lg>
 <l>Sapins médecins divagants</l>
 <l>Ils vont offrant leurs bons onguents</l>
-<l indent="1">Quand la montagne accouche</l>
+<l m='6'>Quand la montagne accouche</l>
 <l>De temps en temps sous l’ouragan</l>
 <l>Un vieux sapin geint et se couche</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p48">
+<page-sequence id="p48">
 <pagenum num="131"/>
 
 <h2><s>LES FEMMES</s></h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Dans la maison du vigneron les femmes cousent</l>
 <l><i>Lenchen remplis le poêle et mets l’eau du café</i></l>
@@ -3396,15 +3301,13 @@
 
 <date>Septembre 1901-Mai 1902.</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p49">
+<page-sequence id="p49">
 <pagenum num="134"/>
 
 <h2>SIGNE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Je suis soumis au Chef du Signe de l’Automne</l>
 <l>Partant j’aime les fruits je déteste les fleurs</l>
@@ -3419,57 +3322,53 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p50">
+<page-sequence id="p50">
 <pagenum num="135"/>
 
 <h2>UN SOIR</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Un aigle descendit de ce ciel blanc d’archanges</l>
-<l indent="3">Et vous soutenez-moi</l>
+<l m='6'>Et vous soutenez-moi</l>
 <l>Laisserez-vous trembler longtemps toutes ces lampes</l>
-<l indent="3">Priez priez pour moi</l>
+<l m='6'>Priez priez pour moi</l>
 </lg>
 <lg>
 <l>La ville est métallique et c’est la seule étoile</l>
-<l indent="3">Noyée dans tes yeux bleus</l>
+<l m='6'>Noyée dans tes yeux bleus</l>
 <l>Quand les tramways roulaient jaillissaient des feux pâles</l>
-<l indent="3">Sur des oiseaux galeux</l>
+<l m='6'>Sur des oiseaux galeux</l>
 </lg>
 <pagenum num="136"/>
 <lg>
 <l>Et tout ce qui tremblait dans tes yeux de mes songes</l>
-<l indent="3">Qu’un seul homme buvait</l>
+<l m='6'>Qu’un seul homme buvait</l>
 <l>Sous les feux de gaz roux comme la fausse oronge</l>
-<l indent="3">O vêtue ton bras se lovait</l>
+<l m='6'>O vêtue ton bras se lovait</l>
 </lg>
 <lg>
 <l>Vois l’histrion tire la langue aux attentives</l>
-<l indent="3">Un fantôme s’est suicidé</l>
+<l m='6'>Un fantôme s’est suicidé</l>
 <l>L’apôtre au figuier pend et lentement salive</l>
-<l indent="3">Jouons donc cet amour aux dés</l>
+<l m='6'>Jouons donc cet amour aux dés</l>
 </lg>
 <lg>
 <l>Des cloches aux sons clairs annonçaient ta naissance</l>
-<l indent="4">Vois</l>
+<l m='2'>Vois</l>
 <l>Les chemins sont fleuris et les palmes s’avancent</l>
-<l indent="4">Vers toi</l>
+<l m='2'>Vers toi</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p51">
+<page-sequence id="p51">
 <pagenum num="137"/>
 
 <h2>LA DAME</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Toc toc Il a fermé sa porte</l>
 <l>Les lys du jardin sont flétris</l>
@@ -3482,10 +3381,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p52">
+<page-sequence id="p52">
 <pagenum num="138"/>
 
 <h2>LES FIANÇAILLES</h2>
@@ -3494,7 +3391,7 @@
 <p><i>A Picasso</i></p>
 </epigraphe>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le printemps laisse errer les fiancés parjures</l>
 <l>Et laisse feuilloler longtemps les plumes bleues</l>
@@ -3514,13 +3411,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p53">
+<page-sequence id="p53">
 <pagenum num="139"/>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Mes amis m’ont enfin avoué leur mépris</l>
 <l>Je buvais à pleins verres les étoiles</l>
@@ -3541,13 +3436,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p54">
+<page-sequence id="p54">
 <pagenum num="140"/>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Je n’ai plus même pitié de moi</l>
 <l>Et ne puis exprimer mon tourment de silence</l>
@@ -3561,13 +3454,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p55">
+<page-sequence id="p55">
 <pagenum num="141"/>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>J’ai eu le courage de regarder en arrière</l>
 <l>Les cadavres de mes jours</l>
@@ -3584,13 +3475,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p56">
+<page-sequence id="p56">
 <pagenum num="142"/>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Pardonnez-moi mon ignorance</l>
 <l>Pardonnez-moi de ne plus connaître l’ancien jeu des vers</l>
@@ -3604,13 +3493,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p57">
+<page-sequence id="p57">
 <pagenum num="143"/>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>J’observe le repos du dimanche</l>
 <l>Et je loue la paresse</l>
@@ -3635,13 +3522,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p58">
+<page-sequence id="p58">
 <pagenum num="144"/>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>A la fin les mensonges ne me font plus peur</l>
 <l>C’est la lune qui cuit comme un œuf sur le plat</l>
@@ -3658,13 +3543,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p59">
+<page-sequence id="p59">
 <pagenum num="145"/>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Au tournant d’une rue je vis des matelots</l>
 <l>Qui dansaient le cou nu au son d’un accordéon</l>
@@ -3679,13 +3562,11 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p60">
+<page-sequence id="p60">
 <pagenum num="146"/>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Templiers flamboyants je brûle parmi vous</l>
 <l>Prophétisons ensemble ô grand maître je suis</l>
@@ -3706,15 +3587,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p61">
+<page-sequence id="p61">
 <pagenum num="147"/>
 
 <h2>CLAIR DE LUNE</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Lune mellifluente aux lèvres des déments</l>
 <l>Les vergers et les bourgs cette nuit sont gourmands</l>
@@ -3729,15 +3608,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p62">
+<page-sequence id="p62">
 <pagenum num="148"/>
 
 <h2>1909</h2>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>La dame avait une robe</l>
 <l>En ottoman violine</l>
@@ -3786,17 +3663,15 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p63">
+<page-sequence id="p63">
 <pagenum num="150"/>
 
 <h2>A LA SANTÉ</h2>
 
 <h2>I</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Avant d’entrer dans ma cellule</l>
 <l>Il a fallu me mettre nu</l>
@@ -3811,44 +3686,40 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p64">
+<page-sequence id="p64">
 <pagenum num="151"/>
 
 <h2>II</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Non je ne me sens plus là</l>
-<l indent="3">Moi-même</l>
+<l m='3'>Moi-même</l>
 <l>Je suis le quinze de la</l>
-<l indent="3">Onzième</l>
+<l m='3'>Onzième</l>
 </lg>
 <lg>
 <l>Le soleil filtre à travers</l>
-<l indent="3">Les vitres</l>
+<l m='3'>Les vitres</l>
 <l>Ses rayons font sur mes vers</l>
-<l indent="3">Les pitres</l>
+<l m='3'>Les pitres</l>
 </lg>
 <lg>
 <l>Et dansent sur le papier</l>
-<l indent="3">J’écoute</l>
+<l m='3'>J’écoute</l>
 <l>Quelqu’un qui frappe du pied</l>
-<l indent="3">La voûte</l>
+<l m='3'>La voûte</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p65">
+<page-sequence id="p65">
 <pagenum num="152"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Dans une fosse comme un ours</l>
 <l>Chaque matin je me promène</l>
@@ -3867,44 +3738,40 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p66">
+<page-sequence id="p66">
 <pagenum num="153"/>
 
 <h2>IV</h2>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Que je m’ennuie entre ces murs tout nus</l>
-<l indent="3">Et peints de couleurs pâles</l>
+<l m='8'>Et peints de couleurs pâles</l>
 <l>Une mouche sur le papier à pas menus</l>
-<l indent="3">Parcourt mes lignes inégales</l>
+<l m='8'>Parcourt mes lignes inégales</l>
 </lg>
 <lg>
 <l>Que deviendrai-je ô Dieu qui connais ma douleur</l>
-<l indent="3">Toi qui me l’as donnée</l>
+<l m='8'>Toi qui me l’as donnée</l>
 <l>Prends en pitié mes yeux sans larmes ma pâleur</l>
-<l indent="3">Le bruit de ma chaise enchaînée</l>
+<l m='8'>Le bruit de ma chaise enchaînée</l>
 </lg>
 <lg>
 <l>Et tous ces pauvres cœurs battant dans la prison</l>
-<l indent="3">L’Amour qui m’accompagne</l>
+<l m='8'>L’Amour qui m’accompagne</l>
 <l>Prends en pitié surtout ma débile raison</l>
-<l indent="3">Et ce désespoir qui la gagne</l>
+<l m='8'>Et ce désespoir qui la gagne</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p67">
+<page-sequence id="p67">
 <pagenum num="154"/>
 
 <h2>V</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Que lentement passent les heures</l>
 <l>Comme passe un enterrement</l>
@@ -3916,15 +3783,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p68">
+<page-sequence id="p68">
 <pagenum num="155"/>
 
 <h2>VI</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>J’écoute les bruits de la ville</l>
 <l>Et prisonnier sans horizon</l>
@@ -3941,15 +3806,13 @@
 
 <date>Septembre 1911</date>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p69">
+<page-sequence id="p69">
 <pagenum num="156"/>
 
 <h2>AUTOMNE MALADE</h2>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Automne malade et adoré</l>
 <l>Tu mourras quand l’ouragan soufflera dans les roseraies</l>
@@ -3975,24 +3838,22 @@
 <l>Les fruits tombant sans qu’on les cueille</l>
 <l>Le vent et la forêt qui pleurent</l>
 <l>Toutes leurs larmes en automne feuille à feuille</l>
-<l indent="4">Les feuilles</l>
-<l indent="4">Qu’on foule</l>
-<l indent="4">Un train</l>
-<l indent="4">Qui roule</l>
-<l indent="4">La vie</l>
-<l indent="4">S’écoule</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;Les feuilles</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;Qu’on foule</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;Un train</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;Qui roule</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;La vie</l>
+<l>&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;&#x2001;S’écoule</l>
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p70">
+<page-sequence id="p70">
 <pagenum num="158"/>
 
 <h2>HOTELS</h2>
 
-<poem>
+<poem m='4'>
 <lg>
 <l>La chambre est veuve</l>
 <l>Chacun pour soi</l>
@@ -4032,15 +3893,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p71">
+<page-sequence id="p71">
 <pagenum num="160"/>
 
 <h2>CORS DE CHASSE</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Notre histoire est noble et tragique</l>
 <l>Comme le masque d’un tyran</l>
@@ -4061,15 +3920,13 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p72">
+<page-sequence id="p72">
 <pagenum num="161"/>
 
 <h2>VENDÉMIAIRE</h2>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Hommes de l’avenir souvenez-vous de moi</l>
 <l>Je vivais à l’époque où finissaient les rois</l>
@@ -4329,19 +4186,15 @@
 </poem>
 
 <pagenum num="170"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="table">
+<page-sequence id="table">
 <pagenum num="171"/>
 
 <h1>TABLE</h1>
 
 <pagenum num="172"/>
-</div>
 </page-sequence>
 <page-sequence>
-<div>
 <pagenum num="173"/>
 
 <table>
@@ -4403,7 +4256,6 @@
 </tbody>
 </table>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

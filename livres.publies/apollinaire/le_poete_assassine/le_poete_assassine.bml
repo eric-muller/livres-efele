@@ -825,7 +825,7 @@
 <p>« J’ai fait hier mon dernier poème en vers réguliers :</p>
 
 <blockquote>
-<poem>
+<poem m='2'>
 <l>Luth</l>
 <l>Zut !</l>
 </poem>
@@ -840,7 +840,7 @@
 <blockquote>
 <h3>PROSPECTUS POUR UN NOUVEAU MÉDICAMENT</h3>
 
-<poem>
+<poem m='i'>
 <lg>
 <l>Pourquoi revint-il Hjalmar</l>
 <l>Les hanaps d’argent coupelle restèrent vides</l>
@@ -963,7 +963,7 @@
 
 <hstage><speaker>L’ACTEUR</speaker></hstage>
 
-<poem>
+<poem m='12'>
 <l>Mes rôles ont duré ce que durent les roses</l>
 <l>Mais ma mère j’aime mes métempsychoses</l>
 <l>O phoques de Protée et ses métamorphoses</l>
@@ -979,7 +979,7 @@
 
 <hstage><speaker>LE MENEUR A SON OURS</speaker></hstage>
 
-<poem>
+<poem m='8'>
 <l>Roule-toi dans les petits pois</l>
 <l>Fais le mort... Donne à téter...</l>
 <l>Danse la polka... la masourke maintenant...</l>
@@ -987,7 +987,7 @@
 
 <hstage><speaker>CHŒUR DES BUVEURS</speaker></hstage>
 
-<poem>
+<poem m='4'>
 <l>Jus de la treille</l>
 <l>Liqueur vermeille</l>
 <l>Buvons buvons</l>
@@ -998,7 +998,7 @@
 
 <hstage><speaker>CHŒUR DES MANGEURS</speaker></hstage>
 
-<poem>
+<poem m='4'>
 <l>Tas de goulus</l>
 <l>Il n’y a plus</l>
 <l>Une miette</l>
@@ -1007,7 +1007,7 @@
 
 <hstage><speaker>BUVEURS</speaker></hstage>
 
-<poem>
+<poem m='4'>
 <l>Trognes vermeilles</l>
 <l>Buvons buvons</l>
 <l>Le jus des treilles</l>
@@ -1114,12 +1114,14 @@
 
 <p>C<s>OMÉDIE</s>-V<s>AUDEVILLE</s>. — </p>
 
-<poem>
-<l indent="2">Le bel automédon</l>
-<l indent="2">Criait à sa voisine :</l>
+<blockquote>
+<poem m='8'>
+<l m='6'>Le bel automédon</l>
+<l m='6'>Criait à sa voisine :</l>
 <l>Si tu me fais voir ton salon,</l>
 <l>Je te ferai voir ma cuisine.</l>
 </poem>
+</blockquote>
 
 <p>Voilà de quoi alimenter toute une vie de dramaturge, monsieur.</p>
 
@@ -1195,19 +1197,19 @@
 <p>Croniamantal se jeta à genoux et but avidement tandis qu’une voix de femme chantait au loin :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
-<l indent="1">Dondidondaine</l>
+<l m='4'>Dondidondaine</l>
 <l>C’est la bergère aimée du roi</l>
 <l>Qui est allée à la fontaine</l>
-<l indent="1">Dondidondaine</l>
+<l m='4'>Dondidondaine</l>
 <l>Par les près mouillés qui verdoient</l>
 </lg>
 <lg>
-<l indent="1">A la fontaine</l>
+<l m='4'>A la fontaine</l>
 <l>Viendra-t-il ne viendra-t-il pas</l>
 <l>Voici venir Croquemitaine</l>
-<l indent="1">A la fontaine</l>
+<l m='4'>A la fontaine</l>
 <l>Et tioupdistouc n’avancez pas</l>
 </lg>
 </poem>
@@ -1222,11 +1224,11 @@
 <hstage><speaker>LA VOIX</speaker></hstage>
 
 <blockquote>
-<poem>
-<l indent="1">Croquemitaine</l>
+<poem m='8'>
+<l m='4'>Croquemitaine</l>
 <l>Porte la rose et le lilas</l>
 <l>Le roi s’en vient — Bonjour Germaine</l>
-<l indent="1">— Croquemitaine</l>
+<l m='4'>— Croquemitaine</l>
 <l>Tu reviendras une autre fois</l>
 </poem>
 </blockquote>
@@ -1238,11 +1240,11 @@
 <hstage><speaker>LA VOIX</speaker></hstage>
 
 <blockquote>
-<poem>
-<l indent="1">— Bonjour Germaine</l>
+<poem m='8'>
+<l m='4'>— Bonjour Germaine</l>
 <l>Je viens aimer entre tes bras</l>
 <l>— Ah ! Sire notre vache est pleine</l>
-<l indent="1">— Vraiment Germaine</l>
+<l m='4'>— Vraiment Germaine</l>
 <l>— Votre servante aussi je crois</l>
 </poem>
 </blockquote>
@@ -1254,11 +1256,11 @@
 <hstage><speaker>LA VOIX</speaker></hstage>
 
 <blockquote>
-<poem>
-<l indent="1">La vache est pleine</l>
+<poem m='8'>
+<l m='4'>La vache est pleine</l>
 <l>Quand vint l’automne elle vêla</l>
 <l>Adieu mon roi Dondidondaine</l>
-<l indent="1">La vache est pleine</l>
+<l m='4'>La vache est pleine</l>
 <l>Et mon cœur est vide sans toi</l>
 </poem>
 </blockquote>
@@ -1270,11 +1272,11 @@
 <hstage><speaker>LA VOIX</speaker></hstage>
 
 <blockquote>
-<poem>
-<l indent="1">Dondidondaine</l>
+<poem m='8'>
+<l m='4'>Dondidondaine</l>
 <l>A la fontaine il fait bien froid</l>
 <l>Mais quand viendra Croquemitaine</l>
-<l indent="1">Dondidondaine</l>
+<l m='4'>Dondidondaine</l>
 <l>Après l’hiver j’aurai moins froid.</l>
 </poem>
 </blockquote>
@@ -1341,15 +1343,15 @@
 
 <hstage><speaker>LES OISEAUX</speaker></hstage>
 
-<poem>
-<l class="c">Gai ! Gai ! les œufs brisés.</l>
-<l class="c">L’omelette toute faite a cuit sur un feu follet.</l>
-<l class="c">Ici, ici !</l>
-<l class="c">Prends à droite.</l>
-<l class="c">Tourne à gauche.</l>
-<l class="c">Devant toi.</l>
-<l class="c">Derrière ce chêne abattu.</l>
-<l class="c">Là et là.</l>
+<poem m='c'>
+<l>Gai ! Gai ! les œufs brisés.</l>
+<l>L’omelette toute faite a cuit sur un feu follet.</l>
+<l>Ici, ici !</l>
+<l>Prends à droite.</l>
+<l>Tourne à gauche.</l>
+<l>Devant toi.</l>
+<l>Derrière ce chêne abattu.</l>
+<l>Là et là.</l>
 </poem>
 
 <pagenum num="84"/>
@@ -1589,7 +1591,7 @@
 <p>— C’est que ma statue est de bronze. Elle m’expose constamment à des méprises. Ainsi, l’autre jour,</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Passant auprès de moi le nègre Sam Mac Vea</l>
 <l>Voyant que j’ai plus noir que lui s’affligea</l>
 </poem>
@@ -1602,7 +1604,7 @@
 <p>— Voici quelque chose qui fera mieux votre affaire, continua la statue :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Passant auprès de moi le nègre Sam Mac Vea</l>
 <l>Sur le socle aussitôt ces trois noms écrivit</l>
 </poem>
@@ -1615,7 +1617,7 @@
 <p>— C’est mon premier succès, répondit le poète métallique. Toutefois je viens de composer un petit poème portant le même titre : c’est un <pagenum num="99" b="mon-" a="sieur">monsieur</pagenum> qui passe, <i>le Passant,</i> à travers un couloir de wagon de chemin de fer ; il distingue une charmante personne avec laquelle, au lieu d’aller simplement jusqu’à Bruxelles, il s’arrête à la frontière hollandaise.</p>
 
 <blockquote>
-<poem>
+<poem m='i'>
 <l>Ils passèrent au moins huit jours à Rosendael</l>
 <l>Il goûtait l’idéal elle aimait le réel</l>
 <l>En toutes choses d’elle il était différent</l>
@@ -1825,12 +1827,12 @@
 <p>Croniamantal se mit à la fenêtre, sous laquelle s’étendait l’obscurité touffue d’un grand jardin monacal d’où semblaient monter des rires, des soupirs, des cris de joie, comme si mille couples <pagenum num="114"/>s’y étreignaient. Alors une voix de femme, dans le jardin, chanta une chanson que Croniamantal avait entendue autrefois :</p>
 
 <blockquote>
-<poem>
-<l indent="1">Croquemitaine</l>
+<poem m='8'>
+<l m='4'>Croquemitaine</l>
 <l>Porte la rose et le lilas</l>
-<l indent="1">Le roi s’en vient</l>
-<l indent="1">— Bonjour Germaine</l>
-<l indent="1">— Croquemitaine</l>
+<l m='4'>Le roi s’en vient</l>
+<l m='4'>— Bonjour Germaine</l>
+<l m='4'>— Croquemitaine</l>
 <l>Tu reviendras une autre fois</l>
 </poem>
 </blockquote>
@@ -1838,8 +1840,8 @@
 <p>Et Croniamantal se mit à chanter la suite :</p>
 
 <blockquote>
-<poem>
-<l indent="1">— Bonjour Germaine</l>
+<poem m='8'>
+<l m='4'>— Bonjour Germaine</l>
 <l>Je viens aimer entre tes bras</l>
 </poem>
 </blockquote>
@@ -1849,7 +1851,7 @@
 <p>Et des voix d’hommes de-ci de-là chantaient sur des airs graves des chansons inconnues, tandis qu’une voix cassée de vieillard chevrotait :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Vexilla régis prodeunt...</l>
 </poem>
 </blockquote>
@@ -2003,7 +2005,7 @@
 <p>Et elle tendit à Tograth un petit papier rose sur lequel se trouvait ce lamentable acrostiche :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Mon aimée adorée avant que je m’en aille,</l>
 <l>Avant que notre amour, Maria, ne déraille,</l>
 <l>Râle et meure, m’amie, une fois, une fois,</l>
@@ -2125,9 +2127,9 @@
 <p>Elle lui fit des funérailles décentes et plaça sur sa tombe une pierre sur laquelle on grava, comme épitaphe :</p>
 
 <blockquote>
-<poem>
-<l class="c">Marchez sur la pointe des pieds</l>
-<l class="c">Pour ne pas troubler le bon sommeil</l>
+<poem m='8'>
+<l>Marchez sur la pointe des pieds</l>
+<l>Pour ne pas troubler le bon sommeil</l>
 </poem>
 </blockquote>
 
@@ -2170,7 +2172,7 @@
 <p>Le surlendemain, l’oiseau du Bénin, Tristouse, le prince des poètes et sa mie revinrent au monument qui fut comblé avec la terre qu’on en avait tirée et là, la nuit tombée, on planta un beau laurier des poètes, tandis que Tristouse Ballerinette dansait en chantant :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <lg>
 <l>Toutes ne t’aiment pas tu mens</l>
 <l>Palantila mila miman</l>
@@ -2178,18 +2180,18 @@
 <l>Il est le roi puisqu’elle est reine</l>
 <l>C’est vrai c’est vrai je l’aime</l>
 <l>Croniamantal au fond du puits</l>
-<l indent="3">Est-ce lui</l>
+<l m='4'>Est-ce lui</l>
 </lg>
 <lg>
-<l indent="1">Cueillons la marjolaine</l>
-<l indent="3">La nuit</l>
+<l m='6'>Cueillons la marjolaine</l>
+<l m='2'>La nuit</l>
 </lg>
 </poem>
 </blockquote>
 
- <pagenum num="142"/>
- </page-sequence>
- <page-sequence recto="true" id="p20">
+<pagenum num="142"/>
+</page-sequence>
+<page-sequence recto="true" id="p20">
 <pagenum num="143"/>
 
 <p class="r3"><i>A René Berthier</i></p>
@@ -2409,7 +2411,7 @@
 <p>C’est six heures sur Saint-Pierre-de-la-Martinique, les masques se rendent en chantant dans les <pagenum num="169"/>bals décorés de grosses fleurs rouges de balisier. On entend chanter :</p>
 
 <blockquote>
-<poem>
+<poem m='5'>
 <l>Ça qui pas connaîte</l>
 <l>Bélo chabin ché,</l>
 <l>Ça qui pas connaîte</l>
@@ -2666,7 +2668,7 @@
 <p>« Et il s’élança derrière les masques qui, déjà, descendaient en chantant :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Notre bannière a trois couleurs :</l>
 <l>Le vert est celle d’espérance,</l>
 <l>Le blanc est pur comme nos cœurs,</l>
@@ -4028,20 +4030,20 @@
 <p>Le nouveau Lazare se secoua comme un chien mouillé et quitta le cimetière. C’était trois heures de l’après-midi et partout on collait les affiches relatives à la mobilisation.</p>
 
 <blockquote>
-<poem>
-<l class="c"><s>VOICI</s></l>
-<l class="c"><s>LE CE</s></l>
-<l class="c"><s>RCUEI</s></l>
-<l class="c"><s>L DAN</s></l>
-<l class="c"><s>S LEQ</s></l>
-<l class="c"><s>UEL I</s></l>
-<l class="c"><s>L GIS</s></l>
-<l class="c"><s>AIT P</s></l>
-<l class="c"><s>OURR</s></l>
-<l class="c"><s>ISSA</s></l>
-<l class="c"><s>NT E</s></l>
-<l class="c"><s>T P</s></l>
-<l class="c"><s>ALE</s></l>
+<poem m='c'>
+<l><s>VOICI</s></l>
+<l><s>LE CE</s></l>
+<l><s>RCUEI</s></l>
+<l><s>L DAN</s></l>
+<l><s>S LEQ</s></l>
+<l><s>UEL I</s></l>
+<l><s>L GIS</s></l>
+<l><s>AIT P</s></l>
+<l><s>OURR</s></l>
+<l><s>ISSA</s></l>
+<l><s>NT E</s></l>
+<l><s>T P</s></l>
+<l><s>ALE</s></l>
 </poem>
 </blockquote>
 

@@ -49,8 +49,7 @@
    
 <page-sequences>
 
-<page-sequence>
-<div id="p1">
+<page-sequence id="p1">
 <pagenum num="3"/>
 
 <h1>L’Orateur Populaire<noteref noteid="note.3.1"/></h1>
@@ -98,7 +97,7 @@
 <p><b>On devient orateur.</b> — On parle couramment de l’orateur-né et on entend par là, le plus communément, qu’on naît orateur et que, si on ne naît pas orateur, on ne le devient jamais. C’est une erreur : on devient orateur ; en parlant, comme on devient forgeron : en forgeant. Il est exact, comme le dit Boileau dans son <i>art poétique,</i> que, s’il ne possède pas certains dons, si son berceau n’a pas été entouré de certaines fées</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>« <i>C’est en vain qu’au Parnasse, un téméraire auteur,</i></l>
 <l>» <i>Pense de l’art des vers atteindre la hauteur.</i> »</l>
 </poem>
@@ -168,7 +167,6 @@
 
 <signature>S<s>ÉBASTIEN</s> FAURE.</signature>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

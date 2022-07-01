@@ -25,13 +25,13 @@
 
     <volume>
       <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k54534294"
-                 pages="n0"/>
+                 pages="n13 1-500"/>
     </volume>
     
     <electronique
         identificateur="http://efele.net/ebooks/livres/000130"
         creation="2011-04-14T00:00:00-08:00"
-        modification="2014-12-31T18:14:06-08:00">
+        modification="2022-06-30T17:17:39-07:00">
 
       <titre>Le Peuple de la Mer</titre>
 
@@ -53,9 +53,9 @@
 
   <page-sequences>
 
-    <page-sequence>
-      <div id="ch1">
+    <page-sequence id="ch1">
 <pagenum num="1"/>
+
 <h2><s>LA BARQUE</s></h2>
 
 <p>Neuf heures sonnaient au timbre fêlé de l’église quand Urbain Coët sortit de chez Goustan. Sur le seuil, que la lampe teinta de lumière rouge, le vieux Mathieu l’assura de nouveau en lui serrant la main :</p>
@@ -289,11 +289,9 @@
 <p>— Tu coucheras au chantier cette nuit ; demain ce sera mon tour. Des fois que l’feu viendrait à prendre...</p>
 
 <p>Perchais grogna de l’arrière-gorge et cracha. Les trois Goustan sortaient de chez eux, dans l’ordre hiérarchique : grand-père d’abord et puis <pagenum num="21"/>les deux fils. Alors la bande s’éloigna par le marais où étincelait la neige des tas de sel. On les vit longtemps faire de grands gestes et s’arrêter par instant pour discuter face à face. La barque sonnait à nouveau sous le clouage et le rabot sifflait contre ses flancs.</p>
-      </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="22"/>
 <vsep class="fewlines"/>
 
@@ -612,11 +610,9 @@
 <p>— Ça te tient dur, répondit Coët en riant ; not’ sloop est à l’eau, Léon couche à bord.</p>
 
 <p>Alors la fille s’enfonça rapidement dans la nuit en reprenant le chemin suivi par Urbain, les sentiers qui mènent au port de la ville.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="45"/>
 <vsep class="fewlines"/>
 
@@ -787,11 +783,9 @@
 <p>Ce fut l’époque où Coët teignit sa voilure en rouge avec son grand flèche carré qui éclata, comme un étendard, au sommet de la mâture. Perchais en sauta ainsi qu’un taureau, croyant au défi. Et la main sur le verre, on l’entendit jurer au <i>XX<sup>e</sup> Siècle :</i></p>
 
 <p>— Si je mange pas Coët aux régates, j’suis pas un homme !</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="66"/>
 <vsep class="fewlines"/>
 
@@ -810,7 +804,7 @@
 <p><i>Le Secours de ma vie</i> débordait avec la Gaude en sabots blancs et en jupons courts, la poitrine magnifique dans le corsage écarlate. Chargé d’hommes recrutés pour la manœuvre, le <i>Laissez-les dire</i> sortit sous la main de Perchais. Puis, ce fut <i>l’Aimable Clara</i> où Double Nerf exhibait ses glorieux biceps, parmi l’équipage qui chantait en vidant bouteilles :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l>Il faut les voir tous ces jolis garçons,</l>
 <l>Quand ils s’en vont tout habillés de blanc !</l>
 <l>Il faut les voir tous ces jolis garçons,</l>
@@ -1045,7 +1039,7 @@
 <p>Les matelots gagnaient la ville, par bande, bras dessus, bras dessous avec les filles, en redisant les chansons du service :</p>
 
 <blockquote>
-<poem>
+<poem m='c'>
 <l>C’est le dimanche après dîner</l>
 <l>Que ces brav’matelots s’en vont s’y promener !...</l>
 </poem>
@@ -1054,12 +1048,12 @@
 <p>Les rangs ondulaient comme un ruban, s’élargissaient, se resserraient, avançaient toujours, en flottant au rythme des chœurs où braillaient des femmes :</p>
 
 <blockquote>
-<poem>
+<poem m='10'>
 <l>Il faut les voir tous ces jolis garçons</l>
 <l>Quand ils s’en vont tout habillés de blanc !</l>
 <l>Si par malheur l’un d’eux fait une tache</l>
 <l>L’autre lui dit : cochon faut que tu te décrasses !</l>
-<l>Avec de l’eau et du savon,</l>
+<l m='8'>Avec de l’eau et du savon,</l>
 <l>Ou bien tu n’auras pas du vin dans ton bidon !</l>
 </poem>
 </blockquote> 
@@ -1073,10 +1067,10 @@
 <p>Louise Piron passa au bras de Léon Coët, affichant crânement son homme. Elle avait dérobé des conserves, et lui portait une miche sous le bras. Ils mangèrent au carrefour, sous le profil sec de la croix qui tranchait le crépuscule. La route s’allongeait bleuâtre, vers la ville féodale sur l’horizon avec les pointes des tourelles et du clocher, le cube du château. Des voix traînaient encore par les champs :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>... Si tu n’as pas d’savon,</l>
-<l>Fous-y de la potasse !</l>
-<l>Allons, va te laver garçon,</l>
+<l m='6'>Fous-y de la potasse !</l>
+<l m='6'>Allons, va te laver garçon,</l>
 <l>Ou bien tu n’auras pas du vin dans ton bidon !</l>
 </poem>
 </blockquote>
@@ -1094,18 +1088,16 @@
 <p>Par derrière, le grand Bourrache fredonnait en chambranlant :</p>
 
 <blockquote>
-<poem>
+<poem m='c'>
 <l>Allons, va te laver, cochon,</l>
 <l>Ou bien tu n’auras pas du vin dans ton bidon...</l>
 </poem>
 </blockquote>
 
 <p>A perte de vue, au ras du marais, les étoiles fourmillaient imperceptiblement.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="90"/>
 <vsep class="fewlines"/>
 
@@ -1320,12 +1312,11 @@
 <p>— La garce ! la garce ! et descendit au port avec François Goustan.</p>
 
 <p>Devant l’auberge à Zacharie ils croisèrent des hommes qui portaient le corps de Coët et celui de la Marie-Jeanne, toujours évanouie. Déjà des barques s’éloignaient en tanguant sur la mer vert bouteille, lamée d’argent. Le père Piron hocha la tête et entra au <i>XX<sup>e</sup> Siècle</i>, boire la goutte pour se remettre.</p>
-    </div>
-    </page-sequence>
 
-    <page-sequence>
-    <div id="ch2">
+    </page-sequence>
+    <page-sequence id="ch2">
 <pagenum num="105"/>
+
 <h2>II</h2>
 <h2><s>LA FEMME</s></h2>
 
@@ -1516,11 +1507,9 @@
 <p>Fâchée d’être dérangée, elle se tourna vers Piron, lui sourit et descendit vite sur la fonte sonore.</p>
 
 <p>Jean-Baptiste ouvrit une porte et sortit sur la galerie extérieure, en plein vent, en plein froid, parce que les tempes lui battaient et que son front ruisselait. La lourde nuit d’hiver pesait déjà sur l’est. Sémelin passait dans l’escalier, silencieusement, une lampe dans les mains.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="122"/>
 <vsep class="fewlines"/>
 
@@ -1717,11 +1706,9 @@
 <p>Un matin le <i>Martroger</i> accosta la jetée du Pilier. Les hommes débarquèrent les approvisionnements, le charbon, le pétrole. Il ventait sec par-dessus l’île et des nuages tassés roulaient bas, crevant parfois en giboulées. Jean-Baptiste descendit du phare un sac sur le dos.</p>
 <pagenum num="137"/>
 <p>C’était son tour de congé. Il allait passer dix jours à terre. Le petit sloop l’emmena sur la mer cahoteuse. Dans l’enceinte du sémaphore, la Gaude lavait son linge, les bras nus dans la mousse ; elle ne s’était pas dérangée. Gaud suivit la barque à perte de vue, rentra chez lui, tira du buffet un flacon d’alcool et en avala deux grandes lampées en signe de joie.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="138"/>
 <vsep class="fewlines"/>
 
@@ -1952,11 +1939,9 @@
 <p>De la jetée, Jean-Baptiste assistait au prodige sans l’admirer. Les gens de mer ne s’émerveillent point des aspects du temps ; ils les jugent. Sans doute, ils sentent confusément leur nature, puisqu’ils l’ont mise dans des airs et des couplets. Mais le sentiment de leurs chansons est surtout la résignation des vaincus, et quand ils regardent l’Ennemie, c’est pour la pénétrer au travers de sa face.</p>
 
 <p>Et Jean-Baptiste se réjouissait parce qu’il voyait du vent dans le couchant écarlate.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="156"/>
 <vsep class="fewlines"/>
 
@@ -2067,11 +2052,9 @@
 <p>Les deux hommes se toisèrent un instant et Gaud mâcha dans sa moustache :</p>
 
 <p>— P’ tête ben.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="166"/>
 <vsep class="fewlines"/>
 
@@ -2164,11 +2147,11 @@
 <pagenum num="174"/>
 
 <blockquote>
-<poem>
-<l>Sont partis deux matelots,</l>
-<l>Pour l’amour d’une belle,</l>
-<l>Avec leur pipe et leurs sabots</l>
-<l>Dessus les flots.</l>
+<poem m='12'>
+<l m='8'>Sont partis deux matelots,</l>
+<l m='8'>Pour l’amour d’une belle,</l>
+<l m='8'>Avec leur pipe et leurs sabots</l>
+<l m='4'>Dessus les flots.</l>
 <l>Pour l’amour d’une belle, gai matelot !</l>
 <l>Pour l’amour d’une belle s’en va sur les flots !</l>
 </poem>
@@ -2177,20 +2160,20 @@
 <p>Sa voix vendéenne, où les syllabes sonnent, dominait la mer. Il chantait comme un perdu dans une écharpe de soleil.</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
-<l>Elle avait dit au premier :</l>
-<l>Pour l’amour d’une belle,</l>
-<l>Reviens maître timonier,</l>
-<l>Ou bien gabier.</l>
+<l m='8'>Elle avait dit au premier :</l>
+<l m='8'>Pour l’amour d’une belle,</l>
+<l m='8'>Reviens maître timonier,</l>
+<l m='4'>Ou bien gabier.</l>
 <l>Pour l’amour d’une belle, gai matelot !</l>
 <l>Pour l’amour d’une belle s’en va sur les flots !</l>
 </lg>
 <lg>
-<l>Elle avait dit au second :</l>
-<l>Pour l’amour d’une belle,</l>
-<l>Reviens maître à deux galons</l>
-<l>Ou bien patron. </l>
+<l m='8'>Elle avait dit au second :</l>
+<l m='8'>Pour l’amour d’une belle,</l>
+<l m='8'>Reviens maître à deux galons</l>
+<l m='4'>Ou bien patron. </l>
 </lg>
 </poem>
 </blockquote>
@@ -2198,7 +2181,7 @@
 <p>A ce moment, un vol de mouettes blanches tournoya sur l’îlot jonché de cadavres, en cisaillant le refrain de leurs piailleries.</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Pour l’amour d’une belle, gai matelot !</l>
 <l>Pour l’amour d’une belle s’en va sur les flots !</l>
 </poem>
@@ -2207,11 +2190,11 @@
 <p>Mais derrière lui une voix presque mâle, la voix <pagenum num="175"/>des femmes qui chantent avec leur gorge magnifique, reprit :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>L’premier partit-z-au Congo,</l>
 <l>Pour l’amour d’une belle,</l>
 <l>Mais dans un grain tombe à l’eau,</l>
-<l>Adieu l’bateau !</l>
+<l m='4'>Adieu l’bateau !</l>
 </poem>
 </blockquote>
 
@@ -2246,41 +2229,38 @@
 <p>Sur la falaise, elle chargea son tablier d’oiseaux et s’éloigna, tandis que Jean-Baptiste relançait à toute gorge, d’une voix qui portait mieux dans le calme : </p>
 <pagenum num="177"/>
 <blockquote>
-<poem>
+<poem m='12'>
 <lg>
-<l>Carguah l’hunier d’artimon, </l>
-<l>Pour l’amour d’une belle,</l>
-<l>Quand a ché dessus le pont,</l>
-<l>Défunt l’second !</l>
+<l m='8'>Carguait l’hunier d’artimon, </l>
+<l m='8'>Pour l’amour d’une belle,</l>
+<l m='8'>Quand a ché dessus le pont,</l>
+<l m='4'>Défunt l’second !</l>
 <l>Pour l’amour d’une belle, gai matelot !</l>
 <l>Pour l’amour d’une belle s’en va sur les flots !</l>
 </lg>
 
 <lg>
-<l>Fut envoyé leur magot</l>
-<l>Pour l’amour d’une belle,</l>
-<l>Avec leur pipe et leurs sabots,</l>
-<l>A la margot.</l>
+<l m='8'>Fut envoyé leur magot</l>
+<l m='8'>Pour l’amour d’une belle,</l>
+<l m='8'>Avec leur pipe et leurs sabots,</l>
+<l m='4'>A la margot.</l>
 <l>Pour l’amour d’une belle, gai matelot !</l>
 <l>Pour l’amour d’une belle s’en va sur les flots !</l>
 </lg>
 
 <lg>
-<l>Lors prit son beau tablier,</l>
-<l>Pour l’amour d’une belle,</l>
-<l>Et dret s’en alla marier</l>
-<l>Quant et l’meunier.</l>
+<l m='8'>Lors prit son beau tablier,</l>
+<l m='8'>Pour l’amour d’une belle,</l>
+<l m='8'>Et dret s’en alla marier</l>
+<l m='4'>Quant et l’meunier.</l>
 <l>Pour l’amour d’une belle, gai matelot !</l>
 <l>Pour l’amour d’une belle s’en va sur les flots !</l>
 </lg>
 </poem>
 </blockquote>
 
-    </div>
     </page-sequence>
-
     <page-sequence>
-    <div>
 <pagenum num="178"/>
 <vsep class="fewlines"/>
 
@@ -2362,12 +2342,11 @@
 
 <p>Et il monte jusqu’à la lanterne, envoyer le pavillon pour demander la chaloupe.</p>
 <pagenum num="186"/>
-    </div>
-    </page-sequence>
 
-    <page-sequence>
-    <div id="ch3">
+    </page-sequence>
+    <page-sequence id="ch3">
 <pagenum num="187"/>
+
 <h2>III</h2>
 <h2><s>LA MER</s></h2>
 
@@ -2510,11 +2489,9 @@
 <p>— Tu verras, tu verras, j’ t’ en f’rai, moi, des beaux joujoux !</p>
 
 <p>Bernard ignorait à coup sûr quels joujoux il ferait. Il oubliait même qu’il ne savait point autre chose que construire des bateaux, mais il était bien convaincu de trouver des jouets nouveaux pour détourner P’tit Pierre de la mer. Et il remonta, en tenant par la main son fils qui marchait gravement pieds nus à côté de lui.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="197"/>
 <vsep class="fewlines"/>
 
@@ -2633,11 +2610,9 @@
 <p>— P’tit malheureux ! tu veux tromper tes parents !</p>
 
 <p>P’tit Pierre réfléchit, bouda, impénétrable. Bernard put le croire soumis les jours suivants. Mais quand il pouvait, au sortir de l’école, il courait à Luzéronde pour patouiller avec les mousses des sardiniers ancrés dans l’anse, ou bien il allait voir Tonnerre, les jours où la folie de la mer possédait le vieux baigneur.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="207"/>
 <vsep class="fewlines"/>
 
@@ -2738,11 +2713,9 @@
 <p>— Tu l’entends, disait-il.</p>
 
 <p>Et Tonnerre comprenait, se levait et marchait vers <i>Elle</i>, accompagné par le gamin dont le cœur bondissait de joie héroïque dans la poitrine.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="214"/>
 <vsep class="fewlines"/>
 
@@ -2856,10 +2829,10 @@
 <pagenum num="226"/>
 
 <blockquote>
-<poem>
-<l>Et riquiqui</l>
+<poem m='5'>
+<l m='4'>Et riquiqui</l>
 <l>Nous voilà partis ;</l>
-<l>Si les Vents sent bons,</l>
+<l>Si les vents sont bons,</l>
 <l>Demain nous partons !</l>
 </poem>
 </blockquote>
@@ -2875,8 +2848,8 @@
 <p>Il écouta avec effort. Des voix écorchées mâchaient sa chanson :</p>
 
 <blockquote>
-<poem>
-<l>Et riquiqui</l>
+<poem m='5'>
+<l m='4'>Et riquiqui</l>
 <l>Nous voilà partis ;</l>
 <l>Si les vents sont bons,</l>
 <l>Demain nous partons !</l>
@@ -2914,11 +2887,9 @@
 <p>Mais de la chaloupe, P’tit Pierre leur criait obstinément :</p>
 
 <p>— C’était beau ! c’était beau ! il n’y avait que des marins, que des bateaux, et des grands, grands, qu’auraient pas tenu dans le port !...</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="230"/>
 <vsep class="fewlines"/>
 
@@ -3187,11 +3158,9 @@
 <p>— Il se paraît !</p>
 
 <p>Les femmes sont tristes et pensent aux hommes partis en mer. Et quand, vers le soir, la Bernard monte à l’église, toutes viennent au pas des portes, contempler la face d’une mère qui a perdu son gars, et quelques-unes, celles qui ont déjà des morts, la suivent discrètement pour prier Dieu près d’elle.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="247"/>
 <vsep class="fewlines"/>
 
@@ -3270,11 +3239,9 @@
 <p>P’tit Pierre soupira. Et il regarda la mer douce par-dessus la jetée où séchaient les filets bleus, l’horizon fuyant des soirs de beau temps, les molles vaguettes qui chantaient sur le sable, les barques pensives, hochant à peine du mât, et le grand ciel blanc où le soleil glissait en s’élargissant.</p>
 
 <p>Derrière lui, le tumulte de l’auberge croissait avec le crépuscule. Alors il se détourna brusquement et s’en fut boire aussi, à la table où Crozon trinquait avec le boiteux pour sceller l’engagement.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="255"/>
 <vsep class="fewlines"/>
 
@@ -3379,11 +3346,9 @@
 <p>— Elle est gentille, ça te f’ra une bonne femme !</p>
 
 <p>Il pensa qu’elle avait raison, de toute la force de son désir.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="265"/>
 <vsep class="fewlines"/>
 
@@ -3442,7 +3407,7 @@
 <p>Ceux qui ne fumaient pas se poussaient des boulettes de scaferlati dans la bouche ; les autres se donnaient du feu, nez à nez, en tirant sur les mégots humides. Et bientôt les chansons commencèrent au branle des sabots qui battaient le sol :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Nous étions deux, nous étions trois,</l>
 <l>Nous étions deux, nous étions trois,</l>
 <l>Nous étions trois mat’lots de Groix...</l>
@@ -3452,7 +3417,7 @@
 <p>Bernard s’esquiva avec son gars. Un peu nerveux, P’tit Pierre se détourna plusieurs fois vers l’auberge. Il regrettait l’absence de Cul-Cassé et il chercha la voile grise du père Crozon sur la mer tranquille, parmi les roches des Sécé. Derrière lui les refrains roulaient, dolents, et rudes :</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>Nous étions trois mat’lots de Groix</l>
 <l>Nous étions trois mat’lots de Groix,</l>
 <l>Embarqués sur le Saint-François...</l>
@@ -3618,11 +3583,9 @@
 <p>La bonne femme rit beaucoup et colporta l’affaire :</p>
 
 <p>— Hein ! s’il est économe le gars pour entrer en ménage !</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="280"/>
 <vsep class="fewlines"/>
 
@@ -3823,11 +3786,9 @@
 <p>— Sois tranquille, fit Bernard, il le ramènera...</p>
 
 <p>La barque s’engagea dans le chenal de terre, entre les roches du Martroger. P’tit Pierre établit la trinquette, étarqua la grand’voile avec le matelot et para le flèche. La mer s’étalait comme un tapis, transparente. Des mouettes planaient, puis se laissaient tomber à l’eau, comme des balles pour pêcher. Au bout de la jetée, Cécile agitait son mouchoir sans discontinuer.</p>
-    </div>
-    </page-sequence>
 
+    </page-sequence>
     <page-sequence>
-    <div>
 <pagenum num="291"/>
 
 <vsep class="fewlines"/>
@@ -3909,12 +3870,10 @@
 <date>Mai 1910 — Octobre 1911.</date>
 
 <pagenum num="298"/>
-    </div>
     </page-sequence>
-
-    <page-sequence>
-    <div id="table">
+    <page-sequence id="table">
 <pagenum num="299"/>
+
 <h2>TABLE DES MATIERES</h2>
 
 <p><a idref="ch1">I. — La barque</a></p>
@@ -3922,7 +3881,7 @@
 <p><a idref="ch2">II. — La femme</a></p>
 
 <p><a idref="ch3">III. — La mer</a></p>
-    </div>
+
     </page-sequence>
   </page-sequences>
 </bml>

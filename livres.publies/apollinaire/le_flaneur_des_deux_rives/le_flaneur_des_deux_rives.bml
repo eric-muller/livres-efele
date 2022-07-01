@@ -30,7 +30,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000337"
         creation="2013-11-10T00:00:00-08:00"
-        modification="2014-12-31T18:13:13-08:00">
+        modification="2022-05-13T08:19:39-07:00">
       
       <titre>Le flâneur des deux rives</titre>
 
@@ -55,21 +55,18 @@
     <tocentry idref="table" label="Table"/>
   </toc>
   
-  <cover src="images/couverture.png" alt="Guillaume Apollinaire. Le flâneur des deux rives. Avec une Photographie de l’Auteur. ÉDITIONS de la SIRÈNE. 12bis, Rue La boëtie. - PARIS. MCMXVIII. COLLECTION des TRACTS. - No 2"/>
+<cover src="images/couverture.png" alt="Guillaume Apollinaire. Le flâneur des deux rives. Avec une Photographie de l’Auteur. ÉDITIONS de la SIRÈNE. 12bis, Rue La boëtie. - PARIS. MCMXVIII. COLLECTION des TRACTS. - No 2"/>
 
- <page-sequences>
+<page-sequences>
 
- <page-sequence>
- <div id="p1">
- <pagenum num="3"/>
+<page-sequence id="p1">
+<pagenum num="3"/>
 
- <img class="fullpageimage" src="images/apollinaire.png" alt="Apollinaire"/>
+<img class="fullpageimage" src="images/apollinaire.png" alt="Apollinaire"/>
 
 <pagenum num="4"/>
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p01">
+</page-sequence>
+<page-sequence id="p01">
 <pagenum num="5"/>
 
 <h2>SOUVENIR D’AUTEUIL</h2>
@@ -188,11 +185,9 @@
 
 <p>Mais le coin le plus mélancolique d’Auteuil se trouve entre le Port-Louis et l’avenue de Versailles. Théophile Gautier habita au rond-point de Boulainvilliers, mais sans doute n’y avait-il pas alors à cet endroit tant de ferraille qu’aujourd’hui et le Port-Louis n’existait point avec sa flottille de bélandres bariolées de couleurs vives. Sur le pont sont rangés des pots de géraniums, de fuchsias ; dans des caisses poussent des arbres verts autour d’un petit cercueil d’enfant. Et quand le soleil brille, le petit cercueil des bélandres n’est pas du tout lugubre.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p02">
- <pagenum num="21"/>
+</page-sequence>
+<page-sequence id="p02">
+<pagenum num="21"/>
 
 <h2>LA LIBRAIRIE DE M. LEHEC</h2>
 
@@ -350,11 +345,9 @@
 
 <p>La librairie existe toujours, son aspect n’a pas changé, elle est tenue maintenant par un autre libraire qui connaît bien son métier, mais n’a pas pour les livres ce respect superstitieux que leur marquait M. Lehec.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p03">
- <pagenum num="39"/>
+</page-sequence>
+<page-sequence id="p03">
+<pagenum num="39"/>
 
 <h2>1, RUE BOURBON-LE-CHATEAU</h2>
 
@@ -367,7 +360,7 @@
 <p>Au commencement de son poème <pagenum num="40"/>M. Fernand Fleuret a chanté la vieille maison de la rue Bourbon-le-Château :</p>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Si tu translates, voire, un Boëce chanci</l>
 <l>Dans ta sombre maison du carrefour Buci</l>
 <l>Que peuplent des bouquins et des pots de la Chine...</l>
@@ -426,11 +419,9 @@
 
 <p>Le lendemain, je ne revis plus Larguier. Il était parti pour un camp d’instruction d’où il alla sur le front comme caporal brancardier. Nous fûmes près l’un de l’autre à la bataille de Champagne, mais nous ne pûmes nous joindre. Il y fut blessé et nous ne nous rencontrâmes que durant une de ses permissions, justement devant le n<sup>o</sup> 1 de la rue Bourbon-le-Château, cette « sombre maison » chantée par M. Fernand Fleuret.</p>
 
- <pagenum num="48"/>
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p04">
+<pagenum num="48"/>
+</page-sequence>
+<page-sequence id="p04">
 <pagenum num="49"/>
 
 <h2>LES NOELS DE LA RUE DE BUCI</h2>
@@ -587,11 +578,9 @@
 
 <p>On peut avoir cent impressions différentes de la vieille rue de Buci. Je les donne toutes pour celles que j’y ai éprouvées en entendant chanter ces Noëls, une nuit de réveillon, peu d’années avant la guerre.</p>
 
- <pagenum num="58"/>
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p05">
+<pagenum num="58"/>
+</page-sequence>
+<page-sequence id="p05">
 <pagenum num="59"/>
 
 <h2>DU « NAPO » A LA CHAMBRE D’ERNEST LA JEUNESSE</h2>
@@ -696,11 +685,9 @@
 
 <p>Le style d’Ernest La Jeunesse qui <correction original="apparnait">appartenait</correction> à l’école de Jean de Tinan est <pagenum num="73" b="néo-" a="logique,">néologique,</pagenum> c’est son défaut ; mais il est ému, c’est sa qualité. Mais cette qualité suffira-t-elle à garder certaines de ses pages de l’oubli ? On peut en douter et penser que, si l’on doit se souvenir de lui, c’est surtout parce qu’il fut le dernier boulevardier.</p>
 
- <pagenum num="74"/>
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p06">
+<pagenum num="74"/>
+</page-sequence>
+<page-sequence id="p06">
 <pagenum num="75"/>
 
 <h2>LES QUAIS ET LES BIBLIOTHÈQUES</h2>
@@ -867,11 +854,9 @@
 
 <p>N’est-ce point la plus délicieuse promenade qui se puisse faire à Paris ? Ce n’est pas trop, lorsqu’on a le temps, de consacrer un après-midi à aller de la gare d’Orsay au pont Saint-Michel. Et sans doute n’est-il pas de plus belle promenade au monde, ni de plus agréable.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p07">
- <pagenum num="87"/>
+</page-sequence>
+<page-sequence id="p07">
+<pagenum num="87"/>
 
 <h2>LE COUVENT DE LA RUE DE DOUAI</h2>
 
@@ -913,11 +898,9 @@
 
 <p>Pendant la guerre il fut le plus spirituel des collaborateurs du <i>Bulletin des Armées de la République.</i> Il mourut dans le courant de 1918, tandis que les Berthas et les Gothas menaient sinistre bruit.</p>
 
- <pagenum num="94"/>
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p08">
+<pagenum num="94"/>
+</page-sequence>
+<page-sequence id="p08">
 <pagenum num="95"/>
 
 <h2>LE BOUILLON MICHEL PONS</h2>
@@ -956,7 +939,7 @@
 
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>A la Fontaine de Nîmes</l>
 <l>Il y a un savetier</l>
 <l>Qui tout le jour chante</l>
@@ -970,11 +953,9 @@
 
 <p>Depuis la guerre j’ai été dire bonjour à l’ami de M. Maurice Barrès. M. Michel Pons a un peu vieilli, mais il aime toujours la poésie et la bonne cuisine bourgeoise. Son restaurant fait de bonnes affaires et l’on y voit parfois encore parmi les midinettes, des poètes et des journalistes.</p>
 
- <pagenum num="100"/>
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p09">
+<pagenum num="100"/>
+</page-sequence>
+<page-sequence id="p09">
 <pagenum num="101"/>
 
 <h2>UN MUSÉE NAPOLÉONIEN INCONNU</h2>
@@ -998,7 +979,7 @@
 <pagenum num="103"/>
 
 <blockquote>
-<poem>
+<poem m='12'>
 <l>Quel café fréquent <i>(sic)</i> les spéculateurs ?</l>
 <l>Quel café fréquent les gens propres ?</l>
 <l>Quel café fréquent les horlogers ?</l>
@@ -1010,14 +991,12 @@
 <p>Voici une épigramme :</p>
 
 <blockquote>
-
-<poem>
+<poem m='12'>
 <l>Monsieur Binet n’a pas, bien que dans l’opulence,</l>
 <l>Le confort, le bien-être aujourd’hui si goûtés.</l>
 <l>Quant à moi, si j’avais ce qu’a Binet d’aisance</l>
 <l>J’aurais certainement plus de commodités.</l>
 </poem>
-
 </blockquote>
 
 <p>Je ne crois pas que l’enfant de dix ans en fût l’auteur. De toute façon elle donnait au <i>Journal du Musée</i> un caractère gaulois qui tranchait nettement sur la pruderie contemporaine. La dernière colonne est occupée par les <i>Réponses aux questions contenues dans le numéro précédent</i>, qui sont suivies par la <i>Réponse au Rébus :</i> « Aide-toi le ciel t’aidera. » Trois personnes seulement ont deviné ce rébus : MM. Grund, Henri Guérard et Mattei.</p>
@@ -1033,11 +1012,9 @@
 <p>Une petite fille, qui est aujourd’hui presque une jeune fille, s’était associée, lorsqu’elle avait dix ans, avec un petit garçon de sept ans dans le but de publier un journal. Elle recueillit des abonnements pour la somme de trente francs, sur lesquels elle donna cinq francs au petit garçon et avec le reste s’acheta du <pagenum num="105" b="choco-" a="lat.">chocolat.</pagenum> Car ce qui lui paraissait la réussite anticipée de ses espérances avait donné une entière satisfaction à son besoin d’activité ; c’est ainsi qu’un succès prématuré est presque toujours une cause de décadence pour un poète, un artiste quel qu’il soit.</p>
 
 <pagenum num="106"/>
- </div>
- </page-sequence>
- <page-sequence>
- <div id="p10">
- <pagenum num="107"/>
+</page-sequence>
+<page-sequence id="p10">
+<pagenum num="107"/>
 
 <h2>LA CAVE DE M. VOLLARD</h2>
 
@@ -1102,11 +1079,9 @@
 
 <p>Nombre des anciens convives regretteront ce coin pittoresque de Paris, la voûte blanche de cette cave où, près des boulevards, on goûtait une grande quiétude et sans aucun tableau aux murs.</p>
 
- </div>
- </page-sequence>
- <page-sequence>
- <div id="table">
- <pagenum num="114"/>
+</page-sequence>
+<page-sequence id="table">
+<pagenum num="114"/>
 
 <h2>TABLE</h2>
 
@@ -1123,7 +1098,6 @@
 <p><a idref="p09">Un musée napoléonien inconnu</a></p>
 <p><a idref="p10">La cave de M. Vollard</a></p>
 
- </div>
- </page-sequence>
- </page-sequences>
+</page-sequence>
+</page-sequences>
 </bml>
