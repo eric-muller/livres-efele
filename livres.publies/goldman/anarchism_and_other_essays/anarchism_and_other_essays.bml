@@ -30,7 +30,7 @@
     <electronique
         identificateur="http://efele.net/ebooks/livres/000196"
         creation="2012-06-03T00:00:00-08:00"
-        modification="2014-12-31T18:14:08-08:00">
+        modification="2022-07-02T06:59:11-07:00">
       
       <titre>Anarchism and other Essays</titre>
       
@@ -63,18 +63,12 @@
     <cover src="images/couverture.png" alt="Anarchism and other essays. By Emma Goldman. With biographic sketch by Hippolyte Havel. Third revised edition. Mother Earth Publishing Association. 201 East 13th Street. New York. 1917."/>
 
 <page-sequences>
-
-<page-sequence>
-<div id="portrait">
+<page-sequence recto='true' id="portrait">
 
  <img src="images/goldman.png" class="fullpageimage" alt="Photography of Emma Goldman."/>
 
-</div>
 </page-sequence>
-
-
-<page-sequence>
-<div id="content">
+<page-sequence recto='true' id="content">
 <pagenum num="3"/>
 
 <h2><b>CONTENT</b></h2>
@@ -134,12 +128,8 @@
 <p class="sommaire"><a idref="p14">T<s>HE</s> D<s>RAMA</s>: <s>A POWERFUL DISSEMINATOR OF RADICAL THOUGHT</s></a></p>
 
  <pagenum num="4"/>
-
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p1">
-
+<page-sequence recto='true' id="p1">
  <pagenum num="5"/>
 
 <h2><b>EMMA GOLDMAN</b></h2>
@@ -350,19 +340,15 @@
 
 <p>New York, December, 1910</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div>
+<page-sequence recto='true'>
  <pagenum num="45"/>
 
 <h2><b>ANARCHISM AND OTHER ESSAYS</b></h2>
 
  <pagenum num="46"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p2">
+<page-sequence recto='true' id="p2">
  <pagenum num="47"/>
 
 <h2><b>PREFACE</b></h2>
@@ -394,38 +380,36 @@
 <p>For the rest, my book must speak for itself.</p>
 
  <pagenum num="52"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p3">
+<page-sequence recto='true' id="p3">
  <pagenum num="53"/>
 
 <h2><b>ANARCHISM</b></h2>
 <h2><b><s>WHAT IT REALLY STANDS FOR</s></b></h2>
 
-
 <blockquote>
 
 <h2>ANARCHY.</h2>
 
-<poem>
+<poem m='12'>
 <l>Ever reviled, accursed, ne’er understood,</l>
-<l indent="1">Thou art the grisly terror of our age.</l>
+<l m='10'>Thou art the grisly terror of our age.</l>
 <l>“Wreck of all order,” cry the multitude,</l>
-<l indent="1">“Art thou, and war and murder’s endless rage.”</l>
+<l m='10'>“Art thou, and war and murder’s endless rage.”</l>
 <l>O, let them cry. To them that ne’er have striven</l>
-<l indent="1">The truth that lies behind a word to find,</l>
+<l m='10'>The truth that lies behind a word to find,</l>
 <l>To them the word’s right meaning was not given.</l>
-<l indent="1">They shall continue blind among the blind.</l>
+<l m='10'>They shall continue blind among the blind.</l>
 <l>But thou, O word, so clear, so strong, so pure,</l>
-<l indent="1">Thou sayest all which I for goal have taken.</l>
+<l m='10'>Thou sayest all which I for goal have taken.</l>
 <l>I give thee to the future! Thine secure</l>
-<l indent="1">When each at least unto himself shall waken.</l>
+<l m='10'>When each at least unto himself shall waken.</l>
 <l>Comes it in sunshine? In the tempest’s thrill?</l>
-<l indent="1">I cannot tell—but it the earth shall see!</l>
+<l m='10'>I cannot tell—but it the earth shall see!</l>
 <l>I am an Anarchist! Wherefore I will</l>
-<l indent="1">Not rule, and also ruled I will not be!</l>
+<l m='10'>Not rule, and also ruled I will not be!</l>
 </poem>
+
 <p class="r3">J<s>OHN</s> H<s>ENRY</s> M<s>ACKAY</s>.</p>
 </blockquote>
 
@@ -549,10 +533,8 @@
 
 
  <pagenum num="74"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p4">
+<page-sequence recto='true' id="p4">
  <pagenum num="75"/>
 
 <h2><b>MINORITIES VERSUS MAJORITIES</b></h2>
@@ -611,10 +593,8 @@
 
 <p>In other words, the living, vital truth of social and economic well-being will become a reality only through the zeal, courage, the non-compromising determination of intelligent minorities, and not through the mass.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p5">
+<page-sequence recto='true' id="p5">
  <pagenum num="85"/>
 
 <h2><b>THE PSYCHOLOGY OF POLITICAL VIOLENCE</b></h2>
@@ -694,7 +674,7 @@
 <p>In vain did a lying press repudiate Leon Czolgosz as a foreigner. The boy was a product of our own free American soil, that lulled him to sleep with,</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>My country, ’tis of thee,</l>
 <l>Sweet land of liberty.</l>
 </poem>
@@ -840,10 +820,8 @@
 
 <p>Such is the psychology of political violence.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p6">
+<page-sequence recto='true' id="p6">
  <pagenum num="115"/>
 
 <h2><b>PRISONS</b></h2>
@@ -882,13 +860,13 @@
 <p>After eighteen months of horror in an English prison, Oscar Wilde gave to the world his great masterpiece, <i>The Ballad of Reading Goal:</i></p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>The vilest deeds, like poison weeds,</l>
-<l indent="1">Bloom well in prison air;</l>
+<l m='6'>Bloom well in prison air;</l>
 <l>It is only what is good in Man</l>
-<l indent="1">That wastes and withers there.</l>
+<l m='6'>That wastes and withers there.</l>
 <l>Pale Anguish keeps the heavy gate,</l>
-<l indent="1">And the Warder is Despair,</l>
+<l m='6'>And the Warder is Despair,</l>
 </poem>
 </blockquote>
 
@@ -1019,7 +997,7 @@
 <p>Last, but not least, is the growing realization of the barbarity and the inadequacy of the definite sentence. Those who believe in, and earnestly aim at, a change are fast coming to the conclusion that man must be given an opportunity to make good. And how is he to do it with ten, fifteen, or twenty years’ imprisonment before him? The hope of liberty and of opportunity is the only incentive to life, especially the prisoner’s life. Society has sinned so long against <pagenum num="132"/>him—it ought at least to leave him that. I am not very sanguine that it will, or that any real change in that direction can take place until the conditions that breed both the prisoner and the jailer will be forever abolished.</p>
 
 <blockquote>
-<poem>
+<poem m='6'>
 <l>Out of his mouth a red, red rose!</l>
 <l>Out of his heart a white!</l>
 <l>For who can say by what strange way</l>
@@ -1029,10 +1007,8 @@
 </poem>
 </blockquote>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p7">
+<page-sequence recto='true' id="p7">
  <pagenum num="133"/>
 
 <h2><b>PATRIOTISM</b></h2>
@@ -1134,10 +1110,8 @@
 
 <p>It is precisely this that the authorities fear most. It is already high treason for a soldier to attend a radical meeting. No doubt they will also stamp it high treason for a soldier to read a radical pamphlet. But, then, has not authority from time immemorial stamped every step of progress as treasonable? Those, however, who earnestly strive for social reconstruction can well afford to face all that; for it is probably even more important to carry the truth into the barracks than into the factory. When we have undermined the patriotic lie, we shall have cleared the path for that great structure wherein all nationalities shall be united into a universal brotherhood,—a truly <s>FREE SOCIETY</s>.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p8">
+<page-sequence recto='true' id="p8">
  <pagenum num="151"/>
 
 <h2><b>FRANCISCO FERRER AND THE MODERN SCHOOL</b></h2>
@@ -1328,17 +1302,14 @@
 <p>That death at Montjuich,—how wonderful, how dramatic it was, how it stirs the human soul. Proud and erect, the inner eye turned toward the light, Francisco Ferrer needed no lying priests to give him courage, nor did he upbraid a phantom for forsaking him. The consciousness that his executioners represented a dying age, and that his was the living truth, sustained him in the last heroic moments.</p>
 
 <blockquote>
-<poem>
+<poem m='8'>
 <l>A dying age and a living truth,</l>
 <l>The living burying the dead.</l>
 </poem>
 </blockquote>
 
-
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p9">
+<page-sequence recto='true' id="p9">
  <pagenum num="173"/>
 
 <h2><b>THE HYPOCRISY OF PURITANISM</b></h2>
@@ -1385,10 +1356,8 @@
 
 <p>Every stimulus which quickens the imagination and raises the spirits, is as necessary to our life as air. It invigorates the body, and deepens our vision of human fellowship. Without stimuli, in one form or another, creative work is impossible, nor indeed the spirit of kindliness and generosity. The fact that some great geniuses have seen their reflection in the goblet too frequently, does not justify Puritanism in attempting to fetter the whole gamut of human emotions. A Byron and a Poe have stirred humanity deeper than all the Puritans can ever hope to do. The former have given to life meaning and color; the latter are turning red blood into water, beauty into ugliness, variety into uniformity and decay. Puritanism, in whatever expression, is a poisonous germ. On the surface everything may look strong and vigorous; yet the poison works its way persistently, until the entire fabric is doomed. With Hippolyte Taine, every truly free spirit has come to realize that “Puritanism is the death of culture, philosophy, humor, and good fellowship; its characteristics are dullness, monotony, and gloom.”</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p10">
+<page-sequence recto='true' id="p10">
  <pagenum num="183"/>
 
 <h2><b>THE TRAFFIC IN WOMEN</b></h2>
@@ -1547,10 +1516,8 @@
 
 <p>An educated public opinion, freed from the legal and moral hounding of the prostitute, can alone help to ameliorate present conditions. Wilful shutting of eyes and ignoring of the evil as a social factor of modern life, can but aggravate matters. We must rise above our foolish notions of “better than thou,” and learn to recognize in the prostitute a product of social conditions. Such a realization will sweep away the attitude of hypocrisy, and insure a greater understanding and more humane treatment. As to a thorough eradication of prostitution, nothing can accomplish that save a complete transvaluation of all accepted values—especially the moral ones—coupled with the abolition of industrial slavery.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p11">
+<page-sequence recto='true' id="p11">
  <pagenum num="201"/>
 
 <h2><b>WOMAN SUFFRAGE</b></h2>
@@ -1660,10 +1627,8 @@
 <p>The misfortune of woman is not that she is unable to do the work of a man, but that she is wasting her life-force to outdo him, with a tradition of centuries which has left her physically incapable of keeping pace with him. Oh, I know some have succeeded, but at what cost, at what terrific cost! The import is not the kind of work woman does, but rather the quality of the work she furnishes. She can give <pagenum num="217"/>suffrage or the ballot no new quality, nor can she receive anything from it that will enhance her own quality. Her development, her freedom, her independence, must come from and through herself. First, by asserting herself as a personality, and not as a sex commodity. Second, by refusing the right to anyone over her body; by refusing to bear children, unless she wants them; by refusing to be a servant to God, the State, society, the husband, the family, etc., by making her life simpler, but deeper and richer. That is, by trying to learn the meaning and substance of life in all its complexities, by freeing herself from the fear of public opinion and public condemnation. Only that, and not the ballot, will set woman free, will make her a force hitherto unknown in the world, a force for real love, for peace, for harmony; a force of divine fire, of life-giving; a creator of free men and women.</p>
 
  <pagenum num="218"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p12">
+<page-sequence recto='true' id="p12">
  <pagenum num="219"/>
 
 <h2><b>THE TRAGEDY OF WOMAN’S EMANCIPATION</b></h2>
@@ -1717,10 +1682,8 @@
 <p>Pettiness separates; breadth unites. Let us be broad and big. Let us not overlook vital things because of the bulk of trifles confronting us. A true conception of the relation of the sexes will not admit of conqueror and conquered; it knows of but one great thing: to give of one’s self boundlessly, in order to find one’s self richer, deeper, better. That alone can fill the emptiness, and transform the tragedy of woman’s emancipation into joy, limitless joy.</p>
 
  <pagenum num="232"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p13">
+<page-sequence recto='true' id="p13">
  <pagenum num="233"/>
 
 <h2><b>MARRIAGE AND LOVE</b></h2>
@@ -1800,10 +1763,8 @@
 <p>Some day, some day men and women will rise, they will reach the mountain peak, they will meet big and strong and free, ready to receive, to partake, and to bask in the golden rays of love. What fancy, what imagination, what poetic genius can foresee even approximately the potentialities of such a force in the life of men and women. If the world is ever to give birth to true companionship and oneness, not marriage, but love will be the parent.</p>
 
  <pagenum num="246"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p14">
+<page-sequence recto='true' id="p14">
  <pagenum num="247"/>
 
 <h2><b>THE MODERN DRAMA</b></h2>
@@ -2051,7 +2012,6 @@
 
 <p>It has been said of old, all roads lead to Rome. In paraphrased application to the tendencies of our day, it may truly be said that all roads lead to the great social reconstruction. The economic awakening of the workingman, and his realization of the necessity for concerted industrial action; the tendencies of modern education, especially in their application to the free development of the child; the spirit of growing unrest expressed through, and cultivated by, art and literature, all pave the way to the Open Road. Above all, the modern drama, operating through the double channel of dramatist and interpreter, affecting as it does both mind and heart, is the strongest force in developing social discontent, swelling the powerful tide of unrest that sweeps onward and over the dam of ignorance, prejudice, and superstition.</p>
 
-</div>
 </page-sequence>
 </page-sequences>
 
