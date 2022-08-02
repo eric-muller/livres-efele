@@ -56,8 +56,7 @@
 
 <page-sequences>
 
-<page-sequence>
-  <div id="AVIS">
+<page-sequence id="AVIS">
   <h2>AVIS</h2>
 
 <p>Ce livre étant un roman, il doit se commencer à la première page et se finir à la dernière.</p>
@@ -66,11 +65,8 @@
 
 <p class="r3">L’A<s>UTEUR</s>.</p>
 
-  </div>
 </page-sequence>
-
-<page-sequence>
-  <div id="I">
+<page-sequence id="I">
 <pagenum num="1"/>
 
 <h2><img src="images/entete1.png" alt="decoration"/></h2>
@@ -81,7 +77,7 @@
 
 <h1>I</h1>
 
-<poem>
+<poem m='12'>
 <lg>
 <l>Le décor renaissance est une grande salle</l>
 <l>Au château du vieux comte. Une portière sale</l>
@@ -584,19 +580,16 @@
 <l>Puis il sort et s’éloigne en laissant grand ouvert.</l>
 </lg>
 </poem>
- </div>
+
 </page-sequence>
-
-
-<page-sequence>
- <div id="II">
+<page-sequence id="II">
 <pagenum num="24"/>
 
 <h2><img src="images/entete2.png" alt="decoration"/></h2>
 
 <h1>II</h1>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>Rue Alibert, au fond de la chambre, la porte</l>
@@ -784,18 +777,16 @@
 <l>Le dossier de la chaise a craqué plusieurs fois.</l>
 </lg>
 </poem>
- </div>
-</page-sequence>
 
-<page-sequence>
- <div id="III">
+</page-sequence>
+<page-sequence id="III">
 <pagenum num="33"/>
 
 <h2><img src="images/entete3.png" alt="decoration"/></h2>
 
 <h1>III</h1>
 
-<poem>
+<poem m='12'>
 
 <lg>
 <l>A Nice, cette après-midi, dans l’avenue</l>
@@ -5169,19 +5160,16 @@
 <l>Pour aiguiser ses grands ciseaux blancs sans éclair.</l>
 </lg>
 </poem>
- </div>
+
 </page-sequence>
-
-
-<page-sequence>
- <div id="IV">
+<page-sequence id="IV">
 <pagenum num="235"/>
 
 <h2><img src="images/entete4.png" alt="decoration"/></h2>
 
 <h1>IV</h1>
 
- <poem>
+ <poem m='12'>
 <lg>
 <l>Lorsque tous les deux, vers cinq heures et demie</l>
 <l>Descendent dans la rue, une grande accalmie</l>
@@ -5407,19 +5395,16 @@
 <l>Qui trotte en le portant comme rien sur son dos.</l>
 </lg>
  </poem>
- </div>
+
 </page-sequence>
-
-
-<page-sequence>
- <div id="V">
+<page-sequence id="V">
 <pagenum num="246"/>
 
 <h2><img src="images/entete5.png" alt="decoration"/></h2>
 
 <h1>V</h1>
 
- <poem>
+ <poem m='12'>
  <lg>
 <l>Le soir, après dîner, tous les deux, cote à côte,</l>
 <l>En écoutant la mer sur la plage moins haute</l>
@@ -6161,18 +6146,16 @@
 <l>Ils repartent avec, à leur gauche, la mer.</l>
 </lg>
  </poem>
- </div>
-</page-sequence>
 
-<page-sequence>
- <div id="VI">
+</page-sequence>
+<page-sequence id="VI">
 <pagenum num="279"/>
 
 <h2><img src="images/entete6.png" alt="decoration"/></h2>
 
 <h1>VI</h1>
 
- <poem>
+ <poem m='12'>
  <lg>
 <l>Par ce dimanche soir de la fin juin, la foire</l>
 <l>De Neuilly bat son plein, mettant dans la nuit noire</l>
@@ -7065,12 +7048,9 @@
  </poem>
 
 <date>1896.</date>
- </div>
-</page-sequence>
 
+</page-sequence>
 <page-sequence>
- <div>
- 
 
 <p class="c"><i>Achevé d’imprimer</i></p>
 
@@ -7083,7 +7063,7 @@
 <p class="c">6, <s>RUE DES BERGERS</s>, 6</p>
 
 <p class="c"><i>A PARIS</i></p>
- </div>
+
 </page-sequence>
 </page-sequences>
 </bml>

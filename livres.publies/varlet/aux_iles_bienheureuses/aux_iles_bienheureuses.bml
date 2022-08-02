@@ -61,7 +61,6 @@
 
 
 <page-sequence>
-<div>
 <pagenum num="3"/>
 <vsep class="fewlines"/>
 
@@ -77,21 +76,16 @@
 
 <img class="center100" src="images/frontispice1.png" alt="Frontispice"/>
 
-</div>
 </page-sequence>
 <page-sequence>
-<div>
 <pagenum num="5"/>
 
 <img class="center100" src="images/frontispice2.png" alt="Frontispice"/>
 
 <pagenum num="6"/>
 
-</div>
-
 </page-sequence>
-<page-sequence>
-<div id="p01">
+<page-sequence id="p01">
 <pagenum num="7"/>
 
 <h1>Quatre Sonnets de Porquerolles</h1>
@@ -211,10 +205,8 @@
 </lg>
 </poem>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p02">
+<page-sequence id="p02">
 <pagenum num="11"/>
 
 <h1>Villégiature</h1>
@@ -412,10 +404,8 @@
 </poem>
 
 <pagenum num="16"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p03">
+<page-sequence id="p03">
 <pagenum num="17"/>
 
 <h1>En Eden</h1>
@@ -602,10 +592,8 @@
 
 <p>Métempsycose éblouie de suraiguë jouvence et de resplendissantes paresses. Solitudes de jadis vécues sur le sable en feu de tes grèves. Archipel Austral, Iles d’Or du passé où les palmes sur l’implacable outremer frémissent, tandis que les longues houles bleues déferlent sur les récifs de corail ; — Otaïtis mytérieuses où s’éveilla jadis à la lumière, pour la première fois, notre Couple anadyomène...</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p04">
+<page-sequence id="p04">
 <pagenum num="25"/>
 
 <h1>Trois Sonnets du Levant</h1>
@@ -697,10 +685,8 @@
 </poem>
 
 <pagenum num="28"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p05">
+<page-sequence id="p05">
 <pagenum num="29"/>
 
 <h1>En Eden</h1>
@@ -913,10 +899,8 @@
 
 <p>Le bruit des pommes de pin qui craquent et se referment à la rosée, ou choient, cognant les branches, et roulent sur les lanières sèches d’eucalyptus, par instants, me réveillent à demi. Je serre mon âme plus étroitement contre le cœur de la nuit édénique ; et, l’œil entr’ouvert, je suis, sur les cimes ténébreuses, la lente ascension des étoiles.</p>
 
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p06">
+<page-sequence id="p06">
 <pagenum num="37"/>
 
 <h1>Hamacs</h1>
@@ -960,10 +944,8 @@
 <p>Là comme ailleurs, il en est de soie verte ou rose ; il en est de ridiculement parés ; il en est de toile réglementaire...</p>
 
 <pagenum num="38"/>
-</div>
 </page-sequence>
-<page-sequence>
-<div id="p07">
+<page-sequence id="p07">
 <pagenum num="39"/>
 
 <h1>Idylle</h1>
@@ -1052,12 +1034,10 @@
 </lg>
 </poem>
 
-
 <vsep class="emptyline"/>
 
 <p class="r3"><i>Ile de Porquerolle — Ile du Levant 1909-1914.</i></p>
 
-</div>
 </page-sequence>
 </page-sequences>
 </bml>

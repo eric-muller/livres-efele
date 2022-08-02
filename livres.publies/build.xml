@@ -219,6 +219,7 @@
       <ant target='@{target}' dir='tarde/psychologie_economique'/>
       <ant target='@{target}' dir='tinan/erythree'/>
       <ant target='@{target}' dir='toulet/behanzigue'/>
+      <ant target='@{target}' dir='toulet/la_jeune_fille_verte'/>
       <ant target='@{target}' dir='toulet/les_demoiselles_la_mortagne'/>
       <ant target='@{target}' dir='toulet/mon_amie_nane'/>
       <ant target='@{target}' dir='theuriet/contes_pour_les_soirs_d_hiver'/>
@@ -242,12 +243,10 @@
   <target name='build'>           <iterate target="build"/>         </target>
   <target name='tirages'>         <iterate target="tirages"/>       </target>
   <target name='thumbnail'>       <iterate target="thumbnail"/>     </target>
-  <target name='newsfeedentry'>   <iterate target="newsfeedentry"/> </target>
   <target name='catalog'>         <iterate target='catalog'/>       </target>
   <target name='opds'>            <iterate target="opds"/>          </target>
   <target name='desc'>            <iterate target="desc"/>          </target>
   <target name='descf'>           <iterate target="descf"/>         </target>
-  <target name='zipsources'>      <iterate target="zipsources"/>    </target>
   <target name='validate'>        <iterate target='validate'/>      </target>
   <target name='tidy'>            <iterate target='tidy'/>          </target>
   <target name='supertidy'>       <iterate target='supertidy'/>     </target>
@@ -259,9 +258,7 @@
     <delete file='feed.xml'/>
     <delete file='efele_catalogue_commun.txt'/>
     <delete file='liste.epub.html'/>
-    <delete file='sources.zip'/>
   </target>
-
 
 
 
@@ -331,7 +328,7 @@
     </concat>
   </target>
 
-  <target name='export-me' depends='feed.xml,efele_catalogue_commun.txt, listes'>
+  <target name='export-me' depends='feed.xml,efele_catalogue_commun.txt'>
     <copy todir='c:/users/emuller/home/eric/efele.net/ebooks'>
       <fileset dir='.' includes='index.html'/>
       <fileset dir='.' includes='style.css'/>
@@ -340,9 +337,8 @@
       <fileset dir='.' includes='Spectral-Medium.ttf'/>
       <fileset dir='.' includes='Spectral-MediumItalic.ttf'/>
       <fileset dir='.' includes='feed-icon-14x14.png'/>
-      <fileset dir='.' includes='twitter.png'/>
       <fileset dir='.' includes='efele_catalogue_commun.txt'/>
-      <fileset dir='.' includes='liste.*.html'/>
+      <fileset dir='.' includes='liste.epub.html'/>
     </copy>
     <copy todir='c:/users/emuller/home/eric/efele.net/ebooks' 
             encoding='UTF-16'

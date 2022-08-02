@@ -500,12 +500,19 @@ inline |= bracelist
 
 #-------------------------------------------------------------------- images ---
 
-figure =
+figure |=
   element figure {
     common-attributes,
     blockimage,
     element figcaption { 
        block+ | inline* }? }
+
+figure |=
+  element figure {
+    common-attributes,
+    element figcaption { 
+       block+ | inline* },
+    blockimage }
 
 block |= figure
 

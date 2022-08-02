@@ -48,17 +48,14 @@
   <cover src="images/couverture.png" alt="2e édition. G. Liquier. Le trac d’un gendre. Monologue en vers dit par Colombey, du Vaudeville.. Prix : Un franc. Paris. Librairie théatrale. L. Michaud, éditeur. 14, rue de Grammont, 14. MDCCCLXXXIII."/>
 
  <page-sequences>
-
- <page-sequence>
- <div id="p01">
+ <page-sequence id="p01">
  <pagenum num="3"/>
-
 
 <h1>LE TRAC D’UN GENDRE</h1>
 
 <vsep class="rule"/>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Non, je ne dirai plus de vers,</l>
 <l>De ces petits vers qui font rire.</l>
@@ -207,7 +204,6 @@
 
 <h3><s>FIN</s></h3>
 
- </div>
  </page-sequence>
  </page-sequences>
 </bml>

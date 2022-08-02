@@ -60,17 +60,14 @@
 
 <page-sequences>
 
-<page-sequence>
-  <div id="nouvelles">
+<page-sequence id="nouvelles">
     <h1>Nouvelles Impressions d’Afrique</h1>
-  </div>
 </page-sequence>
 
-<page-sequence>
-  <div id="I">
+<page-sequence id="I">
 <pagenum num="1"/>
 
-<h2><img src="images/entete1.png" alt="decoration"/></h2>
+<img src="images/entete1.png" class="center" alt="decoration"/>
 
 <h2>Nouvelles</h2>
 <h1>Impressions d’Afrique</h1>
@@ -83,7 +80,7 @@
 
 <h2><s>LA MAISON OU SAINT LOUIS FUT PRISONNIER</s></h2>
 
-<poem>
+<poem m='12'>
 <l>Sans doute à réfléchir, à compter cela porte,</l>
 <l>D’être avisé que là, derrière cette porte,</l>
 <l>Fut trois mois prisonnier le roi saint !... Louis neuf !...</l>
@@ -119,7 +116,7 @@
 
 <notes>
 <note id="note.5.1" label="*">
-<poem>
+<poem m='12'>
 <l>Que n’a-t-on, lorsqu’il faut d’un feu venir à bout,</l>
 <l>Un géant bon coureur, — quand une maison flambe,</l>
 <l>Un sauveteur loyal doit-il, traînant la jambe,</l>
@@ -146,7 +143,7 @@
 
 <notes>
 <note id="note.9.1" label="*">
-<poem>
+<poem m='12'>
 <l>A l’hiverneur niçois donner un pardessus</l>
 <l>(Prêt qu’il est à jurer — les jours même où, pansus,</l>
 <l>De durs magots de neige y pouffent d’un air nice&#xa0;—</l>
@@ -321,7 +318,7 @@
 
 <notes>
 <note id="note.29.1" label="*">
-<poem>
+<poem m='12'>
 <l>La gloire a l’horreur du teint frais.</l>
 </poem>
 </note>
@@ -332,7 +329,7 @@
 
 <notes>
 <note id="note.29.2" label="*">
-<poem>
+<poem m='12'>
 <l>Pour que d’un travailleur les œuvres soient illustres,</l>
 <l>Il faut que sur sa tête aient passé force lustres ;</l>
 <l>Seul le chêne est prospère, envahissant, ombreux,</l>
@@ -368,7 +365,7 @@
 
 <notes>
 <note id="note.33.1" label="*">
-<poem>
+<poem m='12'>
 <l>Pour qui n’a rien appris la terre est un plateau.</l>
 </poem>
 </note>
@@ -447,28 +444,26 @@
 
 </poem>
 
-<h2><img src="images/fin1.png" alt="decoration"/></h2>
+<img src="images/fin1.png" class="center" alt="decoration"/>
+
 <pagenum num="42"/>
 <pagenum num="43"/>
 <figure>
 <img src="images/image013.gif" class="center90" alt=""/>
 </figure>
 <pagenum num="44"/>
-  </div>
+
 </page-sequence>
-
-<page-sequence>
-
-<div id="II">
+<page-sequence id="II">
 <pagenum num="45"/>
 
-<h2><img src="images/entete2.png" alt="decoration"/></h2>
+<img src="images/entete2.png"  class="center" alt="decoration"/>
 
 <h1>II</h1>
 
 <h1>Le Champ de bataille des Pyramides</h1>
 
-<poem>
+<poem m='12'>
 
 <l>Rien que de l’évoquer sur ce champ de bataille,</l>
 <l>A l’âge où le surtout — le long surtout à taille&#xa0;—</l>
@@ -512,7 +507,7 @@
 
 <notes>
 <note id="note.49.1" label="*">
-<poem>
+<poem m='12'>
 
 <l>Si l’homme, pour bâtir, n’usait que de cristal</l>
 <l>(Tel l’intermède ami qui coupe un récital,</l>
@@ -1348,7 +1343,7 @@
 
 <notes>
 <note id="note.153.1" label="*">
-<poem>
+<poem m='12'>
 <l>Que de prospérités, que de fermes bonheurs</l>
 <l>Pour qui n’est point aveugle ont une source infâme !</l>
 <l>Le prix de piano dépend plus pour la femme</l>
@@ -1384,7 +1379,8 @@
 <l>L’Égypte, son soleil, ses soirs, son firmament.</l>
 
 </poem>
-<h2><img src="images/fin2.png" alt="decoration"/></h2>
+
+<img src="images/fin2.png" class="center" alt="decoration"/>
 
 <pagenum num="158"/>
 <pagenum num="159"/>
@@ -1392,15 +1388,12 @@
 <img src="images/image042.gif" class="center90" alt=""/>
 </figure>
 <pagenum num="160"/>
-  </div>
 
 </page-sequence>
-
-<page-sequence>
-<div id="III">
+<page-sequence id="III">
 <pagenum num="161"/>
 
-<h2><img src="images/entete3.png" alt="decoration"/></h2>
+<img src="images/entete3.png" class="center" alt="decoration"/>
 
 <h1>III</h1>
 
@@ -1408,7 +1401,7 @@
 
 <h2><s>MOSQUÉE ABOU’L-MA’ATÉH</s>. — <i>Environs de Damiette</i>.</h2>
 
-<poem>
+<poem m='12'>
 
 <l>Traitement héroïque ! user avec la langue,</l>
 <l>Sans en rien rengainer qu’elle ne soit exsangue,</l>
@@ -1487,7 +1480,7 @@
 
 <notes>
 <note id="note.169.1" label="*">
-<poem>
+<poem m='12'>
 
 <l>Même est-on sûr que Dieu, quand il fit le snobisme</l>
 <l>(Si l’animal ne sait pas plus percer un isthme</l>
@@ -1612,7 +1605,7 @@
 
 <notes>
 <note id="note.185.1" label="*">
-<poem>
+<poem m='12'>
 
 <l>Une chose, en son genre, est rarement unique</l>
 <l>Comme, en le leur, jadis, le furent : — la tunique</l>
@@ -1666,7 +1659,7 @@
 </poem>
 
 <figure>
-<h2><img src="images/fin3.png" alt="decoration"/></h2>
+<img src="images/fin3.png" class="center90" alt="decoration"/>
 </figure>
 
 <pagenum num="190"/>
@@ -1675,14 +1668,12 @@
 <img src="images/image050.gif" class="center90" alt=""/>
 </figure>
 <pagenum num="192"/>
-</div>
-</page-sequence>
 
-<page-sequence>
-<div id="IV">
+</page-sequence>
+<page-sequence id="IV">
 <pagenum num="193"/>
 
-<h2><img src="images/entete4.png" alt="decoration"/></h2>
+<img src="images/entete4.png" class="center" alt="decoration"/>
 
 <h1>IV</h1>
 
@@ -1690,7 +1681,7 @@
 
 <h2><i>Environs du Caire.</i></h2>
 
-<poem>
+<poem m='12'>
 
 <l>Rasant le Nil, je vois fuir deux rives couvertes</l>
 <l>De fleurs, d’ailes, d’éclairs, de riches plantes vertes</l>
@@ -1754,7 +1745,7 @@
 
 <notes>
 <note id="note.201.1" label="*">
-<poem>
+<poem m='12'>
 
 <l>Tout progresse ; au moment où, rendant pour les poules,</l>
 <l>Ces sages couche-tôt, le premier somme urgent,</l>
@@ -1801,7 +1792,7 @@
 
 <notes>
 <note id="note.205.1" label="*">
-<poem>
+<poem m='12'>
 
 <l>Que de choses se font attendre, hélas ! depuis</l>
 <l>Le plongeon du caillou qu’on lâche dans un puits,</l>
@@ -1833,7 +1824,7 @@
 
 <notes>
 <note id="note.209.1" label="*">
-<poem>
+<poem m='12'>
 
 <l>Nul n’est sans caresser un ambitieux rêve ;</l>
 <l>L’ouvrier croit se voir dictant, lors d’une grève</l>
@@ -1889,7 +1880,7 @@
 
 <notes>
 <note id="note.213.1" label="*">
-<poem>
+<poem m='12'>
 
 <l>Combien change de force un mot suivant les cas !</l>
 <l><i>Éclair</i> dit « feu du ciel escorté de fracas »</l>
@@ -1960,7 +1951,7 @@
 
 <notes>
 <note id="note.221.1" label="*">
-<poem>
+<poem m='12'>
 
 <l>Tour que valent ceux-ci, quant à l’attrait du neuf :</l>
 <l>Faire indûment couver par une poule un œuf</l>
@@ -2005,7 +1996,7 @@
 
 <notes>
 <note id="note.225.1" label="*">
-<poem>
+<poem m='12'>
 
 <l>Si le mérite humain exclut la modestie</l>
 <l>Autant que le lundi l’ardeur des travailleurs</l>
@@ -2072,8 +2063,7 @@
 
 </poem>
 
-<h2><img src="images/fin3.png" alt="decoration"/></h2>
-
+<img src="images/fin3.png" class="center" alt="decoration"/>
 
 <pagenum num="234"/>
 <pagenum num="235"/>
@@ -2082,13 +2072,8 @@
 </figure>
 <pagenum num="236"/>
 
-</div>
-
 </page-sequence>
-
-<page-sequence>
-
-<div id="contreerratum">
+<page-sequence id="contreerratum">
 <pagenum num="237"/>
 
 <h2>C<s>ONTRE</s>-E<s>RRATUM</s></h2>
@@ -2099,24 +2084,17 @@
 
 <pagenum num="238"/>
 
-</div>
 </page-sequence>
-
-<page-sequence>
-<div id="ame">
+<page-sequence id="ame">
 <pagenum num="239"/>
 <h1>L’Ame de Victor Hugo</h1>
 
 <pagenum num="240"/>
-</div>
 </page-sequence>
-
-
 <page-sequence>
-<div>
 <pagenum num="241"/>
 
-<h2><img src="images/entete5.png" alt="decoration"/></h2>
+<img src="images/entete5.png" class="center" alt="decoration"/>
 
 <h1>L’Ame de Victor Hugo</h1>
 
@@ -2135,7 +2113,7 @@
 </note>
 </notes>
 
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Mon âme est une étrange usine</l>
@@ -2760,15 +2738,12 @@
 </poem>
 
 <pagenum num="282"/>
-</div>
 </page-sequence>
-
 <page-sequence>
-<div>
 <pagenum num="283"/>
 <h2>II</h2>
  
-<poem>
+<poem m='8'>
 
 <lg>
 <l>Mais bientôt une grande flamme</l> 
@@ -3145,16 +3120,13 @@
 </poem>
 
 <pagenum num="308"/>
-</div>
 </page-sequence>
-
 <page-sequence>
-<div>
 <pagenum num="309"/>
 
 <h2>III</h2>
 
-<poem>
+<poem m='8'>
 <lg>
 <l>Bien souvent aussi l’on s’attarde</l> 
 <l>A travailler toute la nuit</l> 
@@ -3219,18 +3191,14 @@
 
 </poem>
 
-<h2><img src="images/fin5.png" alt="decoration"/></h2>
+<img src="images/fin5.png" class="center" alt="decoration"/>
 
 <pagenum num="314"/>
-</div>
 </page-sequence>
-
-<page-sequence>
-
-<div id="table">
+<page-sequence id="table">
 <pagenum num="315"/>
 
-<h2><img src="images/entete6.png" alt="decoration"/></h2>
+<img src="images/entete6.png" class="center" alt="decoration"/>
 
 
 <h1>TABLE</h1>
@@ -3254,10 +3222,8 @@
 
 <p class="l0">L’A<s>ME DE</s> V<s>ICTOR</s> H<s>UGO</s></p>
 
+<img src="images/fin6.png" class="center" alt="decoration"/>
 
-<h2><img src="images/fin6.png" alt="decoration"/></h2>
- </div>
 </page-sequence>
-
 </page-sequences>
 </bml>
