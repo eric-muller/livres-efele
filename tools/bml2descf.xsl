@@ -125,12 +125,7 @@
     
 
 
-    <p><a href="#formats">Tirages</a> faits le <xsl:call-template name='tirage-date'/> :
-    <a href='{bml:electronique/@identificateur}/{bml:electronique/@fichier}.epub'>epub</a>
-    <xsl:text> </xsl:text>
-    <a href="{bml:electronique/@identificateur}/{bml:electronique/@fichier}.mobi">kindle</a>
-    <xsl:text> </xsl:text>
-    <a href="{bml:electronique/@identificateur}/{bml:electronique/@fichier}.daisy.zip">daisy</a>
+    <p><a href='{bml:electronique/@identificateur}/{bml:electronique/@fichier}.epub'>epub</a> fait <xsl:call-template name='tirage-date'/>.</p>
 
     <xsl:if test='bml:electronique/bml:collection'>
       <p>Ce livre fait partie de la collection <a href='../{bml:electronique/bml:collection/@id}/index.html'><xsl:apply-templates select='bml:electronique/bml:collection/bml:titre'/></a>.</p>
