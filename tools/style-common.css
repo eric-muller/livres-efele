@@ -4,7 +4,7 @@ html {
   font-variant: normal;
   font-variant-numeric: oldstyle-nums proportional-nums; }
 
-h1 h2 h3 h4 .nohyphen {
+h1, h2, h3, h4, .nohyphen {
   -epub-hyphens: manual;
   -webkit-hyphens: manual;
   hyphens: manual; }
@@ -160,7 +160,7 @@ b {
 .poem {
   margin-left: 50%; }
 
-.poem h3 {
+.poem h1, .poem h2, .poem h3 {
   margin-left: -100%; }
 
 .lg {
