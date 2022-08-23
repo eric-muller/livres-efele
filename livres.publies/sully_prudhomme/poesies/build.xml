@@ -4,7 +4,6 @@
   <import file="../../../tools/build-common.xml"/>
 
   <target name='books'>
-<!--
     <book x='01_stances_et_poemes'/>
 
     <book x='02_les_epreuves'/>
@@ -22,10 +21,14 @@
 
     <book x='13_lucrece'/>
     <book x='14_la_justice'/>
--->
+
     <book x='15_le_prisme'/>
-<!--
     <book x='16_le_bonheur'/>
--->
   </target>
+
+  <target name='collections'>
+    <collection x='poesies_de_sully_prudhomme'/>
+  </target>
+
+
 </project>
