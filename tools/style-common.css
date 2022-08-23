@@ -156,11 +156,15 @@ b {
 
 
 
+.vsep {
+  text-indent: 0;
+  text-align: center; }
 
 .poem {
   margin-left: 50%; }
 
-.poem h1, .poem h2, .poem h3 {
+.poem h1, .poem h2, .poem h3, .poem .vsep {
+  /* those elements are style with center align, restore the margins */
   margin-left: -100%; }
 
 .lg {

@@ -520,7 +520,8 @@
 </xsl:template>
 
 <xsl:template match='bml:vsep[@class="threestars"]' mode="html">
-  <p style='margin: 0.5em 0 0.5em 0; text-indent:0; text-align:center;'>
+  <p class='threestars vsep'
+     style='margin-top: 0.5em; margin-bottom: 0.5em;'>
     <span style='line-height:0; vertical-align:-0.5em'>*</span>
     <xsl:text>*</xsl:text>
     <span style='line-height:0; vertical-align:-0.5em'>*</span>
@@ -528,15 +529,15 @@
 </xsl:template>
 
 <xsl:template match='bml:vsep[@class="threestarsrow"]' mode="html">
-  <p class="threestarsrow"
-     style='margin: 0.5em 0 0.5em 0; text-indent:0; text-align:center;'>
+  <p class="threestarsrow vsep"
+     style='margin-top: 0.5em; margin-bottom: 0.5em;'>
     <xsl:text>*&#x2001;*&#x2001;*</xsl:text>
   </p>
 </xsl:template>
 
 <xsl:template match='bml:vsep[@class="onestar"]' mode="html">
-  <p class="onestar"
-     style='margin: 0.5em 0 0.5em 0; text-indent:0; text-align:center;'>
+  <p class="onestar vsep"
+     style='margin-top: 0.5em; margin-bottom: 0.5em;'>
     <xsl:text>*</xsl:text>
   </p>
 </xsl:template>
@@ -573,21 +574,21 @@
 </xsl:template>
 
 <xsl:template match='bml:vsep[@class="rule"]' mode="html">
-  <hr class="rule"/>
+  <hr class="rule vsep"/>
 </xsl:template>
 
 <xsl:template match='bml:vsep[@class="fullwidth-rule"]' mode="html">
-  <hr class="fullwidth-rule"/>
+  <hr class="fullwidth-rule vsep"/>
 </xsl:template>
 
 <xsl:template match='bml:vsep[@class="doublerule"]' mode="html">
-  <hr class="rule-top"/>
-  <hr class="rule-bottom"/>
+  <hr class="rule-top vsep"/>
+  <hr class="rule-bottom vsep"/>
 </xsl:template>
 
 <xsl:template match='bml:vsep[@class="tilderule"]' mode="html">
-  <hr class="rule-top"/> 
-  <hr class="rule-bottom"/>
+  <hr class="rule-top vsep"/> 
+  <hr class="rule-bottom vsep"/>
 </xsl:template>
 
 
