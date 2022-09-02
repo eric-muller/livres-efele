@@ -276,7 +276,7 @@ inline |= noteref
 
 # description of the pagination of a facsimile
 pagenumber-range =  
-    xsd:string { pattern="[A-Zn][0-9]+" }         # not paginated
+    xsd:string { pattern="[A-Zn]+[0-9]+" }        # not paginated
   | xsd:string { pattern="[ivxlc]+(-[ivxlc]+)?" } # roman number
   | xsd:string { pattern="[IVXLC]+(-[IVXLC]+)?" } # roman number
   | xsd:string { pattern="[0-9]+(-[0-9]+)?" }     # european number
