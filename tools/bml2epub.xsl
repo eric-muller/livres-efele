@@ -652,11 +652,12 @@
 
 
 <xsl:template match='bml:pagenum' mode='html'>
-  <a id='page.{@v}.{@num}'>
+  <xsl:element name='{if (ancestor::bml:p) then "span" else "div"}'>
+    <xsl:attribute name='id'>page.<xsl:value-of select='@v'/>.<xsl:value-of select='@num'/></xsl:attribute>
     <xsl:call-template name='transfer-common-attributes'>
       <xsl:with-param name="class">numero-de-page</xsl:with-param>
     </xsl:call-template>
-  </a>
+  </xsl:element>
   <xsl:apply-templates mode='html'/>
 </xsl:template>
 
@@ -683,10 +684,10 @@
     </xsl:for-each>
   </xsl:variable>
 
-  <sup>
+  <sup id='noteref.{@noteid}'>
     <xsl:choose>
       <xsl:when test='$hidden = "false"'>
-        <a id='noteref.{@noteid}' href="{$targetfile}.xhtml#note.{@noteid}">
+        <a href="{$targetfile}.xhtml#note.{@noteid}">
           <xsl:apply-templates select='key("id-key",@noteid)[1]' mode='notelabel'/>
         </a>
       </xsl:when>
