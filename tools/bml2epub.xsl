@@ -325,10 +325,10 @@
         <xsl:attribute name='style'>margin-left: -100%; text-align: center;</xsl:attribute>
       </xsl:when>
       <xsl:when test='$m = "i"'>
-        <xsl:attribute name='style'>text-indent: -12em;</xsl:attribute>
+        <xsl:attribute name='style'>text-indent: -9em;</xsl:attribute>
       </xsl:when>
       <xsl:otherwise>
-        <xsl:attribute name='style'>text-indent: -<xsl:value-of select='$m'/>em;</xsl:attribute>
+        <xsl:attribute name='style'>text-indent: -<xsl:value-of select='0.75 * $m'/>em;</xsl:attribute>
       </xsl:otherwise>
     </xsl:choose>
 
