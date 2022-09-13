@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+
+<project name='fables_dore' default='build'>
+
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='fables_dore'/>
+  </target>
+</project>

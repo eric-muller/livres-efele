@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+
+<edition xmlns="http://efele.net/2010/ns/bml">
+  <style colophon="Garamond Premier" body="GaramondPremrPro">
+    <fonts href='../../../fonts/GaramondPremrPro.xml'/>
+  </style>
+
+  <css>
+
+.debut { 
+   display: block;
+   margin: 0 auto 0 auto;
+   padding: 1em 1em 1em 1em;
+   width: 30em;
+   max-width: 100vw; 
+   text-align: center; text-indent: 0; }
+
+.cdl {
+   display: block;
+   margin: 0 auto 0 auto;
+   padding: 1em 1em 1em 1em;
+   width: 30em;
+   max-width: 100vw; 
+   text-align: center; text-indent: 0; }
+
+.pp {
+   display: block;
+   margin: 0 auto 0 auto;
+   padding: 1em 1em 1em 1em;
+   height: 100vh; }
+
+  </css>
+
+</edition>
