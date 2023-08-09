@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie
+        bnf="https://catalogue.bnf.fr/ark:/12148/cb32164005r">
+
+      <titre>Retour de l’U.R.S.S.</titre> 
+
+      <auteur bnf="https://catalogue.bnf.fr/ark:/12148/cb11904849c">
+        <nom-bibliographie>Gide, André</nom-bibliographie>
+        <dates>1869-1951</dates>
+        <nom-couverture>André Gide</nom-couverture>
+      </auteur>
+
+      <editeur>
+        <nom>Gallimard</nom>
+        <ville>Paris</ville>
+      </editeur>
+
+      <date>1936</date>
+      <langue>fr</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="http://gallica.bnf.fr/ark:/12148/bpt6k934725d"
+                 pages="N10 1-500"/>
+    </volume>
+    
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000670"
+        creation="2023-08-06T16:17:05-07:00">
+
+      <titre>Retour de l’U.R.S.S.</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref='p01' label='Avant-propos'/>
+    <tocentry idref='p02' label='I'/>
+    <tocentry idref='p03' label='II'/>
+    <tocentry idref='p04' label='III'/>
+    <tocentry idref='p05' label='IV'/>
+    <tocentry idref='p06' label='V'/>
+    <tocentry idref='p07' label='VI'/>
+    <tocentry idref='p08' label='Appendice'>
+      <tocentry idref='p09' label='Discours sur Maxime Gorki'/>
+      <tocentry idref='p10' label='Discours aux Étudiants de Moscou'/>
+      <tocentry idref='p11' label='Discours aux Gens de lettres de Léningrad'/>
+      <tocentry idref='p12' label='La lutte anti-religieuse'/>
+      <tocentry idref='p13' label='Ostrovski'/>
+      <tocentry idref='p14' label='Un Kolkose'/>
+      <tocentry idref='p15' label='Bolchevo'/>
+      <tocentry idref='p16' label='Les Besprizornis'/>
+    </tocentry>
+  </toc>
+
+  <cover src="images/couverture_retour.png" alt="André Gide. Retour de l’U.R.S.S. nrf. Gallimard"/>
+
+<page-sequences>
+<page-sequence>
+  <pagenum num="7"/>
+
+<vsep class="fewlines"/>
+
+<p class='c'><s>A LA MÉMOIRE DE</s></p>
+
+<p class='c'>EUGÈNE DABIT</p>
+
+<p class='c'><s>JE DÉDIE CES PAGES,</s></p>
+<p class='c'><s>REFLETS DE CE QUE J’AI VÉCU</s></p>
+<p class='c'><s>ET PENSÉ PRÉS DE LUI,</s></p>
+<p class='c'><s>AVEC LUI.</s></p>
+
+<pagenum num="8"/>
+</page-sequence>
+<page-sequence>
+  <pagenum num="9"/>
+
+<vsep class="fewlines"/>
+
+<p><i>L’hymne homérique à Déméter raconte que la grande déesse, dans sa course errante à la recherche de sa fille, vint à la Cour de Kéléos. Là, nul ne reconnaissait, sous les traits empruntés d’une niania, la déesse ; la garde d’un enfant dernier-né lui fut confiée par la reine Métaneire, du petit Démophoôn qui devint plus tard Triptolème, l’initiateur des travaux des champs.</i></p>
+
+<p><i>Toutes portes closes, le soir et tandis que la maison dormait, Déméter prenait Démophoôn, l’enlevait de son berceau douillet et, avec une apparente cruauté, mais en réalité guidée par un immense amour et désireuse d’amener jusqu’à la divinité l’enfant, l’étendait nu sur un ardent lit de braises. J’imagine la grande Déméter penchée, comme sur l’humanité future, sur ce nourrisson radieux. Il supporte l’ardeur des charbons, et cette épreuve le fortifie. En lui, je ne sais quoi de surhumain se prépare, de robuste et d’inespérément glorieux. <pagenum num="10"/>Ah ! que ne put Démeter poursuivre jusqu’au bout sa tentative hardie et mener à bien son défi ! Mais Métaneire inquiète, raconte la légende, fit irruption dans la chambre de l’expérience, faussement guidée par une maternelle crainte, repoussa la déesse et tout le surhumain qui se forgeait, écarta les braises et, pour sauver l’enfant, perdit le dieu.</i></p>
+
+</page-sequence>
+<page-sequence id='p01'>
+  <pagenum num="11"/>
+
+<h2><i>AVANT-PROPOS</i></h2>
+
+<p>J’ai déclaré, il y a trois ans, mon admiration pour l’U.R.S.S., et mon amour. Là-bas une expérience sans précédents était tentée qui nous gonflait le cœur d’espérance et d’où nous attendions un immense progrès, un élan capable d’entraîner l’humanité tout entière. Pour assister à ce renouveau, certes il vaut la peine de vivre, pensais-je, et de donner sa vie pour y aider. Dans nos cœurs et dans nos esprits nous attachions résolument au glorieux destin de l’U.R.S.S. l’avenir même de la culture ; nous l’avons maintes fois répété. Nous voudrions pouvoir le dire encore.</p>
+
+<p>Déjà, avant d’y aller voir, de récentes décisions qui semblaient dénoter un changement d’orientation ne laissaient pas de nous inquiéter.</p>
+
+<p>J’écrivais alors (Octobre 1935) :</p>
+
+<blockquote>
+
+<p>« C’est aussi, c’est beaucoup la bêtise et la malhonnêteté des attaques contre <pagenum num="12"/> l’U.R.S.S. qui font qu’aujourd’hui nous mettons quelque obstination à la défendre. Eux, les aboyeurs, vont commencer à l’approuver lorsque précisément nous cesserons de le faire ; car ce qu’ils approuveront ce seront ses compromissions, ses transigeances et qui feront dire aux autres : « Vous voyez bien ! » mais par où elle s’écartera du but que d’abord elle poursuivait. Puisse notre regard, en restant fixé sur ce but, ne point être amené, par là même, à se détourner de l’U.R.S.S. »</p>
+
+<p class='r3'>(<i>N. R. F.</i> Mars 1936.)</p>
+
+</blockquote>
+
+<p>Pourtant, jusqu’à plus ample informé m’entêtant dans la confiance et préférant douter de mon propre jugement, quatre jours après mon arrivée à Moscou je déclarais encore dans mon discours sur la Place Rouge, à l’occasion des funérailles de Gorki : « Le sort de la culture est lié dans nos esprits au destin même de l’U.R.S.S. Nous la défendrons. »</p>
+
+<p>J’ai toujours professé que le désir de demeurer constant avec soi-même <pagenum num="13" b="compor-" a="tait">comportait</pagenum> trop souvent un risque d’insincérité ; et j’estime que s’il importe d’être sincère c’est bien lorsque la foi d’un grand nombre, avec la nôtre propre, est engagée.</p>
+
+<p>Si je me suis trompé d’abord, le mieux est de reconnaître au plus tôt mon erreur ; car je suis responsable, ici, de ceux que cette erreur entraîne. Il n’y a pas, en ce cas, amour-propre qui tienne ; et du reste j’en ai fort peu. Il y a des choses plus importantes à mes yeux que moi-même ; plus importantes que l’U.R.S.S. : c’est l’humanité, c’est son destin, c’est sa culture.</p>
+
+<p>Mais m’étais-je trompé tout d’abord ? Ceux qui ont suivi l’évolution de l’U.R.S.S. depuis à peine un peu plus d’un an, diront si c’est moi qui ai changé ou si ce n’est pas l’U.R.S.S. Et par : l’U.R.S.S. j’entends celui qui la dirige.</p>
+
+<p>D’autres plus compétents que moi, diront si ce changement d’orientation n’est peut-être qu’apparent et si ce qui nous apparaît comme une dérogation n’est pas une conséquence fatale de certaines dispositions antérieures.</p>
+
+<p>L’U.R.S.S. est « en construction », il importe de se le redire sans cesse. Et de <pagenum num="14"/>là l’exceptionnel intérêt d’un séjour sur cette immense terre en gésine : il semble qu’on y assiste à la parturition du futur.</p>
+
+<p>Il y a là-bas du bon et du mauvais ; je devrais dire : de l’excellent et du pire. L’excellent fut obtenu au prix, souvent, d’un immense effort. L’effort n’a pas toujours et partout obtenu ce qu’il prétendait obtenir. Parfois l’on peut penser : pas encore. Parfois le pire accompagne et double le meilleur ; on dirait presque qu’il en est la conséquence. Et l’on passe du plus lumineux au plus sombre avec une brusquerie déconcertante. Il arrive souvent que le voyageur, selon des convictions préétablies, ne soit sensible qu’à l’un ou qu’à l’autre. Il arrive trop souvent que les amis de l’U.R.S.S. se refusent à voir le mauvais, ou du moins à le reconnaître ; de sorte que, trop souvent, la vérité sur l’U.R.S.S. est dite avec haine, et le mensonge avec amour.</p>
+
+<p>Or, mon esprit est ainsi fait que son plus de sévérité s’adresse à ceux que je voudrais pouvoir approuver toujours. C’est témoigner mal son amour que le borner à la louange et je pense rendre plus grand service à l’U.R.S.S. même et à la cause que <pagenum num="15"/>pour nous elle représente, en parlant sans feinte et sans ménagement. C’est en raison même de mon admiration pour l’U.R.S.S. et pour les prodiges accomplis par elle déjà, que vont s’élever mes critiques ; en raison aussi de ce que nous attendons encore d’elle ; en raison surtout de ce qu’elle nous permettait d’espérer.</p>
+
+<p>Qui dira ce que l’U.R.S.S. a été pour nous ? Plus qu’une patrie d’élection : un exemple, un guide. Ce que nous rêvions, que nous osions à peine espérer mais à quoi tendaient nos volontés, nos forces, avait eu lieu là-bas. Il était donc une terre où l’utopie était en passe de devenir réalité. D’immenses accomplissements déjà nous emplissaient le cœur d’exigence. Le plus difficile était fait déjà, semblait-il, et nous nous aventurions joyeusement dans cette sorte d’engagement pris avec elle au nom de tous les peuples souffrants.</p>
+
+<p>Jusqu’à quel point, dans une faillite, nous sentirions-nous de même engagés ? Mais la seule idée d’une faillite est inadmissible.</p>
+
+<p>Si certaines promesses tacites n’étaient pas tenues que fallait-il incriminer ? En fallait-il tenir pour responsables les <pagenum num="16" b="pre-" a="mières">premières</pagenum> directives, ou plutôt les écarts mêmes, les infractions, les accommodements si motivés qu’ils fussent ?...</p>
+
+<vsep class="emptyline"/>
+
+<p>Je livre ici mes réflexions personnelles sur ce que l’U.R.S.S. prend plaisir et légitime orgueil à montrer et sur ce que, à côté de cela, j’ai pu voir. Les réalisations de l’U.R.S.S. sont, le plus souvent, admirables. Dans des contrées entières elle présente l’aspect déjà riant du bonheur. Ceux qui m’approuvaient de chercher, au Congo, quittant l’auto des gouverneurs, à entrer avec tous et n’importe qui en contact direct pour m’instruire, me reprocheront-ils d’avoir apporté en U.R.S.S. un semblable souci et de ne me laisser point éblouir ?</p>
+
+<vsep class="emptyline"/>
+
+<p>Je ne me dissimule pas l’apparent avantage que les partis ennemis — ceux pour qui « l’amour de l’ordre se confond avec le goût des tyrans<noteref noteid="note.16.1"/> » — vont prétendre tirer de mon livre. Et voici qui m’eût retenu de le publier, de l’écrire même, si ma conviction ne restait intacte, inébranlée, que d’une <pagenum num="17"/>part l’U.R.S.S. finira bien par triompher des graves erreurs que je signale ; d’autre part, et ceci est plus important, que les erreurs particulières d’un pays ne peuvent suffire à compromettre la vérité d’une cause internationale, universelle. Le mensonge, fût-ce celui du silence, peut paraître opportun, et opportune la persévérance dans le mensonge, mais il fait à l’ennemi trop beau jeu, et la vérité, fût-elle douloureuse, ne peut blesser que pour guérir.</p>
+
+<notes>
+  <note id="note.16.1">
+    <p>Tocqueville, <i>De la Démocratie en Amérique</i>. (Introduction)</p>
+  </note>
+</notes>
+
+<pagenum num="18"/>
+</page-sequence>
+<page-sequence id='p02'>
+  <pagenum num="19"/>
+
+<h2>I</h2>
+
+<p>En contact direct avec un peuple de travailleurs, sur les chantiers, dans les usines ou dans les maisons de repos, dans les jardins, les « parcs de culture », j’ai pu goûter des instants de joie profonde. J’ai senti parmi ces camarades nouveaux une fraternité subite s’établir, mon cœur se dilater, s’épanouir. C’est aussi pourquoi les photographies de moi que l’on a prises là-bas me montrent plus souriant, plus riant même, que je ne puis l’être souvent en France. Et que de fois, là-bas, les larmes me sont venues aux yeux, par excès de joie, larmes de tendresse et d’amour : par exemple, à cette maison de repos des ouvriers mineurs de Dombas aux environs immédiats de Sotchi... Non, non ! il n’y avait là rien de convenu, d’apprêté ; j’étais arrivé brusquement, un soir, sans être annoncé ; mais aussitôt j’avais senti près d’eux la confiance.</p>
+
+<pagenum num="20"/>
+
+<p>Et cette visite inopinée dans ce campement d’enfants, près de Borjom, tout modeste, humble presque, mais où les enfants, rayonnants de bonheur, de santé, semblaient vouloir m’offrir leur joie. Que raconter ? Les mots sont impuissants à se saisir d’une émotion si profonde et si simple... Mais pourquoi parler de ceux-ci plutôt que de tant d’autres ? Poètes de Géorgie, intellectuels, étudiants, ouvriers surtout, je me suis épris pour nombre d’entre eux d’une affection vive, et sans cesse je déplorais de ne connaître point leur langue. Mais déjà se lisait tant d’éloquence affectueuse dans les sourires, dans les regards, que je doutais alors si des paroles y eussent pu beaucoup ajouter. Il faut dire que j’étais présenté partout là-bas comme un ami : ce qu’exprimaient encore les regards de tous, c’est une sorte de reconnaissance. Je voudrais la mériter plus encore ; et cela aussi me pousse à parler.</p>
+
+<vsep class="emptyline"/>
+
+<p>Ce que l’on vous montre le plus volontiers, ce sont les plus belles réussites ; il va sans dire et cela est tout naturel ; mais il <pagenum num="21"/>nous est arrivé maintes fois, d’entrer à l’improviste dans des écoles de village, des jardins d’enfants, des clubs, que l’on ne songeait point à nous montrer et qui sans doute ne se distinguaient en rien de beaucoup d’autres. Et ce sont ceux que j’ai le plus admirés, précisément parce que rien n’y était préparé pour la montre.</p>
+
+<vsep class="emptyline"/>
+
+<p>Les enfants, dans tous les campements de pionniers que j’ai vus, sont beaux, bien nourris (cinq repas par jour), bien soignés, choyés même, joyeux. Leur regard est clair, confiant ; leurs rires sont sans malignité, sans malice ; on pourrait, en tant qu’étranger, leur paraître un peu ridicule : pas un instant je n’ai surpris, chez aucun d’eux, la moindre trace de moquerie.</p>
+
+<p>Cette même expression de bonheur épanoui, nous la retrouverons souvent chez les aînés, également beaux, vigoureux. Les « parcs de culture » où ils s’assemblent au soir, la journée de travail achevée, sont d’incontestables réussites ; entre tous, celui de Moscou.</p>
+
+<p>J’y suis retourné souvent. C’est un endroit où l’on s’amuse ; comparable à un <i><pagenum num="22" b="Luna-" a="Park">Luna-Park</pagenum></i> qui serait immense. Aussitôt la porte franchie on se sent tout dépaysé. Dans cette foule de jeunes gens, hommes et femmes, partout le sérieux, la décence ; pas le moindre soupçon de rigolade bête ou vulgaire, de gaudriole, de grivoiserie, ni même de flirt. On respire partout une sorte de ferveur joyeuse. Ici, des jeux sont organisés ; là, des danses ; d’ordinaire un animateur ou une animatrice y préside et les règle, et tout se passe avec un ordre parfait. D’immenses rondes se forment où chacun pourrait prendre part ; mais les spectateurs sont toujours beaucoup plus nombreux que les danseurs. Puis ce sont des danses et des chants populaires, soutenus et accompagnés le plus souvent par un simple accordéon. Ici, dans cet espace enclos et pourtant d’accès libre, des amateurs s’exercent à diverses acrobaties ; un entraîneur surveille les « sauts périlleux », conseille et guide ; plus loin, des appareils de gymnastique, des agrès ; l’on attend patiemment son tour ; l’on s’entraîne. Un grand espace est réservé aux terrains de <i>volley ball ;</i> et je ne me lasse pas de contempler la robustesse, la grâce et la beauté des joueurs. Plus loin <pagenum num="23"/>ce sont les jeux tranquilles : échecs, dames et quantité de menus jeux d’adresse ou de patience, dont certains que je ne connaissais pas, extrêmement ingénieux ; comme aussi quantité de jeux exerçant la force, la souplesse ou l’agilité, que je n’avais vus nulle part et que je ne puis chercher à décrire, mais dont quelques-uns auraient certainement grand succès chez nous. De quoi vous occuper pendant des heures. Il y en a pour les adultes, d’autres pour les enfants. Les tout petits ont leur domaine à part, où ils trouvent de petites maisons, de petits trains, de petits bateaux, de petites automobiles et quantité de menus instruments à leur taille. Dans une grande allée et faisant suite aux jeux tranquilles (qui toujours ont tant d’amateurs qu’il faut parfois attendre longtemps pour trouver, à son tour, une table libre), sur des panneaux de bois, des tableaux proposent rébus, énigmes et devinettes. Tout cela, je le répète, sans la moindre vulgarité ; et toute cette foule immense, d’une tenue parfaite, respire l’honnêteté, la dignité, la décence ; sans contrainte aucune d’ailleurs et tout naturellement. Le public, en plus des enfants, est presque uniquement <pagenum num="24"/>composé d’ouvriers qui viennent là s’entraîner aux sports, se reposer, s’amuser ou s’instruire (car il y a aussi des salles de lecture, de conférences, des cinémas, des bibliothèques, etc...). Sur la Moskowa, des piscines. Et, de-ci, de-là, dans cet immense parc, de minuscules estrades où pérore un professeur improvisé ; ce sont des leçons de choses, d’histoire ou de géographie avec tableaux à l’appui ; ou même de médecine pratique, de physiologie, avec grand renfort de planches anatomiques, etc. On écoute avec un grand sérieux. Je l’ai dit, je n’ai surpris nulle part le moindre essai de moquerie<noteref noteid="note.24.1"/>.</p>
+
+<notes>
+  <note id="note.24.1">
+    <p>« Et vous trouvez que c’est un bien ? » s’écrie mon ami X..., à qui je disais cela. « Moquerie, ironie, critique, tout se tient. L’enfant incapable de moquerie fera l’adolescent crédule et soumis, dont plus tard vous, moqueur, critiquerez le « conformisme ». J’en tiens pour la gouaille française, dût-elle s’exercer à mes dépens. »</p>
+  </note>
+</notes>
+
+<p>Mais voici mieux : un petit théâtre en plein air ; dans la salle ouverte, quelque cinq cents auditeurs, entassés (pas une place vide) écoutent, dans un silence religieux, un acteur réciter du Pouchkine (un chant d’<i>Eugène Onéguine</i>). Dans un coin du parc, <pagenum num="25"/>près de l’entrée, le quartier des parachutistes. C’est un sport fort goûté là-bas. Toutes les deux minutes, un des trois parachutes, détaché du haut d’une tour de quarante mètres, dépose un peu brutalement sur le sol un nouvel amateur. Allons ! qui s’y risque ? On s’empresse ; on attend son tour ; on fait queue. Et je ne parle pas du grand théâtre de verdure où, pour certains spectacles, s’assemblent près de vingt mille spectateurs.</p>
+
+<p>Le parc de culture de Moscou est le plus vaste et le mieux fourni d’attractions diverses ; celui de Léningrad, le plus beau. Mais chaque ville en U.R.S.S., à présent, possède son parc de culture, en plus de ses jardins d’enfants.</p>
+
+<p>J’ai également visité, il va sans dire, plusieurs usines. Je sais et me répète que, de leur bon fonctionnement dépend l’aisance générale et la joie. Mais je n’en pourrais parler avec compétence. D’autres s’en sont chargés ; je m’en rapporte à leurs louanges. Les questions psychologiques seules sont de mon ressort ; c’est d’elles, surtout et presque uniquement, que je veux ici m’occuper. Si j’aborde de biais les questions sociales, <pagenum num="26"/>c’est encore au point de vue psychologique que je me placerai.</p>
+
+<vsep class="emptyline"/>
+
+<p>L’âge venant, je me sens moins de curiosité pour les paysages, beaucoup moins, et si beaux qu’ils soient ; mais de plus en plus pour les hommes. En U.R.S.S. le peuple est admirable ; celui de Géorgie, de Kakhétie, d’Abkhasie, d’Ukraine (je ne parle que de ce que j’ai vu), et plus encore, à mon goût, celui de Léningrad et de la Crimée.</p>
+
+<p>J’ai assisté aux fêtes de la jeunesse de Moscou, sur la Place Rouge. Les bâtiments qui font face au Kremlin dissimulaient leur laideur sous un masque de banderoles et de verdure. Tout était splendide, et même (je me hâte de le dire ici, car je ne pourrai le dire toujours), d’un goût parfait. Venue du nord et du sud, de l’est et de l’ouest, une jeunesse admirable paradait. Le défilé dura des heures. Je n’imaginais pas un spectacle aussi magnifique. Évidemment, ces êtres parfaits avaient été entraînés, préparés, choisis entre tous ; mais comment n’admirer point un pays et un régime capables de les produire ?</p>
+
+<pagenum num="27"/>
+
+<p>J’avais vu la Place Rouge, quelques jours auparavant, lors des funérailles de Gorki. J’avais vu ce même peuple, le même peuple et pourtant tout différent, et ressemblant plutôt, j’imagine, au peuple russe du temps des tzars, défiler longuement, interminablement, dans la grande Salle des Colonnes, devant le catafalque. Cette fois ce n’était pas les plus beaux, les plus forts, les plus joyeux représentants de ces peuples soviétiques, mais un « tout venant » douloureux, comprenant femmes, enfants surtout, vieillards parfois, presque tous mal vêtus et paraissant parfois très misérables. Un défilé silencieux, morne, recueilli, qui semblait venir du passé et qui, dans un ordre parfait, dura certainement beaucoup plus longtemps que l’autre, que le défilé glorieux. Je restai moi-même très longtemps à le contempler. Qu’était Gorki pour tous ces gens ? Je ne sais trop : un maître ? un camarade ? un frère ?... C’était, en tout cas, quelqu’un de mort. Et sur tous les visages, même ceux des plus jeunes enfants, se lisait une sorte de stupeur attristée, mais aussi, mais surtout une force de sympathie rayonnante. Il ne s’agissait plus ici de beauté <pagenum num="28"/>physique, mais un très grand nombre de pauvres gens que je voyais passer offraient à mes regards quelque chose de plus admirable encore que la beauté ; et combien d’entre eux j’eusse voulu presser sur mon cœur !</p>
+
+<p>Aussi bien nulle part autant qu’en U.R.S.S. le contact avec tous et n’importe qui ne s’établit plus aisément, immédiat, profond, chaleureux. Il se tisse aussitôt — parfois un regard y suffit — des liens de sympathie violente. Oui, je ne pense pas que nulle part, autant qu’en U.R.S.S., l’on puisse éprouver aussi profondément et aussi fort le sentiment de l’humanité. En dépit des différences de langue, je ne m’étais jamais encore et nulle part senti aussi abondamment camarade et frère ; et je donnerais les plus beaux paysages du monde pour cela.</p>
+
+<p>Des paysages, je parlerai pourtant ; mais je raconterai d’abord notre premier contact avec une bande de « Komsomols » <noteref noteid="note.28.1"/>.</p>
+
+<notes>
+  <note id="note.28.1">
+    <p>Jeunesse communiste.</p>
+  </note>
+</notes>
+
+<vsep class="emptyline"/>
+
+<p>C’était dans le train qui nous menait de Moscou à Ordjonékidzé (l’ancien <pagenum num="29" b="Vladikau-" a="case">Vladikaucase</pagenum>). Le trajet est long. Au nom de l’Union des Écrivains Soviétiques, Michel Koltzov, avait mis à notre disposition un très confortable wagon spécial. Nous y étions inespérément bien installés tous les six : Jef Last, Guilloux, Herbart, Schiffrin, Dabit et moi ; avec notre interprète-compagne, la fidèle camarade Bola. En plus de nos compartiments à couchettes, nous disposions d’un salon où l’on nous servait nos repas. On ne peut mieux. Mais ce qui ne nous plaisait guère, c’était de ne pouvoir communiquer avec le reste du train. Aux premiers arrêts, nous étions descendus sur le quai pour nous convaincre qu’une compagnie particulièrement plaisante occupait le wagon voisin. C’était une bande de Komsomols en vacances, partis pour le Caucase avec l’espoir d’escalader le mont Kasbeck. Nous obtînmes enfin que les portes de séparation fussent ouvertes, et, sitôt après, nous prîmes contact avec nos charmants voisins. J’avais emporté de Paris quantité de petits jeux d’adresse, très différents de ceux que l’on connaît en U.R.S.S.. Ils me servent occasionnellement à entrer en relations avec ceux dont je ne comprends pas la langue. Ces <pagenum num="30"/>petits jeux passèrent de main en main. Jeunes gens et jeunes filles s’y exercèrent et n’eurent de cesse qu’ils n’eussent triomphé de toutes les difficultés proposées. « Un Komsomol ne se tient jamais pour battu », nous disaient-ils en riant. Leur wagon était fort étroit ; il faisait particulièrement chaud ce jour-là ; tous entassés les uns contre les autres, on étouffait ; c’était charmant.</p>
+
+<p>Je dois ajouter que, pour nombre d’entre eux, je n’étais pas un inconnu. Certains avaient lu de mes livres (le plus souvent c’était <i>le Voyage au Congo</i>) et comme, à la suite de mon discours sur la Place Rouge à l’occasion des funérailles de Gorki, tous les journaux avaient publié mon portrait, ils m’avaient aussitôt reconnu et se montraient extrêmement sensibles à l’attention que je leur portais ; mais pas plus que je ne l’étais moi-même aux témoignages de leur sympathie. Bientôt une grande discussion s’engagea. Jef Last, qui comprend fort bien le russe et le parle, nous expliqua que les petits jeux introduits par moi leur paraissaient charmants, mais qu’ils se demandaient s’il était bien séant qu’André Gide lui-même s’en amusât. Jef Last <pagenum num="31"/>dut arguer que ce petit divertissement servait à lui reposer les méninges. Car un vrai Komsomol, toujours tendu vers le service, juge tout d’après son utilité. Oh ! sans pédanterie, du reste, et cette discussion même, coupée de rires, était un jeu. Mais, comme l’air respirable manquait un peu dans leur wagon, nous invitâmes une dizaine d’entre eux à passer dans le nôtre, où la soirée se prolongea dans des chants et même des danses populaires que la dimension du salon permettait. Cette soirée restera pour mes compagnons et pour moi l’un des meilleurs souvenirs du voyage. Et nous doutions si dans quelque autre pays on peut connaître une aussi brusque et naturelle cordialité, si dans aucun autre pays la jeunesse est aussi charmante<noteref noteid="note.31.1"/>.</p>
+
+<notes>
+  <note id="note.31.1">
+    <p>Ce qui me plaît aussi en U.R.S.S., c’est l’extraordinaire prolongement de la jeunesse ; ce à quoi, particulièrement en France (mais je crois bien : dans tous nos pays latins), nous sommes si peu habitués. La jeunesse est riche de promesses ; un adolescent de chez nous cesse vite de promettre pour tenir. Des quatorze ans déjà tout se fige. L’étonnement devant la vie ne se lit plus sur le visage, ni plus la moindre naïveté. L’enfant devient presque aussitôt Jeune Homme. Les jeux sont faits.</p>
+  </note>
+</notes>
+
+<p>J’ai dit que je m’intéressais moins aux paysages... J’aurais voulu raconter <pagenum num="32" b="pour-" a="tant">pourtant</pagenum> les admirables forêts du Caucase, celle à l’entrée de la Kakhétie, celle des environs de Batoum, celle surtout de Bakouriani au-dessus de Borjom ; je n’en connaissais pas, je n’en imagine pas, de plus belles : aucun bois taillis n’y cache les fûts des grands arbres ; forêts coupées de clairières mystérieuses où le soir tombe avant la fin du jour, et l’on imagine le petit Poucet s’y perdant. Nous avions traversé cette forêt merveilleuse en nous rendant à un lac de montagne et l’on nous fit l’honneur de nous affirmer que jamais aucun étranger encore n’y était venu. Point n’était besoin de cela pour me le faire trouver admirable. Sur ses bords sans arbres, un étrange petit village (Tabatzkouri) enseveli neuf mois de l’année sous la neige et que j’aurais pris plaisir à décrire... Ah ! que n’étais-je venu simplement en touriste ! ou en naturaliste ravi de découvrir là-bas quantité de plantes nouvelles, de reconnaître sur les hauts plateaux la « scabieuse du Caucase » de mon jardin... Mais ce n’est point là ce que je suis venu chercher en U.R.S.S.. Ce qui m’y importe c’est l’homme, les hommes, et ce qu’on en peut faire, et ce qu’on en a fait. <pagenum num="33"/>La forêt qui m’y attire, affreusement touffue et où je me perds, c’est celle des questions sociales. En U.R.S.S. elles vous sollicitent, et vous pressent, et vous oppressent de toutes parts.</p>
+
+<pagenum num="34"/>
+</page-sequence>
+<page-sequence id='p03'>
+  <pagenum num="35"/>
+
+<h2>II</h2>
+
+<p>De Leningrad j’ai peu vu les quartiers nouveaux. Ce que j’admire en Leningrad, c’est Saint-Pétersbourg. Je ne connais pas de ville plus belle ; pas de plus harmonieuses fiançailles de la pierre, du métal<noteref noteid="note.35.1"/> et de l’eau. On la dirait rêvée par Pouchkine ou par Baudelaire. Parfois, aussi elle rappelle des peintures de Chirico. Les monuments y sont de proportions parfaites, comme les thèmes dans une symphonie de Mozart. « Là tout n’est qu’ordre et beauté ». L’esprit s’y meut avec aisance et joie.</p>
+
+<notes>
+  <note id="note.35.1">
+    <p>Coupoles de cuivre et flèches d’or.</p>
+  </note>
+</notes>
+
+<p>Je ne suis guère en humeur de parler du prodigieux musée de l’Ermitage ; tout ce que j’en pourrais dire me paraîtrait insuffisant. Pourtant, je voudrais louer en passant le zèle intelligent qui, chaque fois qu’il se pouvait, groupe autour d’un tableau <pagenum num="36"/>tout ce qui, du même maître, peut nous instruire : études, esquisses, croquis, ce qui explique la lente formation de l’œuvre.</p>
+
+<p>En revenant de Leningrad, la disgrâce de Moscou frappe plus encore. Même elle exerce son action opprimante et déprimante sur l’esprit. Les bâtiments, à quelques rares exceptions près, sont laids (pas seulement les plus modernes), et ne tiennent aucun compte les uns des autres. Je sais bien que Moscou se transforme de mois en mois ; c’est une ville en formation ; tout l’atteste et l’on y respire partout le devenir. Mais je crains qu’on ne soit mal parti. On taille, on défonce, on sape, on supprime, l’on reconstruit, et tout cela comme au hasard. Et Moscou reste, malgré sa laideur, une ville attachante entre toutes : elle vit puissamment. Cessons de regarder les maisons : ce qui m’intéresse ici, c’est la foule.</p>
+
+<p>Durant les mois d’été presque tout le monde est en blanc. Chacun ressemble à tous. Nulle part, autant que dans les rues de Moscou, n’est sensible le résultat du nivellement social : une société sans classes, dont chaque membre paraît avoir <pagenum num="37"/>les mêmes besoins. J’exagère un peu ; mais à peine. Une extraordinaire uniformité règne dans les mises ; sans doute elle paraîtrait également dans les esprits, si seulement on pouvait les voir. Et c’est aussi ce qui permet à chacun d’être et de paraître joyeux. (On a si longuement manqué de tout qu’on est content de peu de chose. Quand le voisin n’a pas davantage on se contente de ce qu’on a.) Ce n’est qu’après mûr examen qu’apparaissent les différences. A première vue l’individu se fond ici dans la masse, est si peu particularisé qu’il semble qu’on devrait, pour parler des gens, user d’un partitif et dire non point : des hommes, mais : de l’homme.</p>
+
+<p>Dans cette foule, je me plonge ; je prends un bain d’humanité.</p>
+
+<vsep class="emptyline"/>
+
+<p>Que font ces gens, devant ce magasin ? Ils font la queue ; une queue qui s’étend jusqu’à la rue prochaine. Ils sont là de deux à trois cents, très calmes, patients, qui attendent. Il est encore tôt ; le magasin n’a pas ouvert ses portes. Trois quarts d’heure plus tard, je repasse : la même foule est <pagenum num="38"/>encore là. Je m’étonne : que sert d’arriver à l’avance ? Qu’y gagne-t-on ?</p>
+
+<p>— Comment, ce qu’on y gagne ?... Les premiers sont les seuls servis.</p>
+
+<p>Et l’on m’explique que les journaux ont annoncé un grand arrivage de... je ne sais quoi (je crois que ce jour-là, c’étaient des coussins). Il y a peut-être quatre ou cinq cents objets, pour lesquels se présenteront huit cents, mille ou quinze cents amateurs. Bien avant le soir, il n’en restera plus un seul. Les besoins sont si grands et le public est si nombreux, que la demande, durant longtemps encore, l’emportera sur l’offre, et l’emportera de beaucoup. On ne parvient pas à suffire.</p>
+
+<p>Quelques heures plus tard, je pénètre dans le magasin. Il est énorme. Dedans c’est une incroyable cohue. Les vendeurs, du reste, ne s’affolent pas, car, autour d’eux, pas le moindre signe d’impatience ; chacun attend son tour, assis ou debout, parfois avec un enfant sur les bras, sans numéro d’ordre et pourtant sans aucun désordre. On passera là, s’il le faut, sa matinée, sa journée ; dans un air qui, pour celui qui vient du dehors, paraît d’abord <pagenum num="39" b="irrespira-" a="ble ;">irrespirable ; </pagenum>puis on s’y fait, comme on se fait à tout. J’allais écrire : on se résigne. Mais le Russe est bien mieux que résigné : il semble prendre plaisir à attendre, et vous fait attendre à plaisir.</p>
+
+<p>Fendant la foule ou porté par elle, j’ai visité du haut en bas, de long en large, le magasin. Les marchandises sont, à bien peu près, rebutantes. On pourrait croire, même, que, pour modérer les appétits, étoffes, objets, etc..., se fassent inattrayants au possible, de sorte qu’on achèterait par grand besoin mais non jamais par gourmandise. J’aurais voulu rapporter quelques « souvenirs » à des amis ; tout est affreux. Pourtant, depuis quelques mois, me dit-on, un grand effort a été tenté ; un effort vers la qualité ; et l’on parvient, en cherchant bien et en y consacrant le temps nécessaire, à découvrir de-ci, de-là, de récentes fournitures fort plaisantes et rassurantes pour l’avenir. Mais pour s’occuper de la qualité il faut d’abord que la quantité suffise ; et durant longtemps elle ne suffisait pas ; elle y parvient enfin, mais à peine. Du reste les peuples de l’U.R.S.S. semblent s’éprendre de toutes les nouveautés proposées, même <pagenum num="40"/>de celles qui paraissent laides à nos yeux d’Occidentaux. L’intensification de la production permettra bientôt, je l’espère, la sélection, le choix, la persistance du meilleur et la progressive élimination des produits de qualité inférieure.</p>
+
+<p>Cet effort vers la qualité porte surtout sur la nourriture. Il reste encore dans ce domaine fort à faire. Mais, lorsque nous déplorons la mauvaise qualité de certaines denrées, Jef Last qui en est à son quatrième voyage en U.R.S.S., et dont le précédent séjour là-bas remonte à deux ans, s’émerveille au contraire des prodigieux progrès récemment accomplis. Les légumes et les fruits en particulier, sont encore, sinon mauvais du moins médiocres à quelques rares exceptions près. Ici, comme partout, l’exquis cède à l’ordinaire c’est-à-dire au plus abondant. Une prodigieuse quantité de melons ; mais sans saveur. L’impertinent proverbe persan, que je n’ai entendu citer, et ne veux citer, qu’en anglais : « <i>Women for duty, boys for pleasure, melons for delight</i> », ici porte à faux. Le vin est souvent bon (je me souviens en particulier, des crus exquis de Tzinandali, en Kakhétie) ; la bière <pagenum num="41"/>passable. Certains poissons fumés (à Léningrad) sont excellents, mais ne supportent pas le transport.</p>
+
+<vsep class="emptyline"/>
+
+<p>Tant que l’on n’avait pas le nécessaire, on ne pouvait s’occuper raisonnablement du superflu. Si l’on n’a pas fait plus, en U.R.S.S. pour la gourmandise, ou pas plus tôt, c’est que trop d’appétits n’étaient pas encore <correction original="rassassiés">rassasiés</correction>.</p>
+
+<p>Le goût du reste ne s’affine que si la comparaison est permise ; et il n’y avait pas à choisir. Pas de « X habille mieux ». Force est ici de préférer ce que l’on vous offre ; c’est à prendre ou à laisser. Du moment que l’État est à la fois fabricant, acheteur et vendeur, le progrès de la qualité reste en raison du progrès de la culture.</p>
+
+<p>Alors, je pense (en dépit de mon anticapitalisme) à tous ceux de chez nous qui, du grand industriel au petit commerçant, se tourmentent et s’ingénient : qu’inventer qui flatterait le goût du public ? Avec quelle subtile astuce chacun d’eux cherche à découvrir par quel raffinement il pourra supplanter un rival ! De tout cela, l’État n’a cure, car l’État n’a pas de rival. La qualité ? <pagenum num="42"/>— « A quoi bon, s’il n’y a pas de concurrence », nous a-t-on dit. Et c’est ainsi que l’on explique trop aisément la mauvaise qualité de tout, en U.R.S.S. et l’absence de goût du public. Eût-il « du goût » il ne pourrait le satisfaire. Non ; ce n’est plus d’une rivalité mais bien d’une exigence à venir, développée progressivement par la culture, que dépend ici le progrès. En France, tout irait sans doute plus vite, car l’exigence existe déjà.</p>
+
+<p>Pourtant, ceci encore : Chaque État soviétique avait son art populaire ; qu’est-il devenu ? Une grande tendance égalitaire refusa durant longtemps d’en tenir compte. Mais ces arts régionaux reviennent en faveur et maintenant on les protège, on les restaure, on semble comprendre leur irremplaçable valeur. N’appartiendrait-il pas à une direction intelligente de se ressaisir d’anciens modèles, pour l’impression de tissus par exemple, et de les imposer, de les offrir du moins, au public. Rien de plus bêtement bourgeois, petit-bourgeois, que les productions d’aujourd’hui. Les étalages aux devantures des magasins de Moscou sont consternants. Tandis que les toiles <pagenum num="43"/>d’autrefois, imprimées au pochoir, étaient très belles. Et c’était de l’art populaire ; mais c’était de l’artisanat.</p>
+
+<vsep class="emptyline"/>
+
+<p>Je reviens au peuple de Moscou. Ce qui frappe d’abord c’est son extraordinaire indolence. Paresse serait sans doute trop dire... Mais le « stakhanovisme » a été merveilleusement inventé pour secouer le nonchaloir (on avait le knout autrefois). Le stakhanovisme serait inutile dans un pays où tous les ouvriers travaillent. Mais là-bas, dès qu’on les abandonne à eux-mêmes, les gens, pour la plupart, se relâchent. Et c’est merveille que malgré cela tout se fasse. Au prix de quel effort des dirigeants, c’est ce que l’on ne saurait trop dire. Pour bien se rendre compte de l’énormité de cet effort, il faut avoir pu d’abord apprécier le peu de « rendement » naturel du peuple russe.</p>
+
+<p>Dans une des usines que nous visitons, qui fonctionne à merveille (je n’y entends rien ; j’admire de confiance les machines ; mais m’extasie sans arrière-pensée devant le réfectoire, le club des ouvriers, leurs logements, tout ce que l’on a fait pour leur <pagenum num="44"/>bien-être, leur instruction, leur plaisir), on me présente un stakhanoviste, dont j’avais vu le portrait énorme affiché sur un mur. Il est parvenu, me dit-on, à faire en cinq heures le travail de huit jours (à moins que ce ne soit en huit heures, le travail de cinq jours ; je ne sais plus). Je me hasarde à demander si cela ne revient pas à dire que, d’abord, il mettait huit jours à faire le travail de cinq heures ? Mais ma question est assez mal prise et l’on préfère ne pas y répondre.</p>
+
+<p>Je me suis laissé raconter qu’une équipe de mineurs français, voyageant en U.R.S.S. et visitant une mine, a demandé, par camaraderie, à relayer une équipe de mineurs soviétiques et qu’aussitôt, sans autrement se fouler, sans s’en douter, ils ont fait du stakhanovisme.</p>
+
+<p>Et l’on en vient à se demander ce que, avec le tempérament français, le zèle, la conscience et l’éducation de nos travailleurs le régime soviétique n’arriverait pas à donner.</p>
+
+<p>Il n’est que juste d’ajouter, sur ce fond de grisaille, en plus des stakhanovistes, toute une jeunesse fervente, <i>keen at work</i>, <pagenum num="45"/>levain joyeux et propre à faire lever la pâte.</p>
+
+<vsep class="emptyline"/>
+
+<p>Cette inertie de la masse me paraît avoir été, être encore, une des plus importantes, des plus graves données du problème que Staline avait à résoudre. De là, les « ouvriers de choc » (Udarniks) ; de là, le stakhanovisme. Le rétablissement de l’inégalité des salaires y trouve également son explication.</p>
+
+<vsep class="emptyline"/>
+
+<p>Nous visitons aux environs de Soukhoum, un kolkhoze modèle. Il est vieux de six ans. Après avoir péniblement végété les premiers temps, c’est aujourd’hui l’un des plus prospères. On l’appelle « le millionnaire ». Tout y respire la félicité. Ce kolkhoze s’étend sur un très vaste espace. Le climat aidant, la végétation y est luxuriante. Chaque habitation, construite en bois, montée sur échasses qui l’écartent du sol, est pittoresque, charmante ; un assez grand jardin l’entoure, empli d’arbres fruitiers, de légumes, de fleurs. Ce kolkhoze a pu réaliser, l’an dernier, des bénéfices extraordinaires, lesquels ont permis d’importantes réserves ; ont permis d’élever à seize <pagenum num="46"/>roubles cinquante le taux de la journée de travail. Comment ce chiffre est-il fixé ? Exactement par le même calcul qui, si le kolkhoze était une entreprise agricole capitaliste, dicterait le montant des dividendes à distribuer aux actionnaires. Car ceci reste acquis : il n’y a plus en U.R.S.S. l’exploitation d’un grand nombre pour le profit de quelques-uns. C’est énorme. Ici nous n’avons plus d’actionnaires ; ce sont les ouvriers eux-mêmes (ceux du kolkhoze il va sans dire) qui se partagent les bénéfices, sans aucune redevance à l’État<noteref noteid="note.46.1"/>. Cela serait parfait s’il n’y avait pas d’autres kolkhozes, pauvres ceux-là, et qui ne parviennent pas à joindre les deux bouts. Car, si j’ai bien compris, chaque kolkhoze a son autonomie, et il n’est point question d’entr’aide. Je me trompe peut-être ? Je souhaite de m’être trompé<noteref noteid="note.46.2"/>.</p>
+
+<notes>
+  <note id="note.46.1">
+    <p>C’est du moins ce qui m’a été plusieurs fois affirmé. Mais je tiens tous les « renseignements », tant que non contrôlés, pour suspects, comme ceux qu’on obtient dans les colonies. J’ai peine à croire que ce kolkhoze soit privilégié au point d’échapper à la redevance de 7&#x202f;% sur la production brute qui pèse sur les autres kolkhozes ; sans compter de 35 à 39 roubles de capitation.</p>
+  </note>
+
+  <note id="note.46.2">
+    <p>Je relègue en appendice quelques renseignements plus précis. J’en avais pris bien d’autres. Mais les chiffres ne sont point ma partie, et les questions proprement économiques échappent à ma compétence. De plus, si ces renseignements sont très précisément ceux que l’on m’a donnés, je ne puis pourtant pas en garantir l’exactitude. L’habitude des colonies m’a appris à me méfier des « renseignements ». Enfin, et surtout, ces questions ont été déjà suffisamment traitées par des spécialistes ; je n’ai pas à y revenir.</p>
+  </note>
+</notes>
+
+<pagenum num="47"/>
+
+<p>J’ai visité plusieurs des habitations de ce kolkhoze très prospère<noteref noteid="note.47.1"/>... Je voudrais exprimer la bizarre et attristante impression qui se dégage de chacun de ces « intérieurs » : celle d’une complète dépersonnalisation. Dans chacun d’eux les mêmes vilains meubles, le même portrait de Staline, et absolument rien d’autre ; pas le moindre objet, le moindre souvenir personnel. Chaque demeure est interchangeable ; au point que les kolkhoziens, interchangeables eux-mêmes semble-t-il, déménageraient de l’une à l’autre sans même s’en apercevoir<noteref noteid="note.47.2"/>. Le bonheur est ainsi plus facilement obtenu certes ! C’est aussi, me <pagenum num="48"/>dira-t-on, que le kolkhozien prend tous ses plaisirs en commun. Sa chambre n’est plus qu’un gîte pour y dormir ; tout l’intérêt de sa vie a passé dans le club, dans le parc de culture, dans tous les lieux de réunion. Que peut-on souhaiter de mieux ? Le bonheur de tous ne s’obtient qu’en désindividualisant chacun. Le bonheur de tous ne s’obtient qu’aux dépens de chacun. Pour être heureux, soyez conformes.</p>
+
+<notes>
+  <note id="note.47.1">
+    <p>Dans nombre d’autres, il n’est point question de demeures particulières ; les gens couchent dans des dortoirs, des « chambrées ».</p>
+  </note>
+  <note id="note.47.2">
+    <p>Cette impersonnalité de chacun me permet de supposer aussi que ceux qui couchent dans des dortoirs souffrent de la promiscuité et de l’absence de recueillement possible beaucoup moins que s’ils étaient capables d’individualisation. Mais cette dépersonnalisation, à quoi tout, en U.R.S.S., semble tendre, peut-elle être considérée comme un progrès ? Pour ma part, je ne puis le croire.</p>
+  </note>
+</notes>
+
+</page-sequence>
+<page-sequence id='p04'>
+  <pagenum num="49"/>
+
+<h2>III</h2>
+
+<p>En U.R.S.S. il est admis d’avance et une fois pour toutes que, sur tout et n’importe quoi, il ne saurait y avoir plus d’une opinion. Du reste, les gens ont l’esprit ainsi façonné que ce conformisme leur devient facile, naturel, insensible, au point que je ne pense pas qu’il y entre de l’hypocrisie. Sont-ce vraiment ces gens-là qui ont fait la révolution ? Non ; ce sont ceux-là qui en profitent. Chaque matin, la <i>Pravda</i> leur enseigne ce qu’il sied de savoir, de penser, de croire. Et il ne fait pas bon sortir de là ! De sorte que, chaque fois que l’on converse avec un Russe, c’est comme si l’on conversait avec tous. Non point que chacun obéisse précisément à un mot d’ordre ; mais tout est arrangé de manière qu’il ne puisse pas dissembler. Songez que ce façonnement de l’esprit commence dès la plus tendre enfance... De là d’extraordinaires acceptations dont parfois, étranger, tu t’étonnes, et <pagenum num="50"/>certaines possibilités de bonheur qui te surprennent plus encore.</p>
+
+<p>Tu plains ceux-ci de faire la queue durant des heures ; mais eux trouvent tout naturel d’attendre. Le pain, les légumes, les fruits te paraissent mauvais ; mais il n’y en a point d’autres. Ces étoffes, ces objets que l’on te présente, tu les trouves laids ; mais il n’y a pas le choix. Tout point de comparaison enlevé, sinon avec un passé peu regrettable, tu te contenteras joyeusement de ce qu’on t’offre. L’important ici, c’est de persuader aux gens qu’on est aussi heureux que, en attendant mieux, on peut l’être ; de persuader aux gens qu’on est moins heureux qu’eux partout ailleurs. L’on n’y peut arriver qu’en empêchant soigneusement toute communication avec le dehors (j’entends le par delà les frontières). Grâce à quoi, à conditions de vie égales, ou même sensiblement inférieures, l’ouvrier russe s’estime heureux, <i>est </i>plus heureux, beaucoup plus heureux que l’ouvrier de France. Leur bonheur est fait d’espérance, de confiance et d’ignorance.</p>
+
+<pagenum num="51"/>
+
+<p>Il m’est extrêmement difficile d’apporter de l’ordre dans ces réflexions, tant les problèmes, ici, s’entrecroisent et se chevauchent. Je ne suis pas un technicien et c’est par leur retentissement psychologique que les questions économiques m’intéressent. Je m’explique fort bien, psychologiquement, pourquoi il importe d’opérer en vase clos, de rendre opaques les frontières : jusqu’à nouvel ordre et tant que les choses n’iront pas mieux, il importe au bonheur des habitants de l’U.R.S.S. que ce bonheur reste à l’abri.</p>
+
+<p>Nous admirons en U.R.S.S. un extraordinaire élan vers l’instruction, la culture ; mais cette instruction ne renseigne que sur ce qui peut amener l’esprit à se féliciter de l’état de choses présent et à penser : <i>O U.R.S.S... Ave ! Spes unica !</i> Cette culture est toute aiguillée dans le même sens ; elle n’a rien de désintéressé ; elle accumule et l’esprit critique (en dépit du marxisme) y fait à peu près complètement défaut. Je sais bien : on fait grand cas là-bas, de ce qu’on appelle « l’auto-critique ». Je l’admirais de loin et pense qu’elle eût pu donner des résultats merveilleux, si sérieusement et <pagenum num="52" b="sincère-" a="ment">sincèrement</pagenum> appliquée. Mais j’ai vite dû comprendre que, en plus des dénonciations et des remontrances (la soupe du réfectoire est mal cuite ou la salle de lecture du club mal balayée) cette critique ne consiste qu’à se demander si ceci ou cela est « dans la ligne » ou ne l’est pas. Ce n’est pas elle, la ligne, que l’on discute. Ce que l’on discute, c’est de savoir si telle œuvre, tel geste ou telle théorie est conforme à cette ligne sacrée. Et malheur à celui qui chercherait à pousser plus loin ! Critique en deçà, tant qu’on voudra. La critique au delà n’est pas permise. Il y a des exemples de cela dans l’histoire.</p>
+
+<p>Et rien, plus que cet état d’esprit, ne met en péril la culture. Je m’en expliquerai plus loin.</p>
+
+<p>Le citoyen soviétique reste dans une extraordinaire ignorance de l’étranger<noteref noteid="note.52.1"/>. Bien plus : on l’a persuadé que tout, à l’étranger, et dans tous les domaines, allait beaucoup moins bien qu’en U.R.S.S. Cette illusion est savamment entretenue ; car il importe que chacun, même peu satisfait, se <pagenum num="53"/>félicite du régime qui le préserve de pires maux.</p>
+
+<notes>
+  <note id="note.52.1">
+    <p>Ou du moins n’en connaît que ce qui l’encouragera dans son sens.</p>
+  </note>
+</notes>
+
+<p>D’où certain <i>complexe de supériorité</i>, dont je donnerai quelques exemples :</p>
+
+<p>Chaque étudiant est tenu d’apprendre une langue étrangère. Le français est complètement délaissé. C’est l’anglais, c’est l’allemand surtout, qu’ils sont censés connaître. Je m’étonne de les entendre le parler si mal ; un élève de seconde année de chez nous en sait davantage.</p>
+
+<p>De l’un d’entre eux que nous interrogeons, nous recevons cette explication (en russe, et Jef Last nous le traduit) :</p>
+
+<p>— Il y a quelques années encore l’Allemagne et les États-Unis pouvaient, sur quelques points, nous instruire. Mais à présent, nous n’avons plus rien à apprendre des étrangers. Donc à quoi bon parler leur langue<noteref noteid="note.53.1"/> ?</p>
+
+<notes>
+  <note id="note.53.1">
+    <p>Devant notre stupeur non dissimulée, l’étudiant ajoutait il est vrai : « Je comprends et nous comprenons aujourd’hui que c’est un raisonnement absurde. La langue étrangère, quand elle ne sert plus à instruire, peut bien servir encore à enseigner. »</p>
+  </note>
+</notes>
+
+<vsep class="emptyline"/>
+
+<p>Du reste, s’ils s’inquiètent tout de même de ce qui se fait à l’étranger, ils se soucient <pagenum num="54"/>bien davantage de ce que l’étranger pense d’eux. Ce qui leur importe c’est de savoir si nous les admirons assez. Ce qu’ils craignent, c’est que nous soyons insuffisamment renseignés sur leurs mérites. Ce qu’ils souhaitent de nous, ce n’est point tant qu’on les renseigne, mais qu’on les complimente.</p>
+
+<p>Les petites filles charmantes qui se pressent autour de moi dans ce jardin d’enfants (où du reste tout est à louer, comme tout ce qu’on fait ici pour la jeunesse) me harcèlent de questions. Ce qu’elles voudraient savoir, ce n’est pas si nous avons des jardins d’enfants en France ; mais bien si nous savons en France qu’ils ont en U.R.S.S. d’aussi beaux jardins d’enfants.</p>
+
+<p>Les questions que l’on vous pose sont souvent si ahurissantes que j’hésite à les rapporter. On va croire que je les invente : — On sourit avec scepticisme lorsque je dis que Paris a, lui aussi, son métro. Avons-nous seulement des tramways ? des omnibus ?... L’un demande (et ce ne sont plus des enfants, mais bien des ouvriers instruits) si nous avons aussi des écoles, en France. Un autre, un peu mieux renseigné, <pagenum num="55"/>hausse les épaules ; des écoles, oui, les Français en ont ; mais on y bat les enfants ; il tient ce renseignement de source sûre. Que tous les ouvriers, chez nous, soient très malheureux, il va sans dire, puisque nous n’avons pas encore « fait la révolution ». Pour eux, hors de l’U.R.S.S., c’est la nuit. A part quelques capitalistes éhontés, tout le reste du monde se débat dans les ténèbres.</p>
+
+<p>Des jeunes filles instruites et fort « distinguées » (au camp d’Artek qui n’admet que les sujets hors ligne) s’étonnent beaucoup lorsque, parlant des films russes, je leur dis que <i>Tchapaïev</i>, et <i>Nous de Cronstadt</i>, ont eu à Paris grand succès. On leur avait pourtant bien affirmé que tous les films russes étaient interdits en France. Et, comme ceux qui leur ont dit cela, <correction original="se">ce</correction> sont leurs maîtres, je vois bien que la parole que ces jeunes filles mettent en doute, c’est la mienne. Les Français sont tellement blagueurs !</p>
+
+<p>Dans une société d’officiers de marine, à bord d’un cuirassé que l’on vient de me faire admirer (« complètement fait en U.R.S.S., celui-là ») je me risque à oser dire que je crains qu’on ne soit moins bien <pagenum num="56" b="ren-" a="seigné">renseigné</pagenum> en U.R.S.S. sur ce qui se fait en France, qu’en France sur ce qui se fait en U.R.S.S., un murmure nettement désapprobateur s’élève : « <i>La Pravda</i> renseigne sur tout suffisamment. » Et, brusquement, quelqu’un, lyrique, se détachant du groupe, s’écrie : « Pour raconter tout ce qui se fait en U.R.S.S. de neuf et de beau et de grand, on ne trouverait pas assez de papier dans le monde. »</p>
+
+<p>Dans ce même camp modèle d’Artek, paradis pour enfants modèles, petits prodiges, médaillés, diplômés — ce qui fait que je lui préfère de beaucoup d’autres camps de pionniers, plus modestes, moins aristocrates — un enfant de treize ans qui, si j’ai bien compris, vient d’Allemagne mais qu’a déjà façonné l’Union, me guide à travers le parc dont il fait valoir les beautés. Il récite :</p>
+
+<p>— Voyez : ici, il n’y avait rien dernièrement encore... Et, tout à coup : cet escalier. Et c’est partout ainsi en U.R.S.S. : hier rien ; demain tout. Regardez ces ouvriers, là-bas, comme ils travaillent ! Et partout en U.R.S.S. des écoles et des camps semblables. Naturellement, pas tout à fait aussi beaux, <pagenum num="57"/>parce que ce camp d’Artek n’a pas son pareil au monde. Staline s’y intéresse tout particulièrement. Tous les enfants qui viennent ici sont remarquables.</p>
+
+<p>» Vous entendrez tout à l’heure, un enfant de treize ans, qui sera le meilleur violoniste du monde. Son talent a déjà été tellement apprécié chez nous qu’on lui a fait cadeau d’un violon historique, d’un violon d’un fabricant de violons d’autrefois très célèbre<noteref noteid="note.57.1"/>.</p>
+
+<notes>
+  <note id="note.57.1">
+    <p>J’entendis, peu après ce petit prodige exécuter sur son Stradivarius du Paganini, puis un <i>pot-pourri</i> de Gounod — et dois reconnaître qu’il est stupéfiant.</p>
+  </note>
+</notes>
+
+<p>» Et ici : — Regardez cette muraille ! Dirait-on qu’elle a été construite en dix jours ? »</p>
+
+<p>L’enthousiasme de cet enfant paraît si sincère que je me garde de lui faire remarquer que ce mur de soutènement, trop hâtivement dressé, déjà se fissure. Il ne consent à voir, ne peut voir que ce qui flatte son orgueil, et ajoute dans un transport :</p>
+
+<p>— Les enfants même s’en étonnent<noteref noteid="note.57.2"/> ! /</p>
+
+<notes>
+  <note id="note.57.2">
+    <p>Eugène Dabit avec qui je parlais de ce complexe de supériorité, auquel son extrême modestie le rendait particulièrement sensible, me tendit le second volume des <i>Ames Mortes</i> (édition N. R. F.) qu’il était en train de relire. Au début figure une lettre de Gogol où Dabit me signale ce passage : « Beaucoup d’entre nous, surtout parmi les jeunes gens, exaltent outre mesure les vertus russes ; au lieu de développer en eux ces vertus, ils ne songent qu’à les étaler et à crier à l’Europe : « Regardez, étrangers, nous sommes meilleurs que vous ! » — Cette jactance est affreusement pernicieuse. Tout en irritant les autres, elle nuit à qui en fait preuve. La vantardise avilit la plus belle action du monde... Pour moi, je préfère à la suffisance un découragement passager. » — Cette « jactance » russe que Gogol déplore, l’éducation d’aujourd’hui la développe et l’enhardit.</p>
+  </note>
+</notes>
+
+<pagenum num="58"/>
+
+<p>Ces propos <correction original="enfants">d’enfants</correction> (propos dictés, appris peut-être) m’ont paru si topiques que je les ai transcrits le soir même et que je les rapporte ici tout au long.</p>
+
+<p>Je ne voudrais pourtant pas laisser croire que je n’ai pas remporté d’Artek d’autres souvenirs. Il est vrai : ce camp d’enfants est merveilleux. Dans un site admirable fort ingénieusement aménagé, il s’étage en terrasses et s’achève à la mer. Tout ce que l’on a pu imaginer pour le bien-être des enfants, pour leur hygiène, leur entraînement sportif, leur amusement, leur plaisir, est groupé et ordonné sur ces paliers et le long de ces pentes. Tous les enfants respirent la santé, le bonheur. Ils s’étaient montrés fort déçus lorsque nous leur avons dit que nous ne pourrions rester jusqu’à la nuit : ils avaient préparé le feu de camp traditionnel, orné <pagenum num="59"/>les arbres du jardin d’en bas de banderoles en notre honneur. Les réjouissances diverses : chants et danses qui devaient avoir lieu le soir, je demandai que tout fût reporté avant cinq heures. La route du retour était longue ; j’insistai pour rentrer à Sébastopol avant le soir. Et bien m’en prit, car c’est ce même soir qu’Eugène Dabit, qui m’avait accompagné là-bas, tomba malade. Rien n’annonçait cela pourtant et il put se réjouir pleinement du spectacle que nous offrirent ces enfants ; de la danse surtout de l’exquise petite Tadjikstane, qui s’appelle Tamar, je crois : celle même que l’on voyait embrassée par Staline sur toutes les affiches énormes qui couvraient les murs de Moscou. Rien ne dira le charme de cette danse et la grâce de cette enfant. « Un des plus exquis souvenirs de l’U.R.S.S. », me disait Dabit ; et je le pensais avec lui. Ce fut sa dernière journée de bonheur.</p>
+
+<vsep class="emptyline"/>
+
+<p>L’hôtel de Sotchi est des plus plaisants ; ses jardins sont fort beaux ; sa plage est des plus agréables, mais aussitôt les baigneurs voudraient nous faire avouer que nous <pagenum num="60"/>n’avons rien de comparable en France. Par décence nous nous retenons de leur dire qu’en France nous avons mieux, beaucoup mieux.</p>
+
+<p>Non : l’admirable ici, c’est que ce demi-luxe, ce confort, soient mis à l’usage du peuple — si tant est pourtant que ceux qui viennent habiter ici ne soient pas trop, de nouveau, des privilégiés. En général, sont favorisés les plus méritants, mais à condition toutefois qu’ils soient conformes, bien « dans la ligne » ; et ne bénéficient des avantages que ceux-ci.</p>
+
+<p>L’admirable, à Sotchi, c’est cette quantité de sanatoriums, de maisons de repos, autour de la ville, tous merveilleusement installés. Et que tout cela soit construit pour les travailleurs, c’est parfait. Mais, tout auprès, l’on souffre d’autant plus de voir les ouvriers employés à la construction du nouveau théâtre, si peu payés et parqués dans les campements sordides.</p>
+
+<p>L’admirable, à Sotchi, c’est Ostrovski. (V. appendice.)</p>
+
+<vsep class="emptyline"/>
+
+<p>Si déjà je louangeais l’hôtel de Sotchi, que dirai-je de celui de Sinop, près de <pagenum num="61"/>Soukhoum, bien supérieur et tel qu’il supporte la comparaison des meilleurs, des plus beaux, des plus confortables hôtels balnéaires étrangers. Son admirable jardin date de l’ancien régime, mais le bâtiment même de l’hôtel est tout récemment construit ; très intelligemment aménagé ; de l’aspect extérieur et intérieur le plus heureux ; chaque chambre a sa salle de bains, sa terrasse particulière. Les ameublements sont d’un goût parfait ; la cuisine y est excellente, une des meilleures que nous ayons goûtée en U.R.S.S.. L’hôtel Sinop paraît un des lieux de ce monde où l’homme se trouve le plus près du bonheur.</p>
+
+<p>A côté de l’hôtel, un sovkhose a été créé en vue d’approvisionner celui-ci. J’y admire une écurie modèle, une étable modèle, une porcherie modèle, et surtout un gigantesque poulailler dernier cri. Chaque poule porte à la patte sa bague numérotée ; sa ponte est soigneusement enregistrée ; chacune a pour y pondre, son petit box particulier, où on l’enferme et d’où elle ne sort qu’après avoir pondu. (Et je ne m’explique pas qu’avec tant de soins, les œufs que l’on nous sert à l’hôtel ne soient pas meilleurs.) <pagenum num="62"/>J’ajoute qu’on ne pénètre dans ces locaux qu’après avoir posé ses pieds sur un tapis imprégné de substance stérilisante pour désinfecter ses souliers. Le bétail, lui, passe à côté ; tant pis !</p>
+
+<p>Si l’on traverse un ruisseau qui délimite le sovkhose, un alignement de taudis. On y loge à quatre, dans une pièce de deux mètres cinquante sur deux mètres, louée à raison de deux roubles par personne et par mois. Le repas, au restaurant du sovkhose coûte deux roubles, luxe que ne peuvent se permettre ceux dont le salaire n’est que de soixante-quinze roubles par mois. Ils doivent se contenter, en plus du pain, d’un poisson sec.</p>
+
+<vsep class="emptyline"/>
+
+<p>Je ne proteste pas contre l’inégalité des salaires ; j’accorde qu’elle était nécessaire. Mais il y a des moyens de remédier aux différences de condition ; or je crains que ces différences, au lieu de s’atténuer, n’aillent en s’accentuant. Je crains que ne se reforme bientôt une nouvelle sorte de bourgeoisie ouvrière satisfaite (et, partant, conservatrice, parbleu !) trop comparable à la petite bourgeoisie de chez nous.</p>
+
+<pagenum num="63"/>
+
+<p>J’en vois partout des symptômes annonciateurs<noteref noteid="note.63.1"/>. Et comme nous ne pouvons douter hélas ! que les instincts bourgeois, veules, jouisseurs, insoucieux d’autrui, sommeillent au cœur de bien des hommes en dépit de toute révolution (car la réforme de l’homme ne peut se faire uniquement par le dehors), je m’inquiète beaucoup de voir, dans l’U.R.S.S. d’aujourd’hui, ces instincts bourgeois indirectement flattés, encouragés par de récentes décisions qui <pagenum num="64"/>reçoivent chez nous des approbations alarmantes. Avec la restauration de la famille, (en tant que « cellule sociale ») de l’héritage, et du legs, le goût du lucre, de la possession particulière, reprennent le pas sur le besoin de camaraderie, de partage et de vie commune. Non chez tous, sans doute ; mais chez beaucoup. Et l’on voit se reformer des couches de société sinon déjà des classes, une sorte d’aristocratie ; je ne parle pas ici de l’aristocratie du mérite et de la valeur personnelle, mais bien de celle du bien-penser, du conformisme, et qui, dans la génération suivante, deviendra celle de l’argent.</p>
+
+<notes>
+  <note id="note.63.1">
+    <p>La loi récente contre l’avortement a consterné tous ceux que des salaires insuffisants rendaient incapables de fonder un foyer, d’élever une famille. Elle a consterné également d’autres personnes, et pour de tout autres raisons : N’avait-on pas promis, au sujet de cette loi, une sorte de plébiscite, de consultation populaire qui devait décider de son acceptation et de sa mise en vigueur ? Une immense majorité s’est déclarée (plus ou moins ouvertement, il est vrai) contre cette loi. Il n’a pas été tenu compte de l’opinion et la loi a passé tout de même, à la stupeur quasi générale. Les journaux, il va sans dire, n’ont guère publié que des approbations. Dans les conversations particulières que j’ai pu avoir avec maints ouvriers à ce sujet, je n’ai entendu que des récriminations timorées, une résignation plaintive.</p>
+
+    <p>Encore cette loi, dans un certain sens, se justifie-t-elle ? Elle répond à de très déplorables abus. Mais que penser, au point de vue marxiste, de celle, plus ancienne, contre les homosexuels ? qui, les assimilant à des contre-révolutionnaires (car le <i>non-conformisme</i> est poursuivi jusque dans les questions sexuelles), les condamne à la déportation pour cinq ans avec renouvellement de peine s’ils ne se trouvent pas amendés par l’exil.</p>
+  </note>
+</notes>
+
+<p>Mes craintes sont-elles exagérées ? Je le souhaite. Du reste, l’U.R.S.S. nous a montré qu’elle était capable de brusques volte-face. Mais je crains bien que pour couper court à cet embourgeoisement, qu’aujourd’hui les gouvernants approuvent et favorisent, un brusque ressaisissement ne paraisse bientôt nécessaire, qui risque d’être aussi brutal, que celui qui mit fin à la Nep.</p>
+
+<p>Comment n’être pas choqué par le mépris, ou tout au moins l’indifférence que ceux qui sont et qui se sentent « du bon côté », marquent à l’égard des « inférieurs », <pagenum num="65"/>des domestiques<noteref noteid="note.65.1"/>, des manœuvres, des hommes et femmes « de journée », et j’allais dire : des pauvres. Il n’y a plus de classes, en U.R.S.S., c’est entendu. Mais il y a des pauvres. Il y en a trop ; beaucoup trop. J’espérais pourtant bien ne plus en voir, ou même plus exactement : c’est pour ne plus en voir que j’étais venu en U.R.S.S..</p>
+
+<notes>
+  <note id="note.65.1">
+    <p>Et, comme en reflet de ceci, quelle servilité, quelle obséquiosité, chez les domestiques ; non point ceux des hôtels, qui sont le plus souvent d’une dignité parfaite — très cordiaux néanmoins ; mais bien chez ceux qui ont affaire aux dirigeants, aux « responsables ».</p>
+  </note>
+</notes>
+
+<p>Ajoutez que la philanthropie n’est plus de mise, ni plus la simple charité<noteref noteid="note.65.2"/>. L’État s’en charge. Il se charge de tout et l’on n’a plus besoin, c’est entendu, de secourir. De là certaine sécheresse dans les rapports, en dépit de toute camaraderie. Et, naturellement, il ne s’agit pas ici des rapports entre égaux ; mais, à l’égard de ces « inférieurs », dont je parlais, le <i>complexe de supériorité</i> joue en plein.</p>
+
+<notes>
+  <note id="note.65.2">
+    <p>Je me hâte pourtant d’ajouter ceci : dans le jardin public de Sébastopol, un enfant estropié, qui ne peut se mouvoir qu’avec des béquilles, passe devant les bancs où des promeneurs sont assis. Je l’observe, longuement, qui fait la quête. Sur vingt personnes à qui il s’adresse, dix-huit ont donné ; mais qui sans doute ne se sont <correction original="laissé">laissés</correction> émouvoir qu’en raison de son infirmité.</p>
+  </note>
+</notes>
+
+<pagenum num="66"/>
+
+<p>Cet état d’esprit petit-bourgeois qui, je le crains, tend à se développer là-bas, est, à mes yeux, profondément et foncièrement contre-révolutionnaire.</p>
+
+<p>Mais ce qu’on appelle « contre-révolutionnaire » en U.R.S.S. aujourd’hui, ce n’est pas du tout cela. C’est même à peu près le contraire.</p>
+
+<p>L’esprit que l’on considère comme « contre-révolutionnaire » aujourd’hui, c’est ce même esprit révolutionnaire, ce ferment qui d’abord fit éclater les douves à demi-pourries du vieux monde tzariste. On aimerait pouvoir penser qu’un débordant amour des hommes, ou tout au moins un impérieux besoin de justice, emplit les cœurs. Mais une fois la révolution accomplie, triomphante, stabilisée, il n’est plus question de cela, et de tels sentiments, qui d’abord animaient les premiers révolutionnaires, deviennent encombrants, gênants, comme ce qui a cessé de servir. Je les compare, ces sentiments, à ces étais grâce auxquels on élève une arche, mais qu’on enlève après que la clef de voûte est posée. Maintenant que la révolution a <pagenum num="67" b="triom-" a="phé,">triomphé,</pagenum> maintenant qu’elle se stabilise, et s’apprivoise ; qu’elle pactise, et certains diront : s’assagit, ceux que ce ferment révolutionnaire anime encore et qui considèrent comme compromissions toutes ces concessions successives, ceux-là gênent et sont honnis, supprimés. Alors ne vaudrait-il pas mieux, plutôt que de jouer sur les mots, reconnaître que l’esprit révolutionnaire (et même simplement : l’esprit critique) n’est plus de mise, qu’il n’en faut plus ? Ce que l’on demande à présent, c’est l’acceptation, le conformisme. Ce que l’on veut et exige, c’est une approbation de tout ce qui se fait en U.R.S.S. ; ce que l’on cherche à obtenir, c’est que cette approbation ne soit pas résignée, mais sincère, mais enthousiaste même. Le plus étonnant, c’est qu’on y parvient. D’autre part, la moindre protestation, la moindre critique est passible des pires peines, et du reste aussitôt étouffée. Et je doute qu’en aucun autre pays aujourd’hui, fût-ce dans l’Allemagne de Hitler, l’esprit soit moins libre, plus courbé, plus craintif (terrorisé), plus vassalisé.</p>
+
+<pagenum num="68"/>
+</page-sequence>
+<page-sequence id='p05'>
+  <pagenum num="69"/>
+
+<h2>IV</h2>
+
+<p>Dans cette usine de raffinerie de pétrole, aux environs de Soukhoum, où tout nous paraît si remarquable : le réfectoire, les logements des ouvriers, leur club (quant à l’usine même, je n’y entends rien et admire de confiance) nous nous approchons du « Journal Mural », affiché selon l’usage dans une salle de club. Nous n’avons pas le temps de lire tous les articles, mais, à la rubrique « Secours rouge » où, en principe, se trouvent les renseignements étrangers, nous nous étonnons de ne voir aucune allusion à l’Espagne dont les nouvelles depuis quelques jours ne laissent pas de nous inquiéter. Nous ne cachons pas notre surprise un peu attristée. Il s’ensuit une légère gêne. On nous remercie de la remarque : il en sera certainement tenu compte.</p>
+
+<p>Le même soir, banquet. Toasts nombreux selon l’usage. Et quand on a bu à la santé de tous et de chacun des convives, Jef Last <pagenum num="70"/>se lève et, en russe, propose de vider un verre au triomphe du Front rouge espagnol. On applaudit chaleureusement, encore qu’avec une certaine gêne, nous semble-t-il ; et aussitôt, comme en réponse : toast à Staline. A mon tour, je lève mon verre pour les prisonniers politiques d’Allemagne, de Yougoslavie, de Hongrie... On applaudit, avec un enthousiasme franc cette fois ; on trinque, on boit. Puis, de nouveau, sitôt après : toast à Staline. C’est aussi que sur les victimes du fascisme, en Allemagne et ailleurs, l’on savait quelle attitude avoir. Pour ce qui est des troubles et de la lutte en Espagne, l’opinion générale et particulière attendait les directions de <i>Pravda</i> qui ne s’était pas encore prononcée. On n’osait pas se risquer avant de savoir ce qu’il fallait penser. Ce n’est que quelques jours plus tard (nous étions arrivés à Sébastopol) qu’une immense vague de sympathie, partie de la Place Rouge, vint déferler dans les journaux, et que, partout, des souscriptions volontaires pour le secours aux gouvernementaux s’organisèrent.</p>
+
+<vsep class="emptyline"/>
+
+<p>Dans le bureau de cette usine, un grand <pagenum num="71"/>tableau symbolique nous avait frappés ; on y voyait, au centre, Staline en train de parler ; répartis à sa droite et à sa gauche, les membres du gouvernement applaudir.</p>
+
+<vsep class="emptyline"/>
+
+<p>L’effigie de Staline se rencontre partout, son nom est sur toutes les bouches, sa louange revient immanquablement dans tous les discours. Particulièrement en Géorgie, je n’ai pu entrer dans une chambre habitée, fût-ce la plus humble, la plus sordide, sans y remarquer un portrait de Staline accroché au mur, à l’endroit sans doute où se trouvait autrefois l’<correction original="icone">icône</correction>. Adoration, amour ou crainte, je ne sais ; toujours et partout il est là.</p>
+
+<vsep class="emptyline"/>
+
+<p>Sur la route de Tiflis à Batoum, nous traversons Gori, la petite ville où naquit Staline. J’ai pensé qu’il serait sans doute courtois de lui envoyer un message, en réponse à l’accueil de l’U.R.S.S. où, partout, nous avons été acclamés, festoyés, choyés. Je ne trouverai jamais meilleure occasion. Je fais arrêter l’auto devant la poste et tends le texte d’une dépêche. Elle dit à peu <pagenum num="72"/>près : « En passant à Gori au cours de notre merveilleux voyage, j’éprouve le besoin cordial de vous adresser... » Mais ici, le traducteur s’arrête : Je ne puis point parler ainsi. Le « vous » ne suffit point, lorsque ce « vous », c’est Staline. Cela n’est point décent. Il y faut ajouter quelque chose. Et comme je manifeste certaine stupeur, on se consulte. On me propose : « Vous, chef des travailleurs », ou « maître des peuples » ou... je ne sais plus quoi<noteref noteid="note.72.1"/>. Je trouve cela absurde ; proteste que Staline est au-dessus de ces flagorneries. Je me débats en vain. Rien à faire. On n’acceptera ma dépêche que si je consens au rajout. Et, comme il s’agit d’une traduction que je ne suis pas à même de contrôler, je me soumets de guerre lasse, mais en déclinant toute responsabilité et songeant avec tristesse que tout cela contribue à mettre entre Staline et le peuple une effroyable, une <pagenum num="73" b="infranchissa-" a="ble">infranchissable</pagenum> distance. Et comme déjà j’avais pu constater de semblables retouches et « mises au point » dans les traductions de diverses allocutions<noteref noteid="note.73.1"/> que j’avais été amené à prononcer en U.R.S.S., je <correction original="déclairai">déclarai</correction> aussitôt que je ne reconnaîtrais comme mien aucun texte de moi paru en russe durant mon séjour<noteref noteid="note.73.2"/> et que je le dirais. Voici qui est fait.</p>
+
+<notes>
+  <note id="note.72.1">
+    <p>J’ai l’air d’inventer, n’est-ce pas ? Non, hélas ! Et que l’on ne vienne pas trop me dire que nous avions affaire en l’occurrence à quelque subalterne stupide et zélé maladroitement. Non, nous avions avec nous, prenant part à la discussion, plusieurs personnages suffisamment haut placés et, en tout cas, parfaitement au courant des « usages ».</p>
+  </note>
+
+  <note id="note.73.1">
+    <p>X... m’explique qu’il est de bon usage de faire suivre d’une épithète le mot « destin » dont je me servais, lorsqu’il s’agit du destin de l’U.R.S.S. Je finis par proposer « glorieux » que X... me dit propre à rallier tous les suffrages. Par contre, il me demande de bien vouloir supprimer le mot « grand » que j’avais mis devant « monarque ». Un monarque ne peut être grand. (V. Appendice, III.)</p>
+  </note>
+  <note id="note.73.2">
+    <p>Ne m’a-t-on pas fait déclarer que je n’étais ni compris, ni aimé par la jeunesse française ; que je prenais l’engagement de ne plus rien écrire désormais que pour le peuple ! etc.</p>
+  </note>
+</notes>
+
+<p>Oh ! parbleu, je ne veux voir dans ces menus travestissements, le plus souvent involontaires, aucune malignité : bien plutôt le désir d’aider quelqu’un qui n’est pas au courant des usages et qui certainement ne peut demander mieux que de s’y plier, d’y conformer ses expressions et sa pensée.</p>
+
+<vsep class="emptyline"/>
+
+<p>Staline, dans l’établissement du premier et du second plan quinquennal, fait preuve <pagenum num="74"/>d’une telle sagesse, d’une si intelligente souplesse dans les modifications successives qu’il a cru devoir y apporter, que l’on en vient à se demander si plus de constance était possible ; si ce progressif détachement de la première ligne, cet écartement du Léninisme, n’était pas nécessaire ; si plus d’entêtement n’exigeait pas du peuple un effort surhumain. De toute manière il y a déboire. Si ce n’est pas Staline, alors c’est l’homme, l’être humain, qui déçoit. Ce qu’on tentait, que l’on voulait, que l’on se croyait tout près d’obtenir, après tant de luttes, tant de sang versé, tant de larmes, c’était donc « au-dessus des forces humaines » ? Faut-il attendre encore, résigner, ou reporter à plus loin ses espoirs ? Voilà ce qu’en U.R.S.S. on se demande avec angoisse. Et que cette question vous effleure, c’est déjà trop.</p>
+
+<p>Après tant de mois d’efforts, tant d’années, on était en droit de se demander : vont-ils enfin pouvoir relever un peu la tête ? — Les fronts n’ont jamais été plus courbés.</p>
+
+<vsep class="emptyline"/>
+
+<p>Qu’il y ait divergence de l’idéal premier, voici qui ne peut être mis en doute. Mais <pagenum num="75"/>devrons-nous mettre en doute, du même coup, que ce que l’on voulait d’abord fût aussitôt possible. Y a-t-il faillite ? ou opportune et indiscutable <correction original="accomodation">accommodation</correction> à d’imprévues difficultés ?</p>
+
+<p>Ce passage de la « mystique » à la « politique » entraîne-t-il fatalement une <i>dégradation ?</i> Car il ne s’agit plus ici de théorie ; on est dans le domaine pratique ; il faut compter avec le <i>menschliches</i>, <i>allzumenschliches</i> — et compter avec l’ennemi.</p>
+
+<p>Quantité de résolutions de Staline sont prises, et ces derniers temps presque toutes, en fonction de l’Allemagne et dictées par la peur qu’on en a. Cette restauration progressive de la famille, de la propriété privée, de l’héritage trouvent une valable explication : il importe de donner au citoyen soviétique le sentiment qu’il a quelque bien personnel à défendre. Mais c’est ainsi que, progressivement, l’impulsion première s’engourdit, se perd, que le regard cesse de se diriger à l’avant. Et l’on me dira que cela est nécessaire, urgent, car une attaque de flanc risque de ruiner l’entreprise. Mais d’accommodement en accommodement, l’entreprise se compromet.</p>
+
+<pagenum num="76"/>
+
+<p>Une autre crainte, celle du « trotzkisme » et de ce qu’on appelle aujourd’hui là-bas : <i>l’esprit de contre-révolution</i>. Car certains se refusent à penser que cette transigeance fût nécessaire ; tous ces accommodements leur paraissent autant de défaites. Que la déviation des directives premières trouve des explications, des excuses, il se peut : cette déviation seule importe à leurs yeux. Mais, aujourd’hui c’est l’esprit de soumission, le conformisme, qu’on exige. Seront considérés comme « trotzkistes » tous ceux qui ne se déclarent pas satisfaits. De sorte que l’on vient à se demander si Lénine lui-même reviendrait-il sur la terre aujourd’hui ?...</p>
+
+<vsep class="emptyline"/>
+
+<p>Que Staline ait toujours raison, cela revient à dire : que Staline a raison de tout.</p>
+
+<vsep class="emptyline"/>
+
+<p><i>Dictature de prolétariat</i> nous promettait-on. Nous sommes loin de compte. Oui : dictature, évidemment ; mais celle d’un homme, non plus celle des prolétaires unis, des Soviets. Il importe de ne point se leurrer, et force est de reconnaître tout net : ce <pagenum num="77"/>n’est point là ce qu’on voulait. Un pas de plus et nous dirons même : c’est exactement ceci que l’on ne voulait pas.</p>
+
+<vsep class="emptyline"/>
+
+<p>Supprimer l’opposition dans un État, ou même simplement l’empêcher de se prononcer, de se produire, c’est chose extrêmement grave : l’invitation au terrorisme. Si tous les citoyens d’un État pensaient de même, ce serait sans aucun doute plus commode pour les gouvernants. Mais, devant cet appauvrissement, qui donc oserait encore parler de « culture » ? Sans contrepoids, comment l’esprit ne verserait-il pas tout dans un sens ? C’est, je pense, une grande sagesse d’écouter les partis adverses ; de les soigner même au besoin, tout en les empêchant de nuire : les combattre, mais non les supprimer. Supprimer l’opposition... il est sans doute heureux que Staline y parvienne si mal.</p>
+
+<p>« L’humanité n’est pas simple, il faut en prendre son parti ; et toute tentative de simplification, d’unification, de réduction par le dehors sera toujours odieuse, ruineuse et sinistrement bouffonne. Car <pagenum num="78" b="l’em-" a="bêtement">l’embêtement</pagenum> pour Athalie, c’est que c’est toujours Eliacin, l’embêtant pour Hérode, c’est que c’est toujours la Sainte Famille qui échappe », — écrivais-je en 1910<noteref noteid="note.78.1"/>.</p>
+
+
+<notes>
+  <note id="note.78.1">
+    <p><i>Nouveaux Prétextes</i>, p. 189.</p>
+  </note>
+</notes>
+
+</page-sequence>
+<page-sequence id='p06'>
+  <pagenum num="79"/>
+
+<h2>V</h2>
+
+<p>J’écrivais avant d’aller en U.R.S.S. :</p>
+
+<p>Je crois que la valeur d’un écrivain est liée à la force révolutionnaire qui l’anime, ou plus exactement (car je ne suis pas si fou que de ne reconnaître de valeur artistique qu’aux écrivains de gauche) : à sa force d’opposition. Cette force existe aussi bien chez Bossuet, Chateaubriand, ou, de nos jours, Claudel, que chez Molière, Voltaire, Hugo et tant d’autres. Dans notre forme de société, un grand écrivain, un grand artiste, est essentiellement anticonformiste. Il navigue à contre courant. Cela était vrai pour Dante, pour Cervantes, pour Ibsen, pour Gogol... Cela cesse d’être vrai, semble-t-il pour Shakespeare et ses contemporains, dont Johm Addington Symonds dit excellement : <i>What made the playwrights of that epoch so great... was that they (the authors) lived and wrote in fullest <pagenum num="80"/>sympathy with the whole people</i><noteref noteid="note.80.1"/>. Cela n’était sans doute pas vrai pour Sophocle et certainement pas pour Homère, par qui la Grèce même, nous semble-t-il, chantait. Cela cesserait peut-être d’être vrai, du jour où... Mais c’est précisément là ce qui dirige nos regards vers l’U.R.S.S. avec une interrogation si anxieuse : le triomphe de la révolution permettra-t-elle à ses artistes d’être portés par le courant ? Car la question se pose : qu’adviendra-t-il si l’État social transformé enlève à l’artiste tout motif de protestation ? Que fera l’artiste s’il n’a plus à s’élever contre, plus qu’à se laisser porter ? Sans doute, tant qu’il y a lutte encore et que la victoire n’est pas parfaitement assurée, il pourra peindre cette lutte et, combattant lui-même, aider au triomphe. Mais ensuite...</p>
+
+<notes>
+  <note id="note.80.1">
+    <p> « Ce qui fit que l’art dramatique de cette époque s’éleva si haut... c’est que les auteurs vivaient alors et écrivaient en complète sympathie avec tout le peuple » (<i>General Introduction to the Mermaid Series</i>).</p>
+  </note>
+</notes>
+
+<p>Voilà ce que je me demandais avant d’aller en U.R.S.S..</p>
+
+<vsep class="emptyline"/>
+
+<p>— « Vous comprenez, m’expliqua X... ce <pagenum num="81"/>n’était plus du tout cela que le public réclamait ; plus du tout cela que nous voulons aujourd’hui. Il avait donné précédemment un ballet très remarquable et très remarqué. (« Il », c’était Chestakovitch, dont certains me parlaient avec cette sorte d’éloges que l’on n’accorde qu’aux génies.) Mais que voulez-vous que le peuple fasse d’un opéra dont, en sortant, il ne peut fredonner aucun air ? » (Quoi ! c’est donc là qu’ils en étaient ! Et pourtant X..., artiste lui-même, et fort cultivé, ne m’avait tenu jusqu’alors que des propos intelligents.)</p>
+
+<p>» Ce qu’il nous faut aujourd’hui, ce sont des œuvres que tout le monde puisse comprendre, et tout de suite. Si Chestakovitch ne le sent pas de lui-même, on le lui fera bien sentir en ne l’écoutant même plus. »</p>
+
+<p>Je protestai que les œuvres parfois les plus belles, et même celles qui sont appelées à devenir les plus populaires, ont pu n’être goûtées d’abord que par un très petit nombre de gens ; que Beethoven lui-même... Et, lui tendant un livre que précisément j’avais sur moi : Tenez, lisez ceci :</p>
+
+<p>« <i>In Berlin gab ich auch</i> (c’est Beethoven qui parle), <i>vor mehreren Jahren ein <pagenum num="82"/>Konzert, ich griff mich an und glaubte, was Reicht’s zu leisten, und hoffte auf einen tüchtigen Beifall ; aber siehe da, als ich meine höchste Begeisterung ausgesprochen hatte, kein geringstes Zeichen des Beifalls ertönte</i><noteref noteid="note.82.1"/> »</p>
+
+<notes>
+  <note id="note.82.1">
+    <p>Moi aussi, il y a plusieurs années, j’ai donné un concert à Berlin. Je m’y suis livré tout entier, et je pensais être arrivé vraiment à quelque chose ; j’escomptais donc un réel succès. Mais voyez : lorsque j’avais réalisé le meilleur de mon inspiration — pas le plus léger signe d’approbation. (<i>Gœthes Briefe mit lebensgeschichtlichen Verbindungen</i>, t. II, p. 287.)</p>
+  </note>
+</notes>
+
+<p>X... m’accorda qu’en U.R.S.S. un Beethoven aurait eu bien du mal à se relever d’un tel insuccès. « Voyez-vous, continua-t-il, un artiste, chez nous, a d’abord à être dans la ligne. Les plus beaux dons, sinon, seront considérés comme du « formalisme ». Oui, c’est le mot que nous avons trouvé pour désigner tout ce que nous ne nous soucions pas de voir ou d’entendre. Nous voulons créer un art nouveau, digne du grand peuple que nous sommes. L’art, aujourd’hui, doit être populaire, ou n’être pas. »</p>
+
+<p>— Vous contraindrez tous vos artistes au conformisme, lui dis-je, et les meilleurs, ceux qui ne consentiront pas à avilir leur art ou seulement à le courber, vous les <pagenum num="83"/>réduirez au silence. La culture que vous prétendez servir, illustrer, défendre, vous honnira.</p>
+
+<p>Alors, il protesta que je raisonnais en bourgeois. Que, pour sa part, il était bien convaincu que le marxisme qui, dans tant d’autres domaines, avait déjà produit de si grandes choses, saurait aussi produire des œuvres d’art. Il ajouta que ce qui retenait ces nouvelles œuvres de surgir, c’est l’importance qu’on accordait encore aux œuvres d’un passé révolu.</p>
+
+<p>Il parlait à voix de plus en plus haute ; il semblait faire un cours ou réciter une leçon. Ceci se passait dans le hall de l’hôtel de Sotchi. Je le quittai sans plus lui répondre. Mais, quelques instants plus tard, il vint me retrouver dans ma chambre et, à voix basse cette fois :</p>
+
+<p>— Oh ! parbleu ! je sais bien... Mais <i>on</i> nous écoutait tout à l’heure et... mon exposition doit ouvrir bientôt.</p>
+
+<p>X... est peintre, et devait présenter au public ses dernières toiles.</p>
+
+<vsep class="emptyline"/>
+
+<p>Quand nous arrivâmes en U.R.S.S., l’opinion était mal ressuyée de la grande <pagenum num="84" b="que-" a="relle">querelle</pagenum> du Formalisme. Je cherchai à comprendre ce que l’on entendait par ce mot et voici ce qu’il me sembla : tombait sous l’accusation de formalisme, tout artiste coupable d’accorder moins d’intérêt au <i>fond </i>qu’à la <i>forme</i>. Ajoutons aussitôt que n’est jugé digne d’intérêt (ou plus exactement n’est toléré) le <i>fond</i> que lorsque incliné dans un certain sens. L’œuvre d’art sera jugée formaliste, dès que pas inclinée du tout et n’ayant par conséquent plus de « sens » (et je joue ici sur le mot). Je ne puis, je l’avoue, écrire ces mots « forme » et « fond » sans sourire. Mais il sied plutôt de pleurer lorsqu’on voit que cette absurde distinction va déterminer la critique. Que cela fût politiquement utile, il se peut ; mais ne parlez plus ici de culture. Celle-ci se trouve en péril dès que la critique n’est plus librement exercée.</p>
+
+<p>En U.R.S.S., pour belle que puisse être une œuvre, si elle n’est pas dans la ligne, elle est honnie. La beauté est considérée comme une valeur bourgeoise. Pour génial que puisse être un artiste, s’il ne travaille pas dans la ligne l’attention se détourne, est détournée de lui : ce que l’on demande à <pagenum num="85"/>l’artiste, à l’écrivain, c’est d’être conforme ; et tout le reste lui sera donné par-dessus.</p>
+
+<vsep class="emptyline"/>
+
+<p>J’ai pu voir à Tiflis une exposition de peintures modernes, dont il serait peut-être charitable de ne point parler. Mais, après tout, ces artistes avaient atteint leur but, qui est d’édifier (ici par l’image), de convaincre, de rallier (des épisodes de la vie de Staline servant de thème à ces illustrations). Ah ! certes, ceux-là n’étaient pas des « formalistes » ! Le malheur, c’est qu’ils n’étaient pas des peintres non plus. Ils me faisaient souvenir qu’Apollon, pour servir Admète, avait dû éteindre tous ses rayons, et du coup n’avait plus rien fait qui vaille — ou du moins qui nous importât. Mais, comme l’U.R.S.S., non plus avant qu’après la révolution, n’a jamais excellé dans les arts plastiques, mieux vaut s’en tenir à la littérature.</p>
+
+<p>« Dans le temps de ma jeunesse, me disait X..., l’on nous recommandait tels livres, l’on nous déconseillait tels autres ; et naturellement c’est vers ces derniers que notre attention se portait. La grande différence, <pagenum num="86"/>aujourd’hui, c’est que les jeunes ne lisent plus que ce qu’on leur recommande de lire, qu’ils ne désirent même plus lire autre chose. »</p>
+
+<p>C’est ainsi que Dostoïewski, par exemple, ne trouve guère plus de lecteurs, sans qu’on puisse exactement dire si la jeunesse se détourne de lui, ou si l’on a détourné de lui la jeunesse — tant les cerveaux sont façonnés.</p>
+
+<p>S’il doit répondre à un mot d’ordre, l’esprit peut bien sentir du moins qu’il n’est pas libre. Mais s’il est ainsi préformé qu’il n’attende même plus le mot d’ordre pour y répondre, l’esprit perd jusqu’à la conscience de son asservissement. Je crois que l’on étonnerait beaucoup de jeunes soviétiques, et qu’ils protesteraient, si l’on venait leur dire qu’ils ne pensent pas librement.</p>
+
+<p>Et comme il advient toujours que nous ne reconnaissons qu’après les avoir perdus, la valeur de certains avantages, rien de tel qu’un séjour en U.R.S.S. (ou en Allemagne, il va sans dire) pour nous aider à apprécier l’inappréciable liberté de pensée dont nous jouissons encore en France, et dont nous abusons parfois.</p>
+
+<pagenum num="87"/>
+
+<p>A Léningrad, l’on m’avait demandé de préparer un petit discours à l’usage d’une assemblée de littérateurs et d’étudiants. Je n’étais en U.R.S.S. que depuis huit jours et cherchais à prendre le <i>la</i>. Je soumis donc à X... et à Y... mon texte. L’on me fit aussitôt comprendre que ce texte n’était ni dans la ligne, ni dans la note et que ce que je m’apprêtais à dire paraîtrait fort malséant. Eh parbleu ! je m’en rendis nettement compte moi-même, par la suite. Du reste, ce discours, je n’eus pas l’occasion de le prononcer. Le voici :</p>
+
+<p>« L’on m’a souvent demandé mon opinion sur la littérature actuelle de l’U.R.S.S. Je voudrais expliquer pourquoi j’ai refusé de me prononcer. Cela me permettra, du même coup, de préciser certain point du discours que j’ai lu sur la Place Rouge, au jour solennel des funérailles de Gorki. J’y parlais de « nouveaux problèmes » soulevés par le triomphe même des républiques soviétiques, problèmes dont je disais que ce ne serait pas une des moindres gloires de l’U.R.S.S. de les avoir fait naître à l’histoire et proposés à notre méditation. Comme l’avenir de la culture me semble <pagenum num="88" b="étroite-" a="ment">étroitement</pagenum> lié à la solution qui pourra leur être donnée, il ne me paraît pas inutile d’y revenir et d’apporter ici quelques précisions.</p>
+
+<vsep class="dots"/>
+
+<p>» Le grand nombre, et même composé des éléments les meilleurs, n’applaudit jamais à ce qu’il y a de neuf, de virtuel, de déconcerté et de déconcertant, dans une œuvre ; mais seulement à ce qu’il y peut déjà <i>reconnaître</i>, c’est-à-dire la banalité. Tout comme il y avait des banalités bourgeoises, il y a des banalités révolutionnaires ; il importe de s’en convaincre. Il importe de se persuader que ce qu’elle apporte de conforme à une doctrine, fût-elle la plus saine et la mieux établie, n’est jamais ce qui fait la valeur profonde d’une œuvre d’art, ni ce qui lui permettra de durer ; mais bien ce qu’elle apportera d’interrogations nouvelles, prévenant celles de l’avenir ; et de réponses à des questions non encore posées. Je crains fort que quantité d’œuvres, toutes imprégnées d’un pur esprit marxiste, à quoi elles doivent leur succès d’aujourd’hui, ne dégagent bientôt, au nez de ceux qui viendront, une insupportable odeur de clinique ; et je crois que les œuvres les plus <pagenum num="89"/>valeureuses seront celles seules qui auront su se délivrer de ces préoccupations-là.</p>
+
+<p>» Du moment que la révolution triomphe, et s’instaure, et s’établit, l’art court un terrible danger, un danger presque aussi grand que celui que lui font courir les pires oppressions des fascismes : celui d’une orthodoxie. L’art qui se soumet à une orthodoxie, fût-elle celle de la plus saine des doctrines, est perdu. Il sombre dans le conformisme. Ce que la révolution triomphante peut et doit offrir à l’artiste, c’est avant tout la liberté. Sans elle, l’art perd signification et valeur.</p>
+
+<p>» Walt Whitman à l’occasion de la mort du président Lincoln, écrivit un de ses plus beaux chants. Mais si ce libre chant eût été contraint, si Whitman avait été forcé de l’écrire par ordre et conformément à un canon admis, ce <i>thrène</i> aurait perdu sa vertu, sa beauté ; ou plutôt Whitman n’aurait pas pu l’écrire.</p>
+
+<p>» Et comme, tout naturellement, l’assentiment du plus grand nombre, les applaudissements, le succès, les faveurs, vont à ce que le public peut aussitôt reconnaître et approuver, c’est-à-dire au conformisme, je <pagenum num="90"/>me demande avec inquiétude si, peut-être, dans l’U.R.S.S. glorieuse d’aujourd’hui, ne végète pas, ignoré de la foule, quelque Baudelaire, quelque Keats ou quelque Rimbaud qui, en raison même de sa valeur, a du mal à se faire entendre. Et c’est pourtant celui-là entre tous qui m’importe, car ce sont les dédaignés de d’abord, les Rimbaud, les Keats, les Baudelaire, les Stendhal même, qui paraîtront demain les plus grands<noteref noteid="note.90.1"/>.</p>
+
+<notes>
+  <note id="note.90.1">
+    <p>— Mais, diront-ils, qu’avons-nous <correction original="affaire">à faire</correction> aujourd’hui des Keats, des Baudelaire, des Rimbaud, et même des Stendhal ? Ceux-ci ne gardent de valeur, à nos yeux, que dans la mesure où ils reflètent la société moribonde et corrompue dont ils sont les tristes produits. S’ils ne peuvent se produire dans la nouvelle société <correction original="d’ajourd’hui">d’aujourd’hui</correction>, tant pis pour eux, tant mieux pour nous qui n’avons plus rien à apprendre d’eux, ni de leurs pareils. L’écrivain qui peut nous instruire aujourd’hui c’est celui qui, dans cette nouvelle forme de la société, se trouve parfaitement à l’aise et que ce qui gênerait les premiers saura tout au contraire exalter. Autrement dit celui qui approuve, se félicite et applaudit.</p>
+
+    <p>— Eh bien, précisément, je crois que les écrits de ces applaudisseurs sont de très faible valeur instructive et que pour développer sa culture le peuple n’a que faire de les écouter. Rien ne vaut, pour se cultiver, que ce qui force à réfléchir.</p>
+
+    <p>Quant à ce que l’on pourrait appeler la littérature-miroir, c’est-à-dire celle qui se restreint à ne plus être qu’un reflet (d’une société, d’un événement, d’une époque), j’ai dit déjà ce que j’en pense.</p>
+
+    <p>Se contempler (et s’admirer) peut bien être le premier souci d’une société encore très jeune ; mais il serait fort regrettable que ce premier souci <correction original="fut">fût</correction> aussi bien le seul, le dernier.</p>
+  </note>
+</notes>
+
+</page-sequence>
+<page-sequence id='p07'>
+  <pagenum num="91"/>
+
+<h2>VI</h2>
+
+<p>Sébastopol, dernière étape de notre voyage. Sans doute, il est en U.R.S.S. des villes plus intéressantes ou plus belles, mais nulle part encore je n’avais aussi bien senti combien je resterais épris. Je retrouvais à Sébastopol, moins préservée, moins choisie qu’à Soukhoum ou Sotchi, la société, la vie russe entière, avec ses manques, ses défauts, ses souffrances, hélas ! à côté de ses triomphes, de ses réussites qui permettent ou promettent à l’homme plus de bonheur. Et, suivant les jours, la lumière adoucissait l’ombre, ou au contraire l’épaississait. Mais, autant que le plus lumineux, ce que je pouvais voir ici de plus sombre, tout m’attachait, et douloureusement parfois, à cette terre, à ces peuples unis, à ce climat nouveau qui favorisait l’avenir et où l’inespéré pouvait éclore... C’est tout cela que je devais quitter.</p>
+
+<pagenum num="92"/>
+
+<p>Et déjà commençait à m’étreindre une angoisse encore inconnue : de retour à Paris que saurais-je dire ? Comment répondre aux questions que je pressentais ? L’on attendait de moi certainement des jugements tout d’une pièce. Comment expliquer que, tour à tour, en U.R.S.S., j’avais eu (moralement) si chaud, et si froid ? En déclarant à nouveau mon amour allais-je devoir cacher mes réserves et mentir en approuvant tout ? Non ; je sens trop qu’en agissant ainsi je desservirais à la fois l’U.R.S.S. même et la cause qu’elle représente à nos yeux. Mais ce serait une très grave erreur d’attacher l’une à l’autre trop étroitement de sorte que la cause puisse être tenue pour responsable de ce qu’en U.R.S.S. nous déplorons.</p>
+
+<vsep class="emptyline"/>
+
+<p>L’aide que l’U.R.S.S. vient d’apporter à l’Espagne nous montre de quels heureux rétablissements elle demeure capable.</p>
+
+<p>L’U.R.S.S. n’a pas fini de nous instruire et de nous étonner.</p>
+
+</page-sequence>
+<page-sequence id='p08'>
+  <pagenum num="93"/>
+
+<h1>APPENDICE</h1>
+
+<pagenum num="94"/>
+</page-sequence>
+<page-sequence id='p09'>
+  <pagenum num="95"/>
+
+<h2>I</h2>
+
+<h2><i>DISCOURS</i></h2>
+
+<h2><s>PRONONCÉ SUR LA PLACE ROUGE A MOSCOU POUR LES FUNÉRAILLES DE MAXIME GORKI</s></h2>
+
+<h2><i>(20 juin 1936)</i></h2>
+
+<p>La mort de Maxime Gorki n’assombrit pas seulement les États Soviétiques, mais le monde entier. Cette grande voix du peuple russe, que Gorki nous faisait entendre, a trouvé des échos dans les pays les plus lointains. Aussi n’ai-je pas à exprimer ici seulement ma douleur personnelle, mais celle des lettres françaises, celle de la culture européenne, de la culture de tout l’univers.</p>
+
+<p>La culture est demeurée longtemps l’apanage d’une classe privilégiée. Pour être cultivé, il fallait des loisirs : une classe de gens peinait pour permettre à un très petit nombre de jouir de la vie, de s’instruire, et le jardin de la culture, des belles-lettres et des arts, restait une propriété privée où seuls pouvaient avoir accès non les plus intelligents, les plus aptes, mais ceux qui, depuis leur enfance, s’étaient trouvés à l’abri du besoin. Sans doute pouvait-on <pagenum num="96"/>constater que l’intelligence n’accompagnait pas nécessairement la richesse : dans la littérature française, un Molière, un Diderot, un Rousseau sortaient du peuple ; mais leurs lecteurs restaient des gens de loisir.</p>
+
+<p>Lorsque la Grande Révolution d’Octobre a soulevé les masses profondes des peuples russes, on a dit en Occident, on a répété, et même l’on a cru que cette grande vague de fond allait submerger la culture. Dès qu’elle cessait d’être un privilège, la culture n’était-elle pas en danger ?</p>
+
+<p>C’est en réponse à cette question que des écrivains de tous les pays se sont groupés dans le sentiment très net d’un devoir urgent : oui la culture est menacée ; mais le péril pour elle n’est nullement du côté des forces révolutionnaires et libératrices ; il vient au contraire des partis qui tentent de subjuguer ces forces, de les briser, de mettre l’esprit même sous le boisseau. Ce qui menace la culture ce sont les fascismes, les nationalismes étroits et artificiels qui n’ont rien de commun avec le vrai patriotisme, l’amour profond de son pays. Ce qui menace la culture c’est la guerre à laquelle fatalement, nécessairement, ces nationalismes haineux conduisent.</p>
+
+<p>Je devais présider la conférence internationale pour la défense de la culture qui se tient présentement à Londres. Les fâcheuses nouvelles de la santé de Maxime Gorki m’ont appelé précipitamment à Moscou. Sur cette Place Rouge qui déjà put voir tant d’événements glorieux et tragiques, devant ce mausolée de Lénine vers qui <pagenum num="97"/>tant de regards sont fixés, je tiens à déclarer hautement, au nom des écrivains assemblés à Londres et en mon nom : c’est aux grandes forces internationales révolutionnaires qu’incombent le soin, le devoir de défendre, de protéger et d’illustrer à neuf la culture. Le sort de la culture est lié dans nos esprits au destin même de l’U.R.S.S.. Nous la défendrons.</p>
+
+<p>De même que, par-dessus les intérêts particuliers de chaque peuple, un grand besoin commun fait communier entre elles les classes prolétariennes de tous les pays, par-dessus chaque littérature nationale s’épanouit une culture faite de ce qu’il y a de vraiment vivant et d’humain dans les littératures particulières de chaque pays : « Nationale dans la forme, socialiste dans le fond » ainsi que le disait Staline.</p>
+
+<p>J’ai souvent écrit que c’est en étant le plus particulier qu’un écrivain atteint l’intérêt le plus général, parce que c’est en se montrant le plus personnel qu’il se révèle, par là même, le plus humain. Aucun écrivain russe n’a été plus russe que Maxime Gorki. Aucun écrivain russe n’a été plus universellement écouté.</p>
+
+<p>J’ai assisté hier au défilé du peuple devant le catafalque de Gorki. Je ne pouvais me lasser de contempler cette quantité de femmes, d’enfants, de travailleurs de toute sorte dont Maxime Gorki avait été le porte-parole et l’ami. Je songeais avec tristesse que ces mêmes gens, dans tout autre pays que l’U.R.S.S., étaient de ceux à qui l’on aurait interdit l’accès de cette salle ; <pagenum num="98"/>ceux qui précisément, devant les jardins de la culture, se heurtent à un terrible : « Défense d’entrer, propriété privée. » Et les larmes me montaient aux yeux en songeant que ce qui leur paraissait, à eux, si naturel déjà, me paraissait, à moi l’Occidental, encore si extraordinaire.</p>
+
+<p>Et je pensais qu’il y avait là, en U.R.S.S., une nouveauté très surprenante : jusqu’à présent, dans tous les pays du monde, l’écrivain de valeur a presque toujours été, plus ou moins, un révolutionnaire, un combattant. D’une manière plus ou moins consciente et plus ou moins voilée, il pensait, il écrivait, à l’encontre de quelque chose. Il se refusait d’approuver. Il apportait dans les esprits et dans les cœurs un ferment d’insubordination, de révolte. Les gens assis, les pouvoirs, les autorités, la tradition, s’ils eussent été plus clairvoyants, n’auraient pas hésité à le désigner comme l’ennemi.</p>
+
+<p>Aujourd’hui, en U.R.S.S., pour la première fois, la question se pose d’une façon très différente : en étant révolutionnaire l’écrivain n’est plus un opposant<noteref noteid="note.98.1"/>. Tout au contraire, il répond au vœu du grand nombre, du peuple entier, et, ce qui est le plus admirable : de ses dirigeants. De sorte qu’il y a comme un évanouissement de ce problème, ou plutôt une transposition si nouvelle que l’esprit en reste d’abord déconcerté. Et ce ne sera pas une des moindres gloires de <pagenum num="99" b="l’U.R." a="S.S.">l’U.R.S.S.</pagenum> et de ces journées prodigieuses qui continuent d’ébranler notre vieux monde — que d’avoir, dans un ciel neuf, fait lever, avec des étoiles nouvelles, de nouveaux problèmes, jusqu’à ce jour insoupçonnés.</p>
+
+<notes>
+  <note id="note.98.1">
+    <p>C’est ici que je me blousais ; je dus bientôt, hélas ! le reconnaître.</p>
+  </note>
+</notes>
+
+<p>Maxime Gorki aura eu cette destinée singulière et glorieuse de rattacher au passé ce nouveau monde et de le lier à l’avenir. Il a connu l’oppression d’avant-hier, la lutte tragique d’hier ; il a puissamment aidé au triomphe calme et rayonnant d’aujourd’hui. Il a prêté sa voix à ceux qui n’avaient pas encore pu se faire entendre ; à ceux qui, grâce à lui, seront désormais écoutés. Désormais Maxime Gorki appartient à l’histoire. Il prend sa place auprès des plus grands.</p>
+
+  <pagenum num="100"/>
+</page-sequence>
+<page-sequence id='p10'>
+<pagenum num="101"/>
+
+<h2>II</h2>
+
+<h2><i>DISCOURS</i></h2>
+
+<h2><s>AUX ETUDIANTS DE MOSCOU</s></h2>
+
+<h2><i>(27 juin 1936)</i></h2>
+
+<p>Camarades, — représentants de la jeunesse soviétique je voudrais que vous compreniez pourquoi mon émotion est si vive de me trouver aujourd’hui parmi vous. Il est nécessaire pour cela, que je vous parle un peu de moi. La sympathie que vous me témoignez m’y engage. Cette sympathie, je crois que je la mérite un peu ; et je crois qu’il n’est pas trop outrecuidant de le penser et de le dire. Mon mérite est d’avoir su vous attendre. J’ai attendu longtemps, mais avec confiance, avec cette certitude que vous viendriez un jour. A présent vous êtes là et votre accueil compense amplement le long silence, la solitude et l’incompréhension parmi laquelle j’ai vécu d’abord. Oui, vraiment, je considère votre sympathie comme la vraie récompense.</p>
+
+<p>Lorsque, à Paris, prit naissance la Revue <i>Commune</i> sous la direction et grâce à l’initiative hardie du camarade Louis Aragon, celui-ci eut <pagenum num="102"/>l’idée d’ouvrir une enquête. Il demandait à chaque écrivain de France : Pour qui écrivez-vous ? Je n’ai pas répondu à cette enquête et j’ai expliqué à Aragon pourquoi je n’y répondais pas. C’est que je ne pouvais, sans quelque apparence de prétention, dire, ce qui pourtant était la vérité : j’ai toujours écrit pour ceux qui viendront.</p>
+
+<p>Les applaudissements, je ne m’en souciais guère ; ils n’eussent pu me venir que de cette classe bourgeoise dont j’étais sorti moi-même et dont, il est vrai, je faisais encore partie, mais que je tenais en grand mépris, précisément parce que je la connaissais bien, et contre laquelle tout ce que je sentais en moi de meilleur se soulevait. Comme j’étais de mauvaise santé et ne pouvais espérer vivre longtemps, j’acceptais de quitter cette terre sans avoir connu le succès. Je me considérais volontiers comme un auteur posthume, un de ceux dont j’enviais la pure gloire, qui sont morts à peu près ignorés, qui n’ont écrit que pour l’avenir, comme avaient fait Stendhal, Baudelaire, Keats, ou Rimbaud. J’allais me répétant : ceux à qui mes livres s’adressent ne sont pas encore nés, et j’avais cette impression douloureuse mais exaltante de parler dans le désert. On parle fort bien dans le désert, alors qu’aucun écho ne risque de déformer le son de la voix ; alors qu’on n’a pas à se préoccuper du retentissement de ses paroles et que rien d’autre ne les incline qu’un souci de sincérité. Et il est à remarquer que, lorsque le goût du public est faussé, lorsque la convention a pris le pas sur la vérité, <pagenum num="103"/>cette sincérité même passe pour de l’affectation. Oui, je passais pour un auteur affecté. On me le faisait sentir en ne me lisant pas.</p>
+
+<p>L’exemple des grands écrivains que j’ai cités, que j’admirais entre tous, me rassurait. J’acceptais de n’avoir de mon vivant aucun succès, fermement convaincu que l’avenir me réservait une revanche. J’ai conservé, comme d’autres gardent un palmarès, la feuille de vente de mes <i>Nourritures Terrestres</i>. En vingt ans, (1897-1917), il y avait eu exactement cinq cents acheteurs. Le livre avait passé inaperçu du public et de la critique. On n’avait écrit sur lui aucun article ; ou, plus exactement, il n’avait paru rien que deux articles d’amis. Ce que j’en dis n’a du reste de l’intérêt qu’en raison de l’extraordinaire succès que devait connaître ce livre plus tard et de l’influence qu’il exerce sur la jeune génération d’aujourd’hui.</p>
+
+<p>Et ce ne fut pas seulement là l’histoire de mes <i>Nourritures Terrestres</i>. En général, l’insuccès premier de chacun de mes livres fut en raison directe de sa valeur et de sa nouveauté.</p>
+
+<p>Je ne veux point tirer de ceci cette conclusion qui serait nettement paradoxale : que seuls des livres médiocres peuvent espérer un triomphe immédiat. Non ; là n’est certes pas ma pensée. Je veux simplement dire que la valeur profonde d’un livre, d’une œuvre d’art, n’est pas toujours aussitôt reconnue. Aussi bien, l’œuvre d’art ne s’adresse-t-elle pas seulement au présent. Les seules œuvres vraiment valeureuses sont des <pagenum num="104"/>messages qui souvent ne sont bien compris que plus tard, et l’œuvre qui répond uniquement et trop parfaitement à un besoin immédiat risque de paraître bientôt totalement insignifiante.</p>
+
+<p>Jeunes gens de la Russie nouvelle, vous comprenez maintenant pourquoi je vous adressais si joyeusement mes <i>Nouvelles Nourritures ;</i> c’est que vous portez en vous l’avenir. L’avenir ne viendra pas du dehors ; l’avenir est en vous. Et non point seulement l’avenir de l’U.R.S.S., car de l’avenir de l’U.R.S.S. dépendront les destins du reste du monde. L’avenir, c’est vous qui le ferez.</p>
+
+<p>Prenez garde. Restez vigilants. Sur vous pèsent des responsabilités redoutables. Ne vous reposez pas sur les triomphes que vos camarades aînés ont généreusement payé de leurs efforts et de leur sang. Le ciel a été débarrassé par eux d’un amoncellement de nuées qui assombrissent encore bien des pays de ce monde. Ne demeurez pas inactifs. N’oubliez pas que nos regards, du fond de l’Occident, restent fixés sur vous, pleins d’amour, d’attente et d’immense espoir.</p>
+
+</page-sequence>
+<page-sequence id='p11'>
+<pagenum num="105"/>
+
+<h2>III</h2>
+
+<h2><i>DISCOURS</i></h2>
+
+<h2><s>AUX GENS DE LETTRES DE LENINGRAD</s></h2>
+
+<h2><i>(2 juillet 1936)</i></h2>
+
+<vsep class="dots"/>
+
+<p>Le charme, la beauté, l’éloquence historique de Léningrad m’ont aussitôt séduit. Certes, Moscou présentait pour mon cœur et pour mon esprit un intérêt extrême et l’avenir (glorieux)<noteref noteid="note.105.1"/> de l’U.R.S.S. s’y dessine avec puissance. Mais tandis qu’à Moscou je ne voyais se lever d’autres souvenirs historiques que de conquête napoléonnienne, vain effort suivi tout aussitôt de désastre, à Léningrad maints édifices me rappellent ce qu’ont pu avoir de plus cordial et de plus fécondant les relations intellectuelles entre la Russie et la France. Je me plais à voir, dans ces relations du passé, dans cette émulation spirituelle de tout ce que la culture présentait alors de plus généreux, de plus universel, de plus neuf et de <pagenum num="106"/>plus hardi, une sorte d’annonce, de préparation et d’inconsciente promesse ; oui, promesse de ce que doit réaliser de nos jours l’internationalisme révolutionnaire.</p>
+
+<notes>
+  <note id="note.105.1">
+    <p>On m’a fait comprendre qu’il convenait d’ajouter ici « glorieux ».</p>
+  </note>
+</notes>
+
+<p>Ce qu’il y a pourtant lieu de remarquer c’est que les relations du passé restaient personnelles, de grand esprit à (grand) monarque<noteref noteid="note.106.1"/>, ou de grands esprits entre eux. Aujourd’hui, les relations qui s’établissent et auxquelles nous travaillons sont bien autrement profondes ; elles entraînent l’assentiment des peuples mêmes et confondent dans un même embrassement et indistinctement les intellectuels et les ouvriers de tous genres, ce qui ne s’était, jusqu’à présent, jamais vu. De sorte que ce n’est pas en mon nom propre que je parle, mais qu’en vous redisant ici mon amour pour l’U.R.S.S. j’exprime aussi le sentiment d’une immense masse laborieuse française.</p>
+
+<notes>
+  <note id="note.106.1">
+    <p>On m’a demandé de supprimer « grand », comme ne convenant point à « monarque ».</p>
+  </note>
+</notes>
+
+<p>Si ma présence parmi vous, et celle de mes compagnons, vient apporter de nouvelles possibilités de commerce intellectuel, je m’en réjouis de tout cœur. Je me suis toujours élevé contre cette barrière de races que certains nationalistes prétendent infranchissable et qui, à les en croire, empêcherait à tout jamais les divers peuples de s’entendre, qui tout à la fois rendrait incommunicable leur esprit, impénétrable cet esprit à l’esprit d’autrui. J’ai plaisir à vous dire ici que, depuis mon adolescence, je me <pagenum num="107"/>suis senti à l’égard de ce que l’on nous signalait alors comme les mystères incompréhensibles de l’âme slave, dans des dispositions particulièrement fraternelles, au point de me sentir en communion étroite avec les grands auteurs de votre littérature que j’ai appris à connaître et à aimer dès le sortir des bancs du lycée. Gogol, Tourgueniev, Dostoïevski, Pouchkine, Tolstoï, puis, plus tard Sologoub, Chtchédrine, Tchékov, Gorki, pour ne nommer ici que des morts, avec quelle passion je les ai lus et je puis dire : avec quelle reconnaissance, car ils m’apportaient, avec un art des plus particuliers, les plus surprenantes révélations sur l’homme en général, et sur moi-même, prospectant des régions de l’âme que les autres littératures avaient laissées inexplorées, me semblait-il, et s’emparant tout d’un coup, avec délicatesse, avec force et avec cette indiscrétion que permet l’amour, du plus profond de l’être, dans ce qu’il a de plus spécial et de plus authentiquement humain à la fois. J’ai travaillé de mon mieux et constamment à faire connaître en France et à faire aimer la littérature russe du passé et celle de l’U.R.S.S. actuelle. Nous sommes souvent mal renseignés et, d’un peuple à l’autre, nous pouvons commettre de graves erreurs, des omissions très regrettables ; mais notre curiosité est ardente, celle des camarades qui sont venus nous rejoindre Pierre Herbart et moi, celle de Jef Last, celle de Schiffrin, de Dabit et de Guilloux, dont deux sont membres du parti, et qui, tout autant que moi, souhaitent que notre <pagenum num="108"/>voyage en U.R.S.S. nous éclaire et nous permette d’éclairer mieux à notre retour le public français, extraordinairement avide et curieux aujourd’hui de tout ce que l’U.R.S.S. doit apporter de neuf à notre vieux monde. La sympathie que vous voulez bien nous témoigner ici m’y encourage et j’ai plaisir à vous en exprimer, au nom de beaucoup de ceux qui sont restés en France, notre cordiale reconnaissance.</p>
+
+</page-sequence>
+<page-sequence id='p12'>
+<pagenum num="109"/>
+
+<h2>IV</h2>
+
+<h2><i>LA LUTTE ANTI-RELIGIEUSE</i></h2>
+
+<p>Je n’ai pas vu les musées anti-religieux de Moscou ; mais j’ai visité celui de Leningrad, dans la cathédrale de Saint-Isaac dont le dôme d’or reluit exquisement sur la cité. L’aspect extérieur de la cathédrale, est très beau ; l’intérieur est affreux. Les grandes peintures pieuses qui y ont été conservées peuvent servir de tremplin au blasphème : elles sont hideuses vraiment. Le musée lui-même est beaucoup moins impertinent que je n’aurais pu craindre. Il s’agissait d’y opposer au mythe religieux, la science. Des cicerones se chargent d’aider les esprits paresseux que les divers instruments d’optique, les tableaux astronomiques, ou d’histoire naturelle, ou anatomiques, ou de statistique, ne suffiraient pas à convaincre. Cela reste décent et pas trop attentatoire. C’est du Reclus et du Flammarion plutôt que du Léo Taxil. Les popes par exemple en prennent un bon coup. Mais il m’était arrivé, quelques jours auparavant, de rencontrer, aux environs de Léningrad, sur la route qui mène à Péterhof, un pope, un vrai. Sa vue seule était plus éloquente que tous les musées anti-religieux de l’U.R.S.S.. <pagenum num="110"/>Je ne me chargerai pas de le décrire. Monstrueux, abject et ridicule, il semblait inventé par le bolchevisme comme un épouvantail pour mettre en fuite à jamais les sentiments pieux des villages.</p>
+
+<p>Par contre je ne puis oublier l’admirable figure du moine gardien de la très belle église que nous visitâmes peu avant d’arriver à X... Quelle dignité dans son allure ! Quelle noblesse dans les traits de son visage ! Quelle fierté triste et résignée ! Pas une parole, pas un signe de lui à nous ; pas un échange de regards. Et je songeais, en le contemplant sans qu’il s’en doutât, au « tradebat autem » de l’Évangile, où Bossuet prenait élan pour un magnifique essor oratoire.</p>
+
+<p>Le musée archéologique de Chersonèse, aux environs de Sébastopol est, lui aussi, installé dans une église<noteref noteid="note.110.1"/>. Les peintures murales y ont été respectées, sans doute en raison de leur provocante laideur. Des pancartes explicatives y sont jointes. Au-dessous d’une effigie du Christ, on peut lire : « Personnage légendaire qui n’a jamais existé ».</p>
+
+<notes>
+  <note id="note.110.1">
+    <p>Dans telle autre, aux environs de Sotchi, nous assistons à un cours de danse. A la place du maître autel, des couples tournent aux sons d’un fox-trott ou d’un tango.</p>
+  </note>
+</notes>
+
+<vsep class="emptyline"/>
+
+<p>Je doute que l’U.R.S.S. ait été bien habile dans la conduite de cette guerre d’anti-religion. Il était loisible aux marxistes de ne s’attacher ici qu’à l’histoire, et, niant la divinité du Christ et jusqu’à son existence si l’on veut, rejetant les <pagenum num="111" b="dog-" a="mes">dogmes</pagenum> de l’Église, discréditant la Révélation, de considérer tout humainement et critiquement un enseignement qui, tout de même, apportait au monde une espérance nouvelle et le plus extraordinaire ferment révolutionnaire qui se pût alors. Il était loisible de dire en quoi l’Église même l’avait trahi ; en quoi cette doctrine émancipatrice de l’Évangile pouvait, avec la connivence de l’Église hélas ! prêter aux pires abus du pouvoir. Tout valait mieux que de passer sous silence, de nier. L’on ne peut faire que ceci n’ait point été, et l’ignorance où l’on maintient à ce sujet les peuples de l’U.R.S.S. les laisse sans défense critique et non vaccinés contre une épidémie mystique toujours à craindre.</p>
+
+<p>Il y a plus, et j’ai présenté d’abord ma critique par son côté le plus étroit, le pratique. L’ignorance, le déni de l’Évangile et de tout ce qui en a découlé, ne va point sans appauvrir l’humanité, la culture, d’une très lamentable façon. Je ne voudrais point que l’on me suspectât ici et flairât quelque relent d’une éducation et d’une conviction premières. Je parlerais de même à l’égard des mythes grecs que je crois, eux aussi, d’un enseignement profond, permanent. Il me paraît absurde de <i>croire</i> à eux ; mais également absurde de ne point reconnaître la part de vérité qui s’y joue et de penser que l’on peut s’acquitter envers eux avec un sourire et un haussement d’épaules. Quant à l’arrêt que la religion peut apporter au développement de l’esprit, quant au pli qu’y peut imprimer la croyance, je les connais de reste et <pagenum num="112"/>pense qu’il était bon de libérer de tout cela l’homme nouveau. J’admets aussi que la superstition, le pope aidant, entretînt dans les campagnes et partout (j’ai visité les appartements de la Tzarine), une crasse morale effroyable, et comprends qu’on ait éprouvé le besoin de vidanger une bonne fois tout cela ; mais... Les Allemands usent d’une image excellente et dont je cherche vainement un équivalent en français pour exprimer ce que j’ai quelque mal à dire : <i>on a jeté l’enfant avec l’eau du bain</i>. Effet du non-discernement et aussi d’une hâte trop grande. Et que l’eau du bain fût sale et puante, il se peut et je n’ai aucun mal à m’en convaincre ; tellement sale même que l’on n’a plus tenu compte de l’enfant ; l’on a tout jeté d’un coup sans contrôle.</p>
+
+<p>Et si maintenant j’entends dire que, par esprit d’accommodement, par tolérance, l’on refond des cloches, j’ai grand peur que ceci ne soit un commencement, que la baignoire ne s’emplisse à nouveau d’eau sale... l’enfant absent.</p>
+
+</page-sequence>
+<page-sequence id='p13'>
+<pagenum num="113"/>
+
+<h2>V</h2>
+
+<h2><i>OSTROVSKI</i></h2>
+
+<p>Je ne puis parler d’Ostrovski qu’avec le plus profond respect. Si nous n’étions en U.R.S.S. je dirais : c’est un saint. La religion n’a pas formé de figures plus belles. Qu’elle ne soit point seule à en façonner de pareilles, voici la preuve. Une ardente conviction y suffit et sans espoir de récompense future ; sans autre récompense que cette satisfaction d’un austère devoir accompli.</p>
+
+<p>A la suite d’un accident, Ostrovsky est resté aveugle et complètement paralysé... Il semble que, privée de presque tout contact avec le monde extérieur et ne pouvant trouver base où s’étendre, l’âme d’Ostrovski se soit développée toute en hauteur.</p>
+
+<p>Nous nous empressons près du lit qu’il n’a pas quitté depuis longtemps. Je m’assieds à son chevet, lui tends une main qu’il saisit, je devrais dire : dont il s’empare comme d’un rattachement à la vie ; et, durant toute l’heure que durera notre visite, ses maigres doigts ne cesseront point de caresser les miens, de se nouer à eux, de me transmettre les effluves d’une sympathie frémissante.</p>
+
+<pagenum num="114"/>
+
+<p>Ostrovski n’y voit plus, mais il parle, il entend. Sa pensée est d’autant plus active et tendue que rien ne vient jamais la distraire, sinon peut-être la douleur physique. Mais il ne se plaint pas, et son beau visage émacié trouve encore le moyen de sourire, malgré cette lente agonie.</p>
+
+<p>La chambre où il repose est claire. Par les fenêtres ouvertes entrent le chant des oiseaux, le parfum des fleurs du jardin. Que tout est calme ici ! Sa mère, sa sœur, ses amis, des visiteurs, restent discrètement assis non loin du lit ; certains prennent note de nos paroles. Je dis à Ostrovski l’extraordinaire réconfort que je puise dans le spectacle de sa constance ; mais la louange semble le gêner : ce qu’il faut admirer, c’est l’U.R.S.S., c’est l’énorme effort accompli ; il ne s’intéresse qu’à cela, pas à lui-même. Par trois fois je lui dis adieu, craignant de le fatiguer, car je ne puis supposer qu’usante une si constante ardeur ; mais il me prie de rester encore ; on sent qu’il a besoin de parler. Il continuera de parler après que nous serons partis ; et parler, pour lui, c’est dicter. C’est ainsi qu’il a pu écrire (faire écrire) ce livre où il a raconté sa vie. Il en dicte un autre à présent, me dit-il. Du matin au soir, et fort avant dans la nuit, il travaille. Il dicte sans cesse.</p>
+
+<p>Je me lève enfin pour partir. Il me demande de l’embrasser. En posant mes lèvres sur son front, j’ai peine à retenir mes larmes ; il me semble soudain que je le connais depuis longtemps, que c’est un ami que je quitte ; il me semble aussi <pagenum num="115"/>que c’est lui qui nous quitte et que je prends congé d’un mourant... Mais il y a des mois et des mois, me dit-on, qu’il semble ainsi près de mourir et que seule la ferveur entretient dans ce corps débile cette flamme près de s’éteindre.</p>
+
+<pagenum num="116"/>
+</page-sequence>
+<page-sequence id='p14'>
+<pagenum num="117"/>
+
+<h2>VI</h2>
+
+<h2><i>UN KOLKHOSE</i></h2>
+
+<p>Donc 16 r. 50, taux de la journée. Ce qui ne serait pas énorme. Mais le chef de brigade du kolkhose, avec qui je m’entretiens longuement tandis que mes camarades ont été se baigner (car ce kolkhose est au bord de la mer), m’explique que ce que l’on appelle « journée de travail » est une mesure conventionnelle et qu’un bon ouvrier peut obtenir double, ou même parfois triple, « journée » en un jour<noteref noteid="note.117.1"/>. Il me montre les carnets individuels et les feuilles de règlement, qui tous et toutes passent entre ses mains. On y tient compte non seulement de la quantité, mais aussi de la qualité du travail. Des chefs d’équipe le renseignent à ce sujet, et c’est d’après ces renseignements qu’il établit les feuilles de paie. Cela nécessite une comptabilité assez compliquée et il ne cache pas qu’il est un peu surmené ; mais très satisfait néanmoins car il peut déjà compter à son actif personnel (l’équivalent de) 300 journées de travail depuis le début de l’année (nous sommes au 3 août). Ce chef de brigade, lui, dirige <pagenum num="118"/>56 hommes ; entre eux et lui, des chefs d’équipe. Donc, une hiérarchie ; mais le taux de base de la « journée » reste le même pour tous. De plus, chacun bénéficie personnellement des produits de son jardin, qu’il cultive après s’être acquitté de son travail au kolkhose.</p>
+
+<notes>
+  <note id="note.117.1">
+    <p>Les calculs comportent un fractionnement des « journées » en divisions décimales.</p>
+  </note>
+</notes>
+
+<p>Pour ce travail-ci, pas d’heures fixes et réglementaires : chacun, lorsqu’il n’y a pas urgence, travaille quand il veut.</p>
+
+<p>Ce qui m’amène à demander s’il n’en est pas qui fournissent moins que la « journée » étalon. Mais non, cela n’arrive pas, m’est-il répondu. Sans doute cette « journée » n’est-elle pas une moyenne, mais un minimum assez facilement obtenu. Au surplus, les paresseux fieffés seraient vite éliminés du kolkhose, dont les avantages sont si grands qu’on cherche au contraire à y entrer, à en faire partie. Mais en vain : le nombre des kolkhosiens est limité.</p>
+
+<p>Ces kolkhosiens privilégiés se feraient donc des mois d’environ 600 roubles. Les ouvriers « qualifiés », reçoivent parfois bien davantage. Pour les non qualifiés, qui sont l’immense majorité, le salaire journalier est de 5 à 6 roubles<noteref noteid="note.118.1"/>. Le simple manœuvre gagne encore moins.</p>
+
+<notes>
+  <note id="note.118.1">
+    <p>Dois-je rappeler que, théoriquement, le rouble vaut 3 francs français, c’est-à-dire que l’étranger, arrivant en U.R.S.S., achète 3 francs chaque billet d’un rouble. Mais la puissance d’achat du rouble n’excède guère celle du franc ; de plus, maintes denrées, et des plus nécessaires, sont encore d’un prix fort élevé (œufs, lait, viande, beurre surtout, etc.). Quant aux vêtements...!</p>
+  </note>
+</notes>
+
+<pagenum num="119"/>
+
+<p>L’état pourrait, il semble, les rétribuer davantage. Mais, tant qu’il n’y aura pas plus de denrées livrées à la consommation, une hausse des salaires n’amènerait qu’une hausse des prix. C’est du moins ce que l’on objecte.</p>
+
+<p>En attendant, les différences de salaires invitent à la qualification. Les manœuvres surabondent ; ce qui manque, ce sont les spécialistes, les cadres. On fait tout pour les obtenir ; et je n’admire peut-être rien tant, en U.R.S.S. que les moyens d’instruction mis, presque partout déjà, à portée des plus humbles travailleurs pour leur permettre (il ne tient qu’à eux), de s’élever au-dessus de leur état précaire.</p>
+
+<pagenum num="120"/>
+</page-sequence>
+<page-sequence id='p15'>
+<pagenum num="121"/>
+
+<h2>VII</h2>
+
+<h2><i>BOLCHEVO</i></h2>
+
+<p>J’ai visité Bolchevo. Ce n’était qu’un village d’abord, brusquement né du sol sur commande, il y a quelque six ans je crois, sur l’initiative de Gorki. Aujourd’hui, c’est une ville assez importante.</p>
+
+<p>Elle a ceci de très particulier : tous ses habitants sont d’anciens criminels : voleurs, assassins même... Cette idée présida à la formation et à la constitution de la cité : que les criminels sont des victimes, des dévoyés, et qu’une rééducation rationnelle peut faire d’eux d’excellents sujets soviétiques. Ce que Bolchevo prouve. La ville prospère. Des usines y furent créées qui devinrent vite des usines modèles.</p>
+
+<p>Tous les habitants de Bolchevo, amendés, sans aucune autre direction que la leur propre, sont désormais des travailleurs zélés, ordonnés, tranquilles, particulièrement soucieux des bonnes mœurs et désireux de s’instruire ; ce pourquoi tous les moyens sont mis à leur disposition. Et ce n’est pas seulement leurs usines qu’ils m’invitent à admirer, mais leurs lieux de réunions, leur club, leur bibliothèque, toutes leurs installations qui, <pagenum num="122"/>en effet, ne laissent rien à souhaiter. L’on chercherait en vain sur le visage de ces ex-criminels, dans leur aspect, dans leur langage, quelque trace de leur vie passée. Rien de plus édifiant, de plus rassurant et encourageant que cette visite. Elle laisserait penser que tous les crimes sont imputables, non à l’homme même qui les commet, mais à la société qui le poussait à les commettre. On invita l’un d’eux, puis un autre, à parler, à confesser ses crimes d’antan, à raconter comment il s’est converti, comment il en est venu à reconnaître l’excellence du nouveau régime et la satisfaction personnelle qu’il éprouve à s’y être <correction original="surbordonné">subordonné</correction>. Et cela me rappelle étrangement ces suites de confessions édifiantes que j’entendis à Thoun, il y a deux ans, lors d’une grande réunion des adeptes du mouvement d’Oxford. « J’étais pêcheur et malheureux ; je faisais le mal ; mais maintenant, j’ai compris ; je suis sauvé ; je suis heureux. » Tout cela un peu gros, un peu simpliste, et laissant le psychologue sur sa soif. N’empêche que la cité de Bolchevo reste une des plus extraordinaires réussites dont puisse se targuer le nouvel État soviétique. Je ne sais si dans d’autres pays, l’homme serait aussi malléable.</p>
+
+</page-sequence>
+<page-sequence id='p16'>
+<pagenum num="123"/>
+
+<h2>VIII</h2>
+
+<h2><i>LES BESPRIZORNIS</i></h2>
+
+<p>J’espérais bien ne plus voir de <i>besprizornis</i><noteref noteid="note.123.1"/>. A Sébastopol, ils abondent. Et l’on en voit encore plus à Odessa, me dit-on. Ce ne sont plus tout à fait les mêmes que dans les premiers temps. Ceux d’aujourd’hui, leurs parents vivent encore, peut-être ; ces enfants ont fui leur village natal, parfois par désir d’aventure ; plus souvent parce qu’ils n’imaginaient pas qu’on pût être, nulle part ailleurs, aussi misérable et affamé que chez eux. Certains ont moins de dix ans. On les distingue à ceci qu’ils sont beaucoup plus vêtus (je n’ai pas dit mieux) que les autres enfants. Ceci s’explique : ils portent sur eux tout leur avoir. Les autres enfants, très souvent, ne portent qu’un simple caleçon de bain. (Nous sommes en été, la chaleur est torride.) Ils circulent dans les rues, le torse nu, pieds nus. Et il ne faut pas voir là toujours un signe de pauvreté. Ils sortent du bain, y retournent. Ils ont un chez soi où pouvoir laisser d’autres vêtements, pour les jours de pluie, pour l’hiver. Quant au besprizorni, il est sans <pagenum num="124" b="domi-" a="cile.">domicile.</pagenum> En plus du caleçon de bain, il porte d’ordinaire un chandail en loques.</p>
+
+<notes>
+  <note id="note.123.1">
+    <p>Enfants abandonnés.</p>
+  </note>
+</notes>
+
+<p>De quoi vivent les besprizornis. Je ne sais. Mais ce que je sais, c’est que, s’ils ont de quoi s’acheter un morceau de pain, ils le dévorent. La plupart sont joyeux malgré tout ; mais certains semblent près de défaillir. Nous causons avec plusieurs d’entre eux ; nous gagnons leur confiance. Ils finissent par nous montrer l’endroit où souvent ils dorment quand le temps n’est pas assez beau pour coucher dehors : c’est près de la place où se dresse une statue de Lénine, sous le beau portique qui domine le quai d’embarquement. A gauche, lorsque l’on descend vers la mer, dans une sorte de renfoncement du portique, une petite porte de bois, que l’on ne pousse pas, mais que l’on tire à soi — comme je fais certain matin, alors qu’il ne passe pas trop de monde, car je crains de révéler leur cachette et de les en faire déloger — et je suis devant un réduit, grand comme une alcôve, sans autre ouverture, où, pelotonné comme un chat, sur un sac, je vois un petit être famélique dormir. Je referme la porte sur son sommeil.</p>
+
+<p>Un matin, les besprizornis que nous connaissons sont invisibles (d’ordinaire ils rôdent à l’entour du grand jardin public). Puis l’un d’eux, que nous retrouvons pourtant, m’apprend que la police a fait une rafle et que tous les autres sont coffrés. Deux de mes compagnons ont du reste assisté à la rafle. Le milicien qu’ils interrogent leur dit qu’on va les confier à une institution <pagenum num="125"/>d’État. Le lendemain, tous sont de nouveau là. Que s’est-il passé ? « On n’a pas voulu de nous », disent les gosses. Ne serait-ce pas plutôt eux qui ne veulent pas se soumettre au peu de discipline imposée ? Se sont-ils enfuis de nouveau ? Il serait facile à la police de les reprendre. Il semble qu’ils devraient être heureux de se voir tirés de misère. Préfèrent-ils à ce qu’on leur offre, la misère avec la liberté ?</p>
+
+<p>J’en vis un tout petit, de 8 ans à peine, qu’emmenaient deux agents en civil. Ils s’étaient mis à deux, car le petit se débattait comme un gibier ; il sanglotait, hurlait, trépignait, cherchait à mordre... Près d’une heure après, repassant presque au même endroit, j’ai revu le même enfant, calmé. Il était assis sur le trottoir. Un seul des deux agents restait debout près de lui et lui parlait. Le petit ne cherchait plus à fuir. Il souriait à l’agent. Un grand camion vint, s’arrêta ; l’agent aida l’enfant à y monter, pour l’emmener où ? Je ne sais. Et si je raconte ce menu fait, c’est que peu de choses en U.R.S.S. m’ont ému comme le comportement de cet homme envers cet enfant : la douceur persuasive de sa voix (ah ! que j’aurais voulu comprendre ce qu’il lui disait) tout ce qu’il savait mettre d’affection dans son sourire, la caressante tendresse de son étreinte lorsqu’il le souleva dans ses bras... Je songeais au <i>Moujik Mareï</i><noteref noteid="note.125.1"/> de Dostoïewsky — et qu’il valait la peine de venir en U.R.S.S. pour voir cela.</p>
+
+<notes>
+  <note id="note.125.1">
+    <p><i>Journal d’un Écrivain.</i></p>
+  </note>
+</notes>
+
+</page-sequence>
+</page-sequences>
+</bml>

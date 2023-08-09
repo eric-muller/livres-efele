@@ -1,0 +1,12 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='retour_de_l_urss'/>
+    <book x='retouches_a_mon_retour_de_l_urss'/>
+  </target>
+
+</project>
+
