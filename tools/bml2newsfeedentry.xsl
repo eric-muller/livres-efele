@@ -74,16 +74,18 @@
         <xsl:otherwise> <xsl:text>, </xsl:text></xsl:otherwise>
       </xsl:choose>
 
-      <xsl:for-each select='current-group()'>
+      <xsl:for-each select='current-group()/bml:nom'>
         <xsl:choose>
           <xsl:when test='position() = 1'/>
           <xsl:otherwise> <xsl:text>, </xsl:text></xsl:otherwise>
         </xsl:choose>
 
-        <xsl:value-of select='bml:nom'/>
+        <xsl:value-of select='.'/>
       </xsl:for-each>
 
-      <xsl:text>, </xsl:text>
+      <xsl:if test='current-group()/bml:nom'>
+        <xsl:text>, </xsl:text>
+      </xsl:if>
       <xsl:value-of select='bml:ville'/>
     </xsl:for-each-group>
 
@@ -190,16 +192,19 @@
       <xsl:otherwise> <xsl:text>, </xsl:text></xsl:otherwise>
     </xsl:choose>
     
-    <xsl:for-each select='current-group()'>
+    <xsl:for-each select='current-group()/bml:nom'>
       <xsl:choose>
         <xsl:when test='position() = 1'/>
         <xsl:otherwise> <xsl:text>, </xsl:text></xsl:otherwise>
       </xsl:choose>
       
-      <xsl:value-of select='bml:nom'/>
+      <xsl:value-of select='.'/>
     </xsl:for-each>
     
-    <xsl:text>, </xsl:text>
+    <xsl:if test='current-group()/bml:nom'>
+      <xsl:text>, </xsl:text>
+    </xsl:if>
+
     <xsl:value-of select='bml:ville'/>
   </xsl:for-each-group>
   

@@ -54,7 +54,7 @@ monographie = element monographie {
   & element auteur { auteur } +
 
   & element editeur {
-        element nom { inline* }
+        element nom { inline* } ?
       & element ville { inline* }}+
 
   & element edition { text }?

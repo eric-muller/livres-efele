@@ -139,17 +139,19 @@
 
 <xsl:template match='bml:monographie' mode='efele-cover'>
   <bml:h2>
-    <xsl:for-each select='bml:editeur'>
+    <xsl:for-each select='bml:editeur/bml:nom'>
       <xsl:choose>
         <xsl:when test='position() = 1'/>
         <xsl:otherwise> 
                 <xsl:text>, </xsl:text>
         </xsl:otherwise>
       </xsl:choose>
-      <xsl:apply-templates select='bml:nom/node()'/>
+      <xsl:apply-templates select='node()'/>
     </xsl:for-each>
-          <xsl:text>, </xsl:text>
-          <xsl:apply-templates select='bml:date/node()'/>
+    <xsl:if test='bml:editeur/bml:nom'>
+      <xsl:text>, </xsl:text>
+    </xsl:if>
+    <xsl:apply-templates select='bml:date/node()'/>
   </bml:h2>
 </xsl:template>
 

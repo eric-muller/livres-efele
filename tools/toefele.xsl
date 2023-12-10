@@ -117,16 +117,19 @@
       <xsl:otherwise> <xsl:text>, </xsl:text></xsl:otherwise>
     </xsl:choose>
     
-    <xsl:for-each select='current-group()'>
+    <xsl:for-each select='current-group()/bml:nom'>
       <xsl:choose>
         <xsl:when test='position() = 1'/>
         <xsl:otherwise> <xsl:text>, </xsl:text></xsl:otherwise>
       </xsl:choose>
       
-      <xsl:apply-templates select='bml:nom/node()'/>
+      <xsl:apply-templates select='node()'/>
     </xsl:for-each>
     
-    <xsl:text>, </xsl:text>
+    <xsl:if test='current-group()/bml:nom'>
+      <xsl:text>, </xsl:text>
+    </xsl:if>
+
     <xsl:apply-templates select='bml:ville/node()'/>
   </xsl:for-each-group>
   

@@ -543,8 +543,10 @@
 
           <dc:Publisher>
             <xsl:for-each select='//bml:bml/bml:metadata/bml:monographie/bml:editeur'>
-              <xsl:value-of select='bml:nom'/>
-              <xsl:text>, </xsl:text>
+              <xsl:if test='bml:nom'>
+                <xsl:value-of select='bml:nom'/>
+                <xsl:text>, </xsl:text>
+              </xsl:if>
               <xsl:value-of select='bml:ville'/>
             </xsl:for-each>
           </dc:Publisher>
