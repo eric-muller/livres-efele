@@ -1,0 +1,78 @@
+<?xml version='1.0'?>
+
+<edition xmlns="http://efele.net/2010/ns/bml">
+  <style colophon="Minion" body="MinionPro">
+    <fonts href='../../../fonts/MinionPro.xml'/>
+  </style>
+
+<css>
+img[src='images/h01.png'],
+img[src='images/h02.png'],
+img[src='images/h03.png'],
+img[src='images/h04.png'],
+img[src='images/h05.png'],
+img[src='images/h06.png'],
+img[src='images/h07.png'],
+img[src='images/h08.png'],
+img[src='images/h09.png'],
+img[src='images/h10.png'],
+img[src='images/h11.png'],
+img[src='images/h12.png'],
+img[src='images/h13.png'],
+img[src='images/h14.png'],
+img[src='images/h15.png']
+{
+   float: left;
+   width: 100vw;
+   height: 100vh;
+   max-width: 100vw;
+   max-height: 100vh;
+   padding: 1em 0 1em 0;
+}
+
+
+img[src='images/p008.png'],
+img[src='images/p009.png'],
+img[src='images/p036.png'],
+img[src='images/p037.png'],
+img[src='images/p062.png'],
+img[src='images/p063.png'],
+img[src='images/p104.png'],
+img[src='images/p105.png'],
+img[src='images/p139.png'],
+img[src='images/p175.png'],
+img[src='images/p177.png'],
+img[src='images/p208.png'],
+img[src='images/p209.png'],
+img[src='images/p252.png'],
+img[src='images/p253.png'],
+img[src='images/p283.png']
+img[src='images/p285.png']
+img[src='images/p305.png']
+img[src='images/p307.png']
+{
+  display: block;
+  height: 10em;
+  max-width: 100vw;
+  margin: 1em auto 1em auto;
+}
+
+
+img[src='images/p008.png'] { height: 6em; }
+img[src='images/p104.png'] { height: 15em; }
+img[src='images/p175.png'] { height: 15em; }
+img[src='images/p208.png'] { height: 12em; }
+img[src='images/p252.png'] { height: 12em; }
+img[src='images/p283.png'] { height: 12em; }
+img[src='images/p305.png'] { height: 12em; }
+img[src='images/p307.png'] { height: 20em; }
+
+
+img[src='images/front.png'] {
+  float: left;
+   width: 50%;
+   max-height: 100vh;
+}
+</css>
+
+</edition>
