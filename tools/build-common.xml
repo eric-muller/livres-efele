@@ -15,25 +15,17 @@
   <property name='exportdir'
             value='c:/users/emuller/home/eric/efele.net/ebooks/livres'/>
 
+  <property name='tools'        value='../../../tools'/>
+
   <path id='classpath'>
-    <pathelement path="c:/program files/java/icu4j/icu4j-4_8_1_1.jar"/>
-    <pathelement path="c:/Users/emuller/home/afe/cafe/outside/aglj40.jar"/>
-    <pathelement path="C:/Users/emuller/home/afe/rideau/bin/release"/>
-    <pathelement path="C:/Users/emuller/home/afe/cafe/bin/release"/>
-    <pathelement path="c:/users/emuller/home/eric/epub/esciurus"/>
-    <pathelement path="c:/users/emuller/home/eric/epub/net.efele.epub/bin"/>
-    <pathelement path="c:/users/emuller/home/eric/epub/net.efele.epub/src"/>
-    <pathelement path="c:/users/emuller/home/unicode/software/publication"/>
-    <!--
-      <pathelement path='C:/Program Files/Java/saxonhe9-3-0-5j/saxon9he.jar'/>
-    -->
-    <pathelement path='C:/Program Files/Java/saxonhe10-0J/saxon-he-10.0.jar'/>
+    <pathelement path="${tools}/java"/>
+    <pathelement path="${tools}/java/saxon-he-10.0.jar"/>
+    <pathelement path="${tools}/java/icu4j-4_8_1_1.jar"/>
+    <pathelement path="${tools}/java/aglj40.jar"/>
+    <pathelement path="${tools}/java/rideau.jar"/>
+    <pathelement path="${tools}/java/afe.jar"/>
   </path>
 
-
-  <property name='tools'        value='../../../tools'/>
-  <property name='schema'       value='${tools}/bml.rnc'/>
-  <property name='toefele_xsl'  value='${tools}/toefele.xsl'/>
 
   <property name='correction' value='['/>
   <property name='review' value='no'/>
@@ -72,7 +64,7 @@
       <java classname="net.sf.saxon.Transform" fork="true">
         <classpath refid="classpath"/>
         <arg value="-o:@{dest}"/>
-        <arg value="-xsl:${toefele_xsl}"/>
+        <arg value="-xsl:${tools}/toefele.xsl"/>
         <arg value="colophon=@{src}.colophon"/>
         <arg value="tirage-font=${tirage-font}"/>
         <arg value="correction=@{correction}"/>
@@ -206,7 +198,7 @@
     <attribute name='flavor'/>
     
     <sequential>
-      <java classname="net.efele.epub.FontEmbedder4" fork="true">
+      <java classname="net.efele.epub.FontEmbedder" fork="true">
         <classpath refid="classpath"/>
         <arg value='build/@{id}/@{flavor}/epub/OEBPS'/>
         <arg value='build/@{id}/@{flavor}/epub/OEBPS'/>

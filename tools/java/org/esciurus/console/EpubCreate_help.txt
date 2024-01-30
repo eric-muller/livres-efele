@@ -1,0 +1,33 @@
+== Usage: ==
+
+java -cp <jarname>.jar org.esciurus.console.EpubCreate -param <arg> -param <arg> ...
+
+The following commend line parameters are supported, they may be repeated.
+The order of parameters is irrelevant. Arguments containing spaces must 
+be enclosed in quotation marks.
+
+== Package content ==
+
+-include <filename>    Include this file in the OPF package
+-includedir <dirname>  Include all files in this directory in the OPF package, 
+                       also including all subdirectories
+-spine <filename>      Add this file to the spine (must already be in package)                     
+-toc <filename>        Set this file as package NCX table of contents
+                       
+== Publication metadata ==
+
+-title <text>       title of the publication
+-author <name>      author (will be included as "contributor" with role "aut") 
+-subject <name>     subject (Dublin Core)
+-description <text> description (Dublin Core)
+-publisher <name>   publisher (Dublin Core)
+-type <code>        type of publication (must be from DCMI type vocabulary)
+-language <code>    language (must be 2-letter ISO code)
+-relation <text>    relation (Dublin Core)
+-coverage <text>    coverage (Dublin Core)
+-rights <text>      rights (Dublin Core)
+
+== Other ==
+
+-license  displays license conditions
+-help     displays this help message
