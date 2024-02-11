@@ -50,12 +50,13 @@ monographie = element monographie {
     attribute bnf { text }?
 
   & element titre { text }
+  & element soustitre { text } ?
 
   & element auteur { auteur } +
 
   & element editeur {
         element nom { inline* } ?
-      & element ville { inline* }}+
+      & element ville { inline* }}*
 
   & element edition { text }?
   & element date { text }
@@ -595,7 +596,7 @@ inline |=
   text
 
 inline |= 
-  element span { 
+  element span {    # to carry common-attributes (xml:lang, id, etc)
     common-attributes,
     inline+ }
 
@@ -613,6 +614,9 @@ inline |=
 
 inline |=
   element sup { inline* }    # superior
+
+inline |=
+  element sub { inline* }    # subscript
 
 inline |=
   element initcap {

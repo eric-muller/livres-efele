@@ -987,6 +987,13 @@
   </sup>
 </xsl:template>
 
+<xsl:template match='bml:sub' mode='html'>
+  <sub>
+    <xsl:call-template name='transfer-common-attributes'/>
+    <xsl:apply-templates mode='html'/>
+  </sub>
+</xsl:template>
+
 <xsl:template match='bml:a' mode='html'>
   <a>
     <xsl:if test='@href'>
