@@ -10,14 +10,10 @@ start =
     page-sequences }
 
 
-common-attributes |=
-  attribute id { text }?
-
-common-attributes |=
+common-attributes =
+  attribute id { text }?,
   attribute xml:lang { text }?
- 
-#common-attributes |= 
-#  attribute mode { text }
+
 
 #------------------------------------------------------------------ metadata ---
 
