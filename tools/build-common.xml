@@ -32,6 +32,10 @@
   <property name='endnotes' value='no'/>
   <property name='dotoi'  value='no'/>
 
+  <!-- schema to use by default -->
+  <property name='schema'         value='${tools}/bml.rnc'/>
+  <property name='toefele_xsl'    value='${tools}/toefele.xsl'/>
+
   <property name='collectionId'   value=''/>
   <property name='collectionName' value=''/>
 
@@ -64,7 +68,7 @@
       <java classname="net.sf.saxon.Transform" fork="true">
         <classpath refid="classpath"/>
         <arg value="-o:@{dest}"/>
-        <arg value="-xsl:${tools}/toefele.xsl"/>
+        <arg value="-xsl:${toefele_xsl}"/>
         <arg value="colophon=@{src}.colophon"/>
         <arg value="tirage-font=${tirage-font}"/>
         <arg value="correction=@{correction}"/>
