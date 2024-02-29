@@ -340,6 +340,7 @@ inline |= pagination | pageref
 # the content of <aside> could be any sequence of blocks.
 aside =
   element aside {
+    common-attributes,
     block+ }
 
 block  |= aside
@@ -386,15 +387,18 @@ block |= vsep
 
 #-------------------------------------------------------------------- lists ---
 
-unordered_list =
-  element ul {
+a_list =
+  element list {
     common-attributes,
+    attribute style { "disc" | "decimal" },
 
-    element li {
+    ( pagination 
+    | element li {
       common-attributes,
-       block * }* }
+       block * } )+ }
 
-block |= unordered_list
+block |= a_list
+
 
 toc_list =
   element tl {

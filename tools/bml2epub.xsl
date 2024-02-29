@@ -396,11 +396,11 @@
 </xsl:template>
 
 
-<xsl:template match='bml:ul' mode='html'>
-  <ul>
+<xsl:template match='bml:list' mode='html'>
+  <ol style="list-style-type: {@style};">
     <xsl:call-template name='transfer-common-attributes'/>
     <xsl:apply-templates mode='html'/>
-  </ul>
+  </ol>
 </xsl:template>
 
 <xsl:template match='bml:li' mode='html'>

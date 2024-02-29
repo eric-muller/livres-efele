@@ -85,6 +85,10 @@ p {
   text-align: justify;
   text-indent: 1em; }
 
+li > p:first-child { text-indent: 0; }
+
+li { padding: default; }
+
 p.initcap {
   text-indent: -0.8em; }
   
@@ -568,6 +572,10 @@ table {
 
 
 
+aside {
+  float: left;
+  max-width: 100%;
+  width: auto; }
 
 figure > img {
   max-width: 100%;
