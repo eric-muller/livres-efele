@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+
+<edition xmlns="http://efele.net/2010/ns/bml">
+  <style colophon="Plantin" body="Plantin">
+    <fonts href='../../../fonts/PlantinStd.xml'/>
+
+    <css>
+blockquote { margin: 1em 2em 1em 2em; }
+
+h1 { font-size: 150%; }
+
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+
+h1 + p { text-indent: 0; }
+h2 + p { text-indent: 0; }
+h3 + p { text-indent: 0; }
+
+aside { 
+  margin-top: 1em;
+  border-top: .2em double black;
+  padding-top: 1em;
+
+  break-inside: avoid;
+
+  padding-bottom: 1em;
+  border-bottom: .2em double black;
+  margin-bottom: 1em;
+
+  width: 100%;
+}
+
+    </css>
+  </style>
+</edition>
