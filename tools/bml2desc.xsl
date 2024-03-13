@@ -67,7 +67,7 @@
 
     <xsl:for-each select='document("edition.xml",.)'>
 
-      <xsl:apply-templates select='bml:edition/bml:copyright'/>
+      <xsl:apply-templates select='bml:edition/bml:in-copyright'/>
 
       <p>&#xa0;</p>
 
