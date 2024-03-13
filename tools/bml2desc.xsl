@@ -11,8 +11,6 @@
 <xsl:include href="bml-common.xsl"/>
 
 <xsl:param name='bookFile'/>
-<xsl:param name='descPresent'/>
-<xsl:param name='desc'/>
 <xsl:param name='id'/>
 
 <xsl:output
@@ -67,17 +65,23 @@
     <xsl:apply-templates select='bml:metadata'/>
     <hr/>
 
-    <xsl:if test='$descPresent = "true"'>
+    <xsl:for-each select='document("edition.xml",.)'>
+
+      <xsl:apply-templates select='bml:edition/bml:copyright'/>
+
       <p>&#xa0;</p>
 
       <div style='max-width: 30em; margin-left:auto; margin-right:auto;'>
-        <xsl:for-each select='document($desc,.)'>
-          <xsl:apply-templates select='.'/>
-        </xsl:for-each>
+        <xsl:apply-templates select='bml:edition/bml:book[@b=$bookFile]'/>
       </div>
-    </xsl:if>
+    </xsl:for-each>
   </body>
   </html>
+</xsl:template>
+
+<xsl:template match='bml:in-copyright'>
+  <xsl:apply-templates/>
+  <hr/>
 </xsl:template>
 
 

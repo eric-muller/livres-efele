@@ -2,21 +2,40 @@ default namespace bml = "http://efele.net/2010/ns/bml"
 namespace dc="http://purl.org/dc/elements/1.1/"
 namespace opf="http://www.idpf.org/2007/opf"
 
-start = 
+include "bml.rnc" {
+
+start =
   element edition {
     element style {
+      attribute colophon { text},
+      attribute body { text },
+
       fonts,
       element css { text }? },
-    element extracts {
-      element extract { 
-        block+ }+ }
 
-    element words {
-      element word {
-        element example {
-          inline* },
-        element definition {
-          inline* }}}? }
+    element in-copyright {
+      block+ } ?,
+
+    element book {
+      attribute b { text },
+
+      element extracts {
+        element extract {
+          block+ }+ }?,
+
+      element words {
+        element word {
+          element example {
+            block+ },
+          element definition {
+            block+ }}+ }? }*
+  }
+}
+
+inline |=
+  element highlight {
+    inline+ }
+
 fonts |=
   element fonts {
     attribute href { text }}
@@ -24,7 +43,7 @@ fonts |=
 fonts |=
   element fonts {
     attribute c { text },
-    font+
+    font+ }
 
 font =
   element font {

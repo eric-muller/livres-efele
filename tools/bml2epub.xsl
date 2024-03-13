@@ -1189,8 +1189,10 @@
   <xsl:result-document
      method='text'
      href='{$targetdir}/OEBPS/style.css'>
-    <xsl:text>@import "style-common.css";</xsl:text>
-    <xsl:apply-templates select='document($eml,.)' mode='style.css'/>
+    <xsl:text>@import "style-common.css";
+
+</xsl:text>
+    <xsl:apply-templates select='document($eml,.)/bml:edition/bml:style' mode='style.css'/>
   </xsl:result-document>
 
 

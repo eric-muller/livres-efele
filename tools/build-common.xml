@@ -364,6 +364,8 @@
 
 
   <target name='validate'>
+    <dovalidate src='edition.xml' schema='${tools}/eml.rnc'/>
+
     <process-books a='validate-book'/>
   </target>
 
@@ -456,14 +458,10 @@
     <mkdir dir='results'/>
     <mkdir dir='results/${id}'/>
 
-    <available file="${x}.notes" property="notes.present"/>
-
     <java classname="net.sf.saxon.Transform" fork="true">
       <classpath refid="classpath"/>
       <arg value="-o:results/${id}/index.html"/>
       <arg value="-xsl:${tools}/bml2desc.xsl"/>
-      <arg value="descPresent=${notes.present}"/>
-      <arg value="desc=${x}.notes"/>
       <arg value="id=${id}"/>
       <arg value="collectionId=${collectionId}"/>
       <arg value="collectionName=${collectionName}"/>
