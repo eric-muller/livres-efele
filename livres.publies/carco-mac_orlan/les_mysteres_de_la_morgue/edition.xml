@@ -1,0 +1,50 @@
+<?xml version='1.0'?>
+
+<edition xmlns="http://efele.net/2010/ns/bml">
+  <style colophon="Chaparral" body="ChaparralPro">
+    <fonts href='../../../fonts/ChaparralPro.xml'/>
+
+    <css>
+img
+{
+  width: 100%;
+  max-height: 100vh;
+}
+
+p img
+{
+  float: left;
+  width: 100%;
+  padding: 1em 0 1em 0;
+}
+
+
+.poem {
+  clear: both;
+}
+
+img[src='images/065.png'],
+img[src='images/085.png'],
+img[src='images/135.png'],
+img[src='images/191.png']
+{
+  float: right;
+  width: 15em;
+  max-width: 40%;
+  padding: 0.5em 0 0.5em 0.5em;
+}
+
+img[src='images/024.png'],
+img[src='images/112.png'],
+img[src='images/152.png'],
+img[src='images/186.png']
+{
+  float: left;
+  width: 15em;
+  max-width: 40%;
+  padding: 0.5em 0.5em 0.5em 0;
+}
+
+    </css>
+  </style>
+</edition>
