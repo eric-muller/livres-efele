@@ -452,10 +452,11 @@ header |=
     header-attributes,
     inline* }
 
-#header |=
-#  element h4 {
-#    common-attributes,
-#    inline* }
+header |=
+  element h4 {
+    common-attributes,
+    header-attributes,
+    inline* }
 
 block |= header
 
