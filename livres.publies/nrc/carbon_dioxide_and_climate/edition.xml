@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+
+<edition xmlns="http://efele.net/2010/ns/bml">
+  <style colophon="Minion" body="MinionPro">
+    <fonts href='../../../fonts/MinionPro.xml'/>
+    <fonts href='../../../fonts/MyriadPro.xml'/>
+
+    <css>
+  
+h1, h2, h3 {
+  font-family: MyriadPro; 
+  text-align: left;
+  text-indent: 0;
+}
+
+h2, h3 {
+  font-size: 1em;
+}
+
+h2 {
+  margin: 1em 0 1em 0;
+}
+
+h3 {
+  margin: 1em 0 0 0;
+}
+
+h1 + p, h2 + p, h3 + p {
+  text-indent: 0;
+}
+    </css>
+  </style>
+</edition>

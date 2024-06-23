@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bml xmlns="http://efele.net/2010/ns/bml">
+
+  <metadata>
+    <monographie>
+
+      <titre>Carbon Dioxide and Climate: A Scientific Assessment</titre>
+      
+      <auteur>
+        <nom-bibliographie>National Research Council</nom-bibliographie>
+        <nom-couverture>National Research Council</nom-couverture>
+      </auteur>
+      
+      <editeur>
+        <nom>The National Academies Press</nom>
+        <ville>Washington D.C.</ville>
+      </editeur>
+      
+      <date>1979</date>
+      <langue>en</langue>
+    </monographie>
+
+    <volume>
+      <facsimile href="https://nap.nationalacademies.org/catalog/12181/carbon-dioxide-and-climate-a-scientific-assessment"
+                 pages="N2 i-xi 1-500"/>
+    </volume>
+
+    <electronique
+        identificateur="http://efele.net/ebooks/livres/000692"
+        creation="2024-02-22T18:35:29-08:00">
+      
+      <titre>Carbon Dioxide and Climate: A Scientific Assessment</titre>
+
+      <producteur>
+        <nom>ÉFÉLÉ</nom>
+        <email>livres@efele.net</email>
+      </producteur>
+    </electronique>
+  </metadata>
+
+  <toc>
+    <tocentry idref="p01" label="Climate Reaseach Board"/>
+    <tocentry idref="p02" label="Ad Hoc Study Group on Carbon Dioxide and Climate"/>
+    <tocentry idref="p03" label="Foreword"/>
+    <tocentry idref="p04" label="Preface"/>
+    <tocentry idref="p05" label="1 Summary and Conclusions"/>
+    <tocentry idref="p06" label="2 Carbon in the Atmosphere"/>
+    <tocentry idref="p07" label="3 Physical Processes Important for Climate and Climate Modeling">
+      <tocentry idref="p08" label="3.1 Radiative Heating"/>
+      <tocentry idref="p09" label="3.2 Cloud Effects"/>
+      <tocentry idref="p10" label="3.3 Oceans"/>
+    </tocentry>
+    <tocentry idref="p11" label="4 Models and Their Validity">
+      <tocentry idref="p12" label="4.1 Three-Dimensional General Circulation Models"/>
+    </tocentry>
+    <tocentry idref="p13" label="References"/>
+    <tocentry idref="p14" label="Bibliography"/>
+    <tocentry idref="p15" label="Appendix: Comparison of Snow-Ice Effects"/>
+  </toc>
+
+  <cover src="images/cover.jpeg" alt="The Social Costs of Business Enterprise. K. William Kapp. Spokesman"/>
+
+<page-sequences>
+<page-sequence recto="true">
+<pagenum num="i"/>
+
+<h1>Carbon Dioxide and Climate: A Scientific Assessment</h1>
+
+<p>Report of an Ad Hoc Study Group on Carbon Dioxide and Climate</p>
+<p>Woods Hole, Massachusetts</p>
+<p>July 23-27, 1979</p>
+<p>to the</p>
+<p>Climate Research Board</p>
+<p>Assembly of Mathematical and Physical Sciences</p>
+<p>National Research Council</p>
+
+<vsep class="fewlines"/>
+
+<p>NATIONAL ACADEMY OF SCIENCES</p>
+<p>Washington, D.C. 1979</p>
+
+</page-sequence>
+<page-sequence>
+<pagenum num="ii"/>
+
+<vsep class="fewlines"/>
+
+<p>NOTICE The project that is the subject of this report was approved by the Governing Board of the National Research Council, whose members are drawn from the Councils of the National Academy of Sciences, the National Academy of Engineering, and the Institute of Medicine. The members of the Committee responsible for the report were chosen for their special competencies and with regard for appropriate balance.</p>
+
+<p>This report has been reviewed by a group other than the authors according to procedures approved by a Report Review Committee consisting of members of the National Academy of Sciences, the National Academy of Engineering, and the Institute of Medicine.</p>
+
+<vsep class="fewlines"/>
+
+
+<p>Available from</p>
+<p>Climate Research Board</p>
+<p>2101 Constitution Avenue</p>
+<p>Washington, D.C. 20418</p>
+
+</page-sequence>
+<page-sequence id="p01">
+<pagenum num="iii"/>
+
+<h1>Climate Research Board</h1>
+
+<p class="sommaire">Verner E. Suomi, University of Wisconsin-Madison, <i>Chairman</i></p>
+<p class="sommaire">Francis P. Bretherton, National Center for Atmospheric Research</p>
+<p class="sommaire">Dayton H. Clewell, Mobil Oil Corporation (retired)</p>
+<p class="sommaire">Thomas Donahue, University of Michigan</p>
+<p class="sommaire">Herbert Friedman, Naval Research Laboratory</p>
+<p class="sommaire">J. Herbert Hollomon, Massachusetts Institute of Technology</p>
+<p class="sommaire">Charles W. Howe, University of Colorado</p>
+<p class="sommaire">John Imbrie, Brown University</p>
+<p class="sommaire">Robert W. Kates, Clark University</p>
+<p class="sommaire">John E. Kutzbach, University of Wisconsin-Madison</p>
+<p class="sommaire">Cecil E. Leith, National Center for Atmospheric Research</p>
+<p class="sommaire">William A. Nierenberg, Scripps Institution of Oceanography</p>
+<p class="sommaire">Roger R. Revelle, University of California, San Diego</p>
+<p class="sommaire">Jogyph Smagorinsky, National Oceanic and Atmospheric Administration</p>
+<p class="sommaire">Frederick E. Smith, Harvard University</p>
+<p class="sommaire">Karl K. Turekian, Yale University</p>
+<p class="sommaire">John Waelti, University of Minnesota</p>
+<p class="sommaire">Sylvan H. Wittwer, Michigan State University</p>
+<p class="sommaire">Warren Wooster, University of Washington</p>
+
+<h3>LIAISON WITH FEDERAL AGENCIES</h3>
+
+<p class="sommaire">Eugene W. Bierly, National Science Foundation</p>
+<p class="sommaire">John G. Dardis, Department of State</p>
+<p class="sommaire">Edward Epstein, National Climate Program Office, National Oceanic and Atmospheric Administration</p>
+<pagenum num="iv"/>
+<p class="sommaire">Steven Flajser, Committee on Commerce, Science and Transportation, U.S. Senate</p>
+<p class="sommaire">Elbert W. Friday, Department of Defense</p>
+<p class="sommaire">Lawrence R. Greenwood, National Aeronautics and Space Administration</p>
+<p class="sommaire">Galen Hart, Department of Agriculture</p>
+<p class="sommaire">Keith Howard, Department of the Interior</p>
+<p class="sommaire">Gerald J. Kovach, Committee on Commerce, Science and Transportation, U.S. Senate</p>
+<p class="sommaire">Ian Marceau, Subcommittee on Natural Resources and Environment, U.S. House of Representatives</p>
+<p class="sommaire">Lloyd J. Money, Department of Transportation</p>
+<p class="sommaire">Douglas H. Sargeant, National Oceanic and Atmospheric Administration</p>
+<p class="sommaire">David Slade, Department of Energy</p>
+<p class="sommaire">Herbert L. Wiser, Environmental Protection Agency</p>
+
+<h3>STAFF</h3>
+
+<p class="sommaire">John S. Perry, National Research Council, <i>Executive Secretary</i></p>
+<p class="sommaire">Robert S. Chen, National Academy of Sciences, <i>Resident Fellow</i></p>
+
+</page-sequence>
+<page-sequence id="p02">
+<pagenum num="v"/>
+
+<h1>Ad Hoc Study Group on Carbon Dioxide and Climate</h1>
+
+<p class="sommaire">Jule G. Charney, Massachusetts Institute of Technology, <i>Chairman</i></p>
+<p class="sommaire">Akio Arakawa, University of California, Los Angeles</p>
+<p class="sommaire">D. James Baker, University of Washington</p>
+<p class="sommaire">Bert Bolin, University of Stockholm</p>
+<p class="sommaire">Robert E. Dickinson, National Center for Atmospheric Research</p>
+<p class="sommaire">Richard M. Goody, Harvard University</p>
+<p class="sommaire">Cecil E. Leith, National Center for Atmospheric Research</p>
+<p class="sommaire">Henry M. Stommel, Woods Hole Oceanographic Institution</p>
+<p class="sommaire">Carl I. Wunsch, Massachusetts Institute of Technology</p>
+
+<h3>STAFF</h3>
+
+<p class="sommaire">John S. Perry</p>
+<p class="sommaire">Robert S. Chen</p>
+<p class="sommaire">Doris Bouadjemi</p>
+<p class="sommaire">Theresa Fisher</p>
+
+<pagenum num="vi"/>
+</page-sequence>
+<page-sequence id="p03" recto="true">
+<pagenum num="vii"/>
+
+<h1>Foreword</h1>
+
+<p>Each of our sun’s planets has its own climate, determined in large measure by the planet’s separation from its mother star and the nature of its atmospheric blanket. Life on our own earth is possible only because of its equable climate, and the distribution of climatic regimes over the globe has profoundly shaped the evolution of man and his society.</p>
+
+<p>For more than a century, we have been aware that changes in the composition of the atmosphere could affect its ability to trap the sun’s energy for our benefit. We now have incontrovertible evidence that the atmosphere is indeed changing and that we ourselves contribute to that change. Atmospheric concentrations of carbon dioxide are steadily increasing, and these changes are linked with man’s use of fossil fuels and exploitation of the land. Since carbon dioxide plays a significant role in the heat budget of the atmosphere, it is reasonable to suppose that continued increases would affect climate.</p>
+
+<p>These concerns have prompted a number of investigations of the implications of increasing carbon dioxide. Their consensus has been that increasing carbon dioxide will lead to a warmer earth with a different distribution of climatic regimes. In view of the implications of this issue for national and international policy planning, the Office of Science and Technology Policy requested the National Academy of Sciences to undertake an independent critical assessment of the scientific basis of these studies and the degree of certainty that could be attached to their results.</p>
+
+<p>In order to address this question in its entirety, one would have to peer into the world of our grandchildren, the world of the twenty-first century. Between now and then, how much fuel will we burn, how many trees will we <pagenum num="viii"/>cut ? How will the carbon thus released be distributed between the earth, ocean, and atmosphere ? How would a changed climate affect the world society of a generation yet unborn ? A complete assessment of all the issues will be a long and difficult task.</p>
+
+<p>It seemed feasible, however, to start with a single basic question: If we were indeed certain that atmospheric carbon dioxide would increase on a known schedule, how well could we project the climatic consequences ? We were fortunate in securing the cooperation of an outstanding group of distinguished scientists to study this question. By reaching outside the membership of the Climate Research Board, we hoped to find unbiased viewpoints on this important and much studied issue.</p>
+
+<p>The conclusions of this brief but intense investigation may be comforting to scientists but disturbing to policymakers. If carbon dioxide continues to increase, the study group finds no reason to doubt that climate changes will result and no reason to believe that these changes will be negligible. The conclusions of prior studies have been generally reaffirmed. However, the study group points out that the ocean, the great and ponderous flywheel of the global climate system, may be expected to slow the course of observable climatic change. A wait-and-see policy may mean waiting until it is too late.</p>
+
+<p>In cooperation with other units of the National Research Council, the Climate Research Board expects to continue review and assessment of this important issue in order to clarify further the scientific questions involved and the range of uncertainty in the principal conclusions. We hope that this preliminary report covering but one aspect of this many-faceted issue will prove to be a constructive contribution to the formulation of national and international policies.</p>
+
+<p>We are grateful to Jule Charney and to the members of the study group for agreeing to undertake this task. Their diligence, expertise, and critical judgment has yielded a report that has significantly sharpened our perception of the implications of the carbon dioxide issue and of the use of climate models in their consideration.</p>
+
+<signature>Verner E. Suomi, <i>Chairman</i></signature>
+<signature>Climate Research Board</signature>
+
+</page-sequence>
+<page-sequence id="p04" recto="true">
+<pagenum num="ix"/>
+
+<h1>Preface</h1>
+
+<p>In response to a request from the Director of the Office of Science and Technology Policy, the President of the National Academy of Sciences convened a study group under the auspices of the Climate Research Board of the National Research Council to assess the scientific basis for projection of possible future climatic changes resulting from man-made releases of carbon dioxide into the atmosphere. Specifically, our charge was</p>
+
+<p>1.&#x2002;To identify the principal premises on which our current understanding of the question is based,</p>
+
+<p>2.&#x2002;To assess quantitatively the adequacy and uncertainty of our knowledge of these factors and processes, and</p>
+
+<p>3.&#x2002;To summarize in concise and objective terms our best present understanding of the carbon dioxide/climate issue for the benefit of policymakers.</p>
+
+<p>The Study Group met at the NAS Summer Studies Center at Woods Hole, Massachusetts, on July 23-27, 1979, and additional consultations between various members of the group took place in subsequent weeks. We recognized from the outset that estimates of future concentrations of atmospheric carbon dioxide are necessarily uncertain because of our imperfect ability to project the future workings of both human society and the biosphere. We did not consider ourselves competent to address the former and recognized that the latter group of problems had recently been reviewed in considerable detail by the Scientific Committee on Problems of the Environment (<s>SCOPE</s>) of the <pagenum num="x"/>International Council of Scientific Unions. We therefore focused our attention on the climate system itself and our ability to foretell its response to changing levels of carbon dioxide. We hope that the results of our study will contribute to a better understanding of the implications of this issue for future climate and human welfare.</p>
+
+<p>In our review, we had access not only to the principal published studies relating to carbon dioxide and climate but also to additional unpublished results. For these contributions, we gratefully acknowledge the assistance of the following scientists:</p>
+
+<vsep class="emptyline"/>
+
+<p class="sommaire">A. Gilchrist, British Meteorological Office</p>
+<p class="sommaire">J. Hansen, Goddard Institute for Space Studies, <s>NASA</s></p>
+<p class="sommaire">S. Manabe, R. T. Wetherald, and K. Bryan, Geophysical Fluid Dynamics Laboratory, <s>NOAA</s></p>
+
+<vsep class="emptyline"/>
+
+<p>We also had the benefit of discuseions with a number of other scientists in the course of the review. We wish to thank the following individuals for their helpful comments:</p>
+
+<vsep class="emptyline"/>
+
+<p class="sommaire">R. S. Lindzen, Harvard University</p>
+<p class="sommaire">C. G. Rooth, University of Miami</p>
+<p class="sommaire">R. J. Reed, University of Washington</p>
+<p class="sommaire">G. W. Paltridge, Commonwealth Scientific and Industrial Research Organization (<s>CSIRO</s>), Australia</p>
+<p class="sommaire">W. L. Gates, Oregon State University</p>
+
+<vsep class="emptyline"/>
+
+<p>Finally, I wish to express my appreciation to the members of the Study Group for their contributions. In particular, the report benefited greatly from Akio Arakawa’s careful examination of the results of general circulation model studies. Our group is also grateful to the staff of the Climate Research Board for their support.</p>
+
+<signature>Jule G. Charney, <i>Chairman</i></signature>
+<signature><i>Ad Hoc</i> Study Group on Carbon Dioxide and Climate</signature>
+
+</page-sequence>
+<page-sequence id="p05" recto="true">
+<pagenum num="1"/>
+
+<h1>1<br/>Summary and Conclusions</h1>
+
+<p>We have examined the principal attempts to simulate the effects of increased atmospheric CO<sub>2</sub> on climate. In doing so, we have limited our considerations to the direct climatic effects of steadily rising atmospheric concentrations of CO<sub>2</sub> and have assumed a rate of CO<sub>2</sub> increase that would lead to a doubling of airborne concentrations by some time in the first half of the twenty-first century. As indicated in Chapter 2 of this report, such a rate is consistent with observations of CO<sub>2</sub> increases in the recent past and with projections of its future sources and sinks. However, we have not examined anew the many uncertainties in these projections, such as their implicit assumptions with regard to the workings of the world economy and the role of the biosphere in the carbon cycle. These impose an uncertainty beyond that arising from our necessarily imperfect knowledge of the manifold and complex climatic system of the earth.</p>
+
+<p>When it is assumed that the CO<sub>2</sub> content of the atmosphere is doubled and statistical thermal equilibrium is achieved, the more realistic of the modeling efforts predict a global surface warming of between 2°C and 3.5°C, with greater increases at high latitudes. This range reflects both uncertainties in physical understanding and inaccuracies arising from the need to reduce the mathematical problem to one that can be handled by even the fastest available electronic computers. It is significant, however, that none of the model calculations predicts negligible warming.</p>
+
+<p>The primary effect of an increase of CO<sub>2</sub> is to cause more absorption of thermal radiation from the earth’s surface and thus to increase the air temperature in the troposphere. A strong positive feedback mechanism is the accompanying increase of moisture, which is an even more powerful absorber <pagenum num="2"/>of terrestrial radiation. We have examined with care all known negative feedback mechanisms, such as increase in low or middle cloud amount, and have concluded that the oversimplifications and inaccuracies in the models are not likely to have vitiated the principal conclusion that there will be appreciable warming. The known negative feedback mechanisms can reduce the warming, but they do not appear to be so strong as the positive moisture feedback. We estimate the most probable global warming for a doubling of CO<sub>2</sub> to be near 3°C with a probable error of ± 1.5°C. Our estimate is based primarily on our review of a series of calculations with three-dimensional models of the global atmospheric circulation, which is summarized in Chapter 4. We have also reviewed simpler models that appear to contain the main physical factors. These give qualitatively similar results.</p>
+
+<p>One of the major uncertainties has to do with the transfer of the increased heat into the oceans. It is well known that the oceans are a thermal regulator, warming the air in winter and cooling it in summer. The standard assumption has been that, while heat is transferred rapidly into a relatively thin, well-mixed surface layer of the ocean (averaging about 70 m in depth), the transfer into the deeper waters is so slow that the atmospheric temperature reaches effective equilibrium with the mixed layer in a decade or so. It seems to us quite possible that the capacity of the deeper oceans to absorb heat has been serioualy underestimated, especially that of the intermediate waters of the subtropical gyres lying below the mixed layer and above the main thermocline. If this is so, warming will proceed at a slower rate until these intermediate waters are brought to a temperature at which they can no longer absorb heat.</p>
+
+<p>Our estimates of the rates of vertical exchange of mass between the mixed and intermediate layers and the volumes of water involved give a delay of the order of decades in the time at which thermal equilibrium will be reached. This delay implies that the actual warming at any given time be appreciably less than that calculated on the assumption that thermal equilibrium is reached quickly. One consequence may be that perceptible temperature changes may not become apparent nearly so soon as has been anticipated. We may not be given a warning until the CO<sub>2</sub> loading is such that an appreciable climate change is inevitable. The equilibrium warming eventually occur; it will merely have been postponed.</p>
+
+<p>The warming will be accompanied by shifts in the geographical distributions of the various climatic elements such as temperature, rainfall, evaporation, and soil moisture. The evidence is that the variations in these anomalies with latitude, longitude, and season be at least as great as the globally averaged changes themselves, and it would be misleading to predict regional climatic changes on the basis of global or zonal averages alone. Unfortunately, only gross globally and zonally averaged features of the present climate can <pagenum num="3"/>now be reasonably well simulated. At present, we cannot simulate accurately the details of regional climate and thus cannot predict the locations and intensities of regional climate changes with confidence. This situation may be expected to improve gradually as greater scientific understanding is acquired and faster computers are built.</p>
+
+<p>To summarize, we have tried but have been unable to find any overlooked or underestimated physical effects that could reduce the currently estimated global warmings due to a doubling of atmospheric CO<sub>2</sub> to negligible proportions or reverse them altogether. However, we believe it quite possible that the capacity of the intermediate waters of the oceans to absorb heat could delay the estimated warming by several decades. It appears that the warming will eventually occur, and the associated regional climatic changes so important to the assessment of socioeconomic consequences may well be significant, but unfortunately the latter cannot yet be adequately projected.</p>
+
+</page-sequence>
+<page-sequence id="p06">
+<pagenum num="4"/>
+
+<h1>2<br/>Carbon in the Atmosphere</h1>
+
+<p>A brief account of the key features of the exchange of carbon between the atmosphere, the living and dead organic matter on land (the terrestrial biosphere), and the oceans is essential as a basis for the discussion that follows. The intermediate layers (100-1000 m) of the oceans also play a central role both as a sink for excess atmospheric CO<sub>2</sub> and for heat. For these reasons some basic features of the carbon cycle will be outlined, based primarily on the recently published review by the Scientific Committee on Problems of the Environment (<s>SCOPE</s>) of the International Council of Scientific Unions (Bolin <i>et al.</i>, 1979).</p>
+
+<p>The CO<sub>2</sub> concentration in the atmosphere has risen from about 314 ppm (parts per million, volume) in 1958 to about 334 ppm in 1979, i.e., an increase of 20 ppm, which is equivalent to 42 × 10<sup>9</sup> tons of carbon. During this same period, about 78 × 10<sup>9</sup> tons of carbon have been emitted to the atmosphere by fossil-fuel combustion. It has further been estimated that more than 150 × 10<sup>9</sup> tons of carbon have been released to the atmosphere since the middle of the nineteenth century, at which time the CO<sub>2</sub> concentration in the atmosphere most likely was less than 300 ppm, probably about 290 ppm.</p>
+
+<p>By reducing the extent of the world forests (at present about 30 percent of the land surface) and increasing the area of farmland (at present about 10 percent of the land surface) man has also transformed carbon in trees and in organic matter in the soil into CO<sub>2</sub>. The magnitude of this additional emission into the atmosphere is poorly known. Estimates range between 40 × 10<sup>9</sup> tons and more than 200 × 10<sup>9</sup> tons for the period since early last century.</p>
+
+<pagenum num="5"/>
+
+<p>Since these emissions are not known with any degree of accuracy during the period for which accurate observations of atmospheric CO<sub>2</sub> are available (1958-1979), we know only approximately the ratio between the net increase of CO<sub>2</sub> in the atmosphere and the total man-induced emissions. However, at least 50 percent of the emissions and perhaps more than 70 percent have been transferred into other natural reservoirs for carbon. We need to consider three possible sinks for this transfer:</p>
+
+<vsep class="emptyline"/>
+
+<p>1.&#x2002;The remaining forests of the world (because of more effective carbon assimilation as a result of higher CO<sub>2</sub> levels in the atmosphere);</p>
+
+<p>2.&#x2002;The surface and intermediate waters of the oceans (above about 1000 m);</p>
+
+<p>3.&#x2002;The deep sea (below about 1000 m).</p>
+
+<vsep class="emptyline"/>
+
+<p>The distribution of past emissions of CO<sub>2</sub> between these sinks is not entirely clear. On the basis of the radiocarbon concentration in the deep sea, it has been concluded that only a rather small part of the emissions so far have been transferred into the deep sea. However, the proper role of the deep sea as a potential sink for fossil-fuel CO<sub>2</sub> has not been accurately assessed. As indicated in Section 3.3 on the oceans, theoretical estimates of mass transfer from the mixed layer into the intermediate waters indicate that this part of the ocean may have been a more important sink for carbon dioxide emitted into the atmosphere than has so far been considered. This conclusion is also in accord with observations of the penetration of radioactive trace substances produced by nuclear-weapons testing into the intermediate waters. Whether some increase of carbon in the remaining world forests has occurred is not known.</p>
+
+<p>Our limited knowledge of the basic features of the carbon cycle means that projections of future increases of CO<sub>2</sub> in the atmosphere as a result of fossil-fuel emissions are uncertain. It has been customary to assume to begin with that about 50 percent of the emissions will stay in the atmosphere. The possibility that the intermediate waters of the oceans, and maybe also the deep sea, are in more rapid contact with the atmosphere may reduce this figure to 40 percent, perhaps even to a somewhat smaller figure. On the other hand, a continuing reduction of the world forests will further add to any increase due to fossil-fuel combustion. The ability of the oceans to serve as a sink for CO<sub>2</sub> emissions to the atmosphere is reduced as the concentrations increase because of the chemical characteristics of the carbonate system of the sea.</p>
+
+<p>If all the fossil-fuel reserves were used for combustion, the airborne fraction would increase considerably above the values of 30 to 50 percent mentioned above. Global fossil-fuel resources contain at least 5000 × 10<sup>9</sup> tons of carbon, of which oil and gas together represent about 10 percent. The <pagenum num="6"/>maximum conceivable amount of future releases from the land biosphere due to deforestation and other changes in land use is of the order of 500 × 10<sup>9</sup> tons. An emission of 5000 × 10<sup>9</sup> tons of carbon as CO<sub>2</sub> (i.e., about eight times the pre-industrial amount of CO<sub>2</sub> in the atmosphere) during the next few centuries probably would lead to four to six times higher CO<sub>2</sub> concentration than at present, i.e., 1300-2000 ppm. In view of the huge amounts involved, it seems unlikely that increases in carbon stored in the terrestrial biosphere could reduce these values substantially.</p>
+
+<p>Decline of CO<sub>2</sub> levels in the atmosphere take centuries because of the slow turnover of the deep sea. However, as the more CO<sub>2</sub>-rich waters reach the calcium carbonate deposits on the continental slopes, dissolution may increase the capacity of the oceans to absorb CO<sub>2</sub>. Since this process fundamentally depends on the rate with which ocean water can get in contact with the bottom sediments, it is not likely to proceed quickly, although our knowledge is inadequate to assess the role of this process more than qualitatively at present.</p>
+
+<p>Considering the uncertainties, it would appear that a doubling of atmospheric carbon dioxide will occur by about 2030 if the use of fossil fuels continues to grow at a rate of about 4 percent per year, as was the case until a few years ago. If the growth rate were 2 percent, the time for doubling would be delayed by 15 to 20 years, while a constant use of fossil fuels at today’s levels shifts the time for doubling well into the twenty-second century.</p>
+
+<p>There are considerable uncertainties about the future changes of atmospheric CO<sub>2</sub> concentrations due to burning of fossil fuels. It appears, in particular, that the role of intermediate waters as a sink for CO<sub>2</sub> needs careful consideration. Predictions of CO<sub>2</sub> changes on time scales of 50 to 100 years may be significantly influenced by the results of such studies. However, considerable changes of atmospheric CO<sub>2</sub> levels will certainly occur as a result of continuing use of fossil fuels. This conclusion is a sufficient basis for the following discussion of possible climatic changes.</p>
+
+</page-sequence>
+<page-sequence id="p07">
+<pagenum num="7"/>
+
+<h1>3<br/>Physical Processes Important for Climate and Climate Modeling</h1>
+
+<p>In order to assess the climatic effects of increased atmospheric concentrations of CO<sub>2</sub>, we consider first the primary physical processes that influence the climatic system as a whole. These processes are best studied in simple models whose physical characteristics may readily be comprehended. The understanding derived from these studies enables one better to assess the performance of the three-dimensional circulation models on which accurate estimates must be based.</p>
+
+<h2 id="p08">3.1 RADIATIVE HEATING</h2>
+
+<h3>3.1.1. Direct Radiative Effects</h3>
+
+<p>An increase of the CO<sub>2</sub> concentration in the atmosphere increases its absorption and emission of infrared radiation and also increases slightly its absorption of solar radiation. For a doubling of atmospheric CO<sub>2</sub>, the resulting change in net heating of the troposphere, oceans, and land (which is equivalent to a change in the net radiative flux at the tropopause) would amount to a global average of about &#x0394;<i>Q</i> = 4 W m<sup>-2</sup> if all other properties of the atmosphere remained unchanged. This quantity, &#x0394;<i>Q</i>, has been obtained by several investigators, for example, by Ramanathan <i>et al.</i> (1979), who also compute its value as a function of latitude and season and give references to other CO<sub>2</sub>/climate calculations. The value 4 W m<sup>-2</sup> is obtained by several methods of calculating infrared radiative transfer. These methods have been directly tested against laboratory measurements and, indirectly, are found to <pagenum num="8"/>be in agreement with observation when applied to the deduction of atmospheric temperature profiles from satellite infrared measurements. There is thus relatively high confidence that the direct net heating value &#x0394;<i>Q</i> has been estimated correctly to within ± 25 percent. However, it should be emphasized that the accurate calculation of this term has required a careful treatment of the thermal radiative fluxes with techniques that have been developed over the past two decades or more. Crude estimates may easily be in error by a large factor. Thus, in an interim report, MacDonald <i>et al.</i> (1979) obtain a &#x0394;<i>Q</i> of 6 to 8 W m<sup>-2</sup>, a value about 1.5 to 2 times too large.</p>
+
+<p>Greater uncertainties arise in estimates of the resulting change in global mean surface temperature, &#x0394;<i>T</i>, for this quantity is influenced by various feedback processes that increase or decrease the heating rate from its direct value. These processes will influence the feedback parameter &#x3bb; in the expression &#x0394;<i>T</i> = &#x0394;<i>Q</i>/&#x3bb;. For the simplest case in which only the temperature change is considered, and the earth is assumed to be effectively a blackbody, the value of &#x3bb; = 4&#x3c3;<i>T</i><sup>3</sup> is readily computed to be about 4 W m<sup>-2</sup> K<sup>-1</sup>. For such a case, doubled CO<sub>2</sub> produces a temperature increase of 1°C.</p>
+
+<h3>3.1.2 Feedback Effects</h3>
+
+<p>The most important and obvious of the feedback effects arises from the fact that a higher surface temperature produces a much thigher value of the surface equilibrium water-vapor pressure through the highly nonlinear Clapeyron-Clausius relation. This, in turn, leads to increased water vapor in the atmosphere. A plausible aesumption, borne out qualitatively by model studies, is that the relative humidity remains unchanged. The associated increase of absolute humidity increases the infrared absorptivity of the atmosphere over that of CO<sub>2</sub> alone and provides a positive feedback. There is also increased absorption of solar radiation by the increased water vapor, which further increases the infrared feedback by about 10 percent. As with CO<sub>2</sub>, the radiative transfer calculation of water-vapor effects is relatively reliable, and the consequence is that &#x3bb; is decreased and &#x0394;<i>T</i> increased by about a factor of 2. For doubled CO<sub>2</sub>, the temperature increase would be 2°C.</p>
+
+<p>One-dimensional radiative-convective models that assume fixed relative humidity, a fixed tropospheric lapse rate of 6.5 K km<sup>-1</sup>, and fixed cloud cover and height give &#x3bb; = 2.0 W m<sup>-2</sup> K<sup>-1</sup> (Ramanathan and Coakley, 1978). This value is uncertain by at least ±0.5 W m<sup>-2</sup> K<sup>-1</sup> because of uncertainties in the possible changes of relative humidity, temperature lapse rate, and cloud cover and cloud height.</p>
+
+<p>Snow and ice albedo provide another widely discussed positive feedback mechanism (see, for example, Lian and Cees, 1977, and additional references therein). As the surface temperature increases, the area covered by snow or <pagenum num="9"/>ice decreases; this lowers the mean global albedo and increases the fraction of solar radiation absorbed. Estimates of this effect lead to a further decrease of &#x3bb; between 0.1 and 0.9 W m<sup>-2</sup> K<sup>-1</sup> with 0.3 a likely value. Some uncertainty in albedo feedback also arises from cloud effects discussed in the next section. Taking into consideration all the above direct effects and feedbacks, we estimate &#x3bb; to be 1.7 ± 0.8 W m<sup>-2</sup> K<sup>-1</sup> and hence &#x0394;<i>T</i> for doubled CO<sub>2</sub> to lie in the range of 1.6 to 4.5 K, with 2.4 K a likely value.</p>
+
+<h2 id="p09">3.2 CLOUD EFFECTS</h2>
+
+<p>Most clouds are efficient reflectors of solar radiation and at the same time efficient absorbers (and emitters) of terrestrial infrared radiation. Clouds thus produce two opposite effects: as cloud amount and hence reflection increase, the solar radiation available to heat the system decreases, but the decreased upward infrared radiation at the tropopause and downward radiation from the base of the clouds raises the temperature of the earth’s surface and troposphere.</p>
+
+<p>Because the change of solar absorption dominates, the net result of increased low cloudiness, and very likely also middle cloudiness, is to lower the temperature of the system. The net effect of an increased amount of high cirrus clouds is less certain because their radiative characteristics are sensitive to height, thickness, and microphysical structure. Present estimates are that they raise the temperature of the earth’s surface and the troposphere.</p>
+
+<p>It follows that if a rise in global temperature results in an increased amount of low or middle clouds, there is a negative feedback, and if a rise in global temperature results in an increased amount of high clouds, there is a positive feedback. The effect of cloud albedo by itself gives a negative feedback. Thus if clouds at all levels were increased by 1 percent, the atmosphere-earth system would absorb about 0.9 W m<sup>-2</sup> less solar radiation and lose about 0.5 W m<sup>-2</sup> less thermal radiation. The net effect would be a cooling of about 0.4 W m<sup>-2</sup>, or, if this occurred together with a doubling of CO<sub>2</sub>, a decrease of &#x0394;<i>Q</i> from 4.0 to 3.6 W m<sup>-2</sup>.</p>
+
+<p>How important the overall cloud effects are is, however, an extremely difficult question to answer. The cloud distribution is a product of the entire climate system, in which many other feedbacks are involved. Trustworthy answers can be obtained only through comprehensive numerical modeling of the general circulations of the atmosphere and oceans together with validation by comparison of the observed with the model-produced cloud types and amounts. Unfortunately, cloud observations in sufficient detail for accurate validation of models are not available at present.</p>
+
+<p>Since individual clouds are below the grid scale of the general circulation models, ways must be found to relate the total cloud amount in a grid box to <pagenum num="10"/>the grid-point variables. Existing parameterizations of cloud amounts in general circulation models are physically very crude. When empirical adjustments of parameters are made to achieve verisimilitude, the model may appear to be validated against the present climate. But such tuning by itself does not guarantee that the response of clouds to a change in the CO<sub>2</sub> concentration is also tuned. It must thus be emphasized that the modeling of clouds is one of the weakest links in the general circulation modeling efforts.</p>
+
+<p>The above uncertainties, and others such as those connected with the modeling of ground hydrology and snow and ice formation, create uncertainties in the model results that will be described in Chapter 4.</p>
+
+<h2 id="p10">3.3 OCEANS</h2>
+
+<p>Existing numerical models of the atmosphere, which treat the ocean as having no meridional heat transports of its own, may give somewhat improper accounts of the CO<sub>2</sub> impact. It is currently estimated that at some latitudes the ocean transports as much as 50 percent of the poleward heat flux in the existing climatic system. A proper accounting for oceanic dynamics has several possible consequences as levels of CO<sub>2</sub> continue to rise.</p>
+
+<p>The role of the ocean as an active transporter of heat meridionally leads one to consider several possible feedback mechanisms. Atmospheric models suggest that the warming at high latitudes will be larger than at low latitudes. If this reduced atmospheric baroclinicity reduces the wind stress at the ocean surface (and there are not good estimates of the anticipated size of such a reduction), it is possible that oceanic meridional heat flux might be reduced. Because of the required overall radiative heat balance of the total system, the atmosphere would then be required to compensate for reduced oceanic heat transport by steepening the equator-to-pole temperature gradient, thus ameliorating somewhat the predicted polar warming. However, the total atmospheric warming would not likely be greatly affected, merely its distribution in latitude.</p>
+
+<p>The only part of the ocean that has been included in the general circulation modeling of the CO<sub>2</sub> effects is the mixed layer. The rationale for simplification is that only the mixed layer needs to be modeled in order to deal with the annual cycle, while the heat capacity of the deeper ocean does not matter once thermal equilibrium has been reached.</p>
+
+<p>On time scales of decades, however, the coupling between the mixed layer and the upper thermocline must be considered. The connections between upper and lower ocean are generally presumed to have response times of the order of 1000 years, the essential coupling being local vertical diffusion and formation of bottom water at high latitudes. This ignores the mechanism of Ekman convergence of the surface mixed layers in the large subtropical gyres, <pagenum num="11"/>which pumps water down into the upper thermocline over more than half the ocean surface area, a reservoir much larger than that of the mixed layer alone. The connections between the upper-thermocline reservoir and the deep ocean may indeed require very long time constants, but the carbon and heat budgeting on the decadal time scale must account properly for the potentially large reservoir directly beneath the mixed layer.</p>
+
+<p>Simple model calculations involving Ekman pumping from the mixed layer into the intermediate waters of the order of 10-20 cm/day<!-- correction <sup>-1</sup> --> and estimates of mixing coefficients for the intermediate waters from tracer studies (Östlund <i>et al.</i>, 1974; National Science Foundation, 1979) suggest that the upper-thermocline reservoir communicates effectively with the mixed layer on time scales of several decades. Therefore, the effective thermal capacity of the ocean for absorbing heat on these time scales is nearly an order of magnitude greater than that of the mixed layer alone.<noteref noteid="note.11.1"/> If this reservoir is indeed involved, it could delay the attainment of ultimate global thermal equilibrium by the order of a few decades. It would also increase the rate at which the ocean can take up carbon from the air and might at least partially account for the current discrepancies between the observed rise in atmospheric CO<sub>2</sub> and the estimated rise due to the anthropogenic input of CO<sub>2</sub> into the air.</p>
+
+<notes>
+  <note id="note.11.1">
+  <p>The existence of the Ekman pumping underlies all the generally accepted ideas about the physics of the general circulation of the oceans. The order of magnitude estimated above (10-20 cm/day) is consistent with a variety of oceanographic data, including wind stress, chemical tracers, and local heat-budget calculations.</p>  </note>
+</notes>
+
+</page-sequence>
+<page-sequence id="p11">
+<pagenum num="12"/>
+
+<h1>4<br/>Models and Their Validity</h1>
+
+<p>The independent studies of the CO<sub>2</sub>/climate problem that we have examined range from calculations with simple radiative-convective models to zonally and vertically averaged heat-balance models with horizontally diffusive heat exchange and snow-ice albedo feedbacks to full-fledged three-dimensional general circulation models (<s>GCM</s>’s) involving most of the relevant physical processes. Our confidence in our conclusion that a doubling of CO<sub>2</sub> will eventually result in significant temperature increases and other climate changes is based on the fact that the results of the radiative-convective and heat-balance model studies can be understood in purely physical terms and are verified by the more complex <s>GCM</s>’s. The last give more information on geographical variations in heating, precipitation, and snow and ice cover, but they agree reasonably well with the simpler models on the magnitudes of the overall heating effects.</p>
+
+<p>The radiative-convective models have been reviewed by Ramathan and Coakley (1978). The latitudinally varying energy-balance models were originally developed by Budyko (1969) and Sellers (1969) for studies of climatic change. More recently they have been employed by many authors, including Ramanathan <i>et al.</i> (1979) and MacDonald <i>et al.</i> (1979), for CO<sub>2</sub>/climate-change determinations. These models prescribe the infrared feedback but calculate the snow-ice albedo feedback by coupling to a simple parameterized horizontal heat transport; the snow and ice occur poleward of the latitude at which the temperature has an empirically prescribed value. The principal value of these models lies in their inclusion of the snow-ice albedo feedback. However, they do not deal with real geography or explicit dynamics and therefore can yield only crude approximations to the latitudinal variations of the CO<sub>2</sub>-induced temperature changes.</p>
+
+<pagenum num="13"/>
+
+<h2 id="p12">4.1 THREE-DIMENSIONAL GENERAL CIRCULATION MODELS</h2>
+
+<p>We proceed now to a discussion of the three-dimensional model simulations on which our conclusions are primarily based. Some of the existing general circulation models have been used to predict the climate for doubled or quadrupled CO<sub>2</sub> concentration. The results of several such predictions were available to us: three by S. Manabe and his colleagues at the <s>NOAA</s> Geophysical Fluid Dynamics Laboratory (hereafter identified as M1, M2, and M3) and two by J. Hansen and his colleagues at the <s>NASA</s> Goddard Institute for Space Studies (hereafter identified as H1 and H2). Some results obtained with the British Meteorological Office model (Mitchell, 1979) were also made available to us but will not be described here because both the sea-surface temperature and the sea-ice distribution were prescribed in this model, thus placing strong constraints on the surface &#x394;<i>T</i>, whereas it is just the surface &#x394;<i>T</i> that we wish to estimate.</p>
+
+<p>The only one of the five predictions available in published form is M1. M2 is described in a prepublication manuscript, and H1 in a research proposal. We learned of M3 and H2 through personal communication.</p>
+
+<p>The Geophysical Fluid Dynamics Laboratory and the Goddard Institute for Space Studies general circulation models, which are the basic models used in the M and H series, respectively, were independently constructed and differ from one another in a number of physical and mathematical aspects. They also differ in respect to their geographies, seasonal changes, cloud feedbacks, snow and ice properties, and horizontal and vertical grid resolutions. These differences are summarized in Table 1. In this table “swamp” means that the model ocean has no heat capacity though it provides a water surface for evaporation, and “mixed layer” means that the model ocean has a heat capacity corresponding to that of an oceanic mixed layer of constant depth. Heat transport by ocean currents is neglected in both model oceans. This is one of the weaknesses of all the predictions, as discussed in Section 3.3.</p>
+
+<p>The horizontal resolution of the H series is rather coarse and perhaps only marginal for meaningful climate prediction. On the other hand, these models take into account more physical factors, such as ground heat storage, sea-ice leads, and dependence of snow-ice albedo on snow age, than do the models of the M series.</p>
+
+<p>The models M1, H1, and H2 were run for doubled CO<sub>2</sub> concentrations, M2 for both doubled and quadrupled concentrations, and M3 for quadrupled concentrations. The temperature changes for doubled CO<sub>2</sub> in M2 were approximately half of those for quadrupled CO<sub>2</sub>. Since it can be expected that a similar result would have been obtained for M3, we have halved the M3 temperature changes.<noteref noteid="note.13.1"/></p>
+
+<notes>
+  <note id="note.13.1">
+    <p>It should, however, be pointed out that the snow-ice albedo feedback may not be linear. For example, quadrupled CO<sub>2</sub> in M3 melts the arctic ice altogether in summer.</p>
+  </note>
+</notes>
+
+<pagenum num="14"/>
+
+<vsep class="emptyline"/>
+
+<p>TABLE 1 Characteristics of General-Circulation Models Examined (&#x3bb;, Longitude; <i>&#x3d5;</i>, Latitude; <i>T</i>, Temperature)</p>
+
+<vsep class="emptyline"/>
+
+<table>
+<thead>
+  <tr>
+    <td>Model</td>
+    <td colspan="5">Model Predictions</td>
+  </tr>
+
+  <tr>
+    <td>Characteristics</td>
+    <td>M1<sup>a</sup></td>
+    <td>M2<sup>a</sup></td>
+    <td>M3<sup>a</sup></td>
+    <td>H1<sup>b</sup></td>
+    <td>H2<sup>b</sup></td>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td rowspan="2">Domain</td>
+    <td>0° &lt; &#x3bb; &lt; 120°</td>
+    <td>0° &lt; &#x3bb; &lt; 120°</td>
+    <td rowspan="2">Global</td>
+    <td rowspan="2">Global</td>
+    <td rowspan="2">Global</td>
+  </tr>
+  <tr>
+    <td>0° &lt; &#x3d5; &lt; 81.7°</td>
+    <td>0° &lt; &#x3d5; &lt; 90°</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Lang-ocean distribution</td>
+    <td>Ocean for</td>
+    <td>Ocean for</td>
+    <td rowspan="3">Realistic</td>
+    <td rowspan="3">Realistic</td>
+    <td rowspan="3">Realistic</td>
+  </tr>
+  <tr>
+    <td>60° &lt; &#x3bb; &lt; 120°</td>
+    <td>60° &lt; &#x3bb; &lt; 120°</td>
+  </tr>
+  <tr>
+    <td>0° &lt; &#x3d5; &lt; 66.5°</td>
+    <td>0° &lt; &#x3d5; &lt; 90°</td>
+  </tr>
+  <tr>
+    <td>Ocean</td>
+    <td>Swamp</td>
+    <td>Swamp</td>
+    <td>Mixed layer</td>
+    <td>Mixed layer</td>
+    <td>Swamp</td>
+  </tr>
+  <tr>
+    <td>Seasonal change</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>No</td>
+  </tr>
+  <tr>
+    <td>Cloud feedbacks</td>
+    <td>No</td>
+    <td>Yes</td>
+    <td>No</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Snow and ice albedo</td>
+    <td>When <i>T</i> &lt; -25°C</td>
+    <td>When <i>T</i> &lt; -10°C</td>
+    <td rowspan="3">Depends on depth and underlying surface albedo</td>
+    <td rowspan="4">For snow, depends on snow age, snow depth, underlying surface albedo, etc.</td>
+    <td rowspan="5">Same as H1</td>
+  </tr>
+  <tr>
+    <td>0.7</td>
+    <td>0.7</td>
+  </tr>
+  <tr>
+    <td>When <i>T</i> &gt; -25°C</td>
+    <td>When <i>T</i> &gt; -10°C</td>
+  </tr>
+  <tr>
+    <td>0.45 for snow</td>
+    <td>0.45 for snow</td>
+    <td>For deep snow, 0.8</td>
+  </tr>
+  <tr>
+    <td>0.35 for ice</td>
+    <td>0.35 for ice</td>
+    <td>For thick ice, 0.7</td>
+    <td>For ice, 0.45</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Horizontal resolution</td>
+    <td rowspan="2">About 500 km on a mercator projection</td>
+    <td>5° in longitude</td>
+    <td rowspan="2">Spectral model with the maximum zonal wave number 15</td>
+    <td>10° in longitude</td>
+    <td rowspan="2">Same as H1</td>
+  </tr>
+  <tr>
+    <td>4.5° in latitude</td>
+    <td>8° in latitude</td>
+  </tr>
+  <tr>
+    <td>Vertical resolution</td>
+    <td>9 layers</td>
+    <td>9 layers</td>
+    <td>9 layers</td>
+    <td>7 layers</td>
+    <td>7 layers</td>
+  </tr>
+</tbody>
+</table>
+
+<p><sup>a</sup> Models developed by S. Manabe and colleagues at the <s>NOAA</s> Geophysical Fluid Dynamics Laboratory, Princeton, N.J.</p>
+
+<p><sup>b</sup> Models developed by J. Hansen and colleagues at the <s>NASA</s> Goddard Institute for Space Studies, New York, N.Y.</p>
+
+<p><sup>c</sup> Cyclic continuity assumed at boundaries.</p>
+
+<vsep class="emptyline"/>
+
+<pagenum num="15"/>
+
+<p>At low latitudes, the predicted values of the mean surface &#x0394;<i>T</i> for doubled CO<sub>2</sub> concentration were slightly more than 1.5°C in the M series, 2.5°C in H1, and 3.0°C in H2. Both series predict larger &#x394;<i>T</i> at upper levels, primarily because of added heating by cumulus convection. The discrepancy in the surface &#x394;<i>T</i> may well be due to differences in the respective parameterizations of cumulus convection.</p>
+
+<p>The hemispheric mean surface &#x394;<i>T</i> is about 3°C in M1 and M2, and the global mean about 2°C in M3, 3.5°C in H1, and 3.9°C in H2. The 1°C difference between M3 and M1/M2 has been ascribed partly to the exclusion of seasonal changes and southern hemisphere effects in M1/M2 and their inclusion in M3; in the southern hemisphere the area covered by land, and therefore the snow-ice albedo feedback, is smaller than in the northern hemisphere, and there is no albedo feedback over Antarctica. The differences between the M series and the H series may be at least partially attributed to differences in the areas covered by snow and ice.</p>
+
+<p>All the <s>GCM</s>’s predict larger surface &#x394;<i>T</i> at high latitudes. This is partly due to the snow-ice albedo feedbacks and also to the fact that the strong gravitational stability produced by cooling from below suppresses convective and radiative transfer of heat and thereby concentrates the CO<sub>2</sub>-enhanced heating in a thin layer near the ground. Although the magnitudes and locations of the temperature increases vary significantly, all the predictions give a maximum of between 4°C and 8°C in polar or subpolar regions for the annual mean surface &#x394;<i>T</i>. More detailed descriptions of the model predictions for high latitudes are given in the Appendix.</p>
+
+<p>With regard to clouds, M2 gives a decrease of high clouds in low latitudes, whereas H1 and H2 give an increase. This discrepancy may well be due to differences in the parameterization of cumulus convection. The M series relies on an adjustment process for distributing heat and moisture by cumulus convection. This process takes place when and only when a layer of air is both saturated and moist-convectively unstable. In contrast, the H series permits cumulus convection to extend through nonsaturated and stable layers; but because it does not allow for entrainment of noncloud air, the penetrating cumuli extend higher than they otherwise would. At high latitudes, M2, which has no seasons, predicts an increase of both high and low clouds; in comparison, H1, which does have seasons, predicts an increase of high clouds throughout the year but an increase of zonally averaged low cloud amount only in spring. It may be shown from data presented by Manabe and Wetherald that the M2 cloud radiative feedback effects are relatively small intrinsically and are rendered even smaller by the tendency of their short and long wave components to compensate. This tendency is not apparent in H1, but there the negative and middle cloud feedback is on the average weak or nonexistent.</p>
+
+<pagenum num="16"/>
+
+<p>For comparison purposes, the convective adjustment parameterization was introduced into an H model with fixed sea-surface temperatures and was found to reduce appreciably the penetration of water vapor and cloud to high levels (J. Hansen, <s>NASA</s> Goddard Institute for Space Studies, personal communication). Since the original penetration was probably too high because of lack of noncloud air entrainment, we conclude that the surface &#x394;<i>T</i>’s due to the upper water-vapor-cloud feedback may very well have been overestimated in the H series, whereas, because of insufficient penetration, they were probably underestimated in the M series. Since, moreover, the snow-ice boundary is too far equatorward in H1 and too far poleward in M1 and M2 (see Appendix), we believe that the snow-ice albedo feedback has been overestimated in the H series and underestimated in M1 and M2. For the above reasons, we take the global or hemispheric surface warmings to approximate an upper bound in the H series and a lower bound in the M series (with respect to positive water-vapor-cloud and snow-ice albedo feedback effects). These are at best informed guesses, but they do enable us to give rough estimates of the probable bounds for the global warming. Thus we obtain 2°C as the lower bound from the M series and 3.5°C as the upper bound from H1, the more realistic of the H series. As we have not been able to find evidence for an appreciable negative feedback due to changes in low- and middle-cloud albedos or other causes, we allow only 0.5°C as an additional margin for error on the low side, whereas, because of uncertainties in high-cloud effects, 1°C appears to be more reasonable on the high side. We believe, therefore, that the equilibrium surface global warming due to doubled CO<sub>2</sub> will be in the range 1.5°C to 4.5°C, with the most probable value near 3°C. These estimates may be compared with those given in our discussion of feedback effects in one-dimensional, radiative-convective models. There the range was 1.6°C to 4.5°C, with 2.4°C estimated as a likely value.</p>
+
+<p>We recall that the snow-ice albedo feedback is greater in the northern than in the southern hemisphere because of the greater land area and the lack of albedo change over Antarctica. Hence we estimate that the warming will be somewhat greater in the northern hemisphere and somewhat less in the southern hemisphere.</p>
+
+<p>The existing general circulation models produce time-averaged mean values of the various meteorological parameters, such as wind, temperature, and rainfall, whose climate is reasonably accurate in global or zonal mean. Their inaccuracies are revealed much more in their regional climates. Here physical shortcomings in the treatments of cloud, precipitation, evaporation, ground hydrology, boundary-layer turbulent transport phenomena, orographic effects, wave-energy absorption and reflection in the high atmosphere, as well as truncation errors arising from lack of sufficient resolution combine to produce large inaccuracies. Two models may give rather similar zonal averages <pagenum num="17"/>but, for example, very different monsoon circulations, positions, and intensities of the semipermanent centers of action and quite different rainfall patterns. It is for this reason that we do not consider the existing models to be at all reliable in their predictions of regional climatic changes due to changes in CO<sub>2</sub> concentration.</p>
+
+<p>We conclude that the predictions of CO<sub>2</sub>-induced climate changes made with the various models examined are basically consistent and mutually supporting. The differences in model results are relatively small and may be accounted for by differences in model characteristics and simplifying assumptions. Of course, we can never be sure that some badly estimated or totally overlooked effect may not vitiate our conclusions. We can only say that we have not been able to find such effects. If the CO<sub>2</sub> concentration of the atmosphere is indeed doubled and remains so long enough for the atmosphere and the intermediate layers of the ocean to attain approximate thermal equilibrium, our best estimate is that changes in global temperature of the order of 3°C will occur and that these will be accompanied by significant changes in regional climatic patterns.</p>
+
+</page-sequence>
+<page-sequence>
+<pagenum num="18"/>
+
+<h1 id="p13">References</h1>
+
+<h2>GENERAL CIRCULATION MODELS EXAMINED IN THE STUDY</h2>
+
+<p class="sommaire">M1: Manabe, S., and R. T. Wetherald (1975). The effects of doubling the CO<sub>2</sub> concentration on the climate of a general circulation model, <i>J. Atmos. Sci. 32</i>, 3</p>
+
+<p class="sommaire">M2: Manabe, S., and R. T. Wetherald (1980). On the distribution of climate change resulting from an increase in CO<sub>2</sub> content of the atmosphere (accepted for publication in <i>J. Atmos. Sci.</i>, January 1980).</p>
+
+<p class="sommaire">M3: Manabe, S., and R. Stouffer (1979). Study of climatic impact of CO<sub>2</sub> increase with a mathematical model of global climate (submitted to <i>Nature</i>).</p>
+
+<p class="sommaire">H1: Goddard Institute for Space Studies (1978). <i>Proposal for Research in Global Carbon Dioxide Source/Sink Budget and Climate Effects</i>, Institute for Space Studies, 2880 Broadway, New York, NY. 10025.</p>
+
+<p class="sommaire">H2: Hansen, J. E. Private communication Paper in preparation for submission to <i>J. Atmos. Sci.</i> Information available from Institute for Space Studies, 2880 Broadway, New York, NY. 10025.</p>
+
+<h2>OTHER REFERENCES</h2>
+
+<p class="sommaire">Bolin, B., E. T. Degens, S. Kempe, and P. Ketner, eds. (1979). <i>The Global Carbon Cycle</i>, <s>SCOPE</s> 13, Scientific Committee on Problems of the Environment, International Council of Scientific Unions, Wiley, New York, 491 pp.</p>
+
+<p class="sommaire">Budyko, M. I. (1969). The effect of solar radiation variations on the climate of the earth, <i>Tellus</i> 21, 611.</p>
+
+<p class="sommaire">Lian, M. S., and R. D. Cess (1977). Energy balance climate models-a reappraisal of ice-albedo feedback, <i>J. Atmos. Sci. 34</i>, 1058.</p>
+
+<p class="sommaire">MacDonald, G. F., H. Aberbanel, P. Carruthers, J. Chamberlain, H. Foley, W. Munk, W. Nierenberg, O. Rothaus, M. Ruderman, J. Vesecky, and F. Zachariasen (1979). The long term impact of atmospheric carbon dioxide on climate, <i>JASON Technichal Report JSR-78-07</i>, SRI International, Arlington, Virginia.</p>
+
+<pagenum num="19"/>
+
+<p class="sommaire">Mitchell, J. F. B. (1979). Preliminary report on the numerical study of the effect on climate of increasing atmospheric carbon dioxide, <i>Meteorological Office Technical Note No. II/137</i>, Meteorological Office, Bracknell, Berkshire, United Kingdom.</p>
+
+<p class="sommaire">National Science Foundation (1979). <i>GEOSECS Atlas</i> (in press).</p>
+
+<p class="sommaire">Östlund, H. G., H. G. Dorsey, and C G. Rooth (1974). <s>GEOSECS</s> North Atlantic radiocarbon and tritium results. <i>Earth Planet. Sci. Lett. 23</i>, 69-86.</p>
+
+<p class="sommaire">Ramanathan, V., and J. A. Coakley, Jr. (1978). Climate modeling through radiative-convective models, <i>Rev. Geophys. Space Phys. 16</i>, 465.</p>
+
+<p class="sommaire">Ramanathan, V., M. S. Lian, and R. D. Cess (1979). Increased atmospheric CO<sub>2</sub>: zonal and seasonal estimates of the effect on the radiation energy balance and surface temperature, <i>J. Geophys. Res. 84</i>, 4949-4958.</p>
+
+<p class="sommaire">Sellers, W. D. (1969). A global climatic model based on the energy balance of the earth-atmosphere system. <i>J. Appl. Meteorol. 8</i>, 392.</p>
+
+</page-sequence>
+<page-sequence>
+<pagenum num="20"/>
+
+<h1 id="p14">Bibliography</h1>
+
+<p class="sommaire">Elliott, W. P., and L. Machta, eds. (1979). <i>Workshop on the Global Effects of Carbon Dioxide from Fossil Fuels.</i> Miami Beach, Florida, March 7-11, 1977. Carbon Dioxide Effects Research and Assessment Program. United States Department of Energy, Washington, D.C., 122 pp.</p>
+
+<p class="sommaire">Geophysics Study Committee (1977) <i>Energy and Climate.</i> National Academy of Sciences, Washington, D.C., 158 pp.</p>
+
+<p class="sommaire">Kellogg, W. W. (1977) Effects of Human Activities on Global Climate. <s>WMO</s> Technical Note No. 156, World Meteorological Organization, Geneva, Switzerland.</p>
+
+<p class="sommaire">Williams J., ed. (1978). <i>Carbon Dioxide, Climate and Society.</i> Proceedings of an IIASA Workshop cosponsored by <s>WMO</s>, <s>UNEP</s>, and <s>SCOPE</s>, Februuary 21-24, 1978, Pergamon Press, New York, 332 pp.</p>
+
+</page-sequence>
+<page-sequence>
+<pagenum num="21"/>
+
+<h1 id="p15">Appendix:<br/>Comparison of Snow-Ice Effects in the Models Examined</h1>
+
+<p>Major differences between and within the two series of model predictions appear in high latitudes. For example, in M2, which does not have a seasonal change, the maximum surface &#x394;<i>T</i> is about 8°C at approximately 83° N, whereas. in H2, which likewise does not have a seasonal change, the maximum surface &#x394;<i>T</i> is about 10°C at approximately 60° N and also at 70° S. In such predictions, the latitude of maximum &#x394;<i>T</i> should be near the latitude where the maximum decrease of albedo occurs, and this seems to be the case for both M2 and H2. In these cases, the latitude of maximum &#x394;<i>T</i> should be poleward of the mean snow-ice boundary of the control run with the present CO<sub>2</sub> concentration, and equatorward of the mean snow-ice boundary in the prediction with the increased CO<sub>2</sub> concentration. Judging from the albedo changes, we infer that the mean snow-ice boundary is too far equatorward in H2 and too far poleward in M2. The reason for these discrepancies is not clear because so many factors, such as horizontal resolution, land-sea distribution, and snow and ice albedos are different in the two model predictions.</p>
+
+<p>Both H1 and M3 show large seasonal fluctuations in &#x394;<i>T</i>.<noteref noteid="note.21.1"/> This is to be expected because the snow-ice albedo feedback differs considerably from one season to another. The feedback will not be relevant in the polar region of the winter hemisphere, where there is no solar radiation, and over the regions of melting snow and ice in the summer hemisphere, where the surface <pagenum num="22"/>temperature must be near freezing. The maximum. changes due to the feedback are to be expected in subpolar latitudes in winter and in polar or subpolar latitudes in spring when both snow and sea-ice changes are important.</p>
+
+<notes>
+  <note id="note.21.1">
+    <p>A large seasonal fluctuation is also predicted by Wetherald in calculations with a sector model that is similar to M2 with quadrupled CO<sub>2</sub> but includes both hemispheres and neglects interactive clouds. In this model, the global mean surface &#x394;<i>T</i> is about 4°C. On the assumption that &#x394;<i>T</i> is linear in the CO<sub>2</sub> concentration, we obtain 2°C for this model for doubled CO<sub>2</sub>.</p>
+  </note>
+</notes>
+
+<p>In H1, the snow-ice albedo feedback mechanism is significant even in winter because the maximum &#x394;<i>T</i> in that prediction is in subpolar regions between 45° N and 70° N. In M3, on the other hand, the snow-ice albedo feedback seems to be most significant in spring when a maximum in &#x394;<i>T</i> occurs around 65° N.</p>
+
+<p>In M3 there is another, even stronger, maximum in winter near the north pole. This cannot be interpreted as the result of a snow-ice albedo feedback because there is no solar radiation. It has been suggested that it is a result of a sea-ice thickness feedback: When the sea ice in the model becomes sufficiently thin, the surface air becomes strongly coupled by conduction to the ocean immediately below the sea ice, which must be near freezing. This gives a warming effect and therefore a positive feedback. The warming is further enhanced by the circumstance that the polar ice in this model (for quadrupled CO<sub>2</sub>) is completely melted so that the polar seas beneath the ice in winter will be warmer. In H1, the sea-ice thickness feedback cannot be clearly seen in winter. Instead, H1 shows a maximum &#x0394;<i>T</i> near the north pole in spring when the sea ice is thin enough and the leads wide enough to permit effective atmospheric communication with the ocean. In the annual average, H1 shows a large &#x0394;<i>T</i> poleward of about 45° N, with a flat maximum of about 7°C near 60° N.</p>
+
+</page-sequence>
+</page-sequences>
+</bml>
