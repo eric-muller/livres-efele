@@ -121,7 +121,10 @@ public class SpaceHandler {
           
       for (int i = 0; i < sb.length (); i++) {
         if (sb.charAt (i) == '\u2015') {
-          sb.setCharAt (i, '\u2014'); }}
+          sb.setCharAt (i, '\u2014'); }
+        if (nonefele) {
+          if (sb.charAt (i) == '\u00a0') {
+            sb.setCharAt (i, ' '); }}}
 
       if (nbCharsInBlock == 0) {
         if (     matches ("\u00ab \u2014 ", sb, 0)
@@ -154,8 +157,10 @@ public class SpaceHandler {
         else if (i + 2 < sb.length ()
                  && "0123456789".indexOf (sb.charAt (i)) != -1 
                  && sb.charAt (i+1) == ' '
-                 && "0123456789".indexOf (sb.charAt (i+2)) != -1) {
-          sb.setCharAt (i+1, nnbsp); }
+                 && "0123456789%$£€\u00B0".indexOf (sb.charAt (i+2)) != -1) {
+          // U+00B0 ° DEGREE SIGN
+          sb.setCharAt (i+1, nnbsp);
+          sb.insert    (i+1, nnbsp); }
         
         else if (sb.charAt (i) == '\u2026') {
           sb.deleteCharAt (i);

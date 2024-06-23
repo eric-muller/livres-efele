@@ -257,6 +257,12 @@ public class DCDate extends DCMetaEntry{
 		
 	}
 
+        public String getYear (Locale locale) {
+          if (date == null) return "";
+          DateFormat fmt = new SimpleDateFormat ("yyyy", locale);
+          return fmt.format (date);
+        }
+
 	@Override
 	public String getDisplayValue(Locale locale) {
 

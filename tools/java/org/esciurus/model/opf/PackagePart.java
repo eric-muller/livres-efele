@@ -160,7 +160,7 @@ public abstract class PackagePart {
 	 * for OEBPS 1.2 backward compatibility. 
 	 * The method works like readAttribute(Element,String,boolean).
 	 * However, if the attribute specified is not found,
-	 * and the porvideOEBPSFallback parameter is set,
+	 * and the provideOEBPSFallback parameter is set,
 	 * the implementation will try to remove the namespace from 
 	 * the attribute, and try reading again. Only if this fails as well,
 	 * the attribute is considered as missing. 
@@ -174,7 +174,7 @@ public abstract class PackagePart {
 	 * 
 	 * @see #readAttributeValue(Element, String, boolean)
 	 */
-	protected static String readAttributeValue(Element element, String attrName, boolean obligatory, boolean provideOEBPSFallback) throws EpubFormatException {
+         protected static String readAttributeValue(Element element, String attrName, boolean obligatory, boolean provideOEBPSFallback) throws EpubFormatException {
 		
 		String value = null;
 		
@@ -190,7 +190,7 @@ public abstract class PackagePart {
 		
 		if (obligatory && (value ==null)) {
 
-                  System.err.println ("required attribute not found: "+attrName);
+                  //                  System.err.println ("required attribute not found: "+attrName + " in " + element);
                   //			throw new EpubFormatException ("required attribute not found: "+attrName);
 		}
 		
