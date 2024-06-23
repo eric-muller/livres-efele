@@ -687,7 +687,7 @@
   <sup id='noteref.{@noteid}'>
     <xsl:choose>
       <xsl:when test='$hidden = "false"'>
-        <a href="{$targetfile}.xhtml#note.{@noteid}">
+        <a href="{$targetfile}.xhtml#note.{@noteid}" epub:type="noteref">
           <xsl:apply-templates select='key("id-key",@noteid)[1]' mode='notelabel'/>
         </a>
       </xsl:when>
@@ -720,7 +720,7 @@
     </xsl:for-each>
   </xsl:variable>
 
-  <div class="note" id="note.{@id}">
+  <div class="note" id="note.{@id}" epub:type="footnote">
     <div class="numero-de-note">
       <sup>
         <a href="{$targetfile}.xhtml#noteref.{@id}">
