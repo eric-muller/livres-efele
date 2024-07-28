@@ -124,7 +124,9 @@ public class SpaceHandler {
           sb.setCharAt (i, '\u2014'); }
         if (nonefele) {
           if (sb.charAt (i) == '\u00a0') {
-            sb.setCharAt (i, ' '); }}}
+            sb.setCharAt (i, ' '); }
+          else if (sb.charAt (i) == '\'') {
+            sb.setCharAt (i, '\u2019'); }}}
 
       if (nbCharsInBlock == 0) {
         if (     matches ("\u00ab \u2014 ", sb, 0)
@@ -141,11 +143,21 @@ public class SpaceHandler {
             || matches ("\u201c ", sb, i)) {
           sb.setCharAt (i+1, nnbsp); }
 
+        else if (i + 2 < sb.length ()
+                 && "0123456789".indexOf (sb.charAt (i)) != -1 
+                 && sb.charAt (i+1) == ' '
+                 && "0123456789%\u2030\u2031$£€\u00B0".indexOf (sb.charAt (i+2)) != -1) {
+          // U+00B0 ° DEGREE SIGN
+          sb.setCharAt (i+1, nnbsp);
+          sb.insert    (i+1, nnbsp); }
+        
         else if (   matches (" :", sb, i)
                  || matches (" ;", sb, i)
                  || matches (" ?", sb, i)
                  || matches (" !", sb, i)
                  || matches (" %", sb, i)
+                 || matches (" \u2030", sb, i)  // U+2030 PER MILLE SIGN
+                 || matches (" \u2031", sb, i)  // U+2031 PER TEN THOUSAND SIGN
                  || matches (" ,", sb, i)   // old orthography; see Holbach
                  || matches (" \u00bb", sb, i)
                  || matches (" \u201d", sb, i)) {
@@ -154,14 +166,6 @@ public class SpaceHandler {
         else if (matches ("\u2019 \u00ab", sb, i)) {
           sb.setCharAt (i+1, nnbsp); }
 
-        else if (i + 2 < sb.length ()
-                 && "0123456789".indexOf (sb.charAt (i)) != -1 
-                 && sb.charAt (i+1) == ' '
-                 && "0123456789%$£€\u00B0".indexOf (sb.charAt (i+2)) != -1) {
-          // U+00B0 ° DEGREE SIGN
-          sb.setCharAt (i+1, nnbsp);
-          sb.insert    (i+1, nnbsp); }
-        
         else if (sb.charAt (i) == '\u2026') {
           sb.deleteCharAt (i);
           sb.insert (i, '.');
