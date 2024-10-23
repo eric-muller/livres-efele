@@ -1,22 +1,3 @@
-/*
- *  © 2009  Eric Muller.
- *  
- *  This file is part of the net.efele.epub software.
- *
- *  net.efele.epub is free software; you can redistribute it and/or modify
- *  it under the terms of the GNU General Public License as published by
- *  the Free Software Foundation; either version 3 of the License, or
- *  (at your option) any later version.
- *  
- *  This program is distributed in the hope that it will be useful,
- *  but WITHOUT ANY WARRANTY; without even the implied warranty of
- *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
- *  GNU General Public License for more details.
- *  
- *  You should have received a copy of the GNU General Public License
- *  along with net.efele.epub. If not, see <http://www.gnu.org/licenses/>.
- */
-
 package net.efele.epub;
 
 import java.io.ByteArrayInputStream;
@@ -45,36 +26,36 @@ import org.xml.sax.SAXParseException;
 import org.xml.sax.helpers.DefaultHandler;
 
 public class SpaceHandler {
-  
+
   static public TransformerHandler getSink (FileOutputStream file) throws Exception {
     TransformerFactory tfactory = TransformerFactory.newInstance ();
-    
+
     if (tfactory.getFeature (SAXSource.FEATURE)) {
       SAXTransformerFactory sfactory = (SAXTransformerFactory) tfactory;
-      
+
       // no transform; we just want a serializer
       TransformerHandler ch = sfactory.newTransformerHandler ();
 
       ch.setResult (new StreamResult (file));
-      
+
       Transformer transformer = ch.getTransformer ();
       transformer.setOutputProperty (OutputKeys.INDENT, "no");
       transformer.setOutputProperty (OutputKeys.STANDALONE, "yes");
       transformer.setOutputProperty (OutputKeys.METHOD, "xml");
-      
+
       return ch; }
 
       return null;
   }
 
   private static class Processor extends DefaultHandler {
-    
+
     private TransformerHandler sink = null;
     private FileOutputStream sinkStream = null;
-    
+
     private StringBuffer pendingChars = new StringBuffer ();
     private int nbCharsInBlock;
-   
+
     char nnbsp;
     boolean nonefele;
 
@@ -88,7 +69,7 @@ public class SpaceHandler {
       else if ("nonefele".equals (mode)) {
         nonefele = true; }
     }
-    
+
     public void startPrefixMapping (String arg0, String arg1) throws SAXException {
       sink.startPrefixMapping (arg0, arg1);
     }
@@ -114,11 +95,11 @@ public class SpaceHandler {
         if (s.charAt (k) != sb.charAt (start + k)) {
           return false; }}
 
-      return true;    
+      return true;
     }
 
     private void fix (StringBuffer sb) {
-          
+
       for (int i = 0; i < sb.length (); i++) {
         if (sb.charAt (i) == '\u2015') {
           sb.setCharAt (i, '\u2014'); }
@@ -137,20 +118,20 @@ public class SpaceHandler {
                  || matches ("\u00bb ", sb, 0)
                  || matches ("\u2014 ", sb, 0)) {
           sb.setCharAt (1, nnbsp); }}
-      
+
       for (int i = 0; i < sb.length (); i++) {
         if (   matches ("\u00ab ", sb, i)
             || matches ("\u201c ", sb, i)) {
           sb.setCharAt (i+1, nnbsp); }
 
         else if (i + 2 < sb.length ()
-                 && "0123456789".indexOf (sb.charAt (i)) != -1 
+                 && "0123456789".indexOf (sb.charAt (i)) != -1
                  && sb.charAt (i+1) == ' '
                  && "0123456789%\u2030\u2031$£€\u00B0".indexOf (sb.charAt (i+2)) != -1) {
           // U+00B0 ° DEGREE SIGN
           sb.setCharAt (i+1, nnbsp);
           sb.insert    (i+1, nnbsp); }
-        
+
         else if (   matches (" :", sb, i)
                  || matches (" ;", sb, i)
                  || matches (" ?", sb, i)
@@ -175,12 +156,12 @@ public class SpaceHandler {
         else if (sb.charAt (i) == '\u202F') {
           sb.setCharAt (i, nnbsp); }}
     }
-    
+
     private void flushChars () throws SAXException {
-      
+
       if (pendingChars.length () == 0) {
         return; }
-      
+
       fix (pendingChars);
 
       char[] chars = new char [pendingChars.length ()];
@@ -189,18 +170,18 @@ public class SpaceHandler {
       sink.characters (chars, 0, chars.length);
 
       nbCharsInBlock += chars.length;
-      pendingChars.setLength (0);     
+      pendingChars.setLength (0);
     }
-    
+
     public void characters (char[] chs, int start, int length) throws SAXException {
       pendingChars.append (chs, start, length);
     }
-    
-   
+
+
     public void processingInstruction (String piName, String piData) throws SAXException {
       sink.processingInstruction (piName, piData);
     }
-    
+
     static private Set<String> blockElements;
     static {
       blockElements = new HashSet<String> ();
@@ -231,7 +212,7 @@ public class SpaceHandler {
       blockElements.add ("ville");
     }
 
-    public void startElement (String uri, String qname, String localname, Attributes at) throws SAXException { 
+    public void startElement (String uri, String qname, String localname, Attributes at) throws SAXException {
       flushChars ();
       if (blockElements.contains (localname)) {
         nbCharsInBlock = 0; }
@@ -239,8 +220,8 @@ public class SpaceHandler {
       sink.startElement (uri, qname, localname, at);
     }
 
-    public void endElement (String uri, String qname, String localname) throws SAXException { 
-      flushChars ();             
+    public void endElement (String uri, String qname, String localname) throws SAXException {
+      flushChars ();
       sink.endElement (uri, qname, localname);
     }
 
@@ -259,17 +240,17 @@ public class SpaceHandler {
       spf.setValidating (false);
 
       SAXParser sp = spf.newSAXParser ();
-      
-      try {      
+
+      try {
         sp.parse (new InputSource (in), this); }
       catch (SAXParseException e) {
-        System.err.println (inputFile.getName () + "/" + e.getLineNumber () + ": " + e.getMessage ()); 
+        System.err.println (inputFile.getName () + "/" + e.getLineNumber () + ": " + e.getMessage ());
         System.exit (1); }
-      
+
       sinkStream.close ();
     }
   }
-  
+
   public static void main (String[] args) throws Exception {
     new Processor (args[0]).process (new File (args[1]), new File (args[2]));
   }

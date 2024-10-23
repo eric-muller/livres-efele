@@ -1,22 +1,3 @@
-/*
- *  © 2009  Eric Muller.
- *  
- *  This file is part of the net.efele.epub software.
- *
- *  net.efele.epub is free software; you can redistribute it and/or modify
- *  it under the terms of the GNU General Public License as published by
- *  the Free Software Foundation; either version 3 of the License, or
- *  (at your option) any later version.
- *  
- *  This program is distributed in the hope that it will be useful,
- *  but WITHOUT ANY WARRANTY; without even the implied warranty of
- *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
- *  GNU General Public License for more details.
- *  
- *  You should have received a copy of the GNU General Public License
- *  along with net.efele.epub. If not, see <http://www.gnu.org/licenses/>.
- */
-
 package net.efele.epub;
 
 import java.io.File;
@@ -50,13 +31,13 @@ import org.xml.sax.helpers.AttributesImpl;
 import org.xml.sax.helpers.DefaultHandler;
 
 public class Epub2Bml {
-  
-  //private static final String XHTML_NAMESPACE = "http://www.w3.org/1999/xhtml"; 
+
+  //private static final String XHTML_NAMESPACE = "http://www.w3.org/1999/xhtml";
   private static final String BML_NAMESPACE = "http://efele.net/2010/ns/bml";
   private static final String DC_NAMESPACE = "http://purl.org/dc/elements/1.1/";
-  
+
   private static final Attributes noAttributes = new AttributesImpl ();
-  
+
   private static class FlatteningHandler extends DefaultHandler {
     @Override
     public void notationDecl (String arg0, String arg1, String arg2) throws SAXException {
@@ -74,19 +55,19 @@ public class Epub2Bml {
     private ContentHandler sink;
     private boolean pass;
     private boolean dropAttributes;
-         
+
     FlatteningHandler (boolean dropAttributes, ContentHandler sink) {
       this.sink = sink;
       this.pass = false;
       this.dropAttributes = dropAttributes;
     }
-    
+
     protected String dropPrefix (String s) {
       if (s.contains (":")) {
         return s.substring (s.indexOf (':') + 1); }
       return s;
     }
-    
+
     //============================ ContentHandler methods
     @Override
     public void startDocument () throws SAXException {
@@ -99,26 +80,26 @@ public class Epub2Bml {
     }
 
     @Override
-    public void startElement (String uri, String localname, String qname, Attributes at) throws SAXException { 
+    public void startElement (String uri, String localname, String qname, Attributes at) throws SAXException {
       if (localname.equals ("body")) {
         pass = true;
         return; }
 
       if (pass) {
-        sink.startElement (BML_NAMESPACE, qname, dropPrefix (localname), 
+        sink.startElement (BML_NAMESPACE, qname, dropPrefix (localname),
                            dropAttributes ? noAttributes : at); }
     }
-        
+
     @Override
-    public void endElement (String uri, String localname, String qname) throws SAXException { 
+    public void endElement (String uri, String localname, String qname) throws SAXException {
       if (localname.equals ("body")) {
-        pass = false; 
+        pass = false;
         return; }
-      
+
       if (pass) {
         sink.endElement (BML_NAMESPACE, qname, dropPrefix (localname)); }
     }
-    
+
     @Override
     public void characters (char[] ch, int start, int length) throws SAXException {
       if (pass) {
@@ -136,12 +117,12 @@ public class Epub2Bml {
 
     @Override
     public void startPrefixMapping (String prefix, String uri) throws SAXException {
-      //sink.startPrefixMapping (prefix, uri);      
+      //sink.startPrefixMapping (prefix, uri);
     }
 
     @Override
     public void endPrefixMapping (String prefix) throws SAXException {
-      //sink.endPrefixMapping (prefix);      
+      //sink.endPrefixMapping (prefix);
     }
 
     @Override
@@ -152,7 +133,7 @@ public class Epub2Bml {
 
     @Override
     public void setDocumentLocator (Locator locator) {
-      sink.setDocumentLocator (locator);      
+      sink.setDocumentLocator (locator);
     }
 
     @Override
@@ -170,31 +151,31 @@ public class Epub2Bml {
       return new InputSource (new FileInputStream ("c:/users/emuller/home/eric/epub/dtd/" + s));
     }
   }
-  
+
   /**
-   * This method extracts the HTML content from an epub document, and 
+   * This method extracts the HTML content from an epub document, and
    * flattens it in a single HTML file.
-   * 
-   * Only the <body> fragments of source HTML files are retained. 
-   * 
+   *
+   * Only the <body> fragments of source HTML files are retained.
+   *
    * @param epub The source epub
    * @param out The OutputStream on which to send the resulting HTML
-   * 
+   *
    * @throws Exception
    */
   public static void toBml (EpubContainer epub, boolean dropAttributes, OutputStream out) throws Exception {
     toBml (epub, dropAttributes, TransformerHandlerPlus.getSink (out, "yes"));
   }
-  
+
   /**
-   * This method extracts the HTML content from an epub document, and 
+   * This method extracts the HTML content from an epub document, and
    * flattens it in a single HTML file.
-   * 
-   * Only the <body> fragments of source HTML files are retained. 
-   * 
+   *
+   * Only the <body> fragments of source HTML files are retained.
+   *
    * @param epub The source epub
    * @param sink To receive SAX events for the result
-   * 
+   *
    * @throws Exception
    */
   public static void toBml (EpubContainer epub, boolean dropAttributes, TransformerHandlerPlus sink) throws Exception {
@@ -208,11 +189,11 @@ public class Epub2Bml {
     SAXParser sp = spf.newSAXParser ();
 
     AttributesImpl noAttributes = new AttributesImpl ();
-    
+
     sink.startDocument (); {
 
       sink.startPrefixMapping ("", BML_NAMESPACE);
-      
+
       sink.startElement (BML_NAMESPACE, "bml", "bml", noAttributes); {
         sink.startElement (BML_NAMESPACE, "page-sequences", "page-sequences", noAttributes); {
 
@@ -230,7 +211,7 @@ public class Epub2Bml {
               catch (SAXParseException e) {
                 System.err.println ("SAX Parse Exception: " + e.getMessage ());
                 System.err.println (" at " + currentDoc + " " + e.getLineNumber () + " " + e.getColumnNumber ()); }
-              
+
               sink.endElement (BML_NAMESPACE, "page-sequence", "page-sequence"); }}
 
           sink.endElement ("BML_NAMESPACE", "page-sequences", "page-sequences"); }
@@ -246,43 +227,42 @@ public class Epub2Bml {
     System.err.println ("BML sent to stdout by default, use \"-o <file>\" to send to a file instead.");
     System.err.println ("-dropattributes to drop all attributes on the content");
   }
-  
+
 
   public static void main (String[] args) throws Exception {
-   
+
     String inName = null;
     String outName = null;
     boolean dropAttributes = false;
-    
+
     for (int i = 0; i < args.length; i++) {
       if ("-usage".equals (args [i])) {
         usage ();
         continue; }
-      
+
       if ("-o".equals (args [i])) {
-        i++; 
+        i++;
         if (i >= args.length) {
           System.err.println ("missing argument after -o");
           System.exit (1); }
         outName = args [i];
         continue; }
-      
+
       if ("-dropattributes".equals (args[i])) {
         dropAttributes = true;
         continue; }
-      
+
       inName = args [i]; }
 
     if (inName == null) {
       usage ();
       System.exit (1); }
-    
-   
+
+
     EpubContainer epub = new EpubContainerFactory ().createContainerFromFile (new File (inName), OpenMode.EXPANDED);
-    
+
     toBml (epub, dropAttributes, outName == null ? System.out :  new FileOutputStream (outName));
-   
+
     epub.cleanupNow ();
   }
 }
-

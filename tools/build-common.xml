@@ -3,13 +3,13 @@
 <project name='book-common' default='all'>
 
   <property name='imagemagick'
-            value='C:/Program Files/ImageMagick-7.1.0-Q16-HDRI/convert.exe'/>
+            value='magick'/>
 
   <property name='rnv'
-            value='c:/Program Files (x86)/rnv-1.7.9/rnv.exe'/>
+            value='rnv'/>
 
   <property name='epubcheck500'
-            value='c:/users/emuller/home/eric/epub/epubcheck/epubcheck-5.0.0-beta-2/epubcheck.jar'/>
+            value='/opt/homebrew/Cellar/epubcheck/5.1.0/libexec/epubcheck.jar'/>
 
 
   <property name='exportdir'
@@ -78,25 +78,31 @@
         <arg value="dotoi=${dotoi}"/>
         <arg value="-s:@{src}.bml"/>
       </java>
-    </sequential>      
+    </sequential>
   </macrodef>
 
   <macrodef name='epubzip'>
-    <attribute name='epubfile'/>
+    <attribute name='epubfile'/> <!-- must be relative to dir -->
     <attribute name='dir'/>
+
+    <!-- cannot use the <zip> task, it does not provide a way of
+         using -X, and without that, epubcheck complains -->
 
     <sequential>
       <delete file="@{epubfile}"/>
 
-      <zip destfile='@{epubfile}' 
-           compress='true' level='9' basedir='@{dir}' includes='META-INF/**'/>
+      <exec executable='zip' dir='@{dir}'>
+        <arg value="-Xr0"/>
+        <arg value='@{epubfile}'/>
+        <arg value='mimetype'/>
+      </exec>
 
-      <zip destfile='@{epubfile}' update='true' keepcompression='true' 
-           compress='true' level='9' basedir='@{dir}' includes='OEBPS/**'/>
-
-      <!-- last, to get it first in the zip -->
-      <zip destfile='@{epubfile}' update='true' keepcompression='true' 
-           compress='false' basedir='@{dir}' includes='mimetype'/>
+      <exec executable='zip' dir='@{dir}'>
+        <arg value="-Xr9"/>
+        <arg value='@{epubfile}'/>
+        <arg value='META-INF'/>
+        <arg value='OEBPS'/>
+      </exec>
     </sequential>
   </macrodef>
 
@@ -170,7 +176,7 @@
         <arg value="-xsl:${tools}/bml2images.xsl"/>
         <arg value="-s:@{src}"/>
       </java>
-      
+
       <copy todir='@{dest}/images' flatten='true'>
         <filelist dir="." files='${images.@{dest}}'/>
       </copy>
@@ -188,7 +194,7 @@
         <arg value="-xsl:${tools}/bml2scripts.xsl"/>
         <arg value="-s:@{src}"/>
       </java>
-      
+
       <copy todir='@{dest}' flatten='true'>
         <filelist dir="." files='${scripts.@{dest}}'/>
       </copy>
@@ -200,7 +206,7 @@
     <attribute name='id'/>
     <attribute name='x'/>
     <attribute name='flavor'/>
-    
+
     <sequential>
       <java classname="net.efele.epub.FontEmbedder" fork="true">
         <classpath refid="classpath"/>
@@ -354,7 +360,7 @@
       <exec executable='${imagemagick}'>
         <arg line="@{src}"/>
         <arg line="-resize x120"/>
-        <arg line="-bordercolor black -border 1 -matte"/>
+        <arg line="-bordercolor black -border 1 -alpha Set"/>
         <arg line="( +clone -background grey -shadow 80x3+3+3 ) +swap -background none -mosaic"/>
         <arg line="@{dest}/thumbnail.png"/>
       </exec>
@@ -469,7 +475,7 @@
       <arg value="-s:${x}.bml"/>
     </java>
   </target>
-  
+
   <target name='desc-collection'>
     <echo>----------------------------------- ${id} ${x}</echo>
     <mkdir dir='results'/>
@@ -501,7 +507,7 @@
       <arg value="-o:results/${id}/descf.html"/>
     </java>
   </target>
-  
+
   <target name='descf-collection'>
     <echo>----------------------------------- ${id} ${x}</echo>
     <mkdir dir='results'/>
@@ -553,15 +559,15 @@
       <echo>== epub3</echo>
       <mkdir dir='build/@{id}/epub3'/>
 
-      <toefele src='@{x}' dest='build/@{id}/epub3/text.bml' 
+      <toefele src='@{x}' dest='build/@{id}/epub3/text.bml'
            endnotes='${endnotes}' review='${review}'
            correction='${correction}'
            tirage='${tirage-epub-font}'/>
 
       <spacehandler mode='rich'
-                    src='build/@{id}/epub3/text.bml' 
+                    src='build/@{id}/epub3/text.bml'
                     dest='build/@{id}/epub3/text3.bml'/>
-      
+
       <validate-bml src='build/@{id}/epub3/text3.bml'/>
 
       <java classname="net.sf.saxon.Transform" fork="true"
@@ -570,7 +576,7 @@
         <arg value="-xsl:${tools}/bml2fonts.xsl"/>
         <arg value="-s:edition.xml"/>
       </java>
-      
+
       <java classname="net.sf.saxon.Transform" fork="true">
         <classpath refid="classpath"/>
         <arg value="-xsl:${tools}/bml2epub.xsl"/>
@@ -600,15 +606,12 @@
       <scripts src='build/@{id}/epub3/text3.bml'
                dest='build/@{id}/epub3/epub/OEBPS'/>
 
-      <epubzip epubfile='results/@{id}/@{x}.epub' 
-               dir='build/@{id}/epub3/epub'/>
-
       <fonts font-files='${font-files}'
              id='@{id}'
              x='@{x}'
              flavor='epub3'/>
 
-      <epubzip epubfile='results/@{id}/@{x}.epub' 
+      <epubzip epubfile='../../../../results/@{id}/@{x}.epub'
                dir='build/@{id}/epub3/epub'/>
 
       <epub3check epub='results/@{id}/@{x}.epub'/>
@@ -672,4 +675,3 @@
   </macrodef>
 
 </project>
-

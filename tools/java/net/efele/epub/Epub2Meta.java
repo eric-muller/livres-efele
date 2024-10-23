@@ -17,45 +17,45 @@ import org.esciurus.model.opf.EpubContainerFactory;
 
 public class Epub2Meta {
 
-  
+
   static Map<String, String> roles;
   static {
     roles = new HashMap<String, String> ();
-    roles.put ("edt", "éditeur");
+    roles.put ("edt", "Ã©diteur");
     roles.put ("ill", "illustrateur");
     roles.put ("trl", "traducteur");
   }
-  
+
   private static int count = 0;
   private static int failures = 0;
-  
+
   public static void explore (File f, String loc, PrintStream outStream) throws Exception {
     if (f.isDirectory ()) {
         for (File ff: f.listFiles ()) {
           explore (ff, loc + f.getName () + "/", outStream); }}
-    
+
     else  if (f.getName().endsWith (".epub")) {
       toMeta (f, loc + f.getName (), outStream); }
   }
-  
+
   public static String c (String s) {
     return s.replace ("\n", " ").replace ("&", "&amp;").replace ("\"", "\\\"").trim ();
   }
-  
+
   public static void toMeta (File f, String loc, PrintStream outStream) {
-    String prefix; 
+    String prefix;
     Locale locale = new Locale ("fr");
 
     try {
       EpubContainer epub = new EpubContainerFactory ().createContainerFromFile (f, OpenMode.PREVIEW);
 
       MetadataRecord meta = epub.getOPFPackage ().getMetadata ();
-      
-      if (count != 0) { 
+
+      if (count != 0) {
           outStream.println (","); }
-      
+
       outStream.println ("[");
-      
+
       outStream.println ("  \"" + loc + "\",");
 
       outStream.print ("  \"");
@@ -66,7 +66,7 @@ public class Epub2Meta {
         prefix = " - "; }
       outStream.println ("\",");
 
-      
+
       outStream.print ("  \"");
       prefix = "";
       for (DCPerson creator : meta.getCreators ()) {
@@ -75,7 +75,7 @@ public class Epub2Meta {
           s = creator.getName (); }
         if (s == null) {
           s = "?"; }
-        
+
         outStream.print (prefix);
         prefix = ", ";
         outStream.print (c (s));
@@ -107,7 +107,7 @@ public class Epub2Meta {
         prefix = ", ";
         outStream.print (date.getYear (locale)); }
       outStream.println ("\",");
-      
+
 //      outStream.print ("  <td>");
 //      prefix = "";
 //      if (contributor == null) {
@@ -123,7 +123,7 @@ public class Epub2Meta {
 
       count++;
       epub.cleanupNow (); }
-    
+
     catch (Exception e) {
       System.err.println (f.getPath ());
       System.err.println ("   " + e.getMessage () + " " + e.getStackTrace()[0].getMethodName () + " line " + e.getStackTrace()[0].getLineNumber());
@@ -133,17 +133,17 @@ public class Epub2Meta {
 }
 
 
-  
+
   private static PrintStream startOutput (PrintStream o) throws Exception {
     return o;
   }
-  
+
   private static void endOutput (PrintStream o) throws Exception {
     o.close ();
   }
 
   public static void main (String[] args) throws Exception {
-    
+
     PrintStream outStream = null;
     outStream = new PrintStream (new FileOutputStream (new File ("books-epub.json")), true, "UTF-8");
 
@@ -155,4 +155,3 @@ public class Epub2Meta {
     System.out.println (count + " books "  + failures + " failures");
   }
 }
-

@@ -1,22 +1,3 @@
-/*
- *  © 2009  Eric Muller.
- *  
- *  This file is part of the net.efele.epub software.
- *
- *  net.efele.epub is free software; you can redistribute it and/or modify
- *  it under the terms of the GNU General Public License as published by
- *  the Free Software Foundation; either version 3 of the License, or
- *  (at your option) any later version.
- *  
- *  This program is distributed in the hope that it will be useful,
- *  but WITHOUT ANY WARRANTY; without even the implied warranty of
- *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
- *  GNU General Public License for more details.
- *  
- *  You should have received a copy of the GNU General Public License
- *  along with net.efele.epub. If not, see <http://www.gnu.org/licenses/>.
- */
-
 package net.efele.epub;
 
 import java.io.OutputStream;
@@ -39,7 +20,7 @@ public class TransformerHandlerPlus implements TransformerHandler {
 
   static public TransformerHandlerPlus getSink (OutputStream file, String indent) throws Exception {
     TransformerFactory tfactory = TransformerFactory.newInstance ();
-       
+
     if (tfactory.getFeature (SAXSource.FEATURE)) {
       SAXTransformerFactory sfactory = (SAXTransformerFactory) tfactory;
 
@@ -57,11 +38,11 @@ public class TransformerHandlerPlus implements TransformerHandler {
 
     return null;
   }
- 
+
 
   protected TransformerHandler dest;
   protected Attributes noAttributes = new AttributesImpl ();
-  
+
   public TransformerHandlerPlus (TransformerHandler dest) {
     this.dest = dest;
   }
@@ -94,7 +75,7 @@ public class TransformerHandlerPlus implements TransformerHandler {
   public void characters (String s) throws SAXException {
     dest.characters (s.toCharArray (), 0, s.length ());
   }
-  
+
   @Override
   public void endDocument () throws SAXException {
     dest.endDocument ();
@@ -108,7 +89,7 @@ public class TransformerHandlerPlus implements TransformerHandler {
   public void endElement (String uri, String localName) throws SAXException {
     dest.endElement (uri, localName, localName);
   }
-  
+
   @Override
   public void endPrefixMapping (String prefix) throws SAXException {
     dest.endPrefixMapping (prefix);
@@ -168,7 +149,7 @@ public class TransformerHandlerPlus implements TransformerHandler {
     dest.startElement (uri, localName, localName, noAttributes);
     dest.characters (content.toCharArray (), 0, content.length ());
     dest.endElement (uri, localName, localName);
-    
+
   }
   public void element (String uri, String localName, Attributes atts) throws SAXException {
     dest.startElement (uri, localName, localName, atts);

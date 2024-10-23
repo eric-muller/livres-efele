@@ -3,21 +3,18 @@
 <project name='books' default='build'>
 
   <path id='classpath'>
-    <pathelement path="c:/program files/java/icu4j/icu4j-4_8_1_1.jar"/>
-    <pathelement path="c:/Users/emuller/home/afe/cafe/outside/aglj40.jar"/>
-    <pathelement path="C:/Users/emuller/home/afe/rideau/bin/release"/>
-    <pathelement path="C:/Users/emuller/home/afe/cafe/bin/release"/>
-    <pathelement path="c:/users/emuller/home/eric/epub/esciurus"/>
-    <pathelement path="c:/users/emuller/home/eric/epub/net.efele.epub/bin"/>
-    <pathelement path="c:/users/emuller/home/unicode/software/publication"/>
-    <pathelement path='C:/Program Files/Java/saxonhe9-3-0-5j/saxon9he.jar'/>
+    <pathelement path="tools/java/icu4j-4_8_1_1.jar"/>
+    <pathelement path="tools/java/aglj40.jar"/>
+    <pathelement path="tools/java/afe.jar"/>
+    <pathelement path="tools/java/rideau.jar"/>
+    <pathelement path="tools/java/saxon-he-10.0.jar"/>
   </path>
 
   <macrodef name="iterate">
     <attribute name="target"/>
 
     <sequential>
-    <parallel threadCount="6">
+    <parallel threadCount="1">
       <ant target='@{target}' dir='balzac/la_comedie_humaine'/>
       <ant target='@{target}' dir='montesquieu/oeuvres_completes'/>
       <ant target='@{target}' dir='zola/les_rougon_macquart'/>
@@ -154,6 +151,7 @@
       <ant target='@{target}' dir='kock/l_enfant_de_ma_femme'/>
       <ant target='@{target}' dir='kock/un_mari_perdu'/>
       <ant target='@{target}' dir='kropotkine/la_morale_anarchiste'/>
+      <ant target='@{target}' dir='la_fontaine/fables_dore'/>
       <ant target='@{target}' dir='lafargue/pamphlets_socialistes'/>
       <ant target='@{target}' dir='laforgue/les_complaintes'/>
       <ant target='@{target}' dir='laforgue/feuilles'/>
@@ -253,7 +251,7 @@
       <ant target='@{target}' dir='varlet/aux_iles_bienheureuses'/>
       <ant target='@{target}' dir='verhaeren/les_flamandes'/>
       <ant target='@{target}' dir='vigny/oeuvres_completes'/>
-      <ant target='@{target}' dir='violeau/histoires_de_chez_nous'/> 
+      <ant target='@{target}' dir='violeau/histoires_de_chez_nous'/>
       <ant target='@{target}' dir='ward-dubos/only_one_earth'/>
       <ant target='@{target}' dir='ward_et_al/who_speaks_for_earth'/>
       <ant target='@{target}' dir='zola/lettre_a_m_felix_faure'/>
@@ -308,7 +306,7 @@
     </java>
 
     <delete dir='temp'/>
-  </target>    
+  </target>
 
   <target name='opds.xml'>
     <delete dir='temp'/>
@@ -332,11 +330,11 @@
     </java>
 
     <!--delete dir='temp'/-->
-  </target>    
+  </target>
 
 
   <target name='efele_catalogue_commun.txt'>
-    <concat destfile='efele_catalogue_commun.txt' 
+    <concat destfile='efele_catalogue_commun.txt'
             binary='true'
             overwrite='yes'>
       <fileset dir='../tools' includes='catalog_head.txt'/>
@@ -364,7 +362,7 @@
       <fileset dir='.' includes='efele_catalogue_commun.txt'/>
       <fileset dir='.' includes='liste.epub.html'/>
     </copy>
-    <copy todir='c:/users/emuller/home/eric/efele.net/ebooks' 
+    <copy todir='c:/users/emuller/home/eric/efele.net/ebooks'
             encoding='UTF-16'
             outputencoding='UTF-16'>
       <fileset dir='.' includes='efele_catalogue_commun.txt'/>

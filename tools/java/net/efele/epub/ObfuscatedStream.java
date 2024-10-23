@@ -1,22 +1,3 @@
-/*
- *  © 2009  Eric Muller.
- *  
- *  This file is part of the net.efele.epub software.
- *
- *  net.efele.epub is free software; you can redistribute it and/or modify
- *  it under the terms of the GNU General Public License as published by
- *  the Free Software Foundation; either version 3 of the License, or
- *  (at your option) any later version.
- *  
- *  This program is distributed in the hope that it will be useful,
- *  but WITHOUT ANY WARRANTY; without even the implied warranty of
- *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
- *  GNU General Public License for more details.
- *  
- *  You should have received a copy of the GNU General Public License
- *  along with net.efele.epub. If not, see <http://www.gnu.org/licenses/>.
- */
-
 package net.efele.epub;
 
 import java.io.ByteArrayOutputStream;
@@ -34,13 +15,13 @@ public class ObfuscatedStream extends FilterOutputStream {
   static public enum Method {
     NONE, ADOBE, IDPF
   }
-  
-  
+
+
   int i = 0;
   Method method;
   byte[] key;
 
-  
+
   public static byte[] makeObfuscationKey (Method method, String uniqueid) throws Exception {
     if (method == Method.IDPF)  {
       //      Security.addProvider (new com.sun.crypto.provider.SunJCE ());
@@ -49,11 +30,11 @@ public class ObfuscatedStream extends FilterOutputStream {
       sha.update (b, 0, b.length);
       byte[] c = sha.digest();
       return c; }
-    
+
     else if (method == Method.ADOBE) {
       if (! uniqueid.startsWith ("urn:uuid:")) {
         throw new Exception (); }
-      
+
       ByteArrayOutputStream mask = new ByteArrayOutputStream();
 
       int acc = 0;
@@ -74,11 +55,11 @@ public class ObfuscatedStream extends FilterOutputStream {
         else {
           mask.write(acc | n);
           acc = 0; }}
-      
+
       if (mask.size() != 16) {
         throw new Exception (); }
       return  mask.toByteArray(); }
-    
+
     else {
       return null; }
   }
@@ -89,7 +70,7 @@ public class ObfuscatedStream extends FilterOutputStream {
     this.method = method;
     this.key = makeObfuscationKey (method, uniqueId);
   }
-  
+
   public void write (byte[] b) throws IOException {
     write (b, 0, b.length);
   }
@@ -101,11 +82,11 @@ public class ObfuscatedStream extends FilterOutputStream {
 
   public void write (int val)  throws IOException {
     byte b = (byte) val;
-    
+
     if (   (method == Method.ADOBE && i < 1024)
         || (method == Method.IDPF && i < 1040)) {
         b = (byte) (b ^ key [i % key.length]); }
-    
+
     i++;
     super.write (b);
   }
@@ -114,13 +95,13 @@ public class ObfuscatedStream extends FilterOutputStream {
   public static void main (String[] args) throws Exception {
     InputStream in = new FileInputStream (args [0]);
     OutputStream out = new ObfuscatedStream (Method.ADOBE, "urn:uuid:e9c194cf-2639-4ba4-be51-f8a87959fed0", new FileOutputStream (args [1]));
-    
+
     int n;
     byte b[] = new byte [1024];
-    
+
     while ((n = in.read (b)) > 0) {
       out.write (b, 0, n); }
-    
+
     in.close ();
     out.close ();
   }
