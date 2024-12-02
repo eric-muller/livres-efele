@@ -3,11 +3,11 @@
 <project name='books' default='build'>
 
   <path id='classpath'>
-    <pathelement path="tools/java/icu4j-4_8_1_1.jar"/>
-    <pathelement path="tools/java/aglj40.jar"/>
-    <pathelement path="tools/java/afe.jar"/>
-    <pathelement path="tools/java/rideau.jar"/>
-    <pathelement path="tools/java/saxon-he-10.0.jar"/>
+    <pathelement path="../tools/java/icu4j-4_8_1_1.jar"/>
+    <pathelement path="../tools/java/aglj40.jar"/>
+    <pathelement path="../tools/java/afe.jar"/>
+    <pathelement path="../tools/java/rideau.jar"/>
+    <pathelement path="../tools/java/saxon-he-10.0.jar"/>
   </path>
 
   <macrodef name="iterate">
@@ -352,7 +352,7 @@
   </target>
 
   <target name='export-me' depends='feed.xml,efele_catalogue_commun.txt'>
-    <copy todir='c:/users/emuller/home/eric/efele.net/ebooks'>
+    <copy todir='/Users/emuller/h/efele.net/ebooks'>
       <fileset dir='.' includes='index.html'/>
       <fileset dir='.' includes='style.css'/>
       <fileset dir='.' includes='feed.xml'/>
@@ -363,7 +363,7 @@
       <fileset dir='.' includes='efele_catalogue_commun.txt'/>
       <fileset dir='.' includes='liste.epub.html'/>
     </copy>
-    <copy todir='c:/users/emuller/home/eric/efele.net/ebooks'
+    <copy todir='/Users/emuller/h/efele.net/ebooks'
             encoding='UTF-16'
             outputencoding='UTF-16'>
       <fileset dir='.' includes='efele_catalogue_commun.txt'/>
