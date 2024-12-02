@@ -145,13 +145,13 @@ public class Epub2Meta {
   public static void main (String[] args) throws Exception {
 
     PrintStream outStream = null;
-    outStream = new PrintStream (new FileOutputStream (new File ("books-epub.json")), true, "UTF-8");
+    outStream = new PrintStream (System.out, true, "UTF-8");
 
     startOutput (outStream);
     for (int i = 0; i < args.length; i++) {
       explore (new File (args [i]), "", outStream); }
     endOutput (outStream);
 
-    System.out.println (count + " books "  + failures + " failures");
+    System.err.println (count + " books "  + failures + " failures");
   }
 }
