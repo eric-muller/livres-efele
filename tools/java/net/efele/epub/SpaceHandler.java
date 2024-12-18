@@ -1,6 +1,7 @@
 package net.efele.epub;
 
 import java.io.ByteArrayInputStream;
+import java.io.StringReader;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -26,6 +27,7 @@ import org.xml.sax.SAXParseException;
 import org.xml.sax.helpers.DefaultHandler;
 
 public class SpaceHandler {
+
 
   static public TransformerHandler getSink (FileOutputStream file) throws Exception {
     TransformerFactory tfactory = TransformerFactory.newInstance ();
@@ -226,9 +228,56 @@ public class SpaceHandler {
     }
 
     public InputSource resolveEntity (String arg0, String arg1) throws SAXException, IOException {
-      return new InputSource (new ByteArrayInputStream (new byte [0]));
+
+      String s = "";
+
+      if ("-//W3C//DTD XHTML 1.1//EN".equals (arg0)) {
+        // feed xhtml-special.ent + nbsp
+        s = "<!ENTITY quot    '&#34;'>"
+          + "<!ENTITY amp     '&#38;#38;'>"
+          + "<!ENTITY lt      '&#38;#60;'>"
+          + "<!ENTITY gt      '&#62;'>"
+          + "<!ENTITY apos    '&#39;'>"
+          + "<!ENTITY OElig   '&#338;'>"
+          + "<!ENTITY oelig   '&#339;'>"
+          + "<!ENTITY Scaron  '&#352;'>"
+          + "<!ENTITY scaron  '&#353;'>"
+          + "<!ENTITY Yuml    '&#376;'>"
+          + "<!ENTITY circ    '&#710;'>"
+          + "<!ENTITY tilde   '&#732;'>"
+          + "<!ENTITY ensp    '&#8194;'>"
+          + "<!ENTITY ensp    '&#8194;'>"
+          + "<!ENTITY emsp    '&#8195;'>"
+          + "<!ENTITY thinsp  '&#8201;'>"
+          + "<!ENTITY zwnj    '&#8204;'>"
+          + "<!ENTITY zwj     '&#8205;'>"
+          + "<!ENTITY lrm     '&#8206;'>"
+          + "<!ENTITY rlm     '&#8207;'>"
+          + "<!ENTITY ndash   '&#8211;'>"
+          + "<!ENTITY mdash   '&#8212;'>"
+          + "<!ENTITY lsquo   '&#8216;'>"
+          + "<!ENTITY rsquo   '&#8217;'>"
+          + "<!ENTITY sbquo   '&#8218;'>"
+          + "<!ENTITY ldquo   '&#8220;'>"
+          + "<!ENTITY rdquo   '&#8221;'>"
+          + "<!ENTITY bdquo   '&#8222;'>"
+          + "<!ENTITY dagger  '&#8224;'>"
+          + "<!ENTITY Dagger  '&#8225;'>"
+          + "<!ENTITY permil  '&#8240;'>"
+          + "<!ENTITY lsaquo  '&#8249;'>"
+          + "<!ENTITY rsaquo  '&#8250;'>"
+          + "<!ENTITY euro    '&#8364;'>"
+          + "<!ENTITY nbsp    '&#xa0;'>"; }
+      else {
+        System.err.println ("resolveEntity '"+ arg0 + "' '" + arg1 + "'");
+        System.exit (1); }
+      return new InputSource (new StringReader (s));
     }
 
+    public void skippedEntity (String name) {
+      System.err.println ("skippedEntity '"+ name + "'");
+      System.exit (1);
+    }
 
     void process (File inputFile, File outputFile) throws Exception {
       sinkStream = new FileOutputStream (outputFile);
