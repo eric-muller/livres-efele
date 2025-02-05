@@ -109,7 +109,9 @@ public class SpaceHandler {
           if (sb.charAt (i) == '\u00a0') {
             sb.setCharAt (i, ' '); }
           else if (sb.charAt (i) == '\'') {
-            sb.setCharAt (i, '\u2019'); }}}
+            sb.setCharAt (i, '\u2019'); }
+          else if (sb.charAt (i) == '\u2013') {
+            sb.setCharAt (i, '\u2014'); }}}
 
       if (nbCharsInBlock == 0) {
         if (     matches ("\u00ab \u2014 ", sb, 0)
