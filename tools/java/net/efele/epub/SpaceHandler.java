@@ -133,8 +133,7 @@ public class SpaceHandler {
                  && sb.charAt (i+1) == ' '
                  && "0123456789%\u2030\u2031$£€\u00B0".indexOf (sb.charAt (i+2)) != -1) {
           // U+00B0 ° DEGREE SIGN
-          sb.setCharAt (i+1, nnbsp);
-          sb.insert    (i+1, nnbsp); }
+          sb.setCharAt (i+1, nnbsp); }
 
         else if (   matches (" :", sb, i)
                  || matches (" ;", sb, i)
