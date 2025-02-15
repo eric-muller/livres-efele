@@ -2,7 +2,7 @@ default namespace bml = "http://efele.net/2010/ns/bml"
 namespace dc="http://purl.org/dc/elements/1.1/"
 namespace opf="http://www.idpf.org/2007/opf"
 
-start = 
+start =
   element bml {
     metadata,
     toc,
@@ -31,7 +31,7 @@ article = element article {
 
   & element numero {
         element nom { inline+ }
-      & element date { 
+      & element date {
            attribute iso { text },
            text } }
 
@@ -99,17 +99,17 @@ publication = element electronique {
     & attribute volume { text }?
     & element titre { text }}?
 
-  & element producteur { 
+  & element producteur {
       element nom { inline* }
     & element email { text }}+
 
   & element merci { block+ }?
   & element note { block+ }?
   }
-  
+
 #----------------------------------------------------------------------- toc ---
- 
-# table of content as meta data (i.e. not part of the text itself); 
+
+# table of content as meta data (i.e. not part of the text itself);
 # produces EPUB navigation, PDF bookmarks, etc
 
 toc =
@@ -140,13 +140,13 @@ cover =
 
 page-sequences =
   element page-sequences {
-    element page-sequence { 
+    element page-sequence {
       common-attributes,
       attribute recto { "true" }?,
       block*, script* } * }
 
 script =
-  element script { 
+  element script {
     attribute type { "text/javascript" },
     attribute src { text } }
 
@@ -164,12 +164,12 @@ block |= division
 
 #------------------------------------------------------------ poetry & plays ---
 
-meter = 
-  attribute m { "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" | "12" 
+meter =
+  attribute m { "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" | "12"
               | "c"     # centered
               | "i"}    # irregular
 
-poem = 
+poem =
   element poem {
     common-attributes,
     meter,
@@ -238,7 +238,7 @@ pstage =
 
 # inline stage directive
 stage =
-  element stage { 
+  element stage {
     common-attributes,
     inline* }
 
@@ -272,12 +272,12 @@ inline |= noteref
 #-------------------------------------------------------------- page numbers ---
 
 # description of the pagination of a facsimile
-pagenumber-range =  
+pagenumber-range =
     xsd:string { pattern="[A-Zn]+[0-9]+" }        # not paginated
   | xsd:string { pattern="[ivxlc]+(-[ivxlc]+)?" } # roman number
   | xsd:string { pattern="[IVXLC]+(-[IVXLC]+)?" } # roman number
   | xsd:string { pattern="[0-9]+(-[0-9]+)?" }     # european number
-           
+
 facsimile-pagination =
   list { pagenumber-range + }
 
@@ -291,23 +291,23 @@ pageref =
     attribute num { text },
     inline* }
 
-# a page break between words. The implicit space materialized by the 
+# a page break between words. The implicit space materialized by the
 # page break (if any) is explicitly in the text, before or afer  the <pagenum>.
 #
 # if @v is present, it is an idref to a volume
 
-pagenum |= 
+pagenum |=
   element pagenum {
     attribute v { text }?,
     attribute num { text } }
 
-# a page break with hyphenation. To account for spelling changes in 
+# a page break with hyphenation. To account for spelling changes in
 # hyphenation and varying marks of hyphenation, we represent both
 # the hyphenated form (@b and @a) and the non-hyphenated form (content)
 #
 # if @v is present, it is an idref to a volume
 
-pagenum |= 
+pagenum |=
   element pagenum {
     attribute v { text }?,
     attribute num { text },
@@ -367,15 +367,15 @@ inline |= correction | sic
 # typographic effects that provide vertical separation
 
 vsep |=
-  element vsep { 
+  element vsep {
     common-attributes,
-    attribute class { 
-         "emptyline" 
-       | "fewlines" 
-       | "onestar" 
-       | "threestars" 
-       | "threestarsrow" 
-       | "dots" 
+    attribute class {
+         "emptyline"
+       | "fewlines"
+       | "onestar"
+       | "threestars"
+       | "threestarsrow"
+       | "dots"
        | "rule"
        | "fullwidth-rule"
        | "tilderule"
@@ -392,7 +392,7 @@ a_list =
     common-attributes,
     attribute style { "disc" | "decimal" },
 
-    ( pagination 
+    ( pagination
     | element li {
       common-attributes,
        block * } )+ }
@@ -423,7 +423,7 @@ block |=
 
 #----------------------------------------------------------------- epigraphe ---
 
-block |= 
+block |=
   element epigraphe {
     common-attributes,
     block* }
@@ -435,19 +435,19 @@ header-attributes =
     list { ("smaller")?, ("hidden")?, ("l1")? }}?
 
 header |=
-  element h1 { 
+  element h1 {
     common-attributes,
     header-attributes,
     inline* }
 
 header |=
-  element h2 { 
+  element h2 {
     common-attributes,
     header-attributes,
     inline* }
 
 header |=
-  element h3 { 
+  element h3 {
     common-attributes,
     header-attributes,
     inline* }
@@ -471,7 +471,7 @@ table |=
     attribute vertical-align { "top" | "middle" | "bottom" }?,
     element col {
       attribute width { text }?,
-      attribute align { text }?,
+      attribute align { text }}?,
       attribute vertical-align { "top" | "middle" | "bottom" }? }*,
     element thead {
       (tr | pagination)+ }?,
@@ -490,7 +490,7 @@ tr =
 
 block |= table
 
-bracelist = 
+bracelist =
   element bl {
     attribute class { "braceleft" | "braceright" | "braceboth" },
     element li {
@@ -506,13 +506,13 @@ figure |=
   element figure {
     common-attributes,
     blockimage,
-    element figcaption { 
+    element figcaption {
        block+ | inline* }? }
 
 figure |=
   element figure {
     common-attributes,
-    element figcaption { 
+    element figcaption {
        block+ | inline* },
     blockimage }
 
@@ -522,18 +522,18 @@ blockimage =
   element img {
     common-attributes,
     attribute src { text },
-    attribute class { "fullpageimage" 
-                    | "left33" | "left50" | "left66" 
+    attribute class { "fullpageimage"
+                    | "left33" | "left50" | "left66"
                     | "center50" | "center66" | "center90" | "center100" | "center"
-                    | "right66" | "right50" | "right33" }?, 
+                    | "right66" | "right50" | "right33" }?,
     attribute alt { text }? }
 
 inlineimage |=
   element img {
     common-attributes,
     attribute src { text },
-    attribute class { "left33" | "left50" | "left66" 
-                    | "right66" | "right50" | "right33" }?, 
+    attribute class { "left33" | "left50" | "left66"
+                    | "right66" | "right50" | "right33" }?,
     attribute alt { text }}
 
 block |=  blockimage
@@ -541,7 +541,7 @@ inline |= inlineimage
 
 #------------------------------------------------------------------------------
 
-block |=        
+block |=
   element salutation {
     common-attributes,
     inline* }
@@ -570,17 +570,17 @@ block |=
 block |= date
 
 date =
-  element date { 
+  element date {
     common-attributes,
     attribute class { "l0" | "l1" | "l3" | "c" | "r3" | "r1" | "r0" }?,
     ( inline | element br { empty } )+ }
- 
+
 block |=
   element p {
     common-attributes,
     attribute repeat { text }?,
-    attribute class { 
-      list { ("smaller")?, 
+    attribute class {
+      list { ("smaller")?,
              ("cont" | "l0" | "l3" | "c" | "r3" | "r1"
                 | "date2" | "sig" | "entree" | "index"
                 | "sommaire" | "insommaire"
@@ -593,10 +593,10 @@ inline |= element br { empty }
 
 #-------------------------------------------------------------------- inline ---
 
-inline |= 
+inline |=
   text
 
-inline |= 
+inline |=
   element span {    # to carry common-attributes (xml:lang, id, etc)
     common-attributes,
     inline+ }
@@ -642,4 +642,3 @@ leader =
   element leader { empty }
 
 inline |= leader
-
