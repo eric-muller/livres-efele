@@ -232,7 +232,8 @@ public class SpaceHandler {
 
       String s = "";
 
-      if ("-//W3C//DTD XHTML 1.1//EN".equals (arg0)) {
+      if (   "-//W3C//DTD XHTML 1.0 Strict//EN".equals (arg0)
+          || "-//W3C//DTD XHTML 1.1//EN".equals (arg0)) {
         // feed xhtml-special.ent + nbsp
         s = "<!ENTITY quot    '&#34;'>"
           + "<!ENTITY amp     '&#38;#38;'>"
