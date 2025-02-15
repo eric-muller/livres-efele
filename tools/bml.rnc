@@ -463,6 +463,23 @@ block |= header
 #-------------------------------------------------------------------- tables ---
 
 table |=
+  element table2 {
+    common-attributes,
+
+    element hrows {
+      attribute align { xsd:string { pattern="[lcr_123456789]*" }}?,
+      attribute spans { list { xsd:integer + }}?,
+      (text | tr )+ }*,
+    element brows {
+      attribute align { xsd:string { pattern="[lcr_123456789]*" }}?,
+      attribute spans { list { xsd:integer + }}?,
+      (text | tr )+ }*,
+    element frows {
+      attribute align { xsd:string {pattern="[lcr_123456789]*" }}?,
+      attribute spans { list { xsd:integer + }}?,
+      (text | tr)+ }* }
+
+table |=
   element table {
     common-attributes,
     attribute style { text }?,
@@ -471,7 +488,7 @@ table |=
     attribute vertical-align { "top" | "middle" | "bottom" }?,
     element col {
       attribute width { text }?,
-      attribute align { text }}?,
+      attribute text-align { "left" | "center" | "right" }?,
       attribute vertical-align { "top" | "middle" | "bottom" }? }*,
     element thead {
       (tr | pagination)+ }?,

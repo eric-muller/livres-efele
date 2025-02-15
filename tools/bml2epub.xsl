@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<xsl:stylesheet 
+<xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/"
   xmlns:bml="http://efele.net/2010/ns/bml"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:opf="http://www.idpf.org/2007/opf"
   xmlns:epub="http://www.idpf.org/2007/ops"
-  xmlns="http://www.w3.org/1999/xhtml" 
+  xmlns="http://www.w3.org/1999/xhtml"
   exclude-result-prefixes="bml"
   version="2.0">
 
@@ -170,7 +170,7 @@
     <xsl:call-template name='file-of'/>
   </xsl:variable>
 
-  <page xmlns="http://www.idf.org/2007/opf" 
+  <page xmlns="http://www.idf.org/2007/opf"
         href="{$targetfile}.xhtml#page.{@v}.{@num}"
         name='{@num}'/>
 </xsl:template>
@@ -202,7 +202,7 @@
   <xsl:param name='class'/>
 
   <xsl:variable name='classes'>
-    <xsl:value-of 
+    <xsl:value-of
         separator=' '
         select='$class, @class'/>
   </xsl:variable>
@@ -376,7 +376,7 @@
       <xsl:call-template name='transfer-common-attributes'>
         <xsl:with-param name='class'>date</xsl:with-param>
       </xsl:call-template>
-      
+
       <xsl:apply-templates mode='html'/>
     </p>
   </div>
@@ -587,7 +587,7 @@
 </xsl:template>
 
 <xsl:template match='bml:vsep[@class="tilderule"]' mode="html">
-  <hr class="rule-top vsep"/> 
+  <hr class="rule-top vsep"/>
   <hr class="rule-bottom vsep"/>
 </xsl:template>
 
@@ -750,8 +750,8 @@
       <xsl:with-param name="class">hstage</xsl:with-param>
     </xsl:call-template>
 
-    <xsl:for-each-group 
-        select='* | text()' 
+    <xsl:for-each-group
+        select='* | text()'
         group-adjacent='if (self::bml:speaker) then "nowrap" else if (self::bml:stage) then "nowrap" else "wrap"'>
 
       <xsl:choose>
@@ -872,6 +872,106 @@
   </div>
 </xsl:template>
 
+<xsl:template match='bml:table2' mode='html'>
+  <table>
+    <xsl:call-template name='transfer-common-attributes'/>
+    <xsl:for-each select='@style'>
+      <xsl:copy/>
+    </xsl:for-each>
+    <xsl:if test='bml:hrows | bml:hrow'>
+      <thead>
+        <xsl:apply-templates select='bml:hrows | bml:hrow' mode='html'/>
+      </thead>
+    </xsl:if>
+    <xsl:if test='bml:brows'>
+      <tbody>
+        <xsl:apply-templates select='bml:brows' mode='html'/>
+      </tbody>
+    </xsl:if>
+    <xsl:if test='bml:frows'>
+      <tfoot>
+        <xsl:apply-templates select='bml:frows' mode='html'/>
+      </tfoot>
+    </xsl:if>
+  </table>
+</xsl:template>
+
+<xsl:template match='bml:hrows | bml:brows | bml:frows' mode='html'>
+  <xsl:apply-templates select='* | text()' mode='html_table2'/>
+</xsl:template>
+
+<xsl:template match='bml:tr' mode='html_table2'>
+  <tr>
+    <xsl:for-each select='bml:td'>
+      <td>
+        <xsl:call-template name='html_table2_td_attributes'>
+          <xsl:with-param name='align' select='../../@align'/>
+          <xsl:with-param name='spans' select='../../@spans'/>
+          <xsl:with-param name='position' select='position()'/>
+        </xsl:call-template>
+        <xsl:apply-templates mode='html'/>
+      </td>
+    </xsl:for-each>
+  </tr>
+</xsl:template>
+
+<xsl:template match='text()' mode='html_table2'>
+  <xsl:variable name='align' select='../@align'/>
+  <xsl:variable name='spans' select='../@spans'/>
+  <xsl:for-each select="tokenize (., '\n')">
+    <xsl:if test="normalize-space(.) != ''">
+      <tr>
+        <xsl:for-each select="tokenize (., '\|')">
+          <td>
+            <xsl:call-template name='html_table2_td_attributes'>
+              <xsl:with-param name='align' select='$align'/>
+              <xsl:with-param name='spans' select='$spans'/>
+              <xsl:with-param name='position' select='position()'/>
+            </xsl:call-template>
+
+            <xsl:if test='. != "@"'>
+              <xsl:apply-templates select='.' mode='html'/>
+            </xsl:if>
+          </td>
+        </xsl:for-each>
+      </tr>
+      <xsl:text>
+</xsl:text>
+    </xsl:if>
+  </xsl:for-each>
+</xsl:template>
+
+<xsl:template name='html_table2_td_attributes'>
+  <xsl:param name='align'/>
+  <xsl:param name='spans'/>
+  <xsl:param name='position'/>
+
+  <xsl:if test='$align != ""'>
+    <xsl:variable name="a" select="substring($align,$position,1)"/>
+
+    <xsl:attribute name='style'>
+      <xsl:choose>
+        <xsl:when test='$a="l"'>text-align: left;</xsl:when>
+        <xsl:when test='$a="c"'>text-align: center;</xsl:when>
+        <xsl:when test='$a="r"'>text-align: right;</xsl:when>
+        <xsl:when test='$a="."'></xsl:when>
+        <xsl:when test='$a="_"'>width: 2em;</xsl:when>
+        <xsl:otherwise>width: <xsl:value-of select='$a'/>em;</xsl:otherwise>
+      </xsl:choose>
+    </xsl:attribute>
+  </xsl:if>
+
+  <xsl:if test='$spans != ""'>
+    <xsl:attribute name='colspan'>
+      <xsl:value-of select='tokenize ($spans, " ") [$position]'/>
+    </xsl:attribute>
+  </xsl:if>
+</xsl:template>
+
+
+
+
+
 <xsl:template match='bml:table' mode='html'>
   <table>
     <xsl:call-template name='transfer-common-attributes'/>
@@ -882,14 +982,9 @@
   </table>
 </xsl:template>
 
+
+
 <xsl:template match='bml:col' mode='html'>
-<!--
-  <col>
-    <xsl:if test='@width'><xsl:attribute name='width' select='@width'/></xsl:if>
-    <xsl:if test='@align'><xsl:attribute name='align' select='@align'/></xsl:if>
-    <xsl:if test='@valign'><xsl:attribute name='valign' select='@valign'/></xsl:if>
-  </col>
--->
 </xsl:template>
 
 <xsl:template match='bml:thead' mode='html'>
@@ -911,11 +1006,14 @@
 </xsl:template>
 
 <xsl:template match='bml:td' mode='html'>
+  <xsl:variable name="p" select="position()"/>
   <td>
     <xsl:call-template name='transfer-common-attributes'/>
     <xsl:attribute name='style'>
       <xsl:if test='@text-align'>text-align: <xsl:value-of select='@text-align'/>;</xsl:if>
-    <xsl:if test='ancestor::bml:table/@text-align'>text-align: <xsl:value-of select='ancestor::bml:table/@text-align'/>;</xsl:if>
+      <xsl:if test='ancestor::bml:table/bml:col[position()=$p]/@text-align'>text-align: <xsl:value-of select='ancestor::bml:table/bml:col[position()=$p]/@text-align'/>; </xsl:if>
+      <xsl:if test='ancestor::bml:table/bml:col[position()=$p]/@width'>width: <xsl:value-of select='ancestor::bml:table/bml:col[position()=$p]/@width'/>; </xsl:if>
+      <xsl:if test='ancestor::bml:table/@text-align'>text-align: <xsl:value-of select='ancestor::bml:table/@text-align'/>;</xsl:if>
       <xsl:if test='@vertical-align'>vertical-align: <xsl:value-of select='@vertical-align'/>;</xsl:if>
     <xsl:if test='ancestor::bml:table/@vertical-align'>vertical-align: <xsl:value-of select='ancestor::bml:table/@vertical-align'/>;</xsl:if>
       <xsl:if test="@style"><xsl:value-of select='@style'/></xsl:if>
@@ -1068,10 +1166,10 @@
       method='xml'
       indent='yes'
       href='{$targetdir}/OEBPS/package.opf'>
-    
+
     <package xmlns="http://www.idpf.org/2007/opf"
              xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article]/bml:langue}"
-             unique-identifier="uniqueId" 
+             unique-identifier="uniqueId"
              version="3.0">
 
       <metadata>
@@ -1091,10 +1189,10 @@
                 id="{$x}"
                 media-type="application/font-sfnt"/>
           </xsl:for-each>
-          
+
           <item href='style.css' id='style.css' media-type='text/css'/>
         </xsl:if>
-        
+
         <item href='style-common.css' id='style-common.css' media-type='text/css'/>
         <!-- chapters -->
         <xsl:for-each select='bml:bml/bml:page-sequences/bml:page-sequence'>
@@ -1159,10 +1257,10 @@
       indent='yes'
       href='{$targetdir}/OEBPS/nav.xhtml'>
 <!--
-      doctype-public="html" 
+      doctype-public="html"
       doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 -->
-    <html 
+    <html
         xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article]/bml:langue}">
       <head>
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -1178,7 +1276,7 @@
             <ol>
               <xsl:apply-templates mode='nav-page-list'/>
             </ol>
-          </nav>          
+          </nav>
         </xsl:if>
       </body>
     </html>
@@ -1205,34 +1303,34 @@
     <xsl:text>OEBPS/</xsl:text>
     <xsl:call-template name='file-of'/>
   </xsl:variable>
-  
+
   <xsl:result-document
       method="xml"
       indent="no"
       href="{$targetdir}/{$targetfile}.xhtml">
 <!--
-      doctype-public="html" 
+      doctype-public="html"
       doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
--->    
-    <html 
+-->
+    <html
           xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article]/bml:langue}">
       <head>
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-        
+
         <link rel="stylesheet" type="text/css" href="style.css"/>
-        
+
         <xsl:if test="$page-template != 'none'">
           <link rel="stylesheet" type="application/vnd.adobe-page-template+xml"
                 href="{$page-template}"/>
         </xsl:if>
-        
+
         <title>
           <xsl:value-of select="//bml:bml/bml:metadata/bml:electronique/bml:titre"/>
         </title>
       </head>
-      
+
       <body>
-        <!-- epubcheck complains if <a name=''> is directly 
+        <!-- epubcheck complains if <a name=''> is directly
              inside a <body>; wrap in a <div> to avoid that.
              Another reason is that kindlegen does not see the
              @id on the <body>, so we need something (the <div>)
@@ -1269,7 +1367,7 @@
 
 <xsl:template match='bml:font' mode='style.css'>
   <xsl:variable name="x" select="tokenize(@u, '/')[position() = last()]"/>
-  
+
   <xsl:text>@font-face {</xsl:text>
 
   <xsl:text>font-family: </xsl:text>
@@ -1289,5 +1387,5 @@
   <xsl:text>'); }</xsl:text>
 
 </xsl:template>
-  
+
 </xsl:stylesheet>
