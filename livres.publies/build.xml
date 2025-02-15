@@ -358,7 +358,7 @@
   </target>
 
   <target name='export-me' depends='feed.xml,efele_catalogue_commun.txt'>
-    <copy todir='/Users/emuller/h/efele.net/ebooks'>
+    <copy todir='/Users/emuller/efele.net/ebooks'>
       <fileset dir='.' includes='index.html'/>
       <fileset dir='.' includes='style.css'/>
       <fileset dir='.' includes='feed.xml'/>
@@ -369,7 +369,7 @@
       <fileset dir='.' includes='efele_catalogue_commun.txt'/>
       <fileset dir='.' includes='liste.epub.html'/>
     </copy>
-    <copy todir='/Users/emuller/h/efele.net/ebooks'
+    <copy todir='/Users/emuller/efele.net/ebooks'
             encoding='UTF-16'
             outputencoding='UTF-16'>
       <fileset dir='.' includes='efele_catalogue_commun.txt'/>
