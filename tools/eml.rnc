@@ -10,7 +10,7 @@ start =
       attribute colophon { text},
       attribute body { text },
 
-      fonts,
+      fonts +,
       element css { text }? },
 
     element in-copyright {
@@ -54,4 +54,3 @@ font =
 
 css =
   element css { text }
-
