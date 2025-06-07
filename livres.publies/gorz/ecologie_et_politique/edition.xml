@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+
+<edition xmlns="http://efele.net/2010/ns/bml">
+
+  <style colophon="Minion" body="MinionPro">
+    <fonts href='../../../fonts/MinionPro.xml'/>
+
+    <css>
+h2 { text-align: right;  margin-left: 40vw; font-size: 115%; }
+
+h3 { text-align: left; text-indent: 0; font-size: 105%; }
+
+h4 { text-align: left; text-indent: 0; margin: 1em 0 1em 0; }
+
+img[src='images/p145.png'],
+img[src='images/p146.png'],
+img[src='images/p148.png']
+{
+  float: left;
+  width: 100%;
+  padding: 2em 0 2em 0;
+}
+
+    </css>
+  </style>
+
+  <in-copyright>
+    <p>Si vous êtes l’ayant-droit de ce texte, et si vous fournissez une édition EPUB (gratuitement ou à un prix raisonable), merci de me prévenir afin que je retire cette réimpression.</p>
+  </in-copyright>
+
+</edition>
