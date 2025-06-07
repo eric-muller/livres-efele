@@ -17,7 +17,7 @@ h1 + p { text-indent: 0; }
 h2 + p { text-indent: 0; }
 h3 + p { text-indent: 0; }
 
-aside { 
+aside {
   margin-top: 1em;
   border-top: .2em double black;
   padding-top: 1em;
@@ -33,6 +33,8 @@ aside {
 
     </css>
   </style>
+
+  <catalogues noslivres="non"/>
 
   <in-copyright>
     <p>Si vous êtes l’ayant-droit de ce texte, et si vous fournissez une édition EPUB (gratuitement ou à un prix raisonable), merci de me prévenir afin que je retire cette réimpression.</p>

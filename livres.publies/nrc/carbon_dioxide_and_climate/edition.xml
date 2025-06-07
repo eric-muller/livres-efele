@@ -6,9 +6,9 @@
     <fonts href='../../../fonts/MyriadPro.xml'/>
 
     <css>
-  
+
 h1, h2, h3 {
-  font-family: MyriadPro; 
+  font-family: MyriadPro;
   text-align: left;
   text-indent: 0;
 }
@@ -30,4 +30,7 @@ h1 + p, h2 + p, h3 + p {
 }
     </css>
   </style>
+
+  <catalogues noslivres="non"/>
+
 </edition>

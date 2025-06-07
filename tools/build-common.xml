@@ -1,6 +1,7 @@
 <?xml version='1.0'?>
 
-<project name='book-common' default='all'>
+<project name='book-common' default='all'
+         xmlns:if='ant:if'>
 
   <property name='imagemagick'
             value='magick'/>
@@ -397,7 +398,12 @@
     <mkdir dir='results/${id}'/>
 
     <delete file='results/${id}/catalog.txt'/>
-    <java classname="net.sf.saxon.Transform" fork="true">
+
+
+    <xquery src='edition.xml' q='if (exists (//*:catalogues/@noslivres) and data(//*:catalogues/@noslivres) eq "non") then false() else true()' prop='noslivres'/>
+
+    <java classname="net.sf.saxon.Transform" fork="true"
+          if:true="${noslivres}">
       <classpath refid="classpath"/>
       <arg value="-o:results/${id}/catalog.txt"/>
       <arg value="-xsl:${tools}/bml2catalog.xsl"/>
