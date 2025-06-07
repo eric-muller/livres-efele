@@ -27,7 +27,7 @@ h1,  #page-titre > h1 {
   text-indent: 0;
   font-size:  120%;
   font-style: normal;
-  font-weight: normal; 
+  font-weight: normal;
   page-break-after: avoid; }
 
 h1 + h1 {
@@ -40,7 +40,7 @@ h2, #page-titre > h2 {
   text-indent: 0;
   font-size: 100%;
   font-style: normal;
-  font-weight: normal; 
+  font-weight: normal;
   page-break-after: avoid; }
 
 h2 + h2 {
@@ -69,7 +69,7 @@ h4 {
 
 
 h1:first-child, h2:first-child, h3:first-child {
-  margin-top: 5em; }      
+  margin-top: 5em; }
 
 div.recto {
   page-break-before: left; }
@@ -91,7 +91,7 @@ li { padding: default; }
 
 p.initcap {
   text-indent: -0.8em; }
-  
+
 img.initcap {
   width: auto;
   float: left;
@@ -139,7 +139,7 @@ b {
   font-variant-caps: all-small-caps; }
 
 
- 
+
 .left {
   text-align: left; }
 
@@ -179,9 +179,9 @@ b {
   text-indent: 0; }
 
 .l_c {
-  text-align: center; 
+  text-align: center;
   text-idnent:0; }
-  
+
 .l0 {
   text-indent: 0;
   padding: 0 3em 0 0;
@@ -309,56 +309,56 @@ img.left33 {
   float: left;
   max-width: 33%;
   max-height: 100%;
-  margin: 0 1em 0 0; 
+  margin: 0 1em 0 0;
   padding: 0; }
-  
+
 img.left50 {
   float: left;
   max-width: 50%;
   max-height: 100%;
-  margin: 0 1em 0 0; 
+  margin: 0 1em 0 0;
   padding: 0; }
-  
+
 img.left66 {
   float: left;
   max-width: 66%;
   max-height: 100%;
-  margin: 0 1em 0 0; 
+  margin: 0 1em 0 0;
   padding: 0; }
 
 img.right33 {
   float: right;
   max-width: 33%;
   max-height: 100%;
-  margin: 0 0 0 1em; 
+  margin: 0 0 0 1em;
   padding: 0; }
-  
+
 img.right50 {
   float: right;
   max-width: 50%;
   max-height: 100%;
-  margin: 0 0 0 1em; 
+  margin: 0 0 0 1em;
   padding: 0; }
-  
+
 img.right66 {
   float: right;
   max-width: 66%;
   max-height: 100%;
-  margin: 0 0 0 1em; 
+  margin: 0 0 0 1em;
   padding: 0; }
-  
+
 td {
   vertical-align: text-top; }
 
 sup {
-  /* font-size: .83em; 
-     vertical-align: super; */
+  font-size: .83em;
+  vertical-align: super;
   line-height: 0;
   font-variant-numeric: lining-nums; }
 
 sub {
-  /* font-size: .83em; 
-     vertical-align: sub; */
+  font-size: .83em;
+  vertical-align: sub;
   line-height: 0;
   font-variant-numeric: lining-nums; }
 
@@ -367,8 +367,8 @@ sub {
 .date {
   margin: 1em 0 1em 0;
   font-size: 90%;
-  text-indent: 0; 
-  page-break-after: avoid; 
+  text-indent: 0;
+  page-break-after: avoid;
 
   padding: 0 3em 0 3em;
   text-align: right; }
@@ -378,11 +378,11 @@ sub {
   text-align: right; }
 
 .index {
-  margin: 0 0 0 2em; 
+  margin: 0 0 0 2em;
   text-indent: -2em; }
 
 .entree {
-  margin: 1em 0 0 2em; 
+  margin: 1em 0 0 2em;
   text-indent: -2em; }
 
 
@@ -413,14 +413,14 @@ h2 + .notes {
   clear: left; }
 
 .numero-de-note {
-  float: left; 
+  float: left;
   width: 1em;
   padding: 0 0 0 0;
   margin: 0 0 0 0;
   text-align: right; }
 
 .texte-de-note {
-  /* small padding at top and bottom: so that our border encompasses 
+  /* small padding at top and bottom: so that our border encompasses
      any margin in our children. */
   padding: 0.05px 0 0.05px 0.5em;
   margin: 0 0 0 1.3em;
@@ -436,7 +436,7 @@ h2 + .notes {
   /*  border:1px black solid; */ }
 
 .entree {
-  margin: 1em 0 0 2em; 
+  margin: 1em 0 0 2em;
   text-indent: -2em; }
 
 
@@ -467,7 +467,7 @@ p.cast {
   text-indent: 1em;
   margin: 0 0 0 2em; }
 
-.speaker { 
+.speaker {
   font-variant-caps: all-small-caps;
   font-style: normal;
   font-weight: 300; }
@@ -535,7 +535,7 @@ table.xxx {
 }
 
 table {
- border-collapse: separate; 
+ border-collapse: separate;
  border-spacing: 0.5em 0.5em;
 }
 
@@ -581,12 +581,12 @@ figure > img {
   max-width: 100%;
   max-height: 70%;   /* to make sure there is room for the caption */
   width: auto; }
-  
+
 figure > figcaption {
   margin-top: 1em;
   text-align: center; }
 
-* { 
+* {
   margin: 0;
   padding: 0;
   border: 0; }
