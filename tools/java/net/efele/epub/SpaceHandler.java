@@ -131,7 +131,7 @@ public class SpaceHandler {
         else if (i + 2 < sb.length ()
                  && "0123456789".indexOf (sb.charAt (i)) != -1
                  && sb.charAt (i+1) == ' '
-                 && "0123456789%\u2030\u2031$£€\u00B0".indexOf (sb.charAt (i+2)) != -1) {
+                 && "0123456789%\u2030\u2031$£€¢\u00B0".indexOf (sb.charAt (i+2)) != -1) {
           // U+00B0 ° DEGREE SIGN
           sb.setCharAt (i+1, nnbsp); }
 
