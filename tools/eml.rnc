@@ -14,7 +14,7 @@ start =
       element css { text }? },
 
     element catalogues {
-      attribute noslivres { "oui" | "non"}},
+      attribute noslivres { "oui" | "non"}}?,
 
     element in-copyright {
       block+ } ?,
