@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<xsl:stylesheet 
+<xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
   xmlns:bml="http://efele.net/2010/ns/bml"
@@ -11,11 +11,11 @@
 <xsl:param name='tirage-font'/>
 <xsl:param name='correction'>[</xsl:param>
 <xsl:param name='dotoi'>no</xsl:param>
-<xsl:param name='mobi'/>
+
 
 <xsl:include href="bml-common.xsl"/>
 
-<xsl:output 
+<xsl:output
   method="xml"
   indent="no"
   encoding="UTF-8"/>
@@ -33,7 +33,7 @@
      <tocentry idref='colophon'      label="Colophon"/>
    </toc>
 
-  The Illustrations entry is generated only if dotoi is yes and 
+  The Illustrations entry is generated only if dotoi is yes and
   there are full page images in the text
 -->
 
@@ -63,7 +63,7 @@
   <page-sequence>    with the cover image
   <page-sequence>    with the efele cover page
   ...                page sequences of the text
-  <page-sequence>    table of illustrations, if asked for  
+  <page-sequence>    table of illustrations, if asked for
   <page-sequence>    colophon
 -->
 
@@ -95,7 +95,7 @@
     <xsl:call-template name='colophon'>
       <xsl:with-param name='metadata' select='$metadata' tunnel="yes"/>
     </xsl:call-template>
-      
+
   </xsl:copy>
 </xsl:template>
 
@@ -116,23 +116,23 @@
       <xsl:when test='position() = 1'/>
       <xsl:otherwise> <xsl:text>, </xsl:text></xsl:otherwise>
     </xsl:choose>
-    
+
     <xsl:for-each select='current-group()/bml:nom'>
       <xsl:choose>
         <xsl:when test='position() = 1'/>
         <xsl:otherwise> <xsl:text>, </xsl:text></xsl:otherwise>
       </xsl:choose>
-      
+
       <xsl:apply-templates select='node()'/>
     </xsl:for-each>
-    
+
     <xsl:if test='current-group()/bml:nom'>
       <xsl:text>, </xsl:text>
     </xsl:if>
 
     <xsl:apply-templates select='bml:ville/node()'/>
   </xsl:for-each-group>
-  
+
   <xsl:text>, </xsl:text>
   <xsl:apply-templates select='bml:date/node()'/>
 </xsl:template>
@@ -160,11 +160,11 @@
         <xsl:call-template name='list-sep'/>
         <xsl:value-of select='bml:nom-couverture'/>
       </xsl:for-each>
-      
+
       <bml:br/>
       <bml:i><xsl:apply-templates select='$metadata/bml:monographie/bml:titre/node()'/><xsl:apply-templates select='$metadata/bml:article/bml:titre/node()'/></bml:i>
-      
-      
+
+
       <xsl:if test='$metadata/bml:monographie/bml:auteur[@role="edt"]'>
         <bml:br/>
         <xsl:text>Édition : </xsl:text>
@@ -173,7 +173,7 @@
           <xsl:value-of select='bml:nom-couverture'/>
         </xsl:for-each>
       </xsl:if>
-      
+
       <xsl:if test='$metadata/bml:monographie/bml:auteur[@role="trl"]'>
         <bml:br/>
         <xsl:text>Traduction : </xsl:text>
@@ -182,7 +182,7 @@
           <xsl:value-of select='bml:nom-couverture'/>
         </xsl:for-each>
       </xsl:if>
-      
+
       <xsl:if test='$metadata/bml:monographie/bml:auteur[@role="aui"]'>
         <bml:br/>
         <xsl:text>Préface : </xsl:text>
@@ -191,7 +191,7 @@
           <xsl:value-of select='bml:nom-couverture'/>
         </xsl:for-each>
       </xsl:if>
-      
+
       <xsl:if test='$metadata/bml:monographie/bml:auteur[@role="ill"]'>
         <bml:br/>
         <xsl:text>Illustrations : </xsl:text>
@@ -200,15 +200,15 @@
           <xsl:value-of select='bml:nom-couverture'/>
         </xsl:for-each>
       </xsl:if>
-      
+
       <xsl:apply-templates select='$metadata/bml:monographie|$metadata/bml:article' mode='publisher'/>
-      
+
       <xsl:if test='$metadata/bml:*/@bnf'>
         <bml:br/>
         <bml:i><bml:a href="{$metadata/bml:*/@bnf}"><xsl:value-of select="$metadata/bml:monographie/@bnf"/></bml:a></bml:i>
       </xsl:if>
     </bml:p>
-    
+
     <xsl:if test='count($metadata/bml:volume/bml:facsimile)>=1'>
       <bml:p class="sommaire">
         <xsl:text>Fac-similé</xsl:text>
@@ -245,7 +245,7 @@
 
   <bml:page-sequence recto="true" id='colophon'>
     <bml:h2>COLOPHON</bml:h2>
-      
+
     <bml:p>Cette réimpression <bml:s>ÉFÉLÉ</bml:s> a été faite le <xsl:call-template name='tirage-date-bml'/> et est composée en <xsl:value-of select='$tirage-font'/>.</bml:p>
 
     <bml:vsep class="emptyline"/>

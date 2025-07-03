@@ -59,7 +59,6 @@
     <attribute name='dest'/>
     <attribute name='endnotes'/>
     <attribute name='review'/>
-    <attribute name='mobi' default='no'/>
     <attribute name='tirage'/>
     <attribute name='correction'/>
 
@@ -73,7 +72,6 @@
         <arg value="colophon=@{src}.colophon"/>
         <arg value="tirage-font=${tirage-font}"/>
         <arg value="correction=@{correction}"/>
-        <arg value="mobi=@{mobi}"/>
         <arg value="endnotes=@{endnotes}"/>
         <arg value="review=@{review}"/>
         <arg value="dotoi=${dotoi}"/>
