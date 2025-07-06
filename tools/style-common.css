@@ -15,12 +15,7 @@ body {
   hyphens: auto; }
 
 
-/* the purpose of the "#page-titre > h1" is so that the style for h1
-   coming from the content can be controlled in the content
-   stylesheet (via the "h1" selector) without affecting the style
-   of the h1 in the title page */
-
-h1,  #page-titre > h1 {
+h1,  .page-titre-auteur, .page-titre-titre {
   padding: 0;
   margin: 3em 0 3em 0;
   text-align: center;
@@ -33,7 +28,7 @@ h1,  #page-titre > h1 {
 h1 + h1 {
   margin: -2em 0 3em 0; }
 
-h2, #page-titre > h2 {
+h2, .page-titre-surtitre, .page-titre-soustitre, .page-titre-editeur, page-titre-article {
   padding: 0;
   margin: 2em 0 2em 0;
   text-align: center;

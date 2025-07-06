@@ -601,7 +601,14 @@ block |=
              ("cont" | "l0" | "l3" | "c" | "r3" | "r1"
                 | "date2" | "sig" | "entree" | "index"
                 | "sommaire" | "insommaire"
-                | "leftbrace" | "rightbrace" )?,
+                | "leftbrace" | "rightbrace"
+
+                | "page-title-auteur"
+                | "page-title-surtitre"
+                | "page-title-titre"
+                | "page-title-soustitre"
+                | "page-title-editeur"
+                | "page-title-article" )?,
              ("left")? }}?,
     inline* }
 

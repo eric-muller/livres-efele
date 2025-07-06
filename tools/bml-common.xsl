@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<xsl:stylesheet 
+<xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:bml="http://efele.net/2010/ns/bml"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -101,29 +101,29 @@
 <xsl:template name='efelecover'>
     <bml:page-sequence recto="true" id='page-titre'>
         <xsl:for-each select="//bml:bml/bml:metadata/bml:monographie/bml:auteur[@role='aut' or not(@role)]/bml:nom-couverture">
-          <bml:h1>
+          <bml:p class='page-titre-auteur'>
             <xsl:apply-templates mode='upper'/>
-          </bml:h1>
+          </bml:p>
         </xsl:for-each>
 
         <xsl:for-each select="//bml:bml/bml:metadata/bml:article/bml:auteur[@role='aut' or not(@role)]/bml:nom-couverture">
-          <bml:h1>
+          <bml:p class='page-titre-auteur'>
             <xsl:apply-templates mode='upper'/>
-          </bml:h1>
+          </bml:p>
         </xsl:for-each>
 
         <bml:vsep class="rule"/>
 
         <xsl:for-each select='//bml:bml/bml:metadata/bml:electronique/bml:surtitre'>
-          <bml:h2><bml:s><xsl:apply-templates mode='upper'/></bml:s></bml:h2>
+          <bml:p class='page-titre-surtitre'><bml:s><xsl:apply-templates mode='upper'/></bml:s></bml:p>
         </xsl:for-each>
-        
+
         <xsl:for-each select='//bml:bml/bml:metadata/bml:electronique/bml:titre'>
-          <bml:h1><xsl:apply-templates mode='upper'/></bml:h1>
+          <bml:p class='page-titre-titre'><xsl:apply-templates mode='upper'/></bml:p>
         </xsl:for-each>
-        
+
         <xsl:for-each select='//bml:bml/bml:metadata/bml:electronique/bml:soustitre'>
-          <bml:h1><bml:s><xsl:apply-templates mode='upper'/></bml:s></bml:h1>
+          <bml:p class='page-titre-soustitre'><bml:s><xsl:apply-templates mode='upper'/></bml:s></bml:p>
         </xsl:for-each>
 
         <bml:vsep class="emptyline"/>
@@ -138,33 +138,34 @@
 </xsl:template>
 
 <xsl:template match='bml:monographie' mode='efele-cover'>
-  <bml:h2>
+  <bml:p class='page-titre-editeur'>
     <xsl:for-each select='bml:editeur/bml:nom'>
       <xsl:choose>
         <xsl:when test='position() = 1'/>
-        <xsl:otherwise> 
-                <xsl:text>, </xsl:text>
+        <xsl:otherwise>
+          <xsl:text>, </xsl:text>
         </xsl:otherwise>
       </xsl:choose>
       <xsl:apply-templates select='node()'/>
     </xsl:for-each>
+
     <xsl:if test='bml:editeur/bml:nom'>
       <xsl:text>, </xsl:text>
     </xsl:if>
     <xsl:apply-templates select='bml:date/node()'/>
-  </bml:h2>
+  </bml:p>
 </xsl:template>
 
 <xsl:template match='bml:article' mode='efele-cover'>
-  <bml:h2>
+  <bml:p class='page-titre-article'>
     <xsl:apply-templates select='bml:periodique/bml:titre/node()'/>
-  </bml:h2>
-  <bml:h2>
+  </bml:p>
+  <bml:p class='page-titre-article'>
     <xsl:apply-templates select='bml:numero/bml:nom/node()'/>
-  </bml:h2>
-  <bml:h2>
+  </bml:p>
+  <bml:p class='page-titre-article'>
     <xsl:apply-templates select='bml:numero/bml:date/node()'/>
-  </bml:h2>
+  </bml:p>
 </xsl:template>
 
 
