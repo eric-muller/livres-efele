@@ -161,7 +161,6 @@ division =
 block |= division
 
 
-
 #------------------------------------------------------------ poetry & plays ---
 
 meter =
@@ -431,6 +430,7 @@ block |=
 #------------------------------------------------------------------- headers ---
 
 header-attributes =
+  attribute prefixe { text }?,
   attribute class {
     list { ("smaller")?, ("hidden")?, ("l1")? }}?
 

@@ -412,32 +412,20 @@
 
 
 
-<xsl:template match='bml:h1' mode='html'>
-  <h1>
-    <xsl:call-template name='transfer-common-attributes'/>
-    <xsl:apply-templates mode='html'/>
-  </h1>
-</xsl:template>
+<xsl:template match='bml:h1 | bml:h2 | bml:h3 | bml:h4' mode='html'>
+  <xsl:if test='@prefixe'>
+    <xsl:element name='{local-name()}'>
+      <xsl:attribute name='class'>prefixe</xsl:attribute>
+      <xsl:value-of select='@prefixe'/>
+    </xsl:element>
+  </xsl:if>
 
-<xsl:template match='bml:h2' mode='html'>
-  <h2>
-    <xsl:call-template name='transfer-common-attributes'/>
+  <xsl:element name='{local-name()}'>
+    <xsl:call-template name='transfer-common-attributes'>
+      <xsl:with-param name='class'>corps</xsl:with-param>
+    </xsl:call-template>
     <xsl:apply-templates mode='html'/>
-  </h2>
-</xsl:template>
-
-<xsl:template match='bml:h3' mode='html'>
-  <h3>
-    <xsl:call-template name='transfer-common-attributes'/>
-    <xsl:apply-templates mode='html'/>
-  </h3>
-</xsl:template>
-
-<xsl:template match='bml:h4' mode='html'>
-  <h4>
-    <xsl:call-template name='transfer-common-attributes'/>
-    <xsl:apply-templates mode='html'/>
-  </h4>
+  </xsl:element>
 </xsl:template>
 
 
