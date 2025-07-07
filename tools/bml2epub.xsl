@@ -1155,6 +1155,10 @@
       indent='yes'
       href='{$targetdir}/OEBPS/package.opf'>
 
+    <xsl:variable name='cover'><xsl:value-of select='bml:bml/bml:cover/@src'/></xsl:variable>
+    <xsl:variable name='coverid'><xsl:value-of select='translate($cover,"/","-")'/></xsl:variable>
+
+
     <package xmlns="http://www.idpf.org/2007/opf"
              xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article]/bml:langue}"
              unique-identifier="uniqueId"
@@ -1164,6 +1168,9 @@
         <xsl:apply-templates select='//bml:bml/bml:metadata' mode='dc'/>
 
         <meta property='rendition:flow'>paginated</meta>
+
+        <!-- pour EPUB 2, ne pose pas de problème pour EPUB 3 -->
+        <meta name='cover' content='{$coverid}'/>
       </metadata>
 
       <manifest>
@@ -1195,8 +1202,6 @@
         </xsl:for-each>
 
         <!-- images -->
-        <xsl:variable name='cover'><xsl:value-of select='bml:bml/bml:cover/@src'/></xsl:variable>
-
         <xsl:for-each select='distinct-values(bml:bml/bml:page-sequences//bml:img/@src | bml:bml/bml:cover/@src | bml:bml//bml:initcap/@img)'>
           <xsl:variable name='src'><xsl:value-of select='.'></xsl:value-of></xsl:variable>
           <xsl:variable name='id'><xsl:value-of select='translate($src,"/","-")'/></xsl:variable>
