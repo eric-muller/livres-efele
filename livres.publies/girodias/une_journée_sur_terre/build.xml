@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='une_journee_sur_la_terre_1'/>
+    <book x='une_journee_sur_la_terre_2'/>
+  </target>
+
+  <target name='export-either'>
+    <delete  dir='${exportdir}/${id}'/>
+    <mkdir  dir='${exportdir}/${id}'/>
+    <copy todir='${exportdir}/${id}' preservelastmodified="true">
+      <fileset dir='results/${id}/'>
+        <include name='*'/>
+      </fileset>
+      <fileset dir='scans/'>
+        <include name='${id}.pdf'/>
+      </fileset>
+    </copy>
+  </target>
+</project>
