@@ -603,12 +603,12 @@ block |=
                 | "sommaire" | "insommaire"
                 | "leftbrace" | "rightbrace"
 
-                | "page-title-auteur"
-                | "page-title-surtitre"
-                | "page-title-titre"
-                | "page-title-soustitre"
-                | "page-title-editeur"
-                | "page-title-article" )?,
+                | "page-titre-auteur"
+                | "page-titre-surtitre"
+                | "page-titre-titre"
+                | "page-titre-soustitre"
+                | "page-titre-editeur"
+                | "page-titre-article" )?,
              ("left")? }}?,
     inline* }
 
