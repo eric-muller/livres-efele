@@ -23,6 +23,7 @@ h1,  .page-titre-auteur, .page-titre-titre {
   font-size:  120%;
   font-style: normal;
   font-weight: normal;
+  break-after: avoid;
   page-break-after: avoid; }
 
 h1 + h1 {
@@ -36,6 +37,7 @@ h2, .page-titre-surtitre, .page-titre-soustitre, .page-titre-editeur, page-titre
   font-size: 100%;
   font-style: normal;
   font-weight: normal;
+  break-after: avoid;
   page-break-after: avoid; }
 
 h2 + h2 {
@@ -48,6 +50,7 @@ h3 {
   text-indent: 0;
   font-size: 100%;
   font-weight: normal;
+  break-after: avoid;
   page-break-after: avoid; }
 
 h3 + h3 {
@@ -60,6 +63,7 @@ h4 {
   text-indent: 0;
   font-size: 100%;
   font-weight: normal;
+  break-after: avoid;
   page-break-after: avoid; }
 
 
@@ -67,6 +71,7 @@ h1:first-child, h2:first-child, h3:first-child {
   margin-top: 5em; }
 
 div.recto {
+  break-before: left;
   page-break-before: left; }
 
 div.cadre {
@@ -265,6 +270,9 @@ blockquote {
   height: 99%;
   width: 100%;
   text-align: center;
+  break-before: always;
+  break-after: alwways;
+  break-inside: avoid;
   page-break-before: always;
   page-break-after: always;
   page-break-inside: avoid;
@@ -363,6 +371,7 @@ sub {
   margin: 1em 0 1em 0;
   font-size: 90%;
   text-indent: 0;
+  break-after: avoid;
   page-break-after: avoid;
 
   padding: 0 3em 0 3em;
@@ -391,6 +400,7 @@ sub {
 .signature {
   margin: 0.5em 3em 0.5em 0;
   text-align: right;
+  break-before: avoid;
   page-break-before: avoid; }
 
 
@@ -436,6 +446,7 @@ h2 + .notes {
 
 
 .split {
+  break-after: always;
   page-break-after: always; }
 
 
@@ -449,12 +460,14 @@ p.cast {
   margin: 0;
   text-indent: 0;
   text-align: center;
+  break-after: avoid;
   page-break-after: avoid; }
 
 .hstage {
   margin: 0.8em 2em 0.4em 2em;
   text-indent: 0;
   text-align: center;
+  break-after: avoid;
   page-break-after: avoid; }
 
 .pstage {
