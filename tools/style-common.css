@@ -24,7 +24,10 @@ h1,  .page-titre-auteur, .page-titre-titre {
   font-style: normal;
   font-weight: normal;
   break-after: avoid;
-  page-break-after: avoid; }
+  page-break-after: avoid;
+  -epub-hyphens: manual;
+  -webkit-hyphens: manual;
+  hyphens: manual; }
 
 h1 + h1 {
   margin-top: -2em; }
