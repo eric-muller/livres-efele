@@ -244,7 +244,7 @@
   <xsl:param name='metadata' tunnel="yes" as="node()"/>
 
   <bml:page-sequence recto="true" id='colophon'>
-    <bml:h2>COLOPHON</bml:h2>
+    <bml:p class="colophon-titre">COLOPHON</bml:p>
 
     <bml:p>Cette réimpression <bml:s>ÉFÉLÉ</bml:s> a été faite le <xsl:call-template name='tirage-date-bml'/> et est composée en <xsl:value-of select='$tirage-font'/>.</bml:p>
 
