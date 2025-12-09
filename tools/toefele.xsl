@@ -161,9 +161,13 @@
         <xsl:value-of select='bml:nom-couverture'/>
       </xsl:for-each>
 
+      <xsl:apply-templates select='$metadata/bml:périodique/bml:titre/node()'/>
+
+
       <bml:br/>
       <bml:i><xsl:apply-templates select='$metadata/bml:monographie/bml:titre/node()'/><xsl:apply-templates select='$metadata/bml:article/bml:titre/node()'/></bml:i>
 
+      <xsl:apply-templates select='$metadata/bml:périodique/bml:date/node()'/>
 
       <xsl:if test='$metadata/bml:monographie/bml:auteur[@role="edt"]'>
         <bml:br/>
@@ -205,7 +209,7 @@
 
       <xsl:if test='$metadata/bml:*/@bnf'>
         <bml:br/>
-        <bml:i><bml:a href="{$metadata/bml:*/@bnf}"><xsl:value-of select="$metadata/bml:monographie/@bnf"/></bml:a></bml:i>
+        <bml:i><bml:a href="{$metadata/bml:*/@bnf}"><xsl:value-of select="$metadata/bml:*/@bnf"/></bml:a></bml:i>
       </xsl:if>
     </bml:p>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<xsl:stylesheet 
+<xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:bml="http://efele.net/2010/ns/bml"
   xmlns='http://www.w3.org/1999/xhtml'
@@ -56,7 +56,7 @@
     <h2 style='text-align:center'>ÉFÉLÉ, réimprimeur la nuit</h2>
 
     <p  style='text-align:center'>
-      <a href="../../index.html#presentation">Présentation</a> - 
+      <a href="../../index.html#presentation">Présentation</a> -
     <a href="../../index.html#catalogue">Catalogue</a></p>
 
     <p>&#xa0;</p>
@@ -146,6 +146,10 @@
         <td>
           <p style='font-size:1.2em; padding:0; margin:0;'><i><xsl:value-of select='$author'/></i></p>
 
+          <xsl:if test='bml:périodique'>
+            <p style='font-size:1.2em; padding:0; margin:0;'><i><xsl:value-of select='bml:périodique/bml:titre'/></i></p>
+          </xsl:if>
+
           <div style='padding:1em 0 1em 0; margin:0;'>
             <p style='font-size:1.5em; padding: 0; margin:0;'><xsl:value-of select='bml:electronique/bml:titre'/></p>
 
@@ -184,7 +188,7 @@
               </xsl:for-each>
             </p>
           </xsl:if>
-          
+
           <xsl:if test='bml:monographie/bml:auteur[@role="ill"]'>
             <p style='padding:0; margin:0;'>
               <xsl:text>Illustrations : </xsl:text>
@@ -194,12 +198,12 @@
               </xsl:for-each>
             </p>
           </xsl:if>
-          
+
           <xsl:apply-templates select='bml:monographie|bml:article' mode='publisher'/>
         </td>
       </tr>
     </table>
-    
+
     <p><a href="{$bookFile}.epub">Epub</a> fait le <xsl:call-template name='tirage-date'/>.</p>
 
     <xsl:if test='bml:electronique/bml:collection'>
@@ -214,16 +218,16 @@
           <xsl:text> — </xsl:text>
         </xsl:if>
       </xsl:if>
-    
+
       <xsl:choose>
         <xsl:when test='count (bml:volume/bml:facsimile) > 1'>
-          Facsimilés : 
+          Facsimilés :
           <xsl:for-each select='bml:volume/bml:facsimile'>
             <a href='{@href}'><xsl:value-of select='position()'/></a>
             <xsl:text> </xsl:text>
           </xsl:for-each>
         </xsl:when>
-        
+
         <xsl:when test='count (bml:volume/bml:facsimile) = 1'>
           <a href='{bml:volume/bml:facsimile/@href}'>Facsimilé</a>
         </xsl:when>
@@ -240,22 +244,22 @@
       <xsl:when test='position() = 1'/>
       <xsl:otherwise> <xsl:text>, </xsl:text></xsl:otherwise>
     </xsl:choose>
-    
+
     <xsl:for-each select='current-group()/bml:nom'>
       <xsl:choose>
         <xsl:when test='position() = 1'/>
         <xsl:otherwise> <xsl:text>, </xsl:text></xsl:otherwise>
       </xsl:choose>
-      
+
       <xsl:value-of select='.'/>
     </xsl:for-each>
-    
+
     <xsl:if test='current-group()/bml:nom'>
       <xsl:text>, </xsl:text>
     </xsl:if>
     <xsl:value-of select='bml:ville'/>
   </xsl:for-each-group>
-  
+
   <xsl:text>, </xsl:text>
   <xsl:value-of select='bml:date'/>
   </p>

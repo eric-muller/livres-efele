@@ -51,6 +51,7 @@
   <dc:date>
     <xsl:apply-templates select='bml:monographie/bml:date' mode='dc'/>
     <xsl:apply-templates select='bml:article/bml:numero/bml:date' mode='dc'/>
+    <xsl:apply-templates select='bml:périodique/bml:date' mode='dc'/>
   </dc:date>
 
   <xsl:for-each select='bml:electronique/bml:producteur'>
@@ -84,10 +85,11 @@
     <dc:source><xsl:value-of select='@href'/></dc:source>
   </xsl:for-each>
 
-  <xsl:if test='bml:monographie/@bml | bml:article/bml:periodique/@bnf'>
+  <xsl:if test='bml:monographie/@bnf | bml:article/bml:periodique/@bnf | bml:périodique/@bnf'>
     <dc:relation id='catalogue-bnf'>
       <xsl:value-of select='bml:monographie/@bnf'/>
       <xsl:value-of select='bml:article/bml:periodique/@bnf'/>
+      <xsl:value-of select='bml:périodique/@bnf'/>
     </dc:relation>
   </xsl:if>
 </xsl:template>

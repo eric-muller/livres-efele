@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<xsl:stylesheet 
+<xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:bml="http://efele.net/2010/ns/bml"
   xmlns='http://www.w3.org/1999/xhtml'
@@ -27,6 +27,65 @@
 </xsl:template>
 
 
+
+<xsl:template match='bml:metadata[bml:périodique/bml:langue = "fr"]' priority='10'>
+  <xsl:variable name='uniqueid'>
+    <xsl:value-of select='bml:electronique/@identificateur'/>
+  </xsl:variable>
+
+  <xsl:variable name='creation'>
+    <xsl:value-of select='bml:electronique/@creation'/>
+  </xsl:variable>
+
+  <xsl:variable name='modification'>
+      <xsl:value-of select='bml:electronique/@modification'/>
+  </xsl:variable>
+
+  <xsl:variable name='titre'>
+    <xsl:choose>
+      <xsl:when test='bml:electronique/bml:titre-catalogue'>
+        <xsl:value-of select='bml:electronique/bml:titre-catalogue'/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select='bml:electronique/bml:titre'/>
+        <xsl:if test='bml:electronique/bml:soustitre'>
+          <xsl:text> / </xsl:text>
+          <xsl:value-of select='bml:electronique/bml:soustitre'/>
+        </xsl:if>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:variable>
+
+  <!-- pas d'auteur pour le périodique -->
+  <xsl:text>&#9;</xsl:text>
+  <xsl:value-of select="$titre"/>
+  <xsl:text>&#9;</xsl:text>
+  <xsl:value-of select="$uniqueid"/>
+  <xsl:text>&#9;</xsl:text>
+  <xsl:value-of select='$creation'/>
+  <xsl:if test='$modification'>
+    <xsl:text>&#x9;</xsl:text>
+    <xsl:value-of select='$modification'/>
+  </xsl:if>
+
+  <xsl:for-each select='bml:périodique/bml:articles/bml:article'>
+    <xsl:value-of select="bml:auteur/bml:nom-bibliographie"/>
+    <xsl:text>&#9;</xsl:text>
+    <xsl:value-of select="bml:titre"/>
+    <xsl:text>&#9;</xsl:text>
+    <xsl:value-of select="$uniqueid"/>
+    <xsl:text>&#9;</xsl:text>
+    <xsl:value-of select='$creation'/>
+    <xsl:if test='$modification'>
+      <xsl:text>&#x9;</xsl:text>
+      <xsl:value-of select='$modification'/>
+    </xsl:if>
+
+  <xsl:text>
+</xsl:text>
+
+  </xsl:for-each>
+</xsl:template>
 
 <xsl:template match='bml:metadata[bml:*/bml:langue = "fr"]'>
   <xsl:variable name='author'>

@@ -18,10 +18,29 @@ common-attributes =
 #------------------------------------------------------------------ metadata ---
 
 metadata = element metadata {
-    ( monographie | article )
+    ( monographie | article | périodique )
   & volume*
   & publication }
 
+
+périodique = element périodique {
+    attribute bnf { text }?
+  & element titre { text }
+  & element soustitre { text } ?
+
+  & element langue { text }
+
+  & element numero { text }
+
+  & element date {
+           attribute iso { text }?,
+           text }
+
+  & element articles {
+    element article {
+      element titre { text },
+      element auteur { auteur } } + }
+}
 
 article = element article {
 
@@ -66,7 +85,7 @@ auteur =
 
     & element nom-bibliographie { text }?
     & element dates { text }?
-    & element nom-couverture    { inline* }
+    & element nom-couverture    { inline* }?
 
 
 volume = element volume {

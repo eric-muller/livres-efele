@@ -112,6 +112,12 @@
           </bml:p>
         </xsl:for-each>
 
+        <xsl:for-each select="//bml:bml/bml:metadata/bml:périodique/bml:titre">
+          <bml:p class='page-titre-auteur'>
+            <xsl:apply-templates mode='upper'/>
+          </bml:p>
+        </xsl:for-each>
+
         <bml:vsep class="rule"/>
 
         <xsl:for-each select='//bml:bml/bml:metadata/bml:electronique/bml:surtitre'>
@@ -132,7 +138,8 @@
                              mode='efele-cover'/>
         <xsl:apply-templates select='//bml:bml/bml:metadata/bml:article'
                              mode='efele-cover'/>
-
+        <xsl:apply-templates select='//bml:bml/bml:metadata/bml:périodique'
+                             mode='efele-cover'/>
 
     </bml:page-sequence>
 </xsl:template>
@@ -158,15 +165,22 @@
 
 <xsl:template match='bml:article' mode='efele-cover'>
   <bml:p class='page-titre-article'>
-    <xsl:apply-templates select='bml:periodique/bml:titre/node()'/>
-  </bml:p>
-  <bml:p class='page-titre-article'>
     <xsl:apply-templates select='bml:numero/bml:nom/node()'/>
   </bml:p>
   <bml:p class='page-titre-article'>
     <xsl:apply-templates select='bml:numero/bml:date/node()'/>
   </bml:p>
 </xsl:template>
+
+<xsl:template match='bml:périodique' mode='efele-cover'>
+  <bml:p class='page-titre-article'>
+    <xsl:apply-templates select='bml:numero/node()'/>
+  </bml:p>
+  <bml:p class='page-titre-article'>
+    <xsl:apply-templates select='bml:date/node()'/>
+  </bml:p>
+</xsl:template>
+
 
 
 

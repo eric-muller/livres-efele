@@ -27,12 +27,13 @@ h1,  .page-titre-auteur, .page-titre-titre {
   page-break-after: avoid;
   -epub-hyphens: manual;
   -webkit-hyphens: manual;
-  hyphens: manual; }
+  hyphens: manual;
+  font-variant-numeric: lining-nums proportional-nums; }
 
 h1 + h1 {
   margin-top: -2em; }
 
-h2, .page-titre-surtitre, .page-titre-soustitre, .page-titre-editeur, page-titre-article, .colophon-titre {
+h2, .page-titre-surtitre, .page-titre-soustitre, .page-titre-editeur, .page-titre-article, .colophon-titre {
   padding: 0;
   margin: 2em 0 2em 0;
   text-align: center;

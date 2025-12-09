@@ -1160,7 +1160,7 @@
 
 
     <package xmlns="http://www.idpf.org/2007/opf"
-             xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article]/bml:langue}"
+             xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article or self::bml:périodique]/bml:langue}"
              unique-identifier="uniqueId"
              version="3.0">
 
@@ -1254,7 +1254,7 @@
       doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 -->
     <html
-        xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article]/bml:langue}">
+        xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article or self::bml:périodique]/bml:langue}">
       <head>
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
         <title>Navigation document</title>
@@ -1306,7 +1306,7 @@
       doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 -->
     <html
-          xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article]/bml:langue}">
+          xml:lang="{//bml:bml/bml:metadata/bml:*[self::bml:monographie or self::bml:article or self::bml:périodique]/bml:langue}">
       <head>
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
 
