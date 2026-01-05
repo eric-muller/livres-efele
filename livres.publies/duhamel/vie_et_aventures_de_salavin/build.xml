@@ -1,0 +1,16 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='01_confession_de_minuit'/>
+<!--
+    <book x='02_deux_hommes'/>
+    <book x='03_journal_de_salavin'/>
+    <book x='04_le_club_des_lyonnais'/>
+    <book x='05_tel_qu_en_lui_meme'/>
+-->
+  </target>
+
+</project>
