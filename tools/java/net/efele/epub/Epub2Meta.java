@@ -56,7 +56,7 @@ public class Epub2Meta {
 
       outStream.println ("[");
 
-      outStream.println ("  \"" + loc + "\",");
+      outStream.println ("  \"" + c (loc) + "\",");
 
       outStream.print ("  \"");
       prefix = "";
