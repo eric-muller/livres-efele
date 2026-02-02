@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+
+<project name='livre' default='build'>
+  <import file="../../../tools/build-common.xml"/>
+
+  <target name='books'>
+    <book x='on_frappe_a_la_porte'/>
+  </target>
+</project>
