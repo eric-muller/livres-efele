@@ -27,7 +27,8 @@
     </volume>
 
     <electronique identificateur="http://efele.net/ebooks/livres/000727"
-                  creation="2026-08-12T08:28:06-07:00">
+                  creation="2026-08-12T08:28:06-07:00"
+                  modification="2026-08-24T08:07:48-07:00">
 
       <titre>Nouveau manuel du soldat, la patrie, l’armée, la guerre</titre>
 
@@ -35,10 +36,20 @@
         <nom>ÉFÉLÉ</nom>
         <email>livres@efele.net</email>
       </producteur>
+
+      <merci>
+        <p>Merci à Xavier pour les erreurs qu’il a signalées.</p>
+      </merci>
+
     </electronique>
   </metadata>
 
   <toc>
+    <tocentry idref='p001' label='Avant-propos'/>
+    <tocentry idref='p002' label='I. La Patrie'/>
+    <tocentry idref='p003' label='II. L’armée'/>
+    <tocentry idref='p004' label='III. La guerre'/>
+    <tocentry idref='p005' label='Conclusion'/>
   </toc>
 
   <cover alt="Nouveau Manuel du Soldat. La Patrie - L’armée - La Guerre. Treizième édition. 1905." src="images/couverture.png"/>
@@ -47,7 +58,7 @@
 <page-sequence>
 <pagenum num="2"/>
 
-<h2>AVANT-PROPOS</h2>
+<h2 id='p001'>AVANT-PROPOS</h2>
 
 <p><i>Aux quatre coins du globe, il est des hommes : savants, philosophes, littérateurs, travailleurs intellectuels ou travailleurs manuels, en un mot des penseurs libres et des ouvriers conscients qui estiment qu’il y a mieux à faire que de mettre dans la tête des adolescents des idées absurdes et cruelles pour en faire des brutes.</i></p>
 
@@ -65,7 +76,7 @@
 <page-sequence>
 <pagenum num="3"/>
 
-<h2>I</h2>
+<h2 id='p002'>I</h2>
 <h2>LA PATRIE</h2>
 
 <p>Nos parents et nos grands-parents, tous nos malheureux aïeux ont profité et ont surtout été victimes de ce mot magique : la Patrie. Car il est un des mots qui ont le plus servi aux équivoques et aux mensonges. Il est un des mots qui ont le plus fait couler de sang humain.</p>
@@ -82,13 +93,13 @@
 
 <p>Dans nos jeunes cervelles, au lieu de développer nos bons instincts : instincts d’amour, instincts humains, l’on s’est appliqué à développer les mauvais : l’instinct batailleur, meurtrier, cruel ; l’instinct brutal.</p>
 
-<p>Au lieu de nous faire admirer la bonté, au lieu de nous laisser plaindre la faiblesse, on nous a fit glorifier la guerre et respecter la force.</p>
+<p>Au lieu de nous faire admirer la bonté, au lieu de nous laisser plaindre la faiblesse, on nous a fait glorifier la guerre et respecter la force.</p>
 
 <p>Nos premiers jouets furent des sabres, des fusils, des casques, des drapeaux. On nous accoutuma, dès l’âge le plus tendre, à aimer l’uniforme en le mêlant à nos jeux ; à manier avec une certaine prédilection des semblants d’instruments de massacre. A la veillée, sous la lampe, en attendant le sommeil réparateur de la fatigue de nos jeux belliqueux, nous avons passé des heures à manier des <pagenum num="4" b="fan-" a="tassins">fantassins</pagenum> et des cavaliers en plomb. Nos délices, pour nous délasser d’avoir joué aux soldats ou d’avoir couru devant les régiments étaient de massacrer en effigie beaucoup de Prussiens avec des canons de cuivre et de bois dans des forteresses de carton.</p>
 
 <p>Devenus plus grands, studieux et moins bruyants, les livres d’images où nous apprîmes à lire étaient à peu près tous consacrés aux soldats et aux combats. Nos livres de lecture contenaient beaucoup de récits d’actes d’héroïsmes sur les champs de bataille. Peu de place restait pour nous parler des hommes de science, d’art, de ceux qui faisaient des découvertes, des inventions utiles, de ceux qui, parfois, laissaient leur vie dans une expérience scientifique ou dans un acte de dévouement pour sauver ou soulager leurs semblables.</p>
 
-<p>Ainsi, souvent insconsciemment, nous fut donnée une fausse direction d’esprit que l’école acheva par son enseignement de l’Histoire et par bien des faiblesses de son enseignement civique.</p>
+<p>Ainsi, souvent <correction original="insconsciemment">inconsciemment</correction>, nous fut donnée une fausse direction d’esprit que l’école acheva par son enseignement de l’Histoire et par bien des faiblesses de son enseignement civique.</p>
 
 <vsep class="threestars"/>
 
@@ -114,7 +125,7 @@
 
 <p>Il faut que par ce mot, on puisse gruger, berner, asservir, <pagenum num="6"/>abrutir de père en fils, comme on le fait depuis plus d’un siècle.</p>
 
-<p>Toutes les infamies, toutes les cruautés, toutes les affaires vereuses, tous tes programmes menteurs ont eu ce mot pour devise : Patrie !</p>
+<p>Toutes les infamies, toutes les cruautés, toutes les affaires véreuses, tous les programmes menteurs ont eu ce mot pour devise : Patrie !</p>
 
 <p>C’est, pour ce mot qu’on nous enferme pendant trois ans, pour faire de nous des esclaves, peut-être des assassins ou des victimes de la brutalité des galonnés.</p>
 
@@ -142,10 +153,10 @@
 
 <p>La patrie n’est qu’un mot. C’est par ce mot là que fut instituée l’armée, et c’est par ce mot là qu’elle est maintenue.</p>
 
-<h2>II</h2>
+<h2 id='p003'>II</h2>
 <h2>L’ARMÉE</h2>
 
-<p>La plus affreuse conséquence du Patriotisme c’est ie Militarisme.</p>
+<p>La plus affreuse conséquence du Patriotisme c’est le Militarisme.</p>
 
 <p>Le militarisme est né du jour où quelques-uns prirent pour eux ce qui appartenait à tous et résolurent de le conserver même par la force.</p>
 
@@ -155,13 +166,13 @@
 
 <p>Or, est-ce défendre une nation que de se faire tuer pour les intérêts de quelques-uns ?</p>
 
-<p>Y a-t-il seulement défense de quelque chose, puisque la condition -principale qui exige la défense, c’est l’attaque ? Qui donc nous attaque ?... Pourquoi nous attaquerait-on ?... Pour prendre notre bien ?... Nous n’en avons pas.</p>
+<p>Y a-t-il seulement défense de quelque chose, puisque la condition principale qui exige la défense, c’est l’attaque ? Qui donc nous attaque ?... Pourquoi nous attaquerait-on ?... Pour prendre notre bien ?... Nous n’en avons pas.</p>
 
 <p>Non, le militarisme est un moyen d’asservissement.</p>
 
 <p>La caserne fait de nous une machine à obéir, comme elle en fait une machine à astiquer et à marcher au pas. Il faut obéir aux ordres les plus idiots, les plus <pagenum num="8" b="contradic-" a="toires,">contradictoires,</pagenum> les plus immoraux, les plus grossiers. Il faut obéir comme un chien qui sent levé sur lui le fouet du maître. Ce fouet c’est le Code qui punit de mort un geste de dignité, un mouvement de révolte. Obéir comme un lâche, car l’on a toujours peur que même en obéissant on soit encore puni.</p>
 
-<p>Aussi de la caserne on rapporte le culte de la force brutale, la religion de la violence. Les militaires professionnels, les officiers auxquels on nous livre, corps et âme. pendant trois ans — et cela à un âge où, presque encore enfants, nous subissons si aisément toutes les influences — les officiers forment dans la nation une caste à part, une véritable caste de brutes. Le meilleur officier, le militaire accompli, c’est celui qui se montre en toutes circonstances la plus parfaite brute (exemple : Anastay, Esterhazy, Voulet, Chanoine, etc.). Que peuvent être, en effet, l’intelligence et le caractère d’hommes qui, toute leur vie, tiennent, au lieu d’un outil pour produire, une arme pour tuer, d’hommes qui ont abdiqué une fois pour toutes devant le bon plaisir du plus galonné ? Comment de tels êtres n’opposeraient-ils pas en toutes choses la violence à la raison ? En face de l’intelligence et de l’énergie paisible qui peinent à édifier l’avenir, les porte-sabre représentent donc la bêtise et la violence des âges lointains. L’armée est, parmi nous, comme un sanctuaire où, pour entraver l’œuvre civilisatrice, pour faire obstacle au progrès, la force bestiale est entretenue avec soin, idéalisée et panachée, dorée et galonnée. Et, de la caserne, de telles habitudes gagnent par contagion tout le corps social. Les années de service sont, pour chaque citoyen un apprentissage de brutalité et de bassesse.</p>
+<p>Aussi de la caserne on rapporte le culte de la force brutale, la religion de la violence. Les militaires professionnels, les officiers auxquels on nous livre, corps et âme, pendant trois ans — et cela à un âge où, presque encore enfants, nous subissons si aisément toutes les influences — les officiers forment dans la nation une caste à part, une véritable caste de brutes. Le meilleur officier, le militaire accompli, c’est celui qui se montre en toutes circonstances la plus parfaite brute (exemple : Anastay, Esterhazy, Voulet, Chanoine, etc.). Que peuvent être, en effet, l’intelligence et le caractère d’hommes qui, toute leur vie, tiennent, au lieu d’un outil pour produire, une arme pour tuer, d’hommes qui ont abdiqué une fois pour toutes devant le bon plaisir du plus galonné ? Comment de tels êtres n’opposeraient-ils pas en toutes choses la violence à la raison ? En face de l’intelligence et de l’énergie paisible qui peinent à édifier l’avenir, les porte-sabre représentent donc la bêtise et la violence des âges lointains. L’armée est, parmi nous, comme un sanctuaire où, pour entraver l’œuvre civilisatrice, pour faire obstacle au progrès, la force bestiale est entretenue avec soin, idéalisée et panachée, dorée et galonnée. Et, de la caserne, de telles habitudes gagnent par contagion tout le corps social. Les années de service sont, pour chaque citoyen un apprentissage de brutalité et de bassesse.</p>
 
 <p>La lâcheté morale, l’habitude de se soumettre et de trembler, voilà donc ce qu’on rapporte des casernes.</p>
 
@@ -169,7 +180,7 @@
 
 <pagenum num="9"/>
 
-<p>Mais l’armée a un autre rôle, c’est celui d’étre le gendarmerie nationale.</p>
+<p>Mais l’armée a un autre rôle, c’est celui d’être le gendarmerie nationale.</p>
 
 <p>Ce sont des soldats qui sont envoyés dans les grèves fusil chargé, baïonnette au canon. Ce sont eux qui sillonnent les rues de galopades et de charges, quand, chassés du travail par la rapacité patronale, les travailleurs pensent avec raison que leur place est dans la rue.</p>
 
@@ -213,7 +224,7 @@
 
 <p>Il est bon de savoir ce qu’ont dit de la caserne en des moments où ils raisonnaient un peu, les réactionnaires nationalistes ou cléricaux de nos jours :</p>
 
-<p>M. Edouard Drumont, directeur de la <i>Libre Parole,</i> disait :</p>
+<p>M. Edouard Drumont, directeur de la <i>Libre Parole</i>, disait :</p>
 
 <p>« Savez-vous quelque chose de plus navrant que l’existence de ce malheureux qu’on enlève à son champ, à son village et qu’on jette pour trois ans, dans une caserne, loin des siens, loin de tout ce qu’il aime, condamné à vivre avec d’autres hommes aussi à plaindre que lui ?</p>
 
@@ -391,7 +402,7 @@
 
 <p class='c'><b>13 millions 928,647 francs.</b></p>
 
-<p>Ce nombre, multiplié par une année de 3oo jours seulement, cela fait</p>
+<p>Ce nombre, multiplié par une année de 300 jours seulement, cela fait</p>
 
 <p><b>11 milliards</b></p>
 <p><b>&#x2000;&#x2000;362 millions</b></p>
@@ -417,16 +428,16 @@
 
 <pagenum num="19"/>
 
-<h2>III</h2>
+<h2 id='p004'>III</h2>
 <h2>LA GUERRE</h2>
 
-<p>Il vient de disparaître un illustre et consciencieux écrivain (Émile Zola) qui nous a laissé dans un beau livre la <i>Débâcle,</i> quelques tableaux réels de la guerre.</p>
+<p>Il vient de disparaître un illustre et consciencieux écrivain (Émile Zola) qui nous a laissé dans un beau livre la <i>Débâcle</i>, quelques tableaux réels de la guerre.</p>
 
 <p>Pour ce chapitre, nous pensons qu’il vaut mieux laisser une large place aux chiffres et à ce qu’ont pu dire de la guerre les penseurs de tous temps, de tous pays et de toutes opinions.</p>
 
 <h3>LE CHAMP DE BATAILLE</h3>
 
-<h3>Tableau extrait de la <i>Débâcle,</i> par E. Zola</h3>
+<h3>Tableau extrait de la <i>Débâcle</i>, par E. Zola</h3>
 
 <p>...Cette fois, c’était le vrai champ de bataille, les terrains nus s’étalant jusqu’à l’horizon, sous le grand ciel blafard, d’où ruisselaient de continuelles averses. Les morts n’y étaient pas entassés, tous les Prussiens déjà avaient dû être ensevelis, car il n’en restait pas un, parmi les cadavres épars des Français, semés le long des routes, dans les chaumes, au fond des creux, selon les hasards de la lutte. Contre une haie, le premier qu’ils rencontrèrent était un sergent, un homme superbe, jeune et fort, qui semblait sourire de ses lèvres entr’ouvertes, le visage calme. Mais, cent pas plus loin, en travers de la route, ils en virent un autre mutilé affreusement, la tête à demi emportée, les épaules couvertes des éclaboussures de la cervelle. Puis, après les corps isolés, çà et là, il y avait de petits groupes, ils en aperçurent sept à la file, le genou en terre, l’arme à l’épaule, frappés comme ils tiraient, tandis que, près d’eux, un sous-officier était tombé aussi, dans l’attitude du commandement. La route ensuite filait le long d’un étroit ravin, et ce fut là que l’horreur les reprit, en face de cette sorte de fossé où toute une compagnie semblait avoir culbuté, sous la mitraille ; des cadavres l’emplissaient, un écroulement, une dégringolade d’hommes, enchevêtrés, cassés, dont les mains tordues avaient écorché la terre jaune, sans pouvoir se retenir. Et un vol noir de corbeaux s’envola avec des croassements ; et, déjà, des essaims de mouches bourdonnaient au-dessus des corps, revenaient obstinément par milliers, boire le sang frais des blessures....</p>
 
@@ -480,7 +491,7 @@ Guerres | civiles de l’Amérique du Sud |   500.000
 
 <p>Au moment même où ce bandit, cruel et crétin, parlait de paix, ses soldats en Chine faisaient merveille en attachant par leurs nattes les paisibles habitants de ce pays qui répudie la guerre.</p>
 
-<p>Des grappes humaines ainsi attachées étaient poussées à coups de crosse et de sabre dans les flots du fleuve Amour où elles furent trouvées formant des milliers de cadavres, capables d’amener une peste qui eut triplé cette hécatombe faite par nos alliés, les soldats du Petit Père, Nicolas IL</p>
+<p>Des grappes humaines ainsi attachées étaient poussées à coups de crosse et de sabre dans les flots du fleuve Amour où elles furent trouvées formant des milliers de cadavres, capables d’amener une peste qui eut triplé cette hécatombe faite par nos alliés, les soldats du Petit Père, Nicolas II.</p>
 
 <p>Au même moment où tous ces faux apôtres parlaient de paix, de tribunal d’arbitrage entre les nations, les Anglais écrasaient les Boërs par le nombre de leurs engagés volontaires et le perfectionnement de leur cartouche « dum-dum ».</p>
 
@@ -631,7 +642,7 @@ Guerres | civiles de l’Amérique du Sud |   500.000
 
 <pagenum num="28"/>
 
-<h2>CONCLUSION</h2>
+<h2 id='p005'>CONCLUSION</h2>
 
 <p><i>Puissions-nous, par ce bref et modeste exposé d’idées sur la Patrie, l’Armée et la Guerre, avoir convaincu quelques-uns de ceux qui étaient encore dupes des mots, parce qu’on leur avait enseigné drôlement l’amour de la Patrie, parce qu’on leur avait fait croire à la beauté du Militarisme, à l’utilité de la Discipline, à la grandeur et à la nécessité des Guerres européennes ou coloniales !</i></p>
 
@@ -645,7 +656,7 @@ Guerres | civiles de l’Amérique du Sud |   500.000
 
 <p><i>Au moment du Congrès, des précautions et des mesures belliqueuses étaient prises partout : les effectifs, les budgets s’accroissaient prodigieusement ; la Finlande subissait un despotisme plus dur que jamais ; l’Angleterre faisait, au Transvaal, la promenade militaire qui lui coûta tant et qui réussit à faire de l’Angleterre, un <pagenum num="29"/>pays autrefois réputé le plus hospitalier et le plus tolérant, un foyer de chauvinisme bestial. Ceux qui parlaient contre la guerre, dans ce pays de liberté de parole, risquaient leur vie à tout instant. Enfin l’on sait ce qui s’est passé en Chine où les troupes européennes fraternisèrent dans le vol, le viol et le meurtre. Le fleuve Amour n’avait pas assez de flots pour cacher les victimes faites par nos alliés les soldats russes.</i></p>
 
-<p><i>La Paix ne peut venir non plus de ceux qui révent de voir l’armée remplacée par des milices. Il y aurait à cela, il faut le reconnaître, une économie de 287,260,000 fr. Mais c’est tout l’avantage, car le service de trois ans supprimé serait remplacé sans doute par l’éducation militaire théorique et pratique des jeunes gens et l’entretien de cet enseignement parmi les milices durerait toujours pour ceux qui en feraient partie. L’esprit militariste ne serait guère amoindri. D’ailleurs, les milices belges, n’ont-elles pas tiré sur les grévistes et les manifestants qui réclamaient le Suffrage universel ? Les milices suisses n’ont-elles pas fait de même contre les grévistes, employés de tramways et autres ?...</i></p>
+<p><i>La Paix ne peut venir non plus de ceux qui rêvent de voir l’armée remplacée par des milices. Il y aurait à cela, il faut le reconnaître, une économie de 287,260,000 fr. Mais c’est tout l’avantage, car le service de trois ans supprimé serait remplacé sans doute par l’éducation militaire théorique et pratique des jeunes gens et l’entretien de cet enseignement parmi les milices durerait toujours pour ceux qui en feraient partie. L’esprit militariste ne serait guère amoindri. D’ailleurs, les milices belges, n’ont-elles pas tiré sur les grévistes et les manifestants qui réclamaient le Suffrage universel ? Les milices suisses n’ont-elles pas fait de même contre les grévistes, employés de tramways et autres ?...</i></p>
 
 <p><i>Ce qu’il faut, c’est une éducation meilleure. L’enseignement actuel diffère très peu de l’enseignement clérical. Comme lui il fanatise et abrutit. Religion ou Patrie, cela se vaut. Faire le signe de la croix ou saluer le drapeau dénote la même triste mentalité.</i></p>
 
@@ -671,7 +682,7 @@ Guerres | civiles de l’Amérique du Sud |   500.000
 
 <vsep class="threestars"/>
 
-<p><i>Mais si l’affection de ceux qui vous entourent, si la crainte de l’inconnu, de tout ce qui peut vous attendre d’ennuis et de misères dans un pays dont vous ne connaissez ni les mœurs, ni le langage ; si d’autres raisons encore l’emportent sur votre horreur du régiment : </i><b>Allez-y !</b><i> Mais faites votre possible pour y rester un homme. Surmontez vos dégoûts. Faites-vous aimer de vos malheureux compagnons d’esclavage et faites leur de la provagande individuellement. De l’école du crime, faites une école de révolte. Les faits de tous les jours vous aideront pour cela. A votre retour, vous pourrez dénoncer ce que vous aurez vu ou subi. En précisant les faits, vous <pagenum num="31"/>donnerez ainsi votre courageux coup de pioche à la démolition de cet étais sur lequel s’appuie le plus l’édifice social.</i></p>
+<p><i>Mais si l’affection de ceux qui vous entourent, si la crainte de l’inconnu, de tout ce qui peut vous attendre d’ennuis et de misères dans un pays dont vous ne connaissez ni les mœurs, ni le langage ; si d’autres raisons encore l’emportent sur votre horreur du régiment : </i><b>Allez-y !</b><i> Mais faites votre possible pour y rester un homme. Surmontez vos dégoûts. Faites-vous aimer de vos malheureux compagnons d’esclavage et faites leur de la propagande individuellement. De l’école du crime, faites une école de révolte. Les faits de tous les jours vous aideront pour cela. A votre retour, vous pourrez dénoncer ce que vous aurez vu ou subi. En précisant les faits, vous <pagenum num="31"/>donnerez ainsi votre courageux coup de pioche à la démolition de cet étais sur lequel s’appuie le plus l’édifice social.</i></p>
 
 <p><i>D’ailleurs, vous ne serez pas les premiers à agir ainsi. D’autres l’ont déjà fait.</i></p>
 
